@@ -1,0 +1,59 @@
+name: Update license
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Run at 00:00 UTC on the first day of each month
+    - cron: '0 0 1 * *'
+
+jobs:
+  update-license:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+      - name: Extract repository and username
+        id: extract
+        run: |
+          REPO_NAME="${{ github.repository }}"
+          USERNAME=$(echo $REPO_NAME | cut -d'/' -f1)
+          REPO_NAME_ONLY=$(echo $REPO_NAME | cut -d'/' -f2)
+          echo "username=$USERNAME" >> $GITHUB_OUTPUT
+          echo "reponame=$REPO_NAME_ONLY" >> $GITHUB_OUTPUT
+
+      - name: Download LICENSE template
+        run: |
+          curl -s https://raw.githubusercontent.com/SegoCode/template/main/LICENSE -o LICENSE
+
+      - name: Replace placeholders in LICENSE file
+        run: |
+          REPO_NAME_ONLY="${{ steps.extract.outputs.reponame }}"
+          USERNAME="${{ steps.extract.outputs.username }}"
+          REPO_NAME_ESCAPED=$(echo $REPO_NAME_ONLY | sed 's/\//\\\//g')
+          USERNAME_ESCAPED=$(echo $USERNAME | sed 's/\//\\\//g')
+          
+          # Replace placeholders with actual values
+          sed -i "s/{reponame}/$REPO_NAME_ESCAPED/g" LICENSE
+          sed -i "s/{username}/$USERNAME_ESCAPED/g" LICENSE
+
+      - name: Commit and push changes
+        run: |
+          # Add LICENSE file
+          git add LICENSE
+          
+          # Only commit if there are changes
+          git diff --staged --quiet || git commit -m "Update LICENSE with repository information"
+          
+          # Push directly to main branch
+          git push origin main
