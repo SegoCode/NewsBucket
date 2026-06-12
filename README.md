@@ -1,64 +1,32 @@
 # NewsPond
 
-<h3 align="center"><img src="media/demo.png"></h3>
-
 <p align="center">
   <a href="#about">About</a> •
   <a href="#features">Features</a> •
-  <a href="#quick-start--information">Quick Start & Information</a> •
-  <a href="#download">Download</a> 
+  <a href="#quick-start--information">Quick Start & Information</a>
 </p>
 
 ## About
 
-This section should provide a concise introduction to the application, explaining its primary function and the problem it addresses. 
+NewsPond fetches RSS feeds from sources you configure, groups articles covering the same story using an LLM, and publishes the result as JSON in this repository. Each cluster gets a title and summary, then translates into your target languages. Everything runs on GitHub Actions. No servers, no cost.
 
 ## Features
 
-- Feature 1: Describe the first key feature of the app. Explain how it benefits the user or improves upon existing solutions.
+- **Any feed, any topic.** Drop a `.txt` file with RSS URLs into `code/rss_input/` and the pipeline picks it up automatically. One file equals one output category.
 
-- Feature 2: Describe the second key feature, focusing on its functionality and any integration capabilities with other tools or platforms.
+- **LLM-powered clustering.** Articles are grouped by topic. The prompt enforces exactly 20 clusters, ordered by how many different outlets covered the story.
 
-- Feature 3: Outline a third feature, detailing its use case and any user-driven components or customization options.
+- **Multi-language output.** Clusters are generated in one language, then translated to others. Swap the prompts in `code/prompts/` to change source and target languages.
 
-- Add more features as needed...
+- **Zero infrastructure.** The entire pipeline — fetch, cluster, translate, commit — runs on GitHub Actions free tier.
 
 ## Quick Start & Information
 
-Provide a simple, step-by-step guide on how to set up and start using the application.
+The pipeline lives in `.github/workflows/update-news.yml`.
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+Raw articles land in `code/rss_output/` as JSON, one file per configured feed source. Clustered results land in `code/rss_output_cluster/` as JSON arrays, with one file per source language and one per target language.
 
-> [!TIP]
-> Optional information to help a user be more successful.
-
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
-
-### Available Parameters
-
-Example 1
-```shell
-example.exe -help
-```
-*Describes what happens when the help command is executed.*
-
-Example 2
-```shell
-example.exe -done
-```
-*Explains the outcome when the done command is used.*
-
-## Download
-
-Provide a direct link to where users can download the application
+The prompts that drive the clustering and translation live in `code/prompts/`. Feed URLs go in `code/rss_input/` as `.txt` files, one URL per line.
 
 ---
 <p align="center"><a href="https://github.com/SegoCode/NewsPond/graphs/contributors">
