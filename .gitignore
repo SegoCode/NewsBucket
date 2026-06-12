@@ -8,6 +8,9 @@ code/.idea/*
 ### dotenv ###
 .env
 
+### Node ###
+node_modules/
+
 ### Git ###
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false

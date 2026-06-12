@@ -1,0 +1,59 @@
+import fs from 'fs'
+import path from 'path'
+import 'dotenv/config'
+import { EventSourceParserStream } from 'eventsource-parser/stream'
+
+const API_URL = 'https://opencode.ai/zen/v1/chat/completions'
+const INPUT_DIR = 'rss_output'
+const OUTPUT_DIR = 'rss_output_cluster'
+
+const PROMPT = fs.readFileSync('prompts/cluster.md', 'utf-8')
+
+const files = fs.readdirSync(INPUT_DIR).filter(f => f.endsWith('.json'))
+const cutoff = Date.now() - 24 * 60 * 60 * 1000
+
+console.log(`→ Clustering ${files.length} file(s)...`)
+
+for (const file of files) {
+  const data = JSON.parse(fs.readFileSync(path.join(INPUT_DIR, file), 'utf-8'))
+  const news = data.items
+    .filter(i => new Date(i.publishedAt).getTime() >= cutoff)
+    .map(i => ({ title: i.title, source: i.source?.name || '?' }))
+  console.log(`→ ${file}: ${news.length} noticias en las últimas 24h (de ${data.items.length} totales)`)
+  console.log('→ Sent, streaming...')
+  const res = await fetch(API_URL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${process.env.OPENCODE_API_KEY}` },
+    body: JSON.stringify({
+      model: 'deepseek-v4-flash-free',
+      messages: [{ role: 'system', content: PROMPT }, { role: 'user', content: JSON.stringify(news) }],
+      temperature: 0.2,
+      stream: true
+    })
+  })
+  if (!res.ok) throw new Error(`${file}: HTTP ${res.status} ${await res.text()}`)
+
+  const stream = res.body
+    .pipeThrough(new TextDecoderStream())
+    .pipeThrough(new EventSourceParserStream())
+  let content = ''
+  let thinking = 0
+  for await (const event of stream) {
+    if (event.data === '[DONE]') break
+    const delta = JSON.parse(event.data).choices?.[0]?.delta || {}
+    content += delta.content || ''
+    thinking += (delta.reasoning_content || '').length
+    const phase = content.length ? `${content.length} chars` : `generating ${thinking} chars`
+    process.stdout.write(`\r  ${phase}`)
+  }
+  process.stdout.write('\r\n')
+  content = content.replace(/^```json\s*|\s*```$/g, '').trim() || '[]'
+  const clusters = JSON.parse(content)
+  if (!Array.isArray(clusters)) throw new Error(`Invalid response for ${file}`)
+
+  const outFile = path.join(OUTPUT_DIR, path.basename(file, '.json') + '_clusters_es.json')
+  fs.mkdirSync(OUTPUT_DIR, { recursive: true }), fs.writeFileSync(outFile, JSON.stringify(clusters, null, 2))
+  console.log(`✓ ${path.basename(file, '.json')}: ${clusters.length} clusters`)
+}
+
+console.log('✓ Clustering complete')
