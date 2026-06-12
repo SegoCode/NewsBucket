@@ -1,19 +1,25 @@
 {
-  "name": "news-wired",
-  "version": "1.0.0",
-  "description": "RSS/Atom feed reader",
-  "type": "module",
-  "scripts": {
-    "start": "node js/fetch.js",
-    "ai": "node js/ai.js",
-    "all": "node js/fetch.js && node js/ai.js",
-    "translate": "node js/translate.js"
-  },
-  "dependencies": {
-    "dotenv": "^17.4.2",
-    "eventsource-parser": "^3.1.0",
-    "html-to-text": "^9.0.5",
-    "normalize-url": "^8.0.1",
-    "rss-parser": "^3.13.0"
-  }
+	"name": "news-wired",
+	"version": "1.0.0",
+	"description": "RSS/Atom feed reader",
+	"type": "module",
+	"scripts": {
+		"start": "node js/fetch.js",
+		"ai": "node js/ai.js",
+		"all": "node js/fetch.js && node js/ai.js",
+		"translate": "node js/translate.js",
+		"format": "biome format --write .",
+		"lint": "biome lint .",
+		"check": "biome check --write ."
+	},
+	"dependencies": {
+		"dotenv": "^17.4.2",
+		"eventsource-parser": "^3.1.0",
+		"html-to-text": "^9.0.5",
+		"normalize-url": "^8.0.1",
+		"rss-parser": "^3.13.0"
+	},
+	"devDependencies": {
+		"@biomejs/biome": "^2.5.0"
+	}
 }
