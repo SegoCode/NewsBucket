@@ -1,4 +1,4 @@
-# {reponame}
+# NewsPond
 
 <h3 align="center"><img src="media/demo.png"></h3>
 
@@ -61,6 +61,6 @@ example.exe -done
 Provide a direct link to where users can download the application
 
 ---
-<p align="center"><a href="https://github.com/{username}/{reponame}/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo={username}/{reponame}" />
+<p align="center"><a href="https://github.com/SegoCode/NewsPond/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SegoCode/NewsPond" />
 </a></p>
