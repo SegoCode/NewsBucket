@@ -22,6 +22,31 @@ NewsPond fetches RSS feeds from sources you configure, groups articles covering 
 
 ## Quick Start & Information
 
+### Run locally
+
+```
+cd code
+pnpm install
+```
+
+Add your RSS feed URLs to `.txt` files in `code/rss_input/`. Create a `.env` file in `code/` with your API key:
+
+```
+OPENCODE_API_KEY=your-key
+```
+
+Then run the pipeline:
+
+```
+pnpm start      # fetch RSS feeds → rss_output/
+pnpm ai         # cluster articles → rss_output_cluster/
+pnpm translate  # translate clusters
+```
+
+Or fetch and cluster in one step: `pnpm all`.
+
+### Run on GitHub Actions
+
 The pipeline lives in `.github/workflows/update-news.yml`.
 
 Raw articles land in `code/rss_output/` as JSON, one file per configured feed source. Clustered results land in `code/rss_output_cluster/` as JSON arrays, with one file per source language and one per target language.
