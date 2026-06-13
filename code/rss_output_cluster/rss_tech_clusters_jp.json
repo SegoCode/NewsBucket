@@ -1,53 +1,89 @@
 [
   {
-    "title": "米国、Anthropicに対し外国人のClaude Fable 5およびMythos 5へのアクセス停止を命令",
-    "summary": "米国政府は人工知能企業Anthropicに対し、最も先進的なモデルへの世界的なアクセス制限を強制し、激しい政治的・技術的議論を引き起こした。",
+    "title": "米国、外国ユーザーへのClaude Fable 5およびMythos 5モデルのアクセス停止を命令",
+    "summary": "米国政府は、外国人アクセス規制に従うため、Anthropicに最も強力なAIモデルを無効化するよう義務付けた。",
     "source": [
-      "AlternativeTo.net",
-      "Artificial Intelligence Latest",
-      "El Chapuzas Informático",
-      "Hacker News",
       "TechCrunch",
-      "The Decoder",
+      "Hacker News",
+      "AlternativeTo",
+      "El Chapuzas Informático",
       "The Hacker News",
+      "Artificial Intelligence Latest"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Meta従業員がAI部門の環境を批判、ザッカーバーグが誤りを認める",
+    "summary": "エンジニアはMetaのAI部門を「グラグ」と表現し、ザッカーバーグのハッカソン計画は拒否反応を引き起こす。一方、彼は再編の失敗を認めている。",
+    "source": [
+      "TechCrunch",
+      "Kagi News",
+      "Artificial Intelligence Latest"
+    ],
+    "count": 3
+  },
+  {
+    "title": "サッカーワールドカップの様々なニュース：ハイチのユニフォーム、ニューヨークのキャンペーン、チケット、番組",
+    "summary": "ハイチのユニフォームデザインの論争、ニューヨークの広告キャンペーン、チケット価格の上昇、試合観戦のアドバイスなど。",
+    "source": [
+      "Xataka",
+      "Fast Company",
+      "ADSLZone"
+    ],
+    "count": 3
+  },
+  {
+    "title": "注目のテクノロジーお買い得情報：Office 2024、スマートTV、Starlinkなど",
+    "summary": "Officeライセンス、Samsungテレビ、MediaMarkt製品、割引価格のStarlink接続の割引。",
+    "source": [
+      "El Chapuzas Informático",
+      "ADSLZone",
       "Xataka"
     ],
-    "count": 8
+    "count": 3
   },
   {
-    "title": "MetaのAI部門における有害な職場環境の告発とザッカーバーグへの批判",
-    "summary": "従業員はMetaの人工知能チームにおける極めて否定的な労働条件を報告しており、同社は戦略的ミスを認めている。",
+    "title": "裁判所と政府がAIの悪用に立ち向かう：Googleの責任、中国の詐欺、コナン・オブライエン",
+    "summary": "Googleは自社AIによる虚偽の陳述について責任を問われ、中国によるAI詐欺事業が発覚し、コナン・オブライエンがこれらの詐欺との戦いに加わる。",
     "source": [
       "Artificial Intelligence Latest",
-      "Kagi News",
       "TechCrunch",
-      "The Decoder"
-    ],
-    "count": 4
-  },
-  {
-    "title": "SpaceX、記録的なIPOで株式公開",
-    "summary": "イーロン・マスク氏の宇宙企業が数十億ドルの評価額で株式市場にデビューし、創業者は史上初めて1兆ドルの資産を持つ人物となった。",
-    "source": [
-      "Fast Company",
-      "Kagi News",
-      "TechCrunch"
+      "Fast Company"
     ],
     "count": 3
   },
   {
-    "title": "Google、Gemini AIを悪用した中国の詐欺ネットワークを提訴",
-    "summary": "訴訟によると、犯罪組織はGemini AIを使用して世界中の数十万人の被害者を騙したとされる。",
+    "title": "瞑想、サプリメント、がん治療が認知機能と長寿に関連する新たな研究",
+    "summary": "研究によると、瞑想は認知機能を向上させ、一般的なサプリメントは寿命を縮める可能性があり、膵臓腫瘍の治療法ががんの潜在的なスイッチを明らかにしている。",
     "source": [
-      "Kagi News",
-      "TechCrunch",
-      "The Hacker News"
+      "Xataka",
+      "Hacker News",
+      "Fast Company"
     ],
     "count": 3
   },
   {
-    "title": "Arch Linuxの悪意あるパッケージがシステムセキュリティを侵害",
-    "summary": "Arch LinuxのAURリポジトリで1500以上のパッケージに感染するマルウェアキャンペーンが検出され、ルートキットや情報窃取が行われた。",
+    "title": "Androidスマートフォンの新機能とヒント：青い点、AirDrop互換性、VoLTEなど",
+    "summary": "Androidのプライバシーインジケーター、VoLTEの有効化方法、Motorolaのコピーされていない機能、eSIMのトリックなど。",
+    "source": [
+      "ADSLZone",
+      "Xataka",
+      "BandaAncha"
+    ],
+    "count": 3
+  },
+  {
+    "title": "SpaceXがIPOを19%上昇で終了、イーロン・マスクを兆万長者に",
+    "summary": "SpaceXの株式公開は、記録的な評価額を達成し、初の1兆ドル規模の資産を生み出し、財務上の節目となった。",
+    "source": [
+      "TechCrunch",
+      "Kagi News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Arch Linuxでマルウェア攻撃、1500以上のパッケージが侵害される",
+    "summary": "Arch Linuxディストリビューションは、AURパッケージがマルウェアやルートキットに感染したセキュリティインシデントを封じ込めた。",
     "source": [
       "Hacker News",
       "The Hacker News"
@@ -55,17 +91,71 @@
     "count": 2
   },
   {
-    "title": "2026年ワールドカップ：試合、チケット、ファン、キャンペーンのニュース",
-    "summary": "サッカーワールドカップのハイライトに関する情報と分析。試合時間やテレビ設定からキャンペーンデザイン、訪問者の体験まで。",
+    "title": "ジェフ・ベゾスが「人工エンジニア」を生み出すAI企業を設立、120億ドルを調達",
+    "summary": "Amazonの創業者は、ソフトウェアエンジニアリング業務を自動化するために生成AIに投資している。",
     "source": [
-      "ADSLZone",
+      "Xataka",
+      "Kagi News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple、新型アルミニウムを採用したiPhone 18 Proを準備、AI戦略の手がかりを明らかに",
+    "summary": "次期iPhoneはより堅牢で安価なプロセスで製造される可能性がある一方、同社はAIにおける方向性を示唆している。",
+    "source": [
+      "El Chapuzas Informático",
       "Fast Company"
     ],
     "count": 2
   },
   {
-    "title": "Starlink、小型アンテナでサービス刷新、スペインで価格調整",
-    "summary": "SpaceXは、より携帯性に優れ自律的なStarlinkアンテナの新世代を発表。一方で、従来の通信事業者との競争力が分析されている。",
+    "title": "米国、国勢調査での差分プライバシーを禁止、FBIがサイバー攻撃訓練のため模擬村を建設",
+    "summary": "米国政府は、国勢調査データ収集と現実的なシミュレーションによるサイバー攻撃への備えにおいて措置を講じている。",
+    "source": [
+      "Hacker News",
+      "TechCrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Mastodon、リリース候補版4.6を公開、AIにおけるオープンソースの議論が活発化",
+    "summary": "ソーシャルネットワークMastodonは新機能を備えたリリース候補版を公開し、AIにおけるオープンソースの重要性に関する議論が活発化している。",
+    "source": [
+      "AlternativeTo",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ゲームとハードウェアのニュース：Steam Machine、GTA VI、GPU、インディーゲーム",
+    "summary": "ValveがSteam Machineユニットを出荷、GTA VIでのガソリンが憶測を呼び、RTX 5080/3090がテストされ、Shepherd's Dogなどの新作ゲームが発表される。",
+    "source": [
+      "El Chapuzas Informático",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "オープンソースソフトウェアとツールの新着情報：GLM 5.2、Meta Edits、アーカイブされたツール",
+    "summary": "GLM 5.2のリリース、MetaがEditsにAIアシスタントを追加、オープンソースプロジェクトが資金調達後にアーカイブ、開発者がMozillaを退職。",
+    "source": [
+      "AlternativeTo",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ビジネスとスタートアップのニュース：OpenAIが調査対象、マイクロソフトがXbox分離を検討、アンドリュー・ヤンが生活費削減を提案",
+    "summary": "OpenAIは州の調査に直面、マイクロソフトはXboxのスピンオフを検討、アンドリュー・ヤンは生活費低下に機会を見出し、SpaceXはTeslaとの合併を示唆。",
+    "source": [
+      "TechCrunch",
+      "Kagi News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "スペインの消費とテクノロジーニュース：開店、価格、ハードウェア",
+    "summary": "サラゴサの新しいショッピングセンターの開店、タバコ価格の変更、オペラ中継、LGの新モニター、6Gロードマップ、AMD保証など。",
     "source": [
       "ADSLZone",
       "El Chapuzas Informático"
@@ -73,107 +163,28 @@
     "count": 2
   },
   {
-    "title": "Movistar Plus、夏の映画公開ラインナップを発表",
-    "summary": "ストリーミングプラットフォームは、7月と8月に配信予定の作品を発表。アカデミー賞ノミネート作品も含まれる。",
+    "title": "科学、歴史、仕事、消費動向に関する啓蒙・ライフスタイル記事",
+    "summary": "XatakaとFast Companyの記事：日食、消化の神話、仕事の生産性、動物の福祉、カップルの幸せなど。",
     "source": [
-      "ADSLZone",
-      "Xataka"
+      "Xataka",
+      "Fast Company"
     ],
     "count": 2
   },
   {
-    "title": "Splunk Enterpriseの重大な脆弱性、認証なしでリモートコード実行を許す",
-    "summary": "Splunk Enterpriseのセキュリティ上の欠陥により、攻撃者は認証情報なしで悪意のあるコードを実行できる可能性がある。",
+    "title": "技術・セキュリティニュース：レトロハードウェア、脆弱性、プログラミング、持続可能性",
+    "summary": "古いハードウェアでのDOS実行からSplunkの重大な障害、医療費請求書のAI分析、低消費電力コンピューティングまで。",
     "source": [
+      "Hacker News",
       "The Hacker News"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "中国のハッカー、約10年間にわたりLinuxシステムにバックドアを隠蔽",
-    "summary": "中国のサイバースパイグループがLinuxのログインソフトウェアを侵害し、政府や企業のネットワークへの永続的なアクセスを維持していた。",
+    "title": "Product Huntの新着：Prometheus、Vercel Drop、CakewordAI、NomNak",
+    "summary": "開発者とクリエイター向けの最新ツールとプラットフォームがProduct Huntでデビュー。",
     "source": [
-      "The Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft、ハードウェア価格高騰を受けXbox部門の分離を検討",
-    "summary": "同社は、コンソールのコスト増加に対処するため、Xboxを別会社にする可能性を検討している。",
-    "source": [
-      "Kagi News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ジェフ・ベゾスのAIスタートアップ、120億ドルを調達",
-    "summary": "ジェフ・ベゾス氏が設立した人工知能企業は、史上最大級の資金調達ラウンドを達成した。",
-    "source": [
-      "Kagi News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "フランス企業Mistral、評価額200億ユーロで30億ユーロの資金調達ラウンドを交渉",
-    "summary": "OpenAIの欧州競合であるMistralは、人工知能分野で最大級の投資の一つを完了間近である。",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "OpenAI、Codexエージェントの価格引き下げ、AI業界で料金戦争勃発",
-    "summary": "同社は、人工知能エージェント市場で競争するため、Codexモデルの料金上限を調整した。",
-    "source": [
-      "The Decoder"
-    ],
-    "count": 1
-  },
-  {
-    "title": "CRISPR技術、不治とされるものを含むがん細胞を選択的に破壊することに成功",
-    "summary": "研究者らは遺伝子編集を利用して腫瘍細胞を攻撃・除去し、腫瘍学に新たな可能性を開いた。",
-    "source": [
-      "Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "FFmpegビデオコーデックで21のゼロデイ脆弱性を発見",
-    "summary": "研究者らは、マルチメディアライブラリFFmpegにリモートコード実行を可能にする複数の重大な欠陥を報告した。",
-    "source": [
-      "Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "FBI、サイバー防御訓練用にミニチュア都市を建設",
-    "summary": "米連邦捜査局は、現実世界のサイバー攻撃をシミュレーション・研究するために、小さな町のレプリカを作成した。",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "裁判所、AI Overviewsが生成した虚偽の記述についてGoogleに責任ありと判断",
-    "summary": "米国の判事は、Googleが検索結果における人工知能の誤った回答によって生じた損害について訴えられる可能性があるとの判断を下した。",
-    "source": [
-      "Artificial Intelligence Latest"
-    ],
-    "count": 1
-  },
-  {
-    "title": "調査でアメリカ人の過半数がAIによる雇用喪失を懸念",
-    "summary": "調査によると、米国民の51%が人工知能が自身のキャリアや批判的思考能力に与える影響を懸念している。",
-    "source": [
-      "The Decoder"
-    ],
-    "count": 1
-  },
-  {
-    "title": "サム・バンクマン＝フリード、控訴棄却、FTX崩壊による有罪判決確定",
-    "summary": "仮想通貨取引所FTXの創業者は、長期の懲役刑を含む大規模詐欺罪の有罪判決を覆すことができなかった。",
-    "source": [
-      "Hacker News"
+      "Product Hunt"
     ],
     "count": 1
   }

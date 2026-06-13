@@ -1,53 +1,89 @@
 [
   {
-    "title": "U.S. orders Anthropic to suspend access to Claude Fable 5 and Mythos 5 for foreign nationals",
-    "summary": "The United States government forced the artificial intelligence company to restrict its most advanced models globally, generating an intense political and technological debate.",
+    "title": "United States orders suspension of access to Claude Fable 5 and Mythos 5 models for foreign users",
+    "summary": "The US government has forced Anthropic to deactivate its most powerful AI models to comply with foreign access regulations.",
     "source": [
-      "AlternativeTo.net",
-      "Artificial Intelligence Latest",
-      "El Chapuzas Informático",
-      "Hacker News",
       "TechCrunch",
-      "The Decoder",
+      "Hacker News",
+      "AlternativeTo",
+      "El Chapuzas Informático",
       "The Hacker News",
+      "Artificial Intelligence Latest"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Meta employees criticize the atmosphere in the AI unit and Zuckerberg acknowledges mistakes",
+    "summary": "Engineers describe Meta's AI unit as a 'gulag' and Zuckerberg's hackathon plan generates rejection, while he admits failures in the restructuring.",
+    "source": [
+      "TechCrunch",
+      "Kagi News",
+      "Artificial Intelligence Latest"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Various news about the World Cup: Haiti shirt, New York campaign, tickets and schedule",
+    "summary": "Includes controversy over the Haitian shirt design, the New York advertising campaign, the increase in ticket prices, and tips for watching the matches.",
+    "source": [
+      "Xataka",
+      "Fast Company",
+      "ADSLZone"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Highlighted tech deals: Office 2024, Smart TV, Starlink and more",
+    "summary": "Discounts on Office licenses, Samsung TVs, MediaMarkt products, and reduced-price Starlink connection.",
+    "source": [
+      "El Chapuzas Informático",
+      "ADSLZone",
       "Xataka"
     ],
-    "count": 8
+    "count": 3
   },
   {
-    "title": "Complaints of toxic environment in Meta's AI unit and criticism of Zuckerberg",
-    "summary": "Employees describe extremely negative working conditions in Meta's artificial intelligence team, while the company acknowledges strategic mistakes.",
+    "title": "Courts and governments act against artificial intelligence abuses: Google liable, Chinese scams and Conan O'Brien",
+    "summary": "Google is held responsible for false statements by its AI, a Chinese AI scam operation is uncovered, and Conan O'Brien joins the fight against these frauds.",
     "source": [
       "Artificial Intelligence Latest",
-      "Kagi News",
       "TechCrunch",
-      "The Decoder"
-    ],
-    "count": 4
-  },
-  {
-    "title": "SpaceX goes public in record IPO",
-    "summary": "Elon Musk's space company debuted on the stock market with a multi-billion dollar valuation, making its founder the first person with a trillion-dollar fortune.",
-    "source": [
-      "Fast Company",
-      "Kagi News",
-      "TechCrunch"
+      "Fast Company"
     ],
     "count": 3
   },
   {
-    "title": "Google sues Chinese network that used Gemini artificial intelligence to scam",
-    "summary": "The lawsuit alleges that the criminal operation used Gemini AI to deceive hundreds of thousands of victims worldwide.",
+    "title": "New research links meditation, supplements and cancer treatments to cognition and longevity",
+    "summary": "Studies show that meditation improves cognitive performance, a common supplement could shorten life, and a treatment for pancreatic tumors reveals a possible cancer switch.",
     "source": [
-      "Kagi News",
-      "TechCrunch",
-      "The Hacker News"
+      "Xataka",
+      "Hacker News",
+      "Fast Company"
     ],
     "count": 3
   },
   {
-    "title": "Malicious packages in Arch Linux compromise system security",
-    "summary": "A malware campaign was detected that infected more than 1,500 packages in the Arch Linux AUR repository, including rootkits and information theft.",
+    "title": "News and tips for Android phones: blue dot, AirDrop compatibility, VoLTE and more",
+    "summary": "Includes explanations about the privacy indicator on Android, how to activate VoLTE, Motorola's uncopied feature, and eSIM tricks.",
+    "source": [
+      "ADSLZone",
+      "Xataka",
+      "BandaAncha"
+    ],
+    "count": 3
+  },
+  {
+    "title": "SpaceX closes its IPO with a 19% increase and makes Elon Musk a trillionaire",
+    "summary": "SpaceX's IPO marks a financial milestone by reaching a record valuation and generating the first trillion-dollar fortune.",
+    "source": [
+      "TechCrunch",
+      "Kagi News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Arch Linux contains a malware attack that compromised more than 1500 packages",
+    "summary": "The Arch Linux distribution manages to contain a security incident in which AUR packages were infected with malicious software and rootkits.",
     "source": [
       "Hacker News",
       "The Hacker News"
@@ -55,17 +91,71 @@
     "count": 2
   },
   {
-    "title": "2026 World Cup: news on matches, tickets, fans, and campaign",
-    "summary": "Information and analysis on the most prominent aspects of the World Cup, from schedules and TV setup to campaign design and visitor experience.",
+    "title": "Jeff Bezos founds an AI company to create 'artificial engineers' and raises $12 billion",
+    "summary": "The Amazon founder invests in generative artificial intelligence to automate software engineering tasks.",
     "source": [
-      "ADSLZone",
+      "Xataka",
+      "Kagi News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple prepares iPhone 18 Pro with new aluminum and reveals hints about its AI strategy",
+    "summary": "The next iPhone could be made with a more resistant and cheaper process, while the company hints at its AI direction.",
+    "source": [
+      "El Chapuzas Informático",
       "Fast Company"
     ],
     "count": 2
   },
   {
-    "title": "Starlink renews its service with smaller antennas and adjusts prices in Spain",
-    "summary": "SpaceX launches a new generation of more portable and autonomous Starlink antennas, while its competitiveness against traditional operators is analyzed.",
+    "title": "United States bans differential privacy in the census and FBI builds a simulated town for cyberattacks",
+    "summary": "The US government takes measures in census data collection and in preparation against cyberattacks through realistic simulations.",
+    "source": [
+      "Hacker News",
+      "TechCrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Mastodon releases its 4.6 candidate and the debate on open source in AI grows",
+    "summary": "The social network Mastodon publishes its candidate version with new features, while the discussion on the importance of open source in AI intensifies.",
+    "source": [
+      "AlternativeTo",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Video game and hardware news: Steam Machine, GTA VI, GPU and indie games",
+    "summary": "Valve sends Steam Machine units, speculation about gas in GTA VI, RTX 5080/3090 tested, and new games like Shepherd's Dog presented.",
+    "source": [
+      "El Chapuzas Informático",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "News in open source software and tools: GLM 5.2, Meta Edits, archived tools",
+    "summary": "Release of GLM 5.2, Meta adds AI assistant to Edits, open source project archives after funding, and developer leaves Mozilla.",
+    "source": [
+      "AlternativeTo",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Business and startup news: OpenAI under investigation, Microsoft considers spinning off Xbox, Andrew Yang proposes reducing cost of living",
+    "summary": "OpenAI faces state investigation, Microsoft considers spinning off Xbox, Andrew Yang sees opportunity in lowering cost of living, and SpaceX hints at merger with Tesla.",
+    "source": [
+      "TechCrunch",
+      "Kagi News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Consumer and technology news in Spain: openings, prices and hardware",
+    "summary": "Includes opening of a new shopping center in Zaragoza, changes in tobacco prices, opera broadcast, new LG monitor, 6G roadmap, and AMD warranty.",
     "source": [
       "ADSLZone",
       "El Chapuzas Informático"
@@ -73,107 +163,28 @@
     "count": 2
   },
   {
-    "title": "Movistar Plus announces its summer movie premiere lineup",
-    "summary": "The streaming platform presents the movies arriving in July and August, including Oscar-nominated titles.",
+    "title": "Science and lifestyle articles: science, history, work and consumer trends",
+    "summary": "Articles from Xataka and Fast Company on eclipses, digestive myths, work productivity, animal welfare, couple happiness and more.",
     "source": [
-      "ADSLZone",
-      "Xataka"
+      "Xataka",
+      "Fast Company"
     ],
     "count": 2
   },
   {
-    "title": "Critical vulnerability in Splunk Enterprise allows unauthenticated remote code execution",
-    "summary": "A security flaw in Splunk Enterprise can be exploited by attackers to execute malicious code without the need for credentials.",
+    "title": "Technical and cybersecurity news: retro hardware, vulnerabilities, programming and sustainability",
+    "summary": "From running DOS on old hardware to critical flaws in Splunk, through AI analysis of medical bills and low-power computing.",
     "source": [
+      "Hacker News",
       "The Hacker News"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Chinese hackers hid backdoors in Linux systems for nearly a decade",
-    "summary": "A Chinese cyberespionage group compromised Linux login software to maintain persistent access to government and corporate networks.",
+    "title": "New launches on Product Hunt: Prometheus, Vercel Drop, CakewordAI, NomNak",
+    "summary": "The latest tools and platforms for developers and creators debut on Product Hunt.",
     "source": [
-      "The Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft considers spinning off its Xbox division amid rising hardware costs",
-    "summary": "The company is evaluating the possibility of turning Xbox into a separate company to cope with rising console costs.",
-    "source": [
-      "Kagi News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Jeff Bezos's AI startup raises $12 billion",
-    "summary": "The artificial intelligence company founded by Jeff Bezos achieved one of the largest funding rounds in history.",
-    "source": [
-      "Kagi News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "French firm Mistral negotiates a €3 billion round at a €20 billion valuation",
-    "summary": "Mistral, OpenAI's European competitor, is close to closing one of the largest investments in artificial intelligence.",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "OpenAI cuts prices for its Codex agent and triggers a price war in AI",
-    "summary": "The company adjusts the pricing limits of its Codex model to compete in the artificial intelligence agent market.",
-    "source": [
-      "The Decoder"
-    ],
-    "count": 1
-  },
-  {
-    "title": "CRISPR technique selectively destroys cancer cells, including those considered incurable",
-    "summary": "Researchers have used gene editing to target and eliminate tumor cells, opening new possibilities in oncology.",
-    "source": [
-      "Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "21 zero-day vulnerabilities discovered in FFmpeg video codec",
-    "summary": "Researchers reported multiple critical flaws in the FFmpeg multimedia library that allow remote code execution.",
-    "source": [
-      "Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "FBI builds miniature city to train in cyber defense",
-    "summary": "The U.S. federal agency created a replica of a small town to simulate and study real-world cyber attacks.",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Court finds Google liable for false claims generated by AI Overviews",
-    "summary": "A U.S. judge ruled that Google can be sued for damages caused by incorrect responses from its artificial intelligence in search results.",
-    "source": [
-      "Artificial Intelligence Latest"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Survey reveals more than half of Americans fear losing their jobs to AI",
-    "summary": "A study shows that 51% of U.S. citizens are worried about the impact of artificial intelligence on their career and their ability to think critically.",
-    "source": [
-      "The Decoder"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Sam Bankman-Fried loses appeal, upholds conviction for FTX collapse",
-    "summary": "The founder of the FTX cryptocurrency platform failed to overturn his conviction for massive fraud, which includes long prison sentences.",
-    "source": [
-      "Hacker News"
+      "Product Hunt"
     ],
     "count": 1
   }
