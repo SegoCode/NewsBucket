@@ -1,134 +1,105 @@
 [
   {
-    "title": "米国、AnthropicにClaude Fable 5とMythos 5の無効化を強制",
-    "summary": "米国政府が外国人市民によるAnthropicのAIモデルへのアクセスを停止するよう命じ、人工知能規制をめぐる議論を呼んでいる。",
+    "title": "Amazonと米国政府、AnthropicのAIモデルClaude Fable 5とMythos 5に制限を課す",
+    "summary": "複数のメディアによると、Amazonの当局への苦情が、外国人のAIモデルへのアクセスをブロックする結果になった。",
     "source": [
+      "The Decoder",
       "TechCrunch",
       "Hacker News",
       "AlternativeTo",
-      "El Chapuzas Informático",
-      "The Decoder",
-      "The Hacker News"
+      "El Chapuzas Informático"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "サッカーW杯の報道：日程、特典、論争",
-    "summary": "メディアが試合日程、テレビの特売、ハイチのユニフォーム論争について情報を提供している。",
-    "source": [
-      "Fast Company",
-      "ADSLZone",
-      "Xataka"
-    ],
-    "count": 3
-  },
-  {
-    "title": "サイバーセキュリティ：Splunkの重大な脆弱性、FBIのシミュレーション、車両のセキュリティ",
-    "summary": "Splunkでリモートコード実行を可能にする欠陥が発見され、FBIがサイバー攻撃訓練用の町を建設し、Hondaのアップデートにセキュリティ問題が報告されている。",
-    "source": [
-      "The Hacker News",
-      "TechCrunch",
-      "Hacker News"
-    ],
-    "count": 3
-  },
-  {
-    "title": "健康：新治療法と迷信の否定",
-    "summary": "日焼け止めに新成分が承認され、膵臓がん治療が進展し、食後の水泳やカフェインなどの迷信が否定されている。",
-    "source": [
-      "Hacker News",
-      "Fast Company",
-      "Xataka"
-    ],
-    "count": 3
-  },
-  {
-    "title": "新デバイスとハードウェアの問題",
-    "summary": "iPhone 18 Pro、LGモニター、Steam Machine、CORSAIRコネクタの統合、そして枕の下で眠るためのスピーカーの発表。",
-    "source": [
-      "El Chapuzas Informático",
-      "Hacker News",
-      "TechCrunch"
-    ],
-    "count": 3
-  },
-  {
-    "title": "規制：動物福祉法、タバコ価格、統計上のノイズ、家賃統制",
-    "summary": "スペインでの犬のバー同伴やタバコに関する新規則、米国国勢調査での騒音禁止、家賃統制に関する研究。",
-    "source": [
-      "Xataka",
-      "ADSLZone",
-      "Hacker News"
-    ],
-    "count": 3
-  },
-  {
-    "title": "企業における人工知能戦略：Microsoft、Meta、KPMG",
-    "summary": "MicrosoftのCEOがトークンへの依存を認め、MetaがAI管理を変更し、KPMGが幻覚のためにレポートを撤回。",
+    "title": "人工知能に関するその他の注目ニュース",
+    "summary": "新たなモデル、規制、企業戦略により、人工知能が引き続き話題を集めている。",
     "source": [
       "The Decoder",
+      "Fast Company",
+      "Hacker News",
       "TechCrunch",
       "AlternativeTo"
     ],
+    "count": 5
+  },
+  {
+    "title": "2026年ワールドカップに向けた準備と論争",
+    "summary": "ハイチ代表ユニフォームをめぐる論争、ニューヨークのキャンペーン、試合観戦のための技術的なアドバイスが、ワールドカップ前の話題を彩る。",
+    "source": [
+      "Xataka",
+      "Fast Company",
+      "ADSLZone"
+    ],
     "count": 3
   },
   {
-    "title": "米国州司法長官がOpenAIを調査",
-    "summary": "州司法長官の連合がOpenAIの慣行について調査を開始した。",
+    "title": "6月の注目テクノロジーセール：MediaMarkt、PcComponentes、Office 2024",
+    "summary": "各店舗やメーカーが、テレビ、ソフトウェア、その他の電子製品で特別キャンペーンを実施している。",
     "source": [
-      "Hacker News",
+      "Xataka",
+      "ADSLZone",
+      "El Chapuzas Informático"
+    ],
+    "count": 3
+  },
+  {
+    "title": "6Gは2028年に標準化、2030年から商用利用可能に",
+    "summary": "スペインおよび世界全体で、6G技術の導入スケジュールが確定している。",
+    "source": [
+      "BandaAncha",
+      "El Chapuzas Informático"
+    ],
+    "count": 2
+  },
+  {
+    "title": "サイバーセキュリティの2つのニュース：Splunkの重大な欠陥とFBIの訓練",
+    "summary": "Splunk Enterpriseで認証不要のリモート実行の脆弱性が発見され、FBIはサイバー攻撃のための模擬町を作成した。",
+    "source": [
+      "The Hacker News",
       "TechCrunch"
     ],
     "count": 2
   },
   {
-    "title": "スペインのテレビ特売：El Corte InglésとPcComponentesで清算セール",
-    "summary": "スペインの主要アウトレットでSamsung、LGなどのテレビが大幅割引。",
+    "title": "ハードウェア最新ニュース：熱問題と新製品",
+    "summary": "M5 SoCによる画面の変色からGPUコネクタの改善まで、ハードウェアは進化を続けている。",
     "source": [
-      "ADSLZone",
-      "Xataka"
-    ],
-    "count": 2
-  },
-  {
-    "title": "新たな人工知能モデルの発表",
-    "summary": "Count Anything、Gemini-SQL2、Kimi K2.7、SkillOpt、GLM 5.2などのモデルが性能と効率で記録を更新。",
-    "source": [
-      "The Decoder",
+      "El Chapuzas Informático",
       "Hacker News"
     ],
     "count": 2
   },
   {
-    "title": "企業の動き：Metaが契約を白紙に、アンドリュー・ヤンが生活費に賭ける",
-    "summary": "MetaがManusとの20億ドルの契約から撤退し、アンドリュー・ヤンが生活費の削減をビジネスチャンスとして提案。",
-    "source": [
-      "TechCrunch",
-      "Xataka"
-    ],
-    "count": 2
-  },
-  {
-    "title": "エネルギー関連ニュース：バイオマス、ガスパイプライン、都市冷却",
-    "summary": "スペインが山火事対策にバイオマス利用を模索、欧州がアフリカにガスを求め、パリが地下冷却システムを採用。",
-    "source": [
-      "Xataka",
-      "Hacker News"
-    ],
-    "count": 2
-  },
-  {
-    "title": "科学的発見：古代ゲノムの重複、日食、野生生物",
-    "summary": "複雑な脳を形成したゲノム重複、日食、貝殻の島やイノシシの追跡などの珍事に関する研究。",
+    "title": "ソフトウェア新バージョン：Phoenix LiveView 1.2、GLM 5.2、Mastodon 4.6 RC",
+    "summary": "各ソフトウェアプロジェクトが、新機能とパフォーマンス向上を備えたアップデートをリリースしている。",
     "source": [
       "Hacker News",
-      "Xataka"
+      "AlternativeTo"
     ],
     "count": 2
   },
   {
-    "title": "モバイルデバイスに便利な機能と設定",
-    "summary": "VoLTEの有効化、AndroidでのAirDrop使用、青い点やO2のeSIMなどの機能。",
+    "title": "ゲームニュース：Nintendo対Pocketpair、逆さまのパックマン、ReactOSの進歩",
+    "summary": "ゲーム業界は、訴訟、新しいゲームモード、オープンソースプラットフォームの改善によって特徴づけられている。",
+    "source": [
+      "El Chapuzas Informático",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "新しいウェアラブル：牛用Whoop、パデル時計、睡眠用スピーカー",
+    "summary": "動物、アスリート、休息に特化した機能を持つウェアラブルデバイス。",
+    "source": [
+      "Xataka",
+      "TechCrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "モバイル接続の問題：Androidの青い点とVoLTEのアクティベーション",
+    "summary": "ネットワークインジケーターとモバイル端末におけるVoLTE設定に関する問題が取り上げられている。",
     "source": [
       "ADSLZone",
       "BandaAncha"
@@ -136,8 +107,8 @@
     "count": 2
   },
   {
-    "title": "テクノロジー、仕事、社会に関する意見・分析記事",
-    "summary": "修士号の有用性、携帯電話の進化、生産性とウェルビーイング向上のアドバイスについての考察。",
+    "title": "労働環境の変化：マイクロシフティング、グローバル戦略、新しいダイナミクス",
+    "summary": "マイクロシフティングによる仕事の変容、グローバル戦略の重要性、自由時間の管理に関する記事。",
     "source": [
       "Xataka",
       "Fast Company"
@@ -145,42 +116,66 @@
     "count": 2
   },
   {
-    "title": "裁判所、GoogleがAIの虚偽発言に責任があると判決",
-    "summary": "裁判所がGoogleはAI Overviewsが生成したコンテンツについて責任を負う可能性があると判断。",
+    "title": "FAAが規則を変更、ドローン利用を促進する可能性",
+    "summary": "米国の規制変更により、空を飛ぶドローンの数が大幅に増加する可能性がある。",
     "source": [
-      "Artificial Intelligence Latest"
+      "Fast Company"
     ],
     "count": 1
   },
   {
-    "title": "オープンソースプロジェクトとレトロコンピューティング",
-    "summary": "ReactOSでのHalf-Lifeの実行からVGAコンソールの構築、アラビア文字の書体探求まで、フリーソフトウェアは活発に活動中。",
-    "source": [
-      "Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ビデオゲーム：Steam MachineとGTA VIの噂",
-    "summary": "Valveがレビュー用にSteam Machineの出荷を開始し、GTA VIでのガソリンシステムの噂が浮上。",
-    "source": [
-      "El Chapuzas Informático"
-    ],
-    "count": 1
-  },
-  {
-    "title": "歴史的・文化的雑学",
-    "summary": "ローマ人が公衆浴場でサンダルを履いていたことから、哺乳瓶の歴史、産業革命の遺産まで。",
+    "title": "クマムシのクリプトナイトは火星の土壌にあり",
+    "summary": "科学者たちは、火星の土壌にクマムシにとって致命的な成分が含まれていることを発見した。",
     "source": [
       "Xataka"
     ],
     "count": 1
   },
   {
-    "title": "Movistarのストリーミング番組と特典",
-    "summary": "Movistar Plusが映画チャンネルを追加し、オリジナルアプリから追加プラットフォームが提供される。",
+    "title": "バビエラ村とディグニダード・コロニー：チリのナチスの隠れ家",
+    "summary": "チリ南部のドイツ人コロニーの歴史で、ナチスの隠れ家として機能した。",
     "source": [
-      "ADSLZone"
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ジェフ・ベゾス、AIは雇用を破壊しないと語り、人工エンジニア企業を設立",
+    "summary": "アマゾンの創業者は、AIの雇用への影響を否定しながら、エンジニアを代替する会社を設立することで矛盾を示している。",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "スペインには未利用の膨大なバイオマスが存在し、火災対策に活用可能",
+    "summary": "同国は、森林火災を防ぐために4600万立方メートルの森林バイオマスを活用できる可能性がある。",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "アイスマン、エッツィは5300年経っても内部に生命を保っている",
+    "summary": "氷河で発見されたミイラ化した遺体には、今も活動する微生物が存在している。",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "科学が「消化不良の切り札」という神話を否定",
+    "summary": "科学的証拠によれば、食後の入浴は消化器系の問題を引き起こさない。",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "どの国が人口統計学的絶滅に運命づけられているかを予測する地図",
+    "summary": "ある分析は、世界を絶滅する国々と人口を維持する国々に二分する。",
+    "source": [
+      "Xataka"
     ],
     "count": 1
   }
