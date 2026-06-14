@@ -1,116 +1,80 @@
 [
   {
-    "title": "United States orders suspension of access to Claude Fable 5 and Mythos 5 models for foreign users",
-    "summary": "The US government has forced Anthropic to deactivate its most powerful AI models to comply with foreign access regulations.",
+    "title": "United States forces Anthropic to disable Claude Fable 5 and Mythos 5",
+    "summary": "The US government orders suspension of access to Anthropic's AI models for foreign citizens, sparking debate on artificial intelligence regulation.",
     "source": [
       "TechCrunch",
       "Hacker News",
       "AlternativeTo",
       "El Chapuzas Informático",
-      "The Hacker News",
-      "Artificial Intelligence Latest"
+      "The Decoder",
+      "The Hacker News"
     ],
     "count": 6
   },
   {
-    "title": "Meta employees criticize the atmosphere in the AI unit and Zuckerberg acknowledges mistakes",
-    "summary": "Engineers describe Meta's AI unit as a 'gulag' and Zuckerberg's hackathon plan generates rejection, while he admits failures in the restructuring.",
+    "title": "World Cup coverage: schedules, deals and controversies",
+    "summary": "Media provide information on match schedules, TV deals and the Haiti shirt controversy.",
     "source": [
-      "TechCrunch",
-      "Kagi News",
-      "Artificial Intelligence Latest"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Various news about the World Cup: Haiti shirt, New York campaign, tickets and schedule",
-    "summary": "Includes controversy over the Haitian shirt design, the New York advertising campaign, the increase in ticket prices, and tips for watching the matches.",
-    "source": [
-      "Xataka",
       "Fast Company",
-      "ADSLZone"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Highlighted tech deals: Office 2024, Smart TV, Starlink and more",
-    "summary": "Discounts on Office licenses, Samsung TVs, MediaMarkt products, and reduced-price Starlink connection.",
-    "source": [
-      "El Chapuzas Informático",
       "ADSLZone",
       "Xataka"
     ],
     "count": 3
   },
   {
-    "title": "Courts and governments act against artificial intelligence abuses: Google liable, Chinese scams and Conan O'Brien",
-    "summary": "Google is held responsible for false statements by its AI, a Chinese AI scam operation is uncovered, and Conan O'Brien joins the fight against these frauds.",
+    "title": "Cybersecurity: critical vulnerability in Splunk, FBI simulations and vehicle security",
+    "summary": "A flaw allowing remote code execution in Splunk is discovered, the FBI builds a town to train cyberattacks, and security issues reported in Honda updates.",
     "source": [
-      "Artificial Intelligence Latest",
+      "The Hacker News",
       "TechCrunch",
-      "Fast Company"
+      "Hacker News"
     ],
     "count": 3
   },
   {
-    "title": "New research links meditation, supplements and cancer treatments to cognition and longevity",
-    "summary": "Studies show that meditation improves cognitive performance, a common supplement could shorten life, and a treatment for pancreatic tumors reveals a possible cancer switch.",
-    "source": [
-      "Xataka",
-      "Hacker News",
-      "Fast Company"
-    ],
-    "count": 3
-  },
-  {
-    "title": "News and tips for Android phones: blue dot, AirDrop compatibility, VoLTE and more",
-    "summary": "Includes explanations about the privacy indicator on Android, how to activate VoLTE, Motorola's uncopied feature, and eSIM tricks.",
-    "source": [
-      "ADSLZone",
-      "Xataka",
-      "BandaAncha"
-    ],
-    "count": 3
-  },
-  {
-    "title": "SpaceX closes its IPO with a 19% increase and makes Elon Musk a trillionaire",
-    "summary": "SpaceX's IPO marks a financial milestone by reaching a record valuation and generating the first trillion-dollar fortune.",
-    "source": [
-      "TechCrunch",
-      "Kagi News"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Arch Linux contains a malware attack that compromised more than 1500 packages",
-    "summary": "The Arch Linux distribution manages to contain a security incident in which AUR packages were infected with malicious software and rootkits.",
+    "title": "Health: new treatments and debunking myths",
+    "summary": "New ingredient approved in sunscreens, advances against pancreatic cancer, and debunking myths like digestion cut and caffeine.",
     "source": [
       "Hacker News",
-      "The Hacker News"
+      "Fast Company",
+      "Xataka"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Jeff Bezos founds an AI company to create 'artificial engineers' and raises $12 billion",
-    "summary": "The Amazon founder invests in generative artificial intelligence to automate software engineering tasks.",
-    "source": [
-      "Xataka",
-      "Kagi News"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple prepares iPhone 18 Pro with new aluminum and reveals hints about its AI strategy",
-    "summary": "The next iPhone could be made with a more resistant and cheaper process, while the company hints at its AI direction.",
+    "title": "New devices and hardware issues",
+    "summary": "Announcements of iPhone 18 Pro, LG monitor, Steam Machine, CORSAIR connector merger and a speaker under the pillow for sleeping.",
     "source": [
       "El Chapuzas Informático",
-      "Fast Company"
+      "Hacker News",
+      "TechCrunch"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "United States bans differential privacy in the census and FBI builds a simulated town for cyberattacks",
-    "summary": "The US government takes measures in census data collection and in preparation against cyberattacks through realistic simulations.",
+    "title": "Regulations: animal welfare law, tobacco prices, statistical noise and rent control",
+    "summary": "New rules in Spain on dogs in bars and tobacco, noise prohibition in US census, and study on rent control.",
+    "source": [
+      "Xataka",
+      "ADSLZone",
+      "Hacker News"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Artificial intelligence strategies in companies: Microsoft, Meta and KPMG",
+    "summary": "Microsoft CEO admits token addiction, Meta changes its AI management and KPMG withdraws a report due to hallucinations.",
+    "source": [
+      "The Decoder",
+      "TechCrunch",
+      "AlternativeTo"
+    ],
+    "count": 3
+  },
+  {
+    "title": "US attorneys general investigate OpenAI",
+    "summary": "A coalition of state attorneys general has opened an investigation into OpenAI's practices.",
     "source": [
       "Hacker News",
       "TechCrunch"
@@ -118,53 +82,62 @@
     "count": 2
   },
   {
-    "title": "Mastodon releases its 4.6 candidate and the debate on open source in AI grows",
-    "summary": "The social network Mastodon publishes its candidate version with new features, while the discussion on the importance of open source in AI intensifies.",
-    "source": [
-      "AlternativeTo",
-      "Hacker News"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Video game and hardware news: Steam Machine, GTA VI, GPU and indie games",
-    "summary": "Valve sends Steam Machine units, speculation about gas in GTA VI, RTX 5080/3090 tested, and new games like Shepherd's Dog presented.",
-    "source": [
-      "El Chapuzas Informático",
-      "Hacker News"
-    ],
-    "count": 2
-  },
-  {
-    "title": "News in open source software and tools: GLM 5.2, Meta Edits, archived tools",
-    "summary": "Release of GLM 5.2, Meta adds AI assistant to Edits, open source project archives after funding, and developer leaves Mozilla.",
-    "source": [
-      "AlternativeTo",
-      "Hacker News"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Business and startup news: OpenAI under investigation, Microsoft considers spinning off Xbox, Andrew Yang proposes reducing cost of living",
-    "summary": "OpenAI faces state investigation, Microsoft considers spinning off Xbox, Andrew Yang sees opportunity in lowering cost of living, and SpaceX hints at merger with Tesla.",
-    "source": [
-      "TechCrunch",
-      "Kagi News"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Consumer and technology news in Spain: openings, prices and hardware",
-    "summary": "Includes opening of a new shopping center in Zaragoza, changes in tobacco prices, opera broadcast, new LG monitor, 6G roadmap, and AMD warranty.",
+    "title": "TV deals in Spain: sales at El Corte Inglés and PcComponentes",
+    "summary": "Big discounts on Samsung, LG and other brand TVs at major Spanish outlets.",
     "source": [
       "ADSLZone",
-      "El Chapuzas Informático"
+      "Xataka"
     ],
     "count": 2
   },
   {
-    "title": "Science and lifestyle articles: science, history, work and consumer trends",
-    "summary": "Articles from Xataka and Fast Company on eclipses, digestive myths, work productivity, animal welfare, couple happiness and more.",
+    "title": "Launch of new artificial intelligence models",
+    "summary": "Models like Count Anything, Gemini-SQL2, Kimi K2.7, SkillOpt and GLM 5.2 break records in performance and efficiency.",
+    "source": [
+      "The Decoder",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Business moves: Meta backs out of deal and Andrew Yang bets on cost of living",
+    "summary": "Meta withdraws from a $2B deal with Manus, and Andrew Yang proposes reducing the cost of living as a business opportunity.",
+    "source": [
+      "TechCrunch",
+      "Xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Energy news: biomass, pipelines and urban cooling",
+    "summary": "Spain seeks to use biomass against fires, Europe looks to Africa for gas, and Paris uses an underground cooling system.",
+    "source": [
+      "Xataka",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Scientific discoveries: ancient genome duplication, eclipse and wildlife",
+    "summary": "Research on genome duplication that formed complex brains, solar eclipse and curiosities like a seashell island and tracking wild boars.",
+    "source": [
+      "Hacker News",
+      "Xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Useful features and settings for mobile devices",
+    "summary": "How to activate VoLTE, use AirDrop on Android, and other features like the blue dot and eSIM on O2.",
+    "source": [
+      "ADSLZone",
+      "BandaAncha"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Opinion and analysis articles on technology, work and society",
+    "summary": "Reflections on the usefulness of master's degrees, the evolution of mobile phones, and tips to improve productivity and well-being.",
     "source": [
       "Xataka",
       "Fast Company"
@@ -172,19 +145,42 @@
     "count": 2
   },
   {
-    "title": "Technical and cybersecurity news: retro hardware, vulnerabilities, programming and sustainability",
-    "summary": "From running DOS on old hardware to critical flaws in Splunk, through AI analysis of medical bills and low-power computing.",
+    "title": "Court rules Google liable for false statements by its AI",
+    "summary": "A court determines that Google can be held liable for content generated by AI Overviews.",
     "source": [
-      "Hacker News",
-      "The Hacker News"
+      "Artificial Intelligence Latest"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "New launches on Product Hunt: Prometheus, Vercel Drop, CakewordAI, NomNak",
-    "summary": "The latest tools and platforms for developers and creators debut on Product Hunt.",
+    "title": "Open source projects and retrocomputing",
+    "summary": "From running Half-Life on ReactOS to building VGA consoles and exploring Arabic typography, free software remains active.",
     "source": [
-      "Product Hunt"
+      "Hacker News"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Video games: Steam Machine and GTA VI rumors",
+    "summary": "Valve begins sending Steam Machine units for review, and rumors emerge about a gasoline system in GTA VI.",
+    "source": [
+      "El Chapuzas Informático"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Historical and cultural curiosities",
+    "summary": "From Romans using flip-flops in public baths to the history of the baby bottle and the legacy of the Industrial Revolution.",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Streaming programming and offers on Movistar",
+    "summary": "Movistar Plus adds channels with movies and additional platforms are offered from the original apps.",
+    "source": [
+      "ADSLZone"
     ],
     "count": 1
   }
