@@ -1,48 +1,49 @@
 [
   {
-    "title": "Anthropic、Claude Fable 5の開発停止、技術主権をめぐる議論を引き起こす",
-    "summary": "AnthropicによるFable 5の開発中止で、ホワイトハウスやアマゾンとの緊張が生まれ、欧州の人工知能における主権をめぐる議論が再燃している。",
+    "title": "英国、16歳未満のソーシャルメディアを禁止",
+    "summary": "英国政府は、TikTokやYouTubeなどのプラットフォームへの16歳未満のアクセスを禁止し、精神的な健康を保護しようとしている。",
     "source": [
-      "The Decoder",
-      "Hacker News",
+      "Fast Company",
+      "TechCrunch",
+      "El Chapuzas Informático",
       "Xataka",
+      "Kagi News"
+    ],
+    "count": 5
+  },
+  {
+    "title": "米国政府、Anthropicの高度なモデルを禁止",
+    "summary": "米国政府はAnthropicのClaude Fable 5およびMythos 5モデルをブロックし、業界からの批判や技術的主権に関する議論を引き起こしている。",
+    "source": [
+      "TechCrunch",
+      "Fast Company",
+      "The Decoder",
       "El Chapuzas Informático"
     ],
     "count": 4
   },
   {
-    "title": "人工知能バブルに対する警告",
-    "summary": "経営幹部やアナリストは、大規模な解雇と利益の集中を伴うAIバブルの差し迫った崩壊を警告している。",
+    "title": "Fox、220億ドルでRokuを買収",
+    "summary": "FoxメディアコングロマリットがストリーミングプラットフォームのRokuを買収し、オンラインテレビ市場を統合する。",
     "source": [
-      "The Decoder",
-      "El Chapuzas Informático",
-      "TechCrunch"
-    ],
-    "count": 3
-  },
-  {
-    "title": "2026年ワールドカップの取材：ガイド、放送、ビジネス展望",
-    "summary": "2026年のサッカーW杯は、試合日程、オンライン地デジ放送のオプション、そしてアメリカサッカー連盟CEOのビジョンで注目を集めている。",
-    "source": [
-      "Xataka",
-      "ADSLZone",
-      "Fast Company"
-    ],
-    "count": 3
-  },
-  {
-    "title": "サイバー攻撃とオンライン詐欺の波",
-    "summary": "セキュリティ警告は、悪意のあるChrome拡張機能、WordPressのバックドア、Facebookでの詐欺、VPNの脆弱性の悪用について警告している。",
-    "source": [
-      "The Hacker News",
       "Fast Company",
+      "TechCrunch",
       "Hacker News"
     ],
     "count": 3
   },
   {
-    "title": "英国、16歳未満へのソーシャルメディア禁止を検討",
-    "summary": "英国政府は、青少年の精神的健康を改善するため、ソーシャルメディアへのアクセスを禁止する計画であり、スペインはそのモデルを注視している。",
+    "title": "Salesforce、36億ドルでカスタマーサービスプラットフォームFinを買収",
+    "summary": "Fin（旧Intercom）の買収により、Salesforceのカスタマーサービス向け人工知能機能が強化される。",
+    "source": [
+      "TechCrunch",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Orbio、AIによる採用自動化のため2100万ドルを調達",
+    "summary": "マドリードのスタートアップは、人工知能を使用して仕事の面接を行い、資金調達後に事業を拡大する。",
     "source": [
       "Xataka",
       "TechCrunch"
@@ -50,17 +51,17 @@
     "count": 2
   },
   {
-    "title": "Orbio、AI採用で2100万ユーロを調達",
-    "summary": "マドリードのスタートアップOrbioは、人工知能による人材選考を自動化し、拡大のための資金を調達している。",
+    "title": "スペイン、W杯初戦でカーボベルデと対戦",
+    "summary": "スペイン代表は2026年ワールドカップの初戦でカーボベルデと対戦する。",
     "source": [
       "Xataka",
-      "TechCrunch"
+      "ADSLZone"
     ],
     "count": 2
   },
   {
-    "title": "ボーダフォン、2026年夏に向けてより安いローミングを提供",
-    "summary": "同社は、アメリカ、メキシコ、日本、アジア・アフリカの数カ国などの目的地でのローミングパッケージの価格を引き下げる。",
+    "title": "Vodafone、2026年夏のローミング料金を引き下げ",
+    "summary": "同社は夏季に海外でのデータ使用に対してより安い料金を提供する。",
     "source": [
       "BandaAncha",
       "ADSLZone"
@@ -68,109 +69,107 @@
     "count": 2
   },
   {
-    "title": "AMD、MacBook Neoのゲーム性能に疑問を呈す",
-    "summary": "AMDは、Appleの手頃なノートPCについて、ネイティブゲームの不足、低ストレージ容量、ポートの少なさを批判している。",
+    "title": "AI業界、解雇とバブル兆候に直面",
+    "summary": "報告によると、人工知能企業での雇用削減の波と業界におけるバブルの可能性についての警告がある。",
     "source": [
-      "El Chapuzas Informático",
-      "Xataka"
+      "TechCrunch",
+      "El Chapuzas Informático"
     ],
     "count": 2
   },
   {
-    "title": "生成AIの新しいモデルとツール",
-    "summary": "Appleは基礎モデルを発表、リオデジャネイロはLLMを公開、Microsoftは動画向けMirageを開発、Google CloudはOpen Knowledge Formatをリリース。",
+    "title": "Nvidia、AI資金調達のため200億ドルの社債発行",
+    "summary": "半導体企業は人工知能への拡大のための資金を調達するために社債市場を利用する。",
     "source": [
-      "Hacker News",
       "The Decoder"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Wine 11.11とSteamOS 3.8.9 Beta、ゲーム互換性を向上",
-    "summary": "WineとSteamOSの新バージョンは、オーディオのバグやテアリングを修正し、Linuxでのゲームの全体的な安定性を向上させる。",
+    "title": "SpaceX、過去最高の857億ドルのIPOを達成",
+    "summary": "イーロン・マスクの宇宙企業が史上最大の新規株式公開を実施。",
     "source": [
-      "AlternativeTo.net",
+      "TechCrunch"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Fei-Fei Li、10億ドル評価のAI企業World Labsを立ち上げ",
+    "summary": "著名な研究者が、評価額10億ドルの新しい人工知能会社を設立。",
+    "source": [
+      "Fast Company"
+    ],
+    "count": 1
+  },
+  {
+    "title": "マイクロソフトCEO、AIにおける利益の集中について警告",
+    "summary": "サティア・ナデラ氏は、少数のAIシステムがすべての経済的リターンを独占する可能性があると警告。",
+    "source": [
+      "The Decoder"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Microsoft 365 Copilotの深刻な脆弱性、メールやファイルの盗難を許す",
+    "summary": "Microsoft 365 Copilotのセキュリティ上の欠陥により、攻撃者が機密情報やMFAコードにアクセスできた可能性がある。",
+    "source": [
+      "The Hacker News"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Palo Alto、VPN GlobalProtectの脆弱性が活発に悪用されていると警告",
+    "summary": "セキュリティ企業は、PAN-OS GlobalProtectの欠陥が攻撃者によって活発に利用されていると報告。",
+    "source": [
+      "The Hacker News"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Meta、ペンタゴンのサプライヤーと協力しスマートグラス向け顔認識を開発",
+    "summary": "ザッカーバーグ率いる企業は、軍事請負業者と協力してスマートグラス向けの顔認識プロトタイプを開発している。",
+    "source": [
+      "Feed: Artificial Intelligence Latest"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Sarvam、2億3400万ドルでインドの新たなAIユニコーンに",
+    "summary": "インドの人工知能スタートアップが、HCLTech主導のラウンドを経て10億ドル以上の評価額に達する。",
+    "source": [
+      "TechCrunch"
+    ],
+    "count": 1
+  },
+  {
+    "title": "銅輸送薬が記憶を回復し、アルツハイマーの有毒タンパク質を除去",
+    "summary": "科学者らは、銅を輸送する薬剤が記憶喪失を回復させ、アルツハイマー病に関連するタンパク質を除去できることを発見。",
+    "source": [
+      "Hacker News"
+    ],
+    "count": 1
+  },
+  {
+    "title": "AMD、セキュリティ研究者への約束した報奨金を支払わず",
+    "summary": "同社は、アップデートソフトウェアの脆弱性を発見したことに対して提示した1万ドルを支払わなかった。",
+    "source": [
       "El Chapuzas Informático"
     ],
-    "count": 2
-  },
-  {
-    "title": "米国、イランとの和平合意に達する",
-    "summary": "米国とテヘランは、戦争開始前の状態を回復する協定に署名する。",
-    "source": [
-      "Xataka"
-    ],
     "count": 1
   },
   {
-    "title": "YouTubeで衝撃、Gaspi、Oliver Tree、Lucas Vignaleがヘリコプター事故で死亡",
-    "summary": "有名YouTuberが航空事故で死亡し、Ibai、ElRubius、その他のクリエイターから哀悼の意が寄せられている。",
-    "source": [
-      "ADSLZone"
-    ],
-    "count": 1
-  },
-  {
-    "title": "NASA、宇宙最大の謎の一つを解明するための資金を求める",
-    "summary": "NASAは宇宙の謎を解明する計画を持っているが、必要な予算が不足している。",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "世界最高の専門家、メキシコ湾流の崩壊を警告",
-    "summary": "海洋自体によって引き起こされる大西洋海流の弱体化は、壊滅的な気候変動をもたらす恐れがある。",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "中国の研究、存在しなかった宇宙船を根拠にNASAを批判",
-    "summary": "NASAを貶めるはずだった報告書には根本的な誤りがあった。批判の対象となった宇宙船は実際には建造されていなかったのである。",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "プラスチックリサイクル、考えられていたほど効果的ではない可能性",
-    "summary": "分析によると、数十年にわたるプラスチックリサイクルは実際の影響は限定的だった可能性がある。",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "韓国の若者、何も売らないアプリでドーパミンを得る",
-    "summary": "韓国のZ世代は、生活費の高騰の中、商業取引なしでコンテンツを提供するアプリに満足感を見出している。",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "地デジ、2026年に新チャンネル開設でテレビの再調整が必要に",
-    "summary": "スペイン政府は、近日中にテレビの再調整を必要とする新しい地デジチャンネルの追加を発表した。",
-    "source": [
-      "ADSLZone"
-    ],
-    "count": 1
-  },
-  {
-    "title": "検察側と弁護側によるAIの不適切な使用で裁判が無効に",
-    "summary": "裁判官は、双方が弁論で生成AIを使用していたことを発見し、裁判を中止し両当事者に罰金を科した。",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft CEO、25年もの赤字の後、Xboxに収益化を要求",
-    "summary": "サティア・ナデラはXbox部門に、利益を生み出し始めるか、さもなければ結果を受け入れるよう最後通告を突きつけた。",
+    "title": "Nintendo、Switch 2の転売ヤー対策を実施",
+    "summary": "同社は転売対策として、Switchで50時間以上のプレイを義務付け、アカウントあたり1台の本体購入制限を課す。",
     "source": [
       "El Chapuzas Informático"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Apple、App Storeのルールを更新し、古いまたは低品質なアプリを削除へ",
+    "summary": "同社は、時代遅れのアプリを削除することでアプリストアの品質を維持するためにガイドラインを見直す。",
+    "source": [
+      "AlternativeTo"
     ],
     "count": 1
   }

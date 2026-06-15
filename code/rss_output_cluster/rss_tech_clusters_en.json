@@ -1,48 +1,49 @@
 [
   {
-    "title": "Anthropic halts Claude Fable 5 and sparks debate over technological sovereignty",
-    "summary": "The closure of the development of Fable 5 by Anthropic generates tensions with the White House and Amazon, and revives the debate on European sovereignty in artificial intelligence.",
+    "title": "United Kingdom bans social media for under 16s",
+    "summary": "The British government implements a ban preventing under-16s from accessing platforms like TikTok and YouTube, aiming to protect their mental health.",
     "source": [
-      "The Decoder",
-      "Hacker News",
+      "Fast Company",
+      "TechCrunch",
+      "El Chapuzas Informático",
       "Xataka",
+      "Kagi News"
+    ],
+    "count": 5
+  },
+  {
+    "title": "US government bans advanced Anthropic models",
+    "summary": "The US administration blocks Anthropic's Claude Fable 5 and Mythos 5 models, sparking industry criticism and debate on technological sovereignty.",
+    "source": [
+      "TechCrunch",
+      "Fast Company",
+      "The Decoder",
       "El Chapuzas Informático"
     ],
     "count": 4
   },
   {
-    "title": "Warnings about the artificial intelligence bubble",
-    "summary": "Executives and analysts warn of the imminent burst of the AI bubble, with massive layoffs and concentration of profits.",
+    "title": "Fox acquires Roku for $22 billion",
+    "summary": "Media conglomerate Fox buys streaming platform Roku, consolidating the online television market.",
     "source": [
-      "The Decoder",
-      "El Chapuzas Informático",
-      "TechCrunch"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Coverage of the 2026 World Cup: guides, streaming and business perspective",
-    "summary": "The 2026 FIFA World Cup draws attention with match schedules, online DTT options, and the vision of the CEO of the US federation.",
-    "source": [
-      "Xataka",
-      "ADSLZone",
-      "Fast Company"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Wave of cyberattacks and online scams",
-    "summary": "Security alerts warn about malicious Chrome extensions, backdoors in WordPress, scams on Facebook, and exploitation of VPN flaws.",
-    "source": [
-      "The Hacker News",
       "Fast Company",
+      "TechCrunch",
       "Hacker News"
     ],
     "count": 3
   },
   {
-    "title": "UK considers banning social media for under-16s",
-    "summary": "The British government plans to ban teenagers' access to social media to improve their mental health, while Spain observes the model.",
+    "title": "Salesforce buys customer service platform Fin for $3.6 billion",
+    "summary": "The acquisition of Fin (formerly Intercom) strengthens Salesforce's AI capabilities for customer service.",
+    "source": [
+      "TechCrunch",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Orbio raises $21 million to automate hiring with AI",
+    "summary": "The Madrid-based startup uses artificial intelligence to conduct job interviews and expands its business after funding.",
     "source": [
       "Xataka",
       "TechCrunch"
@@ -50,17 +51,17 @@
     "count": 2
   },
   {
-    "title": "Orbio raises 21 million for AI-powered recruitment",
-    "summary": "Madrid-based startup Orbio automates personnel selection using artificial intelligence and receives funding for expansion.",
+    "title": "Spain will debut in the World Cup against Cape Verde",
+    "summary": "The Spanish national team faces Cape Verde in its first match of the 2026 World Cup.",
     "source": [
       "Xataka",
-      "TechCrunch"
+      "ADSLZone"
     ],
     "count": 2
   },
   {
-    "title": "Vodafone launches cheaper roaming for summer 2026",
-    "summary": "The operator reduces the price of its roaming bundles in destinations like the United States, Mexico, Japan, and several countries in Asia and Africa.",
+    "title": "Vodafone reduces roaming prices for summer 2026",
+    "summary": "The operator offers cheaper rates for data usage abroad during the summer season.",
     "source": [
       "BandaAncha",
       "ADSLZone"
@@ -68,109 +69,107 @@
     "count": 2
   },
   {
-    "title": "AMD questions MacBook Neo gaming performance",
-    "summary": "AMD criticizes the lack of native games, low storage capacity, and few ports of Apple's affordable laptop.",
+    "title": "AI industry faces layoffs and bubble signals",
+    "summary": "Reports indicate a wave of job cuts in AI companies and warnings of a possible bubble in the sector.",
     "source": [
-      "El Chapuzas Informático",
-      "Xataka"
+      "TechCrunch",
+      "El Chapuzas Informático"
     ],
     "count": 2
   },
   {
-    "title": "New generative AI models and tools",
-    "summary": "Apple presents its foundational models, Rio de Janeiro launches an LLM, Microsoft develops Mirage for video, and Google Cloud launches Open Knowledge Format.",
+    "title": "Nvidia issues $20 billion in bonds to finance AI",
+    "summary": "The chip company turns to the debt market to raise capital for its AI expansion.",
     "source": [
-      "Hacker News",
       "The Decoder"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Wine 11.11 and SteamOS 3.8.9 Beta improve game compatibility",
-    "summary": "The new versions of Wine and SteamOS fix audio errors, screen tearing, and improve overall stability for gaming on Linux.",
+    "title": "SpaceX hits record IPO of $85.7 billion",
+    "summary": "Elon Musk's space company makes the largest initial public offering in its history.",
     "source": [
-      "AlternativeTo.net",
+      "TechCrunch"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Fei-Fei Li launches World Labs, an AI company valued at $1 billion",
+    "summary": "The renowned researcher founds a new AI company with a valuation of $1 billion.",
+    "source": [
+      "Fast Company"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Microsoft CEO warns about concentration of AI benefits",
+    "summary": "Satya Nadella warns that a small number of AI systems could capture all economic returns.",
+    "source": [
+      "The Decoder"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Critical vulnerability in Microsoft 365 Copilot allows theft of emails and files",
+    "summary": "A security flaw in Microsoft 365 Copilot could have allowed attackers to access sensitive information and MFA codes.",
+    "source": [
+      "The Hacker News"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Palo Alto warns of active exploitation of a vulnerability in GlobalProtect VPN",
+    "summary": "The security company reports that a flaw in PAN-OS GlobalProtect is being actively used by attackers.",
+    "source": [
+      "The Hacker News"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Meta develops facial recognition for its glasses with a Pentagon supplier",
+    "summary": "Zuckerberg's company works on facial recognition prototypes for its smart glasses in collaboration with a military contractor.",
+    "source": [
+      "Feed: Artificial Intelligence Latest"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Sarvam becomes India's new AI unicorn with $234 million",
+    "summary": "The Indian AI startup reaches a valuation of over $1 billion after a round led by HCLTech.",
+    "source": [
+      "TechCrunch"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Copper-transporting drug restores memory and removes Alzheimer's toxic proteins",
+    "summary": "Scientists discover that a copper-transporting drug can reverse memory loss and clear Alzheimer's-associated proteins.",
+    "source": [
+      "Hacker News"
+    ],
+    "count": 1
+  },
+  {
+    "title": "AMD does not pay promised bounty to security researcher",
+    "summary": "The company does not deliver the $10,000 offered for discovering a vulnerability in its update software.",
+    "source": [
       "El Chapuzas Informático"
     ],
-    "count": 2
-  },
-  {
-    "title": "US reaches peace agreement with Iran",
-    "summary": "The United States and Tehran sign an agreement that restores the situation prior to the start of the war.",
-    "source": [
-      "Xataka"
-    ],
     "count": 1
   },
   {
-    "title": "YouTube in shock after helicopter crash deaths of Gaspi, Oliver Tree, and Lucas Vignale",
-    "summary": "The famous YouTubers die in a helicopter crash, generating expressions of grief from Ibai, ElRubius, and other creators.",
-    "source": [
-      "ADSLZone"
-    ],
-    "count": 1
-  },
-  {
-    "title": "NASA seeks funding to solve one of the greatest mysteries of the cosmos",
-    "summary": "The space agency has a plan to unravel a cosmic enigma but lacks the necessary budget.",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "World's leading expert warns of Gulf Stream collapse",
-    "summary": "The weakening of the Atlantic current caused by the ocean itself threatens catastrophic climate changes.",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Chinese study criticizes NASA based on spacecraft that never existed",
-    "summary": "The report that supposedly discredited NASA contained a fundamental error: the spacecraft that was the subject of criticism was never built.",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Plastic recycling may not be as effective as previously thought",
-    "summary": "An analysis suggests that decades of plastic recycling have had a limited real impact.",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Korean youth turn to apps that sell nothing for a dopamine fix",
-    "summary": "Korean Gen Z finds satisfaction in apps that offer content without commercial transactions, given the high cost of living.",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "DTT will require retuning televisions in 2026 for a new channel",
-    "summary": "The Spanish government announces the addition of a new DTT channel that will require retuning televisions shortly.",
-    "source": [
-      "ADSLZone"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Trial overturned for misuse of AI by prosecution and defense",
-    "summary": "The judge cancels the trial and fines both parties after discovering they used generative artificial intelligence in their arguments.",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft CEO demands Xbox become profitable after 25 years of losses",
-    "summary": "Satya Nadella gives an ultimatum to the Xbox division to start generating profits or face consequences.",
+    "title": "Nintendo imposes measures against Switch 2 resellers",
+    "summary": "The company requires at least 50 hours played on Switch and limits one console per account to combat resale.",
     "source": [
       "El Chapuzas Informático"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Apple updates App Store rules to remove outdated or low-quality apps",
+    "summary": "The company reviews its guidelines to maintain the quality of the app store by removing outdated apps.",
+    "source": [
+      "AlternativeTo"
     ],
     "count": 1
   }
