@@ -1,26 +1,28 @@
 [
   {
-    "title": "マイクロソフト、Xboxを独立企業として分割することを検討",
-    "summary": "複数のメディアが、マイクロソフトがXboxを独立企業に分離することを検討していると報じている。",
+    "title": "Microsoft、Xboxを他の事業から分離しフランチャイズ開発を加速することを検討",
+    "summary": "複数の情報筋によると、マイクロソフトはXboxを独立した企業にすることを検討しており、主要フランチャイズの拡大を目指す一方、部門の低収益性に対する批判に直面している。",
     "source": [
+      "Rock Paper Shotgun",
       "GamesIndustry.biz",
       "3DJuegos",
       "Kotaku"
     ],
+    "count": 4
+  },
+  {
+    "title": "ソニックの開発者がゲーム業界への教訓を共有",
+    "summary": "複数のインタビューで、ソニックチームのメンバーはインディースタジオから学ぶことの重要性を強調し、フランチャイズのクラシックゲームを再リリースする際の制限について遺憾の意を表明した。",
+    "source": [
+      "GamesIndustry.biz",
+      "3DJuegos",
+      "Polygon"
+    ],
     "count": 3
   },
   {
-    "title": "『Vampire: The Masquerade - Bloodlines 2』の開発が終了",
-    "summary": "このRPGは、8ヶ月の開発期間を経て、最終パッチと要望されていた機能を追加し、開発を終了する。",
-    "source": [
-      "3DJuegos",
-      "Eurogamer.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Dead by Daylight、10周年で大規模なリワークを実施",
-    "summary": "Behaviour Interactiveは、ゲームがほぼ新しくなるほどの大規模な変更を発表。",
+    "title": "Dead by Daylightが10周年記念で大規模リニューアルを発表",
+    "summary": "Behaviour Interactiveは、ゲームに大幅な変更を加え、ほぼ新作のように感じさせる改修を含む、複数の新要素で周年を祝うと発表した。",
     "source": [
       "GameSpot",
       "Destructoid"
@@ -28,138 +30,141 @@
     "count": 2
   },
   {
-    "title": "Call of Duty: Modern Warfare 4、キャンペーンの早期アクセスを復活",
-    "summary": "3年ぶりに、新作ではキャンペーンを正式発売前にプレイできるようになる。",
+    "title": "Vampire: The Masquerade – Bloodlines 2、開発終了と大型パッチの配信",
+    "summary": "問題の多い開発を経て、このRPGはプレイヤーから要望のあった機能を実装した最後のパッチを受け取り、プロジェクトは終了する。",
     "source": [
+      "3DJuegos",
       "Eurogamer.net"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "『FF7 リバース』と『リメイク』、Steamで割引によりプレイヤーが増加",
-    "summary": "第三部への期待が、前作の売上を押し上げている。",
+    "title": "Hidetaka MiyazakiがFromSoftwareの投資家からの圧力に応じる",
+    "summary": "FromSoftwareの社長は、より安全な続編を作るよう求める声に応え、まだ発表されていない将来のタイトルに言及した。これはKadokawa内での論争の中で行われた。",
     "source": [
-      "Eurogamer.net"
+      "3DJuegos",
+      "PC Gamer"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "『Dragon's Dogma 2』、デラックスエディションと物議を醸したマイクロトランザクションを削除",
-    "summary": "カプコンは批判を受け、デラックス版と時間節約アイテムの販売を中止した。",
+    "title": "The Witcher最新情報：マルチプレイヤーモッドと無料ゲームの可能性",
+    "summary": "ModによりThe Witcher 3にマルチプレイヤー対戦が追加される一方、フランチャイズの新作は無料でプレイでき、自分だけのウィッチャーを作成できるとの報道がある。",
     "source": [
-      "Eurogamer.net"
+      "Rock Paper Shotgun",
+      "Destructoid"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Forza Horizon 6、進行状況の損失を防ぐための必須パッチを公開",
-    "summary": "プレイヤーはセーブデータの破損を防ぐためにアップデートする必要がある。",
-    "source": [
-      "Eurogamer.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Nintendo Switch 2に必須の要素についての議論",
-    "summary": "Nintendo Lifeはコミュニティに、次世代コンソールに必須のゲームや機能を尋ねている。",
+    "title": "Zelda: Ocarina of Timeの記述がオリジナルに忠実なリメイクを示唆",
+    "summary": "Nintendo 64の名作の再リリースの可能性に関するリークが、シリーズファンの間で期待を集めている。",
     "source": [
       "Nintendo Life"
     ],
     "count": 1
   },
   {
-    "title": "マイクロソフトCEO、Xboxの利益の低さを批判",
-    "summary": "サティア・ナデラ氏は、Xboxのゲームのマネタイズが自社プラットフォームよりもYouTubeで多いと指摘している。",
+    "title": "コミュニティがNintendo Switch 2に必須のゲームとアクセサリーについて議論",
+    "summary": "コミュニティは、任天堂の次期コンソールの発売に伴うべきタイトルと付属品について議論している。",
+    "source": [
+      "Nintendo Life"
+    ],
+    "count": 1
+  },
+  {
+    "title": "'Gears of War: E-Day'のXbox専売決定後、'Halo Campaign Evolved'がPlayStationの予約リストで上昇",
+    "summary": "Gears of War: E-DayがXbox専用となることが確認された後、HaloゲームがSonyのプラットフォームで予約を集め始めている。",
+    "source": [
+      "Eurogamer.net"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Call of Duty Modern Warfare 4、キャンペーン早期アクセスを復活",
+    "summary": "3年ぶりに、フランチャイズは全世界発売前にキャンペーンをプレイできる伝統を復活させる。",
+    "source": [
+      "Eurogamer.net"
+    ],
+    "count": 1
+  },
+  {
+    "title": "『Final Fantasy 7 Revelation』への期待で、ファンがSteamで『Remake』と『Rebirth』を再プレイ",
+    "summary": "次作『Final Fantasy 7 Revelation』への熱狂が、前作のプレイヤー数を増加させている。これらの作品は割引販売中でもある。",
+    "source": [
+      "Eurogamer.net"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Capcom社長、同社の最近の成功の鍵を明かす",
+    "summary": "インタビューで、幹部はResident Evilや他のフランチャイズを成功に導いた戦略を説明している。",
     "source": [
       "Kotaku"
     ],
     "count": 1
   },
   {
-    "title": "カプコン社長、『バイオハザード』成功の秘訣を明かす",
-    "summary": "辻本春弘氏がシリーズの好調の背後にある戦略を説明している。",
+    "title": "Steam、開発者にゲーム内での人工知能の使用開示を義務化",
+    "summary": "Valveのプラットフォームは、公開されたタイトルにおけるAIの使用についてプレイヤーに知らせるための新しいルールを導入した。",
     "source": [
-      "Kotaku"
+      "PC Gamer"
     ],
     "count": 1
   },
   {
-    "title": "投資ファンド、FromSoftwareに安全な続編の制作を要求",
-    "summary": "投資家はバンダイナムコから距離を置きたがっており、宮崎英高氏は自身のアプローチを擁護している。",
+    "title": "ボディカモフラージュでかくれんぼするゲーム、4日間で100万本を販売",
+    "summary": "インディータイトルが、ステルスメカニクスと環境に溶け込むためのボディペイントを組み合わせ、バイラルな成功を収めた。",
+    "source": [
+      "PC Gamer"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Blizzard、World of Warcraftの別のプライベートサーバーを権利侵害で提訴",
+    "summary": "同社は、知的財産権の大規模な侵害で非公式サーバーに対して訴訟を起こした。",
+    "source": [
+      "PC Gamer"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Frontier、Planet ResortとPlanet Festivalの商標を登録、新作ゲームを示唆",
+    "summary": "Planet CoasterとPlanet Zooを手がけるスタジオは、新しい公園とフェスティバルのシミュレーターを2つ準備しているようだ。",
+    "source": [
+      "PC Gamer"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Fumito Ueda、Bluepoint Gamesの閉鎖についてSonyへの失望を表明",
+    "summary": "The Last Guardianのクリエイターは、リマスターを手がけたスタジオの閉鎖というSonyの決定を遺憾に思っている。",
     "source": [
       "3DJuegos"
     ],
     "count": 1
   },
   {
-    "title": "宮崎英高氏、角川の論争の中、未発表タイトルに言及",
-    "summary": "フロム・ソフトウェアのディレクターは、親会社の状況についてコメントする一方で、将来のプロジェクトにも言及している。",
-    "source": [
-      "PCGamer"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Blizzard、World of Warcraftの別のプライベートサーバーを提訴",
-    "summary": "同社は、そのサーバーが大規模かつ継続的に知的財産権を侵害していると非難している。",
-    "source": [
-      "PCGamer"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Summer Game Festで見逃しがちな注目のインディー7選",
-    "summary": "Kotakuは、数多くの発表の中から注目すべきインディータイトルをピックアップしている。",
-    "source": [
-      "Kotaku"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ソニックの生みの親、Backroomsの成功から業界が学べると語る",
-    "summary": "開発者は、ユーザー生成によるホラー現象を手本として挙げている。",
-    "source": [
-      "Polygon"
-    ],
-    "count": 1
-  },
-  {
-    "title": "上田文人氏、Bluepoint Gamesへの対応でソニーに失望を表明",
-    "summary": "『人喰いの大鷲トリコ』の生みの親は、リメイクを担当したスタジオに対するソニーの対応の仕方を遺憾に思っている。",
+    "title": "『La Velada del Año 5』参加者Gaspi、ブラジルでのヘリコプター事故で死去",
+    "summary": "有名なストリーマーでアマチュアボクサーでもある彼は、ブラジルでのヘリコプター飛行中に悲劇的に亡くなった。",
     "source": [
       "3DJuegos"
     ],
     "count": 1
   },
   {
-    "title": "『ペルソナ4 リバイバル』、『ペルソナ4 ゴールデン』の内容を含む可能性",
-    "summary": "Polygonは、リメイクが拡張バージョンを採用する可能性を分析している。",
+    "title": "UKIE、英政府がビデオゲームをソーシャルメディアとは別に分類したことを歓迎",
+    "summary": "英国のゲーム業界団体は、ゲームをソーシャルメディア規制の対象外とする政府の決定を称賛している。",
     "source": [
-      "Polygon"
+      "GamesIndustry.biz"
     ],
     "count": 1
   },
   {
-    "title": "『Returnal』ディレクター、Deus ExとResident Evilからの影響を語る",
-    "summary": "ハリー・クルーガー氏は、これらのクラシックがどのようにHousemarqueのデザインを形作ったかを詳しく説明している。",
+    "title": "Dragon's Dogma 2、デラックスエディションの販売終了と一部マイクロトランザクションの一時的撤去",
+    "summary": "Capcomはゲームの特別版の販売を終了し、物議を醸した一部の有料アイテムを市場から撤去した。",
     "source": [
-      "PCGamer"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ソニックの責任者、多くのクラシックゲームを再リリースできないことを認める",
-    "summary": "飯塚隆氏は、過去のカタログを復活させるための法的および技術的な難しさを認識している。",
-    "source": [
-      "3DJuegos"
-    ],
-    "count": 1
-  },
-  {
-    "title": "「組み立てライン式」MMOはもはや成立しない、とベテラン開発者",
-    "summary": "Ultima OnlineやSWGの元開発者たちは、現在のコストではこのモデルは持続不可能だと主張している。",
-    "source": [
-      "PCGamer"
+      "Eurogamer.net"
     ],
     "count": 1
   }
