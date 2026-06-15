@@ -1,165 +1,183 @@
 [
   {
-    "title": "US Government forces Anthropic to disable its Fable AI models after Amazon pressure",
-    "summary": "Anthropic suspended access to its Fable models by government order, affecting its deployment in India and other countries.",
-    "source": [
-      "TechCrunch",
-      "Kagi News",
-      "The Decoder"
-    ],
-    "count": 3
-  },
-  {
-    "title": "KPMG withdraws artificial intelligence report for containing false case studies",
-    "summary": "Consulting firm KPMG admitted that its AI adoption report included fabricated cases and withdrew it after accusations of hallucinations.",
+    "title": "Advances and controversies in artificial intelligence",
+    "summary": "News about AI developments, their business impact and ethical debates.",
     "source": [
       "Hacker News",
+      "TechCrunch",
+      "The Decoder",
+      "Fast Company"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Politics, regulations and social mobilizations",
+    "summary": "Articles about government decisions and regulations in various countries.",
+    "source": [
+      "Fast Company",
+      "TechCrunch",
+      "ADSLZone",
+      "Xataka"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Microsoft: operating system and consoles in trouble",
+    "summary": "News about Windows 11 and Xbox losses.",
+    "source": [
+      "Hacker News",
+      "El Chapuzas Informático"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple: performance of M1 and M5 chips",
+    "summary": "News about Apple processors and their thermal effects.",
+    "source": [
+      "Hacker News",
+      "El Chapuzas Informático"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google: news in storage and cloud",
+    "summary": "Improvements in Google Drive and open format for AI.",
+    "source": [
+      "ADSLZone",
       "The Decoder"
     ],
     "count": 2
   },
   {
-    "title": "Rio de Janeiro's language model turns out to be a modified version of an existing one",
-    "summary": "Despite being proclaimed as local development, the city hall's Rio3.5 model is based on Qwen and outperforms its predecessor in benchmarks.",
+    "title": "New processors and computer components",
+    "summary": "Launches of Intel, AMD and cooling accessories.",
     "source": [
-      "Hacker News"
+      "El Chapuzas Informático",
+      "ADSLZone"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "US state attorneys general cite OpenAI for security practices in ChatGPT",
-    "summary": "Several states have launched an investigation into how OpenAI manages the security of its artificial intelligence assistant.",
+    "title": "Space news: lunar debris and colonization of Mars",
+    "summary": "Articles about space exploration and the situation of SpaceX.",
     "source": [
-      "Kagi News"
+      "TechCrunch",
+      "Xataka"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "More than 1,500 malicious packages detected in Arch Linux's AUR repository",
-    "summary": "Arch Linux's user repository was compromised with malware affecting thousands of distribution users.",
+    "title": "Health studies and healthy habits",
+    "summary": "Research on sleep, nutrition and mental well-being.",
     "source": [
-      "Kagi News"
+      "Hacker News",
+      "Xataka"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Meta reverses $2 billion investment in Chinese startup Manus due to Beijing's demands",
-    "summary": "Mark Zuckerberg's company canceled the deal with Manus after pressure from the Chinese government.",
+    "title": "Business strategies and financial markets",
+    "summary": "Tips to make money and news about IPOs.",
     "source": [
+      "Hacker News",
       "TechCrunch"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "SpaceX surpasses Tesla in market value according to mobility report",
-    "summary": "Elon Musk's space company has overtaken the automotive company in stock market capitalization.",
+    "title": "Programming and software best practices",
+    "summary": "Articles about languages, tools and development philosophy.",
     "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Artificial intelligence companies rush to IPOs with great anticipation",
-    "summary": "AI startups are going public, attracting investors and reviving the initial public offering market.",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Switzerland rejects population cap of ten million in referendum",
-    "summary": "Swiss voters decided not to impose a population cap, allowing free immigration.",
-    "source": [
-      "Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Scientists identify a cold patch in the Atlantic as possible sign of AMOC collapse",
-    "summary": "The formation of a zone of anomalously cold waters could be a sign of slowing of the Gulf Stream.",
-    "source": [
-      "Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "FAA changes rules for drone flights beyond visual line of sight",
-    "summary": "The new regulations will allow drones to be used at greater distances, boosting their commercial application.",
-    "source": [
-      "Fast Company"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Villa Baviera: the story of the Nazi refuge in Chile that became Colonia Dignidad",
-    "summary": "The article reveals the origins of the German colony founded by ex-Nazis in southern Chile.",
-    "source": [
+      "Hacker News",
       "Xataka"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "A large study confirms that early menopause dramatically increases risk of heart attack and stroke",
-    "summary": "The decrease of estrogen in early menopause significantly increases cardiovascular risk.",
+    "title": "Tech offers and buying guides",
+    "summary": "Discounts on smartwatches and MediaMarkt products.",
     "source": [
+      "ADSLZone",
       "Xataka"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "BYD aims to dethrone Toyota in five years with its electric cars",
-    "summary": "The Chinese manufacturer faces challenges in its local market that could delay its global expansion plan.",
+    "title": "New communication technologies and operators",
+    "summary": "News about spending limits in Digi and the arrival of 6G.",
     "source": [
+      "ADSLZone",
+      "BandaAncha"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Social changes and regulations in Spain",
+    "summary": "Mobilizations for retirement, tax alerts and travel with minors.",
+    "source": [
+      "ADSLZone",
       "Xataka"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "A submarine finds a whale graveyard at 7,000 meters depth in the Indian Ocean",
-    "summary": "The discovery of a large deposit of whale remains on the seabed surprises the scientific community.",
+    "title": "Innovations in transport and electric mobility",
+    "summary": "Projects of fast trains and competition in electric cars.",
     "source": [
+      "ADSLZone",
       "Xataka"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Releasing 500 turtles could green the Sahara desert according to a study",
-    "summary": "The project proposes using turtles to disperse seeds and restore vegetation in the Saharan region.",
+    "title": "Speakers, headphones and portable air conditioning",
+    "summary": "Analysis of audio and air conditioning products.",
     "source": [
-      "Xataka"
+      "TechCrunch",
+      "Xataka",
+      "ADSLZone"
     ],
-    "count": 1
+    "count": 3
   },
   {
-    "title": "A map divides countries into those that will become extinct and those that will survive demographically",
-    "summary": "The demographic analysis shows that the world population will concentrate in a few regions, while sub-Saharan Africa will continue to grow.",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "University students are losing the ability to read with concentration, study warns",
-    "summary": "Excessive use of digital devices is reducing critical reading ability among students.",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "In the age of artificial intelligence, some argue that software should still fit on a floppy disk",
-    "summary": "Minimalist currents advocate for lightweight programs that work even on devices with limited resources.",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Intel unveils new Core 200 CPUs for LGA1700 socket with DDR4 memory support",
-    "summary": "Intel's Raptor Lake Next processors offer direct competition with AMD's AM4 platform.",
+    "title": "Updates on video game platforms and legal disputes",
+    "summary": "News about SteamOS, Nintendo and the lawsuit against Palworld.",
     "source": [
       "El Chapuzas Informático"
     ],
     "count": 1
+  },
+  {
+    "title": "Historical and cultural curiosities",
+    "summary": "Stories about Roman mansions, the Beatles and the Bible.",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Scientific discoveries and ecology",
+    "summary": "Findings in the ocean, reforestation with turtles and climate change.",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Malware in Arch Linux repositories",
+    "summary": "Alert about malicious packages in Arch Linux AUR.",
+    "source": [
+      "Kagi News"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Entrepreneurship and startup cases",
+    "summary": "Startup stories and tips for entrepreneurs.",
+    "source": [
+      "TechCrunch",
+      "Hacker News"
+    ],
+    "count": 2
   }
 ]

@@ -1,165 +1,183 @@
 [
   {
-    "title": "米国政府がAmazonの圧力を受けてAnthropicにAIモデルFableの無効化を強制",
-    "summary": "Anthropicは政府の命令によりFableモデルへのアクセスを停止し、インドなどへの展開に影響を与えた。",
-    "source": [
-      "TechCrunch",
-      "Kagi News",
-      "The Decoder"
-    ],
-    "count": 3
-  },
-  {
-    "title": "KPMG、偽のケーススタディを含むAI報告書を撤回",
-    "summary": "コンサルティング会社KPMGは、AI導入報告書に架空のケースが含まれていることを認め、幻覚（ハルシネーション）疑惑を受けて撤回した。",
+    "title": "人工知能の進歩と論争",
+    "summary": "AI開発、ビジネスへの影響、倫理的議論に関するニュース",
     "source": [
       "Hacker News",
+      "TechCrunch",
+      "The Decoder",
+      "Fast Company"
+    ],
+    "count": 4
+  },
+  {
+    "title": "政治、規制、社会運動",
+    "summary": "各国の政府決定や規制に関する記事",
+    "source": [
+      "Fast Company",
+      "TechCrunch",
+      "ADSLZone",
+      "Xataka"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Microsoft：OSとコンソールの苦境",
+    "summary": "Windows 11とXboxの損失に関するニュース",
+    "source": [
+      "Hacker News",
+      "El Chapuzas Informático"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple：M1チップとM5チップの性能",
+    "summary": "Appleプロセッサとその熱的影響に関するニュース",
+    "source": [
+      "Hacker News",
+      "El Chapuzas Informático"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google：ストレージとクラウドの最新情報",
+    "summary": "Google Driveの改善とAI向けオープンフォーマット",
+    "source": [
+      "ADSLZone",
       "The Decoder"
     ],
     "count": 2
   },
   {
-    "title": "リオデジャネイロの言語モデルは既存モデルの改良版であることが判明",
-    "summary": "地元開発と宣言されたにもかかわらず、市のRio3.5モデルはQwenをベースにしており、ベンチマークで先行モデルを上回っている。",
+    "title": "新しいプロセッサとコンピュータ部品",
+    "summary": "Intel、AMDの新製品と冷却アクセサリ",
     "source": [
-      "Hacker News"
+      "El Chapuzas Informático",
+      "ADSLZone"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "米国司法長官ら、ChatGPTのセキュリティ慣行でOpenAIを召喚",
-    "summary": "複数の州が、OpenAIのAIアシスタントのセキュリティ管理について調査を開始した。",
+    "title": "宇宙ニュース：月のゴミと火星殖民",
+    "summary": "宇宙探査とSpaceXの状況に関する記事",
     "source": [
-      "Kagi News"
+      "TechCrunch",
+      "Xataka"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Arch LinuxのAURリポジトリで1500以上の悪意あるパッケージが検出される",
-    "summary": "Arch Linuxのユーザーリポジトリがマルウェアに感染し、数千人のユーザーに影響を及ぼしている。",
+    "title": "健康研究と健康的な習慣",
+    "summary": "睡眠、食事、精神的健康に関する研究",
     "source": [
-      "Kagi News"
+      "Hacker News",
+      "Xataka"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Meta、北京の要求により中国スタートアップManusへの20億ドル投資を撤回",
-    "summary": "マーク・ザッカーバーグ氏の会社は中国政府の圧力を受けてManusとの契約をキャンセルした。",
+    "title": "ビジネス戦略と金融市場",
+    "summary": "お金を稼ぐためのアドバイスとIPOニュース",
     "source": [
+      "Hacker News",
       "TechCrunch"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "モビリティレポートによると、SpaceXが時価総額でテスラを上回る",
-    "summary": "イーロン・マスク氏の宇宙事業会社が自動車メーカーを株式時価総額で上回った。",
+    "title": "プログラミングとソフトウェアのベストプラクティス",
+    "summary": "言語、ツール、開発哲学に関する記事",
     "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AI企業がIPOラッシュ、大きな期待を集める",
-    "summary": "AIスタートアップが株式公開を行い、投資家を引き付け、IPO市場を活性化させている。",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "スイス、国民投票で人口1000万人制限を否決",
-    "summary": "スイス有権者は人口上限を設けず、自由な移民を認めることを決定した。",
-    "source": [
-      "Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "科学者らが大西洋の寒冷域をAMOC崩壊の兆候と特定",
-    "summary": "異常に冷たい海域の形成は、メキシコ湾流の減速の兆候である可能性がある。",
-    "source": [
-      "Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "FAA、ドローンの目視外飛行に関する規則を変更",
-    "summary": "新たな規制によりドローンのより遠距離での使用が可能になり、商用利用が促進される。",
-    "source": [
-      "Fast Company"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ビジャ・バビエラ：チリのナチスの隠れ家がコロニア・ディグニダとなった歴史",
-    "summary": "この記事は、チリ南部に元ナチスによって設立されたドイツ人コロニーの起源を明らかにする。",
-    "source": [
+      "Hacker News",
       "Xataka"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "大規模研究で早期閉経が心筋梗塞や脳卒中のリスクを急上昇させることが確認される",
-    "summary": "早期閉経におけるエストロゲンの減少は、心血管リスクを大幅に高める。",
+    "title": "テクノロジーセールと購入ガイド",
+    "summary": "スマートウォッチやMediaMarkt製品の割引",
     "source": [
+      "ADSLZone",
       "Xataka"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "BYD、5年以内に電気自動車でトヨタを打倒する構え",
-    "summary": "中国メーカーは国内市場で課題に直面しており、世界的拡大計画が遅れる可能性がある。",
+    "title": "新しい通信技術と通信事業者",
+    "summary": "Digiの利用制限と6Gの到来に関するニュース",
     "source": [
+      "ADSLZone",
+      "BandaAncha"
+    ],
+    "count": 2
+  },
+  {
+    "title": "スペインの社会変化と規制",
+    "summary": "年金改革の動き、税務警告、未成年者との旅行",
+    "source": [
+      "ADSLZone",
       "Xataka"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "潜水艦がインド洋の水深7000メートルでクジラの墓場を発見",
-    "summary": "海底で大量のクジラの遺骸が発見され、科学界を驚かせている。",
+    "title": "交通と電気モビリティの革新",
+    "summary": "高速鉄道プロジェクトと電気自動車の競争",
     "source": [
+      "ADSLZone",
       "Xataka"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "研究によると、カメ500匹を放つことでサハラ砂漠を緑化できる可能性",
-    "summary": "このプロジェクトは、カメを種子散布に利用し、サハラ地域の植生回復を提案している。",
+    "title": "スピーカー、ヘッドホン、ポータブル空調",
+    "summary": "オーディオ製品とエアコンの分析",
     "source": [
-      "Xataka"
+      "TechCrunch",
+      "Xataka",
+      "ADSLZone"
     ],
-    "count": 1
+    "count": 3
   },
   {
-    "title": "人口減少で消える国と生き残る国を分ける地図",
-    "summary": "人口動態分析によると、世界人口は少数の地域に集中し、サハラ以南アフリカは成長を続ける。",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "大学生が集中して読む能力を失いつつあると研究が警告",
-    "summary": "デジタル機器の過剰使用が学生の批判的読解力を低下させている。",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AI時代、ソフトウェアはフロッピーディスクに入るべきと主張する声",
-    "summary": "ミニマリストの流れは、限られたリソースのデバイスでも動作する軽量プログラムを提唱している。",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Intel、LGA1700ソケット向け新CPU Core 200シリーズを発表、DDR4メモリ対応",
-    "summary": "IntelのRaptor Lake Nextプロセッサは、AMDのAM4プラットフォームと直接競合する。",
+    "title": "ゲームプラットフォームのアップデートと法的紛争",
+    "summary": "SteamOS、Nintendo、Palworld訴訟に関するニュース",
     "source": [
       "El Chapuzas Informático"
     ],
     "count": 1
+  },
+  {
+    "title": "歴史と文化の豆知識",
+    "summary": "ローマの邸宅、ビートルズ、聖書に関する話",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "科学的発見と生態学",
+    "summary": "海洋の発見、カメによる再植林、気候変動",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Arch Linuxリポジトリのマルウェア",
+    "summary": "Arch Linux AURの悪意あるパッケージに関する警告",
+    "source": [
+      "Kagi News"
+    ],
+    "count": 1
+  },
+  {
+    "title": "起業とスタートアップ事例",
+    "summary": "スタートアップの物語と起業家へのアドバイス",
+    "source": [
+      "TechCrunch",
+      "Hacker News"
+    ],
+    "count": 2
   }
 ]

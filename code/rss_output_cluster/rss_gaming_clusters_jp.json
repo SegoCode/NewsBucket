@@ -1,17 +1,16 @@
 [
   {
-    "title": "MicrosoftとXbox、収益性に関する批判に直面、再編を検討",
-    "summary": "複数の報道によると、MicrosoftはXbox事業の持続可能性を目指しており、独自子会社としての再編の可能性がある。",
+    "title": "Dead by Daylight、10周年を祝う大規模アップデート",
+    "summary": "Behaviour Interactiveが非対称ゲームの大幅なリニューアルと新コンテンツを公開。",
     "source": [
-      "3DJuegos",
-      "Eurogamer",
-      "Kotaku"
+      "GameSpot",
+      "Destructoid"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "投資家がFromSoftwareに安全な続編を要求、宮崎氏が応答",
-    "summary": "投資ファンドはFromSoftwareにバンダイナムコを離れ、安全な続編に集中するよう求めており、宮崎氏はKADOKAWA内の論争についてコメントしている。",
+    "title": "Miyazaki、FromSoftwareへの投資家からの圧力に回答",
+    "summary": "FromSoftware社長、Kadokawaの騒動と安全な続編を求める要求についてコメント。",
     "source": [
       "3DJuegos",
       "PCGamer"
@@ -19,8 +18,17 @@
     "count": 2
   },
   {
-    "title": "ソニック：再リリースの困難とBackroomsの教訓",
-    "summary": "ソニックの開発者たちは、多くの旧作ゲームを再リリースできないことや、Backroomsの成功をインスピレーションとして議論している。",
+    "title": "Microsoft、低収益を理由にXboxの独立企業化を検討",
+    "summary": "CEOの不満とプラットフォーム維持のための多額の投資を受け、戦略的変更を評価。",
+    "source": [
+      "3DJuegos",
+      "Kotaku"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ソニック開発者、フランチャイズの課題を語る",
+    "summary": "SEGA、Backroomsの成功とソニッククラシックゲーム再リリースの難しさについて考察。",
     "source": [
       "3DJuegos",
       "Polygon"
@@ -28,138 +36,128 @@
     "count": 2
   },
   {
-    "title": "鬼武者：Way of the Sword、Switch 2での解像度とフレームレートを公開",
-    "summary": "カプコンがNintendo Switch 2におけるゲームの技術仕様を確認した。",
+    "title": "Vampire: The Masquerade - Bloodlines 2、開発完了と大規模パッチ配信",
+    "summary": "ゲームは開発完了後、コミュニティから要望の多かった機能を含む最終アップデートを受け取る。",
     "source": [
-      "Kagi News",
+      "Eurogamer"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Dragon's Dogma 2、デラックスエディションと物議を醸したマイクロトランザクションを削除",
+    "summary": "Capcom、批判を受けゲームからデラックスエディションと一部のマイクロトランザクションを削除。",
+    "source": [
+      "Eurogamer"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Forza Horizon 6、データ損失防止のための必須パッチをリリース",
+    "summary": "プレイヤーは進行状況とセーブデータを保護するため、新しいアップデートを適用することが推奨される。",
+    "source": [
+      "Eurogamer"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ボディペイントかくれんぼゲーム、発売4日で100万本を販売",
+    "summary": "このサバイバル＆カモフラージュインディータイトルが即座に販売成功を収める。",
+    "source": [
+      "PCGamer"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Blizzard、大規模な権利侵害でWoWプライベートサーバーを再び提訴",
+    "summary": "同社はサーバーが大規模に知的財産権を侵害していると非難。",
+    "source": [
+      "PCGamer"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Frontier、次回作に向けて『Planet Resort』と『Planet Festival』の商標を登録",
+    "summary": "『Planet Coaster』や『Planet Zoo』のスタジオが、観光またはフェスティバルをテーマにした新作を準備中。",
+    "source": [
+      "PCGamer"
+    ],
+    "count": 1
+  },
+  {
+    "title": "新作『The Witcher』、ストーリー作成機能を搭載し基本プレイ無料に",
+    "summary": "フランチャイズの次回作は基本プレイ無料となり、コンテンツ作成ツールを備えると報じられる。",
+    "source": [
+      "Destructoid"
+    ],
+    "count": 1
+  },
+  {
+    "title": "FC 26、Ultimate Teamに新たな進化とチャレンジを追加",
+    "summary": "EA Sports FC 26、選手進化やSBC報酬などの新コンテンツを配信。",
+    "source": [
+      "Destructoid"
+    ],
+    "count": 1
+  },
+  {
+    "title": "『Enginefall』、今年最も革新的なサバイバルゲームを約束",
+    "summary": "本作は終末世界で『Snowpiercer』と『Rust』の要素を組み合わせている。",
+    "source": [
+      "Polygon"
+    ],
+    "count": 1
+  },
+  {
+    "title": "『Persona 4』再リリース版、『Persona 4 Golden』の全コンテンツを含むか憶測広がる",
+    "summary": "ファンはリニューアル版『Persona 4』がゴールデンエディションの全機能を備えるのか疑問視している。",
+    "source": [
+      "Polygon"
+    ],
+    "count": 1
+  },
+  {
+    "title": "DCUにおける『Clayface』映画について知っておくべき全て",
+    "summary": "本作が新しいDCユニバースの一部となるのか、『The Batman』のスピンオフとなるのかが明らかに。",
+    "source": [
+      "Polygon"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Capcom社長、『バイオハザード』継続的成功の秘訣を明かす",
+    "summary": "日本の同社の業界における最近の好調の背後にある戦略を説明。",
+    "source": [
+      "Kotaku"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Summer Game Festで見逃せないインディーゲーム7選",
+    "summary": "イベント中に紹介された注目すべき厳選インディータイトル。",
+    "source": [
+      "Kotaku"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Nintendo Switch 2に必須のゲームとアクセサリーは？",
+    "summary": "任天堂の次世代機に欠かせないタイトルと周辺機器について議論が交わされる。",
+    "source": [
       "Nintendo Life"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Vanillaware、PC移植には出版社の資金が必要",
-    "summary": "スタジオの創業者は、PC移植は出版社に依存していると述べている。",
+    "title": "『DOKAPON 3-2-1: Super Collection!』、6月29日にPC向け発売決定",
+    "summary": "人気のボードゲーム＆ミニゲーム集がSteamでの発売日を正式発表。",
     "source": [
-      "Kagi News",
-      "Rock Paper Shotgun"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ボディペイントかくれんぼゲーム、4日間で100万本を販売",
-    "summary": "インディーズタイトルが大きな売上成功を収めた。",
-    "source": [
-      "PCGamer"
+      "Gematsu"
     ],
     "count": 1
   },
   {
-    "title": "Blizzard、WoWプライベートサーバーを大規模侵害で提訴",
-    "summary": "BlizzardがWorld of Warcraftのプライベートサーバーを知的財産権侵害で訴えた。",
-    "source": [
-      "PCGamer"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Vampire: The Masquerade - Bloodlines 2、大規模パッチで開発完了",
-    "summary": "ゲームはコミュニティが要望した機能を含む最終パッチを受け取った。",
-    "source": [
-      "Eurogamer"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Forza Horizon 6、データ損失防止のための必須パッチを受け取る",
-    "summary": "プレイヤーは進行状況を失わないためにパッチを適用する必要がある。",
-    "source": [
-      "Eurogamer"
-    ],
-    "count": 1
-  },
-  {
-    "title": "NintendoのPalworldに対する法的闘争が弱まる",
-    "summary": "Nintendoが訴訟に勝っても最低限の賠償しか得られない可能性があると報じられている。",
-    "source": [
-      "PCGamer"
-    ],
-    "count": 1
-  },
-  {
-    "title": "カプコン社長、好調の秘訣を説明",
-    "summary": "社長が会社の持続的な成功の鍵を明かした。",
-    "source": [
-      "Kotaku"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Frontier、Planet ResortとPlanet Festivalの商標を登録",
-    "summary": "同社は動物園や遊園地以外のPlanetシリーズ新作を開発中。",
-    "source": [
-      "PCGamer"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SonyのPC撤退は中国にも影響",
-    "summary": "SonyがPCと中国市場でのプレゼンスを縮小している。",
-    "source": [
-      "PCGamer"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Rockstar共同創設者、オープンワールドプレイヤーはストーリーをクリアする必要はないと語る",
-    "summary": "共同創設者がオープンワールドゲームにおけるプレイヤーの自由について意見を述べた。",
-    "source": [
-      "Kagi News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Spore開発者、プレビューでの過剰な野心を認める",
-    "summary": "開発者らはプレビューが達成不可能な期待を生んだことを認めた。",
-    "source": [
-      "PCGamer"
-    ],
-    "count": 1
-  },
-  {
-    "title": "上田文人、SonyがBluepointにしたことに失望",
-    "summary": "The Last GuardianのクリエイターがBluepoint Gamesの状況に悲しみを表明した。",
-    "source": [
-      "3DJuegos"
-    ],
-    "count": 1
-  },
-  {
-    "title": "モバイルスタジオ、ブランド荒らし'EDGE'を排除へ",
-    "summary": "あるスタジオがTim LangdellによるEdge商標の不正使用を止めるため法的措置を開始した。",
-    "source": [
-      "Kotaku"
-    ],
-    "count": 1
-  },
-  {
-    "title": "X-Men '97がシーズン2で復帰、Rotten Tomatoesで100%を維持",
-    "summary": "アニメスーパーヒーローシリーズが批評的成功を続けている。",
-    "source": [
-      "3DJuegos"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Enginefall：長年で最も革新的なサバイバルゲーム、SnowpiercerとRustを融合",
-    "summary": "プレビューでは、サバイバルゲームのユニークなメカニクスが強調されている。",
-    "source": [
-      "Polygon"
-    ],
-    "count": 1
-  },
-  {
-    "title": "元Bungie社員、スタジオ救済のために最後のDestinyゲーム購入を提案",
-    "summary": "Destiny 2の終了後、Bungieが将来を確保するために最後のタイトルを売却するよう提案されている。",
+    "title": "『La Velada del Año 5』参加予定のストリーマーGaspi、ブラジルでのヘリコプター事故で死去",
+    "summary": "スペイン人のコンテンツクリエイターがイベント準備中に発生した悲劇的な事故で命を落とす。",
     "source": [
       "3DJuegos"
     ],
