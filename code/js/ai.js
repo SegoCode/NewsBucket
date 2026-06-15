@@ -32,6 +32,7 @@ for (const file of files) {
 		},
 		body: JSON.stringify({
 			model: "deepseek-v4-flash-free",
+			reasoning_effort: "high",
 			messages: [
 				{ role: "system", content: PROMPT },
 				{ role: "user", content: JSON.stringify(news) },
