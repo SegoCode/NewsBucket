@@ -1,183 +1,177 @@
 [
   {
-    "title": "人工知能の進歩と論争",
-    "summary": "AI開発、ビジネスへの影響、倫理的議論に関するニュース",
+    "title": "Anthropic、Claude Fable 5の開発停止、技術主権をめぐる議論を引き起こす",
+    "summary": "AnthropicによるFable 5の開発中止で、ホワイトハウスやアマゾンとの緊張が生まれ、欧州の人工知能における主権をめぐる議論が再燃している。",
     "source": [
-      "Hacker News",
-      "TechCrunch",
       "The Decoder",
+      "Hacker News",
+      "Xataka",
+      "El Chapuzas Informático"
+    ],
+    "count": 4
+  },
+  {
+    "title": "人工知能バブルに対する警告",
+    "summary": "経営幹部やアナリストは、大規模な解雇と利益の集中を伴うAIバブルの差し迫った崩壊を警告している。",
+    "source": [
+      "The Decoder",
+      "El Chapuzas Informático",
+      "TechCrunch"
+    ],
+    "count": 3
+  },
+  {
+    "title": "2026年ワールドカップの取材：ガイド、放送、ビジネス展望",
+    "summary": "2026年のサッカーW杯は、試合日程、オンライン地デジ放送のオプション、そしてアメリカサッカー連盟CEOのビジョンで注目を集めている。",
+    "source": [
+      "Xataka",
+      "ADSLZone",
       "Fast Company"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "政治、規制、社会運動",
-    "summary": "各国の政府決定や規制に関する記事",
+    "title": "サイバー攻撃とオンライン詐欺の波",
+    "summary": "セキュリティ警告は、悪意のあるChrome拡張機能、WordPressのバックドア、Facebookでの詐欺、VPNの脆弱性の悪用について警告している。",
     "source": [
+      "The Hacker News",
       "Fast Company",
-      "TechCrunch",
-      "ADSLZone",
-      "Xataka"
+      "Hacker News"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Microsoft：OSとコンソールの苦境",
-    "summary": "Windows 11とXboxの損失に関するニュース",
+    "title": "英国、16歳未満へのソーシャルメディア禁止を検討",
+    "summary": "英国政府は、青少年の精神的健康を改善するため、ソーシャルメディアへのアクセスを禁止する計画であり、スペインはそのモデルを注視している。",
     "source": [
-      "Hacker News",
-      "El Chapuzas Informático"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple：M1チップとM5チップの性能",
-    "summary": "Appleプロセッサとその熱的影響に関するニュース",
-    "source": [
-      "Hacker News",
-      "El Chapuzas Informático"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google：ストレージとクラウドの最新情報",
-    "summary": "Google Driveの改善とAI向けオープンフォーマット",
-    "source": [
-      "ADSLZone",
-      "The Decoder"
-    ],
-    "count": 2
-  },
-  {
-    "title": "新しいプロセッサとコンピュータ部品",
-    "summary": "Intel、AMDの新製品と冷却アクセサリ",
-    "source": [
-      "El Chapuzas Informático",
-      "ADSLZone"
-    ],
-    "count": 2
-  },
-  {
-    "title": "宇宙ニュース：月のゴミと火星殖民",
-    "summary": "宇宙探査とSpaceXの状況に関する記事",
-    "source": [
-      "TechCrunch",
-      "Xataka"
-    ],
-    "count": 2
-  },
-  {
-    "title": "健康研究と健康的な習慣",
-    "summary": "睡眠、食事、精神的健康に関する研究",
-    "source": [
-      "Hacker News",
-      "Xataka"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ビジネス戦略と金融市場",
-    "summary": "お金を稼ぐためのアドバイスとIPOニュース",
-    "source": [
-      "Hacker News",
+      "Xataka",
       "TechCrunch"
     ],
     "count": 2
   },
   {
-    "title": "プログラミングとソフトウェアのベストプラクティス",
-    "summary": "言語、ツール、開発哲学に関する記事",
+    "title": "Orbio、AI採用で2100万ユーロを調達",
+    "summary": "マドリードのスタートアップOrbioは、人工知能による人材選考を自動化し、拡大のための資金を調達している。",
     "source": [
-      "Hacker News",
-      "Xataka"
-    ],
-    "count": 2
-  },
-  {
-    "title": "テクノロジーセールと購入ガイド",
-    "summary": "スマートウォッチやMediaMarkt製品の割引",
-    "source": [
-      "ADSLZone",
-      "Xataka"
-    ],
-    "count": 2
-  },
-  {
-    "title": "新しい通信技術と通信事業者",
-    "summary": "Digiの利用制限と6Gの到来に関するニュース",
-    "source": [
-      "ADSLZone",
-      "BandaAncha"
-    ],
-    "count": 2
-  },
-  {
-    "title": "スペインの社会変化と規制",
-    "summary": "年金改革の動き、税務警告、未成年者との旅行",
-    "source": [
-      "ADSLZone",
-      "Xataka"
-    ],
-    "count": 2
-  },
-  {
-    "title": "交通と電気モビリティの革新",
-    "summary": "高速鉄道プロジェクトと電気自動車の競争",
-    "source": [
-      "ADSLZone",
-      "Xataka"
-    ],
-    "count": 2
-  },
-  {
-    "title": "スピーカー、ヘッドホン、ポータブル空調",
-    "summary": "オーディオ製品とエアコンの分析",
-    "source": [
-      "TechCrunch",
       "Xataka",
+      "TechCrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ボーダフォン、2026年夏に向けてより安いローミングを提供",
+    "summary": "同社は、アメリカ、メキシコ、日本、アジア・アフリカの数カ国などの目的地でのローミングパッケージの価格を引き下げる。",
+    "source": [
+      "BandaAncha",
       "ADSLZone"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "ゲームプラットフォームのアップデートと法的紛争",
-    "summary": "SteamOS、Nintendo、Palworld訴訟に関するニュース",
+    "title": "AMD、MacBook Neoのゲーム性能に疑問を呈す",
+    "summary": "AMDは、Appleの手頃なノートPCについて、ネイティブゲームの不足、低ストレージ容量、ポートの少なさを批判している。",
+    "source": [
+      "El Chapuzas Informático",
+      "Xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "生成AIの新しいモデルとツール",
+    "summary": "Appleは基礎モデルを発表、リオデジャネイロはLLMを公開、Microsoftは動画向けMirageを開発、Google CloudはOpen Knowledge Formatをリリース。",
+    "source": [
+      "Hacker News",
+      "The Decoder"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Wine 11.11とSteamOS 3.8.9 Beta、ゲーム互換性を向上",
+    "summary": "WineとSteamOSの新バージョンは、オーディオのバグやテアリングを修正し、Linuxでのゲームの全体的な安定性を向上させる。",
+    "source": [
+      "AlternativeTo.net",
+      "El Chapuzas Informático"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米国、イランとの和平合意に達する",
+    "summary": "米国とテヘランは、戦争開始前の状態を回復する協定に署名する。",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "YouTubeで衝撃、Gaspi、Oliver Tree、Lucas Vignaleがヘリコプター事故で死亡",
+    "summary": "有名YouTuberが航空事故で死亡し、Ibai、ElRubius、その他のクリエイターから哀悼の意が寄せられている。",
+    "source": [
+      "ADSLZone"
+    ],
+    "count": 1
+  },
+  {
+    "title": "NASA、宇宙最大の謎の一つを解明するための資金を求める",
+    "summary": "NASAは宇宙の謎を解明する計画を持っているが、必要な予算が不足している。",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "世界最高の専門家、メキシコ湾流の崩壊を警告",
+    "summary": "海洋自体によって引き起こされる大西洋海流の弱体化は、壊滅的な気候変動をもたらす恐れがある。",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "中国の研究、存在しなかった宇宙船を根拠にNASAを批判",
+    "summary": "NASAを貶めるはずだった報告書には根本的な誤りがあった。批判の対象となった宇宙船は実際には建造されていなかったのである。",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "プラスチックリサイクル、考えられていたほど効果的ではない可能性",
+    "summary": "分析によると、数十年にわたるプラスチックリサイクルは実際の影響は限定的だった可能性がある。",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "韓国の若者、何も売らないアプリでドーパミンを得る",
+    "summary": "韓国のZ世代は、生活費の高騰の中、商業取引なしでコンテンツを提供するアプリに満足感を見出している。",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "地デジ、2026年に新チャンネル開設でテレビの再調整が必要に",
+    "summary": "スペイン政府は、近日中にテレビの再調整を必要とする新しい地デジチャンネルの追加を発表した。",
+    "source": [
+      "ADSLZone"
+    ],
+    "count": 1
+  },
+  {
+    "title": "検察側と弁護側によるAIの不適切な使用で裁判が無効に",
+    "summary": "裁判官は、双方が弁論で生成AIを使用していたことを発見し、裁判を中止し両当事者に罰金を科した。",
+    "source": [
+      "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Microsoft CEO、25年もの赤字の後、Xboxに収益化を要求",
+    "summary": "サティア・ナデラはXbox部門に、利益を生み出し始めるか、さもなければ結果を受け入れるよう最後通告を突きつけた。",
     "source": [
       "El Chapuzas Informático"
     ],
     "count": 1
-  },
-  {
-    "title": "歴史と文化の豆知識",
-    "summary": "ローマの邸宅、ビートルズ、聖書に関する話",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "科学的発見と生態学",
-    "summary": "海洋の発見、カメによる再植林、気候変動",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Arch Linuxリポジトリのマルウェア",
-    "summary": "Arch Linux AURの悪意あるパッケージに関する警告",
-    "source": [
-      "Kagi News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "起業とスタートアップ事例",
-    "summary": "スタートアップの物語と起業家へのアドバイス",
-    "source": [
-      "TechCrunch",
-      "Hacker News"
-    ],
-    "count": 2
   }
 ]
