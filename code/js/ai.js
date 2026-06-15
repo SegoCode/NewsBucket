@@ -31,8 +31,7 @@ for (const file of files) {
 			Authorization: `Bearer ${process.env.OPENCODE_API_KEY}`,
 		},
 		body: JSON.stringify({
-			model: "deepseek-v4-flash-free",
-			reasoning_effort: "high",
+			model: "nemotron-3-ultra-free",
 			messages: [
 				{ role: "system", content: PROMPT },
 				{ role: "user", content: JSON.stringify(news) },
