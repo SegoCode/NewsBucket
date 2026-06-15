@@ -1,30 +1,29 @@
 [
   {
-    "title": "United Kingdom bans social media for under 16s",
-    "summary": "The British government implements a ban preventing under-16s from accessing platforms like TikTok and YouTube, aiming to protect their mental health.",
+    "title": "US government pressures Anthropic to shut down its most powerful AI models",
+    "summary": "Various sources report that the Trump administration forced Anthropic to disable its Claude Fable 5 and Mythos 5 models, sparking debate over technological sovereignty and security.",
     "source": [
-      "Fast Company",
-      "TechCrunch",
-      "El Chapuzas Informático",
-      "Xataka",
-      "Kagi News"
-    ],
-    "count": 5
-  },
-  {
-    "title": "US government bans advanced Anthropic models",
-    "summary": "The US administration blocks Anthropic's Claude Fable 5 and Mythos 5 models, sparking industry criticism and debate on technological sovereignty.",
-    "source": [
-      "TechCrunch",
-      "Fast Company",
       "The Decoder",
+      "TechCrunch",
+      "Fast Company",
       "El Chapuzas Informático"
     ],
     "count": 4
   },
   {
-    "title": "Fox acquires Roku for $22 billion",
-    "summary": "Media conglomerate Fox buys streaming platform Roku, consolidating the online television market.",
+    "title": "Microsoft: news on local AI, possible Xbox spin-off, security flaw, and CEO warning",
+    "summary": "Microsoft opens Windows 11 AI to GPUs without NPU, evaluates an Xbox spin-off, faces a critical Copilot flaw, and its CEO warns about the economic concentration of AI.",
+    "source": [
+      "El Chapuzas Informático",
+      "Fast Company",
+      "The Hacker News",
+      "The Decoder"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Fox acquires Roku in a $22 billion deal",
+    "summary": "Fox buys the streaming platform Roku, consolidating the streaming sector and affecting both companies' stocks.",
     "source": [
       "Fast Company",
       "TechCrunch",
@@ -33,143 +32,150 @@
     "count": 3
   },
   {
-    "title": "Salesforce buys customer service platform Fin for $3.6 billion",
-    "summary": "The acquisition of Fin (formerly Intercom) strengthens Salesforce's AI capabilities for customer service.",
+    "title": "UK bans social media for under-16s",
+    "summary": "The British government announces a ban on TikTok and YouTube for children, joining other countries that restrict access to social media.",
     "source": [
       "TechCrunch",
-      "Hacker News"
+      "Fast Company",
+      "El Chapuzas Informático"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Orbio raises $21 million to automate hiring with AI",
-    "summary": "The Madrid-based startup uses artificial intelligence to conduct job interviews and expands its business after funding.",
+    "title": "Debate on AI's impact on employment: uncertainty and bubble",
+    "summary": "Experts and developers question the future of work in the face of artificial intelligence, warning of a possible bubble and lack of clarity.",
     "source": [
       "Xataka",
-      "TechCrunch"
+      "Fast Company",
+      "El Chapuzas Informático"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Spain will debut in the World Cup against Cape Verde",
-    "summary": "The Spanish national team faces Cape Verde in its first match of the 2026 World Cup.",
+    "title": "Meta: multi-million dollar investment in AI, new AI mode on Facebook, and facial recognition prototype",
+    "summary": "Meta continues its bet on artificial intelligence with a large investment, a new feature on Facebook, and a facial recognition project for glasses.",
     "source": [
       "Xataka",
-      "ADSLZone"
+      "TechCrunch",
+      "Artificial Intelligence Latest"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Vodafone reduces roaming prices for summer 2026",
-    "summary": "The operator offers cheaper rates for data usage abroad during the summer season.",
+    "title": "Stanford graduates boo Sundar Pichai over Israel contract",
+    "summary": "During the graduation ceremony at Stanford, students protested against Google's CEO over his link with Israel.",
     "source": [
-      "BandaAncha",
-      "ADSLZone"
+      "Fast Company",
+      "Kagi News"
     ],
     "count": 2
   },
   {
-    "title": "AI industry faces layoffs and bubble signals",
-    "summary": "Reports indicate a wave of job cuts in AI companies and warnings of a possible bubble in the sector.",
+    "title": "SpaceX IPO raises $85.7 billion",
+    "summary": "SpaceX becomes a public company with one of the largest Initial Public Offerings in history, revealing the Gulf's influence on AI.",
     "source": [
       "TechCrunch",
+      "Xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nintendo Switch 2: deals and resale restrictions",
+    "summary": "MediaMarkt offers a historic minimum price for the Switch 2, while Nintendo imposes requirements to combat resellers.",
+    "source": [
+      "ADSLZone",
       "El Chapuzas Informático"
     ],
     "count": 2
   },
   {
-    "title": "Nvidia issues $20 billion in bonds to finance AI",
-    "summary": "The chip company turns to the debt market to raise capital for its AI expansion.",
+    "title": "Vodafone and O2: new fiber offers, Apple TV, and roaming",
+    "summary": "O2 does not offer 10 Gbps fiber despite using Movistar's network, Vodafone TV could integrate Apple TV, and the operator reduces roaming prices for summer.",
     "source": [
-      "The Decoder"
+      "ADSLZone",
+      "BandaAncha"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Health advances: weightlifting exercise and Alzheimer's drug",
+    "summary": "Science determines the minutes of weightlifting needed to reduce mortality, and a drug that eliminates toxic Alzheimer's proteins is being developed.",
+    "source": [
+      "Xataka",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The streaming boom: HBO Max dominates and Apple TV positions itself as the new HBO",
+    "summary": "HBO Max releases the most-watched film in 51 countries while the debate grows on whether Apple TV will become the new streaming reference.",
+    "source": [
+      "ADSLZone",
+      "Xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "US Air Force B-52 bomber crashes after takeoff at Edwards Base",
+    "summary": "A B-52 crashes during takeoff at Edwards Air Force Base, according to official reports.",
+    "source": [
+      "Hacker News"
     ],
     "count": 1
   },
   {
-    "title": "SpaceX hits record IPO of $85.7 billion",
-    "summary": "Elon Musk's space company makes the largest initial public offering in its history.",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Fei-Fei Li launches World Labs, an AI company valued at $1 billion",
-    "summary": "The renowned researcher founds a new AI company with a valuation of $1 billion.",
+    "title": "Over 2,000 Starbucks stores close early on June 22 due to promotion that sparked national outrage",
+    "summary": "Starbucks faces backlash over a promotion, forcing thousands of stores to close early.",
     "source": [
       "Fast Company"
     ],
     "count": 1
   },
   {
-    "title": "Microsoft CEO warns about concentration of AI benefits",
-    "summary": "Satya Nadella warns that a small number of AI systems could capture all economic returns.",
+    "title": "Housing affordability leads builder to offer $55,000 incentives per home",
+    "summary": "Facing a stretched market, a $23 billion builder offers big incentives to attract buyers.",
     "source": [
-      "The Decoder"
+      "Fast Company"
     ],
     "count": 1
   },
   {
-    "title": "Critical vulnerability in Microsoft 365 Copilot allows theft of emails and files",
-    "summary": "A security flaw in Microsoft 365 Copilot could have allowed attackers to access sensitive information and MFA codes.",
-    "source": [
-      "The Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Palo Alto warns of active exploitation of a vulnerability in GlobalProtect VPN",
-    "summary": "The security company reports that a flaw in PAN-OS GlobalProtect is being actively used by attackers.",
-    "source": [
-      "The Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta develops facial recognition for its glasses with a Pentagon supplier",
-    "summary": "Zuckerberg's company works on facial recognition prototypes for its smart glasses in collaboration with a military contractor.",
-    "source": [
-      "Feed: Artificial Intelligence Latest"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Sarvam becomes India's new AI unicorn with $234 million",
-    "summary": "The Indian AI startup reaches a valuation of over $1 billion after a round led by HCLTech.",
+    "title": "Salesforce acquires customer service platform Fin for $3.6 billion",
+    "summary": "Salesforce buys the AI customer service startup Fin in a billion-dollar deal.",
     "source": [
       "TechCrunch"
     ],
     "count": 1
   },
   {
-    "title": "Copper-transporting drug restores memory and removes Alzheimer's toxic proteins",
-    "summary": "Scientists discover that a copper-transporting drug can reverse memory loss and clear Alzheimer's-associated proteins.",
+    "title": "World Labs: Fei-Fei Li's new AI company valued at $1 billion",
+    "summary": "Renowned researcher Fei-Fei Li launches World Labs, an artificial intelligence company valued at one billion.",
     "source": [
-      "Hacker News"
+      "Fast Company"
     ],
     "count": 1
   },
   {
-    "title": "AMD does not pay promised bounty to security researcher",
-    "summary": "The company does not deliver the $10,000 offered for discovering a vulnerability in its update software.",
+    "title": "Palo Alto Networks warns of active exploitation of a vulnerability in PAN-OS GlobalProtect VPN",
+    "summary": "A critical flaw is discovered in Palo Alto Networks firewalls that is being actively exploited.",
     "source": [
-      "El Chapuzas Informático"
+      "The Hacker News"
     ],
     "count": 1
   },
   {
-    "title": "Nintendo imposes measures against Switch 2 resellers",
-    "summary": "The company requires at least 50 hours played on Switch and limits one console per account to combat resale.",
+    "title": "Pokémon Go data trained an AI now linked to military drones",
+    "summary": "The information collected by the game Pokémon Go was used to train artificial intelligence that was later linked to military drones.",
     "source": [
-      "El Chapuzas Informático"
+      "The Decoder"
     ],
     "count": 1
   },
   {
-    "title": "Apple updates App Store rules to remove outdated or low-quality apps",
-    "summary": "The company reviews its guidelines to maintain the quality of the app store by removing outdated apps.",
+    "title": "Startup CEO Charlie Javice seeks Trump pardon for fraud",
+    "summary": "Charlie Javice, accused of fraud, is reportedly managing a possible presidential pardon.",
     "source": [
-      "AlternativeTo"
+      "TechCrunch"
     ],
     "count": 1
   }

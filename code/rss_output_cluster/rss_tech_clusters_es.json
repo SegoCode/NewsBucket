@@ -1,30 +1,29 @@
 [
   {
-    "title": "Reino Unido prohíbe las redes sociales a menores de 16 años",
-    "summary": "El gobierno británico implementa una prohibición para que los menores de 16 años accedan a plataformas como TikTok y YouTube, buscando proteger su salud mental.",
+    "title": "El gobierno de EE.UU. presiona a Anthropic para cerrar sus modelos de IA más potentes",
+    "summary": "Diversas fuentes reportan que la administración Trump forzó a Anthropic a desactivar sus modelos Claude Fable 5 y Mythos 5, generando debate sobre soberanía tecnológica y seguridad.",
     "source": [
-      "Fast Company",
-      "TechCrunch",
-      "El Chapuzas Informático",
-      "Xataka",
-      "Kagi News"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Gobierno de EE.UU. prohíbe los modelos avanzados de Anthropic",
-    "summary": "La administración estadounidense bloquea los modelos Claude Fable 5 y Mythos 5 de Anthropic, generando críticas en la industria y debate sobre soberanía tecnológica.",
-    "source": [
-      "TechCrunch",
-      "Fast Company",
       "The Decoder",
+      "TechCrunch",
+      "Fast Company",
       "El Chapuzas Informático"
     ],
     "count": 4
   },
   {
-    "title": "Fox adquiere Roku por 22 mil millones de dólares",
-    "summary": "El conglomerado de medios Fox compra la plataforma de streaming Roku, consolidando el mercado de televisión en línea.",
+    "title": "Microsoft: novedades en IA local, posible separación de Xbox, fallo de seguridad y advertencia del CEO",
+    "summary": "Microsoft abre la IA de Windows 11 a GPU sin NPU, evalúa un spin-off de Xbox, enfrenta una falla crítica en Copilot y su CEO advierte sobre la concentración económica de la IA.",
+    "source": [
+      "El Chapuzas Informático",
+      "Fast Company",
+      "The Hacker News",
+      "The Decoder"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Fox adquiere Roku en un acuerdo de 22 mil millones de dólares",
+    "summary": "Fox compra la plataforma de streaming Roku, consolidando el sector del streaming y afectando a las acciones de ambas empresas.",
     "source": [
       "Fast Company",
       "TechCrunch",
@@ -33,143 +32,150 @@
     "count": 3
   },
   {
-    "title": "Salesforce compra la plataforma de atención al cliente Fin por 3.600 millones de dólares",
-    "summary": "La adquisición de Fin (antes Intercom) refuerza la capacidad de inteligencia artificial para servicio al cliente de Salesforce.",
+    "title": "Reino Unido prohíbe las redes sociales a menores de 16 años",
+    "summary": "El gobierno británico anuncia una prohibición de TikTok y YouTube para niños, sumándose a otros países que restringen el acceso a redes sociales.",
     "source": [
       "TechCrunch",
-      "Hacker News"
+      "Fast Company",
+      "El Chapuzas Informático"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Orbio recauda 21 millones de dólares para automatizar la contratación con IA",
-    "summary": "La startup madrileña utiliza inteligencia artificial para realizar entrevistas laborales y expande su negocio tras la financiación.",
+    "title": "Debate sobre el impacto de la IA en el empleo: incertidumbre y burbuja",
+    "summary": "Expertos y desarrolladores cuestionan el futuro del trabajo ante la inteligencia artificial, advirtiendo sobre una posible burbuja y falta de claridad.",
     "source": [
       "Xataka",
-      "TechCrunch"
+      "Fast Company",
+      "El Chapuzas Informático"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "España debutará en el Mundial contra Cabo Verde",
-    "summary": "La selección española se enfrenta a Cabo Verde en su primer partido del Mundial 2026.",
+    "title": "Meta: inversión millonaria en IA, nuevo modo de IA en Facebook y prototipo de reconocimiento facial",
+    "summary": "Meta continúa su apuesta por la inteligencia artificial con una gran inversión, una nueva función en Facebook y un proyecto de reconocimiento facial para gafas.",
     "source": [
       "Xataka",
-      "ADSLZone"
+      "TechCrunch",
+      "Artificial Intelligence Latest"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Vodafone reduce los precios del roaming para el verano 2026",
-    "summary": "La operadora ofrece tarifas más baratas para el uso de datos en el extranjero durante la temporada estival.",
+    "title": "Graduados de Stanford abuchean a Sundar Pichai por el contrato con Israel",
+    "summary": "Durante la ceremonia de graduación en Stanford, los estudiantes protestaron contra el CEO de Google por su vínculo con Israel.",
     "source": [
-      "BandaAncha",
-      "ADSLZone"
+      "Fast Company",
+      "Kagi News"
     ],
     "count": 2
   },
   {
-    "title": "La industria de la IA enfrenta despidos y señales de burbuja",
-    "summary": "Reportes indican una ola de recortes de empleo en empresas de inteligencia artificial y advertencias sobre una posible burbuja en el sector.",
+    "title": "La salida a bolsa de SpaceX recauda 85.700 millones de dólares",
+    "summary": "SpaceX se convierte en empresa pública con una de las Ofertas Públicas Iniciales más grandes de la historia, revelando la influencia del Golfo en la IA.",
     "source": [
       "TechCrunch",
+      "Xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nintendo Switch 2: ofertas y restricciones contra la reventa",
+    "summary": "MediaMarkt ofrece un precio mínimo histórico para la Switch 2, mientras Nintendo impone requisitos para combatir a los revendedores.",
+    "source": [
+      "ADSLZone",
       "El Chapuzas Informático"
     ],
     "count": 2
   },
   {
-    "title": "Nvidia emite bonos por 20 mil millones de dólares para financiar IA",
-    "summary": "La compañía de chips recurre al mercado de deuda para obtener capital en su expansión en inteligencia artificial.",
+    "title": "Vodafone y O2: nuevas ofertas de fibra, Apple TV y roaming",
+    "summary": "O2 no ofrece fibra de 10 Gbps a pesar de usar la red de Movistar, Vodafone TV podría integrar Apple TV y la operadora reduce precios de roaming para verano.",
     "source": [
-      "The Decoder"
+      "ADSLZone",
+      "BandaAncha"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Avances en salud: ejercicio con pesas y fármaco contra el Alzheimer",
+    "summary": "La ciencia determina los minutos de pesas necesarios para reducir la mortalidad y se desarrolla un fármaco que elimina proteínas tóxicas del Alzheimer.",
+    "source": [
+      "Xataka",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El auge del streaming: HBO Max arrasa y Apple TV se posiciona como nueva HBO",
+    "summary": "HBO Max estrena la película más vista en 51 países mientras crece el debate sobre si Apple TV se convertirá en la nueva referencia del streaming.",
+    "source": [
+      "ADSLZone",
+      "Xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Avión bombardero B-52 de la Fuerza Aérea de EE.UU. se estrella tras despegar en la Base Edwards",
+    "summary": "Un B-52 se accidenta durante el despegue en la Base Edwards de la Fuerza Aérea, según informes oficiales.",
+    "source": [
+      "Hacker News"
     ],
     "count": 1
   },
   {
-    "title": "SpaceX alcanza una OPI récord de 85.700 millones de dólares",
-    "summary": "La empresa espacial de Elon Musk realiza la mayor oferta pública inicial de su historia.",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Fei-Fei Li lanza World Labs, una empresa de IA valorada en mil millones de dólares",
-    "summary": "La reconocida investigadora funda una nueva compañía de inteligencia artificial con una valoración de mil millones.",
+    "title": "Más de 2.000 tiendas Starbucks cierran temprano el 22 de junio por una promoción que generó indignación nacional",
+    "summary": "Starbucks enfrenta una reacción negativa por una promoción, lo que obliga al cierre anticipado de miles de tiendas.",
     "source": [
       "Fast Company"
     ],
     "count": 1
   },
   {
-    "title": "El CEO de Microsoft advierte sobre la concentración de beneficios en la IA",
-    "summary": "Satya Nadella alerta que un pequeño número de sistemas de IA podría capturar todos los retornos económicos.",
+    "title": "La asequibilidad de la vivienda lleva a una constructora a ofrecer incentivos de 55.000 dólares por hogar",
+    "summary": "Ante el estiramiento del mercado, una constructora de 23.000 millones ofrece grandes incentivos para atraer compradores.",
     "source": [
-      "The Decoder"
+      "Fast Company"
     ],
     "count": 1
   },
   {
-    "title": "Vulnerabilidad crítica en Microsoft 365 Copilot permite robo de correos y archivos",
-    "summary": "Una falla de seguridad en Microsoft 365 Copilot podría haber permitido a atacantes acceder a información sensible y códigos MFA.",
-    "source": [
-      "The Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Palo Alto alerta sobre explotación activa de una vulnerabilidad en VPN GlobalProtect",
-    "summary": "La empresa de seguridad informa que un fallo en PAN-OS GlobalProtect está siendo utilizado activamente por atacantes.",
-    "source": [
-      "The Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta desarrolla reconocimiento facial para sus gafas con un proveedor del Pentágono",
-    "summary": "La compañía de Zuckerberg trabaja en prototipos de reconocimiento facial para sus gafas inteligentes en colaboración con un contratista militar.",
-    "source": [
-      "Feed: Artificial Intelligence Latest"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Sarvam se convierte en el nuevo unicornio de IA en la India con 234 millones de dólares",
-    "summary": "La startup india de inteligencia artificial alcanza una valoración de más de mil millones tras una ronda liderada por HCLTech.",
+    "title": "Salesforce adquiere la plataforma de atención al cliente Fin por 3.600 millones de dólares",
+    "summary": "Salesforce compra la startup de IA para servicio al cliente Fin en un acuerdo millonario.",
     "source": [
       "TechCrunch"
     ],
     "count": 1
   },
   {
-    "title": "Un fármaco transportador de cobre restaura la memoria y elimina proteínas tóxicas del Alzheimer",
-    "summary": "Científicos descubren que un medicamento que transporta cobre puede revertir la pérdida de memoria y limpiar proteínas asociadas al Alzheimer.",
+    "title": "World Labs: la nueva empresa de IA de Fei-Fei Li valorada en 1.000 millones de dólares",
+    "summary": "La reconocida investigadora Fei-Fei Li lanza World Labs, una compañía de inteligencia artificial con una valoración de mil millones.",
     "source": [
-      "Hacker News"
+      "Fast Company"
     ],
     "count": 1
   },
   {
-    "title": "AMD no paga la recompensa prometida a un investigador de seguridad",
-    "summary": "La empresa no entrega los 10.000 dólares ofrecidos por descubrir una vulnerabilidad en su software de actualización.",
+    "title": "Palo Alto Networks advierte sobre explotación activa de una vulnerabilidad en PAN-OS GlobalProtect VPN",
+    "summary": "Se descubre un fallo crítico en los firewalls de Palo Alto Networks que está siendo explotado activamente.",
     "source": [
-      "El Chapuzas Informático"
+      "The Hacker News"
     ],
     "count": 1
   },
   {
-    "title": "Nintendo impone medidas contra revendedores de Switch 2",
-    "summary": "La compañía exige al menos 50 horas jugadas en Switch y limita una consola por cuenta para combatir la reventa.",
+    "title": "Datos de Pokémon Go entrenaron una IA ahora vinculada a drones militares",
+    "summary": "La información recopilada por el juego Pokémon Go se utilizó para entrenar inteligencia artificial que luego se relacionó con drones militares.",
     "source": [
-      "El Chapuzas Informático"
+      "The Decoder"
     ],
     "count": 1
   },
   {
-    "title": "Apple actualiza las normas de la App Store para eliminar aplicaciones obsoletas o de baja calidad",
-    "summary": "La compañía revisa sus directrices para mantener la calidad de la tienda de aplicaciones eliminando apps desactualizadas.",
+    "title": "La CEO de la startup Charlie Javice busca un indulto de Trump por fraude",
+    "summary": "Charlie Javice, acusada de fraude, estaría gestionando un posible indulto presidencial.",
     "source": [
-      "AlternativeTo"
+      "TechCrunch"
     ],
     "count": 1
   }

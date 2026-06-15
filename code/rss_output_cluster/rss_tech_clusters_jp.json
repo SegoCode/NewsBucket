@@ -1,30 +1,29 @@
 [
   {
-    "title": "英国、16歳未満のソーシャルメディアを禁止",
-    "summary": "英国政府は、TikTokやYouTubeなどのプラットフォームへの16歳未満のアクセスを禁止し、精神的な健康を保護しようとしている。",
+    "title": "米国政府、Anthropicに対し最も強力なAIモデルの閉鎖を迫る",
+    "summary": "複数の情報筋によると、トランプ政権はAnthropicに対し、Claude Fable 5とMythos 5モデルを無効化するよう強制し、技術主権と安全保障に関する議論を巻き起こしている。",
     "source": [
-      "Fast Company",
-      "TechCrunch",
-      "El Chapuzas Informático",
-      "Xataka",
-      "Kagi News"
-    ],
-    "count": 5
-  },
-  {
-    "title": "米国政府、Anthropicの高度なモデルを禁止",
-    "summary": "米国政府はAnthropicのClaude Fable 5およびMythos 5モデルをブロックし、業界からの批判や技術的主権に関する議論を引き起こしている。",
-    "source": [
-      "TechCrunch",
-      "Fast Company",
       "The Decoder",
+      "TechCrunch",
+      "Fast Company",
       "El Chapuzas Informático"
     ],
     "count": 4
   },
   {
-    "title": "Fox、220億ドルでRokuを買収",
-    "summary": "FoxメディアコングロマリットがストリーミングプラットフォームのRokuを買収し、オンラインテレビ市場を統合する。",
+    "title": "Microsoft：ローカルAIの新機能、Xboxの分離の可能性、セキュリティ上の欠陥、CEOの警告",
+    "summary": "MicrosoftはWindows 11のAIをNPUなしのGPUにも開放し、Xboxのスピンオフを評価し、Copilotに重大な欠陥が発生し、CEOはAIの経済的集中について警告している。",
+    "source": [
+      "El Chapuzas Informático",
+      "Fast Company",
+      "The Hacker News",
+      "The Decoder"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Foxが220億ドルでRokuを買収",
+    "summary": "FoxがストリーミングプラットフォームRokuを買収し、ストリーミング業界を統合、両社の株価に影響を与えている。",
     "source": [
       "Fast Company",
       "TechCrunch",
@@ -33,143 +32,150 @@
     "count": 3
   },
   {
-    "title": "Salesforce、36億ドルでカスタマーサービスプラットフォームFinを買収",
-    "summary": "Fin（旧Intercom）の買収により、Salesforceのカスタマーサービス向け人工知能機能が強化される。",
+    "title": "英国、16歳未満のソーシャルメディアを禁止",
+    "summary": "英国政府は、子供向けのTikTokとYouTubeの禁止を発表し、ソーシャルメディアへのアクセスを制限する他の国々に加わった。",
     "source": [
       "TechCrunch",
-      "Hacker News"
+      "Fast Company",
+      "El Chapuzas Informático"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Orbio、AIによる採用自動化のため2100万ドルを調達",
-    "summary": "マドリードのスタートアップは、人工知能を使用して仕事の面接を行い、資金調達後に事業を拡大する。",
+    "title": "雇用におけるAIの影響に関する議論：不確実性とバブル",
+    "summary": "専門家や開発者は、人工知能の前での仕事の未来に疑問を呈し、バブルの可能性や明確さの欠如について警告している。",
     "source": [
       "Xataka",
-      "TechCrunch"
+      "Fast Company",
+      "El Chapuzas Informático"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "スペイン、W杯初戦でカーボベルデと対戦",
-    "summary": "スペイン代表は2026年ワールドカップの初戦でカーボベルデと対戦する。",
+    "title": "Meta：AIへの巨額投資、Facebookの新AIモード、顔認識プロトタイプ",
+    "summary": "Metaは、大規模な投資、Facebookの新機能、メガネ向け顔認識プロジェクトにより、人工知能への取り組みを継続している。",
     "source": [
       "Xataka",
-      "ADSLZone"
+      "TechCrunch",
+      "Artificial Intelligence Latest"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Vodafone、2026年夏のローミング料金を引き下げ",
-    "summary": "同社は夏季に海外でのデータ使用に対してより安い料金を提供する。",
+    "title": "スタンフォード大学卒業生、イスラエルとの契約でサンダー・ピチャイにブーイング",
+    "summary": "スタンフォード大学の卒業式で、学生たちがGoogleのCEOに対し、イスラエルとの関係を巡って抗議した。",
     "source": [
-      "BandaAncha",
-      "ADSLZone"
+      "Fast Company",
+      "Kagi News"
     ],
     "count": 2
   },
   {
-    "title": "AI業界、解雇とバブル兆候に直面",
-    "summary": "報告によると、人工知能企業での雇用削減の波と業界におけるバブルの可能性についての警告がある。",
+    "title": "SpaceXの新規株式公開（IPO）、857億ドルを調達",
+    "summary": "SpaceXは史上最大級のIPOで上場企業となり、AIにおける湾岸諸国の影響力を明らかにした。",
     "source": [
       "TechCrunch",
+      "Xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nintendo Switch 2：販売促進と転売防止策",
+    "summary": "MediaMarktはSwitch 2に過去最安値を提供する一方、Nintendoは転売業者に対抗するための条件を課している。",
+    "source": [
+      "ADSLZone",
       "El Chapuzas Informático"
     ],
     "count": 2
   },
   {
-    "title": "Nvidia、AI資金調達のため200億ドルの社債発行",
-    "summary": "半導体企業は人工知能への拡大のための資金を調達するために社債市場を利用する。",
+    "title": "VodafoneとO2：光ファイバー、Apple TV、ローミングの新プラン",
+    "summary": "O2はMovistarのネットワークを使用しているにもかかわらず10Gbpsの光ファイバーを提供しておらず、Vodafone TVはApple TVを統合する可能性があり、同社は夏季のローミング料金を引き下げている。",
     "source": [
-      "The Decoder"
+      "ADSLZone",
+      "BandaAncha"
+    ],
+    "count": 2
+  },
+  {
+    "title": "健康の進歩：ウェイトトレーニングとアルツハイマー病治療薬",
+    "summary": "科学は死亡率を低下させるために必要なウェイトトレーニングの時間を決定し、アルツハイマー病の有毒タンパク質を除去する薬が開発されている。",
+    "source": [
+      "Xataka",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ストリーミングの隆盛：HBO Maxが席巻、Apple TVが新たなHBOとして位置づけ",
+    "summary": "HBO Maxは51か国で最も視聴された映画を公開する一方、Apple TVがストリーミングの新たな基準となるかどうかについて議論が高まっている。",
+    "source": [
+      "ADSLZone",
+      "Xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米空軍B-52爆撃機、エドワーズ基地離陸後に墜落",
+    "summary": "公式発表によると、B-52が空軍エドワーズ基地での離陸中に事故を起こした。",
+    "source": [
+      "Hacker News"
     ],
     "count": 1
   },
   {
-    "title": "SpaceX、過去最高の857億ドルのIPOを達成",
-    "summary": "イーロン・マスクの宇宙企業が史上最大の新規株式公開を実施。",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Fei-Fei Li、10億ドル評価のAI企業World Labsを立ち上げ",
-    "summary": "著名な研究者が、評価額10億ドルの新しい人工知能会社を設立。",
+    "title": "全国的な憤慨を引き起こしたプロモーションのため、6月22日にスターバックス2000店舗以上が早めに閉店",
+    "summary": "スターバックスはプロモーションに対する否定的な反応に直面し、数千店舗が早期閉店を余儀なくされている。",
     "source": [
       "Fast Company"
     ],
     "count": 1
   },
   {
-    "title": "マイクロソフトCEO、AIにおける利益の集中について警告",
-    "summary": "サティア・ナデラ氏は、少数のAIシステムがすべての経済的リターンを独占する可能性があると警告。",
+    "title": "住宅価格の高騰を受け、建設会社が1世帯あたり5万5000ドルのインセンティブを提供",
+    "summary": "市場の逼迫を受け、売上高230億ドルの建設会社が購入者を惹きつけるために大型インセンティブを提供している。",
     "source": [
-      "The Decoder"
+      "Fast Company"
     ],
     "count": 1
   },
   {
-    "title": "Microsoft 365 Copilotの深刻な脆弱性、メールやファイルの盗難を許す",
-    "summary": "Microsoft 365 Copilotのセキュリティ上の欠陥により、攻撃者が機密情報やMFAコードにアクセスできた可能性がある。",
-    "source": [
-      "The Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Palo Alto、VPN GlobalProtectの脆弱性が活発に悪用されていると警告",
-    "summary": "セキュリティ企業は、PAN-OS GlobalProtectの欠陥が攻撃者によって活発に利用されていると報告。",
-    "source": [
-      "The Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta、ペンタゴンのサプライヤーと協力しスマートグラス向け顔認識を開発",
-    "summary": "ザッカーバーグ率いる企業は、軍事請負業者と協力してスマートグラス向けの顔認識プロトタイプを開発している。",
-    "source": [
-      "Feed: Artificial Intelligence Latest"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Sarvam、2億3400万ドルでインドの新たなAIユニコーンに",
-    "summary": "インドの人工知能スタートアップが、HCLTech主導のラウンドを経て10億ドル以上の評価額に達する。",
+    "title": "Salesforce、カスタマーサービスプラットフォームFinを36億ドルで買収",
+    "summary": "Salesforceは、顧客サービス向けAIスタートアップFinを巨額の取引で買収した。",
     "source": [
       "TechCrunch"
     ],
     "count": 1
   },
   {
-    "title": "銅輸送薬が記憶を回復し、アルツハイマーの有毒タンパク質を除去",
-    "summary": "科学者らは、銅を輸送する薬剤が記憶喪失を回復させ、アルツハイマー病に関連するタンパク質を除去できることを発見。",
+    "title": "World Labs：Fei-Fei Liの新AI企業、評価額10億ドル",
+    "summary": "著名な研究者であるFei-Fei Liは、評価額10億ドルの人工知能企業World Labsを立ち上げた。",
     "source": [
-      "Hacker News"
+      "Fast Company"
     ],
     "count": 1
   },
   {
-    "title": "AMD、セキュリティ研究者への約束した報奨金を支払わず",
-    "summary": "同社は、アップデートソフトウェアの脆弱性を発見したことに対して提示した1万ドルを支払わなかった。",
+    "title": "Palo Alto Networks、PAN-OS GlobalProtect VPNの脆弱性が活発に悪用されていると警告",
+    "summary": "Palo Alto Networksのファイアウォールに重大な欠陥が発見され、活発に悪用されている。",
     "source": [
-      "El Chapuzas Informático"
+      "The Hacker News"
     ],
     "count": 1
   },
   {
-    "title": "Nintendo、Switch 2の転売ヤー対策を実施",
-    "summary": "同社は転売対策として、Switchで50時間以上のプレイを義務付け、アカウントあたり1台の本体購入制限を課す。",
+    "title": "ポケモンGOのデータが軍事ドローンに関連するAIの訓練に使用",
+    "summary": "ポケモンGOゲームで収集された情報が、後に軍事ドローンに関連する人工知能の訓練に使用された。",
     "source": [
-      "El Chapuzas Informático"
+      "The Decoder"
     ],
     "count": 1
   },
   {
-    "title": "Apple、App Storeのルールを更新し、古いまたは低品質なアプリを削除へ",
-    "summary": "同社は、時代遅れのアプリを削除することでアプリストアの品質を維持するためにガイドラインを見直す。",
+    "title": "スタートアップCEOのCharlie Javice、詐欺でトランプ大統領の恩赦を模索",
+    "summary": "詐欺で告発されたCharlie Javiceは、大統領恩赦の可能性を模索しているとされる。",
     "source": [
-      "AlternativeTo"
+      "TechCrunch"
     ],
     "count": 1
   }
