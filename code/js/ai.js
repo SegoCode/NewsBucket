@@ -1,8 +1,8 @@
 import fs from "node:fs";
 import path from "node:path";
 import "dotenv/config";
-import { EventSourceParserStream } from "eventsource-parser/stream";
 import { encode } from "@toon-format/toon";
+import { EventSourceParserStream } from "eventsource-parser/stream";
 
 const API_URL = "https://opencode.ai/zen/v1/chat/completions";
 const INPUT_DIR = "rss_output";
@@ -25,46 +25,52 @@ for (const file of files) {
 	);
 	console.log("→ Sent, streaming...");
 	if (process.env.GITHUB_ACTIONS) console.log("  Generating...");
-	const res = await fetch(API_URL, {
-		method: "POST",
-		headers: {
-			"Content-Type": "application/json",
-			Authorization: `Bearer ${process.env.OPENCODE_API_KEY}`,
-		},
-		body: JSON.stringify({
-			model: "deepseek-v4-flash-free",
-			messages: [
-				{ role: "system", content: PROMPT },
-				{ role: "user", content: `Cluster these news:\n${encode(news)}` },
-			],
-			temperature: 0.2,
-			stream: true,
-		}),
-	});
-	if (!res.ok)
-		throw new Error(`${file}: HTTP ${res.status} ${await res.text()}`);
+	let clusters = [];
+	for (let attempt = 0; attempt < 2; attempt++) {
+		const res = await fetch(API_URL, {
+			method: "POST",
+			headers: {
+				"Content-Type": "application/json",
+				Authorization: `Bearer ${process.env.OPENCODE_API_KEY}`,
+			},
+			body: JSON.stringify({
+				model: "deepseek-v4-flash-free",
+				messages: [
+					{ role: "system", content: PROMPT },
+					{ role: "user", content: `Cluster these news:\n${encode(news)}` },
+				],
+				temperature: 0.2,
+				stream: true,
+			}),
+		});
+		if (!res.ok)
+			throw new Error(`${file}: HTTP ${res.status} ${await res.text()}`);
 
-	const stream = res.body
-		.pipeThrough(new TextDecoderStream())
-		.pipeThrough(new EventSourceParserStream());
-	let content = "";
-	let thinking = 0;
-	for await (const event of stream) {
-		if (event.data === "[DONE]") break;
-		const delta = JSON.parse(event.data).choices?.[0]?.delta || {};
-		content += delta.content || "";
-		thinking += (delta.reasoning_content || "").length;
-		if (!process.env.GITHUB_ACTIONS) {
-			const phase = content.length
-				? `${content.length} chars`
-				: `generating ${thinking} chars`;
-			process.stdout.write(`\r  ${phase}`);
+		const stream = res.body
+			.pipeThrough(new TextDecoderStream())
+			.pipeThrough(new EventSourceParserStream());
+		let content = "";
+		let thinking = 0;
+		for await (const event of stream) {
+			if (event.data === "[DONE]") break;
+			const delta = JSON.parse(event.data).choices?.[0]?.delta || {};
+			content += delta.content || "";
+			thinking += (delta.reasoning_content || "").length;
+			if (!process.env.GITHUB_ACTIONS) {
+				const phase = content.length
+					? `${content.length} chars`
+					: `generating ${thinking} chars`;
+				process.stdout.write(`\r  ${phase}`);
+			}
 		}
+		if (!process.env.GITHUB_ACTIONS) process.stdout.write("\r\n");
+		content = content.replace(/^```json\s*|\s*```$/g, "").trim() || "[]";
+		clusters = JSON.parse(content);
+		if (!Array.isArray(clusters))
+			throw new Error(`Invalid response for ${file}`);
+		if (clusters.length) break;
+		if (!attempt) console.log("  → empty, retrying...");
 	}
-	if (!process.env.GITHUB_ACTIONS) process.stdout.write("\r\n");
-	content = content.replace(/^```json\s*|\s*```$/g, "").trim() || "[]";
-	const clusters = JSON.parse(content);
-	if (!Array.isArray(clusters)) throw new Error(`Invalid response for ${file}`);
 
 	const outFile = path.join(
 		OUTPUT_DIR,
