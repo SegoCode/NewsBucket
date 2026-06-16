@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import "dotenv/config";
 import { EventSourceParserStream } from "eventsource-parser/stream";
+import { encode } from "@toon-format/toon";
 
 const API_URL = "https://opencode.ai/zen/v1/chat/completions";
 const INPUT_DIR = "rss_output";
@@ -34,7 +35,7 @@ for (const file of files) {
 			model: "deepseek-v4-flash-free",
 			messages: [
 				{ role: "system", content: PROMPT },
-				{ role: "user", content: JSON.stringify(news) },
+				{ role: "user", content: encode(news) },
 			],
 			temperature: 0.2,
 			stream: true,
