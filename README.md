@@ -1,4 +1,4 @@
-# NewsPond
+# NewsBucket
 
 <p align="center">
   <a href="#about">About</a> •
@@ -8,7 +8,7 @@
 
 ## About
 
-NewsPond fetches RSS feeds from sources you configure, groups articles covering the same story using an LLM, and publishes the result as JSON in this repository. Each cluster gets a title and summary, then translates into your target languages. Everything runs on GitHub Actions. No servers, no cost.
+NewsBucket fetches RSS feeds from sources you configure, groups articles covering the same story using an LLM, and publishes the result as JSON in this repository. Each cluster gets a title and summary, then translates into your target languages. Everything runs on GitHub Actions. No servers, no cost.
 
 ## Features
 
@@ -54,6 +54,6 @@ Raw articles land in `code/rss_output/` as JSON, one file per configured feed so
 The prompts that drive the clustering and translation live in `code/prompts/`. Feed URLs go in `code/rss_input/` as `.txt` files, one URL per line.
 
 ---
-<p align="center"><a href="https://github.com/SegoCode/NewsPond/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SegoCode/NewsPond" />
+<p align="center"><a href="https://github.com/SegoCode/NewsBucket/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SegoCode/NewsBucket" />
 </a></p>

@@ -47,7 +47,7 @@ We use a branching model inspired by Gitflow to manage our development process:
 Fork the repository to your own GitHub account and clone it to your local machine:
 
 ```
-git clone https://github.com/SegoCode/NewsPond.git
+git clone https://github.com/SegoCode/NewsBucket.git
 ```
 
 ### 2. Create a Feature Branch
