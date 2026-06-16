@@ -1,174 +1,192 @@
 [
   {
-    "title": "米国政府、Anthropicの高度AIモデル「Claude Fable 5」と「Mythos 5」を禁止",
-    "summary": "AnthropicのAIモデルに対する政府の禁止措置により、サイバーセキュリティ関係者から抗議が上がり、欧州ではデジタル主権をめぐる議論が活発化。",
+    "title": "米国、Anthropicの最先端AIモデルを禁止",
+    "summary": "ClaudeとFable 5モデルの政府による禁止は、サイバーセキュリティ専門家の抗議と欧州の技術主権に関する議論を巻き起こす。",
     "source": [
-      "Artificial Intelligence Latest",
+      "Feed: Artificial Intelligence Latest",
       "TechCrunch",
       "The Decoder",
-      "Fast Company",
-      "El Chapuzas Informático"
+      "Xataka"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "英国、16歳未満へのSNS禁止へ",
-    "summary": "英国政府が子どもと10代向けのソーシャルメディア禁止を発表。テクノロジー企業や安全団体が支持。",
+    "title": "天体物理学から医学へ：今週を彩った科学的進歩",
+    "summary": "研究により、銀河とブラックホールの起源、トリトン衛星の特異性、運動の利点、性格の可塑性、アルツハイマー病を回復させる薬が明らかに。",
     "source": [
-      "TechCrunch",
+      "ADSLZone",
       "Fast Company",
-      "El Chapuzas Informático"
+      "Hacker News",
+      "Xataka"
     ],
-    "count": 3
+    "count": 4
   },
   {
     "title": "Fox、220億ドルでRokuを買収",
-    "summary": "FoxとストリーミングプラットフォームRokuの合併によりテレビ市場が統合され、両社の株価に影響。",
+    "summary": "メディアコングロマリットのFoxが、現金と株式を組み合わせた取引でストリーミングプラットフォームRokuを買収。",
     "source": [
-      "Fast Company",
-      "TechCrunch",
-      "Hacker News"
+      "AlternativeTo",
+      "Hacker News",
+      "TechCrunch"
     ],
     "count": 3
   },
   {
-    "title": "Sundar Pichai、スタンフォード大学卒業式でブーイングを受ける",
-    "summary": "GoogleのCEOは、イスラエルとの契約や移民当局との関係を理由にスピーチ中に非難された。",
+    "title": "Salesforce、AIエージェント強化のため36億ドルでFinを買収",
+    "summary": "カスタマーケアプラットフォームFinの買収により、Salesforceは高度な人工知能機能をサービスに統合できるようになる。",
+    "source": [
+      "AlternativeTo",
+      "Hacker News",
+      "TechCrunch"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Meta、AIに140億ドルを投資しFacebookで新AIモードを開始",
+    "summary": "AIチーム再編に対する内部批判にもかかわらず、MetaはFacebookにAIモードを展開し、人工知能への取り組みを強化。",
+    "source": [
+      "Feed: Artificial Intelligence Latest",
+      "TechCrunch",
+      "Xataka"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAIとAnthropic、AIトークン使用急増も資金を消費",
+    "summary": "OpenAIは年間340億ドルの損失を出し、Anthropicもモデル使用率が11%を超えると損失を計上しており、AI事業の収益性が疑問視されている。",
+    "source": [
+      "El Chapuzas Informático",
+      "Feed: Artificial Intelligence Latest",
+      "The Decoder"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nintendo Switch 2：MediaMarktで過去最高の割引、転売防止の抜本的措置",
+    "summary": "MediaMarktは本体を過去最低価格に値下げする一方、Nintendoは転売ヤー対策としてプレイ時間要件を課し、アカウントあたり1台に制限。",
+    "source": [
+      "ADSLZone",
+      "El Chapuzas Informático",
+      "Xataka"
+    ],
+    "count": 3
+  },
+  {
+    "title": "2025 FIFAワールドカップ：スペイン初戦、給水タイムの物議、ブランドのマーケティング",
+    "summary": "大会はスペイン対カーボベルデ戦で開幕、給水休憩が論争を呼び、TDTChannelsがダウン、Levi'sがスタジアムでの検閲を広告キャンペーンに利用。",
+    "source": [
+      "ADSLZone",
+      "Fast Company",
+      "Xataka"
+    ],
+    "count": 3
+  },
+  {
+    "title": "SpaceX、史上最大のIPOで上場、評価額857億ドル",
+    "summary": "イーロン・マスクの宇宙企業が記録的な新規株式公開でウォール街にデビュー。AIブームにおける湾岸資本の重要性が明らかに。",
     "source": [
       "TechCrunch",
+      "Xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、Xboxを再編：人員削減、Ninja Theory閉鎖、分離の可能性",
+    "summary": "マイクロソフトのゲーム部門は大規模なリストラを実施。Xbox Game Studios責任者の退任と、Xboxを独立企業にする計画が含まれる。",
+    "source": [
+      "El Chapuzas Informático",
       "Fast Company"
     ],
     "count": 2
   },
   {
-    "title": "SpaceX、最大のテクノロジーIPOで上場",
-    "summary": "SpaceXの新規株式公開（IPO）は857億ドルを調達し、湾岸諸国のファンドによるAI投資が注目される。",
+    "title": "英国、16歳未満のソーシャルメディアを厳格に禁止",
+    "summary": "英国政府は、子供と青少年を保護するために、ソーシャルプラットフォーム、ゲーム、ライブ配信へのアクセスを制限する法律を提出。",
     "source": [
-      "TechCrunch",
+      "El Chapuzas Informático",
+      "TechCrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GoogleのCEOサンダー・ピチャイ、スタンフォード大学でのスピーチ中にブーイング",
+    "summary": "卒業式の出席者が、Googleのイスラエルおよび移民局との関係に抗議し、ピチャイに対してブーイング。大規模な退場が発生。",
+    "source": [
+      "Fast Company",
+      "TechCrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Hetzner、最大175%の値上げを実施",
+    "summary": "ドイツのホスティングプロバイダーが料金を大幅に引き上げ、顧客の予算への影響から不満が広がっている。",
+    "source": [
+      "BandaAncha",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Movistar、WiFi 7とXGS-PON技術を搭載した新ルーターを発表",
+    "summary": "同社は、メモリ不足問題を抱える旧Smart WiFi 7に代わり、より強力なWiFi 7ルーターと超高速ファイバー向けの新機種を導入。",
+    "source": [
+      "ADSLZone",
+      "BandaAncha"
+    ],
+    "count": 2
+  },
+  {
+    "title": "HBO Max、新作が大ヒット、無料のバイキング映画がストリーミングで成功",
+    "summary": "51カ国で第1位の映画がHBO Maxに到着する一方、バイキングの戦いを描いた作品が無料公開され、今週のおすすめとなっている。",
+    "source": [
+      "ADSLZone",
       "Xataka"
     ],
     "count": 2
   },
   {
-    "title": "Salesforce、Fin（旧Intercom）を36億ドルで買収",
-    "summary": "カスタマーサービスプラットフォームの買収により、SalesforceのエンタープライズAI製品が強化。",
+    "title": "Google Gemini、Android Autoから機能を削除、HuaweiはHarmonyOS 7にAIエージェントを搭載",
+    "summary": "GeminiのアップデートによりAndroid Autoからの発信機能が削除される一方、Huaweiは新OSに自律エージェントシステムを統合。",
     "source": [
-      "TechCrunch",
-      "Hacker News"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta、140億ドル支出後のAI再編に問題を認める",
-    "summary": "MetaのCTOは、明確な進展がないまま投資を続ける中、AI再編は「ひどいものだった」と認めた。",
-    "source": [
-      "Artificial Intelligence Latest",
+      "ADSLZone",
       "Xataka"
     ],
     "count": 2
   },
   {
-    "title": "中国ハッカー、Google Workspaceのルールを悪用し研究・防衛関連メールを窃取",
-    "summary": "サイバースパイグループがWorkspaceの設定を悪用し、政府高官のアカウントにアクセス。",
+    "title": "AIスタートアップへの大型資金調達ラウンド",
+    "summary": "DeepSeekは評価額500億ドルに到達、Sarvamは2億3400万ドルでユニコーンに、Respond.ioは6250万ドルを調達、NewCoreはAIエージェントID向けに6600万ドルを獲得。",
     "source": [
-      "The Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "北朝鮮ハッカー、開発ツールをマルウェア配布経路に利用",
-    "summary": "攻撃者はコードリポジトリと開発環境を悪用し、開発者にマルウェアを感染させる。",
-    "source": [
-      "The Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft 365 Copilotの脆弱性によりメールとMFAコードの窃取が可能",
-    "summary": "Copilotのセキュリティ上の欠陥により、企業ユーザーの機密データが漏洩する可能性があった。",
-    "source": [
-      "The Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Palo Alto、PAN-OS GlobalProtectの脆弱性が活発に悪用されていると警告",
-    "summary": "セキュリティ企業は、企業VPNシステムの重大な脆弱性に対する攻撃が進行中と報告。",
-    "source": [
-      "The Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft、AI処理能力確保のためAWSに依存、GitHubは不足に直面",
-    "summary": "AI処理能力への需要増加により、Microsoftは競合他社のインフラを借りることを余儀なくされている。",
-    "source": [
-      "Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Amazon、ミズーリ州にデータセンターへの多額投資を発表",
-    "summary": "新データセンターにより、米国中西部でのAmazonのクラウドインフラが強化。",
-    "source": [
-      "Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta、Facebookでプラットフォームの公開情報を利用する「AIモード」を開始",
-    "summary": "新AI機能はInstagramなどからデータを抽出し、体験をパーソナライズ。",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta、ペンタゴンのサプライヤーを利用してスマートグラス用顔認識を試作",
-    "summary": "Metaのスマートグラス向け顔認識開発には軍事企業が関与。",
-    "source": [
-      "Artificial Intelligence Latest"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Satya Nadella、経済的利益が少数のAIシステムに集中することに警告",
-    "summary": "MicrosoftのCEOは、少数のAIシステムが全ての利益を独占する可能性があると警鐘。",
-    "source": [
+      "TechCrunch",
       "The Decoder"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Nvidia、200億ドルの社債発行でAI投資の債務を調達",
-    "summary": "半導体企業がAI投資の資金調達のため社債市場を活用。",
+    "title": "4,356の無料ゲームとEAの非侵入型広告が今週のゲーム界を席巻",
+    "summary": "6月22日まで無料で何千ものゲームにアクセス可能。一方EAは、ゲーム体験を妨げないと謳う広告システムを開始。",
     "source": [
-      "The Decoder"
+      "ADSLZone",
+      "El Chapuzas Informático"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "ポケモンGOのデータが軍事ドローン関連のAIトレーニングに使用",
-    "summary": "調査により、ゲームデータが軍事用途の自律監視システム開発に活用されたことが判明。",
+    "title": "MicrosoftとOpenAI、AIの雇用への影響で見解対立",
+    "summary": "MicrosoftがAIは人々を失業させる可能性があると警告する一方、OpenAIは雇用への影響は最小限だと主張し、Anthropicは中間的な立場を取っている。",
     "source": [
-      "The Decoder"
+      "El Chapuzas Informático",
+      "Xataka"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "人気WordPressプラグインのスクリプトが改ざんされバックドアを仕込まれる",
-    "summary": "サプライチェーン攻撃により、感染したプラグインを使用するウェブサイトが侵害され、不正アクセスが可能に。",
+    "title": "スペインの商業：Madrid Surショッピングセンター開業、Mercadonaのデジタル化、AmazonとCarrefourのセール",
+    "summary": "商業部門はMadrid Surショッピングセンターの開業で活性化、Mercadonaはオンライン倉庫を自動化、Amazonは無料の音楽と書籍を提供、CarrefourはLGテレビを在庫処分。",
     "source": [
-      "The Hacker News"
+      "ADSLZone",
+      "Xataka"
     ],
-    "count": 1
-  },
-  {
-    "title": "AIによる解雇の波が火薬庫に",
-    "summary": "AI主導の自動化が複数の業界で大量解雇を引き起こし、労使関係の緊張が高まっている。",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
+    "count": 2
   }
 ]
