@@ -35,7 +35,7 @@ for (const file of files) {
 			model: "deepseek-v4-flash-free",
 			messages: [
 				{ role: "system", content: PROMPT },
-				{ role: "user", content: encode(news) },
+				{ role: "user", content: `Cluster these news:\n${encode(news)}` },
 			],
 			temperature: 0.2,
 			stream: true,
