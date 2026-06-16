@@ -1,6 +1,6 @@
 # NewsBucket
 
-<h3 align="center"><img src="media/generated-image.png"></h3>
+<h3 align="center"><img width="600" height="400" src="media/generated-image.png"></h3>
 
 <p align="center">
   <a href="#about">About</a> •
