@@ -1,106 +1,28 @@
 [
   {
-    "title": "SpaceX buys Cursor for 60 billion dollars",
-    "summary": "Spacex acquires the artificial intelligence startup Cursor to compete with OpenAI and Anthropic after its IPO.",
+    "title": "SpaceX acquires AI startup Cursor for $60 billion",
+    "summary": "The purchase reinforces the company's strategy in artificial intelligence after its IPO.",
     "source": [
       "Fast Company",
-      "The Decoder",
-      "TechCrunch",
       "Hacker News",
-      "Xataka"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Artificial intelligence could be affecting human cognition and work",
-    "summary": "Studies and analyses warn about the impact of AI on cognitive ability, the rise of 'botsitting' and consumer rejection of AI in brands.",
-    "source": [
-      "Hacker News",
-      "Xataka",
-      "Fast Company",
-      "El Chapuzas Informático",
-      "TechCrunch"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Snap presents its augmented reality glasses Specs",
-    "summary": "Snap launches its long-awaited AR glasses that allow superimposing digital information onto the real world, although at a high price.",
-    "source": [
       "TechCrunch",
-      "Fast Company",
-      "Hacker News"
+      "The Decoder"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Google Earth launches global flight simulator",
-    "summary": "Google Earth incorporates a flight simulator in web browsers and adds professional features to explore the world from the air.",
-    "source": [
-      "Xataka",
-      "AlternativeTo.net",
-      "Kagi News"
-    ],
-    "count": 3
-  },
-  {
-    "title": "US government defends xAI's turbines on national security grounds",
-    "summary": "The Department of Justice invokes national security to justify xAI's unauthorized gas turbines amid a lawsuit by the NAACP.",
-    "source": [
-      "TechCrunch",
-      "The Decoder",
-      "Feed: Artificial Intelligence Latest"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Robinhood lays off 10% of its workforce",
-    "summary": "The trading platform Robinhood reduces its staff by 10% to flatten its organizational structure.",
-    "source": [
-      "Fast Company",
-      "TechCrunch"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft restructures Xbox and closes Ninja Theory",
-    "summary": "Microsoft initiates a deep change in Xbox with the departure of the director of Xbox Game Studios, the closure of Ninja Theory and the search for external funding.",
-    "source": [
-      "Xataka",
-      "El Chapuzas Informático"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Haier presents its new range of MiniLED and large-sized televisions",
-    "summary": "Haier launches in Spain televisions with MiniLED technology and giant sizes, betting on competing not on price but on quality.",
+    "title": "Android 17 arrives with improved multitasking tools and Gemini features",
+    "summary": "The operating system update is now available for Pixel and other devices with new AI capabilities.",
     "source": [
       "ADSLZone",
-      "Xataka"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Android 17 now available with new multitasking features",
-    "summary": "Google launches Android 17 which introduces multitasking tools and expands Gemini features, first on Pixel and then on other devices.",
-    "source": [
-      "ADSLZone",
+      "Hacker News",
       "TechCrunch"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Anthropic keeps its Fable and Mythos models offline by US order",
-    "summary": "Anthropic makes its Fable and Mythos models inaccessible after an order from the US government, generating tensions with the White House.",
-    "source": [
-      "Kagi News",
-      "Feed: Artificial Intelligence Latest"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ChatGPT loses market share for the first time below 50%",
-    "summary": "ChatGPT's popularity falls while competitors gain ground and the company faces multi-million dollar losses.",
+    "title": "SpaceX's valuation exceeds $2.6 trillion and briefly surpasses Amazon",
+    "summary": "The growth of the aerospace company reflects the success of its missions and satellite services.",
     "source": [
       "Fast Company",
       "TechCrunch"
@@ -108,8 +30,44 @@
     "count": 2
   },
   {
-    "title": "OpenAI and Anthropic burn money with their most expensive AI models",
-    "summary": "The most costly artificial intelligence models from OpenAI and Anthropic generate losses when their usage exceeds 11% of maximum capacity.",
+    "title": "Apple will change its Hide My Email feature reducing its privacy effectiveness",
+    "summary": "The modification will allow senders to track more information despite anonymity.",
+    "source": [
+      "Hacker News",
+      "TechCrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Robinhood lays off 10% of its workforce to flatten its organizational structure",
+    "summary": "The company seeks to simplify its operation and reduce costs in a volatile market environment.",
+    "source": [
+      "Fast Company",
+      "TechCrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The Department of Justice defends xAI's gas turbines as a matter of national security",
+    "summary": "The US government argues that unauthorized turbines are essential for economic and energy security.",
+    "source": [
+      "TechCrunch",
+      "The Decoder"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Snap launches its augmented reality glasses Specs at a high price and with limited functionality",
+    "summary": "CEO Evan Spiegel states that the glasses are crucial for the company's mission to integrate augmented reality.",
+    "source": [
+      "Fast Company",
+      "TechCrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI and Anthropic lose money on their most advanced AI models according to new report",
+    "summary": "When model usage exceeds 11% of capacity, the companies incur operating losses.",
     "source": [
       "El Chapuzas Informático",
       "The Decoder"
@@ -117,69 +75,99 @@
     "count": 2
   },
   {
-    "title": "How to watch the World Cup without overpaying and without delays",
-    "summary": "Fans look for alternatives to follow 2026 World Cup matches on DTT or streaming, avoiding delays and finding the cheapest option.",
+    "title": "SpaceX changes Starlink conditions after IPO: antenna is no longer free",
+    "summary": "Users will now have to pay rent for the antenna and purchase the Mini Dish separately.",
     "source": [
       "ADSLZone",
-      "Xataka"
+      "El Chapuzas Informático"
     ],
     "count": 2
   },
   {
-    "title": "Starlink's changes after IPO make fiber more attractive",
-    "summary": "Spacex modifies Starlink conditions: the antenna is no longer free and a rental is introduced, while fiber optics gain advantage for second homes.",
-    "source": [
-      "El Chapuzas Informático",
-      "ADSLZone"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX's valuation briefly surpasses Amazon's",
-    "summary": "Spacex reaches a valuation of 2.6 trillion dollars, momentarily surpassing Amazon, although analysts show skepticism.",
-    "source": [
-      "TechCrunch",
-      "Fast Company"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Scientists manage to predict solar flares in advance",
-    "summary": "A team of scientists develops a method to forecast solar flares, something that was almost impossible until now, improving preparation for solar storms.",
-    "source": [
-      "Xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Cisco patches actively exploited vulnerability in SD-WAN Manager",
-    "summary": "Cisco publishes security updates to fix a flaw in SD-WAN Manager that is being actively exploited by attackers.",
-    "source": [
-      "The Hacker News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "India orders temporary ban on Telegram over exam fraud concerns",
-    "summary": "The Indian government temporarily blocks the messaging app Telegram due to its use in fraud during official exams.",
+    "title": "India temporarily bans Telegram for exam fraud",
+    "summary": "The Indian government orders the blocking of the app after detecting its use in academic fraud.",
     "source": [
       "TechCrunch"
     ],
     "count": 1
   },
   {
-    "title": "Microsoft renews its Surface Pro and Surface Laptop with the Snapdragon X2",
-    "summary": "Microsoft updates its Surface devices with the Snapdragon X2 processor, offering better performance and prices starting at 1,599 euros.",
+    "title": "German court rules that Google's AI summaries are a search format and not original content",
+    "summary": "The decision sets a precedent for copyright on results generated by artificial intelligence.",
     "source": [
-      "El Chapuzas Informático"
+      "The Decoder"
     ],
     "count": 1
   },
   {
-    "title": "Netflix premieres new season of its most successful romantic drama",
-    "summary": "The streaming platform releases on June 30 the new season of the series that has surpassed other great successes of the romantic genre.",
+    "title": "DeepSeek receives external investment valuing the company at $50 billion",
+    "summary": "The Chinese AI startup attracts capital for the first time, marking a milestone in its expansion.",
     "source": [
-      "ADSLZone"
+      "The Decoder"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Fox acquires Roku for $22 billion in cash and stock",
+    "summary": "The merger combines Fox's television content with Roku's streaming platform.",
+    "source": [
+      "AlternativeTo.net"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Salesforce buys AI agent platform Fin for $3.6 billion",
+    "summary": "The acquisition seeks to boost intelligent automation in its enterprise suite.",
+    "source": [
+      "AlternativeTo.net"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Vulnerability in FIFA's internal system allowed modifying match broadcasts",
+    "summary": "The security flaw exposed the possibility of altering the television signal of World Cup matches.",
+    "source": [
+      "TechCrunch"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Rivian lays off hundreds of employees after starting R2 deliveries",
+    "summary": "The electric vehicle company adjusts its workforce to optimize costs and production.",
+    "source": [
+      "TechCrunch"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Threads reaches 500 million monthly users and adds customized features",
+    "summary": "Meta's social network continues its growth and introduces new community tools.",
+    "source": [
+      "TechCrunch"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Baby formula sold at Target recalled due to infant botulism outbreak in three states",
+    "summary": "Health authorities warn about a potentially deadly infection linked to the product.",
+    "source": [
+      "Fast Company"
+    ],
+    "count": 1
+  },
+  {
+    "title": "KDE Plasma 6.7 introduces virtual desktops per screen and a unified theme system",
+    "summary": "The new version of the desktop environment includes updates for Wayland and performance improvements.",
+    "source": [
+      "AlternativeTo.net"
+    ],
+    "count": 1
+  },
+  {
+    "title": "EU plans to prohibit operators from installing Chinese routers for security",
+    "summary": "The measure aims to protect European telecommunications infrastructure from potential risks.",
+    "source": [
+      "BandaAncha"
     ],
     "count": 1
   }
