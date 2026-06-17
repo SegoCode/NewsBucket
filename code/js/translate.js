@@ -29,6 +29,8 @@ for (const file of files) {
 	for (const { code, prompt } of LANGS) {
 		console.log(`→ ${file} → ${code}`);
 		if (process.env.GITHUB_ACTIONS) console.log("  Generating...");
+		let translated = [];
+		for (let attempt = 0; attempt < 2; attempt++) {
 		const res = await fetch(API_URL, {
 			method: "POST",
 			headers: {
@@ -69,9 +71,12 @@ for (const file of files) {
 		}
 		if (!process.env.GITHUB_ACTIONS) process.stdout.write("\r\n");
 		content = content.replace(/^```json\s*|\s*```$/g, "").trim() || "[]";
-		const translated = JSON.parse(content);
+		translated = JSON.parse(content);
 		if (!Array.isArray(translated))
 			throw new Error(`Invalid response for ${file}/${code}`);
+		if (translated.length) break;
+		if (!attempt) console.log("  → empty, retrying...");
+		}
 
 		const outFile = `${path.basename(file, "_clusters_es.json")}_clusters_${code}.json`;
 		fs.writeFileSync(
