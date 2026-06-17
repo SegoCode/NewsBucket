@@ -1,28 +1,86 @@
 [
   {
     "title": "SpaceX、AIスタートアップCursorを600億ドルで買収",
-    "summary": "今回の買収は、同社のAI戦略を強化するものだ。",
+    "summary": "イーロン・マスク率いるスペースXは、xAI強化のためにCursorを買収する。株式交換による取引で、上場後に行われる。",
     "source": [
+      "AlternativeTo.net",
       "Fast Company",
-      "Hacker News",
-      "TechCrunch",
-      "The Decoder"
+      "The Decoder",
+      "TechCrunch"
     ],
     "count": 4
   },
   {
-    "title": "Android 17、マルチタスクツールの改善とGemini機能を搭載して登場",
-    "summary": "このOSアップデートは、Pixelおよびその他のデバイスで利用可能となり、新たなAI機能を提供する。",
+    "title": "スナップ、拡張現実グラスSPECSを2,195ドルで発売",
+    "summary": "スナップのグラスは予約受付中で、高度な拡張現実体験を提供している。",
     "source": [
-      "ADSLZone",
+      "El Chapuzas Informático",
+      "Product Hunt",
+      "TechCrunch",
+      "Fast Company"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Android 17、マルチタスク機能とGeminiの改良を搭載して利用可能に",
+    "summary": "GoogleがPixel端末向けに、AI統合を施した最新OSをリリースする。",
+    "source": [
+      "Product Hunt",
       "Hacker News",
+      "ADSLZone",
       "TechCrunch"
+    ],
+    "count": 4
+  },
+  {
+    "title": "SpaceX、2.6兆ドルの評価額で株式公開",
+    "summary": "イーロン・マスク氏の企業が株式公開し、一時的にアマゾンの時価総額を上回る。",
+    "source": [
+      "TechCrunch",
+      "El Chapuzas Informático",
+      "Fast Company"
     ],
     "count": 3
   },
   {
-    "title": "SpaceXの評価額が2.6兆ドルを超え、一時的にアマゾンを凌ぐ",
-    "summary": "同宇宙企業の成長は、ミッションと衛星サービスの成功を反映している。",
+    "title": "Threads、月間ユーザー数5億人を達成し新機能を追加",
+    "summary": "メタのソーシャルネットワークがプライバシーコントロールとコミュニティ機能を導入、成長を強化。",
+    "source": [
+      "AlternativeTo.net",
+      "TechCrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Pepephone、24時間カスタマーサポートを開始するもコールセンターを外部委託",
+    "summary": "同社は継続的なサポートを提供するが、スペイン国内にセンターを維持する約束を撤回し物議を醸す。",
+    "source": [
+      "ADSLZone",
+      "BandaAncha"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Simyo、別荘向け光回線を発表、モバイルプランも改善",
+    "summary": "通信事業者は割引料金と大容量GBで休暇先向け光回線サービスを拡充。",
+    "source": [
+      "ADSLZone",
+      "BandaAncha"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ハイアール、スペインでMiniLEDテレビと大型スクリーンの新シリーズを発表",
+    "summary": "中国ブランドはスペイン市場で競合するため、MiniLED技術と大画面に注力。",
+    "source": [
+      "ADSLZone",
+      "Xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ロビンフッド、リストラの一環で従業員の10%を解雇",
+    "summary": "取引プラットフォームは組織構造をフラット化するため人員を削減、と同社。",
     "source": [
       "Fast Company",
       "TechCrunch"
@@ -30,26 +88,17 @@
     "count": 2
   },
   {
-    "title": "Apple、「Hide My Email」機能を変更、プライバシー効果を低下",
-    "summary": "この変更により、匿名性にもかかわらず送信者がより多くの情報を追跡できるようになる。",
+    "title": "Wolfram言語とMathematica 15が利用可能に",
+    "summary": "コンピュテーショナル言語の新バージョンは数学およびプログラミング機能が大幅に向上。",
     "source": [
-      "Hacker News",
-      "TechCrunch"
+      "Product Hunt",
+      "Hacker News"
     ],
     "count": 2
   },
   {
-    "title": "Robinhood、組織構造をフラット化するため従業員の10%を解雇",
-    "summary": "同社は、変動する市場環境において事業を簡素化しコスト削減を目指す。",
-    "source": [
-      "Fast Company",
-      "TechCrunch"
-    ],
-    "count": 2
-  },
-  {
-    "title": "米司法省、xAIのガスタービンを国家安全保障問題として擁護",
-    "summary": "米国政府は、無許可のタービンが経済・エネルギー安全保障に不可欠だと主張。",
+    "title": "米司法省、NAACP訴訟でxAIのガスタービンを国家安全保障で擁護",
+    "summary": "米国司法省は、認可されていないタービンが国家安全保障上不可欠だと主張。",
     "source": [
       "TechCrunch",
       "The Decoder"
@@ -57,117 +106,74 @@
     "count": 2
   },
   {
-    "title": "Snap、高価格で機能制限のあるARグラス「Specs」を発売",
-    "summary": "CEOのエヴァン・シュピーゲル氏は、このグラスがAR統合という同社の使命にとって重要だと述べている。",
+    "title": "Anthropic、トランプ政権と対立するも売上は利益を示唆",
+    "summary": "政治的な対立にもかかわらず、売上データはAIスタートアップへのポジティブな影響を示す。",
     "source": [
-      "Fast Company",
       "TechCrunch"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "OpenAIとAnthropic、最新AIモデルで赤字との報告",
-    "summary": "モデルの使用率が容量の11%を超えると、これらの企業は営業損失を被る。",
+    "title": "インド、試験不正でTelegramを一時禁止",
+    "summary": "インド政府が学術不正に利用されたとして同アプリをブロックし調査中。",
     "source": [
-      "El Chapuzas Informático",
-      "The Decoder"
+      "TechCrunch"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "SpaceX、上場後にStarlinkの条件を変更：アンテナは無料ではなくなる",
-    "summary": "ユーザーはアンテナのレンタル料を支払い、Mini Dishを別途購入する必要がある。",
+    "title": "FIFA内部システムの脆弱性によりテレビ放送の改ざんが可能に",
+    "summary": "アクセス権限を持つ人なら誰でもワールドカップのテレビ信号を変更できたとみられる。",
     "source": [
-      "ADSLZone",
+      "TechCrunch"
+    ],
+    "count": 1
+  },
+  {
+    "title": "リビアン、R2の納入開始後に数百人の従業員を解雇",
+    "summary": "電気自動車メーカーは生産増加の中でコスト削減のため人員削減。",
+    "source": [
+      "TechCrunch"
+    ],
+    "count": 1
+  },
+  {
+    "title": "CISA、Joomla JCEの重大な脆弱性が活発に悪用されていると警告",
+    "summary": "PHPリモートコード実行の欠陥が既に攻撃に悪用されている。",
+    "source": [
+      "The Hacker News"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Vertex AI SDKの脆弱性によりモデルワークロードの乗っ取りが可能に",
+    "summary": "研究者らは、攻撃者が脆弱性を利用してAIモデルを制御できることを発見。",
+    "source": [
+      "The Hacker News"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Mastraのnpmパッケージ144個がコントリビューターアカウント乗っ取りで侵害",
+    "summary": "サプライチェーン攻撃によりnpmレジストリの複数パッケージが感染。",
+    "source": [
+      "The Hacker News"
+    ],
+    "count": 1
+  },
+  {
+    "title": "株主、過剰なAI投資と株価暴落でマイクロソフトを提訴",
+    "summary": "マイクロソフトがAIへの過剰投資で株価を人為的に吊り上げたとして集団訴訟が提起。",
+    "source": [
       "El Chapuzas Informático"
     ],
-    "count": 2
-  },
-  {
-    "title": "インド、試験不正でTelegramを一時的に禁止",
-    "summary": "インド政府は、学業不正への使用が確認されたためアプリのブロックを命じた。",
-    "source": [
-      "TechCrunch"
-    ],
     "count": 1
   },
   {
-    "title": "ドイツ裁判所、GoogleのAI要約は検索形式であり独自コンテンツではないと判断",
-    "summary": "この決定は、AI生成結果における著作権の先例となる。",
+    "title": "40人の専門家がAIによる社会崩壊を防ぐため秘密会合",
+    "summary": "専門家グループが秘密会合でAIの破滅的リスクを軽減する方法を協議。",
     "source": [
-      "The Decoder"
-    ],
-    "count": 1
-  },
-  {
-    "title": "DeepSeek、500億ドルの評価額で外部投資を受ける",
-    "summary": "中国のAIスタートアップが初めて資本を獲得し、拡大の節目を迎える。",
-    "source": [
-      "The Decoder"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Fox、現金と株式でRokuを220億ドルで買収",
-    "summary": "この合併はFoxのテレビコンテンツとRokuのストリーミングプラットフォームを統合する。",
-    "source": [
-      "AlternativeTo.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Salesforce、AIエージェントプラットフォームFinを36億ドルで買収",
-    "summary": "この買収は、企業向けスイートにおけるインテリジェントな自動化を強化する狙い。",
-    "source": [
-      "AlternativeTo.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "FIFA内部システムの脆弱性により試合中継の改ざんが可能に",
-    "summary": "このセキュリティ上の欠陥により、ワールドカップのテレビ信号を変更できる可能性が明らかになった。",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Rivian、R2納入開始後に数百人の従業員を解雇",
-    "summary": "同電気自動車メーカーは、コストと生産を最適化するために人員を調整。",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Threads、月間利用者数5億人を達成、カスタマイズ機能を追加",
-    "summary": "Metaのソーシャルネットワークは成長を続け、新たなコミュニティツールを導入。",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Targetで販売の乳児用粉ミルク、3州で乳児ボツリヌス症集団発生によりリコール",
-    "summary": "保健当局は、本製品に関連する死に至る可能性のある感染症について警告。",
-    "source": [
-      "Fast Company"
-    ],
-    "count": 1
-  },
-  {
-    "title": "KDE Plasma 6.7、画面ごとの仮想デスクトップと統一テーマシステムを導入",
-    "summary": "デスクトップ環境の新バージョンにはWaylandのアップデートとパフォーマンス改善が含まれる。",
-    "source": [
-      "AlternativeTo.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "EU、セキュリティ上の理由から事業者による中国製ルーターの設置禁止を計画",
-    "summary": "この措置は欧州の通信インフラを潜在的なリスクから保護することを目的としている。",
-    "source": [
-      "BandaAncha"
+      "Xataka"
     ],
     "count": 1
   }
