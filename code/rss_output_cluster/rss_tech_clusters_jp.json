@@ -1,191 +1,171 @@
 [
   {
-    "title": "複数のサイバー攻撃とセキュリティ脆弱性が世界中の企業とユーザーに影響",
-    "summary": "Fortinetのファイアウォールの大規模なハッキングから、Microsoftの重大な障害やJetBrainsの悪意のあるプラグインまで、サイバーセキュリティは依然として世界的な優先事項です。",
-    "source": [
-      "Hacker News",
-      "Feed: Artificial Intelligence Latest",
-      "TechCrunch",
-      "The Hacker News",
-      "El Chapuzas Informático",
-      "Xataka"
-    ],
-    "count": 6
-  },
-  {
-    "title": "Google Geminiが拡大: 新しいスピーカー、Android 17、Wear OS 7が人工知能で強化",
-    "summary": "GoogleはGeminiアシスタントをスマートスピーカーやオペレーティングシステムに統合する一方、市場シェアが拡大し、共同リーダーがOpenAIに参加。",
-    "source": [
-      "El Chapuzas Informático",
-      "The Decoder",
-      "News - AlternativeTo.net",
-      "TechCrunch",
-      "Feed: Artificial Intelligence Latest"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Apple、AIが価格に与える影響を警告し、2027年に向けた革新的な製品投入を準備",
-    "summary": "ティム・クック氏はAIがiPhoneのコストを増加させると指摘する一方、Appleはカメラ付きAirPodsやベゼルレスiPhoneを計画し、プライバシー機能のHide My Emailを変更。",
-    "source": [
-      "Xataka",
-      "TechCrunch",
-      "News - AlternativeTo.net",
-      "El Chapuzas Informático"
-    ],
-    "count": 4
-  },
-  {
-    "title": "ソフトウェア開発における人工知能エージェントの進展と考察",
-    "summary": "Framer 3.0とQt Creator 20がAIエージェントを統合する一方、商業とセキュリティへの影響が議論され、あるロボットがClaudeかGrokかを選択すべきかどうかを提起する。",
-    "source": [
-      "News - AlternativeTo.net",
-      "Hacker News",
-      "Fast Company",
-      "Stack Overflow Blog"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Anthropic、モデルClaudeをめぐる論争、提携、アップデートに直面",
-    "summary": "AIスタートアップは炭素除去連合に参加し、Claudeのデザインを改善し、脱獄を阻止するよう政府の要請に直面する一方、韓国の通信大手との論争の渦中にある。",
-    "source": [
-      "Feed: Artificial Intelligence Latest",
-      "Fast Company",
-      "TechCrunch"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AmazonとAWSが投資と新ツールで人工知能への取り組みを強化",
-    "summary": "電子商取引大手は、3Dワールドモデルを開発するスタートアップOdysseyへの3億1000万ドルのラウンドに参加し、AWSは制御ツールを備えた自律型AIエージェントを発表。",
+    "title": "Midjourney、人工知能搭載の超音波全身スキャナーを発売",
+    "summary": "画像生成企業が、放射線を使わずに1分で全身をスキャンする医療機器を発表。",
     "source": [
       "The Decoder",
-      "TechCrunch",
-      "Fast Company"
-    ],
-    "count": 3
-  },
-  {
-    "title": "NVIDIA、新技術と声明でロボティクス、ゲーム、コンピュータビジョンを前進",
-    "summary": "ジェンスン・フアン氏がAIの未来についてのビジョンを共有する一方、NVIDIAは自己学習ロボット、PUBG向けAIアシスタント、グラフィックカードをインストールするロボットを発表。",
-    "source": [
-      "El Chapuzas Informático",
-      "Fast Company",
-      "The Decoder"
-    ],
-    "count": 3
-  },
-  {
-    "title": "米国が中国企業を阻止し、世界のリーダーが人工知能の管理を求める",
-    "summary": "米国はDeepSeekや他の中国企業のブラックリスト掲載を停止する一方、世界のリーダーは米国のAIを無効化できる権限を望んでいる。",
-    "source": [
-      "TechCrunch",
-      "El Chapuzas Informático"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ソーシャルメディアの進化: Threadsが成長、Mastodonが再発明、透明性のあるアルゴリズムが求められる",
-    "summary": "Threadsは5億ユーザーに達し、Mastodonはソーシャルウェブを活性化するためにニュースレターを模索し、ユーザー管理のアルゴリズムの必要性が議論されている。",
-    "source": [
-      "Xataka",
-      "TechCrunch"
-    ],
-    "count": 2
-  },
-  {
-    "title": "スマートフォン依存症に対抗する動き: スペインの村からスローテック革命まで",
-    "summary": "ウエスカで9時間携帯電話の電源を切るなどの取り組みやスローテック運動は、注意力を取り戻し、スマートフォンへの依存を減らそうとしている。",
-    "source": [
-      "Xataka",
-      "TechCrunch"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD、Ryzenの暗号化を廃止し、ハイエンドグラフィックスをキャンセルしたことで批判に直面",
-    "summary": "同社はプロセッサのメモリ暗号化を静かに廃止し、NvidiaのRTX 50 SUPERと競合するGPUをリリースしないことを決定。",
-    "source": [
-      "Hacker News",
-      "El Chapuzas Informático"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Commodore、ソーシャルメディアをブロックするレトロスマートフォンをLinuxで発売",
-    "summary": "Callback 8020はCommodore 64を彷彿とさせ、InstagramやTikTokの使用を防ぎ、Linuxを実行し、ほとんどのAndroidアプリとの互換性がある。",
-    "source": [
-      "El Chapuzas Informático",
-      "Xataka"
-    ],
-    "count": 2
-  },
-  {
-    "title": "LinuxでのゲーミングがSteamOS 3.8とEpicのEasy Anti-Cheatサポートで前進",
-    "summary": "SteamOSがバージョン3.8にアップデートされる一方、Epic GamesはアンチチートをLinuxに移植する作業を進めており、FortniteなどのタイトルをSteam Deckに近づけている。",
-    "source": [
       "El Chapuzas Informático",
       "Hacker News"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "人工知能の信頼性ギャップ: アメリカ人のわずか16%がプラスの影響を期待",
-    "summary": "ある調査によると、アメリカ人のわずか16%がAIはプラスの影響を与えると信じており、その信頼性と社会的影響をめぐる議論が激化している。",
+    "title": "ティム・クック、AIとメモリ不足がiPhone価格上昇を引き起こすと確認",
+    "summary": "AppleのCEOは、将来のコスト増加を人工知能の影響とチップ危機に帰している。",
     "source": [
       "Fast Company",
+      "Xataka",
       "TechCrunch"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "DeepSeekとZhipu AIが業界リーダーと競合する新モデルを発表",
-    "summary": "DeepSeekはビジョン機能を導入し、Zhipu AIはGLM-5.2をリリースし、コーディング性能でプロプライエタリモデルに迫る。",
+    "title": "Adobe、クリエイティブアプリケーションに人工知能アシスタントを統合",
+    "summary": "Premiere、Illustrator、InDesign、PhotoshopにAI機能が搭載され、クリエイティブ作業が容易に。",
     "source": [
-      "Hacker News",
+      "TechCrunch",
       "The Decoder"
     ],
     "count": 2
   },
   {
-    "title": "マドリード、モビリティの課題に直面: 外部労働者の交通パス終了と安価な地下鉄の教訓",
-    "summary": "スペインの首都は市外在住者向けの交通パスを廃止する一方、どのようにして低コストで地下鉄を建設したかが分析されている。",
+    "title": "Google、マルチタスク強化とゲーミングモードを備えたAndroid 17をPixel向けにリリース",
+    "summary": "新しいOSバージョンには高度な機能が含まれており、GrapheneOSも対応済み。",
     "source": [
-      "Hacker News",
-      "Xataka"
+      "Kagi News",
+      "AlternativeTo.net"
     ],
     "count": 2
   },
   {
-    "title": "NASA、Eric Schmidtのロケット企業を火星ミッションに選定、SpaceXと競合",
-    "summary": "NASAはEric Schmidtのロケット企業を火星ミッションに選定し、SpaceXとの競争が激化。",
+    "title": "Mastodon、コレクション機能でプラットフォームを更新、成長のためにニュースレターを活用",
+    "summary": "分散型ソーシャルネットワークが再設計されたプロフィールを追加し、オープンなソーシャルウェブを活性化するためにニュースレターを模索。",
+    "source": [
+      "AlternativeTo.net",
+      "TechCrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "FortiBleedキャンペーン、73,000以上のFortinetデバイスの認証情報を危険にさらす",
+    "summary": "攻撃者は、大規模グローバル企業が使用するFortinetファイアウォールのデータにアクセス。",
+    "source": [
+      "Kagi News",
+      "TechCrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Amazon、Nvidia、AMDが3DモデルスタートアップOdysseyに3億1000万ドルを投資",
+    "summary": "ワールドモデル企業は、テクノロジー大手の支援を受けて14.5億ドルの評価額に達する。",
+    "source": [
+      "The Decoder",
+      "TechCrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "G7、米国によるAnthropicモデルへの制限を受けてAIへのアクセスを議論",
+    "summary": "世界のリーダーたちは米国の技術を望むが、米国がその使用を管理できないようにしたい。",
+    "source": [
+      "Kagi News",
+      "TechCrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GTA 6、公式カバーアートを公開、予約開始日を6月25日に設定",
+    "summary": "Rockstar Gamesが待望のゲームのカバーを公開し、予約開始を発表。",
+    "source": [
+      "El Chapuzas Informático"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Waymo、高速道路の工事区域を走行しないよう4,000台のロボタクシーをリコール",
+    "summary": "リコールは、建設区域での事故を防ぐためにナビゲーションソフトウェアを更新することを目的としている。",
     "source": [
       "TechCrunch"
     ],
     "count": 1
   },
   {
-    "title": "Snap、非常に高価な拡張現実グラスを発表後、株価が急落",
-    "summary": "Snapの新しいARグラスは高価格で投資家を納得させず、株価が急落。",
+    "title": "ChatGPTの市場シェア、2026年5月に初めて50%を下回る",
+    "summary": "Geminiが25%を超え、Claudeが10%に達し、AIアシスタント市場の競争が激化。",
+    "source": [
+      "El Chapuzas Informático"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SpaceX、Cursor開発元Anysphereを600億ドルで買収",
+    "summary": "イーロン・マスクの企業が、プログラマー向け人工知能ツールのスタートアップを買収。",
+    "source": [
+      "Kagi News"
+    ],
+    "count": 1
+  },
+  {
+    "title": "NASA、エリック・シュミットのロケット企業を火星ミッションに選定",
+    "summary": "同社は、赤い惑星へのミッション送り込み競争でSpaceXと競合する。",
     "source": [
       "TechCrunch"
     ],
     "count": 1
   },
   {
-    "title": "PayPal Ventures、会社再編の一環として閉鎖",
-    "summary": "PayPalの投資部門は、より広範な事業再編の一環として解散。",
+    "title": "Epic Games、Linux向けEasy Anti-Cheatのサポートを準備",
+    "summary": "互換性により、Steam DeckやLinuxディストリビューションでFortniteやRocket Leagueが実行可能に。",
     "source": [
-      "TechCrunch"
+      "El Chapuzas Informático"
     ],
     "count": 1
   },
   {
-    "title": "Freepik、スペインの従業員の約3分の1に対する雇用調整手続きを提案",
-    "summary": "AIを受け入れるためにMagnificに変身したグラフィックリソース企業が、スペインの従業員の30%に影響する雇用調整（ERE）を発表。",
+    "title": "ヤン・ルカン、OpenAIやAnthropicのようなAIラボでの「バブル爆発」を予測",
+    "summary": "MetaのAIチーフサイエンティストが、人工知能セクターにおける差し迫った調整を警告。",
+    "source": [
+      "The Decoder"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Google Geminiの元リーダー、ノーム・シャザーがOpenAIに加入",
+    "summary": "研究者がGoogleで2年間過ごした後、自らの設立に貢献した企業に戻る、業界にとって重要な動き。",
+    "source": [
+      "The Decoder"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Threads、ユーザー数5億人を達成も収益は依然として未知数",
+    "summary": "Metaのソーシャルネットワークはユーザーを増やしているが、収益化はまだ不透明。",
     "source": [
       "Xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Snap、高額な拡張現実グラス発表後に株価暴落",
+    "summary": "高コストのARグラスの発売が投資家を納得させず、株価の急落を引き起こす。",
+    "source": [
+      "TechCrunch"
+    ],
+    "count": 1
+  },
+  {
+    "title": "マイクロソフト研究者、Age of Empires IIでヤギを使ったニューラルネットワークを作成しAIを批判",
+    "summary": "この特異な実験は、ビデオゲームを比喩として使い、人工知能研究の堅牢性に疑問を投げかける。",
+    "source": [
+      "The Decoder"
+    ],
+    "count": 1
+  },
+  {
+    "title": "中国で人型ロボットを身体で操作する仕事が人気に",
+    "summary": "中国産業でロボットを制御する人間のオペレーターの需要が急増。",
+    "source": [
+      "Feed"
     ],
     "count": 1
   }
