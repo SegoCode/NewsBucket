@@ -1,172 +1,188 @@
 [
   {
-    "title": "Midjourney、放射線を使わない全身AIスキャナーを発表",
-    "summary": "画像生成企業が医療分野に進出、60秒で全身をスキャンするデバイス",
+    "title": "AnthropicがClaudeの機能をエージェント機能とArtifactsで拡張",
+    "summary": "同社は、Claude CodeのArtifactsやClaude Designの改善など、開発者向けの新ツールを発表。",
     "source": [
-      "News - AlternativeTo.net",
-      "Product Hunt",
-      "The Decoder",
-      "El Chapuzas Informático"
+      "fastcompany.com",
+      "the-decoder.com",
+      "producthunt.com",
+      "alternativeto.net"
     ],
     "count": 4
   },
   {
-    "title": "中国のモデルGLM-5.2が世界最高のAIシステムと競合",
-    "summary": "100万トークンのコンテキストとコーディングでトップスコアを達成し、Z.aiは自社モデルをGPT-5.5やFable 5の強力な競合として位置づけ",
+    "title": "Midjourney、超音波スキャナーとスパで驚かせる",
+    "summary": "画像生成AIで知られる同社が、医療ハードウェアとウェルネスへの急進的な多角化を発表。",
     "source": [
-      "Xataka",
-      "News - AlternativeTo.net"
+      "alternativeto.net",
+      "producthunt.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AIデータセンター、米国で抗議と新たな規制に直面",
+    "summary": "保守活動家が抗議を計画する一方、政府は送電網接続を加速し、業界のルールを策定。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ジェフ・ベゾス、AI、宇宙、ワシントン・ポストに関する発言でメディアの注目を集める",
+    "summary": "アマゾン創業者がAIによる労働力不足や自社ロケットの失敗について語り、所有紙の経営を批判。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "自動運転車、法的課題の波に直面",
+    "summary": "Waymoが工事のため数千台のタクシーをリコール、BYDは損害賠償を約束、Rivianの所有者は約束不履行で提訴。",
+    "source": [
+      "fastcompany.com",
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple、メモリー価格高騰によりiPhoneとMacBookの値上げを示唆",
+    "summary": "AI主導のDRAMとNANDコスト上昇により、Appleは次期デバイスの価格引き上げを余儀なくされる。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "GTA 6、公式カバーアートを公開、予約開始日を6月25日に設定",
-    "summary": "Rockstar Gamesは、待望のタイトルの予約が6月末に始まると発表し、発売への期待が高まる",
+    "title": "人工知能バブルに関する警告が浮上",
+    "summary": "スペイン銀行とMetaのAIチーフサイエンティスト、Yann LeCun氏が市場の過熱の可能性を警告。",
     "source": [
-      "Xataka",
-      "El Chapuzas Informático"
+      "elchapuzasinformatico.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Valve、大幅なパフォーマンス向上を実現するSteamOSの重要なアップデートを公開",
-    "summary": "バージョン3.8および3.8.10では、新しいカーネル、Steam Machinesのサポート、VRRの最適化、レイテンシー低減が導入",
+    "title": "ValveがSteamOSをアップデート、Steamコントローラーの大規模な遅延を発表",
+    "summary": "同社はSteam Machines対応のSteamOS 3.8をリリースする一方、コントローラーの出荷は需要増により2027年まで遅延。",
     "source": [
-      "News - AlternativeTo.net",
-      "El Chapuzas Informático"
+      "elchapuzasinformatico.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic、Claude CodeにArtifacts機能を追加、ライブWebページの共有が可能に",
-    "summary": "新機能により、開発チームはコーディングセッション中に作成したWebアプリケーションを共有・レビューできる",
+    "title": "Epic Games、AAAゲームの衰退を批判しSteamの機能を模倣する計画",
+    "summary": "EpicのCEOが高コストなゲームの危機について語る一方、競合を模倣するためのストア刷新を発表。",
     "source": [
-      "The Decoder",
-      "Product Hunt"
+      "elchapuzasinformatico.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "米国政府、AIデータセンターの電力接続を加速",
-    "summary": "連邦規制当局は、トランプ政権のAIデータセンターの送電網アクセスを優先する計画を支持",
+    "title": "Metaの士気が解雇後、史上最低に低下、CTOが語る",
+    "summary": "Andrew Bosworth氏は士気が過去最低だと述べ、AI労働者が経営陣に反旗を翻している。",
     "source": [
-      "TechCrunch",
-      "Fast Company"
+      "fastcompany.com",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "「In the Weights」というウェブサイトが、AIモデルがあなたの身元を知っているかどうかを明らかに",
-    "summary": "このツールは、AIシステムが実在の人物についてどの程度知っているかを分析し、学習データにおけるプライバシーに関する議論を巻き起こす",
+    "title": "Apple、ブラジルでアプリ配信の新オプションを許可",
+    "summary": "同社はブラジルでiOSプラットフォームを競争に開放し、同国の規制要件を遵守。",
     "source": [
-      "The Decoder",
-      "Hacker News"
+      "kite.kagi.com",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Googleと中国政府、地元のチップ・メモリー産業を推進",
-    "summary": "GoogleがCXMTからチップを購入することを検討する一方、中国政府は生産を消費向けに振り向け、スタートアップのEnflameが新たなリーダーとして台頭",
+    "title": "ピーター・ティールのダイアログ・クラブ、物議を醸す秘密格付けシステムで話題に",
+    "summary": "報道により、テクノロジーエリートの排他的社交クラブの内部ランキング手法が明らかに。",
     "source": [
-      "Xataka",
-      "El Chapuzas Informático"
+      "/r/technology",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "Amazon、自社AIチップを販売してNvidiaに直接対抗",
-    "summary": "同社は、クラウド市場で他の顧客にカスタム代替品を提供することで、Nvidiaチップへの依存を減らそうとしている",
+    "title": "Zhipu AI、西洋の最高峰と競合する中国のモデルGLM-5.2を発表",
+    "summary": "この言語モデルは100万トークンのコンテキストと卓越したコーディングスコアを提供し、GPTやClaudeに迫る。",
     "source": [
-      "TechCrunch"
+      "alternativeto.net",
+      "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "OpenAI、待望のIPOに備え上級幹部を採用",
-    "summary": "同社は、IPOの可能性に先立ち、重役級の採用で経営陣を強化",
+    "title": "Adobe、AIアシスタントFireflyをCreative Cloudスイート全体に拡大",
+    "summary": "Fireflyの生成機能がPhotoshop、Illustratorなど、Adobeエコシステムの主要アプリケーションに導入。",
     "source": [
-      "TechCrunch"
+      "alternativeto.net",
+      "kite.kagi.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Rivianの所有者、自動運転に関する虚偽の約束で同社を提訴",
-    "summary": "集団訴訟は、同社が運転支援システムの能力を誇張し、非現実的な期待を生み出したと主張",
+    "title": "ウクライナのドローンが橋への精密攻撃で戦争に革命をもたらす",
+    "summary": "ウクライナのドローン戦争は、大規模爆撃なしに戦略目標を破壊する方法と、オペレーターに戦果ポイントでインセンティブを与える方法を示す。",
     "source": [
-      "TechCrunch"
+      "/r/technology",
+      "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "テキサス州政府へのサイバー攻撃、300万件の運転免許証とパスポートが流出",
-    "summary": "ハッカーが州のデータベースにアクセスし、機密情報を盗み出した。これは過去最大級の政府セキュリティ侵害の一つ",
+    "title": "AIモデルFable 5、スケーリングの限界をめぐり論争を巻き起こす",
+    "summary": "Sakana AIの新モデルは一部で画期的と見なされる一方、GLMにより中国AIとの差が縮まっていると指摘する声も。",
     "source": [
-      "TechCrunch"
+      "fastcompany.com",
+      "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Yann LeCun、OpenAIなどのAIスタートアップは「大きなバブル」に直面していると警告",
-    "summary": "Metaの最高AI科学者は、AIの約束が現実の価値に結びつかなければ市場の調整が起こると予測",
+    "title": "Microsoft、暗号通貨ウォレットを盗むUSBワームを警告",
+    "summary": "新しいマルウェアキャンペーンがUSBメモリとTorネットワークを利用してシステムに感染し、被害者から暗号資産を流出させる。",
     "source": [
-      "The Decoder"
+      "thehackernews.com",
+      "kite.kagi.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Google DeepMind、AIエージェントをオフィスの鍵を持った反抗的な従業員として扱う",
-    "summary": "同社は、自律型アシスタントを内部攻撃の潜在的ベクトルとして扱うセキュリティシステムを導入",
+    "title": "放置された反抗的なAIエージェントが新たなセキュリティリスクを生む",
+    "summary": "Google DeepmindがAIエージェントを問題社員のように扱う一方、専門家は監視されていないエージェントの危険性を警告。",
     "source": [
-      "The Decoder"
+      "thehackernews.com",
+      "the-decoder.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "OpenAI、ChatGPTの新しいヘルスケアモードは医師の回答を上回ると主張",
-    "summary": "内部テストでは、チャットボットが人間の医師が作成したものよりも正確で有用な臨床情報を提供することが示された",
+    "title": "Spotify、プレミアム加入者向けに先行チケット販売を開始",
+    "summary": "ストリーミングサービスが「スーパーファン」に一般販売前にコンサートチケット購入を可能に。",
     "source": [
-      "The Decoder"
+      "kite.kagi.com",
+      "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "OpenAIの研究者、AIをより安全で操作に強いものにすることに成功",
-    "summary": "有益な特性に関する少量のトレーニングにより、より堅牢で悪意のある使用につながりにくいモデルが実現",
+    "title": "チップの地政学が緊迫：中国のEUVリソグラフィと米国の製造計画",
+    "summary": "米国が中国におけるASMLの重要技術の存在の可能性を調査する一方、トランプ氏はAppleがIntelで製造すると主張。",
     "source": [
-      "The Decoder"
+      "techcrunch.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "MetaのCTO、従業員の士気は「最悪に近い」と認める",
-    "summary": "Andrew Bosworthは、大規模な人員削減が同社の労働環境に与える悪影響を内部で認めている",
-    "source": [
-      "Fast Company"
-    ],
-    "count": 1
-  },
-  {
-    "title": "MetaのAI従業員、社内ポリシーに反発",
-    "summary": "AI従業員の間で不満が高まり、企業文化やテクノロジーリーダーシップをめぐる緊張に拍車",
-    "source": [
-      "Feed: Artificial Intelligence Latest"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple、将来のiPhone向けに縁やベゼルがない完全なガラスディスプレイを計画",
-    "summary": "iPhone 20およびUltraモデルはすべてのフレームを排除し、完全に包み込むようなタッチデザインになるとの噂",
-    "source": [
-      "El Chapuzas Informático"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ファーウェイ、革新的な世界初の「縦型三つ折りスマートフォン」を開発中",
-    "summary": "中国メーカーは、展開時にさらに大きな画面を提供する3セクションの折りたたみデザインで競争に先行する可能性",
-    "source": [
-      "El Chapuzas Informático"
-    ],
-    "count": 1
+    "count": 2
   }
 ]
