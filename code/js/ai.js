@@ -69,7 +69,7 @@ for (const file of files) {
 		if (!Array.isArray(clusters))
 			throw new Error(`Invalid response for ${file}`);
 		if (clusters.length) break;
-		if (!attempt) console.log("  → empty, retrying...");
+		if (!attempt) console.warn(`  ↻ retry 1/1 (empty response)`);
 	}
 
 	const outFile = path.join(
