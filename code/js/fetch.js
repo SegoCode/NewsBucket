@@ -38,8 +38,7 @@ for (const file of files) {
 		.filter((l) => l && !l.startsWith("#"));
 
 	const results = await Promise.allSettled(
-		urls.map(async (url, i) => {
-			await delay(i * 500);
+		urls.map(async (url) => {
 			if (url.includes("reddit.com")) {
 				const wait = 60_000 - (Date.now() - lastReddit);
 				if (wait > 0) await delay(wait);
