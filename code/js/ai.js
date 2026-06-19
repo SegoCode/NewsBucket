@@ -64,12 +64,14 @@ for (const file of files) {
 			}
 		}
 		if (!process.env.GITHUB_ACTIONS) process.stdout.write("\r\n");
-		content = content.replace(/^```json\s*|\s*```$/g, "").trim() || "[]";
 		clusters = JSON.parse(content);
 		if (!Array.isArray(clusters))
 			throw new Error(`Invalid response for ${file}`);
-		if (clusters.length) break;
-		if (!attempt) console.warn(`  ↻ retry 1/1 (empty response)`);
+		const ok = clusters.length > 0 &&
+			clusters.every((c) => c.count === c.source.length);
+		if (ok) break;
+		const why = clusters.length === 0 ? "empty" : "count mismatch";
+		if (!attempt) console.warn(`  ↻ retry 1/1 (${why})`);
 	}
 
 	const outFile = path.join(
