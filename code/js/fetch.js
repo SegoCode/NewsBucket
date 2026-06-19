@@ -14,6 +14,16 @@ const parser = new RssParser({
 
 const delay = (ms) => new Promise((r) => setTimeout(r, ms));
 
+const sourceName = (url) => {
+  const u = new URL(url);
+  const host = u.hostname.replace(/^www\./, "");
+  const m = u.pathname.match(/^\/r\/([^/]+)/);
+  if (m && (host === "old.reddit.com" || host === "reddit.com")) {
+    return `/r/${decodeURIComponent(m[1])}`;
+  }
+  return host;
+};
+
 let lastReddit = 0;
 
 const files = fs.readdirSync(INPUT_DIR).filter((f) => f.endsWith(".txt"));
@@ -45,7 +55,7 @@ for (const file of files) {
 				publishedAt: item.isoDate || new Date().toISOString(),
 				author: item.creator || item.author || null,
 				categories: item.categories || [],
-				source: { name: feed.title, url: feed.link },
+				source: { name: sourceName(feed.link), url: feed.link },
 			}));
 		}),
 	);
