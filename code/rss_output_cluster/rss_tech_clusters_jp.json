@@ -1,17 +1,18 @@
 [
   {
-    "title": "Anthropicの中国との関係疑惑による危機がG7の規制につながる",
-    "summary": "AI企業とSKテレコムの事例が米国で警報を引き起こし、その結果、同社のモデルへの制限と人工知能へのアクセスに関する国際的な議論が生まれた。",
+    "title": "OpenAIとChatGPT：健康分野の進展、タスクスケジュール、市場シェア低下、IPO準備",
+    "summary": "OpenAIはChatGPTに健康機能とタスクスケジュール機能を追加。市場シェアは50%を下回り、同社は株式公開（IPO）の準備を進めている。",
     "source": [
       "The Decoder",
-      "Feed: Artificial Intelligence Latest",
-      "Kagi News"
+      "News - AlternativeTo.net",
+      "El Chapuzas Informático",
+      "TechCrunch"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Adobe、Photoshop、Premiere、Illustrator、InDesignにAIアシスタントを導入",
-    "summary": "同社はクリエイティブツールにインテリジェントエージェントを展開し、タスクを自動化して生産性を向上させる。",
+    "title": "Adobe、Creative CloudアプリケーションにAIエージェントを統合",
+    "summary": "同社はPhotoshop、Premiere、Illustrator、InDesignにAIアシスタントとエージェントを組み込み、クリエイティブ業務の自動化を実現する。",
     "source": [
       "Fast Company",
       "TechCrunch",
@@ -20,18 +21,36 @@
     "count": 3
   },
   {
-    "title": "Midjourney、AI駆動の全身医療用スキャナーを発表",
-    "summary": "生成画像企業が、放射線を使わずに60秒で全身をスキャンする超音波デバイスを披露した。",
+    "title": "Apple、メモリ不足による値上げに直面、ブラジルでApp Storeを競争に開放",
+    "summary": "AppleのCEOは、メモリ危機によりiPhoneとMacBookの価格が上昇することを認めた。一方、同社はブラジルで代替アプリストアを許可する。",
     "source": [
-      "The Decoder",
       "El Chapuzas Informático",
-      "Hacker News"
+      "Fast Company",
+      "TechCrunch"
     ],
     "count": 3
   },
   {
-    "title": "米国政府、AIデータセンターの電力網接続を優先",
-    "summary": "トランプ氏が支持する新規制により、AIデータセンターの電力アクセスが加速される。",
+    "title": "Noam Shazeer氏、Google DeepMindを離れOpenAIに復帰",
+    "summary": "Google DeepMindでGeminiの共同リーダーを務めたShazeer氏が、2年ぶりにOpenAIに復帰。AI人材獲得競争における重要な動きとなる。",
+    "source": [
+      "Fast Company",
+      "The Decoder"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Midjourney、AI搭載の全身スキャナーを発表",
+    "summary": "AI画像生成企業が、放射線や磁石を使わずに60秒で全身スキャンを行う医療用スキャナーを発売。",
+    "source": [
+      "The Decoder",
+      "El Chapuzas Informático"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米国政府、AIデータセンター向け電力接続を加速",
+    "summary": "米国の規制当局は、AIデータセンターに送電網の優先接続権を与えるトランプ氏の計画を支持。",
     "source": [
       "TechCrunch",
       "Fast Company"
@@ -39,35 +58,35 @@
     "count": 2
   },
   {
-    "title": "Apple、メモリ不足によりiPhoneとMacBookの値上げを確認",
-    "summary": "AIによるDRAM、NAND、HBMの需要急増がコストを押し上げ、Apple製品の値上げを余儀なくしている。",
+    "title": "Bertín Osborne氏、スペインで携帯電話会社「Española de Telefonía」を設立",
+    "summary": "歌手で司会者のOsborne氏が、保守系の携帯電話会社でスペインの電気通信市場に参入。",
     "source": [
-      "El Chapuzas Informático",
+      "Xataka",
+      "BandaAncha:️ Noticias, guias y foros sobre fibra y móvil"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Metaの従業員の士気、解雇とAI労働者の反乱により最低水準に",
+    "summary": "MetaのCTOは、解雇後の社内の士気が過去最悪であることを認めた。一方、AI部門の従業員は経営陣に対して反旗を翻している。",
+    "source": [
+      "Feed: Artificial Intelligence Latest",
       "Fast Company"
     ],
     "count": 2
   },
   {
-    "title": "ノーム・シャジールがGoogleを離れOpenAIに復帰",
-    "summary": "Geminiの共同リーダーが、GoogleのAIチームで2年間過ごした後、以前勤務していたOpenAIに再び加わる。",
+    "title": "SteamOS、パフォーマンス向上とSteam Machine対応の新アップデートをリリース",
+    "summary": "ValveはSteamOS 3.8および3.8.10をリリース。新しいカーネル、更新されたグラフィックドライバ、Steam Machineの互換性向上を追加。",
     "source": [
-      "The Decoder",
-      "Hacker News"
+      "News - AlternativeTo.net",
+      "El Chapuzas Informático"
     ],
     "count": 2
   },
   {
-    "title": "ベルティン・オズボーン、スペイン電話会社を設立、「伝統的で右派の」携帯電話事業者",
-    "summary": "スペインのアーティストで司会者が、保守的なアプローチと透明性を約束して自身の携帯電話事業者を立ち上げる。",
-    "source": [
-      "Xataka",
-      "BandaAncha"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SSDの価格が高騰、小売市場は崩壊寸前",
-    "summary": "2TBのSSDがPS5よりも高価になるほど価格が上昇し、メーカーは小売市場の消滅を報告している。",
+    "title": "SSD小売市場が崩壊、価格高騰と販売減少",
+    "summary": "SSDの価格はPS5の価格を超える過去最高値を記録。Silicon Motionは小売市場の事実上の消滅を認めた。",
     "source": [
       "Xataka",
       "El Chapuzas Informático"
@@ -75,8 +94,8 @@
     "count": 2
   },
   {
-    "title": "中国、世界的な不足を緩和するため自国製メモリチップに注力",
-    "summary": "中国政府がCXMTとYMTCに消費者向け製造を優先するよう指示し、RAMとSSDの危機を緩和。中国チップが救世主として浮上している。",
+    "title": "中国メモリチップ、世界的不足を緩和する代替手段として浮上",
+    "summary": "供給危機を受け、中国は自国のメモリメーカーに消費者市場を優先するよう指示。中国製チップがユーザーの救世主となる可能性。",
     "source": [
       "El Chapuzas Informático",
       "Xataka"
@@ -84,91 +103,84 @@
     "count": 2
   },
   {
-    "title": "OpenAI、IPOに向けて準備を進め経営陣を強化",
-    "summary": "AI企業が新規株式公開に向け、最終段階で著名な経営幹部を迎え入れる。",
+    "title": "Anthropic、Claude CodeとClaude Designをアップデート、新たなコラボレーション機能を追加",
+    "summary": "Claude Codeにライブページ共有機能「Artifacts」を追加。Claude Designはデザインシステムの一貫性とClaude Codeとの統合を強化。",
     "source": [
-      "TechCrunch"
+      "The Decoder",
+      "News - AlternativeTo.net"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Waymo、高速道路の工事区域を走行しないよう約4000台のロボタクシーをリコール",
-    "summary": "自律走行車会社が、タクシーが道路工事エリアに進入する問題を修正する。",
+    "title": "毎日遊べる新パズルゲーム「MapTap」と「Gerrymandle」が人気を集める",
+    "summary": "Wordleの流れを汲み、MapTapは地理知識を、Gerrymandleは選挙区の区割り変更に挑戦する。",
     "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "テキサス州で大規模情報漏洩：300万件の運転免許証とパスポートが盗まれる",
-    "summary": "州政府システムへのサイバー攻撃により、数百万人の市民の個人データが危険にさらされる。",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "NASA、エリック・シュミットのロケット会社を火星ミッションに選定",
-    "summary": "米航空宇宙局は、元Google CEOが設立した企業を、火星探査でSpaceXと競合する企業として選定した。",
-    "source": [
-      "TechCrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceX、Cursor開発元Anysphereを600億ドルで買収することで合意",
-    "summary": "イーロン・マスク氏の企業が、AIベースの開発ツール会社を買収。業界最大級の取引の一つとなる。",
-    "source": [
-      "Kagi News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple、2027年春にiPhone Air第2世代を発売準備",
-    "summary": "Appleの新しい薄型モデルが、初代から大幅に改良されて市場に登場する。",
-    "source": [
-      "Kagi News"
-    ],
-    "count": 1
-  },
-  {
-    "title": "GTA6、公式カバーアートと予約開始日を発表：6月25日",
-    "summary": "Rockstar Gamesが、待望のビデオゲームの公式カバーと予約日を発表。",
-    "source": [
-      "El Chapuzas Informático"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ChatGPTの市場シェアが初の50%割れ、GeminiとClaudeが成長",
-    "summary": "2026年5月、ChatGPTはGeminiとClaudeにシェアを奪われ、それぞれ25%と10%を記録した。",
-    "source": [
-      "El Chapuzas Informático"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Sleep Numberが破産申請、ナスダックから上場廃止へ",
-    "summary": "スマートマットレス企業が破産法第11章を申請し、株価が急落。",
-    "source": [
-      "Fast Company"
-    ],
-    "count": 1
-  },
-  {
-    "title": "スイス議会、新規原子力発電所建設の禁止を解除",
-    "summary": "スイスは原子力発電所の建設を再び認め、エネルギー政策を転換。",
-    "source": [
+      "TechCrunch",
       "Hacker News"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "MetaのCTO、解雇後の社内士気は「おそらく最悪」と認める",
-    "summary": "解雇と再編の波がMetaの従業員の士気に深刻な打撃を与えている。",
+    "title": "トランプ政権、即席でAI規制を策定",
+    "summary": "ホワイトハウスはリアルタイムでAI規制を整備する一方、トランプ大統領は国内で最も有望なAIモデルを批判。",
     "source": [
+      "Feed: Artificial Intelligence Latest",
       "Fast Company"
     ],
-    "count": 1
+    "count": 2
+  },
+  {
+    "title": "AIの経済的影響、富を生む一方でバブル懸念も",
+    "summary": "AIが前例のない富をもたらすと期待される中、Yann LeCun氏はOpenAIやAnthropicなどのAI研究所がバブルの中にある可能性があると警告。",
+    "source": [
+      "Xataka",
+      "The Decoder"
+    ],
+    "count": 2
+  },
+  {
+    "title": "出会い系でのAI活用と美の認識、米国人を悩ませる",
+    "summary": "Match社の調査によると、米国の独身者の約半数が出会い系でのAI活用に否定的。専門家はこれらのツールが生み出す美的プレッシャーに警鐘を鳴らす。",
+    "source": [
+      "TechCrunch",
+      "Xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "自動運転の問題：Waymoが工事現場に進入、Rivianは約束未達で提訴される",
+    "summary": "Waymoの自動運転車が工事中のエリアを走行。Rivianの所有者は、自動運転機能が約束を果たしていないとして訴えている。",
+    "source": [
+      "Fast Company",
+      "TechCrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "スマホ依存対策の取り組み：スローテクノロジーからバッグにスマホをしまう試みまで",
+    "summary": "スローテクノロジーが注意力の危機に解決策を提供する一方、スペイン・ウエスカの町ではスマホを9時間バッグにしまい込む実験を行っている。",
+    "source": [
+      "TechCrunch",
+      "Xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AI業界の大型買収：ElasticがDeductiveAIを買収、SpaceXがAnysphereを獲得",
+    "summary": "ElasticはスタートアップDeductiveAIを最大8500万ドルで買収。SpaceXはCursorを開発するAnysphereを600億ドルで買収。",
+    "source": [
+      "TechCrunch",
+      "Kagi News - Technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "活発なマルウェアキャンペーン：GitHub上のトロイの木馬とTor通信を使用するWindowsクリッパー",
+    "summary": "研究者が1万件のGitHubリポジトリがトロイの木馬を配布していることを発見。MicrosoftはUSBとTorをC2通信に使用するクリッパーマルウェアのキャンペーンの詳細を報告。",
+    "source": [
+      "Hacker News",
+      "The Hacker News"
+    ],
+    "count": 2
   }
 ]
