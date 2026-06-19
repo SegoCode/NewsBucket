@@ -1,186 +1,172 @@
 [
   {
-    "title": "OpenAIとChatGPT：健康分野の進展、タスクスケジュール、市場シェア低下、IPO準備",
-    "summary": "OpenAIはChatGPTに健康機能とタスクスケジュール機能を追加。市場シェアは50%を下回り、同社は株式公開（IPO）の準備を進めている。",
+    "title": "Midjourney、放射線を使わない全身AIスキャナーを発表",
+    "summary": "画像生成企業が医療分野に進出、60秒で全身をスキャンするデバイス",
     "source": [
-      "The Decoder",
       "News - AlternativeTo.net",
-      "El Chapuzas Informático",
-      "TechCrunch"
+      "Product Hunt",
+      "The Decoder",
+      "El Chapuzas Informático"
     ],
     "count": 4
   },
   {
-    "title": "Adobe、Creative CloudアプリケーションにAIエージェントを統合",
-    "summary": "同社はPhotoshop、Premiere、Illustrator、InDesignにAIアシスタントとエージェントを組み込み、クリエイティブ業務の自動化を実現する。",
-    "source": [
-      "Fast Company",
-      "TechCrunch",
-      "The Decoder"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Apple、メモリ不足による値上げに直面、ブラジルでApp Storeを競争に開放",
-    "summary": "AppleのCEOは、メモリ危機によりiPhoneとMacBookの価格が上昇することを認めた。一方、同社はブラジルで代替アプリストアを許可する。",
-    "source": [
-      "El Chapuzas Informático",
-      "Fast Company",
-      "TechCrunch"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Noam Shazeer氏、Google DeepMindを離れOpenAIに復帰",
-    "summary": "Google DeepMindでGeminiの共同リーダーを務めたShazeer氏が、2年ぶりにOpenAIに復帰。AI人材獲得競争における重要な動きとなる。",
-    "source": [
-      "Fast Company",
-      "The Decoder"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Midjourney、AI搭載の全身スキャナーを発表",
-    "summary": "AI画像生成企業が、放射線や磁石を使わずに60秒で全身スキャンを行う医療用スキャナーを発売。",
-    "source": [
-      "The Decoder",
-      "El Chapuzas Informático"
-    ],
-    "count": 2
-  },
-  {
-    "title": "米国政府、AIデータセンター向け電力接続を加速",
-    "summary": "米国の規制当局は、AIデータセンターに送電網の優先接続権を与えるトランプ氏の計画を支持。",
-    "source": [
-      "TechCrunch",
-      "Fast Company"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Bertín Osborne氏、スペインで携帯電話会社「Española de Telefonía」を設立",
-    "summary": "歌手で司会者のOsborne氏が、保守系の携帯電話会社でスペインの電気通信市場に参入。",
+    "title": "中国のモデルGLM-5.2が世界最高のAIシステムと競合",
+    "summary": "100万トークンのコンテキストとコーディングでトップスコアを達成し、Z.aiは自社モデルをGPT-5.5やFable 5の強力な競合として位置づけ",
     "source": [
       "Xataka",
-      "BandaAncha:️ Noticias, guias y foros sobre fibra y móvil"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Metaの従業員の士気、解雇とAI労働者の反乱により最低水準に",
-    "summary": "MetaのCTOは、解雇後の社内の士気が過去最悪であることを認めた。一方、AI部門の従業員は経営陣に対して反旗を翻している。",
-    "source": [
-      "Feed: Artificial Intelligence Latest",
-      "Fast Company"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SteamOS、パフォーマンス向上とSteam Machine対応の新アップデートをリリース",
-    "summary": "ValveはSteamOS 3.8および3.8.10をリリース。新しいカーネル、更新されたグラフィックドライバ、Steam Machineの互換性向上を追加。",
-    "source": [
-      "News - AlternativeTo.net",
-      "El Chapuzas Informático"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SSD小売市場が崩壊、価格高騰と販売減少",
-    "summary": "SSDの価格はPS5の価格を超える過去最高値を記録。Silicon Motionは小売市場の事実上の消滅を認めた。",
-    "source": [
-      "Xataka",
-      "El Chapuzas Informático"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国メモリチップ、世界的不足を緩和する代替手段として浮上",
-    "summary": "供給危機を受け、中国は自国のメモリメーカーに消費者市場を優先するよう指示。中国製チップがユーザーの救世主となる可能性。",
-    "source": [
-      "El Chapuzas Informático",
-      "Xataka"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic、Claude CodeとClaude Designをアップデート、新たなコラボレーション機能を追加",
-    "summary": "Claude Codeにライブページ共有機能「Artifacts」を追加。Claude Designはデザインシステムの一貫性とClaude Codeとの統合を強化。",
-    "source": [
-      "The Decoder",
       "News - AlternativeTo.net"
     ],
     "count": 2
   },
   {
-    "title": "毎日遊べる新パズルゲーム「MapTap」と「Gerrymandle」が人気を集める",
-    "summary": "Wordleの流れを汲み、MapTapは地理知識を、Gerrymandleは選挙区の区割り変更に挑戦する。",
+    "title": "GTA 6、公式カバーアートを公開、予約開始日を6月25日に設定",
+    "summary": "Rockstar Gamesは、待望のタイトルの予約が6月末に始まると発表し、発売への期待が高まる",
     "source": [
-      "TechCrunch",
-      "Hacker News"
+      "Xataka",
+      "El Chapuzas Informático"
     ],
     "count": 2
   },
   {
-    "title": "トランプ政権、即席でAI規制を策定",
-    "summary": "ホワイトハウスはリアルタイムでAI規制を整備する一方、トランプ大統領は国内で最も有望なAIモデルを批判。",
+    "title": "Valve、大幅なパフォーマンス向上を実現するSteamOSの重要なアップデートを公開",
+    "summary": "バージョン3.8および3.8.10では、新しいカーネル、Steam Machinesのサポート、VRRの最適化、レイテンシー低減が導入",
     "source": [
-      "Feed: Artificial Intelligence Latest",
+      "News - AlternativeTo.net",
+      "El Chapuzas Informático"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、Claude CodeにArtifacts機能を追加、ライブWebページの共有が可能に",
+    "summary": "新機能により、開発チームはコーディングセッション中に作成したWebアプリケーションを共有・レビューできる",
+    "source": [
+      "The Decoder",
+      "Product Hunt"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米国政府、AIデータセンターの電力接続を加速",
+    "summary": "連邦規制当局は、トランプ政権のAIデータセンターの送電網アクセスを優先する計画を支持",
+    "source": [
+      "TechCrunch",
       "Fast Company"
     ],
     "count": 2
   },
   {
-    "title": "AIの経済的影響、富を生む一方でバブル懸念も",
-    "summary": "AIが前例のない富をもたらすと期待される中、Yann LeCun氏はOpenAIやAnthropicなどのAI研究所がバブルの中にある可能性があると警告。",
+    "title": "「In the Weights」というウェブサイトが、AIモデルがあなたの身元を知っているかどうかを明らかに",
+    "summary": "このツールは、AIシステムが実在の人物についてどの程度知っているかを分析し、学習データにおけるプライバシーに関する議論を巻き起こす",
+    "source": [
+      "The Decoder",
+      "Hacker News"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Googleと中国政府、地元のチップ・メモリー産業を推進",
+    "summary": "GoogleがCXMTからチップを購入することを検討する一方、中国政府は生産を消費向けに振り向け、スタートアップのEnflameが新たなリーダーとして台頭",
     "source": [
       "Xataka",
-      "The Decoder"
+      "El Chapuzas Informático"
     ],
     "count": 2
   },
   {
-    "title": "出会い系でのAI活用と美の認識、米国人を悩ませる",
-    "summary": "Match社の調査によると、米国の独身者の約半数が出会い系でのAI活用に否定的。専門家はこれらのツールが生み出す美的プレッシャーに警鐘を鳴らす。",
+    "title": "Amazon、自社AIチップを販売してNvidiaに直接対抗",
+    "summary": "同社は、クラウド市場で他の顧客にカスタム代替品を提供することで、Nvidiaチップへの依存を減らそうとしている",
     "source": [
-      "TechCrunch",
-      "Xataka"
-    ],
-    "count": 2
-  },
-  {
-    "title": "自動運転の問題：Waymoが工事現場に進入、Rivianは約束未達で提訴される",
-    "summary": "Waymoの自動運転車が工事中のエリアを走行。Rivianの所有者は、自動運転機能が約束を果たしていないとして訴えている。",
-    "source": [
-      "Fast Company",
       "TechCrunch"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "スマホ依存対策の取り組み：スローテクノロジーからバッグにスマホをしまう試みまで",
-    "summary": "スローテクノロジーが注意力の危機に解決策を提供する一方、スペイン・ウエスカの町ではスマホを9時間バッグにしまい込む実験を行っている。",
+    "title": "OpenAI、待望のIPOに備え上級幹部を採用",
+    "summary": "同社は、IPOの可能性に先立ち、重役級の採用で経営陣を強化",
     "source": [
-      "TechCrunch",
-      "Xataka"
+      "TechCrunch"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "AI業界の大型買収：ElasticがDeductiveAIを買収、SpaceXがAnysphereを獲得",
-    "summary": "ElasticはスタートアップDeductiveAIを最大8500万ドルで買収。SpaceXはCursorを開発するAnysphereを600億ドルで買収。",
+    "title": "Rivianの所有者、自動運転に関する虚偽の約束で同社を提訴",
+    "summary": "集団訴訟は、同社が運転支援システムの能力を誇張し、非現実的な期待を生み出したと主張",
     "source": [
-      "TechCrunch",
-      "Kagi News - Technology"
+      "TechCrunch"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "活発なマルウェアキャンペーン：GitHub上のトロイの木馬とTor通信を使用するWindowsクリッパー",
-    "summary": "研究者が1万件のGitHubリポジトリがトロイの木馬を配布していることを発見。MicrosoftはUSBとTorをC2通信に使用するクリッパーマルウェアのキャンペーンの詳細を報告。",
+    "title": "テキサス州政府へのサイバー攻撃、300万件の運転免許証とパスポートが流出",
+    "summary": "ハッカーが州のデータベースにアクセスし、機密情報を盗み出した。これは過去最大級の政府セキュリティ侵害の一つ",
     "source": [
-      "Hacker News",
-      "The Hacker News"
+      "TechCrunch"
     ],
-    "count": 2
+    "count": 1
+  },
+  {
+    "title": "Yann LeCun、OpenAIなどのAIスタートアップは「大きなバブル」に直面していると警告",
+    "summary": "Metaの最高AI科学者は、AIの約束が現実の価値に結びつかなければ市場の調整が起こると予測",
+    "source": [
+      "The Decoder"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Google DeepMind、AIエージェントをオフィスの鍵を持った反抗的な従業員として扱う",
+    "summary": "同社は、自律型アシスタントを内部攻撃の潜在的ベクトルとして扱うセキュリティシステムを導入",
+    "source": [
+      "The Decoder"
+    ],
+    "count": 1
+  },
+  {
+    "title": "OpenAI、ChatGPTの新しいヘルスケアモードは医師の回答を上回ると主張",
+    "summary": "内部テストでは、チャットボットが人間の医師が作成したものよりも正確で有用な臨床情報を提供することが示された",
+    "source": [
+      "The Decoder"
+    ],
+    "count": 1
+  },
+  {
+    "title": "OpenAIの研究者、AIをより安全で操作に強いものにすることに成功",
+    "summary": "有益な特性に関する少量のトレーニングにより、より堅牢で悪意のある使用につながりにくいモデルが実現",
+    "source": [
+      "The Decoder"
+    ],
+    "count": 1
+  },
+  {
+    "title": "MetaのCTO、従業員の士気は「最悪に近い」と認める",
+    "summary": "Andrew Bosworthは、大規模な人員削減が同社の労働環境に与える悪影響を内部で認めている",
+    "source": [
+      "Fast Company"
+    ],
+    "count": 1
+  },
+  {
+    "title": "MetaのAI従業員、社内ポリシーに反発",
+    "summary": "AI従業員の間で不満が高まり、企業文化やテクノロジーリーダーシップをめぐる緊張に拍車",
+    "source": [
+      "Feed: Artificial Intelligence Latest"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Apple、将来のiPhone向けに縁やベゼルがない完全なガラスディスプレイを計画",
+    "summary": "iPhone 20およびUltraモデルはすべてのフレームを排除し、完全に包み込むようなタッチデザインになるとの噂",
+    "source": [
+      "El Chapuzas Informático"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ファーウェイ、革新的な世界初の「縦型三つ折りスマートフォン」を開発中",
+    "summary": "中国メーカーは、展開時にさらに大きな画面を提供する3セクションの折りたたみデザインで競争に先行する可能性",
+    "source": [
+      "El Chapuzas Informático"
+    ],
+    "count": 1
   }
 ]
