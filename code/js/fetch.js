@@ -12,6 +12,7 @@ const parser = new RssParser({
 	headers: { "User-Agent": "NewsWired/1.0" },
 });
 
+const delay = (ms) => new Promise((r) => setTimeout(r, ms));
 const files = fs.readdirSync(INPUT_DIR).filter((f) => f.endsWith(".txt"));
 
 console.log(`→ Fetching ${files.length} source(s)...`);
@@ -24,7 +25,8 @@ for (const file of files) {
 		.filter((l) => l && !l.startsWith("#"));
 
 	const results = await Promise.allSettled(
-		urls.map(async (url) => {
+		urls.map(async (url, i) => {
+			await delay(i * 500);
 			const feed = await parser.parseURL(url);
 			return feed.items.map((item) => ({
 				id: item.guid || item.link || item.title,
