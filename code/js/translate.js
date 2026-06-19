@@ -75,7 +75,7 @@ for (const file of files) {
 		if (!Array.isArray(translated))
 			throw new Error(`Invalid response for ${file}/${code}`);
 		if (translated.length) break;
-		if (!attempt) console.log("  → empty, retrying...");
+		if (!attempt) console.warn(`  ↻ retry 1/1 (empty response)`);
 		}
 
 		const outFile = `${path.basename(file, "_clusters_es.json")}_clusters_${code}.json`;
