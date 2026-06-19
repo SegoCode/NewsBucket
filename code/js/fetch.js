@@ -13,6 +13,9 @@ const parser = new RssParser({
 });
 
 const delay = (ms) => new Promise((r) => setTimeout(r, ms));
+
+let lastReddit = 0;
+
 const files = fs.readdirSync(INPUT_DIR).filter((f) => f.endsWith(".txt"));
 
 console.log(`→ Fetching ${files.length} source(s)...`);
@@ -27,6 +30,11 @@ for (const file of files) {
 	const results = await Promise.allSettled(
 		urls.map(async (url, i) => {
 			await delay(i * 500);
+			if (url.includes("reddit.com")) {
+				const wait = 60_000 - (Date.now() - lastReddit);
+				if (wait > 0) await delay(wait);
+				lastReddit = Date.now();
+			}
 			const feed = await parser.parseURL(url);
 			return feed.items.map((item) => ({
 				id: item.guid || item.link || item.title,
