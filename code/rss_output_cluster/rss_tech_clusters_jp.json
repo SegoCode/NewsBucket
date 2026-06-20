@@ -1,120 +1,26 @@
 [
   {
-    "title": "ヒュンダイがボストン・ダイナミクスを完全買収、自動車工場にアトラスロボットを導入へ",
-    "summary": "韓国メーカーがソフトバンクからロボット企業を3億2500万ドルで買収し、人型ロボットを自動車生産に導入する。",
+    "title": "Ubisoft共同創設者Claude Guillemot氏、航空事故で死去",
+    "summary": "ブルターニュの小さな店をゲーム帝国Ubisoftに変えたClaude Guillemot氏が、複数の情報筋によると悲劇的な飛行機事故で亡くなった。",
     "source": [
+      "news.ycombinator.com",
       "xataka.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Windows 11の新しいメディアプレーヤー、RAM使用量が3.5倍に増加し、一般的なコーデックに課金",
+    "summary": "Windows 11のメディアプレーヤーのアップデートは、メモリ消費量が急増し、特定のコーデックに支払いが必要になったことで批判を呼んでいる。",
+    "source": [
       "news.ycombinator.com",
       "/r/technology"
     ],
-    "count": 3
-  },
-  {
-    "title": "ノルウェー、小学校での生成AI使用を禁止",
-    "summary": "ノルウェー政府は基礎教育におけるAIツールのほぼ全面的な禁止を課し、基本的な学習スキルを保護する。",
-    "source": [
-      "/r/technology",
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Amazon、OpenAIとの巨額契約後、サム・アルトマンに関する映画を中止",
-    "summary": "Amazon MGM Studiosは、AI企業との500億ドルの契約を結んだ後、ほぼ完成していた映画プロジェクトを放棄。",
-    "source": [
-      "/r/technology",
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI Codexがタスク記録、欧州対応、新しいデスクトップアプリでアップデート",
-    "summary": "OpenAIのAIコーディングアシスタントがタスク再生機能、欧州サポート、デスクトップアプリを追加し、開発者の生産性を向上。",
-    "source": [
-      "the-decoder.com",
-      "elchapuzasinformatico.com",
-      "alternativeto.net"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic、規制圧力に直面しGoogle DeepMindのノーベル賞受賞者を採用",
-    "summary": "AI企業Anthropicは米国政府からモデルに関する脅威にさらされる一方、ノーベル賞受賞者のジョン・ジャンパーを迎え入れ研究を強化。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "経済学者ら、AIバブルはドットコムバブルよりも激しく崩壊する可能性があると警告",
-    "summary": "ダモダラン教授や市場調査会社などの専門家がAI投資における警告サインを指摘し、ドットコム崩壊と比較。",
-    "source": [
-      "the-decoder.com",
-      "/r/technology"
-    ],
     "count": 2
   },
   {
-    "title": "OpenAI、収益は3倍に増加するも資金を消費、AIデータセンターの隠れ債務が拡大",
-    "summary": "OpenAIは第1四半期に57億ドルの収益を報告するが37億ドルを支出、一方で大手テクノロジー企業のAIインフラにおける隠れた融資が明らかに。",
-    "source": [
-      "the-decoder.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "16年前のSSDが1ペタバイトの書き込みに耐え、公式耐久性の25倍を達成",
-    "summary": "2009年のSATA IIソリッドステートドライブが1PBのデータ書き込み後も動作し続け、耐久性の期待を大幅に上回る。",
-    "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "トランプ大統領、カタールから取得した改造ボーイング747の新エアフォースワンを披露",
-    "summary": "米国が元々カタールに所属していた新しい大統領専用機を導入し、外交論争を引き起こす。",
-    "source": [
-      "xataka.com",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple、iOS 27の新しいベータ版でSiriを人工知能で拡張",
-    "summary": "パーソナルアシスタントSiriがAIによる大幅な改善を受け、より文脈に即した応答や新機能を追加。",
-    "source": [
-      "wired.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "調査でAIチャットボットの利用は増加するが信頼は依然低いことが示される",
-    "summary": "米国成人の約半数がチャットボットを利用するが、有益と考えるのはわずか16％で、低信頼のAI生成ニュース消費が増加。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "2026年ワールドカップ、一部の国に不利な試合時間とチケット転売問題で物議",
-    "summary": "時差のために不利な時間帯を強いられる国がある一方、ファンは公式チケットの再販における不具合を非難。",
-    "source": [
-      "xataka.com",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ゲーム業界、収益記録を更新するも大量解雇と法的戦いに直面",
-    "summary": "2025年に過去最高の2016億ドルの収益を達成する一方、何千人もの労働者が解雇され、Rockstarなどのスタジオは反組合行為で訴えられる。",
+    "title": "米国人のわずか16%がAIは社会にプラスの影響を与えると考える、調査で判明",
+    "summary": "新しい調査によると、米国の成人の49%がチャットボットを使用している一方で、人工知能が社会にとって有益だと考えるのはわずか16%であることが明らかになった。",
     "source": [
       "/r/technology",
       "elchapuzasinformatico.com"
@@ -122,66 +28,149 @@
     "count": 2
   },
   {
-    "title": "Epic GamesとValveが新戦略で競争：高速ランチャーとSteamコントローラーの注文遅延",
-    "summary": "Epic Gamesは最大6.5倍高速なランチャーでストアを刷新する一方、Valveはコントローラーの注文を2027年まで延期。",
+    "title": "EUはディープフェイクの定義を決められず、グラハム・ノートン氏がFacebookのディープフェイクに対する裁判所命令を獲得",
+    "summary": "EUでディープフェイクの明確な定義が欠如していることが明らかになる一方、英国の司会者がFacebook上の虚偽コンテンツに対する裁判所命令を取得した。",
+    "source": [
+      "the-decoder.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "専門家が警告、AIバブルはドットコムバブルよりも激しく崩壊する可能性",
+    "summary": "ダモダラン教授と市場調査レポートは、AIへの投資が崩壊する可能性のあるバブルの兆候を示していることで一致している。",
+    "source": [
+      "the-decoder.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ノルウェー、学校でのAIをほぼ全面的に禁止、若者がAIインストラクターとしての役割を議論",
+    "summary": "ノルウェーが初等教育での人工知能の使用を制限する一方で、若い従業員の方がAIの使い方をより上手く教えられるという意見もある。",
     "source": [
       "/r/technology",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ChatGPTとSiri、よりインテリジェントなパーソナルアシスタントへと進化",
+    "summary": "OpenAIがChatGPTにスケジュールタスクを導入する一方、新しいバージョンのSiriはインテリジェントで便利なアシスタントとして賞賛されている。",
+    "source": [
+      "the-decoder.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ノーベル賞受賞者John Jumper氏がDeepMindを離れAnthropicへ、トランプ氏は脱獄対策を企業に圧力",
+    "summary": "John Jumper氏がAI研究のためにAnthropicに加わる一方、ドナルド・トランプ氏は同社に対して自社モデルが侵害されるのを防ぐよう要求している。",
+    "source": [
+      "techcrunch.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国が2kWの携帯型対ドローレーザーを発表、ウクライナはロシアの檻を映画セットに転用",
+    "summary": "2つのニュースが対ドローン技術の進化を浮き彫りにしている：500メートル先のドローンを撃墜できる中国のレーザーと、ロシアの構造物の創造的な再利用。",
+    "source": [
+      "/r/technology",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "再生可能エネルギーの記録：米国で太陽光発電が石炭を上回り、中国は巨大水力発電所を建設",
+    "summary": "米国で太陽光発電が初めて石炭を上回り、中国は三峡ダムの2倍の出力を持つ水力発電所を進めている。",
+    "source": [
+      "/r/technology",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AIがゲーム業界に不確実性をもたらす、記録的な2016億ドルの収入にもかかわらず",
+    "summary": "前例のない収益を達成したにもかかわらず、大規模な解雇とAIが初心者向けの職をなくすことへの懸念が労働者や開発者を悩ませている。",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "iOS 27が新機能を搭載、一方Android 17はタッチスクリーンと接続性の問題に悩まされる",
+    "summary": "AppleがiPhone向けの新しいオペレーティングシステムの機能を公開する一方、PixelユーザーはAndroid 17のバグを報告している。",
+    "source": [
+      "techcrunch.com",
       "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "リトアニアとウクライナ、敵ドローンを検出・無力化する技術を開発",
-    "summary": "リトアニアのスタートアップがShahedドローンを検出するオープンソースネットワークを構築する一方、ウクライナは地上ロボットに武器を搭載しロシアの潜入チームを追跡。",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AI新ツールがコンテンツ作成と作業生産性を自動化",
-    "summary": "複数のプラットフォームがデータを記事に変換し、タスクを自動化し、ビデオ編集を改善するAIベースの機能をリリース。",
+    "title": "OpenAI、収益が3倍になるも現金を消費、AIデータセンターの隠れ債務が警告を発する",
+    "summary": "OpenAIは四半期収益57億ドルを達成したが37億ドルの損失を出し、AI投資が隠れた負債に支えられていることが明らかになった。",
     "source": [
       "the-decoder.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Philips HueとAura、スマートホーム向け新デバイスを発表",
-    "summary": "PhilipsはTV同期機能付きPlayランプを発売する一方、Auraはアナログ風の電子インクデジタルフォトフレームを提供。",
-    "source": [
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "新たなサイバーセキュリティ脅威：暗号通貨を盗むマルウェアとFortinetの脆弱性",
-    "summary": "WindowsでTorを使用して暗号通貨を盗むマルウェアが検出される一方、CISAはFortiGateデバイスの大規模な脆弱性について警告。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Ubisoft共同創業者クロード・ギルモ氏、小型機事故で死去",
-    "summary": "ゲーム会社Ubisoftの共同創業者が悲劇的な航空事故で亡くなった。",
-    "source": [
-      "xataka.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "『DOOM』や『Wolfenstein 3D』の伝説的作曲家ボビー・プリンス氏、81歳で死去",
-    "summary": "初期の一人称視点シューティングゲームのサウンドトラックを手がけたミュージシャンが亡くなった。",
+    "title": "Amazon、データセンター規制を支持した労働者への報復で告発される",
+    "summary": "2つの報告書によると、AmazonはAIデータセンターの規制について証言または支持した従業員を脅迫し、解雇すると脅した。",
     "source": [
-      "/r/technology",
-      "news.ycombinator.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
+  },
+  {
+    "title": "Microsoft、10月にOffice 2021のサポートを終了し、ユーザーをMicrosoft 365に移行させる",
+    "summary": "同社はOffice 2021を廃止する計画で、サブスクリプションモデルへの強制移行に抵抗する方法についてアドバイスを提供している。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ヒュンダイ、Boston Dynamicsを完全買収し、アトラスロボットを自動車工場へ",
+    "summary": "韓国の自動車メーカーはロボット企業の買収を完了し、人型ロボットを生産工場に統合する計画だ。",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "トランプ氏、新エアフォースワンを公開、カタール航空機を改造",
+    "summary": "米国大統領が、カタール航空機をベースに改造された新しい大統領専用機のデザインを公開した。",
+    "source": [
+      "fastcompany.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Bobby Prince氏死去、DoomとWolfenstein 3Dの伝説的な作曲家、81歳",
+    "summary": "初期の一人称視点シューティングゲームのサウンドを定義した作曲家が死去し、忘れられない音楽的遺産を残した。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "小児用ワクチンが数百件の癌死亡を予防している、研究結果",
+    "summary": "研究者らは、ヒトパピローマウイルスワクチンが集団における癌死亡を大幅に減少させることを確認した。",
+    "source": [
+      "fastcompany.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ロシア人大富豪、スーパーヨット差し押さえでイタリアを提訴、国に数百万ドルの負担となる可能性",
+    "summary": "押収されたヨットの所有者は賠償を求めており、訴訟に勝てばイタリア政府にとって大きな出費となる。",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
   }
 ]
