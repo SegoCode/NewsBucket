@@ -1,7 +1,26 @@
 [
   {
-    "title": "Anthropic exigirá verificación de identidad para funciones avanzadas a partir de julio de 2026",
-    "summary": "La empresa de inteligencia artificial implementará controles de identidad para evitar el mal uso de sus capacidades más potentes.",
+    "title": "Crece la desconfianza hacia la inteligencia artificial en Estados Unidos",
+    "summary": "Una encuesta muestra que los estadounidenses han perdido la fe en la IA, mientras que figuras como Meredith Whittaker advierten sobre los chatbots y los solteros rechazan la dependencia tecnológica.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "fastcompany.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Acusan a Polymarket de pagar por vídeos engañosos sobre apuestas falsas",
+    "summary": "La plataforma de apuestas descentralizadas Polymarket enfrenta acusaciones de haber creado contenido viral engañoso para atraer usuarios.",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic implementa verificación de identidad para ciertas funciones de Claude",
+    "summary": "A partir de julio de 2026, los usuarios de Claude deberán verificar su identidad para acceder a ciertas capacidades.",
     "source": [
       "news.ycombinator.com",
       "/r/technology"
@@ -9,157 +28,156 @@
     "count": 2
   },
   {
-    "title": "Apple lanza iOS 27 beta con nuevas herramientas de IA para Siri y múltiples funciones",
-    "summary": "La actualización del sistema operativo incorpora mejoras impulsadas por inteligencia artificial y amplía las capacidades del asistente virtual.",
+    "title": "Aumenta la preocupación por el uso de la IA en la educación escolar",
+    "summary": "Estudios indican que la IA en las escuelas puede causar más daño que beneficio, mientras Noruega se convierte en el primer país en prohibirla en primaria.",
     "source": [
-      "kite.kagi.com",
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple expande las capacidades de Siri e IA en iOS 27",
+    "summary": "La nueva versión beta de iOS 27 incluye herramientas prácticas de inteligencia artificial más allá de Siri.",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El alto coste de la memoria obliga a cancelar productos y subir precios",
+    "summary": "Nothing descarta nuevos smartphones CMF y Apple señala aumentos de precio debido al encarecimiento de los chips de memoria.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Las marcas recurren a influencers generados por IA y anuncios personalizados",
+    "summary": "Empresas como HBO Max implementan anuncios con IA y cada vez más marcas usan avatares virtuales para promocionar productos en redes sociales.",
+    "source": [
+      "bandaancha.eu",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La moral de los trabajadores en EE.UU. y Meta alcanza niveles mínimos",
+    "summary": "Ejecutivos de Meta admiten que han aplastado el espíritu de los empleados, mientras un estudio revela que la mayoría de los trabajadores estadounidenses están desconectados.",
+    "source": [
+      "/r/technology",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La IA transforma el mercado laboral y crea una demanda de nuevos oficios",
+    "summary": "Nvidia anticipa una gran necesidad de electricistas y fontaneros, mientras la inteligencia artificial genera un mercado laboral de dos velocidades.",
+    "source": [
+      "xataka.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "China avanza en tecnología autónoma y centros de datos orbitales",
+    "summary": "Un informe muestra el dominio chino en robotaxis, mientras el país prepara centros de datos de IA en órbita para competir con SpaceX.",
+    "source": [
+      "techcrunch.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "EE.UU. desarrolla láseres contra drones y China publica manual para atacar portaaviones",
+    "summary": "El Pentágono trabaja en armas láser para defensa antiaérea, mientras China difunde tácticas para cazar portaaviones estadounidenses.",
+    "source": [
+      "xataka.com",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve y Beyond All Reason: nuevas pistas sobre Half-Life 3 y un RTS gratuito",
+    "summary": "Valve parece insinuar el lanzamiento de Half-Life 3 mediante una variable en Dota 2, mientras el juego gratuito Beyond All Reason rinde homenaje a Total Annihilation.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft mejora la búsqueda en Windows 11 y la gestión de archivos",
+    "summary": "Una versión desbloqueada de la búsqueda de Windows elimina Bing y acelera el sistema, mientras la interfaz de usuario evoluciona para manejar archivos no asociados.",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Ofertas de software: licencia de Office 2024 y descuentos en Amazon",
+    "summary": "Plataformas ofrecen licencias vitalicias de Office y descuentos en dispositivos Amazon antes del Prime Day.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Innovaciones subacuáticas: de submarinos caseros a robots pescadores",
+    "summary": "Un agricultor chino construye submarinos en su tiempo libre, mientras robots con forma de pez automatizan el corte de sashimi.",
+    "source": [
+      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La IA como amenaza para la productividad personal",
+    "summary": "Tim Ferriss advierte que ChatGPT reemplaza sus consejos de productividad, mientras Wired ofrece consejos para mejorar prompts de ChatGPT.",
+    "source": [
+      "wired.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La industria de la IA enfrenta críticas y posibles regulaciones",
+    "summary": "Yann LeCun califica a xAI como un fracaso, mientras se analiza el impacto de una posible represión regulatoria contra Anthropic.",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La IA impulsa el mercado inmobiliario y obliga a recortar costes",
+    "summary": "Empresas tecnológicas limitan el uso de IA para reducir gastos, mientras la inteligencia artificial impulsa las ventas de viviendas de lujo en EE.UU.",
+    "source": [
+      "/r/technology",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nuevas herramientas para desarrolladores: panel móvil para Claude y servidor MCP",
+    "summary": "Pulse ofrece un panel para gestionar Claude Code desde el móvil, mientras Cloudback lanza un servidor MCP para copias de seguridad.",
+    "source": [
+      "news.ycombinator.com",
+      "producthunt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nuevas plataformas de búsqueda y descubrimiento web",
+    "summary": "In the Weights se presenta como un motor de búsqueda centrado en IA, mientras Notchkin ofrece una herramienta de descubrimiento de productos.",
+    "source": [
+      "producthunt.com",
       "techcrunch.com"
     ],
     "count": 2
-  },
-  {
-    "title": "El uso de la IA en la educación provoca inflación de notas y desesperación en los estudiantes",
-    "summary": "Estudios señalan que la inteligencia artificial está siendo utilizada para trabajos externos y generando presión psicológica en alumnos universitarios.",
-    "source": [
-      "the-decoder.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las acciones de SpaceX se desploman en dos días consecutivos y caen por debajo de Amazon en capitalización de mercado",
-    "summary": "La caída bursátil ha dejado a los inversores pos-IPO en números rojos tras el desplome de la compañía espacial.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta pide modificar la ley de seguridad infantil para evitar demandas por daños a menores",
-    "summary": "La empresa de Mark Zuckerberg busca protegerse legalmente mientras continúa la presión por la protección de los niños en sus plataformas.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta sufre la peor moral de su historia, según su propio director de tecnología",
-    "summary": "El CTO de la compañía admite un ambiente laboral crítico tras múltiples controversias y reestructuraciones.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Amazon investiga a ingenieros que criticaron la expansión de sus centros de datos de inteligencia artificial",
-    "summary": "La compañía tecnológica examina las críticas internas sobre el crecimiento de su infraestructura de IA.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AWS lanza dos servicios para solucionar carencias de contexto y seguridad en agentes de inteligencia artificial",
-    "summary": "La plataforma en la nube ofrece nuevas herramientas para que los agentes de IA operen con mayor precisión y protección.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Francia destina 13.000 millones de euros para impulsar su soberanía tecnológica",
-    "summary": "El gobierno francés moviliza una inversión masiva para reducir la dependencia tecnológica extranjera.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La Casa Blanca retrasa la publicación de un estudio sobre la seguridad de las máquinas de voto",
-    "summary": "El informe, que podría revelar vulnerabilidades críticas, sigue sin ver la luz pese a las demandas de transparencia.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La NASA planea una arriesgada misión para salvar un telescopio espacial que está cayendo",
-    "summary": "El observatorio orbital, que amenaza con desintegrarse, podría ser rescatado mediante una maniobra sin precedentes.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Graham Norton obtiene una orden judicial contra los deepfakes creados con su imagen en Facebook",
-    "summary": "El presentador británico logra una sentencia en EE.UU. que obliga a retirar vídeos falsos que usan su rostro sin consentimiento.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Polymarket acusado de utilizar apuestas falsas para aparentar crecimiento viral",
-    "summary": "La plataforma de predicciones habría manipulado el mercado con transacciones ficticias para atraer usuarios.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Ucrania lanza una plataforma para compartir con sus aliados la tecnología de armas rusas capturadas",
-    "summary": "TrophyLab permitirá a los países aliados analizar y replicar los sistemas de misiles, drones y vehículos incautados en el campo de batalla.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Medio millón de horas de grabaciones de drones de la guerra de Ucrania se usan para entrenar inteligencia artificial",
-    "summary": "El conjunto de datos, el mayor de su tipo, está disponible para mejorar sistemas de visión por computadora y análisis de combate.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El ejército de EE.UU. desarrolla sistemas para contrarrestar ataques con láser contra drones",
-    "summary": "Las nuevas tácticas incluyen blindajes y contramedidas electrónicas para proteger aeronaves no tripuladas de armas dirigidas.",
-    "source": [
-      "fastcompany.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple anuncia subidas de precios por el aumento del costo de la memoria",
-    "summary": "La compañía atribuye la decisión al alza global de los precios de los chips de almacenamiento, que afecta a varios productos.",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple cierra tres tiendas físicas en Estados Unidos por el declive de los centros comerciales",
-    "summary": "La compañía continúa su reajuste de la red de tiendas ante la caída del tráfico en los malls tradicionales.",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Nothing cancela su teléfono CMF de 2026 debido al encarecimiento de la memoria",
-    "summary": "La empresa británica suspende el lanzamiento de su modelo de gama media por los altos costes de los componentes.",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft finaliza el soporte para Office 2021 el 13 de octubre",
-    "summary": "La compañía insta a los usuarios a migrar a versiones más recientes para seguir recibiendo actualizaciones de seguridad.",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
   }
 ]

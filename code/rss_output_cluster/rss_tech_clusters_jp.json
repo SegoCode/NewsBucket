@@ -1,7 +1,26 @@
 [
   {
-    "title": "Anthropic、2026年7月より高度な機能に本人確認を要求へ",
-    "summary": "AI企業は、最も強力な機能の悪用を防ぐため、本人確認管理を導入する。",
+    "title": "米国でAIへの信頼が低下",
+    "summary": "調査により、米国人がAIへの信頼を失っていることが示された。一方、Meredith Whittaker氏らはチャットボットに警告を発し、独身者は技術への依存を拒否している。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "fastcompany.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Polymarket、偽の賭けに関する誤解を招く動画への支払いを非難される",
+    "summary": "分散型賭けプラットフォームPolymarketが、ユーザーを引き付けるために誤解を招くバイラルコンテンツを作成したとして非難されている。",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、Claudeの一部機能に身元確認を導入",
+    "summary": "2026年7月から、Claudeのユーザーは特定の機能にアクセスするために身元確認が必要になる。",
     "source": [
       "news.ycombinator.com",
       "/r/technology"
@@ -9,157 +28,156 @@
     "count": 2
   },
   {
-    "title": "Apple、iOS 27ベータ版をリリース、Siri用の新AIツールと多数の機能を搭載",
-    "summary": "このOSアップデートは、AIによる改良を採用し、仮想アシスタントの機能を拡張する。",
+    "title": "学校教育におけるAI利用への懸念が高まる",
+    "summary": "研究によると、学校でのAIは利益よりも害を及ぼす可能性があり、ノルウェーは小学校でのAI使用を禁止する最初の国となった。",
     "source": [
-      "kite.kagi.com",
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple、iOS 27でSiriとAI機能を拡張",
+    "summary": "iOS 27の新しいベータ版には、Siri以外にも実用的な人工知能ツールが含まれている。",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "メモリ価格高騰で製品中止や値上げを余儀なく",
+    "summary": "Nothingは新たなCMFスマートフォンを断念し、Appleはメモリチップの高騰により値上げを示唆。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ブランド、AI生成インフルエンサーとパーソナライズ広告を活用",
+    "summary": "HBO Maxなどの企業がAIを活用した広告を導入、ソーシャルメディアで製品を宣伝するために仮想アバターを使うブランドが増加。",
+    "source": [
+      "bandaancha.eu",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米国労働者とMetaの士気が最低水準に",
+    "summary": "Metaの経営陣は従業員の士気をくじいたことを認め、調査では米国人労働者の大半が職場とつながりを感じていないことが明らかに。",
+    "source": [
+      "/r/technology",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AIが労働市場を変革、新たな職種需要を創出",
+    "summary": "Nvidiaは電気技師や配管工の需要増を予測、AIは二層化する労働市場を生み出している。",
+    "source": [
+      "xataka.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国、自動運転技術と軌道上データセンターで前進",
+    "summary": "報告書は中国のロボタクシー支配を示し、同国はSpaceXと競争するために軌道上のAIデータセンターを準備。",
+    "source": [
+      "techcrunch.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米国がドローン対策レーザーを開発、中国は空母攻撃マニュアルを公開",
+    "summary": "米国防総省は防空用レーザー兵器を開発中、中国は米空母を攻撃する戦術を拡散。",
+    "source": [
+      "xataka.com",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ValveとBeyond All Reason：Half-Life 3の新たな手がかりと無料RTS",
+    "summary": "ValveはDota 2の変数を通じてHalf-Life 3の発売をほのめかしているようだ。一方、無料ゲーム『Beyond All Reason』は『Total Annihilation』へのオマージュとなっている。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、Windows 11の検索とファイル管理を改善",
+    "summary": "Windows検索のアンロック版はBingを排除しシステムを高速化。一方、ユーザーインターフェースは関連付けられていないファイルを扱えるように進化。",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ソフトウェアのオファー：Office 2024ライセンスとAmazonの割引",
+    "summary": "各プラットフォームがOfficeの永久ライセンスやPrime Day前のAmazonデバイス割引を提供。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "水中イノベーション：手作り潜水艦から魚型ロボットまで",
+    "summary": "中国の農民が余暇に潜水艦を建造、魚の形をしたロボットが刺身カットを自動化。",
+    "source": [
+      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "個人の生産性に対するAIの脅威",
+    "summary": "Tim Ferriss氏はChatGPTが自身の生産性アドバイスを代替すると警告、WiredはChatGPTプロンプト改善のヒントを提供。",
+    "source": [
+      "wired.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AI業界、批判と規制の可能性に直面",
+    "summary": "Yann LeCun氏はxAIを失敗と評価、Anthropicに対する規制強化の可能性の影響が分析されている。",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AIが不動産市場を押し上げ、コスト削減を迫る",
+    "summary": "テクノロジー企業はコスト削減のためAI利用を制限、一方でAIは米国の高級住宅販売を促進。",
+    "source": [
+      "/r/technology",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "開発者向け新ツール：ClaudeのモバイルパネルとMCPサーバー",
+    "summary": "PulseはモバイルからClaude Codeを管理するパネルを提供、Cloudbackはバックアップ用MCPサーバーをリリース。",
+    "source": [
+      "news.ycombinator.com",
+      "producthunt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ウェブ検索と発見のための新プラットフォーム",
+    "summary": "In the WeightsはAI重視の検索エンジンとして登場、Notchkinは製品発見ツールを提供。",
+    "source": [
+      "producthunt.com",
       "techcrunch.com"
     ],
     "count": 2
-  },
-  {
-    "title": "教育でのAI活用は成績のインフレと学生の絶望を招く",
-    "summary": "研究によると、AIが外部課題に利用されており、大学生に心理的圧力を生み出している。",
-    "source": [
-      "the-decoder.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX株が2日連続で急落、時価総額でAmazonを下回る",
-    "summary": "株式下落により、IPO後の投資家は赤字に陥り、宇宙企業の急落を受けて。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta、未成年への損害賠償訴訟回避のため児童安全法改正を要請",
-    "summary": "マーク・ザッカーバーグ率いる同社は、プラットフォーム上での子どもの保護を求める圧力が続く中、法的に身を守ろうとしている。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta、史上最悪の士気低下に陥っているとCTOが認める",
-    "summary": "同社のCTOは、数々の論争やリストラを経て、職場環境が危機的状況にあると認めた。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Amazon、AIデータセンター拡大を批判したエンジニアを調査",
-    "summary": "同社は、AIインフラの拡大に関する内部批判を調査している。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AWS、AIエージェントのコンテキストとセキュリティの欠如を補う2つのサービスを発表",
-    "summary": "クラウドプラットフォームは、AIエージェントがより正確かつ安全に動作するための新ツールを提供する。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "フランス、技術的主権強化のため130億ユーロを投入",
-    "summary": "フランス政府は、外国への技術的依存を減らすため、大規模な投資を動員する。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ホワイトハウス、投票機の安全性に関する調査の公表を遅延",
-    "summary": "重大な脆弱性を明らかにする可能性のあるこの報告書は、透明性を求める声にもかかわらず、未だ公開されていない。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "NASA、落下中の宇宙望遠鏡を救う危険なミッションを計画",
-    "summary": "崩壊の危機にあるこの軌道観測所は、前例のない手法で救出される可能性がある。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "グレアム・ノートン、Facebook上のディープフェイクに対し裁判所命令を取得",
-    "summary": "イギリスの司会者は、同意なく自身の顔を使用した偽動画の削除を義務付ける米国の判決を勝ち取った。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Polymarket、バイラル成長を装うため偽の賭けを利用したと非難される",
-    "summary": "この予測プラットフォームは、ユーザーを引き付けるために架空の取引で市場を操作したとされている。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ウクライナ、鹵獲ロシア兵器の技術を同盟国と共有するプラットフォームを立ち上げ",
-    "summary": "TrophyLabにより、同盟国は戦場で押収したミサイル、ドローン、車両のシステムを分析・複製できるようになる。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ウクライナ戦争のドローン映像50万時間がAIトレーニングに使用",
-    "summary": "この種では最大のデータセットは、コンピュータビジョンと戦闘分析システムの改善に利用可能。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "米軍、ドローンへのレーザー攻撃を無効化するシステムを開発",
-    "summary": "新しい戦術には、無人航空機を指向性兵器から保護するための装甲や電子対抗手段が含まれる。",
-    "source": [
-      "fastcompany.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple、メモリコスト上昇で値上げを発表",
-    "summary": "同社は、この決定を、複数の製品に影響を与えるストレージチップの世界的な価格上昇によるものとしている。",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple、ショッピングモールの衰退により米国に3店舗を閉鎖",
-    "summary": "同社は、従来型モールの客足減少を受けて、店舗網の再調整を続けている。",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Nothing、メモリコスト高騰で2026年のCMFスマートフォンを中止",
-    "summary": "この英国企業は、コンポーネントコストの高騰により、ミッドレンジモデルの発売を中止する。",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft、Office 2021のサポートを10月13日に終了",
-    "summary": "同社は、セキュリティ更新プログラムを引き続き受け取るために、ユーザーに最新バージョンへの移行を促している。",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
   }
 ]

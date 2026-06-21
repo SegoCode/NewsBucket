@@ -1,7 +1,26 @@
 [
   {
-    "title": "Anthropic will require identity verification for advanced features starting July 2026",
-    "summary": "The artificial intelligence company will implement identity controls to prevent misuse of its most powerful capabilities.",
+    "title": "Distrust toward artificial intelligence grows in the United States",
+    "summary": "A survey shows that Americans have lost faith in AI, while figures like Meredith Whittaker warn about chatbots and singles reject technological dependency.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "fastcompany.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Polymarket accused of paying for misleading videos about fake bets",
+    "summary": "The decentralized betting platform Polymarket faces accusations of having created misleading viral content to attract users.",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic implements identity verification for certain Claude features",
+    "summary": "Starting July 2026, Claude users will need to verify their identity to access certain capabilities.",
     "source": [
       "news.ycombinator.com",
       "/r/technology"
@@ -9,157 +28,156 @@
     "count": 2
   },
   {
-    "title": "Apple launches iOS 27 beta with new AI tools for Siri and multiple features",
-    "summary": "The operating system update incorporates AI-driven improvements and expands the capabilities of the virtual assistant.",
+    "title": "Concern over the use of AI in school education grows",
+    "summary": "Studies indicate that AI in schools may cause more harm than good, while Norway becomes the first country to ban it in primary school.",
     "source": [
-      "kite.kagi.com",
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple expands Siri and AI capabilities in iOS 27",
+    "summary": "The new beta version of iOS 27 includes practical artificial intelligence tools beyond Siri.",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The high cost of memory forces product cancellations and price increases",
+    "summary": "Nothing abandons new CMF smartphones and Apple signals price increases due to the rising cost of memory chips.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Brands turn to AI-generated influencers and personalized ads",
+    "summary": "Companies like HBO Max implement AI-powered ads and more and more brands use virtual avatars to promote products on social media.",
+    "source": [
+      "bandaancha.eu",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Worker morale in the US and at Meta hits record lows",
+    "summary": "Meta executives admit they have crushed employee spirit, while a study reveals that the majority of American workers are disengaged.",
+    "source": [
+      "/r/technology",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AI transforms the job market and creates demand for new trades",
+    "summary": "Nvidia anticipates a great need for electricians and plumbers, while artificial intelligence creates a two-speed job market.",
+    "source": [
+      "xataka.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "China advances in autonomous technology and orbital data centers",
+    "summary": "A report shows Chinese dominance in robotaxis, while the country prepares AI data centers in orbit to compete with SpaceX.",
+    "source": [
+      "techcrunch.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "US develops anti-drone lasers and China publishes manual for attacking aircraft carriers",
+    "summary": "The Pentagon is working on laser weapons for air defense, while China spreads tactics for hunting American aircraft carriers.",
+    "source": [
+      "xataka.com",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve and Beyond All Reason: new clues about Half-Life 3 and a free RTS",
+    "summary": "Valve seems to hint at the release of Half-Life 3 through a variable in Dota 2, while the free game Beyond All Reason pays homage to Total Annihilation.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft improves search in Windows 11 and file management",
+    "summary": "An unlocked version of Windows search removes Bing and speeds up the system, while the user interface evolves to handle unassociated files.",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Software deals: Office 2024 license and Amazon discounts",
+    "summary": "Platforms offer lifetime licenses of Office and discounts on Amazon devices before Prime Day.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Underwater innovations: from homemade submarines to fishing robots",
+    "summary": "A Chinese farmer builds submarines in his spare time, while fish-shaped robots automate sashimi cutting.",
+    "source": [
+      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AI as a threat to personal productivity",
+    "summary": "Tim Ferriss warns that ChatGPT replaces his productivity advice, while Wired offers tips to improve ChatGPT prompts.",
+    "source": [
+      "wired.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AI industry faces criticism and potential regulations",
+    "summary": "Yann LeCun labels xAI a failure, while the impact of a potential regulatory crackdown on Anthropic is analyzed.",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AI boosts the real estate market and forces cost cutting",
+    "summary": "Tech companies limit the use of AI to reduce expenses, while artificial intelligence boosts luxury home sales in the US.",
+    "source": [
+      "/r/technology",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "New tools for developers: mobile dashboard for Claude and MCP server",
+    "summary": "Pulse offers a dashboard to manage Claude Code from mobile, while Cloudback launches an MCP server for backups.",
+    "source": [
+      "news.ycombinator.com",
+      "producthunt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "New web search and discovery platforms",
+    "summary": "In the Weights presents itself as an AI-centered search engine, while Notchkin offers a product discovery tool.",
+    "source": [
+      "producthunt.com",
       "techcrunch.com"
     ],
     "count": 2
-  },
-  {
-    "title": "AI use in education causes grade inflation and despair among students",
-    "summary": "Studies indicate that artificial intelligence is being used for external assignments and generating psychological pressure on university students.",
-    "source": [
-      "the-decoder.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX shares plunge for two consecutive days and fall below Amazon in market capitalization",
-    "summary": "The stock market drop has left post-IPO investors in the red after the space company's collapse.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta asks to modify child safety law to avoid lawsuits for harm to minors",
-    "summary": "Mark Zuckerberg's company seeks legal protection while pressure continues for child protection on its platforms.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta suffers the worst morale in its history, according to its own CTO",
-    "summary": "The company's CTO admits to a critical work environment after multiple controversies and restructurings.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Amazon investigates engineers who criticized the expansion of its artificial intelligence data centers",
-    "summary": "The technology company examines internal criticisms about the growth of its AI infrastructure.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AWS launches two services to address context and security gaps in artificial intelligence agents",
-    "summary": "The cloud platform offers new tools for AI agents to operate with greater precision and protection.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "France allocates 13 billion euros to boost its technological sovereignty",
-    "summary": "The French government mobilizes a massive investment to reduce foreign technological dependence.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "White House delays publication of study on voting machine security",
-    "summary": "The report, which could reveal critical vulnerabilities, remains unpublished despite demands for transparency.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "NASA plans risky mission to save falling space telescope",
-    "summary": "The orbital observatory, which threatens to disintegrate, could be rescued through an unprecedented maneuver.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Graham Norton gets court order against deepfakes created with his image on Facebook",
-    "summary": "The British presenter secures a ruling in the US that forces the removal of fake videos using his face without consent.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Polymarket accused of using fake bets to simulate viral growth",
-    "summary": "The prediction platform allegedly manipulated the market with fictitious transactions to attract users.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Ukraine launches platform to share captured Russian weapons technology with allies",
-    "summary": "TrophyLab will allow allied countries to analyze and replicate missile systems, drones, and vehicles seized on the battlefield.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Half a million hours of drone recordings from the Ukraine war used to train artificial intelligence",
-    "summary": "The dataset, the largest of its kind, is available to improve computer vision systems and combat analysis.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "US Army develops systems to counter laser attacks against drones",
-    "summary": "New tactics include armor and electronic countermeasures to protect unmanned aircraft from directed energy weapons.",
-    "source": [
-      "fastcompany.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple announces price increases due to rising memory costs",
-    "summary": "The company attributes the decision to the global rise in storage chip prices, affecting several products.",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple closes three physical stores in the United States due to decline of shopping malls",
-    "summary": "The company continues its store network readjustment amid declining traffic in traditional malls.",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Nothing cancels its 2026 CMF phone due to rising memory costs",
-    "summary": "The British company suspends the launch of its mid-range model due to high component costs.",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft ends support for Office 2021 on October 13",
-    "summary": "The company urges users to migrate to newer versions to continue receiving security updates.",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
   }
 ]
