@@ -65,7 +65,7 @@ for (const file of files) {
 			}
 		}
 		if (!process.env.GITHUB_ACTIONS) process.stdout.write("\r\n");
-		clusters = JSON.parse(jsonrepair(content));
+		try { clusters = JSON.parse(jsonrepair(content)); } catch { /* empty → retry */ }
 		if (!Array.isArray(clusters))
 			throw new Error(`Invalid response for ${file}`);
 		const ok = clusters.length > 0 &&
