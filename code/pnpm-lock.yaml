@@ -20,6 +20,9 @@ importers:
       html-to-text:
         specifier: ^9.0.5
         version: 9.0.5
+      jsonrepair:
+        specifier: ^3.14.0
+        version: 3.14.0
       normalize-url:
         specifier: ^8.0.1
         version: 8.1.1
@@ -130,6 +133,10 @@ packages:
 
   htmlparser2@8.0.2:
     resolution: {integrity: sha512-GYdjWKDkbRLkZ5geuHs5NY1puJ+PXwP7+fHPRz06Eirsb9ugf6d8kkXav6ADhcODhFFPMIXyxkxSuMf3D6NCFA==}
+
+  jsonrepair@3.14.0:
+    resolution: {integrity: sha512-tWPGKMZf/8UPim+fcW2EfcQ/d/7aKUrP6IECz9G3Tu6Q5dX0orSleqJ9z6sSw7qrQkjF8/Edo4DvsWBZ8H+HNg==}
+    hasBin: true
 
   leac@0.6.0:
     resolution: {integrity: sha512-y+SqErxb8h7nE/fiEX07jsbuhrpO9lL8eca7/Y1nuWV2moNlXhyd59iDGcRf6moVyDMbmTNzL40SUyrFU/yDpg==}
@@ -248,6 +255,8 @@ snapshots:
       domhandler: 5.0.3
       domutils: 3.2.2
       entities: 4.5.0
+
+  jsonrepair@3.14.0: {}
 
   leac@0.6.0: {}
 
