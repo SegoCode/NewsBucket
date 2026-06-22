@@ -3,6 +3,7 @@ import path from "node:path";
 import "dotenv/config";
 import { encode } from "@toon-format/toon";
 import { EventSourceParserStream } from "eventsource-parser/stream";
+import { jsonrepair } from "jsonrepair";
 
 const API_URL = "https://opencode.ai/zen/v1/chat/completions";
 const INPUT_DIR = "rss_output";
@@ -64,7 +65,7 @@ for (const file of files) {
 			}
 		}
 		if (!process.env.GITHUB_ACTIONS) process.stdout.write("\r\n");
-		clusters = JSON.parse(content);
+		clusters = JSON.parse(jsonrepair(content));
 		if (!Array.isArray(clusters))
 			throw new Error(`Invalid response for ${file}`);
 		const ok = clusters.length > 0 &&
