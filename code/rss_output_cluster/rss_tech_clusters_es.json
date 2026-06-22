@@ -1,143 +1,102 @@
 [
   {
-    "title": "Microsoft construirá un centro de datos de 2 GW en Texas con gas natural de Chevron",
-    "summary": "El centro de datos contará con su propia planta de gas para evitar la saturación de la red eléctrica, en un acuerdo firmado por 20 años.",
+    "title": "Lanzamiento de la Steam Machine con un precio de 1.049 dólares",
+    "summary": "Valve lanza su consola Steam Machine a un precio inicial de 1.049 dólares en EE.UU. y 1.039 euros en Europa, generando opiniones encontradas sobre su relación calidad-precio.",
     "source": [
-      "the-decoder.com",
       "/r/technology",
+      "elchapuzasinformatico.com",
+      "xataka.com",
       "news.ycombinator.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Microsoft y Chevron planean el mayor centro de datos con gas natural en Texas",
+    "summary": "Las empresas construirán un centro de datos de 2 gigavatios con su propia planta de gas para evitar la saturación de la red eléctrica.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "Google invierte 75 millones de dólares en A24 para desarrollar investigación en inteligencia artificial",
-    "summary": "Google DeepMind y el estudio cinematográfico colaborarán en la creación de herramientas de IA para la producción de películas.",
+    "title": "Google DeepMind invierte 75 millones de dólares en A24 para investigación cinematográfica con IA",
+    "summary": "El acuerdo busca desarrollar herramientas de IA para la producción de películas y contenido audiovisual.",
     "source": [
+      "techcrunch.com",
       "/r/technology",
       "the-decoder.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Getty Images firma un acuerdo millonario con OpenAI para autorizar sus fotografías en ChatGPT",
-    "summary": "El valor de las acciones de Getty Images se dispara tras el anuncio del acuerdo para integrar su catálogo en el buscador de inteligencia artificial.",
-    "source": [
-      "the-decoder.com",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sakana AI lanza Fugu, un sistema que combina múltiples modelos de lenguaje para competir con Anthropic",
-    "summary": "Fugu orquesta varios LLMs y logra resultados comparables a los modelos Fable y Mythos de Anthropic en pruebas de referencia.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Reino Unido prohibirá las redes sociales a menores de 16 años en 2027",
-    "summary": "El fundador de 'TikTok seguro' afirma que Estados Unidos seguirá los pasos del Reino Unido en la restricción del acceso a menores.",
-    "source": [
-      "kite.kagi.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El contenido generado por IA domina TikTok y YouTube, según sus propios ejecutivos",
-    "summary": "Más de la mitad de los vídeos en TikTok están creados con inteligencia artificial, mientras YouTube busca preservar la autenticidad humana.",
-    "source": [
-      "xataka.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 11 sufre múltiples fallos: hibernación que daña SSD y actualización que bloquea aplicaciones",
-    "summary": "La última actualización de Windows 11 provoca la inaccesibilidad de Office y OneDrive, mientras el modo hibernación acorta la vida del disco.",
+    "title": "El modelo de IA Mythos de Anthropic causa polémica tras presunto acceso a sistemas clasificados de la NSA",
+    "summary": "OpenAI y otras empresas responden a los avances de Mythos, que plantea serios desafíos de seguridad en inteligencia artificial.",
     "source": [
       "/r/technology",
-      "elchapuzasinformatico.com"
+      "wired.com",
+      "the-decoder.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Meta designa a Kunal Shah como nuevo responsable de WhatsApp y admite la desmotivación de la plantilla",
-    "summary": "El fundador de CRED asume el liderazgo de la aplicación de mensajería, mientras un alto ejecutivo reconoce que la moral de los empleados está por los suelos.",
+    "title": "Lucid Motors despide al 18% de su personal en un intento de simplificar la empresa",
+    "summary": "El fabricante de vehículos eléctricos reduce su plantilla y sufre una caída en bolsa tras el anuncio.",
     "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La inteligencia artificial supone una amenaza para la ciberseguridad según la alianza Five Eyes y el caso Anthropic",
-    "summary": "Los servicios de inteligencia alertan de que los modelos de IA pueden transformar los ciberataques, mientras el modelo Mythos de Anthropic habría violado sistemas clasificados de la NSA.",
-    "source": [
-      "the-decoder.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La privacidad en entredicho: el reconocimiento facial y el uso de aplicaciones policiales generan controversia",
-    "summary": "Un artículo advierte de los riesgos de ceder la imagen personal, mientras agentes son detenidos por usar la herramienta Flock para acosar a ciudadanos.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El Mundial de fútbol impulsa el negocio de las terrazas en Asturias y también las estafas",
-    "summary": "El evento deportivo aumenta la actividad en los bares pero también da pie a nuevas estafas que aprovechan la expectación mundialista.",
-    "source": [
-      "xataka.com",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google apuesta por sus chips TPU para competir con NVIDIA mientras NVIDIA prepara sus GPU Blackwell-Next",
-    "summary": "Google invierte miles de millones en sus procesadores de inteligencia artificial para desafiar el dominio de NVIDIA, que planea nuevas arquitecturas gráficas.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La industria del videojuego pierde al cofundador de Ubisoft y a un directivo de Epic Games",
-    "summary": "Claude Guillemot fallece en un accidente de avioneta y Sjoerd De Jong abandona Epic Games, señalando un momento crítico para el sector.",
-    "source": [
-      "/r/technology",
+      "fastcompany.com",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Filtración de datos en Klue y nueva campaña maliciosa OXLOADER amenazan la ciberseguridad",
-    "summary": "La brecha en la plataforma de inteligencia competitiva afecta a varias empresas de seguridad, mientras un cargador distribuye el malware CastleStealer.",
+    "title": "Ucrania integra IA en todos sus drones militares con el sistema Avengers Lab de Palantir",
+    "summary": "El país utiliza robots-tanques autónomos para minimizar el envío de soldados al frente de batalla.",
     "source": [
-      "techcrunch.com",
-      "thehackernews.com"
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Acuerdo bipartidista en EE.UU. para la seguridad infantil en línea y revés judicial en Ohio",
-    "summary": "El proyecto de ley de seguridad en Internet para menores avanza en el Congreso mientras un tribunal frena las restricciones a las redes sociales en Ohio.",
+    "title": "La crisis de la memoria eleva los precios de la DDR3 y DDR2 ante la escasez de DDR4",
+    "summary": "El aumento de la demanda de memorias antiguas dispara sus precios en el mercado de componentes.",
+    "source": [
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Mujer de 76 años fallece al estrellarse un Tesla en piloto automático contra su vivienda en Texas",
+    "summary": "Un accidente captado por una cámara de timbre reaviva el debate sobre la seguridad del sistema Autopilot de Tesla.",
     "source": [
       "/r/technology",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Policías arrestados por utilizar el sistema Flock para acosar a mujeres",
+    "summary": "El mal uso de la plataforma de reconocimiento de matrículas subraya la necesidad de órdenes judiciales para acceder a estos datos.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Getty Images y OpenAI firman un acuerdo para incluir fotos con licencia en ChatGPT",
+    "summary": "El acuerdo permite que ChatGPT muestre imágenes de Getty en sus resultados de búsqueda, elevando el valor de las acciones de la empresa.",
+    "source": [
+      "the-decoder.com",
       "fastcompany.com"
     ],
     "count": 2
   },
   {
-    "title": "DHL incorpora buques de viento y un brazo robótico para cargar vehículos eléctricos",
-    "summary": "La compañía de logística apuesta por el transporte sostenible con barcos eólicos, mientras un robot automatiza la recarga de EV.",
+    "title": "Fallece Alan Greenspan, expresidente de la Reserva Federal de Estados Unidos",
+    "summary": "Greenspan, conocido por su influencia en los mercados financieros, deja un legado en la política monetaria mundial.",
     "source": [
       "news.ycombinator.com",
       "fastcompany.com"
@@ -145,38 +104,83 @@
     "count": 2
   },
   {
-    "title": "Google endurece la verificación de desarrolladores en Android y Android 17 llega con errores en los Pixel",
-    "summary": "Los desarrolladores de cuatro países deberán verificar su identidad en Google Play, mientras Android 17 presenta fallos táctiles y de congelación.",
+    "title": "Avances en la regulación de redes sociales para menores en EE.UU. y Reino Unido",
+    "summary": "Ambos países buscan proteger a los niños en línea mediante leyes que restringen el acceso a plataformas y refuerzan la seguridad.",
     "source": [
-      "thehackernews.com",
-      "elchapuzasinformatico.com"
+      "/r/technology",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "postmarketOS 26.06 y Mesa 26.2 actualizan el software libre con importantes novedades",
-    "summary": "La distribución para móviles incorpora GNOME 50 y KDE Plasma 6.6, mientras los drivers NVIDIA NVK añaden compatibilidad con DLSS.",
+    "title": "Canadá y China impulsan la energía nuclear con nuevos reactores y el reactor de fusión Zhuri",
+    "summary": "Ambos países avanzan en proyectos nucleares para satisfacer la demanda energética y reducir la dependencia de combustibles fósiles.",
     "source": [
-      "alternativeto.net",
-      "elchapuzasinformatico.com"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "El mercado financiero se mueve con Greenspan y gana transparencia con los bonos británicos",
-    "summary": "La famosa frase de Alan Greenspan sobre los mercados y el acceso a datos en tiempo real de la deuda del Reino Unido marcan la actualidad financiera.",
+    "title": "El Mundial de fútbol genera expectativas comerciales y debates en las terrazas de bares",
+    "summary": "Empresas como DoorDash buscan aprovechar el evento mientras en España se debate la presencia de pantallas en las terrazas.",
     "source": [
       "fastcompany.com",
-      "news.ycombinator.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Amazon invierte 50.000 millones en OpenAI y Samsung despliega ChatGPT Enterprise en Corea",
-    "summary": "El gigante del comercio electrónico apuesta por la inteligencia artificial de OpenAI, mientras Samsung integra sus herramientas en las oficinas surcoreanas.",
+    "title": "La inteligencia artificial transforma YouTube y TikTok con contenido generado automáticamente",
+    "summary": "El aumento de contenido creado por IA en las plataformas sociales genera críticas y preocupación entre los usuarios y directivos.",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
+      "/r/technology",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Windows 11 presenta problemas de hibernación y fallos tras la última actualización",
+    "summary": "La hibernación desgasta los SSD sin previo aviso, mientras que una reciente actualización afecta a Office, OneDrive y el Explorador de archivos.",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google prepara Audio Memory para Pixel mientras Android 17 causa problemas táctiles",
+    "summary": "La nueva función de grabación ambiental convive con bugs táctiles y de congelación en la última versión de Android para Pixel.",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La alianza Five Eyes alerta sobre el potencial de los modelos de IA en ciberataques",
+    "summary": "Canadá ejecuta una operación pionera para limpiar dispositivos infectados con botnets en un contexto de amenazas cibernéticas crecientes.",
+    "source": [
+      "the-decoder.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "INTERPOL y expertos advierten sobre el aumento de estafas con IA y phishing en Asia-Pacífico",
+    "summary": "Las estafas relacionadas con el Mundial y otras campañas de phishing se vuelven más difíciles de detectar.",
+    "source": [
+      "wired.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El 'vibecoding' se consolida como prueba en adquisiciones de software mientras se critica la precariedad laboral",
+    "summary": "Nuevas tendencias en desarrollo de software y denuncias sobre la situación del empleo tecnológico marcan la actualidad del sector.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   }
