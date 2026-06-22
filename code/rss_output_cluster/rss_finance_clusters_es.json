@@ -1,191 +1,195 @@
 [
   {
-    "title": "EE.UU. e Irán avanzan en negociaciones de paz y los mercados reaccionan con cautela",
-    "summary": "El progreso en las conversaciones entre ambos países genera movimientos en el petróleo, las divisas y las bolsas mundiales.",
+    "title": "SpaceX cae en bolsa pese a su acuerdo de computación con Reflection AI",
+    "summary": "Las acciones de SpaceX caen con fuerza tras su OPV, mientras analistas debaten sobre su elevada valuación y el impacto de su acuerdo millonario con la startup de inteligencia artificial.",
     "source": [
-      "bolsamania.com",
+      "finance.yahoo.com",
+      "nasdaq.com",
+      "es.investing.com",
+      "investing.com",
+      "jp.investing.com",
+      "handelsblatt.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Avances en las negociaciones entre EE.UU. e Irán impulsan los mercados globales",
+    "summary": "Las conversaciones de paz avanzan con una hoja de ruta acordada, licencias petroleras de 60 días y la expectativa de una pronta reapertura del estrecho de Ormuz.",
+    "source": [
       "finance.yahoo.com",
       "ft.com",
-      "handelsblatt.com"
+      "bolsamania.com",
+      "nikkei.com",
+      "handelsblatt.com",
+      "/r/stocks"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Mercados globales mixtos: Wall Street se divide mientras Europa y Asia suben",
+    "summary": "Las bolsas mundiales operan sin rumbo claro mientras los inversores digieren el avance en las negociaciones geopolíticas y los movimientos contrastados en el sector tecnológico.",
+    "source": [
+      "handelsblatt.com",
+      "finance.yahoo.com",
+      "investing.com",
+      "bolsamania.com",
+      "nasdaq.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Fallece Alan Greenspan, legendario presidente de la Reserva Federal, a los 100 años",
+    "summary": "El exbanquero central, conocido como 'El Maestro', deja un profundo legado en la política monetaria estadounidense de las últimas décadas.",
+    "source": [
+      "expansion.com",
+      "bolsamania.com",
+      "handelsblatt.com",
+      "nikkei.com"
     ],
     "count": 4
   },
   {
-    "title": "SpaceX completa su primera semana como empresa pública y atrae opiniones divididas",
-    "summary": "La compañía de Elon Musk debutó en bolsa con gran expectación, mientras analistas debaten sobre su valoración y perspectivas.",
+    "title": "Semiconductores al alza: Micron sube por acuerdo con Anthropic y SanDisk se dispara",
+    "summary": "El sector de chips y almacenamiento repunta ante acuerdos estratégicos de inteligencia artificial y cambios en las percepciones del mercado sobre las empresas de memorias.",
     "source": [
       "finance.yahoo.com",
       "investing.com",
-      "nasdaq.com"
+      "nasdaq.com",
+      "/r/stocks"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Los mercados europeos cotizan sin rumbo claro antes de las vacaciones y con el DAX cerca de 25.000 puntos",
-    "summary": "Las bolsas europeas muestran un tono mixto, con el índice alemán cayendo ligeramente y los inversores pendientes de los próximos eventos.",
-    "source": [
-      "expansion.com",
-      "handelsblatt.com",
-      "nasdaq.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Analistas recomiendan acciones de inteligencia artificial ante el auge del gasto en infraestructura",
-    "summary": "Varios informes destacan oportunidades en valores de IA, advirtiendo sobre cuellos de botella en capacidad de computación y energía.",
+    "title": "Alphabet se desploma más de un 6% por la fuga de talento en inteligencia artificial",
+    "summary": "Las acciones del gigante tecnológico se hunden ante la salida de sus principales científicos de IA hacia OpenAI y Anthropic, y los crecientes riesgos legales.",
     "source": [
       "finance.yahoo.com",
-      "jp.investing.com",
-      "nasdaq.com"
+      "es.investing.com",
+      "jp.investing.com"
     ],
     "count": 3
   },
   {
-    "title": "Se intensifican las operaciones corporativas: ofertas de compra y adquisiciones en varios sectores",
-    "summary": "Empresas de tecnología, salud y aerolíneas son objeto de acuerdos millonarios, desde la compra de unidades de software hasta fusiones en el sector bancario.",
+    "title": "Roblox cae un 8% por el débil crecimiento de usuarios activos simultáneos",
+    "summary": "Las acciones de la plataforma de videojuegos se desploman tras reportar un estancamiento en el número de usuarios simultáneos durante el mes de mayo.",
+    "source": [
+      "es.investing.com",
+      "jp.investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "EasyJet rechaza una oferta de adquisición de Castlelake valorada en 4.700 millones de libras",
+    "summary": "La aerolínea de bajo coste considera que la oferta del fondo de capital privado infravalora sus perspectivas de crecimiento y su independencia estratégica.",
     "source": [
       "finance.yahoo.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lucid Group anuncia el recorte del 18% de su plantilla en Estados Unidos",
+    "summary": "El fabricante de vehículos eléctricos de lujo continúa con su plan de reestructuración financiera para reducir costes operativos.",
+    "source": [
+      "es.investing.com",
+      "jp.investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SoundHound AI busca recuperarse tras caer un 30% en lo que va de año",
+    "summary": "Analistas debaten sobre las perspectivas de la empresa de inteligencia artificial de voz para lograr un rebote en el mercado.",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Super Micro Computer se dispara un 12% tras mejora de recomendación de GF Securities",
+    "summary": "Las acciones del fabricante de servidores suben con fuerza ante las optimistas perspectivas de crecimiento en el mercado de infraestructura para IA.",
+    "source": [
+      "es.investing.com",
+      "jp.investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bélgica inicia el proceso de venta del 20% de su participación en Belfius Bank",
+    "summary": "El gobierno belga comienza el proceso de privatización parcial del banco, buscando maximizar el valor para el contribuyente.",
+    "source": [
+      "es.investing.com",
+      "jp.investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los mercados reaccionan a la salida de Starmer y el avance diplomático con Irán",
+    "summary": "La libra esterlina muestra volatilidad mientras los inversores analizan el cambio de liderazgo en el Partido Laborista y los avances en las conversaciones con Irán.",
+    "source": [
       "ft.com",
-      "investing.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Bancos centrales y reguladores toman medidas: desde tipos de interés hasta estabilidad financiera",
-    "summary": "El Banco de Japón impulsa subidas de tipos, la Fed debate eliminar guías y el Bundesbank renueva su consejo.",
-    "source": [
-      "ft.com",
-      "handelsblatt.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Fabricantes de automóviles europeos enfrentan desafíos: Porsche ajusta costos, Ferrari desmiente condiciones y Tesla mira a SpaceX",
-    "summary": "Las noticias del sector automotriz europeo incluyen reestructuraciones, controversias de acceso y especulaciones de fusión.",
-    "source": [
-      "bolsamania.com",
-      "finance.yahoo.com",
-      "investing.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Varios valores reciben revisiones al alza de precio objetivo y mejora de calificación",
-    "summary": "Analistas de diferentes firmas elevan sus expectativas sobre compañías como DexCom, First Solar, Jabil y otras.",
-    "source": [
-      "finance.yahoo.com",
-      "jp.investing.com",
-      "nasdaq.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Robinhood cae un 4% tras anunciar una emisión de bonos convertibles por 2.000 millones de dólares",
-    "summary": "La plataforma de trading busca financiación mediante deuda, lo que presiona su cotización.",
-    "source": [
-      "investing.com",
-      "jp.investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hermes se desploma un 6% por preocupaciones sobre la presión en los márgenes",
-    "summary": "Los inversores reaccionan negativamente a las señales de menor rentabilidad en la casa de lujo.",
-    "source": [
-      "investing.com",
-      "jp.investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hochtief, filial de ACS, debuta en el índice alemán DAX",
-    "summary": "La constructora entra en el selectivo germano tras triplicar su valor en el último año.",
-    "source": [
-      "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las empresas del Ibex 35 reducen su autocartera a mínimos de cinco años",
-    "summary": "La disminución de las recompras de acciones propias refleja la cautela de las compañías cotizadas.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Los inversores esperan los resultados de Micron y los datos de inflación PCE esta semana",
-    "summary": "El mercado se prepara para una semana clave con las cuentas del fabricante de chips y la medida de precios preferida de la Fed.",
-    "source": [
-      "finance.yahoo.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "UniCredit eleva su participación en Commerzbank al 42,5% y el gobierno alemán estudia su respuesta",
-    "summary": "El banco italiano refuerza su posición en el alemán, mientras Berlín decide si mantiene su parte.",
-    "source": [
-      "finance.yahoo.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Arcosa se dispara en bolsa sin razón aparente, pero los analistas apuntan a movimientos internos",
-    "summary": "El valor registra una fuerte subida intradía que los inversores atribuyen a posibles catalizadores.",
-    "source": [
-      "investing.com",
-      "jp.investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El Ibex 35 duda entre ganancias y pérdidas en una sesión mixta",
-    "summary": "El selectivo español se mueve sin tendencia clara, con algunos valores líderes y otros rezagados.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Amazon recupera el liderazgo frente a SpaceX como la quinta empresa más valiosa y atrae recomendaciones de compra",
-    "summary": "La compañía de Jeff Bezos es destacada por su calidad y potencial a largo plazo por analistas.",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Novedades en la banca europea: BBVA, Banca March y Berenberg afrontan distintos acontecimientos",
-    "summary": "El sector bancario europeo está marcado por investigaciones, lanzamientos de fondos y cambios en la cúpula.",
-    "source": [
-      "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El sector energético: ola de calor dispara el precio de la luz, récord de importaciones de petróleo indio y expansión solar en Colombia",
-    "summary": "La energía vive una jornada agitada con impactos climáticos, geopolíticos y de inversión.",
-    "source": [
-      "bolsamania.com",
       "finance.yahoo.com"
     ],
     "count": 2
   },
   {
-    "title": "Diversas empresas presentan resultados trimestrales: desde beneficios récord hasta pérdidas",
-    "summary": "Compañías de distintos sectores reportan sus cifras, con resultados mixtos entre aeropuertos, tecnología y transporte.",
+    "title": "Bitcoin y las principales criptomonedas suben en una sesión de cautela generalizada",
+    "summary": "Las principales criptodivisas repuntan mientras el mercado espera nuevas señales regulatorias y de adopción institucional en el sector.",
     "source": [
-      "nasdaq.com",
-      "nikkei.com"
+      "finance.yahoo.com",
+      "nasdaq.com"
     ],
     "count": 2
+  },
+  {
+    "title": "TD Cowen revela su mejor acción de mediana capitalización para el año 2026",
+    "summary": "El banco de inversión apuesta por una empresa de mediana capitalización con alto potencial de crecimiento para el próximo ejercicio.",
+    "source": [
+      "es.investing.com",
+      "jp.investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "MapLight Therapeutics se dispara en bolsa sin noticias corporativas aparentes",
+    "summary": "Las acciones de la compañía biofarmacéutica suben con fuerza en la jornada, generando especulación entre los inversores minoristas.",
+    "source": [
+      "es.investing.com",
+      "jp.investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El IBEX 35 renueva máximos y Santander supera a Inditex como la empresa más valiosa",
+    "summary": "El selectivo español se acerca a los 19.600 puntos impulsado por el sector bancario, con Santander superando a Inditex en capitalización bursátil.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El gobierno alemán se niega a vender su participación en Commerzbank desafiando a Unicredit",
+    "summary": "El gobierno alemán y el banco italiano Unicredit mantienen un enfrentamiento por el control del banco alemán, con el Bund resistiéndose a ceder su paquete accionarial.",
+    "source": [
+      "handelsblatt.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "La junta directiva de Uber es demandada por presuntos fallos sistémicos de cumplimiento normativo",
+    "summary": "Una demanda colectiva acusa al consejo de la empresa de ignorar sistemáticamente las violaciones de seguridad y los casos de abuso sexual en su plataforma.",
+    "source": [
+      "investing.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Hochtief ingresa en el índice Dax tras triplicar su valor en bolsa en un año",
+    "summary": "La constructora alemana asciende al principal índice bursátil de Alemania, reflejando su fuerte crecimiento y expansión internacional en el último año.",
+    "source": [
+      "handelsblatt.com"
+    ],
+    "count": 1
   }
 ]

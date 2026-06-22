@@ -1,134 +1,89 @@
 [
   {
-    "title": "ゲーム業界：GTA VIが高騰、Half-Life 3の兆し、Unreal Engineは伝道者を失う",
-    "summary": "ゲーム業界の注目ニュース：GTA VIの120ユーロ価格、Half-Life 3の可能性、Epic Gamesの幹部退任、Netflix新作映画予告編、Age of Empires IIの興味深いAIなど。",
+    "title": "MicrosoftがChevronの天然ガスを使用してテキサス州に2GWのデータセンターを建設",
+    "summary": "このデータセンターは、電力網の飽和を避けるために独自のガスプラントを備え、20年契約で合意された。",
     "source": [
-      "alternativeto.net",
-      "elchapuzasinformatico.com",
+      "the-decoder.com",
       "/r/technology",
-      "xataka.com"
+      "news.ycombinator.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "ノルウェー学校でのAI禁止と学術リスクを警告する研究",
-    "summary": "ノルウェーは初等教育におけるAI使用を禁止した最初の国となり、研究ではAIが成績を水増しし学習を損なう可能性が示されている。",
+    "title": "Google、A24に7500万ドルを投資し、人工知能研究を発展させる",
+    "summary": "Google DeepMindと映画スタジオは、映画制作のためのAIツールの開発で協力する。",
     "source": [
-      "xataka.com",
       "/r/technology",
-      "elchapuzasinformatico.com",
       "the-decoder.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "サイバーセキュリティ作戦：カナダがボットを除去、INTERPOLが詐欺を警告、テキサスで大規模データ盗難",
-    "summary": "カナダの諜報機関が感染ボットを除去、4,300台のルーターでマルウェア発見、INTERPOLがAI詐欺の増加を警告、テキサスで300万件のID流出。",
-    "source": [
-      "thehackernews.com",
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "新たなテクノロジー規制：英国が未成年者へのソーシャルメディア禁止、Airbnbが制限に直面など",
-    "summary": "英国は未成年者へのソーシャルメディア禁止を施行、カンザスシティはバスで顔認識を導入、SpaceXは最低のESG評価、Discordは年齢確認を試験。その他の規制措置。",
-    "source": [
-      "bandaancha.eu",
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "オープンソースAIモデルが勢力拡大：GLM-5.2、Sakana Fugu、Apertusが独自モデルと競合",
-    "summary": "GLM-5.2やSakana Fuguなどのオープンな言語モデルが、プロプライエタリモデルに匹敵する能力を示し、ファインチューニングと自律モデルへの関心が高まっている。",
+    "title": "Getty Images、OpenAIと数百万ドルの契約を結び、ChatGPTでの写真利用を許可",
+    "summary": "契約発表後、Getty Imagesの株価は急騰し、カタログをAI検索エンジンに統合する。",
     "source": [
       "the-decoder.com",
-      "news.ycombinator.com",
-      "/r/technology"
+      "fastcompany.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "AIへの懐疑論の高まり：権力集中への懸念、国民の拒否反応、企業のコスト削減",
-    "summary": "Satya Nadellaなどの経営幹部がAIの集中リスクを警告、世論はAIに反転、AmazonやUberなどの企業が高コストを理由に使用を制限。",
-    "source": [
-      "/r/technology",
-      "fastcompany.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "SamsungがChatGPT Enterpriseを統合、iOS 27がAI機能を追加、HBO MaxがAI広告を試験",
-    "summary": "テクノロジー企業がAIを製品に組み込み：Samsungは韓国でChatGPT Enterpriseを展開、AppleはiOS 27でAI機能を準備、HBO MaxはAIによるインタラクティブ広告を実験。",
+    "title": "Sakana AI、複数の言語モデルを組み合わせてAnthropicと競合するシステム「Fugu」を発表",
+    "summary": "Fuguは複数のLLMを調整し、ベンチマークテストでAnthropicのFableモデルやMythosモデルに匹敵する結果を達成。",
     "source": [
       "the-decoder.com",
-      "techcrunch.com",
-      "bandaancha.eu"
-    ],
-    "count": 3
-  },
-  {
-    "title": "詐欺とテクノロジー論争：W杯、Polymarket、Orbが監視下に",
-    "summary": "サッカーワールドカップ関連の詐欺が増加、Polymarketは欺瞞的コンテンツへの支払いを告発され、虹彩スキャン企業Orbは財務不正調査に直面。",
-    "source": [
-      "wired.com",
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Teslaが疑惑の目：自動運転データ改ざんと死亡事故で疑問再燃",
-    "summary": "TeslaはFull Self-Drivingシステム承認のために改ざんデータを提出したと告発され、一方で「オートパイロット」モードの車による死亡事故とGMの人員削減が業界の話題に。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 11とAndroid 17のアップデートがデバイスの不具合や動作低下を引き起こす",
-    "summary": "Windows 11の最新アップデートがごみ箱を壊し、OfficeとOneDriveをブロック。一方、Android 17はPixel端末で画面フリーズやタッチ不具合を引き起こす。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NothingがCMF Phone 3 Proをキャンセル、Galaxy S23からS26 Ultraへの乗り換えを分析",
-    "summary": "Nothingはメモリの高コストを理由にCMF Phone 3 Proを発売しないことを確認。一方、ガイドではGalaxy S23 UltraからS26 Ultraへの買い替え価値を分析。",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "TypeScript 7.0、Deno Desktop、PowerFoxなど、開発者の生活を楽にするツール",
-    "summary": "TypeScript 7.0はGoベースで10倍高速なコンパイルを実現、Deno Desktopはデスクトップアプリを可能に、PowerFoxはミニマリストブラウザ、JSON-LDとClaudeでの本人確認に関するガイドも公開。",
-    "source": [
-      "alternativeto.net",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "企業文化への考察：偽善、打ち砕かれた精神、経験不要のキャリア",
-    "summary": "現代の世代が偽善に挑戦することを恐れている様子、Meta幹部が従業員の士気低下を認める、起業家が伝統的な雇用経験なしに会社を経営する方法を語る記事。",
+    "title": "英国、2027年までに16歳未満のソーシャルメディア利用を禁止へ",
+    "summary": "「安全なTikTok」の創設者は、米国も英国に続いて未成年者のアクセス制限を行うと述べている。",
     "source": [
-      "fastcompany.com",
+      "kite.kagi.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "SK HynixがSamsungを抜く、英国債がリアルタイム表示、NY家賃下落",
-    "summary": "SK HynixがSamsungを抜き韓国で最も価値のある企業に、英国債市場が初めてリアルタイムデータを提供、NYの家賃滞納が増加。",
+    "title": "自社幹部によると、AI生成コンテンツがTikTokとYouTubeを席巻",
+    "summary": "TikTokの動画の半数以上がAIで作成されており、一方YouTubeは人間の信頼性を維持しようとしている。",
+    "source": [
+      "xataka.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Windows 11に複数の不具合：SSDを損傷する休止状態とアプリをブロックするアップデート",
+    "summary": "Windows 11の最新アップデートによりOfficeとOneDriveにアクセスできなくなり、休止状態モードはディスクの寿命を縮める。",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta、Kunal ShahをWhatsAppの新責任者に任命、従業員の士気低下を認める",
+    "summary": "CREDの創業者がメッセージアプリのリーダーシップを引き継ぐ一方、幹部は従業員の士気が低下していることを認める。",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Five Eyes同盟とAnthropicの事例によると、AIはサイバーセキュリティに脅威をもたらす",
+    "summary": "情報機関は、AIモデルがサイバー攻撃を変革する可能性があると警告する一方、AnthropicのMythosモデルはNSAの機密システムに違反したとされる。",
+    "source": [
+      "the-decoder.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "疑問視されるプライバシー：顔認識と警察アプリの使用が論争を巻き起こす",
+    "summary": "記事は個人イメージを提供するリスクを警告する一方、警察官が市民への嫌がらせにFlockツールを使用したとして逮捕される。",
     "source": [
       "news.ycombinator.com",
       "/r/technology"
@@ -136,51 +91,93 @@
     "count": 2
   },
   {
-    "title": "科学的発見：ロシア核ミサイルは予想より危険、ライン川にローマ運河出現、地球に放射能の雨",
-    "summary": "MITが「空飛ぶチェルノブイリ」の危険性を確認、300年前のローマ運河を発見、地球は数百万年にわたり超新星からの放射能の雨を受けていたことが明らかに。",
+    "title": "ワールドカップ、アストゥリアスのテラスビジネスと詐欺を促進",
+    "summary": "このスポーツイベントはバーの活動を増やすが、ワールドカップへの期待を利用した新たな詐欺も生み出す。",
     "source": [
-      "xataka.com"
+      "xataka.com",
+      "wired.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "新ドライバー、値上げ、PCハードウェアの話題",
-    "summary": "AMDがRadeon RX 9000の値上げを準備、ValveがFSR 4.1対応をリーク、MesaがNVKドライバーをDLSS対応に更新、BIOS更新後に故障したRyzen 9 9900Xやハンマー攻撃に耐えたRTX 4070などのハードウェア事例。",
+    "title": "Google、NVIDIAと競合するTPUチップに注力、NVIDIAはBlackwell-Next GPUを準備",
+    "summary": "GoogleはNVIDIAの支配に挑戦するためAIプロセッサに数十億ドルを投資し、NVIDIAは新しいグラフィックアーキテクチャを計画。",
     "source": [
+      "elchapuzasinformatico.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ゲーム業界、Ubisoftの共同創業者とEpic Gamesの幹部を失う",
+    "summary": "Claude Guillemotが小型機事故で死亡し、Sjoerd De JongがEpic Gamesを去り、業界にとって重要な時期を示す。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Klueでのデータ漏洩と新しい悪意のあるキャンペーンOXLOADERがサイバーセキュリティを脅かす",
+    "summary": "競合インテリジェンスプラットフォームの侵害は複数のセキュリティ企業に影響を与え、ローダーがマルウェアCastleStealerを配布。",
+    "source": [
+      "techcrunch.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米国で子どものオンライン安全に関する超党派合意、オハイオ州で司法の後退",
+    "summary": "未成年者のインターネット安全法案が議会で進む一方、裁判所がオハイオ州のソーシャルメディア制限を阻止。",
+    "source": [
+      "/r/technology",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "DHL、風力船と電気自動車充電用ロボットアームを導入",
+    "summary": "物流会社は風力船による持続可能な輸送に賭け、ロボットがEV充電を自動化。",
+    "source": [
+      "news.ycombinator.com",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google、Androidの開発者確認を厳格化、Android 17はPixelにバグあり",
+    "summary": "4か国の開発者はGoogle Playで身元確認が必要となり、Android 17はタッチとフリーズの不具合を示す。",
+    "source": [
+      "thehackernews.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "新技術製品：MD+HTML Reader、Cloudflare Temporary Accounts、MediaSegなど",
-    "summary": "Product Huntが注目の5つのローンチを紹介：MD+HTMLリーダー、Cloudflare一時アカウント、メディアセグメンター、フライト用AIツール、フォージセレクター。",
+    "title": "postmarketOS 26.06とMesa 26.2がフリーソフトウェアを重要な新機能でアップデート",
+    "summary": "モバイル向けディストリビューションはGNOME 50とKDE Plasma 6.6を搭載し、NVIDIA NVKドライバーはDLSSサポートを追加。",
     "source": [
-      "producthunt.com"
+      "alternativeto.net",
+      "elchapuzasinformatico.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Prime Day前のお買い得情報、Lidlの調理ロボット、安全なソフトウェアダウンロードサイト",
-    "summary": "XatakaがAmazon Prime Day前のベストオファーをまとめ、Lidlのスマート調理ロボットが最低価格に、安全に無料アプリをダウンロードできるサイトリスト公開。",
+    "title": "金融市場はグリーンスパンで動き、英国債で透明性を獲得",
+    "summary": "アラン・グリーンスパンの有名な市場に関する言葉と、英国債務のリアルタイムデータへのアクセスが金融の現在を特徴づける。",
     "source": [
-      "xataka.com"
+      "fastcompany.com",
+      "news.ycombinator.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Ozempicが衝動性抑制、暑さで食欲減退、AirPodsがコンサート用耳栓に",
-    "summary": "Ozempicが暴力衝動を減少させることが判明、高温時に体が生存メカニズムとして食欲を抑制、AirPodsがコンサートで耳栓として人気。",
+    "title": "Amazon、OpenAIに500億ドル投資、Samsungは韓国でChatGPT Enterpriseを展開",
+    "summary": "電子商取引大手はOpenAIの人工知能に賭け、Samsungは同社のツールを韓国オフィスに統合。",
     "source": [
-      "xataka.com"
+      "xataka.com",
+      "the-decoder.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "スペインの熱波、メキシコ紙幣のアホロートル、シンガポールの水道水への誇り",
-    "summary": "各種ニュース：スペインが極度の熱波、メキシコが紙幣でアホロートル保護を推進、シンガポールが水道水の飲用適性を祝福。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]
