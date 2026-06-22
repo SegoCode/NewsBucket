@@ -71,7 +71,7 @@ for (const file of files) {
 			}
 		}
 		if (!process.env.GITHUB_ACTIONS) process.stdout.write("\r\n");
-		translated = JSON.parse(jsonrepair(content));
+		try { translated = JSON.parse(jsonrepair(content)); } catch { /* empty → retry */ }
 		if (!Array.isArray(translated))
 			throw new Error(`Invalid response for ${file}/${code}`);
 		if (translated.length) break;
