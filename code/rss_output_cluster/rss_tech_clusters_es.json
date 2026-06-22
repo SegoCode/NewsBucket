@@ -1,17 +1,91 @@
 [
   {
-    "title": "Crece la desconfianza hacia la inteligencia artificial en Estados Unidos",
-    "summary": "Una encuesta muestra que los estadounidenses han perdido la fe en la IA, mientras que figuras como Meredith Whittaker advierten sobre los chatbots y los solteros rechazan la dependencia tecnológica.",
+    "title": "Plataformas digitales implementan nuevas regulaciones y funciones de inteligencia artificial",
+    "summary": "El Reino Unido prohíbe las redes sociales para menores de 16 años, Discord prueba verificación de edad, HBO Max utiliza IA para anuncios y Apple añade funciones de IA a iOS.",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com",
+      "techcrunch.com",
+      "bandaancha.eu",
+      "wired.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "La competencia tecnológica entre China y Estados Unidos se intensifica en varios frentes",
+    "summary": "China lanza un modelo de IA, domina en robotaxis, publica un manual para atacar portaaviones y prepara centros de datos orbitales, mientras restringe materiales críticos a EE.UU.",
     "source": [
       "/r/technology",
       "techcrunch.com",
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Debates y novedades en la industria de la inteligencia artificial",
+    "summary": "Ejecutivos como Nadella, LeCun y Altman discuten el futuro de la IA, mientras Anthropic enfrenta regulación, Claude añade verificación de identidad y AWS lanza servicios para agentes de IA.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "La inteligencia artificial en la educación genera preocupación y restricciones",
+    "summary": "Noruega prohíbe la IA en primaria, un estudio señala que hace más daño que bien y se detecta que infla las calificaciones al fomentar el trabajo externalizado.",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Creciente rechazo hacia la inteligencia artificial en la sociedad y las empresas",
+    "summary": "Los estadounidenses se vuelven contra la IA, las empresas limitan su uso por costos, las aplicaciones de citas la rechazan y Tim Ferriss dice que la IA está matando sus libros.",
+    "source": [
+      "/r/technology",
+      "fastcompany.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Novedades en la industria de los videojuegos: desde Half-Life 3 hasta un juego de estrategia gratuito",
+    "summary": "Valle insinúa Half-Life 3 con un mensaje en Dota 2, se recuerda la demanda de Oliver Kahn a EA, y se lanza Beyond All Reason, un RTS gratuito inspirado en Total Annihilation.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Tendencias laborales y económicas: automatización, bonificaciones y cambios en el trabajo",
+    "summary": "GM despide trabajadores y añade robots, Meta reconoce baja moral, la IA crea dos velocidades laborales, los bonos en Corea del Sur generan inflación y más padres se convierten en cuidadores principales.",
+    "source": [
+      "/r/technology",
+      "xataka.com",
       "fastcompany.com"
     ],
     "count": 3
   },
   {
-    "title": "Acusan a Polymarket de pagar por vídeos engañosos sobre apuestas falsas",
-    "summary": "La plataforma de apuestas descentralizadas Polymarket enfrenta acusaciones de haber creado contenido viral engañoso para atraer usuarios.",
+    "title": "IA y entretenimiento: desde conciertos con AirPods hasta principios psicológicos en el fútbol",
+    "summary": "Los asistentes a conciertos usan AirPods como tapones, los futbolistas aplican principios psicológicos y actores se distancian de Peter Thiel en una conferencia.",
+    "source": [
+      "xataka.com",
+      "fastcompany.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Polymarket acusado de pagar por vídeos engañosos sobre apuestas falsas",
+    "summary": "La plataforma de predicción Polymarket supuestamente pagó a creadores para difundir vídeos falsos de apuestas ganadoras y así impulsar su crecimiento.",
     "source": [
       "techcrunch.com",
       "/r/technology"
@@ -19,35 +93,8 @@
     "count": 2
   },
   {
-    "title": "Anthropic implementa verificación de identidad para ciertas funciones de Claude",
-    "summary": "A partir de julio de 2026, los usuarios de Claude deberán verificar su identidad para acceder a ciertas capacidades.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Aumenta la preocupación por el uso de la IA en la educación escolar",
-    "summary": "Estudios indican que la IA en las escuelas puede causar más daño que beneficio, mientras Noruega se convierte en el primer país en prohibirla en primaria.",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple expande las capacidades de Siri e IA en iOS 27",
-    "summary": "La nueva versión beta de iOS 27 incluye herramientas prácticas de inteligencia artificial más allá de Siri.",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El alto coste de la memoria obliga a cancelar productos y subir precios",
-    "summary": "Nothing descarta nuevos smartphones CMF y Apple señala aumentos de precio debido al encarecimiento de los chips de memoria.",
+    "title": "El alto costo de la memoria afecta a fabricantes de smartphones como Nothing y Apple",
+    "summary": "Nothing cancela nuevos smartphones CMF debido al coste de la memoria, mientras Apple señala que subirá los precios por el mismo motivo.",
     "source": [
       "elchapuzasinformatico.com",
       "kite.kagi.com"
@@ -55,17 +102,8 @@
     "count": 2
   },
   {
-    "title": "Las marcas recurren a influencers generados por IA y anuncios personalizados",
-    "summary": "Empresas como HBO Max implementan anuncios con IA y cada vez más marcas usan avatares virtuales para promocionar productos en redes sociales.",
-    "source": [
-      "bandaancha.eu",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La moral de los trabajadores en EE.UU. y Meta alcanza niveles mínimos",
-    "summary": "Ejecutivos de Meta admiten que han aplastado el espíritu de los empleados, mientras un estudio revela que la mayoría de los trabajadores estadounidenses están desconectados.",
+    "title": "Gobiernos y tecnología: vigilancia, filtraciones y defensa militar con IA",
+    "summary": "Kansas City instala reconocimiento facial en autobuses, Canadá gasta millones en Palantir, Texas sufre una filtración masiva y EE.UU. prepara láseres antiaéreos usando imágenes de drones de Ucrania.",
     "source": [
       "/r/technology",
       "fastcompany.com"
@@ -73,44 +111,8 @@
     "count": 2
   },
   {
-    "title": "La IA transforma el mercado laboral y crea una demanda de nuevos oficios",
-    "summary": "Nvidia anticipa una gran necesidad de electricistas y fontaneros, mientras la inteligencia artificial genera un mercado laboral de dos velocidades.",
-    "source": [
-      "xataka.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China avanza en tecnología autónoma y centros de datos orbitales",
-    "summary": "Un informe muestra el dominio chino en robotaxis, mientras el país prepara centros de datos de IA en órbita para competir con SpaceX.",
-    "source": [
-      "techcrunch.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "EE.UU. desarrolla láseres contra drones y China publica manual para atacar portaaviones",
-    "summary": "El Pentágono trabaja en armas láser para defensa antiaérea, mientras China difunde tácticas para cazar portaaviones estadounidenses.",
-    "source": [
-      "xataka.com",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Valve y Beyond All Reason: nuevas pistas sobre Half-Life 3 y un RTS gratuito",
-    "summary": "Valve parece insinuar el lanzamiento de Half-Life 3 mediante una variable en Dota 2, mientras el juego gratuito Beyond All Reason rinde homenaje a Total Annihilation.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft mejora la búsqueda en Windows 11 y la gestión de archivos",
-    "summary": "Una versión desbloqueada de la búsqueda de Windows elimina Bing y acelera el sistema, mientras la interfaz de usuario evoluciona para manejar archivos no asociados.",
+    "title": "Experimentación con modelos de inteligencia artificial abiertos y locales",
+    "summary": "Investigadores prueban modelos locales como Qwen y Apertus, Microsoft crea un LLM en Age of Empires, y se defiende la ventaja de los modelos abiertos frente a los propietarios.",
     "source": [
       "/r/technology",
       "news.ycombinator.com"
@@ -118,8 +120,8 @@
     "count": 2
   },
   {
-    "title": "Ofertas de software: licencia de Office 2024 y descuentos en Amazon",
-    "summary": "Plataformas ofrecen licencias vitalicias de Office y descuentos en dispositivos Amazon antes del Prime Day.",
+    "title": "Novedades en hardware: desde gráficas resistentes hasta nuevas CPUs con IA",
+    "summary": "Las RTX 4070 y 5090 muestran durabilidad, las gafas Rokid ofrecen buena navegación, Intel lanza Raptor Lake con 24 núcleos y prepara ACE junto a AMD para acelerar IA en CPU.",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com"
@@ -127,57 +129,63 @@
     "count": 2
   },
   {
-    "title": "Innovaciones subacuáticas: de submarinos caseros a robots pescadores",
-    "summary": "Un agricultor chino construye submarinos en su tiempo libre, mientras robots con forma de pez automatizan el corte de sashimi.",
-    "source": [
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La IA como amenaza para la productividad personal",
-    "summary": "Tim Ferriss advierte que ChatGPT reemplaza sus consejos de productividad, mientras Wired ofrece consejos para mejorar prompts de ChatGPT.",
-    "source": [
-      "wired.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La industria de la IA enfrenta críticas y posibles regulaciones",
-    "summary": "Yann LeCun califica a xAI como un fracaso, mientras se analiza el impacto de una posible represión regulatoria contra Anthropic.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La IA impulsa el mercado inmobiliario y obliga a recortar costes",
-    "summary": "Empresas tecnológicas limitan el uso de IA para reducir gastos, mientras la inteligencia artificial impulsa las ventas de viviendas de lujo en EE.UU.",
-    "source": [
-      "/r/technology",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nuevas herramientas para desarrolladores: panel móvil para Claude y servidor MCP",
-    "summary": "Pulse ofrece un panel para gestionar Claude Code desde el móvil, mientras Cloudback lanza un servidor MCP para copias de seguridad.",
+    "title": "Avances y descubrimientos en salud y ciencia: desde la aprobación de Moderna hasta meteoritos",
+    "summary": "La FDA aprueba la vacuna de Moderna, Ozempic reduce la impulsividad, se descubre un meteorito en Aduanas rusas y la Tierra recibe lluvia radiactiva de supernovas.",
     "source": [
       "news.ycombinator.com",
-      "producthunt.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Nuevas plataformas de búsqueda y descubrimiento web",
-    "summary": "In the Weights se presenta como un motor de búsqueda centrado en IA, mientras Notchkin ofrece una herramienta de descubrimiento de productos.",
+    "title": "Noticias empresariales: Airbnb, Tesla, SpaceX, Ubisoft y Microsoft",
+    "summary": "Airbnb rechaza restricciones en Sídney, un Tesla en autopiloto mata a una mujer, SpaceX recibe baja calificación ESG, fallece el cofundador de Ubisoft y Microsoft optimiza la búsqueda de Windows.",
     "source": [
-      "producthunt.com",
+      "/r/technology",
       "techcrunch.com"
     ],
     "count": 2
+  },
+  {
+    "title": "Reflexiones y análisis sobre tecnología, programación y sociedad",
+    "summary": "Artículos diversos abordan desde la programación en 1992 hasta la ética de las grandes tecnológicas, pasando por la renta en Nueva York, la verdad sobre el fraude laboral y la utilidad de los modelos de IA.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Ofertas y recursos para descargar software y dispositivos",
+    "summary": "Se recomiendan webs seguras para descargar aplicaciones, se ofrece Office 2024 a bajo precio y se destacan ofertas de dispositivos Amazon antes del Prime Day.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Historias de ingeniería: desde un Boeing desaparecido hasta un túnel para barcos en Noruega",
+    "summary": "Un Boeing 727 desaparecido en 2001 sigue siendo un misterio, se descubre un canal romano en Alemania, un agricultor chino construye submarinos y Noruega aprueba el primer túnel marítimo.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Curiosidades naturales y medioambientales en el mundo",
+    "summary": "Singapur presume de agua potable, el cuerpo humano pierde el apetito con calor extremo, los castores previenen inundaciones en Londres y España busca playas para mascotas.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Ingenio automovilístico del pasado: el termómetro en el retrovisor",
+    "summary": "Un invento histórico permitía medir la temperatura exterior desde el retrovisor del coche en una época en que tener termómetro era un lujo.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
   }
 ]

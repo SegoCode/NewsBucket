@@ -1,17 +1,91 @@
 [
   {
-    "title": "Distrust toward artificial intelligence grows in the United States",
-    "summary": "A survey shows that Americans have lost faith in AI, while figures like Meredith Whittaker warn about chatbots and singles reject technological dependency.",
+    "title": "Digital platforms implement new regulations and artificial intelligence features",
+    "summary": "The United Kingdom bans social media for minors under 16, Discord tests age verification, HBO Max uses AI for advertisements, and Apple adds AI features to iOS.",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com",
+      "techcrunch.com",
+      "bandaancha.eu",
+      "wired.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Technological competition between China and the United States intensifies on several fronts",
+    "summary": "China launches an AI model, dominates in robotaxis, publishes a manual for attacking aircraft carriers, and prepares orbital data centers, while restricting critical materials to the US.",
     "source": [
       "/r/technology",
       "techcrunch.com",
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Debates and news in the artificial intelligence industry",
+    "summary": "Executives like Nadella, LeCun, and Altman discuss the future of AI, while Anthropic faces regulation, Claude adds identity verification, and AWS launches services for AI agents.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Artificial intelligence in education raises concerns and restrictions",
+    "summary": "Norway bans AI in primary school, a study indicates it does more harm than good, and it is found to inflate grades by promoting outsourced work.",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Growing rejection of artificial intelligence in society and businesses",
+    "summary": "Americans turn against AI, companies limit its use due to costs, dating apps reject it, and Tim Ferriss says AI is killing his books.",
+    "source": [
+      "/r/technology",
+      "fastcompany.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "News in the video game industry: from Half-Life 3 to a free strategy game",
+    "summary": "Valve hints at Half-Life 3 with a message in Dota 2, the Oliver Kahn lawsuit against EA is recalled, and Beyond All Reason, a free RTS inspired by Total Annihilation, is released.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Labor and economic trends: automation, bonuses, and changes in work",
+    "summary": "GM lays off workers and adds robots, Meta acknowledges low morale, AI creates two-speed labor, bonuses in South Korea generate inflation, and more fathers become primary caregivers.",
+    "source": [
+      "/r/technology",
+      "xataka.com",
       "fastcompany.com"
     ],
     "count": 3
   },
   {
+    "title": "AI and entertainment: from concerts with AirPods to psychological principles in football",
+    "summary": "Concert attendees use AirPods as earplugs, soccer players apply psychological principles, and actors distance themselves from Peter Thiel at a conference.",
+    "source": [
+      "xataka.com",
+      "fastcompany.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
     "title": "Polymarket accused of paying for misleading videos about fake bets",
-    "summary": "The decentralized betting platform Polymarket faces accusations of having created misleading viral content to attract users.",
+    "summary": "The prediction platform Polymarket allegedly paid creators to spread fake videos of winning bets to boost its growth.",
     "source": [
       "techcrunch.com",
       "/r/technology"
@@ -19,35 +93,8 @@
     "count": 2
   },
   {
-    "title": "Anthropic implements identity verification for certain Claude features",
-    "summary": "Starting July 2026, Claude users will need to verify their identity to access certain capabilities.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Concern over the use of AI in school education grows",
-    "summary": "Studies indicate that AI in schools may cause more harm than good, while Norway becomes the first country to ban it in primary school.",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple expands Siri and AI capabilities in iOS 27",
-    "summary": "The new beta version of iOS 27 includes practical artificial intelligence tools beyond Siri.",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The high cost of memory forces product cancellations and price increases",
-    "summary": "Nothing abandons new CMF smartphones and Apple signals price increases due to the rising cost of memory chips.",
+    "title": "The high cost of memory affects smartphone manufacturers like Nothing and Apple",
+    "summary": "Nothing cancels new CMF smartphones due to memory costs, while Apple indicates it will raise prices for the same reason.",
     "source": [
       "elchapuzasinformatico.com",
       "kite.kagi.com"
@@ -55,17 +102,8 @@
     "count": 2
   },
   {
-    "title": "Brands turn to AI-generated influencers and personalized ads",
-    "summary": "Companies like HBO Max implement AI-powered ads and more and more brands use virtual avatars to promote products on social media.",
-    "source": [
-      "bandaancha.eu",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Worker morale in the US and at Meta hits record lows",
-    "summary": "Meta executives admit they have crushed employee spirit, while a study reveals that the majority of American workers are disengaged.",
+    "title": "Governments and technology: surveillance, leaks, and military defense with AI",
+    "summary": "Kansas City installs facial recognition on buses, Canada spends millions on Palantir, Texas suffers a massive leak, and the US prepares anti-aircraft lasers using drone footage from Ukraine.",
     "source": [
       "/r/technology",
       "fastcompany.com"
@@ -73,44 +111,8 @@
     "count": 2
   },
   {
-    "title": "AI transforms the job market and creates demand for new trades",
-    "summary": "Nvidia anticipates a great need for electricians and plumbers, while artificial intelligence creates a two-speed job market.",
-    "source": [
-      "xataka.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China advances in autonomous technology and orbital data centers",
-    "summary": "A report shows Chinese dominance in robotaxis, while the country prepares AI data centers in orbit to compete with SpaceX.",
-    "source": [
-      "techcrunch.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "US develops anti-drone lasers and China publishes manual for attacking aircraft carriers",
-    "summary": "The Pentagon is working on laser weapons for air defense, while China spreads tactics for hunting American aircraft carriers.",
-    "source": [
-      "xataka.com",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Valve and Beyond All Reason: new clues about Half-Life 3 and a free RTS",
-    "summary": "Valve seems to hint at the release of Half-Life 3 through a variable in Dota 2, while the free game Beyond All Reason pays homage to Total Annihilation.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft improves search in Windows 11 and file management",
-    "summary": "An unlocked version of Windows search removes Bing and speeds up the system, while the user interface evolves to handle unassociated files.",
+    "title": "Experimentation with open-source and local artificial intelligence models",
+    "summary": "Researchers test local models like Qwen and Apertus, Microsoft creates an LLM in Age of Empires, and the advantage of open models over proprietary ones is defended.",
     "source": [
       "/r/technology",
       "news.ycombinator.com"
@@ -118,8 +120,8 @@
     "count": 2
   },
   {
-    "title": "Software deals: Office 2024 license and Amazon discounts",
-    "summary": "Platforms offer lifetime licenses of Office and discounts on Amazon devices before Prime Day.",
+    "title": "Hardware news: from durable graphics cards to new AI CPUs",
+    "summary": "The RTX 4070 and 5090 show durability, Rokid glasses offer good navigation, Intel launches Raptor Lake with 24 cores and prepares ACE with AMD to accelerate AI on CPUs.",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com"
@@ -127,57 +129,63 @@
     "count": 2
   },
   {
-    "title": "Underwater innovations: from homemade submarines to fishing robots",
-    "summary": "A Chinese farmer builds submarines in his spare time, while fish-shaped robots automate sashimi cutting.",
-    "source": [
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AI as a threat to personal productivity",
-    "summary": "Tim Ferriss warns that ChatGPT replaces his productivity advice, while Wired offers tips to improve ChatGPT prompts.",
-    "source": [
-      "wired.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AI industry faces criticism and potential regulations",
-    "summary": "Yann LeCun labels xAI a failure, while the impact of a potential regulatory crackdown on Anthropic is analyzed.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AI boosts the real estate market and forces cost cutting",
-    "summary": "Tech companies limit the use of AI to reduce expenses, while artificial intelligence boosts luxury home sales in the US.",
-    "source": [
-      "/r/technology",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "New tools for developers: mobile dashboard for Claude and MCP server",
-    "summary": "Pulse offers a dashboard to manage Claude Code from mobile, while Cloudback launches an MCP server for backups.",
+    "title": "Advances and discoveries in health and science: from Moderna's approval to meteorites",
+    "summary": "The FDA approves Moderna's vaccine, Ozempic reduces impulsivity, a meteorite is discovered at Russian Customs, and Earth receives radioactive rain from supernovae.",
     "source": [
       "news.ycombinator.com",
-      "producthunt.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "New web search and discovery platforms",
-    "summary": "In the Weights presents itself as an AI-centered search engine, while Notchkin offers a product discovery tool.",
+    "title": "Business news: Airbnb, Tesla, SpaceX, Ubisoft, and Microsoft",
+    "summary": "Airbnb rejects restrictions in Sydney, a Tesla on autopilot kills a woman, SpaceX receives low ESG rating, the co-founder of Ubisoft passes away, and Microsoft optimizes Windows search.",
     "source": [
-      "producthunt.com",
+      "/r/technology",
       "techcrunch.com"
     ],
     "count": 2
+  },
+  {
+    "title": "Reflections and analysis on technology, programming, and society",
+    "summary": "Various articles cover topics from programming in 1992 to the ethics of big tech, including rent in New York, the truth about employment fraud, and the utility of AI models.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Offers and resources for downloading software and devices",
+    "summary": "Safe websites for downloading apps are recommended, Office 2024 is offered at a low price, and Amazon device deals are highlighted before Prime Day.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Engineering stories: from a missing Boeing to a ship tunnel in Norway",
+    "summary": "A Boeing 727 missing since 2001 remains a mystery, a Roman canal is discovered in Germany, a Chinese farmer builds submarines, and Norway approves the first maritime tunnel.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Natural and environmental curiosities in the world",
+    "summary": "Singapore boasts about its drinking water, the human body loses appetite with extreme heat, beavers prevent floods in London, and Spain seeks pet-friendly beaches.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Automotive ingenuity of the past: the thermometer in the rearview mirror",
+    "summary": "A historical invention allowed measuring the outside temperature from the car's rearview mirror at a time when having a thermometer was a luxury.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
   }
 ]
