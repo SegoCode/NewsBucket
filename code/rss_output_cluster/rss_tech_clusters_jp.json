@@ -1,18 +1,18 @@
 [
   {
-    "title": "AI業界における懐疑論の高まりとコスト削減",
-    "summary": "企業やユーザーはAIに幻滅し、費用対効果の低さから利用を減らしている。また、巨大テクノロジー企業が経済を支配することへの懸念から規制を求める声が高まっている。",
+    "title": "ゲーム業界：GTA VIが高騰、Half-Life 3の兆し、Unreal Engineは伝道者を失う",
+    "summary": "ゲーム業界の注目ニュース：GTA VIの120ユーロ価格、Half-Life 3の可能性、Epic Gamesの幹部退任、Netflix新作映画予告編、Age of Empires IIの興味深いAIなど。",
     "source": [
-      "wired.com",
+      "alternativeto.net",
+      "elchapuzasinformatico.com",
       "/r/technology",
-      "techcrunch.com",
-      "fastcompany.com"
+      "xataka.com"
     ],
     "count": 4
   },
   {
-    "title": "ノルウェー、小学校でのAI使用を禁止—学習への悪影響が研究で明らかに",
-    "summary": "ノルウェーは基礎教育でのAI使用を禁止した最初の国となった。研究によると、AIは成績を水増しし、学習を妨げることが示されている。",
+    "title": "ノルウェー学校でのAI禁止と学術リスクを警告する研究",
+    "summary": "ノルウェーは初等教育におけるAI使用を禁止した最初の国となり、研究ではAIが成績を水増しし学習を損なう可能性が示されている。",
     "source": [
       "xataka.com",
       "/r/technology",
@@ -22,76 +22,113 @@
     "count": 4
   },
   {
-    "title": "ゲーム業界ニュース：価格、退任、訴訟",
-    "summary": "GTA VIの価格が最大120ユーロと発表され、EpicとUbisoftの幹部が業界を去る。Valveの示唆によりHalf-Life 3の噂が再燃。",
+    "title": "サイバーセキュリティ作戦：カナダがボットを除去、INTERPOLが詐欺を警告、テキサスで大規模データ盗難",
+    "summary": "カナダの諜報機関が感染ボットを除去、4,300台のルーターでマルウェア発見、INTERPOLがAI詐欺の増加を警告、テキサスで300万件のID流出。",
     "source": [
-      "elchapuzasinformatico.com",
-      "/r/technology",
-      "techcrunch.com",
-      "xataka.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "開発ツールのアップデート：Bevy、Mesa、TypeScript、Deno",
-    "summary": "Bevyの新バージョン、DLSS対応のMesa、高速化されたTypeScript 7.0、Deno Desktopがソフトウェア開発を改善するために登場。",
-    "source": [
-      "alternativeto.net",
-      "elchapuzasinformatico.com",
-      "news.ycombinator.com"
+      "thehackernews.com",
+      "news.ycombinator.com",
+      "/r/technology"
     ],
     "count": 3
   },
   {
-    "title": "アジア太平洋地域とW杯関連での詐欺・サイバー犯罪の増加",
-    "summary": "インターポールや報道機関は、アジア太平洋地域でのフィッシング詐欺、ランサムウェア、AI詐欺の増加を警告している。W杯関連の詐欺も含まれる。",
+    "title": "新たなテクノロジー規制：英国が未成年者へのソーシャルメディア禁止、Airbnbが制限に直面など",
+    "summary": "英国は未成年者へのソーシャルメディア禁止を施行、カンザスシティはバスで顔認識を導入、SpaceXは最低のESG評価、Discordは年齢確認を試験。その他の規制措置。",
+    "source": [
+      "bandaancha.eu",
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "オープンソースAIモデルが勢力拡大：GLM-5.2、Sakana Fugu、Apertusが独自モデルと競合",
+    "summary": "GLM-5.2やSakana Fuguなどのオープンな言語モデルが、プロプライエタリモデルに匹敵する能力を示し、ファインチューニングと自律モデルへの関心が高まっている。",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AIへの懐疑論の高まり：権力集中への懸念、国民の拒否反応、企業のコスト削減",
+    "summary": "Satya Nadellaなどの経営幹部がAIの集中リスクを警告、世論はAIに反転、AmazonやUberなどの企業が高コストを理由に使用を制限。",
+    "source": [
+      "/r/technology",
+      "fastcompany.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "SamsungがChatGPT Enterpriseを統合、iOS 27がAI機能を追加、HBO MaxがAI広告を試験",
+    "summary": "テクノロジー企業がAIを製品に組み込み：Samsungは韓国でChatGPT Enterpriseを展開、AppleはiOS 27でAI機能を準備、HBO MaxはAIによるインタラクティブ広告を実験。",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "bandaancha.eu"
+    ],
+    "count": 3
+  },
+  {
+    "title": "詐欺とテクノロジー論争：W杯、Polymarket、Orbが監視下に",
+    "summary": "サッカーワールドカップ関連の詐欺が増加、Polymarketは欺瞞的コンテンツへの支払いを告発され、虹彩スキャン企業Orbは財務不正調査に直面。",
     "source": [
       "wired.com",
-      "thehackernews.com",
-      "/r/technology"
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "軍事技術：ミサイル、空母、ドローン、レーザー防御",
-    "summary": "ロシアの核兵器の進展、中国の空母攻撃マニュアル、ウクライナによるAI搭載ドローンの使用、米国の対空レーザー兵器の準備が明らかに。",
+    "title": "Teslaが疑惑の目：自動運転データ改ざんと死亡事故で疑問再燃",
+    "summary": "TeslaはFull Self-Drivingシステム承認のために改ざんデータを提出したと告発され、一方で「オートパイロット」モードの車による死亡事故とGMの人員削減が業界の話題に。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Windows 11とAndroid 17のアップデートがデバイスの不具合や動作低下を引き起こす",
+    "summary": "Windows 11の最新アップデートがごみ箱を壊し、OfficeとOneDriveをブロック。一方、Android 17はPixel端末で画面フリーズやタッチ不具合を引き起こす。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NothingがCMF Phone 3 Proをキャンセル、Galaxy S23からS26 Ultraへの乗り換えを分析",
+    "summary": "Nothingはメモリの高コストを理由にCMF Phone 3 Proを発売しないことを確認。一方、ガイドではGalaxy S23 UltraからS26 Ultraへの買い替え価値を分析。",
     "source": [
       "xataka.com",
-      "/r/technology",
-      "fastcompany.com"
+      "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Polymarket、偽の賭けで成長を促進したと非難される",
-    "summary": "賭けプラットフォームPolymarketは、誤解を招く動画に支払いを行い、バイラルになるために偽の賭けを使用したとして非難に直面している。",
+    "title": "TypeScript 7.0、Deno Desktop、PowerFoxなど、開発者の生活を楽にするツール",
+    "summary": "TypeScript 7.0はGoベースで10倍高速なコンパイルを実現、Deno Desktopはデスクトップアプリを可能に、PowerFoxはミニマリストブラウザ、JSON-LDとClaudeでの本人確認に関するガイドも公開。",
     "source": [
-      "techcrunch.com",
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "企業文化への考察：偽善、打ち砕かれた精神、経験不要のキャリア",
+    "summary": "現代の世代が偽善に挑戦することを恐れている様子、Meta幹部が従業員の士気低下を認める、起業家が伝統的な雇用経験なしに会社を経営する方法を語る記事。",
+    "source": [
+      "fastcompany.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Samsung、ChatGPT EnterpriseとCodexを導入——Codexにバグが発見される",
-    "summary": "SamsungはOpenAIのAIツールを採用する一方、CodexにSSDにテラバイト単位の書き込みを行う可能性があるバグが発見された。",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sakana AI、複数のLLMを統括するFuguを発表",
-    "summary": "Sakana AIの新システムFuguは、複数の言語モデルを組み合わせてAnthropicのベンチマークに匹敵する性能を実現する。",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "シリコンバレーの注目を集める中国のAIモデルGLM-5.2",
-    "summary": "中国のオープンモデルGLM-5.2はOpusと競合し、国際的な関心を集めている。",
+    "title": "SK HynixがSamsungを抜く、英国債がリアルタイム表示、NY家賃下落",
+    "summary": "SK HynixがSamsungを抜き韓国で最も価値のある企業に、英国債市場が初めてリアルタイムデータを提供、NYの家賃滞納が増加。",
     "source": [
       "news.ycombinator.com",
       "/r/technology"
@@ -99,86 +136,50 @@
     "count": 2
   },
   {
-    "title": "サイバーセキュリティインシデント：マルウェア、ボットネット、テキサス州での情報漏洩",
-    "summary": "カナダの情報機関が感染デバイスを駆除、マルウェアがルーターをプロキシに変換、テキサス州での漏洩で300万件のライセンスが露出。",
+    "title": "科学的発見：ロシア核ミサイルは予想より危険、ライン川にローマ運河出現、地球に放射能の雨",
+    "summary": "MITが「空飛ぶチェルノブイリ」の危険性を確認、300年前のローマ運河を発見、地球は数百万年にわたり超新星からの放射能の雨を受けていたことが明らかに。",
     "source": [
-      "thehackernews.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "プライバシーと監視：デンマークの活動家への家宅捜索、Discordの年齢確認",
-    "summary": "警察がデンマークの活動家を家宅捜索する一方、Discordはウォレットやクレジットカードを使った年齢確認を試験している。",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国、自動運転交通で支配、米国向け重要材料を絞る",
-    "summary": "報告書は中国のロボタクシー分野でのリーダーシップを示す一方、中国は米国のテクノロジー産業に必要な戦略的物資の輸出を制限している。",
-    "source": [
-      "techcrunch.com",
       "xataka.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "AR新機能登場：Rokid GlassesとiOS 27の新機能",
-    "summary": "Rokidメガネは優れた歩行者ナビゲーションを提供し、iOS 27はiPhoneに統合された実用的なAI機能を搭載する。",
+    "title": "新ドライバー、値上げ、PCハードウェアの話題",
+    "summary": "AMDがRadeon RX 9000の値上げを準備、ValveがFSR 4.1対応をリーク、MesaがNVKドライバーをDLSS対応に更新、BIOS更新後に故障したRyzen 9 9900Xやハンマー攻撃に耐えたRTX 4070などのハードウェア事例。",
     "source": [
-      "techcrunch.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "新技術製品：MD+HTML Reader、Cloudflare Temporary Accounts、MediaSegなど",
+    "summary": "Product Huntが注目の5つのローンチを紹介：MD+HTMLリーダー、Cloudflare一時アカウント、メディアセグメンター、フライト用AIツール、フォージセレクター。",
+    "source": [
+      "producthunt.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Prime Day前のお買い得情報、Lidlの調理ロボット、安全なソフトウェアダウンロードサイト",
+    "summary": "XatakaがAmazon Prime Day前のベストオファーをまとめ、Lidlのスマート調理ロボットが最低価格に、安全に無料アプリをダウンロードできるサイトリスト公開。",
+    "source": [
       "xataka.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "英国、16歳未満のソーシャルメディア利用を禁止",
-    "summary": "英国政府は16歳未満の子どもがソーシャルメディアにアクセスすることを禁じる法律を可決した。「safe TikTok」の創設者は米国もこれに続くと予想している。",
+    "title": "Ozempicが衝動性抑制、暑さで食欲減退、AirPodsがコンサート用耳栓に",
+    "summary": "Ozempicが暴力衝動を減少させることが判明、高温時に体が生存メカニズムとして食欲を抑制、AirPodsがコンサートで耳栓として人気。",
     "source": [
-      "/r/technology"
+      "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "テキサス州でTeslaの自動運転衝突事故、76歳女性が死亡",
-    "summary": "テキサス州で自動運転モードのTeslaが住宅に衝突し、自宅にいた高齢女性が死亡した。",
+    "title": "スペインの熱波、メキシコ紙幣のアホロートル、シンガポールの水道水への誇り",
+    "summary": "各種ニュース：スペインが極度の熱波、メキシコが紙幣でアホロートル保護を推進、シンガポールが水道水の飲用適性を祝福。",
     "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "GM、電気自動車工場で従業員1,000人を解雇",
-    "summary": "GMはEV工場で人員を削減すると同時に、生産を自動化するためにロボットを導入している。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "MSCI、SpaceXに最低のESG評価を割り当て",
-    "summary": "イーロン・マスクの宇宙企業は、その影響と慣行により、環境・社会・ガバナンス基準で最低評価を受けた。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Sam AltmanのスタートアップOrb、不適切な財務行為の疑いで調査",
-    "summary": "アイリススキャン企業Orbは、不適切な財務行為について内部調査の対象となっている。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "カナダ政府、Palantirとの秘密契約に数千万ドルを支出",
-    "summary": "カナダが監視企業Palantirとの間で、公的な透明性なしに数百万ドル規模の契約を結んでいたことが明らかになった。",
-    "source": [
-      "/r/technology"
+      "xataka.com"
     ],
     "count": 1
   }

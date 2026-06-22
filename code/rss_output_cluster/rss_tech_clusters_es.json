@@ -1,18 +1,18 @@
 [
   {
-    "title": "Creciente escepticismo y recorte de costes en la industria de la IA",
-    "summary": "Empresas y usuarios muestran desilusión con la IA, reducen su uso debido a costos y surgen llamados a la regulación ante el temor a que los gigantes tecnológicos dominen la economía.",
+    "title": "La industria del videojuego: GTA VI se encarece, Half-Life 3 da señales y Unreal Engine pierde un evangelista",
+    "summary": "Noticias destacadas del mundo de los videojuegos incluyen el precio de 120 euros de GTA VI, un posible indicio de Half-Life 3, la salida de un alto ejecutivo de Epic Games, el tráiler de la nueva película de Netflix y una curiosa inteligencia artificial en Age of Empires II.",
     "source": [
-      "wired.com",
+      "alternativeto.net",
+      "elchapuzasinformatico.com",
       "/r/technology",
-      "techcrunch.com",
-      "fastcompany.com"
+      "xataka.com"
     ],
     "count": 4
   },
   {
-    "title": "Noruega prohíbe la IA en escuelas primarias y estudios revelan efectos negativos en el aprendizaje",
-    "summary": "Noruega se convierte en el primer país en prohibir el uso de la IA en educación básica, mientras investigaciones muestran que la IA infla calificaciones y perjudica el aprendizaje.",
+    "title": "Prohibición de la IA en escuelas noruegas y estudios que alertan de sus riesgos académicos",
+    "summary": "Noruega se convierte en el primer país en prohibir el uso de inteligencia artificial en educación primaria, mientras investigaciones indican que la IA infla las calificaciones y puede perjudicar el aprendizaje.",
     "source": [
       "xataka.com",
       "/r/technology",
@@ -22,76 +22,113 @@
     "count": 4
   },
   {
-    "title": "Noticias de la industria del videojuego: precios, salidas y demandas",
-    "summary": "Se anuncia el precio de GTA VI hasta 120 euros, ejecutivos de Epic y Ubisoft dejan la industria, y se reavivan rumores de Half-Life 3 con un guiño de Valve.",
+    "title": "Operativos de ciberseguridad: Canadá limpia bots, INTERPOL alerta de estafas y robo de datos masivo en Texas",
+    "summary": "La agencia de espionaje canadiense elimina bots infectados, se descubre un malware en 4.300 routers, INTERPOL advierte del aumento de estafas con IA, y Texas sufre la filtración de 3 millones de identificaciones.",
     "source": [
-      "elchapuzasinformatico.com",
-      "/r/technology",
-      "techcrunch.com",
-      "xataka.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Actualizaciones de herramientas de desarrollo: Bevy, Mesa, TypeScript y Deno",
-    "summary": "Nuevas versiones de Bevy, Mesa con compatibilidad con DLSS, TypeScript 7.0 (más rápido) y Deno Desktop llegan para mejorar el desarrollo de software.",
-    "source": [
-      "alternativeto.net",
-      "elchapuzasinformatico.com",
-      "news.ycombinator.com"
+      "thehackernews.com",
+      "news.ycombinator.com",
+      "/r/technology"
     ],
     "count": 3
   },
   {
-    "title": "Aumento de estafas y ciberdelitos en Asia-Pacífico y el Mundial",
-    "summary": "La INTERPOL y reportes advierten sobre el incremento de estafas de phishing, ransomware e IA en la región Asia-Pacífico, incluidas estafas relacionadas con el Mundial.",
+    "title": "Nuevas regulaciones tecnológicas: Reino Unido prohíbe las redes sociales a menores, Airbnb se enfrenta a restricciones y más",
+    "summary": "El Reino Unido aplica una prohibición de redes sociales para menores, Kansas City implementa reconocimiento facial en autobuses, SpaceX recibe la peor calificación ESG, y Discord prueba verificación de edad, entre otras medidas regulatorias.",
+    "source": [
+      "bandaancha.eu",
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Los modelos de IA de código abierto ganan terreno: GLM-5.2, Sakana Fugu y Apertus compiten con los privados",
+    "summary": "Varios modelos de lenguaje abiertos como GLM-5.2 y Sakana Fugu demuestran capacidades comparables a los propietarios, mientras crece el interés por el fine tuning y los modelos soberanos.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Creciente escepticismo hacia la IA: temor a la concentración de poder, rechazo popular y recorte de costes empresariales",
+    "summary": "Ejecutivos como Satya Nadella advierten sobre los riesgos de la concentración de la IA, la opinión pública se vuelve contra ella, y empresas como Amazon y Uber restringen su uso por los elevados costes.",
+    "source": [
+      "/r/technology",
+      "fastcompany.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Samsung integra ChatGPT Enterprise, iOS 27 añade funciones de IA y HBO Max prueba anuncios con inteligencia artificial",
+    "summary": "Empresas tecnológicas incorporan inteligencia artificial en sus productos: Samsung despliega ChatGPT Enterprise en Corea, Apple prepara funciones de IA en iOS 27, y HBO Max experimenta con anuncios interactivos mediante IA.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "bandaancha.eu"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Estafas y controversias tecnológicas: Mundial, Polymarket y Orb bajo la lupa",
+    "summary": "Aumentan las estafas relacionadas con el Mundial de fútbol, Polymarket es acusada de pagar por contenido engañoso, y la empresa de iris scanning Orb enfrenta una investigación por irregularidades financieras.",
     "source": [
       "wired.com",
-      "thehackernews.com",
-      "/r/technology"
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "Tecnología militar: misiles, portaaviones, drones y defensa láser",
-    "summary": "Se revelan avances en armamento nuclear ruso, manual chino para atacar portaaviones, uso de drones ucranianos para IA y preparación de EE.UU. con armas láser antiaéreas.",
+    "title": "Tesla bajo escrutinio: datos manipulados en su conducción autónoma y un accidente mortal reavivan las dudas",
+    "summary": "Tesla es acusada de haber presentado datos manipulados para obtener la aprobación de su sistema Full Self-Driving, mientras un accidente fatal con un coche en modo 'autopilot' y la reducción de personal en GM marcan la actualidad del sector.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Actualizaciones de Windows 11 y Android 17 provocan fallos y ralentizaciones en los dispositivos",
+    "summary": "Las últimas actualizaciones de Windows 11 rompen la papelera de reciclaje, bloquean Office y OneDrive, mientras que Android 17 llega a los Pixel congelando la pantalla y causando fallos táctiles.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nothing cancela su CMF Phone 3 Pro y se analiza el cambio de Galaxy S23 a S26 Ultra",
+    "summary": "Nothing confirma que no habrá un CMF Phone 3 Pro debido al alto coste de la memoria, mientras que una guía analiza si merece la pena pasar del Galaxy S23 Ultra al S26 Ultra.",
     "source": [
       "xataka.com",
-      "/r/technology",
-      "fastcompany.com"
+      "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Polymarket acusado de usar apuestas falsas para impulsar su crecimiento",
-    "summary": "La plataforma de apuestas Polymarket enfrenta acusaciones de haber pagado por vídeos engañosos y usado apuestas falsas para volverse viral.",
+    "title": "TypeScript 7.0, Deno Desktop, PowerFox y otras herramientas que facilitan la vida del desarrollador",
+    "summary": "TypeScript 7.0 llega con una base en Go y compilaciones 10 veces más rápidas, Deno Desktop permite aplicaciones de escritorio, PowerFox es un navegador minimalista, y se publican guías sobre JSON-LD y verificación de identidad en Claude.",
     "source": [
-      "techcrunch.com",
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Reflexiones sobre cultura empresarial: hipocresía, espíritu aplastado y carreras sin experiencia previa",
+    "summary": "Artículos sobre cómo la generación actual teme desafiar la hipocresía, un ejecutivo de Meta admite que los trabajadores están desanimados, y un emprendedor relata cómo dirige una empresa sin haber tenido un empleo tradicional.",
+    "source": [
+      "fastcompany.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Samsung implementa ChatGPT Enterprise y Codex, pero se detecta un bug en Codex",
-    "summary": "Samsung adopta herramientas de IA de OpenAI, mientras se descubre un fallo en Codex que podría escribir terabytes en discos SSD.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sakana AI presenta Fugu, un orquestador de múltiples LLMs",
-    "summary": "Fugu, el nuevo sistema de Sakana AI, combina varios modelos de lenguaje para igualar los benchmarks de Anthropic.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GLM-5.2, el modelo de IA chino que llama la atención de Silicon Valley",
-    "summary": "El modelo abierto chino GLM-5.2 compite con Opus y genera interés en la comunidad internacional.",
+    "title": "SK Hynix supera a Samsung, los bonos del Reino Unido en tiempo real y caída de alquileres en Nueva York",
+    "summary": "SK Hynix se convierte en la empresa más valiosa de Corea por delante de Samsung, el mercado de bonos británico ofrece datos en tiempo real por primera vez, y los alquileres en Nueva York registran impagos crecientes.",
     "source": [
       "news.ycombinator.com",
       "/r/technology"
@@ -99,86 +136,50 @@
     "count": 2
   },
   {
-    "title": "Incidentes de ciberseguridad: malware, botnets y filtraciones en Texas",
-    "summary": "La agencia de inteligencia canadiense limpia dispositivos infectados, un malware convierte routers en proxies y una filtración en Texas expone 3 millones de licencias.",
+    "title": "Descubrimientos científicos: el misil nuclear ruso es peor de lo pensado, un canal romano emerge en el Rin y la Tierra recibe lluvia radiactiva",
+    "summary": "Noticias de ciencia incluyen la confirmación del MIT sobre el peligro del 'Chernóbil volador', el hallazgo de un canal romano de 300 años, y la revelación de que la Tierra ha estado recibiendo lluvia radiactiva de supernovas durante millones de años.",
     "source": [
-      "thehackernews.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Privacidad y vigilancia: registro de activista danés y verificación de edad en Discord",
-    "summary": "La policía registra a un activista danés, mientras Discord prueba verificación de edad con wallet y tarjetas de crédito.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China domina el transporte autónomo y estrangula materiales críticos para EE.UU.",
-    "summary": "Un informe muestra el liderazgo chino en robotaxis, mientras China limita la exportación de materiales estratégicos necesarios para la industria tecnológica estadounidense.",
-    "source": [
-      "techcrunch.com",
       "xataka.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Llegan nuevas funciones de AR: Rokid Glasses y las novedades de iOS 27",
-    "summary": "Las gafas Rokid ofrecen navegación peatonal superior, mientras que iOS 27 incorporará funciones prácticas de IA integradas en el iPhone.",
+    "title": "Nuevos controladores, subida de precios y curiosidades en el hardware de PC",
+    "summary": "AMD prepara un aumento de precios para sus Radeon RX 9000, Valve filtra compatibilidad con FSR 4.1, Mesa actualiza los drivers NVK con DLSS, y varios incidentes con hardware como un Ryzen 9 9900X que falla tras una BIOS o una RTX 4070 que sobrevive a martillazos.",
     "source": [
-      "techcrunch.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Nuevos productos tecnológicos: MD+HTML Reader, Cloudflare Temporary Accounts, MediaSeg y más",
+    "summary": "Product Hunt presenta cinco lanzamientos notables: un lector de MD+HTML, cuentas temporales de Cloudflare, un segmentador de medios, una herramienta de IA para vuelos y un selector de forja.",
+    "source": [
+      "producthunt.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Los mejores chollos antes del Prime Day, el robot de cocina de Lidl y las webs más seguras para descargar software",
+    "summary": "Xataka recopila las mejores ofertas previas al Prime Day de Amazon, el robot de cocina inteligente de Lidl baja a precio mínimo, y se publica una lista de las mejores webs para bajar aplicaciones gratis de forma segura.",
+    "source": [
       "xataka.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Reino Unido prohíbe las redes sociales para menores de 16 años",
-    "summary": "El gobierno británico aprueba una ley que impide el acceso a redes sociales a niños menores de 16 años, y el fundador de 'safe TikTok' anticipa que EE.UU. seguirá el ejemplo.",
+    "title": "Ozempic frena la impulsividad, el cuerpo se protege del calor quitando el hambre y los AirPods como tapones para conciertos",
+    "summary": "Se descubre que Ozempic reduce la impulsividad violenta, el cuerpo suprime el apetito a altas temperaturas como mecanismo de supervivencia, y los AirPods se popularizan en conciertos como tapones auditivos.",
     "source": [
-      "/r/technology"
+      "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "Mujer de 76 años muere tras choque de un Tesla en autopilot en Texas",
-    "summary": "Un Tesla en modo autopilot se estrelló contra una vivienda en Texas, causando la muerte de una anciana que se encontraba dentro de su casa.",
+    "title": "La ola de calor en España, los ajolotes en los billetes mexicanos y el orgullo de Singapur por su agua del grifo",
+    "summary": "Noticias variadas: España sufre una ola de calor extrema, México promueve la conservación del ajolote en su moneda, y Singapur celebra la potabilidad de su agua del grifo.",
     "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "General Motors despide a 1.000 trabajadores en su planta de vehículos eléctricos",
-    "summary": "GM reduce su fuerza laboral en la planta de EVs y, al mismo tiempo, incorpora robots para automatizar la producción.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "MSCI asigna a SpaceX la calificación ESG más baja posible",
-    "summary": "La empresa espacial de Elon Musk recibe la peor nota en criterios ambientales, sociales y de gobierno corporativo por su impacto y prácticas.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Investigan a la startup Orb de Sam Altman por presuntas irregularidades financieras",
-    "summary": "La compañía de escaneo ocular Orb está siendo objeto de una investigación interna por conducta financiera inapropiada.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El gobierno canadiense gastó decenas de millones en un contrato secreto con Palantir",
-    "summary": "Se revela que Canadá firmó un acuerdo millonario con la empresa de vigilancia Palantir sin transparencia pública.",
-    "source": [
-      "/r/technology"
+      "xataka.com"
     ],
     "count": 1
   }
