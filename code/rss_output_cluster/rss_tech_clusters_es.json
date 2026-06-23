@@ -1,29 +1,40 @@
 [
   {
-    "title": "Valve lanza la Steam Machine con un precio de alrededor de 1.000 euros y compatible con SteamOS",
-    "summary": "La compañía presenta su consola de sobremesa con sistema operativo SteamOS, con colaboración de Nvidia y un precio que genera debate entre los aficionados.",
+    "title": "Valve lanza la Steam Machine a partir de 1.049 dólares con SteamOS para escritorio",
+    "summary": "La consola de Valve llega con un precio elevado y un rendimiento por debajo de lo esperado, pero abre la puerta a la construcción de equipos con SteamOS.",
     "source": [
-      "/r/technology",
+      "alternativeto.net",
       "elchapuzasinformatico.com",
       "xataka.com",
-      "news.ycombinator.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Microsoft y Chevron planean uno de los mayores centros de datos alimentados por gas en Texas",
-    "summary": "El proyecto incluye una planta de gas propia para evitar la sobrecarga de la red eléctrica, con una capacidad de 2 gigavatios.",
-    "source": [
+      "producthunt.com",
       "/r/technology",
-      "techcrunch.com",
-      "the-decoder.com",
       "news.ycombinator.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "OpenAI amplía su iniciativa DayBreak con GPT-5.5-Cyber para ayudar a corregir vulnerabilidades de seguridad",
+    "summary": "La compañía lanza un esfuerzo integral para parchear bugs en código abierto y competir con la plataforma Mythos de Anthropic.",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com",
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 4
   },
   {
-    "title": "Meta pausa su programa de seguimiento a empleados tras una filtración de datos internos",
-    "summary": "La empresa dejó expuestos datos sensibles del programa, lo que llevó a detener la iniciativa.",
+    "title": "Polymarket pagó a creadores para difundir vídeos de apuestas engañosos, según un informe",
+    "summary": "La plataforma habría creado contenido viral falso para atraer usuarios.",
+    "source": [
+      "alternativeto.net",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta pausa su programa de seguimiento a empleados tras una filtración interna de datos",
+    "summary": "La empresa dejó expuestos datos sensibles del programa, lo que provocó su suspensión.",
     "source": [
       "/r/technology",
       "wired.com"
@@ -31,17 +42,26 @@
     "count": 2
   },
   {
-    "title": "OpenAI lanza una iniciativa a gran escala para corregir errores en software de código abierto",
-    "summary": "El movimiento busca competir con el modelo Mythos de Anthropic mientras refuerza la seguridad del ecosistema open source.",
+    "title": "Tesla enfrenta investigación federal tras accidente fatal en Texas y críticas por presuntos datos manipulados",
+    "summary": "Un Tesla Model 3 atropelló mortalmente a una persona, mientras surgen acusaciones sobre manipulación de datos del Autopilot.",
     "source": [
-      "techcrunch.com",
-      "wired.com"
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Lucid Motors despide al 18 % de su plantilla en medio de reestructuración",
-    "summary": "La empresa de vehículos eléctricos recorta empleos para simplificar operaciones y hacer frente a las dificultades financieras.",
+    "title": "SpaceX ve caer sus acciones un 16,4% y recurre a una venta de deuda para obtener capital",
+    "summary": "El valor de las acciones de SpaceX se desploma desde máximos históricos, y la empresa busca financiación mediante deuda.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lucid Motors despide al 18% de su plantilla y nombra nuevo CEO en medio de dificultades",
+    "summary": "El fabricante de vehículos eléctricos recorta empleos para simplificar la empresa tras el cambio de dirección.",
     "source": [
       "fastcompany.com",
       "techcrunch.com"
@@ -49,17 +69,8 @@
     "count": 2
   },
   {
-    "title": "Tesla defiende su sistema Autopilot tras un accidente fatal en Texas captado por una cámara",
-    "summary": "Una cámara de videoportero registró el siniestro que mató a una mujer, mientras la empresa busca desligarse de responsabilidad.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google DeepMind invierte 75 millones de dólares en un acuerdo con A24 para investigación cinematográfica con IA",
-    "summary": "La alianza busca explorar el uso de inteligencia artificial en la producción de películas y narrativa visual.",
+    "title": "Microsoft y Chevron planean un centro de datos de gas natural de 2 gigavatios en Texas",
+    "summary": "El proyecto busca evitar la saturación de la red eléctrica generando su propia energía.",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
@@ -67,8 +78,35 @@
     "count": 2
   },
   {
-    "title": "Policías usan el sistema Flock para acosar a mujeres, generando llamados a reformas de vigilancia",
-    "summary": "Varios casos de agentes que utilizan datos de vigilancia para hostigar a ciudadanas reavivan el debate sobre las órdenes judiciales.",
+    "title": "Getty Images firma un acuerdo multianual para que sus fotos aparezcan en ChatGPT",
+    "summary": "OpenAI integrará contenido licenciado de Getty en las búsquedas de ChatGPT.",
+    "source": [
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google DeepMind invierte 75 millones para investigar cine con IA junto a A24",
+    "summary": "La alianza explorará cómo la inteligencia artificial puede transformar la producción cinematográfica.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GLM-5.2, el modelo de IA open source chino que preocupa a Silicon Valley",
+    "summary": "China lanza un potente modelo de lenguaje que compite con los líderes occidentales.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Agentes policiales son arrestados por usar el sistema Flock para acosar a mujeres",
+    "summary": "El uso indebido de lectores de matrículas por parte de la policía evidencia la necesidad de autorizaciones judiciales.",
     "source": [
       "news.ycombinator.com",
       "/r/technology"
@@ -76,100 +114,75 @@
     "count": 2
   },
   {
-    "title": "La proliferación de contenido generado por IA de baja calidad preocupa a las plataformas digitales",
-    "summary": "YouTube y otras redes enfrentan el desafío de distinguir entre contenido humano y artificial mientras los algoritmos se inundan de slop.",
+    "title": "El impacto ambiental de la IA amenaza el agua, la tierra y el clima, advierten expertos",
+    "summary": "Nvidia busca reducir el consumo de agua en centros de datos, pero el problema global persiste.",
     "source": [
-      "techcrunch.com",
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Ucrania despliega drones con IA de Palantir y robots tanques teledirigidos contra Rusia",
+    "summary": "El país usa sistemas autónomos para reducir bajas humanas en el frente.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El inversor de 'The Big Short' advierte sobre una caída agresiva de Nvidia, mientras la compañía prepara nuevas GPU",
+    "summary": "Las acciones de Nvidia podrían sufrir un desplome, pero la empresa sigue desarrollando su próxima generación de chips.",
+    "source": [
+      "fastcompany.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft confirma Windows 11 26H2 y advierte sobre el desgaste de SSD por hibernación",
+    "summary": "Los usuarios enfrentan cambios en el ciclo de actualizaciones y problemas de rendimiento en discos.",
+    "source": [
+      "elchapuzasinformatico.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Keir Starmer dimite como primer ministro del Reino Unido",
-    "summary": "El líder laborista abandona el cargo, dejando abierta la carrera por su sucesión en el gobierno británico.",
+    "title": "John Ternus presume del diseño de Apple mientras se descubre una vulnerabilidad irremontable en chips",
+    "summary": "El CEO de Apple destaca la calidad de sus productos, pero una falla de hardware permite jailbreak.",
     "source": [
-      "fastcompany.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Fallece Clive Davis, legendario magnate de la música, a los 94 años",
-    "summary": "El icónico ejecutivo discográfico, descubridor de artistas como Whitney Houston, deja un legado imborrable en la industria.",
-    "source": [
-      "fastcompany.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La remodelación del estanque del National Mall genera controversia política en EE.UU.",
-    "summary": "La administración Trump impulsa cambios en el emblemático espacio público, desatando un intenso debate cultural y político.",
-    "source": [
-      "fastcompany.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Acuerdo bipartidista en el Congreso de EE.UU. para aprobar la ley de seguridad infantil en línea",
-    "summary": "La legislación busca proteger a los menores en plataformas digitales, con apoyo de demócratas y republicanos.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Groq confirma una ronda de financiación de 650 millones de dólares tras el fracaso de adquisición por Nvidia",
-    "summary": "La startup de chips de IA reestructura su plantilla y se prepara para competir en el mercado de hardware de inteligencia artificial.",
-    "source": [
+      "xataka.com",
       "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Una vulnerabilidad irremendable en los chips de Apple permite liberar iPhones",
-    "summary": "El fallo de seguridad abre la puerta a un jailbreak permanente, afectando a millones de dispositivos.",
+    "title": "El CEO de Google DeepMind detalla las habilidades clave para la era de la IA y Google actualiza su API Gemini",
+    "summary": "La compañía apuesta por la interacción nativa con agentes inteligentes.",
     "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Grand Theft Auto VI se muestra en Fnac con un precio de 120 euros para la edición premium",
-    "summary": "El esperado juego de Rockstar Games tendrá un coste superior al previsto, según la lista del minorista francés.",
-    "source": [
-      "elchapuzasinformatico.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El modelo de IA Mythos de Anthropic habría violado sistemas clasificados de la NSA",
-    "summary": "Según informes, la inteligencia artificial logró acceder a datos sensibles en cuestión de horas, generando alertas de seguridad.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Acusan a Tesla de mostrar datos manipulados para obtener la aprobación del sistema Full Self-Driving",
-    "summary": "La empresa habría alterado métricas de rendimiento para conseguir la certificación regulatoria de su conducción autónoma.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La agencia de espionaje de Canadá utiliza una orden pionera para limpiar dispositivos infectados con botnets",
-    "summary": "La operación sin precedentes permite desinfectar dispositivos sin necesidad de acceder a ellos directamente.",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La alianza Five Eyes advierte que los modelos avanzados de IA podrían transformar los ciberataques en cuestión de meses",
-    "summary": "Los servicios de inteligencia alertan sobre el uso de inteligencia artificial para operaciones ofensivas en el ciberespacio.",
-    "source": [
+      "fastcompany.com",
       "the-decoder.com"
     ],
-    "count": 1
+    "count": 2
+  },
+  {
+    "title": "Android 17 presenta fallos en Pixel y Google exige verificación de identidad a desarrolladores",
+    "summary": "La nueva versión de Android llega con problemas de congelaciones y toques, mientras Google refuerza la seguridad.",
+    "source": [
+      "thehackernews.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic podría pedir identificación a los usuarios y colabora con Micron en memoria para IA",
+    "summary": "La empresa de Claude explora nuevos sistemas de autenticación y arquitecturas de memoria especializadas.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
   }
 ]

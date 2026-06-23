@@ -1,29 +1,40 @@
 [
   {
-    "title": "Valve、SteamOS搭載のSteam Machineを約1000ユーロで発売",
-    "summary": "同社はNvidiaと協力し、SteamOS搭載のデスクトップコンソールを発表。価格はファンの間で議論を呼んでいる。",
+    "title": "Valve、Steam Machineを1049ドルから発売、SteamOSをデスクトップ向けに",
+    "summary": "Valveのコンソールは高価格で期待以下のパフォーマンスだが、SteamOSを使用した自作PCへの道を開く。",
     "source": [
-      "/r/technology",
+      "alternativeto.net",
       "elchapuzasinformatico.com",
       "xataka.com",
+      "producthunt.com",
+      "/r/technology",
       "news.ycombinator.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "OpenAI、セキュリティ脆弱性の修正を支援するためDayBreakイニシアチブをGPT-5.5-Cyberで拡大",
+    "summary": "同社はオープンソースのバグにパッチを当てる包括的な取り組みを開始し、AnthropicのMythosプラットフォームと競合する。",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com",
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 4
   },
   {
-    "title": "MicrosoftとChevron、テキサス州にガス発電の大型データセンターを計画",
-    "summary": "このプロジェクトには電力網の過負荷を避けるため、自社のガスプラントが含まれ、容量は2ギガワット。",
+    "title": "Polymarket、報告書によるとクリエイターに報酬を支払い誤解を招くギャンブル動画を拡散",
+    "summary": "このプラットフォームはユーザーを引き付けるために偽のバイラルコンテンツを作成したとみられる。",
     "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "alternativeto.net",
+      "/r/technology"
     ],
-    "count": 4
+    "count": 2
   },
   {
     "title": "Meta、内部データ漏洩を受けて従業員追跡プログラムを一時停止",
-    "summary": "同社はプログラムの機密データを露出させたため、イニシアチブを停止した。",
+    "summary": "同社はプログラムの機密データを露出させ、それが停止につながった。",
     "source": [
       "/r/technology",
       "wired.com"
@@ -31,17 +42,26 @@
     "count": 2
   },
   {
-    "title": "OpenAI、オープンソースソフトウェアのバグ修正を目的とした大規模イニシアチブを開始",
-    "summary": "この動きはAnthropicのMythosモデルと競争しつつ、オープンソースエコシステムのセキュリティを強化することを目指す。",
+    "title": "Tesla、テキサス州での死亡事故とデータ改ざん疑惑で連邦捜査に直面",
+    "summary": "Tesla Model 3が人を死亡させ、Autopilotのデータ改ざんの告発が浮上している。",
     "source": [
-      "techcrunch.com",
-      "wired.com"
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Lucid Motors、再編に伴い従業員の18%を解雇",
-    "summary": "電気自動車メーカーは業務簡素化と財務難に対処するため人員削減を行う。",
+    "title": "SpaceX、株価が16.4%下落し、資金調達のため借金売却に頼る",
+    "summary": "SpaceXの株価は過去最高値から急落し、同社は負債による資金調達を模索している。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lucid Motors、困難の中、従業員の18%を解雇し新CEOを任命",
+    "summary": "電気自動車メーカーは経営陣交代後、会社を簡素化するために人員を削減する。",
     "source": [
       "fastcompany.com",
       "techcrunch.com"
@@ -49,17 +69,8 @@
     "count": 2
   },
   {
-    "title": "Tesla、テキサス州での死亡事故受けAutopilotシステムを擁護、カメラが捉える",
-    "summary": "ドアホンカメラが女性死亡事故を記録する中、同社は責任を回避しようとしている。",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google DeepMind、A24と7500万ドルの契約、AI映画研究へ",
-    "summary": "この提携は映画制作とビジュアルナラティブにおける人工知能の利用を探求する。",
+    "title": "MicrosoftとChevron、テキサス州に2ギガワットの天然ガスデータセンターを計画",
+    "summary": "このプロジェクトは自家発電により電力網の飽和を回避することを目指している。",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
@@ -67,8 +78,35 @@
     "count": 2
   },
   {
-    "title": "警察官がFlockシステムを女性嫌がらせに使用、監視改革の声高まる",
-    "summary": "捜査データを市民への嫌がらせに利用する警官の事例が、司法命令に関する議論を再燃させている。",
+    "title": "Getty Images、ChatGPTに写真が表示される複数年契約を締結",
+    "summary": "OpenAIはChatGPTの検索にGettyのライセンスコンテンツを統合する。",
+    "source": [
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google DeepMind、A24と協力してAIによる映画制作に7500万ドル投資",
+    "summary": "この提携は、人工知能が映画制作をどのように変革できるかを探求する。",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GLM-5.2、シリコンバレーを警戒させる中国のオープンソースAIモデル",
+    "summary": "中国は西側のリーダーと競合する強力な言語モデルを発表。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "警察官、Flockシステムを女性への嫌がらせに使用したとして逮捕",
+    "summary": "警察によるナンバープレート読み取り装置の悪用は、司法当局の許可の必要性を浮き彫りにしている。",
     "source": [
       "news.ycombinator.com",
       "/r/technology"
@@ -76,100 +114,75 @@
     "count": 2
   },
   {
-    "title": "低品質なAI生成コンテンツの氾濫がデジタルプラットフォームを悩ませる",
-    "summary": "YouTubeなどのネットワークは、アルゴリズムが粗悪なコンテンツで溢れる中、人間とAIのコンテンツを区別する課題に直面。",
+    "title": "専門家が警告、AIの環境影響が水、土地、気候を脅かす",
+    "summary": "Nvidiaはデータセンターの水使用量削減を目指すが、世界的な問題は続いている。",
     "source": [
-      "techcrunch.com",
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ウクライナ、PalantirのAI搭載ドローンと遠隔操作戦車ロボットをロシアに対して配備",
+    "summary": "同国は前線での人的損失を減らすために自律システムを使用している。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "『マネー・ショート』の投資家、Nvidiaの急落を警告、同社は新GPUを準備中",
+    "summary": "Nvidiaの株価は暴落する可能性があるが、同社は次世代チップの開発を続けている。",
+    "source": [
+      "fastcompany.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、Windows 11 26H2を確認、休止状態によるSSDの消耗を警告",
+    "summary": "ユーザーは更新サイクルの変更とディスクのパフォーマンス問題に直面している。",
+    "source": [
+      "elchapuzasinformatico.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "キア・スターマー英首相が辞任",
-    "summary": "労働党党首が辞任し、英国政府の後継者選びが始まる。",
+    "title": "John TernusがAppleのデザインを誇る一方、チップに修復不可能な脆弱性が発見される",
+    "summary": "AppleのCEOは製品の品質を強調するが、ハードウェアの欠陥によりジェイルブレイクが可能に。",
     "source": [
-      "fastcompany.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "音楽界の巨匠クライヴ・デイヴィス氏が94歳で死去",
-    "summary": "ホイットニー・ヒューストンなどを発掘した伝説的なレコード会社経営者、業界に不滅の遺産を残す。",
-    "source": [
-      "fastcompany.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ナショナル・モールの池の改装が米国で政治的論争を巻き起こす",
-    "summary": "トランプ政権が象徴的な公共空間の変更を推進し、文化・政治的な激しい議論を引き起こしている。",
-    "source": [
-      "fastcompany.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "米国議会、超党派でオンライン児童安全法を可決へ",
-    "summary": "この法律は、民主党・共和党の支持を得て、デジタルプラットフォーム上の未成年者を保護することを目指す。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Groq、Nvidiaによる買収失敗後、6億5000万ドルの資金調達ラウンドを確認",
-    "summary": "AIチップスタートアップは人員を再編し、AIハードウェア市場での競争に備える。",
-    "source": [
+      "xataka.com",
       "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Appleチップの修正不可能な脆弱性によりiPhoneの脱獄が可能に",
-    "summary": "このセキュリティ上の欠陥は恒久的なジェイルブレイクへの道を開き、数百万台のデバイスに影響。",
+    "title": "Google DeepMindのCEO、AI時代の重要なスキルを詳述、GoogleはGemini APIを更新",
+    "summary": "同社はインテリジェントエージェントとのネイティブなインタラクションに注力している。",
     "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "グランド・セフト・オートVI、Fnacでプレミアムエディション120ユーロと表示",
-    "summary": "Rockstar Gamesの待望のゲームは、フランスの小売業者のリストによると、予想より高いコストになる。",
-    "source": [
-      "elchapuzasinformatico.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AnthropicのAIモデルMythos、NSAの機密システムに違反した可能性",
-    "summary": "報告によると、AIは数時間で機密データにアクセスし、セキュリティ警告を発した。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Tesla、完全自動運転システム承認のためデータ改ざんの非難",
-    "summary": "同社は自動運転の規制認証を得るためにパフォーマンス指標を改ざんしたとされる。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "カナダ諜報機関、ボットネット感染デバイスを駆除する画期的な命令を利用",
-    "summary": "前例のない作戦により、直接アクセスせずにデバイスを駆除することが可能に。",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ファイブ・アイズ同盟、高度なAIモデルが数カ月でサイバー攻撃を変革する可能性を警告",
-    "summary": "情報機関は、サイバー空間での攻撃作戦への人工知能の利用について警告。",
-    "source": [
+      "fastcompany.com",
       "the-decoder.com"
     ],
-    "count": 1
+    "count": 2
+  },
+  {
+    "title": "Android 17、Pixelで不具合が発生、Googleは開発者に身元確認を要求",
+    "summary": "Androidの新バージョンはフリーズやタッチの問題を抱えてリリースされ、Googleはセキュリティを強化。",
+    "source": [
+      "thehackernews.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、ユーザーに身分証明を求める可能性、MicronとAI用メモリで協力",
+    "summary": "Claudeの企業は新しい認証システムと専門的なメモリアーキテクチャを模索している。",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
   }
 ]
