@@ -1,40 +1,71 @@
 [
   {
-    "title": "Valve lanza la Steam Machine a partir de 1.049 dólares con SteamOS para escritorio",
-    "summary": "La consola de Valve llega con un precio elevado y un rendimiento por debajo de lo esperado, pero abre la puerta a la construcción de equipos con SteamOS.",
+    "title": "Valve lanza la Steam Machine a 1.049 dólares y defiende el ecosistema abierto",
+    "summary": "La consola genera controversia al costar más de mil dólares con un rendimiento menor que un PC de gama baja, mientras Valve justifica la decisión para no crear un sistema cerrado.",
     "source": [
-      "alternativeto.net",
       "elchapuzasinformatico.com",
       "xataka.com",
-      "producthunt.com",
+      "alternativeto.net",
       "/r/technology",
+      "producthunt.com",
+      "kite.kagi.com",
       "news.ycombinator.com"
+    ],
+    "count": 7
+  },
+  {
+    "title": "OpenAI presenta GPT-5.5-Cyber e inicia un esfuerzo global para parchear vulnerabilidades en código abierto",
+    "summary": "La nueva versión supera a Anthropic Mythos en ciberseguridad y la empresa lanza una iniciativa masiva para corregir bugs de seguridad en proyectos open source.",
+    "source": [
+      "the-decoder.com",
+      "thehackernews.com",
+      "news.ycombinator.com",
+      "techcrunch.com",
+      "wired.com",
+      "kite.kagi.com"
     ],
     "count": 6
   },
   {
-    "title": "OpenAI amplía su iniciativa DayBreak con GPT-5.5-Cyber para ayudar a corregir vulnerabilidades de seguridad",
-    "summary": "La compañía lanza un esfuerzo integral para parchear bugs en código abierto y competir con la plataforma Mythos de Anthropic.",
+    "title": "Google DeepMind invierte 75 millones de dólares en una alianza con A24 para investigación cinematográfica con IA",
+    "summary": "El laboratorio de inteligencia artificial de Google se asocia con el estudio independiente A24 para desarrollar nuevas herramientas de filmación basadas en IA.",
     "source": [
-      "thehackernews.com",
-      "news.ycombinator.com",
       "techcrunch.com",
-      "wired.com"
+      "kite.kagi.com",
+      "the-decoder.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Polymarket pagó a creadores para difundir vídeos de apuestas engañosos, según un informe",
-    "summary": "La plataforma habría creado contenido viral falso para atraer usuarios.",
+    "title": "Las acciones de SpaceX caen por debajo del precio de salida a bolsa por primera vez",
+    "summary": "El valor se desploma un 16,4% desde su máximo histórico, borrando casi todas las ganancias de los inversores minoristas tras la OPV.",
     "source": [
-      "alternativeto.net",
+      "fastcompany.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Meta pausa su programa de seguimiento a empleados tras una filtración interna de datos",
-    "summary": "La empresa dejó expuestos datos sensibles del programa, lo que provocó su suspensión.",
+    "title": "Polymarket pagó a influencers para simular apuestas ganadoras y engañar a usuarios",
+    "summary": "La plataforma de apuestas descentralizada creó vídeos virales y sitios web falsos para promocionar apuestas ficticias.",
+    "source": [
+      "/r/technology",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Oracle despide a 21.000 empleados en un año por la adopción de inteligencia artificial",
+    "summary": "La compañía continúa su reestructuración con despidos masivos mientras invierte en infraestructura de IA y reduce su fuerza laboral.",
+    "source": [
+      "/r/technology",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta pausa su programa de seguimiento de empleados tras exponer datos internos",
+    "summary": "La empresa detuvo la iniciativa después de que información sensible del programa quedara visible internamente, según filtraciones.",
     "source": [
       "/r/technology",
       "wired.com"
@@ -42,8 +73,8 @@
     "count": 2
   },
   {
-    "title": "Tesla enfrenta investigación federal tras accidente fatal en Texas y críticas por presuntos datos manipulados",
-    "summary": "Un Tesla Model 3 atropelló mortalmente a una persona, mientras surgen acusaciones sobre manipulación de datos del Autopilot.",
+    "title": "Tesla es investigada por un accidente fatal en Texas donde un Model 3 impactó contra una vivienda",
+    "summary": "La NHTSA investiga el siniestro que causó la muerte de una mujer, mientras Tesla defiende su sistema Autopilot y se divulgan imágenes de la cámara del timbre.",
     "source": [
       "/r/technology",
       "techcrunch.com"
@@ -51,35 +82,17 @@
     "count": 2
   },
   {
-    "title": "SpaceX ve caer sus acciones un 16,4% y recurre a una venta de deuda para obtener capital",
-    "summary": "El valor de las acciones de SpaceX se desploma desde máximos históricos, y la empresa busca financiación mediante deuda.",
+    "title": "Samsung anuncia UFS 5.0 con velocidades de 10,8 GB/s para impulsar la IA en móviles",
+    "summary": "El nuevo estándar de almacenamiento promete multiplicar el rendimiento de las aplicaciones de inteligencia artificial en dispositivos móviles.",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Lucid Motors despide al 18% de su plantilla y nombra nuevo CEO en medio de dificultades",
-    "summary": "El fabricante de vehículos eléctricos recorta empleos para simplificar la empresa tras el cambio de dirección.",
-    "source": [
-      "fastcompany.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft y Chevron planean un centro de datos de gas natural de 2 gigavatios en Texas",
-    "summary": "El proyecto busca evitar la saturación de la red eléctrica generando su propia energía.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Getty Images firma un acuerdo multianual para que sus fotos aparezcan en ChatGPT",
-    "summary": "OpenAI integrará contenido licenciado de Getty en las búsquedas de ChatGPT.",
+    "title": "Getty Images llega a un acuerdo con OpenAI para incluir sus fotos con licencia en ChatGPT",
+    "summary": "El banco de imágenes permitirá que su contenido aparezca en las respuestas del chatbot tras un acuerdo multianual.",
     "source": [
       "alternativeto.net",
       "the-decoder.com"
@@ -87,8 +100,17 @@
     "count": 2
   },
   {
-    "title": "Google DeepMind invierte 75 millones para investigar cine con IA junto a A24",
-    "summary": "La alianza explorará cómo la inteligencia artificial puede transformar la producción cinematográfica.",
+    "title": "Meta nombra al fundador de CRED, Kunal Shah, como nuevo director de WhatsApp",
+    "summary": "La empresa invierte 900 millones de dólares en la startup india y pone a su fundador al frente de la popular aplicación de mensajería.",
+    "source": [
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft y Chevron planean un centro de datos de 2 gigavatios con su propia planta de gas en Texas",
+    "summary": "El proyecto busca evitar la presión sobre la red eléctrica estatal generando su propia electricidad a partir de gas natural.",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
@@ -96,8 +118,8 @@
     "count": 2
   },
   {
-    "title": "GLM-5.2, el modelo de IA open source chino que preocupa a Silicon Valley",
-    "summary": "China lanza un potente modelo de lenguaje que compite con los líderes occidentales.",
+    "title": "China lanza GLM-5.2, un modelo de IA de código abierto que inquieta a Silicon Valley",
+    "summary": "El nuevo sistema lingüístico chino muestra capacidades avanzadas y está disponible para ejecución local, compitiendo con modelos occidentales.",
     "source": [
       "elchapuzasinformatico.com",
       "news.ycombinator.com"
@@ -105,8 +127,26 @@
     "count": 2
   },
   {
-    "title": "Agentes policiales son arrestados por usar el sistema Flock para acosar a mujeres",
-    "summary": "El uso indebido de lectores de matrículas por parte de la policía evidencia la necesidad de autorizaciones judiciales.",
+    "title": "Meta lanza gafas inteligentes más asequibles y rediseñadas para atraer a los escépticos",
+    "summary": "Las nuevas gafas de la compañía buscan democratizar el uso de la realidad aumentada con un precio más bajo y un diseño mejorado.",
+    "source": [
+      "techcrunch.com",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Amazon Prime Day 2026 ofrece descuentos en tecnología y electrodomésticos para combatir el calor",
+    "summary": "Las ofertas incluyen rebajas en televisores OLED, mini-PC, ventiladores y aires acondicionados de las principales marcas.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Madison Square Garden recopiló un dossier sobre activistas que se oponen al reconocimiento facial",
+    "summary": "El documento interno incluía comentarios y tuits de críticos del programa de seguridad biométrica del recinto neoyorquino.",
     "source": [
       "news.ycombinator.com",
       "/r/technology"
@@ -114,75 +154,35 @@
     "count": 2
   },
   {
-    "title": "El impacto ambiental de la IA amenaza el agua, la tierra y el clima, advierten expertos",
-    "summary": "Nvidia busca reducir el consumo de agua en centros de datos, pero el problema global persiste.",
+    "title": "Descubren una vulnerabilidad sin parche en los chips de Apple que permite el jailbreak del iPhone",
+    "summary": "El fallo de seguridad, considerado no reparable, podría comprometer todos los dispositivos con procesadores Apple.",
     "source": [
-      "/r/technology",
       "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Ucrania despliega drones con IA de Palantir y robots tanques teledirigidos contra Rusia",
-    "summary": "El país usa sistemas autónomos para reducir bajas humanas en el frente.",
+    "title": "Microsoft ahora quiere que los usuarios adopten la IA china Deepseek tras el fracaso de Copilot",
+    "summary": "La empresa redirige su estrategia de inteligencia artificial hacia modelos alternativos después de que su asistente Copilot no cumpliera expectativas.",
     "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El inversor de 'The Big Short' advierte sobre una caída agresiva de Nvidia, mientras la compañía prepara nuevas GPU",
-    "summary": "Las acciones de Nvidia podrían sufrir un desplome, pero la empresa sigue desarrollando su próxima generación de chips.",
-    "source": [
-      "fastcompany.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft confirma Windows 11 26H2 y advierte sobre el desgaste de SSD por hibernación",
-    "summary": "Los usuarios enfrentan cambios en el ciclo de actualizaciones y problemas de rendimiento en discos.",
-    "source": [
-      "elchapuzasinformatico.com",
       "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "John Ternus presume del diseño de Apple mientras se descubre una vulnerabilidad irremontable en chips",
-    "summary": "El CEO de Apple destaca la calidad de sus productos, pero una falla de hardware permite jailbreak.",
+    "title": "Un juez bloquea el uso de una base de datos federal para verificar la ciudadanía y evitar purgas de votantes",
+    "summary": "La decisión judicial impide que se utilice un sistema de verificación que podría eliminar incorrectamente a votantes registrados.",
     "source": [
-      "xataka.com",
-      "techcrunch.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "El CEO de Google DeepMind detalla las habilidades clave para la era de la IA y Google actualiza su API Gemini",
-    "summary": "La compañía apuesta por la interacción nativa con agentes inteligentes.",
+    "title": "Los modelos de IA avanzados colapsan en pruebas psicológicas clásicas al aumentar la carga cognitiva",
+    "summary": "Un estudio revela que los sistemas de inteligencia artificial actuales fallan estrepitosamente cuando se enfrentan a tareas que requieren razonamiento complejo.",
     "source": [
-      "fastcompany.com",
-      "the-decoder.com"
+      "/r/technology"
     ],
-    "count": 2
-  },
-  {
-    "title": "Android 17 presenta fallos en Pixel y Google exige verificación de identidad a desarrolladores",
-    "summary": "La nueva versión de Android llega con problemas de congelaciones y toques, mientras Google refuerza la seguridad.",
-    "source": [
-      "thehackernews.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic podría pedir identificación a los usuarios y colabora con Micron en memoria para IA",
-    "summary": "La empresa de Claude explora nuevos sistemas de autenticación y arquitecturas de memoria especializadas.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
+    "count": 1
   }
 ]

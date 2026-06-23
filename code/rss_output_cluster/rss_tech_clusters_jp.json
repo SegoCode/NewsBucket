@@ -1,40 +1,71 @@
 [
   {
-    "title": "Valve、Steam Machineを1049ドルから発売、SteamOSをデスクトップ向けに",
-    "summary": "Valveのコンソールは高価格で期待以下のパフォーマンスだが、SteamOSを使用した自作PCへの道を開く。",
+    "title": "Valve、Steam Machineを1,049ドルで発売し、オープンエコシステムを擁護",
+    "summary": "このコンソールは1000ドル以上の価格にもかかわらず、低価格帯のPCよりも性能が低いとして物議を醸しており、Valveは閉鎖的なシステムを作らないための決定だと正当化している。",
     "source": [
-      "alternativeto.net",
       "elchapuzasinformatico.com",
       "xataka.com",
-      "producthunt.com",
+      "alternativeto.net",
       "/r/technology",
+      "producthunt.com",
+      "kite.kagi.com",
       "news.ycombinator.com"
+    ],
+    "count": 7
+  },
+  {
+    "title": "OpenAI、GPT-5.5-Cyberを発表、オープンソースの脆弱性パッチ適用の世界的取り組みを開始",
+    "summary": "新バージョンはサイバーセキュリティでAnthropic Mythosを凌駕し、同社はオープンソースプロジェクトのセキュリティバグを修正する大規模な取り組みを開始する。",
+    "source": [
+      "the-decoder.com",
+      "thehackernews.com",
+      "news.ycombinator.com",
+      "techcrunch.com",
+      "wired.com",
+      "kite.kagi.com"
     ],
     "count": 6
   },
   {
-    "title": "OpenAI、セキュリティ脆弱性の修正を支援するためDayBreakイニシアチブをGPT-5.5-Cyberで拡大",
-    "summary": "同社はオープンソースのバグにパッチを当てる包括的な取り組みを開始し、AnthropicのMythosプラットフォームと競合する。",
+    "title": "Google DeepMind、A24と提携し映画研究に7500万ドルを投資",
+    "summary": "Googleの人工知能研究所は独立系スタジオA24と提携し、AIベースの新しい撮影ツールを開発する。",
     "source": [
-      "thehackernews.com",
-      "news.ycombinator.com",
       "techcrunch.com",
-      "wired.com"
+      "kite.kagi.com",
+      "the-decoder.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Polymarket、報告書によるとクリエイターに報酬を支払い誤解を招くギャンブル動画を拡散",
-    "summary": "このプラットフォームはユーザーを引き付けるために偽のバイラルコンテンツを作成したとみられる。",
+    "title": "SpaceX株が初めて上場価格を下回る",
+    "summary": "株価は史上最高値から16.4%下落し、IPO後の個人投資家の利益をほぼすべて消し去った。",
     "source": [
-      "alternativeto.net",
+      "fastcompany.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Meta、内部データ漏洩を受けて従業員追跡プログラムを一時停止",
-    "summary": "同社はプログラムの機密データを露出させ、それが停止につながった。",
+    "title": "Polymarket、インフルエンサーに報酬を支払い、当たりベットを偽装してユーザーを欺く",
+    "summary": "分散型賭けプラットフォームは、架空の賭けを宣伝するためにバイラル動画や偽のウェブサイトを作成した。",
+    "source": [
+      "/r/technology",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Oracle、人工知能導入により年間21,000人の従業員を解雇",
+    "summary": "同社はAIインフラに投資しながら人員削減を進め、大規模な解雇によるリストラを継続している。",
+    "source": [
+      "/r/technology",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta、内部データ流出を受け従業員追跡プログラムを一時停止",
+    "summary": "リーク情報によると、プログラムの機密情報が社内で可視化されたことを受け、同社はこの取り組みを停止した。",
     "source": [
       "/r/technology",
       "wired.com"
@@ -42,8 +73,8 @@
     "count": 2
   },
   {
-    "title": "Tesla、テキサス州での死亡事故とデータ改ざん疑惑で連邦捜査に直面",
-    "summary": "Tesla Model 3が人を死亡させ、Autopilotのデータ改ざんの告発が浮上している。",
+    "title": "テキサス州でModel 3が住宅に衝突した死亡事故、Teslaが調査対象に",
+    "summary": "NHTSAが女性死亡事故を調査する一方、TeslaはAutopilotシステムを擁護し、ドアベルカメラの映像が公開されている。",
     "source": [
       "/r/technology",
       "techcrunch.com"
@@ -51,35 +82,17 @@
     "count": 2
   },
   {
-    "title": "SpaceX、株価が16.4%下落し、資金調達のため借金売却に頼る",
-    "summary": "SpaceXの株価は過去最高値から急落し、同社は負債による資金調達を模索している。",
+    "title": "Samsung、モバイルAIを強化する10.8GB/sのUFS 5.0を発表",
+    "summary": "新しいストレージ規格は、モバイルデバイス上の人工知能アプリケーションのパフォーマンスを大幅に向上させると期待されている。",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Lucid Motors、困難の中、従業員の18%を解雇し新CEOを任命",
-    "summary": "電気自動車メーカーは経営陣交代後、会社を簡素化するために人員を削減する。",
-    "source": [
-      "fastcompany.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "MicrosoftとChevron、テキサス州に2ギガワットの天然ガスデータセンターを計画",
-    "summary": "このプロジェクトは自家発電により電力網の飽和を回避することを目指している。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Getty Images、ChatGPTに写真が表示される複数年契約を締結",
-    "summary": "OpenAIはChatGPTの検索にGettyのライセンスコンテンツを統合する。",
+    "title": "Getty Images、OpenAIと契約しライセンス済み写真をChatGPTに提供",
+    "summary": "画像バンクは複数年契約の後、チャットボットの回答に自社のコンテンツが表示されることを許可する。",
     "source": [
       "alternativeto.net",
       "the-decoder.com"
@@ -87,8 +100,17 @@
     "count": 2
   },
   {
-    "title": "Google DeepMind、A24と協力してAIによる映画制作に7500万ドル投資",
-    "summary": "この提携は、人工知能が映画制作をどのように変革できるかを探求する。",
+    "title": "Meta、CRED創業者Kunal ShahをWhatsApp新責任者に任命",
+    "summary": "同社はインドのスタートアップに9億ドルを投資し、その創業者を人気のメッセージングアプリのトップに据えた。",
+    "source": [
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "MicrosoftとChevron、テキサス州に自社ガスプラントを備えた2ギガワットのデータセンターを計画",
+    "summary": "このプロジェクトは、天然ガスから自家発電することで州の電力網への負荷を回避することを目指している。",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
@@ -96,8 +118,8 @@
     "count": 2
   },
   {
-    "title": "GLM-5.2、シリコンバレーを警戒させる中国のオープンソースAIモデル",
-    "summary": "中国は西側のリーダーと競合する強力な言語モデルを発表。",
+    "title": "中国、シリコンバレーを不安にさせるオープンソースAIモデルGLM-5.2を公開",
+    "summary": "新しい中国の言語システムは高度な機能を示し、ローカル実行が可能で、西洋のモデルと競合する。",
     "source": [
       "elchapuzasinformatico.com",
       "news.ycombinator.com"
@@ -105,8 +127,26 @@
     "count": 2
   },
   {
-    "title": "警察官、Flockシステムを女性への嫌がらせに使用したとして逮捕",
-    "summary": "警察によるナンバープレート読み取り装置の悪用は、司法当局の許可の必要性を浮き彫りにしている。",
+    "title": "Meta、懐疑派を惹きつけるため、より手頃でリデザインされたスマートグラスを発売",
+    "summary": "同社の新しいグラスは、低価格と改良されたデザインで拡張現実の利用を民主化することを目指している。",
+    "source": [
+      "techcrunch.com",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Amazon Prime Day 2026、暑さ対策のテクノロジーと家電製品を割引",
+    "summary": "セールには、主要ブランドの有機ELテレビ、ミニPC、扇風機、エアコンの値下げが含まれている。",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "マディソン・スクエア・ガーデン、顔認識に反対する活動家のファイルを収集",
+    "summary": "内部文書には、ニューヨークの会場の生体認証セキュリティプログラムに対する批評家のコメントやツイートが含まれていた。",
     "source": [
       "news.ycombinator.com",
       "/r/technology"
@@ -114,75 +154,35 @@
     "count": 2
   },
   {
-    "title": "専門家が警告、AIの環境影響が水、土地、気候を脅かす",
-    "summary": "Nvidiaはデータセンターの水使用量削減を目指すが、世界的な問題は続いている。",
+    "title": "Apple製チップにパッチなしの脆弱性、iPhoneの脱獄が可能に",
+    "summary": "修復不可能とされるこのセキュリティ上の欠陥は、Appleプロセッサ搭載のすべてのデバイスを危険にさらす可能性がある。",
     "source": [
-      "/r/technology",
       "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "ウクライナ、PalantirのAI搭載ドローンと遠隔操作戦車ロボットをロシアに対して配備",
-    "summary": "同国は前線での人的損失を減らすために自律システムを使用している。",
+    "title": "Microsoft、Copilotの失敗を受け、ユーザーに中国のAI「Deepseek」の採用を呼びかけ",
+    "summary": "同社は、アシスタントCopilotが期待に応えられなかったことを受け、AI戦略を代替モデルに向け直している。",
     "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "『マネー・ショート』の投資家、Nvidiaの急落を警告、同社は新GPUを準備中",
-    "summary": "Nvidiaの株価は暴落する可能性があるが、同社は次世代チップの開発を続けている。",
-    "source": [
-      "fastcompany.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、Windows 11 26H2を確認、休止状態によるSSDの消耗を警告",
-    "summary": "ユーザーは更新サイクルの変更とディスクのパフォーマンス問題に直面している。",
-    "source": [
-      "elchapuzasinformatico.com",
       "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "John TernusがAppleのデザインを誇る一方、チップに修復不可能な脆弱性が発見される",
-    "summary": "AppleのCEOは製品の品質を強調するが、ハードウェアの欠陥によりジェイルブレイクが可能に。",
+    "title": "裁判官、有権者確認のための連邦データベース使用を阻止、有権者排除を防止",
+    "summary": "裁判所の決定により、登録有権者を誤って削除する可能性のある確認システムの使用が妨げられる。",
     "source": [
-      "xataka.com",
-      "techcrunch.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Google DeepMindのCEO、AI時代の重要なスキルを詳述、GoogleはGemini APIを更新",
-    "summary": "同社はインテリジェントエージェントとのネイティブなインタラクションに注力している。",
+    "title": "高度なAIモデル、認知負荷増大で古典的心理学テストに失敗",
+    "summary": "ある研究によると、現在の人工知能システムは複雑な推論を必要とするタスクに直面すると、著しく失敗することが明らかになった。",
     "source": [
-      "fastcompany.com",
-      "the-decoder.com"
+      "/r/technology"
     ],
-    "count": 2
-  },
-  {
-    "title": "Android 17、Pixelで不具合が発生、Googleは開発者に身元確認を要求",
-    "summary": "Androidの新バージョンはフリーズやタッチの問題を抱えてリリースされ、Googleはセキュリティを強化。",
-    "source": [
-      "thehackernews.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic、ユーザーに身分証明を求める可能性、MicronとAI用メモリで協力",
-    "summary": "Claudeの企業は新しい認証システムと専門的なメモリアーキテクチャを模索している。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
+    "count": 1
   }
 ]
