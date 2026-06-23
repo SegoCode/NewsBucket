@@ -1,7 +1,7 @@
 [
   {
-    "title": "Lanzamiento de la Steam Machine con un precio de 1.049 dólares",
-    "summary": "Valve lanza su consola Steam Machine a un precio inicial de 1.049 dólares en EE.UU. y 1.039 euros en Europa, generando opiniones encontradas sobre su relación calidad-precio.",
+    "title": "Valve lanza la Steam Machine con un precio de alrededor de 1.000 euros y compatible con SteamOS",
+    "summary": "La compañía presenta su consola de sobremesa con sistema operativo SteamOS, con colaboración de Nvidia y un precio que genera debate entre los aficionados.",
     "source": [
       "/r/technology",
       "elchapuzasinformatico.com",
@@ -11,38 +11,37 @@
     "count": 4
   },
   {
-    "title": "Microsoft y Chevron planean el mayor centro de datos con gas natural en Texas",
-    "summary": "Las empresas construirán un centro de datos de 2 gigavatios con su propia planta de gas para evitar la saturación de la red eléctrica.",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google DeepMind invierte 75 millones de dólares en A24 para investigación cinematográfica con IA",
-    "summary": "El acuerdo busca desarrollar herramientas de IA para la producción de películas y contenido audiovisual.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El modelo de IA Mythos de Anthropic causa polémica tras presunto acceso a sistemas clasificados de la NSA",
-    "summary": "OpenAI y otras empresas responden a los avances de Mythos, que plantea serios desafíos de seguridad en inteligencia artificial.",
+    "title": "Microsoft y Chevron planean uno de los mayores centros de datos alimentados por gas en Texas",
+    "summary": "El proyecto incluye una planta de gas propia para evitar la sobrecarga de la red eléctrica, con una capacidad de 2 gigavatios.",
     "source": [
       "/r/technology",
-      "wired.com",
-      "the-decoder.com"
+      "techcrunch.com",
+      "the-decoder.com",
+      "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Lucid Motors despide al 18% de su personal en un intento de simplificar la empresa",
-    "summary": "El fabricante de vehículos eléctricos reduce su plantilla y sufre una caída en bolsa tras el anuncio.",
+    "title": "Meta pausa su programa de seguimiento a empleados tras una filtración de datos internos",
+    "summary": "La empresa dejó expuestos datos sensibles del programa, lo que llevó a detener la iniciativa.",
+    "source": [
+      "/r/technology",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI lanza una iniciativa a gran escala para corregir errores en software de código abierto",
+    "summary": "El movimiento busca competir con el modelo Mythos de Anthropic mientras refuerza la seguridad del ecosistema open source.",
+    "source": [
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lucid Motors despide al 18 % de su plantilla en medio de reestructuración",
+    "summary": "La empresa de vehículos eléctricos recorta empleos para simplificar operaciones y hacer frente a las dificultades financieras.",
     "source": [
       "fastcompany.com",
       "techcrunch.com"
@@ -50,35 +49,26 @@
     "count": 2
   },
   {
-    "title": "Ucrania integra IA en todos sus drones militares con el sistema Avengers Lab de Palantir",
-    "summary": "El país utiliza robots-tanques autónomos para minimizar el envío de soldados al frente de batalla.",
+    "title": "Tesla defiende su sistema Autopilot tras un accidente fatal en Texas captado por una cámara",
+    "summary": "Una cámara de videoportero registró el siniestro que mató a una mujer, mientras la empresa busca desligarse de responsabilidad.",
     "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "La crisis de la memoria eleva los precios de la DDR3 y DDR2 ante la escasez de DDR4",
-    "summary": "El aumento de la demanda de memorias antiguas dispara sus precios en el mercado de componentes.",
+    "title": "Google DeepMind invierte 75 millones de dólares en un acuerdo con A24 para investigación cinematográfica con IA",
+    "summary": "La alianza busca explorar el uso de inteligencia artificial en la producción de películas y narrativa visual.",
     "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com"
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Mujer de 76 años fallece al estrellarse un Tesla en piloto automático contra su vivienda en Texas",
-    "summary": "Un accidente captado por una cámara de timbre reaviva el debate sobre la seguridad del sistema Autopilot de Tesla.",
-    "source": [
-      "/r/technology",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Policías arrestados por utilizar el sistema Flock para acosar a mujeres",
-    "summary": "El mal uso de la plataforma de reconocimiento de matrículas subraya la necesidad de órdenes judiciales para acceder a estos datos.",
+    "title": "Policías usan el sistema Flock para acosar a mujeres, generando llamados a reformas de vigilancia",
+    "summary": "Varios casos de agentes que utilizan datos de vigilancia para hostigar a ciudadanas reavivan el debate sobre las órdenes judiciales.",
     "source": [
       "news.ycombinator.com",
       "/r/technology"
@@ -86,102 +76,100 @@
     "count": 2
   },
   {
-    "title": "Getty Images y OpenAI firman un acuerdo para incluir fotos con licencia en ChatGPT",
-    "summary": "El acuerdo permite que ChatGPT muestre imágenes de Getty en sus resultados de búsqueda, elevando el valor de las acciones de la empresa.",
+    "title": "La proliferación de contenido generado por IA de baja calidad preocupa a las plataformas digitales",
+    "summary": "YouTube y otras redes enfrentan el desafío de distinguir entre contenido humano y artificial mientras los algoritmos se inundan de slop.",
     "source": [
-      "the-decoder.com",
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Keir Starmer dimite como primer ministro del Reino Unido",
+    "summary": "El líder laborista abandona el cargo, dejando abierta la carrera por su sucesión en el gobierno británico.",
+    "source": [
       "fastcompany.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Fallece Alan Greenspan, expresidente de la Reserva Federal de Estados Unidos",
-    "summary": "Greenspan, conocido por su influencia en los mercados financieros, deja un legado en la política monetaria mundial.",
+    "title": "Fallece Clive Davis, legendario magnate de la música, a los 94 años",
+    "summary": "El icónico ejecutivo discográfico, descubridor de artistas como Whitney Houston, deja un legado imborrable en la industria.",
     "source": [
-      "news.ycombinator.com",
       "fastcompany.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Avances en la regulación de redes sociales para menores en EE.UU. y Reino Unido",
-    "summary": "Ambos países buscan proteger a los niños en línea mediante leyes que restringen el acceso a plataformas y refuerzan la seguridad.",
+    "title": "La remodelación del estanque del National Mall genera controversia política en EE.UU.",
+    "summary": "La administración Trump impulsa cambios en el emblemático espacio público, desatando un intenso debate cultural y político.",
     "source": [
-      "/r/technology",
-      "kite.kagi.com"
+      "fastcompany.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Canadá y China impulsan la energía nuclear con nuevos reactores y el reactor de fusión Zhuri",
-    "summary": "Ambos países avanzan en proyectos nucleares para satisfacer la demanda energética y reducir la dependencia de combustibles fósiles.",
+    "title": "Acuerdo bipartidista en el Congreso de EE.UU. para aprobar la ley de seguridad infantil en línea",
+    "summary": "La legislación busca proteger a los menores en plataformas digitales, con apoyo de demócratas y republicanos.",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "El Mundial de fútbol genera expectativas comerciales y debates en las terrazas de bares",
-    "summary": "Empresas como DoorDash buscan aprovechar el evento mientras en España se debate la presencia de pantallas en las terrazas.",
+    "title": "Groq confirma una ronda de financiación de 650 millones de dólares tras el fracaso de adquisición por Nvidia",
+    "summary": "La startup de chips de IA reestructura su plantilla y se prepara para competir en el mercado de hardware de inteligencia artificial.",
     "source": [
-      "fastcompany.com",
-      "xataka.com"
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "La inteligencia artificial transforma YouTube y TikTok con contenido generado automáticamente",
-    "summary": "El aumento de contenido creado por IA en las plataformas sociales genera críticas y preocupación entre los usuarios y directivos.",
+    "title": "Una vulnerabilidad irremendable en los chips de Apple permite liberar iPhones",
+    "summary": "El fallo de seguridad abre la puerta a un jailbreak permanente, afectando a millones de dispositivos.",
     "source": [
-      "/r/technology",
-      "xataka.com"
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Windows 11 presenta problemas de hibernación y fallos tras la última actualización",
-    "summary": "La hibernación desgasta los SSD sin previo aviso, mientras que una reciente actualización afecta a Office, OneDrive y el Explorador de archivos.",
+    "title": "Grand Theft Auto VI se muestra en Fnac con un precio de 120 euros para la edición premium",
+    "summary": "El esperado juego de Rockstar Games tendrá un coste superior al previsto, según la lista del minorista francés.",
     "source": [
-      "/r/technology",
       "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Google prepara Audio Memory para Pixel mientras Android 17 causa problemas táctiles",
-    "summary": "La nueva función de grabación ambiental convive con bugs táctiles y de congelación en la última versión de Android para Pixel.",
+    "title": "El modelo de IA Mythos de Anthropic habría violado sistemas clasificados de la NSA",
+    "summary": "Según informes, la inteligencia artificial logró acceder a datos sensibles en cuestión de horas, generando alertas de seguridad.",
     "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "La alianza Five Eyes alerta sobre el potencial de los modelos de IA en ciberataques",
-    "summary": "Canadá ejecuta una operación pionera para limpiar dispositivos infectados con botnets en un contexto de amenazas cibernéticas crecientes.",
+    "title": "Acusan a Tesla de mostrar datos manipulados para obtener la aprobación del sistema Full Self-Driving",
+    "summary": "La empresa habría alterado métricas de rendimiento para conseguir la certificación regulatoria de su conducción autónoma.",
     "source": [
-      "the-decoder.com",
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "La agencia de espionaje de Canadá utiliza una orden pionera para limpiar dispositivos infectados con botnets",
+    "summary": "La operación sin precedentes permite desinfectar dispositivos sin necesidad de acceder a ellos directamente.",
+    "source": [
       "thehackernews.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "INTERPOL y expertos advierten sobre el aumento de estafas con IA y phishing en Asia-Pacífico",
-    "summary": "Las estafas relacionadas con el Mundial y otras campañas de phishing se vuelven más difíciles de detectar.",
+    "title": "La alianza Five Eyes advierte que los modelos avanzados de IA podrían transformar los ciberataques en cuestión de meses",
+    "summary": "Los servicios de inteligencia alertan sobre el uso de inteligencia artificial para operaciones ofensivas en el ciberespacio.",
     "source": [
-      "wired.com",
-      "thehackernews.com"
+      "the-decoder.com"
     ],
-    "count": 2
-  },
-  {
-    "title": "El 'vibecoding' se consolida como prueba en adquisiciones de software mientras se critica la precariedad laboral",
-    "summary": "Nuevas tendencias en desarrollo de software y denuncias sobre la situación del empleo tecnológico marcan la actualidad del sector.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
+    "count": 1
   }
 ]

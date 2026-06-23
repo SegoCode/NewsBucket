@@ -1,7 +1,7 @@
 [
   {
-    "title": "Steam Machine Launch Priced at $1,049",
-    "summary": "Valve launches its Steam Machine console at an initial price of $1,049 in the US and €1,039 in Europe, generating mixed opinions on its value for money.",
+    "title": "Valve launches the Steam Machine with a price around 1,000 euros and compatible with SteamOS",
+    "summary": "The company presents its desktop console with the SteamOS operating system, in collaboration with Nvidia and a price that generates debate among fans.",
     "source": [
       "/r/technology",
       "elchapuzasinformatico.com",
@@ -11,38 +11,37 @@
     "count": 4
   },
   {
-    "title": "Microsoft and Chevron Plan the Largest Natural Gas-Powered Data Center in Texas",
-    "summary": "The companies will build a 2-gigawatt data center with its own gas plant to avoid overloading the electrical grid.",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google DeepMind Invests $75 Million in A24 for AI Film Research",
-    "summary": "The agreement aims to develop AI tools for film production and audiovisual content.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic's AI Model Mythos Sparks Controversy After Alleged Access to NSA Classified Systems",
-    "summary": "OpenAI and other companies respond to the advances of Mythos, which poses serious security challenges in artificial intelligence.",
+    "title": "Microsoft and Chevron plan one of the largest gas-powered data centers in Texas",
+    "summary": "The project includes its own gas plant to avoid overloading the electrical grid, with a capacity of 2 gigawatts.",
     "source": [
       "/r/technology",
-      "wired.com",
-      "the-decoder.com"
+      "techcrunch.com",
+      "the-decoder.com",
+      "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Lucid Motors Lays Off 18% of Its Workforce in an Effort to Streamline the Company",
-    "summary": "The electric vehicle manufacturer reduces its workforce and suffers a stock drop after the announcement.",
+    "title": "Meta pauses its employee monitoring program after an internal data leak",
+    "summary": "The company exposed sensitive data from the program, leading to the suspension of the initiative.",
+    "source": [
+      "/r/technology",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI launches a large-scale initiative to fix bugs in open-source software",
+    "summary": "The move aims to compete with Anthropic's Mythos model while reinforcing the security of the open source ecosystem.",
+    "source": [
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lucid Motors lays off 18% of its workforce amid restructuring",
+    "summary": "The electric vehicle company cuts jobs to simplify operations and cope with financial difficulties.",
     "source": [
       "fastcompany.com",
       "techcrunch.com"
@@ -50,35 +49,26 @@
     "count": 2
   },
   {
-    "title": "Ukraine Integrates AI into All Its Military Drones with Palantir's Avenger Lab System",
-    "summary": "The country uses autonomous tank-robots to minimize sending soldiers to the front line.",
+    "title": "Tesla defends its Autopilot system after a fatal accident in Texas captured by a camera",
+    "summary": "A doorbell camera recorded the crash that killed a woman, while the company seeks to distance itself from liability.",
     "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Memory Crisis Raises Prices of DDR3 and DDR2 Amid DDR4 Shortage",
-    "summary": "The increase in demand for older memory chips drives up their prices in the components market.",
+    "title": "Google DeepMind invests $75 million in a deal with A24 for AI film research",
+    "summary": "The alliance aims to explore the use of artificial intelligence in film production and visual storytelling.",
     "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com"
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "76-Year-Old Woman Dies After a Tesla on Autopilot Crashes into Her Home in Texas",
-    "summary": "An accident captured by a doorbell camera reignites the debate over the safety of Tesla's Autopilot system.",
-    "source": [
-      "/r/technology",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Police Officers Arrested for Using Flock System to Harass Women",
-    "summary": "The misuse of the license plate recognition platform highlights the need for court orders to access this data.",
+    "title": "Police use Flock system to harass women, sparking calls for surveillance reforms",
+    "summary": "Several cases of officers using surveillance data to harass citizens revive the debate on judicial warrants.",
     "source": [
       "news.ycombinator.com",
       "/r/technology"
@@ -86,102 +76,100 @@
     "count": 2
   },
   {
-    "title": "Getty Images and OpenAI Sign Agreement to Include Licensed Photos in ChatGPT",
-    "summary": "The agreement allows ChatGPT to display Getty images in its search results, boosting the company's stock value.",
+    "title": "The proliferation of low-quality AI-generated content worries digital platforms",
+    "summary": "YouTube and other networks face the challenge of distinguishing between human and artificial content as algorithms are flooded with slop.",
     "source": [
-      "the-decoder.com",
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Keir Starmer resigns as Prime Minister of the United Kingdom",
+    "summary": "The Labour leader leaves office, leaving the race for his succession in the British government open.",
+    "source": [
       "fastcompany.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Alan Greenspan, Former Chairman of the US Federal Reserve, Dies",
-    "summary": "Greenspan, known for his influence on financial markets, leaves a legacy in global monetary policy.",
+    "title": "Clive Davis, legendary music mogul, dies at 94",
+    "summary": "The iconic record executive, discoverer of artists like Whitney Houston, leaves an indelible legacy in the industry.",
     "source": [
-      "news.ycombinator.com",
       "fastcompany.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Advances in Social Media Regulation for Minors in the US and UK",
-    "summary": "Both countries seek to protect children online through laws that restrict access to platforms and strengthen security.",
+    "title": "Remodeling of the National Mall pond generates political controversy in the US",
+    "summary": "The Trump administration pushes changes to the iconic public space, unleashing an intense cultural and political debate.",
     "source": [
-      "/r/technology",
-      "kite.kagi.com"
+      "fastcompany.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Canada and China Boost Nuclear Energy with New Reactors and the Zhuri Fusion Reactor",
-    "summary": "Both countries advance nuclear projects to meet energy demand and reduce dependence on fossil fuels.",
+    "title": "Bipartisan agreement in US Congress to pass online child safety law",
+    "summary": "The legislation aims to protect minors on digital platforms, with support from Democrats and Republicans.",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "The Football World Cup Generates Commercial Expectations and Debates on Bar Terraces",
-    "summary": "Companies like DoorDash seek to capitalize on the event while in Spain there is debate over the presence of screens on terraces.",
+    "title": "Groq confirms $650 million funding round after failed acquisition by Nvidia",
+    "summary": "The AI chip startup restructures its workforce and prepares to compete in the artificial intelligence hardware market.",
     "source": [
-      "fastcompany.com",
-      "xataka.com"
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Artificial Intelligence Transforms YouTube and TikTok with Automatically Generated Content",
-    "summary": "The increase in AI-generated content on social platforms generates criticism and concern among users and executives.",
+    "title": "Unpatchable vulnerability in Apple chips allows iPhone jailbreaks",
+    "summary": "The security flaw opens the door to a permanent jailbreak, affecting millions of devices.",
     "source": [
-      "/r/technology",
-      "xataka.com"
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Windows 11 Reports Hibernation Issues and Crashes After Latest Update",
-    "summary": "Hibernation wears out SSDs without warning, while a recent update affects Office, OneDrive, and File Explorer.",
+    "title": "Grand Theft Auto VI appears on Fnac with a price of 120 euros for the premium edition",
+    "summary": "The anticipated game from Rockstar Games will cost more than expected, according to the French retailer's listing.",
     "source": [
-      "/r/technology",
       "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Google Prepares Audio Memory for Pixel While Android 17 Causes Touch Issues",
-    "summary": "The new ambient recording feature coexists with touch and freezing bugs in the latest version of Android for Pixel.",
+    "title": "Anthropic's Mythos AI model allegedly breached classified NSA systems",
+    "summary": "According to reports, the artificial intelligence managed to access sensitive data within hours, generating security alerts.",
     "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Five Eyes Alliance Warns About the Potential of AI Models in Cyber Attacks",
-    "summary": "Canada carries out a pioneering operation to clean devices infected with botnets amid growing cyber threats.",
+    "title": "Tesla accused of showing manipulated data to obtain Full Self-Driving system approval",
+    "summary": "The company allegedly altered performance metrics to obtain regulatory certification for its autonomous driving.",
     "source": [
-      "the-decoder.com",
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Canada's spy agency uses pioneering order to clean botnet-infected devices",
+    "summary": "The unprecedented operation allows disinfecting devices without needing to access them directly.",
+    "source": [
       "thehackernews.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "INTERPOL and Experts Warn of Rise in AI and Phishing Scams in Asia-Pacific",
-    "summary": "Scams related to the World Cup and other phishing campaigns become harder to detect.",
+    "title": "Five Eyes alliance warns advanced AI models could transform cyberattacks within months",
+    "summary": "Intelligence services warn about the use of artificial intelligence for offensive operations in cyberspace.",
     "source": [
-      "wired.com",
-      "thehackernews.com"
+      "the-decoder.com"
     ],
-    "count": 2
-  },
-  {
-    "title": "'Vibecoding' Consolidates as a Trial in Software Acquisitions While Job Insecurity is Criticized",
-    "summary": "New trends in software development and complaints about the state of tech employment mark the sector's current affairs.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
+    "count": 1
   }
 ]

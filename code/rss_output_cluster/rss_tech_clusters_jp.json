@@ -1,7 +1,7 @@
 [
   {
-    "title": "Steam Machine発売、価格は1,049ドル",
-    "summary": "ValveはSteam Machineを米国で1,049ドル、欧州で1,039ユーロの開始価格で発売し、コストパフォーマンスについて賛否両論を呼んでいる。",
+    "title": "Valve、SteamOS搭載のSteam Machineを約1000ユーロで発売",
+    "summary": "同社はNvidiaと協力し、SteamOS搭載のデスクトップコンソールを発表。価格はファンの間で議論を呼んでいる。",
     "source": [
       "/r/technology",
       "elchapuzasinformatico.com",
@@ -11,38 +11,37 @@
     "count": 4
   },
   {
-    "title": "MicrosoftとChevron、テキサス州で天然ガス使用の最大級データセンターを計画",
-    "summary": "両社は電力網の過負荷を避けるため、自前のガスプラントを備えた2ギガワットのデータセンターを建設する。",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google DeepMind、AI映画研究でA24に7,500万ドルを投資",
-    "summary": "この契約は、映画や映像コンテンツ制作のためのAIツールの開発を目的としている。",
-    "source": [
-      "techcrunch.com",
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AnthropicのAIモデルMythos、NSAの機密システムへのアクセス疑惑で物議",
-    "summary": "OpenAIなどの企業がMythosの進歩に対応する中、MythosはAIセキュリティに深刻な課題を提起している。",
+    "title": "MicrosoftとChevron、テキサス州にガス発電の大型データセンターを計画",
+    "summary": "このプロジェクトには電力網の過負荷を避けるため、自社のガスプラントが含まれ、容量は2ギガワット。",
     "source": [
       "/r/technology",
-      "wired.com",
-      "the-decoder.com"
+      "techcrunch.com",
+      "the-decoder.com",
+      "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Lucid Motors、会社簡素化のために従業員の18%を解雇",
-    "summary": "電気自動車メーカーは人員削減を実施し、発表後に株価が下落した。",
+    "title": "Meta、内部データ漏洩を受けて従業員追跡プログラムを一時停止",
+    "summary": "同社はプログラムの機密データを露出させたため、イニシアチブを停止した。",
+    "source": [
+      "/r/technology",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、オープンソースソフトウェアのバグ修正を目的とした大規模イニシアチブを開始",
+    "summary": "この動きはAnthropicのMythosモデルと競争しつつ、オープンソースエコシステムのセキュリティを強化することを目指す。",
+    "source": [
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lucid Motors、再編に伴い従業員の18%を解雇",
+    "summary": "電気自動車メーカーは業務簡素化と財務難に対処するため人員削減を行う。",
     "source": [
       "fastcompany.com",
       "techcrunch.com"
@@ -50,35 +49,26 @@
     "count": 2
   },
   {
-    "title": "ウクライナ、PalantirのAvengers Labシステムで全軍事ドローンにAI統合",
-    "summary": "ウクライナは自律型ロボット戦車を使用し、戦場への兵士派遣を最小限に抑えている。",
+    "title": "Tesla、テキサス州での死亡事故受けAutopilotシステムを擁護、カメラが捉える",
+    "summary": "ドアホンカメラが女性死亡事故を記録する中、同社は責任を回避しようとしている。",
     "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "メモリ危機、DDR4不足でDDR3とDDR2の価格が上昇",
-    "summary": "旧型メモリへの需要増加が部品市場での価格高騰を引き起こしている。",
+    "title": "Google DeepMind、A24と7500万ドルの契約、AI映画研究へ",
+    "summary": "この提携は映画制作とビジュアルナラティブにおける人工知能の利用を探求する。",
     "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com"
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "76歳女性、テキサス州で自動運転中のTeslaが住宅に衝突し死亡",
-    "summary": "ドアベルカメラが捉えた事故により、TeslaのAutopilotシステムの安全性に関する議論が再燃している。",
-    "source": [
-      "/r/technology",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "警察官、Flockシステムを女性への嫌がらせに使用し逮捕",
-    "summary": "ナンバープレート認識プラットフォームの悪用は、データアクセスに司法命令が必要であることを浮き彫りにしている。",
+    "title": "警察官がFlockシステムを女性嫌がらせに使用、監視改革の声高まる",
+    "summary": "捜査データを市民への嫌がらせに利用する警官の事例が、司法命令に関する議論を再燃させている。",
     "source": [
       "news.ycombinator.com",
       "/r/technology"
@@ -86,102 +76,100 @@
     "count": 2
   },
   {
-    "title": "Getty ImagesとOpenAI、ライセンス画像をChatGPTに含める契約を締結",
-    "summary": "この契約により、ChatGPTは検索結果でGettyの画像を表示できるようになり、同社の株価が上昇した。",
+    "title": "低品質なAI生成コンテンツの氾濫がデジタルプラットフォームを悩ませる",
+    "summary": "YouTubeなどのネットワークは、アルゴリズムが粗悪なコンテンツで溢れる中、人間とAIのコンテンツを区別する課題に直面。",
     "source": [
-      "the-decoder.com",
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "キア・スターマー英首相が辞任",
+    "summary": "労働党党首が辞任し、英国政府の後継者選びが始まる。",
+    "source": [
       "fastcompany.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "アラン・グリーンスパン元米連邦準備制度理事会議長が死去",
-    "summary": "金融市場に影響力を持ったグリーンスパン氏は、世界の金融政策に遺産を残した。",
+    "title": "音楽界の巨匠クライヴ・デイヴィス氏が94歳で死去",
+    "summary": "ホイットニー・ヒューストンなどを発掘した伝説的なレコード会社経営者、業界に不滅の遺産を残す。",
     "source": [
-      "news.ycombinator.com",
       "fastcompany.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "米国と英国における未成年者向けソーシャルメディア規制の進展",
-    "summary": "両国は、プラットフォームへのアクセスを制限し安全性を強化する法律を通じて、子どもたちをオンラインで保護しようとしている。",
+    "title": "ナショナル・モールの池の改装が米国で政治的論争を巻き起こす",
+    "summary": "トランプ政権が象徴的な公共空間の変更を推進し、文化・政治的な激しい議論を引き起こしている。",
     "source": [
-      "/r/technology",
-      "kite.kagi.com"
+      "fastcompany.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "カナダと中国、新型原子炉と核融合炉Zhuriで原子力エネルギーを推進",
-    "summary": "両国はエネルギー需要を満たし化石燃料への依存を減らすために、原子力プロジェクトを進めている。",
+    "title": "米国議会、超党派でオンライン児童安全法を可決へ",
+    "summary": "この法律は、民主党・共和党の支持を得て、デジタルプラットフォーム上の未成年者を保護することを目指す。",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "ワールドカップ、商業的な期待とバルのテラスでの議論を巻き起こす",
-    "summary": "DoorDashなどの企業がこのイベントを活用しようとする一方、スペインではテラスでのスクリーン設置をめぐる議論が行われている。",
+    "title": "Groq、Nvidiaによる買収失敗後、6億5000万ドルの資金調達ラウンドを確認",
+    "summary": "AIチップスタートアップは人員を再編し、AIハードウェア市場での競争に備える。",
     "source": [
-      "fastcompany.com",
-      "xataka.com"
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "人工知能が自動生成コンテンツでYouTubeとTikTokを変革",
-    "summary": "ソーシャルプラットフォーム上でAI生成コンテンツが増加し、ユーザーや経営陣の間で批判と懸念を呼んでいる。",
+    "title": "Appleチップの修正不可能な脆弱性によりiPhoneの脱獄が可能に",
+    "summary": "このセキュリティ上の欠陥は恒久的なジェイルブレイクへの道を開き、数百万台のデバイスに影響。",
     "source": [
-      "/r/technology",
-      "xataka.com"
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Windows 11、最新アップデート後に休止状態の問題と不具合が発生",
-    "summary": "休止状態が予告なくSSDを消耗する一方、最近のアップデートがOffice、OneDrive、エクスプローラーに影響を与えている。",
+    "title": "グランド・セフト・オートVI、Fnacでプレミアムエディション120ユーロと表示",
+    "summary": "Rockstar Gamesの待望のゲームは、フランスの小売業者のリストによると、予想より高いコストになる。",
     "source": [
-      "/r/technology",
       "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Google、Pixel向けAudio Memoryを準備、Android 17でタッチ問題も発生",
-    "summary": "新しい環境録音機能が、Pixel向け最新Androidバージョンのタッチバグやフリーズバグと共存している。",
+    "title": "AnthropicのAIモデルMythos、NSAの機密システムに違反した可能性",
+    "summary": "報告によると、AIは数時間で機密データにアクセスし、セキュリティ警告を発した。",
     "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "ファイブ・アイズ同盟、サイバー攻撃におけるAIモデルの潜在性を警告",
-    "summary": "カナダは増大するサイバー脅威の中、ボットネットに感染したデバイスをクリーンアップする先駆的な作戦を実行している。",
+    "title": "Tesla、完全自動運転システム承認のためデータ改ざんの非難",
+    "summary": "同社は自動運転の規制認証を得るためにパフォーマンス指標を改ざんしたとされる。",
     "source": [
-      "the-decoder.com",
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "カナダ諜報機関、ボットネット感染デバイスを駆除する画期的な命令を利用",
+    "summary": "前例のない作戦により、直接アクセスせずにデバイスを駆除することが可能に。",
+    "source": [
       "thehackernews.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "INTERPOLと専門家、アジア太平洋地域でのAI詐欺とフィッシングの増加を警告",
-    "summary": "ワールドカップ関連の詐欺やその他のフィッシングキャンペーンは、検出がより困難になっている。",
+    "title": "ファイブ・アイズ同盟、高度なAIモデルが数カ月でサイバー攻撃を変革する可能性を警告",
+    "summary": "情報機関は、サイバー空間での攻撃作戦への人工知能の利用について警告。",
     "source": [
-      "wired.com",
-      "thehackernews.com"
+      "the-decoder.com"
     ],
-    "count": 2
-  },
-  {
-    "title": "「バイブコーディング」がソフトウェア買収の試金石として定着、労働環境の不安定さも批判される",
-    "summary": "ソフトウェア開発の新たなトレンドとテクノロジー雇用の状況に対する告発が、業界の現在を特徴づけている。",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
+    "count": 1
   }
 ]
