@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <title>NewsBucket</title>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font: 16px/1.45 system-ui, -apple-system, sans-serif;
+            color: var(--tg-theme-text-color);
+            background: var(--tg-theme-bg-color);
+            padding: 12px 14px 20px;
+        }
+
+        .row { display: flex; gap: 8px; margin-bottom: 12px; }
+
+        select {
+            flex: 1;
+            padding: 8px 10px;
+            font: inherit;
+            font-size: .95em;
+            background: var(--tg-theme-secondary-bg-color);
+            color: var(--tg-theme-text-color);
+            border: 1px solid var(--tg-theme-hint-color);
+            border-radius: 8px;
+            appearance: none;
+            -webkit-appearance: none;
+        }
+
+        article {
+            padding: 8px 10px;
+            margin-bottom: 10px;
+            border-bottom: 1px solid var(--tg-theme-hint-color);
+        }
+
+        article:last-child { border-bottom: 0; }
+
+        h2 { font-weight: 600; line-height: 1.3; font-size: 1.1em; }
+
+        .sources, #status { color: var(--tg-theme-hint-color); }
+        .sources { font-size: .78em; margin-top: 3px; opacity: .65; }
+        #status { font-size: .82em; text-align: center; padding: 36px 0; }
+
+        article.high { border: 2px solid #ff3b30; }
+        article.medium { border: 2px solid #f1c40f; }
+        article.low { border: 2px solid #888; }
+        article.quake { border: 2px dashed #f1c40f; }
+        article.quake-high { border: 2px dashed #ff3b30; }
+        article[onclick] { cursor: pointer; }
+    </style>
+</head>
+
+<body>
+    <div class="row">
+        <select id="topic">
+            <option value="finance">Finance</option>
+            <option value="gaming">Gaming</option>
+            <option value="japan">Japan</option>
+            <option value="tech">Tech</option>
+        </select>
+        <select id="lang">
+            <option value="en">English</option>
+            <option value="es">Español</option>
+            <option value="jp">日本語</option>
+        </select>
+    </div>
+    <main id="feed">
+        <div id="status">Loading…</div>
+    </main>
+    <script>
+        const BASE = 'https://raw.githubusercontent.com/SegoCode/NewsBucket/main/code/rss_output_cluster';
+        const QUAKE = 'https://www.jma.go.jp/bosai/quake/data/list.json';
+        const tg = window.Telegram?.WebApp;
+        const feed = document.getElementById('feed');
+        const $topic = document.querySelector('#topic');
+        const $lang = document.querySelector('#lang');
+
+        try {
+            const saved = JSON.parse(localStorage.getItem('nb') || '{}');
+            if (saved.t) $topic.value = saved.t;
+            if (saved.l) $lang.value = saved.l;
+        } catch {}
+
+        function render(data) {
+            if (!data.length) { feed.innerHTML = '<div id="status">No news</div>'; return; }
+            feed.innerHTML = data.map(item => {
+                const count = item.count || item.source.length;
+                const cls = item.cls || (count > 4 ? 'high' : count >= 3 ? 'medium' : 'low');
+                const onclick = item.url ? ` onclick="window.open('${item.url}')"` : '';
+                return `<article class="${cls}"${onclick}><h2>${item.title}</h2><div class="sources">${item.source.join(' · ')}</div></article>`;
+            }).join('');
+        }
+
+        async function load() {
+            feed.innerHTML = '<div id="status">Loading…</div>';
+            let items = [];
+            try {
+                const res = await fetch(`${BASE}/rss_${$topic.value}_clusters_${$lang.value}.json`);
+                if (res.ok) items = await res.json();
+            } catch {}
+            if ($topic.value === 'japan') {
+                try {
+                    const res = await fetch(QUAKE);
+                    if (res.ok) {
+                        const q = (await res.json())[0];
+                        if (q) {
+                            const c = q.cod.match(/[+-]\d+\.?\d*/g);
+                            const url = `geo:${c[0]},${c[1]}?q=${c[0]},${c[1]}`;
+                            items.unshift({ title: `M${q.mag} | ${$lang.value === 'jp' ? q.anm : q.en_anm}`, source: ['JMA'], cls: parseFloat(q.mag) >= 4 ? 'quake-high' : 'quake', url });
+                        }
+                    }
+                } catch {}
+            }
+            render(items);
+        }
+
+        function onChange() {
+            try { localStorage.setItem('nb', JSON.stringify({ t: $topic.value, l: $lang.value })); } catch {}
+            if (tg) tg.HapticFeedback.selectionChanged();
+            load();
+        }
+
+        $topic.onchange = onChange;
+        $lang.onchange = onChange;
+
+        if (tg) {
+            tg.ready();
+            tg.expand();
+            tg.disableVerticalSwipes();
+            try { tg.setHeaderColor('secondary_bg_color'); } catch {}
+            tg.MainButton.setParams({ text: 'Refresh' });
+            tg.MainButton.onClick(() => {
+                tg.HapticFeedback.impactOccurred('heavy');
+        load();
+            });
+            tg.MainButton.show();
+        }
+
+        load();
+    </script>
+</body>
+
+</html>
