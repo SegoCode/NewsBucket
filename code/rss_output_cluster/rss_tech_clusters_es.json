@@ -1,38 +1,7 @@
 [
   {
-    "title": "Valve revela el precio de su Steam Machine (más de 1000 dólares) y defiende su estrategia",
-    "summary": "La compañía justifica el elevado precio como necesario para mantener el ecosistema abierto, mientras los consumidores buscan alternativas más económicas.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com",
-      "/r/technology",
-      "alternativeto.net"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Meta lanza unas gafas inteligentes más asequibles sin la colaboración de Ray-Ban",
-    "summary": "Las nuevas gafas de realidad aumentada prescinden de la marca de lujo para reducir costes y atraer a los escépticos.",
-    "source": [
-      "xataka.com",
-      "techcrunch.com",
-      "fastcompany.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Europa sufre una ola de calor extrema que derrite carreteras y obliga a cancelar eventos",
-    "summary": "Las temperaturas récord causan daños en infraestructuras y provocan la suspensión de conferencias, mientras los expertos piden precaución.",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com",
-      "fastcompany.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El modelo de IA Mythos descubre una fuga de memoria histórica y es bloqueado por Trump",
-    "summary": "Mythos también es superado en benchmarks por GPT-5.5-Cyber y Fugu de Sakana AI, en un momento clave para la ciberseguridad.",
+    "title": "Mythos, la inteligencia artificial que descubrió una fuga de memoria y fue bloqueada por Trump",
+    "summary": "El modelo Mythos ha sido noticia por detectar la vulnerabilidad 'Squidbleed', por la orden de Trump de bloquear su acceso a sistemas clasificados y por superar pruebas de ciberseguridad frente a otros modelos.",
     "source": [
       "/r/technology",
       "elchapuzasinformatico.com",
@@ -41,8 +10,17 @@
     "count": 3
   },
   {
-    "title": "OpenAI Codex genera escrituras masivas en SSD que pueden costar millones",
-    "summary": "Un error provoca hasta 640 TB de escrituras anuales, reduciendo drásticamente la vida útil de los discos.",
+    "title": "China presenta el supercomputador más potente del mundo, superando a Estados Unidos",
+    "summary": "El nuevo superordenador chino encabeza la lista de los más rápidos del planeta, marcando un hito en la carrera tecnológica.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve expande SteamOS a hardware de Intel, AMD y Nvidia",
+    "summary": "Valve colabora con los principales fabricantes de chips para que SteamOS funcione en cualquier PC, no solo en equipos AMD.",
     "source": [
       "/r/technology",
       "elchapuzasinformatico.com"
@@ -50,8 +28,17 @@
     "count": 2
   },
   {
-    "title": "Meta crea su propia aplicación de mercados de predicción por orden de Zuckerberg",
-    "summary": "La empresa busca competir con Polymarket ofreciendo apuestas sobre eventos reales.",
+    "title": "Valve justifica el precio de 1050 dólares de la Steam Machine",
+    "summary": "La compañía afirma que el elevado costo es necesario para mantener el ecosistema de PC abierto y no subsidia el dispositivo.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta desarrolla su propia aplicación de mercados de predicción",
+    "summary": "Mark Zuckerberg ha ordenado la creación de una app de apuestas sobre eventos, similar a Polymarket, para Meta.",
     "source": [
       "techcrunch.com",
       "/r/technology"
@@ -59,17 +46,26 @@
     "count": 2
   },
   {
-    "title": "Oracle despide a 21.000 empleados para apostar por la inteligencia artificial",
-    "summary": "La compañía sustituye puestos humanos por automatización basada en IA, reduciendo su plantilla en un 20%.",
+    "title": "Meta lanza gafas inteligentes económicas sin la colaboración de Ray-Ban",
+    "summary": "Las nuevas Meta Glasses prescinden de la marca Ray-Ban para reducir costes y llegar a más usuarios.",
     "source": [
-      "fastcompany.com",
-      "/r/technology"
+      "xataka.com",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "LastPass sufre una filtración de datos de soporte tras un ataque a su proveedor Klue",
-    "summary": "Los atacantes aprovecharon credenciales robadas en 2022 para acceder a información de clientes.",
+    "title": "FUTO Swipe, un nuevo teclado por deslizamiento para dispositivos móviles",
+    "summary": "La aplicación de escritura por gestos promete una experiencia más rápida y precisa que los teclados tradicionales.",
+    "source": [
+      "producthunt.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "LastPass sufre una filtración de datos por un ataque a la plataforma Klue",
+    "summary": "Los datos de soporte y credenciales de clientes de LastPass quedaron expuestos debido a una brecha en la cadena de suministro de Klue.",
     "source": [
       "/r/technology",
       "techcrunch.com"
@@ -77,107 +73,100 @@
     "count": 2
   },
   {
-    "title": "Polymarket pagó a influencers para simular apuestas ganadoras y engañar al público",
-    "summary": "La plataforma de predicción creó una red de sitios falsos para promocionar vídeos engañosos sobre supuestas victorias.",
+    "title": "Prime Day: las mejores ofertas en tecnología de Amazon",
+    "summary": "Smartwatches, periféricos, televisores y mini-PC son algunos de los productos con descuento durante el Prime Day.",
     "source": [
-      "/r/technology",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El fundador de JD.com afirma que los robots reemplazarán a 700.000 repartidores",
-    "summary": "Richard Liu pronostica la automatización total del reparto, eliminando la necesidad de trabajadores humanos.",
-    "source": [
-      "/r/technology",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung presenta UFS 5.0, almacenamiento ultrarrápido para IA en móviles",
-    "summary": "La nueva memoria alcanza velocidades de 10,8 GB/s, mejorando el rendimiento de aplicaciones de inteligencia artificial.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft forzará la instalación automática de la app de Copilot 365 en Windows 11",
-    "summary": "Los usuarios no podrán rechazar la aplicación del asistente AI, según múltiples fuentes.",
-    "source": [
-      "/r/technology",
+      "xataka.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "SpaceX recauda 25.000 millones en deuda y sus acciones caen por debajo del precio de salida",
-    "summary": "La empresa espacial enfrenta un inicio bursátil turbulento con pérdidas para los inversores minoristas.",
+    "title": "Europa enfrenta una ola de calor extrema con temperaturas récord",
+    "summary": "La ola de calor provoca carreteras derretidas en Francia y expertos recomiendan cambiar las estrategias de refrigeración en los hogares.",
     "source": [
-      "/r/technology",
+      "xataka.com",
       "fastcompany.com"
     ],
     "count": 2
   },
   {
-    "title": "El precio de la memoria RAM se dispara hasta un 89% y Valve critica a los fabricantes",
-    "summary": "Los módulos LPDDR5X y SSD alcanzan precios récord, mientras Valve denuncia que no tiene margen de negociación.",
+    "title": "Oracle despide a 21.000 empleados y apuesta por la inteligencia artificial",
+    "summary": "La compañía de software reemplaza gran parte de su fuerza laboral humana con tecnología de IA en una reestructuración masiva.",
     "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Los unicornios zombi y la caída de las tecnológicas en Wall Street reflejan la fragilidad del sector",
-    "summary": "Las valoraciones infladas del pasado generan empresas sin salida, y el mercado de chips muestra signos de burbuja.",
-    "source": [
-      "/r/technology",
       "fastcompany.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Five Eyes alerta sobre ciberataques con IA y Trump ordena migrar a criptografía post-cuántica",
-    "summary": "Las agencias de inteligencia advierten que la IA permitirá ataques masivos, mientras EE.UU. se prepara para el futuro cuántico.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La ONU exige transparencia a las empresas de IA ante el riesgo de manipulación electoral",
-    "summary": "El secretario general pide que las compañías revelen su impacto ambiental, mientras surgen denuncias sobre injerencia electoral.",
-    "source": [
-      "/r/technology",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "FortiBleed: 110 millones de credenciales robadas en un ataque a firewalls FortiGate",
-    "summary": "Los hackers explotaron vulnerabilidades para acceder a bases de datos de autenticación a nivel global.",
+    "title": "Trump ordena la migración a criptografía post-cuántica antes de 2030",
+    "summary": "Una orden ejecutiva exige a las agencias federales actualizar sus sistemas criptográficos para defenderse de futuros ataques cuánticos.",
     "source": [
       "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "Toyota y Nissan admiten que sus coches fabricados en EE.UU. no cumplen los estándares japoneses",
-    "summary": "Los fabricantes reconocen diferencias de calidad entre sus plantas americanas y las de Japón.",
+    "title": "Five Eyes alerta de ataques inminentes de IA en ciberseguridad",
+    "summary": "La alianza de inteligencia advierte que los ataques basados en inteligencia artificial podrían ocurrir en cuestión de meses y pide parches rápidos.",
+    "source": [
+      "elchapuzasinformatico.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SpaceX recauda 25.000 millones en deuda y sus acciones caen por debajo del precio de salida",
+    "summary": "La empresa espacial enfrenta turbulencias financieras: emite deuda por 25.000 millones y sus títulos caen por debajo de los 150 dólares.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "China supera a Estados Unidos con el superordenador más rápido del mundo",
-    "summary": "El nuevo sistema chino desbanca a las máquinas estadounidenses en la lista de los más potentes.",
+    "title": "Meta pausa el seguimiento de teclas de sus empleados para entrenar IA",
+    "summary": "La empresa detiene la recopilación de datos de tecleo después de que una filtración interna revelara la práctica.",
     "source": [
-      "elchapuzasinformatico.com"
+      "fastcompany.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El 47% de los estudiantes de Harvard admite haber hecho trampa",
+    "summary": "Una encuesta revela una alta tasa de deshonestidad académica en la universidad, un problema que existía antes de ChatGPT.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El 60% del contenido en TikTok es generado por inteligencia artificial de baja calidad",
+    "summary": "Un estudio señala que la mayoría de los vídeos en TikTok son 'basura AI', mientras que en YouTube representan el 21%.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Polymarket pagó a influencers para fingir apuestas ganadoras y promocionarse",
+    "summary": "La plataforma de apuestas creó sitios web falsos y pagó a personas influyentes para simular victorias y atraer usuarios.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El cofundador de Wikipedia, Larry Sanger, es expulsado por hacer campaña política",
+    "summary": "Sanger fue bloqueado del sitio por intentar crear un grupo de presión conservador dentro de la enciclopedia.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Madison Square Garden elaboró un dossier sobre activistas críticos con el reconocimiento facial",
+    "summary": "El documento recopilaba comentarios y tuits de opositores al sistema de identificación biométrica del estadio.",
+    "source": [
+      "/r/technology"
     ],
     "count": 1
   }

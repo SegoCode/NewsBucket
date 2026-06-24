@@ -1,38 +1,7 @@
 [
   {
-    "title": "Valve reveals price of its Steam Machine (over $1000) and defends its strategy",
-    "summary": "The company justifies the high price as necessary to maintain an open ecosystem, while consumers look for cheaper alternatives.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com",
-      "/r/technology",
-      "alternativeto.net"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Meta launches more affordable smart glasses without Ray-Ban collaboration",
-    "summary": "The new augmented reality glasses do without the luxury brand to reduce costs and attract skeptics.",
-    "source": [
-      "xataka.com",
-      "techcrunch.com",
-      "fastcompany.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Europe suffers extreme heat wave that melts roads and forces cancellation of events",
-    "summary": "Record temperatures cause infrastructure damage and lead to conference suspensions, as experts urge caution.",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com",
-      "fastcompany.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AI model Mythos discovers historical memory leak and is blocked by Trump",
-    "summary": "Mythos is also surpassed in benchmarks by GPT-5.5-Cyber and Fugu from Sakana AI, at a key moment for cybersecurity.",
+    "title": "Mythos, the artificial intelligence that discovered a memory leak and was blocked by Trump",
+    "summary": "The Mythos model has been in the news for detecting the 'Squidbleed' vulnerability, for Trump's order to block its access to classified systems, and for passing cybersecurity tests against other models.",
     "source": [
       "/r/technology",
       "elchapuzasinformatico.com",
@@ -41,8 +10,17 @@
     "count": 3
   },
   {
-    "title": "OpenAI Codex generates massive SSD writes that could cost millions",
-    "summary": "A bug causes up to 640 TB of writes per year, drastically reducing disk lifespan.",
+    "title": "China presents the most powerful supercomputer in the world, surpassing the United States",
+    "summary": "The new Chinese supercomputer tops the list of the fastest on the planet, marking a milestone in the technological race.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve expands SteamOS to Intel, AMD and Nvidia hardware",
+    "summary": "Valve collaborates with major chip manufacturers so that SteamOS works on any PC, not just AMD machines.",
     "source": [
       "/r/technology",
       "elchapuzasinformatico.com"
@@ -50,8 +28,17 @@
     "count": 2
   },
   {
-    "title": "Meta creates its own prediction market app on Zuckerberg's orders",
-    "summary": "The company aims to compete with Polymarket by offering bets on real events.",
+    "title": "Valve justifies the $1050 price of the Steam Machine",
+    "summary": "The company states that the high cost is necessary to maintain the open PC ecosystem and does not subsidize the device.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta develops its own prediction markets application",
+    "summary": "Mark Zuckerberg has ordered the creation of an event betting app, similar to Polymarket, for Meta.",
     "source": [
       "techcrunch.com",
       "/r/technology"
@@ -59,17 +46,26 @@
     "count": 2
   },
   {
-    "title": "Oracle lays off 21,000 employees to bet on artificial intelligence",
-    "summary": "The company replaces human positions with AI-based automation, reducing its workforce by 20%.",
+    "title": "Meta launches affordable smart glasses without Ray-Ban collaboration",
+    "summary": "The new Meta Glasses do without the Ray-Ban brand to reduce costs and reach more users.",
     "source": [
-      "fastcompany.com",
-      "/r/technology"
+      "xataka.com",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "LastPass suffers support data breach after attack on its provider Klue",
-    "summary": "Attackers exploited credentials stolen in 2022 to access customer information.",
+    "title": "FUTO Swipe, a new swipe keyboard for mobile devices",
+    "summary": "The gesture typing app promises a faster and more accurate experience than traditional keyboards.",
+    "source": [
+      "producthunt.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "LastPass suffers data leak due to attack on Klue platform",
+    "summary": "LastPass support data and customer credentials were exposed due to a breach in Klue's supply chain.",
     "source": [
       "/r/technology",
       "techcrunch.com"
@@ -77,107 +73,100 @@
     "count": 2
   },
   {
-    "title": "Polymarket paid influencers to simulate winning bets and deceive the public",
-    "summary": "The prediction platform created a network of fake sites to promote misleading videos about supposed victories.",
+    "title": "Prime Day: the best deals on Amazon technology",
+    "summary": "Smartwatches, peripherals, televisions and mini-PCs are some of the discounted products during Prime Day.",
     "source": [
-      "/r/technology",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "JD.com founder claims robots will replace 700,000 delivery workers",
-    "summary": "Richard Liu forecasts total automation of delivery, eliminating the need for human workers.",
-    "source": [
-      "/r/technology",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung unveils UFS 5.0, ultra-fast storage for AI on mobile",
-    "summary": "The new memory reaches speeds of 10.8 GB/s, improving performance of AI applications.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft will force automatic installation of Copilot 365 app on Windows 11",
-    "summary": "Users will not be able to refuse the AI assistant app, according to multiple sources.",
-    "source": [
-      "/r/technology",
+      "xataka.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "SpaceX raises $25 billion in debt and its shares fall below IPO price",
-    "summary": "The space company faces a turbulent stock market debut with losses for retail investors.",
+    "title": "Europe faces extreme heat wave with record temperatures",
+    "summary": "The heat wave causes melted roads in France and experts recommend changing cooling strategies in homes.",
     "source": [
-      "/r/technology",
+      "xataka.com",
       "fastcompany.com"
     ],
     "count": 2
   },
   {
-    "title": "RAM prices soar up to 89% and Valve criticizes manufacturers",
-    "summary": "LPDDR5X and SSD modules reach record prices, while Valve complains it has no bargaining power.",
+    "title": "Oracle lays off 21,000 employees and bets on artificial intelligence",
+    "summary": "The software company replaces much of its human workforce with AI technology in a massive restructuring.",
     "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Zombie unicorns and the fall of tech stocks on Wall Street reflect sector fragility",
-    "summary": "Inflated valuations from the past create companies with no exit, and the chip market shows signs of a bubble.",
-    "source": [
-      "/r/technology",
       "fastcompany.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Five Eyes warns about AI cyberattacks and Trump orders migration to post-quantum cryptography",
-    "summary": "Intelligence agencies warn that AI will enable massive attacks, as the US prepares for the quantum future.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "UN demands transparency from AI companies over risk of electoral manipulation",
-    "summary": "The Secretary General asks companies to disclose their environmental impact, as allegations of electoral interference emerge.",
-    "source": [
-      "/r/technology",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "FortiBleed: 110 million credentials stolen in attack on FortiGate firewalls",
-    "summary": "Hackers exploited vulnerabilities to access authentication databases globally.",
+    "title": "Trump orders migration to post-quantum cryptography before 2030",
+    "summary": "An executive order requires federal agencies to update their cryptographic systems to defend against future quantum attacks.",
     "source": [
       "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "Toyota and Nissan admit their cars made in the US do not meet Japanese standards",
-    "summary": "Manufacturers acknowledge quality differences between their American and Japanese plants.",
+    "title": "Five Eyes warns of imminent AI attacks in cybersecurity",
+    "summary": "The intelligence alliance warns that AI-based attacks could occur within months and asks for quick patches.",
+    "source": [
+      "elchapuzasinformatico.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SpaceX raises $25 billion in debt and its shares fall below the launch price",
+    "summary": "The space company faces financial turmoil: it issues $25 billion in debt and its securities fall below $150.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "China surpasses the US with the world's fastest supercomputer",
-    "summary": "The new Chinese system dethrones American machines on the list of the most powerful.",
+    "title": "Meta pauses tracking of employees' keystrokes to train AI",
+    "summary": "The company stops collecting typing data after an internal leak revealed the practice.",
     "source": [
-      "elchapuzasinformatico.com"
+      "fastcompany.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "47% of Harvard students admit to having cheated",
+    "summary": "A survey reveals a high rate of academic dishonesty at the university, a problem that existed before ChatGPT.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "60% of content on TikTok is generated by low-quality artificial intelligence",
+    "summary": "A study indicates that most videos on TikTok are 'AI junk', while on YouTube they represent 21%.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Polymarket paid influencers to fake winning bets and promote itself",
+    "summary": "The betting platform created fake websites and paid influencers to simulate victories and attract users.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Wikipedia co-founder Larry Sanger expelled for political campaigning",
+    "summary": "Sanger was blocked from the site for trying to create a conservative pressure group within the encyclopedia.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Madison Square Garden compiled a dossier on activists critical of facial recognition",
+    "summary": "The document collected comments and tweets from opponents of the stadium's biometric identification system.",
+    "source": [
+      "/r/technology"
     ],
     "count": 1
   }

@@ -1,38 +1,7 @@
 [
   {
-    "title": "ValveがSteam Machineの価格（1000ドル以上）を発表、戦略を擁護",
-    "summary": "同社は、オープンなエコシステムを維持するために高い価格が必要だと正当化する一方、消費者はより経済的な代替品を求めている。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com",
-      "/r/technology",
-      "alternativeto.net"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Meta、Ray-Banとの提携なしでより手頃なスマートグラスを発売",
-    "summary": "新しい拡張現実グラスは、コストを削減し懐疑的な人々を惹きつけるために、高級ブランドを排除している。",
-    "source": [
-      "xataka.com",
-      "techcrunch.com",
-      "fastcompany.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "欧州、記録的な熱波で道路が溶け、イベント中止に追い込まれる",
-    "summary": "記録的な気温がインフラに被害をもたらし、会議の中止を引き起こす一方、専門家は注意を呼びかけている。",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com",
-      "fastcompany.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AIモデルMythosが歴史的なメモリリークを発見、トランプによってブロックされる",
-    "summary": "Mythosはまた、サイバーセキュリティにとって重要な時期に、GPT-5.5-CyberやSakana AIのFuguにベンチマークで凌駕されている。",
+    "title": "Mythos、メモリーリークを発見しトランプによってブロックされた人工知能",
+    "summary": "Mythosモデルは、脆弱性「Squidbleed」を検出したこと、トランプが機密システムへのアクセスを遮断するよう命じたこと、そして他のモデルよりもサイバーセキュリティテストに合格したことで話題になりました。",
     "source": [
       "/r/technology",
       "elchapuzasinformatico.com",
@@ -41,8 +10,17 @@
     "count": 3
   },
   {
-    "title": "OpenAI Codex、SSDに大量書き込みを発生、数百万ドルのコストになる可能性",
-    "summary": "あるバグにより年間最大640TBの書き込みが発生し、ディスクの寿命を大幅に短縮している。",
+    "title": "中国、世界最強のスーパーコンピュータを発表、米国を凌駕",
+    "summary": "新しい中国のスーパーコンピュータが世界最速のリストのトップに立ち、技術競争においてマイルストーンを刻んだ。",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve、SteamOSをIntel、AMD、Nvidiaのハードウェアに拡大",
+    "summary": "Valveは主要なチップメーカーと協力して、SteamOSがAMD搭載機だけでなくあらゆるPCで動作するようにしている。",
     "source": [
       "/r/technology",
       "elchapuzasinformatico.com"
@@ -50,8 +28,17 @@
     "count": 2
   },
   {
-    "title": "Meta、ザッカーバーグの指示で独自の予測市場アプリを開発",
-    "summary": "同社は実際のイベントに関する賭けを提供することでPolymarketと競合しようとしている。",
+    "title": "Valve、Steam Machineの1050ドルの価格を正当化",
+    "summary": "同社は、高額なコストはPCエコシステムをオープンに保つために必要であり、同デバイスを補助金で支えているわけではないと主張している。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta、独自の予測市場アプリを開発",
+    "summary": "マーク・ザッカーバーグは、Meta向けにPolymarket類似のイベント賭博アプリの作成を命じた。",
     "source": [
       "techcrunch.com",
       "/r/technology"
@@ -59,17 +46,26 @@
     "count": 2
   },
   {
-    "title": "Oracle、AIに注力するため2万1000人の従業員を解雇",
-    "summary": "同社は人間のポジションをAIベースの自動化に置き換え、人員を20%削減している。",
+    "title": "Meta、Ray-Banとの協力なしで低価格スマートグラスを発売",
+    "summary": "新しいMeta Glassesは、コスト削減とより多くのユーザーにリーチするために、Ray-Banブランドを省いている。",
     "source": [
-      "fastcompany.com",
-      "/r/technology"
+      "xataka.com",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "LastPass、プロバイダーKlueへの攻撃によりサポートデータが漏洩",
-    "summary": "攻撃者は2022年に盗まれた認証情報を悪用して顧客情報にアクセスした。",
+    "title": "FUTO Swipe、モバイルデバイス向けの新しいスワイプキーボード",
+    "summary": "ジェスチャー入力アプリは、従来のキーボードよりも速く正確な体験を約束する。",
+    "source": [
+      "producthunt.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "LastPass、Klueプラットフォームへの攻撃によりデータ漏洩",
+    "summary": "LastPassのサポートデータと顧客の認証情報が、Klueのサプライチェーンの侵害により露出した。",
     "source": [
       "/r/technology",
       "techcrunch.com"
@@ -77,107 +73,100 @@
     "count": 2
   },
   {
-    "title": "Polymarket、インフルエンサーに報酬を支払い当たりの賭けを偽装、公衆を欺く",
-    "summary": "予測プラットフォームは、架空の勝利に関する誤解を招く動画を宣伝するために偽サイトのネットワークを作成した。",
+    "title": "Prime Day：Amazonでのテクノロジー製品のお得な情報",
+    "summary": "スマートウォッチ、周辺機器、テレビ、ミニPCなどがPrime Day期間中に割引対象となる。",
     "source": [
-      "/r/technology",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "JD.com創業者、ロボットが70万人の配達員に取って代わると発言",
-    "summary": "劉強東氏は配送の完全自動化を予測し、人間の労働者の必要性をなくすとしている。",
-    "source": [
-      "/r/technology",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung、スマホ向けAIのための超高速ストレージUFS 5.0を発表",
-    "summary": "新しいメモリは10.8GB/sの速度を達成し、人工知能アプリケーションのパフォーマンスを向上させる。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、Windows 11でCopilot 365アプリの自動インストールを強制へ",
-    "summary": "複数の情報源によると、ユーザーはAIアシスタントアプリを拒否できない。",
-    "source": [
-      "/r/technology",
+      "xataka.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "SpaceX、250億ドルの負債を調達、株価は公開価格を下回る",
-    "summary": "同宇宙企業は個人投資家に損失をもたらす tumultuousな株式市場デビューに直面している。",
+    "title": "欧州、記録的な気温の猛暑に見舞われる",
+    "summary": "熱波によりフランスでは道路が溶け、専門家は家庭の冷却戦略を変更するよう推奨している。",
     "source": [
-      "/r/technology",
+      "xataka.com",
       "fastcompany.com"
     ],
     "count": 2
   },
   {
-    "title": "RAM価格が最大89%急騰、Valveがメーカーを批判",
-    "summary": "LPDDR5XモジュールとSSDは過去最高値に達する一方、Valveは交渉の余地がないと非難している。",
+    "title": "Oracle、21,000人の従業員を解雇し人工知能に注力",
+    "summary": "ソフトウェア会社は大規模な再編成で、人間の労働力の多くをAI技術に置き換えている。",
     "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ゾンビユニコーンとウォール街のハイテク株安が業界の脆弱性を反映",
-    "summary": "過去の過大評価が出口のない企業を生み出し、半導体市場はバブルの兆候を示している。",
-    "source": [
-      "/r/technology",
       "fastcompany.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Five EyesがAIによるサイバー攻撃を警告、トランプはポスト量子暗号への移行を命令",
-    "summary": "諜報機関はAIが大規模な攻撃を可能にすると警告する一方、米国は量子の未来に備えている。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "国連、選挙操作のリスクを前にAI企業に透明性を要求",
-    "summary": "事務総長は企業に環境影響を開示するよう求める一方、選挙介入に関する告発が浮上している。",
-    "source": [
-      "/r/technology",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "FortiBleed：FortiGateファイアウォールへの攻撃で1億1000万件の認証情報が盗まれる",
-    "summary": "ハッカーは脆弱性を悪用し、世界中の認証データベースにアクセスした。",
+    "title": "トランプ、2030年までに耐量子暗号への移行を命令",
+    "summary": "大統領令は、連邦政府機関に将来の量子攻撃に備えて暗号システムを更新するよう要求している。",
     "source": [
       "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "トヨタと日産、米国生産車が日本の基準を満たしていないと認める",
-    "summary": "両社は米国工場と日本工場の間に品質の違いがあることを認めている。",
+    "title": "Five Eyes、サイバーセキュリティにおける差し迫ったAI攻撃を警告",
+    "summary": "情報同盟は、AIベースの攻撃が数ヶ月以内に発生する可能性があると警告し、迅速なパッチ適用を求めている。",
+    "source": [
+      "elchapuzasinformatico.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SpaceX、250億ドルの債務を調達し株価が公開価格を下回る",
+    "summary": "宇宙企業は財務の混乱に直面：250億ドルの債務を発行し、株価は150ドルを下回る。",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "中国、世界最速のスーパーコンピュータで米国を凌駕",
-    "summary": "新しい中国のシステムが、最も強力なマシンのリストで米国のマシンを追い抜いた。",
+    "title": "Meta、AIトレーニングのための従業員のキー入力追跡を一時停止",
+    "summary": "内部リークがこの慣行を明らかにした後、同社はキー入力データの収集を停止した。",
     "source": [
-      "elchapuzasinformatico.com"
+      "fastcompany.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ハーバード大学の学生の47%が不正行為を認める",
+    "summary": "調査により、同大学の学術不正の高い割合が明らかになった。これはChatGPT以前から存在していた問題である。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "TikTokのコンテンツの60%は低品質の人工知能によって生成されている",
+    "summary": "ある研究によると、TikTokの動画の大部分は「AIゴミ」であり、YouTubeでは21%を占めている。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Polymarket、インフルエンサーに金を払い当たり馬券を偽装して宣伝",
+    "summary": "賭博プラットフォームは偽のウェブサイトを作成し、インフルエンサーに金を払って勝利をシミュレートしユーザーを引き付けた。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ウィキペディアの共同創設者ラリー・サンガー、政治運動により追放",
+    "summary": "サンガーは百科事典内に保守派の圧力団体を作ろうとしたため、サイトからブロックされた。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "マディソン・スクエア・ガーデン、顔認識に批判的な活動家の資料を作成",
+    "summary": "この文書は、スタジアムの生体認証システムに反対する人々のコメントやツイートを収集したものだった。",
+    "source": [
+      "/r/technology"
     ],
     "count": 1
   }
