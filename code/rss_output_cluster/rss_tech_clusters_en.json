@@ -1,100 +1,57 @@
 [
   {
-    "title": "Digital platforms implement new regulations and artificial intelligence features",
-    "summary": "The United Kingdom bans social media for minors under 16, Discord tests age verification, HBO Max uses AI for advertisements, and Apple adds AI features to iOS.",
+    "title": "Slate Auto launches a radically simple electric pickup truck from $24,950",
+    "summary": "The vehicle lacks a radio and electric windows to achieve a disruptive price and minimalist design.",
     "source": [
-      "/r/technology",
       "news.ycombinator.com",
       "techcrunch.com",
-      "bandaancha.eu",
-      "wired.com"
+      "/r/technology",
+      "fastcompany.com"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "Technological competition between China and the United States intensifies on several fronts",
-    "summary": "China launches an AI model, dominates in robotaxis, publishes a manual for attacking aircraft carriers, and prepares orbital data centers, while restricting critical materials to the US.",
+    "title": "China unveils the Lineshine supercomputer, the most powerful machine in the world",
+    "summary": "The system reaches 2,198 exaflops on the TOP500 list, surpassing the United States at the top of high-performance computing.",
     "source": [
-      "/r/technology",
-      "techcrunch.com",
       "xataka.com",
+      "kite.kagi.com",
       "elchapuzasinformatico.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Debates and news in the artificial intelligence industry",
-    "summary": "Executives like Nadella, LeCun, and Altman discuss the future of AI, while Anthropic faces regulation, Claude adds identity verification, and AWS launches services for AI agents.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Artificial intelligence in education raises concerns and restrictions",
-    "summary": "Norway bans AI in primary school, a study indicates it does more harm than good, and it is found to inflate grades by promoting outsourced work.",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com",
-      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "Growing rejection of artificial intelligence in society and businesses",
-    "summary": "Americans turn against AI, companies limit its use due to costs, dating apps reject it, and Tim Ferriss says AI is killing his books.",
+    "title": "Anthropic launches Claude Tag to integrate its AI into Slack",
+    "summary": "The tool already writes 65% of companies' internal code and promises to transform collaboration from instant messaging.",
     "source": [
-      "/r/technology",
+      "the-decoder.com",
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "RAM prices skyrocket in the second quarter of 2026",
+    "summary": "LPDDR5X modules rise 89% and SSDs 54%, as the industry awaits Micron's results to gauge demand.",
+    "source": [
+      "elchapuzasinformatico.com",
       "fastcompany.com",
       "xataka.com"
     ],
     "count": 3
   },
   {
-    "title": "News in the video game industry: from Half-Life 3 to a free strategy game",
-    "summary": "Valve hints at Half-Life 3 with a message in Dota 2, the Oliver Kahn lawsuit against EA is recalled, and Beyond All Reason, a free RTS inspired by Total Annihilation, is released.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Labor and economic trends: automation, bonuses, and changes in work",
-    "summary": "GM lays off workers and adds robots, Meta acknowledges low morale, AI creates two-speed labor, bonuses in South Korea generate inflation, and more fathers become primary caregivers.",
-    "source": [
-      "/r/technology",
-      "xataka.com",
-      "fastcompany.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AI and entertainment: from concerts with AirPods to psychological principles in football",
-    "summary": "Concert attendees use AirPods as earplugs, soccer players apply psychological principles, and actors distance themselves from Peter Thiel at a conference.",
+    "title": "GTA VI captures attention amid leaks and official pricing of its editions",
+    "summary": "Rockstar confirms the game's editions and warns about scams, while the physical version will come with a download code instead of a disc.",
     "source": [
       "xataka.com",
-      "fastcompany.com",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Polymarket accused of paying for misleading videos about fake bets",
-    "summary": "The prediction platform Polymarket allegedly paid creators to spread fake videos of winning bets to boost its growth.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "The high cost of memory affects smartphone manufacturers like Nothing and Apple",
-    "summary": "Nothing cancels new CMF smartphones due to memory costs, while Apple indicates it will raise prices for the same reason.",
+    "title": "Meta launches $299 smart glasses without the Ray-Ban brand",
+    "summary": "The new device seeks to cut costs by removing the association with Luxottica to democratize augmented reality.",
     "source": [
       "elchapuzasinformatico.com",
       "kite.kagi.com"
@@ -102,62 +59,80 @@
     "count": 2
   },
   {
-    "title": "Governments and technology: surveillance, leaks, and military defense with AI",
-    "summary": "Kansas City installs facial recognition on buses, Canada spends millions on Palantir, Texas suffers a massive leak, and the US prepares anti-aircraft lasers using drone footage from Ukraine.",
-    "source": [
-      "/r/technology",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Experimentation with open-source and local artificial intelligence models",
-    "summary": "Researchers test local models like Qwen and Apertus, Microsoft creates an LLM in Age of Empires, and the advantage of open models over proprietary ones is defended.",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hardware news: from durable graphics cards to new AI CPUs",
-    "summary": "The RTX 4070 and 5090 show durability, Rokid glasses offer good navigation, Intel launches Raptor Lake with 24 cores and prepares ACE with AMD to accelerate AI on CPUs.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Advances and discoveries in health and science: from Moderna's approval to meteorites",
-    "summary": "The FDA approves Moderna's vaccine, Ozempic reduces impulsivity, a meteorite is discovered at Russian Customs, and Earth receives radioactive rain from supernovae.",
+    "title": "Meta develops its own prediction market with the Arena app",
+    "summary": "Mark Zuckerberg's initiative forgoes monetary bets to integrate a forecasting system into the company's ecosystem.",
     "source": [
       "news.ycombinator.com",
-      "xataka.com"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Business news: Airbnb, Tesla, SpaceX, Ubisoft, and Microsoft",
-    "summary": "Airbnb rejects restrictions in Sydney, a Tesla on autopilot kills a woman, SpaceX receives low ESG rating, the co-founder of Ubisoft passes away, and Microsoft optimizes Windows search.",
+    "title": "LastPass suffers a new data breach due to a supply chain attack on Klue",
+    "summary": "Hackers stole customer service information by exploiting a credential compromised since 2022.",
     "source": [
-      "/r/technology",
+      "alternativeto.net",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Reflections and analysis on technology, programming, and society",
-    "summary": "Various articles cover topics from programming in 1992 to the ethics of big tech, including rent in New York, the truth about employment fraud, and the utility of AI models.",
+    "title": "Mistral launches its OCR 4 model with multilingual document extraction",
+    "summary": "The new AI tool outperforms competitors in 72% of test cases.",
     "source": [
-      "news.ycombinator.com",
-      "/r/technology"
+      "alternativeto.net",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Offers and resources for downloading software and devices",
-    "summary": "Safe websites for downloading apps are recommended, Office 2024 is offered at a low price, and Amazon device deals are highlighted before Prime Day.",
+    "title": "Valve expands SteamOS to all PC hardware and launches new Steam Machines",
+    "summary": "The company works with Intel, AMD, and Nvidia to make its system universal, with a console from $1,049.",
+    "source": [
+      "/r/technology",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Trump orders migration to post-quantum cryptography before 2030",
+    "summary": "An executive order sets imminent deadlines for the federal government to update its systems in the face of the quantum threat.",
+    "source": [
+      "kite.kagi.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "United States blocks Mythos AI for violating classified systems",
+    "summary": "The AI discovered a massive memory leak undetected since the Clinton era, prompting drastic national security measures.",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The race for AI chips accelerates with new alliances and multi-billion dollar acquisitions",
+    "summary": "OpenAI presents its own chip with Broadcom, and Qualcomm acquires startup Modular for nearly $4 billion.",
+    "source": [
+      "the-decoder.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "FUTO Swipe presents an open-source predictive swipe keyboard",
+    "summary": "The new tool aims to offer a modern and efficient alternative for typing on mobile devices.",
+    "source": [
+      "producthunt.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Europe tightens the noose on Chinese digital commerce and distrust of Big Tech",
+    "summary": "A new flat tariff for small packages and the loss of trust in US companies mark the regulatory shift.",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com"
@@ -165,24 +140,40 @@
     "count": 2
   },
   {
-    "title": "Engineering stories: from a missing Boeing to a ship tunnel in Norway",
-    "summary": "A Boeing 727 missing since 2001 remains a mystery, a Roman canal is discovered in Germany, a Chinese farmer builds submarines, and Norway approves the first maritime tunnel.",
+    "title": "Massive sell-off of artificial intelligence stocks shakes global markets",
+    "summary": "Fear of a bubble in the sector causes falls on Wall Street and drags down Asian markets.",
     "source": [
-      "xataka.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Natural and environmental curiosities in the world",
-    "summary": "Singapore boasts about its drinking water, the human body loses appetite with extreme heat, beavers prevent floods in London, and Spain seeks pet-friendly beaches.",
+    "title": "Official White House app automatically downloads on government phones and cannot be uninstalled",
+    "summary": "Federal workers denounce that the software injects 'pure propaganda' while authorities ignore privacy complaints.",
     "source": [
-      "xataka.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Automotive ingenuity of the past: the thermometer in the rearview mirror",
-    "summary": "A historical invention allowed measuring the outside temperature from the car's rearview mirror at a time when having a thermometer was a luxury.",
+    "title": "SpaceX raises $25 billion in debt sale after IPO",
+    "summary": "Elon Musk's company obtains massive funding to boost its space exploration and communications plans.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Five Eyes alliance warns of imminent use of AI in massive cyberattacks",
+    "summary": "Intelligence services warn that AI-powered attacks will occur within months, overwhelming governments and companies.",
+    "source": [
+      "elchapuzasinformatico.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Sweden hampers Tesla's plans to launch autonomous driving in Europe",
+    "summary": "Swedish justice complicates Elon Musk's ambitious plans to implement the Full Self-Driving system across the continent.",
     "source": [
       "xataka.com"
     ],
