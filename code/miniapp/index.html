@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
     <title>NewsBucket</title>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
+
+    <!-- ==================== CSS ==================== -->
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -55,6 +57,7 @@
 </head>
 
 <body>
+    <!-- ==================== HTML ==================== -->
     <div class="row">
         <select id="topic">
             <option value="finance">Finance</option>
@@ -71,6 +74,7 @@
     <main id="feed">
         <div id="status">Loading…</div>
     </main>
+    <!-- ==================== JS ==================== -->
     <script>
         const BASE = 'https://raw.githubusercontent.com/SegoCode/NewsBucket/main/code/rss_output_cluster';
         const QUAKE = 'https://www.jma.go.jp/bosai/quake/data/list.json';
@@ -87,11 +91,15 @@
 
         function render(data) {
             if (!data.length) { feed.innerHTML = '<div id="status">No news</div>'; return; }
-            feed.innerHTML = data.map(item => {
+            const tier = c => c === 'high' || c === 'quake-high' ? 0 : c === 'medium' || c === 'quake' ? 1 : 2;
+            const items = data.map(item => {
                 const count = item.count || item.source.length;
-                const cls = item.cls || (count > 4 ? 'high' : count >= 3 ? 'medium' : 'low');
+                return { ...item, cls: item.cls || (count > 4 ? 'high' : count >= 3 ? 'medium' : 'low') };
+            });
+            items.sort((a, b) => tier(a.cls) - tier(b.cls) || ((a.cls || '').startsWith('quake') ? 0 : 1) - ((b.cls || '').startsWith('quake') ? 0 : 1));
+            feed.innerHTML = items.map(item => {
                 const onclick = item.url ? ` onclick="window.open('${item.url}')"` : '';
-                return `<article class="${cls}"${onclick}><h2>${item.title}</h2><div class="sources">${item.source.join(' · ')}</div></article>`;
+                return `<article class="${item.cls}"${onclick}><h2>${item.title}</h2><div class="sources">${item.source.join(' · ')}</div></article>`;
             }).join('');
         }
 
@@ -110,7 +118,7 @@
                         if (q) {
                             const c = q.cod.match(/[+-]\d+\.?\d*/g);
                             const url = `geo:${c[0]},${c[1]}?q=${c[0]},${c[1]}`;
-                            items.unshift({ title: `M${q.mag} | ${$lang.value === 'jp' ? q.anm : q.en_anm}`, source: ['JMA'], cls: parseFloat(q.mag) >= 4 ? 'quake-high' : 'quake', url });
+                            items.unshift({ title: `M${q.mag} | ${$lang.value === 'jp' ? q.anm : q.en_anm}`, source: ['JMA', new Date(q.at).toLocaleString([], { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' }).replace(',', '')], cls: parseFloat(q.mag) >= 4 ? 'quake-high' : 'quake', url });
                         }
                     }
                 } catch {}
