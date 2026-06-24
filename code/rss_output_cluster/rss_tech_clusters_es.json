@@ -1,62 +1,129 @@
 [
   {
-    "title": "Mythos, la inteligencia artificial que descubrió una fuga de memoria y fue bloqueada por Trump",
-    "summary": "El modelo Mythos ha sido noticia por detectar la vulnerabilidad 'Squidbleed', por la orden de Trump de bloquear su acceso a sistemas clasificados y por superar pruebas de ciberseguridad frente a otros modelos.",
+    "title": "Slate Auto lanza una camioneta eléctrica radicalmente simple desde 24.950 dólares",
+    "summary": "El vehículo carece de radio y elevalucas eléctricos para lograr un precio disruptivo y un diseño minimalista.",
     "source": [
+      "news.ycombinator.com",
+      "techcrunch.com",
       "/r/technology",
-      "elchapuzasinformatico.com",
-      "the-decoder.com"
+      "fastcompany.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "China presenta el superordenador LineShine, la máquina más potente del mundo",
+    "summary": "El sistema alcanza los 2.198 exaflops en la lista TOP500, superando a Estados Unidos en la cima de la computación de alto rendimiento.",
+    "source": [
+      "xataka.com",
+      "kite.kagi.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "China presenta el supercomputador más potente del mundo, superando a Estados Unidos",
-    "summary": "El nuevo superordenador chino encabeza la lista de los más rápidos del planeta, marcando un hito en la carrera tecnológica.",
+    "title": "Anthropic lanza Claude Tag para integrar su inteligencia artificial en Slack",
+    "summary": "La herramienta ya escribe el 65% del código interno de las empresas y promete transformar la colaboración desde la mensajería instantánea.",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
+      "the-decoder.com",
+      "alternativeto.net",
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Valve expande SteamOS a hardware de Intel, AMD y Nvidia",
-    "summary": "Valve colabora con los principales fabricantes de chips para que SteamOS funcione en cualquier PC, no solo en equipos AMD.",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Valve justifica el precio de 1050 dólares de la Steam Machine",
-    "summary": "La compañía afirma que el elevado costo es necesario para mantener el ecosistema de PC abierto y no subsidia el dispositivo.",
+    "title": "Los precios de la memoria RAM se disparan en el segundo trimestre de 2026",
+    "summary": "Los módulos LPDDR5X suben un 89% y los SSD un 54%, mientras la industria espera los resultados de Micron para calibrar la demanda.",
     "source": [
       "elchapuzasinformatico.com",
-      "/r/technology"
+      "fastcompany.com",
+      "xataka.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Meta desarrolla su propia aplicación de mercados de predicción",
-    "summary": "Mark Zuckerberg ha ordenado la creación de una app de apuestas sobre eventos, similar a Polymarket, para Meta.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta lanza gafas inteligentes económicas sin la colaboración de Ray-Ban",
-    "summary": "Las nuevas Meta Glasses prescinden de la marca Ray-Ban para reducir costes y llegar a más usuarios.",
+    "title": "GTA VI acapara la atención entre filtraciones y los precios oficiales de sus ediciones",
+    "summary": "Rockstar confirma las ediciones del juego y advierte sobre estafas, mientras la versión física llegará con un código de descarga en lugar de un disco.",
     "source": [
       "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta lanza unas gafas inteligentes de 299 dólares sin la marca Ray-Ban",
+    "summary": "El nuevo dispositivo busca abaratar costes eliminando la asociación con Luxottica para democratizar la realidad aumentada.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta desarrolla su propio mercado de predicciones con la aplicación Arena",
+    "summary": "La iniciativa de Mark Zuckerberg prescinde de apuestas monetarias para integrar un sistema de pronósticos en el ecosistema de la compañía.",
+    "source": [
+      "news.ycombinator.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "LastPass sufre una nueva filtración de datos por un ataque a la cadena de suministro de Klue",
+    "summary": "Los hackers robaron información de atención al cliente aprovechando una credencial comprometida desde 2022.",
+    "source": [
+      "alternativeto.net",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "FUTO Swipe, un nuevo teclado por deslizamiento para dispositivos móviles",
-    "summary": "La aplicación de escritura por gestos promete una experiencia más rápida y precisa que los teclados tradicionales.",
+    "title": "Mistral lanza su modelo OCR 4 con extracción multilingüe de documentos",
+    "summary": "La nueva herramienta de inteligencia artificial supera a la competencia en el 72% de los casos de prueba.",
+    "source": [
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve expande SteamOS a todo el hardware de PC y lanza nuevas Steam Machines",
+    "summary": "La compañía trabaja con Intel, AMD y Nvidia para hacer su sistema universal, con una consola desde 1.049 dólares.",
+    "source": [
+      "/r/technology",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Trump ordena la migración a criptografía post-cuántica antes de 2030",
+    "summary": "Una orden ejecutiva fija plazos inminentes para que el gobierno federal actualice sus sistemas ante la amenaza cuántica.",
+    "source": [
+      "kite.kagi.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Estados Unidos bloquea a la inteligencia artificial Mythos por violar sistemas clasificados",
+    "summary": "La IA descubrió una filtración de memoria masiva no detectada desde la era Clinton, lo que provocó medidas drásticas de seguridad nacional.",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La carrera por los chips de IA se acelera con nuevas alianzas y compras multimillonarias",
+    "summary": "OpenAI presenta su propio chip con Broadcom y Qualcomm adquiere la startup Modular por casi 4.000 millones de dólares.",
+    "source": [
+      "the-decoder.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "FUTO Swipe presenta un teclado predictivo de código abierto por deslizamiento",
+    "summary": "La nueva herramienta busca ofrecer una alternativa moderna y eficiente para escribir en dispositivos móviles.",
     "source": [
       "producthunt.com",
       "news.ycombinator.com"
@@ -64,17 +131,8 @@
     "count": 2
   },
   {
-    "title": "LastPass sufre una filtración de datos por un ataque a la plataforma Klue",
-    "summary": "Los datos de soporte y credenciales de clientes de LastPass quedaron expuestos debido a una brecha en la cadena de suministro de Klue.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Prime Day: las mejores ofertas en tecnología de Amazon",
-    "summary": "Smartwatches, periféricos, televisores y mini-PC son algunos de los productos con descuento durante el Prime Day.",
+    "title": "Europa aprieta el cerco contra el comercio digital chino y la desconfianza hacia las Big Tech",
+    "summary": "Un nuevo arancel fijo para paquetes pequeños y la pérdida de confianza en las empresas estadounidenses marcan el giro regulatorio.",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com"
@@ -82,91 +140,42 @@
     "count": 2
   },
   {
-    "title": "Europa enfrenta una ola de calor extrema con temperaturas récord",
-    "summary": "La ola de calor provoca carreteras derretidas en Francia y expertos recomiendan cambiar las estrategias de refrigeración en los hogares.",
+    "title": "La venta masiva de acciones de inteligencia artificial sacude los mercados globales",
+    "summary": "El temor a una burbuja en el sector provoca caídas en Wall Street y arrastra a las bolsas asiáticas.",
     "source": [
-      "xataka.com",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Oracle despide a 21.000 empleados y apuesta por la inteligencia artificial",
-    "summary": "La compañía de software reemplaza gran parte de su fuerza laboral humana con tecnología de IA en una reestructuración masiva.",
-    "source": [
-      "fastcompany.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Trump ordena la migración a criptografía post-cuántica antes de 2030",
-    "summary": "Una orden ejecutiva exige a las agencias federales actualizar sus sistemas criptográficos para defenderse de futuros ataques cuánticos.",
+    "title": "La aplicación oficial de la Casa Blanca se descarga automáticamente en móviles gubernamentales y no puede desinstalarse",
+    "summary": "Los trabajadores federales denuncian que el software inyecta «propaganda pura» mientras las autoridades ignoran las quejas de privacidad.",
     "source": [
-      "thehackernews.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Five Eyes alerta de ataques inminentes de IA en ciberseguridad",
-    "summary": "La alianza de inteligencia advierte que los ataques basados en inteligencia artificial podrían ocurrir en cuestión de meses y pide parches rápidos.",
+    "title": "SpaceX recauda 25.000 millones de dólares en venta de deuda tras su salida a bolsa",
+    "summary": "La empresa de Elon Musk obtiene una financiación masiva para impulsar sus planes de exploración y comunicaciones espaciales.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "La alianza Five Eyes alerta sobre el uso inminente de la IA en ciberataques masivos",
+    "summary": "Los servicios de inteligencia advierten que los ataques con inteligencia artificial se producirán en cuestión de meses, superando a gobiernos y empresas.",
     "source": [
       "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "SpaceX recauda 25.000 millones en deuda y sus acciones caen por debajo del precio de salida",
-    "summary": "La empresa espacial enfrenta turbulencias financieras: emite deuda por 25.000 millones y sus títulos caen por debajo de los 150 dólares.",
+    "title": "Suecia obstaculiza los planes de Tesla para lanzar la conducción autónoma en Europa",
+    "summary": "La justicia sueca complica los ambiciosos planes de Elon Musk de implementar el sistema Full Self-Driving en todo el continente.",
     "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta pausa el seguimiento de teclas de sus empleados para entrenar IA",
-    "summary": "La empresa detiene la recopilación de datos de tecleo después de que una filtración interna revelara la práctica.",
-    "source": [
-      "fastcompany.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El 47% de los estudiantes de Harvard admite haber hecho trampa",
-    "summary": "Una encuesta revela una alta tasa de deshonestidad académica en la universidad, un problema que existía antes de ChatGPT.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El 60% del contenido en TikTok es generado por inteligencia artificial de baja calidad",
-    "summary": "Un estudio señala que la mayoría de los vídeos en TikTok son 'basura AI', mientras que en YouTube representan el 21%.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Polymarket pagó a influencers para fingir apuestas ganadoras y promocionarse",
-    "summary": "La plataforma de apuestas creó sitios web falsos y pagó a personas influyentes para simular victorias y atraer usuarios.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El cofundador de Wikipedia, Larry Sanger, es expulsado por hacer campaña política",
-    "summary": "Sanger fue bloqueado del sitio por intentar crear un grupo de presión conservador dentro de la enciclopedia.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Madison Square Garden elaboró un dossier sobre activistas críticos con el reconocimiento facial",
-    "summary": "El documento recopilaba comentarios y tuits de opositores al sistema de identificación biométrica del estadio.",
-    "source": [
-      "/r/technology"
+      "xataka.com"
     ],
     "count": 1
   }
