@@ -1,44 +1,66 @@
 [
   {
-    "title": "Valve、Steam Machineを1,049ドルで発売し、オープンエコシステムを擁護",
-    "summary": "このコンソールは1000ドル以上の価格にもかかわらず、低価格帯のPCよりも性能が低いとして物議を醸しており、Valveは閉鎖的なシステムを作らないための決定だと正当化している。",
+    "title": "ValveがSteam Machineの価格（1000ドル以上）を発表、戦略を擁護",
+    "summary": "同社は、オープンなエコシステムを維持するために高い価格が必要だと正当化する一方、消費者はより経済的な代替品を求めている。",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com",
-      "alternativeto.net",
       "/r/technology",
-      "producthunt.com",
-      "kite.kagi.com",
-      "news.ycombinator.com"
+      "alternativeto.net"
     ],
-    "count": 7
+    "count": 4
   },
   {
-    "title": "OpenAI、GPT-5.5-Cyberを発表、オープンソースの脆弱性パッチ適用の世界的取り組みを開始",
-    "summary": "新バージョンはサイバーセキュリティでAnthropic Mythosを凌駕し、同社はオープンソースプロジェクトのセキュリティバグを修正する大規模な取り組みを開始する。",
+    "title": "Meta、Ray-Banとの提携なしでより手頃なスマートグラスを発売",
+    "summary": "新しい拡張現実グラスは、コストを削減し懐疑的な人々を惹きつけるために、高級ブランドを排除している。",
     "source": [
-      "the-decoder.com",
-      "thehackernews.com",
+      "xataka.com",
+      "techcrunch.com",
+      "fastcompany.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "欧州、記録的な熱波で道路が溶け、イベント中止に追い込まれる",
+    "summary": "記録的な気温がインフラに被害をもたらし、会議の中止を引き起こす一方、専門家は注意を呼びかけている。",
+    "source": [
       "news.ycombinator.com",
-      "techcrunch.com",
-      "wired.com",
-      "kite.kagi.com"
+      "xataka.com",
+      "fastcompany.com"
     ],
-    "count": 6
+    "count": 3
   },
   {
-    "title": "Google DeepMind、A24と提携し映画研究に7500万ドルを投資",
-    "summary": "Googleの人工知能研究所は独立系スタジオA24と提携し、AIベースの新しい撮影ツールを開発する。",
+    "title": "AIモデルMythosが歴史的なメモリリークを発見、トランプによってブロックされる",
+    "summary": "Mythosはまた、サイバーセキュリティにとって重要な時期に、GPT-5.5-CyberやSakana AIのFuguにベンチマークで凌駕されている。",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com",
+      "/r/technology",
+      "elchapuzasinformatico.com",
       "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "SpaceX株が初めて上場価格を下回る",
-    "summary": "株価は史上最高値から16.4%下落し、IPO後の個人投資家の利益をほぼすべて消し去った。",
+    "title": "OpenAI Codex、SSDに大量書き込みを発生、数百万ドルのコストになる可能性",
+    "summary": "あるバグにより年間最大640TBの書き込みが発生し、ディスクの寿命を大幅に短縮している。",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta、ザッカーバーグの指示で独自の予測市場アプリを開発",
+    "summary": "同社は実際のイベントに関する賭けを提供することでPolymarketと競合しようとしている。",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Oracle、AIに注力するため2万1000人の従業員を解雇",
+    "summary": "同社は人間のポジションをAIベースの自動化に置き換え、人員を20%削減している。",
     "source": [
       "fastcompany.com",
       "/r/technology"
@@ -46,8 +68,17 @@
     "count": 2
   },
   {
-    "title": "Polymarket、インフルエンサーに報酬を支払い、当たりベットを偽装してユーザーを欺く",
-    "summary": "分散型賭けプラットフォームは、架空の賭けを宣伝するためにバイラル動画や偽のウェブサイトを作成した。",
+    "title": "LastPass、プロバイダーKlueへの攻撃によりサポートデータが漏洩",
+    "summary": "攻撃者は2022年に盗まれた認証情報を悪用して顧客情報にアクセスした。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Polymarket、インフルエンサーに報酬を支払い当たりの賭けを偽装、公衆を欺く",
+    "summary": "予測プラットフォームは、架空の勝利に関する誤解を招く動画を宣伝するために偽サイトのネットワークを作成した。",
     "source": [
       "/r/technology",
       "alternativeto.net"
@@ -55,35 +86,17 @@
     "count": 2
   },
   {
-    "title": "Oracle、人工知能導入により年間21,000人の従業員を解雇",
-    "summary": "同社はAIインフラに投資しながら人員削減を進め、大規模な解雇によるリストラを継続している。",
+    "title": "JD.com創業者、ロボットが70万人の配達員に取って代わると発言",
+    "summary": "劉強東氏は配送の完全自動化を予測し、人間の労働者の必要性をなくすとしている。",
     "source": [
       "/r/technology",
-      "kite.kagi.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta、内部データ流出を受け従業員追跡プログラムを一時停止",
-    "summary": "リーク情報によると、プログラムの機密情報が社内で可視化されたことを受け、同社はこの取り組みを停止した。",
-    "source": [
-      "/r/technology",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "テキサス州でModel 3が住宅に衝突した死亡事故、Teslaが調査対象に",
-    "summary": "NHTSAが女性死亡事故を調査する一方、TeslaはAutopilotシステムを擁護し、ドアベルカメラの映像が公開されている。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung、モバイルAIを強化する10.8GB/sのUFS 5.0を発表",
-    "summary": "新しいストレージ規格は、モバイルデバイス上の人工知能アプリケーションのパフォーマンスを大幅に向上させると期待されている。",
+    "title": "Samsung、スマホ向けAIのための超高速ストレージUFS 5.0を発表",
+    "summary": "新しいメモリは10.8GB/sの速度を達成し、人工知能アプリケーションのパフォーマンスを向上させる。",
     "source": [
       "elchapuzasinformatico.com",
       "kite.kagi.com"
@@ -91,97 +104,80 @@
     "count": 2
   },
   {
-    "title": "Getty Images、OpenAIと契約しライセンス済み写真をChatGPTに提供",
-    "summary": "画像バンクは複数年契約の後、チャットボットの回答に自社のコンテンツが表示されることを許可する。",
+    "title": "Microsoft、Windows 11でCopilot 365アプリの自動インストールを強制へ",
+    "summary": "複数の情報源によると、ユーザーはAIアシスタントアプリを拒否できない。",
     "source": [
-      "alternativeto.net",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta、CRED創業者Kunal ShahをWhatsApp新責任者に任命",
-    "summary": "同社はインドのスタートアップに9億ドルを投資し、その創業者を人気のメッセージングアプリのトップに据えた。",
-    "source": [
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "MicrosoftとChevron、テキサス州に自社ガスプラントを備えた2ギガワットのデータセンターを計画",
-    "summary": "このプロジェクトは、天然ガスから自家発電することで州の電力網への負荷を回避することを目指している。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国、シリコンバレーを不安にさせるオープンソースAIモデルGLM-5.2を公開",
-    "summary": "新しい中国の言語システムは高度な機能を示し、ローカル実行が可能で、西洋のモデルと競合する。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta、懐疑派を惹きつけるため、より手頃でリデザインされたスマートグラスを発売",
-    "summary": "同社の新しいグラスは、低価格と改良されたデザインで拡張現実の利用を民主化することを目指している。",
-    "source": [
-      "techcrunch.com",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Amazon Prime Day 2026、暑さ対策のテクノロジーと家電製品を割引",
-    "summary": "セールには、主要ブランドの有機ELテレビ、ミニPC、扇風機、エアコンの値下げが含まれている。",
-    "source": [
-      "xataka.com",
+      "/r/technology",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "マディソン・スクエア・ガーデン、顔認識に反対する活動家のファイルを収集",
-    "summary": "内部文書には、ニューヨークの会場の生体認証セキュリティプログラムに対する批評家のコメントやツイートが含まれていた。",
+    "title": "SpaceX、250億ドルの負債を調達、株価は公開価格を下回る",
+    "summary": "同宇宙企業は個人投資家に損失をもたらす tumultuousな株式市場デビューに直面している。",
     "source": [
-      "news.ycombinator.com",
-      "/r/technology"
+      "/r/technology",
+      "fastcompany.com"
     ],
     "count": 2
   },
   {
-    "title": "Apple製チップにパッチなしの脆弱性、iPhoneの脱獄が可能に",
-    "summary": "修復不可能とされるこのセキュリティ上の欠陥は、Appleプロセッサ搭載のすべてのデバイスを危険にさらす可能性がある。",
+    "title": "RAM価格が最大89%急騰、Valveがメーカーを批判",
+    "summary": "LPDDR5XモジュールとSSDは過去最高値に達する一方、Valveは交渉の余地がないと非難している。",
     "source": [
-      "techcrunch.com"
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ゾンビユニコーンとウォール街のハイテク株安が業界の脆弱性を反映",
+    "summary": "過去の過大評価が出口のない企業を生み出し、半導体市場はバブルの兆候を示している。",
+    "source": [
+      "/r/technology",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Five EyesがAIによるサイバー攻撃を警告、トランプはポスト量子暗号への移行を命令",
+    "summary": "諜報機関はAIが大規模な攻撃を可能にすると警告する一方、米国は量子の未来に備えている。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "国連、選挙操作のリスクを前にAI企業に透明性を要求",
+    "summary": "事務総長は企業に環境影響を開示するよう求める一方、選挙介入に関する告発が浮上している。",
+    "source": [
+      "/r/technology",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "FortiBleed：FortiGateファイアウォールへの攻撃で1億1000万件の認証情報が盗まれる",
+    "summary": "ハッカーは脆弱性を悪用し、世界中の認証データベースにアクセスした。",
+    "source": [
+      "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "Microsoft、Copilotの失敗を受け、ユーザーに中国のAI「Deepseek」の採用を呼びかけ",
-    "summary": "同社は、アシスタントCopilotが期待に応えられなかったことを受け、AI戦略を代替モデルに向け直している。",
+    "title": "トヨタと日産、米国生産車が日本の基準を満たしていないと認める",
+    "summary": "両社は米国工場と日本工場の間に品質の違いがあることを認めている。",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "裁判官、有権者確認のための連邦データベース使用を阻止、有権者排除を防止",
-    "summary": "裁判所の決定により、登録有権者を誤って削除する可能性のある確認システムの使用が妨げられる。",
+    "title": "中国、世界最速のスーパーコンピュータで米国を凌駕",
+    "summary": "新しい中国のシステムが、最も強力なマシンのリストで米国のマシンを追い抜いた。",
     "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "高度なAIモデル、認知負荷増大で古典的心理学テストに失敗",
-    "summary": "ある研究によると、現在の人工知能システムは複雑な推論を必要とするタスクに直面すると、著しく失敗することが明らかになった。",
-    "source": [
-      "/r/technology"
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   }

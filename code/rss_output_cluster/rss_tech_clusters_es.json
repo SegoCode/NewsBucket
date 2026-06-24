@@ -1,44 +1,66 @@
 [
   {
-    "title": "Valve lanza la Steam Machine a 1.049 dólares y defiende el ecosistema abierto",
-    "summary": "La consola genera controversia al costar más de mil dólares con un rendimiento menor que un PC de gama baja, mientras Valve justifica la decisión para no crear un sistema cerrado.",
+    "title": "Valve revela el precio de su Steam Machine (más de 1000 dólares) y defiende su estrategia",
+    "summary": "La compañía justifica el elevado precio como necesario para mantener el ecosistema abierto, mientras los consumidores buscan alternativas más económicas.",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com",
-      "alternativeto.net",
       "/r/technology",
-      "producthunt.com",
-      "kite.kagi.com",
-      "news.ycombinator.com"
+      "alternativeto.net"
     ],
-    "count": 7
+    "count": 4
   },
   {
-    "title": "OpenAI presenta GPT-5.5-Cyber e inicia un esfuerzo global para parchear vulnerabilidades en código abierto",
-    "summary": "La nueva versión supera a Anthropic Mythos en ciberseguridad y la empresa lanza una iniciativa masiva para corregir bugs de seguridad en proyectos open source.",
+    "title": "Meta lanza unas gafas inteligentes más asequibles sin la colaboración de Ray-Ban",
+    "summary": "Las nuevas gafas de realidad aumentada prescinden de la marca de lujo para reducir costes y atraer a los escépticos.",
     "source": [
-      "the-decoder.com",
-      "thehackernews.com",
+      "xataka.com",
+      "techcrunch.com",
+      "fastcompany.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Europa sufre una ola de calor extrema que derrite carreteras y obliga a cancelar eventos",
+    "summary": "Las temperaturas récord causan daños en infraestructuras y provocan la suspensión de conferencias, mientras los expertos piden precaución.",
+    "source": [
       "news.ycombinator.com",
-      "techcrunch.com",
-      "wired.com",
-      "kite.kagi.com"
+      "xataka.com",
+      "fastcompany.com"
     ],
-    "count": 6
+    "count": 3
   },
   {
-    "title": "Google DeepMind invierte 75 millones de dólares en una alianza con A24 para investigación cinematográfica con IA",
-    "summary": "El laboratorio de inteligencia artificial de Google se asocia con el estudio independiente A24 para desarrollar nuevas herramientas de filmación basadas en IA.",
+    "title": "El modelo de IA Mythos descubre una fuga de memoria histórica y es bloqueado por Trump",
+    "summary": "Mythos también es superado en benchmarks por GPT-5.5-Cyber y Fugu de Sakana AI, en un momento clave para la ciberseguridad.",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com",
+      "/r/technology",
+      "elchapuzasinformatico.com",
       "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "Las acciones de SpaceX caen por debajo del precio de salida a bolsa por primera vez",
-    "summary": "El valor se desploma un 16,4% desde su máximo histórico, borrando casi todas las ganancias de los inversores minoristas tras la OPV.",
+    "title": "OpenAI Codex genera escrituras masivas en SSD que pueden costar millones",
+    "summary": "Un error provoca hasta 640 TB de escrituras anuales, reduciendo drásticamente la vida útil de los discos.",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta crea su propia aplicación de mercados de predicción por orden de Zuckerberg",
+    "summary": "La empresa busca competir con Polymarket ofreciendo apuestas sobre eventos reales.",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Oracle despide a 21.000 empleados para apostar por la inteligencia artificial",
+    "summary": "La compañía sustituye puestos humanos por automatización basada en IA, reduciendo su plantilla en un 20%.",
     "source": [
       "fastcompany.com",
       "/r/technology"
@@ -46,8 +68,17 @@
     "count": 2
   },
   {
-    "title": "Polymarket pagó a influencers para simular apuestas ganadoras y engañar a usuarios",
-    "summary": "La plataforma de apuestas descentralizada creó vídeos virales y sitios web falsos para promocionar apuestas ficticias.",
+    "title": "LastPass sufre una filtración de datos de soporte tras un ataque a su proveedor Klue",
+    "summary": "Los atacantes aprovecharon credenciales robadas en 2022 para acceder a información de clientes.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Polymarket pagó a influencers para simular apuestas ganadoras y engañar al público",
+    "summary": "La plataforma de predicción creó una red de sitios falsos para promocionar vídeos engañosos sobre supuestas victorias.",
     "source": [
       "/r/technology",
       "alternativeto.net"
@@ -55,35 +86,17 @@
     "count": 2
   },
   {
-    "title": "Oracle despide a 21.000 empleados en un año por la adopción de inteligencia artificial",
-    "summary": "La compañía continúa su reestructuración con despidos masivos mientras invierte en infraestructura de IA y reduce su fuerza laboral.",
+    "title": "El fundador de JD.com afirma que los robots reemplazarán a 700.000 repartidores",
+    "summary": "Richard Liu pronostica la automatización total del reparto, eliminando la necesidad de trabajadores humanos.",
     "source": [
       "/r/technology",
-      "kite.kagi.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta pausa su programa de seguimiento de empleados tras exponer datos internos",
-    "summary": "La empresa detuvo la iniciativa después de que información sensible del programa quedara visible internamente, según filtraciones.",
-    "source": [
-      "/r/technology",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tesla es investigada por un accidente fatal en Texas donde un Model 3 impactó contra una vivienda",
-    "summary": "La NHTSA investiga el siniestro que causó la muerte de una mujer, mientras Tesla defiende su sistema Autopilot y se divulgan imágenes de la cámara del timbre.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung anuncia UFS 5.0 con velocidades de 10,8 GB/s para impulsar la IA en móviles",
-    "summary": "El nuevo estándar de almacenamiento promete multiplicar el rendimiento de las aplicaciones de inteligencia artificial en dispositivos móviles.",
+    "title": "Samsung presenta UFS 5.0, almacenamiento ultrarrápido para IA en móviles",
+    "summary": "La nueva memoria alcanza velocidades de 10,8 GB/s, mejorando el rendimiento de aplicaciones de inteligencia artificial.",
     "source": [
       "elchapuzasinformatico.com",
       "kite.kagi.com"
@@ -91,97 +104,80 @@
     "count": 2
   },
   {
-    "title": "Getty Images llega a un acuerdo con OpenAI para incluir sus fotos con licencia en ChatGPT",
-    "summary": "El banco de imágenes permitirá que su contenido aparezca en las respuestas del chatbot tras un acuerdo multianual.",
+    "title": "Microsoft forzará la instalación automática de la app de Copilot 365 en Windows 11",
+    "summary": "Los usuarios no podrán rechazar la aplicación del asistente AI, según múltiples fuentes.",
     "source": [
-      "alternativeto.net",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta nombra al fundador de CRED, Kunal Shah, como nuevo director de WhatsApp",
-    "summary": "La empresa invierte 900 millones de dólares en la startup india y pone a su fundador al frente de la popular aplicación de mensajería.",
-    "source": [
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft y Chevron planean un centro de datos de 2 gigavatios con su propia planta de gas en Texas",
-    "summary": "El proyecto busca evitar la presión sobre la red eléctrica estatal generando su propia electricidad a partir de gas natural.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China lanza GLM-5.2, un modelo de IA de código abierto que inquieta a Silicon Valley",
-    "summary": "El nuevo sistema lingüístico chino muestra capacidades avanzadas y está disponible para ejecución local, compitiendo con modelos occidentales.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta lanza gafas inteligentes más asequibles y rediseñadas para atraer a los escépticos",
-    "summary": "Las nuevas gafas de la compañía buscan democratizar el uso de la realidad aumentada con un precio más bajo y un diseño mejorado.",
-    "source": [
-      "techcrunch.com",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Amazon Prime Day 2026 ofrece descuentos en tecnología y electrodomésticos para combatir el calor",
-    "summary": "Las ofertas incluyen rebajas en televisores OLED, mini-PC, ventiladores y aires acondicionados de las principales marcas.",
-    "source": [
-      "xataka.com",
+      "/r/technology",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Madison Square Garden recopiló un dossier sobre activistas que se oponen al reconocimiento facial",
-    "summary": "El documento interno incluía comentarios y tuits de críticos del programa de seguridad biométrica del recinto neoyorquino.",
+    "title": "SpaceX recauda 25.000 millones en deuda y sus acciones caen por debajo del precio de salida",
+    "summary": "La empresa espacial enfrenta un inicio bursátil turbulento con pérdidas para los inversores minoristas.",
     "source": [
-      "news.ycombinator.com",
-      "/r/technology"
+      "/r/technology",
+      "fastcompany.com"
     ],
     "count": 2
   },
   {
-    "title": "Descubren una vulnerabilidad sin parche en los chips de Apple que permite el jailbreak del iPhone",
-    "summary": "El fallo de seguridad, considerado no reparable, podría comprometer todos los dispositivos con procesadores Apple.",
+    "title": "El precio de la memoria RAM se dispara hasta un 89% y Valve critica a los fabricantes",
+    "summary": "Los módulos LPDDR5X y SSD alcanzan precios récord, mientras Valve denuncia que no tiene margen de negociación.",
     "source": [
-      "techcrunch.com"
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los unicornios zombi y la caída de las tecnológicas en Wall Street reflejan la fragilidad del sector",
+    "summary": "Las valoraciones infladas del pasado generan empresas sin salida, y el mercado de chips muestra signos de burbuja.",
+    "source": [
+      "/r/technology",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Five Eyes alerta sobre ciberataques con IA y Trump ordena migrar a criptografía post-cuántica",
+    "summary": "Las agencias de inteligencia advierten que la IA permitirá ataques masivos, mientras EE.UU. se prepara para el futuro cuántico.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La ONU exige transparencia a las empresas de IA ante el riesgo de manipulación electoral",
+    "summary": "El secretario general pide que las compañías revelen su impacto ambiental, mientras surgen denuncias sobre injerencia electoral.",
+    "source": [
+      "/r/technology",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "FortiBleed: 110 millones de credenciales robadas en un ataque a firewalls FortiGate",
+    "summary": "Los hackers explotaron vulnerabilidades para acceder a bases de datos de autenticación a nivel global.",
+    "source": [
+      "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "Microsoft ahora quiere que los usuarios adopten la IA china Deepseek tras el fracaso de Copilot",
-    "summary": "La empresa redirige su estrategia de inteligencia artificial hacia modelos alternativos después de que su asistente Copilot no cumpliera expectativas.",
+    "title": "Toyota y Nissan admiten que sus coches fabricados en EE.UU. no cumplen los estándares japoneses",
+    "summary": "Los fabricantes reconocen diferencias de calidad entre sus plantas americanas y las de Japón.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Un juez bloquea el uso de una base de datos federal para verificar la ciudadanía y evitar purgas de votantes",
-    "summary": "La decisión judicial impide que se utilice un sistema de verificación que podría eliminar incorrectamente a votantes registrados.",
+    "title": "China supera a Estados Unidos con el superordenador más rápido del mundo",
+    "summary": "El nuevo sistema chino desbanca a las máquinas estadounidenses en la lista de los más potentes.",
     "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Los modelos de IA avanzados colapsan en pruebas psicológicas clásicas al aumentar la carga cognitiva",
-    "summary": "Un estudio revela que los sistemas de inteligencia artificial actuales fallan estrepitosamente cuando se enfrentan a tareas que requieren razonamiento complejo.",
-    "source": [
-      "/r/technology"
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   }
