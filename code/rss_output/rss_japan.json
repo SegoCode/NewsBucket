@@ -1,15 +1,757 @@
 {
-  "fetchedAt": "2026-06-24T14:20:51.613Z",
+  "fetchedAt": "2026-06-24T19:40:59.627Z",
   "totalItems": 180,
   "totalErrors": 0,
   "items": [
     {
-      "id": "https://news.yahoo.co.jp/pickup/6585534?source=rss",
-      "title": "暑い夏も快適に 睡眠の疑問を解説",
+      "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260625-SYT8T8098146/",
+      "title": "ワールドカップサッカー スイス対カナダ ライブスコア…グループB",
       "description": "",
       "content": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585534?source=rss",
-      "publishedAt": "2026-06-24T13:52:01.000Z",
+      "url": "https://yomiuri.co.jp/sports/soccer/worldcup/20260625-SYT8T8098146",
+      "publishedAt": "2026-06-24T18:30:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260625-SYT8T8098132/",
+      "title": "ワールドカップサッカー ボスニア・ヘルツェゴビナ対カタール ライブスコア…グループB",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/sports/soccer/worldcup/20260625-SYT8T8098132",
+      "publishedAt": "2026-06-24T18:30:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGN23CRQ0T20C26A6000000/",
+      "title": "米予測市場、W杯賭け1.7兆円　スウェーデン戦は日本勝利が53%",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGN23CRQ0T20C26A6000000",
+      "publishedAt": "2026-06-24T18:10:10.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGN24CF00U6A620C2000000/",
+      "title": "5月の米新築住宅販売、1月以来の低水準　高金利・価格が重荷",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGN24CF00U6A620C2000000",
+      "publishedAt": "2026-06-24T17:36:29.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOSG24BWZ0U6A620C2000000/",
+      "title": "スペースX、新型輸送カプセルを試験打ち上げ　事前発表なく極秘開発",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOSG24BWZ0U6A620C2000000",
+      "publishedAt": "2026-06-24T17:19:22.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOFL24B2B0U6A620C2000000/",
+      "title": "ドイツ株24日　続落、防衛ラインメタル急落　仏株は上昇",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOFL24B2B0U6A620C2000000",
+      "publishedAt": "2026-06-24T17:12:47.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUB19B8V0Z10C26A6000000/",
+      "title": "格差と成長と自由",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUB19B8V0Z10C26A6000000",
+      "publishedAt": "2026-06-24T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOCC17AAV0X10C26A6000000/",
+      "title": "マツダ、問われる「稼ぐ力」の向上策　株主「株価に不満と不安」",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOCC17AAV0X10C26A6000000",
+      "publishedAt": "2026-06-24T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOFC229RZ0S6A620C2000000/",
+      "title": "北海道農業に中東・円安の影　肥料価格10年で2倍、自給自足の動きも",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOFC229RZ0S6A620C2000000",
+      "publishedAt": "2026-06-24T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUC2293H0S6A620C2000000/",
+      "title": "日本メーカー出身者率いる中国・橋田智能、ロボ機器開発へ24億円調達",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUC2293H0S6A620C2000000",
+      "publishedAt": "2026-06-24T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUA238GC0T20C26A6000000/",
+      "title": "官民投資370兆円、成長で債務圧縮見込む　過去試算は不発続き",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUA238GC0T20C26A6000000",
+      "publishedAt": "2026-06-24T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUD0169Q0R00C26A5000000/",
+      "title": "「付き添い入院」に休憩室や個室　体調崩す保護者5割、負担を軽減",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUD0169Q0R00C26A5000000",
+      "publishedAt": "2026-06-24T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUB085P80Y6A600C2000000/",
+      "title": "あふれる和牛、最高ランク8割に　国内産地が輸出競争",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUB085P80Y6A600C2000000",
+      "publishedAt": "2026-06-24T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQODH235140T20C26A6000000/",
+      "title": "サッカー日本代表、強力2トップ「孤立」がカギ　26日スウェーデン戦",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQODH235140T20C26A6000000",
+      "publishedAt": "2026-06-24T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUD084M60Y6A500C2000000/",
+      "title": "サッカーW杯会場ダラス、仙台と縁深く　震災で義援金・日系企業多く",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUD084M60Y6A500C2000000",
+      "publishedAt": "2026-06-24T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUA243QR0U6A620C2000000/",
+      "title": "政府主導の企業投資、首相の肝煎り　市場意識で国費公表は見送り",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUA243QR0U6A620C2000000",
+      "publishedAt": "2026-06-24T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOCC222O70S6A620C2000000/",
+      "title": "仙台･定禅寺通「東北のシャンゼリゼ」なるか　再開発で進化へ",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOCC222O70S6A620C2000000",
+      "publishedAt": "2026-06-24T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOFL24B7T0U6A620C2000000/",
+      "title": "ロンドン株24日　反発、金利低下や米国株の底堅い推移が支え",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOFL24B7T0U6A620C2000000",
+      "publishedAt": "2026-06-24T16:48:16.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGR24CR20U6A620C2000000/",
+      "title": "フランスでエボラ出血熱の感染初確認　コンゴから帰国の医師",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGR24CR20U6A620C2000000",
+      "publishedAt": "2026-06-24T16:31:49.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "http://www.asahi.com/articles/ASV6S563QV6SUHBI02MM.html?ref=rss",
+      "title": "韓国の新興宗教「新天地」トップを逮捕　信者を政党へ強制加入の疑い",
+      "description": "",
+      "content": "",
+      "url": "http://asahi.com/articles/ASV6S563QV6SUHBI02MM.html?ref=rss",
+      "publishedAt": "2026-06-24T16:29:17.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "asahi.com",
+        "url": "http://www.asahi.com/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOFL24B890U6A620C2000000/",
+      "title": "欧州国債概況24日　独10年債利回り、一時約3カ月半ぶり低水準　原油先物の下落続く",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOFL24B890U6A620C2000000",
+      "publishedAt": "2026-06-24T16:28:07.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGR202JJ0Q6A620C2000000/",
+      "title": "ハンガリーなど5カ国「ユーロの基準満たさず」　物価や財政に課題",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGR202JJ0Q6A620C2000000",
+      "publishedAt": "2026-06-24T16:15:29.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUC254V90V20C26A5000000/",
+      "title": "ホンダ・日産・三菱自、中核部品を共通化　規模拡大でコスト低減",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUC254V90V20C26A5000000",
+      "publishedAt": "2026-06-24T16:14:56.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUA248AC0U6A620C2000000/",
+      "title": "高市首相、地域の金融機関は「経済の要」　全国信金大会に出席",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUA248AC0U6A620C2000000",
+      "publishedAt": "2026-06-24T16:08:26.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOKC24C680U6A620C2000000/",
+      "title": "IOC、五輪出場全選手に1万ドル支給　初の助成金制度",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOKC24C680U6A620C2000000",
+      "publishedAt": "2026-06-24T16:06:02.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGR24CBK0U6A620C2000000/",
+      "title": "欧州防衛企業KNDS、7月にも上場へ　独仏の主力戦車など製造",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGR24CBK0U6A620C2000000",
+      "publishedAt": "2026-06-24T16:01:19.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/economy/20260624-GYT1T00472/",
+      "title": "ホンダと日産、「次世代車の頭脳」共通化へ…経営統合は白紙でも共同開発加速",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/economy/20260624-GYT1T00472",
+      "publishedAt": "2026-06-24T16:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUD24BRP0U6A620C2000000/",
+      "title": "天皇陛下「次世代に橋渡しできた」　オランダ・ベルギー訪問、記者団に",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUD24BRP0U6A620C2000000",
+      "publishedAt": "2026-06-24T15:57:14.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGN24CK90U6A620C2000000/",
+      "title": "USスチール、米南部の製鉄所に770億円投資　熱処理ラインを新設",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGN24CK90U6A620C2000000",
+      "publishedAt": "2026-06-24T15:48:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOFL24B830U6A620C2000000/",
+      "title": "ロンドン外為24日　対ユーロでドル買い続く、英ポンドは7カ月ぶり安値圏",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOFL24B830U6A620C2000000",
+      "publishedAt": "2026-06-24T15:46:11.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "http://www3.nhk.or.jp/news/html/20260624/k10015157571000.html",
+      "title": "九州北部 線状降水帯のおそれ 台風7号は沖縄に近づく見込み",
+      "description": "停滞する梅雨前線の影響で、九州北部では激しい雨が降り、長崎県ではレベル4土砂災害危険警報が発表されている地域があります。九州北部で25日昼前にかけて線状降水帯が発生するおそれがあり、安全な場所で過ごすようにしてください。また、強い台風7号は、26日にかけて沖縄県に近づく見込みで、沖縄県では暴風に厳重に警戒してください。",
+      "content": "停滞する梅雨前線の影響で、九州北部では激しい雨が降り、長崎県ではレベル4土砂災害危険警報が発表されている地域があります。九州北部で25日昼前にかけて線状降水帯が発生するおそれがあり、安全な場所で過ごすようにしてください。また、強い台風7号は、26日にかけて沖縄県に近づく見込みで、沖縄県では暴風に厳重に警戒してください。",
+      "url": "http://www3.nhk.or.jp/news/html/20260624/k10015157571000.html",
+      "publishedAt": "2026-06-24T15:36:59.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "www3.nhk.or.jp",
+        "url": "http://www3.nhk.or.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/economy/20260625-GYT1T00043/",
+      "title": "ＡＩ・半導体など「戦略１７分野」投資３７０兆円超、政府が工程表…高市首相「投資不足の流れ断ち切る」",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/economy/20260625-GYT1T00043",
+      "publishedAt": "2026-06-24T15:30:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/world/20260624-GYT1T00440/",
+      "title": "史上最も暑いフランスで４４・３度、各地で４０人が溺死…イタリアは日中の農作業や建設作業を禁止",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/world/20260624-GYT1T00440",
+      "publishedAt": "2026-06-24T15:30:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGN24BUE0U6A620C2000000/",
+      "title": "米財務長官、イラン凍結資産「大半は米国産食料・医薬品の購入に」",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGN24BUE0U6A620C2000000",
+      "publishedAt": "2026-06-24T15:24:31.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOFL24CF50U6A620C2000000/",
+      "title": "NYダウ、反発で始まる　原油価格の下落が支えに",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOFL24CF50U6A620C2000000",
+      "publishedAt": "2026-06-24T15:19:59.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/world/20260625-GYT1T00030/",
+      "title": "ホルムズ海峡で「サービス料」徴収、イランがオマーンと協議へ…米反発「いかなる国も許されない」",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/world/20260625-GYT1T00030",
+      "publishedAt": "2026-06-24T15:15:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/japan/comments/1ueg2d8/what_is_the_oldest_toto_washlet_you_have_seen_in/",
+      "title": "What is the oldest toto washlet you have seen in Japan?",
+      "description": "Obviously squat toilets are the true ancient toilets lol but I was wondering if\nany of you encountered a very old toto washlet or lixil bidet working ive heard\nthese sometimes cause fires because of the age but it seems like you can still\nfind washlets from the 1980s - early 2000s still working especially in older\npeoples homes what is the oldest ones you have seen lol submitted by\n/u/Kryptokraze [link] [comments]",
+      "content": "Obviously squat toilets are the true ancient toilets lol but I was wondering if\nany of you encountered a very old toto washlet or lixil bidet working ive heard\nthese sometimes cause fires because of the age but it seems like you can still\nfind washlets from the 1980s - early 2000s still working especially in older\npeoples homes what is the oldest ones you have seen lol\n\nsubmitted by /u/Kryptokraze [https://old.reddit.com/user/Kryptokraze]\n[link] [https://twt.jp.toto.com/product/history.html] [comments]\n[https://old.reddit.com/r/japan/comments/1ueg2d8/what_is_the_oldest_toto_washlet_you_have_seen_in/]",
+      "url": "https://old.reddit.com/r/japan/comments/1ueg2d8/what_is_the_oldest_toto_washlet_you_have_seen_in",
+      "publishedAt": "2026-06-24T15:05:04.000Z",
+      "author": "/u/Kryptokraze",
+      "categories": [],
+      "source": {
+        "name": "/r/japan",
+        "url": "https://old.reddit.com/r/japan/"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/japan/comments/1ueg1z2/teacher_dried_laundry_in_room_where_tokyo_school/",
+      "title": "Teacher dried laundry in room where Tokyo school fire likely started",
+      "description": "A teacher in her 40s told investigators she had used air circulators to dry\nlaundry in the room where a fire is believed to have started at a Tokyo\nelementary school before the blaze broke out last week, Tokyo police said\nWednesday. The Metropolitan Police Department is investigating the incident as a\npossible accidental fire after investigators found a fiber fragment attached to\nan electric heater in the storage room next to a music classroom. It was not\nimmediately clear how the teacher's use of the air circulators was related to\ninvestigators' findings involving the electric heater or whether either may have\ncontributed to the fire. The teacher expressed regret over her actions,\ninvestigators said. Multiple burned clothes and hangers were found in the\nstorage room after the fire. According to the police, the fire broke out at\naround 11 a.m. Friday at the school in Tokyo's Kita Ward, while 24 fifth graders\nwere attending the teacher's class in an adjacent music room. The police said\nthey found signs of a short circuit on the heater's power cord, but no evidence\nof an electrical leak. A total of 11 people, including pupils, were taken to the\nhospital, with the teacher and one student suffering fractures. The fire was\nextinguished about three hours after it started. submitted by /u/SkyInJapan\n[link] [comments]",
+      "content": "A teacher in her 40s told investigators she had used air circulators to dry\nlaundry in the room where a fire is believed to have started at a Tokyo\nelementary school before the blaze broke out last week, Tokyo police said\nWednesday.\n\nThe Metropolitan Police Department is investigating the incident as a possible\naccidental fire after investigators found a fiber fragment attached to an\nelectric heater in the storage room next to a music classroom.\n\nIt was not immediately clear how the teacher's use of the air circulators was\nrelated to investigators' findings involving the electric heater or whether\neither may have contributed to the fire.\n\nThe teacher expressed regret over her actions, investigators said. Multiple\nburned clothes and hangers were found in the storage room after the fire.\n\nAccording to the police, the fire broke out at around 11 a.m. Friday at the\nschool in Tokyo's Kita Ward, while 24 fifth graders were attending the teacher's\nclass in an adjacent music room.\n\nThe police said they found signs of a short circuit on the heater's power cord,\nbut no evidence of an electrical leak.\n\nA total of 11 people, including pupils, were taken to the hospital, with the\nteacher and one student suffering fractures.\n\nThe fire was extinguished about three hours after it started.\n\nsubmitted by /u/SkyInJapan [https://old.reddit.com/user/SkyInJapan]\n[link] [https://mainichi.jp/english/articles/20260624/p2g/00m/0na/058000c]\n[comments]\n[https://old.reddit.com/r/japan/comments/1ueg1z2/teacher_dried_laundry_in_room_where_tokyo_school/]",
+      "url": "https://old.reddit.com/r/japan/comments/1ueg1z2/teacher_dried_laundry_in_room_where_tokyo_school",
+      "publishedAt": "2026-06-24T15:04:40.000Z",
+      "author": "/u/SkyInJapan",
+      "categories": [],
+      "source": {
+        "name": "/r/japan",
+        "url": "https://old.reddit.com/r/japan/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/politics/20260624-GYT1T00538/",
+      "title": "消費税「実質ゼロ化」へ、新たな給付は「１５歳以下の子どもの数」に応じ加算…来年４月から２年間",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/politics/20260624-GYT1T00538",
+      "publishedAt": "2026-06-24T15:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "http://www.asahi.com/articles/ASV6S4TP4V6SPTIL008M.html?ref=rss",
+      "title": "配送中の車奪われ引きずられる、男が逃走　強盗殺人未遂容疑で捜査",
+      "description": "",
+      "content": "",
+      "url": "http://asahi.com/articles/ASV6S4TP4V6SPTIL008M.html?ref=rss",
+      "publishedAt": "2026-06-24T14:58:30.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "asahi.com",
+        "url": "http://www.asahi.com/"
+      }
+    },
+    {
+      "id": "http://www3.nhk.or.jp/news/html/20260624/k10015158381000.html",
+      "title": "【随時更新】サッカーW杯 1次リーグ 日程・結果 動画も",
+      "description": "サッカーワールドカップ2026。史上最多48チームが出場し、1次リーグは48チームが4チームずつ、12のグループに分かれて争います。各チーム、1次リーグ最終第3戦です。試合日程を日本時間の日付順にお伝えするとともに、結果をハイライト動画の配信も交え、随時更新してお伝えします。",
+      "content": "サッカーワールドカップ2026。史上最多48チームが出場し、1次リーグは48チームが4チームずつ、12のグループに分かれて争います。各チーム、1次リーグ最終第3戦です。試合日程を日本時間の日付順にお伝えするとともに、結果をハイライト動画の配信も交え、随時更新してお伝えします。",
+      "url": "http://www3.nhk.or.jp/news/html/20260624/k10015158381000.html",
+      "publishedAt": "2026-06-24T14:51:25.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "www3.nhk.or.jp",
+        "url": "http://www3.nhk.or.jp/news/"
+      }
+    },
+    {
+      "id": "http://www.asahi.com/articles/ASV6S4SHVV6SUHBI02KM.html?ref=rss",
+      "title": "フジモリ元大統領の娘ケイコ氏が優勢、逆転不可能か　ペルー大統領選",
+      "description": "",
+      "content": "",
+      "url": "http://asahi.com/articles/ASV6S4SHVV6SUHBI02KM.html?ref=rss",
+      "publishedAt": "2026-06-24T14:48:55.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "asahi.com",
+        "url": "http://www.asahi.com/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGN24C2Z0U6A620C2000000/",
+      "title": "米原油一時70ドル割れ、3カ月ぶり　ホルムズ海峡の懸念緩和で",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGN24C2Z0U6A620C2000000",
+      "publishedAt": "2026-06-24T14:48:42.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUA247Q40U6A620C2000000/",
+      "title": "小泉防衛相、安保巡り「更なる関係強化を」　カナダ国防相と会談",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUA247Q40U6A620C2000000",
+      "publishedAt": "2026-06-24T14:47:09.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/world/20260624-GYT1T00515/",
+      "title": "［深層ＮＥＷＳ］中国で邦人２人拘束「そろそろ譲歩してほしいという高市政権へのメッセージ」…東京財団・柯隆氏",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/world/20260624-GYT1T00515",
+      "publishedAt": "2026-06-24T14:40:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://news.yahoo.co.jp/pickup/6585538?source=rss",
+      "title": "中国で拘束の2人は富士電機社員",
+      "description": "",
+      "content": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585538?source=rss",
+      "publishedAt": "2026-06-24T14:39:25.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
+      }
+    },
+    {
+      "id": "https://mainichi.jp/articles/20260624/k00/00m/040/290000c",
+      "title": "皇室典範改正案要綱を正副議長が了承　養子は「例外」も規定",
+      "description": "",
+      "content": "",
+      "url": "https://mainichi.jp/articles/20260624/k00/00m/040/290000c",
+      "publishedAt": "2026-06-24T14:37:43.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "mainichi.jp",
+        "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/koushitsu/20260624-GYT1T00406/",
+      "title": "両陛下の訪問、地元紙が「ベルギーと日本は断ち切れない絆がある」と１面で報じる",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/koushitsu/20260624-GYT1T00406",
+      "publishedAt": "2026-06-24T14:30:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://mainichi.jp/articles/20260624/k00/00m/040/295000c",
+      "title": "警報級大雨の恐れ、26日にかけ広範囲で　台風7号も影響",
+      "description": "",
+      "content": "",
+      "url": "https://mainichi.jp/articles/20260624/k00/00m/040/295000c",
+      "publishedAt": "2026-06-24T14:27:03.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "mainichi.jp",
+        "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
+      }
+    },
+    {
+      "id": "http://www.asahi.com/articles/ASV6S4QXYV6SUHBI02GM.html?ref=rss",
+      "title": "NY原油が下落、一時70ドル割る　米イラン戦闘開始直後の3月以来",
+      "description": "",
+      "content": "",
+      "url": "http://asahi.com/articles/ASV6S4QXYV6SUHBI02GM.html?ref=rss",
+      "publishedAt": "2026-06-24T14:23:47.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "asahi.com",
+        "url": "http://www.asahi.com/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/politics/20260624-GYT1T00493/",
+      "title": "旧宮家の男系男子養子は「例外措置」と位置づけ…皇室典範改正案の要綱、衆参正副議長が了承",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/politics/20260624-GYT1T00493",
+      "publishedAt": "2026-06-24T14:20:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://mainichi.jp/articles/20260624/k00/00m/020/333000c",
+      "title": "クールジャパン機構の累積赤字540億円　経産省が統廃合検討へ",
+      "description": "",
+      "content": "",
+      "url": "https://mainichi.jp/articles/20260624/k00/00m/020/333000c",
+      "publishedAt": "2026-06-24T14:19:58.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "mainichi.jp",
+        "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
+      }
+    },
+    {
+      "id": "https://news.yahoo.co.jp/pickup/6585536?source=rss",
+      "title": "皇室典範改正 正副議長が要綱了承",
+      "description": "",
+      "content": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585536?source=rss",
+      "publishedAt": "2026-06-24T14:19:02.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
+      }
+    },
+    {
+      "id": "https://news.yahoo.co.jp/pickup/6585535?source=rss",
+      "title": "間寛平 キスマイ二階堂と友達に",
+      "description": "",
+      "content": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585535?source=rss",
+      "publishedAt": "2026-06-24T14:10:26.000Z",
       "author": null,
       "categories": [],
       "source": {
@@ -46,20 +788,6 @@
       }
     },
     {
-      "id": "https://news.yahoo.co.jp/pickup/6585533?source=rss",
-      "title": "ビッグダディ結婚 自分自身も驚き",
-      "description": "",
-      "content": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585533?source=rss",
-      "publishedAt": "2026-06-24T13:47:09.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "news.yahoo.co.jp",
-        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
-      }
-    },
-    {
       "id": "https://mainichi.jp/articles/20260624/k00/00m/050/357000c",
       "title": "タカの5番は打線の「つなぎ役」　牧原大成、対応力の2点適時打",
       "description": "",
@@ -71,6 +799,20 @@
       "source": {
         "name": "mainichi.jp",
         "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/world/20260624-GYT1T00470/",
+      "title": "トランプ氏の指導力「信頼していない」７６％、さらに低評価はネタニヤフ首相のみ…３６か国・地域世論調査",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/world/20260624-GYT1T00470",
+      "publishedAt": "2026-06-24T13:40:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
@@ -88,6 +830,20 @@
       }
     },
     {
+      "id": "https://news.yahoo.co.jp/pickup/6585529?source=rss",
+      "title": "食品スーパー「小型化」の波 背景",
+      "description": "",
+      "content": "",
+      "url": "https://news.yahoo.co.jp/pickup/6585529?source=rss",
+      "publishedAt": "2026-06-24T13:35:45.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
+      }
+    },
+    {
       "id": "http://www.asahi.com/articles/ASV6S4F51V6SUTIL03MM.html?ref=rss",
       "title": "天皇陛下、オランダ・ベルギー訪問　「温かく迎えられ、心から感謝」",
       "description": "",
@@ -102,31 +858,17 @@
       }
     },
     {
-      "id": "https://news.yahoo.co.jp/pickup/6585527?source=rss",
-      "title": "5歳男児不明 川が増水し捜索難航",
+      "id": "https://www.yomiuri.co.jp/national/20260624-GYT1T00439/",
+      "title": "台風７号、２７日にかけ九州付近から関東方面へ…台風８号は２６日までに熱帯低気圧に変わる見込み",
       "description": "",
       "content": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585527?source=rss",
-      "publishedAt": "2026-06-24T13:26:48.000Z",
+      "url": "https://yomiuri.co.jp/national/20260624-GYT1T00439",
+      "publishedAt": "2026-06-24T13:20:00.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "news.yahoo.co.jp",
-        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
-      }
-    },
-    {
-      "id": "https://news.yahoo.co.jp/pickup/6585526?source=rss",
-      "title": "クールジャパン機構 統廃合検討へ",
-      "description": "",
-      "content": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585526?source=rss",
-      "publishedAt": "2026-06-24T13:18:34.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "news.yahoo.co.jp",
-        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
@@ -158,6 +900,20 @@
       }
     },
     {
+      "id": "https://www.yomiuri.co.jp/sports/npb/20260624-GYT1T00466/",
+      "title": "ソフトバンクが逆転でオリックス戦の連敗４で止める…日本ハムは野村佑希が２打席連続弾",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/sports/npb/20260624-GYT1T00466",
+      "publishedAt": "2026-06-24T13:15:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
       "id": "https://mainichi.jp/articles/20260624/k00/00m/040/346000c",
       "title": "花火投げ？ホームレスの男性にやけど負わせた疑い　2人を逮捕",
       "description": "",
@@ -183,20 +939,6 @@
       "source": {
         "name": "asahi.com",
         "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "https://mainichi.jp/articles/20260624/k00/00m/040/295000c",
-      "title": "警報級大雨の恐れ、26日にかけ広範囲で　台風7号も影響",
-      "description": "",
-      "content": "",
-      "url": "https://mainichi.jp/articles/20260624/k00/00m/040/295000c",
-      "publishedAt": "2026-06-24T13:05:58.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "mainichi.jp",
-        "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
       }
     },
     {
@@ -298,20 +1040,6 @@
       }
     },
     {
-      "id": "http://www3.nhk.or.jp/news/html/20260624/k10015157951000.html",
-      "title": "17戦略分野への投資額 2040年度までに「370兆円超」",
-      "description": "政府の経済財政諮問会議などの合同会議が開かれ、新たな成長戦略の策定に向けて、AI・半導体や造船など17の戦略分野に官民が連携して投資する規模を2040年度までに「総額370兆円を超える」と想定する計画をまとめました。高市総理大臣は予算編成のあり方を見直し、複数年度の計画に基づく「『強く豊かな日本』投資枠」を創設する考えを示しました。",
-      "content": "政府の経済財政諮問会議などの合同会議が開かれ、新たな成長戦略の策定に向けて、AI・半導体や造船など17の戦略分野に官民が連携して投資する規模を2040年度までに「総額370兆円を超える」と想定する計画をまとめました。高市総理大臣は予算編成のあり方を見直し、複数年度の計画に基づく「『強く豊かな日本』投資枠」を創設する考えを示しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260624/k10015157951000.html",
-      "publishedAt": "2026-06-24T12:41:31.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "www3.nhk.or.jp",
-        "url": "http://www3.nhk.or.jp/news/"
-      }
-    },
-    {
       "id": "http://www.asahi.com/articles/ASV6S42PFV6SOIPE00SM.html?ref=rss",
       "title": "飼い犬のピットブルをなでさせ、けがをさせた疑い　暴力団幹部ら逮捕",
       "description": "",
@@ -337,20 +1065,6 @@
       "source": {
         "name": "mainichi.jp",
         "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
-      }
-    },
-    {
-      "id": "http://www3.nhk.or.jp/news/html/20260624/k10015157571000.html",
-      "title": "九州北部 線状降水帯のおそれ 台風7号は沖縄に近づく見込み",
-      "description": "停滞する梅雨前線の影響で、九州では大雨となり、南部などで被害が相次ぎましたが、25日も非常に激しい雨が降る見込みで、九州北部では線状降水帯が発生して、災害の危険度が急激に高まるおそれがあります。安全な場所で過ごすようにしてください。また、強い台風7号は26日にかけて沖縄県に近づく見込みで、沖縄県では暴風に厳重に警戒してください。",
-      "content": "停滞する梅雨前線の影響で、九州では大雨となり、南部などで被害が相次ぎましたが、25日も非常に激しい雨が降る見込みで、九州北部では線状降水帯が発生して、災害の危険度が急激に高まるおそれがあります。安全な場所で過ごすようにしてください。また、強い台風7号は26日にかけて沖縄県に近づく見込みで、沖縄県では暴風に厳重に警戒してください。",
-      "url": "http://www3.nhk.or.jp/news/html/20260624/k10015157571000.html",
-      "publishedAt": "2026-06-24T12:34:12.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "www3.nhk.or.jp",
-        "url": "http://www3.nhk.or.jp/news/"
       }
     },
     {
@@ -410,20 +1124,6 @@
       }
     },
     {
-      "id": "https://mainichi.jp/articles/20260624/k00/00m/020/333000c",
-      "title": "クールジャパン機構の累積赤字540億円　経産省が統廃合検討へ",
-      "description": "",
-      "content": "",
-      "url": "https://mainichi.jp/articles/20260624/k00/00m/020/333000c",
-      "publishedAt": "2026-06-24T12:17:28.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "mainichi.jp",
-        "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
-      }
-    },
-    {
       "id": "http://www.asahi.com/articles/ASV6S3CMGV6SUTPB013M.html?ref=rss",
       "title": "藤井聡太六冠を将棋より悩ませる？　王位戦「勝負めし」候補が92品",
       "description": "",
@@ -463,20 +1163,6 @@
       "source": {
         "name": "/r/japan",
         "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUD230L40T20C26A6000000/",
-      "title": "東京・北区の小学校火災、「洗濯物乾かしていた」教員説明",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUD230L40T20C26A6000000",
-      "publishedAt": "2026-06-24T12:00:24.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -550,20 +1236,6 @@
       }
     },
     {
-      "id": "http://www3.nhk.or.jp/news/html/20260624/k10015158351000.html",
-      "title": "東京 北区 小学校火事 教員“準備室で洗濯物乾かしていた”",
-      "description": "東京\n北区の小学校で児童と教職員合わせて11人が重軽傷を負った火事で、火元とみられる4階の音楽準備室の隣で授業を行っていた教員が「準備室で洗濯物を乾かしていた」と話していることが警視庁への取材で分かりました。準備室には焼けた電気ストーブや風で空気を循環させるサーキュレーターがあったということで、警視庁は洗濯物を乾かしている最中に何らかの原因で火が出たとみて調べています。",
-      "content": "東京\n北区の小学校で児童と教職員合わせて11人が重軽傷を負った火事で、火元とみられる4階の音楽準備室の隣で授業を行っていた教員が「準備室で洗濯物を乾かしていた」と話していることが警視庁への取材で分かりました。準備室には焼けた電気ストーブや風で空気を循環させるサーキュレーターがあったということで、警視庁は洗濯物を乾かしている最中に何らかの原因で火が出たとみて調べています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260624/k10015158351000.html",
-      "publishedAt": "2026-06-24T11:51:18.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "www3.nhk.or.jp",
-        "url": "http://www3.nhk.or.jp/news/"
-      }
-    },
-    {
       "id": "https://mainichi.jp/articles/20260624/k00/00m/020/307000c",
       "title": "経済プラス:「20兆円超欲しい」の声もあった政府支出　10兆円に込めた意味は",
       "description": "",
@@ -634,40 +1306,12 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOUA247Q40U6A620C2000000/",
-      "title": "小泉防衛相、安保巡り「更なる関係強化を」　カナダ国防相と会談",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUA247Q40U6A620C2000000",
-      "publishedAt": "2026-06-24T11:45:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
       "id": "https://mainichi.jp/articles/20260624/k00/00m/030/289000c",
       "title": "ホルムズ海峡の通航量ほぼ戻らず　米イラン覚書から1週間",
       "description": "",
       "content": "",
       "url": "https://mainichi.jp/articles/20260624/k00/00m/030/289000c",
       "publishedAt": "2026-06-24T11:44:56.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "mainichi.jp",
-        "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
-      }
-    },
-    {
-      "id": "https://mainichi.jp/articles/20260624/k00/00m/040/290000c",
-      "title": "皇室典範改正案要綱を正副議長が了承　養子は「例外」も規定",
-      "description": "",
-      "content": "",
-      "url": "https://mainichi.jp/articles/20260624/k00/00m/040/290000c",
-      "publishedAt": "2026-06-24T11:42:28.000Z",
       "author": null,
       "categories": [],
       "source": {
@@ -715,34 +1359,6 @@
       "source": {
         "name": "asahi.com",
         "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUC24A560U6A620C2000000/",
-      "title": "日産、国内工場で早期退職募集　追浜や栃木などの事務職が対象",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUC24A560U6A620C2000000",
-      "publishedAt": "2026-06-24T11:38:28.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOGM243WW0U6A620C2000000/",
-      "title": "中国バイトダンス、AIアプリに有料プラン　専門業務対応で課金",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGM243WW0U6A620C2000000",
-      "publishedAt": "2026-06-24T11:36:37.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -816,48 +1432,6 @@
       }
     },
     {
-      "id": "https://www.yomiuri.co.jp/national/20260624-GYT1T00439/",
-      "title": "台風７号、２７日にかけ九州付近から関東方面へ…台風８号は２６日までに熱帯低気圧に変わる見込み",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/national/20260624-GYT1T00439",
-      "publishedAt": "2026-06-24T11:25:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOCC245390U6A620C2000000/",
-      "title": "静岡・磐田商議所　引きこもりの就労支援　当事者と企業を結ぶ",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCC245390U6A620C2000000",
-      "publishedAt": "2026-06-24T11:25:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOFC246S70U6A620C2000000/",
-      "title": "岩田地崎建設の岩田幸治新社長「現場でICT、AI活用し効率化」",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOFC246S70U6A620C2000000",
-      "publishedAt": "2026-06-24T11:21:07.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
       "id": "https://www.yomiuri.co.jp/national/20260624-GYT1T00437/",
       "title": "中央・総武各駅停車が運転再開…中野駅の人身事故で一時見合わせ",
       "description": "",
@@ -872,20 +1446,6 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOUA246SH0U6A620C2000000/",
-      "title": "地方の産業集積へ「インフラ整備や人材育成を」　政府、政策集を公表",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUA246SH0U6A620C2000000",
-      "publishedAt": "2026-06-24T11:20:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
       "id": "https://mainichi.jp/articles/20260624/k00/00m/010/298000c",
       "title": "自民、処罰対象は曖昧な説明　国旗損壊罪法案が審議入り",
       "description": "",
@@ -897,48 +1457,6 @@
       "source": {
         "name": "mainichi.jp",
         "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUB24AW30U6A620C2000000/",
-      "title": "東京金融取引所社長に山下氏",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUB24AW30U6A620C2000000",
-      "publishedAt": "2026-06-24T11:17:22.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUC244XO0U6A620C2000000/",
-      "title": "JERA、石炭火力電力の販売再開を検討　中東情勢受け企業向けに安く",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUC244XO0U6A620C2000000",
-      "publishedAt": "2026-06-24T11:16:19.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOGM249RR0U6A620C2000000/",
-      "title": "シンガポール航空とマレーシア航空、共同運賃を導入",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGM249RR0U6A620C2000000",
-      "publishedAt": "2026-06-24T11:16:17.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -970,31 +1488,17 @@
       }
     },
     {
-      "id": "https://www.yomiuri.co.jp/world/20260624-GYT1T00440/",
-      "title": "史上最も暑いフランスで４４・３度、各地で４０人が溺死…イタリアは日中の農作業や建設作業を禁止",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/world/20260624-GYT1T00440",
-      "publishedAt": "2026-06-24T11:15:00.000Z",
+      "id": "http://www3.nhk.or.jp/news/html/20260624/k10015158691000.html",
+      "title": "官民ファンド クールジャパン機構 累積赤字拡大 統廃合検討へ",
+      "description": "政府と民間が共同で出資する官民ファンド「クールジャパン機構」は24日、昨年度までの累積赤字が540億円に拡大したと発表しました。累積赤字の目標を達成できなかったため、政府は統廃合に向けた検討を進め、年内をめどに結論を出すことにしています。",
+      "content": "政府と民間が共同で出資する官民ファンド「クールジャパン機構」は24日、昨年度までの累積赤字が540億円に拡大したと発表しました。累積赤字の目標を達成できなかったため、政府は統廃合に向けた検討を進め、年内をめどに結論を出すことにしています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260624/k10015158691000.html",
+      "publishedAt": "2026-06-24T11:14:48.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOGM2485S0U6A620C2000000/",
-      "title": "台湾半導体ASE「生産能力、全力で引き上げ」　26年は15工場",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGM2485S0U6A620C2000000",
-      "publishedAt": "2026-06-24T11:14:25.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
+        "name": "www3.nhk.or.jp",
+        "url": "http://www3.nhk.or.jp/news/"
       }
     },
     {
@@ -1012,17 +1516,17 @@
       }
     },
     {
-      "id": "http://www.asahi.com/articles/ASV6S3HFBV6SULZU004M.html?ref=rss",
-      "title": "食料品、27年4月に消費税1%　中間とりまとめ案、外食産業支援も",
-      "description": "",
-      "content": "",
-      "url": "http://asahi.com/articles/ASV6S3HFBV6SULZU004M.html?ref=rss",
-      "publishedAt": "2026-06-24T11:07:13.000Z",
+      "id": "http://www3.nhk.or.jp/news/html/20260624/k10015158651000.html",
+      "title": "日産株主総会 再任否決された永井氏の賛成率は48％余",
+      "description": "日産自動車の株主総会で社外取締役への再任が否決されたみずほフィナンシャルグループ出身の永井素夫氏について、賛成率が48％余りだったことがわかりました。大株主のルノーが採決を棄権していて、今後の経営にどのような影響が出てくるかが焦点となります。",
+      "content": "日産自動車の株主総会で社外取締役への再任が否決されたみずほフィナンシャルグループ出身の永井素夫氏について、賛成率が48％余りだったことがわかりました。大株主のルノーが採決を棄権していて、今後の経営にどのような影響が出てくるかが焦点となります。",
+      "url": "http://www3.nhk.or.jp/news/html/20260624/k10015158651000.html",
+      "publishedAt": "2026-06-24T11:07:23.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "asahi.com",
-        "url": "http://www.asahi.com/"
+        "name": "www3.nhk.or.jp",
+        "url": "http://www3.nhk.or.jp/news/"
       }
     },
     {
@@ -1037,20 +1541,6 @@
       "source": {
         "name": "news.yahoo.co.jp",
         "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOCC245WH0U6A620C2000000/",
-      "title": "浜松市、将棋王位戦の勝負めし・おやつ候補発表　藤井聡太王位へ提供",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCC245WH0U6A620C2000000",
-      "publishedAt": "2026-06-24T11:05:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -1110,101 +1600,17 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOUA229UM0S6A420C2000000/",
-      "title": "成長戦略、検証役不在の日本　G7で唯一「独立財政機関」なし",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUA229UM0S6A420C2000000",
-      "publishedAt": "2026-06-24T11:00:00.000Z",
+      "id": "http://www3.nhk.or.jp/news/html/20260624/k10015158541000.html",
+      "title": "人形に隠して金塊密輸か 東京税関が53億円相当押収 解明へ",
+      "description": "およそ10億円相当の金塊を等身大の人形に隠して中国から成田空港に密輸しようとし、消費税などを免れようとしたなどとして、中国籍の会社社長ら6人が逮捕された事件で、東京税関はこのグループが同じような手口で密輸した疑いのあるおよそ242キロ、53億円相当の金を押収したということで、事件の全容の解明を進めることにしています。",
+      "content": "およそ10億円相当の金塊を等身大の人形に隠して中国から成田空港に密輸しようとし、消費税などを免れようとしたなどとして、中国籍の会社社長ら6人が逮捕された事件で、東京税関はこのグループが同じような手口で密輸した疑いのあるおよそ242キロ、53億円相当の金を押収したということで、事件の全容の解明を進めることにしています。",
+      "url": "http://www3.nhk.or.jp/news/html/20260624/k10015158541000.html",
+      "publishedAt": "2026-06-24T10:52:43.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUB247C20U6A620C2000000/",
-      "title": "日銀の植田総裁、利上げ継続に言及「金融環境は緩和的」",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUB247C20U6A620C2000000",
-      "publishedAt": "2026-06-24T11:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOH1225HR0S6A620C2000000/",
-      "title": "人事、日経BP",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOH1225HR0S6A620C2000000",
-      "publishedAt": "2026-06-24T11:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUB226XT0S6A620C2000000/",
-      "title": "仮想通貨投資「DAT企業」株価指数組み入れで論争　TOPIXは除外へ",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUB226XT0S6A620C2000000",
-      "publishedAt": "2026-06-24T10:58:48.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOCC03CSZ0T00C26A6000000/",
-      "title": "カスタムパーツのHKS、改造車8車種を販売　部品事業に次ぐ柱に",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCC03CSZ0T00C26A6000000",
-      "publishedAt": "2026-06-24T10:55:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUF2443G0U6A620C2000000/",
-      "title": "大阪都構想、府全域の住民投票見送り　残念がるのは「吉村代表だけ」",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUF2443G0U6A620C2000000",
-      "publishedAt": "2026-06-24T10:53:09.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOH1248640U6A620C2000000/",
-      "title": "人事、金融庁",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOH1248640U6A620C2000000",
-      "publishedAt": "2026-06-24T10:52:28.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
+        "name": "www3.nhk.or.jp",
+        "url": "http://www3.nhk.or.jp/news/"
       }
     },
     {
@@ -1219,20 +1625,6 @@
       "source": {
         "name": "asahi.com",
         "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOH1245860U6A620C2000000/",
-      "title": "人事、中小企業庁",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOH1245860U6A620C2000000",
-      "publishedAt": "2026-06-24T10:51:29.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -1264,20 +1656,6 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOSG247UP0U6A620C2000000/",
-      "title": "JAXA、探査機「はやぶさ2」のエンジン劣化　31年計画に影響も",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOSG247UP0U6A620C2000000",
-      "publishedAt": "2026-06-24T10:51:15.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
       "id": "https://www.yomiuri.co.jp/economy/20260624-GYT1T00433/",
       "title": "クールジャパン機構の累積損失５４０億円…政府が１４００億円出資、経産省が統廃合を視野に検討",
       "description": "",
@@ -1289,76 +1667,6 @@
       "source": {
         "name": "yomiuri.co.jp",
         "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUA248OO0U6A620C2000000/",
-      "title": "司法AIの活用、判断の透明性確保を　自民党が法務省に提言",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUA248OO0U6A620C2000000",
-      "publishedAt": "2026-06-24T10:47:43.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOCC244Q80U6A620C2000000/",
-      "title": "福島県で酒米の生産拡大へ大会　酒造会社と米生産者が交流",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCC244Q80U6A620C2000000",
-      "publishedAt": "2026-06-24T10:46:25.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUD249HF0U6A620C2000000/",
-      "title": "故河野洋平氏（元衆院議長）をしのぶ会",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUD249HF0U6A620C2000000",
-      "publishedAt": "2026-06-24T10:42:21.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOCC23BKG0T20C26A6000000/",
-      "title": "マックスバリュ東海、伊豆産サマーオレンジのサワー発売",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCC23BKG0T20C26A6000000",
-      "publishedAt": "2026-06-24T10:40:25.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOCC233970T20C26A6000000/",
-      "title": "エンビプロHD、板金加工機を鉄資源に再生　アマダ・東京製鉄と連携",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCC233970T20C26A6000000",
-      "publishedAt": "2026-06-24T10:35:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -1404,76 +1712,6 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOCC243DA0U6A620C2000000/",
-      "title": "富山地方鉄道の新社長に新庄一洋氏　鉄道線再構築の議論加速へ",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCC243DA0U6A620C2000000",
-      "publishedAt": "2026-06-24T10:30:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUA251U40V20C26A5000000/",
-      "title": "自民党、安保3文書改定に向けた政府への提言全文",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUA251U40V20C26A5000000",
-      "publishedAt": "2026-06-24T10:30:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUF24A5Q0U6A620C2000000/",
-      "title": "ダイドー、缶コーヒーなど10〜15%値上げ　10月から83品目で",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUF24A5Q0U6A620C2000000",
-      "publishedAt": "2026-06-24T10:29:20.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUA23A540T20C26A6000000/",
-      "title": "消費税減税、農業・外食産業に資金繰り支援　中間とりまとめ案",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUA23A540T20C26A6000000",
-      "publishedAt": "2026-06-24T10:29:20.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "http://www3.nhk.or.jp/news/html/20260624/k10015157901000.html",
-      "title": "台風7号 沖縄の南の海上を進む あすから非常に強い風の見込み",
-      "description": "強い台風7号は沖縄の南の海上を北寄りに進んでいて、25日から26日にかけて暴風域を伴って沖縄県に接近する見込みです。気象庁は、沖縄県では、暴風に厳重に警戒し、高波にも警戒するよう呼びかけています。",
-      "content": "強い台風7号は沖縄の南の海上を北寄りに進んでいて、25日から26日にかけて暴風域を伴って沖縄県に接近する見込みです。気象庁は、沖縄県では、暴風に厳重に警戒し、高波にも警戒するよう呼びかけています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260624/k10015157901000.html",
-      "publishedAt": "2026-06-24T10:22:04.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "www3.nhk.or.jp",
-        "url": "http://www3.nhk.or.jp/news/"
-      }
-    },
-    {
       "id": "http://www.asahi.com/articles/ASV6S34XZV6SUTFK019M.html?ref=rss",
       "title": "首相の中傷動画の答弁回避で与野党対立　自民「参院が大変なことに」",
       "description": "",
@@ -1485,20 +1723,6 @@
       "source": {
         "name": "asahi.com",
         "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "http://www3.nhk.or.jp/news/html/20260624/k10015158641000.html",
-      "title": "北海道 高校生殺害事件で懲役27年判決 被告 控訴しない意向",
-      "description": "おととし、当時17歳の高校生を北海道旭川市の渓谷にある橋から川に落下させて殺害した罪などに問われ、懲役27年の判決を受けた23歳の被告が、控訴しない意向を示していることが被告の弁護士への取材で分かりました。",
-      "content": "おととし、当時17歳の高校生を北海道旭川市の渓谷にある橋から川に落下させて殺害した罪などに問われ、懲役27年の判決を受けた23歳の被告が、控訴しない意向を示していることが被告の弁護士への取材で分かりました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260624/k10015158641000.html",
-      "publishedAt": "2026-06-24T10:14:15.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "www3.nhk.or.jp",
-        "url": "http://www3.nhk.or.jp/news/"
       }
     },
     {
@@ -1555,34 +1779,6 @@
       "source": {
         "name": "asahi.com",
         "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "http://www.asahi.com/articles/ASV6S346LV6SIIPE01NM.html?ref=rss",
-      "title": "旭川高校生殺害、23歳被告が控訴しない意向　懲役27年の地裁判決",
-      "description": "",
-      "content": "",
-      "url": "http://asahi.com/articles/ASV6S346LV6SIIPE01NM.html?ref=rss",
-      "publishedAt": "2026-06-24T10:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "asahi.com",
-        "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/koushitsu/20260624-GYT1T00406/",
-      "title": "両陛下の訪問、地元紙が「ベルギーと日本は断ち切れない絆がある」と１面で報じる",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/koushitsu/20260624-GYT1T00406",
-      "publishedAt": "2026-06-24T10:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
@@ -1670,20 +1866,6 @@
       }
     },
     {
-      "id": "https://news.yahoo.co.jp/pickup/6585500?source=rss",
-      "title": "小学校火災 洗濯物乾かしたと教師",
-      "description": "",
-      "content": "",
-      "url": "https://news.yahoo.co.jp/pickup/6585500?source=rss",
-      "publishedAt": "2026-06-24T09:02:21.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "news.yahoo.co.jp",
-        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
-      }
-    },
-    {
       "id": "https://www.yomiuri.co.jp/economy/20260624-GYT1T00396/",
       "title": "東京円、２４銭安の１ドル＝１６１円７１～７３銭",
       "description": "",
@@ -1751,20 +1933,6 @@
       "source": {
         "name": "yomiuri.co.jp",
         "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "http://www.asahi.com/articles/ASV6S2R6YV6SUHBI00ZM.html?ref=rss",
-      "title": "中国外務省、日本人2人の拘束認める　「法律順守を教育すべき」",
-      "description": "",
-      "content": "",
-      "url": "http://asahi.com/articles/ASV6S2R6YV6SUHBI00ZM.html?ref=rss",
-      "publishedAt": "2026-06-24T08:37:20.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "asahi.com",
-        "url": "http://www.asahi.com/"
       }
     },
     {
@@ -1992,101 +2160,17 @@
       }
     },
     {
-      "id": "https://www.yomiuri.co.jp/national/20260624-GYT1T00234/",
-      "title": "市立中で別の生徒に道路をなめるよう指示か、ＳＮＳで動画拡散…「重大事態」可能性も視野に市教委が調査へ",
+      "id": "https://news.yahoo.co.jp/pickup/6585485?source=rss",
+      "title": "小学校火災 失火の容疑で捜査",
       "description": "",
       "content": "",
-      "url": "https://yomiuri.co.jp/national/20260624-GYT1T00234",
-      "publishedAt": "2026-06-24T06:38:00.000Z",
+      "url": "https://news.yahoo.co.jp/pickup/6585485?source=rss",
+      "publishedAt": "2026-06-24T06:34:19.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/national/20260624-GYT1T00178/",
-      "title": "市担当課が市長の「資産等報告書」の作成失念、公開が半年遅れる",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/national/20260624-GYT1T00178",
-      "publishedAt": "2026-06-24T06:37:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/national/20260624-GYT1T00307/",
-      "title": "エアコン工事で委託業者への報酬を据え置く買いたたきを認定…公取委が「ベイシア電器」に再発防止勧告",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/national/20260624-GYT1T00307",
-      "publishedAt": "2026-06-24T06:30:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/world/20260624-GYT1T00079/",
-      "title": "仏大学劇団がＡＩで１７世紀の仏劇作家・モリエールの「新作」を完成…創作のあり方に賛否",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/world/20260624-GYT1T00079",
-      "publishedAt": "2026-06-24T06:30:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/national/20260624-GYT1T00360/",
-      "title": "青森・八甲田山系の山中でタケノコ採りの７０歳代女性、「クマに襲われた」通報…両脚にけが",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/national/20260624-GYT1T00360",
-      "publishedAt": "2026-06-24T06:18:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/election/shugiin/20260624-GYT1T00191/",
-      "title": "三重３区で岡田克也氏に「まさか」の勝利、支援者驚き高市首相も称賛…石原正敬氏「岡田さんと戦うのは宿命」",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/election/shugiin/20260624-GYT1T00191",
-      "publishedAt": "2026-06-24T06:12:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/economy/20260624-GYT1T00140/",
-      "title": "５月の企業向けサービス価格、３・３％上昇…中東情勢の悪化で輸送など上昇目立つ",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/economy/20260624-GYT1T00140",
-      "publishedAt": "2026-06-24T06:10:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
+        "name": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
       }
     },
     {
@@ -2132,68 +2216,12 @@
       }
     },
     {
-      "id": "https://www.yomiuri.co.jp/economy/20260624-GYT1T00337/",
-      "title": "水産庁、養殖魚の輸出強化に向け「高栄養プランクトン」量産化へ…７月から餌改良の実証試験",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/economy/20260624-GYT1T00337",
-      "publishedAt": "2026-06-24T06:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/sports/sumo/20260624-GYT1T00310/",
-      "title": "「相撲甚句」教習所で復活、若手に継承　美声の元勢講師…江戸起源の民謡",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/sports/sumo/20260624-GYT1T00310",
-      "publishedAt": "2026-06-24T06:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/national/20260624-GYT1T00305/",
-      "title": "［しあわせ小箱］８６歳のケーキ職人＜３＞きれいに焼けるまで３年",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/national/20260624-GYT1T00305",
-      "publishedAt": "2026-06-24T06:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
       "id": "http://www.asahi.com/articles/ASV6D34DNV6DUEFT00CM.html?ref=rss",
       "title": "【解説人語】W杯「歴代最強」日本の戦術　森保監督の「師匠」は？",
       "description": "",
       "content": "",
       "url": "http://asahi.com/articles/ASV6D34DNV6DUEFT00CM.html?ref=rss",
       "publishedAt": "2026-06-24T05:46:48.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "asahi.com",
-        "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "http://www.asahi.com/articles/ASV6S13ZGV6SUGTB006M.html?ref=rss",
-      "title": "福島の廃炉目標「合理的」　IAEA事務局長、イラン核査察にも言及",
-      "description": "",
-      "content": "",
-      "url": "http://asahi.com/articles/ASV6S13ZGV6SUGTB006M.html?ref=rss",
-      "publishedAt": "2026-06-24T04:00:00.000Z",
       "author": null,
       "categories": [],
       "source": {
@@ -2433,34 +2461,6 @@
       "url": "https://old.reddit.com/r/japan/comments/1uc6xuf/japan_seeks_g7_price_floors_to_break_chinas_rare",
       "publishedAt": "2026-06-22T01:23:03.000Z",
       "author": "/u/Dramatic-Shake-8888",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1uc6ni8/japans_key_flea_market_operators_to_share/",
-      "title": "Japan's key flea market operators to share suspected fraud data with police",
-      "description": "submitted by /u/Dramatic-Shake-8888 [link] [comments]",
-      "content": "submitted by /u/Dramatic-Shake-8888\n[https://old.reddit.com/user/Dramatic-Shake-8888]\n[link]\n[https://japantoday.com/category/crime/key-flea-market-operators-to-share-suspected-fraud-data-with-police]\n[comments]\n[https://old.reddit.com/r/japan/comments/1uc6ni8/japans_key_flea_market_operators_to_share/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uc6ni8/japans_key_flea_market_operators_to_share",
-      "publishedAt": "2026-06-22T01:09:04.000Z",
-      "author": "/u/Dramatic-Shake-8888",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1ubr5l1/japanese_ninja_certification_exam_attracts_131/",
-      "title": "Japanese ninja certification exam attracts 131 candidates from Japan and abroad",
-      "description": "submitted by /u/Scbadiver [link] [comments]",
-      "content": "submitted by /u/Scbadiver [https://old.reddit.com/user/Scbadiver]\n[link]\n[https://soranews24.com/2026/06/20/japanese-ninja-certification-exam-attracts-131-candidates-from-japan-and-abroad/]\n[comments]\n[https://old.reddit.com/r/japan/comments/1ubr5l1/japanese_ninja_certification_exam_attracts_131/]",
-      "url": "https://old.reddit.com/r/japan/comments/1ubr5l1/japanese_ninja_certification_exam_attracts_131",
-      "publishedAt": "2026-06-21T14:14:52.000Z",
-      "author": "/u/Scbadiver",
       "categories": [],
       "source": {
         "name": "/r/japan",

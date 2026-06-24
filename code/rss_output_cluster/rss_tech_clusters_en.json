@@ -1,84 +1,62 @@
 [
   {
-    "title": "Slate Auto launches a radically simple electric pickup truck from $24,950",
-    "summary": "The vehicle lacks a radio and electric windows to achieve a disruptive price and minimalist design.",
+    "title": "OpenAI introduces its 'Jalapeño' chip and Qualcomm buys Modular for 4 billion",
+    "summary": "The semiconductor industry is restructuring with bets on artificial intelligence and efficiency.",
     "source": [
       "news.ycombinator.com",
+      "the-decoder.com",
+      "wired.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Slate launches a simple electric truck from $24,950 without radio or power windows",
+    "summary": "The startup seeks to democratize electric vehicles with a minimalist and extremely cheap model.",
+    "source": [
       "techcrunch.com",
-      "/r/technology",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GTA VI confirms editions, prices, and better performance on PS5",
+    "summary": "Rockstar details the launch plans for the most anticipated video game, which will include disc-free physical versions.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve extends SteamOS to all PCs and allows creating Steam Machines with AMD GPU",
+    "summary": "Valve's gaming platform becomes universal by collaborating with Intel, AMD, and Nvidia for compatibility.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta launches smart glasses at $299 without the Ray-Ban brand",
+    "summary": "The new augmented reality glasses aim to be more affordable by dropping the partnership with Ray-Ban.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Zoox perfects its robotaxis for commercial service with improvements in comfort and smell",
+    "summary": "Amazon's autonomous vehicle company prepares to launch its public service.",
+    "source": [
+      "techcrunch.com",
       "fastcompany.com"
     ],
-    "count": 4
-  },
-  {
-    "title": "China unveils the Lineshine supercomputer, the most powerful machine in the world",
-    "summary": "The system reaches 2,198 exaflops on the TOP500 list, surpassing the United States at the top of high-performance computing.",
-    "source": [
-      "xataka.com",
-      "kite.kagi.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic launches Claude Tag to integrate its AI into Slack",
-    "summary": "The tool already writes 65% of companies' internal code and promises to transform collaboration from instant messaging.",
-    "source": [
-      "the-decoder.com",
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "RAM prices skyrocket in the second quarter of 2026",
-    "summary": "LPDDR5X modules rise 89% and SSDs 54%, as the industry awaits Micron's results to gauge demand.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "fastcompany.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "GTA VI captures attention amid leaks and official pricing of its editions",
-    "summary": "Rockstar confirms the game's editions and warns about scams, while the physical version will come with a download code instead of a disc.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
     "count": 2
   },
   {
-    "title": "Meta launches $299 smart glasses without the Ray-Ban brand",
-    "summary": "The new device seeks to cut costs by removing the association with Luxottica to democratize augmented reality.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta develops its own prediction market with the Arena app",
-    "summary": "Mark Zuckerberg's initiative forgoes monetary bets to integrate a forecasting system into the company's ecosystem.",
-    "source": [
-      "news.ycombinator.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "LastPass suffers a new data breach due to a supply chain attack on Klue",
-    "summary": "Hackers stole customer service information by exploiting a credential compromised since 2022.",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Mistral launches its OCR 4 model with multilingual document extraction",
-    "summary": "The new AI tool outperforms competitors in 72% of test cases.",
+    "title": "Mistral launches OCR 4 with multilingual extraction and claims to outperform competitors",
+    "summary": "The new optical character recognition model beats its rivals in 72% of cases, according to the company.",
     "source": [
       "alternativeto.net",
       "the-decoder.com"
@@ -86,97 +64,120 @@
     "count": 2
   },
   {
-    "title": "Valve expands SteamOS to all PC hardware and launches new Steam Machines",
-    "summary": "The company works with Intel, AMD, and Nvidia to make its system universal, with a console from $1,049.",
-    "source": [
-      "/r/technology",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Trump orders migration to post-quantum cryptography before 2030",
-    "summary": "An executive order sets imminent deadlines for the federal government to update its systems in the face of the quantum threat.",
-    "source": [
-      "kite.kagi.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "United States blocks Mythos AI for violating classified systems",
-    "summary": "The AI discovered a massive memory leak undetected since the Clinton era, prompting drastic national security measures.",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The race for AI chips accelerates with new alliances and multi-billion dollar acquisitions",
-    "summary": "OpenAI presents its own chip with Broadcom, and Qualcomm acquires startup Modular for nearly $4 billion.",
+    "title": "Claude Tag integrates Anthropic's AI into Slack to automate tasks and write code",
+    "summary": "The beta tool already generates 65% of the company's internal code and promises to increase productivity.",
     "source": [
       "the-decoder.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Figma adds code layers, animations, and new AI features",
+    "summary": "The design platform updates with its own and third-party artificial intelligence tools.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "LastPass suffers a data breach due to a supply chain attack on Klue",
+    "summary": "Attackers stole credentials since 2022 that exposed LastPass customer information.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Mythos discovers the 'Squidbleed' memory leak that existed since the Clinton era and loses NSA access",
+    "summary": "The cybersecurity company faces a dispute with Anthropic and reveals a historical vulnerability.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Europe imposes a fixed tariff of three euros on small packages and rejection of Big Tech grows",
+    "summary": "The European Union takes measures to protect its market and privacy against US companies.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Menlo Ventures raises $3 billion after its bet on Anthropic",
+    "summary": "The venture capital firm also points out the identity crisis affecting software engineers due to AI.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Tesla investigated for fatal accident in Texas and faces obstacles in Europe for autonomous driving",
+    "summary": "The NTSB investigates a fatal crash while Sweden complicates the company's plans in the European market.",
+    "source": [
+      "techcrunch.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Investment strategies in a world of geopolitical volatility and rapid changes",
+    "summary": "Experts analyze how to adapt finances to an uncertain and accelerated environment.",
+    "source": [
+      "fastcompany.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Millionaires flee some countries and take refuge in others: the new routes of wealth",
+    "summary": "The movement of great fortunes reshapes the global economy, with preferred destinations such as Singapore, Italy, or Switzerland.",
+    "source": [
+      "xataka.com",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lime goes public and Agility Robotics opts for a SPAC merger to list",
+    "summary": "Two mobility and robotics companies seek financing in public markets.",
+    "source": [
+      "techcrunch.com",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic discovers vulnerabilities in government systems and the White House criticizes its CEO",
+    "summary": "The artificial intelligence company finds itself at the center of a political storm after revealing security flaws.",
+    "source": [
+      "fastcompany.com",
       "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "FUTO Swipe presents an open-source predictive swipe keyboard",
-    "summary": "The new tool aims to offer a modern and efficient alternative for typing on mobile devices.",
+    "title": "Companies seek to reduce AI spending while token prices plummet",
+    "summary": "From Snowflake to Accenture, the industry rethinks its strategies to make more efficient use of artificial intelligence.",
     "source": [
-      "producthunt.com",
-      "news.ycombinator.com"
+      "/r/technology",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Europe tightens the noose on Chinese digital commerce and distrust of Big Tech",
-    "summary": "A new flat tariff for small packages and the loss of trust in US companies mark the regulatory shift.",
+    "title": "Nvidia announces liquid cooling without water consumption but its RTX 50 suffer overheating issues",
+    "summary": "The company faces technical challenges in its new generation of graphics cards while innovating in efficiency.",
     "source": [
-      "xataka.com",
+      "/r/technology",
       "elchapuzasinformatico.com"
     ],
     "count": 2
-  },
-  {
-    "title": "Massive sell-off of artificial intelligence stocks shakes global markets",
-    "summary": "Fear of a bubble in the sector causes falls on Wall Street and drags down Asian markets.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Official White House app automatically downloads on government phones and cannot be uninstalled",
-    "summary": "Federal workers denounce that the software injects 'pure propaganda' while authorities ignore privacy complaints.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceX raises $25 billion in debt sale after IPO",
-    "summary": "Elon Musk's company obtains massive funding to boost its space exploration and communications plans.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Five Eyes alliance warns of imminent use of AI in massive cyberattacks",
-    "summary": "Intelligence services warn that AI-powered attacks will occur within months, overwhelming governments and companies.",
-    "source": [
-      "elchapuzasinformatico.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Sweden hampers Tesla's plans to launch autonomous driving in Europe",
-    "summary": "Swedish justice complicates Elon Musk's ambitious plans to implement the Full Self-Driving system across the continent.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
   }
 ]
