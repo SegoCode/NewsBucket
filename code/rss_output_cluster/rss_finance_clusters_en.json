@@ -1,58 +1,115 @@
 [
   {
-    "title": "Oil falls below $70 amid reopening of Strait of Hormuz",
-    "summary": "U.S. crude plunges to three-month lows as supply disruption fears ease.",
+    "title": "Oil falls below $70 due to the reopening of the Strait of Hormuz and tensions with Iran",
+    "summary": "Crude oil plummets to pre-conflict levels as the White House seeks funds for a possible war and maritime insurers anticipate massive losses.",
     "source": [
+      "investing.com",
+      "nasdaq.com",
+      "bolsamania.com",
       "/r/stocks",
+      "ft.com",
+      "handelsblatt.com",
+      "nikkei.com"
+    ],
+    "count": 7
+  },
+  {
+    "title": "Micron's record results spark a global rally in memory chip manufacturers",
+    "summary": "The US manufacturer's earnings boost shares of Samsung, SK Hynix, and Kioxia, though volatility in South Korea raises doubts about the sustainability of the boom.",
+    "source": [
+      "investing.com",
+      "/r/stocks",
+      "bolsamania.com",
       "nikkei.com",
+      "ft.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "European defense industry sees a day of contrasts with Rheinmetall, KNDS, and a major order",
+    "summary": "Rheinmetall plummets due to the cancellation of a frigate project, while another company receives a mega-contract and KNDS announces its IPO in Frankfurt and Paris.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com",
       "handelsblatt.com",
       "ft.com"
     ],
     "count": 4
   },
   {
-    "title": "Wall Street fall led by tech and chip stocks",
-    "summary": "Semiconductor stocks drag the market amid fears of rising interest rates.",
+    "title": "The renewables and commodities sector faces a volatile environment due to El Niño and geopolitics",
+    "summary": "China's largest IPO in four years from a renewable energy group and Iberdrola's batteries in the US arrive amid uncertainty over the climate phenomenon and trade tensions.",
     "source": [
-      "ft.com",
-      "investing.com",
-      "bolsamania.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Rheinmetall plunges over cancellation of German frigate project",
-    "summary": "German defense company suffers heavy stock losses, dragging down the European sector.",
-    "source": [
-      "bolsamania.com",
       "expansion.com",
-      "nikkei.com"
+      "bolsamania.com",
+      "/r/stocks",
+      "handelsblatt.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "U.S. housing market in crisis: home sales fall and affordable housing bill fails",
-    "summary": "Homebuilders briefly rise after the bill passes, but Trump vetoes it as sales hit lows.",
+    "title": "Gold falls below $4,000 for the first time in seven months",
+    "summary": "The strengthening dollar and expectations of interest rate hikes pressure the precious metal, which breaks a key support level.",
     "source": [
-      "investing.com",
-      "ft.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Iran crisis affects shipping and frozen assets",
-    "summary": "Marine insurers expect heavy losses from the conflict, while Qatar proposes a hotline with the US to reopen Hormuz.",
-    "source": [
+      "expansion.com",
       "nikkei.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Euro hits its lowest level in a year against the dollar",
+    "summary": "The single currency weakens due to the fall in oil and expectations of a more restrictive monetary policy by the Federal Reserve.",
+    "source": [
+      "expansion.com",
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Fed warns of up to $700 billion in losses in its stress tests of US banks",
+    "summary": "Despite the massive potential losses in a global recession scenario, the Federal Reserve considers that the US financial system remains solid.",
+    "source": [
+      "ft.com",
+      "nikkei.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "The artificial intelligence sector, between fierce competition and investment opportunities",
+    "summary": "Anthropic accuses Alibaba of stealing its model, Google loses key talent, and the market debates the value of AI companies as a firm falls in the stock market.",
+    "source": [
+      "nasdaq.com",
+      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Global legal battles in the financial and payments sector",
+    "summary": "British and German regulators investigate payment systems, a hedge fund sues the CFTC in the US, and Uber faces a legal battle over drivers' rights.",
+    "source": [
+      "/r/stocks",
       "ft.com",
       "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "Binance leaves Greece and will apply for MiCA license in another EU country",
-    "summary": "The cryptocurrency exchange withdraws its application in Greece and prepares to operate under the European framework in another jurisdiction.",
+    "title": "Spanish banking restructures: BlackRock, BBVA, Santander, and the neobank debate",
+    "summary": "BlackRock increases its stake in Telefónica, BBVA reduces capital, Santander negotiates early retirements, and the sector debates the traditional banks' lack of interest in neobanks.",
+    "source": [
+      "expansion.com",
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Binance leaves Greece in search of MiCA license in another EU country",
+    "summary": "The cryptocurrency exchange withdraws its application as a provider in Greece and confirms its exit to begin the regulatory process in another EU member state.",
     "source": [
       "bolsamania.com",
       "expansion.com"
@@ -60,121 +117,78 @@
     "count": 2
   },
   {
-    "title": "Alphabet replaces Verizon in the Dow Jones index",
-    "summary": "Google's parent replaces the telecom operator in the US industrial benchmark.",
+    "title": "Wall Street closes mixed with oil weighing on the market",
+    "summary": "New York indices end the session without a clear direction, with the Dow Jones up and the Nasdaq down, in a day marked by the fall in crude oil.",
     "source": [
-      "handelsblatt.com",
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Wendy's shares surge more than 10% in a single day",
+    "summary": "The fast-food chain's stock experiences a sudden rise without a clear corporate catalyst, vastly outperforming the broader market.",
+    "source": [
+      "nasdaq.com",
       "/r/stocks"
     ],
     "count": 2
   },
   {
-    "title": "Tank manufacturer KNDS begins its IPO process in Frankfurt and Paris",
-    "summary": "The European defense company plans to list in July on the German and French stock exchanges.",
+    "title": "Tensions rise between China and Japan over smuggling and territorial disputes",
+    "summary": "China detains two Japanese citizens for alleged rare earth smuggling, while China's Ministry of State Security warns Japan and the Philippines about border negotiations.",
     "source": [
-      "nikkei.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Japan announces $2.3 trillion investment plan in AI and semiconductors",
-    "summary": "The ambitious public-private project aims to boost Japan's tech industry in the long term.",
-    "source": [
-      "/r/stocks",
+      "ft.com",
       "nikkei.com"
     ],
     "count": 2
   },
   {
-    "title": "SpaceX conducts secret test launch of new transport capsule",
-    "summary": "Elon Musk's company faces technical and regulatory challenges in developing its spacecraft.",
+    "title": "European stock markets fall dragged down by defense and technology sectors",
+    "summary": "The IBEX 35 loses 19,400 points pending tech stocks, while the German DAX closes in negative territory although a defense company manages to save the day with a large order.",
     "source": [
-      "nikkei.com",
+      "expansion.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "European automotive sector seeks alternatives and VW sells its marine engines unit",
+    "summary": "European car manufacturers face difficult choices for their future, while Bain Capital acquires a majority stake in Volkswagen's marine engines unit for 7.4 billion euros.",
+    "source": [
+      "expansion.com",
       "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft falls to technical oversold levels, attracts investors",
-    "summary": "The stock price is in oversold territory according to the RSI, which could indicate a buying opportunity.",
+    "title": "SpaceX issues bonds with oversubscription and faces new challenges",
+    "summary": "Elon Musk's company places bonds with demand four times higher than supply, while doubts arise about the future of the commercial space industry after recent setbacks.",
     "source": [
-      "investing.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel gains 570% over the past year, sparking debate among investors",
-    "summary": "The chipmaker stirs divided opinions on whether to keep investing or take profits.",
-    "source": [
-      "nasdaq.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Shares of D-Wave Quantum and Cerebras plunge",
-    "summary": "Investors punish these tech companies for their business outlook and shrinking margins.",
-    "source": [
-      "nasdaq.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Ibex 35 moves without clear direction amid weakness and loss of 19,400 points",
-    "summary": "The Spanish stock market reflects global uncertainty and pressure from tech stocks.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Euro falls to one-year lows as oil drops and ECB maintains hawkish stance",
-    "summary": "The European currency weakens due to easing oil prices and prospects of high interest rates.",
-    "source": [
-      "ft.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "South Korean stock market volatility hits record on AI doubts",
-    "summary": "Fear of a bubble in the tech sector shakes South Korea's stock market.",
-    "source": [
+      "expansion.com",
       "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Strong magnitude 6.9 earthquake shakes Aomori prefecture in Japan",
+    "summary": "The high-intensity quake disrupts Shinkansen bullet train service and mobilizes the Japanese government, which activates the crisis room in the prime minister's office with no tsunami risk.",
+    "source": [
+      "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "China detains two Japanese citizens for suspected rare earth smuggling",
-    "summary": "The arrest raises bilateral tensions over strategic raw material security.",
+    "title": "BMO raises Take-Two's price target on possible $80 price for GTA VI",
+    "summary": "The anticipated release of Rockstar's next video game boosts the company's revenue forecasts, according to BMO investment bank analysis.",
     "source": [
-      "ft.com"
+      "investing.com"
     ],
     "count": 1
   },
   {
-    "title": "Venezuela prepares for world's largest debt restructuring",
-    "summary": "The South American country will reveal a $240 billion liability, in the largest sovereign restructuring process.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "MSCI delays decision on Indonesia, frustrates South Korea",
-    "summary": "Asian emerging markets await the benchmark index review with uncertainty.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "US authorizes sale of aircraft engines to Turkey ahead of NATO summit",
-    "summary": "Biden administration advances military supply to avoid tensions with Ankara at the allied meeting.",
+    "title": "Fortescue becomes latest Australian miner to face class action lawsuit over sexual harassment",
+    "summary": "The iron ore giant is sued collectively for alleged sexual harassment, joining a series of similar cases shaking the mining industry in Australia.",
     "source": [
       "investing.com"
     ],

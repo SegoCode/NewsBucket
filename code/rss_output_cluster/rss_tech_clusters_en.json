@@ -1,17 +1,17 @@
 [
   {
-    "title": "OpenAI introduces its 'Jalapeño' chip and Qualcomm buys Modular for 4 billion",
-    "summary": "The semiconductor industry is restructuring with bets on artificial intelligence and efficiency.",
+    "title": "Latest news on Grand Theft Auto VI: pre-orders, prices, editions, and the controversy over the physical disc",
+    "summary": "Rockstar reveals details about editions, prices, and the absence of the disc in the physical version, while early access scams skyrocket.",
     "source": [
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "wired.com"
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
     "count": 3
   },
   {
-    "title": "Slate launches a simple electric truck from $24,950 without radio or power windows",
-    "summary": "The startup seeks to democratize electric vehicles with a minimalist and extremely cheap model.",
+    "title": "Elon Musk loses trillionaire status due to fall in SpaceX shares",
+    "summary": "The drop in SpaceX's stock reduces Elon Musk's fortune below one trillion dollars, although he remains the richest person in the world.",
     "source": [
       "techcrunch.com",
       "/r/technology"
@@ -19,26 +19,107 @@
     "count": 2
   },
   {
-    "title": "GTA VI confirms editions, prices, and better performance on PS5",
-    "summary": "Rockstar details the launch plans for the most anticipated video game, which will include disc-free physical versions.",
+    "title": "OpenAI and Broadcom unveil 'Jalapeño', the first custom chip for AI inference",
+    "summary": "The new chip aims to optimize the execution of language models and reduce costs in data centers.",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
+      "news.ycombinator.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Valve extends SteamOS to all PCs and allows creating Steam Machines with AMD GPU",
-    "summary": "Valve's gaming platform becomes universal by collaborating with Intel, AMD, and Nvidia for compatibility.",
+    "title": "Qualcomm acquires startup Modular for nearly $4 billion",
+    "summary": "The acquisition of Modular reinforces Qualcomm's commitment to modular and flexible chips for the mobile market.",
     "source": [
-      "elchapuzasinformatico.com",
+      "news.ycombinator.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Slate lowers the price of its electric truck to $24,950 after modifying the battery",
+    "summary": "The company adjusts the battery capacity to offer a more affordable electric vehicle.",
+    "source": [
+      "techcrunch.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Meta launches smart glasses at $299 without the Ray-Ban brand",
-    "summary": "The new augmented reality glasses aim to be more affordable by dropping the partnership with Ray-Ban.",
+    "title": "Microsoft claims that 8 GB of RAM is enough for Windows 11 and launches Surface with that memory",
+    "summary": "The company reverses its previous recommendation and introduces new Surface devices with 8 GB, sparking controversy.",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A24 signs a multi-million dollar deal with Google for artificial intelligence that angers its fans",
+    "summary": "Independent studio A24 receives $75 million from Google to collaborate on AI projects, sparking criticism on social media.",
+    "source": [
+      "wired.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Figma announces new AI functionalities and code layers at its Config 2026 conference",
+    "summary": "The design platform introduces improvements in artificial intelligence and developer tools in its latest update.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The official White House app installs itself without permission on government phones and cannot be uninstalled",
+    "summary": "Employees report that the app 'The White House' automatically downloads on official devices and is considered propaganda.",
+    "source": [
+      "xataka.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cooling innovations reduce water consumption in data centers to near-zero levels",
+    "summary": "New cooling systems at 45°C and Nvidia designs allow servers to be cooled with minimal water usage.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Artificial intelligence does not destroy engineering jobs but creates an identity crisis for developers",
+    "summary": "Recent studies show that engineering jobs resist automation, although software professionals report discouragement and uncertainty.",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "LastPass suffers a data breach through a supply chain attack on Klue",
+    "summary": "The password manager exposes user information after an indirect cyberattack, compromising the security of credentials.",
+    "source": [
+      "fastcompany.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The ultra-rich leave countries like Singapore, Italy, and Switzerland in search of better tax conditions",
+    "summary": "A new wave of millionaire migration intensifies toward nations with lower taxes and greater economic stability.",
+    "source": [
+      "xataka.com",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta launches smart glasses without the Ray-Ban brand for $299 to make them more affordable",
+    "summary": "The new augmented reality glasses end the collaboration with Ray-Ban to reduce costs and reach more users.",
     "source": [
       "elchapuzasinformatico.com",
       "kite.kagi.com"
@@ -46,26 +127,26 @@
     "count": 2
   },
   {
-    "title": "Zoox perfects its robotaxis for commercial service with improvements in comfort and smell",
-    "summary": "Amazon's autonomous vehicle company prepares to launch its public service.",
+    "title": "SteamOS 3.8 allows building Steam Machines with AMD GPU and Valve plans universal PC compatibility",
+    "summary": "The SteamOS update expands support for dedicated graphics, and Valve works with manufacturers to make it work on any hardware.",
     "source": [
-      "techcrunch.com",
-      "fastcompany.com"
+      "elchapuzasinformatico.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Mistral launches OCR 4 with multilingual extraction and claims to outperform competitors",
-    "summary": "The new optical character recognition model beats its rivals in 72% of cases, according to the company.",
+    "title": "Pangram publishes details about its model's internal representations and its CEO speaks about the authenticity of LLMs",
+    "summary": "Pangram's CEO points out that language models betray themselves when arguing, while internal representations are explored.",
     "source": [
-      "alternativeto.net",
+      "news.ycombinator.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Claude Tag integrates Anthropic's AI into Slack to automate tasks and write code",
-    "summary": "The beta tool already generates 65% of the company's internal code and promises to increase productivity.",
+    "title": "Anthropic integrates Claude Tag into Slack and automates a large part of the company's internal code",
+    "summary": "Claude Tag, the artificial intelligence assistant, already writes 65% of the company's code and allows automating team tasks.",
     "source": [
       "the-decoder.com",
       "alternativeto.net"
@@ -73,110 +154,29 @@
     "count": 2
   },
   {
-    "title": "Figma adds code layers, animations, and new AI features",
-    "summary": "The design platform updates with its own and third-party artificial intelligence tools.",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "LastPass suffers a data breach due to a supply chain attack on Klue",
-    "summary": "Attackers stole credentials since 2022 that exposed LastPass customer information.",
+    "title": "Mistral launches a new multilingual OCR model that outperforms the competition in 72% of cases",
+    "summary": "Mistral's optical character recognition system demonstrates superior performance across multiple languages and formats.",
     "source": [
       "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Mythos discovers the 'Squidbleed' memory leak that existed since the Clinton era and loses NSA access",
-    "summary": "The cybersecurity company faces a dispute with Anthropic and reveals a historical vulnerability.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Europe imposes a fixed tariff of three euros on small packages and rejection of Big Tech grows",
-    "summary": "The European Union takes measures to protect its market and privacy against US companies.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Menlo Ventures raises $3 billion after its bet on Anthropic",
-    "summary": "The venture capital firm also points out the identity crisis affecting software engineers due to AI.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tesla investigated for fatal accident in Texas and faces obstacles in Europe for autonomous driving",
-    "summary": "The NTSB investigates a fatal crash while Sweden complicates the company's plans in the European market.",
-    "source": [
-      "techcrunch.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Investment strategies in a world of geopolitical volatility and rapid changes",
-    "summary": "Experts analyze how to adapt finances to an uncertain and accelerated environment.",
-    "source": [
-      "fastcompany.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Millionaires flee some countries and take refuge in others: the new routes of wealth",
-    "summary": "The movement of great fortunes reshapes the global economy, with preferred destinations such as Singapore, Italy, or Switzerland.",
-    "source": [
-      "xataka.com",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lime goes public and Agility Robotics opts for a SPAC merger to list",
-    "summary": "Two mobility and robotics companies seek financing in public markets.",
-    "source": [
-      "techcrunch.com",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic discovers vulnerabilities in government systems and the White House criticizes its CEO",
-    "summary": "The artificial intelligence company finds itself at the center of a political storm after revealing security flaws.",
-    "source": [
-      "fastcompany.com",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Companies seek to reduce AI spending while token prices plummet",
-    "summary": "From Snowflake to Accenture, the industry rethinks its strategies to make more efficient use of artificial intelligence.",
-    "source": [
-      "/r/technology",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Nvidia announces liquid cooling without water consumption but its RTX 50 suffer overheating issues",
-    "summary": "The company faces technical challenges in its new generation of graphics cards while innovating in efficiency.",
+    "title": "Companies try to curb excessive spending on artificial intelligence tokens used in simple tasks",
+    "summary": "Companies like Accenture warn that excessive use of AI tokens to convert PDFs or generate presentations increases costs.",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Older tech professionals retire early and women face a significant savings gap",
+    "summary": "Two reports highlight the trend of senior IT workers retiring early and gender inequality in pension funds.",
     "source": [
       "/r/technology",
-      "elchapuzasinformatico.com"
+      "fastcompany.com"
     ],
     "count": 2
   }

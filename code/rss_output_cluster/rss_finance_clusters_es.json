@@ -1,58 +1,115 @@
 [
   {
-    "title": "El petróleo cae por debajo de 70 dólares ante la reapertura del estrecho de Ormuz",
-    "summary": "El crudo estadounidense se desploma a mínimos de tres meses al disiparse los temores de interrupción del suministro.",
+    "title": "El petróleo cae por debajo de los 70 dólares por la reapertura del Estrecho de Ormuz y la tensión con Irán",
+    "summary": "El crudo se desploma a niveles previos al conflicto mientras la Casa Blanca busca fondos para una posible guerra y los seguros navieros anticipan pérdidas masivas.",
     "source": [
+      "investing.com",
+      "nasdaq.com",
+      "bolsamania.com",
       "/r/stocks",
+      "ft.com",
+      "handelsblatt.com",
+      "nikkei.com"
+    ],
+    "count": 7
+  },
+  {
+    "title": "Los resultados récord de Micron desatan un rally global en los fabricantes de chips de memoria",
+    "summary": "Las ganancias del fabricante estadounidense disparan las acciones de Samsung, SK Hynix y Kioxia, aunque la volatilidad en Corea del Sur genera dudas sobre la sostenibilidad del auge.",
+    "source": [
+      "investing.com",
+      "/r/stocks",
+      "bolsamania.com",
       "nikkei.com",
+      "ft.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "La industria de defensa europea vive una jornada de contrastes con Rheinmetall, KNDS y un gran pedido",
+    "summary": "Rheinmetall se desploma por la cancelación de un proyecto de fragatas, mientras otra compañía recibe un macrocontrato y KNDS anuncia su salida a bolsa en Fráncfort y París.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com",
       "handelsblatt.com",
       "ft.com"
     ],
     "count": 4
   },
   {
-    "title": "Caída de Wall Street liderada por los valores tecnológicos y los chips",
-    "summary": "Las acciones de semiconductores arrastran al mercado ante temores de subida de tipos de interés.",
+    "title": "El sector de las renovables y las materias primas afronta un entorno volátil por El Niño y la geopolítica",
+    "summary": "La mayor OPV china en cuatro años de un grupo renovable y las baterías de Iberdrola en EE.UU. llegan en medio de la incertidumbre por el fenómeno climático y las tensiones comerciales.",
     "source": [
-      "ft.com",
-      "investing.com",
-      "bolsamania.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Rheinmetall se desploma por la cancelación del proyecto de fragatas alemán",
-    "summary": "La empresa de defensa alemana sufre fuertes pérdidas en Bolsa, arrastrando al sector europeo.",
-    "source": [
-      "bolsamania.com",
       "expansion.com",
-      "nikkei.com"
+      "bolsamania.com",
+      "/r/stocks",
+      "handelsblatt.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "El mercado inmobiliario estadounidense en crisis: ventas de viviendas caen y fracasa la ley de vivienda asequible",
-    "summary": "Los constructores de viviendas suben momentáneamente tras la aprobación de la ley, pero Trump la veta mientras las ventas tocan mínimos.",
+    "title": "El oro cae por debajo de los 4.000 dólares por primera vez en siete meses",
+    "summary": "El fortalecimiento del dólar y las expectativas de subidas de tipos de interés presionan al metal precioso, que rompe un soporte clave.",
     "source": [
-      "investing.com",
-      "ft.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "La crisis con Irán afecta al transporte marítimo y los activos congelados",
-    "summary": "Los seguros navieros prevén grandes pérdidas por el conflicto, mientras Catar propone una línea directa con EE.UU. para reabrir Ormuz.",
-    "source": [
+      "expansion.com",
       "nikkei.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El euro alcanza su nivel más bajo en un año frente al dólar",
+    "summary": "La moneda única se debilita por la caída del petróleo y las expectativas de una política monetaria más restrictiva por parte de la Reserva Federal.",
+    "source": [
+      "expansion.com",
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La Fed advierte de pérdidas de hasta 700.000 millones en sus pruebas de estrés a la banca de EE.UU.",
+    "summary": "A pesar de las enormes pérdidas potenciales en un escenario de recesión global, la Reserva Federal considera que el sistema financiero estadounidense se mantiene sólido.",
+    "source": [
+      "ft.com",
+      "nikkei.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El sector de la inteligencia artificial, entre la competencia feroz y las oportunidades de inversión",
+    "summary": "Anthropic acusa a Alibaba de robar su modelo, Google pierde talento clave, y el mercado debate el valor de las empresas de IA mientras una firma cae en bolsa.",
+    "source": [
+      "nasdaq.com",
+      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Batallas legales globales en el sector financiero y de pagos",
+    "summary": "Los reguladores británicos y alemanes investigan sistemas de pago, un fondo de cobertura demanda a la CFTC en EE.UU., y Uber enfrenta una lucha legal por los derechos de sus conductores.",
+    "source": [
+      "/r/stocks",
       "ft.com",
       "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "Binance abandona Grecia y solicitará la licencia MiCA en otro país de la UE",
-    "summary": "La plataforma de criptomonedas retira su solicitud en Grecia y se prepara para operar bajo el marco europeo en otra jurisdicción.",
+    "title": "La banca española se reestructura: BlackRock, BBVA, Santander y el debate sobre los neobancos",
+    "summary": "BlackRock eleva su apuesta por Telefónica, BBVA reduce capital, Santander negocia prejubilaciones y el sector debate la falta de interés de la banca tradicional por los neobancos.",
+    "source": [
+      "expansion.com",
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Binance abandona Grecia en busca de la licencia MiCA en otro país de la UE",
+    "summary": "El exchange de criptomonedas retira su solicitud como proveedor en Grecia y confirma su salida para iniciar el proceso regulatorio en otro Estado miembro de la Unión Europea.",
     "source": [
       "bolsamania.com",
       "expansion.com"
@@ -60,121 +117,78 @@
     "count": 2
   },
   {
-    "title": "Alphabet sustituye a Verizon en el índice Dow Jones",
-    "summary": "La matriz de Google reemplaza a la operadora de telecomunicaciones en el selectivo industrial estadounidense.",
+    "title": "Wall Street cierra mixto con el petróleo lastrando al mercado",
+    "summary": "Los índices neoyorquinos terminan la sesión sin una dirección clara, con el Dow Jones al alza y el Nasdaq a la baja, en una jornada marcada por la caída del crudo.",
     "source": [
-      "handelsblatt.com",
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Las acciones de Wendy's se disparan más de un 10% en una sola jornada",
+    "summary": "El valor de la cadena de comida rápida experimenta una subida repentina sin un catalizador corporativo claro, superando ampliamente al mercado general.",
+    "source": [
+      "nasdaq.com",
       "/r/stocks"
     ],
     "count": 2
   },
   {
-    "title": "El fabricante de tanques KNDS inicia su proceso de salida a Bolsa en Fráncfort y París",
-    "summary": "La empresa europea de defensa planea cotizar en julio en las bolsas de Alemania y Francia.",
+    "title": "Aumentan las tensiones entre China y Japón por contrabando y disputas territoriales",
+    "summary": "China detiene a dos ciudadanos japoneses por presunto contrabando de tierras raras, mientras el Ministerio de Seguridad Nacional chino advierte a Japón y Filipinas sobre las negociaciones fronterizas.",
     "source": [
-      "nikkei.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Japón anuncia un plan de inversión de 2,3 billones de dólares en inteligencia artificial y semiconductores",
-    "summary": "El ambicioso proyecto público-privado busca impulsar la industria tecnológica nipona a largo plazo.",
-    "source": [
-      "/r/stocks",
+      "ft.com",
       "nikkei.com"
     ],
     "count": 2
   },
   {
-    "title": "SpaceX realiza un lanzamiento de prueba secreto de una nueva cápsula de transporte",
-    "summary": "La compañía de Elon Musk enfrenta desafíos técnicos y regulatorios en el desarrollo de sus naves.",
+    "title": "Las bolsas europeas caen lastradas por el sector defensa y la tecnología",
+    "summary": "El IBEX 35 pierde los 19.400 puntos pendiente de las tecnológicas, mientras el DAX alemán cierra en negativo aunque una empresa de defensa logra salvar la jornada con un gran pedido.",
     "source": [
-      "nikkei.com",
+      "expansion.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El sector del automóvil europeo busca alternativas y VW vende su unidad de motores marinos",
+    "summary": "Los fabricantes de automóviles europeos enfrentan opciones difíciles para su futuro, mientras Bain Capital adquiere la mayoría de la unidad de motores marinos de Volkswagen por 7.400 millones de euros.",
+    "source": [
+      "expansion.com",
       "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft cae a niveles técnicos de sobreventa y atrae a inversores",
-    "summary": "El precio de la acción se encuentra en zona de sobreventa según el RSI, lo que podría indicar una oportunidad de compra.",
+    "title": "SpaceX emite bonos con sobredemanda y enfrenta nuevos desafíos",
+    "summary": "La compañía de Elon Musk coloca bonos con una demanda cuatro veces superior a la oferta, mientras surgen dudas sobre el futuro de la industria espacial comercial tras los últimos reveses.",
     "source": [
-      "investing.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel acumula una subida del 570% en el último año y genera debate entre los inversores",
-    "summary": "El fabricante de chips despierta opiniones divididas sobre si seguir invirtiendo o tomar ganancias.",
-    "source": [
-      "nasdaq.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las acciones de D-Wave Quantum y Cerebras se desploman",
-    "summary": "Los inversores castigan a estas empresas tecnológicas por sus perspectivas de negocio y márgenes decrecientes.",
-    "source": [
-      "nasdaq.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El Ibex 35 se mueve sin rumbo claro entre la debilidad y la pérdida de los 19.400 puntos",
-    "summary": "La bolsa española refleja la incertidumbre global y la presión de los valores tecnológicos.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El euro cae a mínimos de un año mientras el petróleo baja y el BCE mantiene una postura restrictiva",
-    "summary": "La divisa europea se debilita por la relajación de los precios del crudo y las perspectivas de tipos altos.",
-    "source": [
-      "ft.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La volatilidad de la bolsa surcoreana alcanza un récord por las dudas sobre la inteligencia artificial",
-    "summary": "El temor a una burbuja en el sector tecnológico sacude el mercado de valores de Corea del Sur.",
-    "source": [
+      "expansion.com",
       "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Fuerte terremoto de magnitud 6,9 sacude la prefectura de Aomori en Japón",
+    "summary": "El seísmo de gran intensidad interrumpe el servicio del tren bala Shinkansen y moviliza al gobierno nipón, que activa la sala de crisis en la oficina del primer ministro sin riesgo de tsunami.",
+    "source": [
+      "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "China detiene a dos ciudadanos japoneses por presunto contrabando de tierras raras",
-    "summary": "La detención eleva las tensiones bilaterales en materia de seguridad de materias primas estratégicas.",
+    "title": "BMO eleva el precio objetivo de Take-Two por el posible precio de 80 dólares de GTA VI",
+    "summary": "El esperado lanzamiento del próximo videojuego de Rockstar impulsa las previsiones de ingresos de la compañía, según el análisis del banco de inversión BMO.",
     "source": [
-      "ft.com"
+      "investing.com"
     ],
     "count": 1
   },
   {
-    "title": "Venezuela se prepara para la mayor reestructuración de deuda del mundo",
-    "summary": "El país sudamericano revelará un pasivo de 240.000 millones de dólares, en el mayor proceso de reestructuración soberana.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "MSCI retrasa la decisión sobre Indonesia y frustra a Corea del Sur",
-    "summary": "Los mercados emergentes asiáticos esperan con incertidumbre la revisión de los índices de referencia.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "EE.UU. autoriza la venta de motores de avión a Turquía antes de la cumbre de la OTAN",
-    "summary": "La administración Biden avanza en el suministro militar para evitar tensiones con Ankara en la reunión aliada.",
+    "title": "Fortescue se convierte en la última minera australiana en enfrentar una demanda colectiva por acoso sexual",
+    "summary": "La gigante del mineral de hierro es demandada colectivamente por presunto acoso sexual, sumándose a una serie de casos similares que sacuden a la industria minera en Australia.",
     "source": [
       "investing.com"
     ],

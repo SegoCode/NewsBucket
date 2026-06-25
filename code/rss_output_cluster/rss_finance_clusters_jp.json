@@ -1,58 +1,115 @@
 [
   {
-    "title": "ホルムズ海峡再開で原油70ドル割れ",
-    "summary": "供給途絶懸念が和らぎ、米国原油が3カ月ぶりの安値に急落。",
+    "title": "石油がホルムズ海峡の再開とイランとの緊張により70ドルを下回る",
+    "summary": "原油は紛争前の水準に急落、ホワイトハウスは戦争の可能性に備えた資金調達を模索し、海運保険各社は巨額の損失を見込む",
     "source": [
+      "investing.com",
+      "nasdaq.com",
+      "bolsamania.com",
       "/r/stocks",
+      "ft.com",
+      "handelsblatt.com",
+      "nikkei.com"
+    ],
+    "count": 7
+  },
+  {
+    "title": "マイクロンの好決算がメモリーチップメーカーに世界的な上昇相場をもたらす",
+    "summary": "米メーカーの利益がサムスン、SKハイニックス、キオクシアの株を急騰させるが、韓国のボラティリティがブームの持続可能性に疑問を投げかける",
+    "source": [
+      "investing.com",
+      "/r/stocks",
+      "bolsamania.com",
       "nikkei.com",
+      "ft.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "欧州防衛産業、ラインメタル、KNDS、大型受注で対照的な一日",
+    "summary": "ラインメタルはフリゲート艦プロジェクト中止で急落、一方で別の企業は大型契約を受注、KNDSはフランクフルトとパリでの上場を発表",
+    "source": [
+      "bolsamania.com",
+      "expansion.com",
       "handelsblatt.com",
       "ft.com"
     ],
     "count": 4
   },
   {
-    "title": "テクノロジー株と半導体株主導でウォール街下落",
-    "summary": "利上げ懸念を背景に半導体株が市場を引きずり下げる。",
+    "title": "再生可能エネルギーとコモディティセクター、エルニーニョと地政学で不安定な環境に直面",
+    "summary": "中国の再生可能エネルギー企業による4年ぶりの大型IPOとイベルドローラの米国でのバッテリー事業が、気候現象と貿易摩擦による不確実性の中で行われる",
     "source": [
-      "ft.com",
-      "investing.com",
-      "bolsamania.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ドイツのフリゲート艦計画中止でラインメタル急落",
-    "summary": "ドイツの防衛企業が株式市場で急落、欧州セクター全体を巻き込む。",
-    "source": [
-      "bolsamania.com",
       "expansion.com",
-      "nikkei.com"
+      "bolsamania.com",
+      "/r/stocks",
+      "handelsblatt.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "米住宅市場が危機：住宅販売減少と手頃な価格の住宅法の失敗",
-    "summary": "住宅建設業者は法案可決で一時的に上昇したが、トランプ氏が拒否権を発動、住宅販売は最低水準に。",
+    "title": "金価格が7ヶ月ぶりに4,000ドルを下回る",
+    "summary": "ドル高と利上げ観測が貴金属を圧迫、重要なサポートを突破",
     "source": [
-      "investing.com",
-      "ft.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "イラン危機、海運と凍結資産に影響",
-    "summary": "紛争により海運保険は巨額損失を見込む一方、カタールがホルムズ海峡再開へ米国とのホットラインを提案。",
-    "source": [
+      "expansion.com",
       "nikkei.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ユーロが対ドルで1年ぶりの安値",
+    "summary": "原油安とFRBの金融引き締め期待で単一通貨が弱含む",
+    "source": [
+      "expansion.com",
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "FRB、米銀ストレステストで最大7000億ドルの損失を警告",
+    "summary": "世界的不況シナリオでの巨額の損失可能性にもかかわらず、FRBは米金融システムは引き続き健全と判断",
+    "source": [
+      "ft.com",
+      "nikkei.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AIセクター、激しい競争と投資機会の中で",
+    "summary": "AnthropicがAlibabaをモデル盗用で非難、Googleは主要人材を失い、市場はAI企業の価値を巡って議論、ある企業は株式市場で下落",
+    "source": [
+      "nasdaq.com",
+      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "金融・決済セクターでの世界的な法廷闘争",
+    "summary": "英独規制当局が決済システムを調査、ヘッジファンドが米CFTCを提訴、Uberはドライバーの権利を巡る法的闘争に直面",
+    "source": [
+      "/r/stocks",
       "ft.com",
       "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "バイナンス、ギリシャ撤退、EU他国でMiCAライセンス申請へ",
-    "summary": "暗号資産取引所がギリシャでの申請を取り下げ、別のEU域内で欧州枠組みの下で事業を行う準備。",
+    "title": "スペイン銀行セクター再編：ブラックロック、BBVA、サンタンデール、そしてネオバンクを巡る議論",
+    "summary": "ブラックロックはテレフォニカへの出資を拡大、BBVAは資本削減、サンタンデールは早期退職を交渉、セクターは伝統的銀行のネオバンクへの関心の低さを議論",
+    "source": [
+      "expansion.com",
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "バイナンス、ギリシャを離れEU他国でMiCAライセンスを取得へ",
+    "summary": "暗号資産取引所、ギリシャでのプロバイダー申請を撤回し、EU他の加盟国で規制手続きを開始するため撤退を確認",
     "source": [
       "bolsamania.com",
       "expansion.com"
@@ -60,121 +117,78 @@
     "count": 2
   },
   {
-    "title": "アルファベット、ダウ平均でベライゾンに取って代わる",
-    "summary": "グーグルの親会社が米国産業株指数で通信事業者と交代。",
+    "title": "ウォール街はまちまち、原油が市場を圧迫",
+    "summary": "ニューヨーク株式指数は方向性のないまま引け、ダウは上昇、ナスダックは下落、原油安が目立った一日",
     "source": [
-      "handelsblatt.com",
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ウェンディーズ株が一日で10％以上急騰",
+    "summary": "ファストフードチェーンの株価が明確な企業的なきっかけなしに急上昇し、市場全体を大きくアウトパフォーム",
+    "source": [
+      "nasdaq.com",
       "/r/stocks"
     ],
     "count": 2
   },
   {
-    "title": "戦車メーカーKNDS、フランクフルトとパリで上場プロセス開始",
-    "summary": "欧州防衛企業、7月に独仏の証券取引所への上場を計画。",
+    "title": "密輸と領土問題で中国と日本の緊張高まる",
+    "summary": "中国が希土類の密輸容疑で日本人2人を拘束、中国国家安全部が日本とフィリピンに国境交渉を警告",
     "source": [
-      "nikkei.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "日本、AIと半導体に2.3兆ドルの投資計画を発表",
-    "summary": "官民一体となった野心的なプロジェクトは、日本のハイテク産業を長期的に強化することを目指す。",
-    "source": [
-      "/r/stocks",
+      "ft.com",
       "nikkei.com"
     ],
     "count": 2
   },
   {
-    "title": "スペースX、新型輸送カプセルの秘密の試験打ち上げを実施",
-    "summary": "イーロン・マスク氏の会社は宇宙船開発で技術的・規制上の課題に直面。",
+    "title": "欧州株、防衛・ハイテクセクターに押されて下落",
+    "summary": "IBEX35はテクノロジー銘柄を控えて19,400ポイントを割り込み、ドイツDAXはマイナス引けも、防衛企業が大型受注で一日を救う",
     "source": [
-      "nikkei.com",
+      "expansion.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "欧州自動車セクター、代替案模索、VWは船舶用エンジン部門を売却",
+    "summary": "欧州自動車メーカーは将来に向けて難しい選択に直面、ベインキャピタルがフォルクスワーゲンの船舶用エンジン部門の過半数を74億ユーロで買収",
+    "source": [
+      "expansion.com",
       "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "マイクロソフト、テクニカルな売られ過ぎ水準に下落、投資家を魅了",
-    "summary": "RSIによると株価は売られ過ぎゾーンにあり、買いの好機を示唆する可能性。",
+    "title": "SpaceX、需要超過の債券発行、新たな課題に直面",
+    "summary": "イーロン・マスク氏の企業は需要が供給の4倍の債券を発行、最近の挫折を受け民間宇宙産業の将来に疑問が生じる",
     "source": [
-      "investing.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "インテル、過去1年で570%上昇、投資家の間で議論を呼ぶ",
-    "summary": "半導体メーカーを巡り、継続投資か利益確定かで意見が二分。",
-    "source": [
-      "nasdaq.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "D-Wave QuantumとCerebrasの株価が急落",
-    "summary": "投資家は業績見通しと利益率低下を理由にこれらのハイテク企業を売却。",
-    "source": [
-      "nasdaq.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "スペインIBEX35、軟調に方向感失う、19,400ポイント割れ",
-    "summary": "スペイン株式市場は世界的不確実性とテクノロジー株の圧力を反映。",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ユーロ、原油安とECBの引き締め姿勢で1年ぶり安値",
-    "summary": "原油価格の緩和と高金利見通しにより欧州通貨が弱含む。",
-    "source": [
-      "ft.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "韓国株式市場のボラティリティ、AI懸念で過去最高",
-    "summary": "ハイテクセクターのバブル懸念が韓国株式市場を揺るがす。",
-    "source": [
+      "expansion.com",
       "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "マグニチュード6.9の強い地震が日本の青森県を揺るがす",
+    "summary": "強い地震が新幹線の運行を中断させ、日本政府を動員、首相官邸に危機対応室を設置、津波の危険なし",
+    "source": [
+      "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "中国、レアアース密輸容疑で日本人2人を拘束",
-    "summary": "拘束により、戦略的重要物資の安全保障を巡る二国間の緊張が高まる。",
+    "title": "BMO、GTA VIの80ドル価格可能性でテイクツーの目標株価を引き上げ",
+    "summary": "ロックスターの次回作の期待が同社の収益予測を押し上げるとBMO投資銀行の分析",
     "source": [
-      "ft.com"
+      "investing.com"
     ],
     "count": 1
   },
   {
-    "title": "ベネズエラ、世界最大の債務再編に備える",
-    "summary": "南米の同国は2400億ドルの負債を明らかにする見通しで、過去最大のソブリン債務再編プロセスとなる。",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "MSCI、インドネシアに関する決定延期、韓国を落胆",
-    "summary": "アジア新興国市場はベンチマーク指数の見直しを不安の中で待つ。",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "米国、NATO首脳会議前にトルコへの航空機エンジン売却を承認",
-    "summary": "バイデン政権は同盟国会合でのアンカラとの緊張回避のため、軍事供給を進める。",
+    "title": "フォーテスキュー、セクハラ集団訴訟に直面する最新の豪鉱山会社に",
+    "summary": "鉄鉱石大手がセクハラ疑惑で集団訴訟、豪鉱業界を揺るがす一連の同様の事例に加わる",
     "source": [
       "investing.com"
     ],
