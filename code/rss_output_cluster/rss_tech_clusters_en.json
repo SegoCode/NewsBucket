@@ -1,7 +1,18 @@
 [
   {
-    "title": "Figma launches new animation tools, code layers, and AI features in its 2026 update",
-    "summary": "The design platform introduced Motion, Code Layers, and other AI-powered features during the Config conference.",
+    "title": "GTA VI will launch at 80 euros, will have better performance on PS5, and some stores require physical disc",
+    "summary": "Rockstar's long-awaited title confirms its price and performance exclusivity, while retailers refuse to sell it without physical format.",
+    "source": [
+      "xataka.com",
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Figma incorporates animations, code layers, and new AI features in its Config 2026",
+    "summary": "The platform designs a suite of tools that combine motion, code, and third-party artificial intelligence to improve collaboration.",
     "source": [
       "producthunt.com",
       "alternativeto.net",
@@ -11,82 +22,100 @@
     "count": 4
   },
   {
-    "title": "OpenAI introduces its first custom chip 'Jalapeño' manufactured by Broadcom",
-    "summary": "The GPU for language model inference was designed in collaboration with Broadcom and aims to optimize performance and cost.",
+    "title": "Google launches new AI features, security, and reduces Play Store commissions",
+    "summary": "The tech giant updates its services with computer control via Gemini, biometric identification at airports, and changes to its store.",
+    "source": [
+      "the-decoder.com",
+      "alternativeto.net",
+      "wired.com",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Meta accelerates AI amid criticism: mass layoffs, high executive compensation, and privacy concerns",
+    "summary": "Zuckerberg's company pushes AI features while employees warn about risks and job cuts and large stock options are revealed.",
+    "source": [
+      "the-decoder.com",
+      "xataka.com",
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Controversies over state surveillance: mass espionage, data extraction, and predictive algorithms",
+    "summary": "Several governments are accused of expanding their surveillance capabilities through legally and ethically questionable practices.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology",
+      "wired.com",
+      "techcrunch.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "OpenAI unveils 'Jalapeño', its first custom AI chip in collaboration with Broadcom",
+    "summary": "The new processor is designed to optimize the company's models and reduce its dependence on external suppliers.",
     "source": [
       "elchapuzasinformatico.com",
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "kite.kagi.com",
+      "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "New details of GTA VI: pre-sale, PS5 performance, screenshots, and early access scams",
-    "summary": "Various reports anticipate the graphics modes, the refusal of two stores to sell it without a disc, and the circulation of fraudulent websites.",
+    "title": "Micron breaks records and signs deals through 2030, boosting memory stocks",
+    "summary": "The memory chip manufacturer records extraordinary profits and secures 16 supply deals that boost the sector.",
+    "source": [
+      "fastcompany.com",
+      "elchapuzasinformatico.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "US reinforces anti-China semiconductor bloc by including Netherlands and investing in xLight",
+    "summary": "The Pax Silica alliance expands as Washington pressures Europe with $150 million for the EUV light source.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Heat wave in Europe causes hospital emergencies and urges urban adaptation solutions",
+    "summary": "Extreme high temperatures overwhelm hospitals in England and lead European cities to redesign their infrastructures.",
     "source": [
       "/r/technology",
-      "elchapuzasinformatico.com",
+      "fastcompany.com",
       "xataka.com"
     ],
     "count": 3
   },
   {
-    "title": "Microsoft admits that 8 GB of RAM is sufficient for Windows 11 and relaunches its Surface with that configuration",
-    "summary": "After years of recommending 16 GB, the company reverses course and launches new Surface models with 8 GB of RAM at higher prices.",
+    "title": "OpenAI introduces ads in paid plans and faces a lawsuit in Florida",
+    "summary": "The artificial intelligence company implements advertising in its plans while the state of Florida sues it for hiding risks of ChatGPT.",
     "source": [
+      "news.ycombinator.com",
       "/r/technology",
-      "elchapuzasinformatico.com"
+      "the-decoder.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Elon Musk loses trillionaire title due to drop in SpaceX and Tesla stocks",
-    "summary": "The net worth of the CEO of Tesla and SpaceX suffers a setback after the stock market crash of his companies.",
+    "title": "Anthropic accuses Alibaba of extracting abilities from its Claude model using fake accounts",
+    "summary": "The AI startup reports that Alibaba used nearly 25,000 accounts to clone its technology.",
     "source": [
-      "techcrunch.com",
-      "/r/technology"
+      "elchapuzasinformatico.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "A24 enrages its followers by closing a $75 million deal with Google to train AI",
-    "summary": "The independent film studio signed an agreement that allows Google to use its catalog, which generated criticism from fans and the press.",
-    "source": [
-      "wired.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tech companies struggle to control excessive spending on generative AI",
-    "summary": "An Accenture report reveals that employees use AI tokens for trivial tasks like converting PDFs into presentations.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "LastPass suffers another data breach through a supply chain attack on Klue",
-    "summary": "The popular password manager exposes customer data in a new security incident that affects its reputation.",
-    "source": [
-      "fastcompany.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Slate modifies the battery of its low-cost electric pickup truck and announces a price of $24,950",
-    "summary": "The startup adjusted the design of its vehicle to lower costs and improve range.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Millionaires are massively emigrating from their countries due to fiscal and political factors",
-    "summary": "Studies indicate that Singapore, Italy, Switzerland, Greece, and Hong Kong are the favorite destinations of the wealthy.",
+    "title": "IBM presents the world's first chip with sub-nanometer technology",
+    "summary": "The new processor marks a milestone in semiconductor miniaturization and promises greater efficiency.",
     "source": [
       "xataka.com",
       "fastcompany.com"
@@ -94,71 +123,62 @@
     "count": 2
   },
   {
-    "title": "New cooling designs drastically reduce water consumption in data centers",
-    "summary": "Technologies like Nvidia's liquid cooling and systems at 45°C promise nearly zero water usage.",
+    "title": "A24's $75 million deal with Google enrages its fans",
+    "summary": "The independent studio yields to Google's artificial intelligence in a pact that fans consider a betrayal.",
     "source": [
-      "news.ycombinator.com",
+      "wired.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Qualcomm acquires chip startup Modular for nearly $4 billion",
-    "summary": "The US company strengthens its processor portfolio with the purchase of the young company.",
+    "title": "Elon Musk loses trillionaire status after SpaceX stock drop",
+    "summary": "The businessman's fortune shrinks due to the decline in his aerospace company's valuation.",
     "source": [
-      "news.ycombinator.com",
-      "wired.com"
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Mistral launches its new OCR 4 model with multilingual document extraction",
-    "summary": "The AI surpasses competitors in 72% of test cases and improves performance on structured documents.",
-    "source": [
-      "alternativeto.net",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic integrates its Claude assistant into Slack through the Claude Tag feature",
-    "summary": "The tool automates tasks and workflows, reportedly writing 65% of internal code according to the company.",
-    "source": [
-      "the-decoder.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The White House app automatically downloads on official phones and cannot be removed",
-    "summary": "Workers report that the 'app' injects government propaganda without the possibility of uninstallation.",
+    "title": "Unusual double earthquake shakes Venezuela and Android phones alert the population",
+    "summary": "The earthquake releases a century's worth of energy in 39 seconds, while smartphones help warn citizens.",
     "source": [
       "xataka.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AI has not destroyed engineering jobs, but software engineers face an identity crisis",
-    "summary": "Recent data shows that engineering positions are resilient to automation, while a survey reveals discouragement in the sector.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Europe hardens its stance against US big tech amid chip war",
-    "summary": "More and more Europeans avoid services that share data with the US, while the EU challenges Washington's restrictions.",
-    "source": [
-      "techcrunch.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "China advances in humanoid robots and worries its own AI experts",
-    "summary": "Morgan Stanley doubles its forecasts for shipments of Chinese robots, while researchers in the country express concern about AI development.",
+    "title": "Microsoft acknowledges that 8 GB of RAM is enough for Windows 11 and launches Surface with that configuration",
+    "summary": "After years of recommending 16 GB, the company admits its operating system works well with half and markets devices accordingly.",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google continues to lose star artificial intelligence researchers to competitors",
+    "summary": "The talent drain in Google's AI teams intensifies in the face of offers from rivals.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Data centers under scrutiny for high water and energy consumption",
+    "summary": "Drought in Georgia, Polaroid campaigns, and the UN demand greater environmental responsibility from data centers.",
+    "source": [
+      "fastcompany.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Chinese artificial intelligence attracts investments but worries its own experts",
+    "summary": "Morgan Stanley doubles humanoid robot forecasts while Chinese scientists warn about the risks of AI.",
     "source": [
       "xataka.com",
       "wired.com"
@@ -166,19 +186,12 @@
     "count": 2
   },
   {
-    "title": "Wikipedia workers in the UK seek union recognition for the first time in the world",
-    "summary": "The foundation's employees start a process to form a union, marking a global milestone in the organization.",
+    "title": "White House helps Zuckerberg and Google CEO avoid subpoena, and its app installs without permission",
+    "summary": "The US government faces criticism for pressuring the Senate and for the forced download of its app on official phones.",
     "source": [
-      "news.ycombinator.com"
+      "/r/technology",
+      "xataka.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "Pentagon AI system manages to infiltrate secret government networks during a test",
-    "summary": "The military experiment demonstrated the ability of artificial intelligence to breach classified systems, according to official sources.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
+    "count": 2
   }
 ]

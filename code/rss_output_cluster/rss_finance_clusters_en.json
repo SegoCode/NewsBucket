@@ -1,20 +1,30 @@
 [
   {
-    "title": "Micron results and Qualcomm deal boost global equities",
-    "summary": "Strong Micron figures and Qualcomm's chip supply to Meta spark a rally in the tech sector and lift major stock indices.",
+    "title": "Micron shares surge 9% and quadruple revenue driven by AI demand",
+    "summary": "The chipmaker's quarterly results beat expectations, allaying fears about AI and boosting the global tech sector.",
     "source": [
-      "investing.com",
+      "finance.yahoo.com",
       "bolsamania.com",
-      "handelsblatt.com",
-      "nikkei.com",
+      "ft.com",
       "/r/stocks",
-      "nasdaq.com"
+      "investing.com"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "Oil retreats to pre-Iran conflict levels, falling below $70",
-    "summary": "Stabilization of Gulf flows and rising supply push crude to prices not seen since before the military escalation.",
+    "title": "Apple raises MacBook and iPad prices by up to $200 due to rising memory costs",
+    "summary": "The increase in memory chip costs, driven by AI demand, forces Apple to pass on the rise to its devices.",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com",
+      "/r/stocks",
+      "investing.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Oil falls below $70 to pre-Iran war levels",
+    "summary": "Increased supply from the Persian Gulf and geopolitical easing bring crude back to pre-conflict levels.",
     "source": [
       "expansion.com",
       "handelsblatt.com",
@@ -24,54 +34,66 @@
     "count": 4
   },
   {
-    "title": "Gold sinks below $4,000 for the first time in months",
-    "summary": "The strong dollar and the prospect of high interest rates continue to punish the precious metal, which breaks the $4,000 support level.",
+    "title": "SpaceX issues bonds with demand four times higher as its shares fall 31%",
+    "summary": "Elon Musk's aerospace company taps the debt market to raise $25 billion amid a sharp market correction.",
     "source": [
-      "expansion.com",
-      "handelsblatt.com",
+      "finance.yahoo.com",
+      "nasdaq.com",
+      "ft.com",
+      "expansion.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "IBM presents the world's first sub-1 nanometer chip, the size of a fingernail",
+    "summary": "The new processor represents a revolutionary breakthrough for AI and quantum computing, with greater energy efficiency.",
+    "source": [
+      "bolsamania.com",
+      "investing.com",
       "finance.yahoo.com"
     ],
     "count": 3
   },
   {
-    "title": "EasyJet rejects a €4.9 billion takeover bid and negotiates with Castlelake",
-    "summary": "The low-cost airline confirms it has rejected a takeover offer and is holding alternative talks with the Castlelake fund.",
+    "title": "US PCE inflation rises to 4.1%, highest in three years, keeping pressure on the Fed",
+    "summary": "The Federal Reserve's preferred inflation gauge is in line with expectations but remains elevated, with a rate hike not ruled out.",
     "source": [
-      "investing.com",
+      "finance.yahoo.com",
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Bitcoin falls to 20-month low on market pessimism and risk aversion",
+    "summary": "The world's largest cryptocurrency plunges to levels not seen since October 2024 amid an adverse macro environment.",
+    "source": [
+      "finance.yahoo.com",
       "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Arteche plummets on stock market after placing €100 million in an accelerated offering",
-    "summary": "The Spanish company completes an accelerated share placement that triggers a sharp drop in its share price.",
+    "title": "MiCA regulation causes Binance to exit Greece to seek license in another EU country",
+    "summary": "The entry into force of the European cryptocurrency law forces exchanges to restructure and comply with new requirements.",
     "source": [
       "bolsamania.com",
-      "investing.com"
+      "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "3i Group soars after reporting 3.3% sales growth at Action",
-    "summary": "The private equity holding sees its shares rise after publishing strong data from its Action store chain.",
+    "title": "Gold falls below $4,000 for the first time, weighed down by the dollar and interest rates",
+    "summary": "The precious metal breaks the $4,000 support and is on track for its worst year in decades given the strong dollar and rate hikes.",
     "source": [
-      "investing.com",
-      "nasdaq.com"
+      "expansion.com",
+      "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "Volkswagen sells its marine engine division to Bain Capital for €7.4 billion",
-    "summary": "The German automotive group divests 51% of its marine engine subsidiary in a deal valued at ¥1.4 trillion.",
-    "source": [
-      "ft.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Major US banks pass stress tests with potential losses of $700 billion",
-    "summary": "The Fed publishes stress test results, showing that the largest banks could withstand a severe economic scenario.",
+    "title": "Fed releases stress tests: biggest US banks could withstand $700 billion in losses",
+    "summary": "The Federal Reserve results show banks have enough capital to withstand a severe economic recession.",
     "source": [
       "ft.com",
       "handelsblatt.com"
@@ -79,101 +101,84 @@
     "count": 2
   },
   {
-    "title": "Bitcoin falls to two-week lows and nears its lowest levels in 20 months",
-    "summary": "The cryptocurrency continues its downward trend due to deteriorating market sentiment and regulatory uncertainties.",
+    "title": "Amazon to invest $48 billion in India by 2030, double previous plans",
+    "summary": "The e-commerce giant reinforces its commitment to the Indian market after meeting with Prime Minister Narendra Modi.",
     "source": [
-      "ft.com",
+      "nikkei.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Ibex 35 rises 0.44% and nears 19,500 points, boosted by banks and utilities",
+    "summary": "The Spanish benchmark extends its winning streak to three sessions in a day without major macroeconomic references.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Merck KGaA buys a medical technology company for $11.3 billion",
+    "summary": "The German pharmaceutical and chemical group strengthens its life sciences division with the largest acquisition in its history.",
+    "source": [
       "finance.yahoo.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "German DAX trades flat after positive opening driven by tech stocks",
-    "summary": "The German index takes a breather after early gains, with an eye on the next resistance levels.",
+    "title": "Bain Capital buys Volkswagen's marine engine unit for €7.4 billion",
+    "summary": "The private equity firm acquires a majority stake in the German group's boat engine business, in a deal that strengthens its industrial presence.",
     "source": [
-      "bolsamania.com",
+      "ft.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "EasyJet rejects £4.9 billion buyout offer and negotiates with Castlelake",
+    "summary": "The low-cost airline dismisses the initial proposal but continues talks with the investment firm for a possible alliance.",
+    "source": [
+      "ft.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Trump rules out enacting affordable housing law in the US",
+    "summary": "The US president decides not to sign the bipartisan bill aimed at improving access to housing.",
+    "source": [
+      "ft.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Two leading AI scientists leave Google to join Anthropic",
+    "summary": "The talent exodus in AI continues at the tech giant, which loses two of its top researchers to the Amazon-backed startup.",
+    "source": [
+      "/r/stocks"
+    ],
+    "count": 1
+  },
+  {
+    "title": "British banks win legal battle against regulator over historic loans",
+    "summary": "The High Court rules in favor of the institutions in a long-running dispute over the handling of past loan claims.",
+    "source": [
+      "ft.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Largest IPO in China in four years is led by a renewable energy company",
+    "summary": "A Chinese clean energy company raises billions of dollars in its stock market debut amid the green investment boom.",
+    "source": [
+      "expansion.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "German neobank N26 turns profitable for the first time",
+    "summary": "The online financial institution leaves losses behind and achieves profits thanks to revenue growth and cost discipline.",
+    "source": [
       "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Ibex 35 trims gains and closes nearly flat at 19,406 points",
-    "summary": "The Spanish index moderates its advance during the session and ends with a slight gain of 0.08%.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Rheinmetall suffers historic drop, dragging down the European defense sector",
-    "summary": "The German arms manufacturer plummets on the stock market, infecting other sector companies on fears of military spending cuts.",
-    "source": [
-      "expansion.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceX issues bonds with demand quadrupling the supply",
-    "summary": "The aerospace company places debt with demand four times higher than the amount issued, reflecting strong investor interest.",
-    "source": [
-      "expansion.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Japan plans to invest $2.3 trillion in AI and semiconductors over the next 14 years",
-    "summary": "The Japanese government announces an ambitious strategic plan to boost artificial intelligence and chip manufacturing.",
-    "source": [
-      "/r/stocks"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Two leading AI researchers leave Google to join Anthropic",
-    "summary": "The AI startup Anthropic continues to attract top-tier talent, this time from the tech giant.",
-    "source": [
-      "/r/stocks"
-    ],
-    "count": 1
-  },
-  {
-    "title": "China detains two Japanese nationals accused of smuggling rare earths",
-    "summary": "Chinese authorities arrest two Japanese citizens on suspicion of illegal extraction and export of strategic minerals.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Trump refuses to sign affordable housing bill",
-    "summary": "The US president decides not to enact the housing affordability law, leaving the initiative in limbo.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Binance leaves Greece and will seek MiCA license in another European country",
-    "summary": "The cryptocurrency exchange withdraws from the Greek market and announces it will seek authorization under the European regulatory framework.",
-    "source": [
-      "expansion.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Euro hits lowest level in a year against the dollar",
-    "summary": "The single currency falls to yearly lows on expectations that the Fed will keep rates high while the ECB could cut them.",
-    "source": [
-      "expansion.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Santander improves its credit outlook and nears best rating since 2012",
-    "summary": "The Spanish banking institution sees its rating strengthened thanks to the contribution of Webster and TSB.",
-    "source": [
-      "expansion.com"
     ],
     "count": 1
   }
