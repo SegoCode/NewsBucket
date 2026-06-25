@@ -114,7 +114,8 @@
                 try {
                     const res = await fetch(QUAKE);
                     if (res.ok) {
-                        const q = (await res.json())[0];
+                        const quakes = (await res.json()).filter(q => q.mag && q.cod && Date.now() - Date.parse(q.at) < 864e5);
+                        const q = quakes.length && quakes.reduce((best, cur) => parseFloat(cur.mag) > parseFloat(best.mag) ? cur : best);
                         if (q) {
                             const c = q.cod.match(/[+-]\d+\.?\d*/g);
                             const url = `geo:${c[0]},${c[1]}?q=${c[0]},${c[1]}`;
