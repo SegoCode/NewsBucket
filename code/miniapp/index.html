@@ -118,7 +118,9 @@
                         const q = quakes.length && quakes.reduce((best, cur) => parseFloat(cur.mag) > parseFloat(best.mag) ? cur : best);
                         if (q) {
                             const c = q.cod.match(/[+-]\d+\.?\d*/g);
-                            const url = `geo:${c[0]},${c[1]}?q=${c[0]},${c[1]}`;
+                            const dms = v => { const n = parseFloat(v), d = Math.trunc(n/100); return d + (n - d*100) / 60; };
+                            const lat = dms(c[0]), lon = dms(c[1]);
+                            const url = `geo:${lat},${lon}?q=${lat},${lon}`;
                             items.unshift({ title: `M${q.mag} | ${$lang.value === 'jp' ? q.anm : q.en_anm}`, source: ['JMA', new Date(q.at).toLocaleString([], { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' }).replace(',', '')], cls: parseFloat(q.mag) >= 4 ? 'quake-high' : 'quake', url });
                         }
                     }
