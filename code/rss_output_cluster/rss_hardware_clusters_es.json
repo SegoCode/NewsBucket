@@ -1,200 +1,202 @@
 [
   {
-    "title": "Steam Machine de Valve acapara la atención con su lanzamiento y alternativas DIY",
-    "summary": "La consola genera noticias sobre precio, especificaciones, ventas en Japón y compatibilidad con SteamOS.",
+    "title": "Valve lanza la Steam Machine con especificaciones controvertidas y se agota en Japón",
+    "summary": "La consola de Valve se vende en Japón pese a las críticas por su precio, memoria de un solo canal y cambio en la promesa de 4K.",
     "source": [
-      "/r/hardware",
-      "geeknetic.es",
-      "hardzone.es",
+      "videocardz.com",
       "profesionalreview.com",
-      "techpowerup.com",
       "tomshardware.com",
-      "videocardz.com"
+      "geeknetic.es",
+      "techpowerup.com"
     ],
-    "count": 7
+    "count": 5
   },
   {
-    "title": "GTA VI revela precios, preventa y edición física sin disco",
-    "summary": "La esperada entrega de Grand Theft Auto desata rumores sobre prohibiciones y mejora en PS5.",
+    "title": "Apple sube los precios de Mac y iPad por la crisis de la memoria RAM",
+    "summary": "Los aumentos afectan a toda la línea, incluyendo el MacBook Neo, debido al alza de los costes de NAND y DRAM.",
     "source": [
+      "techpowerup.com",
+      "geeknetic.es",
+      "tomshardware.com",
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 5
+  },
+  {
+    "title": "GTA 6 se lanzará con edición física sin disco y precios elevados",
+    "summary": "Rockstar confirma el precio de 79,99 euros, la preventa, la versión en disco y las declaraciones de Sony sobre PS5.",
+    "source": [
+      "videocardz.com",
       "geeknetic.es",
       "hardzone.es",
-      "profesionalreview.com",
       "techpowerup.com",
       "tomshardware.com"
     ],
     "count": 5
   },
   {
-    "title": "Apple incrementa los precios de Mac y iPad por la crisis de semiconductores",
-    "summary": "Los aumentos afectan a varios modelos, incluyendo el MacBook Neo que sube 400 dólares en EE.UU.",
+    "title": "Minorista francés se burla del precio de la Steam Machine con su 'Stim Machine'",
+    "summary": "LDLC ofrece un PC RX 9060 XT por 999 euros, criticando el valor de la consola de Valve.",
     "source": [
       "/r/hardware",
+      "techpowerup.com",
       "profesionalreview.com",
-      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "OpenAI y Broadcom presentan Jalapeño, su primer chip de inferencia",
-    "summary": "El ASIC diseñado en nueve meses promete acelerar la inferencia de modelos de lenguaje.",
+    "title": "Impresión 3D permite construir una Steam Machine con RTX 5060",
+    "summary": "La comunidad crea alternativas a la consola de Valve mediante carcasas impresas en 3D y SteamOS con gráficas AMD.",
     "source": [
-      "/r/hardware",
       "profesionalreview.com",
-      "techpowerup.com",
-      "tomshardware.com"
+      "geeknetic.es",
+      "hardzone.es",
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "AMD lanza FSR 4.1 y SDK 2.3 con importantes mejoras de rendimiento",
-    "summary": "La tecnología de reescalado muestra ganancias de hasta el 100% en Radeon RX 7900 XTX.",
+    "title": "ASUS restaura el cifrado TSME en placas AM5 con una BIOS beta",
+    "summary": "La compañía reacciona a las críticas y devuelve la compatibilidad con el cifrado de memoria en sus placas base.",
     "source": [
       "geeknetic.es",
+      "tomshardware.com",
       "profesionalreview.com",
-      "techpowerup.com",
       "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "Qualcomm presenta Dragonfly, su plataforma de chips para IA en centros de datos",
-    "summary": "Incluye versiones para China con aceleradores reducidos para cumplir restricciones de exportación.",
+    "title": "Microsoft sube por tercera vez el precio de Xbox Series X/S y elimina el modelo de 2 TB",
+    "summary": "Los aumentos oscilan entre 100 y 150 dólares, continuando la tendencia alcista de los últimos años.",
     "source": [
-      "profesionalreview.com",
+      "tomshardware.com",
       "techpowerup.com",
-      "tomshardware.com"
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Ofertas para esquivar las subidas de precio de Apple en MacBook Neo",
+    "summary": "Distribuidores ofrecen descuentos de hasta 500 dólares en los modelos actuales antes de los incrementos.",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es",
+      "profesionalreview.com"
     ],
     "count": 3
   },
   {
-    "title": "Qualcomm revela arquitectura HBC de memoria cercana al cómputo para IA",
-    "summary": "Consigue 6 veces más ancho de banda por vatio que HBM y 200 veces más capacidad que SRAM en chip.",
+    "title": "IBM presenta un chip de 0,7 nm con un 50% más de rendimiento que los de 2 nm",
+    "summary": "La tecnología NanoStack de IBM rompe la barrera del nanómetro con un chip de 7 angstroms.",
     "source": [
+      "techpowerup.com",
       "/r/hardware",
-      "techpowerup.com",
-      "tomshardware.com"
+      "geeknetic.es"
     ],
     "count": 3
   },
   {
-    "title": "Micron y Samsung impulsan el mercado de memorias con acuerdos y producción récord",
-    "summary": "Micron asegura contratos por 100.000 millones y Samsung centra la producción de HBM en HBM4.",
+    "title": "Qualcomm presenta la arquitectura HBC de memoria cercana para IA",
+    "summary": "La nueva tecnología ofrece un ancho de banda de 133 TB/s y seis veces más eficiencia que HBM.",
     "source": [
+      "tomshardware.com",
+      "techpowerup.com",
+      "/r/hardware"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Micron asegura acuerdos de suministro por 100.000 millones y advierte que la crisis de RAM continuará",
+    "summary": "Micron registra resultados récord y fija precios altos para los próximos cinco años.",
+    "source": [
+      "tomshardware.com",
       "/r/hardware",
-      "techpowerup.com",
-      "tomshardware.com"
+      "techpowerup.com"
     ],
     "count": 3
   },
   {
-    "title": "CHUWI, AceMagic y Geekom lanzan ofertas y nuevos mini PC",
-    "summary": "Los fabricantes presentan equipos compactos con procesadores AMD e Intel a precios competitivos.",
+    "title": "AMD actualiza FSR SDK 2.3 con Ray Regeneration y muestra el rendimiento de FSR 4.1",
+    "summary": "Las nuevas versiones del escalado de AMD mejoran la calidad de imagen y ofrecen ganancias de rendimiento en RDNA 3.",
     "source": [
-      "profesionalreview.com",
-      "techpowerup.com",
-      "tomshardware.com"
+      "geeknetic.es",
+      "videocardz.com",
+      "techpowerup.com"
     ],
     "count": 3
   },
   {
-    "title": "ASUS restaura el soporte TSME en placas AM5 mediante BIOS beta",
-    "summary": "La actualización permite activar TSME en los chipsets de la serie X870, B850 y X670.",
+    "title": "Framework actualiza sus portátiles con SSD de ADATA y anuncia subidas de precio en CPUs",
+    "summary": "La compañía cambia de proveedor de SSD y anticipa incrementos en los procesadores.",
     "source": [
-      "profesionalreview.com",
+      "techpowerup.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Nothing muestra el diseño final del Phone (4b) con doble cámara y LEDs",
-    "summary": "El móvil económico presenta un acabado azul claro y botones negros en su carcasa.",
+    "title": "AceMagic ofrece hasta un 20% de descuento en sus Mini PC con AMD Ryzen",
+    "summary": "La promoción incluye cupones exclusivos para adquirir estos equipos compactos a precio reducido.",
     "source": [
-      "geeknetic.es",
+      "techpowerup.com",
       "profesionalreview.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD corrige problemas del controlador Adrenalin con un hotfix urgente",
-    "summary": "La versión 26.6.3 soluciona errores de instalación en Windows 10 para GPUs Radeon RX 7000.",
+    "title": "Ofertas del Prime Day 2026 en monitores, placas base y periféricos",
+    "summary": "Las rebajas incluyen descuentos en monitores gaming, placas GIGABYTE y accesorios como el Corsair Xeneon Edge.",
     "source": [
-      "geeknetic.es",
-      "videocardz.com"
+      "tomshardware.com",
+      "techpowerup.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel Arc Pro B65 llega a Estados Unidos a partir de 909 dólares",
-    "summary": "La GPU profesional de ASRock e Intel ofrece menos núcleos que la Pro B70 a un precio ligeramente inferior.",
+    "title": "Qualcomm y Meta firman un acuerdo multigeneracional para CPUs de centros de datos",
+    "summary": "La colaboración estratégica abarcará varias generaciones de procesadores para IA en la nube.",
     "source": [
       "techpowerup.com",
-      "videocardz.com"
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "IBM anuncia un chip de 7 angstroms con 100.000 millones de transistores",
-    "summary": "La tecnología NanoStack promete un 50% más de rendimiento que los procesos de 2 nanómetros.",
+    "title": "Llegan nuevos dispositivos retro: 8BitDo lanza colección N64 y Ayaneo presenta Pocket Micro 2",
+    "summary": "Los fabricantes apuestan por el diseño clásico en mandos y consolas portátiles.",
     "source": [
-      "/r/hardware",
-      "geeknetic.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Qualcomm y Meta firman un acuerdo estratégico plurianual para CPUs de centros de datos",
-    "summary": "Ambas compañías colaborarán en el diseño de procesadores para carga de trabajo de IA.",
-    "source": [
-      "/r/hardware",
+      "hardzone.es",
       "techpowerup.com"
     ],
     "count": 2
   },
   {
-    "title": "Amazon Prime Day 2026 ofrece descuentos en tecnología variada",
-    "summary": "Monitores, impresoras 3D, sillas gaming y altavoces se encuentran entre las ofertas destacadas.",
+    "title": "Tim Sweeney critica a Steam por las etiquetas de IA y apuesta por economías de juego interconectadas",
+    "summary": "El CEO de Epic Games se pronuncia sobre la moderación de contenido y el futuro de los videojuegos.",
     "source": [
-      "techpowerup.com",
+      "tomshardware.com",
+      "techpowerup.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Riot Vanguard elimina su exigencia de ejecución constante para el anti-trampas",
+    "summary": "El nuevo modo bajo demanda requiere una pila de seguridad estricta de Windows 11.",
+    "source": [
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Tim Sweeney se pronuncia sobre la industria del videojuego en dos frentes",
-    "summary": "Critica a Valve por la transparencia en IA y aboga por economías interconectadas en los juegos.",
+    "title": "OpenAI y Broadcom presentan Jalapeño, su primer chip para inferencia de lenguaje",
+    "summary": "El chip propio acelerará los modelos de lenguaje con mayor eficiencia.",
     "source": [
-      "profesionalreview.com",
-      "techpowerup.com"
+      "profesionalreview.com"
     ],
-    "count": 2
-  },
-  {
-    "title": "Ayaneo Pocket Micro 2 y MSI Claw 8, dos apuestas en consolas portátiles",
-    "summary": "La compañía lanza una nueva retrohandheld mientras se publica la revisión definitiva del Claw 8.",
-    "source": [
-      "/r/hardware",
-      "techpowerup.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Análisis destacados: HyperX Cloud Stinger 3 y Creative XF1",
-    "summary": "Auriculares inalámbricos y altavoz de escritorio ofrecen buena calidad de audio por menos de 100 dólares.",
-    "source": [
-      "geeknetic.es",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA actualiza DLSS y Proton añade compatibilidad con FSR 4 en Linux",
-    "summary": "Las tecnologías de reescalado reciben nuevas versiones para mejorar el rendimiento en juegos.",
-    "source": [
-      "geeknetic.es",
-      "techpowerup.com"
-    ],
-    "count": 2
+    "count": 1
   }
 ]

@@ -1,82 +1,29 @@
 [
   {
-    "title": "GTA VI se lanzará a 80 euros, tendrá mejor rendimiento en PS5 y algunas tiendas exigen disco físico",
-    "summary": "La esperada entrega de Rockstar confirma su precio y exclusividad de rendimiento, mientras minoristas se niegan a venderla sin formato físico.",
+    "title": "Apple sube los precios de Mac y iPad por la crisis de la RAM",
+    "summary": "La compañía incrementa el precio de sus ordenadores y tabletas debido al aumento del coste de los componentes, especialmente la memoria RAM.",
     "source": [
-      "xataka.com",
-      "/r/technology",
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Figma incorpora animaciones, capas de código y nuevas funciones de IA en su Config 2026",
-    "summary": "La plataforma diseña un conjunto de herramientas que combinan movimiento, código e inteligencia artificial de terceros para mejorar la colaboración.",
-    "source": [
-      "producthunt.com",
-      "alternativeto.net",
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Google lanza nuevas funciones de IA, seguridad y reduce las comisiones de Play Store",
-    "summary": "El gigante tecnológico actualiza sus servicios con control por ordenador mediante Gemini, identificación biométrica en aeropuertos y cambios en su tienda.",
-    "source": [
-      "the-decoder.com",
-      "alternativeto.net",
-      "wired.com",
-      "kite.kagi.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Meta acelera la IA entre críticas: despidos masivos, altas compensaciones ejecutivas y cuestiones de privacidad",
-    "summary": "La empresa de Zuckerberg impulsa funciones de IA mientras empleados alertan sobre riesgos y se revelan recortes de empleo y grandes opciones bursátiles.",
-    "source": [
-      "the-decoder.com",
-      "xataka.com",
       "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Polémicas por vigilancia estatal: espionaje masivo, extracción de datos y algoritmos predictivos",
-    "summary": "Varios gobiernos son acusados de ampliar sus capacidades de vigilancia mediante prácticas cuestionadas legal y éticamente.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology",
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "OpenAI presenta 'Jalapeño', su primer chip de IA personalizado en colaboración con Broadcom",
-    "summary": "El nuevo procesador está diseñado para optimizar los modelos de la compañía y reducir su dependencia de proveedores externos.",
-    "source": [
       "elchapuzasinformatico.com",
-      "kite.kagi.com",
+      "xataka.com",
+      "/r/technology",
       "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 5
   },
   {
-    "title": "Micron bate récords y firma acuerdos hasta 2030, impulsando las acciones de memoria",
-    "summary": "El fabricante de chips de memoria registra ganancias extraordinarias y asegura 16 acuerdos de suministro que disparan el sector.",
+    "title": "Microsoft aumenta el precio de las consolas Xbox Series X|S hasta 150 dólares",
+    "summary": "La subida de precios, que sigue a la de Apple, sitúa la Xbox Series X más cara en 749,99 dólares a partir de agosto.",
     "source": [
-      "fastcompany.com",
+      "techcrunch.com",
       "elchapuzasinformatico.com",
-      "techcrunch.com"
+      "/r/technology"
     ],
     "count": 3
   },
   {
-    "title": "EE.UU. refuerza el bloque antichino de semiconductores al incluir a Países Bajos e invertir en xLight",
-    "summary": "La alianza Pax Silica se amplía mientras Washington presiona a Europa con 150 millones de dólares para la fuente de luz EUV.",
+    "title": "EE.UU. refuerza su alianza antichina e invierte 150 millones en xLight para presionar a Europa y ASML",
+    "summary": "Estados Unidos incorpora a los Países Bajos al bloque Pax Silica e inyecta capital en la empresa xLight para competir en la tecnología EUV, mientras Europa resiste la presión.",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com",
@@ -85,55 +32,107 @@
     "count": 3
   },
   {
-    "title": "La ola de calor en Europa provoca emergencias hospitalarias y urge soluciones de adaptación urbana",
-    "summary": "Las altas temperaturas extremas colapsan hospitales en Inglaterra y llevan a ciudades europeas a rediseñar sus infraestructuras.",
+    "title": "Anthropic acusa a Alibaba de robar capacidades de su modelo Claude mediante cuentas falsas",
+    "summary": "La compañía de inteligencia artificial denuncia que la empresa china utilizó casi 25.000 cuentas para extraer información de su asistente Claude.",
     "source": [
       "/r/technology",
-      "fastcompany.com",
-      "xataka.com"
+      "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "OpenAI introduce anuncios en programas de pago y enfrenta una demanda en Florida",
-    "summary": "La compañía de inteligencia artificial implementa publicidad en sus planes mientras el estado de Florida la demanda por ocultar riesgos de ChatGPT.",
+    "title": "El gobierno de Trump prohíbe a Polestar vender sus nuevos vehículos eléctricos en EE.UU.",
+    "summary": "La administración estadounidense bloquea la entrada de la marca sueca de coches eléctricos, mientras permite a Volvo continuar sus operaciones.",
     "source": [
-      "news.ycombinator.com",
       "/r/technology",
-      "the-decoder.com"
+      "techcrunch.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Anthropic acusa a Alibaba de extraer capacidades de su modelo Claude mediante cuentas falsas",
-    "summary": "La startup de IA denuncia que Alibaba usó casi 25.000 cuentas para clonar su tecnología.",
+    "title": "Microsoft extiende el soporte de Windows 10 hasta octubre de 2027 ante el rechazo de Windows 11",
+    "summary": "La compañía amplía un año más las actualizaciones de seguridad para Windows 10, mientras los usuarios se resisten a migrar a la nueva versión.",
     "source": [
-      "elchapuzasinformatico.com",
+      "/r/technology",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "IBM presenta el primer chip del mundo con tecnología de menos de un nanómetro",
-    "summary": "El nuevo procesador marca un hito en la miniaturización de semiconductores y promete mayor eficiencia.",
+    "title": "La versión completa de GTA VI costará 100 euros, la edición de 80 solo incluye contenido limitado",
+    "summary": "Rockstar confirma que el juego base de 80 euros es una edición \"Lite\" y que el contenido íntegro requiere la versión Ultimate de 100 euros.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "IBM presenta el primer chip de menos de 1 nanómetro del mundo",
+    "summary": "La compañía estadounidense fabrica un procesador con transistores subnanométricos, marcando un hito en la industria de semiconductores.",
+    "source": [
+      "news.ycombinator.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Micron bate récords y dispara las acciones de memoria con acuerdos hasta 2030",
+    "summary": "El fabricante de chips anuncia 16 acuerdos a largo plazo para DRAM, NAND y HBM, lo que impulsa el mercado de semiconductores.",
+    "source": [
+      "fastcompany.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los principales chatbots de IA muestran sesgo político hacia la izquierda, según un estudio",
+    "summary": "Incluso los modelos etiquetados como \"anti-woke\" presentan inclinaciones progresistas en cuestiones políticas, según análisis comparativos.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Figma lanza una nueva herramienta integrada de diseño de movimiento junto con funciones de IA",
+    "summary": "La plataforma de diseño presenta Figma Motion, que permite crear animaciones directamente en el editor.",
+    "source": [
+      "producthunt.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Un doblete sísmico sacude Venezuela liberando un siglo de energía tectónica en 39 segundos",
+    "summary": "Los terremotos fueron detectados por los teléfonos Android antes de sentirse, lo que permitió emitir alertas tempranas.",
     "source": [
       "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El rechazo social a los centros de datos crece entre protestas y preocupaciones por el consumo de recursos",
+    "summary": "Las comunidades locales se manifiestan contra la instalación de grandes centros de datos, citando problemas de agua, energía e impacto electoral.",
+    "source": [
+      "/r/technology",
       "fastcompany.com"
     ],
     "count": 2
   },
   {
-    "title": "El acuerdo de A24 con Google por 75 millones de dólares enfurece a sus seguidores",
-    "summary": "El estudio independiente cede a la inteligencia artificial de Google en un pacto que los fans consideran una traición.",
+    "title": "Amazon apuesta por su asistente de IA en Prime Day mientras los usuarios buscan ofertas en televisores y auriculares",
+    "summary": "Las promociones del Prime Day incluyen descuentos en electrodomésticos y dispositivos electrónicos, con la inteligencia artificial como protagonista.",
     "source": [
-      "wired.com",
-      "/r/technology"
+      "fastcompany.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Elon Musk pierde el estatus de trillonario tras la caída de las acciones de SpaceX",
-    "summary": "La fortuna del empresario se reduce por el descenso en la valoración de su compañía aeroespacial.",
+    "title": "El auge de la inteligencia artificial dispara el consumo energético y los costes de los centros de datos",
+    "summary": "Antiguos ejecutivos de Databricks proponen reducir la factura eléctrica de la IA en 1.000 veces, mientras el boom de centros de datos genera inflación.",
     "source": [
       "techcrunch.com",
       "/r/technology"
@@ -141,57 +140,44 @@
     "count": 2
   },
   {
-    "title": "Un inusual terremoto doble sacude Venezuela y los teléfonos Android alertan a la población",
-    "summary": "El sismo libera en 39 segundos la energía de un siglo, mientras los smartphones ayudan a prevenir a los ciudadanos.",
+    "title": "Los desarrolladores pasan de los chatbots a la IA física para entrenar robots con videojuegos",
+    "summary": "Empresas como General Intuition invierten miles de millones en usar entornos virtuales para formar agentes de inteligencia artificial en el mundo real.",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft reconoce que 8 GB de RAM bastan para Windows 11 y lanza Surface con esa configuración",
-    "summary": "Tras años recomendando 16 GB, la empresa admite que su sistema operativo funciona bien con la mitad y comercializa dispositivos acordes.",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google continúa perdiendo investigadores estrella de inteligencia artificial frente a la competencia",
-    "summary": "La fuga de talento en los equipos de IA de Google se intensifica ante ofertas de rivales.",
-    "source": [
-      "the-decoder.com",
+      "fastcompany.com",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Centros de datos bajo escrutinio por su elevado consumo de agua y energía",
-    "summary": "La sequía en Georgia, las campañas de Polaroid y la ONU exigen mayor responsabilidad ambiental a los centros de datos.",
+    "title": "OpenAI crea su primera GPU personalizada para IA llamada \"Jalapeño\" en colaboración con Broadcom",
+    "summary": "La empresa desarrolla un chip propio optimizado para cargas de trabajo de inteligencia artificial, buscando reducir su dependencia de proveedores externos.",
     "source": [
-      "fastcompany.com",
-      "/r/technology"
+      "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "La inteligencia artificial china atrae inversiones pero preocupa a sus propios expertos",
-    "summary": "Morgan Stanley duplica las previsiones de robots humanoides mientras científicos chinos alertan sobre los riesgos de la IA.",
+    "title": "Superhuman, asistente de escritura por IA, adquiere a GPTZero, detector de texto generado por IA",
+    "summary": "La compra combina herramientas de generación y detección de contenido artificial, ampliando el ecosistema de productividad basado en IA.",
     "source": [
-      "xataka.com",
-      "wired.com"
+      "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "La Casa Blanca ayuda a Zuckerberg y al CEO de Google a evitar una citación y su app se instala sin permiso",
-    "summary": "El gobierno estadounidense enfrenta críticas por presiones al Senado y por la descarga forzosa de su aplicación en móviles oficiales.",
+    "title": "Google integra control directo de pantalla en Gemini 3.5 Flash, permitiendo al modelo ver y operar el dispositivo",
+    "summary": "La nueva capacidad de Gemini permite interactuar visualmente con la interfaz del usuario, ejecutando acciones directamente en la pantalla.",
     "source": [
-      "/r/technology",
-      "xataka.com"
+      "the-decoder.com"
     ],
-    "count": 2
+    "count": 1
+  },
+  {
+    "title": "Un pergamino de Herculano ha sido leído por primera vez gracias a técnicas de imagen avanzadas",
+    "summary": "Investigadores logran descifrar un rollo carbonizado por la erupción del Vesubio usando inteligencia artificial y rayos X.",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
   }
 ]

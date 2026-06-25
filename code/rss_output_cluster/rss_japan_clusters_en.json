@@ -1,64 +1,74 @@
 [
   {
-    "title": "Magnitude 6.2 earthquake in Aomori causes injuries and damage in northern Japan",
-    "summary": "A level 6 earthquake on the Japanese seismic intensity scale shook Aomori Prefecture, leaving at least 11 injured and raising concerns about possible aftershocks.",
+    "title": "Heavy rains and typhoons hit several regions of Japan with maximum alerts",
+    "summary": "Intense rainfall causes evacuations, suspension of trains, and closure of factories, as two typhoons approach the archipelago.",
+    "source": [
+      "www3.nhk.or.jp",
+      "yomiuri.co.jp",
+      "/r/japan",
+      "nikkei.com",
+      "mainichi.jp"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Strong earthquake shakes Aomori prefecture and leaves at least 11 injured",
+    "summary": "The magnitude 6.2 earthquake caused damage to homes and raised concern among residents about possible aftershocks.",
     "source": [
       "nikkei.com",
       "mainichi.jp",
       "asahi.com",
-      "yomiuri.co.jp",
-      "www3.nhk.or.jp"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Japan presents imperial law reform to allow adoption of male heirs",
-    "summary": "The government's plan, backed by the Speaker of the House of Representatives, aims to ensure a sufficient number of imperial family members through adoption.",
-    "source": [
-      "www3.nhk.or.jp",
-      "mainichi.jp",
-      "news.yahoo.co.jp",
-      "nikkei.com",
       "yomiuri.co.jp"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "Typhoon No. 7 threatens southwestern Japan with torrential rain and possible bullet train disruptions",
-    "summary": "Evacuation orders are issued for 770,000 people, and warnings are issued over possible Shinkansen service cancellations on June 27.",
+    "title": "School bus invades opposite lane and causes multiple collision in Osaka",
+    "summary": "The accident involved six vehicles and left between 5 and 12 injured; the driver was arrested for dangerous driving.",
+    "source": [
+      "www3.nhk.or.jp",
+      "asahi.com",
+      "news.yahoo.co.jp",
+      "mainichi.jp"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Japanese government presents a bill to reform the Imperial Household Law",
+    "summary": "The initiative seeks to ensure the continuity of the imperial family through the adoption of male members, but faces criticism in Parliament.",
     "source": [
       "mainichi.jp",
-      "/r/japan",
-      "nikkei.com",
-      "yomiuri.co.jp",
-      "www3.nhk.or.jp"
+      "www3.nhk.or.jp",
+      "news.yahoo.co.jp",
+      "yomiuri.co.jp"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "Japanese national soccer team prepares for crucial match against Sweden in the World Cup",
-    "summary": "Japan seeks to secure its place in the round of 16 in the match against Sweden, with anticipation over possible lineup changes and fan support.",
+    "title": "Leak of personal data of judicial reviewers in Yamaguchi prosecutor's office",
+    "summary": "The Yamaguchi District Public Prosecutors Office described the disclosure of the names of eleven reviewers as 'extremely inappropriate'.",
     "source": [
-      "news.yahoo.co.jp",
       "yomiuri.co.jp",
+      "mainichi.jp",
       "www3.nhk.or.jp",
       "asahi.com"
     ],
     "count": 4
   },
   {
-    "title": "Japan lowers travel advisory level for seven Middle Eastern countries after US-Iran agreement",
-    "summary": "The decision is based on improved regional security following the nuclear understanding between Washington and Tehran.",
+    "title": "Japan faces Sweden in the World Cup with chances to advance to the round of 16",
+    "summary": "The Japanese national team seeks victory against Sweden to secure its passage to the next round of the tournament.",
     "source": [
-      "mainichi.jp",
+      "yomiuri.co.jp",
+      "news.yahoo.co.jp",
       "asahi.com",
-      "nikkei.com"
+      "www3.nhk.or.jp"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "LDP tax chief Yuko Obuchi resigns over opposition to consumption tax cut",
-    "summary": "The former minister submitted her resignation to the ruling party's internal tax policy committee after disagreements with the leadership.",
+    "title": "Two earthquakes of magnitude over 7 cause more than 160 deaths in Venezuela",
+    "summary": "The country declared a state of emergency after the earthquakes hit aging infrastructure, with an estimate of up to 10,000 victims.",
     "source": [
       "nikkei.com",
       "asahi.com",
@@ -67,17 +77,37 @@
     "count": 3
   },
   {
-    "title": "Japanese government delays target of reaching 1,500 yen minimum wage",
-    "summary": "Prime Minister Takaichi had set the goal for the early 2030s, but the deadline is now being postponed.",
+    "title": "Yuko Obuchi resigns from the vice presidency of the LDP tax committee",
+    "summary": "The former minister opposed the proposal to reduce the consumption tax to 1%, which led to her departure from the position.",
     "source": [
       "nikkei.com",
-      "news.yahoo.co.jp"
+      "asahi.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nikkei and Dow Jones hit new historic records driven by artificial intelligence",
+    "summary": "The Nikkei index rose more than 3,000 points and the Dow Jones surpassed $700, renewing their all-time highs.",
+    "source": [
+      "www3.nhk.or.jp",
+      "nikkei.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Japanese government delays goal of 1,500 yen minimum wage",
+    "summary": "The goal is postponed until the early 2030s, according to the prime minister's announcement amid criticism from the business sector.",
+    "source": [
+      "asahi.com",
+      "nikkei.com"
     ],
     "count": 2
   },
   {
-    "title": "Leak of names of judicial review committee members in Yamaguchi",
-    "summary": "The Yamaguchi Public Prosecutors Office admitted to mishandling documents that led to the leak of personal data of the reviewers.",
+    "title": "Takaichi government proposes budget reform with a new investment framework",
+    "summary": "The reform includes the creation of an 'investment framework' without spending limits, which generates controversy in Parliament.",
     "source": [
       "mainichi.jp",
       "asahi.com"
@@ -85,44 +115,26 @@
     "count": 2
   },
   {
-    "title": "School fire in Tokyo caused by teacher drying clothes in classroom",
-    "summary": "The fire started when a teacher left clothes drying near a heat source, forcing students to evacuate via emergency slides.",
+    "title": "Yen weakens to 161.8 per dollar, nearing lows not seen in decades",
+    "summary": "The Japanese currency continues its downward trend amid expectations that the Fed will maintain a restrictive monetary policy.",
     "source": [
-      "yomiuri.co.jp",
+      "asahi.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Japan's Lower House passes bill to regulate social media in election campaigns",
+    "summary": "The initiative seeks to reduce online misinformation, in a context marked by the scandal of the defamatory video against the prime minister.",
+    "source": [
+      "mainichi.jp",
       "/r/japan"
     ],
     "count": 2
   },
   {
-    "title": "Japan considers unauthorized use of voice actor voices by AI illegal",
-    "summary": "A Ministry of Justice panel is studying classifying the generation of fake images and audio with artificial intelligence as a violation of personality rights.",
-    "source": [
-      "nikkei.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Takaichi government presents budget reform plan with no investment limit",
-    "summary": "The new 'investment framework' allows applications with no upper limit, reflecting the prime minister's style and sparking debate on fiscal discipline.",
-    "source": [
-      "mainichi.jp",
-      "asahi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Two earthquakes of magnitude over 7 shake Venezuela, causing over 160 deaths",
-    "summary": "The earthquakes, followed by numerous aftershocks, led the government to declare a state of national emergency.",
-    "source": [
-      "asahi.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hong Kong police arrest bookstore owners for selling books inciting hatred against the government",
-    "summary": "The arrests occur under the national security law, as the crackdown on freedom of expression continues.",
+    "title": "Hong Kong police arrest bookstore owners for inciting hatred against the government",
+    "summary": "The detainees are accused of selling publications that foster antagonism towards the Chinese authorities.",
     "source": [
       "yomiuri.co.jp",
       "asahi.com"
@@ -130,8 +142,17 @@
     "count": 2
   },
   {
-    "title": "Emperor and Empress of Japan bid farewell to King and Queen of Belgium before returning to Tokyo",
-    "summary": "During the state visit, Empress Masako described the meeting as 'very special'.",
+    "title": "Disappearances of people with dementia in Japan decrease for second consecutive year",
+    "summary": "In 2023, 17,345 cases were reported, but the use of GPS devices and anti-theft tags helped locate 139 people.",
+    "source": [
+      "news.yahoo.co.jp",
+      "yomiuri.co.jp"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Professional baseball day in Japan with notable victories",
+    "summary": "Chunichi Dragons beat DeNA, Maeda Kenta achieved his first win after returning to NPB, and Suzuki Gota debuted with a victory.",
     "source": [
       "yomiuri.co.jp",
       "nikkei.com"
@@ -139,50 +160,36 @@
     "count": 2
   },
   {
-    "title": "Nintendo to invest 121 billion yen in new technology center by 2029",
-    "summary": "The company plans to build a new research and development base in Kyoto to strengthen its innovation capacity.",
+    "title": "US Senate rejects Iran withdrawal bill and nuclear negotiations will resume",
+    "summary": "The vote took an unexpected turn when a Republican senator changed his vote, while new technical talks are expected on the 30th.",
     "source": [
-      "news.yahoo.co.jp"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Honda and Nissan to standardize key components for future vehicles",
-    "summary": "The two Japanese automakers agreed to share core parts for the next generation of vehicles, even after the breakdown of merger talks.",
-    "source": [
+      "nikkei.com",
       "asahi.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "IOC to award $10,000 to each Olympic athlete for the first time",
-    "summary": "The International Olympic Committee establishes a direct aid fund for all participants in the Olympic Games.",
+    "title": "Pakistani man sentenced to 23 years in prison acquitted due to translation errors in trial",
+    "summary": "The appeals court determined that the interpreter exceeded the limits of literal translation, which led to the quashing of the conviction.",
     "source": [
+      "yomiuri.co.jp",
       "asahi.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Nikkei 225 index reaches new all-time high, rising 3,191 points",
-    "summary": "The Tokyo stock market saw a significant rise, closing at 72,366 yen and surpassing its previous high.",
+    "title": "The Emperor and Empress of Japan conclude their official visit to Belgium",
+    "summary": "The imperial couple bid farewell to the Belgian king and queen and began their return to Tokyo after completing the official agenda.",
     "source": [
       "yomiuri.co.jp"
     ],
     "count": 1
   },
   {
-    "title": "Trump insults Republican congressman at private dinner",
-    "summary": "The former US president lashed out at the Republican representative, telling him 'sit down' and 'you lost the election' during an altercation at the Capitol.",
+    "title": "Amazon announces investment of 2.1 trillion yen in India",
+    "summary": "Amazon's CEO met with Prime Minister Modi to announce the investment plan, which seeks to expand its operations in the country.",
     "source": [
-      "yomiuri.co.jp"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Ebola outbreak in the Democratic Republic of the Congo leaves over 1,000 infected and 277 dead",
-    "summary": "The World Health Organization reports 1,094 confirmed cases, while a French doctor who returned after providing aid also became infected.",
-    "source": [
-      "yomiuri.co.jp"
+      "nikkei.com"
     ],
     "count": 1
   }

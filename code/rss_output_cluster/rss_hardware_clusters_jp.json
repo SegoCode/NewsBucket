@@ -1,200 +1,202 @@
 [
   {
-    "title": "ValveのSteam Machine、発売とDIY代替品で注目を集める",
-    "summary": "価格、仕様、日本での販売、SteamOS互換性に関するニュースが注目を集めている",
+    "title": "Valveが物議を醸す仕様でSteam Machineを発売、日本で完売",
+    "summary": "Valveのコンソールは、価格、シングルチャンネルメモリ、4Kの約束の変更に対する批判にもかかわらず、日本で販売されている。",
     "source": [
-      "/r/hardware",
-      "geeknetic.es",
-      "hardzone.es",
+      "videocardz.com",
       "profesionalreview.com",
-      "techpowerup.com",
       "tomshardware.com",
-      "videocardz.com"
+      "geeknetic.es",
+      "techpowerup.com"
     ],
-    "count": 7
+    "count": 5
   },
   {
-    "title": "GTA VI、価格と予約販売、ディスクなしの物理版を公開",
-    "summary": "待望のGTA新作が、禁止措置やPS5での改良に関する噂を引き起こしている",
+    "title": "Apple、RAMメモリ危機でMacとiPadの価格を引き上げ",
+    "summary": "値上げはNANDとDRAMのコスト上昇により、MacBook Neoを含む全ラインに影響。",
     "source": [
+      "techpowerup.com",
+      "geeknetic.es",
+      "tomshardware.com",
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 5
+  },
+  {
+    "title": "GTA 6、ディスクなしの物理版と高価格でリリースへ",
+    "summary": "Rockstarは79.99ユーロの価格、予約販売、ディスク版、そしてPS5に関するSonyの声明を確認。",
+    "source": [
+      "videocardz.com",
       "geeknetic.es",
       "hardzone.es",
-      "profesionalreview.com",
       "techpowerup.com",
       "tomshardware.com"
     ],
     "count": 5
   },
   {
-    "title": "Apple、半導体不足によりMacとiPadの価格を値上げ",
-    "summary": "値上げは複数のモデルに影響し、MacBook Neoは米国で400ドル値上がり",
+    "title": "フランスの小売業者が自社の「Stim Machine」でSteam Machineの価格を嘲笑",
+    "summary": "LDLCはRX 9060 XT搭載PCを999ユーロで提供し、Valveのコンソールの価値を批判。",
     "source": [
       "/r/hardware",
+      "techpowerup.com",
       "profesionalreview.com",
-      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "OpenAIとBroadcom、初の推論チップ「Jalapeño」を発表",
-    "summary": "9か月で設計されたASICは、言語モデルの推論を高速化すると期待される",
+    "title": "3DプリントでRTX 5060搭載のSteam Machineを構築可能に",
+    "summary": "コミュニティは3Dプリント筐体とAMDグラフィックス搭載のSteamOSを使用して、Valveのコンソールの代替品を作成。",
     "source": [
-      "/r/hardware",
       "profesionalreview.com",
-      "techpowerup.com",
-      "tomshardware.com"
+      "geeknetic.es",
+      "hardzone.es",
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "AMD、大幅なパフォーマンス向上を実現するFSR 4.1とSDK 2.3をリリース",
-    "summary": "アップスケーリング技術はRadeon RX 7900 XTXで最大100%の向上を示す",
+    "title": "ASUS、ベータBIOSでAM5マザーボードのTSME暗号化を復元",
+    "summary": "同社は批判に応え、マザーボードのメモリ暗号化サポートを復活。",
     "source": [
       "geeknetic.es",
+      "tomshardware.com",
       "profesionalreview.com",
-      "techpowerup.com",
       "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "Qualcomm、データセンター向けAIチッププラットフォーム「Dragonfly」を発表",
-    "summary": "輸出規制に対応するため、アクセラレータを削減した中国向けバージョンも含む",
+    "title": "Microsoft、Xbox Series X/Sの価格を3度目に値上げ、2TBモデルを廃止",
+    "summary": "値上げ幅は100～150ドルで、近年の上昇傾向が続く。",
     "source": [
-      "profesionalreview.com",
+      "tomshardware.com",
       "techpowerup.com",
-      "tomshardware.com"
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 4
+  },
+  {
+    "title": "AppleのMacBook Neo値上げを回避するためのお得情報",
+    "summary": "販売店は値上げ前に現行モデルを最大500ドル値引き。",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es",
+      "profesionalreview.com"
     ],
     "count": 3
   },
   {
-    "title": "Qualcomm、AI向けのコンピュート近接メモリアーキテクチャ「HBC」を公開",
-    "summary": "HBM比でワットあたり6倍の帯域幅、オンチップSRAM比で200倍の容量を実現",
+    "title": "IBM、2nm比50%高性能な0.7nmチップを発表",
+    "summary": "IBMのNanoStack技術が7オングストロームのチップでナノメートルの壁を打破。",
     "source": [
+      "techpowerup.com",
       "/r/hardware",
-      "techpowerup.com",
-      "tomshardware.com"
+      "geeknetic.es"
     ],
     "count": 3
   },
   {
-    "title": "MicronとSamsung、契約と過去最高の生産でメモリ市場を牽引",
-    "summary": "Micronは1000億の契約を獲得、SamsungはHBM生産をHBM4に集中",
+    "title": "Qualcomm、AI向け近接メモリアーキテクチャHBCを発表",
+    "summary": "新技術は133TB/sの帯域幅とHBM比6倍の効率を実現。",
     "source": [
+      "tomshardware.com",
+      "techpowerup.com",
+      "/r/hardware"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Micron、1000億ドルの供給契約を確保、RAM危機は続くと警告",
+    "summary": "Micronは記録的な業績を計上し、今後5年間は高価格を設定。",
+    "source": [
+      "tomshardware.com",
       "/r/hardware",
-      "techpowerup.com",
-      "tomshardware.com"
+      "techpowerup.com"
     ],
     "count": 3
   },
   {
-    "title": "CHUWI、AceMagic、Geekomがセールと新型ミニPCを発表",
-    "summary": "各メーカーは、競争力のある価格でAMDおよびIntelプロセッサを搭載したコンパクトなシステムを発表",
+    "title": "AMD、FSR SDK 2.3をRay Regenerationで更新、FSR 4.1の性能を公開",
+    "summary": "AMDのスケーリングの新バージョンは画質を改善し、RDNA 3で性能向上を実現。",
     "source": [
-      "profesionalreview.com",
-      "techpowerup.com",
-      "tomshardware.com"
+      "geeknetic.es",
+      "videocardz.com",
+      "techpowerup.com"
     ],
     "count": 3
   },
   {
-    "title": "ASUS、ベータBIOSでAM5マザーボードのTSMEサポートを復活",
-    "summary": "このアップデートにより、X870、B850、X670シリーズチップセットでTSMEを有効化できる",
+    "title": "Framework、ADATAのSSDでノートPCを更新、CPU値上げを発表",
+    "summary": "同社はSSDサプライヤーを変更し、プロセッサの値上げを見込む。",
     "source": [
-      "profesionalreview.com",
+      "techpowerup.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Nothing、デュアルカメラとLEDを搭載したPhone (4b)の最終デザインを公開",
-    "summary": "この低価格スマートフォンは、ライトブルーの仕上げと黒いボタンを採用",
+    "title": "AceMagic、AMD Ryzen搭載ミニPCを最大20%割引",
+    "summary": "プロモーションには、これらのコンパクトなデバイスを割引価格で入手できる限定クーポンが含まれる。",
     "source": [
-      "geeknetic.es",
+      "techpowerup.com",
       "profesionalreview.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD、緊急ホットフィックスでAdrenalinドライバの問題を修正",
-    "summary": "バージョン26.6.3は、Radeon RX 7000 GPUのWindows 10におけるインストールエラーを解決",
+    "title": "Prime Day 2026のモニター、マザーボード、周辺機器のセール",
+    "summary": "セールにはゲーミングモニター、GIGABYTEマザーボード、Corsair Xeneon Edgeなどのアクセサリーの割引が含まれる。",
     "source": [
-      "geeknetic.es",
-      "videocardz.com"
+      "tomshardware.com",
+      "techpowerup.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel Arc Pro B65、米国で909ドルから販売開始",
-    "summary": "ASRockとIntelのプロフェッショナルGPUは、Pro B70よりもコア数が少なく、価格もわずかに低い",
+    "title": "QualcommとMeta、データセンターCPUに関する複数世代契約を締結",
+    "summary": "戦略的提携は、クラウドAI向けの複数世代のプロセッサを対象とする。",
     "source": [
       "techpowerup.com",
-      "videocardz.com"
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "IBM、7オングストローム、1000億トランジスタのチップを発表",
-    "summary": "NanoStack技術は、2ナノメートルプロセス比で50%の性能向上を約束",
+    "title": "新しいレトロデバイス登場：8BitDoがN64コレクションを発売、AyaneoがPocket Micro 2を発表",
+    "summary": "メーカーはコントローラーと携帯ゲーム機でクラシックなデザインを採用。",
     "source": [
-      "/r/hardware",
-      "geeknetic.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "QualcommとMeta、データセンター向けCPUの複数年にわたる戦略的提携に合意",
-    "summary": "両社はAIワークロード向けプロセッサの設計で協力する",
-    "source": [
-      "/r/hardware",
+      "hardzone.es",
       "techpowerup.com"
     ],
     "count": 2
   },
   {
-    "title": "Amazon Prime Day 2026、様々なテクノロジー製品を割引",
-    "summary": "モニター、3Dプリンター、ゲーミングチェア、スピーカーなどが注目のセール対象",
+    "title": "Tim Sweeney氏、SteamのAIタグを批判、相互接続されたゲーム経済を提唱",
+    "summary": "Epic GamesのCEOがコンテンツモデレーションとゲームの将来について意見を述べる。",
     "source": [
-      "techpowerup.com",
+      "tomshardware.com",
+      "techpowerup.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Riot Vanguard、アンチチートの常時実行要件を撤廃",
+    "summary": "新しいオンデマンドモードは、Windows 11の厳格なセキュリティスタックを必要とする。",
+    "source": [
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Tim Sweeney、ゲーム業界に関して2つの問題で意見表明",
-    "summary": "ValveのAIに関する透明性を批判し、ゲーム内の相互接続経済を提唱",
+    "title": "OpenAIとBroadcom、初の言語推論チップ「Jalapeño」を発表",
+    "summary": "自社設計チップは、より効率的に言語モデルを加速する。",
     "source": [
-      "profesionalreview.com",
-      "techpowerup.com"
+      "profesionalreview.com"
     ],
-    "count": 2
-  },
-  {
-    "title": "Ayaneo Pocket Micro 2とMSI Claw 8、携帯ゲーム機の2つの注目機種",
-    "summary": "同社は新型レトロハンドヘルドを発売し、Claw 8の最終レビューが公開される",
-    "source": [
-      "/r/hardware",
-      "techpowerup.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "注目のレビュー：HyperX Cloud Stinger 3とCreative XF1",
-    "summary": "ワイヤレスヘッドホンとデスクトップスピーカーが100ドル未満で優れた音質を提供",
-    "source": [
-      "geeknetic.es",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIAがDLSSを更新、ProtonがLinuxでFSR 4対応を追加",
-    "summary": "アップスケーリング技術が新バージョンを受け取り、ゲームのパフォーマンスが向上",
-    "source": [
-      "geeknetic.es",
-      "techpowerup.com"
-    ],
-    "count": 2
+    "count": 1
   }
 ]
