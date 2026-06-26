@@ -1,43 +1,75 @@
 [
   {
-    "title": "Global markets plunge on concerns over AI demand",
-    "summary": "Asian, European and US stock markets record heavy losses led by the technology sector, with the Nikkei index falling more than 3,500 points.",
+    "title": "Apple raises prices and global markets fall on AI fears",
+    "summary": "Apple's price hikes and concerns over demand for artificial intelligence trigger a massive sell-off in global stock markets, especially in the technology sector.",
     "source": [
       "investing.com",
       "nasdaq.com",
-      "/r/stocks",
       "ft.com",
-      "nikkei.com",
+      "/r/stocks",
       "handelsblatt.com",
-      "expansion.com"
+      "bolsamania.com",
+      "expansion.com",
+      "nikkei.com"
+    ],
+    "count": 8
+  },
+  {
+    "title": "Investment recommendations and financial advice for investors",
+    "summary": "Analysts and advisors offer everything from portfolio strategies to tax tips to optimize personal finances.",
+    "source": [
+      "bolsamania.com",
+      "nasdaq.com",
+      "/r/stocks",
+      "expansion.com",
+      "ft.com",
+      "handelsblatt.com",
+      "finance.yahoo.com"
     ],
     "count": 7
   },
   {
-    "title": "Apple raises MacBook and iPad prices by up to 20% due to memory shortage",
-    "summary": "The increase, which reaches $200 in some models, responds to the rise in chip costs and affects several of the company's devices.",
+    "title": "Nvidia, Amazon, Ryanair and other companies shape corporate news",
+    "summary": "Top news from companies like Nvidia, Amazon, Nike, Ryanair and EasyJet dominate the business day.",
     "source": [
-      "ft.com",
       "bolsamania.com",
+      "investing.com",
+      "nasdaq.com",
       "/r/stocks",
-      "nasdaq.com"
+      "expansion.com",
+      "ft.com",
+      "handelsblatt.com"
     ],
-    "count": 4
+    "count": 7
   },
   {
-    "title": "Oil retreats to pre-Iran conflict levels as supply increases",
-    "summary": "Iraq's pressure to boost production and the normalization of Gulf flows bring crude back to prices not seen since before the war.",
+    "title": "Financings, acquisitions and appointments in the corporate world",
+    "summary": "Izertis secures syndicated financing, onsemi acquires Synaptics, and EasyJet rejects a takeover bid.",
     "source": [
       "bolsamania.com",
+      "nasdaq.com",
+      "nikkei.com",
       "ft.com",
       "expansion.com",
-      "nikkei.com"
+      "handelsblatt.com"
     ],
-    "count": 4
+    "count": 6
   },
   {
-    "title": "Bitcoin falls to its lowest level since October 2024 on regulatory uncertainty",
-    "summary": "The cryptocurrency plummets, dragged down by a 'cocktail of uncertainty' in markets and a negative technical outlook.",
+    "title": "Quarterly corporate results beat expectations",
+    "summary": "Wise, Micron, Cerebras and BlackBerry post solid earnings, while N26 achieves its first annual profit.",
+    "source": [
+      "investing.com",
+      "nasdaq.com",
+      "ft.com",
+      "/r/stocks",
+      "handelsblatt.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Bitcoin plunges to October 2024 lows",
+    "summary": "The cryptocurrency falls 27% in five days due to market uncertainty and increased risk aversion.",
     "source": [
       "handelsblatt.com",
       "bolsamania.com",
@@ -46,36 +78,66 @@
     "count": 3
   },
   {
-    "title": "Micron and Sandisk lead gains on Wall Street after record results from chip company",
-    "summary": "Expectations of a recovery in the memory sector boost shares of Micron and Sandisk, which record gains of up to 20%.",
+    "title": "Automotive sector: recalls, layoffs and strategic alliances",
+    "summary": "Hyundai recalls 96,000 vehicles, Toyota restarts after rain, and Honda and Nissan finalize their collaboration.",
     "source": [
+      "investing.com",
       "ft.com",
-      "bolsamania.com",
-      "/r/stocks"
+      "nikkei.com"
     ],
     "count": 3
   },
   {
-    "title": "Gold faces bearish technical signals and increased risk of counterfeits",
-    "summary": "Analysts warn about the increase in fake gold bars on the market and the deterioration of the precious metal's technical outlook.",
+    "title": "Geopolitics and defense: from AI to drones",
+    "summary": "US blocks AI models, Japan boosts its defense drones, and IAEA meets with Japan's prime minister.",
+    "source": [
+      "/r/stocks",
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Inflation expectations rise and possible Fed rate hike",
+    "summary": "The probability of a rate hike by the Federal Reserve increases amid inflation and employment data.",
     "source": [
       "handelsblatt.com",
+      "nasdaq.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Equinor withdraws from offshore wind in Asia and TotalEnergies must face climate accountability",
+    "summary": "The Norwegian energy company exits Japan and Korea, while a court orders TotalEnergies to report on its emissions.",
+    "source": [
+      "nikkei.com",
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Two earthquakes of magnitude over 7 shake Venezuela",
+    "summary": "The quakes leave at least 235 dead and more than 4,300 injured, and rescue efforts continue among the rubble.",
+    "source": [
+      "investing.com",
       "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "Jamie Dimon prepares his succession at the helm of JPMorgan and appoints two co-presidents",
-    "summary": "The US bank appoints two senior executives as candidates to replace the legendary CEO, opening a new stage in the leadership race.",
+    "title": "Oil falls to pre-war levels despite tensions",
+    "summary": "Crude retreats due to increased Gulf supply and easing of conflict fears.",
     "source": [
       "bolsamania.com",
-      "handelsblatt.com"
+      "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Binance ceases services in the EU after failing to obtain license, will seek to comply with MiCA from another country",
-    "summary": "The cryptocurrency exchange confirms its departure from Greece and announces it will apply for the unified European authorization in a different jurisdiction.",
+    "title": "Binance withdraws from EU and will seek MiCA license in another country",
+    "summary": "The crypto exchange leaves Greece and the rest of the European Union after failing to obtain the required license.",
     "source": [
       "ft.com",
       "expansion.com"
@@ -83,26 +145,8 @@
     "count": 2
   },
   {
-    "title": "Honda CEO apologizes for losses in electric vehicles and wins shareholder backing",
-    "summary": "At the annual meeting, Toshihiro Mibe acknowledges the negative impact of the EV business on results and promises a restructuring.",
-    "source": [
-      "investing.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX plans to launch Starlink mobile services for consumers in the United States",
-    "summary": "Elon Musk's company prepares a direct offer to the mobile phone market through its satellite network, according to FT reports.",
-    "source": [
-      "investing.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX receives valuation questioned by Morningstar and bubble warning over bond issuance",
-    "summary": "While Morningstar puts the company's real value at $62 per share, SpaceX's bond sale is labeled a bubble signal by Allianz CIO.",
+    "title": "SpaceX plans to enter the mobile market with Starlink and issues bonds",
+    "summary": "Elon Musk's company prepares a satellite phone offering and places bonds that warn of a possible bubble.",
     "source": [
       "nasdaq.com",
       "ft.com"
@@ -110,17 +154,8 @@
     "count": 2
   },
   {
-    "title": "Two strong earthquakes of magnitude above 7 shake Venezuela, leaving hundreds trapped",
-    "summary": "Venezuelan authorities rush to rescue victims of the collapses caused by the twin quakes in several regions of the country.",
-    "source": [
-      "investing.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Wall Street closes mixed: Dow Jones hits new highs while Nasdaq falls dragged by Apple",
-    "summary": "The industrial index rises slightly, but the tech index retreats due to the slump of Apple and Microsoft on a day of mixed results.",
+    "title": "Gold shows signs of weakness and counterfeits proliferate",
+    "summary": "The precious metal confirms bad omens as experts warn of an increase in imitations on the market.",
     "source": [
       "bolsamania.com",
       "handelsblatt.com"
@@ -128,57 +163,41 @@
     "count": 2
   },
   {
-    "title": "OpenAI limits initial access to its new GPT-5.6 model and delays IPO until 2027",
-    "summary": "The company restricts use of its latest artificial intelligence to twenty companies at the request of the US government, and postpones its initial public offering.",
+    "title": "Social Security pays June pensions and Ibex trades mixed",
+    "summary": "Spain allocates 28.432 billion to pensions while the Ibex sees mixed movements led by Iberdrola.",
     "source": [
-      "nikkei.com",
-      "/r/stocks"
+      "bolsamania.com",
+      "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "ANA suffers computer glitch on domestic flights, expects to fix by July",
-    "summary": "The Japanese airline announces a large-scale system upgrade to correct the failures that affected reservations and operations.",
+    "title": "Germany: boom in active ETFs and the luxury real estate market",
+    "summary": "The German market offers investment alternatives with value and active ETFs, while cities prepare for the heat.",
+    "source": [
+      "handelsblatt.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Japan: yen weakens and minimum wage needs 3% annual increase",
+    "summary": "The Japanese currency continues its downward trend and the government debates raising the minimum wage by 2030.",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "Japan renames its Air Self-Defense Forces as 'Aerospace Forces' to bolster satellite surveillance",
-    "summary": "The approved legal reform transforms the former body into a branch with jurisdiction in outer space.",
+    "title": "Japan: from college baseball to the fight against international fraud",
+    "summary": "Miscellaneous news includes storms, factory reopenings, phone scams and progress in the Football World Cup.",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "Ryanair eliminates family seat assignment fees after competition authority investigation",
-    "summary": "The Irish airline changes its seating policy for families after the UK regulator initiated enforcement proceedings.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "EasyJet rejects £4.9 billion takeover bid and negotiates with Castlelake",
-    "summary": "The British airline declines the acquisition proposal but begins talks with investment firm Castlelake about possible deals.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Court orders TotalEnergies to account for its contribution to greenhouse gas emissions",
-    "summary": "The ruling requires the French oil company to measure and report the climate impact of all its operations.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "British construction firms warn of 'earthquake' from doubling of steel tariffs",
-    "summary": "The increase in taxes on steel imports will raise construction costs and could slow down the real estate sector in the UK.",
+    "title": "Wall Street law firms prepare for a new era of insider trading risk",
+    "summary": "Legal firms face increased scrutiny and change their practices in the face of potential insider trading crimes.",
     "source": [
       "ft.com"
     ],

@@ -1,7 +1,7 @@
 [
   {
-    "title": "Apple raises prices of its Mac and iPad due to increase in RAM cost",
-    "summary": "The company increases the price of its computers and tablets by up to 20%, while keeping the price of the iPhone, which is spared from the increase.",
+    "title": "Apple raises MacBook and iPad prices due to rising RAM costs",
+    "summary": "The company increases the price of its computers and tablets by an average of 20%, while the iPhone is excluded from the increase.",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com",
@@ -12,19 +12,8 @@
     "count": 5
   },
   {
-    "title": "Rockstar reveals the price of GTA VI and confirms that the full version requires 100 euros",
-    "summary": "The game will cost 80 euros in its basic edition, but will include all content only in the 100-euro Ultimate version, and will be exclusively digital.",
-    "source": [
-      "alternativeto.net",
-      "/r/technology",
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Microsoft raises the price of Xbox Series X|S consoles worldwide",
-    "summary": "The company increases the price of its consoles by up to 150 dollars, following Apple's trend and citing economic conditions.",
+    "title": "Microsoft announces global price increase for Xbox Series X|S consoles",
+    "summary": "The company increases the price of its consoles by up to $150, citing global economic conditions.",
     "source": [
       "xataka.com",
       "techcrunch.com",
@@ -33,47 +22,18 @@
     "count": 3
   },
   {
-    "title": "Concern about AI-generated content: from AI-written books to children's voices in kids' shows",
-    "summary": "Several reports warn about the use of artificial intelligence to write books, clone voices of child actors in 'Peppa Pig', and the conversion of Grok into an adult platform.",
+    "title": "Rockstar reveals GTA VI pricing: digital version from €80 and complete edition for €100",
+    "summary": "The anticipated game will include separate content for story mode and online, and will launch on November 19 exclusively in digital format.",
     "source": [
-      "fastcompany.com",
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Meta faces challenges in its artificial intelligence strategy",
-    "summary": "The company reverses the reassignment of employees to AI roles, while employees warn that the deployment of AI moderation is too fast and criticism grows about the direction of the company.",
-    "source": [
-      "fastcompany.com",
-      "the-decoder.com",
+      "elchapuzasinformatico.com",
+      "alternativeto.net",
       "/r/technology"
     ],
     "count": 3
   },
   {
-    "title": "Regulation of artificial intelligence: multimillion-dollar fines, requested pauses, and ethical debate",
-    "summary": "Big tech companies are fined 3.5 billion for using personal data to train AI, the White House asks OpenAI to slow down its launches, and the Pope declares that AI cannot be morally neutral.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "wired.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Valve removes references to 4K and blames RAM manufacturers for the price of the Steam Machine",
-    "summary": "The company removes mentions of 4K performance from its console and blames memory suppliers for the high cost, despite its success in Japan.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Polymarket suffers a cyberattack that steals millions of dollars from users",
-    "summary": "The decentralized betting platform confirmed the theft of funds and promised refunds to those affected.",
+    "title": "US bans sale of Polestar electric vehicles in the country",
+    "summary": "The Trump administration prevents the Swedish brand, partly owned by Volvo, from selling its cars in US territory, sparking criticism in the sector.",
     "source": [
       "/r/technology",
       "techcrunch.com"
@@ -81,111 +41,138 @@
     "count": 2
   },
   {
-    "title": "Notion shuts down its email service Notion Mail after just over a year",
-    "summary": "The company decides to discontinue the email client to focus on artificial intelligence agents.",
+    "title": "Polymarket suffers million-dollar theft and announces refunds to affected users",
+    "summary": "The decentralized prediction platform was attacked by cybercriminals who stole user funds, and the company commits to returning the money.",
     "source": [
-      "alternativeto.net",
+      "/r/technology",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Google launches standalone Google Finance app with real-time data",
-    "summary": "The new app for Android offers updated financial information, artificial intelligence, and portfolio tracking.",
+    "title": "White House asks OpenAI to delay launch of GPT-5.6 for security reasons",
+    "summary": "The US government asks the AI company to halt the release of its new model while potential risks are assessed.",
     "source": [
-      "alternativeto.net",
+      "the-decoder.com",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Micron secures historic high-price agreements for DRAM and NAND until 2030",
-    "summary": "The semiconductor company signs long-term contracts that skyrocket prices and affect the consumer market.",
+    "title": "Micron secures record prices for DRAM and NAND memory with agreements through 2030",
+    "summary": "The chip manufacturer signs long-term contracts that will keep memory costs high, impacting the consumer electronics market.",
     "source": [
       "news.ycombinator.com",
       "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Notion shuts down its Notion Mail service to focus on AI agents",
+    "summary": "The productivity platform decides to cancel its email app launched just over a year ago to redirect its efforts towards artificial intelligence.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google launches dedicated Google Finance app for Android with real-time data and AI",
+    "summary": "The new standalone app offers updated financial information and AI-powered features for investors.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Qualcomm enters the data center market with Dragonfly C1000 processor with over 250 cores",
+    "summary": "The chip, based on Oryon architecture, reaches 5 GHz and is designed for AI workloads, competing with Intel and AMD.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Steam Machine: Valve removes reference to 4K/60 FPS, criticizes RAM manufacturers, and sells out in Japan",
+    "summary": "News about Valve's console includes specification changes, complaints about memory prices, and high demand in Japan selling out stock.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
     "title": "IBM unveils the world's first sub-1 nanometer chip",
-    "summary": "IBM's new processor marks a milestone in semiconductor miniaturization with a node smaller than a nanometer.",
+    "summary": "The American company achieves a milestone in semiconductor manufacturing with subnanometer transistors that promise to revolutionize performance and energy efficiency.",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
+      "news.ycombinator.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "United States bans the sale of Polestar vehicles in the country",
-    "summary": "The Trump administration prevents the Swedish electric car brand from selling its new models in the US, while Volvo escapes the restriction.",
+    "title": "Herculaneum scroll read for the first time in 2,000 years thanks to AI",
+    "summary": "A team of scientists uses artificial intelligence and X-rays to decipher the text of a scroll carbonized by the eruption of Vesuvius, revealing its content.",
     "source": [
-      "techcrunch.com",
-      "/r/technology"
+      "news.ycombinator.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "US strengthens alliance with Netherlands in chip manufacturing and invests in xLight",
-    "summary": "The North American country integrates the Netherlands into the anti-China Pax Silica bloc and allocates $150 million to EUV technology.",
+    "title": "Google reveals Russian group Turla used STOCKSTAY backdoor in attacks on Ukraine",
+    "summary": "Google's cybersecurity unit discovers a new backdoor used by Russian threat actor Turla in espionage operations against Ukraine.",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Return-to-office mandates linked to executive narcissism",
-    "summary": "A study links the trait of narcissism in Fortune 500 leaders with return-to-office orders, while Goldman Sachs and JPMorgan soften their stance.",
-    "source": [
-      "/r/technology",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Developers bet on alternative methods for training AI: physical robots and video games",
-    "summary": "Tech companies explore training artificial intelligences through real environments and games, with an investment of $2.3 billion in the sector.",
-    "source": [
-      "fastcompany.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 10 extends support until 2027 and Windows 11 introduces a full restore",
-    "summary": "Microsoft quietly extends Windows 10 support due to user resistance to upgrade, and adds a tool to restore apps, settings, and files in Windows 11.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Amazon bets on artificial intelligence for Prime Day and invests $13 billion in India",
-    "summary": "The company promotes its AI assistant during the shopping event and announces a major investment in AI infrastructure in India.",
-    "source": [
-      "fastcompany.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Video game industry suffers new layoffs at Xbox and Bungie",
-    "summary": "Former Xbox employees report retaliation after complaining about their positions, while Sony confirms significant layoffs at Bungie, including most of the Destiny team.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Leaks and cyberattacks: customer data deleted and Chrome extension with malicious capability",
-    "summary": "The company Klue suffers a hack and criminals delete the stolen data, while an ad blocker with millions of installations hides a script injection vulnerability.",
-    "source": [
-      "techcrunch.com",
       "thehackernews.com"
     ],
-    "count": 2
+    "count": 1
+  },
+  {
+    "title": "FCC proposes canceling $2 billion program to connect schools to the Internet",
+    "summary": "The FCC chairman argues screen time concerns, but critics accuse him of overstepping his role as a parent.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "English hospitals declare critical incidents due to computer failures during heatwave",
+    "summary": "High temperatures cause blackouts and failures in medical equipment and IT systems, forcing several hospitals to activate emergency protocols.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "COVID vaccine study suppressed by CDC finally sees the light",
+    "summary": "The research, which was blocked by the CDC director, is published and provides new evidence on the efficacy of the COVID vaccine.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "World Cup teams turn to artificial intelligence to improve performance",
+    "summary": "Teams around the world use AI tools for tactical analysis, injury prevention, and training optimization, in a parallel technological competition.",
+    "source": [
+      "wired.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Rare book dealers fear tech companies are destroying unique editions to feed AI",
+    "summary": "The digitization of historical works by AI companies is causing irreparable damage to unique copies, according to bibliophiles.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Anthropic's Claude gains market share among paying users against ChatGPT",
+    "summary": "Anthropic's AI assistant is increasingly attracting paid subscribers, directly competing with OpenAI's dominance in the chatbot market.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
   }
 ]

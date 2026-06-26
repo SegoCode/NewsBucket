@@ -1,43 +1,75 @@
 [
   {
-    "title": "世界市場、AI需要の懸念で急落",
-    "summary": "アジア、欧州、米国の株式市場はテクノロジーセクター主導で大幅安となり、日経平均株価は3500ポイント以上下落した。",
+    "title": "Appleが価格を引き上げ、AIへの懸念で世界市場が下落",
+    "summary": "Appleの値上げと人工知能需要への懸念が世界の株式市場、特にテクノロジーセクターで大量売却を引き起こしている。",
     "source": [
       "investing.com",
       "nasdaq.com",
-      "/r/stocks",
       "ft.com",
-      "nikkei.com",
+      "/r/stocks",
       "handelsblatt.com",
-      "expansion.com"
+      "bolsamania.com",
+      "expansion.com",
+      "nikkei.com"
+    ],
+    "count": 8
+  },
+  {
+    "title": "投資家向けの投資推奨と財務アドバイス",
+    "summary": "アナリストやアドバイザーが、ポートフォリオ戦略から個人財務を最適化するための税務テクニックまで提供している。",
+    "source": [
+      "bolsamania.com",
+      "nasdaq.com",
+      "/r/stocks",
+      "expansion.com",
+      "ft.com",
+      "handelsblatt.com",
+      "finance.yahoo.com"
     ],
     "count": 7
   },
   {
-    "title": "アップル、MacBookとiPadの価格を最大20％値上げ、メモリー不足で",
-    "summary": "一部モデルでは200ドルに達する値上げは、チップコストの上昇に対応したもので、同社の複数のデバイスに影響を与える。",
+    "title": "Nvidia、Amazon、Ryanairなどが企業ニュースをリード",
+    "summary": "Nvidia、Amazon、Nike、Ryanair、EasyJetなどの企業の注目ニュースがビジネスシーンを彩っている。",
     "source": [
-      "ft.com",
       "bolsamania.com",
+      "investing.com",
+      "nasdaq.com",
       "/r/stocks",
-      "nasdaq.com"
+      "expansion.com",
+      "ft.com",
+      "handelsblatt.com"
     ],
-    "count": 4
+    "count": 7
   },
   {
-    "title": "原油価格、供給増加でイラン紛争前の水準に後退",
-    "summary": "イラクの増産圧力と湾岸の流れの正常化により、原油は戦争前以来の水準に戻った。",
+    "title": "企業の資金調達、買収、人事異動",
+    "summary": "Izertisがシンジケートローンを獲得、onsemiがSynapticsを買収、EasyJetが買収提案を拒否。",
     "source": [
       "bolsamania.com",
+      "nasdaq.com",
+      "nikkei.com",
       "ft.com",
       "expansion.com",
-      "nikkei.com"
+      "handelsblatt.com"
     ],
-    "count": 4
+    "count": 6
   },
   {
-    "title": "ビットコイン、規制の不確実性で2024年10月以来の安値に",
-    "summary": "暗号通貨は市場の「不確実性のカクテル」と弱気なテクニカル見通しに押されて急落している。",
+    "title": "四半期の企業業績が予想を上回る",
+    "summary": "Wise、Micron、Cerebras、BlackBerryが堅調な決算を発表、N26は初の年間黒字を達成。",
+    "source": [
+      "investing.com",
+      "nasdaq.com",
+      "ft.com",
+      "/r/stocks",
+      "handelsblatt.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "ビットコインが2024年10月以来の安値に急落",
+    "summary": "暗号通貨は市場の不確実性とリスク回避の高まりにより5日間で27%下落。",
     "source": [
       "handelsblatt.com",
       "bolsamania.com",
@@ -46,36 +78,66 @@
     "count": 3
   },
   {
-    "title": "MicronとSanDisk、チップ会社の記録的な好決算でウォール街で上昇をリード",
-    "summary": "メモリーセクターの回復期待がMicronとSanDiskの株を押し上げ、最高20％の上昇を記録している。",
+    "title": "自動車セクター：リコール、レイオフ、戦略的提携",
+    "summary": "ヒュンダイが9万6000台をリコール、トヨタが大雨後に生産再開、ホンダと日産が協業を最終調整。",
     "source": [
+      "investing.com",
       "ft.com",
-      "bolsamania.com",
-      "/r/stocks"
+      "nikkei.com"
     ],
     "count": 3
   },
   {
-    "title": "金、弱気なテクニカルシグナルに直面、偽造リスクも増大",
-    "summary": "アナリストは市場での偽造金地金の増加と貴金属のテクニカル面の悪化について警告している。",
+    "title": "地政学と防衛：AIからドローンまで",
+    "summary": "米国がAIモデルをブロック、日本が防衛用ドローンを推進、IAEAが日本の首相と会談。",
+    "source": [
+      "/r/stocks",
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "インフレ期待とFRBの利上げ観測が高まる",
+    "summary": "インフレと雇用統計を受けて、連邦準備制度理事会（FRB）による利上げの可能性が高まっている。",
     "source": [
       "handelsblatt.com",
+      "nasdaq.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Equinorがアジアの洋上風力から撤退、TotalEnergiesは気候関連の報告義務へ",
+    "summary": "ノルウェーのエネルギー企業が日本と韓国から撤退、一方裁判所はTotalEnergiesに排出量の情報開示を命じる。",
+    "source": [
+      "nikkei.com",
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "マグニチュード7超の地震2回がベネズエラを襲う",
+    "summary": "これらの地震により少なくとも235人が死亡、4300人以上が負傷、がれきの中で捜索活動が続いている。",
+    "source": [
+      "investing.com",
       "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "ジェイミー・ダイモン、JPモルガンの後任準備、2人の共同社長を指名",
-    "summary": "米銀は伝説的なCEOの後任候補として2人の上級幹部を指名し、リーダーシップをめぐる新たな局面を迎えている。",
+    "title": "緊張にもかかわらず原油価格は戦前水準に低下",
+    "summary": "湾岸諸国の供給増加と紛争懸念の後退により原油は下落。",
     "source": [
       "bolsamania.com",
-      "handelsblatt.com"
+      "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Binance、ライセンス未取得でEUでのサービスを停止、別の国からMiCA適用を目指す",
-    "summary": "暗号通貨取引所はギリシャからの撤退を確認し、別の管轄区域で統一欧州認可を申請すると発表した。",
+    "title": "BinanceがEUから撤退、別の国でMiCAライセンスを取得へ",
+    "summary": "暗号通貨取引所は必要なライセンスを取得できず、ギリシャおよびその他のEU諸国から撤退する。",
     "source": [
       "ft.com",
       "expansion.com"
@@ -83,26 +145,8 @@
     "count": 2
   },
   {
-    "title": "ホンダCEO、電気自動車の損失を謝罪、株主の支持を得る",
-    "summary": "年次総会で三部敏宏氏はEV事業が業績に与える悪影響を認め、再編を約束した。",
-    "source": [
-      "investing.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX、米国消費者向けStarlinkモバイルサービスの提供を計画",
-    "summary": "イーロン・マスク氏の会社は、FTの報道によると、衛星ネットワークを通じて携帯電話市場への直接提供を準備している。",
-    "source": [
-      "investing.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX、モーニングスターから疑問視される評価と債券発行によるバブル警告",
-    "summary": "モーニングスターが同社の実質価値を1株62ドルとする一方、SpaceXの債券販売はアリアンツのCIOによってバブルの兆候と評価されている。",
+    "title": "SpaceX、Starlinkでモバイル市場に参入計画、債券を発行",
+    "summary": "イーロン・マスク氏の企業は衛星電話サービスを準備し、バブルの可能性を警告する債券を発行する。",
     "source": [
       "nasdaq.com",
       "ft.com"
@@ -110,17 +154,8 @@
     "count": 2
   },
   {
-    "title": "マグニチュード7超の強い地震2回がベネズエラを襲い、数百人が閉じ込められる",
-    "summary": "ベネズエラ当局は、国内の複数の地域で発生した双子の地震による倒壊の犠牲者の救出に急いでいる。",
-    "source": [
-      "investing.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ウォール街はまちまちの終了、ダウは最高値を更新、ナスダックはAppleに押されて下落",
-    "summary": "工業株指数はわずかに上昇したが、テクノロジー株指数はアップルとマイクロソフトの急落により、まちまちの結果の日に下落した。",
+    "title": "金に弱さの兆し、偽造品が横行",
+    "summary": "貴金属は不吉な予兆を裏付け、専門家は市場での模倣品増加を警告している。",
     "source": [
       "bolsamania.com",
       "handelsblatt.com"
@@ -128,57 +163,41 @@
     "count": 2
   },
   {
-    "title": "OpenAI、新モデルGPT-5.6の初期アクセスを制限、IPOを2027年まで延期",
-    "summary": "同社は米国政府の要請により最新AIの利用を20社に制限し、新規株式公開を延期する。",
+    "title": "社会保障が6月分の年金を支払い、Ibexはまちまち",
+    "summary": "スペインは年金に284億3200万を充当、IbexはIberdrola主導でまちまちの値動き。",
     "source": [
-      "nikkei.com",
-      "/r/stocks"
+      "bolsamania.com",
+      "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "ANA、国内線でシステム障害、7月に解決予定",
-    "summary": "日本の航空会社は、予約や運航に影響を与えた障害を修正するため、システムの大規模な改善を発表した。",
+    "title": "ドイツ：アクティブETFと高級不動産市場の活況",
+    "summary": "ドイツ市場はバリューETFや資産ETFなどの投資オプションを提供、一方都市は暑さに備える。",
+    "source": [
+      "handelsblatt.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "日本：円安、最低賃金は年3%の引き上げが必要",
+    "summary": "日本円は下落傾向が続き、政府は2030年までの最低賃金引き上げを議論している。",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "日本、航空自衛隊を「航空宇宙軍」に改称、衛星監視を強化",
-    "summary": "承認された法改正により、従来の部隊は宇宙空間における権限を持つ部門に変わる。",
+    "title": "日本：大学野球から国際詐欺対策まで",
+    "summary": "嵐、工場再開、電話詐欺、サッカーワールドカップの進捗など様々なニュース。",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "ライアンエアー、競争当局の調査後、家族席割り当て手数料を撤廃",
-    "summary": "アイルランドの航空会社は、英国規制当局が制裁手続きを開始した後、家族向け座席ポリシーを変更した。",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "イージージェット、49億ポンドの買収提案を拒否、キャッスルレイクと交渉",
-    "summary": "英国の航空会社は買収提案を辞退するが、投資会社キャッスルレイクとの間で可能な合意について協議を開始する。",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "裁判所、トタルエナジーズに温室効果ガス排出への貢献の説明義務付け",
-    "summary": "判決はフランスの石油会社に対し、すべての事業の気候影響を測定し報告することを要求している。",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "英建設会社、鉄鋼関税倍増で「地震」と警告",
-    "summary": "鉄鋼輸入税の引き上げは建設コストを押し上げ、英国の不動産セクターを減速させる可能性がある。",
+    "title": "ウォール街の法律事務所、インサイダー取引リスクの新時代に備える",
+    "summary": "法律事務所は監視の目が厳しくなり、インサイダー取引の可能性に備えて慣行を変更している。",
     "source": [
       "ft.com"
     ],

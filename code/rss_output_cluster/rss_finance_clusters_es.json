@@ -1,43 +1,75 @@
 [
   {
-    "title": "Mercados mundiales se desploman por la preocupación sobre la demanda de IA",
-    "summary": "Las bolsas asiáticas, europeas y estadounidenses registran fuertes pérdidas lideradas por el sector tecnológico, con el índice Nikkei cayendo más de 3.500 puntos.",
+    "title": "Apple sube los precios y los mercados globales caen por temores a la IA",
+    "summary": "Las subidas de precio de Apple y la preocupación por la demanda de inteligencia artificial provocan una venta masiva en las bolsas mundiales, especialmente en el sector tecnológico.",
     "source": [
       "investing.com",
       "nasdaq.com",
-      "/r/stocks",
       "ft.com",
-      "nikkei.com",
+      "/r/stocks",
       "handelsblatt.com",
-      "expansion.com"
+      "bolsamania.com",
+      "expansion.com",
+      "nikkei.com"
+    ],
+    "count": 8
+  },
+  {
+    "title": "Recomendaciones de inversión y consejos financieros para el inversor",
+    "summary": "Analistas y asesores ofrecen desde estrategias de cartera hasta trucos fiscales para optimizar las finanzas personales.",
+    "source": [
+      "bolsamania.com",
+      "nasdaq.com",
+      "/r/stocks",
+      "expansion.com",
+      "ft.com",
+      "handelsblatt.com",
+      "finance.yahoo.com"
     ],
     "count": 7
   },
   {
-    "title": "Apple aumenta el precio de MacBook y iPad hasta un 20% por la escasez de memoria",
-    "summary": "El incremento, que alcanza los 200 dólares en algunos modelos, responde al alza en los costes de los chips y afecta a varios dispositivos de la compañía.",
+    "title": "Nvidia, Amazon, Ryanair y otras empresas marcan la actualidad corporativa",
+    "summary": "Noticias destacadas de compañías como Nvidia, Amazon, Nike, Ryanair y EasyJet marcan la jornada empresarial.",
     "source": [
-      "ft.com",
       "bolsamania.com",
+      "investing.com",
+      "nasdaq.com",
       "/r/stocks",
-      "nasdaq.com"
+      "expansion.com",
+      "ft.com",
+      "handelsblatt.com"
     ],
-    "count": 4
+    "count": 7
   },
   {
-    "title": "El petróleo retrocede a niveles previos al conflicto con Irán tras el aumento de la oferta",
-    "summary": "La presión de Irak para incrementar la producción y la normalización de los flujos del Golfo devuelven el crudo a cotizaciones no vistas desde antes de la guerra.",
+    "title": "Financiaciones, adquisiciones y nombramientos en el ámbito corporativo",
+    "summary": "Izertis logra financiación sindicada, onsemi adquiere Synaptics y EasyJet rechaza una oferta de compra.",
     "source": [
       "bolsamania.com",
+      "nasdaq.com",
+      "nikkei.com",
       "ft.com",
       "expansion.com",
-      "nikkei.com"
+      "handelsblatt.com"
     ],
-    "count": 4
+    "count": 6
   },
   {
-    "title": "Bitcoin cae a su nivel más bajo desde octubre de 2024 por la incertidumbre regulatoria",
-    "summary": "La criptomoneda se desploma arrastrada por un 'cóctel de incertidumbre' en los mercados y un panorama técnico negativo.",
+    "title": "Resultados empresariales del trimestre superan las previsiones",
+    "summary": "Wise, Micron, Cerebras y BlackBerry presentan cuentas sólidas, mientras N26 logra su primer beneficio anual.",
+    "source": [
+      "investing.com",
+      "nasdaq.com",
+      "ft.com",
+      "/r/stocks",
+      "handelsblatt.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Bitcoin se desploma a mínimos de octubre de 2024",
+    "summary": "La criptomoneda cae un 27% en cinco días por la incertidumbre del mercado y el aumento de la aversión al riesgo.",
     "source": [
       "handelsblatt.com",
       "bolsamania.com",
@@ -46,36 +78,66 @@
     "count": 3
   },
   {
-    "title": "Micron y Sandisk lideran las alzas en Wall Street tras los resultados récord de la compañía de chips",
-    "summary": "Las expectativas de una recuperación del sector de memorias impulsan las acciones de Micron y Sandisk, que registran subidas de hasta el 20%.",
+    "title": "Sector automotriz: retiros, despidos y alianzas estratégicas",
+    "summary": "Hyundai retira 96.000 vehículos, Toyota reinicia tras la lluvia y Honda y Nissan ultiman su colaboración.",
     "source": [
+      "investing.com",
       "ft.com",
-      "bolsamania.com",
-      "/r/stocks"
+      "nikkei.com"
     ],
     "count": 3
   },
   {
-    "title": "El oro enfrenta señales técnicas bajistas y aumenta el riesgo de falsificaciones",
-    "summary": "Los analistas advierten sobre el incremento de lingotes falsos en el mercado y el deterioro del aspecto técnico del metal precioso.",
+    "title": "Geopolítica y defensa: desde la IA hasta los drones",
+    "summary": "EE.UU. bloquea modelos de IA, Japón impulsa sus drones de defensa y la IAEA se reúne con el primer ministro nipón.",
+    "source": [
+      "/r/stocks",
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Suben las expectativas de inflación y posible alza de tipos de la Fed",
+    "summary": "La probabilidad de una subida de tipos por la Reserva Federal aumenta ante los datos de inflación y de empleo.",
     "source": [
       "handelsblatt.com",
+      "nasdaq.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Equinor se retira de la eólica marina en Asia y TotalEnergies deberá rendir cuentas climáticas",
+    "summary": "La energética noruega abandona Japón y Corea, mientras un tribunal obliga a TotalEnergies a informar sobre sus emisiones.",
+    "source": [
+      "nikkei.com",
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Dos terremotos de magnitud superior a 7 sacuden Venezuela",
+    "summary": "Los sismos dejan al menos 235 fallecidos y más de 4.300 heridos, y las tareas de rescate continúan entre los escombros.",
+    "source": [
+      "investing.com",
       "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "Jamie Dimon prepara su sucesión al frente de JP Morgan y nombra dos copresidentes",
-    "summary": "El banco estadounidense designa a dos altos ejecutivos como candidatos para relevar al legendario CEO, abriendo una nueva etapa en la lucha por el liderazgo.",
+    "title": "El petróleo cae a niveles previos a la guerra pese a las tensiones",
+    "summary": "El crudo retrocede por el aumento de la oferta del Golfo y la relajación de los temores de conflicto.",
     "source": [
       "bolsamania.com",
-      "handelsblatt.com"
+      "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Binance cesa sus servicios en la UE al no obtener la licencia y buscará acogerse a MiCA desde otro país",
-    "summary": "El exchange de criptomonedas confirma su salida de Grecia y anuncia que solicitará la autorización europea unificada en una jurisdicción distinta.",
+    "title": "Binance se retira de la UE y buscará licencia MiCA en otro país",
+    "summary": "El exchange de criptomonedas abandona Grecia y el resto de la Unión Europea al no obtener la licencia requerida.",
     "source": [
       "ft.com",
       "expansion.com"
@@ -83,26 +145,8 @@
     "count": 2
   },
   {
-    "title": "El CEO de Honda se disculpa por las pérdidas en vehículos eléctricos y gana el respaldo de los accionistas",
-    "summary": "En la junta anual, Toshihiro Mibe reconoce el impacto negativo del negocio de EVs en los resultados y promete una reestructuración.",
-    "source": [
-      "investing.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX planea lanzar servicios móviles Starlink para consumidores en Estados Unidos",
-    "summary": "La compañía de Elon Musk prepara una oferta directa al mercado de telefonía móvil a través de su red de satélites, según informes de FT.",
-    "source": [
-      "investing.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX recibe una valoración cuestionada por Morningstar y una advertencia de burbuja por su emisión de bonos",
-    "summary": "Mientras Morningstar sitúa el valor real de la empresa en 62 dólares por acción, la venta de bonos de SpaceX es calificada como señal de burbuja por el CIO de Allianz.",
+    "title": "SpaceX planea entrar en el mercado móvil con Starlink y emite bonos",
+    "summary": "La empresa de Elon Musk prepara una oferta de telefonía vía satélite y coloca bonos que alertan de una posible burbuja.",
     "source": [
       "nasdaq.com",
       "ft.com"
@@ -110,17 +154,8 @@
     "count": 2
   },
   {
-    "title": "Dos fuertes terremotos de magnitud superior a 7 sacuden Venezuela y dejan cientos de atrapados",
-    "summary": "Las autoridades venezolanas corren para rescatar a las víctimas de los derrumbes provocados por los sismos gemelos en varias regiones del país.",
-    "source": [
-      "investing.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Wall Street cierra mixto: el Dow Jones marca nuevos máximos mientras el Nasdaq cae arrastrado por Apple",
-    "summary": "El índice industrial sube ligeramente, pero el tecnológico retrocede por el desplome de Apple y Microsoft en una jornada de resultados dispares.",
+    "title": "El oro muestra signos de debilidad y proliferan las falsificaciones",
+    "summary": "El metal precioso confirma malos presagios mientras los expertos advierten de un aumento de las imitaciones en el mercado.",
     "source": [
       "bolsamania.com",
       "handelsblatt.com"
@@ -128,57 +163,41 @@
     "count": 2
   },
   {
-    "title": "OpenAI limita el acceso inicial a su nuevo modelo GPT-5.6 y retrasa su salida a bolsa hasta 2027",
-    "summary": "La compañía restringe el uso de su última inteligencia artificial a veinte empresas por petición del gobierno de EE.UU., y pospone su oferta pública inicial.",
+    "title": "La Seguridad Social abona las pensiones de junio y el Ibex cotiza mixto",
+    "summary": "España destina 28.432 millones a pensiones mientras el Ibex registra movimientos dispares liderados por Iberdrola.",
     "source": [
-      "nikkei.com",
-      "/r/stocks"
+      "bolsamania.com",
+      "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "ANA sufre una avería informática en sus vuelos nacionales que prevé solucionar en julio",
-    "summary": "La aerolínea japonesa anuncia una mejora a gran escala de sus sistemas para corregir los fallos que afectaron a las reservas y operaciones.",
+    "title": "Alemania: auge de los ETF activos y el mercado inmobiliario de lujo",
+    "summary": "El mercado alemán ofrece alternativas de inversión con ETF de valor y activos, mientras las ciudades se preparan para el calor.",
+    "source": [
+      "handelsblatt.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Japón: el yen se debilita y el salario mínimo necesita un aumento anual del 3%",
+    "summary": "La divisa japonesa continúa su tendencia a la baja y el gobierno debate la subida del salario mínimo para 2030.",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "Japón renombra a sus Fuerzas de Autodefensa Aéreas como 'Fuerzas Aeroespaciales' para reforzar la vigilancia satelital",
-    "summary": "La reforma legal aprobada transforma el antiguo cuerpo en una rama con competencias en el espacio exterior.",
+    "title": "Japón: desde el béisbol universitario hasta la lucha contra el fraude internacional",
+    "summary": "Noticias variadas incluyen tormentas, reapertura de fábricas, estafas telefónicas y avances en el Mundial de fútbol.",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "Ryanair elimina las tasas por asignación de asientos familiares tras una investigación de la autoridad de competencia",
-    "summary": "La aerolínea irlandesa modifica su política de asientos para familias después de que el regulador británico iniciara un procedimiento sancionador.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "EasyJet rechaza una oferta de compra de 4.900 millones de libras y negocia con Castlelake",
-    "summary": "La aerolínea británica declina la propuesta de adquisición pero inicia conversaciones con la firma de inversión Castlelake sobre posibles acuerdos.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Un tribunal obliga a TotalEnergies a rendir cuentas por su contribución a las emisiones de gases de efecto invernadero",
-    "summary": "La sentencia exige a la petrolera francesa que mida y reporte el impacto climático de todas sus operaciones.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Las constructoras británicas advierten de un 'terremoto' por la duplicación de los aranceles al acero",
-    "summary": "El aumento de los impuestos a la importación de acero elevará los costes de construcción y podría frenar el sector inmobiliario en el Reino Unido.",
+    "title": "Los bufetes de Wall Street se preparan para una nueva era de riesgo de uso de información privilegiada",
+    "summary": "Las firmas legales se enfrentan a un mayor escrutinio y cambian sus prácticas ante posibles delitos de insider trading.",
     "source": [
       "ft.com"
     ],

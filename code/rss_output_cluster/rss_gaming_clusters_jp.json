@@ -1,8 +1,9 @@
 [
   {
-    "title": "Bungie、Destiny 2チームの大半とMarathonチームの一部を解雇",
-    "summary": "SonyとBungieは、Destiny 2の開発者の大部分を解雇するリストラを確認。スタジオはMarathonに注力する。",
+    "title": "SonyがDestiny 2チームの大半を解雇、Bungieで292人の人員削減を確認",
+    "summary": "Sonyの再編がDestiny 2チームのほぼ全員とMarathonチームの一部に影響を与え、新たな削減の波が起こる。",
     "source": [
+      "gamesindustry.biz",
       "pcgamer.com",
       "kotaku.com",
       "destructoid.com",
@@ -12,14 +13,14 @@
       "gamespot.com",
       "gematsu.com"
     ],
-    "count": 8
+    "count": 9
   },
   {
-    "title": "GTA 6、価格、ディスクなし、予約要件で論争",
-    "summary": "Grand Theft Auto VIがエディション、価格、物理ディスクを含まない決定に関する発表で注目を集め、プレイヤー間で議論を巻き起こしている。",
+    "title": "GTA 6は2026年に発売予定、価格は80ドル、パッケージ版なし",
+    "summary": "Rockstarが最も期待されるゲームの詳細を発表、予約注文エディション、技術仕様、ディスクなしの論争を含む。",
     "source": [
-      "kotaku.com",
       "3djuegos.com",
+      "kotaku.com",
       "pcgamer.com",
       "gamespot.com",
       "destructoid.com",
@@ -29,21 +30,8 @@
     "count": 7
   },
   {
-    "title": "Valve、批判と期待の中でSteam Machineの将来を明確化",
-    "summary": "同社はコンソールのパフォーマンスに関する批判に応え、Steam Deckと同様のアップデートを受け、新しいモデルを検討していると表明。",
-    "source": [
-      "3djuegos.com",
-      "kotaku.com",
-      "polygon.com",
-      "pcgamer.com",
-      "rockpapershotgun.com",
-      "eurogamer.net"
-    ],
-    "count": 6
-  },
-  {
-    "title": "Microsoft、部品不足でXbox Seriesの価格を全世界で値上げ",
-    "summary": "同社は全Xbox Seriesの価格を引き上げ、2TBモデルを廃止し、影響を緩和するためのローンプログラムを提供。",
+    "title": "MicrosoftがXbox Seriesの価格を全世界で値上げ、2TBモデルを廃止",
+    "summary": "部品不足とRAMコストの上昇がXboxコンソールの世界的な価格上昇を引き起こす。",
     "source": [
       "kotaku.com",
       "gamespot.com",
@@ -55,8 +43,21 @@
     "count": 6
   },
   {
-    "title": "Deltarune Chapter 5が大成功でリリース、Chapter 6は2027年に発表",
-    "summary": "Toby FoxのインディーRPGの新チャプターがSteamで同時接続プレイヤー数30万人近くを達成し、続編を準備中。",
+    "title": "ValveがSteam Machineのサポートと制限を明確化、Steam Deckと同じ寿命はない",
+    "summary": "Valveの新しいコンソールはパフォーマンス、互換性、アップデート計画で批判を受ける中、フランスの小売店が模倣品を発売。",
+    "source": [
+      "kotaku.com",
+      "polygon.com",
+      "pcgamer.com",
+      "rockpapershotgun.com",
+      "eurogamer.net",
+      "3djuegos.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Deltaruneチャプター5がSteamで大人気、チャプター6は2027年に発表",
+    "summary": "Toby Foxのゲームの新チャプターが同時接続プレイヤー数約30万人を達成し、多数のガイドや分析が寄せられる。",
     "source": [
       "nintendolife.com",
       "destructoid.com",
@@ -67,19 +68,8 @@
     "count": 5
   },
   {
-    "title": "Steamサマーセール2026、大幅割引で開幕",
-    "summary": "Valveは、PC GamerのGOTYを24ドルで提供するなど、何千ものゲームが値下げされた恒例のセールイベントを開始。",
-    "source": [
-      "kotaku.com",
-      "pcgamer.com",
-      "destructoid.com",
-      "3djuegos.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Xbox、解雇の波に備える中、Compulsion Gamesの従業員が退職を発表",
-    "summary": "Xboxでの人員削減の報道が流れる中、South of Midnightスタジオの複数の開発者が新たな機会を求めていることを確認。",
+    "title": "Compulsion Gamesの従業員がXboxでの大量解雇の可能性に直面し仕事を求める",
+    "summary": "South of Midnightのスタジオの労働者が退職を発表、Microsoftでの大規模な再編の噂が高まる中。",
     "source": [
       "pcgamer.com",
       "eurogamer.net",
@@ -89,8 +79,28 @@
     "count": 4
   },
   {
-    "title": "部品不足がRAM価格を高騰、テクノロジー業界を脅かす",
-    "summary": "メモリとストレージのコストが前例のないほど上昇し、PC、コンソール、Apple製品の価格上昇を引き起こし、今後も続く見込み。",
+    "title": "Steamサマーセール2026が数千のゲームで大幅割引を提供",
+    "summary": "Steamの夏のセールにはPC GamerのGOTY 2025などのタイトルや過去最安値のゲームが含まれる。",
+    "source": [
+      "kotaku.com",
+      "pcgamer.com",
+      "destructoid.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Epic Games、SteamのAIタグに関するValveのポリシーを無責任と非難",
+    "summary": "Tim SweeneyがValveのAI使用ゲームへのタグ付け要求を批判、開発者にとって有害だと主張。",
+    "source": [
+      "gamesindustry.biz",
+      "3djuegos.com",
+      "destructoid.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "電子部品の危機がRAMとデバイスの価格を急騰させる",
+    "summary": "チップコストの上昇がAppleやMicronなどのメーカーに影響、2028年以降の段階的な改善を見込む。",
     "source": [
       "3djuegos.com",
       "pcgamer.com",
@@ -99,8 +109,8 @@
     "count": 3
   },
   {
-    "title": "Wildgate、発売から1年で開発終了",
-    "summary": "元Blizzard開発者によるスペースシューティングゲームが最後のアップデートを受け、アクティブな開発を終了。ただし、ゲームは終了しない。",
+    "title": "Wildgate、発売から1年後の最終アップデートで開発終了",
+    "summary": "元Blizzard開発者による宇宙シューティングゲームが最終パッチを受け取り、今後もプレイ可能だが新コンテンツはなし。",
     "source": [
       "rockpapershotgun.com",
       "pcgamer.com"
@@ -108,8 +118,8 @@
     "count": 2
   },
   {
-    "title": "Capcom、『Onimusha: Way of the Sword』の初ゲームプレイを公開",
-    "summary": "日本の同社が新しいトレーラーとスクリーンショットを公開し、アクション剣劇ゲームの初公開。",
+    "title": "CapcomがOnimusha: Way of the Swordのゲームプレイ初公開",
+    "summary": "アクションと歴史的ホラーシリーズの復活に関する新たな画像と詳細がトレーラーで公開。",
     "source": [
       "nintendolife.com",
       "gematsu.com"
@@ -117,17 +127,8 @@
     "count": 2
   },
   {
-    "title": "『ドラゴンズドグマ2: ダークアリズン』新要素とゲームプレイを公開",
-    "summary": "CapcomがオープンワールドRPGの待望の追加コンテンツの詳細を含む新しいビデオを公開。",
-    "source": [
-      "nintendolife.com",
-      "gematsu.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Enshrouded、2026年10月の確定発売日を発表",
-    "summary": "サバイバルアクションゲームは10月にPCとPS5で、2027年春にXbox Seriesで発売予定。",
+    "title": "Enshrouded、1.0版を10月15日にPS5とPCで発売決定",
+    "summary": "サバイバルアクションゲームはまずPlayStationとPCに、その後Xbox Seriesに登場。",
     "source": [
       "rockpapershotgun.com",
       "gematsu.com"
@@ -135,17 +136,8 @@
     "count": 2
   },
   {
-    "title": "Marvel's Wolverine、GTA 6とは異なりディスク入りパッケージ版を発売",
-    "summary": "Insomniac Gamesは、PS5版Wolverineにはパッケージにディスクが含まれることを確認。他のデジタル傾向とは対照的。",
-    "source": [
-      "eurogamer.net",
-      "gamespot.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "モンスターハンターストーリーズ3、新ストーリーDLCと無料アップデート",
-    "summary": "Capcomが追加コンテンツ「Rudy」と、RPGに実在のモンスターを追加するアップデートをリリース。",
+    "title": "Monster Hunter Stories 3、サイドストーリーDLCと無料アップデートを配信開始",
+    "summary": "追加コンテンツ「Rudy」が利用可能に、新たな実在モンスターや追加機能とともに。",
     "source": [
       "nintendolife.com",
       "gematsu.com"
@@ -153,8 +145,17 @@
     "count": 2
   },
   {
-    "title": "Sonic ARG、AI学習のためのデータ使用同意を求め物議",
-    "summary": "プレイヤーは、ユーザー情報でAIを訓練する許可を求める代替現実ゲームについてSEGAを批判。",
+    "title": "CapcomがDragon's Dogma 2: Dark Arisenの最初の詳細を公開",
+    "summary": "オープンワールドRPGの拡張版には新たな地域、敵、ゲームプレイ要素が含まれる。",
+    "source": [
+      "nintendolife.com",
+      "gematsu.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sonic、AIを使ったARGでプレイヤーデータ使用の許可を求めて物議",
+    "summary": "ファンはSEGAが代替現実ゲームを通じて生成AIを訓練するための同意を求めたことを批判。",
     "source": [
       "kotaku.com",
       "eurogamer.net"
@@ -162,8 +163,17 @@
     "count": 2
   },
   {
-    "title": "FromSoftware親会社のCEO、投資家の批判にも関わらず留任",
-    "summary": "活動的な投資家はElden Ringの経営に不満を示していたが、取締役会は最高経営責任者を維持することを決定。",
+    "title": "Marvel's WolverineはGTA 6と異なりパッケージ版で発売へ",
+    "summary": "Insomniac Gamesがスーパーヒーローゲームのパッケージ版にディスクを含めることを確認、デジタル化の流れに対抗。",
+    "source": [
+      "eurogamer.net",
+      "gamespot.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "FromSoftwareのCEO、Elden Ringを活用していないとの投資家の批判にも関わらず留任",
+    "summary": "親会社は、Elden Ringの成功が十分に活用されていないと考える株主の不満を受け、経営陣を支持。",
     "source": [
       "rockpapershotgun.com",
       "gamesindustry.biz"
@@ -171,38 +181,29 @@
     "count": 2
   },
   {
-    "title": "Riot Games、Vanguardをゲームプレイ中のみ実行するように変更",
-    "summary": "同社はアンチチートシステムをアップデートし、侵入性を低減し、League of Legends開始時のみ起動するように。コミュニティの苦情に対応。",
-    "source": [
-      "3djuegos.com",
-      "rockpapershotgun.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "スーパーガール、映画公開で賛否両論",
-    "summary": "DCユニバース映画が公開され、その品質について議論を巻き起こす一方、ポストクレジットシーンがあることが確認。",
+    "title": "フォートナイト チャプター7 シーズン3ガイド：スプライトとキャラクターの場所",
+    "summary": "複数のガイドがプレイヤーを助け、バトルロイヤルの新シーズンですべてのオブジェクトを見つけチャレンジを完了する。",
     "source": [
       "polygon.com",
-      "3djuegos.com"
+      "destructoid.com"
     ],
     "count": 2
   },
   {
-    "title": "The Drifter、Switch 2で大成功を収めるダークホラーゲーム",
-    "summary": "インディーポイントアンドクリックアドベンチャーは絶賛され、SierraやLucasArtsの古典と比較。",
+    "title": "Switch 2版スターフォックス完全ガイド：ルート、amiibo、秘密",
+    "summary": "詳細なチュートリアルが、新しいコンソールでのクラシックシューティングゲームの全レベルと機能のアンロック方法を解説。",
     "source": [
-      "kotaku.com",
+      "3djuegos.com",
       "nintendolife.com"
     ],
     "count": 2
   },
   {
-    "title": "Epic Games、SteamにおけるValveのAIポリシーを無責任と非難",
-    "summary": "Tim Sweeneyは、Steamが開発者にゲーム内での人工知能の使用を開示するよう求める決定を批判。",
+    "title": "Forza Horizon 6ガイド：竹の場所と車の遭遇",
+    "summary": "オープンワールドレーシングシリーズ最新作での目標達成のための場所が明らかに。",
     "source": [
-      "3djuegos.com",
-      "destructoid.com"
+      "polygon.com",
+      "pcgamer.com"
     ],
     "count": 2
   }

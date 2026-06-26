@@ -1,7 +1,7 @@
 [
   {
-    "title": "Microsoft raises the price of Xbox Series X and S consoles worldwide",
-    "summary": "The company increases prices by up to $150 due to the component crisis and discontinues the 2 TB model.",
+    "title": "Microsoft raises Xbox Series X|S prices by up to $150 worldwide",
+    "summary": "The component crisis forces the company to raise the prices of its consoles, also eliminating the 2TB model.",
     "source": [
       "geeknetic.es",
       "hardzone.es",
@@ -13,8 +13,8 @@
     "count": 6
   },
   {
-    "title": "Apple increases prices of its devices due to rise in RAM memory",
-    "summary": "The costs of NAND Flash and DRAM force Apple to raise prices on Mac, iPad and other products, with increases of up to $400.",
+    "title": "Apple raises prices of Mac, iPad, and home devices due to RAM memory crisis",
+    "summary": "The increase in NAND Flash and DRAM costs forces Apple to apply increases of up to $400 on some models.",
     "source": [
       "techpowerup.com",
       "geeknetic.es",
@@ -26,147 +26,88 @@
     "count": 6
   },
   {
-    "title": "Enshrouded leaves early access, GTA VI delayed and other news",
-    "summary": "Enshrouded release date confirmed, a physical version of GTA VI is planned, and Valve talks about the Steam Deck 2.",
+    "title": "Valve's Steam Machine faces criticism over price, performance, and RAM configuration",
+    "summary": "Valve adjusts its performance claims to 4K, while retailers and competitors question the console's price and memory configuration.",
     "source": [
       "techpowerup.com",
+      "videocardz.com",
+      "/r/hardware",
       "profesionalreview.com",
-      "videocardz.com",
-      "tomshardware.com",
-      "hardzone.es"
+      "tomshardware.com"
     ],
     "count": 5
   },
   {
-    "title": "IBM presents the first chip technology with transistors below 1 nanometer",
-    "summary": "The Nanostack design stacks transistors vertically to continue miniaturization, reaching 7 angstroms.",
+    "title": "IBM presents the first sub-1 nanometer chip technology with vertically stacked transistors",
+    "summary": "The new Nanostack transistor architecture enables unprecedented miniaturization, paving the way for future processors.",
     "source": [
-      "profesionalreview.com",
       "/r/hardware",
+      "profesionalreview.com",
       "techpowerup.com",
       "geeknetic.es"
     ],
     "count": 4
   },
   {
-    "title": "ASUS restores TSME encryption on AM5 motherboards via a beta BIOS",
-    "summary": "After the controversy, ASUS releases an update that restores memory encryption compatibility on X870, B850 and X670 boards.",
+    "title": "Epic Games CEO criticizes Valve for 'irresponsible' tagging of games with AI",
+    "summary": "Tim Sweeney calls Steam's decision to add tags on the use of artificial intelligence in games irresponsible.",
     "source": [
       "geeknetic.es",
-      "tomshardware.com",
-      "profesionalreview.com",
-      "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "AMD launches FSR 4.1, SDK 2.3 and an urgent hotfix for Adrenalin",
-    "summary": "The new version of FSR offers improvements but reduces performance on RDNA 3, while installation issues on Windows 10 are fixed.",
-    "source": [
       "techpowerup.com",
-      "profesionalreview.com",
-      "geeknetic.es",
-      "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Valve corrects Steam Machine specifications and confirms a single RAM module",
-    "summary": "The console will come with a 16 GB stick instead of two 8 GB sticks, and its target performance changes from 4K 60 FPS to 'up to 4K'.",
-    "source": [
-      "techpowerup.com",
-      "videocardz.com",
-      "tomshardware.com",
-      "geeknetic.es"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Retailer LDLC mocks Steam Machine price with its 'Stim Machine' PC",
-    "summary": "LDLC offers a system with Radeon RX 9060 XT for 999 euros, compared to the 1039 euros of Valve's console.",
-    "source": [
-      "/r/hardware",
-      "techpowerup.com",
-      "profesionalreview.com",
-      "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "AMD re-launches the Ryzen 7 5800X3D and several processors drop in price",
-    "summary": "Intel Core Ultra 9 285K and AMD Ryzen 5 9600X see significant drops, while Hygon introduces a 128-core CPU.",
-    "source": [
-      "videocardz.com",
-      "/r/hardware",
-      "profesionalreview.com",
       "tomshardware.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "New peripherals: modular keyboard, gaming chair, retro controllers and secondary display",
-    "summary": "Ergohaven, Razer, 8BitDo and Corsair present their latest accessories to enhance the computing and gaming experience.",
-    "source": [
-      "tomshardware.com",
-      "techpowerup.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Qualcomm presents its HBC architecture for compute-near memory",
-    "summary": "HBC Gen 1 technology stacks LPDDR memory to achieve 133 TB/s bandwidth and six times more efficiency than HBM.",
-    "source": [
-      "tomshardware.com",
-      "techpowerup.com",
-      "/r/hardware"
     ],
     "count": 3
   },
   {
-    "title": "DIY alternatives to the Steam Machine emerge thanks to 3D printing and SteamOS",
-    "summary": "SteamOS is now compatible with AMD Radeon graphics, allowing you to build a custom Steam Machine with 3D printing.",
+    "title": "ASUS restores TSME encryption on its AM5 motherboards after controversy with users",
+    "summary": "The company launches a beta BIOS that recovers TSME memory encryption on the X870, B850, and X670 models.",
     "source": [
-      "profesionalreview.com",
       "geeknetic.es",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD FSR 4.1 shows lower performance than FSR 3.1 on RDNA 3 cards",
+    "summary": "Initial tests indicate a performance loss of up to 14%, although SDK 2.3 introduces improvements in ray regeneration.",
+    "source": [
+      "techpowerup.com",
+      "geeknetic.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD relaunches Ryzen 7 5800X3D with a 10th anniversary edition and speculators drive up its price",
+    "summary": "The reissued processor appears with irregular inventory and sells for over $600 on the resale market.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Enshrouded leaves early access and announces its launch on PC and PS5 for October",
+    "summary": "The popular survival and building game receives its version 1.0 after two years of early access development.",
+    "source": [
+      "techpowerup.com",
       "hardzone.es"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "New SSDs and memory: deals, launches and market perspectives",
-    "summary": "Swissbit and OWC launch new SSDs, ADATA presents its NFC drive, and Micron signs million-dollar agreements without foreseeing the end of the crisis.",
+    "title": "Grand Theft Auto VI faces censorship and plans a physical edition in December",
+    "summary": "Rockstar deals with content cuts and prepares a disc launch for December this year.",
     "source": [
-      "tomshardware.com",
-      "techpowerup.com",
-      "geeknetic.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Review of the MSI Claw 8, Sharkoon Fireglider One and HyperX Cloud Stinger 3",
-    "summary": "The reviews highlight the performance of the handheld console, the ultralight mouse, and the low-cost wireless headphones.",
-    "source": [
-      "/r/hardware",
       "profesionalreview.com",
-      "tomshardware.com"
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Artificial intelligence sparks controversy: costs, security, and accusations of model theft",
-    "summary": "From leaks about measuring AI effectiveness to reports of illegal distillation, the sector seeks answers.",
-    "source": [
-      "techpowerup.com",
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AceMagic puts its AMD Ryzen Mini PCs on sale with discounts of up to 20%",
-    "summary": "The promotion includes an exclusive coupon to purchase the systems at a reduced price.",
+    "title": "AceMagic offers up to 20% discount on its Mini PCs with AMD Ryzen processors",
+    "summary": "The company launches a temporary promotion with exclusive coupons for various Mini PC models.",
     "source": [
       "techpowerup.com",
       "profesionalreview.com"
@@ -174,39 +115,75 @@
     "count": 2
   },
   {
-    "title": "Framework switches SSDs and announces price increase on its CPUs",
-    "summary": "The company opts for ADATA XPG MARS 970 and warns of an increase in the cost of processors, while launching the Laptop 13 Pro motherboard.",
+    "title": "Sony confirms 'significant' layoffs at Bungie",
+    "summary": "PlayStation's parent company announces a reduction in staff at the studio responsible for Destiny.",
     "source": [
-      "techpowerup.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Prime Day deals on hardware: GPUs, CPUs and motherboards with big discounts",
-    "summary": "Tom's Hardware compiles the best deals of the event, while GIGABYTE promotes its motherboards and monitors.",
-    "source": [
-      "tomshardware.com",
       "techpowerup.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Monitor deals and launches: Samsung 4K at $249 and Gigabyte QD-OLED 4K",
-    "summary": "Samsung and B&H offer a 37-inch 4K monitor for $249, and Gigabyte launches its new QD-OLED gaming monitor.",
+    "title": "Micron signs supply agreements worth $100 billion and warns that the RAM crisis has no end in sight",
+    "summary": "The memory company says it doesn't know when the memory chip shortage will end.",
     "source": [
-      "tomshardware.com",
-      "techpowerup.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Flash deals: GIGABYTE and Nintendo Switch 2 discounted",
-    "summary": "GIGABYTE lowers prices on its motherboards and monitors, while the Switch 2 is available again at a reduced price on Woot.",
-    "source": [
-      "techpowerup.com",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
+  },
+  {
+    "title": "Anthropic accuses Alibaba of using 25,000 fake accounts to illegally distill its Claude model",
+    "summary": "The AI company detected 28.8 million fraudulent exchanges between April and June 2026.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Riot Vanguard removes its controversial permanent execution requirement",
+    "summary": "The anti-cheat program now runs on demand, although it requires a strict Windows 11 security configuration.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Qualcomm presents its near-memory HBC architecture and the AI250 and AI350 accelerators",
+    "summary": "The new technology promises 6 times more bandwidth per watt compared to HBM and 200 times more capacity than on-chip SRAM.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Qualcomm plans data center processors specific to China with limited AI accelerators",
+    "summary": "The new Dragonfly line will comply with export thresholds by reducing AI capabilities.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Windows 10 extends its lifespan with free support until 2027",
+    "summary": "Microsoft extends the operating system's compatibility beyond the initial end date.",
+    "source": [
+      "hardzone.es"
+    ],
+    "count": 1
+  },
+  {
+    "title": "NVIDIA updates its DLSS SDK to version 310.7.0 with support for DLSS Swapper",
+    "summary": "The new version of the development kit allows swapping DLSS versions between games more easily.",
+    "source": [
+      "geeknetic.es"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Framework switches to ADATA XPG MARS 970 SSDs and warns about an upcoming CPU price increase",
+    "summary": "The modular laptop company updates its recommended storage and anticipates increases in processor costs.",
+    "source": [
+      "techpowerup.com"
+    ],
+    "count": 1
   }
 ]
