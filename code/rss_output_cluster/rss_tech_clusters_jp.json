@@ -1,66 +1,70 @@
 [
   {
-    "title": "アップル、RAM危機によりMacとiPadの価格を引き上げ",
-    "summary": "アップルは、部品コストの上昇、特にRAMメモリの値上がりを受け、MacとiPadの価格を引き上げた。",
+    "title": "AppleがRAMコスト上昇によりMacとiPadの価格を値上げ",
+    "summary": "同社はパソコンとタブレットの価格を最大20%引き上げる一方、値上げを免れたiPhoneの価格は維持する。",
     "source": [
-      "techcrunch.com",
       "elchapuzasinformatico.com",
       "xataka.com",
-      "/r/technology",
-      "news.ycombinator.com"
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "fastcompany.com"
     ],
     "count": 5
   },
   {
-    "title": "マイクロソフト、Xbox Series X|Sの価格を最大150ドル値上げ",
-    "summary": "アップルに続く値上げにより、Xbox Series Xは8月から749.99ドルと、さらに高額になる。",
+    "title": "RockstarがGTA VIの価格を発表、完全版には100ユーロ必要と確認",
+    "summary": "基本版は80ユーロだが、すべてのコンテンツを含むのは100ユーロのUltimate版のみで、デジタル専用となる。",
     "source": [
-      "techcrunch.com",
+      "alternativeto.net",
+      "/r/technology",
       "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Microsoft、Xbox Series X|Sの価格を世界的に値上げ",
+    "summary": "同社はAppleに続き、経済状況を理由に本体価格を最大150ドル引き上げる。",
+    "source": [
+      "xataka.com",
+      "techcrunch.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AI生成コンテンツへの懸念：AI執筆の本から子供向けシリーズの声まで",
+    "summary": "複数の報告が、本の執筆や「Peppa Pig」での子役声優の声のクローン、Grokの成人向けプラットフォーム化へのAI使用を警告している。",
+    "source": [
+      "fastcompany.com",
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Meta、AI戦略で課題に直面",
+    "summary": "同社は従業員のAI関連業務への再配置を撤回する一方、従業員はAIモデレーションの展開が速すぎると警告し、会社の方向性への批判が高まっている。",
+    "source": [
+      "fastcompany.com",
+      "the-decoder.com",
       "/r/technology"
     ],
     "count": 3
   },
   {
-    "title": "米国、反中連携を強化し、欧州とASMLに圧力をかけるためxLightに1億5000万ドル投資",
-    "summary": "米国はオランダをPax Silicaブロックに取り込み、EUV技術で競争するためxLightに資本を注入。一方、欧州は圧力に抵抗している。",
+    "title": "AI規制：巨額の罰金、一時停止の要請、倫理的議論",
+    "summary": "大手テクノロジー企業が個人データをAI訓練に使用したとして35億ドルの罰金、ホワイトハウスはOpenAIにリリースペースの緩和を要請、法王はAIは道徳的に中立ではありえないと宣言。",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "techcrunch.com"
+      "/r/technology",
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 3
   },
   {
-    "title": "アンスロピック、アリババが偽アカウントを使ってClaudeモデルの機能を盗んだと非難",
-    "summary": "アンスロピックは、中国企業アリババが約2万5000のアカウントを使って同社のアシスタントClaudeから情報を抽出したと非難している。",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "トランプ政権、ポールスターの新型EVの米国販売を禁止",
-    "summary": "米国政府は、スウェーデンのEVブランドの参入を阻止する一方、ボルボには事業継続を許可している。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "マイクロソフト、Windows 11の不評を受け、Windows 10のサポートを2027年10月まで延長",
-    "summary": "同社はWindows 10のセキュリティ更新を1年間延長する。一方、ユーザーは新バージョンへの移行を渋っている。",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GTA VI完全版は100ユーロ、80ユーロ版は限定コンテンツのみ",
-    "summary": "ロックスターは、80ユーロのベースゲームは「Lite」版であり、完全なコンテンツには100ユーロのUltimate版が必要であると確認した。",
+    "title": "Valve、4K表記を削除しSteam Machineの価格はRAMメーカーのせいと主張",
+    "summary": "同社は自社コンソールの4K性能への言及を削除し、日本での成功にもかかわらず、高コストの責任をメモリーベンダーに負わせている。",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com"
@@ -68,8 +72,44 @@
     "count": 2
   },
   {
+    "title": "Polymarketがサイバー攻撃を受け、ユーザーから数百万ドルを奪われる",
+    "summary": "分散型賭けプラットフォームは資金の盗難を確認し、被害者への返金を約束した。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Notion、開始からわずか1年余りでメールサービスNotion Mailを終了",
+    "summary": "同社はAIエージェントに注力するため、メールクライアントの提供を終了することを決定。",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google、リアルタイムデータを備えたGoogle Financeのスタンドアロンアプリを公開",
+    "summary": "Android向けの新アプリは、最新の金融情報、AI、ポートフォリオ追跡を提供する。",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Micron、DRAMとNANDの歴史的な高価格契約を2030年まで確保",
+    "summary": "半導体メーカーは長期契約を結び、価格を高騰させ消費者市場に影響を与えている。",
+    "source": [
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
     "title": "IBM、世界初の1ナノメートル未満のチップを発表",
-    "summary": "IBMは、サブナノメートルトランジスタを搭載したプロセッサを製造し、半導体業界の節目となった。",
+    "summary": "IBMの新しいプロセッサは、ナノメートル未満のノードで半導体の微細化におけるマイルストーンとなる。",
     "source": [
       "news.ycombinator.com",
       "xataka.com"
@@ -77,62 +117,8 @@
     "count": 2
   },
   {
-    "title": "マイクロン、記録を更新し、2030年までの長期契約でメモリ株が急騰",
-    "summary": "同半導体メーカーは、DRAM、NAND、HBM向けの16の長期契約を発表し、半導体市場を押し上げている。",
-    "source": [
-      "fastcompany.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "主要AIチャットボット、研究によると左派の政治的バイアスを示す",
-    "summary": "アンチ・ウェイクとラベル付けされたモデルでさえ、政治問題において進歩的な傾向を示している、と比較分析が明らかにした。",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "フィグマ、AI機能に加え、統合モーションデザインツールを発表",
-    "summary": "フィグマは、エディター内で直接アニメーションを作成できるFigma Motionを発表した。",
-    "source": [
-      "producthunt.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ベネズエラで二連続地震、39秒間に1世紀分の地殻エネルギーを解放",
-    "summary": "地震は、感じられる前にAndroid端末によって検出され、早期警告の発令が可能となった。",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "データセンターへの社会的な反発が高まる、抗議やリソース消費への懸念の中で",
-    "summary": "地域住民は、水やエネルギー、選挙への影響を理由に、大規模データセンターの設置に抗議している。",
-    "source": [
-      "/r/technology",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "アマゾン、Prime DayでAIアシスタントを前面に押し出し、ユーザーはテレビやヘッドホンのセールを探す",
-    "summary": "Prime Dayのプロモーションには家電や電子機器の割引が含まれ、AIが主役となっている。",
-    "source": [
-      "fastcompany.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AIの台頭がデータセンターのエネルギー消費とコストを急増",
-    "summary": "データブリックスの元幹部は、AIの電気代を1000分の1に削減することを提案。一方、データセンターブームがインフレを引き起こしている。",
+    "title": "米国、Polestar車両の国内販売を禁止",
+    "summary": "トランプ政権はスウェーデンのEVブランドによる新型車の米国販売を阻止、一方Volvoは規制を免れる。",
     "source": [
       "techcrunch.com",
       "/r/technology"
@@ -140,8 +126,26 @@
     "count": 2
   },
   {
-    "title": "開発者、チャットボットから物理AIへ移行、ビデオゲームでロボットを訓練",
-    "summary": "ジェネラル・インテュイションなどの企業は、仮想環境を利用してAIエージェントを現実世界で訓練するために数十億ドルを投資している。",
+    "title": "米国、半導体製造でオランダとの連携を強化、xLightに投資",
+    "summary": "米国はオランダを対中国ブロック「Pax Silica」に組み込み、EUV技術に1.5億ドルを割り当てる。",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "オフィス回帰要求は経営陣の自己愛性と関連",
+    "summary": "研究はFortune 500のリーダーにおける自己愛性の特性と出社命令を関連付け、一方Goldman SachsとJPMorganは姿勢を軟化させている。",
+    "source": [
+      "/r/technology",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "開発者、AI訓練の代替手法に注目：物理ロボットとビデオゲーム",
+    "summary": "テクノロジー企業は現実環境やゲームを通じたAI訓練を模索しており、この分野に23億ドルを投資している。",
     "source": [
       "fastcompany.com",
       "techcrunch.com"
@@ -149,35 +153,39 @@
     "count": 2
   },
   {
-    "title": "オープンAI、ブロードコムと協業し、AI向けの初のカスタムGPU「Jalapeño」を開発",
-    "summary": "同社は、AIワークロード向けに最適化された独自チップを開発し、外部プロバイダーへの依存を減らそうとしている。",
+    "title": "Windows 10のサポートを2027年まで延長、Windows 11は完全復元機能を導入",
+    "summary": "Microsoftはユーザーのアップグレード拒否を受け、ひそりとWindows 10のサポートを延長。Windows 11にはアプリ、設定、ファイルを復元するツールを追加。",
     "source": [
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "/r/technology"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "スーパーヒューマン、AIライティングアシスタントが、AI生成テキスト検出器GPTZeroを買収",
-    "summary": "この買収により、人工コンテンツの生成と検出のツールが統合され、AIベースの生産性エコシステムが拡大する。",
+    "title": "Amazon、Prime DayでAIに注力、インドに130億ドル投資",
+    "summary": "同社はショッピングイベント中にAIアシスタントを宣伝し、インドでのAIインフラへの大型投資を発表。",
     "source": [
-      "elchapuzasinformatico.com"
+      "fastcompany.com",
+      "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "グーグル、Gemini 3.5 Flashで直接画面制御を実現、モデルが端末を表示・操作可能に",
-    "summary": "Geminiの新機能により、ユーザーインターフェースと視覚的にインタラクションし、画面上で直接アクションを実行できるようになる。",
+    "title": "ゲーム業界、XboxとBungieで新たなレイオフ",
+    "summary": "Xboxの元従業員が職務への不満を訴えた後の報復を非難、一方SonyはBungieでの大規模な解雇を確認、Destinyチームの大部分が対象。",
     "source": [
-      "the-decoder.com"
+      "elchapuzasinformatico.com",
+      "/r/technology"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "ヘルクラネウムの巻物が初めて解読される、高度な画像技術のおかげで",
-    "summary": "研究チームは、AIとX線を使用して、ヴェスヴィオ火山の噴火で炭化した巻物の解読に成功した。",
+    "title": "情報漏洩とサイバー攻撃：顧客データ削除、悪意ある機能を持つChrome拡張機能",
+    "summary": "Klue社がハッキング被害、犯人は盗んだデータを消去。一方、数百万インストール数の広告ブロッカーがスクリプトインジェクションの脆弱性を隠蔽。",
     "source": [
-      "news.ycombinator.com"
+      "techcrunch.com",
+      "thehackernews.com"
     ],
-    "count": 1
+    "count": 2
   }
 ]

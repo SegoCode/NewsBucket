@@ -1,104 +1,158 @@
 [
   {
-    "title": "Fuertes lluvias y tifones azotan varias regiones de Japón con alertas máximas",
-    "summary": "Las intensas precipitaciones causan evacuaciones, suspensión de trenes y cierre de fábricas, mientras dos tifones se acercan al archipiélago.",
+    "title": "Doble tifón se aproxima a Japón y provoca alertas de lluvias torrenciales y afectaciones en el transporte",
+    "summary": "Se espera que los tifones 7 y 8 impacten el área de Kanto, causando suspensiones de trenes y riesgo de deslizamientos.",
     "source": [
       "www3.nhk.or.jp",
-      "yomiuri.co.jp",
-      "/r/japan",
+      "news.yahoo.co.jp",
       "nikkei.com",
-      "mainichi.jp"
+      "asahi.com",
+      "yomiuri.co.jp",
+      "/r/japan"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Japón empata con Suecia y avanza a octavos de final del Mundial como segundo del grupo F",
+    "summary": "La selección japonesa aseguró su pase a la siguiente ronda tras un empate sin goles ante Suecia, con destacada actuación del portero Suzuki.",
+    "source": [
+      "www3.nhk.or.jp",
+      "mainichi.jp",
+      "news.yahoo.co.jp",
+      "yomiuri.co.jp",
+      "nikkei.com"
     ],
     "count": 5
   },
   {
-    "title": "Fuerte terremoto sacude la prefectura de Aomori y deja al menos 11 heridos",
-    "summary": "El sismo de magnitud 6,2 provocó daños en viviendas y generó preocupación entre los residentes por posibles réplicas.",
+    "title": "El índice Nikkei cae más de 3500 puntos por venta masiva de acciones tecnológicas",
+    "summary": "El mercado bursátil de Tokio sufrió fuertes pérdidas arrastrado por el desplome de los valores de inteligencia artificial.",
     "source": [
+      "asahi.com",
       "nikkei.com",
-      "mainichi.jp",
-      "asahi.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Autobús escolar invade carril contrario y provoca una colisión múltiple en Osaka",
-    "summary": "El accidente involucró seis vehículos y dejó entre 5 y 12 heridos; el conductor fue arrestado por conducción peligrosa.",
-    "source": [
-      "www3.nhk.or.jp",
-      "asahi.com",
-      "news.yahoo.co.jp",
+      "yomiuri.co.jp",
       "mainichi.jp"
     ],
     "count": 4
   },
   {
-    "title": "El gobierno japonés presenta un proyecto de reforma de la ley de la casa imperial",
-    "summary": "La iniciativa busca garantizar la continuidad de la familia imperial mediante la adopción de miembros varones, pero enfrenta críticas en el Parlamento.",
+    "title": "ANA se disculpa por fallas en nuevo sistema de reservas y el gobierno ordena investigación",
+    "summary": "Problemas técnicos en la actualización del sistema de reservas causaron molestias a pasajeros; la aerolínea planea mejoras.",
     "source": [
-      "mainichi.jp",
       "www3.nhk.or.jp",
-      "news.yahoo.co.jp",
-      "yomiuri.co.jp"
+      "mainichi.jp",
+      "asahi.com",
+      "nikkei.com"
     ],
     "count": 4
   },
   {
-    "title": "Filtración de datos personales de revisores judiciales en la fiscalía de Yamaguchi",
-    "summary": "La Fiscalía del Distrito de Yamaguchi reconoció como 'extremadamente inapropiada' la divulgación de los nombres de once revisores.",
+    "title": "Japón se prepara para enfrentar a Brasil en los octavos de final del Mundial",
+    "summary": "El partido contra la pentacampeona del mundo está programado para el 30 de julio y se espera un duelo de alta intensidad.",
     "source": [
+      "asahi.com",
       "yomiuri.co.jp",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El Ministerio de Defensa japonés confirma infección de malware por USB en el Ejército",
+    "summary": "El ministro Koizumi aseguró que los sistemas no se vieron afectados y se extremarán las medidas de ciberseguridad.",
+    "source": [
+      "www3.nhk.or.jp",
+      "news.yahoo.co.jp",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Crece la tensión en el estrecho de Ormuz con ataques a buques y disputas por peajes",
+    "summary": "Irán atacó un carguero en el estrecho, mientras Estados Unidos y países del Golfo rechazan tasas de navegación.",
+    "source": [
       "mainichi.jp",
+      "news.yahoo.co.jp",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El actor Murakami Nijiro es enviado a la fiscalía por presunta agresión a su pareja",
+    "summary": "Se le acusa de causar lesiones graves a una mujer con la que tenía una relación sentimental.",
+    "source": [
+      "news.yahoo.co.jp",
+      "yomiuri.co.jp",
+      "asahi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El secretario del jefe de Gabinete es sustituido por un escándalo de viaje inapropiado",
+    "summary": "Mogi fue reemplazado tras revelarse que usó fondos públicos para un viaje con una conocida.",
+    "source": [
+      "nikkei.com",
+      "asahi.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Los veteranos y jóvenes de la selección japonesa dejan huella en el Mundial",
+    "summary": "El defensa Nagatomo Yuto y el lateral Sugawara Yusei fueron piezas clave en el esquema de la selección.",
+    "source": [
+      "nikkei.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Japón avanza en la regulación de redes sociales para menores con evaluaciones de riesgo",
+    "summary": "El gobierno propone obligar a los operadores de SNS a realizar evaluaciones de riesgo para proteger a los niños.",
+    "source": [
+      "mainichi.jp",
+      "asahi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nissan retira más de 600.000 vehículos por problemas no especificados",
+    "summary": "Los modelos Note, Note Aura y X-Trail son llamados a revisión en Japón.",
+    "source": [
       "www3.nhk.or.jp",
       "asahi.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Japón se enfrenta a Suecia en el Mundial con opciones de clasificar a octavos de final",
-    "summary": "La selección japonesa busca la victoria ante Suecia para asegurar su pase a la siguiente ronda del torneo.",
+    "title": "Terremoto de magnitud 5.8 sacude las prefecturas de Chiba e Ibaraki sin alerta de tsunami",
+    "summary": "El sismo alcanzó una intensidad 4 en la escala sísmica japonesa y no se reportaron daños graves.",
     "source": [
-      "yomiuri.co.jp",
+      "mainichi.jp",
+      "yomiuri.co.jp"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El salario mínimo en Japón se acerca a los 1500 yenes por hora en medio de intensas negociaciones",
+    "summary": "El gobierno y los agentes sociales discuten un incremento significativo para cumplir la meta de 1500 yenes.",
+    "source": [
       "news.yahoo.co.jp",
-      "asahi.com",
-      "www3.nhk.or.jp"
+      "mainichi.jp"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Dos terremotos de magnitud superior a 7 causan más de 160 muertos en Venezuela",
-    "summary": "El país declaró el estado de emergencia tras los sismos que golpearon infraestructuras envejecidas, con una estimación de hasta 10.000 víctimas.",
+    "title": "Un terremoto devastador en Venezuela deja 235 muertos y más de 4300 heridos",
+    "summary": "El sismo de gran magnitud causó estragos y 40.000 personas figuran como desaparecidas.",
     "source": [
-      "nikkei.com",
-      "asahi.com",
+      "mainichi.jp",
       "yomiuri.co.jp"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Yuko Obuchi renuncia a la vicepresidencia del comité fiscal del PLD",
-    "summary": "La exministra se opuso a la propuesta de reducir el impuesto al consumo al 1%, lo que provocó su salida del cargo.",
-    "source": [
-      "nikkei.com",
-      "asahi.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El Nikkei y el Dow Jones marcan nuevos récords históricos impulsados por la inteligencia artificial",
-    "summary": "El índice Nikkei subió más de 3.000 puntos y el Dow Jones superó los 700 dólares, renovando sus máximos de cotización.",
-    "source": [
-      "www3.nhk.or.jp",
-      "nikkei.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El gobierno japonés retrasa el objetivo del salario mínimo de 1500 yenes",
-    "summary": "La meta se pospone hasta principios de la década de 2030, según anunció el primer ministro ante las críticas del sector empresarial.",
+    "title": "El ministro de Justicia se disculpa por usar el móvil durante una interpelación parlamentaria",
+    "summary": "Hiraguchi reconoció haber manipulado su teléfono en el pleno del Senado y ofreció disculpas.",
     "source": [
       "asahi.com",
       "nikkei.com"
@@ -106,35 +160,8 @@
     "count": 2
   },
   {
-    "title": "El gobierno de Takaichi propone una reforma presupuestaria con un nuevo marco de inversión",
-    "summary": "La reforma incluye la creación de un 'marco de inversión' sin límite de gasto, lo que genera controversia en el Parlamento.",
-    "source": [
-      "mainichi.jp",
-      "asahi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El yen se debilita hasta 161,8 unidades por dólar y se acerca a mínimos no vistos en décadas",
-    "summary": "La moneda japonesa continúa su tendencia bajista en medio de las expectativas de que la Fed mantenga una política monetaria restrictiva.",
-    "source": [
-      "asahi.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La Cámara Baja de Japón aprueba un proyecto de ley para regular las redes sociales en campañas electorales",
-    "summary": "La iniciativa busca reducir la desinformación en línea, en un contexto marcado por el escándalo del video difamatorio contra la primera ministra.",
-    "source": [
-      "mainichi.jp",
-      "/r/japan"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La policía de Hong Kong arresta a los propietarios de una librería por incitar al odio contra el gobierno",
-    "summary": "Los detenidos son acusados de vender publicaciones que fomentan el antagonismo hacia las autoridades chinas.",
+    "title": "Fuji Television y SBI Holdings exploran una alianza para producción y distribución de contenido",
+    "summary": "Ambas compañías evalúan la colaboración en programas de televisión, anime y expansión internacional.",
     "source": [
       "yomiuri.co.jp",
       "asahi.com"
@@ -142,26 +169,8 @@
     "count": 2
   },
   {
-    "title": "Las desapariciones de personas con demencia en Japón se reducen por segundo año consecutivo",
-    "summary": "En 2023 se reportaron 17.345 casos, pero el uso de dispositivos GPS y etiquetas antirrobo ayudó a localizar a 139 personas.",
-    "source": [
-      "news.yahoo.co.jp",
-      "yomiuri.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Jornada de béisbol profesional en Japón con victorias destacadas",
-    "summary": "Chunichi Dragons ganó a DeNA, Maeda Kenta logró su primer triunfo tras regresar a la NPB, y Suzuki Gota debutó con una victoria.",
-    "source": [
-      "yomiuri.co.jp",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El Senado de EE.UU. rechaza el proyecto de retirada de Irán y se reanudarán las negociaciones nucleares",
-    "summary": "La votación dio un giro inesperado cuando un senador republicano cambió su voto, mientras se prevén nuevas conversaciones técnicas para el día 30.",
+    "title": "Honda celebra junta de accionistas y aprueba la reelección de directivos tras pérdidas en vehículos eléctricos",
+    "summary": "La automotriz enfrentó críticas por sus pérdidas en el negocio de EVs y modificó su estrategia.",
     "source": [
       "nikkei.com",
       "asahi.com"
@@ -169,25 +178,17 @@
     "count": 2
   },
   {
-    "title": "Absuelven a un pakistaní condenado a 23 años de prisión por errores de traducción en el juicio",
-    "summary": "El tribunal de apelaciones determinó que el intérprete excedió los límites de la traducción literal, lo que llevó a la anulación de la condena.",
+    "title": "Ministerio de Educación solicita revisión de medidas de seguridad en escuelas tras incendio en Tokio",
+    "summary": "El incendio en una escuela primaria de Kita-ku motivó la exigencia de evaluar los protocolos de evacuación.",
     "source": [
-      "yomiuri.co.jp",
+      "nikkei.com",
       "asahi.com"
     ],
     "count": 2
   },
   {
-    "title": "Los emperadores de Japón concluyen su visita oficial a Bélgica",
-    "summary": "La pareja imperial se despidió de los reyes belgas y emprendió el regreso a Tokio tras completar la agenda oficial.",
-    "source": [
-      "yomiuri.co.jp"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Amazon anuncia una inversión de 2,1 billones de yenes en la India",
-    "summary": "El CEO de Amazon se reunió con el primer ministro Modi para anunciar el plan de inversión, que busca expandir sus operaciones en el país.",
+    "title": "Japón aprueba la ley que transforma la Fuerza Aérea en Fuerza Aeroespacial de Autodefensa",
+    "summary": "La nueva denominación incluye la vigilancia del espacio ultraterrestre entre las misiones de la fuerza.",
     "source": [
       "nikkei.com"
     ],

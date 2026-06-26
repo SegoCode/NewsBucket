@@ -1,66 +1,70 @@
 [
   {
-    "title": "Apple raises prices of Mac and iPad due to RAM crisis",
-    "summary": "The company increases the price of its computers and tablets due to the increase in the cost of components, especially RAM.",
+    "title": "Apple raises prices of its Mac and iPad due to increase in RAM cost",
+    "summary": "The company increases the price of its computers and tablets by up to 20%, while keeping the price of the iPhone, which is spared from the increase.",
     "source": [
-      "techcrunch.com",
       "elchapuzasinformatico.com",
       "xataka.com",
-      "/r/technology",
-      "news.ycombinator.com"
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "fastcompany.com"
     ],
     "count": 5
   },
   {
-    "title": "Microsoft increases price of Xbox Series X|S consoles by up to $150",
-    "summary": "The price increase, following Apple's, puts the Xbox Series X more expensive at $749.99 starting in August.",
+    "title": "Rockstar reveals the price of GTA VI and confirms that the full version requires 100 euros",
+    "summary": "The game will cost 80 euros in its basic edition, but will include all content only in the 100-euro Ultimate version, and will be exclusively digital.",
     "source": [
-      "techcrunch.com",
+      "alternativeto.net",
+      "/r/technology",
       "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Microsoft raises the price of Xbox Series X|S consoles worldwide",
+    "summary": "The company increases the price of its consoles by up to 150 dollars, following Apple's trend and citing economic conditions.",
+    "source": [
+      "xataka.com",
+      "techcrunch.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Concern about AI-generated content: from AI-written books to children's voices in kids' shows",
+    "summary": "Several reports warn about the use of artificial intelligence to write books, clone voices of child actors in 'Peppa Pig', and the conversion of Grok into an adult platform.",
+    "source": [
+      "fastcompany.com",
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Meta faces challenges in its artificial intelligence strategy",
+    "summary": "The company reverses the reassignment of employees to AI roles, while employees warn that the deployment of AI moderation is too fast and criticism grows about the direction of the company.",
+    "source": [
+      "fastcompany.com",
+      "the-decoder.com",
       "/r/technology"
     ],
     "count": 3
   },
   {
-    "title": "US strengthens its anti-China alliance and invests $150 million in xLight to pressure Europe and ASML",
-    "summary": "The United States incorporates the Netherlands into the Pax Silica block and injects capital into xLight to compete in EUV technology, while Europe resists pressure.",
+    "title": "Regulation of artificial intelligence: multimillion-dollar fines, requested pauses, and ethical debate",
+    "summary": "Big tech companies are fined 3.5 billion for using personal data to train AI, the White House asks OpenAI to slow down its launches, and the Pope declares that AI cannot be morally neutral.",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "techcrunch.com"
+      "/r/technology",
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 3
   },
   {
-    "title": "Anthropic accuses Alibaba of stealing capabilities from its Claude model through fake accounts",
-    "summary": "The artificial intelligence company alleges that the Chinese company used almost 25,000 accounts to extract information from its Claude assistant.",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Trump administration bans Polestar from selling its new electric vehicles in the US",
-    "summary": "The US administration blocks the entry of the Swedish electric car brand, while allowing Volvo to continue its operations.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft extends Windows 10 support until October 2027 amid rejection of Windows 11",
-    "summary": "The company extends security updates for Windows 10 by another year, while users resist migrating to the new version.",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Full version of GTA VI will cost 100 euros, the 80 euro edition only includes limited content",
-    "summary": "Rockstar confirms that the base 80 euro game is a \"Lite\" edition and that full content requires the 100 euro Ultimate version.",
+    "title": "Valve removes references to 4K and blames RAM manufacturers for the price of the Steam Machine",
+    "summary": "The company removes mentions of 4K performance from its console and blames memory suppliers for the high cost, despite its success in Japan.",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com"
@@ -68,8 +72,44 @@
     "count": 2
   },
   {
+    "title": "Polymarket suffers a cyberattack that steals millions of dollars from users",
+    "summary": "The decentralized betting platform confirmed the theft of funds and promised refunds to those affected.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Notion shuts down its email service Notion Mail after just over a year",
+    "summary": "The company decides to discontinue the email client to focus on artificial intelligence agents.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google launches standalone Google Finance app with real-time data",
+    "summary": "The new app for Android offers updated financial information, artificial intelligence, and portfolio tracking.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Micron secures historic high-price agreements for DRAM and NAND until 2030",
+    "summary": "The semiconductor company signs long-term contracts that skyrocket prices and affect the consumer market.",
+    "source": [
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
     "title": "IBM unveils the world's first sub-1 nanometer chip",
-    "summary": "The US company manufactures a processor with sub-nanometer transistors, marking a milestone in the semiconductor industry.",
+    "summary": "IBM's new processor marks a milestone in semiconductor miniaturization with a node smaller than a nanometer.",
     "source": [
       "news.ycombinator.com",
       "xataka.com"
@@ -77,62 +117,8 @@
     "count": 2
   },
   {
-    "title": "Micron breaks records and boosts memory stocks with deals through 2030",
-    "summary": "The chip maker announces 16 long-term agreements for DRAM, NAND, and HBM, boosting the semiconductor market.",
-    "source": [
-      "fastcompany.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Major AI chatbots show political bias towards the left, according to a study",
-    "summary": "Even models labeled as \"anti-woke\" show progressive inclinations on political issues, according to comparative analyses.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Figma launches a new integrated motion design tool along with AI features",
-    "summary": "The design platform introduces Figma Motion, which allows creating animations directly in the editor.",
-    "source": [
-      "producthunt.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A seismic doublet shakes Venezuela releasing a century of tectonic energy in 39 seconds",
-    "summary": "The earthquakes were detected by Android phones before being felt, allowing early warnings to be issued.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Social rejection of data centers grows amid protests and concerns over resource consumption",
-    "summary": "Local communities protest against the installation of large data centers, citing water, energy, and electoral impact issues.",
-    "source": [
-      "/r/technology",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Amazon bets on its AI assistant for Prime Day as users look for deals on TVs and headphones",
-    "summary": "Prime Day promotions include discounts on appliances and electronic devices, with artificial intelligence taking center stage.",
-    "source": [
-      "fastcompany.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The rise of artificial intelligence boosts energy consumption and data center costs",
-    "summary": "Former Databricks executives propose reducing the AI electricity bill by 1,000 times, while the data center boom generates inflation.",
+    "title": "United States bans the sale of Polestar vehicles in the country",
+    "summary": "The Trump administration prevents the Swedish electric car brand from selling its new models in the US, while Volvo escapes the restriction.",
     "source": [
       "techcrunch.com",
       "/r/technology"
@@ -140,8 +126,26 @@
     "count": 2
   },
   {
-    "title": "Developers move from chatbots to physical AI to train robots with video games",
-    "summary": "Companies like General Intuition invest billions in using virtual environments to train artificial intelligence agents in the real world.",
+    "title": "US strengthens alliance with Netherlands in chip manufacturing and invests in xLight",
+    "summary": "The North American country integrates the Netherlands into the anti-China Pax Silica bloc and allocates $150 million to EUV technology.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Return-to-office mandates linked to executive narcissism",
+    "summary": "A study links the trait of narcissism in Fortune 500 leaders with return-to-office orders, while Goldman Sachs and JPMorgan soften their stance.",
+    "source": [
+      "/r/technology",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Developers bet on alternative methods for training AI: physical robots and video games",
+    "summary": "Tech companies explore training artificial intelligences through real environments and games, with an investment of $2.3 billion in the sector.",
     "source": [
       "fastcompany.com",
       "techcrunch.com"
@@ -149,35 +153,39 @@
     "count": 2
   },
   {
-    "title": "OpenAI creates its first custom AI GPU called \"Jalapeño\" in collaboration with Broadcom",
-    "summary": "The company develops its own chip optimized for artificial intelligence workloads, seeking to reduce its dependence on external suppliers.",
+    "title": "Windows 10 extends support until 2027 and Windows 11 introduces a full restore",
+    "summary": "Microsoft quietly extends Windows 10 support due to user resistance to upgrade, and adds a tool to restore apps, settings, and files in Windows 11.",
     "source": [
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "/r/technology"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Superhuman, AI writing assistant, acquires GPTZero, AI-generated text detector",
-    "summary": "The acquisition combines artificial content generation and detection tools, expanding the AI-based productivity ecosystem.",
+    "title": "Amazon bets on artificial intelligence for Prime Day and invests $13 billion in India",
+    "summary": "The company promotes its AI assistant during the shopping event and announces a major investment in AI infrastructure in India.",
     "source": [
-      "elchapuzasinformatico.com"
+      "fastcompany.com",
+      "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Google integrates direct screen control in Gemini 3.5 Flash, allowing the model to see and operate the device",
-    "summary": "Gemini's new capability allows visual interaction with the user interface, executing actions directly on the screen.",
+    "title": "Video game industry suffers new layoffs at Xbox and Bungie",
+    "summary": "Former Xbox employees report retaliation after complaining about their positions, while Sony confirms significant layoffs at Bungie, including most of the Destiny team.",
     "source": [
-      "the-decoder.com"
+      "elchapuzasinformatico.com",
+      "/r/technology"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "A Herculaneum scroll has been read for the first time thanks to advanced imaging techniques",
-    "summary": "Researchers succeed in deciphering a scroll charred by the eruption of Vesuvius using artificial intelligence and X-rays.",
+    "title": "Leaks and cyberattacks: customer data deleted and Chrome extension with malicious capability",
+    "summary": "The company Klue suffers a hack and criminals delete the stolen data, while an ad blocker with millions of installations hides a script injection vulnerability.",
     "source": [
-      "news.ycombinator.com"
+      "techcrunch.com",
+      "thehackernews.com"
     ],
-    "count": 1
+    "count": 2
   }
 ]

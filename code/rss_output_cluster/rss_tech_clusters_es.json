@@ -1,66 +1,70 @@
 [
   {
-    "title": "Apple sube los precios de Mac y iPad por la crisis de la RAM",
-    "summary": "La compañía incrementa el precio de sus ordenadores y tabletas debido al aumento del coste de los componentes, especialmente la memoria RAM.",
+    "title": "Apple sube los precios de sus Mac y iPad debido al aumento del coste de la RAM",
+    "summary": "La compañía incrementa el precio de sus ordenadores y tabletas hasta un 20%, mientras mantiene el precio del iPhone, que se salva de la subida.",
     "source": [
-      "techcrunch.com",
       "elchapuzasinformatico.com",
       "xataka.com",
-      "/r/technology",
-      "news.ycombinator.com"
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "fastcompany.com"
     ],
     "count": 5
   },
   {
-    "title": "Microsoft aumenta el precio de las consolas Xbox Series X|S hasta 150 dólares",
-    "summary": "La subida de precios, que sigue a la de Apple, sitúa la Xbox Series X más cara en 749,99 dólares a partir de agosto.",
+    "title": "Rockstar revela el precio de GTA VI y confirma que la versión completa requiere 100 euros",
+    "summary": "El juego costará 80 euros en su edición básica, pero incluirá todo el contenido solo en la versión Ultimate de 100 euros, y será exclusivamente digital.",
     "source": [
-      "techcrunch.com",
+      "alternativeto.net",
+      "/r/technology",
       "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Microsoft sube el precio de las consolas Xbox Series X|S a nivel mundial",
+    "summary": "La compañía incrementa el precio de sus consolas hasta 150 dólares más, siguiendo la tendencia de Apple y citando condiciones económicas.",
+    "source": [
+      "xataka.com",
+      "techcrunch.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Preocupación por el contenido generado por IA: desde libros escritos por IA hasta voces de niños en series infantiles",
+    "summary": "Varios reportes alertan sobre el uso de inteligencia artificial para escribir libros, clonar voces de actores infantiles en 'Peppa Pig' y la conversión de Grok en plataforma para adultos.",
+    "source": [
+      "fastcompany.com",
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Meta enfrenta desafíos en su estrategia de inteligencia artificial",
+    "summary": "La empresa revierte la reasignación de empleados a roles de IA, mientras empleados advierten que el despliegue de moderación con IA es demasiado rápido y crecen las críticas sobre el rumbo de la compañía.",
+    "source": [
+      "fastcompany.com",
+      "the-decoder.com",
       "/r/technology"
     ],
     "count": 3
   },
   {
-    "title": "EE.UU. refuerza su alianza antichina e invierte 150 millones en xLight para presionar a Europa y ASML",
-    "summary": "Estados Unidos incorpora a los Países Bajos al bloque Pax Silica e inyecta capital en la empresa xLight para competir en la tecnología EUV, mientras Europa resiste la presión.",
+    "title": "Regulación de la inteligencia artificial: multas millonarias, pausas solicitadas y debate ético",
+    "summary": "Grandes tecnológicas son multadas con 3500 millones por usar datos personales para entrenar IA, la Casa Blanca pide a OpenAI ralentizar sus lanzamientos y el Papa declara que la IA no puede ser moralmente neutral.",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "techcrunch.com"
+      "/r/technology",
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 3
   },
   {
-    "title": "Anthropic acusa a Alibaba de robar capacidades de su modelo Claude mediante cuentas falsas",
-    "summary": "La compañía de inteligencia artificial denuncia que la empresa china utilizó casi 25.000 cuentas para extraer información de su asistente Claude.",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El gobierno de Trump prohíbe a Polestar vender sus nuevos vehículos eléctricos en EE.UU.",
-    "summary": "La administración estadounidense bloquea la entrada de la marca sueca de coches eléctricos, mientras permite a Volvo continuar sus operaciones.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft extiende el soporte de Windows 10 hasta octubre de 2027 ante el rechazo de Windows 11",
-    "summary": "La compañía amplía un año más las actualizaciones de seguridad para Windows 10, mientras los usuarios se resisten a migrar a la nueva versión.",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La versión completa de GTA VI costará 100 euros, la edición de 80 solo incluye contenido limitado",
-    "summary": "Rockstar confirma que el juego base de 80 euros es una edición \"Lite\" y que el contenido íntegro requiere la versión Ultimate de 100 euros.",
+    "title": "Valve elimina referencias a 4K y culpa a los fabricantes de RAM por el precio de la Steam Machine",
+    "summary": "La compañía retira menciones al rendimiento 4K de su consola y responsabiliza a los proveedores de memoria por el elevado coste, pese a su éxito en Japón.",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com"
@@ -68,8 +72,44 @@
     "count": 2
   },
   {
+    "title": "Polymarket sufre un ataque informático que roba millones de dólares a usuarios",
+    "summary": "La plataforma de apuestas descentralizadas confirmó el robo de fondos y prometió reembolsos a los afectados.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Notion cierra su servicio de correo electrónico Notion Mail tras poco más de un año",
+    "summary": "La empresa decide discontinuar el cliente de correo para centrarse en agentes de inteligencia artificial.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google lanza una aplicación independiente de Google Finance con datos en tiempo real",
+    "summary": "La nueva app para Android ofrece información financiera actualizada, inteligencia artificial y seguimiento de carteras.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Micron asegura acuerdos históricos de precios altos para DRAM y NAND hasta 2030",
+    "summary": "La compañía de semiconductores firma contratos a largo plazo que disparan los precios y afectan al mercado de consumo.",
+    "source": [
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
     "title": "IBM presenta el primer chip de menos de 1 nanómetro del mundo",
-    "summary": "La compañía estadounidense fabrica un procesador con transistores subnanométricos, marcando un hito en la industria de semiconductores.",
+    "summary": "El nuevo procesador de IBM marca un hito en la miniaturización de semiconductores con un nodo inferior al nanómetro.",
     "source": [
       "news.ycombinator.com",
       "xataka.com"
@@ -77,62 +117,8 @@
     "count": 2
   },
   {
-    "title": "Micron bate récords y dispara las acciones de memoria con acuerdos hasta 2030",
-    "summary": "El fabricante de chips anuncia 16 acuerdos a largo plazo para DRAM, NAND y HBM, lo que impulsa el mercado de semiconductores.",
-    "source": [
-      "fastcompany.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Los principales chatbots de IA muestran sesgo político hacia la izquierda, según un estudio",
-    "summary": "Incluso los modelos etiquetados como \"anti-woke\" presentan inclinaciones progresistas en cuestiones políticas, según análisis comparativos.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Figma lanza una nueva herramienta integrada de diseño de movimiento junto con funciones de IA",
-    "summary": "La plataforma de diseño presenta Figma Motion, que permite crear animaciones directamente en el editor.",
-    "source": [
-      "producthunt.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Un doblete sísmico sacude Venezuela liberando un siglo de energía tectónica en 39 segundos",
-    "summary": "Los terremotos fueron detectados por los teléfonos Android antes de sentirse, lo que permitió emitir alertas tempranas.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El rechazo social a los centros de datos crece entre protestas y preocupaciones por el consumo de recursos",
-    "summary": "Las comunidades locales se manifiestan contra la instalación de grandes centros de datos, citando problemas de agua, energía e impacto electoral.",
-    "source": [
-      "/r/technology",
-      "fastcompany.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Amazon apuesta por su asistente de IA en Prime Day mientras los usuarios buscan ofertas en televisores y auriculares",
-    "summary": "Las promociones del Prime Day incluyen descuentos en electrodomésticos y dispositivos electrónicos, con la inteligencia artificial como protagonista.",
-    "source": [
-      "fastcompany.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El auge de la inteligencia artificial dispara el consumo energético y los costes de los centros de datos",
-    "summary": "Antiguos ejecutivos de Databricks proponen reducir la factura eléctrica de la IA en 1.000 veces, mientras el boom de centros de datos genera inflación.",
+    "title": "Estados Unidos prohíbe la venta de vehículos Polestar en el país",
+    "summary": "La administración Trump impide a la marca sueca de coches eléctricos vender sus nuevos modelos en EE. UU., mientras que Volvo se libra de la restricción.",
     "source": [
       "techcrunch.com",
       "/r/technology"
@@ -140,8 +126,26 @@
     "count": 2
   },
   {
-    "title": "Los desarrolladores pasan de los chatbots a la IA física para entrenar robots con videojuegos",
-    "summary": "Empresas como General Intuition invierten miles de millones en usar entornos virtuales para formar agentes de inteligencia artificial en el mundo real.",
+    "title": "EE. UU. refuerza la alianza con Países Bajos en la fabricación de chips e invierte en xLight",
+    "summary": "El país norteamericano integra a Países Bajos en el bloque antichino Pax Silica y destina 150 millones de dólares a la tecnología EUV.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Las exigencias de vuelta a la oficina se relacionan con el narcisismo de los directivos",
+    "summary": "Un estudio vincula el rasgo de narcisismo en líderes de Fortune 500 con las órdenes de regreso presencial, mientras Goldman Sachs y JPMorgan suavizan su postura.",
+    "source": [
+      "/r/technology",
+      "fastcompany.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los desarrolladores apuestan por métodos alternativos para entrenar IA: robots físicos y videojuegos",
+    "summary": "Empresas tecnológicas exploran el entrenamiento de inteligencias artificiales mediante entornos reales y juegos, con una inversión de 2300 millones de dólares en el sector.",
     "source": [
       "fastcompany.com",
       "techcrunch.com"
@@ -149,35 +153,39 @@
     "count": 2
   },
   {
-    "title": "OpenAI crea su primera GPU personalizada para IA llamada \"Jalapeño\" en colaboración con Broadcom",
-    "summary": "La empresa desarrolla un chip propio optimizado para cargas de trabajo de inteligencia artificial, buscando reducir su dependencia de proveedores externos.",
+    "title": "Windows 10 amplía su soporte hasta 2027 y Windows 11 estrena una restauración completa",
+    "summary": "Microsoft extiende silenciosamente el soporte de Windows 10 ante el rechazo de los usuarios a actualizar, y añade una herramienta para restaurar apps, ajustes y archivos en Windows 11.",
     "source": [
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "/r/technology"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Superhuman, asistente de escritura por IA, adquiere a GPTZero, detector de texto generado por IA",
-    "summary": "La compra combina herramientas de generación y detección de contenido artificial, ampliando el ecosistema de productividad basado en IA.",
+    "title": "Amazon apuesta por la inteligencia artificial en Prime Day e invierte 13000 millones en India",
+    "summary": "La compañía promociona su asistente de IA durante el evento de compras y anuncia una gran inversión en infraestructura de IA en la India.",
     "source": [
-      "elchapuzasinformatico.com"
+      "fastcompany.com",
+      "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Google integra control directo de pantalla en Gemini 3.5 Flash, permitiendo al modelo ver y operar el dispositivo",
-    "summary": "La nueva capacidad de Gemini permite interactuar visualmente con la interfaz del usuario, ejecutando acciones directamente en la pantalla.",
+    "title": "La industria del videojuego sufre nuevos despidos en Xbox y Bungie",
+    "summary": "Exempleados de Xbox denuncian represalias tras quejarse de sus puestos, mientras Sony confirma despidos significativos en Bungie, incluyendo a la mayor parte del equipo de Destiny.",
     "source": [
-      "the-decoder.com"
+      "elchapuzasinformatico.com",
+      "/r/technology"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Un pergamino de Herculano ha sido leído por primera vez gracias a técnicas de imagen avanzadas",
-    "summary": "Investigadores logran descifrar un rollo carbonizado por la erupción del Vesubio usando inteligencia artificial y rayos X.",
+    "title": "Filtraciones y ciberataques: datos de clientes eliminados y extensión Chrome con capacidad maliciosa",
+    "summary": "La empresa Klue sufre un hackeo y los criminales borran los datos robados, mientras un bloqueador de anuncios con millones de instalaciones esconde una vulnerabilidad de inyección de scripts.",
     "source": [
-      "news.ycombinator.com"
+      "techcrunch.com",
+      "thehackernews.com"
     ],
-    "count": 1
+    "count": 2
   }
 ]

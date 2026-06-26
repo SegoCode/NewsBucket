@@ -1,65 +1,56 @@
 [
   {
-    "title": "Valveが物議を醸す仕様でSteam Machineを発売、日本で完売",
-    "summary": "Valveのコンソールは、価格、シングルチャンネルメモリ、4Kの約束の変更に対する批判にもかかわらず、日本で販売されている。",
+    "title": "Microsoft、Xbox Series XおよびSの価格を全世界で値上げ",
+    "summary": "同社は部品不足のため最大150ドルの値上げを実施、2TBモデルを廃止。",
     "source": [
-      "videocardz.com",
-      "profesionalreview.com",
-      "tomshardware.com",
       "geeknetic.es",
-      "techpowerup.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Apple、RAMメモリ危機でMacとiPadの価格を引き上げ",
-    "summary": "値上げはNANDとDRAMのコスト上昇により、MacBook Neoを含む全ラインに影響。",
-    "source": [
+      "hardzone.es",
+      "tomshardware.com",
       "techpowerup.com",
-      "geeknetic.es",
-      "tomshardware.com",
       "videocardz.com",
       "/r/hardware"
     ],
-    "count": 5
+    "count": 6
   },
   {
-    "title": "GTA 6、ディスクなしの物理版と高価格でリリースへ",
-    "summary": "Rockstarは79.99ユーロの価格、予約販売、ディスク版、そしてPS5に関するSonyの声明を確認。",
+    "title": "Apple、RAMメモリの高騰によりデバイス価格を値上げ",
+    "summary": "NANDフラッシュとDRAMのコスト上昇により、AppleはMac、iPadなどの製品価格を最大400ドル引き上げる。",
     "source": [
-      "videocardz.com",
-      "geeknetic.es",
-      "hardzone.es",
       "techpowerup.com",
-      "tomshardware.com"
+      "geeknetic.es",
+      "tomshardware.com",
+      "hardzone.es",
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Enshrouded早期アクセス終了、GTA VI延期、その他のニュース",
+    "summary": "Enshroudedのリリース日が確定、GTA VIのパッケージ版が計画され、ValveがSteam Deck 2について言及。",
+    "source": [
+      "techpowerup.com",
+      "profesionalreview.com",
+      "videocardz.com",
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 5
   },
   {
-    "title": "フランスの小売業者が自社の「Stim Machine」でSteam Machineの価格を嘲笑",
-    "summary": "LDLCはRX 9060 XT搭載PCを999ユーロで提供し、Valveのコンソールの価値を批判。",
+    "title": "IBM、1ナノメートル未満のトランジスタを備えた初のチップ技術を発表",
+    "summary": "Nanostack設計はトランジスタを垂直に積み重ね微細化を継続、7オングストロームを達成。",
     "source": [
+      "profesionalreview.com",
       "/r/hardware",
       "techpowerup.com",
-      "profesionalreview.com",
-      "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "3DプリントでRTX 5060搭載のSteam Machineを構築可能に",
-    "summary": "コミュニティは3Dプリント筐体とAMDグラフィックス搭載のSteamOSを使用して、Valveのコンソールの代替品を作成。",
-    "source": [
-      "profesionalreview.com",
-      "geeknetic.es",
-      "hardzone.es",
-      "videocardz.com"
+      "geeknetic.es"
     ],
     "count": 4
   },
   {
     "title": "ASUS、ベータBIOSでAM5マザーボードのTSME暗号化を復元",
-    "summary": "同社は批判に応え、マザーボードのメモリ暗号化サポートを復活。",
+    "summary": "論争の後、ASUSはX870、B850、X670マザーボードでメモリ暗号化の互換性を戻すアップデートをリリース。",
     "source": [
       "geeknetic.es",
       "tomshardware.com",
@@ -69,69 +60,122 @@
     "count": 4
   },
   {
-    "title": "Microsoft、Xbox Series X/Sの価格を3度目に値上げ、2TBモデルを廃止",
-    "summary": "値上げ幅は100～150ドルで、近年の上昇傾向が続く。",
+    "title": "AMD、FSR 4.1、SDK 2.3、Adrenalin向け緊急ホットフィックスをリリース",
+    "summary": "FSRの新バージョンは改善を提供するがRDNA 3でパフォーマンスが低下、一方Windows 10のインストール問題が修正される。",
     "source": [
-      "tomshardware.com",
       "techpowerup.com",
-      "videocardz.com",
-      "/r/hardware"
+      "profesionalreview.com",
+      "geeknetic.es",
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "AppleのMacBook Neo値上げを回避するためのお得情報",
-    "summary": "販売店は値上げ前に現行モデルを最大500ドル値引き。",
+    "title": "Valve、Steam Machineの仕様を修正しRAMモジュールが1つであることを確認",
+    "summary": "コンソールは8GB×2ではなく16GB1枚で提供され、目標パフォーマンスが4K 60FPSから「最大4K」に変更。",
+    "source": [
+      "techpowerup.com",
+      "videocardz.com",
+      "tomshardware.com",
+      "geeknetic.es"
+    ],
+    "count": 4
+  },
+  {
+    "title": "小売業者LDLC、PC「Stim Machine」でSteam Machineの価格を揶揄",
+    "summary": "LDLCはRadeon RX 9060 XT搭載PCを999ユーロで提供、Valveのコンソールは1039ユーロ。",
+    "source": [
+      "/r/hardware",
+      "techpowerup.com",
+      "profesionalreview.com",
+      "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "AMDがRyzen 7 5800X3Dを再リリース、複数のプロセッサが値下げ",
+    "summary": "Intel Core Ultra 9 285KとAMD Ryzen 5 9600Xが大幅に値下がり、一方Hygonは128コアCPUを発表。",
+    "source": [
+      "videocardz.com",
+      "/r/hardware",
+      "profesionalreview.com",
+      "tomshardware.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "新周辺機器：モジュラーキーボード、ゲーミングチェア、レトロコントローラー、サブディスプレイ",
+    "summary": "Ergohaven、Razer、8BitDo、Corsairがコンピューティングとゲーム体験を向上させる最新アクセサリーを発表。",
     "source": [
       "tomshardware.com",
+      "techpowerup.com",
       "hardzone.es",
-      "profesionalreview.com"
+      "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Qualcomm、コンピュート近接メモリアーキテクチャHBCを発表",
+    "summary": "HBC Gen 1技術はLPDDRメモリを積層し、133TB/sの帯域幅とHBM比6倍の効率を実現。",
+    "source": [
+      "tomshardware.com",
+      "techpowerup.com",
+      "/r/hardware"
     ],
     "count": 3
   },
   {
-    "title": "IBM、2nm比50%高性能な0.7nmチップを発表",
-    "summary": "IBMのNanoStack技術が7オングストロームのチップでナノメートルの壁を打破。",
+    "title": "3DプリントとSteamOSによる自作Steam Machineの代替品が登場",
+    "summary": "SteamOSがAMD Radeonグラフィックスに対応したことで、3Dプリントを使用したカスタムSteam Machineの構築が可能に。",
     "source": [
+      "profesionalreview.com",
+      "geeknetic.es",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "新SSDとメモリ：セール、発売、市場見通し",
+    "summary": "SwissbitとOWCが新SSDを発売、ADATAはNFC搭載ドライブを発表、Micronは危機終結を見通せず巨額契約を締結。",
+    "source": [
+      "tomshardware.com",
       "techpowerup.com",
-      "/r/hardware",
       "geeknetic.es"
     ],
     "count": 3
   },
   {
-    "title": "Qualcomm、AI向け近接メモリアーキテクチャHBCを発表",
-    "summary": "新技術は133TB/sの帯域幅とHBM比6倍の効率を実現。",
+    "title": "MSI Claw 8、Sharkoon Fireglider One、HyperX Cloud Stinger 3のレビュー",
+    "summary": "レビューではポータブルコンソール、超軽量マウス、低価格ワイヤレスヘッドセットのパフォーマンスが強調されている。",
     "source": [
-      "tomshardware.com",
-      "techpowerup.com",
-      "/r/hardware"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Micron、1000億ドルの供給契約を確保、RAM危機は続くと警告",
-    "summary": "Micronは記録的な業績を計上し、今後5年間は高価格を設定。",
-    "source": [
-      "tomshardware.com",
       "/r/hardware",
-      "techpowerup.com"
+      "profesionalreview.com",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "AMD、FSR SDK 2.3をRay Regenerationで更新、FSR 4.1の性能を公開",
-    "summary": "AMDのスケーリングの新バージョンは画質を改善し、RDNA 3で性能向上を実現。",
+    "title": "人工知能が論争を巻き起こす：コスト、安全性、モデル盗用の告発",
+    "summary": "AIの有効性測定に関するリークから違法な蒸留の告発まで、業界は回答を模索。",
     "source": [
-      "geeknetic.es",
-      "videocardz.com",
-      "techpowerup.com"
+      "techpowerup.com",
+      "/r/hardware",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Framework、ADATAのSSDでノートPCを更新、CPU値上げを発表",
-    "summary": "同社はSSDサプライヤーを変更し、プロセッサの値上げを見込む。",
+    "title": "AceMagic、AMD Ryzen搭載Mini PCを最大20%オフで販促",
+    "summary": "プロモーションでは限定クーポンが提供され、割引価格で製品を購入可能。",
+    "source": [
+      "techpowerup.com",
+      "profesionalreview.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Framework、SSDを変更しCPU価格の上昇を発表",
+    "summary": "同社はADATA XPG MARS 970を採用し、プロセッサコストの上昇を警告、同時にLaptop 13 Proマザーボードを発売。",
     "source": [
       "techpowerup.com",
       "videocardz.com"
@@ -139,17 +183,8 @@
     "count": 2
   },
   {
-    "title": "AceMagic、AMD Ryzen搭載ミニPCを最大20%割引",
-    "summary": "プロモーションには、これらのコンパクトなデバイスを割引価格で入手できる限定クーポンが含まれる。",
-    "source": [
-      "techpowerup.com",
-      "profesionalreview.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Prime Day 2026のモニター、マザーボード、周辺機器のセール",
-    "summary": "セールにはゲーミングモニター、GIGABYTEマザーボード、Corsair Xeneon Edgeなどのアクセサリーの割引が含まれる。",
+    "title": "Prime Dayのハードウェアセール：GPU、CPU、マザーボードが大幅割引",
+    "summary": "Tom's Hardwareがイベントのベストセールをまとめる一方、GIGABYTEはマザーボードとモニターを宣伝。",
     "source": [
       "tomshardware.com",
       "techpowerup.com"
@@ -157,26 +192,8 @@
     "count": 2
   },
   {
-    "title": "QualcommとMeta、データセンターCPUに関する複数世代契約を締結",
-    "summary": "戦略的提携は、クラウドAI向けの複数世代のプロセッサを対象とする。",
-    "source": [
-      "techpowerup.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "新しいレトロデバイス登場：8BitDoがN64コレクションを発売、AyaneoがPocket Micro 2を発表",
-    "summary": "メーカーはコントローラーと携帯ゲーム機でクラシックなデザインを採用。",
-    "source": [
-      "hardzone.es",
-      "techpowerup.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tim Sweeney氏、SteamのAIタグを批判、相互接続されたゲーム経済を提唱",
-    "summary": "Epic GamesのCEOがコンテンツモデレーションとゲームの将来について意見を述べる。",
+    "title": "モニターのセールと発売：Samsung 4Kが249ドル、Gigabyte QD-OLED 4K",
+    "summary": "SamsungとB&Hが37インチ4Kモニターを249ドルで提供、Gigabyteは新型QD-OLEDゲーミングモニターを発売。",
     "source": [
       "tomshardware.com",
       "techpowerup.com"
@@ -184,19 +201,12 @@
     "count": 2
   },
   {
-    "title": "Riot Vanguard、アンチチートの常時実行要件を撤廃",
-    "summary": "新しいオンデマンドモードは、Windows 11の厳格なセキュリティスタックを必要とする。",
+    "title": "フラッシュセール：GIGABYTEとNintendo Switch 2が割引",
+    "summary": "GIGABYTEはマザーボードとモニターを値下げ、一方Switch 2がWootで割引価格で再販。",
     "source": [
+      "techpowerup.com",
       "tomshardware.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "OpenAIとBroadcom、初の言語推論チップ「Jalapeño」を発表",
-    "summary": "自社設計チップは、より効率的に言語モデルを加速する。",
-    "source": [
-      "profesionalreview.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]

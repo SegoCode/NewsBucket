@@ -1,104 +1,158 @@
 [
   {
-    "title": "大雨と台風が日本各地を襲い、最大級の警報発令",
-    "summary": "記録的な豪雨により避難、列車運休、工場閉鎖が発生。2つの台風が日本列島に接近している。",
+    "title": "二つの台風が日本に接近、豪雨と交通への影響に警報",
+    "summary": "台風7号と8号が関東地方に接近、鉄道の運休や土砂災害の危険も",
     "source": [
       "www3.nhk.or.jp",
-      "yomiuri.co.jp",
-      "/r/japan",
+      "news.yahoo.co.jp",
       "nikkei.com",
-      "mainichi.jp"
+      "asahi.com",
+      "yomiuri.co.jp",
+      "/r/japan"
+    ],
+    "count": 6
+  },
+  {
+    "title": "日本、スウェーデンと引き分けてグループF2位でW杯決勝トーナメント進出",
+    "summary": "日本代表はスウェーデンと0-0で引き分け、鈴木守護神の好守で決勝トーナメント進出を決めた。",
+    "source": [
+      "www3.nhk.or.jp",
+      "mainichi.jp",
+      "news.yahoo.co.jp",
+      "yomiuri.co.jp",
+      "nikkei.com"
     ],
     "count": 5
   },
   {
-    "title": "青森県で強い地震、少なくとも11人負傷",
-    "summary": "マグニチュード6.2の地震により住宅に被害が出て、住民は余震を懸念。",
+    "title": "日経平均株価、テクノロジー株の大量売却で3500円超下落",
+    "summary": "東京株式市場はAI関連株の急落に伴い大幅な損失を被った。",
     "source": [
+      "asahi.com",
       "nikkei.com",
-      "mainichi.jp",
-      "asahi.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 4
-  },
-  {
-    "title": "スクールバスが対向車線にはみ出し、大阪で多重衝突事故",
-    "summary": "事故には6台の車両が絡み、5～12人が負傷。運転手は危険運転の疑いで逮捕。",
-    "source": [
-      "www3.nhk.or.jp",
-      "asahi.com",
-      "news.yahoo.co.jp",
+      "yomiuri.co.jp",
       "mainichi.jp"
     ],
     "count": 4
   },
   {
-    "title": "日本政府、皇室法改正案を提出",
-    "summary": "この法案は男子の養子縁組により皇室の継続を確保することを目指しているが、議会で批判に直面している。",
+    "title": "ANA、新予約システムの不具合を謝罪、国が調査を指示",
+    "summary": "予約システム更新時の技術的問題が乗客に不便をかけ、同社は改善を予定。",
     "source": [
-      "mainichi.jp",
       "www3.nhk.or.jp",
-      "news.yahoo.co.jp",
-      "yomiuri.co.jp"
+      "mainichi.jp",
+      "asahi.com",
+      "nikkei.com"
     ],
     "count": 4
   },
   {
-    "title": "山口地検、裁判官の個人情報漏洩",
-    "summary": "山口地方検察庁は、11人の裁判官の氏名の公開が『極めて不適切』だったと認めた。",
+    "title": "日本、W杯決勝トーナメントでブラジルと対戦へ",
+    "summary": "7月30日、5度の優勝を誇るブラジルとの一戦が控え、激戦が予想される。",
     "source": [
+      "asahi.com",
       "yomiuri.co.jp",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "防衛省、陸上自衛隊でUSB経由のマルウェア感染を確認",
+    "summary": "小泉防衛相はシステムへの影響はないとし、サイバーセキュリティ対策を強化すると述べた。",
+    "source": [
+      "www3.nhk.or.jp",
+      "news.yahoo.co.jp",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ホルムズ海峡で緊張高まる、船舶攻撃や通行料争い",
+    "summary": "イランが海峡で貨物船を攻撃、米国や湾岸諸国は航行料を拒否。",
+    "source": [
       "mainichi.jp",
+      "news.yahoo.co.jp",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "俳優・村上虹郎、交際相手への暴行容疑で書類送検",
+    "summary": "交際していた女性に重傷を負わせた疑いで、事情聴取を受ける。",
+    "source": [
+      "news.yahoo.co.jp",
+      "yomiuri.co.jp",
+      "asahi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "官房長官秘書官、不適切な旅行で更迭、公費流用",
+    "summary": "公金を使って知人と旅行したことが発覚し、茂木氏は交代となった。",
+    "source": [
+      "nikkei.com",
+      "asahi.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ベテランと若手が融合した日本代表、W杯で存在感",
+    "summary": "DF長友佑都とSB菅原由勢がチームのキープレーヤーとなった。",
+    "source": [
+      "nikkei.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 2
+  },
+  {
+    "title": "日本、子供向けSNS規制進む、リスク評価義務化へ",
+    "summary": "政府はSNS運営事業者に子供を守るためのリスク評価を義務付ける方針。",
+    "source": [
+      "mainichi.jp",
+      "asahi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "日産、60万台超をリコール、問題未特定",
+    "summary": "ノート、ノートオーラ、エクストレイルが国内で点検対象に。",
+    "source": [
       "www3.nhk.or.jp",
       "asahi.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "日本代表、W杯でスウェーデンと対戦、決勝トーナメント進出の可能性",
-    "summary": "日本代表はスウェーデンに勝利し、次のラウンド進出を確実にしたい。",
+    "title": "千葉・茨城でM5.8の地震、津波警報なし",
+    "summary": "震度4の揺れを観測、大きな被害は報告されていない。",
     "source": [
-      "yomiuri.co.jp",
+      "mainichi.jp",
+      "yomiuri.co.jp"
+    ],
+    "count": 2
+  },
+  {
+    "title": "日本の最低賃金、1500円台に迫る、激しい交渉",
+    "summary": "政府と労使は目標の1500円達成に向けて大幅な引き上げを議論。",
+    "source": [
       "news.yahoo.co.jp",
-      "asahi.com",
-      "www3.nhk.or.jp"
+      "mainichi.jp"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "ベネズエラでマグニチュード7超の地震2回、160人以上死亡",
-    "summary": "老朽化したインフラを襲った地震を受け、同国は非常事態を宣言。最大1万人の犠牲者が見込まれる。",
+    "title": "ベネズエラで壊滅的な地震、235人死亡、4300人以上負傷",
+    "summary": "大地震が甚大な被害をもたらし、4万人が行方不明に。",
     "source": [
-      "nikkei.com",
-      "asahi.com",
+      "mainichi.jp",
       "yomiuri.co.jp"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "小渕優子氏、自民党税制調査会の副会長を辞任",
-    "summary": "元大臣は消費税1%への引き下げ提案に反対し、辞任に至った。",
-    "source": [
-      "nikkei.com",
-      "asahi.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 3
-  },
-  {
-    "title": "日経平均とダウ、AI主導で最高値更新",
-    "summary": "日経平均は3,000円以上上昇し、ダウ平均は700ドルを超えて最高値を更新。",
-    "source": [
-      "www3.nhk.or.jp",
-      "nikkei.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 3
-  },
-  {
-    "title": "政府、最低賃金1500円目標を延期",
-    "summary": "首相は、目標を2030年代初頭に延期すると発表。経済界からの批判を受けて。",
+    "title": "法務大臣、国会審議中に携帯使用を謝罪",
+    "summary": "平口氏は参議院本会議で携帯電話を操作したことを認め、陳謝した。",
     "source": [
       "asahi.com",
       "nikkei.com"
@@ -106,35 +160,8 @@
     "count": 2
   },
   {
-    "title": "高市政権、新たな投資枠組みを含む予算改革を提案",
-    "summary": "改革には支出制限のない『投資枠組み』の創設が含まれ、議会で論議を呼んでいる。",
-    "source": [
-      "mainichi.jp",
-      "asahi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "円相場、1ドル161.8円まで下落、数十年ぶりの安値圏",
-    "summary": "円安が続く。FRBが金融引き締め政策を維持するとの観測の中、円は161.8円まで下落。",
-    "source": [
-      "asahi.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "衆院、選挙活動中のSNS規制法案を可決",
-    "summary": "首相に対する名誉毀損動画スキャンダルを受け、オンライン上の誤情報削減を目指す。",
-    "source": [
-      "mainichi.jp",
-      "/r/japan"
-    ],
-    "count": 2
-  },
-  {
-    "title": "香港警察、政府への憎悪扇動の書店経営者を逮捕",
-    "summary": "逮捕者は中国当局への敵意を煽る出版物を販売した疑い。",
+    "title": "フジテレビとSBIホールディングス、コンテンツ制作・配信で提携検討",
+    "summary": "両社はテレビ番組やアニメの共同制作、海外展開への協力を模索。",
     "source": [
       "yomiuri.co.jp",
       "asahi.com"
@@ -142,26 +169,8 @@
     "count": 2
   },
   {
-    "title": "日本の認知症患者の行方不明、2年連続で減少",
-    "summary": "2023年には17,345件の報告があったが、GPS端末や防盗タグの活用により139人が発見された。",
-    "source": [
-      "news.yahoo.co.jp",
-      "yomiuri.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "プロ野球、中日がDeNAに勝利、前田健太がNPB復帰後初勝利、鈴木剛太がデビュー戦白星",
-    "summary": "中日ドラゴンズがDeNAに勝利。前田健太はNPB復帰後初勝利。鈴木剛太はデビュー戦で勝利。",
-    "source": [
-      "yomiuri.co.jp",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "米上院、イラン撤退法案を否決、核協議を再開",
-    "summary": "共和党議員の1人が投票を変更し、投票は予想外の展開に。30日に新たな専門家協議が予定されている。",
+    "title": "ホンダ、株主総会で役員再任を承認、EV損失受け戦略修正",
+    "summary": "同社はEV事業の損失に対する批判を受け、戦略の見直しを迫られた。",
     "source": [
       "nikkei.com",
       "asahi.com"
@@ -169,25 +178,17 @@
     "count": 2
   },
   {
-    "title": "裁判の翻訳ミスで23年の禁錮刑を受けたパキスタン人男性に無罪",
-    "summary": "控訴裁判所は、通訳が逐語訳の範囲を超えたと判断し、有罪判決を破棄。",
+    "title": "文科省、東京の学校火災受け安全対策の見直しを要請",
+    "summary": "北区の小学校で発生した火災を受け、避難手順の評価が求められる。",
     "source": [
-      "yomiuri.co.jp",
+      "nikkei.com",
       "asahi.com"
     ],
     "count": 2
   },
   {
-    "title": "天皇皇后両陛下、ベルギー公式訪問を終了",
-    "summary": "両陛下はベルギー国王夫妻に別れを告げ、公式日程を終えて東京への帰途に就かれた。",
-    "source": [
-      "yomiuri.co.jp"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Amazon、インドに2.1兆円の投資を発表",
-    "summary": "アマゾンのCEOはモディ首相と会談し、インドでの事業拡大を目指す投資計画を発表。",
+    "title": "日本、航空自衛隊を「航空宇宙自衛隊」に改称する法律を可決",
+    "summary": "新名称のもと、宇宙空間の監視を含む任務を付与。",
     "source": [
       "nikkei.com"
     ],
