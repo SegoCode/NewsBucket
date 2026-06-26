@@ -1,75 +1,145 @@
 [
   {
-    "title": "Apple sube los precios de MacBook e iPad por el encarecimiento de la RAM",
-    "summary": "La compañía incrementa el precio de sus ordenadores y tabletas en un 20% de media, mientras que el iPhone queda excluido de la subida.",
+    "title": "Microsoft sube los precios de las consolas Xbox a nivel mundial hasta 150 dólares",
+    "summary": "La compañía elimina el modelo de 2 TB y aplica incrementos significativos en todos los mercados.",
     "source": [
-      "elchapuzasinformatico.com",
+      "hardzone.es",
       "xataka.com",
+      "kite.kagi.com",
       "techcrunch.com",
-      "news.ycombinator.com",
-      "fastcompany.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com",
+      "/r/hardware"
     ],
-    "count": 5
+    "count": 8
   },
   {
-    "title": "Microsoft anuncia una subida mundial del precio de las consolas Xbox Series X|S",
-    "summary": "La compañía incrementa el precio de sus consolas hasta 150 dólares, justificando la medida por las condiciones económicas globales.",
+    "title": "Apple aumenta los precios de Mac y iPad por el encarecimiento de la RAM",
+    "summary": "El alza en los componentes obliga a la compañía a subir los precios de sus productos, mientras los usuarios buscan descuentos.",
     "source": [
+      "videocardz.com",
       "xataka.com",
-      "techcrunch.com",
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "hardzone.es",
+      "techcrunch.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Microsoft amplía las actualizaciones de seguridad gratuitas de Windows 10 hasta 2027",
+    "summary": "Los usuarios podrán seguir recibiendo parches de seguridad sin coste adicional un año más allá de lo previsto.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com",
+      "hardzone.es",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "IBM presenta una nueva tecnología de transistores Nanostack de 0,7 nanómetros",
+    "summary": "El nuevo proceso promete hasta un 50% más de rendimiento y 70% más de eficiencia energética frente a su nodo de 2 nm.",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware",
+      "kite.kagi.com",
+      "news.ycombinator.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "AMD relanza el Ryzen 7 5800X3D Edición 10º Aniversario, acaparado por revendedores",
+    "summary": "El popular procesador para AM4 vuelve al mercado en una edición limitada que se vende por más de 600 dólares en reventa.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Rockstar desvela el precio de GTA VI: versión digital desde 80 euros y edición completa por 100",
-    "summary": "El esperado juego incluirá contenido separado para el modo historia y el online, y se lanzará el 19 de noviembre exclusivamente en formato digital.",
+    "title": "Estados Unidos exige a OpenAI restringir el despliegue de GPT-5.6 por seguridad",
+    "summary": "La administración estadounidense solicita un control caso por caso antes del lanzamiento del nuevo modelo.",
     "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "EE.UU. prohíbe la venta de vehículos eléctricos Polestar en el país",
-    "summary": "La administración Trump impide a la marca sueca, participada por Volvo, comercializar sus coches en territorio estadounidense, generando críticas en el sector.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Polymarket sufre un robo millonario y anuncia reembolsos a los usuarios afectados",
-    "summary": "La plataforma de predicción descentralizada fue atacada por ciberdelincuentes que sustrajeron fondos de usuarios, y la empresa se compromete a devolver el dinero.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La Casa Blanca solicita a OpenAI retrasar el lanzamiento de GPT-5.6 por motivos de seguridad",
-    "summary": "El gobierno estadounidense pide a la empresa de inteligencia artificial que frene la publicación de su nuevo modelo mientras se evalúan los riesgos potenciales.",
-    "source": [
+      "xataka.com",
       "the-decoder.com",
       "techcrunch.com"
     ],
+    "count": 3
+  },
+  {
+    "title": "Rockstar revela el precio oficial de GTA VI y confirma su lanzamiento en noviembre",
+    "summary": "El juego tendrá una versión básica por 80 euros y una edición completa por 100 euros, con la versión en disco prevista para diciembre.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "alternativeto.net",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Valve modifica la promesa de rendimiento de la Steam Machine de “4K 60 FPS” a “hasta 4K”",
+    "summary": "Un minorista francés se burla del alto precio original con un PC similar mucho más barato.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google Finance lanza una aplicación independiente para Android con datos en tiempo real e IA",
+    "summary": "La nueva app permite monitorizar mercados financieros con herramientas de inteligencia artificial integradas.",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic acusa a Alibaba de usar Claude sin permiso y Claude gana usuarios de pago",
+    "summary": "La empresa de IA avanza frente a ChatGPT en el mercado de consumidores mientras denuncia usos no autorizados de su modelo.",
+    "source": [
+      "wired.com",
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple saltará los chips M6 Pro y M6 Max para priorizar el M7 centrado en IA en 2027",
+    "summary": "Los informes indican que la compañía podría lanzar un M6 básico este año y preparar el M7 para 2027.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Samsung presenta el Galaxy A27 5G con seis años de actualizaciones",
+    "summary": "El nuevo modelo de gama media busca convertirse en uno de los móviles más vendidos con un precio competitivo.",
+    "source": [
+      "xataka.com",
+      "kite.kagi.com"
+    ],
     "count": 2
   },
   {
-    "title": "Micron asegura precios récord para la memoria DRAM y NAND con acuerdos hasta 2030",
-    "summary": "El fabricante de chips firma contratos a largo plazo que mantendrán altos los costes de la memoria, impactando en el mercado de electrónica de consumo.",
+    "title": "YouTube actualiza Shorts con reproducción al doble de velocidad y elimina el 'No me gusta'",
+    "summary": "La plataforma introduce cambios demandados por los usuarios para mejorar la experiencia en los vídeos cortos.",
     "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com"
+      "techcrunch.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
     "title": "Notion cierra su servicio de correo Notion Mail para centrarse en agentes de IA",
-    "summary": "La plataforma de productividad decide cancelar su aplicación de email lanzada hace poco más de un año para redirigir sus esfuerzos hacia la inteligencia artificial.",
+    "summary": "El producto de correo duró apenas un año antes de que la compañía redirigiera sus esfuerzos hacia la inteligencia artificial.",
     "source": [
       "alternativeto.net",
       "techcrunch.com"
@@ -77,101 +147,52 @@
     "count": 2
   },
   {
-    "title": "Google lanza una aplicación dedicada de Google Finance para Android con datos en tiempo real e IA",
-    "summary": "La nueva app independiente ofrece información financiera actualizada y funciones impulsadas por inteligencia artificial para los inversores.",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Qualcomm entra en el mercado de centros de datos con el procesador Dragonfly C1000 de más de 250 núcleos",
-    "summary": "El chip, basado en la arquitectura Oryon, alcanza los 5 GHz y está diseñado para cargas de trabajo de inteligencia artificial, compitiendo con Intel y AMD.",
+    "title": "Half-Life 2 ya puede jugarse en el navegador web gracias a un port no oficial con WebGL 2",
+    "summary": "Un desarrollador consigue ejecutar el clásico juego de Valve directamente en el navegador sin necesidad de hardware adicional.",
     "source": [
       "elchapuzasinformatico.com",
-      "the-decoder.com"
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Steam Machine: Valve elimina la referencia a 4K/60 FPS, critica a los fabricantes de RAM y agota existencias en Japón",
-    "summary": "Novedades sobre la consola de Valve incluyen cambios en las especificaciones, quejas sobre el precio de la memoria y una alta demanda en Japón que agota las unidades.",
+    "title": "Tim Sweeney de Epic Games critica las etiquetas de IA de Steam y alerta sobre el 'AI Slop'",
+    "summary": "El CEO considera que las herramientas de IA pueden generar contenido de baja calidad y que Valve actúa irresponsablemente.",
     "source": [
       "elchapuzasinformatico.com",
-      "xataka.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "IBM presenta el primer chip de menos de 1 nanómetro del mundo",
-    "summary": "La compañía estadounidense alcanza un hito en la fabricación de semiconductores con transistores subnanométricos que prometen revolucionar el rendimiento y la eficiencia energética.",
+    "title": "Un pergamino de Herculano se descifra por completo por primera vez con IA",
+    "summary": "Investigadores logran leer un rollo carbonizado del año 79 d.C. gracias a técnicas avanzadas de inteligencia artificial.",
     "source": [
       "news.ycombinator.com"
     ],
     "count": 1
   },
   {
-    "title": "Un pergamino de Herculano es leído por primera vez en 2.000 años gracias a la IA",
-    "summary": "Un equipo de científicos utiliza inteligencia artificial y rayos X para descifrar el texto de un rollo carbonizado por la erupción del Vesubio, revelando su contenido.",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Google revela que el grupo ruso Turla utilizó el backdoor STOCKSTAY en ataques a Ucrania",
-    "summary": "La unidad de ciberseguridad de Google descubre una nueva puerta trasera empleada por el actor de amenazas ruso Turla en operaciones de espionaje contra Ucrania.",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La FCC propone cancelar un programa de 2.000 millones de dólares para conectar escuelas a Internet",
-    "summary": "El presidente de la FCC argumenta preocupaciones por el tiempo de pantalla, pero sus críticos lo acusan de excederse en su rol de control parental.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Hospitales ingleses declaran incidentes críticos por fallos informáticos durante la ola de calor",
-    "summary": "Las altas temperaturas causan apagones y fallos en equipos médicos y sistemas IT, obligando a varios hospitales a activar protocolos de emergencia.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Un estudio sobre la vacuna del COVID suprimido por los CDC finalmente ve la luz",
-    "summary": "La investigación, que fue bloqueada por la directora de los CDC, se publica y aporta nueva evidencia sobre la eficacia de la vacuna contra el coronavirus.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Las selecciones del Mundial de fútbol recurren a la inteligencia artificial para mejorar su rendimiento",
-    "summary": "Equipos de todo el mundo utilizan herramientas de IA para análisis táctico, prevención de lesiones y optimización del entrenamiento, en una competición tecnológica paralela.",
-    "source": [
-      "wired.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Libreros de libros raros temen que las empresas tecnológicas destruyan ediciones únicas para alimentar la IA",
-    "summary": "La digitalización de obras históricas por parte de compañías de inteligencia artificial está causando daños irreparables a ejemplares únicos, según denuncian los bibliófilos.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Claude de Anthropic gana cuota de mercado entre los usuarios de pago frente a ChatGPT",
-    "summary": "El asistente de IA de Anthropic está captando cada vez más suscriptores de pago, compitiendo directamente con el dominio de OpenAI en el mercado de chatbots.",
+    "title": "La administración Trump prohíbe a Polestar vender coches eléctricos en EE.UU.",
+    "summary": "La marca de vehículos eléctricos se enfrenta a un bloqueo comercial en el mercado estadounidense por decisiones políticas.",
     "source": [
       "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Polymarket sufre un robo de fondos de sus usuarios por parte de hackers",
+    "summary": "La plataforma descentralizada de apuestas reporta un ataque que comprometió las criptomonedas almacenadas en billeteras.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Riot Games elimina el requisito siempre activo de su anticheat Vanguard",
+    "summary": "El sistema ahora puede funcionar bajo demanda en lugar de estar ejecutándose todo el tiempo en el sistema.",
+    "source": [
+      "tomshardware.com"
     ],
     "count": 1
   }

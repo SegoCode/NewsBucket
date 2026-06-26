@@ -1,7 +1,7 @@
 [
   {
-    "title": "Microsoft、Xbox Series X|Sの価格を世界中で最大150ドル値上げ",
-    "summary": "部品危機により、同社はコンソールの価格を引き上げ、2TBモデルを廃止する。",
+    "title": "Microsoft、8月にXbox Series本体の価格を最大150ドル値上げ",
+    "summary": "部品不足とコスト上昇によるこの値上げは全モデルに影響し、2TBモデルは廃止となる。",
     "source": [
       "geeknetic.es",
       "hardzone.es",
@@ -13,44 +13,39 @@
     "count": 6
   },
   {
-    "title": "Apple、RAMメモリ危機によりMac、iPad、ホームデバイスの価格を値上げ",
-    "summary": "NANDフラッシュとDRAMのコスト上昇により、Appleは一部モデルで最大400ドルの値上げを余儀なくされている。",
+    "title": "Apple、RAM価格上昇によりデバイス価格を値上げ",
+    "summary": "NANDフラッシュメモリとDRAMチップの高騰により、Mac、iPad、その他製品に値上げを適用。",
     "source": [
       "techpowerup.com",
       "geeknetic.es",
       "tomshardware.com",
-      "hardzone.es",
-      "videocardz.com",
-      "/r/hardware"
-    ],
-    "count": 6
-  },
-  {
-    "title": "ValveのSteam Machine、価格、パフォーマンス、RAM構成で批判に直面",
-    "summary": "Valveは4Kでのパフォーマンス主張を調整する一方、小売業者や競合他社はコンソールの価格とメモリ構成に疑問を呈している。",
-    "source": [
-      "techpowerup.com",
-      "videocardz.com",
-      "/r/hardware",
-      "profesionalreview.com",
-      "tomshardware.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "IBM、垂直積層トランジスタを備えた1ナノメートル未満のチップ技術を初めて発表",
-    "summary": "新しいNanostackトランジスタアーキテクチャは、前例のない小型化を可能にし、将来のプロセッサへの道を開く。",
-    "source": [
-      "/r/hardware",
-      "profesionalreview.com",
-      "techpowerup.com",
-      "geeknetic.es"
+      "hardzone.es"
     ],
     "count": 4
   },
   {
-    "title": "Epic GamesのCEO、ValveがゲームにAIタグを「無責任に」付けると批判",
-    "summary": "Tim Sweeneyは、Steamがゲーム内での人工知能の使用に関するタグを追加する決定を無責任だと非難している。",
+    "title": "Steam Machineの高価格に対抗する代替品が登場",
+    "summary": "フランスの小売業者が「Stim Machine」というパロディPCを発表。3Dプリンターで製作するDIYプロジェクトも登場。",
+    "source": [
+      "/r/hardware",
+      "techpowerup.com",
+      "profesionalreview.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "IBM、将来のチップ向けにサブ1ナノメートルのトランジスタ技術を発表",
+    "summary": "垂直積層の新手法により、プロセッサの微細化がさらに進む可能性。",
+    "source": [
+      "/r/hardware",
+      "profesionalreview.com",
+      "techpowerup.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ティム・スウィーニー氏、生成AIゲームへのタグ付けでValveを批判",
+    "summary": "Epic GamesのCEOが、SteamがAI生成コンテンツに関するタグを導入する決定を「無責任」と非難。",
     "source": [
       "geeknetic.es",
       "techpowerup.com",
@@ -59,28 +54,17 @@
     "count": 3
   },
   {
-    "title": "ASUS、ユーザーとの論争の後、AM5マザーボードでTSME暗号化を復元",
-    "summary": "同社は、X870、B850、X670モデルでTSMEメモリ暗号化を復活させるベータBIOSをリリース。",
-    "source": [
-      "geeknetic.es",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD FSR 4.1、RDNA 3カードでFSR 3.1よりも低いパフォーマンスを示す",
-    "summary": "初期のテストでは最大14%のパフォーマンス低下が示されているが、SDK 2.3ではレイ再生の改善が導入されている。",
+    "title": "Valve、Steam Machineのパフォーマンス公約を下方修正",
+    "summary": "「4K/60FPS」という従来の主張を、より曖昧な「最大4K」に変更。",
     "source": [
       "techpowerup.com",
-      "geeknetic.es",
       "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "AMD、Ryzen 7 5800X3Dを10周年記念エディションとして再販、転売ヤーが価格を吊り上げ",
-    "summary": "再販されたプロセッサは在庫が不安定で、転売市場で600ドル以上で販売されている。",
+    "title": "AMD、Ryzen 7 5800X3Dを10周年記念特別版として再販",
+    "summary": "限定在庫で市場に再投入されるが、すでに転売屋による買い占めが発生。",
     "source": [
       "videocardz.com",
       "tomshardware.com"
@@ -88,26 +72,17 @@
     "count": 2
   },
   {
-    "title": "Enshrouded、アーリーアクセスを終了し、10月にPCとPS5で発売を発表",
-    "summary": "人気のサバイバル＆クラフトゲームが、2年間のアーリーアクセス開発を経てバージョン1.0を迎える。",
+    "title": "ASUS、ベータBIOSでAM5マザーボードにTSME暗号化を復活",
+    "summary": "同社は論争を受けて対応。Ryzen 9000シリーズ向けマザーボードのセキュリティ機能を復元。",
     "source": [
-      "techpowerup.com",
-      "hardzone.es"
+      "geeknetic.es",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "グランド・セフト・オートVI、検閲に直面し、12月にパッケージ版を計画",
-    "summary": "Rockstarはコンテンツ削減に対処し、今年12月のディスク版発売を準備している。",
-    "source": [
-      "profesionalreview.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AceMagic、AMD Ryzenプロセッサ搭載Mini PCを最大20%割引",
-    "summary": "同社は、さまざまなMini PCモデルを対象とした期間限定のプロモーションと限定クーポンを開始。",
+    "title": "AceMagic、ミニPCを最大20%割引するキャンペーンを開始",
+    "summary": "AMD Ryzen搭載モデルが、期間限定の専用クーポンにより特別価格で提供。",
     "source": [
       "techpowerup.com",
       "profesionalreview.com"
@@ -115,74 +90,91 @@
     "count": 2
   },
   {
-    "title": "Sony、Bungieで「大規模な」人員削減を確認",
-    "summary": "PlayStationの親会社は、Destinyを手がけるスタジオでの人員削減を発表。",
+    "title": "GTA VI：検閲の噂と12月のディスク版発売の可能性",
+    "summary": "ゲームの内容とパッケージ版の発売について、矛盾する情報が流れている。",
     "source": [
-      "techpowerup.com"
+      "profesionalreview.com",
+      "videocardz.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Micron、1000億ドルの供給契約を締結、RAM危機の終わりは見えないと警告",
-    "summary": "メモリ企業は、メモリチップ不足がいつ終わるかわからないと述べている。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Anthropic、Alibabaが25,000の偽アカウントを使用してClaudeモデルを違法に蒸留したと非難",
-    "summary": "AI企業は2026年4月から6月の間に2880万件の不正なやり取りを検出した。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Riot Vanguard、物議を醸した常時実行要件を撤廃",
-    "summary": "アンチチートプログラムはオンデマンドで動作するようになったが、Windows 11の厳格なセキュリティ設定が必要。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Qualcomm、ニアメモリアーキテクチャHBCとAIアクセラレータAI250およびAI350を発表",
-    "summary": "新技術はHBMと比較してワットあたり6倍の帯域幅、オンチップSRAMと比較して200倍の容量を実現すると謳っている。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Qualcomm、AIアクセラレータを制限した中国向けデータセンター向けプロセッサを計画",
-    "summary": "新しいDragonflyシリーズは、AI機能を削減することで輸出基準を満たす。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Windows 10、2027年まで無料サポートを延長",
-    "summary": "Microsoftは、当初の終了日を超えてオペレーティングシステムの互換性を延長。",
+    "title": "Windows 10、無料サポートを2027年まで延長",
+    "summary": "ユーザーは追加費用なしでさらに3年間、OSのアップデートを受けられる。",
     "source": [
       "hardzone.es"
     ],
     "count": 1
   },
   {
-    "title": "NVIDIA、DLSS SDKをバージョン310.7.0に更新、DLSS Swapperをサポート",
-    "summary": "新しいバージョンの開発キットでは、ゲーム間でDLSSバージョンをより簡単に交換できる。",
+    "title": "Sony、Bungieでの大規模レイオフを確認",
+    "summary": "ゲームスタジオBungieが、Sonyのリストラ計画の一環として大規模な人員削減を実施。",
     "source": [
-      "geeknetic.es"
+      "techpowerup.com"
     ],
     "count": 1
   },
   {
-    "title": "Framework、ADATA XPG MARS 970 SSDに変更、CPU価格の値上げを警告",
-    "summary": "モジュラーノートPC企業が推奨ストレージを更新し、プロセッサコストの上昇を見込む。",
+    "title": "Riot Games、アンチチート「Vanguard」の常時稼働要件を撤廃",
+    "summary": "新しいオンデマンドモードでは、Windows 11の厳格なセキュリティ設定が必要。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "AIトークンの隆盛、高コストを理由に失速",
+    "summary": "コンサルティング会社の音声流出により、AIの有効性を測定する方法を誰も知らないことが判明。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Apple、M6 Pro/MaxをスキップしM7へ直接移行か",
+    "summary": "サプライチェーンの情報筋によると、Appleの次期プロセッサは世代を飛ばす可能性がある。",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "モルガン・スタンレー、AMD EPYC Veniceの出荷量が2027年にNVIDIA Veraを超えると予測",
+    "summary": "アナリストは、NVIDIAの製品に対してEPYCプロセッサが大幅に成長すると予想。",
+    "source": [
+      "profesionalreview.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Intel Core Ultra 9 285K、Amazonで445ドルに値下げ",
+    "summary": "Intelのハイエンドプロセッサが、販売プラットフォームで大幅に価格を下げている。",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Framework、ADATA XPG MARS 970 SSDを採用。CPU価格の近々の上昇に警告",
+    "summary": "モジュラーノートPCメーカーがコンポーネントをアップデートし、今後の値上げについて警告。",
     "source": [
       "techpowerup.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Enshrouded、早期アクセスから2年を経て正式リリースとPS5版発売日を発表",
+    "summary": "サバイバルアクションゲームがアーリーアクセスを卒業し、全プラットフォームでバージョン1.0をリリース。",
+    "source": [
+      "techpowerup.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "『Half-Life 2』、非公式WebGL 2版によりブラウザでプレイ可能に",
+    "summary": "コミュニティプロジェクトにより、Valveの名作をダウンロード不要で楽しめる。",
+    "source": [
+      "videocardz.com"
     ],
     "count": 1
   }

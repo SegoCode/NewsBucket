@@ -1,75 +1,145 @@
 [
   {
-    "title": "Apple raises MacBook and iPad prices due to rising RAM costs",
-    "summary": "The company increases the price of its computers and tablets by an average of 20%, while the iPhone is excluded from the increase.",
+    "title": "Microsoft raises Xbox console prices worldwide up to $150",
+    "summary": "The company discontinues the 2 TB model and applies significant increases in all markets.",
     "source": [
-      "elchapuzasinformatico.com",
+      "hardzone.es",
       "xataka.com",
+      "kite.kagi.com",
       "techcrunch.com",
-      "news.ycombinator.com",
-      "fastcompany.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com",
+      "/r/hardware"
     ],
-    "count": 5
+    "count": 8
   },
   {
-    "title": "Microsoft announces global price increase for Xbox Series X|S consoles",
-    "summary": "The company increases the price of its consoles by up to $150, citing global economic conditions.",
+    "title": "Apple increases Mac and iPad prices due to rising RAM costs",
+    "summary": "The rise in component costs forces the company to raise prices of its products, while users look for discounts.",
     "source": [
+      "videocardz.com",
       "xataka.com",
-      "techcrunch.com",
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "hardzone.es",
+      "techcrunch.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Microsoft extends free Windows 10 security updates to 2027",
+    "summary": "Users can continue receiving free security patches for one more year than originally planned.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com",
+      "hardzone.es",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "IBM introduces new 0.7 nanometer Nanostack transistor technology",
+    "summary": "The new process promises up to 50% more performance and 70% better energy efficiency compared to its 2 nm node.",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware",
+      "kite.kagi.com",
+      "news.ycombinator.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "AMD relaunches Ryzen 7 5800X3D 10th Anniversary Edition, snapped up by scalpers",
+    "summary": "The popular AM4 processor returns as a limited edition, selling for over $600 on the resale market.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Rockstar reveals GTA VI pricing: digital version from €80 and complete edition for €100",
-    "summary": "The anticipated game will include separate content for story mode and online, and will launch on November 19 exclusively in digital format.",
+    "title": "United States requires OpenAI to restrict deployment of GPT-5.6 for security",
+    "summary": "The US administration requests case-by-case approval before the new model's launch.",
     "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "US bans sale of Polestar electric vehicles in the country",
-    "summary": "The Trump administration prevents the Swedish brand, partly owned by Volvo, from selling its cars in US territory, sparking criticism in the sector.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Polymarket suffers million-dollar theft and announces refunds to affected users",
-    "summary": "The decentralized prediction platform was attacked by cybercriminals who stole user funds, and the company commits to returning the money.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "White House asks OpenAI to delay launch of GPT-5.6 for security reasons",
-    "summary": "The US government asks the AI company to halt the release of its new model while potential risks are assessed.",
-    "source": [
+      "xataka.com",
       "the-decoder.com",
       "techcrunch.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Micron secures record prices for DRAM and NAND memory with agreements through 2030",
-    "summary": "The chip manufacturer signs long-term contracts that will keep memory costs high, impacting the consumer electronics market.",
+    "title": "Rockstar reveals official GTA VI price and confirms November release",
+    "summary": "The game will have a basic version for 80 euros and a complete edition for 100 euros, with the disc version planned for December.",
     "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "alternativeto.net",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Valve changes Steam Machine performance promise from '4K 60 FPS' to 'up to 4K'",
+    "summary": "A French retailer mocks the original high price with a similar PC at a much lower cost.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google Finance launches standalone Android app with real-time data and AI",
+    "summary": "The new app lets users monitor financial markets with integrated artificial intelligence tools.",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic accuses Alibaba of using Claude without permission as Claude gains paid users",
+    "summary": "The AI company advances against ChatGPT in the consumer market while denouncing unauthorized uses of its model.",
+    "source": [
+      "wired.com",
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple to skip M6 Pro and M6 Max chips to prioritize AI-focused M7 in 2027",
+    "summary": "Reports indicate the company may release a basic M6 this year and prepare the M7 for 2027.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Samsung introduces Galaxy A27 5G with six years of updates",
+    "summary": "The new mid-range model aims to become one of the best-selling phones with a competitive price.",
+    "source": [
+      "xataka.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Notion shuts down its Notion Mail service to focus on AI agents",
-    "summary": "The productivity platform decides to cancel its email app launched just over a year ago to redirect its efforts towards artificial intelligence.",
+    "title": "YouTube updates Shorts with double-speed playback and removes dislike button",
+    "summary": "The platform introduces user-requested changes to improve the short video experience.",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Notion shuts down its email service Notion Mail to focus on AI agents",
+    "summary": "The email product lasted only a year before the company redirected its efforts towards artificial intelligence.",
     "source": [
       "alternativeto.net",
       "techcrunch.com"
@@ -77,101 +147,52 @@
     "count": 2
   },
   {
-    "title": "Google launches dedicated Google Finance app for Android with real-time data and AI",
-    "summary": "The new standalone app offers updated financial information and AI-powered features for investors.",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Qualcomm enters the data center market with Dragonfly C1000 processor with over 250 cores",
-    "summary": "The chip, based on Oryon architecture, reaches 5 GHz and is designed for AI workloads, competing with Intel and AMD.",
+    "title": "Half-Life 2 can now be played in the web browser thanks to an unofficial WebGL 2 port",
+    "summary": "A developer manages to run the classic Valve game directly in the browser without additional hardware.",
     "source": [
       "elchapuzasinformatico.com",
-      "the-decoder.com"
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Steam Machine: Valve removes reference to 4K/60 FPS, criticizes RAM manufacturers, and sells out in Japan",
-    "summary": "News about Valve's console includes specification changes, complaints about memory prices, and high demand in Japan selling out stock.",
+    "title": "Epic Games' Tim Sweeney criticizes Steam's AI tags and warns about 'AI Slop'",
+    "summary": "The CEO believes AI tools can generate low-quality content and that Valve is acting irresponsibly.",
     "source": [
       "elchapuzasinformatico.com",
-      "xataka.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "IBM unveils the world's first sub-1 nanometer chip",
-    "summary": "The American company achieves a milestone in semiconductor manufacturing with subnanometer transistors that promise to revolutionize performance and energy efficiency.",
+    "title": "Herculaneum scroll fully deciphered for the first time using AI",
+    "summary": "Researchers manage to read a carbonized scroll from 79 AD thanks to advanced AI techniques.",
     "source": [
       "news.ycombinator.com"
     ],
     "count": 1
   },
   {
-    "title": "Herculaneum scroll read for the first time in 2,000 years thanks to AI",
-    "summary": "A team of scientists uses artificial intelligence and X-rays to decipher the text of a scroll carbonized by the eruption of Vesuvius, revealing its content.",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Google reveals Russian group Turla used STOCKSTAY backdoor in attacks on Ukraine",
-    "summary": "Google's cybersecurity unit discovers a new backdoor used by Russian threat actor Turla in espionage operations against Ukraine.",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "FCC proposes canceling $2 billion program to connect schools to the Internet",
-    "summary": "The FCC chairman argues screen time concerns, but critics accuse him of overstepping his role as a parent.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "English hospitals declare critical incidents due to computer failures during heatwave",
-    "summary": "High temperatures cause blackouts and failures in medical equipment and IT systems, forcing several hospitals to activate emergency protocols.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "COVID vaccine study suppressed by CDC finally sees the light",
-    "summary": "The research, which was blocked by the CDC director, is published and provides new evidence on the efficacy of the COVID vaccine.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "World Cup teams turn to artificial intelligence to improve performance",
-    "summary": "Teams around the world use AI tools for tactical analysis, injury prevention, and training optimization, in a parallel technological competition.",
-    "source": [
-      "wired.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Rare book dealers fear tech companies are destroying unique editions to feed AI",
-    "summary": "The digitization of historical works by AI companies is causing irreparable damage to unique copies, according to bibliophiles.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Anthropic's Claude gains market share among paying users against ChatGPT",
-    "summary": "Anthropic's AI assistant is increasingly attracting paid subscribers, directly competing with OpenAI's dominance in the chatbot market.",
+    "title": "Trump administration bans Polestar from selling electric cars in the US",
+    "summary": "The electric vehicle brand faces a commercial blockade in the US market due to political decisions.",
     "source": [
       "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Polymarket suffers theft of user funds by hackers",
+    "summary": "The decentralized betting platform reports an attack that compromised cryptocurrency stored in wallets.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Riot Games removes always-on requirement for its Vanguard anti-cheat",
+    "summary": "The system can now run on demand instead of running all the time on the system.",
+    "source": [
+      "tomshardware.com"
     ],
     "count": 1
   }

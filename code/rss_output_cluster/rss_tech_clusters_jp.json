@@ -1,75 +1,145 @@
 [
   {
-    "title": "Apple、RAMの高騰によりMacBookとiPadの価格を値上げ",
-    "summary": "同社はパソコンとタブレットの価格を平均20％引き上げ、一方iPhoneは値上げの対象外となる。",
+    "title": "Microsoft、Xboxコンソールの価格を全世界で最大150ドル値上げ",
+    "summary": "同社は2TBモデルを廃止し、全市場で大幅な値上げを適用。",
     "source": [
-      "elchapuzasinformatico.com",
+      "hardzone.es",
       "xataka.com",
+      "kite.kagi.com",
       "techcrunch.com",
-      "news.ycombinator.com",
-      "fastcompany.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com",
+      "/r/hardware"
     ],
-    "count": 5
+    "count": 8
   },
   {
-    "title": "Microsoft、Xbox Series X|Sの世界的な価格引き上げを発表",
-    "summary": "同社はコンソールの価格を最大150ドル引き上げ、その理由を世界的な経済状況に求めている。",
+    "title": "Apple、RAM価格高騰によりMacとiPadの価格を値上げ",
+    "summary": "部品価格の上昇により同社は製品価格の引き上げを余儀なくされ、ユーザーは割引を求めている。",
     "source": [
+      "videocardz.com",
       "xataka.com",
-      "techcrunch.com",
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "hardzone.es",
+      "techcrunch.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Microsoft、Windows 10の無料セキュリティ更新を2027年まで延長",
+    "summary": "ユーザーは予定より1年長く、追加費用なしでセキュリティパッチを受け取り続けられる。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com",
+      "hardzone.es",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "IBM、0.7ナノメートルのNanostackトランジスタ技術を発表",
+    "summary": "新しいプロセスは2nmノードと比較して最大50%の性能向上と70%のエネルギー効率改善を実現。",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware",
+      "kite.kagi.com",
+      "news.ycombinator.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "AMD、Ryzen 7 5800X3D 10周年記念版を再販、転売屋が買い占め",
+    "summary": "AM4向けの大人気プロセッサが限定版として市場に戻り、転売で600ドル以上で販売されている。",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Rockstar、GTA VIの価格を公開: デジタル版は80ユーロから、完全版は100ユーロ",
-    "summary": "待望のゲームはストーリーモードとオンラインモードでコンテンツが分かれ、11月19日にデジタル版のみで発売される。",
+    "title": "米国政府、セキュリティ上の理由からOpenAIにGPT-5.6の展開制限を要求",
+    "summary": "米国政府は新モデルのリリース前にケースバイケースの審査を求めている。",
     "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "米国、Polestarの電気自動車販売を禁止",
-    "summary": "トランプ政権はVolvoが出資するスウェーデンブランドの自動車の米国内での販売を阻止し、業界から批判を浴びている。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Polymarketが巨額の盗難被害、影響を受けたユーザーへの返金を発表",
-    "summary": "分散型予測プラットフォームがサイバー犯罪者に攻撃され、ユーザーの資金が盗まれた。同社は返金を約束している。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ホワイトハウス、安全保障上の理由でOpenAIにGPT-5.6のリリース延期を要請",
-    "summary": "米国政府はAI企業に対し、潜在的なリスクを評価する間、新モデルの公開を控えるよう求めている。",
-    "source": [
+      "xataka.com",
       "the-decoder.com",
       "techcrunch.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Micron、DRAMとNANDメモリの価格を2030年までの契約で最高値に固定",
-    "summary": "半導体メーカーは長期契約を結び、メモリコストを高止まりさせ、家電市場に影響を与えている。",
+    "title": "Rockstar、GTA VIの公式価格を公開、11月発売を確認",
+    "summary": "基本版80ユーロ、完全版100ユーロで、ディスク版は12月に発売予定。",
     "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "alternativeto.net",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Valve、Steam Machineのパフォーマンス目標を\"4K 60 FPS\"から\"最大4K\"に変更",
+    "summary": "フランスの小売業者が、高価格だったオリジナルに対して、はるかに安い類似PCを揶揄。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google Finance、リアルタイムデータとAIを搭載したAndroid版スタンドアロンアプリを公開",
+    "summary": "新アプリは統合されたAIツールで金融市場の監視を可能にする。",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic、Alibabaが許可なくClaudeを使用したと非難、Claudeの有料ユーザー増加",
+    "summary": "顧客市場でChatGPTに対して前進する一方、自社モデルの不正使用を告発。",
+    "source": [
+      "wired.com",
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple、M6 ProとM6 Maxをスキップし、2027年にAI重視のM7を優先か",
+    "summary": "レポートによると、同社は今年ベーシックなM6を発売し、2027年にM7を準備する可能性がある。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Samsung、6年間のアップデートを提供するGalaxy A27 5Gを発表",
+    "summary": "この新しいミッドレンジモデルは、競争力のある価格でベストセラー携帯の1つになることを目指す。",
+    "source": [
+      "xataka.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Notion、メールサービス「Notion Mail」を終了しAIエージェントに注力",
-    "summary": "生産性プラットフォームは、1年余り前にリリースしたメールアプリを廃止し、人工知能にリソースを振り向けることを決定した。",
+    "title": "YouTube、Shortsを更新：2倍速再生と「低評価」廃止",
+    "summary": "プラットフォームは短い動画のエクスペリエンス向上のため、ユーザーから要望のあった変更を導入。",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Notion、メールサービスNotion Mailを終了、AIエージェントに注力",
+    "summary": "メール製品はわずか1年で終了し、同社はAIへと方向転換。",
     "source": [
       "alternativeto.net",
       "techcrunch.com"
@@ -77,101 +147,52 @@
     "count": 2
   },
   {
-    "title": "Google、Android向けGoogle Finance専用アプリを公開、リアルタイムデータとAI機能搭載",
-    "summary": "この新しい独立したアプリは、最新の財務情報とAIによる機能を投資家に提供する。",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Qualcomm、250以上のコアを搭載したプロセッサDragonfly C1000でデータセンター市場に参入",
-    "summary": "このチップはOryonアーキテクチャに基づき、5 GHzに達し、AIワークロード向けに設計されており、IntelやAMDと競合する。",
+    "title": "Half-Life 2、WebGL 2による非公式移植でブラウザでプレイ可能に",
+    "summary": "開発者がValveのクラシックゲームを追加ハードウェアなしでブラウザ上で直接実行することに成功。",
     "source": [
       "elchapuzasinformatico.com",
-      "the-decoder.com"
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Steam Machine: Valveが4K/60FPSの言及を削除、RAMメーカーを批判、日本で在庫切れ",
-    "summary": "Valveのコンソールに関する最新情報には、仕様の変更、メモリ価格への不満、そして日本での需要が高く在庫がなくなりつつあることが含まれている。",
+    "title": "Epic GamesのTim Sweeney、SteamのAIタグを批判、「AI Slop」に警鐘",
+    "summary": "CEOはAIツールが低品質なコンテンツを生み出す可能性があり、Valveの行動は無責任だと述べている。",
     "source": [
       "elchapuzasinformatico.com",
-      "xataka.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "IBM、世界初の1ナノメートル未満のチップを発表",
-    "summary": "米国企業がサブナノメートルトランジスタで半導体製造のマイルストーンを達成し、性能とエネルギー効率に革命をもたらすと期待される。",
+    "title": "ヘルクラネウムの巻物がAIで初めて完全解読",
+    "summary": "研究者が西暦79年の炭化した巻物を高度なAI技術で読み取ることに成功。",
     "source": [
       "news.ycombinator.com"
     ],
     "count": 1
   },
   {
-    "title": "ヘルクラネウムの巻物、AIにより2000年ぶりに解読される",
-    "summary": "科学者チームが人工知能とX線を使用して、ヴェスヴィオ山の噴火で炭化した巻物のテキストを解読し、その内容を明らかにした。",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Google、ロシアのグループTurlaがウクライナ攻撃にバックドアSTOCKSTAYを使用したことを発表",
-    "summary": "Googleのサイバーセキュリティ部門は、ロシアの脅威アクターTurlaがウクライナに対するスパイ活動で使用した新たなバックドアを発見した。",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "FCC、学校のインターネット接続のための20億ドルプログラムの中止を提案",
-    "summary": "FCC委員長はスクリーンタイムへの懸念を理由に挙げるが、批判派は親による制限の役割を超えていると非難している。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "英国の病院、熱波中のコンピューター障害により重大インシデントを宣言",
-    "summary": "高温により停電や医療機器・ITシステムの障害が発生し、複数の病院が緊急プロトコルを発動せざるを得なくなった。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "CDCによって抑制されたCOVIDワクチン研究がついに日の目を見る",
-    "summary": "CDC長官によって差し止められていた研究が発表され、コロナウイルスに対するワクチンの有効性に関する新たなエビデンスを提供する。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "W杯サッカー代表チーム、パフォーマンス向上のために人工知能を活用",
-    "summary": "世界中のチームが戦術分析、負傷予防、トレーニング最適化のためにAIツールを利用しており、技術競争も並行して行われている。",
-    "source": [
-      "wired.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "希少本販売業者、テクノロジー企業がユニークな版をAI学習用に破壊することを懸念",
-    "summary": "人工知能企業による歴史的資料のデジタル化が、ユニークな現物に取り返しのつかない損害を与えていると、愛書家らは非難している。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AnthropicのClaude、有料ユーザー間でChatGPTに対し市場シェアを拡大",
-    "summary": "AnthropicのAIアシスタントは有料サブスクライバーをますます獲得しており、チャットボット市場でOpenAIの支配と直接競合している。",
+    "title": "トランプ政権、Polestarによる米国での電気自動車販売を禁止",
+    "summary": "電気自動車ブランドは政治的決定により米国市場で貿易障壁に直面。",
     "source": [
       "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Polymarket、ハッカーによるユーザー資金の盗難被害",
+    "summary": "分散型賭けプラットフォームは、ウォレットに保管されていた暗号通貨を侵害する攻撃を報告。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Riot Games、アンチチートVanguardの常時稼働要件を撤廃",
+    "summary": "システムは常時実行される代わりに、オンデマンドで動作するようになった。",
+    "source": [
+      "tomshardware.com"
     ],
     "count": 1
   }

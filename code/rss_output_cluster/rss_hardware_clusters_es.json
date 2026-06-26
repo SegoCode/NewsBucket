@@ -1,7 +1,7 @@
 [
   {
-    "title": "Microsoft incrementa los precios de Xbox Series X|S hasta 150 dólares a nivel mundial",
-    "summary": "La crisis de componentes obliga a la compañía a subir los precios de sus consolas, eliminando además el modelo de 2TB.",
+    "title": "Microsoft sube los precios de las consolas Xbox Series hasta 150 dólares en agosto",
+    "summary": "El aumento, atribuido a la crisis de componentes y al alza de costes, afecta a todos los modelos y elimina la versión de 2 TB.",
     "source": [
       "geeknetic.es",
       "hardzone.es",
@@ -13,44 +13,39 @@
     "count": 6
   },
   {
-    "title": "Apple sube los precios de Mac, iPad y dispositivos del hogar debido a la crisis de la memoria RAM",
-    "summary": "El incremento en los costes de NAND Flash y DRAM obliga a Apple a aplicar subidas de hasta 400 dólares en algunos modelos.",
+    "title": "Apple incrementa los precios de sus dispositivos por la subida de la memoria RAM",
+    "summary": "La compañía aplica aumentos en Mac, iPad y otros productos debido al encarecimiento de los chips NAND Flash y DRAM.",
     "source": [
       "techpowerup.com",
       "geeknetic.es",
       "tomshardware.com",
-      "hardzone.es",
-      "videocardz.com",
-      "/r/hardware"
-    ],
-    "count": 6
-  },
-  {
-    "title": "La Steam Machine de Valve enfrenta críticas por precio, rendimiento y configuración de RAM",
-    "summary": "Valve ajusta sus afirmaciones de rendimiento a 4K, mientras que minoristas y competidores cuestionan el precio y la configuración de memoria de la consola.",
-    "source": [
-      "techpowerup.com",
-      "videocardz.com",
-      "/r/hardware",
-      "profesionalreview.com",
-      "tomshardware.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "IBM presenta la primera tecnología de chip por debajo de 1 nanómetro con transistores apilados verticalmente",
-    "summary": "La nueva arquitectura de transistores Nanostack permite una miniaturización sin precedentes, allanando el camino para futuros procesadores.",
-    "source": [
-      "/r/hardware",
-      "profesionalreview.com",
-      "techpowerup.com",
-      "geeknetic.es"
+      "hardzone.es"
     ],
     "count": 4
   },
   {
-    "title": "El CEO de Epic Games critica a Valve por etiquetar juegos con IA de forma 'irresponsable'",
-    "summary": "Tim Sweeney califica de irresponsable la decisión de Steam de añadir etiquetas sobre el uso de inteligencia artificial en los juegos.",
+    "title": "Surgen alternativas a la Steam Machine para competir con su elevado precio",
+    "summary": "Un minorista francés presenta un PC burlón llamado 'Stim Machine' y aparecen proyectos DIY fabricados con impresora 3D.",
+    "source": [
+      "/r/hardware",
+      "techpowerup.com",
+      "profesionalreview.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "IBM revela una tecnología de transistores sub-1 nanómetro para futuros chips",
+    "summary": "El nuevo método de apilamiento vertical permite seguir avanzando en la miniaturización de los procesadores.",
+    "source": [
+      "/r/hardware",
+      "profesionalreview.com",
+      "techpowerup.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Tim Sweeney critica a Valve por etiquetar juegos con IA generativa",
+    "summary": "El CEO de Epic Games tacha de 'irresponsable' la decisión de Steam de incluir etiquetas sobre contenido generado por IA.",
     "source": [
       "geeknetic.es",
       "techpowerup.com",
@@ -59,28 +54,17 @@
     "count": 3
   },
   {
-    "title": "ASUS restaura el cifrado TSME en sus placas base AM5 tras la polémica con los usuarios",
-    "summary": "La compañía lanza una BIOS beta que recupera la encriptación de memoria TSME en los modelos X870, B850 y X670.",
-    "source": [
-      "geeknetic.es",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD FSR 4.1 muestra un rendimiento inferior al de FSR 3.1 en tarjetas RDNA 3",
-    "summary": "Las primeras pruebas indican una pérdida de hasta el 14% de rendimiento, aunque el SDK 2.3 introduce mejoras en regeneración de rayos.",
+    "title": "Valve reduce sus promesas de rendimiento para la Steam Machine",
+    "summary": "La compañía cambia la afirmación de 4K a 60 FPS por un más vago 'hasta 4K'.",
     "source": [
       "techpowerup.com",
-      "geeknetic.es",
       "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "AMD relanza el Ryzen 7 5800X3D con una edición 10º aniversario y los especuladores disparan su precio",
-    "summary": "El procesador reeditado aparece con inventario irregular y se vende por encima de los 600 dólares en el mercado de reventa.",
+    "title": "AMD relanza el Ryzen 7 5800X3D en una edición especial 10.º aniversario",
+    "summary": "El procesador vuelve al mercado con existencias limitadas que ya están siendo acaparadas por revendedores.",
     "source": [
       "videocardz.com",
       "tomshardware.com"
@@ -88,26 +72,17 @@
     "count": 2
   },
   {
-    "title": "Enshrouded abandona el acceso anticipado y anuncia su lanzamiento en PC y PS5 para octubre",
-    "summary": "El popular juego de supervivencia y construcción recibe su versión 1.0 tras dos años de desarrollo en early access.",
+    "title": "ASUS devuelve el cifrado TSME a sus placas AM5 con una BIOS beta",
+    "summary": "La compañía responde a la controversia y restaura la seguridad en sus placas base para procesadores Ryzen 9000.",
     "source": [
-      "techpowerup.com",
-      "hardzone.es"
+      "geeknetic.es",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Grand Theft Auto VI se enfrenta a la censura y planea una edición física en diciembre",
-    "summary": "Rockstar lidia con recortes de contenido y prepara el lanzamiento en disco para diciembre de este año.",
-    "source": [
-      "profesionalreview.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AceMagic ofrece hasta un 20% de descuento en sus Mini PC con procesadores AMD Ryzen",
-    "summary": "La compañía lanza una promoción temporal con cupones exclusivos para diversos modelos de Mini PC.",
+    "title": "AceMagic lanza una promoción con hasta un 20% de descuento en sus mini PC",
+    "summary": "Los equipos con AMD Ryzen están disponibles a precios reducidos mediante cupón exclusivo por tiempo limitado.",
     "source": [
       "techpowerup.com",
       "profesionalreview.com"
@@ -115,74 +90,91 @@
     "count": 2
   },
   {
-    "title": "Sony confirma despidos 'significativos' en Bungie",
-    "summary": "La empresa matriz de PlayStation anuncia una reducción de personal en el estudio responsable de Destiny.",
+    "title": "GTA VI: rumores de censura y posible lanzamiento en disco para diciembre",
+    "summary": "Circulan informaciones contradictorias sobre el contenido del juego y su formato físico.",
     "source": [
-      "techpowerup.com"
+      "profesionalreview.com",
+      "videocardz.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Micron firma acuerdos de suministro por valor de 100 000 millones de dólares y advierte de que la crisis de RAM no tiene fin a la vista",
-    "summary": "La compañía de memoria asegura que no sabe cuándo terminará la escasez de chips de memoria.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Anthropic acusa a Alibaba de utilizar 25 000 cuentas falsas para destilar ilegalmente su modelo Claude",
-    "summary": "La empresa de IA detectó 28,8 millones de intercambios fraudulentos entre abril y junio de 2026.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Riot Vanguard elimina su controvertido requisito de ejecución permanente",
-    "summary": "El programa anti-trampas ahora funciona bajo demanda, aunque requiere una estricta configuración de seguridad de Windows 11.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Qualcomm presenta su arquitectura de memoria cercana HBC y los aceleradores AI250 y AI350",
-    "summary": "La nueva tecnología promete 6 veces más ancho de banda por vatio comparado con HBM y 200 veces más capacidad que SRAM en chip.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Qualcomm planea procesadores para centros de datos específicos para China con aceleradores de IA limitados",
-    "summary": "La nueva línea Dragonfly cumplirá con los umbrales de exportación reduciendo las capacidades de IA.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Windows 10 extiende su vida útil con soporte gratuito hasta 2027",
-    "summary": "Microsoft amplía la compatibilidad del sistema operativo más allá de la fecha de finalización inicial.",
+    "title": "Windows 10 amplía su soporte gratuito hasta 2027",
+    "summary": "Los usuarios podrán seguir actualizando el sistema operativo sin coste adicional durante tres años más.",
     "source": [
       "hardzone.es"
     ],
     "count": 1
   },
   {
-    "title": "NVIDIA actualiza su SDK de DLSS a la versión 310.7.0 con soporte para DLSS Swapper",
-    "summary": "La nueva versión del kit de desarrollo permite intercambiar versiones de DLSS entre juegos de forma más sencilla.",
+    "title": "Sony confirma despidos masivos en Bungie",
+    "summary": "El estudio de videojuegos sufre un importante recorte de personal como parte de la reestructuración de Sony.",
     "source": [
-      "geeknetic.es"
+      "techpowerup.com"
     ],
     "count": 1
   },
   {
-    "title": "Framework cambia a los SSD ADATA XPG MARS 970 y alerta sobre una próxima subida de precios de CPU",
-    "summary": "La compañía de portátiles modulares actualiza su almacenamiento recomendado y anticipa incrementos en el coste de los procesadores.",
+    "title": "Riot elimina el requisito de ejecución permanente de su anticheat Vanguard",
+    "summary": "El nuevo modo bajo demanda exige una estricta configuración de seguridad en Windows 11.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El auge de los tokens de IA se desinfla por los altos costes",
+    "summary": "Una filtración de audio de una consultora revela que nadie sabe cómo medir la efectividad de la IA.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Apple saltaría los chips M6 Pro y M6 Max para pasar directamente al M7",
+    "summary": "Los próximos procesadores de Apple podrían omitir una generación según informes de la cadena de suministro.",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Morgan Stanley pronostica que AMD EPYC Venice superará en volumen a las CPU NVIDIA Vera en 2027",
+    "summary": "Los analistas auguran un crecimiento significativo de los procesadores EPYC frente a las propuestas de NVIDIA.",
+    "source": [
+      "profesionalreview.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El Intel Core Ultra 9 285K baja a 445 dólares en Amazon",
+    "summary": "El procesador tope de gama de Intel reduce su precio significativamente en la plataforma de ventas.",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Framework adopta los SSD ADATA XPG MARS 970 y advierte de próximas subidas de precio en CPU",
+    "summary": "La compañía de portátiles modulares actualiza sus componentes y alerta sobre aumentos futuros.",
     "source": [
       "techpowerup.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Enshrouded anuncia su lanzamiento completo y fecha para PS5 tras dos años en acceso anticipado",
+    "summary": "El juego de supervivencia y acción sale de Early Access con una versión 1.0 en todas las plataformas.",
+    "source": [
+      "techpowerup.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Half-Life 2 ya se puede jugar en el navegador gracias a una versión no oficial en WebGL 2",
+    "summary": "Un proyecto de la comunidad permite disfrutar del clásico de Valve sin necesidad de descargar nada.",
+    "source": [
+      "videocardz.com"
     ],
     "count": 1
   }
