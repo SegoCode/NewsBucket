@@ -1,123 +1,79 @@
 [
   {
-    "title": "米国、Mythos と GPT-5.6 の AI モデルへのアクセスを信頼できる組織に制限",
-    "summary": "米国政府はOpenAIとAnthropicに最も先進的なAIシステムの流通管理を義務付ける",
+    "title": "米国、OpenAIとAnthropicの最先端AIモデルへのアクセスを制限",
+    "summary": "米国政府はAnthropicのMythos 5の信頼できる組織への使用を認可する一方、OpenAIのGPT-5.6 Solのリリースを制限し、国家によるAI管理をめぐる激しい議論を引き起こしている。",
     "source": [
-      "xataka.com",
+      "thehackernews.com",
       "techcrunch.com",
-      "wired.com",
-      "news.ycombinator.com",
       "the-decoder.com",
-      "tomshardware.com"
+      "wired.com",
+      "kite.kagi.com",
+      "news.ycombinator.com",
+      "tomshardware.com",
+      "xataka.com"
     ],
-    "count": 6
+    "count": 8
   },
   {
-    "title": "Microsoft、Windows 10のセキュリティ更新を2027年10月まで延長",
-    "summary": "Windows 11の低い普及率を受け、同社は2年間の無償パッチ提供を実施",
+    "title": "RAMとSSDの値上がりが半導体市場を変革",
+    "summary": "チップの高騰により、メーカーはリサイクル部品の使用を余儀なくされ、CXMTなどの新規参入企業がセクターのリーダーに挑戦する一方、消費者は代替品を求めている。",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com",
       "tomshardware.com",
+      "/r/hardware",
+      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "AMD、高需要を受けRyzen 7 5800X3D 10周年記念版を再販、転売ヤーが価格を高騰",
-    "summary": "AM4ゲーミングプロセッサが一部市場で再び入手可能となったが、転売業者が元の価格の2倍で販売している",
+    "title": "Apple、M6チップのProとMaxバージョンをスキップし、AIに焦点を当てたM7を発売へ",
+    "summary": "報道によると、同社は今年はベースラインのM6チップのみを発売し、2027年に予定されている高度なAI機能を備えたM7世代に注力する。",
     "source": [
-      "hardzone.es",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ChatGPTやClaudeに対抗する欧州のAIチャットボット「Eustella」誕生",
-    "summary": "欧州連合が、米国大手テクノロジー企業への依存を減らすため、エージェント機能を備えた自律的なアシスタントを発表",
-    "source": [
+      "/r/hardware",
       "elchapuzasinformatico.com",
-      "xataka.com",
-      "wired.com"
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Steam Machine、高額転売される一方でValveがHDMI 2.1問題を修正",
-    "summary": "Valveの新コンソールが転売ヤーの投機に直面、バグ修正後に4K 240Hz対応を予告",
+    "title": "Intel Arc B770グラフィックカード、NVIDIAとAMDの代替として浮上",
+    "summary": "噂や初期分析によると、IntelのArc GPUはゲーム用グラフィックス市場で競争力のある性能を提供する可能性がある。",
+    "source": [
+      "/r/hardware",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "PS4エミュレータShadPS4、PSN不要でオンラインプレイ可能に、BloodborneをPCでエミュレート",
+    "summary": "エミュレータのアップデートにより、マルチプレイヤー機能とFromSoftwareの人気タイトルとの互換性が追加され、PCでプレイ可能なゲームのカタログが拡大した。",
     "source": [
       "videocardz.com",
-      "/r/technology"
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "イベリア航空、航空機内で最大500MbpsのStarlink無料Wi-Fiを提供",
-    "summary": "スペインの航空会社が同社機隊に高速衛星インターネットを導入、最初の1機から開始",
+    "title": "YouTube、Shortsで「低評価」ボタンを廃止、2倍速再生とクリーンモードを導入",
+    "summary": "同プラットフォームはショート動画セクションを刷新し、新しいビジュアル機能と速度機能を追加する一方、低評価ボタンを削除する。",
     "source": [
-      "elchapuzasinformatico.com",
-      "bandaancha.eu"
+      "kite.kagi.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "Apple、AI専用チップM7を加速、M6 ProとMaxはリリースせずとの報道",
-    "summary": "同社は2027年に向けてAI最適化されたプロセッサ世代を準備中、中間バージョンをスキップへ",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "IBM、世界最小かつ最高効率の0.7ナノメートルチップを開発",
-    "summary": "新ノードは従来の2nmプロセス比で50%の性能向上、70%の消費電力削減を実現",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PlayStation、ユーザーライブラリから551本の映画を削除、デジタル所有権を巡る議論が再燃",
-    "summary": "ソニーの措置は既に購入されたコンテンツに影響し、補償の欠如やデジタルサービスへの依存を批判する声が上がる",
+    "title": "Microsoft、Windows 10のセキュリティ更新を2027年10月まで延長",
+    "summary": "同社はWindows 10の無料サポート終了を延期し、ユーザーにWindows 11へのアップグレードのための時間をさらに与える。",
     "source": [
       "xataka.com",
-      "/r/technology"
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic、Alibabaが25,000の偽アカウントでClaudeをクローンしたと非難",
-    "summary": "AIセキュリティ企業はこれを記録上最大の蒸留攻撃と評価し、中国企業への制裁を要求",
-    "source": [
-      "xataka.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Framework、Appleの値上げに対抗し13 ProノートPCの価格を引き下げ",
-    "summary": "モジュラーノートPC企業が価格を見直し、コストパフォーマンスを改善",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Amazon Prime Day、ノートPC、モニター、ルーターなどテクノロジー製品を大幅割引",
-    "summary": "ゲーミングPC、ヘッドホン、ハードドライブ、アクセサリーなど様々なメディアで注目される特価品を提供",
-    "source": [
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lenovoなどメーカー、RAMとSSDの価格上昇は2030年まで続くと警告",
-    "summary": "AI需要の高まりによる部品価格の高騰がテクノロジー業界全体に影響",
+    "title": "100件以上の訴訟がAI企業を著作権で揺るがす",
+    "summary": "出版社やコンテンツ制作者が、OpenAI、Microsoftなどの企業を、AIモデルのトレーニングに自社の作品を無断使用したとして提訴している。",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com"
@@ -125,59 +81,101 @@
     "count": 2
   },
   {
-    "title": "AIに対する100件の訴訟とNYTのMicrosoft提訴が示す訴訟の増加傾向",
-    "summary": "著作権や不正競争を巡る法的紛争が急増し、人工知能の発展に脅威を与える",
+    "title": "ValveのSteam Machinesが注目を集める：数千ドルの予約と改良されたクローン",
+    "summary": "ValveのPCコンソール形式の復活によりeBayで投機が横行する一方、STIM Machineと呼ばれるクローンはより低価格で優れたハードウェアを提供している。",
     "source": [
-      "xataka.com",
-      "/r/technology"
+      "videocardz.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Oracle株、AI投資への疑問からドットコムバブル以来の最悪の週を記録",
-    "summary": "市場はAIへの高額支出とセクター企業の収益性に懐疑的",
+    "title": "AMD Ryzen 7 5800X3D、スペインで好価格で登場、海外セールで完売",
+    "summary": "3D V-Cache搭載プロセッサがスペイン市場で入手可能となる一方、米国ではより安価なDDR5 CPUを選ぶことが推奨されている。",
     "source": [
-      "/r/technology"
+      "tomshardware.com",
+      "hardzone.es"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "PlayStation販売、PS5値上げ後26年ぶりの低水準に5月に落ち込む",
-    "summary": "ソニーのゲーム機は価格上昇を背景に月間販売が歴史的な減少",
+    "title": "欧州、独自のAIチャットボットEustellaを発表、米国に対抗しデジタル主権を主張",
+    "summary": "欧州連合は独自の人工知能アシスタントを発表し、米国の大手テクノロジー企業から独立した技術を開発するための声を上げている。",
     "source": [
-      "/r/technology"
+      "elchapuzasinformatico.com",
+      "wired.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "雇用主の3人に1人がエントリーレベルのポストをAIに置き換え、Z世代に影響",
-    "summary": "テクノロジーと製造業が初級職の自動化を主導し、若者の失業を増加させている",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "TikTok、ECや金融サービスを統合したスーパーアプリ化を推進",
-    "summary": "中国のSNSが動画投稿を超えてサービスを拡大、オールインワンアプリ市場でWeChatと競合",
+    "title": "Tesla、自動運転システムFSDの事故に関する訴訟を解決",
+    "summary": "裁判外の和解により訴訟は終結したが、システムの安全性に関する連邦政府の調査は継続されている。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Wikipedia共同創設者、編集合戦によりプラットフォームから永久追放",
-    "summary": "ジミー・ウェールズ氏は自身が共同創設した百科事典を編集できなくなり、サイトのガバナンスを巡る議論が勃発",
+    "title": "FBI、ロシアのハッカーがSignalのバックアップキーを攻撃していると警告",
+    "summary": "セキュリティ機関は、暗号化メッセージアプリの復旧キーを盗むことを目的としたスパイ活動について警告している。",
     "source": [
-      "/r/technology"
+      "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "Tesla、FSDシステム関連事故の訴訟で和解、依然として連邦調査下",
-    "summary": "電気自動車メーカーは自動運転技術の安全性に関する調査を連邦当局から受け続けている",
+    "title": "ロシアのハッカー、Jaguar Land Roverへの25億ドルのサイバー攻撃の責任者",
+    "summary": "報告書は、ロシアのサイバー犯罪グループが英国の自動車メーカー史上最大のデータ盗難に関与しているとしている。",
     "source": [
       "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "IBM、1ナノメートル未満の世界最小で最強のチップを発表",
+    "summary": "新しい製造プロセスは、より高いエネルギー効率と性能で半導体業界に革命をもたらすと期待されている。",
+    "source": [
+      "elchapuzasinformatico.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Onsemi、株式交換でSynapticsを70億ドルで買収",
+    "summary": "この合併により、エッジAIとパワーチップが統合され、新たな半導体大手が誕生する。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "OpenAI、Uber Indiaのディレクターをアジア展開の責任者として起用",
+    "summary": "同AI企業は、米国国外最大の市場でのプレゼンスを強化するため、経験豊富な幹部を起用する。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "TikTok、金融サービスとコマースを備えたスーパーアプリ化へ前進",
+    "summary": "同ソーシャルプラットフォームは、ユーザーを維持し広告収入以外の収益源を多様化するため、機能を追加し続けている。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "OpenAI、SpaceXなど大手テクノロジー企業、NVIDIA依存を減らすため独自チップを開発",
+    "summary": "半導体不足と人工知能の台頭により、企業はカスタムハードウェアの設計を余儀なくされ、従来のメーカーとの競争が激化している。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "スタートアップLindy、数百万ドル節約のためAnthropicのClaudeモデルからDeepSeekに移行",
+    "summary": "AnthropicのAPIコストの高さから、同AI企業は中国のモデルに移行し、運用コストを大幅に削減している。",
+    "source": [
+      "the-decoder.com"
     ],
     "count": 1
   }
