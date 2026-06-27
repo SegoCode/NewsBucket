@@ -1,20 +1,30 @@
 [
   {
-    "title": "世界的な市場が下落、テクノロジー懸念と利上げ期待で",
-    "summary": "S&P500は10カ月で最長の下落基調となり、ナスダックは週間で5％下落、アジア・欧州株式市場を引きずり下げた。",
+    "title": "人工知能と半導体株の変動：買いのチャンス",
+    "summary": "AIセクターは大幅な下落に直面しているが、アナリストはNvidiaのようなチップメーカーに買いのチャンスを見ており、AIインフラへの需要は依然として強い。",
     "source": [
-      "nikkei.com",
+      "nasdaq.com",
+      "investing.com",
+      "/r/stocks",
       "handelsblatt.com",
-      "bolsamania.com",
-      "ft.com",
-      "expansion.com",
-      "/r/stocks"
+      "nikkei.com"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "SpaceX、ナスダック100指数入りへ前進、ロケット・通信事業を拡大",
-    "summary": "イーロン・マスク氏の企業は指数組み入れに向けて準備を進め、同時にStarlink向けの債務契約やモバイル提携を締結している。",
+    "title": "OpenAI、米政府の要請で最新AIモデルのアクセスを制限しIPOを延期",
+    "summary": "同AI企業は新規株式公開（IPO）を2027年まで延期し、米当局の要請を受けて最先端技術の提供を選ばれたパートナーに限定する。",
+    "source": [
+      "nikkei.com",
+      "bolsamania.com",
+      "/r/stocks",
+      "expansion.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "SpaceX、株価変動と上場成功の中でナスダック100に採用",
+    "summary": "同宇宙企業はナスダック100指数に採用され、多額のパッシブ投資を見込む一方、投資家は負債と成長見通しを評価している。",
     "source": [
       "investing.com",
       "nasdaq.com",
@@ -24,19 +34,8 @@
     "count": 4
   },
   {
-    "title": "専門家が長期投資・貯蓄戦略を提案",
-    "summary": "複数のメディアの記事が、分散ポートフォリオ、不労所得、休暇中に退職資金を台無しにしない方法についてアドバイスしている。",
-    "source": [
-      "nasdaq.com",
-      "/r/stocks",
-      "ft.com",
-      "handelsblatt.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "ベネズエラ地震、死者900人以上、負傷者3000人に",
-    "summary": "マグニチュード7.3の地震が甚大な被害をもたらし、救助隊ががれきの下で生存者を捜索している。",
+    "title": "ベネズエラ地震の死者数が900人以上に増加",
+    "summary": "救助隊は生存者の捜索を続けており、同国は3000人以上の負傷者と甚大な被害を伴う悲劇に直面している。",
     "source": [
       "investing.com",
       "nikkei.com",
@@ -45,104 +44,74 @@
     "count": 3
   },
   {
-    "title": "中東の緊張と供給過剰で原油下落",
-    "summary": "原油は米国とイランの対立や世界的な供給過剰への懸念から、4カ月ぶりの安値を付けた。",
+    "title": "貿易摩擦の激化：米国が関税を警告、EUが応酬",
+    "summary": "トランプ氏の発言と中国の技術製品への新たな輸入禁止措置が貿易戦争を激化させ、IMFは世界経済へのリスクを警告している。",
     "source": [
-      "nikkei.com",
-      "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "メタが予測市場を模索、CFTCはPolymarketを調査",
-    "summary": "ザッカーバーグ氏はPolymarketとKalshiの統合を目指す一方、米デリバティブ規制当局が賭けプラットフォームを精査している。",
-    "source": [
-      "investing.com",
-      "ft.com",
-      "/r/stocks"
-    ],
-    "count": 3
-  },
-  {
-    "title": "米国政府、先進AIモデルへのアクセスを制限",
-    "summary": "OpenAIは最新のChatGPTを信頼できるパートナーに限定し、Anthropicは米国企業向けに自社モデル「Mythos」の提供許可を得た。",
-    "source": [
-      "nikkei.com",
-      "bolsamania.com",
-      "/r/stocks"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ビットコイン急落、バイナンスがEUから撤退",
-    "summary": "仮想通貨は5日間で27％下落し2024年以来の安値に、取引所バイナンスはライセンス不足で欧州市場から撤退。",
-    "source": [
-      "expansion.com",
-      "handelsblatt.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "米国、中国、EUの間で関税・貿易制限が激化",
-    "summary": "トランプ氏はデジタルサービスに100％の関税を示唆、EUはアルミスクラップに課税、中国は牛肉輸入を制限。",
-    "source": [
-      "investing.com",
+      "/r/stocks",
       "ft.com",
       "bolsamania.com"
     ],
     "count": 3
   },
   {
-    "title": "欧米でのM&Aの動き",
-    "summary": "Bumbleが売却を模索、UnicreditがCommerzbank株主に接近、UnileverはサプリメントメーカーThorneの買収を協議。",
+    "title": "ウォール街、ハイテク株に牽引され下落基調を延長",
+    "summary": "S&P500とナスダックは数ヶ月で最長の下落局面を記録し、チップメーカーが下落を主導している。",
     "source": [
-      "/r/stocks",
       "handelsblatt.com",
-      "ft.com"
+      "ft.com",
+      "bolsamania.com"
     ],
     "count": 3
   },
   {
-    "title": "欧州で歴史的熱波、日本には台風の脅威",
-    "summary": "ドイツでは41.3度を記録、一方で二つの台風が日本に接近し交通機関に乱れの可能性。",
+    "title": "欧州株式市場はまちまち、Ibexは小幅高",
+    "summary": "スペインのIbex35は週間で0.4%上昇したが、ドイツのDAXは300ポイント以上下落し、ユーロストックスは横ばい。",
+    "source": [
+      "bolsamania.com",
+      "expansion.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "湾岸での攻撃を受け米国とイランの緊張が高まる",
+    "summary": "トランプ大統領はイランが停戦違反をしたと非難し、ホルムズ海峡での無人機攻撃が石油供給への懸念を高めている。",
     "source": [
       "nikkei.com",
-      "ft.com"
+      "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "カシュカリ氏、年末に利上げの可能性を示唆",
-    "summary": "ミネアポリス連銀総裁が利上げを予想し、テクノロジー市場が動揺。",
+    "title": "仮想通貨：ビットコイン下落とバイナンスのEU離脱でまちまちのシグナル",
+    "summary": "ビットコインは下落する一方、XRPとイーサリアムは矛盾した指標を示している。バイナンスは欧州市場から撤退し、ユーザー獲得競争が起きている。",
     "source": [
-      "nikkei.com",
+      "nasdaq.com",
       "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "ウェンディーズ株、投機的な急騰",
-    "summary": "ファストフードチェーンの株価が突然急上昇したが、アナリストは熱狂が根本的な問題を隠している可能性があると警告。",
+    "title": "Polymarketが規制当局の調査対象に、Metaが独自の予測市場を開発",
+    "summary": "CFTC（米商品先物取引委員会）がPolymarketを調査している一方、Metaは仮想通貨を使った予測市場アプリケーションに参入している。",
     "source": [
-      "nasdaq.com",
+      "ft.com",
       "/r/stocks"
     ],
     "count": 2
   },
   {
-    "title": "マイクロンの好決算が韓国市場でボラティリティを誘発",
-    "summary": "マイクロンの利益が韓国でサーキットブレーカーを発動させ、半導体投資家の間に楽観論が広がった。",
+    "title": "欧州が記録的な熱波に見舞われ、ドイツで観測史上最高気温",
+    "summary": "異常な暑さは経済に大きな影響を与える可能性があり、専門家は健康とインフラへのコストを警告している。",
     "source": [
-      "nasdaq.com",
-      "/r/stocks"
+      "nikkei.com",
+      "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "銀行規制当局、米英欧で規制を強化",
-    "summary": "ECBは大手銀行向け規則を簡素化、英国は投資トラスト規制を強化、批判派は規制緩和に警鐘。",
+    "title": "欧州銀行規制当局が規制・監督の変更を推進",
+    "summary": "欧州中央銀行（ECB）は大手銀行向けのルールを簡素化する一方、英国は投資ファンドの規制を強化し、ドイツの貯蓄銀行でのスキャンダルが調査されている。",
     "source": [
       "ft.com",
       "handelsblatt.com"
@@ -150,48 +119,67 @@
     "count": 2
   },
   {
-    "title": "OpenAI、新規株式公開を2027年まで延期",
-    "summary": "OpenAIのIPO延期がS&P500とナスダックの先物を下落させた。",
+    "title": "日本、サッカー、野球、ボクシング、ゴルフで成功を収める",
+    "summary": "日本代表はW杯でブラジル戦に備える一方、日本人野球選手、ゴルファー、ボクサーが国際大会で活躍している。",
     "source": [
-      "/r/stocks",
-      "expansion.com"
+      "nikkei.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Appleが製品価格を引き上げ、アジア株式市場に圧力",
-    "summary": "Appleの値上げがテクノロジー需要への懸念を引き起こし、日経平均とTOPIXに影響。",
+    "title": "日本、衛生安全から教育まで新たな対策に取り組む",
+    "summary": "政府は言語試験を拡大し、軍用USBウイルスを調査し、ダブル台風に備え、再生可能エネルギーを推進している。",
     "source": [
-      "nasdaq.com",
-      "handelsblatt.com"
+      "nikkei.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "ECBがインフレ低下見通し、ユリボー下落",
-    "summary": "ECBの調査でインフレ期待が低下、ユリボー翌日物は大幅に下落。",
+    "title": "日本のグローバル外交：台湾との会合、ブルキナファソとの断交",
+    "summary": "台湾の議長が米国の議員と会談する一方、ブルキナファソはフランスとの関係を断ち、デンマークはグリーンランドに関する合意を模索している。",
     "source": [
-      "expansion.com",
-      "handelsblatt.com"
+      "nikkei.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "ハーモニーゴールド急落、米国がルワンダの金精製所に制裁",
-    "summary": "ハーモニーゴールドの株価は12％下落、米国はルワンダの金産業に制裁を課した。",
+    "title": "ナスダック銘柄の推奨：機会と警告",
+    "summary": "アナリストはCVSとSoFiを買いの機会として推奨する一方、長期リターンを減少させる投資ミスについて警告している。",
     "source": [
-      "nasdaq.com",
+      "nasdaq.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "企業ニュース：Trustpilot-Shopify、ホンダ、中国東方航空、マイクロソフト",
+    "summary": "TrustpilotはShopifyと提携、ホンダは車両をリコール、中国東方航空はエアバス機を購入、EUはマイクロソフトの値上げを調査している。",
+    "source": [
+      "investing.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "フィナンシャル・タイムズによる経済、債務、投資戦略の分析",
+    "summary": "記事は夏季の経済不確実性、ベネズエラの債務再編、退職後の貯蓄の課題を扱っている。",
+    "source": [
       "ft.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "中国東方航空がエアバス機を購入、ラインメタルはフリゲート艦契約を失う",
-    "summary": "中国航空会社が25機のエアバスA330neoを94億ドルで購入、一方ドイツの防衛企業は軍需受注取消で下落。",
+    "title": "ハンデルスブラット、不動産市場、防衛、税務デジタル化を分析",
+    "summary": "ハンブルクの不動産スキャンダル、ラインメタルの見通し、新しい税務申告アプリに関する報道。",
     "source": [
-      "investing.com",
       "handelsblatt.com"
     ],
-    "count": 2
+    "count": 1
+  },
+  {
+    "title": "Reddit投資家、大統領の投資倫理とBumble売却について議論",
+    "summary": "フォーラムユーザーは、大統領が取引中に株を宣伝するのが正常かどうかを議論し、Bumbleの上昇を潜在的な売却前に祝っている。",
+    "source": [
+      "/r/stocks"
+    ],
+    "count": 1
   }
 ]

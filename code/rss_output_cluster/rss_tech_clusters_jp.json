@@ -1,94 +1,69 @@
 [
   {
-    "title": "米国政府、AnthropicとOpenAIの新AIモデル発表を制限",
-    "summary": "AnthropicとOpenAIは、それぞれMythosとGPT-5.6モデルをリリースするために政府の承認を得る必要がある。",
+    "title": "米国、Mythos と GPT-5.6 の AI モデルへのアクセスを信頼できる組織に制限",
+    "summary": "米国政府はOpenAIとAnthropicに最も先進的なAIシステムの流通管理を義務付ける",
     "source": [
+      "xataka.com",
       "techcrunch.com",
       "wired.com",
       "news.ycombinator.com",
       "the-decoder.com",
-      "/r/technology",
-      "tomshardware.com",
-      "xataka.com"
+      "tomshardware.com"
     ],
-    "count": 7
+    "count": 6
   },
   {
-    "title": "Microsoft、Windows 10の無料セキュリティ更新を2027年10月まで延長",
-    "summary": "同社はWindows 11の普及の遅れを受け、Windows 10のサポートを拡大し、2年間の追加セキュリティパッチを提供する。",
+    "title": "Microsoft、Windows 10のセキュリティ更新を2027年10月まで延長",
+    "summary": "Windows 11の低い普及率を受け、同社は2年間の無償パッチ提供を実施",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com",
       "tomshardware.com",
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 5
-  },
-  {
-    "title": "AMD、Ryzen 7 5800X3Dプロセッサを10周年記念エディションとして再販",
-    "summary": "AM4用の人気チップが特別エディションとして再販され、転売業者はすでに高値で販売している。",
-    "source": [
-      "hardzone.es",
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "Apple、M6 ProとM6 Maxを廃止し、AIに特化したM7に注力へ",
-    "summary": "報道によると、同社はM6のハイエンドバージョンをスキップし、2027年にAI向けに最適化されたM7を直接投入する。",
+    "title": "AMD、高需要を受けRyzen 7 5800X3D 10周年記念版を再販、転売ヤーが価格を高騰",
+    "summary": "AM4ゲーミングプロセッサが一部市場で再び入手可能となったが、転売業者が元の価格の2倍で販売している",
     "source": [
-      "elchapuzasinformatico.com",
+      "hardzone.es",
       "tomshardware.com",
-      "videocardz.com",
-      "kite.kagi.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "PlayStation、ユーザーアカウントから551本の映画を削除",
-    "summary": "ソニーがデジタル購入コンテンツを削除し、デジタルコンテンツの所有権に関する議論が再燃。",
-    "source": [
-      "xataka.com",
-      "news.ycombinator.com",
-      "/r/technology"
+      "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "欧州、ChatGPTやClaudeに対抗する独自のAIチャットボット「Eustella」を発表",
-    "summary": "欧州連合がエージェント機能を備えた自律型AIアシスタントを発表、米国のモデルと競合。",
+    "title": "ChatGPTやClaudeに対抗する欧州のAIチャットボット「Eustella」誕生",
+    "summary": "欧州連合が、米国大手テクノロジー企業への依存を減らすため、エージェント機能を備えた自律的なアシスタントを発表",
     "source": [
       "elchapuzasinformatico.com",
-      "wired.com",
-      "xataka.com"
+      "xataka.com",
+      "wired.com"
     ],
     "count": 3
   },
   {
-    "title": "AIがジュニア・エントリーレベルの仕事を置き換えている",
-    "summary": "AnthropicやSAPなどの企業は、もはやジュニアエンジニアを必要とせず、雇用主の3分の1がAIで初期の役割を置き換えていると確認。",
+    "title": "Steam Machine、高額転売される一方でValveがHDMI 2.1問題を修正",
+    "summary": "Valveの新コンソールが転売ヤーの投機に直面、バグ修正後に4K 240Hz対応を予告",
     "source": [
-      "/r/technology",
-      "xataka.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic、Alibabaが25,000の偽アカウントでClaudeモデルを複製したと非難",
-    "summary": "AI企業が既知の最大の蒸留攻撃を非難、中国企業への制裁を求める。",
-    "source": [
-      "xataka.com",
+      "videocardz.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "IBM、世界最小かつ最強の0.7ナノメートルチップを発表",
-    "summary": "新しいノードは、2nmプロセスと比較して最大50%の性能向上と70%のエネルギー効率向上を実現。",
+    "title": "イベリア航空、航空機内で最大500MbpsのStarlink無料Wi-Fiを提供",
+    "summary": "スペインの航空会社が同社機隊に高速衛星インターネットを導入、最初の1機から開始",
+    "source": [
+      "elchapuzasinformatico.com",
+      "bandaancha.eu"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple、AI専用チップM7を加速、M6 ProとMaxはリリースせずとの報道",
+    "summary": "同社は2027年に向けてAI最適化されたプロセッサ世代を準備中、中間バージョンをスキップへ",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com"
@@ -96,8 +71,35 @@
     "count": 2
   },
   {
-    "title": "Framework、Appleの値上げに対抗しLaptop 13 Proの価格を値下げ",
-    "summary": "モジュラーノートPC企業がMacに対抗するため価格を引き下げる一方、プロセッサの値上げの可能性を警告。",
+    "title": "IBM、世界最小かつ最高効率の0.7ナノメートルチップを開発",
+    "summary": "新ノードは従来の2nmプロセス比で50%の性能向上、70%の消費電力削減を実現",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "PlayStation、ユーザーライブラリから551本の映画を削除、デジタル所有権を巡る議論が再燃",
+    "summary": "ソニーの措置は既に購入されたコンテンツに影響し、補償の欠如やデジタルサービスへの依存を批判する声が上がる",
+    "source": [
+      "xataka.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、Alibabaが25,000の偽アカウントでClaudeをクローンしたと非難",
+    "summary": "AIセキュリティ企業はこれを記録上最大の蒸留攻撃と評価し、中国企業への制裁を要求",
+    "source": [
+      "xataka.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Framework、Appleの値上げに対抗し13 ProノートPCの価格を引き下げ",
+    "summary": "モジュラーノートPC企業が価格を見直し、コストパフォーマンスを改善",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -105,27 +107,8 @@
     "count": 2
   },
   {
-    "title": "Rockstar、GTA VIの価格と11月の発売日を発表",
-    "summary": "GTA VIは11月19日に発売され、国ごとに価格が設定され、AIとソーシャルメディアの統合で業界に革命を起こすと約束。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "コンソール業界、PS5の販売低迷、Xboxの解雇と値上げに直面",
-    "summary": "PlayStationの売上は26年ぶりの低水準に落ち込む一方、Xboxは価格を引き上げ、報復を告発した元従業員を解雇。",
-    "source": [
-      "/r/technology",
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Amazon Prime Dayの注目テクノロジーセール",
-    "summary": "各メディアが、ショッピングイベント期間中のハードウェア、ヘッドホン、デバイスのベストディスカウントをまとめている。",
+    "title": "Amazon Prime Day、ノートPC、モニター、ルーターなどテクノロジー製品を大幅割引",
+    "summary": "ゲーミングPC、ヘッドホン、ハードドライブ、アクセサリーなど様々なメディアで注目される特価品を提供",
     "source": [
       "tomshardware.com",
       "xataka.com"
@@ -133,68 +116,69 @@
     "count": 2
   },
   {
-    "title": "Anthropic、絶滅リスクを受け入れる経済学者を雇用、その他のニュース",
-    "summary": "AIスタートアップはChad Jonesを採用。一方、AmazonはAWSでMythosをテスト、Lindyは数百万ドル節約のためClaudeをDeepseekに置き換え。",
+    "title": "Lenovoなどメーカー、RAMとSSDの価格上昇は2030年まで続くと警告",
+    "summary": "AI需要の高まりによる部品価格の高騰がテクノロジー業界全体に影響",
     "source": [
-      "the-decoder.com",
       "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AIに対する100件の訴訟とNYTのMicrosoft提訴が示す訴訟の増加傾向",
+    "summary": "著作権や不正競争を巡る法的紛争が急増し、人工知能の発展に脅威を与える",
+    "source": [
+      "xataka.com",
       "/r/technology"
     ],
-    "count": 3
-  },
-  {
-    "title": "イーロン・マスク、Meshスタートアップ買収承認、FSD訴訟解決、Xで映画公開",
-    "summary": "FTCがマスクによるMesh買収を承認、テスラがFSD訴訟を解決、大富豪がUwe Bollの映画を自社ネットワークで公開。",
-    "source": [
-      "techcrunch.com",
-      "xataka.com"
-    ],
     "count": 2
   },
   {
-    "title": "ゲームニュース：鬼武者、Bloodborne PC版、ブラウザでHalf-Life 2など",
-    "summary": "カプコンが『Onimusha: Way of the Sword』の発売日を発表、ShadPS4がBloodborneのオンラインエミュレーションを可能に、Half-Life 2がブラウザでプレイ可能に。",
+    "title": "Oracle株、AI投資への疑問からドットコムバブル以来の最悪の週を記録",
+    "summary": "市場はAIへの高額支出とセクター企業の収益性に懐疑的",
     "source": [
-      "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "/r/technology"
     ],
-    "count": 3
+    "count": 1
   },
   {
-    "title": "複数のサイバー攻撃とセキュリティ脆弱性が報告される",
-    "summary": "ロシアのマルウェアからLinuxのエクスプロイト、Amazon Q Developerの欠陥まで、専門家は脅威の波を警告。",
+    "title": "PlayStation販売、PS5値上げ後26年ぶりの低水準に5月に落ち込む",
+    "summary": "ソニーのゲーム機は価格上昇を背景に月間販売が歴史的な減少",
     "source": [
-      "techcrunch.com",
-      "thehackernews.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "新ハードウェア発表：ウルトラワイドモニター、DDR4メモリ、ドライバ、プロセッサ",
-    "summary": "INNOCNが49インチモニターを発表、GOODRAMがDDR4を発売、NVIDIAがGTX向けドライバを更新、IntelがNova Lakeの詳細を公開。",
+    "title": "雇用主の3人に1人がエントリーレベルのポストをAIに置き換え、Z世代に影響",
+    "summary": "テクノロジーと製造業が初級職の自動化を主導し、若者の失業を増加させている",
     "source": [
-      "videocardz.com",
-      "tomshardware.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Samsung、Galaxy S27を準備し、スペインでGalaxy A27を発売",
-    "summary": "GSMAデータベースにS27シリーズの4モデルが掲載される一方、A27は6年間のアップデート付きで入手可能。",
+    "title": "TikTok、ECや金融サービスを統合したスーパーアプリ化を推進",
+    "summary": "中国のSNSが動画投稿を超えてサービスを拡大、オールインワンアプリ市場でWeChatと競合",
     "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Lenovo、RAMとSSDの価格上昇は2030年まで続くと警告",
-    "summary": "中国メーカーが部品の持続的な値上げを警告する一方、他のアナリストは氷山の一角にすぎないと指摘。",
+    "title": "Wikipedia共同創設者、編集合戦によりプラットフォームから永久追放",
+    "summary": "ジミー・ウェールズ氏は自身が共同創設した百科事典を編集できなくなり、サイトのガバナンスを巡る議論が勃発",
     "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
+  },
+  {
+    "title": "Tesla、FSDシステム関連事故の訴訟で和解、依然として連邦調査下",
+    "summary": "電気自動車メーカーは自動運転技術の安全性に関する調査を連邦当局から受け続けている",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
   }
 ]

@@ -1,23 +1,10 @@
 [
   {
-    "title": "Earthquake in Venezuela leaves more than 900 dead and 3,300 injured",
-    "summary": "The large-magnitude earthquake collapses the health system and triggers a humanitarian crisis; rescue teams work against the clock.",
+    "title": "Double typhoon approaches Japan bringing torrential rains",
+    "summary": "Typhoon No. 7 approaches the Tokai and Kanto regions, while the alert remains for the risk of landslides and floods.",
     "source": [
-      "yomiuri.co.jp",
-      "www3.nhk.or.jp",
       "mainichi.jp",
       "news.yahoo.co.jp",
-      "asahi.com",
-      "nikkei.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "Two typhoons hit Japan with torrential rain and landslides",
-    "summary": "Typhoon 7 approaches the Pacific coast while Typhoon 8 weakens; at least one person reported missing due to a landslide in Yamaguchi.",
-    "source": [
-      "news.yahoo.co.jp",
-      "mainichi.jp",
       "www3.nhk.or.jp",
       "yomiuri.co.jp",
       "nikkei.com",
@@ -26,11 +13,11 @@
     "count": 6
   },
   {
-    "title": "Strong magnitude 5.6 earthquake in Yamanashi causes 17 injuries and damage to homes",
-    "summary": "The tremor, intensity 6- on the Japanese scale, is not related to Mount Fuji's activity, according to experts.",
+    "title": "Strong earthquake shakes the Fuji Five Lakes region in Yamanashi",
+    "summary": "A magnitude 5.6 earthquake shakes central Japan, unrelated to Mount Fuji, but increasing the risk of landslides ahead of the typhoon.",
     "source": [
-      "mainichi.jp",
       "yomiuri.co.jp",
+      "mainichi.jp",
       "www3.nhk.or.jp",
       "asahi.com",
       "/r/japan"
@@ -38,121 +25,162 @@
     "count": 5
   },
   {
-    "title": "US attacks Iranian military installations in retaliation for attacks on cargo ships",
-    "summary": "The Trump administration ordered bombings against Iran's missile and drone warehouses, accusing Tehran of violating the ceasefire.",
+    "title": "Japan prepares for crucial match against Brazil in the World Cup",
+    "summary": "The Japanese national team fine-tunes details for the decisive match against the five-time world champions, with Tomiyasu, Maeda, and Nagatomo as key figures.",
     "source": [
-      "www3.nhk.or.jp",
+      "nikkei.com",
       "yomiuri.co.jp",
       "asahi.com",
-      "nikkei.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Japan prepares to face Brazil in World Cup round of 16",
-    "summary": "The Japanese team finished second in the group after drawing with Sweden and now prepares for the match against Brazil without Kubo.",
-    "source": [
-      "yomiuri.co.jp",
-      "asahi.com",
-      "news.yahoo.co.jp",
       "www3.nhk.or.jp"
     ],
     "count": 4
   },
   {
-    "title": "US government authorizes distribution of Anthropic's AI model 'Mythos'",
-    "summary": "The Trump administration allows 100 US companies to access the artificial intelligence system, while the restriction imposed on OpenAI is debated.",
+    "title": "U-20 World Cup: France and Spain advance, Cape Verde makes history",
+    "summary": "The group stage concludes with France and Spain advancing, while debutant Cape Verde achieves an unprecedented qualification to the round of 16.",
     "source": [
+      "mainichi.jp",
+      "nikkei.com",
+      "asahi.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Japanese political agenda debates defense, constitution, and imperial succession",
+    "summary": "The Japanese government faces debates on the revision of non-nuclear principles and the national flag law, as well as imperial succession and police reorganization.",
+    "source": [
+      "mainichi.jp",
+      "nikkei.com",
+      "yomiuri.co.jp",
+      "asahi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Japan's cultural and social life shows its diversity",
+    "summary": "From theater and music to vinyl collecting and the growing popularity of onigiri in France, Japanese culture is constantly renewing itself.",
+    "source": [
+      "mainichi.jp",
       "news.yahoo.co.jp",
       "asahi.com",
+      "/r/japan"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Movements in the Japanese economy and corporate infrastructure",
+    "summary": "The Japanese business landscape is being reconfigured with changes at the top of Takeda, NTT's expansion into solar energy, and KDDI's restructuring.",
+    "source": [
+      "mainichi.jp",
+      "asahi.com",
+      "nikkei.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Japanese multi-sport: rugby, boxing, shogi, and school athletics",
+    "summary": "Sports shine on multiple fronts, from Fujii's shogi promise to Usyk's boxing, rugby clinics, and summer baseball in schools.",
+    "source": [
+      "mainichi.jp",
+      "nikkei.com",
+      "yomiuri.co.jp",
+      "asahi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "US-Iran conflict intensifies with mutual bombings",
+    "summary": "The US bombs Iranian missile installations in response to attacks on ships, while Trump denounces a violation of the ceasefire agreement.",
+    "source": [
+      "asahi.com",
+      "nikkei.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Trump threatens 100% tariffs on countries that tax tech companies",
+    "summary": "The former US president promises trade retaliation against France and other nations for the tax on digital services of big tech companies.",
+    "source": [
+      "mainichi.jp",
+      "yomiuri.co.jp",
+      "asahi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "US government authorizes resumption of access to AI model 'Mythos'",
+    "summary": "The administration allows Anthropic and OpenAI to offer their most powerful artificial intelligence systems to a select group of companies, reigniting the debate on government control.",
+    "source": [
+      "asahi.com",
+      "yomiuri.co.jp",
       "nikkei.com"
     ],
     "count": 3
   },
   {
-    "title": "Bill restricts imperial succession to males from historical collateral branches",
-    "summary": "The reform of the Imperial Household Code would allow adopted children from former imperial families to accede to the throne, excluding descendants of imperial women.",
+    "title": "Landslides and floods hit western Japan due to typhoon rains",
+    "summary": "Heavy rains wreak havoc in Yamaguchi, Hiroshima, and Fukuoka, with a deadly landslide, flooded homes, and a large sinkhole on a public road.",
     "source": [
-      "yomiuri.co.jp",
-      "asahi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hakone to implement lodging tax of 350 yen per night starting in 2028",
-    "summary": "The tourist city, which receives 20 million visitors annually, will be the first in Japan to establish a local tax of this kind.",
-    "source": [
-      "yomiuri.co.jp",
-      "asahi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Four teenagers in a vehicle crash in Chiba causing two deaths",
-    "summary": "A traffic accident on a national highway in Chiba Prefecture left two dead and two injured.",
-    "source": [
-      "news.yahoo.co.jp",
-      "yomiuri.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NY crude oil falls below $70 for first time in four months",
-    "summary": "Oversupply and the expectation of easing transportation restrictions put downward pressure on crude prices.",
-    "source": [
-      "yomiuri.co.jp",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Japan provides financial aid to Iran for the first time after US attacks",
-    "summary": "Foreign Minister Motegi announced 2.4 billion yen for Middle Eastern countries, with no link to the peace fund.",
-    "source": [
+      "www3.nhk.or.jp",
       "mainichi.jp",
       "yomiuri.co.jp"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Japan proposes using My Number card to verify age on social media",
-    "summary": "An expert committee seeks to strengthen online protection for minors, as the first country to ban social media for children evaluates its effectiveness.",
-    "source": [
-      "mainichi.jp",
-      "yomiuri.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "France thrashes Norway with a Dembélé hat trick and secures first place in the group",
-    "summary": "The French team beat Norway 3-0 in the World Cup and advances to the round of 16 as leader of group I.",
-    "source": [
-      "yomiuri.co.jp",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Uruguay eliminated in World Cup group stage after loss to Spain",
-    "summary": "The Uruguayan team failed to advance to the round of 16 after its defeat in group G, in a surprising early elimination.",
+    "title": "Multiple traffic accidents and tragic incidents in Japan",
+    "summary": "Serious accidents are recorded in various parts of the country, including vehicles falling into the sea and into voids, leaving fatalities and injured.",
     "source": [
       "news.yahoo.co.jp",
-      "yomiuri.co.jp"
+      "yomiuri.co.jp",
+      "nikkei.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Cape Verde qualifies for round of 16 in its first World Cup participation",
-    "summary": "The African team achieved three draws that were enough to advance as second in group G, making history.",
+    "title": "Tensions and alliances on the international stage",
+    "summary": "From peace agreements between Israel and Lebanon to Burkina Faso's break with France and the Ebola alert, global diplomacy faces multiple crises.",
     "source": [
-      "asahi.com",
+      "yomiuri.co.jp",
+      "nikkei.com",
+      "asahi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Health and welfare: Japan faces heat, rare diseases, and disability",
+    "summary": "Authorities seek to reduce heatstroke deaths, while rare diseases like Cockayne syndrome are made visible and care for the disabled is debated.",
+    "source": [
+      "news.yahoo.co.jp",
+      "yomiuri.co.jp",
+      "asahi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Day of ups and downs for Japanese players in MLB and NPB",
+    "summary": "Ohtani gets a hit, Sasaki suffers his fifth loss, Okamoto hits his 19th home run, and the Angels fire their general manager due to the team's poor results.",
+    "source": [
+      "nikkei.com",
       "yomiuri.co.jp"
     ],
     "count": 2
   },
   {
-    "title": "New DBJ president advocates cooperating with megabanks rather than competing",
-    "summary": "Makoto Hiranuma assumes leadership of the Development Bank of Japan and proposes joint financing with the three major banks.",
+    "title": "Earthquake devastation in Venezuela leaves more than 900 dead",
+    "summary": "The death toll rises to 920 dead and more than 3,300 injured, while rescue teams struggle against time and resource shortages.",
+    "source": [
+      "nikkei.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Hakone plans to implement a 350 yen accommodation tax",
+    "summary": "The tourist city, which receives 20 million visitors a year, aims to introduce the first ordinary accommodation tax in Japan by 2028.",
     "source": [
       "yomiuri.co.jp",
       "asahi.com"
@@ -160,36 +188,21 @@
     "count": 2
   },
   {
-    "title": "Prime Minister Takaichi criticized for lack of participation in debates",
-    "summary": "The leader faces questions over his secrecy and for not attending key discussions with opposition leaders.",
+    "title": "Japan expands language test dates for foreign workers",
+    "summary": "Faced with the increase in demand for foreign labor, the JLPT offering will be expanded, while the challenges of social integration of immigrants persist.",
     "source": [
-      "asahi.com",
-      "yomiuri.co.jp"
+      "nikkei.com",
+      "/r/japan"
     ],
     "count": 2
   },
   {
-    "title": "Israel and Lebanon sign framework peace deal with US mediation",
-    "summary": "The parties reached an understanding that could end decades of bilateral conflict.",
+    "title": "Science and environment: progress against CO2 and climate alarm",
+    "summary": "Tokyo researchers develop a technique to convert CO2 into fuel, while Europe suffers a historic heatwave and the albatross recovers in Japan.",
     "source": [
+      "asahi.com",
       "nikkei.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "Germany records record temperature of 41.3 degrees during heat wave",
-    "summary": "The country reached its historical heat maximum, leading authorities to issue health alerts.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "School shooting in the Philippines leaves 23 victims and a student arrested",
-    "summary": "The armed attack at an educational center reignites the debate on gun regulation and the influence of video games on youth violence.",
-    "source": [
-      "asahi.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]
