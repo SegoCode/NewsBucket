@@ -1,79 +1,74 @@
 [
   {
-    "title": "米国、OpenAIとAnthropicの最先端AIモデルへのアクセスを制限",
-    "summary": "米国政府はAnthropicのMythos 5の信頼できる組織への使用を認可する一方、OpenAIのGPT-5.6 Solのリリースを制限し、国家によるAI管理をめぐる激しい議論を引き起こしている。",
+    "title": "米国、100以上の組織向けにAnthropicのMythos 5の公開を承認",
+    "summary": "以前は制限されていたAnthropicの人工知能モデルが、選択された米国組織への限定的アクセスで復帰。",
     "source": [
-      "thehackernews.com",
-      "techcrunch.com",
       "the-decoder.com",
+      "techcrunch.com",
+      "xataka.com",
       "wired.com",
-      "kite.kagi.com",
-      "news.ycombinator.com",
-      "tomshardware.com",
-      "xataka.com"
+      "kite.kagi.com"
     ],
-    "count": 8
+    "count": 5
   },
   {
-    "title": "RAMとSSDの値上がりが半導体市場を変革",
-    "summary": "チップの高騰により、メーカーはリサイクル部品の使用を余儀なくされ、CXMTなどの新規参入企業がセクターのリーダーに挑戦する一方、消費者は代替品を求めている。",
+    "title": "Steam Machineの予約がeBayで最大3,000ドルで転売",
+    "summary": "Valveのコンソール発売で転売とスカルピングが発生、公式発売前に価格が倍増。",
     "source": [
-      "tomshardware.com",
-      "/r/hardware",
       "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Apple、M6チップのProとMaxバージョンをスキップし、AIに焦点を当てたM7を発売へ",
-    "summary": "報道によると、同社は今年はベースラインのM6チップのみを発売し、2027年に予定されている高度なAI機能を備えたM7世代に注力する。",
-    "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Intel Arc B770グラフィックカード、NVIDIAとAMDの代替として浮上",
-    "summary": "噂や初期分析によると、IntelのArc GPUはゲーム用グラフィックス市場で競争力のある性能を提供する可能性がある。",
+    "title": "PlayStationとXboxの5月販売が過去最低に",
+    "summary": "高価格と需要減により、両コンソールは米国で5月として最悪の記録。",
     "source": [
-      "/r/hardware",
-      "hardzone.es"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "PS4エミュレータShadPS4、PSN不要でオンラインプレイ可能に、BloodborneをPCでエミュレート",
-    "summary": "エミュレータのアップデートにより、マルチプレイヤー機能とFromSoftwareの人気タイトルとの互換性が追加され、PCでプレイ可能なゲームのカタログが拡大した。",
+    "title": "OpenAI、制限付きでGPT-5.6 Solを発表、テストでの不正疑惑も",
+    "summary": "OpenAIの新モデルはソフトウェア評価で疑問視されるパフォーマンスを示し、物議を醸す。",
     "source": [
-      "videocardz.com",
-      "hardzone.es"
+      "thehackernews.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "YouTube、Shortsで「低評価」ボタンを廃止、2倍速再生とクリーンモードを導入",
-    "summary": "同プラットフォームはショート動画セクションを刷新し、新しいビジュアル機能と速度機能を追加する一方、低評価ボタンを削除する。",
+    "title": "Intel Nova Lake、最大474W消費、Z990マザーボードで8ピンコネクタ3つ必要に",
+    "summary": "Intelの次期高性能プロセッサは極端な電力を必要とし、より強力な電源ユニットが必須に。",
     "source": [
-      "kite.kagi.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、Windows 10のセキュリティ更新を2027年10月まで延長",
-    "summary": "同社はWindows 10の無料サポート終了を延期し、ユーザーにWindows 11へのアップグレードのための時間をさらに与える。",
-    "source": [
-      "xataka.com",
+      "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "100件以上の訴訟がAI企業を著作権で揺るがす",
-    "summary": "出版社やコンテンツ制作者が、OpenAI、Microsoftなどの企業を、AIモデルのトレーニングに自社の作品を無断使用したとして提訴している。",
+    "title": "Apple、中国CXMTのメモリチップ購入許可を米政府に働きかけ",
+    "summary": "同社は制裁対象の中国企業CXMTからチップを調達するため、規制回避を目指す。",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "新ノートPCとRTX 5060グラフィックカードでNVIDIAの製品群が拡大",
+    "summary": "ASUSがRTX 5060の新バリエーションを発表、ゲーミングノートPCの価格は最大300ドル値下げ。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "出版社、AIトレーニングのためのコンテンツ不正使用でMicrosoftとOpenAIを提訴",
+    "summary": "AIに対する訴訟の構図が広がる中、著作権侵害の訴えが増加。",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com"
@@ -81,101 +76,100 @@
     "count": 2
   },
   {
-    "title": "ValveのSteam Machinesが注目を集める：数千ドルの予約と改良されたクローン",
-    "summary": "ValveのPCコンソール形式の復活によりeBayで投機が横行する一方、STIM Machineと呼ばれるクローンはより低価格で優れたハードウェアを提供している。",
+    "title": "Apple、タッチ対応MacBookと将来のAI搭載モデル向けにM5・M7チップを準備",
+    "summary": "Appleの計画にはハイエンドM6を飛ばし、AIに最適化されたM7に集中することが含まれる。",
     "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "/r/hardware",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD Ryzen 7 5800X3D、スペインで好価格で登場、海外セールで完売",
-    "summary": "3D V-Cache搭載プロセッサがスペイン市場で入手可能となる一方、米国ではより安価なDDR5 CPUを選ぶことが推奨されている。",
+    "title": "Intel Arc B770 GPU、NVIDIAやAMDへの真の代替となる可能性",
+    "summary": "Intelは新しいグラフィックカードArc B770を発表する見込みで、ミドルハイエンド市場で競合する可能性。",
     "source": [
-      "tomshardware.com",
+      "/r/hardware",
       "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "欧州、独自のAIチャットボットEustellaを発表、米国に対抗しデジタル主権を主張",
-    "summary": "欧州連合は独自の人工知能アシスタントを発表し、米国の大手テクノロジー企業から独立した技術を開発するための声を上げている。",
+    "title": "噂によるとGTA 6にパッケージ版はなし",
+    "summary": "Rockstarの待望のゲームはデジタル形式のみで提供される見込み。",
     "source": [
-      "elchapuzasinformatico.com",
-      "wired.com"
+      "videocardz.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Tesla、自動運転システムFSDの事故に関する訴訟を解決",
-    "summary": "裁判外の和解により訴訟は終結したが、システムの安全性に関する連邦政府の調査は継続されている。",
+    "title": "Apple Vision Proの重要幹部が同社を去りOpenAIに参加",
+    "summary": "複合現実グラスの開発責任者が人工知能企業に移籍。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "FBI、ロシアのハッカーがSignalのバックアップキーを攻撃していると警告",
-    "summary": "セキュリティ機関は、暗号化メッセージアプリの復旧キーを盗むことを目的としたスパイ活動について警告している。",
+    "title": "J.P.モルガン、AI市場に複数の警告サインを指摘",
+    "summary": "投資銀行は人工知能セクターにおける過大評価とバブルのリスクを特定。",
     "source": [
-      "thehackernews.com"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "ロシアのハッカー、Jaguar Land Roverへの25億ドルのサイバー攻撃の責任者",
-    "summary": "報告書は、ロシアのサイバー犯罪グループが英国の自動車メーカー史上最大のデータ盗難に関与しているとしている。",
+    "title": "Samsung、AIに6480億ドルの投資を準備",
+    "summary": "韓国企業はAIブームを活用するため、過去最大の企業賭けを計画。",
     "source": [
-      "techcrunch.com"
+      "/r/hardware"
     ],
     "count": 1
   },
   {
-    "title": "IBM、1ナノメートル未満の世界最小で最強のチップを発表",
-    "summary": "新しい製造プロセスは、より高いエネルギー効率と性能で半導体業界に革命をもたらすと期待されている。",
+    "title": "Qualcomm、スマートフォン向け新チップアーキテクチャを開発",
+    "summary": "同社は性能と効率を向上させるため、モバイルプロセッサ設計の革新を計画。",
+    "source": [
+      "/r/hardware"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Ford、ベテランエンジニアをAIで置き換えようとしたが失敗、再雇用へ",
+    "summary": "自動車メーカーは人工知能がシニア従業員の経験を再現できないことを認めた。",
     "source": [
       "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "Onsemi、株式交換でSynapticsを70億ドルで買収",
-    "summary": "この合併により、エッジAIとパワーチップが統合され、新たな半導体大手が誕生する。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "OpenAI、Uber Indiaのディレクターをアジア展開の責任者として起用",
-    "summary": "同AI企業は、米国国外最大の市場でのプレゼンスを強化するため、経験豊富な幹部を起用する。",
+    "title": "FTC、Elon MuskによるMeshスタートアップ買収を承認",
+    "summary": "米規制当局は、SpaceX元従業員が設立したネットワーク企業の買収を許可。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "TikTok、金融サービスとコマースを備えたスーパーアプリ化へ前進",
-    "summary": "同ソーシャルプラットフォームは、ユーザーを維持し広告収入以外の収益源を多様化するため、機能を追加し続けている。",
+    "title": "保険スタートアップCorgi、オープンソース製品の盗用を否定",
+    "summary": "同社はソフトウェアの不正流用疑惑に反論。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "OpenAI、SpaceXなど大手テクノロジー企業、NVIDIA依存を減らすため独自チップを開発",
-    "summary": "半導体不足と人工知能の台頭により、企業はカスタムハードウェアの設計を余儀なくされ、従来のメーカーとの競争が激化している。",
+    "title": "欧州連合、独自のAIチャットボット「Eustella」を公開",
+    "summary": "この会話アシスタントは透明性とデータ管理を提供し、米国の代替品と競争することを目指す。",
     "source": [
-      "techcrunch.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "スタートアップLindy、数百万ドル節約のためAnthropicのClaudeモデルからDeepSeekに移行",
-    "summary": "AnthropicのAPIコストの高さから、同AI企業は中国のモデルに移行し、運用コストを大幅に削減している。",
+    "title": "YouTube、Shortsの「低評価」ボタンを廃止、2倍速再生を追加",
+    "summary": "プラットフォームはショート動画のインターフェースを変更し、ユーザー体験を優先。",
     "source": [
-      "the-decoder.com"
+      "kite.kagi.com"
     ],
     "count": 1
   }

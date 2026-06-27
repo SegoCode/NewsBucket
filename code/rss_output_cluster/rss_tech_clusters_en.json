@@ -1,79 +1,74 @@
 [
   {
-    "title": "United States restricts access to the most advanced artificial intelligence models from OpenAI and Anthropic",
-    "summary": "The U.S. government authorizes the use of Anthropic's Mythos 5 for trusted organizations, while limiting the launch of OpenAI's GPT-5.6 Sol, generating an intense debate about state control of AI.",
+    "title": "US authorizes release of Anthropic's Mythos 5 to over a hundred organizations",
+    "summary": "Anthropic's artificial intelligence model, previously restricted, returns with limited access to select US entities.",
     "source": [
-      "thehackernews.com",
-      "techcrunch.com",
       "the-decoder.com",
+      "techcrunch.com",
+      "xataka.com",
       "wired.com",
-      "kite.kagi.com",
-      "news.ycombinator.com",
-      "tomshardware.com",
-      "xataka.com"
+      "kite.kagi.com"
     ],
-    "count": 8
+    "count": 5
   },
   {
-    "title": "The rise in prices of RAM and SSDs transforms the semiconductor market",
-    "summary": "The increase in chip prices leads manufacturers to use recycled components and new players like CXMT to challenge industry leaders, while consumers seek alternatives.",
+    "title": "Steam Machine pre-orders resold on eBay for up to $3,000",
+    "summary": "The launch of Valve's console triggers resale and scalping, doubling prices before its official release.",
     "source": [
-      "tomshardware.com",
-      "/r/hardware",
       "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Apple will skip the Pro and Max versions of the M6 chip and launch an M7 focused on artificial intelligence",
-    "summary": "According to reports, the company will only launch a basic M6 chip this year and will focus on the M7 generation with advanced AI capabilities, planned for 2027.",
-    "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Intel Arc B770 graphics cards emerge as an alternative to NVIDIA and AMD",
-    "summary": "Rumors and initial analysis indicate that Intel's Arc GPUs could offer competitive performance in the gaming graphics market.",
+    "title": "PlayStation and Xbox sales in May hit historic lows",
+    "summary": "Both consoles recorded their worst May in the United States due to high prices and lower demand.",
     "source": [
-      "/r/hardware",
-      "hardzone.es"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "PS4 emulator ShadPS4 allows online play without PSN and emulates Bloodborne on PC",
-    "summary": "The emulator update adds multiplayer functions and compatibility with the popular FromSoftware title, expanding the catalog of playable games on PC.",
+    "title": "OpenAI launches GPT-5.6 Sol with restrictions and accusations of cheating in tests",
+    "summary": "OpenAI's new model sparks controversy by showing questionable performance in software evaluations.",
     "source": [
-      "videocardz.com",
-      "hardzone.es"
+      "thehackernews.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "YouTube removes the 'dislike' button on Shorts and adds 2x playback and clean mode",
-    "summary": "The platform renews its short video section with new visual and speed features, while removing the dislike button.",
+    "title": "Intel Nova Lake will require up to 474W and three 8-pin connectors on Z990 motherboard",
+    "summary": "Intel's upcoming high-performance processors will demand extreme power, requiring more robust power supplies.",
     "source": [
-      "kite.kagi.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft extends Windows 10 security updates until October 2027",
-    "summary": "The company delays the end of free support for Windows 10, giving users more time to upgrade to Windows 11.",
-    "source": [
-      "xataka.com",
+      "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "More than a hundred lawsuits shake artificial intelligence companies over copyright",
-    "summary": "Publishers and content creators take OpenAI, Microsoft and other companies to court for unauthorized use of their works to train AI models.",
+    "title": "Apple pressures Washington to buy Chinese memory chips from CXMT",
+    "summary": "The company seeks to circumvent restrictions to acquire chips from sanctioned Chinese firm CXMT.",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "New laptops and RTX 5060 graphics cards expand NVIDIA's offerings",
+    "summary": "ASUS launches new RTX 5060 variants and gaming laptop prices drop by up to $300.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Publishers sue Microsoft and OpenAI for illegal use of content to train AI",
+    "summary": "The landscape of lawsuits against artificial intelligence expands as copyright claims grow.",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com"
@@ -81,101 +76,100 @@
     "count": 2
   },
   {
-    "title": "Valve's Steam Machines generate excitement: reservations worth thousands of dollars and an improved clone",
-    "summary": "The return of Valve's console-PC format triggers speculation on eBay, while a clone called STIM Machine offers superior hardware at a lower price.",
+    "title": "Apple prepares M5 and M7 chips for touchscreen MacBook and future AI models",
+    "summary": "Apple's plans include skipping the high-end M6 and focusing on an M7 optimized for artificial intelligence.",
     "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "/r/hardware",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD Ryzen 7 5800X3D arrives in Spain at a good price and sells out in international offers",
-    "summary": "The processor with 3D V-Cache is available in the Spanish market, while in the United States it is recommended to opt for more affordable DDR5 CPUs.",
+    "title": "Intel Arc B770 GPUs emerge as a real alternative to NVIDIA and AMD",
+    "summary": "Intel would introduce its new Arc B770 graphics card, which could compete in the mid-to-high-end market.",
     "source": [
-      "tomshardware.com",
+      "/r/hardware",
       "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "Europe launches its own AI chatbot Eustella and asserts its digital sovereignty versus the U.S.",
-    "summary": "The European Union presents its own artificial intelligence assistant and speaks out to develop technologies independent of the big US tech companies.",
+    "title": "GTA 6 will not have a physical disc version according to rumors",
+    "summary": "Rockstar's anticipated game would only be available in digital format.",
     "source": [
-      "elchapuzasinformatico.com",
-      "wired.com"
+      "videocardz.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Tesla settles lawsuit over accident with its FSD autonomous driving system",
-    "summary": "The out-of-court settlement closes the lawsuit while federal investigations into the system's safety continue.",
+    "title": "Key Apple Vision Pro executive leaves company to join OpenAI",
+    "summary": "The person responsible for developing the mixed reality headset moves to the artificial intelligence company.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "FBI warns that Russian hackers attack Signal backup keys",
-    "summary": "Security agencies warn about a spying campaign aimed at stealing recovery keys from the encrypted messaging app.",
+    "title": "J.P. Morgan warns of multiple red flags in the AI market",
+    "summary": "The investment bank identifies risks of overvaluation and bubble in the artificial intelligence sector.",
     "source": [
-      "thehackernews.com"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Russian hackers responsible for the $2.5 billion cyberattack on Jaguar Land Rover",
-    "summary": "A report links Russian cybercriminal groups to the largest data theft in the history of the British car manufacturer.",
+    "title": "Samsung prepares $648 billion investment in artificial intelligence",
+    "summary": "The South Korean company plans the biggest corporate bet to take advantage of the AI boom.",
     "source": [
-      "techcrunch.com"
+      "/r/hardware"
     ],
     "count": 1
   },
   {
-    "title": "IBM presents the first sub-1 nanometer chip, the smallest and most powerful in the world",
-    "summary": "The new manufacturing process promises to revolutionize the semiconductor industry with greater energy efficiency and performance.",
+    "title": "Qualcomm develops new chip architecture for smartphones",
+    "summary": "The company plans to innovate in mobile processor design to improve performance and efficiency.",
+    "source": [
+      "/r/hardware"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Ford tried to replace veteran engineers with AI and had to rehire them after failure",
+    "summary": "The automaker acknowledged that artificial intelligence could not replicate the experience of its senior employees.",
     "source": [
       "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "Onsemi acquires Synaptics for $7 billion in a stock swap",
-    "summary": "The merger will combine edge artificial intelligence with power chips to create a new semiconductor giant.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "OpenAI hires Uber India director to lead its Asia expansion",
-    "summary": "The artificial intelligence company bets on an experienced executive to boost its presence in the largest market outside the United States.",
+    "title": "FTC approves Elon Musk's acquisition of startup Mesh",
+    "summary": "The US regulator gives the green light to the purchase of the networking company founded by former SpaceX employees.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "TikTok moves towards becoming a super app with financial services and commerce",
-    "summary": "The social network continues adding features to retain users and diversify its revenue streams beyond advertising.",
+    "title": "Insurance startup Corgi denies stealing open source product",
+    "summary": "The company responds to allegations of software misappropriation.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "OpenAI, SpaceX and other big tech companies develop their own chips to reduce dependence on NVIDIA",
-    "summary": "The semiconductor shortage and the rise of artificial intelligence drive companies to design custom hardware, increasing competition with traditional manufacturers.",
+    "title": "European Union launches its own artificial intelligence chatbot called Eustella",
+    "summary": "The conversational assistant aims to compete with US alternatives by offering transparency and data control.",
     "source": [
-      "techcrunch.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "Startup Lindy abandons Anthropic's Claude model for DeepSeek to save millions",
-    "summary": "The high cost of Anthropic's APIs leads the AI company to migrate to the Chinese model, drastically reducing its operating expenses.",
+    "title": "YouTube removes 'dislike' button on Shorts and adds double speed playback",
+    "summary": "The platform modifies its interface for short videos, prioritizing user experience.",
     "source": [
-      "the-decoder.com"
+      "kite.kagi.com"
     ],
     "count": 1
   }

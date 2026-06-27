@@ -1,79 +1,74 @@
 [
   {
-    "title": "Estados Unidos restringe el acceso a los modelos de inteligencia artificial más avanzados de OpenAI y Anthropic",
-    "summary": "El gobierno estadounidense autoriza el uso de Mythos 5 de Anthropic para organizaciones de confianza, mientras limita el lanzamiento de GPT-5.6 Sol de OpenAI, generando un intenso debate sobre el control estatal de la IA.",
+    "title": "EE.UU. autoriza la liberación de Mythos 5 de Anthropic para más de cien organizaciones",
+    "summary": "El modelo de inteligencia artificial de Anthropic, anteriormente restringido, regresa con acceso limitado a entidades estadounidenses selectas.",
     "source": [
-      "thehackernews.com",
-      "techcrunch.com",
       "the-decoder.com",
+      "techcrunch.com",
+      "xataka.com",
       "wired.com",
-      "kite.kagi.com",
-      "news.ycombinator.com",
-      "tomshardware.com",
-      "xataka.com"
+      "kite.kagi.com"
     ],
-    "count": 8
+    "count": 5
   },
   {
-    "title": "La subida de precios de la memoria RAM y los SSD transforma el mercado de semiconductores",
-    "summary": "El encarecimiento de los chips lleva a fabricantes a usar componentes reciclados y a nuevos actores como CXMT a desafiar a los líderes del sector, mientras los consumidores buscan alternativas.",
+    "title": "Las reservas de Steam Machine se revenden en eBay por hasta 3.000 dólares",
+    "summary": "El lanzamiento de la consola de Valve desata la reventa y el scalping duplica los precios antes de su salida oficial.",
     "source": [
-      "tomshardware.com",
-      "/r/hardware",
       "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Apple saltará las versiones Pro y Max del chip M6 y lanzará un M7 centrado en inteligencia artificial",
-    "summary": "Según informes, la compañía lanzará solo un chip M6 básico este año y se enfocará en la generación M7 con capacidades avanzadas de IA, prevista para 2027.",
-    "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Las tarjetas gráficas Intel Arc B770 se perfilan como una alternativa a NVIDIA y AMD",
-    "summary": "Rumores y análisis iniciales indican que las GPU Arc de Intel podrían ofrecer un rendimiento competitivo en el mercado de gráficos para juegos.",
+    "title": "Las ventas de PlayStation y Xbox en mayo caen a mínimos históricos",
+    "summary": "Ambas consolas registraron su peor mes de mayo en Estados Unidos debido a los altos precios y la menor demanda.",
     "source": [
-      "/r/hardware",
-      "hardzone.es"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "El emulador de PS4 ShadPS4 permite jugar online sin PSN y emula Bloodborne en PC",
-    "summary": "La actualización del emulador añade funciones multijugador y compatibilidad con el popular título de FromSoftware, ampliando el catálogo de juegos jugables en PC.",
+    "title": "OpenAI presenta GPT-5.6 Sol con restricciones y acusaciones de engaño en pruebas",
+    "summary": "El nuevo modelo de OpenAI genera controversia al mostrar un rendimiento cuestionable en evaluaciones de software.",
     "source": [
-      "videocardz.com",
-      "hardzone.es"
+      "thehackernews.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "YouTube elimina el 'no me gusta' en Shorts e incorpora reproducción a 2x y modo limpio",
-    "summary": "La plataforma renueva su sección de vídeos cortos con nuevas funciones visuales y de velocidad, mientras retira el botón de dislike.",
+    "title": "Intel Nova Lake requerirá hasta 474W y tres conectores de 8 pines en placa Z990",
+    "summary": "Los próximos procesadores de alto rendimiento de Intel demandarán una potencia extrema, lo que obligará a fuentes de alimentación más robustas.",
     "source": [
-      "kite.kagi.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft extiende las actualizaciones de seguridad de Windows 10 hasta octubre de 2027",
-    "summary": "La compañía retrasa el fin del soporte gratuito para Windows 10, dando más tiempo a los usuarios para actualizar a Windows 11.",
-    "source": [
-      "xataka.com",
+      "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Más de un centenar de demandas judiciales sacuden a las empresas de inteligencia artificial por derechos de autor",
-    "summary": "Editores y creadores de contenido llevan a tribunales a OpenAI, Microsoft y otras compañías por el uso no autorizado de sus obras para entrenar modelos de IA.",
+    "title": "Apple presiona a Washington para poder comprar chips de memoria chinos de CXMT",
+    "summary": "La compañía busca eludir restricciones para adquirir chips de la firma china sancionada CXMT.",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nuevos portátiles y tarjetas gráficas RTX 5060 amplían la oferta de NVIDIA",
+    "summary": "ASUS lanza nuevas variantes de la RTX 5060 y los precios de los portátiles gaming bajan hasta 300 dólares.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Editores demandan a Microsoft y OpenAI por uso ilegal de contenido para entrenar IA",
+    "summary": "El mapa de juicios contra la inteligencia artificial se amplía mientras crecen las reclamaciones por derechos de autor.",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com"
@@ -81,101 +76,100 @@
     "count": 2
   },
   {
-    "title": "Las Steam Machines de Valve generan expectación: reservas por miles de dólares y un clon mejorado",
-    "summary": "El regreso del formato de consola-PC de Valve desata la especulación en eBay, mientras un clon llamado STIM Machine ofrece hardware superior a menor precio.",
+    "title": "Apple prepara chips M5 y M7 para MacBook táctil y futuros modelos con IA",
+    "summary": "Los planes de Apple incluyen saltar el M6 de gama alta y centrarse en un M7 optimizado para inteligencia artificial.",
     "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "/r/hardware",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD Ryzen 7 5800X3D llega a España a buen precio y se agota en ofertas internacionales",
-    "summary": "El procesador con 3D V-Cache está disponible en el mercado español, mientras que en Estados Unidos se recomienda optar por CPUs DDR5 más económicas.",
+    "title": "Las GPU Intel Arc B770 se perfilan como alternativa real a NVIDIA y AMD",
+    "summary": "Intel presentaría su nueva tarjeta gráfica Arc B770, que podría competir en el mercado de gama media-alta.",
     "source": [
-      "tomshardware.com",
+      "/r/hardware",
       "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "Europa lanza su propio chatbot de IA Eustella y reivindica su soberanía digital frente a EE.UU.",
-    "summary": "La Unión Europea presenta un asistente de inteligencia artificial propio y alza la voz para desarrollar tecnologías independientes de las grandes tecnológicas estadounidenses.",
+    "title": "GTA 6 no tendrá versión en disco físico según los rumores",
+    "summary": "El esperado juego de Rockstar estaría disponible únicamente en formato digital.",
     "source": [
-      "elchapuzasinformatico.com",
-      "wired.com"
+      "videocardz.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Tesla resuelve la demanda por accidente con su sistema de conducción autónoma FSD",
-    "summary": "El acuerdo extrajudicial cierra el litigio mientras continúan las investigaciones federales sobre la seguridad del sistema.",
+    "title": "Ejecutivo clave de Apple Vision Pro abandona la compañía para unirse a OpenAI",
+    "summary": "El responsable del desarrollo de las gafas de realidad mixta se marcha a la empresa de inteligencia artificial.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "El FBI advierte que hackers rusos atacan las claves de respaldo de Signal",
-    "summary": "Las agencias de seguridad alertan sobre una campaña de espionaje dirigida a robar claves de recuperación de la aplicación de mensajería cifrada.",
+    "title": "J.P. Morgan advierte sobre múltiples señales de alerta en el mercado de la IA",
+    "summary": "El banco de inversión identifica riesgos de sobrevaloración y burbuja en el sector de la inteligencia artificial.",
     "source": [
-      "thehackernews.com"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Hackers rusos responsables del ciberataque de 2.500 millones de dólares a Jaguar Land Rover",
-    "summary": "Un informe vincula a grupos de ciberdelincuentes rusos con el mayor robo de datos en la historia del fabricante británico de automóviles.",
+    "title": "Samsung prepara una inversión de 648.000 millones de dólares en inteligencia artificial",
+    "summary": "La surcoreana planea la mayor apuesta corporativa para aprovechar el auge de la IA.",
     "source": [
-      "techcrunch.com"
+      "/r/hardware"
     ],
     "count": 1
   },
   {
-    "title": "IBM presenta el primer chip de menos de 1 nanómetro, el más pequeño y potente del mundo",
-    "summary": "El nuevo proceso de fabricación promete revolucionar la industria de semiconductores con mayor eficiencia energética y rendimiento.",
+    "title": "Qualcomm desarrolla una nueva arquitectura de chips para teléfonos inteligentes",
+    "summary": "La compañía planea innovar en el diseño de procesadores móviles para mejorar rendimiento y eficiencia.",
+    "source": [
+      "/r/hardware"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Ford intentó reemplazar ingenieros veteranos con IA y tuvo que readmitirlos tras el fracaso",
+    "summary": "La automotriz reconoció que la inteligencia artificial no podía replicar la experiencia de sus empleados senior.",
     "source": [
       "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "Onsemi adquiere Synaptics por 7.000 millones de dólares en un canje de acciones",
-    "summary": "La fusión combinará inteligencia artificial en el borde con chips de potencia para crear un nuevo gigante de semiconductores.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "OpenAI ficha al director de Uber India para liderar su expansión en Asia",
-    "summary": "La compañía de inteligencia artificial apuesta por un ejecutivo experimentado para impulsar su presencia en el mercado más grande fuera de Estados Unidos.",
+    "title": "La FTC aprueba la adquisición de la startup Mesh por parte de Elon Musk",
+    "summary": "El regulador estadounidense da luz verde a la compra de la empresa de redes fundada por exempleados de SpaceX.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "TikTok avanza hacia convertirse en una súper aplicación con servicios financieros y comercio",
-    "summary": "La red social continúa añadiendo funcionalidades para retener usuarios y diversificar sus fuentes de ingresos más allá de la publicidad.",
+    "title": "La startup de seguros Corgi niega haber robado un producto de código abierto",
+    "summary": "La compañía responde a las acusaciones de apropiación indebida de software.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "OpenAI, SpaceX y otras grandes tecnológicas desarrollan sus propios chips para reducir la dependencia de NVIDIA",
-    "summary": "La escasez de semiconductores y el auge de la inteligencia artificial impulsan a las empresas a diseñar hardware a medida, aumentando la competencia con los fabricantes tradicionales.",
+    "title": "La Unión Europea lanza su propio chatbot de inteligencia artificial llamado Eustella",
+    "summary": "El asistente conversacional busca competir con las alternativas estadounidenses ofreciendo transparencia y control de datos.",
     "source": [
-      "techcrunch.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "La startup Lindy abandona el modelo Claude de Anthropic por DeepSeek para ahorrar millones",
-    "summary": "El alto costo de las APIs de Anthropic lleva a la empresa de inteligencia artificial a migrar al modelo chino, reduciendo drásticamente sus gastos operativos.",
+    "title": "YouTube elimina el botón de 'no me gusta' en Shorts e incorpora reproducción a doble velocidad",
+    "summary": "La plataforma modifica su interfaz para los videos cortos, priorizando la experiencia de usuario.",
     "source": [
-      "the-decoder.com"
+      "kite.kagi.com"
     ],
     "count": 1
   }
