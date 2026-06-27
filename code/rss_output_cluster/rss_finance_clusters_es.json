@@ -1,108 +1,175 @@
 [
   {
-    "title": "Los mercados tecnológicos se desploman por el retraso de la OPV de OpenAI y los temores a la IA",
-    "summary": "El Nasdaq lidera las pérdidas en Wall Street ante el anuncio de que OpenAI pospone su salida a bolsa hasta 2027, extendiendo las caídas del sector durante cinco jornadas consecutivas.",
+    "title": "Mercados globales caen por temores tecnológicos y expectativas de subida de tipos",
+    "summary": "El S&P 500 sufre su racha bajista más larga en 10 meses y el Nasdaq cae un 5% semanal, arrastrando a las bolsas asiáticas y europeas.",
     "source": [
+      "nikkei.com",
       "handelsblatt.com",
       "bolsamania.com",
-      "finance.yahoo.com",
-      "investing.com",
       "ft.com",
+      "expansion.com",
+      "/r/stocks"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Spacex avanza hacia el Nasdaq 100 y expande sus negocios de cohetes y comunicaciones",
+    "summary": "La compañía de Elon Musk se prepara para entrar en el índice, mientras cierra acuerdos de deuda y asociaciones móviles para Starlink.",
+    "source": [
+      "investing.com",
+      "nasdaq.com",
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Expertos ofrecen estrategias de inversión y ahorro para el largo plazo",
+    "summary": "Artículos de distintos medios aconsejan sobre carteras diversificadas, ingresos pasivos y cómo evitar arruinar la jubilación durante las vacaciones.",
+    "source": [
       "nasdaq.com",
       "/r/stocks",
-      "expansion.com"
+      "ft.com",
+      "handelsblatt.com"
     ],
-    "count": 8
+    "count": 4
   },
   {
-    "title": "El petróleo retrocede a niveles previos al conflicto por el exceso de oferta",
-    "summary": "El crudo cae hasta los 70 dólares por barril ante el regreso de los buques al estrecho de Ormuz y la abundante producción global.",
+    "title": "Terremoto en Venezuela deja más de 900 muertos y 3000 heridos",
+    "summary": "El sismo de magnitud 7,3 causa devastación y los equipos de rescate buscan sobrevivientes entre los escombros.",
     "source": [
-      "/r/stocks",
-      "finance.yahoo.com",
+      "investing.com",
+      "nikkei.com",
+      "bolsamania.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Tensiones en Oriente Medio y exceso de oferta hacen caer el petróleo",
+    "summary": "El crudo toca mínimos de cuatro meses por las disputas entre Estados Unidos e Irán y los temores a una sobreproducción global.",
+    "source": [
+      "nikkei.com",
       "bolsamania.com",
-      "nikkei.com",
-      "ft.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Las bolsas asiáticas se desploman arrastradas por el sector tecnológico",
-    "summary": "El Nikkei registra su tercera mayor caída histórica mientras los inversores toman ganancias y temen contagio desde Wall Street.",
-    "source": [
-      "nikkei.com",
-      "/r/stocks",
       "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "SpaceX: analistas recomiendan mantener la acción ante su OPV y su negocio de IA",
-    "summary": "Varios analistas inician la cobertura de SpaceX con recomendación de mantener, destacando el récord de su salida a bolsa y su infraestructura de inteligencia artificial.",
+    "title": "Meta explora los mercados de predicción mientras la CFTC investiga Polymarket",
+    "summary": "Zuckerberg busca integrar Polymarket y Kalshi, mientras el regulador de derivados estadounidense examina la plataforma de apuestas.",
     "source": [
-      "handelsblatt.com",
-      "nasdaq.com",
-      "investing.com"
+      "investing.com",
+      "ft.com",
+      "/r/stocks"
     ],
     "count": 3
   },
   {
-    "title": "Apple sube un 20% los precios de los Mac y iPad",
-    "summary": "La compañía incrementa el precio de sus portátiles y tabletas, aunque el mercado espera el impacto en el iPhone.",
+    "title": "Gobierno de EE.UU. restringe el acceso a los modelos de inteligencia artificial avanzados",
+    "summary": "OpenAI limita su último ChatGPT a socios de confianza y Anthropic recibe permiso para ofrecer su modelo 'Mythos' a empresas estadounidenses.",
     "source": [
-      "finance.yahoo.com",
+      "nikkei.com",
+      "bolsamania.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Bitcoin se desploma y Binance abandona la Unión Europea",
+    "summary": "La criptomoneda cae un 27% en cinco días hasta su nivel más bajo desde 2024, mientras el exchange Binance se retira del mercado europeo por falta de licencia.",
+    "source": [
+      "expansion.com",
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Aranceles y restricciones comerciales escalan entre Estados Unidos, China y la Unión Europea",
+    "summary": "Trump amenaza con un arancel del 100% a servicios digitales, la UE impone impuestos a la chatarra de aluminio y China limita las importaciones de carne vacuna.",
+    "source": [
+      "investing.com",
+      "ft.com",
+      "bolsamania.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Movimientos de fusiones y adquisiciones en Europa y Estados Unidos",
+    "summary": "Bumble explora su venta, Unicredit cortea a los accionistas de Commerzbank y Unilever negocia la compra del fabricante de suplementos Thorne.",
+    "source": [
+      "/r/stocks",
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Europa sufre una ola de calor histórica y un tifón amenaza Japón",
+    "summary": "Alemania registra 41,3 grados centígrados mientras un doble tifón se aproxima a Japón con posibles interrupciones en el transporte.",
+    "source": [
+      "nikkei.com",
       "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Volkswagen recortará 100.000 empleos hasta 2030",
-    "summary": "El fabricante alemán acelera su reestructuración y ajusta su plantilla para afrontar la transición eléctrica.",
+    "title": "La Fed podría subir las tasas de interés a finales de año, según Kashkari",
+    "summary": "El presidente de la Fed de Minneapolis anticipa un alza de tipos que agita a los mercados tecnológicos.",
     "source": [
-      "finance.yahoo.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Binance abandona la Unión Europea al no obtener licencia",
-    "summary": "El exchange de criptomonedas cesa sus servicios en la UE y busca la licencia MiCA en otro país del bloque.",
-    "source": [
-      "ft.com",
+      "nikkei.com",
       "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "Polymarket alcanza los 1.000 millones de ingresos tras su lanzamiento en EE.UU.",
-    "summary": "La plataforma de predicciones descentralizada logra este hito en apenas seis semanas desde su debut en el mercado estadounidense.",
-    "source": [
-      "finance.yahoo.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Interactive Brokers se posiciona para ganar con los altos tipos de interés",
-    "summary": "El bróker online atrae a inversores que buscan rentabilidad en un entorno de tipos elevados.",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Micron sorprende con resultados récord y agita el mercado de semiconductores",
-    "summary": "Las acciones de Micron suben tras publicar unos resultados trimestrales excepcionales que provocan una reestructuración en el sector.",
+    "title": "Las acciones de Wendy's se disparan por un repunte especulativo",
+    "summary": "La cadena de comida rápida sube repentinamente en bolsa, aunque los analistas advierten que la euforia puede ocultar problemas fundamentales.",
     "source": [
       "nasdaq.com",
-      "ft.com"
+      "/r/stocks"
     ],
     "count": 2
   },
   {
-    "title": "El bitcoin se desploma a su nivel más bajo desde octubre de 2024",
-    "summary": "La criptomoneda cae un 27% en cinco días arrastrada por la incertidumbre regulatoria y la aversión al riesgo, afectando a empresas como Strategy.",
+    "title": "Resultados de Micron impulsan la volatilidad en los mercados surcoreanos",
+    "summary": "Las ganancias de Micron desencadenan disyuntores en Corea del Sur y generan optimismo entre los inversores de semiconductores.",
+    "source": [
+      "nasdaq.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Reguladores bancarios endurecen normas en Estados Unidos, Reino Unido y Europa",
+    "summary": "El BCE simplifica reglas para grandes bancos, el Reino Unido refuerza las normas de los trusts de inversión y críticos advierten contra la desregulación.",
+    "source": [
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI pospone su oferta pública inicial hasta 2027",
+    "summary": "El retraso de la OPV de OpenAI provoca caídas en los futuros del S&P 500 y el Nasdaq.",
+    "source": [
+      "/r/stocks",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple sube los precios de sus productos y presiona a las bolsas asiáticas",
+    "summary": "El aumento de precios de Apple genera preocupaciones sobre la demanda tecnológica y afecta a los índices Nikkei y Topix.",
+    "source": [
+      "nasdaq.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El BCE anticipa una inflación más baja y el Euríbor cae",
+    "summary": "La encuesta del BCE muestra expectativas de inflación a la baja, mientras el Euríbor diario registra un importante descenso.",
     "source": [
       "expansion.com",
       "handelsblatt.com"
@@ -110,76 +177,21 @@
     "count": 2
   },
   {
-    "title": "El Ibex 35 pierde los 19.400 puntos lastrado por el petróleo y las renovables",
-    "summary": "El selectivo español cede un 0,67% en una jornada de pérdidas generalizadas en las bolsas europeas.",
+    "title": "Harmony Gold se desploma y Estados Unidos sanciona una refinería de oro en Ruanda",
+    "summary": "Las acciones de Harmony Gold caen un 12% y Estados Unidos impone sanciones a la industria aurífera ruandesa.",
     "source": [
-      "bolsamania.com",
-      "expansion.com"
+      "nasdaq.com",
+      "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Un modelo chino de IA amenaza a Anthropic antes de su salida a bolsa",
-    "summary": "La aparición de un nuevo modelo de lenguaje chino supone un desafío competitivo para Anthropic en la recta final de su OPV.",
+    "title": "China Eastern compra aviones Airbus y Rheinmetall pierde un contrato de fragatas",
+    "summary": "La aerolínea china adquiere 25 Airbus A330neo por 9.400 millones de dólares, mientras el fabricante alemán sufre una caída por la cancelación de un pedido militar.",
     "source": [
-      "finance.yahoo.com"
+      "investing.com",
+      "handelsblatt.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "Bumble se dispara un 15% al explorar una posible venta",
-    "summary": "La aplicación de citas evalúa una venta, lo que impulsa sus acciones en el mercado.",
-    "source": [
-      "/r/stocks"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Unilever explora una oferta por el fabricante de suplementos Thorne",
-    "summary": "La multinacional de bienes de consumo estudia adquirir Thorne, valorada en 4.000 millones de dólares, para expandirse en salud.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceX planea lanzar servicios móviles de Starlink para consumidores en EE.UU.",
-    "summary": "La empresa de Elon Musk busca ofrecer conectividad móvil directa a través de su red de satélites.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Revolut elimina el trabajo remoto para sus nuevos graduados",
-    "summary": "El neobanco cambia su política laboral y exigirá presencialidad a los recién contratados.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El CEO de JIC dice que la venta de JSR no está decidida",
-    "summary": "El nuevo consejero delegado del fondo japonés aclara que no ha tomado una decisión sobre la desinversión en JSR.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Irak presiona a la OPEP para aumentar su producción petrolera",
-    "summary": "Bagdad solicita a la organización un incremento de su cuota de bombeo para aprovechar los precios actuales.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Las acciones de Rocket Lab repuntan sin un catalizador claro",
-    "summary": "La compañía aeroespacial experimenta una subida en bolsa sin que se identifique una noticia concreta que la motive.",
-    "source": [
-      "investing.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]

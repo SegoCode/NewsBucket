@@ -1,199 +1,200 @@
 [
   {
-    "title": "Microsoft sube los precios de las consolas Xbox a nivel mundial hasta 150 dólares",
-    "summary": "La compañía elimina el modelo de 2 TB y aplica incrementos significativos en todos los mercados.",
+    "title": "El gobierno de EE.UU. restringe el lanzamiento de nuevos modelos de IA de Anthropic y OpenAI",
+    "summary": "Tanto Anthropic como OpenAI deben obtener aprobación gubernamental para liberar sus modelos Mythos y GPT-5.6, respectivamente.",
     "source": [
-      "hardzone.es",
-      "xataka.com",
-      "kite.kagi.com",
       "techcrunch.com",
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com",
-      "/r/hardware"
-    ],
-    "count": 8
-  },
-  {
-    "title": "Apple aumenta los precios de Mac y iPad por el encarecimiento de la RAM",
-    "summary": "El alza en los componentes obliga a la compañía a subir los precios de sus productos, mientras los usuarios buscan descuentos.",
-    "source": [
-      "videocardz.com",
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "hardzone.es",
-      "techcrunch.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "Microsoft amplía las actualizaciones de seguridad gratuitas de Windows 10 hasta 2027",
-    "summary": "Los usuarios podrán seguir recibiendo parches de seguridad sin coste adicional un año más allá de lo previsto.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com",
-      "hardzone.es",
-      "kite.kagi.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "IBM presenta una nueva tecnología de transistores Nanostack de 0,7 nanómetros",
-    "summary": "El nuevo proceso promete hasta un 50% más de rendimiento y 70% más de eficiencia energética frente a su nodo de 2 nm.",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware",
-      "kite.kagi.com",
-      "news.ycombinator.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "AMD relanza el Ryzen 7 5800X3D Edición 10º Aniversario, acaparado por revendedores",
-    "summary": "El popular procesador para AM4 vuelve al mercado en una edición limitada que se vende por más de 600 dólares en reventa.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Estados Unidos exige a OpenAI restringir el despliegue de GPT-5.6 por seguridad",
-    "summary": "La administración estadounidense solicita un control caso por caso antes del lanzamiento del nuevo modelo.",
-    "source": [
-      "xataka.com",
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Rockstar revela el precio oficial de GTA VI y confirma su lanzamiento en noviembre",
-    "summary": "El juego tendrá una versión básica por 80 euros y una edición completa por 100 euros, con la versión en disco prevista para diciembre.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Valve modifica la promesa de rendimiento de la Steam Machine de “4K 60 FPS” a “hasta 4K”",
-    "summary": "Un minorista francés se burla del alto precio original con un PC similar mucho más barato.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "/r/hardware"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google Finance lanza una aplicación independiente para Android con datos en tiempo real e IA",
-    "summary": "La nueva app permite monitorizar mercados financieros con herramientas de inteligencia artificial integradas.",
-    "source": [
-      "alternativeto.net",
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic acusa a Alibaba de usar Claude sin permiso y Claude gana usuarios de pago",
-    "summary": "La empresa de IA avanza frente a ChatGPT en el mercado de consumidores mientras denuncia usos no autorizados de su modelo.",
-    "source": [
       "wired.com",
-      "kite.kagi.com",
-      "techcrunch.com"
+      "news.ycombinator.com",
+      "the-decoder.com",
+      "/r/technology",
+      "tomshardware.com",
+      "xataka.com"
     ],
-    "count": 3
+    "count": 7
   },
   {
-    "title": "Apple saltará los chips M6 Pro y M6 Max para priorizar el M7 centrado en IA en 2027",
-    "summary": "Los informes indican que la compañía podría lanzar un M6 básico este año y preparar el M7 para 2027.",
+    "title": "Microsoft extiende las actualizaciones de seguridad gratuitas de Windows 10 hasta octubre de 2027",
+    "summary": "La compañía amplía el soporte para Windows 10 ante la lenta adopción de Windows 11, ofreciendo dos años adicionales de parches de seguridad.",
     "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 5
+  },
+  {
+    "title": "AMD relanza el procesador Ryzen 7 5800X3D como Edición 10º Aniversario",
+    "summary": "El popular chip para AM4 vuelve a estar disponible tras una edición especial que los revendedores ya están vendiendo a precios elevados.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Apple abandonará los chips M6 Pro y M6 Max para centrarse en el M7 con enfoque en IA",
+    "summary": "Según informes, la compañía saltará las versiones de gama alta del M6 y lanzará directamente un M7 optimizado para inteligencia artificial en 2027.",
+    "source": [
+      "elchapuzasinformatico.com",
       "tomshardware.com",
       "videocardz.com",
       "kite.kagi.com"
     ],
+    "count": 4
+  },
+  {
+    "title": "PlayStation elimina 551 películas de las cuentas de los usuarios",
+    "summary": "Sony borra contenido comprado digitalmente, lo que reaviva el debate sobre la propiedad del contenido digital.",
+    "source": [
+      "xataka.com",
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
     "count": 3
   },
   {
-    "title": "Samsung presenta el Galaxy A27 5G con seis años de actualizaciones",
-    "summary": "El nuevo modelo de gama media busca convertirse en uno de los móviles más vendidos con un precio competitivo.",
-    "source": [
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "YouTube actualiza Shorts con reproducción al doble de velocidad y elimina el 'No me gusta'",
-    "summary": "La plataforma introduce cambios demandados por los usuarios para mejorar la experiencia en los vídeos cortos.",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Notion cierra su servicio de correo Notion Mail para centrarse en agentes de IA",
-    "summary": "El producto de correo duró apenas un año antes de que la compañía redirigiera sus esfuerzos hacia la inteligencia artificial.",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Half-Life 2 ya puede jugarse en el navegador web gracias a un port no oficial con WebGL 2",
-    "summary": "Un desarrollador consigue ejecutar el clásico juego de Valve directamente en el navegador sin necesidad de hardware adicional.",
+    "title": "Europa lanza Eustella, su propio chatbot de IA como alternativa a ChatGPT y Claude",
+    "summary": "La Unión Europea presenta un asistente de IA soberano con funciones de agente, compitiendo con los modelos estadounidenses.",
     "source": [
       "elchapuzasinformatico.com",
+      "wired.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La inteligencia artificial está reemplazando puestos de trabajo junior y de entrada",
+    "summary": "Empresas como Anthropic y SAP confirman que ya no necesitan ingenieros junior y que un tercio de los empleadores sustituye roles iniciales con IA.",
+    "source": [
+      "/r/technology",
+      "xataka.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic acusa a Alibaba de clonar su modelo Claude con 25.000 cuentas falsas",
+    "summary": "La compañía de IA denuncia el mayor ataque de destilación conocido, pidiendo sanciones para la empresa china.",
+    "source": [
+      "xataka.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "IBM presenta el chip de 0,7 nanómetros, la tecnología más pequeña y potente del mundo",
+    "summary": "El nuevo nodo ofrece hasta un 50% más de rendimiento y un 70% más de eficiencia energética respecto al proceso de 2 nm.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Framework reduce los precios del Laptop 13 Pro ante el aumento de precios de Apple",
+    "summary": "La compañía de portátiles modulares baja sus tarifas para competir con los Mac, mientras advierte de una posible subida en los procesadores.",
+    "source": [
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Tim Sweeney de Epic Games critica las etiquetas de IA de Steam y alerta sobre el 'AI Slop'",
-    "summary": "El CEO considera que las herramientas de IA pueden generar contenido de baja calidad y que Valve actúa irresponsablemente.",
+    "title": "Rockstar revela el precio y la fecha de lanzamiento de GTA VI para noviembre",
+    "summary": "GTA VI llegará el 19 de noviembre con un precio por país y promete revolucionar el sector con IA y redes sociales integradas.",
     "source": [
       "elchapuzasinformatico.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La industria de las consolas enfrenta caída de ventas de PS5, despidos en Xbox y subida de precios",
+    "summary": "Las ventas de PlayStation caen a su nivel más bajo en 26 años mientras Xbox sube precios y despide a exempleados que denunciaron represalias.",
+    "source": [
+      "/r/technology",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Ofertas destacadas del Prime Day de Amazon en tecnología",
+    "summary": "Diversos medios recopilan los mejores descuentos en hardware, auriculares y dispositivos durante el evento de compras.",
+    "source": [
+      "tomshardware.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic contrata a un economista que acepta riesgo de extinción y otras noticias",
+    "summary": "La startup de IA ficha a Chad Jones, mientras que Amazon prueba Mythos en AWS y Lindy reemplaza Claude por Deepseek para ahorrar millones.",
+    "source": [
+      "the-decoder.com",
+      "elchapuzasinformatico.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Elon Musk obtiene aprobación para adquirir la startup Mesh, resuelve demanda de FSD y estrena película en X",
+    "summary": "La FTC aprueba la compra de Mesh por parte de Musk, Tesla cierra un litigio por FSD y el magnate lanza una película de Uwe Boll en su red.",
+    "source": [
+      "techcrunch.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Novedades en videojuegos: Onimusha, Bloodborne en PC, Half-Life 2 en navegador y más",
+    "summary": "Capcom anuncia fecha para Onimusha: Way of the Sword, ShadPS4 permite emular Bloodborne con online, y Half-Life 2 se juega desde el navegador.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Múltiples ciberataques y vulnerabilidades de seguridad reportados",
+    "summary": "Desde malware ruso hasta exploits en Linux y fallos en Amazon Q Developer, los expertos advierten de una oleada de amenazas.",
+    "source": [
+      "techcrunch.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nuevos lanzamientos de hardware: monitores ultrawide, memorias DDR4, drivers y procesadores",
+    "summary": "INNOCN presenta un monitor de 49 pulgadas, GOODRAM lanza DDR4, NVIDIA actualiza drivers para GTX, e Intel detalla sus Nova Lake.",
+    "source": [
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Un pergamino de Herculano se descifra por completo por primera vez con IA",
-    "summary": "Investigadores logran leer un rollo carbonizado del año 79 d.C. gracias a técnicas avanzadas de inteligencia artificial.",
+    "title": "Samsung prepara los Galaxy S27 y lanza el Galaxy A27 en España",
+    "summary": "Aparecen en la base GSMA cuatro modelos de la gama S27, mientras que el A27 ya está disponible con seis años de actualizaciones.",
     "source": [
-      "news.ycombinator.com"
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "La administración Trump prohíbe a Polestar vender coches eléctricos en EE.UU.",
-    "summary": "La marca de vehículos eléctricos se enfrenta a un bloqueo comercial en el mercado estadounidense por decisiones políticas.",
+    "title": "Lenovo advierte que la subida de precios de RAM y SSD durará hasta 2030",
+    "summary": "El fabricante chino alerta sobre el incremento sostenido de los componentes, mientras otros analistas señalan que es la punta del iceberg.",
     "source": [
-      "techcrunch.com"
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "Polymarket sufre un robo de fondos de sus usuarios por parte de hackers",
-    "summary": "La plataforma descentralizada de apuestas reporta un ataque que comprometió las criptomonedas almacenadas en billeteras.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Riot Games elimina el requisito siempre activo de su anticheat Vanguard",
-    "summary": "El sistema ahora puede funcionar bajo demanda en lugar de estar ejecutándose todo el tiempo en el sistema.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]

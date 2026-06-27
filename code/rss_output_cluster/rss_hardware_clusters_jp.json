@@ -1,181 +1,20 @@
 [
   {
-    "title": "Microsoft、8月にXbox Series本体の価格を最大150ドル値上げ",
-    "summary": "部品不足とコスト上昇によるこの値上げは全モデルに影響し、2TBモデルは廃止となる。",
-    "source": [
-      "geeknetic.es",
-      "hardzone.es",
-      "tomshardware.com",
-      "techpowerup.com",
-      "videocardz.com",
-      "/r/hardware"
-    ],
-    "count": 6
-  },
-  {
-    "title": "Apple、RAM価格上昇によりデバイス価格を値上げ",
-    "summary": "NANDフラッシュメモリとDRAMチップの高騰により、Mac、iPad、その他製品に値上げを適用。",
-    "source": [
-      "techpowerup.com",
-      "geeknetic.es",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Steam Machineの高価格に対抗する代替品が登場",
-    "summary": "フランスの小売業者が「Stim Machine」というパロディPCを発表。3Dプリンターで製作するDIYプロジェクトも登場。",
+    "title": "IBM、サブナノメートル技術を用いたチップ微細化の進展を発表",
+    "summary": "IBMは、より小さな部品を製造する新手法を発表し、1ナノメートル未満の初のチップ技術を公開、半導体業界で画期的な成果を示した。",
     "source": [
       "/r/hardware",
-      "techpowerup.com",
-      "profesionalreview.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "IBM、将来のチップ向けにサブ1ナノメートルのトランジスタ技術を発表",
-    "summary": "垂直積層の新手法により、プロセッサの微細化がさらに進む可能性。",
-    "source": [
-      "/r/hardware",
-      "profesionalreview.com",
-      "techpowerup.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ティム・スウィーニー氏、生成AIゲームへのタグ付けでValveを批判",
-    "summary": "Epic GamesのCEOが、SteamがAI生成コンテンツに関するタグを導入する決定を「無責任」と非難。",
-    "source": [
-      "geeknetic.es",
-      "techpowerup.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Valve、Steam Machineのパフォーマンス公約を下方修正",
-    "summary": "「4K/60FPS」という従来の主張を、より曖昧な「最大4K」に変更。",
-    "source": [
-      "techpowerup.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD、Ryzen 7 5800X3Dを10周年記念特別版として再販",
-    "summary": "限定在庫で市場に再投入されるが、すでに転売屋による買い占めが発生。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ASUS、ベータBIOSでAM5マザーボードにTSME暗号化を復活",
-    "summary": "同社は論争を受けて対応。Ryzen 9000シリーズ向けマザーボードのセキュリティ機能を復元。",
-    "source": [
-      "geeknetic.es",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AceMagic、ミニPCを最大20%割引するキャンペーンを開始",
-    "summary": "AMD Ryzen搭載モデルが、期間限定の専用クーポンにより特別価格で提供。",
-    "source": [
-      "techpowerup.com",
       "profesionalreview.com"
     ],
     "count": 2
   },
   {
-    "title": "GTA VI：検閲の噂と12月のディスク版発売の可能性",
-    "summary": "ゲームの内容とパッケージ版の発売について、矛盾する情報が流れている。",
+    "title": "Xbox、8月にコンソール価格を最大150ドル引き上げ、市場危機を深刻化",
+    "summary": "価格上昇は部品危機により世界的に実施され、PlayStation 5も赤字販売となる中、コンソール市場の危機がさらに深まっている。",
     "source": [
-      "profesionalreview.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 10、無料サポートを2027年まで延長",
-    "summary": "ユーザーは追加費用なしでさらに3年間、OSのアップデートを受けられる。",
-    "source": [
+      "geeknetic.es",
       "hardzone.es"
     ],
-    "count": 1
-  },
-  {
-    "title": "Sony、Bungieでの大規模レイオフを確認",
-    "summary": "ゲームスタジオBungieが、Sonyのリストラ計画の一環として大規模な人員削減を実施。",
-    "source": [
-      "techpowerup.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Riot Games、アンチチート「Vanguard」の常時稼働要件を撤廃",
-    "summary": "新しいオンデマンドモードでは、Windows 11の厳格なセキュリティ設定が必要。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AIトークンの隆盛、高コストを理由に失速",
-    "summary": "コンサルティング会社の音声流出により、AIの有効性を測定する方法を誰も知らないことが判明。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple、M6 Pro/MaxをスキップしM7へ直接移行か",
-    "summary": "サプライチェーンの情報筋によると、Appleの次期プロセッサは世代を飛ばす可能性がある。",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "モルガン・スタンレー、AMD EPYC Veniceの出荷量が2027年にNVIDIA Veraを超えると予測",
-    "summary": "アナリストは、NVIDIAの製品に対してEPYCプロセッサが大幅に成長すると予想。",
-    "source": [
-      "profesionalreview.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Intel Core Ultra 9 285K、Amazonで445ドルに値下げ",
-    "summary": "Intelのハイエンドプロセッサが、販売プラットフォームで大幅に価格を下げている。",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Framework、ADATA XPG MARS 970 SSDを採用。CPU価格の近々の上昇に警告",
-    "summary": "モジュラーノートPCメーカーがコンポーネントをアップデートし、今後の値上げについて警告。",
-    "source": [
-      "techpowerup.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Enshrouded、早期アクセスから2年を経て正式リリースとPS5版発売日を発表",
-    "summary": "サバイバルアクションゲームがアーリーアクセスを卒業し、全プラットフォームでバージョン1.0をリリース。",
-    "source": [
-      "techpowerup.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "『Half-Life 2』、非公式WebGL 2版によりブラウザでプレイ可能に",
-    "summary": "コミュニティプロジェクトにより、Valveの名作をダウンロード不要で楽しめる。",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]
