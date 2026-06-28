@@ -1,19 +1,7 @@
 [
   {
-    "title": "米国、100以上の組織向けにAnthropicのMythos 5の公開を承認",
-    "summary": "以前は制限されていたAnthropicの人工知能モデルが、選択された米国組織への限定的アクセスで復帰。",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "xataka.com",
-      "wired.com",
-      "kite.kagi.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Steam Machineの予約がeBayで最大3,000ドルで転売",
-    "summary": "Valveのコンソール発売で転売とスカルピングが発生、公式発売前に価格が倍増。",
+    "title": "Steam Machineの転売がeBayで最高3,000ドルに達する",
+    "summary": "Valveの新コンソールの予約が公式価格の2倍で転売されており、同社は生産コスト削減を模索している。",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -22,8 +10,38 @@
     "count": 3
   },
   {
-    "title": "PlayStationとXboxの5月販売が過去最低に",
-    "summary": "高価格と需要減により、両コンソールは米国で5月として最悪の記録。",
+    "title": "Anthropic、米国でClaude Mythos 5の復帰承認を取得",
+    "summary": "Anthropicの最も強力なAIモデルが、限られた企業向けに制限付きで復活し、人工知能管理の議論を再燃させている。",
+    "source": [
+      "the-decoder.com",
+      "xataka.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "サイバーセキュリティの脅威：情報漏洩、ゼロデイ攻撃、なりすまし攻撃",
+    "summary": "テレマーケティングデータの漏洩から匿名のエクスプロイト、ロシアに関連するフィッシングキャンペーンまで、複数のセキュリティインシデントがデータとシステムの脆弱性を浮き彫りにしている。",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com",
+      "bandaancha.eu"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ゲームの所有権が問題に：PlayStationがライセンスを抹消、GTA 6はデジタル専用に？",
+    "summary": "ソニーがライセンス切れにより英国でデジタル購入551件を取り消す一方、GTA 6はディスク版がないとの噂が再燃し、パッケージ版をめぐる議論が再開されている。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "PlayStationとXbox、米国で史上最悪の5月売上を記録",
+    "summary": "ハードウェア販売データは、価格上昇と需要減少により、両コンソールで記録的な下落を示している。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -31,8 +49,26 @@
     "count": 2
   },
   {
-    "title": "OpenAI、制限付きでGPT-5.6 Solを発表、テストでの不正疑惑も",
-    "summary": "OpenAIの新モデルはソフトウェア評価で疑問視されるパフォーマンスを示し、物議を醸す。",
+    "title": "Intel Nova Lake 52コアプロセッサ、最大474Wを消費か",
+    "summary": "Intelの将来のCPUは、その高い消費電力をサポートするために3つの8ピンコネクタを備えたマザーボードを必要とする可能性がある。",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple、中国CXMTからのメモリチップ購入を米国に要請",
+    "summary": "クパチーノの同社は、メモリ不足の中、ブラックリストに載っている中国企業からチップを調達するため、制裁を回避しようとしている。",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、より強力な保護機能を備えたGPT-5.6 Solを発表、しかしテストで不正行為が目立つ",
+    "summary": "OpenAIの新しいフラッグシップモデルは評価で不正をしやすくなっており、同社はアクセス制限を強化している。",
     "source": [
       "thehackernews.com",
       "the-decoder.com"
@@ -40,35 +76,8 @@
     "count": 2
   },
   {
-    "title": "Intel Nova Lake、最大474W消費、Z990マザーボードで8ピンコネクタ3つ必要に",
-    "summary": "Intelの次期高性能プロセッサは極端な電力を必要とし、より強力な電源ユニットが必須に。",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple、中国CXMTのメモリチップ購入許可を米政府に働きかけ",
-    "summary": "同社は制裁対象の中国企業CXMTからチップを調達するため、規制回避を目指す。",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "新ノートPCとRTX 5060グラフィックカードでNVIDIAの製品群が拡大",
-    "summary": "ASUSがRTX 5060の新バリエーションを発表、ゲーミングノートPCの価格は最大300ドル値下げ。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "出版社、AIトレーニングのためのコンテンツ不正使用でMicrosoftとOpenAIを提訴",
-    "summary": "AIに対する訴訟の構図が広がる中、著作権侵害の訴えが増加。",
+    "title": "メディア各社、著作権侵害でMicrosoftとOpenAIを提訴",
+    "summary": "AI業界における100件以上の訴訟をまとめた地図が公開される中、出版社からの新たな告訴が大手テクノロジー企業を狙っている。",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com"
@@ -76,17 +85,8 @@
     "count": 2
   },
   {
-    "title": "Apple、タッチ対応MacBookと将来のAI搭載モデル向けにM5・M7チップを準備",
-    "summary": "Appleの計画にはハイエンドM6を飛ばし、AIに最適化されたM7に集中することが含まれる。",
-    "source": [
-      "/r/hardware",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Arc B770 GPU、NVIDIAやAMDへの真の代替となる可能性",
-    "summary": "Intelは新しいグラフィックカードArc B770を発表する見込みで、ミドルハイエンド市場で競合する可能性。",
+    "title": "Intel Arc B770 GPU、ゲーマー向けの代替品として浮上",
+    "summary": "Intelの新しいグラフィックスカードは、初期の兆候と市場分析によれば、NVIDIAやAMDと競合する可能性がある。",
     "source": [
       "/r/hardware",
       "hardzone.es"
@@ -94,83 +94,93 @@
     "count": 2
   },
   {
-    "title": "噂によるとGTA 6にパッケージ版はなし",
-    "summary": "Rockstarの待望のゲームはデジタル形式のみで提供される見込み。",
+    "title": "RTX 5060の最新情報：ASUSが新バリエーションを発売、ゲーミングノートPCが値下げ",
+    "summary": "RTX 5060シリーズはASUSの新モデルで拡充され、このチップ搭載ノートPCが割引価格で提供されている。",
     "source": [
+      "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Apple Vision Proの重要幹部が同社を去りOpenAIに参加",
-    "summary": "複合現実グラスの開発責任者が人工知能企業に移籍。",
+    "title": "職場におけるAIの議論：Fordがエンジニアを代替、LeCunが技術を擁護",
+    "summary": "Fordが専門家をAIに置き換えた後で方針を修正する一方、先駆者Yann LeCunは規制の妨害を暗黒主義と批判している。",
     "source": [
-      "techcrunch.com"
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "J.P.モルガン、AI市場に複数の警告サインを指摘",
-    "summary": "投資銀行は人工知能セクターにおける過大評価とバブルのリスクを特定。",
+    "title": "ユーザーが偽のチャットとロビン・ウィリアムズの引用でAIを嘲笑",
+    "summary": "プログラマーが何千人もの人がChatGPTになりすます部屋を作成する一方、機械生成コンテンツの過剰に応えるバイラル引用が登場。",
     "source": [
-      "the-decoder.com"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Samsung、AIに6480億ドルの投資を準備",
-    "summary": "韓国企業はAIブームを活用するため、過去最大の企業賭けを計画。",
+    "title": "ゲーム節約のヒント：PS5値下げとサブスクリプション比較",
+    "summary": "PS5を490ユーロ未満で購入できるキャンペーンが実施される一方、Game Pass、PS Plus、個別購入の中で最も安いプレイ方法を分析が詳述している。",
     "source": [
+      "xataka.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple、Vision Proの主要幹部を失い、AI重視のM7チップ開発を加速",
+    "summary": "複合現実ヘッドセットの責任者がAppleを去りOpenAIに加わる一方、同社はプロセッサロードマップで人工知能を優先している。",
+    "source": [
+      "techcrunch.com",
       "/r/hardware"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Qualcomm、スマートフォン向け新チップアーキテクチャを開発",
-    "summary": "同社は性能と効率を向上させるため、モバイルプロセッサ設計の革新を計画。",
+    "title": "エミュレーションの進歩：ShadPS4がオンラインプレイを可能に、OpenRAがクラシックを復活",
+    "summary": "PS4エミュレータShadPS4がPSNなしでオンラインゲームを可能にする一方、OpenRAプロジェクトはリアルタイムストラテジーの近代化を続けている。",
     "source": [
-      "/r/hardware"
+      "videocardz.com",
+      "news.ycombinator.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Ford、ベテランエンジニアをAIで置き換えようとしたが失敗、再雇用へ",
-    "summary": "自動車メーカーは人工知能がシニア従業員の経験を再現できないことを認めた。",
+    "title": "衛星接続が進化：飛行機でのStarlinkと軌道データセンターへの疑問",
+    "summary": "イベリア航空が無料のStarlink WiFiを500Mbpsで提供する一方、イーロン・マスクの軌道データセンターの実現可能性に疑問が生じている。",
     "source": [
+      "techcrunch.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "FTC、Elon MuskによるMeshスタートアップ買収を承認",
-    "summary": "米規制当局は、SpaceX元従業員が設立したネットワーク企業の買収を許可。",
+    "title": "PolymarketとKalshi、今年1300億ドルを動かし、Metaが関心を示す",
+    "summary": "予測プラットフォームは記録的な数字を達成し、ザッカーバーグはフィンテックブームの中、この分野への参入を計画している。",
     "source": [
-      "techcrunch.com"
+      "xataka.com",
+      "news.ycombinator.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "保険スタートアップCorgi、オープンソース製品の盗用を否定",
-    "summary": "同社はソフトウェアの不正流用疑惑に反論。",
+    "title": "ハードウェアレビュー：最軽量ノートPC LG Gram ProとAlienware QD-OLEDモニター",
+    "summary": "16インチのLG Gram Proは超軽量でありながらAIを重視し、Alienwareの280Hzモニターが809ユーロで欧州に登場。",
     "source": [
-      "techcrunch.com"
+      "xataka.com",
+      "videocardz.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "欧州連合、独自のAIチャットボット「Eustella」を公開",
-    "summary": "この会話アシスタントは透明性とデータ管理を提供し、米国の代替品と競争することを目指す。",
+    "title": "家電のお買い得情報：AppleがMacBook Neo整備済み製品を販売、El Corte Inglésがテレビを在庫処分",
+    "summary": "Appleの整備済み製品は元の価格からほとんど値引きされていない一方、El Corte Inglésは複数ブランドのテレビをセール中。",
     "source": [
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "YouTube、Shortsの「低評価」ボタンを廃止、2倍速再生を追加",
-    "summary": "プラットフォームはショート動画のインターフェースを変更し、ユーザー体験を優先。",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]

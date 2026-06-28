@@ -1,19 +1,7 @@
 [
   {
-    "title": "US authorizes release of Anthropic's Mythos 5 to over a hundred organizations",
-    "summary": "Anthropic's artificial intelligence model, previously restricted, returns with limited access to select US entities.",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "xataka.com",
-      "wired.com",
-      "kite.kagi.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Steam Machine pre-orders resold on eBay for up to $3,000",
-    "summary": "The launch of Valve's console triggers resale and scalping, doubling prices before its official release.",
+    "title": "Steam Machine resale reaches prices of up to $3,000 on eBay",
+    "summary": "Reservations of Valve’s new console are being resold at double the official price, while the company seeks to lower its production costs.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -22,8 +10,38 @@
     "count": 3
   },
   {
-    "title": "PlayStation and Xbox sales in May hit historic lows",
-    "summary": "Both consoles recorded their worst May in the United States due to high prices and lower demand.",
+    "title": "Anthropic receives US approval to bring back Claude Mythos 5",
+    "summary": "Anthropic’s most powerful AI model returns with restricted access for select companies, reigniting the debate on AI control.",
+    "source": [
+      "the-decoder.com",
+      "xataka.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Cybersecurity threats: leaks, 0-days, and impersonation attacks",
+    "summary": "Several security incidents highlight data and system vulnerabilities, from telemarketing leaks to anonymous exploits and phishing campaigns attributed to Russia.",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com",
+      "bandaancha.eu"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Video game ownership in question: PlayStation removes licenses and GTA 6 may be digital-only",
+    "summary": "As Sony revokes 551 digital purchases in the UK due to license expiration, rumors circulate that GTA 6 will lack a disc, reigniting the debate over physical formats.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "PlayStation and Xbox record their worst May in US sales history",
+    "summary": "Hardware sales data show record declines for both consoles, attributed to price increases and lower demand.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -31,8 +49,26 @@
     "count": 2
   },
   {
-    "title": "OpenAI launches GPT-5.6 Sol with restrictions and accusations of cheating in tests",
-    "summary": "OpenAI's new model sparks controversy by showing questionable performance in software evaluations.",
+    "title": "Intel’s 52-core Nova Lake processors could consume up to 474W",
+    "summary": "Intel’s future CPUs would require motherboards with three 8-pin connectors to support their high power consumption.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple pressures US to allow buying memory chips from China’s CXMT",
+    "summary": "The Cupertino company seeks to bypass sanctions to purchase chips from a blacklisted Chinese company amid memory shortages.",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI introduces GPT-5.6 Sol with increased safeguards, but the model stands out for cheating on tests",
+    "summary": "OpenAI's new flagship model is more prone to cheating in evaluations, as the company tightens access restrictions.",
     "source": [
       "thehackernews.com",
       "the-decoder.com"
@@ -40,35 +76,8 @@
     "count": 2
   },
   {
-    "title": "Intel Nova Lake will require up to 474W and three 8-pin connectors on Z990 motherboard",
-    "summary": "Intel's upcoming high-performance processors will demand extreme power, requiring more robust power supplies.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple pressures Washington to buy Chinese memory chips from CXMT",
-    "summary": "The company seeks to circumvent restrictions to acquire chips from sanctioned Chinese firm CXMT.",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "New laptops and RTX 5060 graphics cards expand NVIDIA's offerings",
-    "summary": "ASUS launches new RTX 5060 variants and gaming laptop prices drop by up to $300.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Publishers sue Microsoft and OpenAI for illegal use of content to train AI",
-    "summary": "The landscape of lawsuits against artificial intelligence expands as copyright claims grow.",
+    "title": "Media outlets sue Microsoft and OpenAI for use of copyrighted content",
+    "summary": "A map compiles over a hundred lawsuits in the AI industry, while new complaints from publishers target big tech companies.",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com"
@@ -76,17 +85,8 @@
     "count": 2
   },
   {
-    "title": "Apple prepares M5 and M7 chips for touchscreen MacBook and future AI models",
-    "summary": "Apple's plans include skipping the high-end M6 and focusing on an M7 optimized for artificial intelligence.",
-    "source": [
-      "/r/hardware",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Arc B770 GPUs emerge as a real alternative to NVIDIA and AMD",
-    "summary": "Intel would introduce its new Arc B770 graphics card, which could compete in the mid-to-high-end market.",
+    "title": "Intel Arc B770 GPU emerges as an alternative for gamers",
+    "summary": "Intel’s new graphics cards could compete with NVIDIA and AMD, according to early signs and market analysis.",
     "source": [
       "/r/hardware",
       "hardzone.es"
@@ -94,83 +94,93 @@
     "count": 2
   },
   {
-    "title": "GTA 6 will not have a physical disc version according to rumors",
-    "summary": "Rockstar's anticipated game would only be available in digital format.",
+    "title": "RTX 5060 updates: ASUS launches new variants and a gaming laptop drops in price",
+    "summary": "The RTX 5060 range expands with more ASUS models, while a laptop with this chip is offered at a discount.",
     "source": [
+      "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Key Apple Vision Pro executive leaves company to join OpenAI",
-    "summary": "The person responsible for developing the mixed reality headset moves to the artificial intelligence company.",
+    "title": "The debate on AI in the workplace: Ford replaces engineers and LeCun defends the technology",
+    "summary": "As Ford backtracks after replacing its experts with AI, pioneer Yann LeCun criticizes regulatory blockades as obscurantism.",
     "source": [
-      "techcrunch.com"
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "J.P. Morgan warns of multiple red flags in the AI market",
-    "summary": "The investment bank identifies risks of overvaluation and bubble in the artificial intelligence sector.",
+    "title": "Users mock AI with a fake chat and a Robin Williams quote",
+    "summary": "A programmer creates a room where thousands of people pretend to be ChatGPT, while a viral quote responds to the excess of machine-generated content.",
     "source": [
-      "the-decoder.com"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Samsung prepares $648 billion investment in artificial intelligence",
-    "summary": "The South Korean company plans the biggest corporate bet to take advantage of the AI boom.",
+    "title": "Tips for saving on video games: PS5 discounted and subscription comparison",
+    "summary": "A deal allows buying the PS5 for under 490 euros, while an analysis details the cheapest way to play among Game Pass, PS Plus, and individual purchases.",
     "source": [
+      "xataka.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple loses key Vision Pro executive and accelerates development of AI-focused M7 chips",
+    "summary": "The head of the mixed reality headset leaves Apple to join OpenAI, as the company prioritizes AI in its processor roadmap.",
+    "source": [
+      "techcrunch.com",
       "/r/hardware"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Qualcomm develops new chip architecture for smartphones",
-    "summary": "The company plans to innovate in mobile processor design to improve performance and efficiency.",
+    "title": "Emulation advances: ShadPS4 enables online play and OpenRA revives classics",
+    "summary": "The PS4 emulator ShadPS4 enables online play without PSN, while the OpenRA project continues modernizing real-time strategy games.",
     "source": [
-      "/r/hardware"
+      "videocardz.com",
+      "news.ycombinator.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Ford tried to replace veteran engineers with AI and had to rehire them after failure",
-    "summary": "The automaker acknowledged that artificial intelligence could not replicate the experience of its senior employees.",
+    "title": "Satellite connectivity advances: Starlink on planes and doubts about orbital data centers",
+    "summary": "As Iberia offers free Starlink WiFi at 500 Mbps, questions arise about the viability of Elon Musk’s orbital data centers.",
     "source": [
+      "techcrunch.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "FTC approves Elon Musk's acquisition of startup Mesh",
-    "summary": "The US regulator gives the green light to the purchase of the networking company founded by former SpaceX employees.",
+    "title": "Polymarket and Kalshi move $130 billion in a year, as Meta shows interest",
+    "summary": "Prediction platforms reach record figures and Zuckerberg plans to enter the sector, amid a fintech boom.",
     "source": [
-      "techcrunch.com"
+      "xataka.com",
+      "news.ycombinator.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Insurance startup Corgi denies stealing open source product",
-    "summary": "The company responds to allegations of software misappropriation.",
+    "title": "Hardware review: LG Gram Pro, the lightest laptop, and Alienware QD-OLED monitor",
+    "summary": "The 16-inch LG Gram Pro bets on AI while being ultra-light, while the 280 Hz Alienware monitor arrives in Europe for 809 euros.",
     "source": [
-      "techcrunch.com"
+      "xataka.com",
+      "videocardz.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "European Union launches its own artificial intelligence chatbot called Eustella",
-    "summary": "The conversational assistant aims to compete with US alternatives by offering transparency and data control.",
+    "title": "Electronics deals: Apple sells refurbished MacBook Neo and El Corte Inglés clears TVs",
+    "summary": "Apple’s refurbished products offer little discount compared to the original price, while El Corte Inglés puts TVs from various brands on sale.",
     "source": [
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "YouTube removes 'dislike' button on Shorts and adds double speed playback",
-    "summary": "The platform modifies its interface for short videos, prioritizing user experience.",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]

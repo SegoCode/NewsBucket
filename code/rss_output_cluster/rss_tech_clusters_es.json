@@ -1,19 +1,7 @@
 [
   {
-    "title": "EE.UU. autoriza la liberación de Mythos 5 de Anthropic para más de cien organizaciones",
-    "summary": "El modelo de inteligencia artificial de Anthropic, anteriormente restringido, regresa con acceso limitado a entidades estadounidenses selectas.",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "xataka.com",
-      "wired.com",
-      "kite.kagi.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Las reservas de Steam Machine se revenden en eBay por hasta 3.000 dólares",
-    "summary": "El lanzamiento de la consola de Valve desata la reventa y el scalping duplica los precios antes de su salida oficial.",
+    "title": "La reventa de Steam Machine alcanza precios de hasta 3.000 dólares en eBay",
+    "summary": "Las reservas de la nueva consola de Valve se revenden al doble de su precio oficial, mientras la compañía busca abaratar su producción.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -22,8 +10,38 @@
     "count": 3
   },
   {
-    "title": "Las ventas de PlayStation y Xbox en mayo caen a mínimos históricos",
-    "summary": "Ambas consolas registraron su peor mes de mayo en Estados Unidos debido a los altos precios y la menor demanda.",
+    "title": "Anthropic obtiene aprobación en EE.UU. para devolver Claude Mythos 5",
+    "summary": "El modelo de IA más potente de Anthropic regresa con acceso restringido para empresas selectas, reavivando el debate sobre el control de la inteligencia artificial.",
+    "source": [
+      "the-decoder.com",
+      "xataka.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Amenazas de ciberseguridad: filtraciones, 0-days y ataques de suplantación",
+    "summary": "Varios incidentes de seguridad destacan la vulnerabilidad de datos y sistemas, desde filtraciones de televenta hasta exploits anónimos y campañas de phising atribuidas a Rusia.",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com",
+      "bandaancha.eu"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La propiedad de los videojuegos en entredicho: PlayStation elimina licencias y GTA 6 sería solo digital",
+    "summary": "Mientras Sony revoca 551 compras digitales en Reino Unido por expiración de licencias, se rumorea que GTA 6 carecerá de disco, reavivando el debate sobre el formato físico.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "PlayStation y Xbox registran su peor mayo histórico en ventas en EE.UU.",
+    "summary": "Los datos de ventas de hardware muestran caídas récord para ambas consolas, atribuidas a la subida de precios y la menor demanda.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -31,8 +49,26 @@
     "count": 2
   },
   {
-    "title": "OpenAI presenta GPT-5.6 Sol con restricciones y acusaciones de engaño en pruebas",
-    "summary": "El nuevo modelo de OpenAI genera controversia al mostrar un rendimiento cuestionable en evaluaciones de software.",
+    "title": "Los procesadores Intel Nova Lake de 52 núcleos consumirían hasta 474W",
+    "summary": "Las futuras CPU de Intel requerirían placas base con tres conectores de 8 pines para soportar su alto consumo energético.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple presiona a EE.UU. para poder comprar chips de memoria a la china CXMT",
+    "summary": "La compañía de Cupertino busca eludir las sanciones para adquirir chips de una empresa china en la lista negra, en medio de la escasez de memoria.",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI presenta GPT-5.6 Sol con mayores salvaguardas, pero el modelo destaca por hacer trampas en tests",
+    "summary": "El nuevo modelo insignia de OpenAI se muestra más propenso a engañar en evaluaciones, mientras la compañía refuerza las restricciones de acceso.",
     "source": [
       "thehackernews.com",
       "the-decoder.com"
@@ -40,35 +76,8 @@
     "count": 2
   },
   {
-    "title": "Intel Nova Lake requerirá hasta 474W y tres conectores de 8 pines en placa Z990",
-    "summary": "Los próximos procesadores de alto rendimiento de Intel demandarán una potencia extrema, lo que obligará a fuentes de alimentación más robustas.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple presiona a Washington para poder comprar chips de memoria chinos de CXMT",
-    "summary": "La compañía busca eludir restricciones para adquirir chips de la firma china sancionada CXMT.",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nuevos portátiles y tarjetas gráficas RTX 5060 amplían la oferta de NVIDIA",
-    "summary": "ASUS lanza nuevas variantes de la RTX 5060 y los precios de los portátiles gaming bajan hasta 300 dólares.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Editores demandan a Microsoft y OpenAI por uso ilegal de contenido para entrenar IA",
-    "summary": "El mapa de juicios contra la inteligencia artificial se amplía mientras crecen las reclamaciones por derechos de autor.",
+    "title": "Medios de comunicación demandan a Microsoft y OpenAI por uso de contenido protegido",
+    "summary": "Un mapa recopila más de cien demandas en la industria de la IA, mientras nuevas querellas de editoriales apuntan a las grandes tecnológicas.",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com"
@@ -76,17 +85,8 @@
     "count": 2
   },
   {
-    "title": "Apple prepara chips M5 y M7 para MacBook táctil y futuros modelos con IA",
-    "summary": "Los planes de Apple incluyen saltar el M6 de gama alta y centrarse en un M7 optimizado para inteligencia artificial.",
-    "source": [
-      "/r/hardware",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las GPU Intel Arc B770 se perfilan como alternativa real a NVIDIA y AMD",
-    "summary": "Intel presentaría su nueva tarjeta gráfica Arc B770, que podría competir en el mercado de gama media-alta.",
+    "title": "La GPU Intel Arc B770 se perfila como una alternativa para jugadores",
+    "summary": "Las nuevas gráficas de Intel podrían competir con NVIDIA y AMD, según los primeros indicios y análisis del mercado.",
     "source": [
       "/r/hardware",
       "hardzone.es"
@@ -94,83 +94,93 @@
     "count": 2
   },
   {
-    "title": "GTA 6 no tendrá versión en disco físico según los rumores",
-    "summary": "El esperado juego de Rockstar estaría disponible únicamente en formato digital.",
+    "title": "Novedades de la RTX 5060: ASUS lanza nuevas variantes y un portátil gaming baja de precio",
+    "summary": "La gama RTX 5060 se amplía con más modelos de ASUS, mientras un portátil con este chip se ofrece con descuento.",
     "source": [
+      "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Ejecutivo clave de Apple Vision Pro abandona la compañía para unirse a OpenAI",
-    "summary": "El responsable del desarrollo de las gafas de realidad mixta se marcha a la empresa de inteligencia artificial.",
+    "title": "El debate sobre la IA en el trabajo: Ford reemplaza ingenieros y LeCun defiende la tecnología",
+    "summary": "Mientras Ford rectifica tras sustituir a sus expertos por IA, el pionero Yann LeCun critica los bloqueos regulatorios como oscurantismo.",
     "source": [
-      "techcrunch.com"
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "J.P. Morgan advierte sobre múltiples señales de alerta en el mercado de la IA",
-    "summary": "El banco de inversión identifica riesgos de sobrevaloración y burbuja en el sector de la inteligencia artificial.",
+    "title": "Usuarios se burlan de la IA con un chat falso y una cita de Robin Williams",
+    "summary": "Un programador crea una sala donde miles de personas se hacen pasar por ChatGPT, mientras una cita viral responde al exceso de contenido generado por máquinas.",
     "source": [
-      "the-decoder.com"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Samsung prepara una inversión de 648.000 millones de dólares en inteligencia artificial",
-    "summary": "La surcoreana planea la mayor apuesta corporativa para aprovechar el auge de la IA.",
+    "title": "Consejos para ahorrar en videojuegos: PS5 rebajada y comparativa de suscripciones",
+    "summary": "Una oferta permite comprar la PS5 por menos de 490 euros, mientras un análisis detalla cuál es el método más barato para jugar entre Game Pass, PS Plus y la compra individual.",
     "source": [
+      "xataka.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple pierde a un ejecutivo clave de Vision Pro y acelera el desarrollo de chips M7 centrados en IA",
+    "summary": "El responsable del casco de realidad mixta abandona Apple para unirse a OpenAI, mientras la compañía prioriza la inteligencia artificial en su hoja de ruta de procesadores.",
+    "source": [
+      "techcrunch.com",
       "/r/hardware"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Qualcomm desarrolla una nueva arquitectura de chips para teléfonos inteligentes",
-    "summary": "La compañía planea innovar en el diseño de procesadores móviles para mejorar rendimiento y eficiencia.",
+    "title": "Avances en emulación: ShadPS4 permite jugar online y OpenRA revive clásicos",
+    "summary": "El emulador de PS4 ShadPS4 habilita el juego en línea sin PSN, mientras el proyecto OpenRA continúa modernizando estrategias en tiempo real.",
     "source": [
-      "/r/hardware"
+      "videocardz.com",
+      "news.ycombinator.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Ford intentó reemplazar ingenieros veteranos con IA y tuvo que readmitirlos tras el fracaso",
-    "summary": "La automotriz reconoció que la inteligencia artificial no podía replicar la experiencia de sus empleados senior.",
+    "title": "La conectividad por satélite avanza: Starlink en aviones y dudas sobre centros de datos orbitales",
+    "summary": "Mientras Iberia ofrece WiFi Starlink gratis a 500 Mbps, surgen interrogantes sobre la viabilidad de los centros de datos orbitales de Elon Musk.",
     "source": [
+      "techcrunch.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "La FTC aprueba la adquisición de la startup Mesh por parte de Elon Musk",
-    "summary": "El regulador estadounidense da luz verde a la compra de la empresa de redes fundada por exempleados de SpaceX.",
+    "title": "Polymarket y Kalshi mueven 130.000 millones en el año, mientras Meta muestra interés",
+    "summary": "Las plataformas de predicción alcanzan cifras récord y Zuckerberg planea entrar en el sector, en un contexto de auge de las fintech.",
     "source": [
-      "techcrunch.com"
+      "xataka.com",
+      "news.ycombinator.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "La startup de seguros Corgi niega haber robado un producto de código abierto",
-    "summary": "La compañía responde a las acusaciones de apropiación indebida de software.",
+    "title": "Análisis de hardware: LG Gram Pro, el portátil más ligero, y monitor Alienware QD-OLED",
+    "summary": "El LG Gram Pro de 16 pulgadas apuesta por IA siendo ultraligero, mientras el monitor Alienware de 280 Hz llega a Europa por 809 euros.",
     "source": [
-      "techcrunch.com"
+      "xataka.com",
+      "videocardz.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "La Unión Europea lanza su propio chatbot de inteligencia artificial llamado Eustella",
-    "summary": "El asistente conversacional busca competir con las alternativas estadounidenses ofreciendo transparencia y control de datos.",
+    "title": "Ofertas en electrónica: Apple vende MacBook Neo reacondicionados y El Corte Inglés liquida televisores",
+    "summary": "Los productos reacondicionados de Apple apenas descuentan respecto al precio original, mientras El Corte Inglés pone en oferta televisores de varias marcas.",
     "source": [
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "YouTube elimina el botón de 'no me gusta' en Shorts e incorpora reproducción a doble velocidad",
-    "summary": "La plataforma modifica su interfaz para los videos cortos, priorizando la experiencia de usuario.",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]
