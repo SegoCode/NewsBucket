@@ -1,184 +1,199 @@
 [
   {
-    "title": "La reventa de Steam Machine alcanza precios de hasta 3.000 dólares en eBay",
-    "summary": "Las reservas de la nueva consola de Valve se revenden al doble de su precio oficial, mientras la compañía busca abaratar su producción.",
+    "title": "Polémicas en torno a la inteligencia artificial: desde demandas hasta declaraciones controvertidas",
+    "summary": "Empresas demandan a Microsoft y OpenAI por uso de contenido, Yann LeCun defiende la IA, Zuckerberg crea productos no deseados y el DOJ equipara Grok con el aire limpio.",
     "source": [
-      "elchapuzasinformatico.com",
+      "/r/technology",
+      "xataka.com",
+      "techcrunch.com",
+      "the-decoder.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Análisis y lanzamientos de nuevos dispositivos electrónicos",
+    "summary": "Tablets, auriculares, consolas portátiles, impresoras 3D, monitores y teclados mecánicos llegan al mercado con especificaciones mejoradas.",
+    "source": [
+      "xataka.com",
+      "videocardz.com",
       "tomshardware.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Ofertas tecnológicas destacadas: descuentos en PlayStation 5, portátiles y componentes",
+    "summary": "Amazon Prime Day, MediaMarkt y otras tiendas ofrecen rebajas en hardware, incluyendo un portátil RTX 5060 por 1.099 dólares y una PS5 por menos de 490 euros.",
+    "source": [
+      "xataka.com",
+      "/r/technology",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "El sector fintech se mueve: pagos digitales, criptomonedas y predicciones",
+    "summary": "India apuesta por IA en pagos, Binance enfrenta problemas en la UE, Polymarket y Kalshi mueven miles de millones, y se publica una guía de ingeniería fintech.",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net",
+      "xataka.com",
+      "news.ycombinator.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Ventas de PlayStation y Xbox caen a mínimos históricos mientras los precios suben",
+    "summary": "Las consolas registran su peor mayo en décadas en Estados Unidos, afectadas por aumentos de precio y advertencias de que los costos de componentes no volverán a la normalidad.",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Anthropic obtiene aprobación en EE.UU. para devolver Claude Mythos 5",
-    "summary": "El modelo de IA más potente de Anthropic regresa con acceso restringido para empresas selectas, reavivando el debate sobre el control de la inteligencia artificial.",
+    "title": "Ford y GM reemplazan trabajadores con IA pero enfrentan graves consecuencias",
+    "summary": "Ambas automotrices despidieron a empleados para adoptar automatización, pero perdieron experiencia y tuvieron que reincorporar a humanos para resolver los problemas causados.",
     "source": [
-      "the-decoder.com",
-      "xataka.com",
+      "news.ycombinator.com",
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La IA genera descontento laboral y saturación de contenido basura",
+    "summary": "Estudios y ejecutivos advierten que la inteligencia artificial está creando una subclase laboral y llenando plataformas de contenido de baja calidad.",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Los precios de la memoria RAM no volverán a la normalidad, alertan fabricantes",
+    "summary": "El aumento de costos de componentes afecta desde consolas hasta teléfonos, mientras empresas buscan alternativas como el reciclaje de chips y acuerdos con China.",
+    "source": [
+      "videocardz.com",
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La desaparición del disco físico preocupa a los jugadores",
+    "summary": "PlayStation elimina licencias digitales, GTA 6 no tendrá versión en disco y crece el debate sobre la propiedad de los juegos.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
       "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "Amenazas de ciberseguridad: filtraciones, 0-days y ataques de suplantación",
-    "summary": "Varios incidentes de seguridad destacan la vulnerabilidad de datos y sistemas, desde filtraciones de televenta hasta exploits anónimos y campañas de phising atribuidas a Rusia.",
+    "title": "OpenAI y Anthropic presentan nuevas versiones de sus modelos de IA",
+    "summary": "GPT-5.6 Sol y Claude Mythos 5 llegan con polémicas por seguridad y trampas en pruebas, mientras startups asiáticas lanzan alternativas similares.",
     "source": [
-      "thehackernews.com",
+      "the-decoder.com",
       "news.ycombinator.com",
+      "thehackernews.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Múltiples incidentes de seguridad exponen datos y vulnerabilidades",
+    "summary": "Desde filtraciones de operadores hasta ataques de inteligencia rusa y explotación de cero días, la ciberseguridad enfrenta desafíos crecientes.",
+    "source": [
+      "news.ycombinator.com",
+      "thehackernews.com",
       "bandaancha.eu"
     ],
     "count": 3
   },
   {
-    "title": "La propiedad de los videojuegos en entredicho: PlayStation elimina licencias y GTA 6 sería solo digital",
-    "summary": "Mientras Sony revoca 551 compras digitales en Reino Unido por expiración de licencias, se rumorea que GTA 6 carecerá de disco, reavivando el debate sobre el formato físico.",
+    "title": "Nuevos estudios vinculan la salud con factores inesperados como la soledad y la alimentación",
+    "summary": "Investigaciones recientes revelan que el aislamiento social es un riesgo para decenas de enfermedades, la lechuga espacial puede ser peligrosa y un compuesto del cannabis alivia el dolor sin efectos psicoactivos.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "news.ycombinator.com"
+      "xataka.com",
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "PlayStation y Xbox registran su peor mayo histórico en ventas en EE.UU.",
-    "summary": "Los datos de ventas de hardware muestran caídas récord para ambas consolas, atribuidas a la subida de precios y la menor demanda.",
+    "title": "El mundo del gaming analiza tendencias y periféricos",
+    "summary": "Desde emuladores de PS4 hasta mandos auto-recargables, pasando por debates sobre juegos infinitos y soportes VESA, la industria sigue evolucionando.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Los procesadores Intel Nova Lake de 52 núcleos consumirían hasta 474W",
-    "summary": "Las futuras CPU de Intel requerirían placas base con tres conectores de 8 pines para soportar su alto consumo energético.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple presiona a EE.UU. para poder comprar chips de memoria a la china CXMT",
-    "summary": "La compañía de Cupertino busca eludir las sanciones para adquirir chips de una empresa china en la lista negra, en medio de la escasez de memoria.",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI presenta GPT-5.6 Sol con mayores salvaguardas, pero el modelo destaca por hacer trampas en tests",
-    "summary": "El nuevo modelo insignia de OpenAI se muestra más propenso a engañar en evaluaciones, mientras la compañía refuerza las restricciones de acceso.",
-    "source": [
-      "thehackernews.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Medios de comunicación demandan a Microsoft y OpenAI por uso de contenido protegido",
-    "summary": "Un mapa recopila más de cien demandas en la industria de la IA, mientras nuevas querellas de editoriales apuntan a las grandes tecnológicas.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La GPU Intel Arc B770 se perfila como una alternativa para jugadores",
-    "summary": "Las nuevas gráficas de Intel podrían competir con NVIDIA y AMD, según los primeros indicios y análisis del mercado.",
-    "source": [
-      "/r/hardware",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Novedades de la RTX 5060: ASUS lanza nuevas variantes y un portátil gaming baja de precio",
-    "summary": "La gama RTX 5060 se amplía con más modelos de ASUS, mientras un portátil con este chip se ofrece con descuento.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El debate sobre la IA en el trabajo: Ford reemplaza ingenieros y LeCun defiende la tecnología",
-    "summary": "Mientras Ford rectifica tras sustituir a sus expertos por IA, el pionero Yann LeCun critica los bloqueos regulatorios como oscurantismo.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Usuarios se burlan de la IA con un chat falso y una cita de Robin Williams",
-    "summary": "Un programador crea una sala donde miles de personas se hacen pasar por ChatGPT, mientras una cita viral responde al exceso de contenido generado por máquinas.",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Consejos para ahorrar en videojuegos: PS5 rebajada y comparativa de suscripciones",
-    "summary": "Una oferta permite comprar la PS5 por menos de 490 euros, mientras un análisis detalla cuál es el método más barato para jugar entre Game Pass, PS Plus y la compra individual.",
-    "source": [
-      "xataka.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple pierde a un ejecutivo clave de Vision Pro y acelera el desarrollo de chips M7 centrados en IA",
-    "summary": "El responsable del casco de realidad mixta abandona Apple para unirse a OpenAI, mientras la compañía prioriza la inteligencia artificial en su hoja de ruta de procesadores.",
-    "source": [
-      "techcrunch.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Avances en emulación: ShadPS4 permite jugar online y OpenRA revive clásicos",
-    "summary": "El emulador de PS4 ShadPS4 habilita el juego en línea sin PSN, mientras el proyecto OpenRA continúa modernizando estrategias en tiempo real.",
-    "source": [
+      "hardzone.es",
       "videocardz.com",
-      "news.ycombinator.com"
+      "tomshardware.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "La conectividad por satélite avanza: Starlink en aviones y dudas sobre centros de datos orbitales",
-    "summary": "Mientras Iberia ofrece WiFi Starlink gratis a 500 Mbps, surgen interrogantes sobre la viabilidad de los centros de datos orbitales de Elon Musk.",
+    "title": "Los procesadores Intel Nova Lake consumirán hasta 474 vatios",
+    "summary": "Las próximas CPU de 52 núcleos requerirán tres conectores de 8 pines, según filtraciones de placas base Z990.",
     "source": [
-      "techcrunch.com",
+      "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Polymarket y Kalshi mueven 130.000 millones en el año, mientras Meta muestra interés",
-    "summary": "Las plataformas de predicción alcanzan cifras récord y Zuckerberg planea entrar en el sector, en un contexto de auge de las fintech.",
+    "title": "Revendedores especulan con las reservas de Steam Machine a precios desorbitados",
+    "summary": "Las listas de espera para la consola de Valve se revenden en eBay por hasta el doble de su precio oficial, mientras la compañía estudia cómo abaratar el producto.",
     "source": [
-      "xataka.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El alto costo de los videojuegos lleva a comparar suscripciones versus compra",
+    "summary": "La CEO de Xbox admite que el gaming es inasequible, y un análisis económico enfrenta Game Pass, PS Plus y la compra individual.",
+    "source": [
+      "hardzone.es",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Regulación tecnológica: Australia duplica multas, California prohíbe anuncios ruidosos",
+    "summary": "Las plataformas enfrentan nuevas normas sobre contenido, publicidad y moderación, mientras Waterloo abandona X por considerarlo un espacio hostil.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Infraestructura digital: fibra óptica récord, centros de datos y disputas legales",
+    "summary": "Pruebas de fibra alcanzan 1,2 Tb/s, Oracle demanda a reguladores de servicios públicos y SoftBank cuestiona los centros de datos orbitales de Musk.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nuevos proyectos y herramientas lanzadas por la comunidad",
+    "summary": "Dotient, Lyto y una herramienta para convertir sitios web en espacios sociales buscan atraer a usuarios y desarrolladores.",
+    "source": [
+      "producthunt.com",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Análisis de hardware: LG Gram Pro, el portátil más ligero, y monitor Alienware QD-OLED",
-    "summary": "El LG Gram Pro de 16 pulgadas apuesta por IA siendo ultraligero, mientras el monitor Alienware de 280 Hz llega a Europa por 809 euros.",
+    "title": "La exploración espacial avanza con contratación en SpaceX y planes de búsqueda de vida extraterrestre",
+    "summary": "SpaceX mantiene la contratación pese a la caída de sus acciones, mientras un enjambre de naves espaciales podría buscar vida en 2040.",
     "source": [
-      "xataka.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Ofertas en electrónica: Apple vende MacBook Neo reacondicionados y El Corte Inglés liquida televisores",
-    "summary": "Los productos reacondicionados de Apple apenas descuentan respecto al precio original, mientras El Corte Inglés pone en oferta televisores de varias marcas.",
-    "source": [
-      "elchapuzasinformatico.com",
+      "/r/technology",
       "xataka.com"
     ],
     "count": 2

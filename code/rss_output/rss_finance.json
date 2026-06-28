@@ -1,20 +1,432 @@
 {
-  "fetchedAt": "2026-06-28T02:57:11.434Z",
-  "totalItems": 243,
-  "totalErrors": 1,
+  "fetchedAt": "2026-06-28T08:45:50.691Z",
+  "totalItems": 268,
+  "totalErrors": 0,
   "items": [
+    {
+      "id": "567ba6a4-809f-4e8e-a8f3-03855beb9a48",
+      "title": "UK’s Bridgepoint nears deal to buy real estate unit in bet on US property",
+      "description": "London-based buyout group is looking beyond its traditional speciality in\ncorporate buyouts",
+      "content": "London-based buyout group is looking beyond its traditional speciality in\ncorporate buyouts",
+      "url": "https://ft.com/content/567ba6a4-809f-4e8e-a8f3-03855beb9a48",
+      "publishedAt": "2026-06-28T08:29:20.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "ft.com",
+        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUA2729Q0X20C26A6000000/",
+      "title": "日韓防衛相「海難共同訓練を発展」　5月に続き会談、AI分野も議論",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUA2729Q0X20C26A6000000",
+      "publishedAt": "2026-06-28T06:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/artificial-intelligence-ai-stock-has-dropped-13-1-month-heres-why-its-buy?time=1782625800",
+      "title": "This Artificial Intelligence (AI) Stock Has Dropped 13% in 1 Month. Here's Why It's a Buy",
+      "description": "Key PointsAlphabet's shares are falling due to increased AI-related spending and\nthe loss of key talent.",
+      "content": "Key PointsAlphabet's shares are falling due to increased AI-related spending and\nthe loss of key talent.",
+      "url": "https://nasdaq.com/articles/artificial-intelligence-ai-stock-has-dropped-13-1-month-heres-why-its-buy",
+      "publishedAt": "2026-06-28T05:50:00.000Z",
+      "author": "The Motley Fool",
+      "categories": [
+        "Markets"
+      ],
+      "source": {
+        "name": "nasdaq.com",
+        "url": "https://www.nasdaq.com/feed/rssoutbound"
+      }
+    },
+    {
+      "id": "https://www.investing.com/news/stock-market-news/memory-chip-makers-reap-ai-windfall-as-prices-surge-wsj-reports-4764067",
+      "title": "Memory chip makers reap AI windfall as prices surge, WSJ reports",
+      "description": "",
+      "content": "",
+      "url": "https://investing.com/news/stock-market-news/memory-chip-makers-reap-ai-windfall-as-prices-surge-wsj-reports-4764067",
+      "publishedAt": "2026-06-28T05:44:41.000Z",
+      "author": "Investing.com",
+      "categories": [],
+      "source": {
+        "name": "investing.com",
+        "url": "https://www.investing.com"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/bitcoin-just-dropped-below-60000-history-says-what-happens-next?time=1782625020",
+      "title": "Bitcoin Just Dropped Below $60,000. History Says This Is What Happens Next.",
+      "description": "Key PointsBitcoin's current 51% drawdown, while scary to live through, is not\nunusual from a historical perspective.",
+      "content": "Key PointsBitcoin's current 51% drawdown, while scary to live through, is not\nunusual from a historical perspective.",
+      "url": "https://nasdaq.com/articles/bitcoin-just-dropped-below-60000-history-says-what-happens-next",
+      "publishedAt": "2026-06-28T05:37:00.000Z",
+      "author": "The Motley Fool",
+      "categories": [
+        "Markets"
+      ],
+      "source": {
+        "name": "nasdaq.com",
+        "url": "https://www.nasdaq.com/feed/rssoutbound"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUD280OO0Y6A620C2000000/",
+      "title": "彦根城、内堀沿いの石垣崩落　台風7・8号の大雨影響か",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUD280OO0Y6A620C2000000",
+      "publishedAt": "2026-06-28T05:14:32.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUA280B60Y6A620C2000000/",
+      "title": "南鳥島沖レアアース、27年に産業規模で実証　高市首相が指示へ",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUA280B60Y6A620C2000000",
+      "publishedAt": "2026-06-28T05:08:52.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGM272H20X20C26A6000000/",
+      "title": "中国・ロシア両軍機、日本海や東シナ海上空を合同飛行　日本を威圧か",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGM272H20X20C26A6000000",
+      "publishedAt": "2026-06-28T05:08:07.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQODH272870X20C26A6000000/",
+      "title": "イングランドとコロンビアが1位通過　コンゴ民主共和国も決勝Tへ",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQODH272870X20C26A6000000",
+      "publishedAt": "2026-06-28T04:46:05.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
     {
       "id": "https://www.investing.com/news/stock-market-news/australia-toughens-kids-social-media-ban-doubles-potential-penalties-for-tech-firms-4763971",
       "title": "Australia toughens kids’ social media ban, doubles potential penalties for tech firms",
       "description": "",
       "content": "",
       "url": "https://investing.com/news/stock-market-news/australia-toughens-kids-social-media-ban-doubles-potential-penalties-for-tech-firms-4763971",
-      "publishedAt": "2026-06-28T02:18:31.000Z",
+      "publishedAt": "2026-06-28T04:42:27.000Z",
       "author": "Reuters",
       "categories": [],
       "source": {
         "name": "investing.com",
         "url": "https://www.investing.com"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOKC280X90Y6A620C2000000/",
+      "title": "山本由伸8勝目、大谷翔平は2安打　鈴木誠也が逆転12号2ラン",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOKC280X90Y6A620C2000000",
+      "publishedAt": "2026-06-28T04:34:59.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/3-artificial-intelligence-ai-stocks-id-buy-now-and-never-sell?time=1782620700",
+      "title": "3 Artificial Intelligence (AI) Stocks I'd Buy Now and Never Sell",
+      "description": "Key PointsArm expects to hold the largest share of data center CPUs by 2030.",
+      "content": "Key PointsArm expects to hold the largest share of data center CPUs by 2030.",
+      "url": "https://nasdaq.com/articles/3-artificial-intelligence-ai-stocks-id-buy-now-and-never-sell",
+      "publishedAt": "2026-06-28T04:25:00.000Z",
+      "author": "The Motley Fool",
+      "categories": [
+        "Markets"
+      ],
+      "source": {
+        "name": "nasdaq.com",
+        "url": "https://www.nasdaq.com/feed/rssoutbound"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/smartest-dividend-stocks-buy-5000-right-now?time=1782620400",
+      "title": "The Smartest Dividend Stocks to Buy With $5,000 Right Now",
+      "description": "Key PointsIBM's quantum computing investments can pay off as the Trump\nadministration looks to ramp up quantum investments.",
+      "content": "Key PointsIBM's quantum computing investments can pay off as the Trump\nadministration looks to ramp up quantum investments.",
+      "url": "https://nasdaq.com/articles/smartest-dividend-stocks-buy-5000-right-now",
+      "publishedAt": "2026-06-28T04:20:00.000Z",
+      "author": "The Motley Fool",
+      "categories": [
+        "Markets"
+      ],
+      "source": {
+        "name": "nasdaq.com",
+        "url": "https://www.nasdaq.com/feed/rssoutbound"
+      }
+    },
+    {
+      "id": "8606fc3c-6576-4ab2-8d28-9e8a46515a2c",
+      "title": "Spanish import hub urges EU to delay ban on Russian gas ",
+      "description": "LNG shipments to the bloc have risen in the wake of the Middle East war",
+      "content": "LNG shipments to the bloc have risen in the wake of the Middle East war",
+      "url": "https://ft.com/content/8606fc3c-6576-4ab2-8d28-9e8a46515a2c",
+      "publishedAt": "2026-06-28T04:00:21.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "ft.com",
+        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
+      }
+    },
+    {
+      "id": "a0739198-318c-4ae8-9953-ba88201edc45",
+      "title": "Mines will hold back Strait of Hormuz shipping for months, CEO warns",
+      "description": "NYK’s Takaya Soga says safe routes are ‘extremely limited’, restricting traffic\nto half prewar levels",
+      "content": "NYK’s Takaya Soga says safe routes are ‘extremely limited’, restricting traffic\nto half prewar levels",
+      "url": "https://ft.com/content/a0739198-318c-4ae8-9953-ba88201edc45",
+      "publishedAt": "2026-06-28T04:00:09.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "ft.com",
+        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
+      }
+    },
+    {
+      "id": "5bd2ea32-4cb1-4575-9cb5-10c528aacc1e",
+      "title": "Bond giant Pimco flexes muscles with private placements push",
+      "description": "Firm tries to capitalise on some borrowers’ need to raise cash as boundaries\nwith public markets blur",
+      "content": "Firm tries to capitalise on some borrowers’ need to raise cash as boundaries\nwith public markets blur",
+      "url": "https://ft.com/content/5bd2ea32-4cb1-4575-9cb5-10c528aacc1e",
+      "publishedAt": "2026-06-28T04:00:09.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "ft.com",
+        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
+      }
+    },
+    {
+      "id": "https://www.bolsamania.com/noticias/mercados/empleo-eeuu-inflacion-europea-centraran-atencion-proxima-semana--22845692.html",
+      "title": " El empleo de EEUU y la inflación europea centrarán la atención de la próxima semana ",
+      "description": "La próxima semana pondrá a prueba el estado de la mayor economía del mundo con\nuna referencia que suele marcar el rumbo de los mercados: el informe oficial de\nempleo de junio en Estados Unidos.",
+      "content": "La próxima semana pondrá a prueba el estado de la mayor economía del mundo con\nuna referencia que suele marcar el rumbo de los mercados: el informe oficial de\nempleo de junio en Estados Unidos.",
+      "url": "https://bolsamania.com/noticias/mercados/empleo-eeuu-inflacion-europea-centraran-atencion-proxima-semana--22845692.html",
+      "publishedAt": "2026-06-28T04:00:00.000Z",
+      "author": "redaccion@bolsamania.com (Carlos Suárez)",
+      "categories": [
+        "Mercados"
+      ],
+      "source": {
+        "name": "bolsamania.com",
+        "url": "https://www.bolsamania.com/rss/generarRss2.php"
+      }
+    },
+    {
+      "id": "https://www.bolsamania.com/noticias/mercados/reino-unido-pasa-sustituto-starmer-pone-foco-rachel-reeves--22847132.html",
+      "title": " Reino Unido \"pasa\" del sustituto de Starmer y pone el foco en el de Rachel Reeves ",
+      "description": "Se ha vuelto costumbre que el Reino Unido y la incertidumbre vayan de la mano.\nLa dimisión de Keir Starmer como primer ministro ha abierto una nueva etapa de\ninestabilidad dentro del país, que recientemente celebró el décimo aniversario\ndel referéndum del Brexit, que dio inicio a esta etapa de volatilidad y cambios\nconstantes en las islas británicas. Todo apunta a que será el exalcalde de\nMánchester, Andy Burnham, el próximo inquilino del número 10 de Downing Street y\nel encargado de enderezar un país con un rumbo incierto.",
+      "content": "Se ha vuelto costumbre que el Reino Unido y la incertidumbre vayan de la mano.\nLa dimisión de Keir Starmer como primer ministro ha abierto una nueva etapa de\ninestabilidad dentro del país, que recientemente celebró el décimo aniversario\ndel referéndum del Brexit, que dio inicio a esta etapa de volatilidad y cambios\nconstantes en las islas británicas. Todo apunta a que será el exalcalde de\nMánchester, Andy Burnham, el próximo inquilino del número 10 de Downing Street y\nel encargado de enderezar un país con un rumbo incierto.",
+      "url": "https://bolsamania.com/noticias/mercados/reino-unido-pasa-sustituto-starmer-pone-foco-rachel-reeves--22847132.html",
+      "publishedAt": "2026-06-28T04:00:00.000Z",
+      "author": "redaccion@bolsamania.com (Álvaro Estévez)",
+      "categories": [
+        "Mercados"
+      ],
+      "source": {
+        "name": "bolsamania.com",
+        "url": "https://www.bolsamania.com/rss/generarRss2.php"
+      }
+    },
+    {
+      "id": "https://www.bolsamania.com/noticias/analisis-tecnico/cinco-valores-que-se-deben-tener-muy-en-cuenta-por-tecnico-este-lunes--22848254.html",
+      "title": " Cinco valores que se deben tener muy en cuenta por técnico este lunes ",
+      "description": "Santander no puede ofrecer un mejor aspecto técnico.",
+      "content": "Santander no puede ofrecer un mejor aspecto técnico.",
+      "url": "https://bolsamania.com/noticias/analisis-tecnico/cinco-valores-que-se-deben-tener-muy-en-cuenta-por-tecnico-este-lunes--22848254.html",
+      "publishedAt": "2026-06-28T04:00:00.000Z",
+      "author": "redaccion@bolsamania.com (César Nuez)",
+      "categories": [
+        "Análisis técnico"
+      ],
+      "source": {
+        "name": "bolsamania.com",
+        "url": "https://www.bolsamania.com/rss/generarRss2.php"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/1-number-mercadolibre-investors-need-see?time=1782618600",
+      "title": "1 Number MercadoLibre Investors Need to See",
+      "description": "Key PointsMercadoLibre's stock has fallen due to rising competition.",
+      "content": "Key PointsMercadoLibre's stock has fallen due to rising competition.",
+      "url": "https://nasdaq.com/articles/1-number-mercadolibre-investors-need-see",
+      "publishedAt": "2026-06-28T03:50:00.000Z",
+      "author": "The Motley Fool",
+      "categories": [
+        "Markets"
+      ],
+      "source": {
+        "name": "nasdaq.com",
+        "url": "https://www.nasdaq.com/feed/rssoutbound"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGN2803L0Y6A620C2000000/",
+      "title": "米軍、イラン軍事施設を再攻撃　「停戦合意順守せず」報復の応酬激化",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGN2803L0Y6A620C2000000",
+      "publishedAt": "2026-06-28T03:49:29.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGN2546U0V20C26A6000000/",
+      "title": "米スパイの元締め、ビル・パルト氏はトランプ大統領の「お仕置き人」",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGN2546U0V20C26A6000000",
+      "publishedAt": "2026-06-28T03:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUD280OL0Y6A620C2000000/",
+      "title": "秋田で住宅火災、2人死亡　住民の高齢夫妻か",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUD280OL0Y6A620C2000000",
+      "publishedAt": "2026-06-28T02:57:25.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/tesla-completes-key-ai-chip-milestone-its-push-beyond-auto-industry?time=1782615000",
+      "title": "Tesla Completes Key AI Chip Milestone in Its Push Beyond the Auto Industry",
+      "description": "Key PointsTesla completed its blueprint for its AI5 chip.",
+      "content": "Key PointsTesla completed its blueprint for its AI5 chip.",
+      "url": "https://nasdaq.com/articles/tesla-completes-key-ai-chip-milestone-its-push-beyond-auto-industry",
+      "publishedAt": "2026-06-28T02:50:00.000Z",
+      "author": "The Motley Fool",
+      "categories": [
+        "Markets"
+      ],
+      "source": {
+        "name": "nasdaq.com",
+        "url": "https://www.nasdaq.com/feed/rssoutbound"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUD280F60Y6A620C2000000/",
+      "title": "美輪明宏さん死去　91歳、「ヨイトマケの唄」や舞台「黒蜥蜴」",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUD280F60Y6A620C2000000",
+      "publishedAt": "2026-06-28T02:41:33.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1uhldeu/thoughts_on_syco_syy/",
+      "title": "Thoughts on SYCO (SYY)",
+      "description": "So I’ve been looking at Sysco as a potential buy here soon, just curious on some\nof your guys thoughts . They are the largest food distributor in NA, and\ncontrols about 15-20 percent of the whole US food distribution market. They also\nacquired Restaurant depot in a recent 29 billion dollar buy out. Expanding some\nof their reach in the market. Obviously one concern if something similar\nhappened during COVID where it fell nearly 50% with the food industry tanking .\n20.5 billion in Revenue (up 4.7% over the year ) 3.8 billion in profit (up 6.5%)\nI’ve been looking for more stocks outside of the AI/ semi run, another company\nI’ve been looking at was WM (waste management ) kind of those slow growth\ndefensive stocks . Thoughts would be appreciated ! submitted by\n/u/WorthContribution457 [link] [comments]",
+      "content": "So I’ve been looking at Sysco as a potential buy here soon, just curious on some\nof your guys thoughts .\n\nThey are the largest food distributor in NA, and controls about 15-20 percent of\nthe whole US food distribution market. They also acquired Restaurant depot in a\nrecent 29 billion dollar buy out. Expanding some of their reach in the market.\n\nObviously one concern if something similar happened during COVID where it fell\nnearly 50% with the food industry tanking .\n\n20.5 billion in Revenue (up 4.7% over the year )\n\n3.8 billion in profit (up 6.5%)\n\nI’ve been looking for more stocks outside of the AI/ semi run, another company\nI’ve been looking at was WM (waste management ) kind of those slow growth\ndefensive stocks . Thoughts would be appreciated !\n\nsubmitted by /u/WorthContribution457\n[https://old.reddit.com/user/WorthContribution457]\n[link] [https://old.reddit.com/r/stocks/comments/1uhldeu/thoughts_on_syco_syy/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1uhldeu/thoughts_on_syco_syy/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1uhldeu/thoughts_on_syco_syy",
+      "publishedAt": "2026-06-28T02:40:59.000Z",
+      "author": "/u/WorthContribution457",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
+      "id": "https://www.nasdaq.com/articles/social-security-benefits-could-shrink-2560-2035-and-not-reason-youd-think?time=1782614100",
+      "title": "Social Security Benefits Could Shrink by $2,560 in 2035 -- and Not for the Reason You'd Think",
+      "description": "Key PointsMuch of the concern about Social Security has to do with the trust\nfund running dry and automatic benefit cuts happening.",
+      "content": "Key PointsMuch of the concern about Social Security has to do with the trust\nfund running dry and automatic benefit cuts happening.",
+      "url": "https://nasdaq.com/articles/social-security-benefits-could-shrink-2560-2035-and-not-reason-youd-think",
+      "publishedAt": "2026-06-28T02:35:00.000Z",
+      "author": "The Motley Fool",
+      "categories": [
+        "Markets"
+      ],
+      "source": {
+        "name": "nasdaq.com",
+        "url": "https://www.nasdaq.com/feed/rssoutbound"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQODK251IY0V20C26A6000000/",
+      "title": "星野リゾート流採用のすすめ　「新卒」と「一括」を分離、主体性育む",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQODK251IY0V20C26A6000000",
+      "publishedAt": "2026-06-28T02:30:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUA272H80X20C26A6000000/",
+      "title": "交通空白「29年までに解消」　政府が新目標、自動運転を活用へ",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUA272H80X20C26A6000000",
+      "publishedAt": "2026-06-28T02:16:46.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -48,6 +460,90 @@
       }
     },
     {
+      "id": "https://www.nikkei.com/article/DGXZQOGR24CNT0U6A620C2000000/",
+      "title": "ウクライナ、避難民800万人の帰国促す　労働力不足や欧州「支援疲れ」",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGR24CNT0U6A620C2000000",
+      "publishedAt": "2026-06-28T02:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUD158M50V10C26A6000000/",
+      "title": "ブッキング・ドットコムの予約情報漏洩か、詐欺誘導多発　カード情報盗難",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUD158M50V10C26A6000000",
+      "publishedAt": "2026-06-28T02:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOCD2279K0S6A620C2000000/",
+      "title": "政官、半径5メートルから踏み出せ　風雪に耐える長期構想を",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOCD2279K0S6A620C2000000",
+      "publishedAt": "2026-06-28T02:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOCD262YN0W6A620C2000000/",
+      "title": "じわり広がる「おとなのFX」　レバレッジ控えめ、円安が追い風",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOCD262YN0W6A620C2000000",
+      "publishedAt": "2026-06-28T02:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOFD222R80S6A620C2000000/",
+      "title": "コメダ上場10年で迎えた踊り場　次の成長占う「和」のもてなし",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOFD222R80S6A620C2000000",
+      "publishedAt": "2026-06-28T02:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGN2100R0R20C26A6000000/",
+      "title": "米戦費12兆円の効果乏しく　イラン攻撃、2カ月で日本の防衛予算超す",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGN2100R0R20C26A6000000",
+      "publishedAt": "2026-06-28T02:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
       "id": "https://www.nasdaq.com/articles/millions-investors-are-about-own-spacex-stock-indirectly-whether-they-want-or-not?time=1782611520",
       "title": "Millions of Investors Are About to Own SpaceX Stock Indirectly -- Whether They Want to or Not",
       "description": "Key PointsSpaceX joined the Russell 1000 this month under a new fast-track rule,\njust weeks after the largest IPO in history.",
@@ -75,6 +571,20 @@
       "source": {
         "name": "investing.com",
         "url": "https://www.investing.com"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQODH271GN0X20C26A6000000/",
+      "title": "手品師は笑う　アンチェロッティ監督が呼び戻したブラジルの「幻想」",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQODH271GN0X20C26A6000000",
+      "publishedAt": "2026-06-28T01:30:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -188,22 +698,6 @@
       }
     },
     {
-      "id": "https://www.nasdaq.com/articles/should-you-buy-bitcoin-while-its-under-70000-answer-might-surprise-you?time=1782604860",
-      "title": "Should You Buy Bitcoin While It's Under $70,000? The Answer Might Surprise You.",
-      "description": "Key PointsBitcoin has plummeted by 50% from last year's record high, and it's\nbecoming harder to make a bullish case for the cryptocurrency.",
-      "content": "Key PointsBitcoin has plummeted by 50% from last year's record high, and it's\nbecoming harder to make a bullish case for the cryptocurrency.",
-      "url": "https://nasdaq.com/articles/should-you-buy-bitcoin-while-its-under-70000-answer-might-surprise-you",
-      "publishedAt": "2026-06-28T00:01:00.000Z",
-      "author": "The Motley Fool",
-      "categories": [
-        "Markets"
-      ],
-      "source": {
-        "name": "nasdaq.com",
-        "url": "https://www.nasdaq.com/feed/rssoutbound"
-      }
-    },
-    {
       "id": "https://www.nikkei.com/article/DGXZQOKC2805Y0Y6A620C2000000/",
       "title": "畑岡奈紗、19位に後退　全米女子プロゴルフ第3日",
       "description": "",
@@ -232,54 +726,6 @@
       }
     },
     {
-      "id": "https://www.nasdaq.com/articles/hedge-funds-are-buying-amazon-stock-should-you-join-too?time=1782603540",
-      "title": "Hedge Funds Are Buying Up Amazon Stock. Should You Join In, Too?",
-      "description": "Key PointsShares of Amazon are down about 1% in 2026, underperforming the\nbroader market.",
-      "content": "Key PointsShares of Amazon are down about 1% in 2026, underperforming the\nbroader market.",
-      "url": "https://nasdaq.com/articles/hedge-funds-are-buying-amazon-stock-should-you-join-too",
-      "publishedAt": "2026-06-27T23:39:00.000Z",
-      "author": "The Motley Fool",
-      "categories": [
-        "Markets"
-      ],
-      "source": {
-        "name": "nasdaq.com",
-        "url": "https://www.nasdaq.com/feed/rssoutbound"
-      }
-    },
-    {
-      "id": "https://www.nasdaq.com/articles/2-warren-buffett-stocks-buy-and-hold-next-20-years?time=1782603300",
-      "title": "2 Warren Buffett Stocks to Buy and Hold for the Next 20 Years",
-      "description": "Key PointsCoca-Cola has preserved its pricing power and capital while funding a\nlegendary dividend.",
-      "content": "Key PointsCoca-Cola has preserved its pricing power and capital while funding a\nlegendary dividend.",
-      "url": "https://nasdaq.com/articles/2-warren-buffett-stocks-buy-and-hold-next-20-years",
-      "publishedAt": "2026-06-27T23:35:00.000Z",
-      "author": "The Motley Fool",
-      "categories": [
-        "Markets"
-      ],
-      "source": {
-        "name": "nasdaq.com",
-        "url": "https://www.nasdaq.com/feed/rssoutbound"
-      }
-    },
-    {
-      "id": "https://www.nasdaq.com/articles/strangest-ai-stock-2026-doesnt-make-chips-it-owns-land-texas?time=1782603060",
-      "title": "The Strangest AI Stock of 2026 Doesn't Make Chips. It Owns Land in Texas.",
-      "description": "Key PointsTexas Pacific Land owns about 880,000 acres of surface land, most of\nit in the Permian Basin.",
-      "content": "Key PointsTexas Pacific Land owns about 880,000 acres of surface land, most of\nit in the Permian Basin.",
-      "url": "https://nasdaq.com/articles/strangest-ai-stock-2026-doesnt-make-chips-it-owns-land-texas",
-      "publishedAt": "2026-06-27T23:31:00.000Z",
-      "author": "The Motley Fool",
-      "categories": [
-        "Markets"
-      ],
-      "source": {
-        "name": "nasdaq.com",
-        "url": "https://www.nasdaq.com/feed/rssoutbound"
-      }
-    },
-    {
       "id": "https://www.nikkei.com/article/DGXZQOUA2806O0Y6A620C2000000/",
       "title": "小泉進次郎防衛相、韓国空軍を視察　飛行チーム隊員と交流",
       "description": "",
@@ -294,80 +740,6 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOGM272H20X20C26A6000000/",
-      "title": "中国・ロシア両軍機、日本海や東シナ海上空を合同飛行　日本を威圧か",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGM272H20X20C26A6000000",
-      "publishedAt": "2026-06-27T23:16:11.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQODH272870X20C26A6000000/",
-      "title": "イングランドL組1位、クロアチア2位で決勝Tへ　サッカーW杯",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQODH272870X20C26A6000000",
-      "publishedAt": "2026-06-27T23:08:21.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nasdaq.com/articles/market-panicking-you-should-keep-buying-shares-artificial-intelligence-ai-powerhouse?time=1782601500",
-      "title": "The Market Is Panicking, But You Should Keep Buying Shares of This Artificial Intelligence (AI) Powerhouse",
-      "description": "Key PointsBroadcom expects huge growth in 2027.",
-      "content": "Key PointsBroadcom expects huge growth in 2027.",
-      "url": "https://nasdaq.com/articles/market-panicking-you-should-keep-buying-shares-artificial-intelligence-ai-powerhouse",
-      "publishedAt": "2026-06-27T23:05:00.000Z",
-      "author": "The Motley Fool",
-      "categories": [
-        "Markets"
-      ],
-      "source": {
-        "name": "nasdaq.com",
-        "url": "https://www.nasdaq.com/feed/rssoutbound"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOGN2803L0Y6A620C2000000/",
-      "title": "米軍、イラン軍事施設を再攻撃　「停戦合意順守せず」報復の応酬激化",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGN2803L0Y6A620C2000000",
-      "publishedAt": "2026-06-27T22:51:58.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nasdaq.com/articles/how-many-starlink-satellites-can-spacex-launch-year?time=1782600600",
-      "title": "How Many Starlink Satellites Can SpaceX Launch This Year?",
-      "description": "Key PointsSpaceX has already managed to launch more than 1,500 satellites in\n2026.",
-      "content": "Key PointsSpaceX has already managed to launch more than 1,500 satellites in\n2026.",
-      "url": "https://nasdaq.com/articles/how-many-starlink-satellites-can-spacex-launch-year",
-      "publishedAt": "2026-06-27T22:50:00.000Z",
-      "author": "The Motley Fool",
-      "categories": [
-        "Markets"
-      ],
-      "source": {
-        "name": "nasdaq.com",
-        "url": "https://www.nasdaq.com/feed/rssoutbound"
-      }
-    },
-    {
       "id": "https://www.nikkei.com/article/DGXZQOUD2800T0Y6A620C2000000/",
       "title": "青森・岩手で震度5弱の地震、M6.1　津波の心配なし",
       "description": "",
@@ -379,22 +751,6 @@
       "source": {
         "name": "nikkei.com",
         "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nasdaq.com/articles/3-stocks-im-not-selling-no-matter-what-market-does?time=1782599700",
-      "title": "3 Stocks I'm Not Selling No Matter What the Market Does",
-      "description": "Key PointsThe stock market goes up and down; trying to time the swings is\ndifficult.",
-      "content": "Key PointsThe stock market goes up and down; trying to time the swings is\ndifficult.",
-      "url": "https://nasdaq.com/articles/3-stocks-im-not-selling-no-matter-what-market-does",
-      "publishedAt": "2026-06-27T22:35:00.000Z",
-      "author": "The Motley Fool",
-      "categories": [
-        "Markets"
-      ],
-      "source": {
-        "name": "nasdaq.com",
-        "url": "https://www.nasdaq.com/feed/rssoutbound"
       }
     },
     {
@@ -454,20 +810,6 @@
       }
     },
     {
-      "id": "567ba6a4-809f-4e8e-a8f3-03855beb9a48",
-      "title": "UK’s Bridgepoint nears deal to buy real estate unit in bet on US property",
-      "description": "London-based buyout group is looking beyond its traditional speciality in\ncorporate buyouts",
-      "content": "London-based buyout group is looking beyond its traditional speciality in\ncorporate buyouts",
-      "url": "https://ft.com/content/567ba6a4-809f-4e8e-a8f3-03855beb9a48",
-      "publishedAt": "2026-06-27T20:00:33.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "ft.com",
-        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
-      }
-    },
-    {
       "id": "https://www.nikkei.com/article/DGXZQOUD12CRY0S6A610C2000000/",
       "title": "ワールドカップの地ダラス、元サッカー少年がたどり着いた勝負の場所",
       "description": "",
@@ -524,230 +866,6 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOCD17APR0X10C26A6000000/",
-      "title": "「日本のUSB送れ」留学生に密命　過去のサイバー攻撃に中国軍の影",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCD17APR0X10C26A6000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOGM229ZG0S6A620C2000000/",
-      "title": "中国バイク産業が飛躍　レジャー向け、部品や競技場が支え",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGM229ZG0S6A620C2000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOCB169350W6A610C2000000/",
-      "title": "ホルムズ機雷「除去に1〜2カ月」と元海自指揮官　湾岸戦争時は半年",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCB169350W6A610C2000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOCC198ZM0Z10C26A6000000/",
-      "title": "米アイダホ大学、広島大学キャンパス内に分校　日米で半導体人材育成",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCC198ZM0Z10C26A6000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUF288G10Y6A520C2000000/",
-      "title": "生活習慣介入で老化抑制、筋力や認知力など改善傾向　大阪大発新興",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUF288G10Y6A520C2000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUB196RS0Z10C26A6000000/",
-      "title": "DAZNとANAのネット炎上から考える「怒りのコスト」の重み",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUB196RS0Z10C26A6000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOCC096F40Z00C26A6000000/",
-      "title": "給食無償化、自治体の独自策が目白押し　「小1の壁」解消支援も浸透",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCC096F40Z00C26A6000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUA254OV0V20C26A6000000/",
-      "title": "日本語試験の実施回数を拡充　外国人労働者が増加、需要に対応",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUA254OV0V20C26A6000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUC212SM0R20C26A6000000/",
-      "title": "「バイトル」、インディードとガチンコ勝負　対抗へクリック課金導入",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUC212SM0R20C26A6000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUC232NU0T20C26A5000000/",
-      "title": "編み物熱は夏も沸騰中　通年の趣味へ変化、ポップな色味で涼やかに",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUC232NU0T20C26A5000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOCB182L20Y6A510C2000000/",
-      "title": "戦争は甚大な環境破壊「復興に長い時間」　国連幹部と研究者が警鐘",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCB182L20Y6A510C2000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQODH272LS0X20C26A6000000/",
-      "title": "W杯ブラジル代表の強み・弱み探る記事4選　日本と30日に対戦",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQODH272LS0X20C26A6000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOSG0826B0Y6A600C2000000/",
-      "title": "UFOや心霊、幽体離脱…　超常現象の正体に科学で迫る",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOSG0826B0Y6A600C2000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOSG2323F0T20C26A6000000/",
-      "title": "認知症は「脳だけの疾患」にあらず　日米中の研究者が淡路島で議論",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOSG2323F0T20C26A6000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUA221GA0S6A620C2000000/",
-      "title": "「農村の中にも3年」　ヨソモノ企業定着へ、農水省が効果証明書",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUA221GA0S6A620C2000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUD270PL0X20C26A5000000/",
-      "title": "なりすましメール防御、甘い日本　危機意識乏しく詐欺の標的に",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUD270PL0X20C26A5000000",
-      "publishedAt": "2026-06-27T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
       "id": "https://www.investing.com/news/stock-market-news/australia-targets-big-tech-with-tougher-penalties-as-child-social-media-ban-proves-4764049",
       "title": "Australia to double fines as child social media ban struggles to curb usage",
       "description": "",
@@ -759,6 +877,34 @@
       "source": {
         "name": "investing.com",
         "url": "https://www.investing.com"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1uhbv43/uipath_path_dd_lumpy_revenue_to_secular_growth/",
+      "title": "(UIPATH) $PATH DD - Lumpy Revenue To Secular Growth",
+      "description": "Long term seeker, first time writer, I need to challenge my own thesis to reduce\nor add more capital. I'm not going write everything but just a current overview.\nThis is a boring company with possible huge tailwinds. Bears used to say \"AI is\neating their lunch\" to now \"they are growing too slow\". As we all know they are\na neutral agentic enterprise that designs any vertical systems to work each\nother instead of having enterprises go through multiple disconnected systems to\ndo tasks which takes up a lot of time. Daniel Dines, UiPath CEO, called it 2\nyears ago before any other software CEOs even thought about it. Now they're\nahead, got the edge to expand their relationships with a Lot of their fortune\n500 customers. Now lets get to the fun part: The 3 Levers that can flip UIPath\nrevenue from cyclical to linear Standardize \"Out-of-the-box\" vertical AI\nPlaybooks is a collection of pre-built, industry-specific AI automation\nsolutions and methodologies. Rather than building workflows from scratch, it\nallows organizations (such as those in healthcare, financial services, and\nretail) to deploy domain-specific AI agents and automations almost instantly.\nSoftware Licensing & No Platform Unit Pricing - This might be a huge issue, it\nslows down customer adoption and consumption. This is possible where can do\nfrictionless up-selling whereas they can do ai credits/units, outcome pricing &\netc. They are not doing it and management knows it's a problem, they mentioned\nit in Q4 FY26. Target Low-Code + \"Cross-Platform\" Adopters - Look how their\ninnovating and scaling time for customers. EX: maestro case & coding agents.\nResearch it. This basically as of now UiPath time to value just like Palantir\nBootcamps. What To Watch for: big DoD deals, RPO growth, NDR increase, AI agent\ntokenization fallout & Ungoverned. 4100 shares @ $12.84. submitted by\n/u/correa_aesth [link] [comments]",
+      "content": "Long term seeker, first time writer, I need to challenge my own thesis to reduce\nor add more capital. I'm not going write everything but just a current overview.\nThis is a boring company with possible huge tailwinds. Bears used to say \"AI is\neating their lunch\" to now \"they are growing too slow\".\n\nAs we all know they are a neutral agentic enterprise that designs any vertical\nsystems to work each other instead of having enterprises go through multiple\ndisconnected systems to do tasks which takes up a lot of time. Daniel Dines,\nUiPath CEO, called it 2 years ago before any other software CEOs even thought\nabout it. Now they're ahead, got the edge to expand their relationships with a\nLot of their fortune 500 customers. Now lets get to the fun part: The 3 Levers\nthat can flip UIPath revenue from cyclical to linear\n\n 1. Standardize \"Out-of-the-box\" vertical AI Playbooks is a collection of\n    pre-built, industry-specific AI automation solutions and methodologies.\n    Rather than building workflows from scratch, it allows organizations (such\n    as those in healthcare, financial services, and retail) to deploy\n    domain-specific AI agents and automations almost instantly.\n 2. Software Licensing & No Platform Unit Pricing - This might be a huge issue,\n    it slows down customer adoption and consumption. This is possible where can\n    do frictionless up-selling whereas they can do ai credits/units, outcome\n    pricing & etc. They are not doing it and management knows it's a problem,\n    they mentioned it in Q4 FY26.\n 3. Target Low-Code + \"Cross-Platform\" Adopters - Look how their innovating and\n    scaling time for customers. EX: maestro case & coding agents. Research it.\n    This basically as of now UiPath time to value just like Palantir Bootcamps.\n\nWhat To Watch for: big DoD deals, RPO growth, NDR increase, AI agent\ntokenization fallout & Ungoverned.\n\n4100 shares @ $12.84.\n\nsubmitted by /u/correa_aesth [https://old.reddit.com/user/correa_aesth]\n[link]\n[https://old.reddit.com/r/stocks/comments/1uhbv43/uipath_path_dd_lumpy_revenue_to_secular_growth/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1uhbv43/uipath_path_dd_lumpy_revenue_to_secular_growth/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1uhbv43/uipath_path_dd_lumpy_revenue_to_secular_growth",
+      "publishedAt": "2026-06-27T19:40:03.000Z",
+      "author": "/u/correa_aesth",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1uhb65l/dead_money_or_hold/",
+      "title": "Dead Money or hold?",
+      "description": "I’m primary a buy and hold guy. Using my account like a savings account. I was\nover 200% and stoked last year and then about 8 months ago my account seriously\nlost. 🤣 I’m at about 24% overall now. Actually negative for YTD. I’m all AI. I\nfeel like my money is dead, not working. My thinking is keep put. I’d hate to\nsell something and lose money. All good companies, but making great returns. Sit\nand wait I guess. I don’t need the money right now but shit, tough to look at\nit!🤷‍♂️ submitted by /u/Runningforthefinish [link] [comments]",
+      "content": "I’m primary a buy and hold guy. Using my account like a savings account. I was\nover 200% and stoked last year and then about 8 months ago my account seriously\nlost. 🤣 I’m at about 24% overall now. Actually negative for YTD. I’m all AI. I\nfeel like my money is dead, not working. My thinking is keep put. I’d hate to\nsell something and lose money. All good companies, but making great returns. Sit\nand wait I guess. I don’t need the money right now but shit, tough to look at\nit!🤷‍♂️\n\nsubmitted by /u/Runningforthefinish\n[https://old.reddit.com/user/Runningforthefinish]\n[link] [https://old.reddit.com/r/stocks/comments/1uhb65l/dead_money_or_hold/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1uhb65l/dead_money_or_hold/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1uhb65l/dead_money_or_hold",
+      "publishedAt": "2026-06-27T19:11:23.000Z",
+      "author": "/u/Runningforthefinish",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
       }
     },
     {
@@ -824,6 +970,62 @@
       }
     },
     {
+      "id": "https://old.reddit.com/r/stocks/comments/1uh71vu/wash_sale_question/",
+      "title": "Wash sale question",
+      "description": "Let’s say I have Stock A which currently is at a loss of -$10k and Stock B which\nhas gains at $10k. If I sell both Stock A and Stock B my gains for the year will\nbe 0 so I will pay no tax on the gains from Stock B because the losses from\nStock A balance it out. If I wait 31 days from the sale, and then on the 31st\nday buy back into Stock A, I will still be able to count the losses from my\noriginal sale, and now have a new position in Stock A correct? submitted by\n/u/john4718 [link] [comments]",
+      "content": "Let’s say I have Stock A which currently is at a loss of -$10k and Stock B which\nhas gains at $10k.\n\nIf I sell both Stock A and Stock B my gains for the year will be 0 so I will pay\nno tax on the gains from Stock B because the losses from Stock A balance it out.\n\nIf I wait 31 days from the sale, and then on the 31st day buy back into Stock A,\nI will still be able to count the losses from my original sale, and now have a\nnew position in Stock A correct?\n\nsubmitted by /u/john4718 [https://old.reddit.com/user/john4718]\n[link] [https://old.reddit.com/r/stocks/comments/1uh71vu/wash_sale_question/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1uh71vu/wash_sale_question/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1uh71vu/wash_sale_question",
+      "publishedAt": "2026-06-27T16:25:53.000Z",
+      "author": "/u/john4718",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1uh6ldj/stock_market_vs_ai_vs_layoffs/",
+      "title": "Stock market vs AI vs Layoffs",
+      "description": "For the past several years, companies have used AI as an excuse to lay off a\nmassive number of employees. There have been layoffs everywhere, across every\nsector, including hospitals. Is AI really an equally effective replacement for\nhumans? If you interview people who survived a layoff, they will tell you that\nthey are being worked to the bone after their teams were reduced. They are being\noverworked but have nowhere to go, because most jobs are just ghost jobs. But\nlet’s look at the stock market: this is the strongest market run the world has\never experienced. AI is great. Everyone is getting rich. But in reality, the\nmajority of people have been suffering in silence. Is AI really good for the\naverage person? Share your thoughts! submitted by /u/Ohlele [link] [comments]",
+      "content": "For the past several years, companies have used AI as an excuse to lay off a\nmassive number of employees. There have been layoffs everywhere, across every\nsector, including hospitals.\n\nIs AI really an equally effective replacement for humans? If you interview\npeople who survived a layoff, they will tell you that they are being worked to\nthe bone after their teams were reduced. They are being overworked but have\nnowhere to go, because most jobs are just ghost jobs.\n\nBut let’s look at the stock market: this is the strongest market run the world\nhas ever experienced. AI is great. Everyone is getting rich. But in reality, the\nmajority of people have been suffering in silence.\n\nIs AI really good for the average person?\n\nShare your thoughts!\n\nsubmitted by /u/Ohlele [https://old.reddit.com/user/Ohlele]\n[link]\n[https://old.reddit.com/r/stocks/comments/1uh6ldj/stock_market_vs_ai_vs_layoffs/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1uh6ldj/stock_market_vs_ai_vs_layoffs/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1uh6ldj/stock_market_vs_ai_vs_layoffs",
+      "publishedAt": "2026-06-27T16:07:19.000Z",
+      "author": "/u/Ohlele",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1uh6f4u/rstocks_weekly_thread_on_meme_stocks_saturday_jun/",
+      "title": "r/Stocks Weekly Thread on Meme Stocks Saturday - Jun 27, 2026",
+      "description": "The meme stock scheduled posts will now run weekly and post Saturday afternoon\nand won't be a sticky; you're probably seeing this because automod sent you\nhere! Full list of meme stocks here. This will be updated every once in a while.\nWelcome traders who just can't help them selves discuss the same exact stock\nthat's been discussed 100s of times a day. I get it, you want to talk about\nwhat's popular, what's hot, and that 1.. single.. stock you like.. well here you\ngo! Some helpful links just for you: Previous meme stock threads General\ndiscussions The original GME megathread with a ton of useful information Use\nFinviz for aggregated news on your favorite stock An important message from the\nmod team regarding meme stocks. Lastly if you need professional help: Problem\nGambling: Call/Text: 1-800-522-4700 or chat online now. Crisis Hotline (24/7):\n1-800-273-TALK (8255) (Veterans, press 1) or Text “HOME” to 741-741 submitted by\n/u/AutoModerator [link] [comments]",
+      "content": "The meme stock scheduled posts will now run weekly and post Saturday afternoon\nand won't be a sticky; you're probably seeing this because automod sent you\nhere!\n\nFull list of meme stocks here.\n[https://www.reddit.com/r/stocks/wiki/meme-stocks] This will be updated every\nonce in a while.\n\n--------------------------------------------------------------------------------\n\nWelcome traders who just can't help them selves discuss the same exact stock\nthat's been discussed 100s of times a day. I get it, you want to talk about\nwhat's popular, what's hot, and that 1.. single.. stock you like.. well here you\ngo! Some helpful links just for you:\n\n * Previous meme stock threads\n   [https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3A%28common+OR+meme%29&restrict_sr=on&include_over_18=on&sort=new&t=all]\n * General discussions\n   [https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Adiscussion&restrict_sr=on&include_over_18=on&sort=new&t=all]\n * The original GME megathread\n   [https://www.reddit.com/r/stocks/comments/layb68/rstocks_gme_megathread/]\n   with a ton of useful information\n * Use Finviz for aggregated news on your favorite stock\n   [https://finviz.com/quote.ashx?t=gme]\n\nAn important message from the mod team regarding meme stocks.\n[https://www.reddit.com/r/stocks/wiki/meme-stocks-warning]\n\nLastly if you need professional help:\n\n * Problem Gambling: Call/Text: 1-800-522-4700 or chat online now.\n   [https://WWW.NCPGAMBLING.ORG/CHAT]\n * Crisis Hotline (24/7): 1-800-273-TALK (8255) (Veterans, press 1) or Text\n   “HOME” to 741-741\n\nsubmitted by /u/AutoModerator [https://old.reddit.com/user/AutoModerator]\n[link]\n[https://old.reddit.com/r/stocks/comments/1uh6f4u/rstocks_weekly_thread_on_meme_stocks_saturday_jun/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1uh6f4u/rstocks_weekly_thread_on_meme_stocks_saturday_jun/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1uh6f4u/rstocks_weekly_thread_on_meme_stocks_saturday_jun",
+      "publishedAt": "2026-06-27T16:00:28.000Z",
+      "author": "/u/AutoModerator",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1uh6a9g/i_finally_added_up_what_my_so_called_diversified/",
+      "title": "I finally added up what my so called diversified portfolio actually costs me and I feel sick",
+      "description": "I have been lurking here for probably twelve years. Late thirties, married, one\nkid in elementary school. For years I told people at parties that I was a stock\npicker, that I did my own research, that I was diversified across sectors and\nstyles and geographies. Last weekend I finally sat down with every statement and\nspreadsheet I could find and mapped what I actually own. Nineteen positions\nacross a 401k and a taxable account that I have been contributing to since I was\ntwenty four. The thing I was avoiding for a decade took maybe four hours total.\nTwo of those hours were just finding old passwords. A simple sheet. Every\nholding, its percentage of the total, its expense ratio, its top ten names. Then\nthe part I never did: looking through the funds to see what they actually\ncontained, not what the names promised. The two large cap blend funds bought\nfive years apart? Same top ten names, same order, different expense ratios. The\nvalue fund my uncle recommended in 2016? Twenty eight percent technology. The\ntarget date fund I never bothered to roll over from an old job? Heavy growth\ntilt, heavy US tilt. Weighted out, my true technology exposure is about fifty\neight percent. Not the twenty or twenty five percent I would have guessed.\nBasically a leveraged bet on a single sector with extra steps. The blended\nexpense ratio across everything comes to 0.63%. Not monstrous by active\nmanagement standards, but my target setup, a basic three fund portfolio, would\nrun about 0.04%. Running the fee drag forward on around four hundred thirty\nthousand, the gap between 0.63% and 0.04% plus the active fund's documented\ntrailing of the broad index by a couple points annually, comes to about $94k\nover twenty years assuming roughly 2.1% combined fee and underperformance drag.\nThat is close to a year of college for my kid at a state school, vaporized\nbecause I liked feeling clever and having nineteen line items instead of three.\nThe active fund sits at 0.71%. It trailed its benchmark in four of the last five\nyears. I held it because the prospectus sounded sophisticated, because my uncle\nis successful, because selling felt like admitting I was wrong. The overlap\nbetween those two large cap funds is nearly identical. Paying twice for the same\nbasket and calling it diversified. Consolidating now. Keeping two single stock\npositions from 2014, about eight percent total, more for psychology than any\nedge I pretend to have. The rest goes to a total world index and a broad\ndomestic index. Boring. Embarrassing to explain at parties maybe. My wife asked\nwhy I was just sitting at the kitchen table at midnight. Told her I had finally\ndone the math we should have done ten years ago. She said okay, went to bed, and\nI sat there another hour adding it up again hoping I had made a mistake. Had\nnot. Disclosure since the rules ask: still long two single names, about four\npercent each. Not selling those. submitted by /u/Proud-Marsupial-6696 [link]\n[comments]",
+      "content": "I have been lurking here for probably twelve years. Late thirties, married, one\nkid in elementary school. For years I told people at parties that I was a stock\npicker, that I did my own research, that I was diversified across sectors and\nstyles and geographies. Last weekend I finally sat down with every statement and\nspreadsheet I could find and mapped what I actually own. Nineteen positions\nacross a 401k and a taxable account that I have been contributing to since I was\ntwenty four.\n\nThe thing I was avoiding for a decade took maybe four hours total. Two of those\nhours were just finding old passwords.\n\nA simple sheet. Every holding, its percentage of the total, its expense ratio,\nits top ten names. Then the part I never did: looking through the funds to see\nwhat they actually contained, not what the names promised. The two large cap\nblend funds bought five years apart? Same top ten names, same order, different\nexpense ratios. The value fund my uncle recommended in 2016? Twenty eight\npercent technology. The target date fund I never bothered to roll over from an\nold job? Heavy growth tilt, heavy US tilt.\n\nWeighted out, my true technology exposure is about fifty eight percent. Not the\ntwenty or twenty five percent I would have guessed. Basically a leveraged bet on\na single sector with extra steps. The blended expense ratio across everything\ncomes to 0.63%. Not monstrous by active management standards, but my target\nsetup, a basic three fund portfolio, would run about 0.04%.\n\nRunning the fee drag forward on around four hundred thirty thousand, the gap\nbetween 0.63% and 0.04% plus the active fund's documented trailing of the broad\nindex by a couple points annually, comes to about $94k over twenty years\nassuming roughly 2.1% combined fee and underperformance drag. That is close to a\nyear of college for my kid at a state school, vaporized because I liked feeling\nclever and having nineteen line items instead of three.\n\nThe active fund sits at 0.71%. It trailed its benchmark in four of the last five\nyears. I held it because the prospectus sounded sophisticated, because my uncle\nis successful, because selling felt like admitting I was wrong. The overlap\nbetween those two large cap funds is nearly identical. Paying twice for the same\nbasket and calling it diversified.\n\nConsolidating now. Keeping two single stock positions from 2014, about eight\npercent total, more for psychology than any edge I pretend to have. The rest\ngoes to a total world index and a broad domestic index. Boring. Embarrassing to\nexplain at parties maybe. My wife asked why I was just sitting at the kitchen\ntable at midnight. Told her I had finally done the math we should have done ten\nyears ago. She said okay, went to bed, and I sat there another hour adding it up\nagain hoping I had made a mistake. Had not.\n\nDisclosure since the rules ask: still long two single names, about four percent\neach. Not selling those.\n\nsubmitted by /u/Proud-Marsupial-6696\n[https://old.reddit.com/user/Proud-Marsupial-6696]\n[link]\n[https://old.reddit.com/r/stocks/comments/1uh6a9g/i_finally_added_up_what_my_so_called_diversified/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1uh6a9g/i_finally_added_up_what_my_so_called_diversified/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1uh6a9g/i_finally_added_up_what_my_so_called_diversified",
+      "publishedAt": "2026-06-27T15:55:06.000Z",
+      "author": "/u/Proud-Marsupial-6696",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
       "id": "https://www.investing.com/news/stock-market-news/ubs-outlines-portfolio-playbook-for-uncertain-markets-4764039",
       "title": "UBS outlines portfolio playbook for uncertain markets",
       "description": "",
@@ -838,17 +1040,59 @@
       }
     },
     {
-      "id": "https://www.investing.com/news/stock-market-news/why-a-30year-low-in-bondequity-correlation-matters-for-your-portfolio-4763993",
-      "title": "Why a 30-year low in bond-equity correlation matters for your portfolio",
+      "id": "best-cd-rates-today-saturday-june-27-2026-best-account-provides-410-apy-100000070.html",
+      "title": "Best CD rates today, Saturday, June 27, 2026: Best account provides 4.10% APY",
       "description": "",
       "content": "",
-      "url": "https://investing.com/news/stock-market-news/why-a-30year-low-in-bondequity-correlation-matters-for-your-portfolio-4763993",
-      "publishedAt": "2026-06-27T13:13:23.000Z",
-      "author": "Investing.com",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-june-27-2026-best-account-provides-410-apy-100000070.html",
+      "publishedAt": "2026-06-27T10:00:00.000Z",
+      "author": null,
       "categories": [],
       "source": {
-        "name": "investing.com",
-        "url": "https://www.investing.com"
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "mortgage-and-refinance-interest-rates-today-saturday-june-27-2026-lowest-30-year-rate-since-april-100000248.html",
+      "title": "Mortgage and refinance interest rates today, Saturday, June 27, 2026: Lowest 30-year rate since April",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-june-27-2026-lowest-30-year-rate-since-april-100000248.html",
+      "publishedAt": "2026-06-27T10:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "heloc-and-home-equity-loan-rates-saturday-june-27-2026-fedwatch-tool-suggests-higher-rates-are-coming-100000972.html",
+      "title": "HELOC and home equity loan rates Saturday, June 27, 2026: 'FedWatch' tool suggests higher rates are coming",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-saturday-june-27-2026-fedwatch-tool-suggests-higher-rates-are-coming-100000972.html",
+      "publishedAt": "2026-06-27T10:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "best-high-yield-savings-interest-rates-today-saturday-june-27-2026-earn-up-to-410-apy-100000193.html",
+      "title": "Best high-yield savings interest rates today, Saturday, June 27, 2026: Earn up to 4.10% APY",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-june-27-2026-earn-up-to-410-apy-100000193.html",
+      "publishedAt": "2026-06-27T10:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
       }
     },
     {
@@ -882,6 +1126,20 @@
       }
     },
     {
+      "id": "americans-now-think-they-need-146-million-to-retire--200k-more-than-last-year--and-half-fear-it-wont-last-094500017.html",
+      "title": "Americans now think they need $1.46 million to retire — $200K more than last year — and half fear it won't last",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/articles/americans-now-think-they-need-146-million-to-retire--200k-more-than-last-year--and-half-fear-it-wont-last-094500017.html",
+      "publishedAt": "2026-06-27T09:45:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
       "id": "e5aa937c-bc52-4973-bf21-bfb6afd1d95d",
       "title": "Chipmakers are expensive globally",
       "description": "Valuations are high for AI-exposed markets",
@@ -893,6 +1151,62 @@
       "source": {
         "name": "ft.com",
         "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1ugy8bl/rstocks_weekend_discussion_saturday_jun_27_2026/",
+      "title": "/r/Stocks Weekend Discussion Saturday - Jun 27, 2026",
+      "description": "This is the weekend edition of our stickied discussion thread. Discuss your\ntrades / moves from last week and what you're planning on doing for the week\nahead. Some helpful links: Finviz for charts, fundamentals, and aggregated news\non individual stocks Bloomberg market news StreetInsider news: Market Check -\nPossibly why the market is doing what it's doing including sudden spikes/dips\nReuters aggregated - Global news If you have a basic question, for example \"what\nis EPS,\" then google \"investopedia EPS\" and click the investopedia article on\nit; do this for everything until you have a more in depth question or just want\nto share what you learned. Please discuss your portfolios in the Rate My\nPortfolio sticky.. See our past daily discussions here. Also links for:\nTechnicals Tuesday, Options Trading Thursday, and Fundamentals Friday. submitted\nby /u/AutoModerator [link] [comments]",
+      "content": "This is the weekend edition of our stickied discussion thread. Discuss your\ntrades / moves from last week and what you're planning on doing for the week\nahead.\n\nSome helpful links:\n\n * Finviz [https://finviz.com/quote.ashx?t=spy] for charts, fundamentals, and\n   aggregated news on individual stocks\n * Bloomberg market news [https://www.bloomberg.com/markets]\n * StreetInsider news:\n * Market Check [https://www.streetinsider.com/Market+Check] - Possibly why the\n   market is doing what it's doing including sudden spikes/dips\n * Reuters aggregated [https://www.streetinsider.com/Reuters] - Global news\n\nIf you have a basic question, for example \"what is EPS,\" then google\n\"investopedia EPS\" and click the investopedia article on it; do this for\neverything until you have a more in depth question or just want to share what\nyou learned.\n\nPlease discuss your portfolios in the Rate My Portfolio sticky.\n[https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3A%22Rate+My+Portfolio%22&restrict_sr=on&sort=new&t=all].\n\nSee our past daily discussions here.\n[https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+%22r%2Fstocks+daily+discussion%22&restrict_sr=on&sort=new&t=all]\nAlso links for: Technicals\n[https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Atechnicals&restrict_sr=on&include_over_18=on&sort=new&t=all]\nTuesday, Options Trading\n[https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Aoptions&restrict_sr=on&include_over_18=on&sort=new&t=all]\nThursday, and Fundamentals\n[https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3Afundamentals&restrict_sr=on&include_over_18=on&sort=new&t=all]\nFriday.\n\nsubmitted by /u/AutoModerator [https://old.reddit.com/user/AutoModerator]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ugy8bl/rstocks_weekend_discussion_saturday_jun_27_2026/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ugy8bl/rstocks_weekend_discussion_saturday_jun_27_2026/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ugy8bl/rstocks_weekend_discussion_saturday_jun_27_2026",
+      "publishedAt": "2026-06-27T09:30:06.000Z",
+      "author": "/u/AutoModerator",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
+      "id": "seminar-told-couple-60s-annuities-093000525.html",
+      "title": "A seminar told a couple in their 60s annuities outperform stocks — a wealth manager says it's not that simple",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/seminar-told-couple-60s-annuities-093000525.html",
+      "publishedAt": "2026-06-27T09:30:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "over-half-americans-retirement-accounts-091500776.html",
+      "title": "Over half of Americans have retirement accounts — but not even 3% of them hit the $1-million mark. What holds them back",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/articles/over-half-americans-retirement-accounts-091500776.html",
+      "publishedAt": "2026-06-27T09:15:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "tech-giants-pouring-billions-ai-090000716.html",
+      "title": "Tech giants are pouring billions into AI — but Bank of America data shows only 3% of households are paying up",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tech-giants-pouring-billions-ai-090000716.html",
+      "publishedAt": "2026-06-27T09:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
       }
     },
     {
@@ -925,6 +1239,202 @@
       "source": {
         "name": "handelsblatt.com",
         "url": "https://www.handelsblatt.com"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1ugtvhq/us_bans_imports_of_more_chinese_technology_goods/",
+      "title": "US bans imports of more Chinese technology goods",
+      "description": "WASHINGTON, June 26 (Reuters) - The U.S. Federal Communications Commission on\nFriday said it will ban the import of more equipment from a group of Chinese\nmanufacturers, the latest move by Washington to crack down on Chinese-made\nelectronic gear. The move expands an FCC ban imposed in 2022 on new models of\ntelecommunications and video surveillance equipment made by Huawei, ZTE, Hytera,\nHikvision, and Dahua, citing U.S. national security risks. The ban now includes\nold models, not just those designed starting in late 2022, of equipment used for\n\"public safety, security of government facilities, physical security\nsurveillance of critical infrastructure, and other national security purposes,”\nthe FCC said. The expanded ban is set to take effect in early July. The FCC said\nthe action \"is necessary to protect national security by mitigating risks to the\nU.S. communications sector.\" The Chinese Embassy in Washington and the companies\ndid not immediately respond to inquiries. The FCC said it would allow Americans\nto continue to use equipment they already own. The ⁠FCC has taken a number of\nactions targeting Chinese tech, including banning imports of all new models of\nChinese drones in December. In March it banned the import of new models of\nChinese-made consumer routers, the boxes that connect computers, phones and\nsmart devices to the internet.\nhttps://www.reuters.com/world/asia-pacific/us-launches-new-chinese-tech-crackdown-will-ban-some-imports-2026-06-26/\nsubmitted by /u/SnooHedgehogs5162 [link] [comments]",
+      "content": "WASHINGTON, June 26 (Reuters) - The U.S. Federal Communications Commission on\nFriday said it will ban the import of more equipment from a group of Chinese\nmanufacturers, the latest move by Washington to crack down on Chinese-made\nelectronic gear.\n\nThe move expands an FCC ban imposed in 2022 on new models of telecommunications\nand video surveillance equipment made by Huawei, ZTE, Hytera, Hikvision, and\nDahua, citing U.S. national security risks.\nThe ban now includes old models, not just those designed starting in late 2022,\nof equipment used for \"public safety, security of government facilities,\nphysical security surveillance of critical infrastructure, and other national\nsecurity purposes,” the FCC said.\n\nThe expanded ban is set to take effect in early July. The FCC said the action\n\"is necessary to protect national security by mitigating risks to the U.S.\ncommunications sector.\"\nThe Chinese Embassy in Washington and the companies did not immediately respond\nto inquiries.\nThe FCC said it would allow Americans to continue to use equipment they already\nown.\n\nThe ⁠FCC has taken a number of actions targeting Chinese tech, including banning\nimports of all new models of Chinese drones in December. In March it banned the\nimport of new models of Chinese-made consumer routers, the boxes that connect\ncomputers, phones and smart devices to the internet.\n\nhttps://www.reuters.com/world/asia-pacific/us-launches-new-chinese-tech-crackdown-will-ban-some-imports-2026-06-26/\n[https://www.reuters.com/world/asia-pacific/us-launches-new-chinese-tech-crackdown-will-ban-some-imports-2026-06-26/]\n\nsubmitted by /u/SnooHedgehogs5162\n[https://old.reddit.com/user/SnooHedgehogs5162]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ugtvhq/us_bans_imports_of_more_chinese_technology_goods/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ugtvhq/us_bans_imports_of_more_chinese_technology_goods/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ugtvhq/us_bans_imports_of_more_chinese_technology_goods",
+      "publishedAt": "2026-06-27T05:19:34.000Z",
+      "author": "/u/SnooHedgehogs5162",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1ugsqgu/ai_is_killing_seatbased_saas_is_stupid/",
+      "title": "\"AI is killing (seat-based) SaaS\" is stupid.",
+      "description": "I work in SaaS. Here are the fears, debunked one by one: People will vibecode\ntheir own SaaS Wrong. Cheaper software has always existed alongside the SaaS\nincumbents. People pick the incumbents still for a reason. Any growing business,\nespecially at scale, would do better to focus on growing their core business\nrather than to dedicate expensive resources (engineers) to go on sidequests to\nvibecode all their SaaS. AI will replace humans, thus cannibalizing seats. What\nwe're seeing anyway is that people are actually spending more. Because all the\nSaaS companies are exposing their workflows & data via API/CLI/MCP, all the\nhumans are now accessing all of the functionality through their native chat\nclients like claude & chatGPT. what happens here is because it's so easy to\ninteract with SaaS (you don't even have to login to ask \"what's going on with\nthis latest lead?\") you end up asking and doing ALOT of work. AI credit spend is\ngoing way up, WITH seats. There is a doomsday scenario here - if AI replaces all\nwhite-collar workers entirely, then yes, seats are dead. But if all white-collar\nworkers are out of work, we'll have bigger problems as a society. The AI labs\nare coming for SaaS. Possibly for some. Claude Design is certainly coming after\nFigma. What's less likely to be replaced are the systems of record (e.g. CRMs\nlike Salesforce and Hubspot, HCM tools like Workday, Oracle, SAP) because\nripping these out is really painful, and any security lapse of any sort\n(especially from a vibecoded tool) is tantamount to organizational suicide\n(think banks, etc.) We have an investor deck that shows a survey of 500+\ncompanies asking them what they're thinking of replacing in the next 5 years.\nThe lowest category was systems of record. submitted by /u/chkrlee [link]\n[comments]",
+      "content": "I work in SaaS. Here are the fears, debunked one by one:\n\n 1. People will vibecode their own SaaS\n\nWrong. Cheaper software has always existed alongside the SaaS incumbents. People\npick the incumbents still for a reason. Any growing business, especially at\nscale, would do better to focus on growing their core business rather than to\ndedicate expensive resources (engineers) to go on sidequests to vibecode all\ntheir SaaS.\n\n 1. AI will replace humans, thus cannibalizing seats.\n\nWhat we're seeing anyway is that people are actually spending more. Because all\nthe SaaS companies are exposing their workflows & data via API/CLI/MCP, all the\nhumans are now accessing all of the functionality through their native chat\nclients like claude & chatGPT. what happens here is because it's so easy to\ninteract with SaaS (you don't even have to login to ask \"what's going on with\nthis latest lead?\") you end up asking and doing ALOT of work. AI credit spend is\ngoing way up, WITH seats.\n\nThere is a doomsday scenario here - if AI replaces all white-collar workers\nentirely, then yes, seats are dead. But if all white-collar workers are out of\nwork, we'll have bigger problems as a society.\n\n 1. The AI labs are coming for SaaS.\n\nPossibly for some. Claude Design is certainly coming after Figma. What's less\nlikely to be replaced are the systems of record (e.g. CRMs like Salesforce and\nHubspot, HCM tools like Workday, Oracle, SAP) because ripping these out is\nreally painful, and any security lapse of any sort (especially from a vibecoded\ntool) is tantamount to organizational suicide (think banks, etc.) We have an\ninvestor deck that shows a survey of 500+ companies asking them what they're\nthinking of replacing in the next 5 years. The lowest category was systems of\nrecord.\n\nsubmitted by /u/chkrlee [https://old.reddit.com/user/chkrlee]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ugsqgu/ai_is_killing_seatbased_saas_is_stupid/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ugsqgu/ai_is_killing_seatbased_saas_is_stupid/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ugsqgu/ai_is_killing_seatbased_saas_is_stupid",
+      "publishedAt": "2026-06-27T04:20:17.000Z",
+      "author": "/u/chkrlee",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
+      "id": "keurig-dr-pepper-reaffirms-fy26-041439273.html",
+      "title": "Keurig Dr Pepper Reaffirms FY26 Guidance Amid Important Leadership Change",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-reaffirms-fy26-041439273.html",
+      "publishedAt": "2026-06-27T04:14:39.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "bofa-expects-positive-investor-reaction-041425643.html",
+      "title": "BofA Expects Positive Investor Reaction to Leadership Update at Sanofi (SNY)",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/healthcare/articles/bofa-expects-positive-investor-reaction-041425643.html",
+      "publishedAt": "2026-06-27T04:14:25.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "analyst-downgrades-jd-com-jd-041353365.html",
+      "title": "Analyst Downgrades JD.com (JD) to Hold",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-downgrades-jd-com-jd-041353365.html",
+      "publishedAt": "2026-06-27T04:13:53.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "paychex-payx-performed-fourth-quarter-041145717.html",
+      "title": "Here is How Paychex (PAYX) Performed in the Fourth Quarter of FY26",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paychex-payx-performed-fourth-quarter-041145717.html",
+      "publishedAt": "2026-06-27T04:11:45.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "vodafone-vod-among-12-best-041053600.html",
+      "title": "Vodafone (VOD) – Among the 12 Best NASDAQ Stocks to Buy for Dividends",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vodafone-vod-among-12-best-041053600.html",
+      "publishedAt": "2026-06-27T04:10:53.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "da-davidson-lowers-price-target-041038196.html",
+      "title": "DA Davidson Lowers Price Target on Tractor Supply (TSCO). Here is Why",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/da-davidson-lowers-price-target-041038196.html",
+      "publishedAt": "2026-06-27T04:10:38.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "apa-corporation-apa-upgraded-roth-041027828.html",
+      "title": "APA Corporation (APA) Upgraded at Roth Capital. Here is Why",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/energy/articles/apa-corporation-apa-upgraded-roth-041027828.html",
+      "publishedAt": "2026-06-27T04:10:27.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "morgan-stanley-cuts-price-target-040854905.html",
+      "title": "Morgan Stanley Cuts Price Target on Cognizant Technology Solutions (CTSH). Here is Why",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-cuts-price-target-040854905.html",
+      "publishedAt": "2026-06-27T04:08:54.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "diamondback-energy-fang-upgraded-roth-040817163.html",
+      "title": "Diamondback Energy (FANG) Upgraded at Roth Capital. Here is Why",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/energy/articles/diamondback-energy-fang-upgraded-roth-040817163.html",
+      "publishedAt": "2026-06-27T04:08:17.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "td-cowen-trims-price-target-040813369.html",
+      "title": "TD Cowen Trims Price Target on CME Group (CME). Here is Why",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-trims-price-target-040813369.html",
+      "publishedAt": "2026-06-27T04:08:13.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "xcel-energy-xel-price-target-040800292.html",
+      "title": "Xcel Energy (XEL) Price Target Boosted at Morgan Stanley. Here is Why",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/xcel-energy-xel-price-target-040800292.html",
+      "publishedAt": "2026-06-27T04:08:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "kraft-heinz-company-khc-one-040747196.html",
+      "title": "Is The Kraft Heinz Company (KHC) One of the Best NASDAQ Stocks to Buy for Dividends?",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-company-khc-one-040747196.html",
+      "publishedAt": "2026-06-27T04:07:47.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
       }
     },
     {
@@ -999,6 +1509,202 @@
       "source": {
         "name": "bolsamania.com",
         "url": "https://www.bolsamania.com/rss/generarRss2.php"
+      }
+    },
+    {
+      "id": "3-beaten-down-ai-chip-035000666.html",
+      "title": "3 Beaten-Down AI Chip Stocks to Consider Buying in the Sell-Off",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-beaten-down-ai-chip-035000666.html",
+      "publishedAt": "2026-06-27T03:50:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "where-stash-10k-more-now-034654664.html",
+      "title": "Where to Stash $10K—or More—Right Now for a Solid, Safe Return",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/where-stash-10k-more-now-034654664.html",
+      "publishedAt": "2026-06-27T03:46:54.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "chilis-rival-sports-bar-chain-194753805.html",
+      "title": "Classic sports bar chain closed over 50 locations",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/small-business/articles/chilis-rival-sports-bar-chain-194753805.html",
+      "publishedAt": "2026-06-27T03:44:50.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "135-154-tracking-spacexs-stock-033300680.html",
+      "title": "From $135 to $154: Tracking SpaceX's Stock Volatility in Its First Weeks as a Public Company",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/135-154-tracking-spacexs-stock-033300680.html",
+      "publishedAt": "2026-06-27T03:33:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "scott-bessent-defends-tariff-reboot-033101799.html",
+      "title": "Scott Bessent Defends Tariff Reboot, Unveils ‘3 Through 3’ Plan To Beat ‘Structural Inflation’",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-defends-tariff-reboot-033101799.html",
+      "publishedAt": "2026-06-27T03:31:01.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1ugrmhk/apple_seeks_to_buy_memory_chips_from_blacklisted/",
+      "title": "Apple seeks to buy memory chips from blacklisted Chinese company",
+      "description": "Apple is lobbying the Trump administration for clearance to buy memory chips\nfrom CXMT, a Chinese company that the Pentagon has put on a blacklist because of\nalleged connections to the People’s Liberation Army, according to six people\nfamiliar with the matter. The iPhone maker has waged a lobbying campaign to get\nthe blessing from the White House to help ease the financial pressure on the\ncompany from the rise in memory chip prices. One person said Apple approached\nthe commerce department more than a month ago, but the tech company has been\ntargeting other officials across the administration and allies in Washington.\nApple is not barred from buying chips from CXMT, or YMTC, another Chinese memory\nchipmaker. But the Pentagon has put both companies on its Chinese Military\nCompany blacklist. The so-called 1260H list contains dozens of Chinese groups\nwith alleged ties to the PLA that undermine US national security\nhttps://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb?syn-25a6b1a6=1\nsubmitted by /u/IvoryTowerResident [link] [comments]",
+      "content": "Apple is lobbying the Trump administration for clearance to buy memory chips\nfrom CXMT, a Chinese company that the Pentagon has put on a blacklist because of\nalleged connections to the People’s Liberation Army, according to six people\nfamiliar with the matter. The iPhone maker has waged a lobbying campaign to get\nthe blessing from the White House to help ease the financial pressure on the\ncompany from the rise in memory chip prices. One person said Apple approached\nthe commerce department more than a month ago, but the tech company has been\ntargeting other officials across the administration and allies in Washington.\nApple is not barred from buying chips from CXMT, or YMTC, another Chinese memory\nchipmaker. But the Pentagon has put both companies on its Chinese Military\nCompany blacklist. The so-called 1260H list contains dozens of Chinese groups\nwith alleged ties to the PLA that undermine US national security\n\nhttps://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb?syn-25a6b1a6=1\n[https://www.ft.com/content/d72a25e2-7bde-4aa9-bd8d-0c4f3d6cb2cb?syn-25a6b1a6=1]\n\nsubmitted by /u/IvoryTowerResident\n[https://old.reddit.com/user/IvoryTowerResident]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ugrmhk/apple_seeks_to_buy_memory_chips_from_blacklisted/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ugrmhk/apple_seeks_to_buy_memory_chips_from_blacklisted/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ugrmhk/apple_seeks_to_buy_memory_chips_from_blacklisted",
+      "publishedAt": "2026-06-27T03:24:24.000Z",
+      "author": "/u/IvoryTowerResident",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
+      "id": "wedbush-spots-clear-investor-opportunities-030700638.html",
+      "title": "Wedbush spots clear investor opportunities in tech stocks",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/technology/articles/wedbush-spots-clear-investor-opportunities-030700638.html",
+      "publishedAt": "2026-06-27T03:07:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "sofi-stock-down-more-30-030200646.html",
+      "title": "SoFi Stock Is Down More Than 30% This Year. Its CEO Is Buying Anyway.",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-stock-down-more-30-030200646.html",
+      "publishedAt": "2026-06-27T03:02:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "metas-300-glasses-turn-around-025000108.html",
+      "title": "Can Meta's New $300 Glasses Turn Around the Stock?",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/metas-300-glasses-turn-around-025000108.html",
+      "publishedAt": "2026-06-27T02:50:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "spacex-just-pulled-off-largest-024600017.html",
+      "title": "SpaceX Just Pulled Off the Largest IPO Ever. Here's Why Robinhood Might Be the Real Winner.",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-pulled-off-largest-024600017.html",
+      "publishedAt": "2026-06-27T02:46:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "spacex-set-join-nasdaq-100-001521435.html",
+      "title": "SpaceX set to join Nasdaq 100, paving way for wave of passive buying",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/spacex-set-join-nasdaq-100-001521435.html",
+      "publishedAt": "2026-06-27T00:15:21.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "weekly-wrap-bitcoin-nears-two-235200130.html",
+      "title": "Weekly Wrap: Bitcoin Nears Two-Year Low",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-nears-two-235200130.html",
+      "publishedAt": "2026-06-26T23:52:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "nvidia-broadcom-both-offer-ai-230002190.html",
+      "title": "Nvidia and Broadcom Both Offer AI Exposure and Dividends. Barchart Data Helps Pick the Best Stock to Buy Now.",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-broadcom-both-offer-ai-230002190.html",
+      "publishedAt": "2026-06-26T23:00:02.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "liquidity-returning-selectively-apac-private-224121738.html",
+      "title": "Liquidity is returning selectively to APAC private markets",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/liquidity-returning-selectively-apac-private-224121738.html",
+      "publishedAt": "2026-06-26T22:41:21.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
       }
     },
     {
@@ -1099,20 +1805,6 @@
       }
     },
     {
-      "id": "solved-fear-high-stock-prices-205123120.html",
-      "title": "How I Solved My Fear of High Stock Prices by Creating an Option Collar Trade",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/options/articles/solved-fear-high-stock-prices-205123120.html",
-      "publishedAt": "2026-06-26T20:51:23.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
       "id": "04f98e21-4ce7-43d2-8651-44557e12c31c",
       "title": "SpaceX bonds sell off days after AI and rocket group’s $25bn debt deal",
       "description": "Yields move towards levels commonly associated with junk-rated companies",
@@ -1124,216 +1816,6 @@
       "source": {
         "name": "ft.com",
         "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
-      }
-    },
-    {
-      "id": "?src=A00220&yptr=yahoo",
-      "title": "Clarity Act Timeline Comes Under Threat. Cathie Wood Makes Crypto Buys.",
-      "description": "",
-      "content": "",
-      "url": "https://investors.com/news/clarity-act-timeline-strain-housing-save-act-trump-senate-cryptocurrency-bitcoin?src=A00220&yptr=yahoo",
-      "publishedAt": "2026-06-26T20:47:18.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "why-reports-delayed-openai-ipo-204443007.html",
-      "title": "Why Reports of a Delayed OpenAI IPO Are Dragging Down ORCL Stock",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-reports-delayed-openai-ipo-204443007.html",
-      "publishedAt": "2026-06-26T20:44:43.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "?src=A00220&yptr=yahoo",
-      "title": "Stock Market Today: Nasdaq Torched For Big Weekly Loss; Electronics Players Get Crushed (Live Coverage)",
-      "description": "",
-      "content": "",
-      "url": "https://investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-tech-sell-off-micron-nvidia-sandisk?src=A00220&yptr=yahoo",
-      "publishedAt": "2026-06-26T20:44:07.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "real-engine-behind-p-global-204053881.html",
-      "title": "The Real Engine Behind S&P Global Stock Is Not What You Think",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/real-engine-behind-p-global-204053881.html",
-      "publishedAt": "2026-06-26T20:40:53.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "littelfuse-vs-quantumscape-industrials-stock-203942954.html",
-      "title": "Littelfuse vs. QuantumScape: Which Industrials Stock Is a Better Buy in 2026?",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/littelfuse-vs-quantumscape-industrials-stock-203942954.html",
-      "publishedAt": "2026-06-26T20:39:42.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "?src=A00220&yptr=yahoo",
-      "title": "Polymarket Crosses This Revenue Milestone. DraftKings Launches Predictions Exchange.",
-      "description": "",
-      "content": "",
-      "url": "https://investors.com/news/polymarket-revenue-1-billion-draftkings-prediction-markets-exchange-dkng-stock?src=A00220&yptr=yahoo",
-      "publishedAt": "2026-06-26T20:37:36.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "bitcoin-etfs-continue-see-significant-203700125.html",
-      "title": "Bitcoin ETFs Continue to See Significant Outflows as Cryptocurrency Struggles",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-continue-see-significant-203700125.html",
-      "publishedAt": "2026-06-26T20:37:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "red-lobster-lost-millions-endless-203548500.html",
-      "title": "Red Lobster lost millions on its endless shrimp disaster. Shareholders say it was a ‘car crash’ designed to squeeze profits",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/red-lobster-lost-millions-endless-203548500.html",
-      "publishedAt": "2026-06-26T20:35:48.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "?src=A00220&yptr=yahoo",
-      "title": "Rotation Continues As Security Software Stocks Make Comeback",
-      "description": "",
-      "content": "",
-      "url": "https://investors.com/research/swing-trading/rotation-continues-as-security-software-stocks-make-comeback?src=A00220&yptr=yahoo",
-      "publishedAt": "2026-06-26T20:34:05.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "robinhood-just-scored-buy-rating-203323309.html",
-      "title": "Robinhood Just Scored a New 'Buy' Rating. Here's Why.",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-just-scored-buy-rating-203323309.html",
-      "publishedAt": "2026-06-26T20:33:23.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "stock-indexes-finish-lower-chipmakers-203318405.html",
-      "title": "Stock Indexes Finish Lower as Chipmakers Sell Off",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-indexes-finish-lower-chipmakers-203318405.html",
-      "publishedAt": "2026-06-26T20:33:18.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "elizabeth-warren-slams-trump-petulant-203109954.html",
-      "title": "Elizabeth Warren Slams Trump As 'Petulant Child' For Skipping Housing Bill Ceremony, Polymarket Says It Passes Anyway",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/real-estate/articles/elizabeth-warren-slams-trump-petulant-203109954.html",
-      "publishedAt": "2026-06-26T20:31:09.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "barclays-wants-know-bit-digital-202932542.html",
-      "title": "This Is What Barclays Wants You to Know About Bit Digital, Inc (BTBT)",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-wants-know-bit-digital-202932542.html",
-      "publishedAt": "2026-06-26T20:29:32.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "bofa-securities-recommends-pony-ai-202923114.html",
-      "title": "BofA Securities Recommends Pony AI Inc (PONY) Stock. Here’s the Reason",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bofa-securities-recommends-pony-ai-202923114.html",
-      "publishedAt": "2026-06-26T20:29:23.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "d-davidson-reiterates-domo-inc-202837087.html",
-      "title": "D.A. Davidson Reiterates Domo Inc (DOMO) Stock Rating",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/d-davidson-reiterates-domo-inc-202837087.html",
-      "publishedAt": "2026-06-26T20:28:37.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
       }
     },
     {
@@ -1353,104 +1835,6 @@
       }
     },
     {
-      "id": "stock-movers-3d8bd464?siteid=yhoof2&yptr=yahoo",
-      "title": "Moderna, Nvidia, Sandisk, Palantir, ON Semi, and More Stocks That Explain Today’s Market",
-      "description": "",
-      "content": "",
-      "url": "https://barrons.com/articles/stock-movers-3d8bd464?siteid=yhoof2&yptr=yahoo",
-      "publishedAt": "2026-06-26T20:27:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "?src=A00220&yptr=yahoo",
-      "title": "AI Data Centers In North Dakota? That's No Problem For AAON Stock.",
-      "description": "",
-      "content": "",
-      "url": "https://investors.com/research/the-new-america/ai-data-centers-aaon-stock-applied-digital-coreweave?src=A00220&yptr=yahoo",
-      "publishedAt": "2026-06-26T20:26:33.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "serve-robotics-serv-expands-ai-202628052.html",
-      "title": "Serve Robotics (SERV) Expands AI-Powered Robot Delivery Into Laundry Services Through NoScrubs Deal",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/serve-robotics-serv-expands-ai-202628052.html",
-      "publishedAt": "2026-06-26T20:26:28.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "real-engine-driving-southern-copper-202554827.html",
-      "title": "The Real Engine Driving Southern Copper Stock Isn't Copper",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/real-engine-driving-southern-copper-202554827.html",
-      "publishedAt": "2026-06-26T20:25:54.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "binance-no-longer-europe-202500675.html",
-      "title": "Binance To No Longer Provide Service In Europe",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/binance-no-longer-europe-202500675.html",
-      "publishedAt": "2026-06-26T20:25:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "?src=A00220&yptr=yahoo",
-      "title": "Nvidia Stock Continues Slide Amid Tech Sell-Off",
-      "description": "",
-      "content": "",
-      "url": "https://investors.com/news/technology/nvidia-stock-nvda-tech-sell-off-200-day-line?src=A00220&yptr=yahoo",
-      "publishedAt": "2026-06-26T20:24:43.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "polestar-banned-us-market-under-202433342.html",
-      "title": "Polestar banned from US market under rule targeting China-linked connected vehicles",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/polestar-banned-us-market-under-202433342.html",
-      "publishedAt": "2026-06-26T20:24:33.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
       "id": "bb70e272-5b09-4806-8b19-7c03c350f580",
       "title": "S&P 500 notches longest losing streak in 10 months as chipmakers slide",
       "description": "Software stock-led recovery proves fleeting as Wall Street’s main indices fall\nfor fifth consecutive session",
@@ -1465,185 +1849,17 @@
       }
     },
     {
-      "id": "stocks-to-watch-on-semiconductor-apple-zalando-HXVpEfOkkyL0ye8xKqqr?siteid=yhoof2&yptr=yahoo",
-      "title": "Stocks to Watch Recap: Micron, Wendy’s, Apple, ON Semiconductor",
-      "description": "",
-      "content": "",
-      "url": "https://wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-26-2026/card/stocks-to-watch-on-semiconductor-apple-zalando-HXVpEfOkkyL0ye8xKqqr?siteid=yhoof2&yptr=yahoo",
-      "publishedAt": "2026-06-26T20:23:17.000Z",
-      "author": null,
+      "id": "https://old.reddit.com/r/stocks/comments/1ughxkh/korean_markets_triggered_2_circuit_breakers_this/",
+      "title": "Korean markets triggered 2 circuit breakers this week, 1 after incredible MU earnings. Is this cause for concern?",
+      "description": "Korean market volatility seems to have hit extreme levels this week. Markets\nfirst triggered circuit breakers on Monday night and then again Thursday night.\nThe 2nd trigger was a bit surprising considering micron just delivered a massive\nearnings beat. Experiencing 2 breakers in a week is already unusual. Triggering\nthe 2nd one after a Micron earnings report that indicated Samsung and SK Hynix\nare thriving starts to concern me. It suggests the sell offs are not earnings\nrelated and that something else is going on behind the scenes. I’ve seen a few\nslightly troubling reports come out of Korea this week. Law makers proposed\ntaxes on unrealized gains and SK Hynix indicated a minor shift away from HBM\nproduction. But what concerns me the most is extreme Korean leverage and reports\nthat lawmakers want to crackdown on the use of leverage. I’m wondering if both\nlawmakers and extreme market volatility will intensify fears among leveraged\nretail traders and lead to uncontrolled selling. Additionally, the rest of Asian\nwas also under water last night. Markets fell 2-4% across the board. Maybe\nthere’s a greater macro phenomenon causing intense volatility in Asia that I’m\nnot considering. US stocks don’t seem to indicate any sense of panic so far. But\nI’m wondering if continued intense selling in Asia could have a contagion effect\non American markets, especially because Korea’s top stocks are so closely tied\nto the AI narrative. submitted by /u/BGID_to_the_moon [link] [comments]",
+      "content": "Korean market volatility seems to have hit extreme levels this week. Markets\nfirst triggered circuit breakers on Monday night and then again Thursday night.\nThe 2nd trigger was a bit surprising considering micron just delivered a massive\nearnings beat.\n\nExperiencing 2 breakers in a week is already unusual. Triggering the 2nd one\nafter a Micron earnings report that indicated Samsung and SK Hynix are thriving\nstarts to concern me. It suggests the sell offs are not earnings related and\nthat something else is going on behind the scenes.\n\nI’ve seen a few slightly troubling reports come out of Korea this week. Law\nmakers proposed taxes on unrealized gains and SK Hynix indicated a minor shift\naway from HBM production. But what concerns me the most is extreme Korean\nleverage and reports that lawmakers want to crackdown on the use of leverage.\nI’m wondering if both lawmakers and extreme market volatility will intensify\nfears among leveraged retail traders and lead to uncontrolled selling.\n\nAdditionally, the rest of Asian was also under water last night. Markets fell\n2-4% across the board. Maybe there’s a greater macro phenomenon causing intense\nvolatility in Asia that I’m not considering.\n\nUS stocks don’t seem to indicate any sense of panic so far. But I’m wondering if\ncontinued intense selling in Asia could have a contagion effect on American\nmarkets, especially because Korea’s top stocks are so closely tied to the AI\nnarrative.\n\nsubmitted by /u/BGID_to_the_moon [https://old.reddit.com/user/BGID_to_the_moon]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ughxkh/korean_markets_triggered_2_circuit_breakers_this/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ughxkh/korean_markets_triggered_2_circuit_breakers_this/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ughxkh/korean_markets_triggered_2_circuit_breakers_this",
+      "publishedAt": "2026-06-26T20:23:23.000Z",
+      "author": "/u/BGID_to_the_moon",
       "categories": [],
       "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "dkng-stock-alert-know-draftkings-201926488.html",
-      "title": "DKNG Stock Alert: What to Know as DraftKings Launches Predictions Market",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dkng-stock-alert-know-draftkings-201926488.html",
-      "publishedAt": "2026-06-26T20:19:26.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "roadzen-inc-rdzn-secures-another-201906671.html",
-      "title": "Roadzen Inc (RDZN) Secures Another $10 Million Contract in India",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/roadzen-inc-rdzn-secures-another-201906671.html",
-      "publishedAt": "2026-06-26T20:19:06.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "why-rezolve-ai-plc-rzlv-201857619.html",
-      "title": "Why Rezolve AI PLC (RZLV)’s Board Proposed a $300 Million Stock BuyBack",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-rezolve-ai-plc-rzlv-201857619.html",
-      "publishedAt": "2026-06-26T20:18:57.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "ubs-wants-know-veritone-inc-201839729.html",
-      "title": "This Is What UBS Wants You to Know About Veritone Inc (VERI) Stock",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ubs-wants-know-veritone-inc-201839729.html",
-      "publishedAt": "2026-06-26T20:18:39.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "cloudastructure-inc-csai-lands-big-201830256.html",
-      "title": "Cloudastructure Inc (CSAI) Lands a Big Contract; Sees Bigger Deals Ahead",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cloudastructure-inc-csai-lands-big-201830256.html",
-      "publishedAt": "2026-06-26T20:18:30.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "datavault-ai-inc-dvlt-secures-201816876.html",
-      "title": "Datavault AI Inc (DVLT) Secures Patent Approvals as Portfolio Expands",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/datavault-ai-inc-dvlt-secures-201816876.html",
-      "publishedAt": "2026-06-26T20:18:16.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "lantronix-inc-ltrx-powers-rapid-201808566.html",
-      "title": "Lantronix Inc (LTRX) Powers Rapid Connectivity for Critical Infrastructure",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/lantronix-inc-ltrx-powers-rapid-201808566.html",
-      "publishedAt": "2026-06-26T20:18:08.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "8-8-inc-eght-ai-201759850.html",
-      "title": "8×8 Inc (EGHT)’s AI Studio Platform Gets Real-Time Voice Translation",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/technology/ai/articles/8-8-inc-eght-ai-201759850.html",
-      "publishedAt": "2026-06-26T20:17:59.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "?src=A00220&yptr=yahoo",
-      "title": "Onsemi Acquisition Seen Diluting Its Data Center Focus",
-      "description": "",
-      "content": "",
-      "url": "https://investors.com/news/technology/onsemi-stock-falls-on-synaptics-acquisition?src=A00220&yptr=yahoo",
-      "publishedAt": "2026-06-26T20:17:05.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "rapid7-rpd-names-wael-mohamed-201605345.html",
-      "title": "Rapid7 (RPD) Names Wael Mohamed CEO, Reaffirms 2026 Outlook",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rapid7-rpd-names-wael-mohamed-201605345.html",
-      "publishedAt": "2026-06-26T20:16:05.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "ubs-weighs-six-flags-entertainment-201502328.html",
-      "title": "UBS Weighs in on Six Flags Entertainment Corp (FUN) Stock. Here’s the Point",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-weighs-six-flags-entertainment-201502328.html",
-      "publishedAt": "2026-06-26T20:15:02.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "alkami-alkt-integrates-fdx-api-201451921.html",
-      "title": "Alkami (ALKT) Integrates FDX API With Yodlee for Financial Data Sharing",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alkami-alkt-integrates-fdx-api-201451921.html",
-      "publishedAt": "2026-06-26T20:14:51.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
       }
     },
     {
@@ -1660,48 +1876,6 @@
       "source": {
         "name": "bolsamania.com",
         "url": "https://www.bolsamania.com/rss/generarRss2.php"
-      }
-    },
-    {
-      "id": "?src=A00220&yptr=yahoo",
-      "title": "Tesla Expands Production In Germany, As VW Cuts 100,000 Jobs",
-      "description": "",
-      "content": "",
-      "url": "https://investors.com/news/tesla-berlin-gigafactory-vw-job-cuts-auto-industry-germany?src=A00220&yptr=yahoo",
-      "publishedAt": "2026-06-26T20:07:47.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "markel-group-inc-mkl-bolsters-200745621.html",
-      "title": "Markel Group Inc (MKL) Bolsters Insurance Team With Stock Buyback in Focus",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/markel-group-inc-mkl-bolsters-200745621.html",
-      "publishedAt": "2026-06-26T20:07:45.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
-      "id": "?src=A00220&yptr=yahoo",
-      "title": "How To Invest: 5 Tips For Dealing With This Stock Market",
-      "description": "",
-      "content": "",
-      "url": "https://investors.com/how-to-invest/how-to-invest-nvidia-apple-stock-market-trends?src=A00220&yptr=yahoo",
-      "publishedAt": "2026-06-26T20:04:37.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
       }
     },
     {
@@ -1734,6 +1908,34 @@
       "source": {
         "name": "bolsamania.com",
         "url": "https://www.bolsamania.com/rss/generarRss2.php"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1uggatz/meta_is_reportedly_building_a_playmoney/",
+      "title": "Meta is reportedly building a play-money prediction market app",
+      "description": "Prediction markets have been around for a while, but I think most people still\ndon’t really understand them until they try one. The reports about Meta’s Arena\napp are interesting because it sounds like it would start with points instead of\nreal money. If that’s true, it could make the basic idea easier to learn: you\npick a specific outcome, price it as a probability, and then see whether you\nwere actually calibrated. I’ve been trying event contracts on moomoo since they\nrecently added prediction markets, and the mental model feels different from\nstock trading. With stocks, I’m usually asking “does this go up or down?” With\nevent contracts, the question is cleaner: “does this specific thing happen by\nthis deadline?” That doesn’t make it easy. You can still be wrong,\noverconfident, or just chasing the crowd. But I do think prediction markets\nforce a different kind of thinking about probability. If Meta actually launches\nArena as a free/points-based version, I could see it becoming a training-wheels\nversion of prediction markets for people who are curious but don’t want to put\nreal money in yet. submitted by /u/akuakaii [link] [comments]",
+      "content": "Prediction markets have been around for a while, but I think most people still\ndon’t really understand them until they try one.\n\nThe reports about Meta’s Arena app are interesting because it sounds like it\nwould start with points instead of real money. If that’s true, it could make the\nbasic idea easier to learn: you pick a specific outcome, price it as a\nprobability, and then see whether you were actually calibrated.\n\nI’ve been trying event contracts on moomoo since they recently added prediction\nmarkets, and the mental model feels different from stock trading. With stocks,\nI’m usually asking “does this go up or down?” With event contracts, the question\nis cleaner: “does this specific thing happen by this deadline?”\n\nThat doesn’t make it easy. You can still be wrong, overconfident, or just\nchasing the crowd. But I do think prediction markets force a different kind of\nthinking about probability.\n\nIf Meta actually launches Arena as a free/points-based version, I could see it\nbecoming a training-wheels version of prediction markets for people who are\ncurious but don’t want to put real money in yet.\n\nsubmitted by /u/akuakaii [https://old.reddit.com/user/akuakaii]\n[link]\n[https://old.reddit.com/r/stocks/comments/1uggatz/meta_is_reportedly_building_a_playmoney/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1uggatz/meta_is_reportedly_building_a_playmoney/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1uggatz/meta_is_reportedly_building_a_playmoney",
+      "publishedAt": "2026-06-26T19:21:25.000Z",
+      "author": "/u/akuakaii",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
+      "id": "disney-settles-youtube-tv-and-directv-lawsuit-for-50-million-heres-who-gets-paid-191758059.html",
+      "title": "Disney settles YouTube TV and DirecTV lawsuit for $50 million: Here's who gets paid",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/disney-settles-youtube-tv-and-directv-lawsuit-for-50-million-heres-who-gets-paid-191758059.html",
+      "publishedAt": "2026-06-26T19:17:58.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
       }
     },
     {
@@ -1927,19 +2129,17 @@
       }
     },
     {
-      "id": "https://www.bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones-016-sp-500-027-y-nasdaq-032--22852478.html",
-      "title": " Wall Street: Dow Jones (+0,16%), S&P 500 (+0,27%) y Nasdaq (+0,32%) ",
+      "id": "how-to-calculate-your-break-even-point-on-a-mortgage-refinance-170509656.html",
+      "title": "How to calculate your break-even point on a mortgage refinance",
       "description": "",
       "content": "",
-      "url": "https://bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones-016-sp-500-027-y-nasdaq-032--22852478.html",
-      "publishedAt": "2026-06-26T17:02:18.000Z",
-      "author": "redaccion@bolsamania.com (Alberto Lite)",
-      "categories": [
-        "Última Hora Mercados"
-      ],
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/how-to-calculate-your-break-even-point-on-a-mortgage-refinance-170509656.html",
+      "publishedAt": "2026-06-26T17:05:09.000Z",
+      "author": null,
+      "categories": [],
       "source": {
-        "name": "bolsamania.com",
-        "url": "https://www.bolsamania.com/rss/generarRss2.php"
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
       }
     },
     {
@@ -1954,38 +2154,6 @@
       "source": {
         "name": "ft.com",
         "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
-      }
-    },
-    {
-      "id": "https://www.bolsamania.com/noticias/internacional/trump-acusa-iran-violar-alto-fuego-tras-ataque-drones-ormuz--22852338.html",
-      "title": " Trump acusa a Irán de violar el alto el fuego tras un ataque con drones en Ormuz ",
-      "description": "El presidente de Estados Unidos, Donald Trump, ha acusado a Irán de violar el\nalto el fuego alcanzado entre ambos países después de que la Guardia\nRevolucionaria iraní haya atacado un buque de carga en el estrecho de Ormuz,\nobligando a varios barcos que pretendían atravesarlo a dar media vuelta.",
-      "content": "El presidente de Estados Unidos, Donald Trump, ha acusado a Irán de violar el\nalto el fuego alcanzado entre ambos países después de que la Guardia\nRevolucionaria iraní haya atacado un buque de carga en el estrecho de Ormuz,\nobligando a varios barcos que pretendían atravesarlo a dar media vuelta.",
-      "url": "https://bolsamania.com/noticias/internacional/trump-acusa-iran-violar-alto-fuego-tras-ataque-drones-ormuz--22852338.html",
-      "publishedAt": "2026-06-26T16:46:30.000Z",
-      "author": "redaccion@bolsamania.com (María Campillo)",
-      "categories": [
-        "Internacional"
-      ],
-      "source": {
-        "name": "bolsamania.com",
-        "url": "https://www.bolsamania.com/rss/generarRss2.php"
-      }
-    },
-    {
-      "id": "https://www.bolsamania.com/noticias/analisis-tecnico/cellnex-y-dos-valores-mas-que-han-perforado-soportes-o-resistencias-este-lunes--22847992.html",
-      "title": " Cellnex y dos valores más que han perforado soportes o resistencias este lunes ",
-      "description": "Ojo que Cellnex perfora el soporte del corto plazo de los 28,42 euros, niveles\nen donde presentaba la media de 200 sesiones.",
-      "content": "Ojo que Cellnex perfora el soporte del corto plazo de los 28,42 euros, niveles\nen donde presentaba la media de 200 sesiones.",
-      "url": "https://bolsamania.com/noticias/analisis-tecnico/cellnex-y-dos-valores-mas-que-han-perforado-soportes-o-resistencias-este-lunes--22847992.html",
-      "publishedAt": "2026-06-26T16:41:28.000Z",
-      "author": "redaccion@bolsamania.com (César Nuez)",
-      "categories": [
-        "Análisis técnico"
-      ],
-      "source": {
-        "name": "bolsamania.com",
-        "url": "https://www.bolsamania.com/rss/generarRss2.php"
       }
     },
     {
@@ -2102,20 +2270,6 @@
       }
     },
     {
-      "id": "spacex-stock-sheds-17-in-first-week-of-trade-145647941.html",
-      "title": "SpaceX stock sheds 17% in first week of trade",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-sheds-17-in-first-week-of-trade-145647941.html",
-      "publishedAt": "2026-06-26T14:56:47.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
-      }
-    },
-    {
       "id": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken-sparkassen-chef-stuerzt-ueber-affaere-um-luxusfluege/100236197.html",
       "title": "Banken: Sparkassen-Chef stürzt über Affäre um Luxusflüge",
       "description": "Dirk Abel, Chef der Stadtsparkasse Langenfeld, ist beurlaubt worden. Auslöser\nsind Untersuchungsergebnisse zur Finanzierung einer privaten Maledivenreise.",
@@ -2129,6 +2283,20 @@
       "source": {
         "name": "handelsblatt.com",
         "url": "https://www.handelsblatt.com"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1ug7s9s/is_it_normal_for_a_president_to_name_and_promote/",
+      "title": "Is it normal for a President to name and promote stocks while he is heavly trading for himself",
+      "description": "I recently shorted Lilly and I might be wrong in my reasoning and stock that was\n850 only recently might truly deserve to be 1,350. However why do I have to take\nextra risk of US president peddling the same stock as next big thing after Dell,\nIntell, Oracle and bunch of other stocks especially if he or somebody on his\nbehalf traded 3000 times since he got elected. Its possible that Trump wants to\nhelp investors but with curent level of manipulation in stock market many\ninvestors might decide to stay out. I do not understand how this does not bother\nanybody submitted by /u/vagobond45 [link] [comments]",
+      "content": "I recently shorted Lilly and I might be wrong in my reasoning and stock that was\n850 only recently might truly deserve to be 1,350. However why do I have to take\nextra risk of US president peddling the same stock as next big thing after Dell,\nIntell, Oracle and bunch of other stocks especially if he or somebody on his\nbehalf traded 3000 times since he got elected. Its possible that Trump wants to\nhelp investors but with curent level of manipulation in stock market many\ninvestors might decide to stay out. I do not understand how this does not bother\nanybody\n\nsubmitted by /u/vagobond45 [https://old.reddit.com/user/vagobond45]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ug7s9s/is_it_normal_for_a_president_to_name_and_promote/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ug7s9s/is_it_normal_for_a_president_to_name_and_promote/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ug7s9s/is_it_normal_for_a_president_to_name_and_promote",
+      "publishedAt": "2026-06-26T14:04:16.000Z",
+      "author": "/u/vagobond45",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
       }
     },
     {
@@ -2192,6 +2360,20 @@
       }
     },
     {
+      "id": "bitcoin-and-ethereum-prices-today-friday-june-26-2026-june-hasnt-been-kind-to-crypto-prices-122928758.html",
+      "title": "Bitcoin and ethereum prices today, Friday, June 26, 2026: June hasn't been kind to crypto prices",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-june-26-2026-june-hasnt-been-kind-to-crypto-prices-122928758.html",
+      "publishedAt": "2026-06-26T12:29:28.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
       "id": "c5c97c40-6afe-4a22-a9b8-aea456b85326",
       "title": "Germany urges EU to suspend methane rules after US pressure",
       "description": "Energy minister warns of risk to gas supplies if planned rules affecting imports\ncome into force",
@@ -2203,6 +2385,20 @@
       "source": {
         "name": "ft.com",
         "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1ug5ejz/bumble_shares_surge_15_as_dating_app_explores_sale/",
+      "title": "Bumble shares surge 15% as dating app explores sale",
+      "description": "https://www.reuters.com/business/bumble-dating-app-explores-sale-sources-say-2026-06-25/\n\"NEW YORK, June 25 (Reuters) - Dating app Bumble (BMBL.O), opens new tab is\nexploring a sale amid slowing growth in the online dating sector, according to\nthree people familiar with the matter. The company, which gained recognition as\none of ‌the first major platforms to require women to initiate contact, is\nworking with investment bankers at Morgan Stanley (MS.N), opens new tab on a\npotential sale process, the sources said, requesting anonymity because the\ndiscussions are private. Sources cautioned that no deal is certain and the\ncompany may decide to stay independent. Bumble did not immediately respond to a\nrequest for comment. Morgan Stanley and asset manager Blackstone, which owns\nabout 22% of Bumble according to LSEG data, declined ⁠to comment.\" submitted by\n/u/zuckzuckonit [link] [comments]",
+      "content": "https://www.reuters.com/business/bumble-dating-app-explores-sale-sources-say-2026-06-25/\n[https://www.reuters.com/business/bumble-dating-app-explores-sale-sources-say-2026-06-25/]\n\n\"NEW YORK, June 25 (Reuters) - Dating app Bumble (BMBL.O), opens new tab is\nexploring a sale amid slowing growth in the online dating sector, according to\nthree people familiar with the matter.\n\nThe company, which gained recognition as one of ‌the first major platforms to\nrequire women to initiate contact, is working with investment bankers at Morgan\nStanley (MS.N), opens new tab on a potential sale process, the sources said,\nrequesting anonymity because the discussions are private.\n\nSources cautioned that no deal is certain and the company may decide to stay\nindependent.\n\nBumble did not immediately respond to a request for comment. Morgan Stanley and\nasset manager Blackstone, which owns about 22% of Bumble according to LSEG data,\ndeclined ⁠to comment.\"\n\nsubmitted by /u/zuckzuckonit [https://old.reddit.com/user/zuckzuckonit]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ug5ejz/bumble_shares_surge_15_as_dating_app_explores_sale/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ug5ejz/bumble_shares_surge_15_as_dating_app_explores_sale/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ug5ejz/bumble_shares_surge_15_as_dating_app_explores_sale",
+      "publishedAt": "2026-06-26T12:26:38.000Z",
+      "author": "/u/zuckzuckonit",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
       }
     },
     {
@@ -2312,6 +2508,20 @@
       }
     },
     {
+      "id": "https://old.reddit.com/r/stocks/comments/1ug3ydx/sp_500_nasdaq_futures_slide_as_openai_ipo_delay/",
+      "title": "S&P 500, Nasdaq futures slide as OpenAI IPO delay report rattles techs",
+      "description": "Tech led a retreat in US stocks before the bell on Friday, as a report of a\npotential delay to OpenAI's IPO added to the headwinds that have whipsawed\nmarkets this week. Nasdaq 100 futures tumbled 1.2%, while those on the S&P 500\nmoved down 0.5% after both indexes closed lower Thursday for the fourth straight\ntimes this week. Concerns are growing that the skyrocketing cost of memory and\nstorage components could hit device makers, after Apple raised prices of its\nMacBooks and iPads. Memory chipmaker Micron's stellar earnings showed the\nsqueeze is set to continue. At the same time, a New York Times report that\nOpenAI is planning to push back it's mega IPO until 2027 is also dragging on\nappetite for techs. submitted by /u/app1310 [link] [comments]",
+      "content": "Tech led a retreat in US stocks before the bell on Friday, as a report of a\npotential delay to OpenAI's IPO added to the headwinds that have whipsawed\nmarkets this week.\n\nNasdaq 100 futures tumbled 1.2%, while those on the S&P 500 moved down 0.5%\nafter both indexes closed lower Thursday for the fourth straight times this\nweek.\n\nConcerns are growing that the skyrocketing cost of memory and storage components\ncould hit device makers, after Apple raised prices of its MacBooks and iPads.\nMemory chipmaker Micron's stellar earnings showed the squeeze is set to\ncontinue.\n\nAt the same time, a New York Times report that OpenAI is planning to push back\nit's mega IPO until 2027 is also dragging on appetite for techs.\n\nsubmitted by /u/app1310 [https://old.reddit.com/user/app1310]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ug3ydx/sp_500_nasdaq_futures_slide_as_openai_ipo_delay/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ug3ydx/sp_500_nasdaq_futures_slide_as_openai_ipo_delay/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ug3ydx/sp_500_nasdaq_futures_slide_as_openai_ipo_delay",
+      "publishedAt": "2026-06-26T11:17:45.000Z",
+      "author": "/u/app1310",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
       "id": "https://www.expansion.com/mercados/bitcoin/2026/06/26/6a3e46a3e5fdeab87a8b456f.html",
       "title": "Precio del Bitcoin hoy, 26 de junio: El precio del Bitcoin se ha devaluado en un 0,82%",
       "description": "El Bitcoin se sitúa hoy en 60.233,04 dólares y registra una bajada del 0,82% con\nrespecto a la sesión anterior. Leer",
@@ -2344,6 +2554,20 @@
       "source": {
         "name": "handelsblatt.com",
         "url": "https://www.handelsblatt.com"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1ug36mk/holding_through_earnings_what_mu_taught_me/",
+      "title": "Holding Through Earnings, What MU Taught Me",
+      "description": "MU reported after hours yesterday. Closed the session +15.74%, hit +18%\nintraday. But that 15 minute premarket candle swung from +18% down to +8%, then\nripped back to +13%. If you were holding naked calls at Thursday's close, that\n10% premarket range was more than enough to stop you out. This is my third cycle\ntrading MU options. Back in 2023, when MU posted a\n5.8Bloss,IboughtcallsandpeoplethoughtIwasanidiot.In2025,with5.8Bloss,IboughtcallsandpeoplethoughtIwasanidiot.In2025,with37.3B\nrevenue, I sold puts and got told I was too conservative. This cycle, I held a\n1150C calendar spread through earnings. No naked longs. Why? Because MU's IV ran\nto 180%+ the day before the print. That level of IV means the market is pricing\nin an 8% to 12% move. And sure enough, the actual numbers,\n414.6Brevenue,84.9414.6Brevenue,84.9500B midpoint guidance, each one\nhistorically massive. But the market had already priced in a lot of it. MU is up\n325% year to date. Your edge is not in guessing whether a print beats. At this\nlevel of information asymmetry, retail is never going to be faster than\ninstitutions. The real edge is in the gamma decay and IV crush the morning\nafter. Once the market opens post earnings, OTM call IV collapses from 180% down\nto 60% or 70%. That decay happens faster than most people expect. My strategy\nframework: if you must hold through earnings, avoid naked options. Use calendar\nspreads, sell the near month and buy the far month, to offset the IV crush. Or\njust go with a debit spread to cap max loss. One more thing I learned the hard\nway: don't reload immediately after the print. Wait 30 to 45 minutes for gamma\nand IV to reprice. The support and resistance levels you see after that window\nare the actual market conviction, not opening emotion. I'm bullish on MU's\nfundamentals long term. The SCA long term contract customers put down $22B in\ncash upfront. That signal says more than any analyst price target. But\nfundamentals are one thing, position sizing is another. Anyone else hold MU\nthrough earnings? How did you hedge? submitted by /u/Live-Past4287 [link]\n[comments]",
+      "content": "MU reported after hours yesterday. Closed the session +15.74%, hit +18%\nintraday. But that 15 minute premarket candle swung from +18% down to +8%, then\nripped back to +13%. If you were holding naked calls at Thursday's close, that\n10% premarket range was more than enough to stop you out.\n\nThis is my third cycle trading MU options. Back in 2023, when MU posted a\n5.8Bloss,IboughtcallsandpeoplethoughtIwasanidiot.In2025,with5.8Bloss,IboughtcallsandpeoplethoughtIwasanidiot.In2025,with37.3B\nrevenue, I sold puts and got told I was too conservative. This cycle, I held a\n1150C calendar spread through earnings. No naked longs. Why? Because MU's IV ran\nto 180%+ the day before the print. That level of IV means the market is pricing\nin an 8% to 12% move. And sure enough, the actual numbers,\n414.6Brevenue,84.9414.6Brevenue,84.9500B midpoint guidance, each one\nhistorically massive. But the market had already priced in a lot of it.\n\nMU is up 325% year to date. Your edge is not in guessing whether a print beats.\nAt this level of information asymmetry, retail is never going to be faster than\ninstitutions. The real edge is in the gamma decay and IV crush the morning\nafter. Once the market opens post earnings, OTM call IV collapses from 180% down\nto 60% or 70%. That decay happens faster than most people expect.\n\nMy strategy framework: if you must hold through earnings, avoid naked options.\nUse calendar spreads, sell the near month and buy the far month, to offset the\nIV crush. Or just go with a debit spread to cap max loss. One more thing I\nlearned the hard way: don't reload immediately after the print. Wait 30 to 45\nminutes for gamma and IV to reprice. The support and resistance levels you see\nafter that window are the actual market conviction, not opening emotion.\n\nI'm bullish on MU's fundamentals long term. The SCA long term contract customers\nput down $22B in cash upfront. That signal says more than any analyst price\ntarget. But fundamentals are one thing, position sizing is another. Anyone else\nhold MU through earnings? How did you hedge?\n\nsubmitted by /u/Live-Past4287 [https://old.reddit.com/user/Live-Past4287]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ug36mk/holding_through_earnings_what_mu_taught_me/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ug36mk/holding_through_earnings_what_mu_taught_me/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ug36mk/holding_through_earnings_what_mu_taught_me",
+      "publishedAt": "2026-06-26T10:37:37.000Z",
+      "author": "/u/Live-Past4287",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
       }
     },
     {
@@ -2408,17 +2632,17 @@
       }
     },
     {
-      "id": "784c43af-7a68-4ca5-aa24-49704c567ebb",
-      "title": "Why poor countries won’t restructure",
-      "description": "Low-income countries are facing deeper shocks, but are refusing to restructure.\nWhy?",
-      "content": "Low-income countries are facing deeper shocks, but are refusing to restructure.\nWhy?",
-      "url": "https://ft.com/content/784c43af-7a68-4ca5-aa24-49704c567ebb",
-      "publishedAt": "2026-06-26T09:30:00.000Z",
+      "id": "mortgage-and-refinance-interest-rates-today-friday-june-26-2026-rates-relatively-flat-heading-into-the-weekend-100000320.html",
+      "title": "Mortgage and refinance interest rates today, Friday, June 26, 2026: Rates relatively flat heading into the weekend",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-june-26-2026-rates-relatively-flat-heading-into-the-weekend-100000320.html",
+      "publishedAt": "2026-06-26T10:00:00.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "ft.com",
-        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
       }
     },
     {
@@ -2470,6 +2694,20 @@
       }
     },
     {
+      "id": "https://old.reddit.com/r/stocks/comments/1ug0mor/nike_will_be_releasing_earnings_next_week/",
+      "title": "Nike will be releasing earnings next week. Management already prepared us to not expect any major wins",
+      "description": "A lot seems to have gone wrong with the company in recent years, and the worst\npart is that this seems to mostly have been self-inflicted. Went all in direct\nto consumer, cut wholesale partners, destroyed those relationships Flooded the\nmarket with AF1, AJ1, Dunks, and killed the heat on some of their best\nfranchises They chased lifestyle revenue, and pretty much abandoned the sport\nperformance identity (major strategic blunder imo). One of their worst moves was\nto build a fixed-cost infrastructure for a digital business that never ended up\nreaching the scale management projected. Misread China's channel dynamics and\nlet inventory pile up across digital and wholesale simultaneously Its EMEA\nmarkets showed structural mismanagement, so the management's response was to\npaper over it with volume, rather than addressing structural causes of weakness.\nTried to fix all of it at once from a position of weakened brand equity and\nelevated inventory everywhere which just worsened things for itself. Management\nnow insists that they are working to correct these misteps. The main thesis\nthey're trying to push is that the company never lost its fundamental advantages\n(athlete relationships, innovation capability, brand equity, wholesale\ninfrastructure, global scale, etc.) and all wrongs actually related to\ndiscipline. In prior earning calls, they seem to be pretty explicit that the\ntimeline is longer than they initially suggested and some geographies are\nmessier than initially diagnosed. China and EMEA have structural weaknesses\ncompared to North America, and require more time. They have guided Q4 revenue to\nfall between 2% and 4% of last year Q4's total of $11.1 billion. If the reported\nrevenue is below $10.6 billion, that's going to be really negative for the Nike.\nThey're betting on the North American market showing strength, and if that does\nnot play out, their thesis is breaking down. I'm tracking ~24 specific\nmilestones for the company in the upcoming earnings, and will be sharing updates\nif anyone is interested in them (available on my profile). Right now,\nshareholders will want to see that Nike can address past failures, and stick to\nthe clean up thesis they are framing. Personally, I think the stock is expensive\nright now at 28x forward earnings, especially since the best signal we could be\ngiven is that the fundamental decline is slowing, not reversing. I think that's\na pretty thin foundation for a 28x multiple. submitted by /u/AggressiveAd9058\n[link] [comments]",
+      "content": "A lot seems to have gone wrong with the company in recent years, and the worst\npart is that this seems to mostly have been self-inflicted.\n\n 1. Went all in direct to consumer, cut wholesale partners, destroyed those\n    relationships\n 2. Flooded the market with AF1, AJ1, Dunks, and killed the heat on some of\n    their best franchises\n 3. They chased lifestyle revenue, and pretty much abandoned the sport\n    performance identity (major strategic blunder imo).\n 4. One of their worst moves was to build a fixed-cost infrastructure for a\n    digital business that never ended up reaching the scale management\n    projected.\n 5. Misread China's channel dynamics and let inventory pile up across digital\n    and wholesale simultaneously\n 6. Its EMEA markets showed structural mismanagement, so the management's\n    response was to paper over it with volume, rather than addressing structural\n    causes of weakness.\n 7. Tried to fix all of it at once from a position of weakened brand equity and\n    elevated inventory everywhere which just worsened things for itself.\n\nManagement now insists that they are working to correct these misteps. The main\nthesis they're trying to push is that the company never lost its fundamental\nadvantages (athlete relationships, innovation capability, brand equity,\nwholesale infrastructure, global scale, etc.) and all wrongs actually related to\ndiscipline.\n\nIn prior earning calls, they seem to be pretty explicit that the timeline is\nlonger than they initially suggested and some geographies are messier than\ninitially diagnosed. China and EMEA have structural weaknesses compared to North\nAmerica, and require more time.\n\nThey have guided Q4 revenue to fall between 2% and 4% of last year Q4's total of\n$11.1 billion. If the reported revenue is below $10.6 billion, that's going to\nbe really negative for the Nike. They're betting on the North American market\nshowing strength, and if that does not play out, their thesis is breaking down.\n\nI'm tracking ~24 specific milestones for the company in the upcoming earnings,\nand will be sharing updates if anyone is interested in them (available on my\nprofile). Right now, shareholders will want to see that Nike can address past\nfailures, and stick to the clean up thesis they are framing.\n\nPersonally, I think the stock is expensive right now at 28x forward earnings,\nespecially since the best signal we could be given is that the fundamental\ndecline is slowing, not reversing. I think that's a pretty thin foundation for a\n28x multiple.\n\nsubmitted by /u/AggressiveAd9058 [https://old.reddit.com/user/AggressiveAd9058]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ug0mor/nike_will_be_releasing_earnings_next_week/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ug0mor/nike_will_be_releasing_earnings_next_week/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ug0mor/nike_will_be_releasing_earnings_next_week",
+      "publishedAt": "2026-06-26T08:11:53.000Z",
+      "author": "/u/AggressiveAd9058",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
       "id": "https://www.expansion.com/mercados/2026/06/26/6a2006a5e5fdea7c288b4596.html",
       "title": "La relación de amor en Bolsa entre BBVA y el bono de Estados Unidos",
       "description": "Es el banco europeo que más sube cuando lo hace la rentabilidad de la deuda\nestadounidense a largo plazo. La cotización de Santander y CaixaBank también se\nha visto impulsada históricamente. Leer",
@@ -2489,6 +2727,20 @@
       }
     },
     {
+      "id": "https://old.reddit.com/r/stocks/comments/1ufxtms/asian_shares_plunge_as_traders_sell_to_lock_in/",
+      "title": "Asian shares plunge as traders sell to lock in profits after recent rallies driven by AI",
+      "description": "Shares plunged Friday in Asia, led by heavy losses in Japan and South Korea as\ntraders sold to lock in gains from recent rallies in stocks related to\nartificial intelligence. U.S. futures also declined, while oil prices fell.\nTokyo’s Nikkei 225 index shed 5% to 68,783.50 and the Kospi in Seoul plunged\n8.4% to 8,182.54. Hong Kong’s Hang Seng lost 1.9% to 22,644.49, while the\nShanghai Composite index slipped 2.1% to 4,032.30. In Australia, the S&P/ASX 200\nwas nearly unchanged at 8,745.80. Taiwan’s Taiex gave up 3.3%. Both the Nikkei\nand Kospi hit record highs earlier this week. The wide swings are typical of\nrecent volatility in markets as investors react to the deluge of dollars heading\ninto AI data centers and other investments.\nhttps://apnews.com/article/stocks-markets-ai-chips-oil-rates-e356760ec69cab916e53a9804336b845\nsubmitted by /u/joe4942 [link] [comments]",
+      "content": "> Shares plunged Friday in Asia, led by heavy losses in Japan and South Korea as\n> traders sold to lock in gains from recent rallies in stocks related to\n> artificial intelligence.\n> \n> U.S. futures also declined, while oil prices fell.\n> \n> Tokyo’s Nikkei 225 index shed 5% to 68,783.50 and the Kospi in Seoul plunged\n> 8.4% to 8,182.54.\n> \n> Hong Kong’s Hang Seng lost 1.9% to 22,644.49, while the Shanghai Composite\n> index slipped 2.1% to 4,032.30.\n> \n> In Australia, the S&P/ASX 200 was nearly unchanged at 8,745.80.\n> \n> Taiwan’s Taiex gave up 3.3%.\n> \n> Both the Nikkei and Kospi hit record highs earlier this week.\n> \n> The wide swings are typical of recent volatility in markets as investors react\n> to the deluge of dollars heading into AI data centers and other investments.\n\nhttps://apnews.com/article/stocks-markets-ai-chips-oil-rates-e356760ec69cab916e53a9804336b845\n[https://apnews.com/article/stocks-markets-ai-chips-oil-rates-e356760ec69cab916e53a9804336b845]\n\nsubmitted by /u/joe4942 [https://old.reddit.com/user/joe4942]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ufxtms/asian_shares_plunge_as_traders_sell_to_lock_in/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ufxtms/asian_shares_plunge_as_traders_sell_to_lock_in/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ufxtms/asian_shares_plunge_as_traders_sell_to_lock_in",
+      "publishedAt": "2026-06-26T05:33:07.000Z",
+      "author": "/u/joe4942",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
       "id": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/kryptowaehrung-bitcoin-faellt-unter-60.000-dollar-kursrutsch-droht/100235621.html",
       "title": "Kryptowährung: „Unsicherheitscocktail“ am Markt: Bitcoin fällt auf den tiefsten Stand seit Oktober 2024",
       "description": "Die älteste Digitalwährung ist auf den niedrigsten Stand seit September 2024\ngefallen. Während ein Analyst eine aufkommende Sinnkrise befürchtet, rät ein\nanderer zur Ruhe.",
@@ -2502,20 +2754,6 @@
       "source": {
         "name": "handelsblatt.com",
         "url": "https://www.handelsblatt.com"
-      }
-    },
-    {
-      "id": "42420d57-f466-4b01-bc4a-4d68f9e0b6c0",
-      "title": "The leadership change in US stocks ",
-      "description": "A market seeking direction",
-      "content": "A market seeking direction",
-      "url": "https://ft.com/content/42420d57-f466-4b01-bc4a-4d68f9e0b6c0",
-      "publishedAt": "2026-06-26T05:30:09.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "ft.com",
-        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
       }
     },
     {
@@ -2535,17 +2773,17 @@
       }
     },
     {
-      "id": "c1765ad5-022c-4bc3-9295-ef80791a2977",
-      "title": "Binance to stop providing services to EU clients after failing to obtain licence",
-      "description": "World’s biggest crypto exchange tells customers how to withdraw their money as\nMiCA rules set to come into force",
-      "content": "World’s biggest crypto exchange tells customers how to withdraw their money as\nMiCA rules set to come into force",
-      "url": "https://ft.com/content/c1765ad5-022c-4bc3-9295-ef80791a2977",
-      "publishedAt": "2026-06-26T04:00:33.000Z",
-      "author": null,
+      "id": "https://old.reddit.com/r/stocks/comments/1ufujs2/wendys_meme_rally_distracts_from_the_bigger/",
+      "title": "Wendy’s Meme Rally distracts from the bigger picture",
+      "description": "The recent Wendy's pump was probably confirmation that we will never see a\nGameStop like squeeze ever again. But now, people are throwing the baby out with\nthe bath water. The question that matters is whether Wendy's is fundamentally\nbroken for good…but there’s a lot of evidence to suggest that may not be the\ncase. For those who haven’t followed closely, the recent figures are ugly. In Q1\nthis year, global sales went down 5.5%, same-restaurant sales in US were down\n7.8%, net restaurant openings in US were -164, and restaurant margin for\ncompany-operated US restaurants decreased from 14.8% to 11.4%. The adjusted\nEBITDA fell 10.6%, adjusted earnings per share were down 40%, & free cash flow\ndropped from $68 million to $36.5 million. Overall traffic is weak, food costs\nare rising, economics for the franchisees are getting worse, and the store count\nis shrinking. Someone could look at this and wonder if they are destined to be\nthe next Burger King (or Arby’s!). Enter Bob Wright and Steve Cirulis as CEO and\nCFO. In this post, I’m not going to suggest that they are some miracle saviors\nof the company. For the unaware, those two guys were instrumental in producing a\n500%+ share price increase at Potbelly along with double-digit average unit\nvolume growth, margin improvement, and better return on invested capital. They\nphased out or improved weaker stores, pushed digital & loyalty, increased the\npercentage of franchisees, and improved margins. In 6 months, the numbers\ndemonstrated the locations were more capital efficient. Over the next 2-3 years,\nthey were able to make a complete 180 on the company. To be clear, Potbelly did\nnot have clean revenues during its turnaround. In 2024, revenues actually\ndeclined 5.9%, due to refranchising and 53rd-week comparison. Adjusted EBITDA\nstill increased 14.9%, adjusted earnings per share doubled, & open plus\ncommitted shops grew to 727. For Wendy’s, closing of weak stores, reducing hours\nthat generate no profits and improving economics of the remaining stores will\nhelp them despite lower revenue. Wendy's is ALREADY heading in that direction\nthrough its Project Fresh program. Yes some will look at it as pure marketing\nbut it’s a concerted effort for brand revitalization, optimizing their systems,\nimproving service quality, and reallocating capital. Biggie Deals at prices of\n$4, $6, and $8 are helping Wendy's show they are dedicated to value offerings.\nThey upgraded core products (buns, sauces, chicken). Like Potbelly they are\nputting an emphasis on order accuracy, cleanliness, speed, labor allocation, and\nhours of operations. Recent numbers show breakfast is failing but late night\nsales are popping off (actually their most profitable), so it’s natural to scale\nback early hours in favor of late night hours with more employees on the clock.\nDigital is another part of the strategy that was a boon at Potbelly. U.S.\ndigital orders increased 8.4% in Q1 and reached 22.7% of U.S. sales mix. Wendy's\nalso introduced an AI-driven recommendation engine in their mobile application.\nThis is important as targeted offers allow driving frequency while not giving\nthe margin away to each customer. People will roll their eyes at AI integration\nbut it should be looked at as more precise target marketing. Wendy's has a\nstrong brand, royalty-based franchising model, theoretically undervalued stock,\nTrian involvement, and now has CEO/CFO duo that helped turn around Potbelly and\nsell it to RaceTrac for $17.12 per share at a 47% premium to the 90-day VWAP.\nPrivate equity doesn't need a GREAT Wendy's, but rather a fixable one. A\npotential buyer can underwrite a plan where weak stores will get closed or\nrefranchised, franchisees will become healthier, digital sales will keep rising,\ncapital expenditures will be redirected, international growth will continue, and\nthe EBITDA/free cash flows will stabilize. The private equity interest is real\nand the new leadership should help them if that’s the path they decide to go\ndown. The meme pump was a big distraction IMHO. If Wright and Cirulis manage to\nreplicate Potbelly playbook at scale, the stock won't need a pump to rise. It\nwill go up on business becoming cleaner, margins stabilizing, cash flow staying\npositive, and Wendy's either becoming a turnaround story or take-private\ncandidate. TL; DR: Wendy's faces serious problems including declining sales in\nthe US, shrinking store count, reduced margins & lower free cash flows. But the\nnewly appointed CEO/CFO duo previously turned around Potbelly by improving unit\neconomics, increasing margins, growing digital/franchise commitments and\neventually selling it at a premium. If they can do the same with Wendy's, the\nupside potential will be not only a pump. It will be a re-rating or a potential\ntake-private story. submitted by /u/nbaphilly17 [link] [comments]",
+      "content": "The recent Wendy's pump was probably confirmation that we will never see a\nGameStop like squeeze ever again. But now, people are throwing the baby out with\nthe bath water.\n\nThe question that matters is whether Wendy's is fundamentally broken for\ngood…but there’s a lot of evidence to suggest that may not be the case.\n\nFor those who haven’t followed closely, the recent figures are ugly. In Q1 this\nyear, global sales went down 5.5%, same-restaurant sales in US were down 7.8%,\nnet restaurant openings in US were -164, and restaurant margin for\ncompany-operated US restaurants decreased from 14.8% to 11.4%. The adjusted\nEBITDA fell 10.6%, adjusted earnings per share were down 40%, & free cash flow\ndropped from $68 million to $36.5 million.\n\nOverall traffic is weak, food costs are rising, economics for the franchisees\nare getting worse, and the store count is shrinking.\n\nSomeone could look at this and wonder if they are destined to be the next Burger\nKing (or Arby’s!).\n\nEnter Bob Wright and Steve Cirulis as CEO and CFO. In this post, I’m not going\nto suggest that they are some miracle saviors of the company.\n\nFor the unaware, those two guys were instrumental in producing a 500%+ share\nprice increase at Potbelly along with double-digit average unit volume growth,\nmargin improvement, and better return on invested capital.\n\nThey phased out or improved weaker stores, pushed digital & loyalty, increased\nthe percentage of franchisees, and improved margins. In 6 months, the numbers\ndemonstrated the locations were more capital efficient. Over the next 2-3 years,\nthey were able to make a complete 180 on the company.\n\nTo be clear, Potbelly did not have clean revenues during its turnaround. In\n2024, revenues actually declined 5.9%, due to refranchising and 53rd-week\ncomparison. Adjusted EBITDA still increased 14.9%, adjusted earnings per share\ndoubled, & open plus committed shops grew to 727.\n\nFor Wendy’s, closing of weak stores, reducing hours that generate no profits and\nimproving economics of the remaining stores will help them despite lower\nrevenue.\n\nWendy's is ALREADY heading in that direction through its Project Fresh program.\nYes some will look at it as pure marketing but it’s a concerted effort for brand\nrevitalization, optimizing their systems, improving service quality, and\nreallocating capital.\n\nBiggie Deals at prices of $4, $6, and $8 are helping Wendy's show they are\ndedicated to value offerings. They upgraded core products (buns, sauces,\nchicken). Like Potbelly they are putting an emphasis on order accuracy,\ncleanliness, speed, labor allocation, and hours of operations. Recent numbers\nshow breakfast is failing but late night sales are popping off (actually their\nmost profitable), so it’s natural to scale back early hours in favor of late\nnight hours with more employees on the clock.\n\nDigital is another part of the strategy that was a boon at Potbelly. U.S.\ndigital orders increased 8.4% in Q1 and reached 22.7% of U.S. sales mix. Wendy's\nalso introduced an AI-driven recommendation engine in their mobile application.\nThis is important as targeted offers allow driving frequency while not giving\nthe margin away to each customer. People will roll their eyes at AI integration\nbut it should be looked at as more precise target marketing.\n\nWendy's has a strong brand, royalty-based franchising model, theoretically\nundervalued stock, Trian involvement, and now has CEO/CFO duo that helped turn\naround Potbelly and sell it to RaceTrac for $17.12 per share at a 47% premium to\nthe 90-day VWAP.\n\nPrivate equity doesn't need a GREAT Wendy's, but rather a fixable one. A\npotential buyer can underwrite a plan where weak stores will get closed or\nrefranchised, franchisees will become healthier, digital sales will keep rising,\ncapital expenditures will be redirected, international growth will continue, and\nthe EBITDA/free cash flows will stabilize.\n\nThe private equity interest is real and the new leadership should help them if\nthat’s the path they decide to go down.\n\nThe meme pump was a big distraction IMHO. If Wright and Cirulis manage to\nreplicate Potbelly playbook at scale, the stock won't need a pump to rise. It\nwill go up on business becoming cleaner, margins stabilizing, cash flow staying\npositive, and Wendy's either becoming a turnaround story or take-private\ncandidate.\n\nTL; DR: Wendy's faces serious problems including declining sales in the US,\nshrinking store count, reduced margins & lower free cash flows. But the newly\nappointed CEO/CFO duo previously turned around Potbelly by improving unit\neconomics, increasing margins, growing digital/franchise commitments and\neventually selling it at a premium. If they can do the same with Wendy's, the\nupside potential will be not only a pump. It will be a re-rating or a potential\ntake-private story.\n\nsubmitted by /u/nbaphilly17 [https://old.reddit.com/user/nbaphilly17]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ufujs2/wendys_meme_rally_distracts_from_the_bigger/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ufujs2/wendys_meme_rally_distracts_from_the_bigger/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ufujs2/wendys_meme_rally_distracts_from_the_bigger",
+      "publishedAt": "2026-06-26T02:51:51.000Z",
+      "author": "/u/nbaphilly17",
       "categories": [],
       "source": {
-        "name": "ft.com",
-        "url": "https://www.ft.com/stream/c91b1fad-1097-468b-be82-9a8ff717d54c"
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
       }
     },
     {
@@ -2565,17 +2803,17 @@
       }
     },
     {
-      "id": "stock-market-today-sp-500-nasdaq-snap-2-week-win-streak-as-ai-jitters-pressure-tech-231347821.html",
-      "title": "Stock market today: S&P 500, Nasdaq snap 2-week win streak as AI jitters pressure tech",
-      "description": "",
-      "content": "",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-nasdaq-snap-2-week-win-streak-as-ai-jitters-pressure-tech-231347821.html",
-      "publishedAt": "2026-06-25T23:13:47.000Z",
-      "author": null,
+      "id": "https://old.reddit.com/r/stocks/comments/1ufpu1t/openai_may_delay_ipo_until_2027/",
+      "title": "OpenAI may delay IPO until 2027",
+      "description": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html\nOpenAI is leaning toward holding off its initial public offering until next\nyear, three people involved in the company’s deliberations said, a turnabout\nthat punctuates the uncertain future for fast-rising artificial intelligence\ngiants. The maker of ChatGPT hired bankers and lawyers with an eye toward a\npublic offering as soon as the third or fourth quarter of this year, the people\nsaid. Sam Altman, the company’s chief executive, pushed those advisers to find a\nway for the start-up to be valued at $1 trillion, up from the company’s last\nprivate valuation of $730 billion, according to the people involved, who did not\nwant to be named because they were not permitted to speak publicly about\ninternal deliberations. But a cascade of recent developments has caused OpenAI’s\nexecutives to shift away from their most aggressive aspirations. Top of mind is\nwhat has happened to Elon Musk’s SpaceX after its I.P.O. this month. It was the\nlargest ever, raising more than $85 billion and reaching a valuation of $1.77\ntrillion on its debut. Since then, SpaceX’s stock has been on a downward slide,\nas shares slumped to $153 at the end of the trading day on Thursday after\nreaching a high of $202 last week. Global markets have also been choppy in\nrecent weeks, with tech stocks dragging down indexes as investors question\nwhether A.I. companies will live up to their sky-high promises. I hope its\ndelayed. I don’t have enough cash for it and Anthropic too. Greed and selfish I\nam ;)🤑 submitted by /u/AnnaSmiled2 [link] [comments]",
+      "content": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html\n[https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html]\n\nOpenAI is leaning toward holding off its initial public offering until next\nyear, three people involved in the company’s deliberations said, a turnabout\nthat punctuates the uncertain future for fast-rising artificial intelligence\ngiants.\nThe maker of ChatGPT hired bankers and lawyers with an eye toward a public\noffering as soon as the third or fourth quarter of this year, the people said.\nSam Altman, the company’s chief executive, pushed those advisers to find a way\nfor the start-up to be valued at $1 trillion, up from the company’s last private\nvaluation of $730 billion\n[https://www.nytimes.com/2026/03/31/technology/openai-12-billion-latest-funding-round.html],\naccording to the people involved, who did not want to be named because they were\nnot permitted to speak publicly about internal deliberations.\nBut a cascade of recent developments has caused OpenAI’s executives to shift\naway from their most aggressive aspirations. Top of mind is what has happened to\nElon Musk’s SpaceX after its I.P.O. this month. It was the largest ever, raising\nmore than $85 billion and reaching a valuation of $1.77 trillion on its debut.\nSince then, SpaceX’s stock has been on a downward slide, as shares slumped to\n$153 at the end of the trading day on Thursday after reaching a high of $202\n[https://www.nytimes.com/2026/06/23/business/after-blockbuster-ipo-spacex-shares-are-slumping.html]\nlast week.\nGlobal markets have also been choppy in recent weeks, with tech stocks dragging\ndown indexes as investors question whether A.I. companies will live up to their\nsky-high promises.\n\nI hope its delayed. I don’t have enough cash for it and Anthropic too. Greed and\nselfish I am ;)🤑\n\nsubmitted by /u/AnnaSmiled2 [https://old.reddit.com/user/AnnaSmiled2]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ufpu1t/openai_may_delay_ipo_until_2027/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ufpu1t/openai_may_delay_ipo_until_2027/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ufpu1t/openai_may_delay_ipo_until_2027",
+      "publishedAt": "2026-06-25T23:18:32.000Z",
+      "author": "/u/AnnaSmiled2",
       "categories": [],
       "source": {
-        "name": "finance.yahoo.com",
-        "url": "https://finance.yahoo.com/"
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
       }
     },
     {
@@ -2649,6 +2887,20 @@
       }
     },
     {
+      "id": "https://old.reddit.com/r/stocks/comments/1ufkvhm/xbox_hikes_x_and_s_consoles_price_by_more_than/",
+      "title": "Xbox Hikes X and S Consoles Price by More Than $100, Discontinues 2 TB Model due to rising memory prices",
+      "description": "https://variety.com/2026/gaming/news/xbox-price-hike-x-s-consoles-discontinue-2-tb-model-1236790767/\nThe now-discontinued 2 TB model was the highest priced current gen Xbox console.\nThe blog continues: “Last October, we increased XBOX console price by $20-$70 in\nthe U.S. We hoped another price increase would not be necessary, and we have\nspent the last several months working with suppliers on options. Unfortunately,\nconsole storage and memory prices have increased by more than 2.5x and we expect\nanother doubling by the fall of 2027. The entire consumer electronics industry\nis struggling with the current components crisis, but the effects are\nparticularly hard on consoles. Unlike phones, computers, speakers, and other\nconsumer devices, consoles are typically not sold at a profit, but instead for\nless than they cost to make.” In the post, Xbox went on to cite multiple\n“programs to make XBOX consoles more accessible,” including buy now, pay later\nplans, interest free financing, previously owned consoles and certified\nrefurbished models. submitted by /u/WickedSensitiveCrew [link] [comments]",
+      "content": "https://variety.com/2026/gaming/news/xbox-price-hike-x-s-consoles-discontinue-2-tb-model-1236790767/\n[https://variety.com/2026/gaming/news/xbox-price-hike-x-s-consoles-discontinue-2-tb-model-1236790767/]\n\n> The now-discontinued 2 TB model was the highest priced current gen Xbox\n> console. The blog continues: “Last October, we increased XBOX console price by\n> $20-$70 in the U.S. We hoped another price increase would not be necessary,\n> and we have spent the last several months working with suppliers on options.\n> Unfortunately, console storage and memory prices have increased by more than\n> 2.5x and we expect another doubling by the fall of 2027. The entire consumer\n> electronics industry is struggling with the current components crisis, but the\n> effects are particularly hard on consoles. Unlike phones, computers, speakers,\n> and other consumer devices, consoles are typically not sold at a profit, but\n> instead for less than they cost to make.”\n> \n> In the post, Xbox went on to cite multiple “programs to make XBOX consoles\n> more accessible,” including buy now, pay later plans, interest free financing,\n> previously owned consoles and certified refurbished models.\n\nsubmitted by /u/WickedSensitiveCrew\n[https://old.reddit.com/user/WickedSensitiveCrew]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ufkvhm/xbox_hikes_x_and_s_consoles_price_by_more_than/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ufkvhm/xbox_hikes_x_and_s_consoles_price_by_more_than/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ufkvhm/xbox_hikes_x_and_s_consoles_price_by_more_than",
+      "publishedAt": "2026-06-25T20:02:15.000Z",
+      "author": "/u/WickedSensitiveCrew",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
       "id": "https://www.expansion.com/economia/financial-times/2026/06/25/6a3d6a64468aebd0768b4580.html",
       "title": "El precipicio de las patentes no ha sido el único impulsor del auge de las M&A biotecnológicas",
       "description": "Muchas de las operaciones de este año se han centrado en activos en fase\ninicial. Leer",
@@ -2669,6 +2921,20 @@
       }
     },
     {
+      "id": "https://old.reddit.com/r/stocks/comments/1uffy6v/is_microns_guidance_truly_bullish_for_the_overall/",
+      "title": "Is Micron’s guidance truly bullish for the overall market? I’m not so certain",
+      "description": "Like everyone, I thought micron’s earnings beat and guidance yesterday was\nincredible. My initial thought was the report was very bullish for overall tech.\nThinking over the results though, I’m having second thoughts. Mag7 stocks have\nrecently struggled, likely due to concerns over the extent of their ai spend.\nMicron’s report indicates they’ve substantially increased memory prices and will\ncontinue to do so. This will only further fuel mag7 overspending concerns. And\njust today, both Apple and Microsoft announced substantial consumer product\nprice increases because of rising memory costs, which will certainly hurt sales\nvolume. The memory costs are now starting to eat into the earnings of mag7’s\ncore businesses. Again, not bullish. Markets are holding at or near all time\nhighs for the moment despite the mag7 struggles. But if mag7 continues to\ndecline due to rising ai input costs, I’m not so sure the markets can continue\nto hang on given how large these mag7 companies are. submitted by\n/u/BGID_to_the_moon [link] [comments]",
+      "content": "Like everyone, I thought micron’s earnings beat and guidance yesterday was\nincredible. My initial thought was the report was very bullish for overall tech.\n\nThinking over the results though, I’m having second thoughts. Mag7 stocks have\nrecently struggled, likely due to concerns over the extent of their ai spend.\nMicron’s report indicates they’ve substantially increased memory prices and will\ncontinue to do so. This will only further fuel mag7 overspending concerns.\n\nAnd just today, both Apple and Microsoft announced substantial consumer product\nprice increases because of rising memory costs, which will certainly hurt sales\nvolume. The memory costs are now starting to eat into the earnings of mag7’s\ncore businesses. Again, not bullish.\n\nMarkets are holding at or near all time highs for the moment despite the mag7\nstruggles. But if mag7 continues to decline due to rising ai input costs, I’m\nnot so sure the markets can continue to hang on given how large these mag7\ncompanies are.\n\nsubmitted by /u/BGID_to_the_moon [https://old.reddit.com/user/BGID_to_the_moon]\n[link]\n[https://old.reddit.com/r/stocks/comments/1uffy6v/is_microns_guidance_truly_bullish_for_the_overall/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1uffy6v/is_microns_guidance_truly_bullish_for_the_overall/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1uffy6v/is_microns_guidance_truly_bullish_for_the_overall",
+      "publishedAt": "2026-06-25T17:05:02.000Z",
+      "author": "/u/BGID_to_the_moon",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
       "id": "https://www.expansion.com/mercados/criptomonedas/2026/06/24/6a3c0561468aeb18248b45b4.html",
       "title": "Binance confirma su salida de Grecia y buscará la licencia MiCA en otro país de Europa",
       "description": "La plataforma de criptomonedas más grande del mundo aún no cuenta con la\nlicencia necesaria para operar en la UE. El plazo para obtenerla finaliza el 1\nde julio. Leer",
@@ -2685,6 +2951,20 @@
       "source": {
         "name": "expansion.com",
         "url": "http://www.expansion.com"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1ufd7pg/microsoft_is_now_cheaper_than_the_april_2025/",
+      "title": "Microsoft is now cheaper than the April 2025 Tariff crash, yet TTM EPS is up 30%. Huge bargain",
+      "description": "I had previously sold off Microsoft at $460, but I think they are probably one\nof the biggest bargains in big tech right now: Very favorable exposure to\nOpenAI(20% revenue sharing agreement and rights to their models). Even if OpenAI\nkeeps burning cash, they are benefitting from their top line revenue growth.\nWhen the revenue share agreement expires, OpenAI will likely achieve\nprofitability, at which point Microsoft's ~25% OpenAI stake will be worth a lot.\nVery strong Azure cloud growth Enterprise software remains strong. Despite the\ninitial flop of Copilot, it's been improving a lot in recent months.\nAnecdotally, I know of a lot of people across a wide variety of professions that\nhave started using it and are satisfied with the results. They are beginning to\nroll out custom AI chips to compete with Nvidia. Capex is well balanced, IMO.\nNot excessively aggressive like Google or Meta, but still significant enough to\nmaintain growth while avoiding excessive risk. They are saving enough free cash\nflow to cover dividend and a small amount of buybacks without relying on Debt.\nShift from fixed cost billing to usage based billing on their AI products will\nlikely result in substantial revenue growth. Trading at less than 20x forward\nP/E despite 30% annual EPS growth. I can easily see MSFT doubling in value in\n1-2 years with how cheap they are right now. submitted by /u/skilliard7 [link]\n[comments]",
+      "content": "I had previously sold off Microsoft at $460, but I think they are probably one\nof the biggest bargains in big tech right now:\n\n * Very favorable exposure to OpenAI(20% revenue sharing agreement and rights to\n   their models). Even if OpenAI keeps burning cash, they are benefitting from\n   their top line revenue growth. When the revenue share agreement expires,\n   OpenAI will likely achieve profitability, at which point Microsoft's ~25%\n   OpenAI stake will be worth a lot.\n\n * Very strong Azure cloud growth\n\n * Enterprise software remains strong.\n\n * Despite the initial flop of Copilot, it's been improving a lot in recent\n   months. Anecdotally, I know of a lot of people across a wide variety of\n   professions that have started using it and are satisfied with the results.\n\n * They are beginning to roll out custom AI chips to compete with Nvidia.\n\n * Capex is well balanced, IMO. Not excessively aggressive like Google or Meta,\n   but still significant enough to maintain growth while avoiding excessive\n   risk. They are saving enough free cash flow to cover dividend and a small\n   amount of buybacks without relying on Debt.\n\n * Shift from fixed cost billing to usage based billing on their AI products\n   will likely result in substantial revenue growth.\n\n * Trading at less than 20x forward P/E despite 30% annual EPS growth.\n\nI can easily see MSFT doubling in value in 1-2 years with how cheap they are\nright now.\n\nsubmitted by /u/skilliard7 [https://old.reddit.com/user/skilliard7]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ufd7pg/microsoft_is_now_cheaper_than_the_april_2025/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ufd7pg/microsoft_is_now_cheaper_than_the_april_2025/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ufd7pg/microsoft_is_now_cheaper_than_the_april_2025",
+      "publishedAt": "2026-06-25T15:26:15.000Z",
+      "author": "/u/skilliard7",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
       }
     },
     {
@@ -3284,6 +3564,62 @@
       }
     },
     {
+      "id": "8-things-student-loan-borrowers-should-consider-before-july-1-150138641.html",
+      "title": "8 things student loan borrowers should consider before July 1",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/student-loans/article/8-things-student-loan-borrowers-should-consider-before-july-1-150138641.html",
+      "publishedAt": "2026-06-09T15:01:38.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "https://old.reddit.com/r/stocks/comments/1ttmg2b/rate_my_portfolio_rstocks_quarterly_thread_june/",
+      "title": "Rate My Portfolio - r/Stocks Quarterly Thread June 2026",
+      "description": "Please use this thread to discuss your portfolio, learn of other stock tickers &\nportfolios like Warren Buffet's, and help out users by giving constructive\ncriticism. Why quarterly? Public companies report earnings quarterly; many\ninvestors take this as an opportunity to rebalance their portfolios. We highly\nrecommend you do some reading: Check out our wiki's list of relevant posts &\nbook recommendations. You can find stocks on your own by using a scanner like\nyour broker's or Finviz. To help further, here's a list of relevant websites. If\nyou don't have a broker yet, see our list of brokers or search old posts. If you\nhaven't started investing or trading yet, then setup your paper trading to learn\nbasics like market orders vs limit orders. Be aware of Business Cycle Investing\nwhich Fidelity issues updates to the state of global business cycles every 1 to\n3 months (note: Fidelity changes their links often, so search for it since their\ntake on it is enlightening). Investopedia's take on the Business Cycle. If you\nneed help with a falling stock price, check out Investopedia's The Art of\nSelling A Losing Position and their list of biases. Here's a list of all the\nprevious portfolio stickies. submitted by /u/AutoModerator [link] [comments]",
+      "content": "Please use this thread to discuss your portfolio, learn of other stock tickers &\nportfolios like Warren Buffet's [https://buffett.online/en/portfolio/], and help\nout users by giving constructive criticism.\n\nWhy quarterly? Public companies report earnings quarterly; many investors take\nthis as an opportunity to rebalance their portfolios. We highly recommend you do\nsome reading: Check out our wiki's list of relevant posts & book\nrecommendations.\n[https://www.reddit.com/r/stocks/wiki/index/#wiki_relevant_posts.2C_books.2C_wiki_recommendations]\n\nYou can find stocks on your own by using a scanner like your broker's or Finviz.\n[https://finviz.com/screener.ashx] To help further, here's a list of relevant\nwebsites.\n[https://www.reddit.com/r/stocks/wiki/index/#wiki_relevant_websites.2Fapps]\n\nIf you don't have a broker yet, see our list of brokers\n[https://www.reddit.com/r/stocks/wiki/index/#wiki_brokers_for_investing] or\nsearch old posts. If you haven't started investing or trading yet, then setup\nyour paper trading to learn basics like market orders vs limit orders.\n[https://www.reddit.com/r/stocks/wiki/index/#wiki_is_there_a_way_to_practice.3F]\n\nBe aware of Business Cycle Investing\n[https://eresearch.fidelity.com/eresearch/markets_sectors/sectors/si_business_cycle.jhtml?tab=sibusiness]\nwhich Fidelity issues updates to the state of global business cycles every 1 to\n3 months (note: Fidelity changes their links often, so search for it since their\ntake on it is enlightening). Investopedia's take on the Business Cycle\n[https://www.investopedia.com/articles/investing/061316/business-cycle-investing-ratios-use-each-cycle.asp].\n\nIf you need help with a falling stock price, check out Investopedia's The Art of\nSelling A Losing Position [https://www.investopedia.com/articles/02/022002.asp]\nand their list of biases.\n[https://www.investopedia.com/articles/stocks/08/capital-losses.asp]\n\nHere's a list of all the previous portfolio stickies.\n[https://www.reddit.com/r/stocks/search?q=author%3Aautomoderator+title%3A%22Rate+My+Portfolio%22&restrict_sr=on&sort=new&t=all]\n\nsubmitted by /u/AutoModerator [https://old.reddit.com/user/AutoModerator]\n[link]\n[https://old.reddit.com/r/stocks/comments/1ttmg2b/rate_my_portfolio_rstocks_quarterly_thread_june/]\n[comments]\n[https://old.reddit.com/r/stocks/comments/1ttmg2b/rate_my_portfolio_rstocks_quarterly_thread_june/]",
+      "url": "https://old.reddit.com/r/stocks/comments/1ttmg2b/rate_my_portfolio_rstocks_quarterly_thread_june",
+      "publishedAt": "2026-06-01T09:00:12.000Z",
+      "author": "/u/AutoModerator",
+      "categories": [],
+      "source": {
+        "name": "/r/stocks",
+        "url": "https://old.reddit.com/r/stocks/"
+      }
+    },
+    {
+      "id": "repayment-assistance-plan-rap-explained-190753025.html",
+      "title": "The new Repayment Assistance Plan (RAP) explained: Payments, forgiveness, and who qualifies",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/student-loans/article/repayment-assistance-plan-rap-explained-190753025.html",
+      "publishedAt": "2026-05-21T19:07:53.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
+      "id": "one-big-beautiful-bill-affects-student-loans-190239452.html",
+      "title": "10 ways the One Big Beautiful Bill Act affects student loans and financial aid",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/student-loans/article/one-big-beautiful-bill-affects-student-loans-190239452.html",
+      "publishedAt": "2025-08-07T19:02:39.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
       "id": "WP-MKTW-0004302286",
       "title": "Jobless claims fall to lowest level since mid-May",
       "description": "",
@@ -3676,6 +4012,20 @@
       }
     },
     {
+      "id": "types-of-mortgage-refinance-options-173007239.html",
+      "title": "7 types of mortgage refinance options",
+      "description": "",
+      "content": "",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/types-of-mortgage-refinance-options-173007239.html",
+      "publishedAt": "2024-07-10T17:30:07.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "finance.yahoo.com",
+        "url": "https://finance.yahoo.com/"
+      }
+    },
+    {
       "id": "mobile-banking-benefits-210013653.html",
       "title": "5 major benefits of mobile banking",
       "description": "",
@@ -3718,10 +4068,5 @@
       }
     }
   ],
-  "errors": [
-    {
-      "url": "https://old.reddit.com/r/stocks/.rss",
-      "error": "Status code 429"
-    }
-  ]
+  "errors": []
 }
