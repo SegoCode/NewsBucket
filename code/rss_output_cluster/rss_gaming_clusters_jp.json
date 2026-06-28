@@ -1,7 +1,7 @@
 [
   {
-    "title": "『スター・ウォーズ エクリプス』、人員不足で完成不能とストライキ中の開発者が警告",
-    "summary": "Quantic Dreamの従業員は、大規模な解雇が続けばゲームが危機に直面すると述べている。",
+    "title": "Quantic Dream開発者、『Star Wars Eclipse』は人員増なしでは完成できないと警告",
+    "summary": "同スタジオの従業員は大量解雇に抗議してストライキ中で、ゲームの完成が危ぶまれている。",
     "source": [
       "pcgamer.com",
       "eurogamer.net",
@@ -11,8 +11,8 @@
     "count": 4
   },
   {
-    "title": "『GTA 6』、発売時もその後もディスク版のリリースはなし",
-    "summary": "複数の報道により、Rockstarは『Grand Theft Auto 6』の物理版をリリースする予定はないと確認された。",
+    "title": "Rockstar、『GTA 6』は発売時もその後も物理メディアでリリースしない",
+    "summary": "新たな報告が公式サポートに反し、ゲームはデジタルのみとなることを確認。",
     "source": [
       "3djuegos.com",
       "kotaku.com",
@@ -22,27 +22,84 @@
     "count": 4
   },
   {
-    "title": "『デルタルーン』第5章が配信開始、神秘的なコンテンツを収録",
-    "summary": "Toby FoxのRPGの新章が複数のプラットフォームでリリースされ、新エリアと不気味なシーンが追加された。",
+    "title": "Lenovo、RAMの価格は2030年まで高止まりし、新常態になると予測",
+    "summary": "メーカーはメモリ危機はすぐには解消されず、コストは以前の水準に戻らないと警告。",
     "source": [
-      "destructoid.com",
-      "polygon.com",
-      "nintendolife.com"
+      "3djuegos.com",
+      "rockpapershotgun.com",
+      "kite.kagi.com"
     ],
     "count": 3
   },
   {
-    "title": "Sony、PlayStation Storeで購入した500本以上の映画を削除へ",
-    "summary": "ユーザーは以前にデジタル購入した作品へのアクセスを失い、デジタル所有権への批判が高まっている。",
+    "title": "『Rivals of Aether II』、ゲストファイターとしてGouieとMina the Hollowerを追加",
+    "summary": "Gouieは2025年8月、Minaは2027年に登場し、格闘ゲームのロスターを拡大。",
+    "source": [
+      "nintendolife.com",
+      "kite.kagi.com",
+      "gematsu.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "『Granblue Fantasy Versus: Rising』、9月にNintendo Switch 2で発売、IdがDLCとして登場",
+    "summary": "格闘ゲームが任天堂の新コンソールでの発売日を確認し、ダウンロードキャラクターIdを含む。",
+    "source": [
+      "nintendolife.com",
+      "kite.kagi.com",
+      "gematsu.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Sony、PlayStationライブラリから550以上の映画を削除、購入済みのものも対象",
+    "summary": "ユーザーはデジタル購入したタイトルへのアクセスを失うことになり、デジタルコンテンツの所有権について批判が起きている。",
     "source": [
       "eurogamer.net",
+      "kite.kagi.com",
       "3djuegos.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Xbox、『GTA 6』の予約がPlayStationの方がXboxより多いとの報道を否定",
+    "summary": "同社は、ゲームの予約注文にコンソール間で差があるとする報告に反論。",
+    "source": [
+      "kite.kagi.com",
+      "polygon.com"
     ],
     "count": 2
   },
   {
-    "title": "『Meccha Chameleon』、16日間で1000万本を販売",
-    "summary": "隠れんぼインディーゲームがバイラルヒットとなり、予想をはるかに超える成功を収めている。",
+    "title": "『Under Night In-Birth II』、大型アップデートと新DLCキャラクターZoharを配信",
+    "summary": "格闘ゲームがダウンロードファイターZoharなどの重要なコンテンツを追加。",
+    "source": [
+      "nintendolife.com",
+      "gematsu.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "『Guilty Gear Strive』、7月2日にRobo-Kyをダウンロードキャラクターとして配信",
+    "summary": "ロボットファイターが独自のスキルセットを携えて格闘ゲームのロスターに加入。",
+    "source": [
+      "gematsu.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "『Deltarune』：高評価RPGの第5章と第6章に関するガイドと理論",
+    "summary": "ボスの場所、代替ルート、シリーズ次章に関する憶測を扱った記事。",
+    "source": [
+      "destructoid.com",
+      "polygon.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "『Meccha Chameleon』、発売16日で1000万本を売り上げる",
+    "summary": "インディーの隠れんぼゲームがバイラル現象となり、ゲームプレイと価格で賞賛を集める。",
     "source": [
       "eurogamer.net",
       "destructoid.com"
@@ -50,127 +107,74 @@
     "count": 2
   },
   {
-    "title": "Lenovo、RAMの高価格が新常態になると予測",
-    "summary": "同社は、RAMメモリの価格危機は後戻りできない可能性があると警告している。",
+    "title": "PS6の製造コストは1000ドル近くになる可能性",
+    "summary": "内部情報筋によると、ソニーの次世代コンソールは最先端コンポーネントのため高価になると示唆。",
     "source": [
-      "3djuegos.com",
-      "rockpapershotgun.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "『Bloodwoven』：神の凍死体を舞台にした没入型サバイバルシム",
-    "summary": "『Blood West』のディレクターによる新作は、凍てつく神秘的な世界でサバイバルとシューティングを融合。",
-    "source": [
-      "rockpapershotgun.com",
-      "pcgamer.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "『Under Night In-Birth II』、大型アップデートと新DLCキャラクターを受信",
-    "summary": "格闘ゲームは、ファイターZoharのリリースとともに大型アップデートを発表。",
-    "source": [
-      "nintendolife.com",
-      "gematsu.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "『Granblue Fantasy Versus: Rising』、9月にSwitch 2版が登場、新DLCも",
-    "summary": "格闘ゲームのSwitch 2版では、キャラクター「Id」がダウンロードコンテンツとして含まれる。",
-    "source": [
-      "nintendolife.com",
-      "gematsu.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "『Rivals of Aether II』、ゲストファイターとしてGouieとMina the Hollowerを追加",
-    "summary": "プラットフォーム格闘ゲームに新キャラクターが追加。2027年にはMina the Hollowerも参戦。",
-    "source": [
-      "nintendolife.com",
-      "gematsu.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "『Palworld』の1.0アップデート、27ページの変更点を含む",
-    "summary": "大人気サバイバルゲームが、多数の新機能と調整を伴う最終版を受け取る。",
-    "source": [
-      "pcgamer.com"
+      "kite.kagi.com"
     ],
     "count": 1
   },
   {
-    "title": "サプライズアップデートが『Path of Exile 2』をARPGの巨人に変貌させる",
-    "summary": "一連の予期せぬパッチがアクションRPGを磨き上げ、正式リリースに備えている。",
+    "title": "Ubisoftバルセロナの従業員、51人の解雇に抗議してストライキを呼びかけ",
+    "summary": "スペインのスタジオのスタッフが発表された人員削減に抗議。",
     "source": [
-      "pcgamer.com"
+      "kite.kagi.com"
     ],
     "count": 1
   },
   {
-    "title": "『Thief Remastered』、オリジナル開発者参加とグラフィックノベル同梱",
-    "summary": "Nightdive Studiosは、オリジナルのシネマティック制作者と共にリマスターに取り組んでおり、拡張コンテンツも追加。",
-    "source": [
-      "pcgamer.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "『Helldivers 2』、次期Warbondを延期、戦略クイズでプレイヤーに挑戦",
-    "summary": "Arrowhead Studiosはコンテンツを延期し、コミュニティは戦略コード識別ゲームに参加。",
-    "source": [
-      "pcgamer.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Burnoutの元開発者たちが『Star Wars: Galactic Racer』を制作、純粋なレースゲーム",
-    "summary": "新作は、N64やPS2のクラシックにインスパイアされた、レースジャンルの最も純粋な表現を約束。",
-    "source": [
-      "eurogamer.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "『Civilization 7』開発者、20世紀のリーダーと植民地主義について語る",
-    "summary": "チームは、4Xストラテジーゲームにおいて、物議を醸す歴史上の人物や植民地主義にどう取り組むか議論。",
-    "source": [
-      "rockpapershotgun.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "複数のSwitchゲームがSwitch 2対応パッチを受信",
-    "summary": "Nintendoは、複数のタイトルをアップデートし、次世代機での正常な動作を保証。",
-    "source": [
-      "nintendolife.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "A24とGoogle AIの提携、ファンの間で論争を巻き起こす",
-    "summary": "インディーズ制作会社は、弱い言い訳と見なされる人工知能との協力で批判に直面。",
+    "title": "Mark Zuckerberg、Polymarketを模したベッティングアプリを計画",
+    "summary": "MetaのCEOは分散型予測市場の直接の競合を開発しているとされる。",
     "source": [
       "kotaku.com"
     ],
     "count": 1
   },
   {
-    "title": "ファンは、転売ヤーがポケモン30周年コラボを台無しにすることを懸念",
-    "summary": "特別コレクションへの期待は、投機と転売の懸念で曇っている。",
+    "title": "A24、GoogleのAIとの提携で批判に直面",
+    "summary": "映画スタジオのファンはGoogle AIとの協力の正当性を受け入れていない。",
     "source": [
-      "destructoid.com"
+      "kotaku.com"
     ],
     "count": 1
   },
   {
-    "title": "『スター・トレック：ストレンジ・ニュー・ワールド』、カーク船長をより良く再解釈",
-    "summary": "シリーズは、象徴的なキャラクターの新たな解釈を探求し、より深い描写を提供。",
+    "title": "『Palworld』の1.0アップデート、27ページに及ぶ変更点と新要素",
+    "summary": "サバイバルゲームがコンテンツとゲームプレイの大幅な改良を含む大型アップデートを受ける。",
     "source": [
-      "polygon.com"
+      "pcgamer.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "サプライズアップデートにより『Path of Exile 2』がARPGの巨人に",
+    "summary": "アクションRPGが予想外の改良を受け、今年のジャンルで最も重要なリリースとして位置づけられる。",
+    "source": [
+      "pcgamer.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Riot、『League of Legends Classic』を発表、2週間以内に詳細を約束",
+    "summary": "同社は人気MOBAのクラシックバージョンを準備しており、コミュニティの期待を集めている。",
+    "source": [
+      "pcgamer.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "『Half-Life 2』と『Portal』、Web移植版によりブラウザでプレイ可能に",
+    "summary": "開発者グループがValveのクラシック作品をインストール不要でブラウザ上で動作させることに成功。",
+    "source": [
+      "pcgamer.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "スピードランナー、AIを使用せずに作成されたオリジナル『Spyro』のPC移植版が存在すると主張",
+    "summary": "ランナーによると、移植版は開発中であり、完全に人工知能を使わずに作られている。",
+    "source": [
+      "pcgamer.com"
     ],
     "count": 1
   }
