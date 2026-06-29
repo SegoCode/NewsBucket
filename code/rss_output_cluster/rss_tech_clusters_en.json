@@ -1,9 +1,9 @@
 [
   {
-    "title": "Samsung, SK Hynix, and Micron sued for alleged RAM price manipulation",
-    "summary": "Chip manufacturers face a class action lawsuit in the U.S. for restricting the supply of DDR3 and DDR4 memories to inflate prices in a coordinated manner.",
+    "title": "Samsung, SK Hynix, and Micron sued for alleged DRAM price manipulation",
+    "summary": "A class-action lawsuit in the U.S. accuses the three manufacturers of coordinating production cuts of DDR3 and DDR4 to inflate prices, taking advantage of the AI boom.",
     "source": [
-      "/r/technology",
+      "/r/hardware",
       "tomshardware.com",
       "videocardz.com",
       "news.ycombinator.com",
@@ -13,19 +13,58 @@
     "count": 6
   },
   {
-    "title": "First gaming PCs with SteamOS preinstalled hit the market",
-    "summary": "Valve's gaming operating system makes the leap to desktop computers with the help of several hardware manufacturers.",
+    "title": "South Korea and its chip manufacturers to invest over $520 billion in new memory factories",
+    "summary": "The plan includes four new plants and HBM centers to dominate the memory market in response to AI demand, with strong government support.",
+    "source": [
+      "techcrunch.com",
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia relaunches GeForce RTX 3060 in Europe at a price of 333 euros",
+    "summary": "Five years after its original launch, the graphics card returns to retail channels, confirming Jensen Huang's strategy of keeping it active.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Valve forces Dbrand to withdraw Companion Cube for Steam Machine due to copyright infringement",
+    "summary": "The accessory manufacturer admits to not having a license and refunds all orders after Valve's threat of legal action.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "First gaming PCs with pre-installed SteamOS hit the market, starting at $1,299",
+    "summary": "The Steamroller by Steam Machines leads the arrival of desktops with Valve's operating system, offering competitive configurations.",
     "source": [
       "hardzone.es",
       "tomshardware.com",
-      "videocardz.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "CachyOS releases new versions with significant performance and support improvements",
-    "summary": "The Linux distribution optimized for gaming includes new features like Hyprland Noctalia and extended PGO builds.",
+    "title": "WhatsApp allows choosing a username to keep phone number private",
+    "summary": "The new feature allows communication without revealing the personal number, improving the privacy of messaging app users.",
+    "source": [
+      "xataka.com",
+      "thehackernews.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "CachyOS June 2026 arrives with Hyprland Noctalia and performance improvements",
+    "summary": "The Linux distribution optimized for gaming includes new PGO profiles, DNS-over-QUIC support, and acceleration for Python and GCC.",
     "source": [
       "alternativeto.net",
       "news.ycombinator.com",
@@ -34,80 +73,17 @@
     "count": 3
   },
   {
-    "title": "Ford rehires more than 300 veteran engineers after proving AI couldn't match their expertise",
-    "summary": "The automaker replaced AI systems with human engineers after seeing they couldn't achieve the same performance.",
+    "title": "Tencent and CXMT sign DRAM memory agreement valued at $2.94 billion",
+    "summary": "The deal aims to secure memory chip supply for the Chinese tech company amid the trade war with the United States.",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
+      "elchapuzasinformatico.com",
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Rocket Lab acquires satellite company Iridium to expand its space business",
-    "summary": "The company continues its growth strategy through acquisitions in the satellite communications sector.",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung and SK Hynix to invest more than 500 billion dollars in new chip factories",
-    "summary": "The plan includes four new plants and HBM memory production centers with the support of the South Korean government.",
-    "source": [
-      "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Central bankers warn that the boom in AI investment could trigger a financial crisis",
-    "summary": "The Bank for International Settlements warns of the risk of a bubble due to massive spending on artificial intelligence without clear returns.",
-    "source": [
-      "kite.kagi.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Australia raises fines to 99 million dollars for allowing minors to use social media",
-    "summary": "The Australian government tightens sanctions in light of evidence that children continue to access platforms forbidden by law.",
-    "source": [
-      "/r/technology",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Netflix will require a separate email address for each user profile",
-    "summary": "The platform strengthens its fight against shared accounts by making each profile's identification independent from the account holder's email.",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft launches Azure Linux 4.0, its free distribution of the operating system",
-    "summary": "The company releases a new version of its own Linux, marking a shift from its former stance against open-source software.",
-    "source": [
-      "kite.kagi.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Chinese Steam Machine clone offers impossible specs at a suspiciously low price",
-    "summary": "An imitation of Valve's console appears on the market with technical features that seem too good to be true.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Digi confirms its IPO to finance fiber and mobile deployment",
-    "summary": "The Spanish operator seeks to raise funds on the stock market to continue expanding its telecommunications network.",
+    "title": "Digi confirms its IPO to finance the growth of its network in Spain",
+    "summary": "The Romanian operator seeks funds in the stock market, with the backing of the Mayoral group, to continue deploying fiber and mobile.",
     "source": [
       "xataka.com",
       "bandaancha.eu"
@@ -115,66 +91,94 @@
     "count": 2
   },
   {
-    "title": "U.S. Supreme Court allows firing of FTC commissioners without cause",
-    "summary": "The court removes the independence of the regulatory agency by allowing the president to dismiss its members, affecting consumer protection and competition.",
+    "title": "US Supreme Court declares that geofence warrants violate privacy",
+    "summary": "The ruling establishes that police cannot massively track citizens' location without a judicial warrant based on probable cause.",
     "source": [
-      "/r/technology"
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Rocket Lab acquires Iridium satellite constellation to expand its operations",
+    "summary": "The aerospace company continues its growth by acquiring Iridium, adding a global satellite communications network to its portfolio.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "TIDAL blocks monetization of AI-generated music",
+    "summary": "The streaming platform prevents tracks created with AI from generating income for artists, in a policy against the unregulated use of the technology.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bill Gates and Deloitte warn that artificial intelligence will replace many traditional jobs",
+    "summary": "While Gates predicts that video game jobs will survive, Deloitte claims that AI will put an end to hourly billing in professional services.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "California and Anthropic reach agreement for government to use Claude at half price",
+    "summary": "The state will be able to use Claude AI models for public services in a pact that sets a precedent in government adoption of artificial intelligence.",
+    "source": [
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "U.S. military used AI to select targets without detecting that one was a school",
-    "summary": "An AI system overlooked a note warning that one of the selected targets was an educational center.",
+    "title": "EU seeks autonomy in AI and Austria proposes to attract Anthropic to Europe",
+    "summary": "Brussels explores alternatives to reduce dependence on the US in AI, while Austria offers incentives for Anthropic to establish itself on the continent.",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Bernie Sanders proposes a $7 trillion plan for the government to control artificial intelligence",
-    "summary": "The U.S. senator presents a proposal for AI to be managed by the state for the benefit of citizens.",
+    "title": "Meta blocks use of rival AI tools like Claude Code in its training",
+    "summary": "To prevent data leaks to competitors, Meta prohibits the use of AI systems from Anthropic and OpenAI in its development infrastructure.",
     "source": [
-      "/r/technology"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "China achieves record hollow-core fiber optic data transmission without signal regeneration",
-    "summary": "The experiment reached 51.3 Tb/s over 128 miles, a milestone for telecommunications networks in the era of artificial intelligence.",
+    "title": "US military AI system selects targets and overlooks a school",
+    "summary": "A report reveals that the military AI marked thousands of targets but ignored a warning about a school, raising serious ethical concerns.",
     "source": [
-      "tomshardware.com"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "SpaceX enters millions of retirement funds after changes in key stock indices",
-    "summary": "Elon Musk's space company joins indices that open the door to massive investments in its capital from pension funds.",
+    "title": "Claude Code found to be able to execute hidden malware in GitHub repositories without verification",
+    "summary": "The vulnerability allows Anthropic's tool to execute malicious code when analyzing unverified repositories, granting an attacker full control.",
     "source": [
-      "/r/technology"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "PlayStation records its worst May in 25 years and Xbox its worst historical month in sales",
-    "summary": "Console sales suffer an unprecedented drop during the fifth month of the year according to data gathered from the industry.",
+    "title": "The New York Times accuses Microsoft of helping OpenAI train its AI with protected content",
+    "summary": "The newspaper sues Microsoft for supplying copyrighted articles for training language models, including GPT-4.",
     "source": [
-      "/r/technology"
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "Nintendo Switch 2 price rises 17% in South Korea starting in September",
-    "summary": "Nintendo's console experiences a significant increase in the South Korean market due to adjustments in its sales price.",
+    "title": "Google fixes 121 vulnerabilities in Android, one of them already exploited in targeted attacks",
+    "summary": "The Android security update fixes multiple critical flaws, including a zero-day bug that had been used in limited attacks.",
     "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft removes 119 Edge extensions that hid malware in images and fonts",
-    "summary": "The malicious extensions used graphic files and typographies to hide harmful code without being detected by users.",
-    "source": [
-      "thehackernews.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   }

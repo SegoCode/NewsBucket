@@ -1,9 +1,9 @@
 [
   {
-    "title": "Samsung、SK Hynix、MicronがRAM価格操作の疑いで提訴される",
-    "summary": "チップメーカーは、DDR3およびDDR4メモリの供給を制限して協調して価格をつり上げたとして、米国で集団訴訟に直面している。",
+    "title": "サムスン、SKハイニックス、マイクロン、DRAMメモリの価格操作疑惑で提訴される",
+    "summary": "米国の集団訴訟は、3社がAIブームに乗じて価格をつり上げるため、DDR3とDDR4の生産削減を調整したと非難している。",
     "source": [
-      "/r/technology",
+      "/r/hardware",
       "tomshardware.com",
       "videocardz.com",
       "news.ycombinator.com",
@@ -13,19 +13,58 @@
     "count": 6
   },
   {
-    "title": "SteamOSプリインストールのゲーミングPCが市場に登場",
-    "summary": "Valveのゲーム用OSが、複数のハードウェアメーカーと共にデスクトップパソコンに進出する。",
+    "title": "韓国と半導体メーカー、メモリ新工場に5200億ドル以上を投資へ",
+    "summary": "この計画には、AI需要を見据え、政府の強力な支援を得てメモリ市場を支配するための4つの新工場とHBMセンターが含まれる。",
+    "source": [
+      "techcrunch.com",
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "NVIDIA、GeForce RTX 3060を欧州で再販売、価格は333ユーロ",
+    "summary": "オリジナル発売から5年、ジェンスン・ファンCEOの戦略により、このグラフィックカードが小売チャネルに復活した。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Valve、Dbrandに「Companion Cube for Steam Machine」の権利侵害で撤去を要求",
+    "summary": "アクセサリー製造元はライセンスを持っていないことを認め、Valveからの法的措置の脅威を受けて全注文を返金した。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "SteamOSプリインストールのゲーミングPCが市場に登場、1299ドルから",
+    "summary": "Steam Machinesの「Steamroller」が、ValveのOSを搭載したデスクトップPCの登場を牽引し、競争力のある構成を提供する。",
     "source": [
       "hardzone.es",
       "tomshardware.com",
-      "videocardz.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "CachyOS、パフォーマンスとサポートの大幅な改善を施した新バージョンをリリース",
-    "summary": "ゲーム向けに最適化されたLinuxディストリビューションは、Hyprland Noctaliaや拡張PGOビルドなどの新機能を搭載。",
+    "title": "WhatsApp、電話番号を非公開にするユーザー名選択機能を実装",
+    "summary": "新機能により、個人番号を明かさずにコミュニケーションが可能になり、メッセージングアプリ利用者のプライバシーが向上する。",
+    "source": [
+      "xataka.com",
+      "thehackernews.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "CachyOS 2026年6月版、Hyprland Noctaliaとパフォーマンス改善を実装",
+    "summary": "ゲーム向けに最適化されたLinuxディストリビューションが、新しいPGOプロファイル、DNS-over-QUICサポート、PythonとGCCの高速化を統合した。",
     "source": [
       "alternativeto.net",
       "news.ycombinator.com",
@@ -34,80 +73,17 @@
     "count": 3
   },
   {
-    "title": "Ford、AIが経験レベルに達していないと判断し、300人以上のベテランエンジニアを再雇用",
-    "summary": "自動車メーカーは、AIシステムが同じパフォーマンスを達成できないと判断し、人間のエンジニアに置き換えた。",
+    "title": "テンセントとCXMT、29億4000万ドルのDRAMメモリ契約を締結",
+    "summary": "この契約は、米中貿易戦争の中、中国ハイテク企業向けのメモリチップ供給を確保することを目的としている。",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
+      "elchapuzasinformatico.com",
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Rocket Lab、宇宙事業拡大のため衛星企業Iridiumを買収",
-    "summary": "同社は衛星通信分野での買収を通じて成長戦略を継続している。",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SamsungとSK Hynix、5000億ドル以上を新規チップ工場に投資へ",
-    "summary": "計画には、韓国政府の支援を受けた4つの新工場とHBMメモリ生産センターが含まれる。",
-    "source": [
-      "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中央銀行家、AI投資ブームが金融危機を引き起こす可能性があると警告",
-    "summary": "国際決済銀行は、明確なリターンのないAIへの巨額支出によるバブルのリスクを警告している。",
-    "source": [
-      "kite.kagi.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "オーストラリア、未成年者のSNS利用を許可した場合の罰金を9900万ドルに引き上げ",
-    "summary": "オーストラリア政府は、子供たちが法律で禁止されているプラットフォームに引き続きアクセスしているという証拠を受けて、罰則を強化する。",
-    "source": [
-      "/r/technology",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Netflix、ユーザープロファイルごとに独自のメールアドレスを要求へ",
-    "summary": "プラットフォームは、各プロファイルの識別を所有者のメールから独立させることで、アカウント共有対策を強化する。",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、無料OSディストリビューション「Azure Linux 4.0」をリリース",
-    "summary": "同社は独自のLinuxの新バージョンを公開し、かつてのオープンソースソフトウェアに対する立場からの転換を示している。",
-    "source": [
-      "kite.kagi.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steam Machineの中国製クローン、信じられないスペックを驚くほど低価格で提供",
-    "summary": "Valveのコンソールの模倣品が市場に登場。その技術仕様は現実離れしているように見える。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Digi、光ファイバーとモバイル展開の資金調達のため上場を確認",
-    "summary": "スペインの通信事業者は、通信ネットワークの拡大を続けるために株式市場で資金調達を目指す。",
+    "title": "Digi、スペインのネットワーク拡大資金調達のため株式上場を確認",
+    "summary": "ルーマニアの通信事業者は、Mayoralグループの支援を受け、光ファイバーとモバイルの展開を継続するために株式市場で資金を調達する。",
     "source": [
       "xataka.com",
       "bandaancha.eu"
@@ -115,66 +91,94 @@
     "count": 2
   },
   {
-    "title": "米最高裁、FTC委員の正当な理由のない解任を認める",
-    "summary": "裁判所は、大統領が委員を解任することを認め、規制当局の独立性を排除し、消費者保護と競争に影響を与える。",
+    "title": "米最高裁判所、ジオフェンス令状はプライバシー侵害と判断",
+    "summary": "判決は、警察が相当な理由に基づく司法令状なしに市民の位置情報を大量に追跡することはできないと明確にした。",
     "source": [
-      "/r/technology"
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Rocket Lab、事業拡大のため衛星コンステレーション「イリジウム」を買収",
+    "summary": "航空宇宙企業はイリジウムを買収して成長を続け、グローバルな衛星通信ネットワークをポートフォリオに追加する。",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "TIDAL、AI生成音楽の収益化をブロック",
+    "summary": "ストリーミングプラットフォームは、規制されていない技術の使用に反対するポリシーの一環として、AIが作成したトラックがアーティストに収入をもたらすことを防止する。",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ビル・ゲイツ氏とデロイト、AIが多くの伝統的雇用を置き換えると警告",
+    "summary": "ゲイツ氏はゲーム関連の仕事は生き残ると予測する一方、デロイトはAIが専門サービスの時間単位の請求を終わらせると主張している。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "カリフォルニア州とAnthropic、政府がClaudeを半額で利用する契約を締結",
+    "summary": "州は公共サービスにClaude AIモデルを利用でき、政府によるAI導入の前例となる契約を結んだ。",
+    "source": [
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "米軍、AIで目標選定中に学校を攻撃対象として認識せず",
-    "summary": "AIシステムは、選択された目標の一つが教育施設であることを警告するメモを見逃した。",
+    "title": "EUがAIの自律性を模索、オーストリアがAnthropicの欧州誘致を提案",
+    "summary": "ブリュッセルは米国へのAI依存を減らす代替案を模索する一方、オーストリアはAnthropicを欧州大陸に誘致するためのインセンティブを提供している。",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "バーニー・サンダース氏、政府によるAI管理のための7兆ドル計画を提案",
-    "summary": "米上院議員は、AIを国民の利益のために国家が管理するプロジェクトを発表。",
+    "title": "Meta、Claude Codeなどの競合AIツールのトレーニングでの使用をブロック",
+    "summary": "競合他社へのデータ漏洩を防ぐため、MetaはAnthropicとOpenAIのAIシステムの開発インフラでの使用を禁止した。",
     "source": [
-      "/r/technology"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "中国、信号再生不要の中空コア光ファイバーでデータ伝送記録を達成",
-    "summary": "実験は128マイルにわたって51.3 Tb/sを達成し、AI時代の通信ネットワークにおけるマイルストーンとなった。",
+    "title": "米軍のAIシステム、目標選定中に学校を見落とす",
+    "summary": "報告書は、軍事AIが何千もの標的をマークしたが、学校に関する警告を無視し、深刻な倫理的疑念を生じさせたことを明らかにした。",
     "source": [
-      "tomshardware.com"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "SpaceX、主要株価指数の変更により数百万の退職基金に組み入れられる",
-    "summary": "イーロン・マスクの宇宙企業は、年金基金からの大規模な資本投資への扉を開く指数に組み込まれた。",
+    "title": "Claude CodeがGitHubリポジトリの隠れたマルウェアを検証なしに実行可能と判明",
+    "summary": "この脆弱性により、Anthropicのツールが未検証のリポジトリを分析する際に悪意のあるコードを実行し、攻撃者に完全な制御権を与える可能性がある。",
     "source": [
-      "/r/technology"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "PlayStation、25年で最悪の5月を記録、Xboxは過去最悪の月間販売",
-    "summary": "業界データによると、コンソールの売上は年の第5月に前例のない落ち込みを経験した。",
+    "title": "ニューヨーク・タイムズ、MicrosoftがOpenAIのAIトレーニングを著作権保護コンテンツで支援したと提訴",
+    "summary": "ニューヨーク・タイムズは、MicrosoftがGPT-4を含む言語モデルのトレーニングのために著作権で保護された記事を提供したとして提訴した。",
     "source": [
-      "/r/technology"
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "Nintendo Switch 2の価格、9月から韓国で17%上昇",
-    "summary": "任天堂のコンソールは、販売価格の調整により韓国市場で大幅な値上げとなる。",
+    "title": "Google、Androidの121件の脆弱性を修正、そのうち1件は標的型攻撃ですでに悪用",
+    "summary": "Androidのセキュリティアップデートは、限定的な攻撃で悪用されていたゼロデイバグを含む、複数の重大な欠陥を修正した。",
     "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft、画像やフォントにマルウェアを隠していた119のEdge拡張機能を削除",
-    "summary": "悪意のある拡張機能は、グラフィックファイルやフォントを使用してユーザーに気付かれずに有害なコードを隠していた。",
-    "source": [
-      "thehackernews.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   }

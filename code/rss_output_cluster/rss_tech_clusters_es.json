@@ -1,9 +1,9 @@
 [
   {
-    "title": "Demandan a Samsung, SK Hynix y Micron por presunta manipulación de precios de la memoria RAM",
-    "summary": "Los fabricantes de chips se enfrentan a una demanda colectiva en EE.UU. por restringir la oferta de memorias DDR3 y DDR4 para inflar los precios de forma coordinada.",
+    "title": "Demandan a Samsung, SK Hynix y Micron por presunta manipulación de precios de la memoria DRAM",
+    "summary": "Una demanda colectiva en EE.UU. acusa a los tres fabricantes de coordinar recortes de producción de DDR3 y DDR4 para inflar los precios, aprovechando el auge de la IA.",
     "source": [
-      "/r/technology",
+      "/r/hardware",
       "tomshardware.com",
       "videocardz.com",
       "news.ycombinator.com",
@@ -13,19 +13,58 @@
     "count": 6
   },
   {
-    "title": "Los primeros PC gaming con SteamOS preinstalado llegan al mercado",
-    "summary": "El sistema operativo de Valve para juegos da el salto a ordenadores de sobremesa de la mano de varios fabricantes de hardware.",
+    "title": "Corea del Sur y sus fabricantes de chips invertirán más de 520.000 millones de dólares en nuevas fábricas de memoria",
+    "summary": "El plan incluye cuatro nuevas plantas y centros HBM para dominar el mercado de memoria ante la demanda de IA, con fuerte apoyo gubernamental.",
+    "source": [
+      "techcrunch.com",
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia vuelve a lanzar la GeForce RTX 3060 en Europa a un precio de 333 euros",
+    "summary": "Cinco años después de su lanzamiento original, la tarjeta gráfica regresa al canal minorista confirmando la estrategia de Jensen Huang de mantenerla activa.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Valve obliga a Dbrand a retirar el Companion Cube para Steam Machine por infracción de derechos",
+    "summary": "El fabricante de accesorios admite no tener licencia y reembolsa todos los pedidos tras la amenaza de demanda legal de Valve.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Los primeros PC gaming con SteamOS preinstalado llegan al mercado, desde 1.299 dólares",
+    "summary": "El Steamroller de Steam Machines lidera la llegada de ordenadores de sobremesa con el sistema operativo de Valve, ofreciendo configuraciones competitivas.",
     "source": [
       "hardzone.es",
       "tomshardware.com",
-      "videocardz.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "CachyOS lanza nuevas versiones con importantes mejoras de rendimiento y soporte",
-    "summary": "La distribución Linux optimizada para gaming incorpora novedades como Hyprland Noctalia y compilaciones PGO extendidas.",
+    "title": "WhatsApp permite elegir nombre de usuario para mantener el número de teléfono privado",
+    "summary": "La nueva función permite comunicarse sin revelar el número personal, mejorando la privacidad de los usuarios de la aplicación de mensajería.",
+    "source": [
+      "xataka.com",
+      "thehackernews.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "CachyOS June 2026 llega con Hyprland Noctalia y mejoras de rendimiento",
+    "summary": "La distribución Linux optimizada para juegos incorpora nuevos perfiles PGO, soporte DNS-over-QUIC y aceleración de Python y GCC.",
     "source": [
       "alternativeto.net",
       "news.ycombinator.com",
@@ -34,80 +73,17 @@
     "count": 3
   },
   {
-    "title": "Ford recontrata a más de 300 ingenieros veteranos tras comprobar que la IA no alcanzaba su nivel de experiencia",
-    "summary": "La automotriz reemplazó sistemas de inteligencia artificial por ingenieros humanos al ver que no lograban el mismo rendimiento.",
+    "title": "Tencent y CXMT firman un acuerdo de memoria DRAM valorado en 2.940 millones de dólares",
+    "summary": "El pacto busca asegurar el suministro de chips de memoria para la tecnológica china en medio de la guerra comercial con Estados Unidos.",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
+      "elchapuzasinformatico.com",
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Rocket Lab adquiere la empresa de satélites Iridium para expandir su negocio espacial",
-    "summary": "La compañía continúa su estrategia de crecimiento mediante compras en el sector de comunicaciones por satélite.",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung y SK Hynix invertirán más de 500.000 millones de dólares en nuevas fábricas de chips",
-    "summary": "El plan incluye cuatro nuevas plantas y centros de producción de memorias HBM con el respaldo del gobierno surcoreano.",
-    "source": [
-      "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Banqueros centrales advierten que el auge de inversión en IA podría desencadenar una crisis financiera",
-    "summary": "El Banco de Pagos Internacionales alerta sobre el riesgo de burbuja por el gasto masivo en inteligencia artificial sin rendimientos claros.",
-    "source": [
-      "kite.kagi.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Australia eleva a 99 millones de dólares las multas por permitir que menores usen redes sociales",
-    "summary": "El gobierno australiano endurece las sanciones ante la evidencia de que los niños siguen accediendo a plataformas prohibidas por ley.",
-    "source": [
-      "/r/technology",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Netflix exigirá una dirección de correo electrónico propia para cada perfil de usuario",
-    "summary": "La plataforma refuerza su lucha contra las cuentas compartidas al independizar la identificación de cada perfil del correo del titular.",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft lanza Azure Linux 4.0, su distribución gratuita del sistema operativo",
-    "summary": "La compañía publica una nueva versión de su Linux propio, marcando un giro desde su antigua postura contraria al software libre.",
-    "source": [
-      "kite.kagi.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Un clon chino de la Steam Machine ofrece especificaciones imposibles a un precio sospechosamente bajo",
-    "summary": "Aparece en el mercado una imitación de la consola de Valve con características técnicas que parecen demasiado buenas para ser reales.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Digi confirma su salida a bolsa para financiar el despliegue de fibra y móvil",
-    "summary": "La operadora española busca captar fondos en el mercado bursátil para continuar expandiendo su red de telecomunicaciones.",
+    "title": "Digi confirma su salida a bolsa para financiar el crecimiento de su red en España",
+    "summary": "La operadora rumana busca fondos en el mercado bursátil, con el respaldo del grupo Mayoral, para continuar desplegando fibra y móvil.",
     "source": [
       "xataka.com",
       "bandaancha.eu"
@@ -115,66 +91,94 @@
     "count": 2
   },
   {
-    "title": "El Tribunal Supremo de EE.UU. permite el despido de los comisionados de la FTC sin causa justificada",
-    "summary": "La corte elimina la independencia de la agencia reguladora al permitir al presidente destituir a sus miembros, afectando la protección al consumidor y la competencia.",
+    "title": "El Tribunal Supremo de EE.UU. declara que las órdenes de geocerca violan la intimidad",
+    "summary": "La sentencia establece que la policía no puede rastrear masivamente la ubicación de los ciudadanos sin una orden judicial basada en causas probables.",
     "source": [
-      "/r/technology"
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Rocket Lab adquiere la constelación de satélites Iridium para expandir sus operaciones",
+    "summary": "La compañía aeroespacial continúa su crecimiento comprando Iridium, sumando una red global de comunicaciones satelitales a su cartera.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "TIDAL bloquea la monetización de música generada por inteligencia artificial",
+    "summary": "La plataforma de streaming impide que los temas creados con IA generen ingresos para los artistas, en una política contra el uso no regulado de la tecnología.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bill Gates y Deloitte advierten que la inteligencia artificial reemplazará muchos empleos tradicionales",
+    "summary": "Mientras Gates predice que los trabajos en videojuegos resistirán, Deloitte afirma que la IA acabará con la facturación por horas en servicios profesionales.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "California y Anthropic alcanzan un acuerdo para que el gobierno use Claude a mitad de precio",
+    "summary": "El estado podrá utilizar los modelos de IA Claude para servicios públicos en un pacto que marca un precedente en la adopción gubernamental de inteligencia artificial.",
+    "source": [
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "El ejército de EE.UU. usó inteligencia artificial para seleccionar objetivos sin detectar que uno era una escuela",
-    "summary": "Un sistema de IA pasó por alto una nota que advertía que uno de los blancos seleccionados era un centro educativo.",
+    "title": "La UE busca autonomía en inteligencia artificial y Austria propone atraer a Anthropic a Europa",
+    "summary": "Bruselas explora alternativas para reducir la dependencia de EE.UU. en IA, mientras Austria ofrece incentivos para que Anthropic se establezca en el continente.",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Bernie Sanders propone un plan de 7 billones de dólares para que el gobierno controle la inteligencia artificial",
-    "summary": "El senador estadounidense presenta un proyecto para que la IA sea gestionada por el Estado en beneficio de la ciudadanía.",
+    "title": "Meta bloquea el uso de herramientas de IA rivales como Claude Code en su entrenamiento",
+    "summary": "Para evitar la fuga de datos a competidores, Meta prohíbe el uso de sistemas de IA de Anthropic y OpenAI en su infraestructura de desarrollo.",
     "source": [
-      "/r/technology"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "China logra un récord de transmisión de datos por fibra óptica de núcleo hueco sin regeneración de señal",
-    "summary": "El experimento alcanzó 51,3 Tb/s a lo largo de 128 millas, un hito para las redes de telecomunicaciones en la era de la inteligencia artificial.",
+    "title": "El sistema de IA del ejército estadounidense selecciona objetivos y pasa por alto una escuela",
+    "summary": "Un informe revela que la inteligencia artificial militar marcó miles de blancos pero ignoró una advertencia sobre una escuela, generando serias dudas éticas.",
     "source": [
-      "tomshardware.com"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Spacex entra en millones de fondos de jubilación tras cambios en índices bursátiles clave",
-    "summary": "La empresa espacial de Elon Musk se incorpora a índices que abren la puerta a inversiones masivas en su capital desde fondos de pensiones.",
+    "title": "Se descubre que Claude Code puede ejecutar malware oculto en repositorios de GitHub sin verificación",
+    "summary": "La vulnerabilidad permite que la herramienta de Anthropic ejecute código malicioso al analizar repositorios no verificados, otorgando control total al atacante.",
     "source": [
-      "/r/technology"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Playstation registra su peor mayo en 25 años y Xbox su peor mes histórico de ventas",
-    "summary": "Las ventas de consolas sufren una caída sin precedentes durante el quinto mes del año según los datos recopilados de la industria.",
+    "title": "The New York Times acusa a Microsoft de ayudar a OpenAI a entrenar sus IA con contenido protegido",
+    "summary": "El diario demanda a Microsoft por suministrar artículos con derechos de autor para el entrenamiento de modelos de lenguaje, incluyendo GPT-4.",
     "source": [
-      "/r/technology"
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "El precio de Nintendo Switch 2 sube un 17% en Corea del Sur a partir de septiembre",
-    "summary": "La consola de Nintendo experimenta un incremento significativo en el mercado surcoreano por ajustes en su precio de venta.",
+    "title": "Google corrige 121 vulnerabilidades en Android, una de ellas ya explotada en ataques dirigidos",
+    "summary": "La actualización de seguridad de Android soluciona múltiples fallos críticos, incluyendo un error de día cero que había sido utilizado en ataques limitados.",
     "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft elimina 119 extensiones de Edge que ocultaban malware en imágenes y fuentes",
-    "summary": "Las extensiones maliciosas utilizaban archivos gráficos y tipografías para esconder código dañino sin ser detectadas por los usuarios.",
-    "source": [
-      "thehackernews.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   }
