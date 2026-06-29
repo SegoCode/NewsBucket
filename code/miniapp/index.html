@@ -40,7 +40,8 @@
         article.high { border: 2px solid #ff3b30; }
         article.medium { border: 2px solid #f1c40f; }
         article.low { border: 2px solid #888; }
-        article.quake { border: 2px dashed #f1c40f; }
+        @keyframes blink-border { 50% { border-color: transparent; } }
+        article.quake-recent { animation: blink-border 0.8s step-end infinite; }
         article.quake-high { border: 2px dashed #ff3b30; }
         article[onclick] { cursor: pointer; }
     </style>
@@ -79,7 +80,7 @@
         } catch {}
         function render(data) {
             if (!data.length) { feed.innerHTML = '<div id="status">No news</div>'; return; }
-            const tier = c => c === 'high' || c === 'quake-high' ? 0 : c === 'medium' || c === 'quake' ? 1 : 2;
+            const tier = c => c === 'high' || c === 'quake-high' ? 0 : c === 'medium' ? 1 : 2;
             const items = data.map(item => {
                 const count = item.count || item.source.length;
                 return { ...item, cls: item.cls || (count > 4 ? 'high' : count >= 3 ? 'medium' : 'low') };
@@ -101,19 +102,21 @@
                 try {
                     const res = await fetch(QUAKE);
                     if (res.ok) {
-                        const quakes = (await res.json()).filter(q => q.mag && q.cod && Date.now() - Date.parse(q.at) < 864e5);
-                        const q = quakes.length && quakes.reduce((best, cur) => parseFloat(cur.mag) > parseFloat(best.mag) ? cur : best);
-                        if (q) {
-                            const c = q.cod.match(/[+-]\d+\.?\d*/g);
-                            const lat = parseFloat(c[0]);
-                            const lon = parseFloat(c[1]);
-                            const url = `geo:0,0?q=${lat},${lon}`;
-                            items.unshift({ 
-                                title: `M${q.mag} | ${$lang.value === 'jp' ? q.anm : q.en_anm}`, 
-                                source: ['JMA', new Date(q.at).toLocaleString([], { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' }).replace(',', '')], 
-                                cls: parseFloat(q.mag) >= 4 ? 'quake-high' : 'quake', 
-                                url 
+                        const quakes = (await res.json()).filter(q => q.mag && q.cod && Date.now() - Date.parse(q.at) < 864e5 && parseFloat(q.mag) >= 4);
+                        if (quakes.length) {
+                            const quakeItems = quakes.sort((a, b) => Date.parse(b.at) - Date.parse(a.at)).map(q => {
+                                const c = q.cod.match(/[+-]\d+\.?\d*/g);
+                                const lat = parseFloat(c[0]);
+                                const lon = parseFloat(c[1]);
+                                const recent = Date.now() - Date.parse(q.at) < 18e5;
+                                return {
+                                    title: `M${q.mag} | ${$lang.value === 'jp' ? q.anm : q.en_anm}`,
+                                    source: ['JMA', new Date(q.at).toLocaleString([], { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' }).replace(',', '')],
+                                    cls: 'quake-high' + (recent ? ' quake-recent' : ''),
+                                    url: `geo:0,0?q=${lat},${lon}`
+                                };
                             });
+                            items.unshift(...quakeItems);
                         }
                     }
                 } catch {}
