@@ -86,7 +86,7 @@
             });
             items.sort((a, b) => tier(a.cls) - tier(b.cls) || ((a.cls || '').startsWith('quake') ? 0 : 1) - ((b.cls || '').startsWith('quake') ? 0 : 1));
             feed.innerHTML = items.map(item => {
-                const onclick = item.url ? ` onclick="window.open('${item.url}')"` : '';
+                const onclick = item.url ? ` onclick="window.open('${item.url}', '_blank')"` : '';
                 return `<article class="${item.cls}"${onclick}><h2>${item.title}</h2><div class="sources">${item.source.join(' · ')}</div></article>`;
             }).join('');
         }
@@ -107,8 +107,13 @@
                             const c = q.cod.match(/[+-]\d+\.?\d*/g);
                             const lat = parseFloat(c[0]);
                             const lon = parseFloat(c[1]);
-                            const url = `geo:${lat},${lon}?q=${lat},${lon}`;
-                            items.unshift({ title: `M${q.mag} | ${$lang.value === 'jp' ? q.anm : q.en_anm}`, source: ['JMA', new Date(q.at).toLocaleString([], { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' }).replace(',', '')], cls: parseFloat(q.mag) >= 4 ? 'quake-high' : 'quake', url });
+                            const url = `geo:0,0?q=${lat},${lon}`;
+                            items.unshift({ 
+                                title: `M${q.mag} | ${$lang.value === 'jp' ? q.anm : q.en_anm}`, 
+                                source: ['JMA', new Date(q.at).toLocaleString([], { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' }).replace(',', '')], 
+                                cls: parseFloat(q.mag) >= 4 ? 'quake-high' : 'quake', 
+                                url 
+                            });
                         }
                     }
                 } catch {}
