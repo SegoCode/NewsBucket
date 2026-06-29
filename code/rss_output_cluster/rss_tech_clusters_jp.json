@@ -1,204 +1,181 @@
 [
   {
-    "title": "サムスン、SKハイニックス、マイクロンがメモリ価格操作で提訴される",
-    "summary": "サムスン、SKハイニックス、マイクロンは、RAMメモリの供給を制限するために談合した疑いで提訴された。",
+    "title": "Samsung、SK Hynix、MicronがRAM価格操作の疑いで提訴される",
+    "summary": "チップメーカーは、DDR3およびDDR4メモリの供給を制限して協調して価格をつり上げたとして、米国で集団訴訟に直面している。",
     "source": [
+      "/r/technology",
+      "tomshardware.com",
+      "videocardz.com",
+      "news.ycombinator.com",
       "elchapuzasinformatico.com",
       "hardzone.es"
     ],
-    "count": 2
+    "count": 6
   },
   {
-    "title": "RAMメモリ市場は価格高騰と巨額投資で危機に直面",
-    "summary": "アナリストやメーカーは、AIの台頭と高い需要によりRAMメモリ価格が歴史的な高騰になると警告している。",
+    "title": "SteamOSプリインストールのゲーミングPCが市場に登場",
+    "summary": "Valveのゲーム用OSが、複数のハードウェアメーカーと共にデスクトップパソコンに進出する。",
     "source": [
-      "the-decoder.com",
-      "xataka.com",
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com",
-      "techcrunch.com",
+      "hardzone.es",
       "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 7
-  },
-  {
-    "title": "AIモデルの規制と進歩：GPT-5からClaude Mythos 5まで",
-    "summary": "政府や企業は、新しい言語モデルの規制と開発を進めており、地政学的な影響を伴う。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net",
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "videocardz.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 4
   },
   {
-    "title": "AIが雇用と行政を変革、経営者や政府が語る",
-    "summary": "テクノロジーリーダーや政府は、AIが仕事、教育、行政に与える影響について議論している。",
+    "title": "CachyOS、パフォーマンスとサポートの大幅な改善を施した新バージョンをリリース",
+    "summary": "ゲーム向けに最適化されたLinuxディストリビューションは、Hyprland Noctaliaや拡張PGOビルドなどの新機能を搭載。",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "techcrunch.com",
+      "alternativeto.net",
       "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "ゲーム機の値上げ：PlayStation 6、Switch 2、スペインでの調整",
-    "summary": "PlayStation 6の価格推定が流出する一方、Nintendoは韓国でSwitch 2の価格を引き上げる。",
-    "source": [
-      "videocardz.com",
-      "hardzone.es",
       "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "SteamOSとSteam Machineがクローン、プリインストール、DIYプロジェクトで復活",
-    "summary": "新しいクローン、カスタムモデル、SteamOSの拡張により、Steam Machineへの関心が再燃している。",
+    "title": "Ford、AIが経験レベルに達していないと判断し、300人以上のベテランエンジニアを再雇用",
+    "summary": "自動車メーカーは、AIシステムが同じパフォーマンスを達成できないと判断し、人間のエンジニアに置き換えた。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Rocket Lab、宇宙事業拡大のため衛星企業Iridiumを買収",
+    "summary": "同社は衛星通信分野での買収を通じて成長戦略を継続している。",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SamsungとSK Hynix、5000億ドル以上を新規チップ工場に投資へ",
+    "summary": "計画には、韓国政府の支援を受けた4つの新工場とHBMメモリ生産センターが含まれる。",
+    "source": [
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中央銀行家、AI投資ブームが金融危機を引き起こす可能性があると警告",
+    "summary": "国際決済銀行は、明確なリターンのないAIへの巨額支出によるバブルのリスクを警告している。",
+    "source": [
+      "kite.kagi.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "オーストラリア、未成年者のSNS利用を許可した場合の罰金を9900万ドルに引き上げ",
+    "summary": "オーストラリア政府は、子供たちが法律で禁止されているプラットフォームに引き続きアクセスしているという証拠を受けて、罰則を強化する。",
+    "source": [
+      "/r/technology",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Netflix、ユーザープロファイルごとに独自のメールアドレスを要求へ",
+    "summary": "プラットフォームは、各プロファイルの識別を所有者のメールから独立させることで、アカウント共有対策を強化する。",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、無料OSディストリビューション「Azure Linux 4.0」をリリース",
+    "summary": "同社は独自のLinuxの新バージョンを公開し、かつてのオープンソースソフトウェアに対する立場からの転換を示している。",
+    "source": [
+      "kite.kagi.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Steam Machineの中国製クローン、信じられないスペックを驚くほど低価格で提供",
+    "summary": "Valveのコンソールの模倣品が市場に登場。その技術仕様は現実離れしているように見える。",
     "source": [
       "hardzone.es",
-      "elchapuzasinformatico.com",
-      "videocardz.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Digi、光ファイバーとモバイル展開の資金調達のため上場を確認",
+    "summary": "スペインの通信事業者は、通信ネットワークの拡大を続けるために株式市場で資金調達を目指す。",
+    "source": [
+      "xataka.com",
+      "bandaancha.eu"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米最高裁、FTC委員の正当な理由のない解任を認める",
+    "summary": "裁判所は、大統領が委員を解任することを認め、規制当局の独立性を排除し、消費者保護と競争に影響を与える。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "米軍、AIで目標選定中に学校を攻撃対象として認識せず",
+    "summary": "AIシステムは、選択された目標の一つが教育施設であることを警告するメモを見逃した。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "バーニー・サンダース氏、政府によるAI管理のための7兆ドル計画を提案",
+    "summary": "米上院議員は、AIを国民の利益のために国家が管理するプロジェクトを発表。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "中国、信号再生不要の中空コア光ファイバーでデータ伝送記録を達成",
+    "summary": "実験は128マイルにわたって51.3 Tb/sを達成し、AI時代の通信ネットワークにおけるマイルストーンとなった。",
+    "source": [
       "tomshardware.com"
     ],
-    "count": 4
+    "count": 1
   },
   {
-    "title": "セキュリティ脅威の波：Edge、npm、libssh2、AIエージェントのマルウェア",
-    "summary": "複数の脆弱性とマルウェアキャンペーンが、Edge拡張機能からAIエージェントに至るまで、ユーザーと開発者を危険にさらしている。",
+    "title": "SpaceX、主要株価指数の変更により数百万の退職基金に組み入れられる",
+    "summary": "イーロン・マスクの宇宙企業は、年金基金からの大規模な資本投資への扉を開く指数に組み込まれた。",
     "source": [
-      "the-decoder.com",
-      "thehackernews.com",
-      "tomshardware.com",
-      "news.ycombinator.com"
+      "/r/technology"
     ],
-    "count": 4
+    "count": 1
   },
   {
-    "title": "中国、記録的な光ファイバー、Loongson CPU、宇宙保険で技術を推進",
-    "summary": "中国は、光ファイバー、国産プロセッサ、宇宙保険事業の進歩を発表している。",
+    "title": "PlayStation、25年で最悪の5月を記録、Xboxは過去最悪の月間販売",
+    "summary": "業界データによると、コンソールの売上は年の第5月に前例のない落ち込みを経験した。",
     "source": [
-      "tomshardware.com",
-      "xataka.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "ソフトウェアの新バージョン：AnduinOS 2.0、Kodi 22、Windowsの改善など",
-    "summary": "AnduinOS、Kodi 22、Windowsの改善を含む、オペレーティングシステム、アプリケーション、拡張機能のリリースとアップデート。",
+    "title": "Nintendo Switch 2の価格、9月から韓国で17%上昇",
+    "summary": "任天堂のコンソールは、販売価格の調整により韓国市場で大幅な値上げとなる。",
     "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net",
       "videocardz.com"
     ],
-    "count": 3
+    "count": 1
   },
   {
-    "title": "家庭向け新ガジェット：LGオーブン、Govee製氷機、Lidlの特売",
-    "summary": "9ユーロのLidlガジェットからスマート製氷機、多機能オーブン、マウスパッドまで。",
+    "title": "Microsoft、画像やフォントにマルウェアを隠していた119のEdge拡張機能を削除",
+    "summary": "悪意のある拡張機能は、グラフィックファイルやフォントを使用してユーザーに気付かれずに有害なコードを隠していた。",
     "source": [
-      "xataka.com",
-      "producthunt.com",
-      "techcrunch.com",
-      "hardzone.es"
+      "thehackernews.com"
     ],
-    "count": 4
-  },
-  {
-    "title": "ハードウェアニュース：X3Dマザーボード、Bolt GPU、RyzenとRTX 5090の問題",
-    "summary": "新しいコンポーネントと分析：マザーボード、GPU、Ryzenの問題、そして物議を醸すRTX 5090コネクタ。",
-    "source": [
-      "videocardz.com",
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ゲーム：自己コンパイルするPong、OpenTTD、ShadPS4エミュレーター、PlayStationの論争",
-    "summary": "コードを再コンパイルするPongからPS4エミュレーター、PlayStationでの映画削除まで。",
-    "source": [
-      "tomshardware.com",
-      "alternativeto.net",
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 4
-  },
-  {
-    "title": "デジタル法：KIDS法、年齢確認、ストリーミング広告",
-    "summary": "米国の新法は、高額な広告を制限し、インターネット上の年齢確認を義務付けようとしている。",
-    "source": [
-      "news.ycombinator.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "通信と自動車：Starlink、Digiの上場、コネクテッドカー",
-    "summary": "テレフォニカがベネズエラでStarlinkに頼り、Digiが上場、Movistarがコネクテッドカーを提供。",
-    "source": [
-      "bandaancha.eu",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "プエルトミンガルボの皆既日食と火星の生命の新たな手がかり",
-    "summary": "テルエルの村が皆既日食に備える中、新たな証拠が火星の古代生命を示唆している。",
-    "source": [
-      "xataka.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "社会動向：日本の高齢化、スペインの脱工業化、文化的珍事",
-    "summary": "日本は高齢化、スペインは工場を失い、文化は歴史的なメニューや古代の技術に反映されている。",
-    "source": [
-      "xataka.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "歴史的発見：駆逐艦、マックス・プランク、ヒスパニアの泥のローマ",
-    "summary": "歴史の謎が解明される：沈没船への攻撃、プランク論文の撤回、チェルノブイリの穴。",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "気候とエネルギー危機：熱波、地球温暖化、新たな解決策",
-    "summary": "ヨーロッパは熱波に見舞われ、温暖化が加速し、水素や量子コンピューティングなどのエネルギー代替案が登場している。",
-    "source": [
-      "xataka.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "セールとチュートリアル：安いWindows 11 LTSCとPDF結合方法",
-    "summary": "PDFを無料で結合する方法を学び、13ユーロ未満のWindows 11 LTSCの特売を利用しよう。",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "技術の雑学：人型ロボット、スーパーコンピューティング、解放されたAirPodsなど",
-    "summary": "オフィスワーカーロボットからAirPodsの解放、スーパーコンピュータ、歴史的な回路の分析まで。",
-    "source": [
-      "news.ycombinator.com",
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 3
+    "count": 1
   }
 ]
