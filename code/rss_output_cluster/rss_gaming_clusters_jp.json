@@ -1,17 +1,67 @@
 [
   {
-    "title": "ゲーミング部品の価格上昇：RAMは最大50％値上がり、大手テクノロジー企業はさらなる値上げを警告",
-    "summary": "メーカーやアナリストはRAMやその他の部品の価格が急騰すると予測しており、上昇傾向は少なくとも2028年まで続くとの警告が出ている。",
+    "title": "ビデオゲームハードウェアの全般的な価格上昇",
+    "summary": "複数のレポートや企業の声明が、コンソール、コンポーネント、RAMの値上げを警告している。",
     "source": [
+      "eurogamer.net",
       "pcgamer.com",
       "polygon.com",
+      "kotaku.com",
+      "3djuegos.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Cyberpunk: Edgerunners 2が今秋Netflixで初公開",
+    "summary": "アニメシリーズが新キャラクターとともにナイトシティに帰ってくる。今年の秋に放送が確定。",
+    "source": [
+      "rockpapershotgun.com",
+      "pcgamer.com",
       "kotaku.com"
     ],
     "count": 3
   },
   {
-    "title": "Microsoft、GTA 6がPS5でXboxの8倍売れるという報道を否定、実際のデータを待つよう要請",
-    "summary": "同社は、Grand Theft Auto 6の予約販売にコンソール間で大きな差があるとする報告を推測として否定した。",
+    "title": "スターフォックス、キングダムカム2、メカカメレオンが重要な商業的マイルストーンを達成",
+    "summary": "スターフォックスのリメイクがチャートをリード、キングダムカム2は600万本を販売、メカカメレオンは1000万本を突破。",
+    "source": [
+      "nintendolife.com",
+      "eurogamer.net",
+      "pcgamer.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "MAPPA、日本のSF映画、Coffee Talk Tokyoが日本の最新動向を彩る",
+    "summary": "アニメスタジオMAPPAが次回作を発表、日本の映画が劇場に復帰、そしてあるビデオゲームが東京のポップカルチャーを探求する。",
+    "source": [
+      "polygon.com",
+      "rockpapershotgun.com",
+      "3djuegos.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ソニー、ライブサービスゲームの活性化を計画",
+    "summary": "PlayStationの社長は、まちまちな結果にもかかわらず、ライブタイトルへの取り組みを再確認した。",
+    "source": [
+      "gamesindustry.biz",
+      "eurogamer.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "CD ProjektがCD Projekt Redブランドのもとに統一",
+    "summary": "ポーランドの企業は、全部門を統合するため、社名を簡素化する。",
+    "source": [
+      "gamesindustry.biz",
+      "eurogamer.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、PS5でのGTA 6予約注文の報道に関して注意喚起",
+    "summary": "同社は、8倍の売上データは実際の予約注文を反映していないと強調している。",
     "source": [
       "eurogamer.net",
       "kotaku.com"
@@ -19,8 +69,8 @@
     "count": 2
   },
   {
-    "title": "Netflix、『サイバーパンク エッジランナーズ』の2025年秋復活を確認",
-    "summary": "4年の待機期間を経て、サイバーパンクのアニメシリーズの第2シーズンが秋に配信される。",
+    "title": "Dead or Alive 6 Last Round、400以上のDLCで論争を巻き起こす",
+    "summary": "再リリースによりコンテンツの再購入が必要となり、Steamで否定的なレビューが大半を占める。",
     "source": [
       "pcgamer.com",
       "kotaku.com"
@@ -28,136 +78,104 @@
     "count": 2
   },
   {
-    "title": "『スーパーガール』、公開週末3800万ドルで興行収入失敗",
-    "summary": "DC映画は勢いに乗れず、その公開初動は『ジョーカー2』と比較される。",
+    "title": "Marvel Tokon: Fighting Soulsがブレイド、デッドプール、ロキをフィーチャーしたオープンベータを発表",
+    "summary": "マーベルの格闘ゲームが、意外なキャラクター陣でPS5とPC向けのベータテストを実施することを確認。",
     "source": [
-      "polygon.com"
+      "eurogamer.net",
+      "gematsu.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "『キングダムカム・デリバランス2』、全世界で600万本を販売",
-    "summary": "Warhorse Studiosの中世RPGが重要な売上マイルストーンに到達。",
+    "title": "Virtua Fighter Crossroadsが新キャラクターBakunawa Killerを公開",
+    "summary": "格闘ゲームのトレイラーが、この謎のファイターの正体に関する憶測を呼ぶ。",
     "source": [
-      "eurogamer.net"
+      "eurogamer.net",
+      "gematsu.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "CD Projekt、ブランドをCD Projekt Redに統一",
-    "summary": "ポーランド企業は企業アイデンティティを簡素化するが、CD Projekt Redは引き続き開発スタジオとなる。",
+    "title": "人工知能がビデオゲーム業界の焦点に",
+    "summary": "RedditのCEOがAIの不可避性について意見を述べる一方、ある研究はAge of Empiresを使用してAIの真の認知に疑問を投げかける。",
     "source": [
-      "eurogamer.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "『Phasmophobia』、品質優先のため1.0リリースを2027年に延期",
-    "summary": "人気のゴーストハンティングゲームが、洗練された体験を提供するために正式版を延期。",
-    "source": [
-      "eurogamer.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ユービーアイソフト・バルセロナの従業員、51人の解雇に抗議しストライキを呼びかけ",
-    "summary": "ユービーアイソフト・バルセロナのスタッフが、同社が発表した人員削減に抗議している。",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Quantic Dreamの『スター・ウォーズ エクリプス』が困難に：開発者が人員不足を訴える",
-    "summary": "待望のアクションストーリーテリングタイトルが、従業員の声明によると制作上の問題に直面している。",
-    "source": [
-      "pcgamer.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "『テトリス：ワールドビルダーズ』、象徴的なゲームにインスパイアされた子供向け新アニメシリーズ",
-    "summary": "このシリーズは、テトリスのブロックを教育的で楽しい冒険へと導くことを約束する。",
-    "source": [
-      "eurogamer.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "『ハウス・オブ・ザ・ドラゴン』シーズン3エピソード2の結末解説：大きな死",
-    "summary": "このエピソードには、重要なキャラクターの死という衝撃的な展開が含まれている。",
-    "source": [
-      "polygon.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "『デッドオアアライブ6 ラストラウンド』、400以上のDLCで発売、既存コンテンツの再購入を強制",
-    "summary": "格闘ゲームの新バージョンは、その積極的なマネタイズ戦略で論争を巻き起こしている。",
-    "source": [
+      "3djuegos.com",
       "kotaku.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "ソニー・インタラクティブエンタテインメント社長、ゲームズ・アズ・ア・サービスを放棄せず",
-    "summary": "モデルの困難にもかかわらず、同社はオンラインゲームに引き続き注力している。",
+    "title": "格闘ゲームの新キャラクターとクロスオーバーの発表",
+    "summary": "Fatal Fury、Tekken、2XKO、Mina the Hollower、Invincible VSがファイターや特別ゲストを追加。",
     "source": [
-      "eurogamer.net"
+      "gematsu.com",
+      "pcgamer.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "カルト的なSF RPGの真実の歴史が25年を迎える",
-    "summary": "一世代を定義したユニークなタイトルの創作の舞台裏が明らかにされる。",
+    "title": "Art of Fighting 3、Thief、Spyro、Ninja Master'sがPCに登場、またはリマスターを受ける",
+    "summary": "様々な世代のクラシックタイトルが、新バージョンやPC移植によりアップデート。",
     "source": [
+      "gematsu.com",
+      "pcgamer.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "2つの記事がRPGの世界を探求",
+    "summary": "Polygonが最高のサイドクエストを推奨し、KotakuがカルトRPGの25周年を祝う。",
+    "source": [
+      "polygon.com",
       "kotaku.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "伝説のデザイナー、ラフ・コスターが『World of Warcraft』と競合する夢のプロジェクト『Stars Reach』を発表",
-    "summary": "『ウルティマオンライン』と『スター・ウォーズ ギャラクシーズ』の生みの親がMMOジャンルに革命を起こそうとしている。",
+    "title": "ナラティブゲームの擁護と居心地の良いゲームの秘密の分析",
+    "summary": "声優がストーリー重視のゲームを称賛する一方、ある記事が長年隠されていた秘密を暴く。",
     "source": [
-      "polygon.com"
+      "eurogamer.net",
+      "pcgamer.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ビデオゲームにおける過酷なチャレンジの提案",
+    "summary": "ある記事はゼルダの伝説 ブレス オブ ザ ワイルドのチャレンジを提案し、別の記事は非常に厳しい難易度モードを持つ20のタイトルをリストアップ。",
+    "source": [
+      "polygon.com",
+      "3djuegos.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nintendo Lifeの新コンソールに関するアンケート",
+    "summary": "読者がSwitch 2の今年のゲームや、プラットフォームでのスターフォックスの評価について意見を述べている。",
+    "source": [
+      "nintendolife.com"
     ],
     "count": 1
   },
   {
-    "title": "MAPPAの次なる大勝負、愛らしくも正気を疑うような作品に",
-    "summary": "日本のアニメーションスタジオが、可愛さと狂気を融合させた新作アニメを準備中。",
-    "source": [
-      "polygon.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ブランドン・サンダーソン、『ロード・オブ・ザ・リング』講演でファンタジー作家のよくある間違いを指摘",
-    "summary": "著名なファンタジー作家が、このジャンルに典型的な物語上の欠点を分析する。",
-    "source": [
-      "polygon.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "『メッチャカメレオン』、1000万本以上の売上を記録",
-    "summary": "小さなインディーゲームが予想外の販売現象となる。",
+    "title": "Josh SawyerがFalloutと包括的なスキルデザインについて語る",
+    "summary": "New VegasのディレクターがObsidianの「カルマ部門」について詳しく説明し、TVドラマ化を称賛。",
     "source": [
       "pcgamer.com"
     ],
     "count": 1
   },
   {
-    "title": "『The Binding of Isaac』、リリースから12年経ってSteamの同時接続プレイヤー数の新記録を達成",
-    "summary": "エドマンド・マクミレンのローグライクゲームは、活発で成長を続けるコミュニティに恵まれている。",
+    "title": "『ハウス・オブ・ザ・ドラゴン』シーズン3エピソード2の衝撃的な結末の説明",
+    "summary": "記事は重要な死の正体とそのプロットへの影響を明らかにする。",
     "source": [
-      "pcgamer.com"
+      "polygon.com"
     ],
     "count": 1
   },
   {
-    "title": "『ディアブロ4』シーズン14のリリーススケジュール",
-    "summary": "BlizzardがアクションRPGの新シーズンの正確な開始時間を確認。",
+    "title": "Evo 2026のハイライト",
+    "summary": "格闘ゲームトーナメントは、ジャンルに影響を与える多数の発表や情報を残した。",
     "source": [
       "polygon.com"
     ],
