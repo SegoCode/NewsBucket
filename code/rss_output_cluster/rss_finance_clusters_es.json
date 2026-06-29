@@ -1,72 +1,107 @@
 [
   {
-    "title": "Ataques entre EE.UU. e Irán escalan y amenazan el tráfico en el Estrecho de Ormuz",
-    "summary": "Los mercados reaccionan con volatilidad mientras las fuerzas iraníes y estadounidenses intercambian ataques, y se advierte que las minas podrían bloquear el estrecho durante meses.",
+    "title": "La inteligencia artificial sigue impulsando acuerdos empresariales y debates sobre su valoración",
+    "summary": "HP y OpenAI forman una alianza, Corea del Sur lanza un plan masivo de inversión en IA y el mercado se pregunta si el entusiasmo es excesivo.",
     "source": [
-      "finance.yahoo.com",
-      "nikkei.com",
+      "nasdaq.com",
+      "investing.com",
       "ft.com",
-      "investing.com"
+      "/r/stocks"
     ],
     "count": 4
   },
   {
-    "title": "Razones para mantenerse invertido pese a la incertidumbre del mercado",
-    "summary": "Analistas recomiendan no salir del mercado ante la volatilidad, señalando el riesgo de perderse las recuperaciones.",
+    "title": "Los mercados de bonos se dinamizan con emisiones de grandes tecnológicas y nuevos productos",
+    "summary": "Pimco expande las colocaciones privadas, las grandes tecnológicas emiten bonos en euros y los CoCos bancarios sobreviven a la reforma regulatoria.",
     "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
+      "nasdaq.com",
+      "ft.com",
+      "expansion.com",
+      "handelsblatt.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "AMD adquiere MEXT para optimizar memoria y genera inquietud en Micron y Sandisk",
-    "summary": "La compra de la startup por parte de AMD apunta a mejorar el rendimiento de la memoria, lo que podría afectar a los rivales del sector.",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Caída generalizada de acciones tecnológicas: SpaceX, Tesla y Alphabet se desploman",
-    "summary": "El retroceso del sector tecnológico lleva a los inversores a preguntarse si es momento de rebalancear sus carteras.",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lo que la historia revela sobre un posible colapso bursátil en 2026",
-    "summary": "El análisis de ciclos pasados sugiere que el mercado podría estar cerca de una corrección significativa.",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Firmus Technologies alcanza un acuerdo con Nvidia para acceso a inteligencia artificial",
-    "summary": "La empresa australiana obtendrá recursos de IA de Nvidia para impulsar sus operaciones.",
+    "title": "Tensión en Oriente Medio: EE. UU. e Irán detienen ataques y el estrecho de Ormuz sigue en riesgo",
+    "summary": "Los futuros de Wall Street suben tras reportes de tregua, pero las minas marinas amenazan el tráfico petrolero por meses.",
     "source": [
       "investing.com",
-      "finance.yahoo.com"
+      "ft.com",
+      "nikkei.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Constellation Energy y Walmart firman un acuerdo a largo plazo de energía nuclear",
-    "summary": "El contrato de 15 años suministrará electricidad nuclear a Walmart, reflejando la creciente demanda de energía limpia.",
+    "title": "El mercado global de OPI cobra impulso con ofertas tecnológicas y energéticas",
+    "summary": "Momenta busca 751 millones en Hong Kong, OpenAI retrasa su salida y firmas españolas se preparan para captar más de 1.500 millones.",
     "source": [
-      "finance.yahoo.com",
+      "investing.com",
+      "nasdaq.com",
+      "expansion.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El sector energético afronta incidentes geopolíticos y oportunidades de inversión",
+    "summary": "Un helicóptero de Aramco se estrella en Arabia Saudí, INPEX se mantiene a la espera por el estrecho de Ormuz y Magnolia Oil & Gas emerge en el esquisto.",
+    "source": [
+      "ft.com",
+      "/r/stocks",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Movimientos políticos en Argentina, China y perspectivas de paz en Ucrania marcan la actualidad internacional",
+    "summary": "Argentina nombra un nuevo jefe de gabinete, la propaganda china sobre militarismo japonés se extiende y crecen las esperanzas de fin de la guerra en Ucrania.",
+    "source": [
+      "nikkei.com",
+      "investing.com",
       "/r/stocks"
     ],
+    "count": 3
+  },
+  {
+    "title": "Los inversores institucionales y minoristas redoblan su apuesta por la inteligencia artificial",
+    "summary": "Los fondos soberanos se mueven hacia mercados privados para invertir en IA, mientras Citi destaca las ventajas de los modelos de código abierto.",
+    "source": [
+      "ft.com",
+      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El sector de semiconductores navega entre optimismos selectivos y caídas bursátiles",
+    "summary": "UBS eleva el precio objetivo de TSMC, el índice de semiconductores en EE. UU. cae un 5% y crece la expectativa por la cotización de SK Hynix en EE. UU.",
+    "source": [
+      "investing.com",
+      "/r/stocks",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Samsung y SK Hynix anuncian un plan de inversión de 1,3 billones de dólares en semiconductores",
+    "summary": "Las acciones de ambas compañías cayeron ante la magnitud del gasto previsto, mientras el mercado digiere la noticia.",
+    "source": [
+      "/r/stocks",
+      "investing.com"
+    ],
     "count": 2
   },
   {
-    "title": "SpaceX invierte 60.000 millones en IA mientras enfrenta presiones del mercado",
-    "summary": "La empresa de Elon Musk apuesta fuertemente por la inteligencia artificial, pero el mercado muestra escepticismo sobre su valoración.",
+    "title": "Las entregas de Tesla superarían las expectativas del consenso en el segundo trimestre",
+    "summary": "Las ventas mejoran en Europa y China según Morgan Stanley, y el mercado espera el informe oficial de entregas.",
+    "source": [
+      "investing.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX ejecuta un giro estratégico en su modelo de negocio sin que el mercado lo refleje aún",
+    "summary": "La compañía espacial de Elon Musk estaría diversificando sus fuentes de ingresos mientras el mercado no termina de valorarlo.",
     "source": [
       "nasdaq.com",
       "handelsblatt.com"
@@ -74,26 +109,44 @@
     "count": 2
   },
   {
-    "title": "Micron Technology en el foco: posible split accionario y atractivo para multimillonarios",
-    "summary": "Tras resultados récord, se especula con un desdoblamiento de acciones mientras los inversores millonarios muestran interés.",
+    "title": "La Bolsa de Tokio se recupera de las pérdidas iniciales gracias a compras especulativas",
+    "summary": "El Nikkei reduce las caídas tras la intervención de inversores a corto plazo que apostaron por futuros.",
     "source": [
       "nasdaq.com",
-      "finance.yahoo.com"
+      "nikkei.com"
     ],
     "count": 2
   },
   {
-    "title": "Broadcom atrae a inversores millonarios mientras se enfoca en desarrollo orgánico de IA",
-    "summary": "Un conocido inversor que vendió Nvidia demasiado pronto ahora apuesta por Broadcom, que prioriza el crecimiento interno en IA.",
+    "title": "La Bolsa de Hong Kong abre al alza impulsada por las grandes firmas tecnológicas",
+    "summary": "El mercado muestra un rebote técnico, con expectativas de una ligera mejoría para el inicio de la semana.",
     "source": [
-      "nasdaq.com",
-      "finance.yahoo.com"
+      "nikkei.com",
+      "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "Perspectivas encontradas sobre las acciones de IA: volatilidad vs. optimismo",
-    "summary": "Mientras algunos advierten de turbulencias, Wolfe Research mantiene una visión alcista impulsada por la IA y los semiconductores.",
+    "title": "La Bolsa china cotiza a la baja por el sector bancario y pone a prueba los 4.000 puntos",
+    "summary": "El índice de Shanghái registra ligeras pérdidas, mientras los inversores evalúan los soportes técnicos.",
+    "source": [
+      "nikkei.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La agenda macroeconómica centra la atención en los mercados financieros españoles",
+    "summary": "Los inversores siguen de cerca los datos de empleo en Estados Unidos y la inflación europea de la próxima semana.",
+    "source": [
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La geopolítica de la energía y los metales presiona a los mercados globales",
+    "summary": "Un centro gasístico español pide retrasar la prohibición del gas ruso y los brókers chinos buscan influir en la LME para ampliar su negocio de metales.",
     "source": [
       "ft.com",
       "investing.com"
@@ -101,80 +154,34 @@
     "count": 2
   },
   {
-    "title": "Crédito privado y colocaciones: Blackstone limita reembolsos y Pimco impulsa su estrategia",
-    "summary": "Los gigantes financieros Blackstone y Pimco muestran movimientos opuestos en el mercado de crédito privado.",
-    "source": [
-      "nasdaq.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Acciones de salud en el radar: Regeneron mantiene calificación y Deutsche Bank destaca a DexCom e Insulet",
-    "summary": "Los analistas mantienen una visión favorable sobre el sector salud, con recomendaciones positivas para varias empresas.",
-    "source": [
-      "finance.yahoo.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Aplicaciones de inteligencia artificial en salud y cosmética",
-    "summary": "Desde el desarrollo de cosméticos con IA hasta el potencial de TEM en salud, la IA sigue transformando diversas industrias.",
-    "source": [
-      "/r/stocks",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Perspectivas divergentes para Ford y BMW en el sector automotriz",
-    "summary": "Mientras Ford apuesta por una tendencia imparable hacia 2030, los inversores se muestran cautelosos con BMW pese a su bajo valor empresarial.",
-    "source": [
-      "nasdaq.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Desafíos en la industria alimentaria: demanda laboral en sushi y aumento de precios en restaurantes",
-    "summary": "Una demanda expone condiciones laborales en la industria del sushi, mientras los restaurantes japoneses enfrentan subidas de precios por escasez de suministros.",
-    "source": [
-      "finance.yahoo.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Movimientos en el sector energético estadounidense: adquisiciones y éxito silencioso",
-    "summary": "Williams Companies está cerca de comprar Momentum Midstream por 5.500 millones, mientras Magnolia Oil & Gas destaca en el shale.",
-    "source": [
-      "investing.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Ola de calor en Europa deja más de 1.300 muertos y la OMS pide medidas urgentes",
-    "summary": "La ola de récord de temperaturas provoca una elevada mortalidad y el organismo internacional insta a los países a actuar.",
+    "title": "Resultados trimestrales positivos impulsan las acciones de varias empresas japonesas",
+    "summary": "Kyocera, Mitsubishi Heavy, Nishimatsuya, Hidey Hidaka y DCMHD registran subidas en bolsa tras anunciar sólidas cifras de negocio.",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "Encuestas de opinión del Nikkei: japoneses divididos sobre temas clave",
-    "summary": "Las encuestas muestran opiniones encontradas sobre el aumento de costes médicos, la reducción de impuestos, el estatus de la familia imperial y el envío de tropas a Ormuz.",
+    "title": "Las encuestas muestran división en Japón sobre la gestión del Gobierno y la política monetaria",
+    "summary": "El 43% no está satisfecho con la explicación del primer ministro sobre un video, mientras el 58% apoya la subida de tipos del Banco de Japón.",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "Resultados de elecciones municipales en varias ciudades de Japón",
-    "summary": "En las elecciones para alcalde en Kako-gawa, Ōmachi, Kuroishi y Komae, los candidatos oficialistas resultaron reelegidos o ganaron los comicios.",
+    "title": "Japón brilla en el panorama deportivo y de entretenimiento con avances en fútbol, tenis y cultura pop",
+    "summary": "La selección canadiense avanza en la Copa América, Japón se prepara para Brasil, Naomi Osaka sube en el ranking y Beyblade renace en Hong Kong.",
     "source": [
       "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Perspectivas mixtas para las bolsas de Asia-Pacífico al iniciar la semana",
+    "summary": "Los analistas pronostican movimientos variados en los mercados de Indonesia, Australia, Taiwán, Singapur y Malasia.",
+    "source": [
+      "nasdaq.com"
     ],
     "count": 1
   }

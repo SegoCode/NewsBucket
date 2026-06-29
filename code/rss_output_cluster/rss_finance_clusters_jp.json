@@ -1,72 +1,107 @@
 [
   {
-    "title": "米国とイランの攻撃が激化、ホルムズ海峡の航路を脅かす",
-    "summary": "市場は変動性をもって反応する中、イラン軍と米軍が攻撃を交わし、機雷が海峡を数ヶ月にわたって封鎖する可能性があると警告されている。",
+    "title": "人工知能が引き続き企業の提携やその評価に関する議論を促進",
+    "summary": "HPとOpenAIが提携、韓国が大規模なAI投資計画を発表、市場は熱意が過剰かどうかを問う。",
     "source": [
-      "finance.yahoo.com",
-      "nikkei.com",
+      "nasdaq.com",
+      "investing.com",
       "ft.com",
-      "investing.com"
+      "/r/stocks"
     ],
     "count": 4
   },
   {
-    "title": "市場の不確実性にもかかわらず投資を継続する理由",
-    "summary": "アナリストは変動性に対して市場から退出しないよう推奨し、回復を取り逃すリスクを指摘している。",
+    "title": "債券市場が大手テクノロジー企業の発行と新商品で活況",
+    "summary": "Pimcoが私募を拡大、大手テクノロジー企業がユーロ建て債を発行、銀行のCoCo債が規制改革を生き残る。",
     "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
+      "nasdaq.com",
+      "ft.com",
+      "expansion.com",
+      "handelsblatt.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "AMDがメモリ最適化のためMEXTを買収、MicronとSandiskに不安を与える",
-    "summary": "AMDによるスタートアップ買収はメモリ性能の向上を目指しており、業界の競合他社に影響を与える可能性がある。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ハイテク株の全面安：SpaceX、Tesla、Alphabetが急落",
-    "summary": "ハイテクセクターの後退により、投資家はポートフォリオのリバランスの時期かどうか疑問視している。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "2026年の株式市場暴落の可能性について歴史が明らかにすること",
-    "summary": "過去のサイクル分析は、市場が重大な調整に近づいている可能性を示唆している。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Firmus Technologies、Nvidiaとの人工知能アクセス契約を締結",
-    "summary": "オーストラリア企業はNvidiaのAIリソースを取得し、事業を強化する。",
+    "title": "中東の緊張：米国とイランが攻撃を停止、ホルムズ海峡は依然リスク",
+    "summary": "ワシントン先物は停戦報道で上昇するが、機雷が数か月にわたり石油輸送を脅かす。",
     "source": [
       "investing.com",
-      "finance.yahoo.com"
+      "ft.com",
+      "nikkei.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Constellation EnergyとWalmart、原子力エネルギー長期契約を締結",
-    "summary": "15年契約でWalmartに原子力電力を供給し、クリーンエネルギー需要の高まりを反映している。",
+    "title": "IPO世界市場がテクノロジーとエネルギー分野の提案で勢いづく",
+    "summary": "Momentaが香港で7億5100万ドルを調達へ、OpenAIは上場を延期、スペイン企業は15億ドル以上の調達を準備。",
     "source": [
-      "finance.yahoo.com",
+      "investing.com",
+      "nasdaq.com",
+      "expansion.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "エネルギーセクター、地政学的な事件と投資機会に直面",
+    "summary": "アラムコのヘリコプターがサウジアラビアで墜落、INPEXはホルムズ海峡を巡り様子見、Magnolia Oil & Gasがシェール市場に登場。",
+    "source": [
+      "ft.com",
+      "/r/stocks",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "アルゼンチンと中国の政治動向、ウクライナ和平への期待が国際ニュースを飾る",
+    "summary": "アルゼンチンが新首席補佐官を任命、中国の日本の軍国主義に関するプロパガンダが拡散、ウクライナ戦争終結への期待が高まる。",
+    "source": [
+      "nikkei.com",
+      "investing.com",
       "/r/stocks"
     ],
+    "count": 3
+  },
+  {
+    "title": "機関投資家と個人投資家が人工知能への賭けを強化",
+    "summary": "政府系ファンドがAI投資のためプライベート市場へ移行、一方シティはオープンソースモデルの利点を強調。",
+    "source": [
+      "ft.com",
+      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "半導体セクター、選択的な楽観論と株価下落の狭間で",
+    "summary": "UBSがTSMCの目標株価を引き上げ、米半導体株指数は5％下落、SKハイニックスの米国上場への期待が高まる。",
+    "source": [
+      "investing.com",
+      "/r/stocks",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "サムスンとSKハイニックス、半導体に1.3兆ドルの投資計画を発表",
+    "summary": "両社の株価は予想される支出の規模に反応して下落、市場はニュースを消化中。",
+    "source": [
+      "/r/stocks",
+      "investing.com"
+    ],
     "count": 2
   },
   {
-    "title": "SpaceX、市場圧力に直面しながらAIに600億ドル投資",
-    "summary": "イーロン・マスク氏の企業は人工知能に大きく賭けているが、市場はその評価に懐疑的である。",
+    "title": "テスラの第2四半期納入台数、コンセンサス予想を上回る可能性",
+    "summary": "モルガン・スタンレーによると欧州と中国で販売が改善、市場は公式納入報告を待つ。",
+    "source": [
+      "investing.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX、市場がまだ評価していない戦略的ビジネスモデル転換を実行",
+    "summary": "イーロン・マスクの宇宙企業は収益源を多様化している可能性があるが、市場はそれを十分に評価していない。",
     "source": [
       "nasdaq.com",
       "handelsblatt.com"
@@ -74,26 +109,44 @@
     "count": 2
   },
   {
-    "title": "Micron Technologyが注目：株式分割の可能性と億万長者にとっての魅力",
-    "summary": "記録的な業績を受けて、株式分割の憶測が広がる一方、大富豪投資家が関心を示している。",
+    "title": "東京株式市場、投機的な買いにより初期の損失から回復",
+    "summary": "日経平均は先物に賭けた短期投資家の介入により下落を縮小。",
     "source": [
       "nasdaq.com",
-      "finance.yahoo.com"
+      "nikkei.com"
     ],
     "count": 2
   },
   {
-    "title": "Broadcom、内部AI開発に注力しながら億万長者投資家を魅了",
-    "summary": "Nvidiaを早期に売却したことで知られる投資家が、今度は内部AI成長を優先するBroadcomに賭けている。",
+    "title": "香港株式市場、大手テクノロジー企業に牽引され上昇でスタート",
+    "summary": "市場はテクニカルな反発を示し、週初の小幅な改善を期待。",
     "source": [
-      "nasdaq.com",
-      "finance.yahoo.com"
+      "nikkei.com",
+      "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "AI株をめぐる見解の相違：変動性対楽観論",
-    "summary": "一部は混乱を警告する一方、Wolfe ResearchはAIと半導体に牽引された強気見解を維持している。",
+    "title": "中国株式市場、銀行セクターに押され下落、4000ポイントを試す",
+    "summary": "上海総合指数は小幅安、投資家はテクニカルサポートを評価。",
+    "source": [
+      "nikkei.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "マクロ経済指標がスペイン金融市場の注目を集める",
+    "summary": "投資家は来週の米雇用統計と欧州インフレ率を注視。",
+    "source": [
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "エネルギーと金属の地政学が世界市場を圧迫",
+    "summary": "スペインのガス施設がロシアガス禁止の延期を要請、中国のブローカーが金属事業拡大のためLMEに影響力を行使しようと試みる。",
     "source": [
       "ft.com",
       "investing.com"
@@ -101,80 +154,34 @@
     "count": 2
   },
   {
-    "title": "プライベートクレジットと私募：Blackstoneが償還制限、Pimcoが戦略推進",
-    "summary": "金融大手のBlackstoneとPimcoは、プライベートクレジット市場で相反する動きを見せている。",
-    "source": [
-      "nasdaq.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ヘルスケア株が注目：Regeneronは格付け維持、Deutsche BankはDexComとInsuletを強調",
-    "summary": "アナリストはヘルスケアセクターに好意的な見方を維持し、複数企業にポジティブな推奨をしている。",
-    "source": [
-      "finance.yahoo.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ヘルスケアと化粧品における人工知能の応用",
-    "summary": "AIによる化粧品開発からヘルスケアにおけるTEMの可能性まで、AIは様々な産業を変革し続けている。",
-    "source": [
-      "/r/stocks",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "自動車セクターにおけるFordとBMWの見解の相違",
-    "summary": "Fordが2030年に向けて不可避なトレンドに賭ける一方、投資家は低い企業価値にもかかわらずBMWに慎重である。",
-    "source": [
-      "nasdaq.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "食品業界の課題：寿司業界の労働訴訟とレストランの値上げ",
-    "summary": "訴訟により寿司業界の労働条件が明らかになる一方、日本食レストランは供給不足による価格上昇に直面している。",
-    "source": [
-      "finance.yahoo.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "米エネルギーセクターの動き：買収と静かな成功",
-    "summary": "Williams CompaniesがMomentum Midstreamを55億ドルで買収目前、一方Magnolia Oil & Gasがシェールで存在感を示している。",
-    "source": [
-      "investing.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "欧州の熱波で死者1,300人超、WHOが緊急対策を要請",
-    "summary": "記録的な気温の熱波が高い死亡率を引き起こし、国際機関は各国に対応を促している。",
+    "title": "好調な四半期決算が複数の日本企業の株価を押し上げ",
+    "summary": "京セラ、三菱重工、西松屋、ヒデカ、DCMHDが堅調な業績を発表し株価上昇。",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "日経世論調査：日本人、重要課題で意見分かれる",
-    "summary": "調査では、医療費負担増、減税、皇室の地位、オルムズへの部隊派遣について意見が二分されている。",
+    "title": "世論調査、政府運営と金融政策に対する日本の分裂を示す",
+    "summary": "43%が首相のビデオに関する説明に不満、58%が日銀の利上げを支持。",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "日本の複数市で市長選結果",
-    "summary": "加古川、大町、黒石、狛江の市長選で、与党候補が再選または当選した。",
+    "title": "日本、サッカー、テニス、ポップカルチャーの進展でスポーツとエンターテイメントの舞台で輝く",
+    "summary": "カナダ代表がコパ・アメリカで勝ち進む、日本はブラジル戦に備える、大坂なおみがランキング上昇、ベイブレードが香港で復活。",
     "source": [
       "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "アジア太平洋株式市場、週明けはまちまちの見通し",
+    "summary": "アナリストはインドネシア、オーストラリア、台湾、シンガポール、マレーシアの市場で様々な動きを予想。",
+    "source": [
+      "nasdaq.com"
     ],
     "count": 1
   }

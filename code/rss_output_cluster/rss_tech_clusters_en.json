@@ -1,41 +1,42 @@
 [
   {
-    "title": "The rise in RAM prices causes a historic crisis in the technology sector",
-    "summary": "Manufacturers warn of 'RAMageddon', while Apple looks for alternatives in China and DRAM prices skyrocket 50% by 2026.",
+    "title": "Manufacturers warn of a RAM memory price crisis that will last until 2028",
+    "summary": "Multiple reports indicate that DRAM memory prices will continue to rise due to high demand and supply constraints, affecting the technology sector.",
     "source": [
-      "elchapuzasinformatico.com",
-      "techcrunch.com",
+      "/r/technology",
       "tomshardware.com",
       "videocardz.com",
-      "/r/hardware"
+      "elchapuzasinformatico.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
-    "count": 5
+    "count": 6
   },
   {
-    "title": "Sony removes hundreds of movies from PlayStation accounts without compensation and the PS6 will cost $1,000",
-    "summary": "Users lose iconic titles without reimbursement, while the manufacturing cost of the new console skyrockets due to component inflation.",
+    "title": "Experts point out the systemic risks of artificial intelligence for the economy and security",
+    "summary": "From financial bubbles to vulnerabilities in autonomous agents, warnings about the uncontrolled use of AI are growing.",
     "source": [
-      "tomshardware.com",
-      "kite.kagi.com",
+      "news.ycombinator.com",
+      "/r/technology",
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "PlayStation 6 manufacturing costs skyrocket and Sony removes movies from accounts without refund",
+    "summary": "Sony's future console would reach a production cost of $1,000, while more than 500 movies have been removed from user accounts in the United Kingdom.",
+    "source": [
+      "/r/technology",
       "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "Productivity guides, deals and news for the tech consumer",
-    "summary": "From merging PDFs to setting up TPM, including Movistar car subscriptions and mouse pads, everything the user needs to know.",
-    "source": [
-      "hardzone.es",
-      "bandaancha.eu",
-      "producthunt.com",
-      "kite.kagi.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "SteamOS expands with new pre-built consoles, Chinese clones and support on Nintendo Switch",
-    "summary": "Valve and the community boost the ecosystem with official Steam Machines, reverse engineering and a mod that brings the interface to the Switch.",
+    "title": "The Steam Machine ecosystem is reborn with clones, SteamOS on pre-built PCs and a mod for Nintendo Switch",
+    "summary": "Several manufacturers launch devices compatible with SteamOS, while a modder manages to run the interface on a Switch.",
     "source": [
       "videocardz.com",
       "tomshardware.com",
@@ -44,58 +45,26 @@
     "count": 3
   },
   {
-    "title": "Artificial intelligence dominates the agenda amid geopolitical race and citizen distrust",
-    "summary": "The West accelerates against China, Mistral and Microsoft executives warn Europe, and only 16% of Americans trust AI.",
+    "title": "California bans excessively loud ads on streaming services",
+    "summary": "The new California law will take effect on July 1 and will require platforms to standardize advertising volumes.",
     "source": [
-      "xataka.com",
-      "the-decoder.com",
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Ford rehires experienced engineers after confirming that AI cannot replace them",
+    "summary": "The automotive company acknowledges that artificial intelligence models cannot replace the experience of veteran engineers.",
+    "source": [
+      "/r/technology",
       "techcrunch.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Volkswagen, Ford and Toyota undertake the biggest transformation of the automotive industry",
-    "summary": "VW prepares massive layoffs and plant closures, Ford rehires human engineers and Toyota defends evolution against Chinese pressure.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "techcrunch.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "New horizons in PC hardware: Chinese processors, Zen 6 and DDR6",
-    "summary": "China launches its Loongson CPU, AMD prepares its Zen 6 cores, record DDR6 memory is expected and Japan creates toy PC parts.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Emulation and retrocomputing advance: PS4 without PSN on PC and Windows 11 on DDR1",
-    "summary": "The ShadPS4 emulator achieves multiplayer without official servers, an enthusiast runs Crysis on 2003 hardware and the Radeon RX 480 turns 10 years old.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "/r/hardware"
-    ],
-    "count": 3
-  },
-  {
-    "title": "The best deals of the week: Windows 11 LTSC, PNY RAM and MediaMarkt",
-    "summary": "Hardware and software enthusiasts can take advantage of discounts on DDR5 memory, Windows licenses and a special selection from MediaMarkt.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "GeForce RTX 5090 suffers new episodes of combustion in its 16-pin connector",
-    "summary": "Several users report completely burned GPUs and manufacturers reject warranty claims for catastrophic damage.",
+    "title": "Multiple cases of GeForce RTX 5090 with melted connector and denied warranty",
+    "summary": "Users report that the NVIDIA graphics card suffers serious damage to the 16-pin connector and manufacturers refuse to cover the damage.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -103,87 +72,109 @@
     "count": 2
   },
   {
-    "title": "SoftBank defends AI from bubble criticism and questions Musk's orbital centers",
-    "summary": "Masayoshi Son calls criticism of AI 'blasphemy', while doubts arise about the viability of Elon Musk's space data centers.",
+    "title": "China develops AI tools for cybersecurity on par with Anthropic",
+    "summary": "Chinese companies present artificial intelligence systems that directly compete with Anthropic's cybersecurity solutions.",
     "source": [
-      "xataka.com",
-      "techcrunch.com"
+      "/r/technology",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Claude Code and OpenAI Codex present vulnerabilities that allow attackers to exploit them",
-    "summary": "Mozilla demonstrates that AI agents for programming can be tricked into installing malware and fail to exclude sensitive files.",
-    "source": [
-      "tomshardware.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "United States, Europe and Australia push a wave of regulation on privacy and technology",
-    "summary": "Laws on surveillance, labor rights and digital security are tightened in California, the European Union and Australia.",
+    "title": "Online age verification laws advance amid criticism over their impact on privacy",
+    "summary": "The KIDS Act and other legislative proposals seek to impose age controls, but organizations warn that they may harm free speech and anonymity.",
     "source": [
       "news.ycombinator.com",
-      "kite.kagi.com"
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Intel CEO Lip-Bu Tan faces conflict of interest over Qualcomm purchase",
-    "summary": "He will receive Qualcomm shares after the acquisition of a startup in which he had invested, raising doubts about ethics on the board.",
+    "title": "SpaceX reaches millions of retirement funds thanks to changes in stock indices",
+    "summary": "SpaceX shares enter 401(k) plans after adjustments to index rules, also opening the door to OpenAI and Anthropic.",
     "source": [
-      "/r/hardware"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "400 domains illegally streaming the 2026 World Cup seized",
-    "summary": "The US Department of Justice quintuples the scale of previous operations against sports streaming piracy.",
+    "title": "Microsoft, which once called Linux 'cancer', launches its own free distribution different from Ubuntu or Fedora",
+    "summary": "The company made a radical turn and now distributes its own Linux system, marking a milestone in its relationship with open source.",
     "source": [
-      "tomshardware.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Hacker News community shares projects, history and software",
-    "summary": "From a Bash script to create blogs to the Japanese Daisugi technique, through reverse engineering of Space Shuttle circuits.",
+    "title": "The rise of data centers in the US generates social backlash that puts the AI boom at risk",
+    "summary": "More and more communities oppose the installation of data centers due to their energy consumption and environmental impact.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "New supercomputer leads the TOP500 list at ISC'26 conference",
+    "summary": "The TOP500 presents a new number one, marking a significant advance in high-performance computing.",
     "source": [
       "news.ycombinator.com"
     ],
     "count": 1
   },
   {
-    "title": "Spain and Europe face the climate and energy crisis with renewables and fight against ecological disaster",
-    "summary": "The end of Russian gas accelerates renewables, warming advances relentlessly, the Granada dam wastes water, eucalyptus trees are a green desert and space lettuce gets sick.",
+    "title": "Global warming is accelerating at an unprecedented rate, scientists warn",
+    "summary": "Climate indicators show an accelerated rise in global temperatures, approaching the point of no return.",
     "source": [
       "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "Mysteries of history and culture: sunken submarines, Chernobyl and Roman enigmas",
-    "summary": "Eighty years later a sunken ship is discovered instead of a submarine, a hole in Chernobyl is closed and an Aragonese site keeps secrets.",
+    "title": "SoftBank CEO defends investment in AI: 'Saying it's a bubble is blasphemy'",
+    "summary": "Masayoshi Son assures that the current boom in artificial intelligence is only the beginning and denies it is a bubble.",
     "source": [
       "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "Consumer technology is renewed: smart ovens, high-end tablets",
-    "summary": "The analysis of the Huawei MatePad Pro Max confirms it as a reference tablet, the LG oven conquers the kitchen and luxury arrives with a cryogenic yacht.",
+    "title": "Professor reports massive AI fraud in a Brown University exam",
+    "summary": "Widespread use of artificial intelligence to cheat on an academic test was detected, generating an ethical debate.",
     "source": [
-      "xataka.com"
+      "news.ycombinator.com"
     ],
     "count": 1
   },
   {
-    "title": "Startups, business and consumer technology mark the business week",
-    "summary": "Startup scouts see a market full of liquidity, Foxconn expands its empire, TechCrunch analyzes Tesla's FSD and a writer advocates for dematerialization.",
+    "title": "School buses in the US will become mobile surveillance vehicles",
+    "summary": "New technologies will turn the buses into surveillance units that will collect route and behavior data.",
     "source": [
-      "xataka.com",
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "TechCrunch Mobility: All eyes on Tesla's Full Self-Driving system",
+    "summary": "The TechCrunch Mobility newsletter analyzes the latest developments of Tesla's Full Self-Driving (FSD) and its impact on the industry.",
+    "source": [
       "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
+  },
+  {
+    "title": "Big tech's $8 trillion bet on AI makes consoles, cars and electricity more expensive",
+    "summary": "Massive investment in artificial intelligence is raising costs in other sectors such as video games and automotive.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Canada successfully replaces steam generators in a nuclear reactor while on the go",
+    "summary": "In an exceptional operation, eight 100-ton generators were removed from the reactor and new ones installed, advancing the restart by seven months.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
   }
 ]
