@@ -1,196 +1,192 @@
 [
   {
-    "title": "WhatsAppはプライベート番号を保護するためにユーザー名を導入",
-    "summary": "メッセージングプラットフォームでは、ユーザー名を予約して電話番号の代わりに使用することができ、プライバシーが向上します。",
+    "title": "サムスン、SKハイニックス、マイクロンに対するメモリ価格固定の集団訴訟、歴史的な高騰を引き起こす",
+    "summary": "チップメーカーはDRAMメモリの価格を人為的に引き上げるための談合で告発され、EXPO ULLなどのキットのコストを最大80%引き上げている。",
     "source": [
-      "xataka.com",
       "elchapuzasinformatico.com",
-      "bandaancha.eu",
-      "thehackernews.com",
-      "techcrunch.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "韓国、メモリチップと人工知能に巨額投資を発表",
-    "summary": "韓国政府はサムスン、SKハイニックスとともに、5000億ドル以上を新たなメモリ工場とヒューマノイドロボットに投資する。",
-    "source": [
-      "/r/hardware",
-      "news.ycombinator.com",
-      "techcrunch.com",
+      "/r/technology",
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 4
   },
   {
-    "title": "プログラミング向けAIエージェントが新モデル、ツール、セキュリティリスクの中で進化",
-    "summary": "オープンソースモデルのOrnith-1.0やQwen 3.6から、Cursorのようなモバイルアシスタントまで、そしてClaude Codeの検証なしでマルウェアを実行可能にする脆弱性に関する警告。",
+    "title": "ZLUDA、AMD GPUでCUDAおよびPhysXアプリケーションを最大300%のパフォーマンスで実行可能に",
+    "summary": "オープンソースプロジェクトZLUDAは、Radeon上でCUDAおよびPhysX物理アクセラレーションとの互換性を実現するが、資金調達の問題に直面している。",
+    "source": [
+      "videocardz.com",
+      "news.ycombinator.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "ニンテンドースイッチ2は一部のリビジョンでシャープの新しいLCDパネルを搭載する可能性",
+    "summary": "リークは、コンソールが特定のバッチでより高品質のLCDスクリーンを搭載することを示しており、購入者の間で不確実性を生み出している。",
+    "source": [
+      "hardzone.es",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD、将来のZen 6 CPUにIntelのLPEと同様の低消費電力コアを搭載することを確認",
+    "summary": "Linuxパッチは、Zen 6プロセッサがバックグラウンドタスク用の新しいタイプの効率的なコアを含むことを明らかにしている。",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ソニー、より強力なPS6、携帯型コンソールの可能性、高価格の計画を前倒し",
+    "summary": "同社はメモリコストが問題であることを認め、PlayStationハードウェアを赤字で販売しないことを示唆し、1000ユーロのPS6と携帯型の噂を煽っている。",
     "source": [
       "elchapuzasinformatico.com",
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Cursor、AIエージェントとリポジトリ機能を備えたiOSベータ版をリリース",
+    "summary": "AIコード編集プラットフォームがモバイルに登場するが、インストール時のプライバシー変更をめぐって論争を巻き起こしている。",
+    "source": [
+      "news.ycombinator.com",
+      "alternativeto.net",
+      "producthunt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic、より高速で安価なモデルClaude Sonnet 5をリリース、パフォーマンスがOpusに近づく",
+    "summary": "AIアシスタントの新バージョンは、より低コストで競争力のある機能を提供し、自律エージェントでの使用を容易にする。",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic、科学者や研究者向けのAIワークスペースClaude Scienceを発表",
+    "summary": "このツールは研究ワークフローに焦点を当てており、Azure統合によりMicrosoft Foundryですでに利用可能。",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google、より高速で経済的な画像生成ツールNano Banana 2 Liteを発表",
+    "summary": "新しいAI画像生成モデルは、動画用のGemini Omni Flashとともにリリースされ、API経由で利用可能。",
+    "source": [
       "techcrunch.com",
       "the-decoder.com",
       "news.ycombinator.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "サムスン、SKハイニックス、マイクロンがDRAM価格操作疑惑で提訴される",
-    "summary": "集団訴訟は、3社がHBMへの移行に乗じて、価格を引き上げるためにDDR3とDDR4の生産を意図的に削減したと主張している。",
+    "title": "Meta、競合他社のチャットボットを未成年者のプロフィールを使用して秘密裏にテスト",
+    "summary": "同社は請負業者を使って10代の若者を装い、メンタルヘルス危機におけるChatGPT、Gemini、Character.AIの対応を検証した。",
     "source": [
-      "/r/hardware",
+      "the-decoder.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "台湾、SupermicroとパートナーのオフィスをNvidiaチップの中国への密輸疑惑で捜索",
+    "summary": "当局は半導体の不正輸出の捜査で9か所を捜索し、6人を取り調べた。",
+    "source": [
       "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "NVIDIA GeForce RTX 3060が約333ユーロで欧州市場に再登場",
-    "summary": "発売から5年後、12GBのRTX 3060が欧州で再び入手可能となり、価格もほぼ同じで、NVIDIAの戦略を裏付けている。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Dbrand、Valveからの法的脅威を受けSteam Machine向けCompanion Cubeケースを撤回",
-    "summary": "アクセサリメーカーは、Valveが権利侵害を理由に撤退を求めた後、Portal 2をベースにした製品をキャンセルし、ライセンスがないことを認めた。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "SteamOSベータ3.8.20が進化し、Valveのシステムをプリインストールした初のPCが登場",
-    "summary": "このアップデートはVRAM管理とグラフィックを改善し、Steamrollerは工場出荷時にSteamOSを搭載する初のデスクトップPCとなる。",
-    "source": [
-      "videocardz.com",
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ソニーが携帯ゲーム機を示唆、ハードウェアの赤字販売を否定、GTA VI予約でマイクロソフトを圧倒",
-    "summary": "同社は携帯機の開発を示唆し、PlayStationを赤字で販売しないと確約し、将来のコンソール向けメモリの高コストを認めた。",
-    "source": [
-      "videocardz.com",
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Appleが30以上のバグを修正、過去最高の売上を予測、制裁対象の中国企業とのメモリソリューションを計画",
-    "summary": "セキュリティパッチにはAIが発見したWebKitのバグが含まれている。さらにAppleは米国のブラックリストに載っている企業とのメモリ代替案を模索しており、iPhone 18の発売日もリークされている。",
-    "source": [
-      "thehackernews.com",
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "GoogleがGeminiへのアクセスを制限、50W Qi2ワイヤレス充電を準備、大規模なAndroidセキュリティパッチを公開",
-    "summary": "コンピューティング容量の飽和によりGeminiを一部の顧客に制限する必要が生じた。将来のPixelとiPhoneではQi2急速充電が期待され、Androidでは121の脆弱性が修正された。",
-    "source": [
-      "/r/hardware",
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD向けCUDAエミュレータZLUDAが資金調達を失うもPhysXサポートを追加",
-    "summary": "資金不足によりプロジェクトは再び趣味に戻ったが、バージョン6のおかげでAMD GPUで32ビットPhysXを実行することに成功した。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD、将来のZen 6にIntelのLPEに似た低消費電力コアを統合へ",
-    "summary": "同社は、一部のZen 6 CPUに新しいタイプの高効率コアが搭載され、Linux向けのサポートも準備中であることを確認した。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Imec、CFETトランジスタによる2038年の0.3nmへのロードマップを詳述",
-    "summary": "ベルギーの研究所はムーアの法則を再定義し、CFETトランジスタが0.7nmノードで実用可能となり、セル密度が重要な指標となるとしている。",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tencent、中国メモリメーカーCXMTと29億4000万ドルの契約を締結",
-    "summary": "半導体を巡る貿易戦争の真っ只中、TencentはCXMTとのDRAMメモリ供給を確保し、中国は製造能力を強化している。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "米最高裁、ジオフェンス令状には憲法上の保護が必要と判断",
-    "summary": "判決は、ジオフェンス令状が修正第四条に違反するとし、活動家によれば、デジタルプライバシーにとって重要な前進である。",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Rocket Lab、衛星企業イリジウムの買収で拡大を継続",
-    "summary": "宇宙企業はイリジウムをポートフォリオに加え、衛星通信市場でのプレゼンスを強化する。",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ASUS、12.3インチタッチモニターROG Strix XG129Cをサブディスプレイとして240ユーロで発売",
-    "summary": "このデバイスはUSB-Cで接続し、生産性向上のための補助タッチスクリーンとして機能し、価格は239ユーロから。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD、Radeon Adrenalin 26.6.4ドライバーを公開、Windows 10でのパフォーマンス問題が続く",
-    "summary": "グラフィックソフトウェアの新版が利用可能になったが、ユーザーはMicrosoftのOSでゲーム中のパフォーマンス低下を報告している。",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic、AI Claudeをカリフォルニア向けに半額で提供、Amazonがモデルを蒸留、EUが同社を引き入れようと模索",
-    "summary": "ニューサム知事との合意により、州政府は割引料金でClaudeを利用できる。AmazonはAnthropicのモデルを最適化してコストを削減。オーストリアはAnthropicを欧州に誘致するためのインセンティブを提案。",
-    "source": [
-      "techcrunch.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Steam Machineの初期レビューでは、高価格とメモリ性能が注目される",
-    "summary": "ベンチマークではシングルメモリとデュアルメモリの違いが示され、批評家は現在の価格が従来のコンソールに比べて採用を困難にしていると一致している。",
+    "title": "貨物泥棒が130万ドル相当のデータセンター用品を盗む",
+    "summary": "警察はシカゴ近郊で銅線ケーブルと盗難機器を回収し、AIインフラストラクチャ向け材料の闇市場が拡大していることを示している。",
     "source": [
-      "/r/hardware",
-      "xataka.com"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
+  },
+  {
+    "title": "NVIDIAが9GBのRTX 5050をキャンセルまたは無期限延期したとの噂",
+    "summary": "グラフィックカードメーカーはこのモデルに関する新しい情報を持っておらず、発売の不確実性が高まっている。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SteamOS 3.8.20ベータ版、VRAM管理を改善しMesaドライバを更新",
+    "summary": "Valveのオペレーティングシステムの新バージョンは、コンソールとゲーミングノートPCのパフォーマンスを最適化し、レイトレーシングのサポートを改善。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "開発者が電子ペーパー開発ボードを60Hzで動作するゲームボーイに改造",
+    "summary": "ESP32-S3マイクロコントローラーと960x540画面を使用し、高価な部品を必要とせずにレトロゲームをエミュレート。",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD、7月にRadeon GPUとメモリパッケージの値上げをパートナーに警告",
+    "summary": "部品コストの上昇とAI需要の高まりにより、値上げは約10%になると見られる。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xbox従業員数千人が組合を結成、歴史的な大量解雇が懸念される",
+    "summary": "3500人以上の労働者が雇用を守るためにCWA組合に加入する一方、専門家はマイクロソフトのゲーム部門で大規模な人員削減の可能性を警告している。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "37のデータセンターがある郡、コスト上昇で学校に節電を要請",
+    "summary": "バージニア州ヘンリコ郡は、電気料金の25%上昇を見込んでおり、コンピューターの電源を切ったり、ブラインドを下ろしたりするなどの対策を推奨している。",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "美団（Meituan）、Nvidiaなしでトレーニング可能な大規模AIモデルLongCat-2.0を発表",
+    "summary": "1.6兆パラメータのMoEモデルは、チップ輸出規制を回避し、最高の米国システムと競合する。",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "テスラ、オースティンでステアリングホイールもペダルもないサイバーキャブのテストを開始",
+    "summary": "同社の自動運転車両がテキサス州の公道でテストを開始し、無人運転交通への一歩を示している。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
   }
 ]

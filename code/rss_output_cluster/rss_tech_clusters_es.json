@@ -1,196 +1,192 @@
 [
   {
-    "title": "WhatsApp introduce los nombres de usuario para mantener el número privado",
-    "summary": "La plataforma de mensajería permite reservar un nombre de usuario y usarlo en lugar del número de teléfono, mejorando la privacidad.",
+    "title": "Demanda colectiva contra Samsung, SK Hynix y Micron por fijación de precios de la memoria RAM provoca alza histórica",
+    "summary": "Fabricantes de chips son acusados de colusión para incrementar artificialmente los precios de las memorias DRAM, elevando los costes de kits como los EXPO ULL hasta un 80%.",
     "source": [
-      "xataka.com",
       "elchapuzasinformatico.com",
-      "bandaancha.eu",
-      "thehackernews.com",
-      "techcrunch.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Corea del Sur anuncia una inversión millonaria en chips de memoria e inteligencia artificial",
-    "summary": "El gobierno surcoreano, junto a Samsung y SK Hynix, invertirá más de 500 mil millones de dólares en nuevas fábricas de memoria y robots humanoides.",
-    "source": [
-      "/r/hardware",
-      "news.ycombinator.com",
-      "techcrunch.com",
+      "/r/technology",
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 4
   },
   {
-    "title": "Los agentes de IA para programación evolucionan entre nuevos modelos, herramientas y riesgos de seguridad",
-    "summary": "Desde modelos open-source como Ornith-1.0 y Qwen 3.6 hasta asistentes móviles como Cursor, y alertas sobre vulnerabilidades en Claude Code que permiten ejecutar malware sin verificación.",
+    "title": "ZLUDA permite ejecutar aplicaciones CUDA y PhysX en GPUs AMD con hasta un 300% de rendimiento",
+    "summary": "El proyecto open source ZLUDA logra compatibilidad con CUDA y aceleración física PhysX en Radeon, aunque enfrenta problemas de financiación.",
+    "source": [
+      "videocardz.com",
+      "news.ycombinator.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Nintendo Switch 2 podría tener un nuevo panel LCD de Sharp en algunas revisiones",
+    "summary": "Filtraciones indican que la consola contará con una pantalla LCD de mejor calidad en ciertos lotes, generando incertidumbre entre los compradores.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD confirma núcleos de bajo consumo en futuras CPUs Zen 6 similares a los LPE de Intel",
+    "summary": "Parches de Linux revelan que los procesadores Zen 6 incluirán un nuevo tipo de núcleo eficiente para tareas en segundo plano.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Sony adelanta planes de una PS6 más potente, una posible consola portátil y un precio elevado",
+    "summary": "La compañía reconoce que el coste de la memoria es un problema y sugiere que el hardware PlayStation no se venderá a pérdida, alimentando rumores de una PS6 de 1000 euros y una portátil.",
     "source": [
       "elchapuzasinformatico.com",
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Cursor lanza versión beta para iOS con agentes de IA y funciones de repositorio",
+    "summary": "La plataforma de edición de código con IA aterriza en móviles, aunque genera controversia por cambios en la privacidad al instalarse.",
+    "source": [
+      "news.ycombinator.com",
+      "alternativeto.net",
+      "producthunt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic lanza Claude Sonnet 5, un modelo más rápido y barato que acerca el rendimiento a Opus",
+    "summary": "La nueva versión del asistente de inteligencia artificial ofrece capacidades competitivas a menor coste, facilitando su uso en agentes autónomos.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic presenta Claude Science, un espacio de trabajo con IA para científicos e investigadores",
+    "summary": "La herramienta se centra en flujos de trabajo de investigación y ya está disponible en Microsoft Foundry con integración en Azure.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google presenta Nano Banana 2 Lite, un generador de imágenes más rápido y económico",
+    "summary": "El nuevo modelo de generación de imágenes mediante IA se lanza junto con Gemini Omni Flash para vídeo, disponible a través de API.",
+    "source": [
       "techcrunch.com",
       "the-decoder.com",
       "news.ycombinator.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Samsung, SK hynix y Micron demandadas por supuesta fijación de precios de la memoria DRAM",
-    "summary": "La demanda colectiva alega que los tres fabricantes redujeron deliberadamente la producción de DDR3 y DDR4 para aumentar los precios, aprovechando el cambio a HBM.",
+    "title": "Meta realizó pruebas secretas con chatbots de la competencia utilizando perfiles de menores",
+    "summary": "La compañía usó contratistas para hacerse pasar por adolescentes y verificar las respuestas de ChatGPT, Gemini y Character.AI en crisis de salud mental.",
     "source": [
-      "/r/hardware",
+      "the-decoder.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Taiwán allana oficinas de Supermicro y socios por presunto contrabando de chips de Nvidia a China",
+    "summary": "Las autoridades registraron nueve ubicaciones e interrogaron a seis personas en una investigación sobre exportaciones ilegales de semiconductores.",
+    "source": [
       "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "La NVIDIA GeForce RTX 3060 regresa a las tiendas europeas por unos 333 euros",
-    "summary": "Cinco años después de su lanzamiento, la RTX 3060 de 12 GB vuelve a estar disponible en Europa a un precio similar al original, confirmando la estrategia de NVIDIA.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Dbrand retira su funda Companion Cube para Steam Machine tras la amenaza legal de Valve",
-    "summary": "El fabricante de accesorios canceló el producto basado en Portal 2 después de que Valve solicitara su retirada por infracción de derechos, admitiendo que no tenía licencia.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "SteamOS avanza con su beta 3.8.20 y llega el primer PC preinstalado con el sistema de Valve",
-    "summary": "La actualización mejora el manejo de VRAM y los gráficos, mientras que el Steamroller se convierte en el primer PC de sobremesa que incluye SteamOS de fábrica.",
-    "source": [
-      "videocardz.com",
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Sony insinúa una consola portátil, promete no vender hardware a pérdida y aplasta a Microsoft en reservas de GTA VI",
-    "summary": "La compañía japonesa sugiere que trabaja en una portátil, asegura que PlayStation no se venderá a pérdida y reconoce el alto coste de la memoria para futuras consolas.",
-    "source": [
-      "videocardz.com",
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Apple corrige más de 30 fallos, prevé récord de ventas y planea una solución de memoria con una empresa china sancionada",
-    "summary": "Los parches de seguridad incluyen errores en WebKit descubiertos por IA; además, Apple busca alternativas de memoria con una firma en la lista negra de EE.UU. y se filtran las fechas del iPhone 18.",
-    "source": [
-      "thehackernews.com",
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google raciona el acceso a Gemini, prepara carga inalámbrica Qi2 de 50W y lanza un parche masivo de seguridad Android",
-    "summary": "La saturación de capacidad de cómputo obliga a limitar Gemini a algunos clientes; se espera carga rápida Qi2 en futuros Pixel y iPhone, y se corrigen 121 vulnerabilidades en Android.",
-    "source": [
-      "/r/hardware",
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El emulador de CUDA para AMD ZLUDA pierde financiación pero añade soporte para PhysX",
-    "summary": "El proyecto vuelve a ser un hobby tras quedarse sin fondos, aunque logra ejecutar PhysX de 32 bits en GPU AMD gracias a su versión 6.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD integrará núcleos de bajo consumo similares a los LPE de Intel en sus futuros Zen 6",
-    "summary": "La compañía confirma que algunas CPU Zen 6 incluirán un nuevo tipo de núcleo eficiente, con soporte ya en preparación para Linux.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Imec detalla su hoja de ruta hacia los 0.3 nm en 2038 con transistores CFET",
-    "summary": "El instituto belga redefine la Ley de Moore y establece que los transistores CFET serán viables en el nodo de 0.7 nm, con la densidad celular como indicador clave.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tencent cierra un acuerdo de 2.940 millones de dólares con el fabricante chino de memoria CXMT",
-    "summary": "En plena guerra comercial por los semiconductores, Tencent asegura suministro de memoria DRAM con CXMT, mientras China refuerza su capacidad de fabricación.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La Corte Suprema de EE.UU. declara que las órdenes de geocerca requieren protección constitucional",
-    "summary": "El fallo establece que los mandamientos de geocerca violan la Cuarta Enmienda, un avance significativo para la privacidad digital según los activistas.",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Rocket Lab continúa su expansión adquiriendo la empresa de satélites Iridium",
-    "summary": "La compañía espacial suma Iridium a su cartera, reforzando su presencia en el mercado de comunicaciones por satélite.",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ASUS lanza el monitor táctil ROG Strix XG129C de 12,3 pulgadas como pantalla secundaria por 240 €",
-    "summary": "El dispositivo se conecta por USB-C y sirve como pantalla táctil auxiliar para mejorar la productividad, con un precio de salida de 239 euros.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD publica los drivers Radeon Adrenalin 26.6.4 mientras persisten los problemas de rendimiento en Windows 10",
-    "summary": "La nueva versión del software gráfico ya está disponible, pero los usuarios reportan caídas de rendimiento en juegos en el sistema operativo de Microsoft.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic despliega su IA Claude a mitad de precio para California, Amazon destila sus modelos y la UE busca atraer a la empresa",
-    "summary": "Un acuerdo con el gobernador Newsom permite al gobierno estatal usar Claude a tarifa reducida; Amazon optimiza los modelos de Anthropic para abaratar costes; Austria propone incentivos para que Anthropic se instale en Europa.",
-    "source": [
-      "techcrunch.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Los primeros análisis de Steam Machine destacan su alto precio y el rendimiento de la memoria",
-    "summary": "Las pruebas comparativas muestran diferencias entre memoria simple y dual, mientras la crítica coincide en que el precio actual dificulta su adopción frente a consolas tradicionales.",
+    "title": "Ladrones de carga roban suministros para centros de datos por valor de 1,3 millones de dólares",
+    "summary": "La policía recuperó cerca de Chicago cable de cobre y equipos robados, evidenciando el creciente mercado negro de materiales para infraestructura de IA.",
     "source": [
-      "/r/hardware",
-      "xataka.com"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
+  },
+  {
+    "title": "Se rumorea que NVIDIA ha cancelado o retrasado indefinidamente la RTX 5050 de 9 GB",
+    "summary": "Los fabricantes de tarjetas gráficas no tienen información nueva sobre el modelo, aumentando la incertidumbre sobre su lanzamiento.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La beta de SteamOS 3.8.20 mejora el manejo de VRAM y actualiza el controlador Mesa",
+    "summary": "La nueva versión del sistema operativo de Valve optimiza el rendimiento en consolas y portátiles gaming, incluyendo soporte mejorado para Ray Tracing.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Creador convierte una placa de desarrollo de tinta electrónica en una Game Boy funcional a 60 Hz",
+    "summary": "Usando un microcontrolador ESP32-S3 y una pantalla de 960x540, logra emular juegos retro sin necesidad de componentes caros.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD advierte a sus socios de una subida de precios en las GPU Radeon y paquetes de memoria en julio",
+    "summary": "El incremento sería de alrededor del 10% debido al aumento de costes de componentes y la alta demanda de IA.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Miles de empleados de Xbox se sindicalizan mientras se temen despidos masivos históricos",
+    "summary": "Más de 3500 trabajadores se afilian al sindicato CWA para proteger sus puestos, mientras expertos advierten de posibles recortes masivos en la división de juegos de Microsoft.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Un condado con 37 centros de datos pide a las escuelas que ahorren electricidad por el aumento de costes",
+    "summary": "Henrico County, Virginia, anticipa un incremento del 25% en tarifas eléctricas y recomienda medidas como apagar ordenadores y bajar persianas.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meituan presenta LongCat-2.0, un modelo de IA masivo que demuestra que China puede entrenar sin Nvidia",
+    "summary": "El modelo MoE de 1,6 billones de parámetros compite con los mejores sistemas estadounidenses, sorteando las restricciones de exportación de chips.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Tesla comienza a probar su Cybercab sin volante ni pedales en Austin",
+    "summary": "El vehículo autónomo de la compañía inicia pruebas en carreteras públicas de Texas, marcando un paso hacia el transporte sin conductor.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
   }
 ]

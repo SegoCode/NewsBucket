@@ -1,196 +1,192 @@
 [
   {
-    "title": "WhatsApp introduces usernames to keep phone number private",
-    "summary": "The messaging platform allows reserving a username and using it instead of the phone number, improving privacy.",
+    "title": "Class action lawsuit against Samsung, SK Hynix and Micron for RAM price fixing causes historic price surge",
+    "summary": "Chip manufacturers are accused of collusion to artificially increase DRAM memory prices, raising the costs of kits like EXPO ULL by up to 80%.",
     "source": [
-      "xataka.com",
       "elchapuzasinformatico.com",
-      "bandaancha.eu",
-      "thehackernews.com",
-      "techcrunch.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "South Korea announces multi-million dollar investment in memory chips and artificial intelligence",
-    "summary": "The South Korean government, together with Samsung and SK Hynix, will invest more than 500 billion dollars in new memory factories and humanoid robots.",
-    "source": [
-      "/r/hardware",
-      "news.ycombinator.com",
-      "techcrunch.com",
+      "/r/technology",
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 4
   },
   {
-    "title": "AI programming agents evolve amid new models, tools, and security risks",
-    "summary": "From open-source models like Ornith-1.0 and Qwen 3.6 to mobile assistants like Cursor, and alerts about vulnerabilities in Claude Code that allow malware execution without verification.",
+    "title": "ZLUDA allows running CUDA and PhysX applications on AMD GPUs with up to 300% performance",
+    "summary": "The open source project ZLUDA achieves compatibility with CUDA and PhysX physics acceleration on Radeon, although it faces funding issues.",
+    "source": [
+      "videocardz.com",
+      "news.ycombinator.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Nintendo Switch 2 could have a new Sharp LCD panel in some revisions",
+    "summary": "Leaks indicate that the console will feature a better quality LCD screen in certain batches, generating uncertainty among buyers.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD confirms low-power cores in future Zen 6 CPUs similar to Intel's LPE",
+    "summary": "Linux patches reveal that Zen 6 processors will include a new type of efficient core for background tasks.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Sony advances plans for a more powerful PS6, a possible portable console and a high price",
+    "summary": "The company acknowledges that memory cost is a problem and suggests that PlayStation hardware will not be sold at a loss, fueling rumors of a 1000 euro PS6 and a handheld.",
     "source": [
       "elchapuzasinformatico.com",
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Cursor launches beta version for iOS with AI agents and repository features",
+    "summary": "The AI code editing platform lands on mobile, although it generates controversy over privacy changes when installed.",
+    "source": [
+      "news.ycombinator.com",
+      "alternativeto.net",
+      "producthunt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic launches Claude Sonnet 5, a faster and cheaper model that brings performance closer to Opus",
+    "summary": "The new version of the AI assistant offers competitive capabilities at a lower cost, facilitating its use in autonomous agents.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic presents Claude Science, an AI workspace for scientists and researchers",
+    "summary": "The tool focuses on research workflows and is now available on Microsoft Foundry with Azure integration.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google introduces Nano Banana 2 Lite, a faster and more economical image generator",
+    "summary": "The new AI image generation model is launched alongside Gemini Omni Flash for video, available via API.",
+    "source": [
       "techcrunch.com",
       "the-decoder.com",
       "news.ycombinator.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Samsung, SK hynix, and Micron sued for alleged DRAM price fixing",
-    "summary": "The class action lawsuit alleges that the three manufacturers deliberately reduced production of DDR3 and DDR4 to raise prices, taking advantage of the shift to HBM.",
+    "title": "Meta conducted secret tests with competitor chatbots using profiles of minors",
+    "summary": "The company used contractors to pose as teenagers and verify the responses of ChatGPT, Gemini and Character.AI in mental health crises.",
     "source": [
-      "/r/hardware",
+      "the-decoder.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Taiwan raids offices of Supermicro and partners for alleged smuggling of Nvidia chips to China",
+    "summary": "Authorities searched nine locations and interrogated six people in an investigation into illegal semiconductor exports.",
+    "source": [
       "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "NVIDIA GeForce RTX 3060 returns to European stores for around 333 euros",
-    "summary": "Five years after its launch, the 12 GB RTX 3060 is back available in Europe at a similar price to the original, confirming NVIDIA's strategy.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Dbrand withdraws its Companion Cube case for Steam Machine after Valve's legal threat",
-    "summary": "The accessory manufacturer cancelled the Portal 2-based product after Valve requested its removal for copyright infringement, admitting it did not have a license.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "SteamOS advances with beta 3.8.20 and first PC preinstalled with Valve's system arrives",
-    "summary": "The update improves VRAM management and graphics, while the Steamroller becomes the first desktop PC to include SteamOS from the factory.",
-    "source": [
-      "videocardz.com",
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Sony hints at a handheld console, promises not to sell hardware at a loss, and crushes Microsoft in GTA VI pre-orders",
-    "summary": "The Japanese company suggests it is working on a handheld, assures PlayStation will not be sold at a loss, and acknowledges the high cost of memory for future consoles.",
-    "source": [
-      "videocardz.com",
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Apple fixes more than 30 bugs, forecasts record sales, and plans a memory solution with a sanctioned Chinese company",
-    "summary": "The security patches include bugs in WebKit discovered by AI; in addition, Apple is looking for memory alternatives with a firm on the US blacklist and dates for the iPhone 18 are leaked.",
-    "source": [
-      "thehackernews.com",
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google rations access to Gemini, prepares 50W Qi2 wireless charging, and releases a massive Android security patch",
-    "summary": "Compute capacity saturation forces limiting Gemini to some clients; fast Qi2 charging is expected in future Pixel and iPhone devices, and 121 vulnerabilities are fixed in Android.",
-    "source": [
-      "/r/hardware",
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD ZLUDA CUDA emulator loses funding but adds support for PhysX",
-    "summary": "The project returns to being a hobby after running out of funds, although it manages to run 32-bit PhysX on AMD GPUs thanks to its version 6.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD will integrate low-power cores similar to Intel's LPE in future Zen 6",
-    "summary": "The company confirms that some Zen 6 CPUs will include a new type of efficient core, with support already in preparation for Linux.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Imec details its roadmap to 0.3 nm in 2038 with CFET transistors",
-    "summary": "The Belgian institute redefines Moore's Law and establishes that CFET transistors will be viable at the 0.7 nm node, with cell density as a key indicator.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tencent closes a $2.94 billion deal with Chinese memory manufacturer CXMT",
-    "summary": "In the midst of the semiconductor trade war, Tencent secures DRAM memory supply with CXMT, while China strengthens its manufacturing capacity.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "US Supreme Court declares that geofence warrants require constitutional protection",
-    "summary": "The ruling establishes that geofence warrants violate the Fourth Amendment, a significant advance for digital privacy according to activists.",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Rocket Lab continues its expansion by acquiring satellite company Iridium",
-    "summary": "The space company adds Iridium to its portfolio, strengthening its presence in the satellite communications market.",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ASUS launches the 12.3-inch ROG Strix XG129C touch monitor as a secondary display for 240 €",
-    "summary": "The device connects via USB-C and serves as an auxiliary touch screen to improve productivity, with a launch price of 239 euros.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD releases Radeon Adrenalin 26.6.4 drivers while performance issues in Windows 10 persist",
-    "summary": "The new version of the graphics software is now available, but users report drops in gaming performance on Microsoft's operating system.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic deploys its Claude AI at half price for California, Amazon distills its models, and the EU seeks to attract the company",
-    "summary": "An agreement with Governor Newsom allows the state government to use Claude at a reduced rate; Amazon optimizes Anthropic's models to lower costs; Austria proposes incentives for Anthropic to set up in Europe.",
-    "source": [
-      "techcrunch.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "First reviews of Steam Machine highlight its high price and memory performance",
-    "summary": "Benchmark tests show differences between single and dual memory, while critics agree that the current price makes adoption difficult compared to traditional consoles.",
+    "title": "Cargo thieves steal data center supplies worth $1.3 million",
+    "summary": "Police recovered near Chicago copper cable and stolen equipment, evidencing the growing black market for AI infrastructure materials.",
     "source": [
-      "/r/hardware",
-      "xataka.com"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
+  },
+  {
+    "title": "NVIDIA rumored to have cancelled or indefinitely delayed the 9 GB RTX 5050",
+    "summary": "Graphics card manufacturers have no new information about the model, increasing uncertainty about its launch.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SteamOS 3.8.20 beta improves VRAM management and updates the Mesa driver",
+    "summary": "The new version of Valve's operating system optimizes performance on consoles and gaming laptops, including improved Ray Tracing support.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Creator converts an e-ink development board into a functional 60 Hz Game Boy",
+    "summary": "Using an ESP32-S3 microcontroller and a 960x540 display, it manages to emulate retro games without needing expensive components.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD warns its partners of a price increase on Radeon GPUs and memory packages in July",
+    "summary": "The increase would be around 10% due to rising component costs and high AI demand.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Thousands of Xbox employees unionize as historic mass layoffs are feared",
+    "summary": "More than 3500 workers join the CWA union to protect their jobs, while experts warn of possible massive cuts in Microsoft's gaming division.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A county with 37 data centers asks schools to save electricity due to rising costs",
+    "summary": "Henrico County, Virginia, anticipates a 25% increase in electricity rates and recommends measures such as turning off computers and lowering blinds.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meituan presents LongCat-2.0, a massive AI model that shows China can train without Nvidia",
+    "summary": "The 1.6 trillion parameter MoE model competes with the best US systems, bypassing chip export restrictions.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Tesla begins testing its Cybercab without steering wheel or pedals in Austin",
+    "summary": "The company's autonomous vehicle begins testing on public roads in Texas, marking a step towards driverless transportation.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
   }
 ]
