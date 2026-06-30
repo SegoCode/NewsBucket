@@ -64,52 +64,46 @@
     <main id="feed">
         <div id="status">Loading…</div>
     </main>
+    <div id="live" hidden style="position:fixed;inset:0;background:#000;z-index:9999"><iframe id="liveFrame" style="width:100%;height:100%;border:0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
     <!-- ==================== JS ==================== -->
     <script>
         const BASE = 'https://raw.githubusercontent.com/SegoCode/NewsBucket/main/code/rss_output_cluster';
         const QUAKE = 'https://www.jma.go.jp/bosai/quake/data/list.json';
+        const LIVE = 'https://www.youtube.com/embed/f0lYkdA-Gtw?autoplay=1';
         const tg = window.Telegram?.WebApp;
-        const feed = document.getElementById('feed');
-        const $topic = document.querySelector('#topic');
-        const $lang = document.querySelector('#lang');
         try {
             const saved = JSON.parse(localStorage.getItem('nb') || '{}');
-            if (saved.t) $topic.value = saved.t;
-            if (saved.l) $lang.value = saved.l;
+            if (saved.t) topic.value = saved.t;
+            if (saved.l) lang.value = saved.l;
         } catch {}
         function render(data) {
             if (!data.length) { feed.innerHTML = '<div id="status">No news</div>'; return; }
-            const tier = c => c === 'high' || c === 'quake-high' ? 0 : c === 'medium' ? 1 : 2;
+            const tier = c => c.startsWith('quake') ? 0 : c === 'high' ? 1 : c === 'medium' ? 2 : 3;
             const items = data.map(item => {
                 const count = item.count || item.source.length;
                 return { ...item, cls: item.cls || (count > 4 ? 'high' : count >= 3 ? 'medium' : 'low') };
             });
-            items.sort((a, b) => tier(a.cls) - tier(b.cls) || ((a.cls || '').startsWith('quake') ? 0 : 1) - ((b.cls || '').startsWith('quake') ? 0 : 1));
-            feed.innerHTML = items.map(item => {
-                const onclick = item.url ? ` onclick="window.open('${item.url}', '_blank')"` : '';
-                return `<article class="${item.cls}"${onclick}><h2>${item.title}</h2><div class="sources">${item.source.join(' · ')}</div></article>`;
-            }).join('');
+            items.sort((a, b) => tier(a.cls) - tier(b.cls));
+            feed.innerHTML = items.map(item => `<article class="${item.cls}"${item.url ? ` onclick="window.open('${item.url}', '_blank')"` : ''}><h2>${item.title}</h2><div class="sources">${item.source.join(' · ')}</div></article>`).join('');
         }
         async function load() {
             feed.innerHTML = '<div id="status">Loading…</div>';
             let items = [];
             try {
-                const res = await fetch(`${BASE}/rss_${$topic.value}_clusters_${$lang.value}.json`);
+                const res = await fetch(`${BASE}/rss_${topic.value}_clusters_${lang.value}.json`);
                 if (res.ok) items = await res.json();
             } catch {}
-            if ($topic.value === 'japan') {
+            if (topic.value === 'japan') {
                 try {
                     const res = await fetch(QUAKE);
                     if (res.ok) {
-                        const quakes = (await res.json()).filter(q => q.mag && q.cod && Date.now() - Date.parse(q.at) < 864e5 && parseFloat(q.mag) >= 4);
+                        const quakes = (await res.json()).filter(q => q.mag && q.cod && Date.now() - Date.parse(q.at) < 864e5 && parseFloat(q.mag) >= 5);
                         if (quakes.length) {
                             const quakeItems = quakes.sort((a, b) => Date.parse(b.at) - Date.parse(a.at)).map(q => {
-                                const c = q.cod.match(/[+-]\d+\.?\d*/g);
-                                const lat = parseFloat(c[0]);
-                                const lon = parseFloat(c[1]);
-                                const recent = Date.now() - Date.parse(q.at) < 18e5;
+                                const [lat, lon] = q.cod.match(/[+-]\d+\.?\d*/g);
+                                const recent = Date.now() - Date.parse(q.at) < 36e5;
                                 return {
-                                    title: `M${q.mag} | ${$lang.value === 'jp' ? q.anm : q.en_anm}`,
+                                    title: `M${q.mag} | ${lang.value === 'jp' ? q.anm : q.en_anm}`,
                                     source: ['JMA', new Date(q.at).toLocaleString([], { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' }).replace(',', '')],
                                     cls: 'quake-high' + (recent ? ' quake-recent' : ''),
                                     url: `geo:0,0?q=${lat},${lon}`
@@ -123,23 +117,24 @@
             render(items);
         }
         function onChange() {
-            try { localStorage.setItem('nb', JSON.stringify({ t: $topic.value, l: $lang.value })); } catch {}
-            if (tg) tg.HapticFeedback.selectionChanged();
+            try { localStorage.setItem('nb', JSON.stringify({ t: topic.value, l: lang.value })); } catch {}
+            tg?.HapticFeedback.selectionChanged();
+            syncLive();
             load();
         }
-        $topic.onchange = onChange;
-        $lang.onchange = onChange;
+        topic.onchange = lang.onchange = onChange;
+        const openLive = () => { liveFrame.src = LIVE; live.hidden = false; tg.BackButton.show(); };
+        const closeLive = () => { liveFrame.src = ''; live.hidden = true; tg.BackButton.hide(); };
+        const syncLive = () => tg && (topic.value === 'japan' ? tg.MainButton.show() : tg.MainButton.hide());
         if (tg) {
             tg.ready();
             tg.expand();
             tg.disableVerticalSwipes();
             try { tg.setHeaderColor('secondary_bg_color'); } catch {}
-            tg.MainButton.setParams({ text: 'Refresh' });
-            tg.MainButton.onClick(() => {
-                tg.HapticFeedback.impactOccurred('heavy');
-                load();
-            });
-            tg.MainButton.show();
+            tg.MainButton.setParams({ text: 'Live News' });
+            tg.MainButton.onClick(openLive);
+            tg.BackButton.onClick(closeLive);
+            syncLive();
         }
         load();
     </script>
