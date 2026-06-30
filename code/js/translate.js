@@ -32,50 +32,54 @@ for (const file of files) {
 		if (process.env.GITHUB_ACTIONS) console.log("  Generating...");
 		let translated = [];
 		for (let attempt = 0; attempt < 2; attempt++) {
-		const res = await fetch(API_URL, {
-			method: "POST",
-			headers: {
-				"Content-Type": "application/json",
-				Authorization: `Bearer ${process.env.OPENCODE_API_KEY}`,
-			},
-			body: JSON.stringify({
-				model: "deepseek-v4-flash-free",
-				messages: [
-					{ role: "system", content: prompt },
-					{ role: "user", content: JSON.stringify(clusters) },
-				],
-				temperature: 0.2,
-				stream: true,
-			}),
-		});
-		if (!res.ok)
-			throw new Error(
-				`${file}/${code}: HTTP ${res.status} ${await res.text()}`,
-			);
+			const res = await fetch(API_URL, {
+				method: "POST",
+				headers: {
+					"Content-Type": "application/json",
+					Authorization: `Bearer ${process.env.OPENCODE_API_KEY}`,
+				},
+				body: JSON.stringify({
+					model: "deepseek-v4-flash-free",
+					messages: [
+						{ role: "system", content: prompt },
+						{ role: "user", content: JSON.stringify(clusters) },
+					],
+					temperature: 0.2,
+					stream: true,
+				}),
+			});
+			if (!res.ok)
+				throw new Error(
+					`${file}/${code}: HTTP ${res.status} ${await res.text()}`,
+				);
 
-		const stream = res.body
-			.pipeThrough(new TextDecoderStream())
-			.pipeThrough(new EventSourceParserStream());
-		let content = "";
-		let thinking = 0;
-		for await (const event of stream) {
-			if (event.data === "[DONE]") break;
-			const delta = JSON.parse(event.data).choices?.[0]?.delta || {};
-			content += delta.content || "";
-			thinking += (delta.reasoning_content || "").length;
-			if (!process.env.GITHUB_ACTIONS) {
-				const phase = content.length
-					? `${content.length} chars`
-					: `generating ${thinking} chars`;
-				process.stdout.write(`\r  ${phase}`);
+			const stream = res.body
+				.pipeThrough(new TextDecoderStream())
+				.pipeThrough(new EventSourceParserStream());
+			let content = "";
+			let thinking = 0;
+			for await (const event of stream) {
+				if (event.data === "[DONE]") break;
+				const delta = JSON.parse(event.data).choices?.[0]?.delta || {};
+				content += delta.content || "";
+				thinking += (delta.reasoning_content || "").length;
+				if (!process.env.GITHUB_ACTIONS) {
+					const phase = content.length
+						? `${content.length} chars`
+						: `generating ${thinking} chars`;
+					process.stdout.write(`\r  ${phase}`);
+				}
 			}
-		}
-		if (!process.env.GITHUB_ACTIONS) process.stdout.write("\r\n");
-		try { translated = JSON.parse(jsonrepair(content)); } catch { /* empty → retry */ }
-		if (!Array.isArray(translated))
-			throw new Error(`Invalid response for ${file}/${code}`);
-		if (translated.length) break;
-		if (!attempt) console.warn(`  ↻ retry 1/1 (empty response)`);
+			if (!process.env.GITHUB_ACTIONS) process.stdout.write("\r\n");
+			try {
+				translated = JSON.parse(jsonrepair(content));
+			} catch {
+				/* empty → retry */
+			}
+			if (!Array.isArray(translated))
+				throw new Error(`Invalid response for ${file}/${code}`);
+			if (translated.length) break;
+			if (!attempt) console.warn(`  ↻ retry 1/1 (empty response)`);
 		}
 
 		const outFile = `${path.basename(file, "_clusters_es.json")}_clusters_${code}.json`;
