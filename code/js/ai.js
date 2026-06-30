@@ -65,11 +65,18 @@ for (const file of files) {
 			}
 		}
 		if (!process.env.GITHUB_ACTIONS) process.stdout.write("\r\n");
-		try { clusters = JSON.parse(jsonrepair(content)); } catch { /* empty → retry */ }
+		try {
+			clusters = JSON.parse(jsonrepair(content));
+		} catch {
+			/* empty → retry */
+		}
 		if (!Array.isArray(clusters))
 			throw new Error(`Invalid response for ${file}`);
-		const ok = clusters.length > 0 &&
-			clusters.every((c) => c && Array.isArray(c.source) && c.count === c.source.length);
+		const ok =
+			clusters.length > 0 &&
+			clusters.every(
+				(c) => c && Array.isArray(c.source) && c.count === c.source.length,
+			);
 		if (ok) break;
 		const why = clusters.length === 0 ? "empty" : "count mismatch";
 		if (!attempt) console.warn(`  ↻ retry 1/1 (${why})`);
