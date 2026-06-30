@@ -128,7 +128,9 @@
             load();
         }
         topic.onchange = lang.onchange = onChange;
+        let liveEn = false;
         const setLive = on => {
+            liveEn = false;
             liveFrame.src = on ? LIVE : '';
             live.hidden = !on;
             tg.MainButton.setText(on ? 'Back to NewsBucket' : '🔴 Live News');
@@ -137,9 +139,9 @@
             tg.HapticFeedback.impactOccurred('heavy');
         };
         const swapLang = () => {
-            const toEn = liveFrame.src.includes('slsBDv9oUjQ');
-            liveFrame.src = toEn ? LIVE_EN : LIVE;
-            tg.SecondaryButton.setText(toEn ? 'Switch to Japanese' : 'Switch to English');
+            liveEn = !liveEn;
+            liveFrame.src = liveEn ? LIVE_EN : LIVE;
+            tg.SecondaryButton.setText(liveEn ? 'Switch to Japanese' : 'Switch to English');
         };
         const syncLive = () => tg && (topic.value === 'japan' ? tg.MainButton.show() : tg.MainButton.hide());
         if (tg) {
