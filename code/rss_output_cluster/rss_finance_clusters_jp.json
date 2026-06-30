@@ -1,179 +1,186 @@
 [
   {
-    "title": "米最高裁、FRB理事リサ・クック氏の解任を却下",
-    "summary": "裁判所は、大統領は正当な理由なしにFRB理事を解任できないと判断。",
+    "title": "中東の緊張とイランとの交渉が市場と石油に影響",
+    "summary": "株式市場は米国とイランの協議に反応し、地政学的不確実性から原油が上昇。",
     "source": [
-      "handelsblatt.com",
+      "bolsamania.com",
       "expansion.com",
+      "handelsblatt.com",
+      "investing.com",
       "nikkei.com"
     ],
-    "count": 3
+    "count": 5
   },
   {
-    "title": "ビットコイン、ETF圧力で6万ドル割れ",
-    "summary": "暗号通貨は下落を続け、ヘッジファンドのStrategy社は自社株買いプログラムを発表。",
+    "title": "人工知能の台頭がテクノロジー株を押し上げ",
+    "summary": "Nvidia、Palantir、Corningなどの企業はAIへの関心の高まりから恩恵を受け、Appleはチップ不足のため価格を調整。",
+    "source": [
+      "bolsamania.com",
+      "ft.com",
+      "handelsblatt.com",
+      "nasdaq.com",
+      "/r/stocks"
+    ],
+    "count": 5
+  },
+  {
+    "title": "スペースXが株価指数に採用され、大型債券を発行",
+    "summary": "イーロン・マスク率いる宇宙企業がナスダック100などに組み入れられ、IPO後に株価が上昇。",
     "source": [
       "expansion.com",
       "ft.com",
+      "nasdaq.com",
+      "nikkei.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "市場のボラティリティに対するリスク警告と投資アドバイス",
+    "summary": "アナリストは2000年以来見られなかった警告サインを指摘し、ウォーレン・バフェットは株価下落時の戦略を推奨。",
+    "source": [
+      "expansion.com",
+      "ft.com",
+      "handelsblatt.com",
       "nasdaq.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "ビットコインが6万ドルを下回り、英規制当局が仮想通貨規制を緩和",
+    "summary": "最大の暗号資産が下落する中、ストラテジー社は自社株買いを発表、Ionic Digitalはナスダック上場を申請。",
+    "source": [
+      "expansion.com",
+      "ft.com",
+      "investing.com"
     ],
     "count": 3
   },
   {
-    "title": "米国とイランの停戦合意が市場を落ち着かせ、原油価格が急騰",
-    "summary": "投資家は敵対行為の停止を歓迎し、アナリストは原油の上昇を予想。",
+    "title": "コムキャスト、NBCユニバーサルとスカイを2つの独立企業に分離すると発表",
+    "summary": "メディア企業はコンテンツ資産とテクノロジー事業を分離するために分割し、株価が上昇。",
     "source": [
       "bolsamania.com",
       "handelsblatt.com",
-      "expansion.com"
+      "/r/stocks"
     ],
     "count": 3
   },
   {
-    "title": "ラガルドECB総裁、利上げ継続でも緊張生じずとの見解",
-    "summary": "ECB総裁は、金融政策がユーロ圏に金融ストレスを引き起こさないと確言。",
+    "title": "ロケットラボ、イリジウムを80億ドルで歴史的な買収",
+    "summary": "この合併により垂直統合型の宇宙大手が誕生し、両社の株価が上昇。",
     "source": [
       "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ウォール街、ハイテク株上昇でプラス終了",
-    "summary": "ダウは0.69％高、S&P500は1.11％高、ナスダックは1.91％高。",
-    "source": [
-      "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AST SpaceMobile、株式市場で力強く上昇",
-    "summary": "衛星通信企業が成長期待から地歩を固める。",
-    "source": [
-      "/r/stocks",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Rocket Lab、宇宙事業統合でIridiumを買収 - 歴史的な取引",
-    "summary": "この買収により、垂直統合型の宇宙大手企業が誕生。",
-    "source": [
-      "/r/stocks",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Ibex 35、ECBと中東情勢を睨み19,400ポイントを下回る",
-    "summary": "スペイン株は地政学的不透明感とラガルド総裁の発言に影響される。",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "欧州株、ハイテクセクターの重荷で下落して引け",
-    "summary": "DAX指数は横ばいだが、ハイテクセクターが市場を圧迫。",
-    "source": [
       "nasdaq.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "欧州株式市場はまちまち、ECBと中東情勢を注視",
+    "summary": "IBEXは19,400ポイントを割り込み、DAXは横ばいで終了、慎重な展開。",
+    "source": [
+      "bolsamania.com",
+      "expansion.com",
       "handelsblatt.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "「マグニフィセント・セブン」の時価総額が5兆ドル以上急減",
-    "summary": "AIに対する懐疑論がハイテク大手からの資金流出を引き起こす。",
+    "title": "ダウ平均株価が最高値を更新、アルファベットが指数に採用",
+    "summary": "ダウ工業株平均が初めて52,000ポイントを超え、アルファベット株はダウ採用初日に大幅上昇。",
     "source": [
-      "/r/stocks",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "コーニング、S&P500で13％急騰し250ドル突破",
-    "summary": "光ファイバーとAI需要が同社株を押し上げ。",
-    "source": [
-      "/r/stocks",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "サムスンとSKハイニックス、巨額投資計画で下落",
-    "summary": "投資家は設備投資過剰が価格を圧迫する懸念。",
-    "source": [
-      "/r/stocks",
+      "bolsamania.com",
       "nikkei.com"
     ],
     "count": 2
   },
   {
-    "title": "投資家、ハイテク大型株からディフェンシブファンドへ資金シフト",
-    "summary": "バンガードのETFは市場変化を反映、AI熱がやや鎮静化。",
+    "title": "ラガルドECB総裁、金融緊張を懸念せず利上げ可能と表明",
+    "summary": "欧州中央銀行総裁は保護措置なしで金融引き締め政策を擁護。",
     "source": [
-      "nasdaq.com",
+      "bolsamania.com",
       "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIAとPalantir、 Sovereign AI分野での協力を強化",
-    "summary": "両社は政府や企業向けAIソリューション提供で協力。",
+    "title": "米最高裁、FRB理事リサ・クックの解任を阻止",
+    "summary": "最高裁はトランプ大統領（当時）の解任要求を却下し、中央銀行の独立性を保護。",
     "source": [
-      "nasdaq.com",
-      "bolsamania.com"
+      "expansion.com",
+      "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "供給リスクでガス・ガソリン価格高止まり",
-    "summary": "シェブロンが燃料価格に警告、欧州は低在庫で冬を迎える。",
+    "title": "円が対ドルで39年半ぶりの安値に",
+    "summary": "円は1ドル162円まで下落、金融政策の乖離が圧迫。",
     "source": [
-      "finance.yahoo.com",
-      "ft.com"
+      "nikkei.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "市場、テスラの納車結果に注目",
-    "summary": "テスラの四半期報告書の公表は株価方向性の鍵。",
+    "title": "日経平均、ウォール街の上昇に支えられ続伸",
+    "summary": "日経平均は700ポイント超の上昇で始まり、米国市場の好調な流れを継続。",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "パラグアイがPK戦でドイツを下し、ブラジルは日本に逆転勝ち ワールドカップ",
+    "summary": "パラグアイ代表がトーナメントを勝ち進み、日本は善戦するも5度の世界王者に敗れる。",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "日本の失業率は安定、鉱工業生産は回復",
+    "summary": "求人はわずかに減少する一方、5月の鉱工業生産は0.5%上昇。",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "日本国債が下落、日銀の遅れた対応を懸念",
+    "summary": "長期債利回りが上昇、投資家は金融政策を懸念。",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "オーストラリア、アマゾンをPrime Videoでの迷惑広告で提訴",
+    "summary": "オーストラリアの消費者庁はアマゾン子会社が購読者に広告を送信したのは法律違反だと非難。",
     "source": [
       "investing.com"
     ],
     "count": 1
   },
   {
-    "title": "SoFi、S&P500指数組み入れ条件を満たす",
-    "summary": "フィンテック企業、収益性と時価総額の障壁をクリアし指数参加の可能性。",
+    "title": "ブリティッシュ・アメリカン・タバコ、リストラ計画で9000人削減",
+    "summary": "たばこメーカーは紙巻きタバコ消費の減少を受け、コスト削減を目指す。",
     "source": [
-      "nasdaq.com"
+      "investing.com"
     ],
     "count": 1
   },
   {
-    "title": "円、対ドルで約40年ぶり安値に下落",
-    "summary": "日本円は金利差に押され1ドル＝161.97円を記録。",
+    "title": "ウォーレン・バフェット、ゲイツ財団への寄付を停止 エプスタイン事件の調査で",
+    "summary": "同投資家は財団とジェフリー・エプスタインの関係が調査される間、毎年の寄付を行わない決定。",
     "source": [
-      "nikkei.com"
+      "investing.com"
     ],
     "count": 1
   },
   {
-    "title": "日本のIPO、15年ぶり低水準に急減",
-    "summary": "急速な回復の欠如が日本市場での新規上場を萎縮させる。",
+    "title": "Apple、インドが競合他社の申し立てを模倣したと独禁法調査で非難",
+    "summary": "同社はインド規制当局が根拠のない競合他社の訴えに依拠していると主張。",
     "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceX、野心的計画資金調達で大型債発行",
-    "summary": "宇宙企業はボラティリティの中、大規模な社債発行を実施。",
-    "source": [
-      "ft.com"
+      "investing.com"
     ],
     "count": 1
   }

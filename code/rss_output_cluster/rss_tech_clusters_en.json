@@ -1,30 +1,52 @@
 [
   {
-    "title": "Samsung, SK Hynix, and Micron sued for alleged DRAM price manipulation",
-    "summary": "A class-action lawsuit in the U.S. accuses the three manufacturers of coordinating production cuts of DDR3 and DDR4 to inflate prices, taking advantage of the AI boom.",
+    "title": "Samsung, SK Hynix and Micron sued for alleged DRAM memory price fixing",
+    "summary": "Chipmakers are accused of coordinating the reduction of DDR3 and DDR4 production to raise prices, in a class action lawsuit filed in the United States.",
     "source": [
       "/r/hardware",
       "tomshardware.com",
       "videocardz.com",
-      "news.ycombinator.com",
       "elchapuzasinformatico.com",
       "hardzone.es"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "South Korea and its chip manufacturers to invest over $520 billion in new memory factories",
-    "summary": "The plan includes four new plants and HBM centers to dominate the memory market in response to AI demand, with strong government support.",
+    "title": "WhatsApp introduces usernames to protect phone number privacy",
+    "summary": "The messaging platform allows reserving a unique username, avoiding sharing the personal number, and the feature is now available to some users.",
     "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "thehackernews.com",
+      "techcrunch.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "South Korea announces multi-million dollar investment in memory chip manufacturing and artificial intelligence",
+    "summary": "The Asian country and its main semiconductor manufacturers commit more than $500 billion to build new factories and HBM centers, facing growing demand for AI.",
+    "source": [
+      "news.ycombinator.com",
       "techcrunch.com",
       "tomshardware.com",
       "the-decoder.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Nvidia relaunches GeForce RTX 3060 in Europe at a price of 333 euros",
-    "summary": "Five years after its original launch, the graphics card returns to retail channels, confirming Jensen Huang's strategy of keeping it active.",
+    "title": "SteamOS comes to desktop PCs with the first preinstalled units and new Steam Machines",
+    "summary": "Valve promotes its gaming operating system for desktop computers, with models like the Steamroller and the arrival of more powerful and affordable custom Steam Machines.",
+    "source": [
+      "xataka.com",
+      "hardzone.es",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Nvidia GeForce RTX 3060 goes back on sale in Europe five years after its launch",
+    "summary": "The 12 GB graphics card reappears in the retail market at a price of around 333 euros, confirming its resurgence after being considered a good idea by Jensen Huang.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -33,8 +55,8 @@
     "count": 3
   },
   {
-    "title": "Valve forces Dbrand to withdraw Companion Cube for Steam Machine due to copyright infringement",
-    "summary": "The accessory manufacturer admits to not having a license and refunds all orders after Valve's threat of legal action.",
+    "title": "Dbrand withdraws its Companion Cube case for Steam Machine after Valve's legal threat",
+    "summary": "The accessory manufacturer canceled the product inspired by Portal 2 after Valve requested a license and admitted it had no right to manufacture it, offering refunds.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com",
@@ -43,38 +65,28 @@
     "count": 3
   },
   {
-    "title": "First gaming PCs with pre-installed SteamOS hit the market, starting at $1,299",
-    "summary": "The Steamroller by Steam Machines leads the arrival of desktops with Valve's operating system, offering competitive configurations.",
+    "title": "Anthropic signs deals with California and the EU to expand use of its Claude model",
+    "summary": "The AI company offers its assistant to the California administration at half price, while the EU seeks to attract it to Europe with investments, and restores the Mythos 5 version for critical infrastructure.",
     "source": [
-      "hardzone.es",
-      "tomshardware.com",
+      "techcrunch.com",
+      "the-decoder.com",
+      "alternativeto.net"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD launches new Adrenalin driver, reviews FSR 4.1 and warns about DXVK 3.0 on Windows",
+    "summary": "The company updates its graphics suite with version 26.6.4, FSR 4.1 reviews for RDNA 3 appear, and performance issues on Windows 10 are reported in addition to a warning about not using DXVK 3.0 on RDNA1 and RDNA2.",
+    "source": [
+      "videocardz.com",
+      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "WhatsApp allows choosing a username to keep phone number private",
-    "summary": "The new feature allows communication without revealing the personal number, improving the privacy of messaging app users.",
-    "source": [
-      "xataka.com",
-      "thehackernews.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "CachyOS June 2026 arrives with Hyprland Noctalia and performance improvements",
-    "summary": "The Linux distribution optimized for gaming includes new PGO profiles, DNS-over-QUIC support, and acceleration for Python and GCC.",
-    "source": [
-      "alternativeto.net",
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Tencent and CXMT sign DRAM memory agreement valued at $2.94 billion",
-    "summary": "The deal aims to secure memory chip supply for the Chinese tech company amid the trade war with the United States.",
+    "title": "Tencent signs a $2.94 billion agreement with Chinese CXMT for DRAM memory supply",
+    "summary": "In the midst of the semiconductor trade war, the Chinese tech giant secures memory chips with the domestic manufacturer, strengthening self-sufficiency.",
     "source": [
       "elchapuzasinformatico.com",
       "/r/hardware"
@@ -82,8 +94,26 @@
     "count": 2
   },
   {
-    "title": "Digi confirms its IPO to finance the growth of its network in Spain",
-    "summary": "The Romanian operator seeks funds in the stock market, with the backing of the Mayoral group, to continue deploying fiber and mobile.",
+    "title": "Rocket Lab buys satellite company Iridium and continues its space expansion",
+    "summary": "The launch company acquires the satellite constellation, strengthening its presence in the communications and orbital services sector.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "U.S. Supreme Court rules that geofence warrants require constitutional protection",
+    "summary": "The high court rules that police need a warrant with probable cause to access bulk location data, a win for privacy.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Digi confirms its stock market listing to raise funds and expand its fiber and mobile network",
+    "summary": "The Spanish telecommunications operator announces its initial public offering, aiming to raise capital to continue deploying infrastructure, supported by its relationship with Mayoral.",
     "source": [
       "xataka.com",
       "bandaancha.eu"
@@ -91,95 +121,75 @@
     "count": 2
   },
   {
-    "title": "US Supreme Court declares that geofence warrants violate privacy",
-    "summary": "The ruling establishes that police cannot massively track citizens' location without a judicial warrant based on probable cause.",
+    "title": "CachyOS adds support for Hyprland Noctalia and performance improvements in Python and GCC",
+    "summary": "The gaming-optimized Linux distribution incorporates new features such as Extended PGO, DNS-over-QUIC and a Noctalia profile for Hyprland.",
     "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
+      "alternativeto.net",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Rocket Lab acquires Iridium satellite constellation to expand its operations",
-    "summary": "The aerospace company continues its growth by acquiring Iridium, adding a global satellite communications network to its portfolio.",
+    "title": "Google expands AI image generation with Gemini for users in the US and rations access to Meta",
+    "summary": "Gemini offers customized image creation for free in the US, while the shortage of computing capacity forces Google to limit access to Meta and other customers.",
     "source": [
       "techcrunch.com",
-      "news.ycombinator.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "TIDAL blocks monetization of AI-generated music",
-    "summary": "The streaming platform prevents tracks created with AI from generating income for artists, in a policy against the unregulated use of the technology.",
+    "title": "DDR5 RAM prices drop rapidly and an EXPO ULL kit reaches $1,099",
+    "summary": "A tracking of the European market shows an accelerated drop in DDR5 prices, while the AMD EXPO ULL DDR5-6000 C26 kit is sold at an 80% premium.",
     "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
+      "tomshardware.com",
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Bill Gates and Deloitte warn that artificial intelligence will replace many traditional jobs",
-    "summary": "While Gates predicts that video game jobs will survive, Deloitte claims that AI will put an end to hourly billing in professional services.",
+    "title": "Nintendo Switch 2 price increases in South Korea and estimates for the PS6 price emerge",
+    "summary": "Nintendo's console experiences a 17% increase in September, while analysts predict that the future PlayStation 6 could cost more, in a context of general price increases in Spain.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The Vivo X Fold6 prepares to arrive in Spain while the release date of the iPhone 18 Pro is leaked",
+    "summary": "Vivo's most ambitious foldable targets Europe, and possible release dates for the upcoming iPhone 18 Pro, Pro Max and Ultra are known.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Trump threatens 100% tariffs on Europe and his administration puts obstacles to 92 GW of new electricity",
+    "summary": "The US president warns of trade sanctions if the EU regulates tech companies, while bureaucracy slows down the development of electrical infrastructure.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta disguised contractors as teenagers to incite rival chatbots about suicide and drugs, and the US Army bombed a school by AI error",
+    "summary": "Reports reveal questionable practices by Meta against competitors and a failure in a military targeting system that ignored a note about a school.",
+    "source": [
+      "wired.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The New York Times accuses Microsoft of helping OpenAI use its copyrighted content and Amazon distills Anthropic models to save costs",
+    "summary": "The newspaper sues Microsoft for facilitating copyright infringement in AI training, while Amazon finds ways to reduce costs using Anthropic's models.",
     "source": [
       "elchapuzasinformatico.com",
       "the-decoder.com"
     ],
     "count": 2
-  },
-  {
-    "title": "California and Anthropic reach agreement for government to use Claude at half price",
-    "summary": "The state will be able to use Claude AI models for public services in a pact that sets a precedent in government adoption of artificial intelligence.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "EU seeks autonomy in AI and Austria proposes to attract Anthropic to Europe",
-    "summary": "Brussels explores alternatives to reduce dependence on the US in AI, while Austria offers incentives for Anthropic to establish itself on the continent.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta blocks use of rival AI tools like Claude Code in its training",
-    "summary": "To prevent data leaks to competitors, Meta prohibits the use of AI systems from Anthropic and OpenAI in its development infrastructure.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "US military AI system selects targets and overlooks a school",
-    "summary": "A report reveals that the military AI marked thousands of targets but ignored a warning about a school, raising serious ethical concerns.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Claude Code found to be able to execute hidden malware in GitHub repositories without verification",
-    "summary": "The vulnerability allows Anthropic's tool to execute malicious code when analyzing unverified repositories, granting an attacker full control.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "The New York Times accuses Microsoft of helping OpenAI train its AI with protected content",
-    "summary": "The newspaper sues Microsoft for supplying copyrighted articles for training language models, including GPT-4.",
-    "source": [
-      "elchapuzasinformatico.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Google fixes 121 vulnerabilities in Android, one of them already exploited in targeted attacks",
-    "summary": "The Android security update fixes multiple critical flaws, including a zero-day bug that had been used in limited attacks.",
-    "source": [
-      "elchapuzasinformatico.com"
-    ],
-    "count": 1
   }
 ]
