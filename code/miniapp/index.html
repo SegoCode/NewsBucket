@@ -66,7 +66,7 @@
         <div id="status">Loading…</div>
     </main>
     <div id="live" hidden>
-        <iframe id="liveFrame" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe id="liveFrame" title="Live News" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
     <!-- ==================== JS ==================== -->
     <script>
@@ -89,7 +89,12 @@
                 return { ...item, cls: item.cls || (count > 4 ? 'high' : count >= 3 ? 'medium' : 'low') };
             });
             items.sort((a, b) => tier(a.cls) - tier(b.cls));
-            feed.innerHTML = items.map(item => `<article class="${item.cls}"${item.url ? ` onclick="window.open('${item.url}', '_blank')"` : ''}><h2>${item.title}</h2><div class="sources">${item.source.join(' · ')}</div></article>`).join('');
+            feed.innerHTML = items.map(item => `
+                <article class="${item.cls}"${item.url ? ` onclick="window.open('${item.url}', '_blank')"` : ''}>
+                    <h2>${item.title}</h2>
+                    <div class="sources">${item.source.join(' · ')}</div>
+                </article>
+            `).join('');
         }
         async function load() {
             feed.innerHTML = '<div id="status">Loading…</div>';
@@ -102,7 +107,11 @@
                 try {
                     const res = await fetch(QUAKE);
                     if (res.ok) {
-                        const quakes = (await res.json()).filter(q => q.mag && q.cod && Date.now() - Date.parse(q.at) < 864e5 && parseFloat(q.mag) >= 5);
+                        const quakes = (await res.json()).filter(q =>
+                            q.mag && q.cod &&
+                            Date.now() - Date.parse(q.at) < 864e5 &&
+                            parseFloat(q.mag) >= 5
+                        );
                         if (quakes.length) {
                             const quakeItems = quakes.sort((a, b) => Date.parse(b.at) - Date.parse(a.at)).map(q => {
                                 const [lat, lon] = q.cod.match(/[+-]\d+\.?\d*/g);
@@ -135,7 +144,7 @@
             live.hidden = !on;
             tg.MainButton.setText(on ? 'Back to NewsBucket' : '🔴 Live News');
             tg.SecondaryButton?.setText('Switch to English');
-            [tg.SecondaryButton, tg.BackButton].forEach(b => b && (on ? b.show() : b.hide()));
+            [tg.SecondaryButton, tg.BackButton].forEach(b => { b && (on ? b.show() : b.hide()); });
             tg.HapticFeedback.impactOccurred('heavy');
         };
         const swapLang = () => {
