@@ -69,7 +69,7 @@ for (const file of files) {
 		if (!Array.isArray(clusters))
 			throw new Error(`Invalid response for ${file}`);
 		const ok = clusters.length > 0 &&
-			clusters.every((c) => c.count === c.source.length);
+			clusters.every((c) => c && Array.isArray(c.source) && c.count === c.source.length);
 		if (ok) break;
 		const why = clusters.length === 0 ? "empty" : "count mismatch";
 		if (!attempt) console.warn(`  ↻ retry 1/1 (${why})`);
