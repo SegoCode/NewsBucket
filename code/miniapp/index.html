@@ -69,7 +69,7 @@
     <script>
         const BASE = 'https://raw.githubusercontent.com/SegoCode/NewsBucket/main/code/rss_output_cluster';
         const QUAKE = 'https://www.jma.go.jp/bosai/quake/data/list.json';
-        const LIVE = 'https://www.youtube.com/embed/f0lYkdA-Gtw?autoplay=1';
+        const LIVE = 'https://www.youtube.com/embed/slsBDv9oUjQ?autoplay=1&controls=0&modestbranding=1&rel=0&playsinline=1&disablekb=1';
         const tg = window.Telegram?.WebApp;
         try {
             const saved = JSON.parse(localStorage.getItem('nb') || '{}');
@@ -123,16 +123,17 @@
             load();
         }
         topic.onchange = lang.onchange = onChange;
-        const openLive = () => { liveFrame.src = LIVE; live.hidden = false; tg.BackButton.show(); };
-        const closeLive = () => { liveFrame.src = ''; live.hidden = true; tg.BackButton.hide(); };
+        const openLive = () => { liveFrame.src = LIVE; live.hidden = false; tg.MainButton.setText('Back to NewsBucket'); tg.BackButton.show(); };
+        const closeLive = () => { liveFrame.src = ''; live.hidden = true; tg.MainButton.setText('🔴 Live News'); tg.BackButton.hide(); };
+        const toggleLive = () => live.hidden ? openLive() : closeLive();
         const syncLive = () => tg && (topic.value === 'japan' ? tg.MainButton.show() : tg.MainButton.hide());
         if (tg) {
             tg.ready();
             tg.expand();
             tg.disableVerticalSwipes();
             try { tg.setHeaderColor('secondary_bg_color'); } catch {}
-            tg.MainButton.setParams({ text: 'Live News' });
-            tg.MainButton.onClick(openLive);
+            tg.MainButton.setText('🔴 Live News');
+            tg.MainButton.onClick(toggleLive);
             tg.BackButton.onClick(closeLive);
             syncLive();
         }
