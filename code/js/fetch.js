@@ -15,13 +15,13 @@ const parser = new RssParser({
 const delay = (ms) => new Promise((r) => setTimeout(r, ms));
 
 const sourceName = (url) => {
-  const u = new URL(url);
-  const host = u.hostname.replace(/^www\./, "");
-  const m = u.pathname.match(/^\/r\/([^/]+)/);
-  if (m && (host === "old.reddit.com" || host === "reddit.com")) {
-    return `/r/${decodeURIComponent(m[1])}`;
-  }
-  return host;
+	const u = new URL(url);
+	const host = u.hostname.replace(/^www\./, "");
+	const m = u.pathname.match(/^\/r\/([^/]+)/);
+	if (m && (host === "old.reddit.com" || host === "reddit.com")) {
+		return `/r/${decodeURIComponent(m[1])}`;
+	}
+	return host;
 };
 
 let lastReddit = 0;
