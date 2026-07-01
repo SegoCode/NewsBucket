@@ -1,153 +1,84 @@
 [
   {
-    "title": "トランプ氏、AnthropicのMythosおよびFableモデルへの規制を解除",
-    "summary": "トランプ政権はAnthropicのAIモデルに対する輸出規制を撤廃し、世界的な配布を可能にした。",
+    "title": "Anthropicが新たな推論能力を向上させたAIモデル「Claude Sonnet 5」を発表",
+    "summary": "このモデルはOpusシリーズとの差を縮め、AIエージェントを実行するためのより経済的な選択肢として位置づけられている。",
     "source": [
+      "xataka.com",
+      "alternativeto.net",
+      "the-decoder.com",
       "techcrunch.com",
+      "producthunt.com",
+      "news.ycombinator.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "米国、Anthropicの「Mythos」および「Fable」モデルへの輸出規制を解除",
+    "summary": "脱獄（ジェイルブレイク）に関連した2週間の禁止措置を経て、AIモデルが再びグローバルで利用可能に。",
+    "source": [
+      "the-decoder.com",
+      "thehackernews.com",
       "news.ycombinator.com",
+      "techcrunch.com",
       "wired.com"
     ],
-    "count": 3
+    "count": 5
   },
   {
-    "title": "Anthropic、AIエージェント向けの低価格モデルClaude Sonnet 5を発表",
-    "summary": "Anthropicの新モデルはOpusとの差を縮め、AIエージェントを実行するためのより経済的な代替手段を提供する。",
+    "title": "Google、新たな生成AIモデル「Nano Banana 2 Lite」と「Gemini Omni Flash」を発表",
+    "summary": "同社はより高速で低コストな画像生成ツールと、APIで利用可能な新しい動画モデルをリリース。",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com",
+      "the-decoder.com",
+      "producthunt.com",
+      "news.ycombinator.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Anthropic、研究者向けAIワークスペース「Claude Science」を発表",
+    "summary": "新プラットフォームは新モデルの発表ではなくワークフローの最適化により科学コミュニティの支持を得ることを目指す。",
     "source": [
       "the-decoder.com",
       "techcrunch.com",
+      "producthunt.com",
       "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Anthropic、研究者向けワークスペースClaude Scienceを発表",
-    "summary": "Anthropicのプラットフォームは科学者向けに特別に設計され、AIのワークフローとツールを備えている。",
+    "title": "Sharp製LCDパネルを搭載したNintendo Switch 2の新リビジョンが流出",
+    "summary": "液晶ディスプレイ搭載のバリエーションの噂があり、購入者間でディスプレイの当たり外れが生じる可能性がある。",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com",
-      "techcrunch.com"
+      "hardzone.es",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "Google、より高速で低価格な画像生成モデルNano Banana 2 Liteを発表",
-    "summary": "Googleの新しい画像生成モデルはより効率的で、動画向けにGemini Omni Flashと統合されている。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft、大規模レイオフを計画、Xbox従業員は組合結成",
-    "summary": "同社は別の人員削減を準備する一方、数千人のXbox従業員が抗議のためにCWA組合に加入している。",
+    "title": "Microsoft、Xboxを含む何千人もの従業員に影響する大規模な新たな解雇ラウンドを計画",
+    "summary": "Xbox部門の解雇は『007 First Light』の開発元などスタジオに影響を与えており、一方3500人の従業員がCWA（通信労組）に加入し組合を結成。",
     "source": [
       "/r/technology",
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Nintendo Switch 2、リーク情報によると新しいLCD画面バリエーションを搭載か",
-    "summary": "コンソールはシャープのLCDパネルを搭載する可能性があると噂され、購入者の間で不確実性を生んでいる。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ZLUDA、AMD GPUでPhysXを実行可能に、パフォーマンスが最大300%向上",
-    "summary": "ZLUDAプロジェクトはAMDグラフィックカードでPhysXを実行できるようにしたが、資金を失い、再び週末プロジェクトとなった。",
-    "source": [
-      "videocardz.com",
       "hardzone.es",
       "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "AMD、将来のZen 6 CPUに低消費電力コアを搭載することを確認",
-    "summary": "新しいプロセッサは、エネルギー効率を向上させるためにIntelのLPEと同様の低消費電力コアを搭載する。",
+    "title": "PcComponentes、最大60%オフの「PcDays」キャンペーンを開始",
+    "summary": "キャンペーン対象はパソコン、テレビ、スマートフォン、MacBooksなど割引価格で提供。",
     "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "脳コンピューターインターフェースの進歩により非侵襲的なコミュニケーションが可能に",
-    "summary": "MetaはBCIバージョン2を発表、研究者は手術なしで脳波から単語を解読することに成功。",
-    "source": [
-      "news.ycombinator.com",
-      "tomshardware.com",
-      "producthunt.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AIコーディングエージェントにセキュリティ上の脆弱性が発見される",
-    "summary": "研究者は、Claude Codeなどのアシスタントが騙されてマルウェアをインストールしたり、不注意にデータを漏洩したりする可能性があることを実証した。",
-    "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Sony、より高価なPS6を準備、PS5のLinuxサポートを拡大",
-    "summary": "同社はPCゲーマーをターゲットにしており、メモリコストを理由に次世代コンソールの価格が高くなると示唆している。",
-    "source": [
-      "videocardz.com",
-      "hardzone.es",
+      "xataka.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "新しいレポートによると、NVIDIA RTX 5050 9GBはキャンセルされた",
-    "summary": "RTX 5050のキャンセルは、12GBのRTX 3060が市場に復帰する中で行われた。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
     "count": 2
   },
   {
-    "title": "AMD EXPO ULLメモリは標準キットよりも最大79%高い",
-    "summary": "新しい高レイテンシメモリキットは、通常のEXPOと比較して大幅なプレミアム価格を提供する。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SteamOS 3.8.20 Beta、VRAM管理を改善しMesaドライバを更新",
-    "summary": "SteamOSのベータアップデートは、コンソールとゲーミングノートPCのボトルネックを減らすことに焦点を当てている。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "台湾、NVIDIAチップ密輸捜査でSupermicroの事務所を家宅捜索",
-    "summary": "台湾当局は、中国への不正なチップ出荷の可能性について、同社とそのパートナーを調査している。",
-    "source": [
-      "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "荷物泥棒、AIデータセンター向け供給品を130万ドル分盗難",
-    "summary": "シカゴでは100万ドル相当の機器が回収されたが、業界は盗難と闘っている。",
+    "title": "強盗が130万ドル相当のAIデータセンター向け備品を盗難",
+    "summary": "盗難品には30万ドル相当の銅ケーブルと、シカゴ近郊で回収された100万ドル相当の機器が含まれる。",
     "source": [
       "/r/technology",
       "tomshardware.com"
@@ -155,8 +86,8 @@
     "count": 2
   },
   {
-    "title": "AMD、7月のRadeon GPU値上げをパートナーに警告",
-    "summary": "内部報告によると、グラフィックカードとメモリパッケージの価格が10%上昇する見込み。",
+    "title": "AMD、パートナーに7月からのRadeon GPU価格値上げを通知",
+    "summary": "GPUとメモリーバンドルの価格が10%上昇する見込み。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -164,30 +95,98 @@
     "count": 2
   },
   {
-    "title": "OpenAI、GPT-5.6を発表、ゲストユーザーの応答コストを削減",
-    "summary": "同社はモデルの新バージョンをリリースし、ChatGPTの無料ユーザーの利用料金を引き下げた。",
+    "title": "NVIDIA GeForce RTX 5050 9GBはキャンセルまたは無期限延期の可能性",
+    "summary": "AIB各社はエントリーレベルGPUの発売に関する新たな情報を得ていない。",
     "source": [
-      "alternativeto.net",
-      "the-decoder.com"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta、ソーシャルメディアでの未成年者に関する慣行で訴訟と批判に直面",
-    "summary": "Metaが未成年者を対象にチャットボットをテストしていたこと、また子供たちのFacebookとInstagramへの依存症に関する集団訴訟で敗訴したことが明らかになった。",
+    "title": "ZLUDA、AMD GPUでPhysXを最大300%高速に実行可能に",
+    "summary": "互換レイヤーにより、Radeon RX 9070 XT GPU使用時に『Mafia 2』のFPSが3倍に。",
     "source": [
-      "the-decoder.com",
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD EXPO ULL RAMは標準キット比最大79%のプレミアム価格で登場",
+    "summary": "AMD認定の低遅延メモリーモジュールは大幅に高価。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "WinRAR、バージョン7.23をリリース – セキュリティ修正と7zライブラリ更新",
+    "summary": "同社は今回のアップデートはユーザーがようやくソフトウェア代金を支払っているためだと説明。",
+    "source": [
+      "alternativeto.net",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "中国企業、米国の輸出規制にもかかわらずAIで進歩",
-    "summary": "DeepSeekとZ.aiは、中国がNVIDIAチップなしでAIをトレーニングできることを示す競争力のあるモデルを発表した。",
+    "title": "OpenClaw、iOSとAndroidでネイティブアプリとして利用可能に",
+    "summary": "オープンソースプロジェクトがモバイルアプリを公開、あらゆるデバイスからサービスにアクセス可能に。",
     "source": [
-      "the-decoder.com",
-      "tomshardware.com"
+      "alternativeto.net",
+      "techcrunch.com"
     ],
     "count": 2
+  },
+  {
+    "title": "Samsung Galaxy Z Fold 8のデザインと発売日が流出",
+    "summary": "Samsung、正式発表前に折りたたみフラッグシップのデザイン変更を公開。",
+    "source": [
+      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "台湾当局、Supermicroの事務所を捜索 – Nvidiaチップの中国向け密輸疑惑",
+    "summary": "9か所での家宅捜索は捜査の一環であり、すでに6人が事情聴取のために呼び出されている。",
+    "source": [
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "大規模訴訟、Samsung・SK Hynix・MicronをRAM価格のつり上げで共謀したとして告発",
+    "summary": "DRAM市場の90%を支配する3社は反競争的行為で告発されている。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Meta、FacebookとInstagramでの未成年の依存症をめぐる訴訟却下の申し立てに敗れる",
+    "summary": "判事は、同社が子供を引き込むようにプラットフォームを設計したと訴える訴訟の継続を認めた。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Reddit、Old Redditへのアクセスにログイン必須化、サイト存続も保証せず",
+    "summary": "同社はアクセス要件を強化し、クラシック版プラットフォームの将来に警告を発している。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "インターネット上の子ども安全法案、米下院を通過",
+    "summary": "法案は議会を通過しつつあるが、デジタル権利団体はその影響について警告している。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
   }
 ]
