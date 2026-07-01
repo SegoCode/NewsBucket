@@ -107,11 +107,14 @@
                 try {
                     const res = await fetch(QUAKE);
                     if (res.ok) {
-                        const quakes = (await res.json()).filter(q =>
+                        const raw = (await res.json()).filter(q =>
                             q.mag && q.cod &&
                             Date.now() - Date.parse(q.at) < 864e5 &&
                             parseFloat(q.mag) >= 5
                         );
+                        const quakes = [...new Map(
+                            raw.sort((a, b) => a.ctt.localeCompare(b.ctt)).map(q => [q.eid, q])
+                        ).values()];
                         if (quakes.length) {
                             const quakeItems = quakes.sort((a, b) => Date.parse(b.at) - Date.parse(a.at)).map(q => {
                                 const [lat, lon] = q.cod.match(/[+-]\d+\.?\d*/g);
