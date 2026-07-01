@@ -1,12 +1,12 @@
 [
   {
-    "title": "Sony will stop manufacturing physical discs for PlayStation in 2028",
-    "summary": "The Japanese company ends the physical format in its consoles, eliminating the production of disc games as of January 2028.",
+    "title": "Sony will stop manufacturing physical discs for PlayStation in January 2028",
+    "summary": "The Japanese company confirms the end of physical game production for its consoles, marking the beginning of the total digital era on PlayStation.",
     "source": [
       "techcrunch.com",
       "tomshardware.com",
-      "/r/hardware",
       "xataka.com",
+      "/r/technology",
       "hardzone.es",
       "elchapuzasinformatico.com",
       "news.ycombinator.com",
@@ -15,61 +15,85 @@
     "count": 8
   },
   {
-    "title": "US lifts export restrictions on Claude Fable 5 and Mythos 5 models",
-    "summary": "After two weeks of prohibition, the US government again allows global use of these advanced artificial intelligence models.",
+    "title": "US lifts restrictions on Anthropic's AI models Fable 5 and Mythos 5",
+    "summary": "Trump administration removes export controls on these models after a jailbreak, allowing their global use.",
     "source": [
+      "wired.com",
       "tomshardware.com",
       "elchapuzasinformatico.com",
       "the-decoder.com",
       "thehackernews.com",
       "techcrunch.com",
       "kite.kagi.com",
-      "news.ycombinator.com",
-      "wired.com"
+      "news.ycombinator.com"
     ],
     "count": 8
   },
   {
-    "title": "Anthropic launches Claude Sonnet 5, its most affordable AI model for agents",
-    "summary": "The new model offers improved reasoning and coding at a lower cost, competing directly with other market alternatives.",
+    "title": "Anthropic introduces Claude Sonnet 5, a cheaper AI model for running agents",
+    "summary": "The company launches a more affordable version of its flagship model, closing the gap with the Opus series and hiding price increases in token rates.",
     "source": [
       "the-decoder.com",
-      "xataka.com",
-      "alternativeto.net",
       "kite.kagi.com",
+      "producthunt.com",
       "techcrunch.com",
-      "news.ycombinator.com",
-      "producthunt.com"
+      "news.ycombinator.com"
     ],
-    "count": 7
+    "count": 5
   },
   {
-    "title": "Google presents Nano Banana 2 Lite, a fast and cheap image generator, along with Gemini Omni Flash for video",
-    "summary": "Google's new generative AI models are available via API and offer reduced prices for developers and users.",
+    "title": "Google introduces Nano Banana 2 Lite, a fast and cheap image generator, along with the Gemini Omni Flash video model",
+    "summary": "Google's new AI models allow creating images and videos more efficiently and economically via API.",
     "source": [
-      "alternativeto.net",
+      "the-decoder.com",
       "techcrunch.com",
       "kite.kagi.com",
-      "the-decoder.com",
-      "news.ycombinator.com",
+      "alternativeto.net",
       "producthunt.com"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "Anthropic launches Claude Science, an AI workspace for researchers",
-    "summary": "The platform is designed to facilitate scientific work with integrated language models in a dedicated environment.",
+    "title": "Anthropic presents Claude Science, an AI workspace designed for scientists",
+    "summary": "The tool aims to improve productivity in scientific research by integrating specialized workflows.",
     "source": [
       "producthunt.com",
       "the-decoder.com",
-      "news.ycombinator.com",
       "techcrunch.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "South Korea will invest more than 500 billion dollars in chips and memory for AI alongside Samsung and SK Hynix",
-    "summary": "The plan seeks to dominate the semiconductor and robotics market through massive investment in infrastructure and development.",
+    "title": "The game Cinder City sets a record by requiring 64 GB of RAM in its recommended requirements",
+    "summary": "The independent title drastically raises the hardware bar needed to play, surpassing any previous standard.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenClaw launches native apps for iOS and Android",
+    "summary": "The open-source platform now allows native access from mobile devices.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "WinRAR releases version 7.23 with security fixes and improvements",
+    "summary": "The popular file compressor updates its software and thanks users who finally pay for the new version.",
+    "source": [
+      "alternativeto.net",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "South Korea plans an investment of over $500 billion alongside Samsung and SK Hynix to lead AI memory chips",
+    "summary": "The South Korean government and the country's largest semiconductor companies join forces to secure their dominance in the AI memory market.",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com"
@@ -77,8 +101,8 @@
     "count": 2
   },
   {
-    "title": "PS5 Linux now works on PlayStation 5 Slim with firmware 7.61",
-    "summary": "Linux compatibility expands to more console models, including the Slim version.",
+    "title": "PS5 Linux now works on the PlayStation 5 Slim with firmware 7.61",
+    "summary": "The PS5 Linux project extends compatibility to the PlayStation 5 Slim, increasing the number of supported consoles.",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -86,26 +110,8 @@
     "count": 2
   },
   {
-    "title": "Xbox restructuring leads to layoffs and the creation of a union of 3,500 employees",
-    "summary": "Affected studios suffer cuts, while workers organize against mass layoffs in Microsoft's gaming division.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA RTX 5050 9GB could be canceled or delayed indefinitely",
-    "summary": "Graphics card manufacturers have no information about the launch of this entry-level model.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The Steam Machine improves its performance by 2.5% with dual-channel RAM",
-    "summary": "Tests show that dual-channel memory usage offers a slight gain in graphics tests, although Valve does not officially recommend it.",
+    "title": "Steam Machines improve performance when using RAM in dual-channel mode",
+    "summary": "Tests show that using dual-channel memory increases gaming performance, while single-channel hampers the system.",
     "source": [
       "videocardz.com",
       "elchapuzasinformatico.com"
@@ -113,8 +119,17 @@
     "count": 2
   },
   {
-    "title": "NVIDIA optimizes its Blackwell GPUs for DeepSeek, reducing token cost by up to 80%",
-    "summary": "The collaboration between NVIDIA and DeepSeek allows Chinese AI to run more efficiently on NVIDIA hardware.",
+    "title": "The NVIDIA GeForce RTX 5090D HOF OC LAB becomes the first Blackwell GPU to reach 4 GHz",
+    "summary": "Extreme overclocking allows the high-end graphics card to surpass the 4 GHz barrier, setting a new record.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA optimizes its Blackwell GPUs for DeepSeek and reduces token cost by up to 80%",
+    "summary": "The optimization allows running DeepSeek models more efficiently, drastically reducing computational costs.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es"
@@ -122,44 +137,35 @@
     "count": 2
   },
   {
-    "title": "Claude Code quietly marks requests from Chinese users and hides code in its responses",
-    "summary": "It is discovered that Anthropic's code assistant includes steganographic marks that allow identifying the origin of the requests.",
+    "title": "PlayStation 6 will have a material cost close to $1,000 and Sony promises more formats and technology",
+    "summary": "Early reports point to a very expensive console due to RAM shortages, while Sony prepares a strategy to win back PC gamers.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GTA VI and the absence of a physical disc threaten traditional video game stores",
+    "summary": "The lack of a physical edition for GTA VI leads to poor pre-order numbers and puts retailers like GameStop at risk.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta builds a cloud business to sell its surplus AI compute capacity to external customers",
+    "summary": "Mark Zuckerberg's company emulates SpaceX by monetizing its surplus AI infrastructure, offering cloud services to third parties.",
     "source": [
       "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta plans to sell excess AI compute capacity in the style of SpaceX",
-    "summary": "The company seeks to monetize its artificial intelligence infrastructure by offering server power to third parties.",
-    "source": [
-      "techcrunch.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenClaw launches native apps for iOS and Android",
-    "summary": "The remote access service will be officially available on mobile devices.",
-    "source": [
-      "alternativeto.net",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Samsung shows the redesign of the Galaxy Z Fold8 with a wider screen",
-    "summary": "Official leaks and teasers point to a significant change in the design of the foldable.",
-    "source": [
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GTA VI will not have a physical version, targets 30 FPS and would sell more on PS5 according to reports",
-    "summary": "The lack of a disc, limited performance, and expected sales figures mark the latest news about the anticipated game.",
+    "title": "Xbox suffers studio layoffs and thousands of employees unionize to protest",
+    "summary": "The creators of 007 First Light announce staff cuts, while more than 3,500 Xbox workers organize against mass layoffs.",
     "source": [
       "hardzone.es",
       "elchapuzasinformatico.com"
@@ -167,38 +173,29 @@
     "count": 2
   },
   {
-    "title": "Collector shows 40 years of ATI-AMD GPUs while another disassembles more than 40 old graphics cards",
-    "summary": "Two independent initiatives celebrate the history of graphics hardware with extensive collections and disassemblies.",
+    "title": "Sony removes 551 purchased movies and will close PS3 and PS Vita store in 2026",
+    "summary": "The company continues its digital shift by removing purchased content and closing purchase platforms on old consoles.",
     "source": [
-      "elchapuzasinformatico.com",
-      "/r/hardware"
+      "videocardz.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD will raise prices of its GPU and memory bundles by 10% in July due to GDDR6 shortage",
-    "summary": "EXPO ULL memory kits become up to 79% more expensive than regular EXPO kits, reflecting the tension in the memory market.",
+    "title": "Microsoft plans new job cuts and discontinues budget models Surface Go and Laptop Go",
+    "summary": "The tech company adjusts its workforce and Surface product lineup, eliminating the most affordable options.",
     "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft tests a smaller taskbar in Windows 11 and reduces its Surface Go and Surface Laptop Go line",
-    "summary": "The company adjusts its operating system and device catalog to focus on more powerful options.",
-    "source": [
-      "elchapuzasinformatico.com",
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel launches driver support for Arc G3 Extreme while acknowledging Path Tracing issues on its Arc B570 and B580 GPUs",
-    "summary": "The Intel Arc graphics family receives driver updates but presents crashes when enabling Path Tracing without low VRAM.",
+    "title": "Bill Gates says AI will enable early retirement, while companies regret AI-driven layoffs",
+    "summary": "The debate over AI's impact on employment intensifies with optimistic predictions and cases of corporate regret.",
     "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "xataka.com",
+      "/r/technology"
     ],
     "count": 2
   }

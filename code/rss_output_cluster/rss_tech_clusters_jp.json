@@ -1,12 +1,12 @@
 [
   {
-    "title": "ソニー、2028年にPlayStation向け物理ディスクの製造を終了",
-    "summary": "日本の同社は、2028年1月からディスクゲームの生産を廃止し、コンソールでの物理メディア形式に終止符を打つ。",
+    "title": "ソニー、2028年1月にPlayStation向け物理ディスクの製造を終了",
+    "summary": "日本のソニーは、自社コンソール向け物理フォーマットのゲーム生産終了を確認し、PlayStationにおける完全デジタル時代の幕開けを告げる。",
     "source": [
       "techcrunch.com",
       "tomshardware.com",
-      "/r/hardware",
       "xataka.com",
+      "/r/technology",
       "hardzone.es",
       "elchapuzasinformatico.com",
       "news.ycombinator.com",
@@ -15,61 +15,85 @@
     "count": 8
   },
   {
-    "title": "米国、Claude Fable 5およびMythos 5モデルの輸出規制を解除",
-    "summary": "2週間の禁止期間を経て、米国政府はこれらの高度なAIモデルのグローバルな使用を再び許可した。",
+    "title": "米国、AnthropicのAIモデルFable 5とMythos 5の制限を解除",
+    "summary": "トランプ政権が、脱獄後にこれらのモデルにかかっていた輸出規制を解除し、世界的な使用を許可。",
     "source": [
+      "wired.com",
       "tomshardware.com",
       "elchapuzasinformatico.com",
       "the-decoder.com",
       "thehackernews.com",
       "techcrunch.com",
       "kite.kagi.com",
-      "news.ycombinator.com",
-      "wired.com"
+      "news.ycombinator.com"
     ],
     "count": 8
   },
   {
-    "title": "Anthropic、エージェント向けの最も手頃なAIモデルClaude Sonnet 5を発表",
-    "summary": "新モデルは、低コストで改善された推論とコーディングを提供し、市場の他の代替品と直接競合する。",
+    "title": "Anthropic、エージェント実行向けのより安価なAIモデルClaude Sonnet 5を発表",
+    "summary": "同社は主力モデルのより手頃なバージョンを発表し、Opusシリーズとの差を縮め、トークンレートの値上げを隠蔽。",
     "source": [
       "the-decoder.com",
-      "xataka.com",
-      "alternativeto.net",
       "kite.kagi.com",
+      "producthunt.com",
       "techcrunch.com",
-      "news.ycombinator.com",
-      "producthunt.com"
+      "news.ycombinator.com"
     ],
-    "count": 7
+    "count": 5
   },
   {
-    "title": "Google、高速で安価な画像生成ツールNano Banana 2 Liteを発表、および動画向けGemini Omni Flashも",
-    "summary": "Googleの新しい生成AIモデルはAPI経由で利用可能で、開発者やユーザー向けに割引価格を提供する。",
+    "title": "Google、高速で安価な画像生成モデルNano Banana 2 Liteと動画モデルGemini Omni Flashを発表",
+    "summary": "Googleの新しいAIモデルにより、API経由で画像や動画をより効率的かつ安価に作成できる。",
     "source": [
-      "alternativeto.net",
+      "the-decoder.com",
       "techcrunch.com",
       "kite.kagi.com",
-      "the-decoder.com",
-      "news.ycombinator.com",
+      "alternativeto.net",
       "producthunt.com"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "Anthropic、研究者向けAIワークスペースClaude Scienceを開始",
-    "summary": "このプラットフォームは、専用環境に統合された言語モデルを使用して科学研究を容易にするように設計されている。",
+    "title": "Anthropic、科学者向けAIワークスペースClaude Scienceを発表",
+    "summary": "このツールは、専門的なワークフローを統合することで科学研究の生産性向上を目指す。",
     "source": [
       "producthunt.com",
       "the-decoder.com",
-      "news.ycombinator.com",
       "techcrunch.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "韓国、サムスンやSKハイニックスと共にAI向けチップとメモリに5000億ドル以上を投資へ",
-    "summary": "この計画は、インフラと開発への大規模な投資を通じて半導体とロボット市場を支配することを目指している。",
+    "title": "ゲーム『Cinder City』、推奨要件で64GBのRAMを要求し記録を樹立",
+    "summary": "このインディーゲームは、プレイに必要なハードウェアの基準を劇的に引き上げ、過去のあらゆる標準を上回る。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenClaw、iOSおよびAndroid向けネイティブアプリを公開",
+    "summary": "オープンソースプラットフォームが、モバイルデバイスからのネイティブアクセスを可能にする。",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "WinRAR、セキュリティ修正と改善を含むバージョン7.23をリリース",
+    "summary": "人気のファイル圧縮ソフトがソフトウェアを更新し、新バージョンにようやく支払ったユーザーに感謝を表明。",
+    "source": [
+      "alternativeto.net",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "韓国、SamsungおよびSK Hynixとともに5000億ドル以上の投資を計画、AIメモリチップでリードへ",
+    "summary": "韓国政府と同国最大の半導体企業が連携し、AIメモリ市場での優位性を確保。",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com"
@@ -77,8 +101,8 @@
     "count": 2
   },
   {
-    "title": "PS5 Linux、ファームウェア7.61を搭載したPlayStation 5 Slimで動作可能に",
-    "summary": "Linux互換性が拡張され、Slimバージョンを含むコンソールのより多くのモデルがサポートされるように。",
+    "title": "PS5 Linux、ファームウェア7.61のPlayStation 5 Slimで動作可能に",
+    "summary": "PS5 LinuxプロジェクトがPlayStation 5 Slimへの互換性を拡張し、対応コンソール数を増加。",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -86,26 +110,8 @@
     "count": 2
   },
   {
-    "title": "Xboxの再編により解雇と3500人の従業員による労働組合の結成が発生",
-    "summary": "影響を受けたスタジオは人員削減に苦しむ一方、労働者はマイクロソフトのゲーム部門での大規模解雇に対抗して組織化している。",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA RTX 5050 9GB、キャンセルまたは無期限延期の可能性",
-    "summary": "グラフィックカードメーカーはこのエントリーモデルのリリースに関する情報を持っていない。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steam Machine、デュアルチャネルRAMで性能が2.5%向上",
-    "summary": "テストでは、デュアルチャネルメモリの使用がグラフィックテストでわずかな向上を示しているが、Valveは公式には推奨していない。",
+    "title": "Steam Machines、デュアルチャンネルRAMモードでパフォーマンス向上",
+    "summary": "テストでは、デュアルチャンネルメモリの使用がゲーム性能を向上させる一方、シングルチャンネルがシステムを妨げることが示されている。",
     "source": [
       "videocardz.com",
       "elchapuzasinformatico.com"
@@ -113,8 +119,17 @@
     "count": 2
   },
   {
-    "title": "NVIDIA、DeepSeek向けにBlackwell GPUを最適化し、トークンコストを最大80%削減",
-    "summary": "NVIDIAとDeepSeekの協力により、中国のAIがNVIDIAハードウェア上でより効率的に動作するようになった。",
+    "title": "NVIDIA GeForce RTX 5090D HOF OC LAB、Blackwell GPUとして初めて4GHzを達成",
+    "summary": "極限のオーバークロックにより、ハイエンドグラフィックスカードが4GHzの壁を突破し、新記録を樹立。",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA、DeepSeek向けBlackwell GPUを最適化しトークンコストを最大80%削減",
+    "summary": "この最適化により、DeepSeekモデルをより効率的に実行でき、計算コストを大幅に削減。",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es"
@@ -122,44 +137,35 @@
     "count": 2
   },
   {
-    "title": "Claude Code、中国人ユーザーのリクエストを密かにマークし、回答にコードを隠蔽",
-    "summary": "Anthropicのコードアシスタントには、リクエストの出所を特定できるステガノグラフィマークが含まれていることが判明した。",
+    "title": "PlayStation 6の材料費は約1000ドル、Sonyはさらなるフォーマットと技術を約束",
+    "summary": "初期の報告はRAM不足による非常に高価なコンソールを示唆、SonyはPCプレイヤーを取り戻す戦略を準備。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GTA VIの物理ディスク欠如が従来のゲーム小売店を脅かす",
+    "summary": "GTA VIの物理版がないことで予約数が振るわず、GameStopなどの小売業者が危機に直面。",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta、余剰AI計算能力を外部顧客に販売するクラウドビジネスを構築",
+    "summary": "マーク・ザッカーバーグの会社は、余剰AIインフラを収益化してサードパーティにクラウドサービスを提供することでSpaceXを模倣。",
     "source": [
       "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta、SpaceXスタイルでAIコンピューティングの余剰容量を販売する計画",
-    "summary": "同社は、サーバー能力を第三者に提供することでAIインフラを収益化しようとしている。",
-    "source": [
-      "techcrunch.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenClaw、iOSおよびAndroid向けネイティブアプリをリリース",
-    "summary": "リモートアクセスサービスは、モバイルデバイスで公式に利用可能になる。",
-    "source": [
-      "alternativeto.net",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "サムスン、より広い画面を備えたGalaxy Z Fold8のリデザインを公開",
-    "summary": "公式リークとティーザーは、折りたたみ式デバイスのデザインに大きな変更があることを示唆している。",
-    "source": [
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GTA VI、物理版はなし、30 FPS目標、PS5でより多く販売される可能性との報道",
-    "summary": "ディスクの欠如、限られたパフォーマンス、予想販売数が待望のゲームに関する最新ニュースの特徴となっている。",
+    "title": "Xbox、スタジオで解雇が発生、数千人の従業員が抗議のために組合結成",
+    "summary": "007 First Lightの開発元が人員削減を発表、一方3500人以上のXbox従業員が大量解雇に抗議して組織化。",
     "source": [
       "hardzone.es",
       "elchapuzasinformatico.com"
@@ -167,38 +173,29 @@
     "count": 2
   },
   {
-    "title": "コレクターが40年にわたるATI-AMD GPUを公開、別のコレクターは40以上の古いグラフィックカードを分解",
-    "summary": "2つの独立した取り組みが、広範なコレクションと分解を通じてグラフィックハードウェアの歴史を祝う。",
+    "title": "Sony、購入済みの551本の映画を削除、2026年にPS3およびPS Vitaストアを閉鎖",
+    "summary": "同社は、購入済みコンテンツを削除し、旧型コンソールの購入プラットフォームを閉鎖することでデジタルシフトを継続。",
     "source": [
-      "elchapuzasinformatico.com",
-      "/r/hardware"
+      "videocardz.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD、GDDR6不足により7月にGPUとメモリのバンドル価格を10%値上げ",
-    "summary": "EXPO ULLメモリキットは通常のEXPOよりも最大79%高価になり、メモリ市場の緊張を反映している。",
+    "title": "Microsoft、新たな人員削減を計画、廉価版Surface GoとLaptop Goを廃止",
+    "summary": "同社は人員とSurface製品ラインを調整し、最も手頃なオプションを廃止。",
     "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、Windows 11でより小さなタスクバーをテストし、Surface GoおよびSurface Laptop Goラインを縮小",
-    "summary": "同社は、より強力なオプションに焦点を当てるために、オペレーティングシステムとデバイスカタログを調整している。",
-    "source": [
-      "elchapuzasinformatico.com",
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel、Arc G3 Extreme向けドライバサポートを開始、Arc B570およびB580 GPUでのパストレーシング問題を認める",
-    "summary": "Intel Arcグラフィックファミリはドライバアップデートを受けるが、VRAM不足でパストレーシングを有効にするとクラッシュが発生する。",
+    "title": "ビル・ゲイツ氏、AIによる早期退職を可能にすると主張、一方企業はAIによる解雇を後悔",
+    "summary": "AIの雇用への影響に関する議論は、楽観的な予測と企業の後悔の事例で激化。",
     "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "xataka.com",
+      "/r/technology"
     ],
     "count": 2
   }

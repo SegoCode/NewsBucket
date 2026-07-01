@@ -1,12 +1,12 @@
 [
   {
-    "title": "Sony dejará de fabricar discos físicos para PlayStation en 2028",
-    "summary": "La compañía japonesa pone fin al formato físico en sus consolas, eliminando la producción de juegos en disco a partir de enero de 2028.",
+    "title": "Sony dejará de fabricar discos físicos para PlayStation en enero de 2028",
+    "summary": "La compañía japonesa confirma el fin de la producción de juegos en formato físico para sus consolas, marcando el inicio de la era digital total en PlayStation.",
     "source": [
       "techcrunch.com",
       "tomshardware.com",
-      "/r/hardware",
       "xataka.com",
+      "/r/technology",
       "hardzone.es",
       "elchapuzasinformatico.com",
       "news.ycombinator.com",
@@ -15,61 +15,85 @@
     "count": 8
   },
   {
-    "title": "EE.UU. levanta las restricciones de exportación sobre los modelos Claude Fable 5 y Mythos 5",
-    "summary": "Tras dos semanas de prohibición, el gobierno estadounidense permite nuevamente el uso global de estos avanzados modelos de inteligencia artificial.",
+    "title": "EE.UU. levanta las restricciones a los modelos de IA Fable 5 y Mythos 5 de Anthropic",
+    "summary": "El gobierno de Trump elimina los controles de exportación que pesaban sobre estos modelos tras un jailbreak, permitiendo su uso global.",
     "source": [
+      "wired.com",
       "tomshardware.com",
       "elchapuzasinformatico.com",
       "the-decoder.com",
       "thehackernews.com",
       "techcrunch.com",
       "kite.kagi.com",
-      "news.ycombinator.com",
-      "wired.com"
+      "news.ycombinator.com"
     ],
     "count": 8
   },
   {
-    "title": "Anthropic lanza Claude Sonnet 5, su modelo de IA más asequible para agentes",
-    "summary": "El nuevo modelo ofrece razonamiento y codificación mejorados a un coste menor, compitiendo directamente con otras alternativas del mercado.",
+    "title": "Anthropic presenta Claude Sonnet 5, un modelo de IA más barato para ejecutar agentes",
+    "summary": "La compañía lanza una versión más asequible de su modelo estrella, cerrando la brecha con la serie Opus y ocultando subidas de precio en tasas de tokens.",
     "source": [
       "the-decoder.com",
-      "xataka.com",
-      "alternativeto.net",
       "kite.kagi.com",
+      "producthunt.com",
       "techcrunch.com",
-      "news.ycombinator.com",
-      "producthunt.com"
+      "news.ycombinator.com"
     ],
-    "count": 7
+    "count": 5
   },
   {
-    "title": "Google presenta Nano Banana 2 Lite, un generador de imágenes rápido y barato, junto a Gemini Omni Flash para vídeo",
-    "summary": "Los nuevos modelos de IA generativa de Google están disponibles vía API y ofrecen precios reducidos para desarrolladores y usuarios.",
+    "title": "Google introduce Nano Banana 2 Lite, un generador de imágenes rápido y barato, junto al modelo de vídeo Gemini Omni Flash",
+    "summary": "Los nuevos modelos de IA de Google permiten crear imágenes y vídeos de forma más eficiente y económica a través de API.",
     "source": [
-      "alternativeto.net",
+      "the-decoder.com",
       "techcrunch.com",
       "kite.kagi.com",
-      "the-decoder.com",
-      "news.ycombinator.com",
+      "alternativeto.net",
       "producthunt.com"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "Anthropic lanza Claude Science, un espacio de trabajo de IA para investigadores",
-    "summary": "La plataforma está diseñada para facilitar el trabajo científico con modelos de lenguaje integrados en un entorno dedicado.",
+    "title": "Anthropic presenta Claude Science, un espacio de trabajo de IA diseñado para científicos",
+    "summary": "La herramienta busca mejorar la productividad en la investigación científica integrando flujos de trabajo especializados.",
     "source": [
       "producthunt.com",
       "the-decoder.com",
-      "news.ycombinator.com",
       "techcrunch.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Corea del Sur invertirá más de 500.000 millones de dólares en chips y memoria para IA junto a Samsung y SK Hynix",
-    "summary": "El plan busca dominar el mercado de semiconductores y robótica mediante una inversión masiva en infraestructura y desarrollo.",
+    "title": "El juego Cinder City marca un récord al requerir 64 GB de RAM en sus requisitos recomendados",
+    "summary": "El título independiente eleva drásticamente el listón de hardware necesario para jugar, superando cualquier estándar anterior.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenClaw lanza aplicaciones nativas para iOS y Android",
+    "summary": "La plataforma de código abierto ahora permite el acceso desde dispositivos móviles de forma nativa.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "WinRAR publica la versión 7.23 con correcciones de seguridad y mejoras",
+    "summary": "El popular compresor de archivos actualiza su software y agradece a los usuarios que finalmente pagan por la nueva versión.",
+    "source": [
+      "alternativeto.net",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Corea del Sur planea una inversión de más de 500.000 millones de dólares junto a Samsung y SK Hynix para liderar los chips de memoria para IA",
+    "summary": "El gobierno surcoreano y las mayores empresas de semiconductores del país se unen para asegurar su dominio en el mercado de memoria para inteligencia artificial.",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com"
@@ -77,8 +101,8 @@
     "count": 2
   },
   {
-    "title": "PS5 Linux ya funciona en PlayStation 5 Slim con firmware 7.61",
-    "summary": "La compatibilidad con Linux se amplía a más modelos de la consola, incluyendo la versión Slim.",
+    "title": "PS5 Linux ya funciona en la PlayStation 5 Slim con firmware 7.61",
+    "summary": "El proyecto PS5 Linux amplía la compatibilidad a la consola PlayStation 5 Slim, aumentando el número de consolas compatibles.",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -86,26 +110,8 @@
     "count": 2
   },
   {
-    "title": "La reestructuración de Xbox provoca despidos y la creación de un sindicato de 3.500 empleados",
-    "summary": "Los estudios afectados sufren recortes, mientras los trabajadores se organizan contra los despidos masivos en la división de juegos de Microsoft.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA RTX 5050 9GB podría cancelarse o retrasarse indefinidamente",
-    "summary": "Los fabricantes de tarjetas gráficas no tienen información sobre el lanzamiento de este modelo de gama de entrada.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La Steam Machine mejora su rendimiento un 2,5% con memoria RAM de doble canal",
-    "summary": "Pruebas muestran que el uso de memoria dual-channel ofrece una ligera ganancia en pruebas gráficas, aunque Valve no lo recomienda oficialmente.",
+    "title": "Las Steam Machines mejoran su rendimiento al usar memoria RAM en modo dual-channel",
+    "summary": "Las pruebas muestran que el uso de memoria de doble canal incrementa el rendimiento en juegos, mientras que el canal único lastra el sistema.",
     "source": [
       "videocardz.com",
       "elchapuzasinformatico.com"
@@ -113,8 +119,17 @@
     "count": 2
   },
   {
-    "title": "NVIDIA optimiza sus GPU Blackwell para DeepSeek reduciendo el coste de tokens hasta un 80%",
-    "summary": "La colaboración entre NVIDIA y DeepSeek permite que la IA china funcione de forma más eficiente en hardware NVIDIA.",
+    "title": "La NVIDIA GeForce RTX 5090D HOF OC LAB se convierte en la primera GPU Blackwell en llegar a 4 GHz",
+    "summary": "El overclock extremo permite a la tarjeta gráfica de gama alta superar la barrera de los 4 GHz, estableciendo un nuevo récord.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA optimiza sus GPU Blackwell para DeepSeek y reduce el coste de tokens hasta un 80%",
+    "summary": "La optimización permite ejecutar modelos DeepSeek de manera más eficiente, abaratando drásticamente los costes computacionales.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es"
@@ -122,44 +137,35 @@
     "count": 2
   },
   {
-    "title": "Claude Code marca sigilosamente peticiones de usuarios chinos y oculta código en sus respuestas",
-    "summary": "Se descubre que el asistente de código de Anthropic incluye marcas esteganográficas que permiten identificar el origen de las solicitudes.",
+    "title": "La PlayStation 6 tendrá un coste de materiales cercano a los 1.000 dólares y Sony promete más formatos y tecnología",
+    "summary": "Los primeros informes apuntan a una consola muy cara debido a la escasez de RAM, mientras Sony prepara una estrategia para recuperar jugadores de PC.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GTA VI y la ausencia de disco físico amenazan a las tiendas tradicionales de videojuegos",
+    "summary": "La falta de edición física para GTA VI provoca malas cifras de reservas y pone en jaque a minoristas como GameStop.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta construye un negocio en la nube para vender su capacidad de cómputo de IA sobrante a clientes externos",
+    "summary": "La empresa de Mark Zuckerberg emula a SpaceX al monetizar su infraestructura de IA excedente, ofreciendo servicios cloud a terceros.",
     "source": [
       "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta planea vender el exceso de capacidad de cómputo de IA al estilo de SpaceX",
-    "summary": "La empresa busca monetizar su infraestructura de inteligencia artificial ofreciendo potencia de servidor a terceros.",
-    "source": [
-      "techcrunch.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenClaw lanza aplicaciones nativas para iOS y Android",
-    "summary": "El servicio de acceso remoto estará disponible de forma oficial en dispositivos móviles.",
-    "source": [
-      "alternativeto.net",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Samsung muestra el rediseño del Galaxy Z Fold8 con una pantalla más ancha",
-    "summary": "Las filtraciones oficiales y teasers apuntan a un cambio significativo en el diseño del plegable.",
-    "source": [
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GTA VI no tendrá versión física, apunta a 30 FPS y vendería más en PS5 según informes",
-    "summary": "La ausencia de disco, el rendimiento limitado y las cifras de ventas previstas marcan las últimas noticias sobre el esperado juego.",
+    "title": "Xbox sufre despidos en estudios y miles de empleados se sindican para protestar",
+    "summary": "Los creadores de 007 First Light anuncian recortes de personal, mientras más de 3.500 trabajadores de Xbox se organizan contra los despidos masivos.",
     "source": [
       "hardzone.es",
       "elchapuzasinformatico.com"
@@ -167,38 +173,29 @@
     "count": 2
   },
   {
-    "title": "Coleccionista muestra 40 años de GPUs ATI-AMD mientras otro desmonta más de 40 placas gráficas antiguas",
-    "summary": "Dos iniciativas independientes celebran la historia del hardware gráfico con extensas colecciones y desensamblajes.",
+    "title": "Sony elimina 551 películas compradas y cerrará la tienda de PS3 y PS Vita en 2026",
+    "summary": "La compañía continúa su giro digital eliminando contenido adquirido y cerrando plataformas de compra en consolas antiguas.",
     "source": [
-      "elchapuzasinformatico.com",
-      "/r/hardware"
+      "videocardz.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD subirá los precios de sus bundles de GPU y memoria un 10% en julio por la escasez de GDDR6",
-    "summary": "Los kits de memoria EXPO ULL llegan a ser hasta un 79% más caros que los EXPO normales, reflejando la tensión en el mercado de memorias.",
+    "title": "Microsoft planea nuevos recortes de empleo y retira los modelos económicos Surface Go y Laptop Go",
+    "summary": "La empresa tecnológica ajusta su plantilla y su gama de productos Surface, eliminando las opciones más asequibles.",
     "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft prueba una barra de tareas más pequeña en Windows 11 y reduce su línea Surface Go y Surface Laptop Go",
-    "summary": "La compañía ajusta su sistema operativo y su catálogo de dispositivos para centrarse en opciones más potentes.",
-    "source": [
-      "elchapuzasinformatico.com",
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel lanza soporte de drivers para Arc G3 Extreme mientras admite problemas de Path Tracing en sus GPU Arc B570 y B580",
-    "summary": "La familia de gráficos Intel Arc recibe actualizaciones de controladores pero presenta bloqueos al activar Path Tracing sin baja VRAM.",
+    "title": "Bill Gates afirma que la IA permitirá jubilaciones anticipadas, mientras empresas se arrepienten de despidos por IA",
+    "summary": "El debate sobre el impacto laboral de la inteligencia artificial se intensifica con predicciones optimistas y casos de arrepentimiento empresarial.",
     "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "xataka.com",
+      "/r/technology"
     ],
     "count": 2
   }
