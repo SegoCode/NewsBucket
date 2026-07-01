@@ -1,69 +1,17 @@
 [
   {
-    "title": "サムスン、SKハイニックス、マイクロンに対するメモリ価格固定の集団訴訟、歴史的な高騰を引き起こす",
-    "summary": "チップメーカーはDRAMメモリの価格を人為的に引き上げるための談合で告発され、EXPO ULLなどのキットのコストを最大80%引き上げている。",
+    "title": "トランプ氏、AnthropicのMythosおよびFableモデルへの規制を解除",
+    "summary": "トランプ政権はAnthropicのAIモデルに対する輸出規制を撤廃し、世界的な配布を可能にした。",
     "source": [
-      "elchapuzasinformatico.com",
-      "/r/technology",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "ZLUDA、AMD GPUでCUDAおよびPhysXアプリケーションを最大300%のパフォーマンスで実行可能に",
-    "summary": "オープンソースプロジェクトZLUDAは、Radeon上でCUDAおよびPhysX物理アクセラレーションとの互換性を実現するが、資金調達の問題に直面している。",
-    "source": [
-      "videocardz.com",
+      "techcrunch.com",
       "news.ycombinator.com",
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "ニンテンドースイッチ2は一部のリビジョンでシャープの新しいLCDパネルを搭載する可能性",
-    "summary": "リークは、コンソールが特定のバッチでより高品質のLCDスクリーンを搭載することを示しており、購入者の間で不確実性を生み出している。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "wired.com"
     ],
     "count": 3
   },
   {
-    "title": "AMD、将来のZen 6 CPUにIntelのLPEと同様の低消費電力コアを搭載することを確認",
-    "summary": "Linuxパッチは、Zen 6プロセッサがバックグラウンドタスク用の新しいタイプの効率的なコアを含むことを明らかにしている。",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ソニー、より強力なPS6、携帯型コンソールの可能性、高価格の計画を前倒し",
-    "summary": "同社はメモリコストが問題であることを認め、PlayStationハードウェアを赤字で販売しないことを示唆し、1000ユーロのPS6と携帯型の噂を煽っている。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Cursor、AIエージェントとリポジトリ機能を備えたiOSベータ版をリリース",
-    "summary": "AIコード編集プラットフォームがモバイルに登場するが、インストール時のプライバシー変更をめぐって論争を巻き起こしている。",
-    "source": [
-      "news.ycombinator.com",
-      "alternativeto.net",
-      "producthunt.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic、より高速で安価なモデルClaude Sonnet 5をリリース、パフォーマンスがOpusに近づく",
-    "summary": "AIアシスタントの新バージョンは、より低コストで競争力のある機能を提供し、自律エージェントでの使用を容易にする。",
+    "title": "Anthropic、AIエージェント向けの低価格モデルClaude Sonnet 5を発表",
+    "summary": "Anthropicの新モデルはOpusとの差を縮め、AIエージェントを実行するためのより経済的な代替手段を提供する。",
     "source": [
       "the-decoder.com",
       "techcrunch.com",
@@ -72,8 +20,8 @@
     "count": 3
   },
   {
-    "title": "Anthropic、科学者や研究者向けのAIワークスペースClaude Scienceを発表",
-    "summary": "このツールは研究ワークフローに焦点を当てており、Azure統合によりMicrosoft Foundryですでに利用可能。",
+    "title": "Anthropic、研究者向けワークスペースClaude Scienceを発表",
+    "summary": "Anthropicのプラットフォームは科学者向けに特別に設計され、AIのワークフローとツールを備えている。",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com",
@@ -82,8 +30,8 @@
     "count": 3
   },
   {
-    "title": "Google、より高速で経済的な画像生成ツールNano Banana 2 Liteを発表",
-    "summary": "新しいAI画像生成モデルは、動画用のGemini Omni Flashとともにリリースされ、API経由で利用可能。",
+    "title": "Google、より高速で低価格な画像生成モデルNano Banana 2 Liteを発表",
+    "summary": "Googleの新しい画像生成モデルはより効率的で、動画向けにGemini Omni Flashと統合されている。",
     "source": [
       "techcrunch.com",
       "the-decoder.com",
@@ -92,17 +40,105 @@
     "count": 3
   },
   {
-    "title": "Meta、競合他社のチャットボットを未成年者のプロフィールを使用して秘密裏にテスト",
-    "summary": "同社は請負業者を使って10代の若者を装い、メンタルヘルス危機におけるChatGPT、Gemini、Character.AIの対応を検証した。",
+    "title": "Microsoft、大規模レイオフを計画、Xbox従業員は組合結成",
+    "summary": "同社は別の人員削減を準備する一方、数千人のXbox従業員が抗議のためにCWA組合に加入している。",
     "source": [
-      "the-decoder.com",
-      "wired.com"
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nintendo Switch 2、リーク情報によると新しいLCD画面バリエーションを搭載か",
+    "summary": "コンソールはシャープのLCDパネルを搭載する可能性があると噂され、購入者の間で不確実性を生んでいる。",
+    "source": [
+      "hardzone.es",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ZLUDA、AMD GPUでPhysXを実行可能に、パフォーマンスが最大300%向上",
+    "summary": "ZLUDAプロジェクトはAMDグラフィックカードでPhysXを実行できるようにしたが、資金を失い、再び週末プロジェクトとなった。",
+    "source": [
+      "videocardz.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD、将来のZen 6 CPUに低消費電力コアを搭載することを確認",
+    "summary": "新しいプロセッサは、エネルギー効率を向上させるためにIntelのLPEと同様の低消費電力コアを搭載する。",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "脳コンピューターインターフェースの進歩により非侵襲的なコミュニケーションが可能に",
+    "summary": "MetaはBCIバージョン2を発表、研究者は手術なしで脳波から単語を解読することに成功。",
+    "source": [
+      "news.ycombinator.com",
+      "tomshardware.com",
+      "producthunt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AIコーディングエージェントにセキュリティ上の脆弱性が発見される",
+    "summary": "研究者は、Claude Codeなどのアシスタントが騙されてマルウェアをインストールしたり、不注意にデータを漏洩したりする可能性があることを実証した。",
+    "source": [
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com",
+      "thehackernews.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Sony、より高価なPS6を準備、PS5のLinuxサポートを拡大",
+    "summary": "同社はPCゲーマーをターゲットにしており、メモリコストを理由に次世代コンソールの価格が高くなると示唆している。",
+    "source": [
+      "videocardz.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "新しいレポートによると、NVIDIA RTX 5050 9GBはキャンセルされた",
+    "summary": "RTX 5050のキャンセルは、12GBのRTX 3060が市場に復帰する中で行われた。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "台湾、SupermicroとパートナーのオフィスをNvidiaチップの中国への密輸疑惑で捜索",
-    "summary": "当局は半導体の不正輸出の捜査で9か所を捜索し、6人を取り調べた。",
+    "title": "AMD EXPO ULLメモリは標準キットよりも最大79%高い",
+    "summary": "新しい高レイテンシメモリキットは、通常のEXPOと比較して大幅なプレミアム価格を提供する。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SteamOS 3.8.20 Beta、VRAM管理を改善しMesaドライバを更新",
+    "summary": "SteamOSのベータアップデートは、コンソールとゲーミングノートPCのボトルネックを減らすことに焦点を当てている。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "台湾、NVIDIAチップ密輸捜査でSupermicroの事務所を家宅捜索",
+    "summary": "台湾当局は、中国への不正なチップ出荷の可能性について、同社とそのパートナーを調査している。",
     "source": [
       "tomshardware.com",
       "the-decoder.com"
@@ -110,8 +146,8 @@
     "count": 2
   },
   {
-    "title": "貨物泥棒が130万ドル相当のデータセンター用品を盗む",
-    "summary": "警察はシカゴ近郊で銅線ケーブルと盗難機器を回収し、AIインフラストラクチャ向け材料の闇市場が拡大していることを示している。",
+    "title": "荷物泥棒、AIデータセンター向け供給品を130万ドル分盗難",
+    "summary": "シカゴでは100万ドル相当の機器が回収されたが、業界は盗難と闘っている。",
     "source": [
       "/r/technology",
       "tomshardware.com"
@@ -119,8 +155,8 @@
     "count": 2
   },
   {
-    "title": "NVIDIAが9GBのRTX 5050をキャンセルまたは無期限延期したとの噂",
-    "summary": "グラフィックカードメーカーはこのモデルに関する新しい情報を持っておらず、発売の不確実性が高まっている。",
+    "title": "AMD、7月のRadeon GPU値上げをパートナーに警告",
+    "summary": "内部報告によると、グラフィックカードとメモリパッケージの価格が10%上昇する見込み。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -128,65 +164,30 @@
     "count": 2
   },
   {
-    "title": "SteamOS 3.8.20ベータ版、VRAM管理を改善しMesaドライバを更新",
-    "summary": "Valveのオペレーティングシステムの新バージョンは、コンソールとゲーミングノートPCのパフォーマンスを最適化し、レイトレーシングのサポートを改善。",
+    "title": "OpenAI、GPT-5.6を発表、ゲストユーザーの応答コストを削減",
+    "summary": "同社はモデルの新バージョンをリリースし、ChatGPTの無料ユーザーの利用料金を引き下げた。",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "alternativeto.net",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "開発者が電子ペーパー開発ボードを60Hzで動作するゲームボーイに改造",
-    "summary": "ESP32-S3マイクロコントローラーと960x540画面を使用し、高価な部品を必要とせずにレトロゲームをエミュレート。",
+    "title": "Meta、ソーシャルメディアでの未成年者に関する慣行で訴訟と批判に直面",
+    "summary": "Metaが未成年者を対象にチャットボットをテストしていたこと、また子供たちのFacebookとInstagramへの依存症に関する集団訴訟で敗訴したことが明らかになった。",
     "source": [
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD、7月にRadeon GPUとメモリパッケージの値上げをパートナーに警告",
-    "summary": "部品コストの上昇とAI需要の高まりにより、値上げは約10%になると見られる。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Xbox従業員数千人が組合を結成、歴史的な大量解雇が懸念される",
-    "summary": "3500人以上の労働者が雇用を守るためにCWA組合に加入する一方、専門家はマイクロソフトのゲーム部門で大規模な人員削減の可能性を警告している。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "37のデータセンターがある郡、コスト上昇で学校に節電を要請",
-    "summary": "バージニア州ヘンリコ郡は、電気料金の25%上昇を見込んでおり、コンピューターの電源を切ったり、ブラインドを下ろしたりするなどの対策を推奨している。",
-    "source": [
-      "news.ycombinator.com",
+      "the-decoder.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "美団（Meituan）、Nvidiaなしでトレーニング可能な大規模AIモデルLongCat-2.0を発表",
-    "summary": "1.6兆パラメータのMoEモデルは、チップ輸出規制を回避し、最高の米国システムと競合する。",
+    "title": "中国企業、米国の輸出規制にもかかわらずAIで進歩",
+    "summary": "DeepSeekとZ.aiは、中国がNVIDIAチップなしでAIをトレーニングできることを示す競争力のあるモデルを発表した。",
     "source": [
       "the-decoder.com",
-      "news.ycombinator.com"
+      "tomshardware.com"
     ],
     "count": 2
-  },
-  {
-    "title": "テスラ、オースティンでステアリングホイールもペダルもないサイバーキャブのテストを開始",
-    "summary": "同社の自動運転車両がテキサス州の公道でテストを開始し、無人運転交通への一歩を示している。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
   }
 ]

@@ -1,69 +1,17 @@
 [
   {
-    "title": "Class action lawsuit against Samsung, SK Hynix and Micron for RAM price fixing causes historic price surge",
-    "summary": "Chip manufacturers are accused of collusion to artificially increase DRAM memory prices, raising the costs of kits like EXPO ULL by up to 80%.",
+    "title": "Trump lifts restrictions on Anthropic's Mythos and Fable models",
+    "summary": "The Trump administration removes export controls on Anthropic's AI models, allowing their global distribution.",
     "source": [
-      "elchapuzasinformatico.com",
-      "/r/technology",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "ZLUDA allows running CUDA and PhysX applications on AMD GPUs with up to 300% performance",
-    "summary": "The open source project ZLUDA achieves compatibility with CUDA and PhysX physics acceleration on Radeon, although it faces funding issues.",
-    "source": [
-      "videocardz.com",
+      "techcrunch.com",
       "news.ycombinator.com",
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Nintendo Switch 2 could have a new Sharp LCD panel in some revisions",
-    "summary": "Leaks indicate that the console will feature a better quality LCD screen in certain batches, generating uncertainty among buyers.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "wired.com"
     ],
     "count": 3
   },
   {
-    "title": "AMD confirms low-power cores in future Zen 6 CPUs similar to Intel's LPE",
-    "summary": "Linux patches reveal that Zen 6 processors will include a new type of efficient core for background tasks.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Sony advances plans for a more powerful PS6, a possible portable console and a high price",
-    "summary": "The company acknowledges that memory cost is a problem and suggests that PlayStation hardware will not be sold at a loss, fueling rumors of a 1000 euro PS6 and a handheld.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Cursor launches beta version for iOS with AI agents and repository features",
-    "summary": "The AI code editing platform lands on mobile, although it generates controversy over privacy changes when installed.",
-    "source": [
-      "news.ycombinator.com",
-      "alternativeto.net",
-      "producthunt.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic launches Claude Sonnet 5, a faster and cheaper model that brings performance closer to Opus",
-    "summary": "The new version of the AI assistant offers competitive capabilities at a lower cost, facilitating its use in autonomous agents.",
+    "title": "Anthropic launches Claude Sonnet 5, a cheaper model for AI agents",
+    "summary": "Anthropic's new model bridges the gap with Opus and offers a more affordable alternative for running AI agents.",
     "source": [
       "the-decoder.com",
       "techcrunch.com",
@@ -72,8 +20,8 @@
     "count": 3
   },
   {
-    "title": "Anthropic presents Claude Science, an AI workspace for scientists and researchers",
-    "summary": "The tool focuses on research workflows and is now available on Microsoft Foundry with Azure integration.",
+    "title": "Anthropic introduces Claude Science, a workspace for researchers",
+    "summary": "Anthropic's platform is specifically designed for scientists, with workflows and AI tools.",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com",
@@ -82,8 +30,8 @@
     "count": 3
   },
   {
-    "title": "Google introduces Nano Banana 2 Lite, a faster and more economical image generator",
-    "summary": "The new AI image generation model is launched alongside Gemini Omni Flash for video, available via API.",
+    "title": "Google introduces Nano Banana 2 Lite, a faster and cheaper image generator",
+    "summary": "Google's new image generation model is more efficient and integrates with Gemini Omni Flash for video.",
     "source": [
       "techcrunch.com",
       "the-decoder.com",
@@ -92,17 +40,105 @@
     "count": 3
   },
   {
-    "title": "Meta conducted secret tests with competitor chatbots using profiles of minors",
-    "summary": "The company used contractors to pose as teenagers and verify the responses of ChatGPT, Gemini and Character.AI in mental health crises.",
+    "title": "Microsoft plans massive layoffs as Xbox employees unionize",
+    "summary": "The company prepares another staff cut while thousands of Xbox workers join the CWA union to protest.",
     "source": [
-      "the-decoder.com",
-      "wired.com"
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nintendo Switch 2 may have a new LCD screen variant according to leaks",
+    "summary": "It is rumored that the console could include a Sharp LCD panel, generating uncertainty among buyers.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ZLUDA enables running PhysX on AMD GPUs with performance improvements of up to 300%",
+    "summary": "The ZLUDA project achieves running PhysX on AMD graphics cards, although it loses funding and becomes a weekend project again.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD confirms low-power cores in future Zen 6 CPUs",
+    "summary": "The new processors will include low-power cores similar to Intel's LPE to improve energy efficiency.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Advances in brain-computer interfaces enable non-invasive communication",
+    "summary": "Meta presents its BCI version 2, while researchers manage to decode words from brain waves without surgery.",
+    "source": [
+      "news.ycombinator.com",
+      "tomshardware.com",
+      "producthunt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Security vulnerabilities discovered in AI coding agents",
+    "summary": "Researchers show that assistants like Claude Code can be tricked into installing malware and inadvertently leak data.",
+    "source": [
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com",
+      "thehackernews.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Sony prepares a more expensive PS6 and expands Linux support on PS5",
+    "summary": "The company targets PC gamers and suggests a high price for the next console due to memory costs.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "NVIDIA RTX 5050 9 GB canceled according to new reports",
+    "summary": "The cancellation of the RTX 5050 comes amid the return of the RTX 3060 12 GB to the market.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Taiwan raids offices of Supermicro and partners for alleged smuggling of Nvidia chips to China",
-    "summary": "Authorities searched nine locations and interrogated six people in an investigation into illegal semiconductor exports.",
+    "title": "AMD EXPO ULL memory costs up to 79% more than standard kits",
+    "summary": "The new high-latency memory kits offer a significant premium price compared to normal EXPO.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SteamOS 3.8.20 Beta improves VRAM management and updates Mesa drivers",
+    "summary": "The SteamOS beta update focuses on reducing bottlenecks in consoles and gaming laptops.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Taiwan raids Supermicro offices in investigation of NVIDIA chip smuggling",
+    "summary": "Taiwanese authorities investigate the company and its partners for possible illegal chip shipments to China.",
     "source": [
       "tomshardware.com",
       "the-decoder.com"
@@ -110,8 +146,8 @@
     "count": 2
   },
   {
-    "title": "Cargo thieves steal data center supplies worth $1.3 million",
-    "summary": "Police recovered near Chicago copper cable and stolen equipment, evidencing the growing black market for AI infrastructure materials.",
+    "title": "Cargo thieves steal supplies for AI data centers worth $1.3 million",
+    "summary": "In Chicago, equipment worth $1 million was recovered, while the industry struggles against thefts.",
     "source": [
       "/r/technology",
       "tomshardware.com"
@@ -119,8 +155,8 @@
     "count": 2
   },
   {
-    "title": "NVIDIA rumored to have cancelled or indefinitely delayed the 9 GB RTX 5050",
-    "summary": "Graphics card manufacturers have no new information about the model, increasing uncertainty about its launch.",
+    "title": "AMD warns partners about Radeon GPU price increase in July",
+    "summary": "Graphics card and memory package prices would increase by 10% according to internal reports.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -128,65 +164,30 @@
     "count": 2
   },
   {
-    "title": "SteamOS 3.8.20 beta improves VRAM management and updates the Mesa driver",
-    "summary": "The new version of Valve's operating system optimizes performance on consoles and gaming laptops, including improved Ray Tracing support.",
+    "title": "OpenAI introduces GPT-5.6 and reduces response costs for guest users",
+    "summary": "The company launches new versions of its model and makes usage cheaper for free ChatGPT users.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "alternativeto.net",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Creator converts an e-ink development board into a functional 60 Hz Game Boy",
-    "summary": "Using an ESP32-S3 microcontroller and a 960x540 display, it manages to emulate retro games without needing expensive components.",
+    "title": "Meta faces lawsuits and criticism over its practices with minors on social media",
+    "summary": "It is revealed that Meta tested its chatbots with minors and lost a class action lawsuit over children's addiction to Facebook and Instagram.",
     "source": [
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD warns its partners of a price increase on Radeon GPUs and memory packages in July",
-    "summary": "The increase would be around 10% due to rising component costs and high AI demand.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Thousands of Xbox employees unionize as historic mass layoffs are feared",
-    "summary": "More than 3500 workers join the CWA union to protect their jobs, while experts warn of possible massive cuts in Microsoft's gaming division.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A county with 37 data centers asks schools to save electricity due to rising costs",
-    "summary": "Henrico County, Virginia, anticipates a 25% increase in electricity rates and recommends measures such as turning off computers and lowering blinds.",
-    "source": [
-      "news.ycombinator.com",
+      "the-decoder.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Meituan presents LongCat-2.0, a massive AI model that shows China can train without Nvidia",
-    "summary": "The 1.6 trillion parameter MoE model competes with the best US systems, bypassing chip export restrictions.",
+    "title": "Chinese companies advance in AI despite U.S. export restrictions",
+    "summary": "DeepSeek and Z.ai present competitive models that demonstrate China can train AI without NVIDIA chips.",
     "source": [
       "the-decoder.com",
-      "news.ycombinator.com"
+      "tomshardware.com"
     ],
     "count": 2
-  },
-  {
-    "title": "Tesla begins testing its Cybercab without steering wheel or pedals in Austin",
-    "summary": "The company's autonomous vehicle begins testing on public roads in Texas, marking a step towards driverless transportation.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
   }
 ]
