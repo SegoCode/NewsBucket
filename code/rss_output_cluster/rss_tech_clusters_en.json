@@ -1,7 +1,7 @@
 [
   {
-    "title": "Sony will stop manufacturing physical discs for PlayStation in January 2028",
-    "summary": "The Japanese company confirms the end of physical game production for its consoles, marking the beginning of the total digital era on PlayStation.",
+    "title": "Sony will stop manufacturing PlayStation game discs as of January 2028 and will focus on digital format",
+    "summary": "Sony will close the PlayStation Store for PS3 and PS Vita and halt production of physical discs for new releases starting in January 2028, ushering in the digital era on its consoles.",
     "source": [
       "techcrunch.com",
       "tomshardware.com",
@@ -15,57 +15,33 @@
     "count": 8
   },
   {
-    "title": "US lifts restrictions on Anthropic's AI models Fable 5 and Mythos 5",
-    "summary": "Trump administration removes export controls on these models after a jailbreak, allowing their global use.",
+    "title": "US lifts restrictions on Anthropic's Fable 5 and Mythos 5 AI models after two-week veto",
+    "summary": "After two weeks of government veto due to a jailbreak vulnerability, the AI models regain global availability with a new security filter.",
     "source": [
+      "news.ycombinator.com",
       "wired.com",
       "tomshardware.com",
       "elchapuzasinformatico.com",
       "the-decoder.com",
       "thehackernews.com",
       "techcrunch.com",
-      "kite.kagi.com",
-      "news.ycombinator.com"
+      "kite.kagi.com"
     ],
     "count": 8
   },
   {
-    "title": "Anthropic introduces Claude Sonnet 5, a cheaper AI model for running agents",
-    "summary": "The company launches a more affordable version of its flagship model, closing the gap with the Opus series and hiding price increases in token rates.",
+    "title": "A vulnerability in Apple's 'Hide My Email' exposes users' real email addresses",
+    "summary": "The function designed to hide users' real email addresses has a flaw that reveals the true data, compromising privacy.",
     "source": [
-      "the-decoder.com",
-      "kite.kagi.com",
-      "producthunt.com",
       "techcrunch.com",
+      "/r/technology",
       "news.ycombinator.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Google introduces Nano Banana 2 Lite, a fast and cheap image generator, along with the Gemini Omni Flash video model",
-    "summary": "Google's new AI models allow creating images and videos more efficiently and economically via API.",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "kite.kagi.com",
-      "alternativeto.net",
-      "producthunt.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Anthropic presents Claude Science, an AI workspace designed for scientists",
-    "summary": "The tool aims to improve productivity in scientific research by integrating specialized workflows.",
-    "source": [
-      "producthunt.com",
-      "the-decoder.com",
-      "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "The game Cinder City sets a record by requiring 64 GB of RAM in its recommended requirements",
-    "summary": "The independent title drastically raises the hardware bar needed to play, surpassing any previous standard.",
+    "title": "Cinder City is the first game requiring 64 GB of RAM as a recommended requirement",
+    "summary": "The new indie title sets a new standard in PC hardware requirements, far surpassing the specifications of most current games.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es",
@@ -74,89 +50,27 @@
     "count": 3
   },
   {
-    "title": "OpenClaw launches native apps for iOS and Android",
-    "summary": "The open-source platform now allows native access from mobile devices.",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "WinRAR releases version 7.23 with security fixes and improvements",
-    "summary": "The popular file compressor updates its software and thanks users who finally pay for the new version.",
-    "source": [
-      "alternativeto.net",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "South Korea plans an investment of over $500 billion alongside Samsung and SK Hynix to lead AI memory chips",
-    "summary": "The South Korean government and the country's largest semiconductor companies join forces to secure their dominance in the AI memory market.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PS5 Linux now works on the PlayStation 5 Slim with firmware 7.61",
-    "summary": "The PS5 Linux project extends compatibility to the PlayStation 5 Slim, increasing the number of supported consoles.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steam Machines improve performance when using RAM in dual-channel mode",
-    "summary": "Tests show that using dual-channel memory increases gaming performance, while single-channel hampers the system.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The NVIDIA GeForce RTX 5090D HOF OC LAB becomes the first Blackwell GPU to reach 4 GHz",
-    "summary": "Extreme overclocking allows the high-end graphics card to surpass the 4 GHz barrier, setting a new record.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA optimizes its Blackwell GPUs for DeepSeek and reduces token cost by up to 80%",
-    "summary": "The optimization allows running DeepSeek models more efficiently, drastically reducing computational costs.",
+    "title": "The next Xbox Project Helix and PlayStation 6 aim to be fully digital consoles without a disc drive",
+    "summary": "According to various leaks, both Microsoft and Sony would opt to eliminate the disc drive in their next consoles to promote digital distribution.",
     "source": [
       "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PlayStation 6 will have a material cost close to $1,000 and Sony promises more formats and technology",
-    "summary": "Early reports point to a very expensive console due to RAM shortages, while Sony prepares a strategy to win back PC gamers.",
-    "source": [
-      "elchapuzasinformatico.com",
+      "videocardz.com",
       "/r/technology"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "GTA VI and the absence of a physical disc threaten traditional video game stores",
-    "summary": "The lack of a physical edition for GTA VI leads to poor pre-order numbers and puts retailers like GameStop at risk.",
+    "title": "PC shipments fall 7% in the US during the first quarter of 2026 and an annual drop of 14% is expected",
+    "summary": "The rise in prices of components such as memory and storage causes a slump in computer sales, especially in low-cost laptops.",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta builds a cloud business to sell its surplus AI compute capacity to external customers",
-    "summary": "Mark Zuckerberg's company emulates SpaceX by monetizing its surplus AI infrastructure, offering cloud services to third parties.",
+    "title": "Meta plans to sell its spare AI computing capacity as a cloud business",
+    "summary": "Mark Zuckerberg's company seeks to profit from its AI infrastructure investments by renting out excess capacity to third parties.",
     "source": [
       "the-decoder.com",
       "techcrunch.com"
@@ -164,26 +78,35 @@
     "count": 2
   },
   {
-    "title": "Xbox suffers studio layoffs and thousands of employees unionize to protest",
-    "summary": "The creators of 007 First Light announce staff cuts, while more than 3,500 Xbox workers organize against mass layoffs.",
+    "title": "The NVIDIA GeForce RTX 5090D reaches 4 GHz for the first time on a Blackwell GPU",
+    "summary": "GALAX's special HOF OC LAB edition becomes the first GPU of the Blackwell architecture to surpass the 4 GHz barrier through overclocking.",
     "source": [
-      "hardzone.es",
+      "videocardz.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Sony removes 551 purchased movies and will close PS3 and PS Vita store in 2026",
-    "summary": "The company continues its digital shift by removing purchased content and closing purchase platforms on old consoles.",
+    "title": "Steam Machine gets 2.5% more GPU performance when using dual-channel RAM",
+    "summary": "Tests show that Valve's console experiences a modest improvement in graphics performance when using RAM in dual-channel configuration.",
     "source": [
       "videocardz.com",
-      "news.ycombinator.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft plans new job cuts and discontinues budget models Surface Go and Laptop Go",
-    "summary": "The tech company adjusts its workforce and Surface product lineup, eliminating the most affordable options.",
+    "title": "South Korea will invest $520 billion together with Samsung and SK Hynix to lead AI memory",
+    "summary": "The joint plan of the South Korean government and local tech giants seeks to secure global leadership in the manufacturing of semiconductors for artificial intelligence.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The ESA declares private servers for Minecraft and Call of Duty illegal, considering them piracy",
+    "summary": "The association representing the video game industry warns that unauthorized private servers violate copyright, which halts a legislative initiative to protect online games.",
     "source": [
       "/r/technology",
       "tomshardware.com"
@@ -191,12 +114,79 @@
     "count": 2
   },
   {
-    "title": "Bill Gates says AI will enable early retirement, while companies regret AI-driven layoffs",
-    "summary": "The debate over AI's impact on employment intensifies with optimistic predictions and cases of corporate regret.",
+    "title": "Anthropic launches Claude Sonnet 5 with lower rates but hides a real increase in price per token",
+    "summary": "Anthropic's new model is promoted as cheaper but changes in token counting mean a real price increase for developers who use it intensively.",
     "source": [
-      "xataka.com",
-      "/r/technology"
+      "the-decoder.com",
+      "kite.kagi.com"
     ],
     "count": 2
+  },
+  {
+    "title": "Google launches the affordable AI model Nano Banana 2 Lite and the Gemini Omni Flash video generator",
+    "summary": "Google expands its artificial intelligence ecosystem with more accessible models and new on-demand video generation capabilities.",
+    "source": [
+      "alternativeto.net",
+      "producthunt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenClaw launches native apps for iOS and Android",
+    "summary": "The open-source platform now offers native apps for mobile devices, facilitating access from anywhere.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "DeepSeek V4 reduces token cost by up to 80% and NVIDIA optimizes its Blackwell GPUs for Chinese AI",
+    "summary": "The joint optimization between the Chinese model DeepSeek V4 and NVIDIA's Blackwell GPUs promises a drastic reduction in AI computational cost.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "US Supreme Court rules that mass collection of location data requires a warrant",
+    "summary": "The judicial ruling reinforces digital privacy protection by considering that the mass collection of geolocation data without a warrant affects the Fourth Amendment.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "BYD prepares to surpass Tesla again in electric car sales",
+    "summary": "The Chinese company continues its global expansion and could temporarily snatch the top spot in electric vehicle sales from Tesla.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "US evaluates lifting the ban on commercial supersonic flights",
+    "summary": "The US government analyzes removing historical restrictions that banned supersonic flights over land due to noise, which could revolutionize commercial aviation.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Swedish court orders Google to pay $1.5 billion to Klarna for antitrust damages",
+    "summary": "The conviction for abuse of dominant position in the search and online advertising market marks a milestone in the European antitrust fight against big tech.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "OpenAI accidentally reveals a new line of 'Pro' models in a genomics article",
+    "summary": "A scientific article published by OpenAI accidentally includes mentions of a range of more advanced 'Pro' models that the company has not yet officially confirmed.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
   }
 ]
