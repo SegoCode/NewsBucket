@@ -1,188 +1,182 @@
 [
   {
-    "title": "ソニー、2028年1月にPlayStation向け物理ディスクの生産終了を発表",
-    "summary": "同社は新作ゲームはデジタル形式のみでリリースされ、PS3とPS Vitaのストアを閉鎖することを確認し、一つの時代の終わりを告げる。",
+    "title": "Microsoft、Xboxの物理ゲームのデジタル化とディスクドライブなしのコンソールを準備",
+    "summary": "同社はXbox OneおよびSeriesのディスクをデジタルライセンスに変換できるシステムをテスト中で、Project Helixは光学ドライブなしで投入される可能性がある。",
     "source": [
-      "techcrunch.com",
-      "tomshardware.com",
-      "/r/hardware",
-      "xataka.com",
-      "videocardz.com",
       "hardzone.es",
       "elchapuzasinformatico.com",
-      "news.ycombinator.com"
-    ],
-    "count": 8
-  },
-  {
-    "title": "Anthropic、米国の輸出規制解除によりClaude Fable 5モデルを復元",
-    "summary": "AIモデルはジェイルブレイクによる2週間の禁止後、再びグローバルに利用可能になり、より厳格なセキュリティフィルターが追加された。",
-    "source": [
-      "news.ycombinator.com",
-      "wired.com",
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "the-decoder.com",
-      "thehackernews.com"
+      "videocardz.com",
+      "kite.kagi.com",
+      "/r/hardware",
+      "tomshardware.com"
     ],
     "count": 6
   },
   {
-    "title": "Microsoft、ディスクドライブなしのXbox Project Helixコンソールを計画、物理ゲームのデジタル化をテスト",
-    "summary": "噂によると、次期Xboxは完全デジタルになるとされ、Microsoftは既存の物理ゲームをデジタルに変換する方法を模索している。",
+    "title": "Sony、PlayStation向け物理フォーマットのゲームの終了を発表",
+    "summary": "同社は2028年からディスクの販売を終了し、PS6でドライブを廃止してデジタルライセンスの購入を強制する。",
     "source": [
+      "xataka",
+      "hardzone.es",
+      "alternativeto.net",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Intel、Core Ultra 7 270Kおよび250Kの価格を最大50ドル値上げ",
+    "summary": "製造元は複数の報道によると、デスクトップ向けのフラッグシッププロセッサの推奨価格を引き上げた。",
+    "source": [
+      "elchapuzasinformatico.com",
       "/r/hardware",
       "tomshardware.com",
-      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "Meta、AIコンピューティングの余剰能力を販売するクラウド事業を構築",
-    "summary": "SpaceXの例に倣い、同社はデータセンターの余剰電力を外部顧客に提供することで収益化を図っている。",
+    "title": "OpenAI、米国のソブリンファンドに資本の5％を寄付する提案",
+    "summary": "AI企業は規制支援と引き換えに米国政府に株式を提供することを提案している。",
     "source": [
-      "the-decoder.com",
       "techcrunch.com",
-      "/r/hardware"
+      "tomshardware.com",
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "Cinder City、推奨要件として64GBのRAMを要求する初のゲームに",
-    "summary": "このインディーゲームは技術仕様の新たな基準を打ち立て、ハードウェア要件の進化について議論を巻き起こしている。",
+    "title": "SpaceXがAI搭載スマートフォンのプロトタイプを公開、イーロン・マスクは否定",
+    "summary": "SpaceXがxAI技術を搭載した薄型スマートフォンを投資家に披露したとの報道に対し、マスク氏は完全に虚偽だと述べた。",
     "source": [
-      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "kite.kagi.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "スペイン、国家安全保障上のリスクでPalantirの排除を命令",
+    "summary": "スペイン政府はPalantirを脅威と見なす一方、NATOはスペインのパートナーとして同社を安全保障の最前線に置いている。",
+    "source": [
+      "news.ycombinator.com",
+      "xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、AI向けカスタムチップの製造でSamsungと交渉",
+    "summary": "AI企業はSamsungと独自プロセッサの開発を模索しているが、Nvidiaが引き続き重要であるとしている。",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Noctua、AMD向けロープロファイルクーラーとSeasonicの新しい電源を準備",
+    "summary": "NoctuaのロードマップにはAM5向けロープロファイルクーラーとSeasonicとの電源における協業が含まれている。",
+    "source": [
       "hardzone.es",
       "videocardz.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "NVIDIAとDeepSeek V4、Blackwell GPUの最適化によりAIのトークンあたりのコストを最大80%削減",
-    "summary": "ソフトウェアの改善により、中国語の言語モデルをより効率的に実行できるようになり、企業アプリケーションでの使用コストが低減される。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
     "count": 2
   },
   {
-    "title": "韓国、SamsungやSK Hynixと共に5200億ドルを投資しAIメモリ市場を支配へ",
-    "summary": "この野心的な国家計画は、メモリチップとロボティクスの生産でリーダーシップを目指し、総投資額は1兆ドル近くに上る。",
+    "title": "Radeon RX 7900 XTXのプロトタイプが登場、赤いPCBとわずか16GBのメモリ",
+    "summary": "AMDのハイエンドGPUのエンジニアリングサンプルは、スペックが低下し、バックプレートなしのデザインを示している。",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "米国のPC出荷台数、2026年第1四半期に7%減少、年間14%の縮小が見込まれる",
-    "summary": "メモリとストレージの価格上昇により、特に低価格ノートPCセグメントでコンピューターの需要が減退している。",
-    "source": [
-      "elchapuzasinformatico.com",
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "米国の郡、AIデータセンターによる価格高騰のため電力消費削減を要請",
-    "summary": "データセンターの拡大がエネルギー消費と料金を急騰させる中、イーロン・マスクは影響を受ける住民にStarlinkの割引を提供している。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "WhatsAppのユーザー名、なりすまし警告を引き起こし、広告との関連性が指摘される",
-    "summary": "新機能はすでになりすましの事例を引き起こしており、広告のセグメント化に利用される可能性があることが明らかになった。",
+    "title": "Apple、2027年初頭に新しいiPad ProとMacBook Proを発売予定",
+    "summary": "同社はM7チップを含むプロフェッショナル向けデバイスの大規模なアップデートを準備している。",
     "source": [
       "techcrunch.com",
-      "xataka.com"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIA GeForce RTX 5090D、Blackwell GPUとして初の4GHz周波数達成",
-    "summary": "GALAXのHOF OC LABエディションがクロック速度の記録を達成し、Blackwellアーキテクチャの可能性を示している。",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ValveのSteam Machine、シングルチャネルRAM使用時にパフォーマンス低下",
-    "summary": "テストでは、シングルチャネルメモリの使用によりグラフィックパフォーマンスが最大2.5%低下し、設計に対する批判が生じている。",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX、xAIの人工知能を搭載したスマートフォンのプロトタイプを公開",
-    "summary": "宇宙企業はAIを内蔵した薄型デバイスを発表し、自社製電話への第一歩と思われる。",
+    "title": "Anthropic、Fable 5モデルの需要によりClaude Codeのプロンプトを80%削減",
+    "summary": "Fable 5の新しいAIモデルはより簡潔な指示を好むため、Claudeのシステムを削減することになった。",
     "source": [
       "the-decoder.com",
-      "techcrunch.com"
+      "xataka"
     ],
     "count": 2
   },
   {
-    "title": "Bending Spoons、初日の取引で40%上昇して上場",
-    "summary": "アプリ企業はIPOで180億ドルを調達し、創業者は成功の秘訣は運を最小限にすることだと強調している。",
+    "title": "EU、グーグルに対する巨額の41億ユーロ制裁金を確認、独占的地位の濫用で",
+    "summary": "欧州連合司法裁判所は同社に課された過去最高の独禁法制裁を承認した。",
+    "source": [
+      "xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "米国政府が新たな大規模サイバー攻撃を受ける",
+    "summary": "当局は連邦システムのセキュリティ侵害を確認したが、現時点では全容は明らかにされていない。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Venice AI、6500万ドルのシリーズAラウンドでユニコーンに",
-    "summary": "プライバシー重視のAIプラットフォームは、市場における独自のアプローチにより評価額が急上昇している。",
+    "title": "Meta、AIコンピューティング容量のレンタルを計画、AWSと直接競合へ",
+    "summary": "マーク・ザッカーバーグ氏の会社は第三者にAIインフラを提供する可能性があり、株式市場の下落を引き起こした。",
     "source": [
-      "techcrunch.com"
+      "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "Apple、来年初めに新型iPad ProとMacBook Proを発売予定",
-    "summary": "同社はプロフェッショナル向けデバイスに、パフォーマンスと接続性の向上を含む主要なアップデートを計画している。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AppleのHide My Emailの欠陥により実際のメールアドレスが露呈",
-    "summary": "iCloudのプライバシー機能の脆弱性により、第三者による非公開アカウントの取得が可能になると研究者が報告。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "OpenAI、ゲノミクスに関する学術論文で誤ってProモデルを公開",
-    "summary": "研究論文により未発表の言語モデルバージョンの存在が明らかになり、今後のサブスクリプション計画の拡大が示唆された。",
+    "title": "Nvidia、大手チップベンダーへの依存を減らすためAIスタートアップを資金調達",
+    "summary": "同社はエコシステムを多様化し、ビッグテックの力を抑えるために新興企業に投資している。",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Anthropic、トークン料金を変更せずにClaude Sonnet 5の値上げを隠蔽",
-    "summary": "同社は新モデルのコンテキスト制限と使用量を調整し、基本料金を変えずにサービスを実質的に値上げしている。",
+    "title": "Microsoft、25億ドルでAI展開に特化した企業を設立",
+    "summary": "テクノロジー大手は企業における人工知能の導入を加速するため、新たな子会社を設立する。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "AIエージェントがフリーランス業務の16%をプロ品質で実行",
+    "summary": "わずか8ヶ月で、自律型アシスタントの熟練タスクにおける能力は2.5%から16%に上昇した。",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "ハッカーがClaudeを騙し、米国のほぼすべての音楽フェスティバルの偽チケットを発行",
-    "summary": "AnthropicのAIが操作されてアクセスパスを生成し、チケット発行システムの深刻なセキュリティ欠陥が露呈した。",
+    "title": "日本の最高裁、AIは特許の発明者として認められないと判決",
+    "summary": "日本の裁判所は、発明者として認められるのは人間のみであると判断し、法的な先例となった。",
     "source": [
-      "wired.com"
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "BYD、2027年までにスペインに1500kWの超急速充電器を設置へ",
+    "summary": "中国メーカーはテスラのモデルを模倣し、高出力充電ステーションのネットワークを計画している。",
+    "source": [
+      "xataka"
+    ],
+    "count": 1
+  },
+  {
+    "title": "シンガポール、Nvidia GPUの密輸容疑者から4200万ドルの邸宅を押収",
+    "summary": "当局はAIサーバーを中国に違法輸出した疑いのある個人の口座と資産を凍結した。",
+    "source": [
+      "tomshardware.com"
     ],
     "count": 1
   }
