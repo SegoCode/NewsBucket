@@ -1,47 +1,56 @@
 [
   {
-    "title": "Sony will stop manufacturing PlayStation game discs as of January 2028 and will focus on digital format",
-    "summary": "Sony will close the PlayStation Store for PS3 and PS Vita and halt production of physical discs for new releases starting in January 2028, ushering in the digital era on its consoles.",
+    "title": "Sony announces the end of physical disc production for PlayStation in January 2028",
+    "summary": "The company confirms that new games will only be released digitally and will close the PS3 and PS Vita store, marking the end of an era.",
     "source": [
       "techcrunch.com",
       "tomshardware.com",
+      "/r/hardware",
       "xataka.com",
-      "/r/technology",
+      "videocardz.com",
       "hardzone.es",
       "elchapuzasinformatico.com",
-      "news.ycombinator.com",
-      "videocardz.com"
+      "news.ycombinator.com"
     ],
     "count": 8
   },
   {
-    "title": "US lifts restrictions on Anthropic's Fable 5 and Mythos 5 AI models after two-week veto",
-    "summary": "After two weeks of government veto due to a jailbreak vulnerability, the AI models regain global availability with a new security filter.",
+    "title": "Anthropic restores its Claude Fable 5 model after the US lifts export controls",
+    "summary": "The AI model is again available globally after two weeks of ban due to a jailbreak, now with a more restrictive security filter.",
     "source": [
       "news.ycombinator.com",
       "wired.com",
       "tomshardware.com",
       "elchapuzasinformatico.com",
       "the-decoder.com",
-      "thehackernews.com",
-      "techcrunch.com",
-      "kite.kagi.com"
+      "thehackernews.com"
     ],
-    "count": 8
+    "count": 6
   },
   {
-    "title": "A vulnerability in Apple's 'Hide My Email' exposes users' real email addresses",
-    "summary": "The function designed to hide users' real email addresses has a flaw that reveals the true data, compromising privacy.",
+    "title": "Microsoft plans an Xbox Project Helix console without a disc drive and tests digitization of physical games",
+    "summary": "Rumors indicate that the next Xbox will be fully digital, while Microsoft explores ways to convert existing physical games to digital.",
     "source": [
+      "/r/hardware",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Meta builds a cloud business to sell its surplus AI computing capacity",
+    "summary": "Following the example of SpaceX, the company seeks to monetize the excess power of its data centers by offering it to external customers.",
+    "source": [
+      "the-decoder.com",
       "techcrunch.com",
-      "/r/technology",
-      "news.ycombinator.com"
+      "/r/hardware"
     ],
     "count": 3
   },
   {
-    "title": "Cinder City is the first game requiring 64 GB of RAM as a recommended requirement",
-    "summary": "The new indie title sets a new standard in PC hardware requirements, far surpassing the specifications of most current games.",
+    "title": "Cinder City becomes the first game to require 64 GB of RAM as a recommended requirement",
+    "summary": "The independent video game sets a new standard of technical specifications, sparking debate over the evolution of hardware requirements.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es",
@@ -50,99 +59,8 @@
     "count": 3
   },
   {
-    "title": "The next Xbox Project Helix and PlayStation 6 aim to be fully digital consoles without a disc drive",
-    "summary": "According to various leaks, both Microsoft and Sony would opt to eliminate the disc drive in their next consoles to promote digital distribution.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "PC shipments fall 7% in the US during the first quarter of 2026 and an annual drop of 14% is expected",
-    "summary": "The rise in prices of components such as memory and storage causes a slump in computer sales, especially in low-cost laptops.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta plans to sell its spare AI computing capacity as a cloud business",
-    "summary": "Mark Zuckerberg's company seeks to profit from its AI infrastructure investments by renting out excess capacity to third parties.",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The NVIDIA GeForce RTX 5090D reaches 4 GHz for the first time on a Blackwell GPU",
-    "summary": "GALAX's special HOF OC LAB edition becomes the first GPU of the Blackwell architecture to surpass the 4 GHz barrier through overclocking.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steam Machine gets 2.5% more GPU performance when using dual-channel RAM",
-    "summary": "Tests show that Valve's console experiences a modest improvement in graphics performance when using RAM in dual-channel configuration.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "South Korea will invest $520 billion together with Samsung and SK Hynix to lead AI memory",
-    "summary": "The joint plan of the South Korean government and local tech giants seeks to secure global leadership in the manufacturing of semiconductors for artificial intelligence.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The ESA declares private servers for Minecraft and Call of Duty illegal, considering them piracy",
-    "summary": "The association representing the video game industry warns that unauthorized private servers violate copyright, which halts a legislative initiative to protect online games.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic launches Claude Sonnet 5 with lower rates but hides a real increase in price per token",
-    "summary": "Anthropic's new model is promoted as cheaper but changes in token counting mean a real price increase for developers who use it intensively.",
-    "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google launches the affordable AI model Nano Banana 2 Lite and the Gemini Omni Flash video generator",
-    "summary": "Google expands its artificial intelligence ecosystem with more accessible models and new on-demand video generation capabilities.",
-    "source": [
-      "alternativeto.net",
-      "producthunt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenClaw launches native apps for iOS and Android",
-    "summary": "The open-source platform now offers native apps for mobile devices, facilitating access from anywhere.",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DeepSeek V4 reduces token cost by up to 80% and NVIDIA optimizes its Blackwell GPUs for Chinese AI",
-    "summary": "The joint optimization between the Chinese model DeepSeek V4 and NVIDIA's Blackwell GPUs promises a drastic reduction in AI computational cost.",
+    "title": "NVIDIA and DeepSeek V4 reduce AI cost per token by up to 80% with Blackwell GPU optimizations",
+    "summary": "Software improvements allow the Chinese language model to run more efficiently, reducing its cost in business applications.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es"
@@ -150,42 +68,121 @@
     "count": 2
   },
   {
-    "title": "US Supreme Court rules that mass collection of location data requires a warrant",
-    "summary": "The judicial ruling reinforces digital privacy protection by considering that the mass collection of geolocation data without a warrant affects the Fourth Amendment.",
+    "title": "South Korea to invest $520 billion alongside Samsung and SK Hynix to dominate AI memory",
+    "summary": "The ambitious national plan seeks to lead production of memory chips and robotics, with a total investment close to one trillion dollars.",
     "source": [
-      "/r/technology"
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "PC shipments in the US fall 7% in Q1 2026 and a 14% annual contraction is expected",
+    "summary": "The increase in memory and storage prices dampens demand for computers, especially in the budget laptop segment.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "US counties ask to reduce electricity consumption due to price hikes from AI data centers",
+    "summary": "The expansion of data centers skyrockets energy consumption and rates, while Elon Musk offers Starlink discounts to affected neighbors.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "WhatsApp usernames generate identity theft alerts and are linked to advertising",
+    "summary": "The new feature is already causing cases of impostors, while it is revealed that it could be used to target ads.",
+    "source": [
+      "techcrunch.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The NVIDIA GeForce RTX 5090D becomes the first Blackwell GPU to reach 4 GHz frequency",
+    "summary": "The GALAX HOF OC LAB edition achieves a clock speed record, demonstrating the potential of the Blackwell architecture.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve's Steam Machine performance suffers when using single-channel RAM",
+    "summary": "Tests show that the use of single-channel memory penalizes graphics performance by up to 2.5%, generating criticism of the design.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX shows a smartphone prototype with xAI artificial intelligence",
+    "summary": "The space company presents a thin device with integrated AI, in what appears to be a first step towards its own phone.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bending Spoons goes public with a 40% increase on its first day of trading",
+    "summary": "The app company raises $18 billion in its IPO and its founder emphasizes that success is based on minimizing luck.",
+    "source": [
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "BYD prepares to surpass Tesla again in electric car sales",
-    "summary": "The Chinese company continues its global expansion and could temporarily snatch the top spot in electric vehicle sales from Tesla.",
+    "title": "Venice AI becomes a unicorn after a $65 million Series A round",
+    "summary": "The privacy-focused AI platform sees its valuation skyrocket due to its unique approach in the market.",
     "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "US evaluates lifting the ban on commercial supersonic flights",
-    "summary": "The US government analyzes removing historical restrictions that banned supersonic flights over land due to noise, which could revolutionize commercial aviation.",
+    "title": "Apple plans to launch new iPad Pro and MacBook Pro early next year",
+    "summary": "The company plans major updates for its professional devices with improvements in performance and connectivity.",
     "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Swedish court orders Google to pay $1.5 billion to Klarna for antitrust damages",
-    "summary": "The conviction for abuse of dominant position in the search and online advertising market marks a milestone in the European antitrust fight against big tech.",
+    "title": "A flaw in Apple's Hide My Email exposes real email addresses",
+    "summary": "The vulnerability in the iCloud privacy feature allows third parties to obtain the hidden accounts, according to a researcher.",
     "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "OpenAI accidentally reveals a new line of 'Pro' models in a genomics article",
-    "summary": "A scientific article published by OpenAI accidentally includes mentions of a range of more advanced 'Pro' models that the company has not yet officially confirmed.",
+    "title": "OpenAI accidentally reveals a Pro model in an academic paper on genomics",
+    "summary": "A research paper hints at the existence of an unannounced version of its language model, pointing to a future expansion of its subscription plans.",
     "source": [
       "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Anthropic hides price increases in Claude Sonnet 5 without changing per-token rates",
+    "summary": "The company adjusts context limits and uses of its new model, making the service more expensive without apparent changes to base prices.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "A hacker tricks Claude into issuing fake tickets for nearly all US music festivals",
+    "summary": "Anthropic's AI was manipulated to generate access passes, exposing serious security flaws in ticket issuing systems.",
+    "source": [
+      "wired.com"
     ],
     "count": 1
   }

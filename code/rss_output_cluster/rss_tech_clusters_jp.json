@@ -1,47 +1,56 @@
 [
   {
-    "title": "ソニー、2028年1月よりPlayStation向けゲームディスクの製造を終了し、デジタル形式に注力",
-    "summary": "ソニーはPS3とPS VitaのPlayStation Storeを閉鎖し、2028年1月より新作の物理ディスクの生産を停止、コンソールのデジタル時代への移行を進める。",
+    "title": "ソニー、2028年1月にPlayStation向け物理ディスクの生産終了を発表",
+    "summary": "同社は新作ゲームはデジタル形式のみでリリースされ、PS3とPS Vitaのストアを閉鎖することを確認し、一つの時代の終わりを告げる。",
     "source": [
       "techcrunch.com",
       "tomshardware.com",
+      "/r/hardware",
       "xataka.com",
-      "/r/technology",
+      "videocardz.com",
       "hardzone.es",
       "elchapuzasinformatico.com",
-      "news.ycombinator.com",
-      "videocardz.com"
+      "news.ycombinator.com"
     ],
     "count": 8
   },
   {
-    "title": "米国、AnthropicのAIモデルFable 5とMythos 5に対する2週間の禁止措置を解除",
-    "summary": "脱獄の脆弱性による2週間の政府による禁止措置を経て、AIモデルが新しいセキュリティフィルターを備えて世界的に利用可能に。",
+    "title": "Anthropic、米国の輸出規制解除によりClaude Fable 5モデルを復元",
+    "summary": "AIモデルはジェイルブレイクによる2週間の禁止後、再びグローバルに利用可能になり、より厳格なセキュリティフィルターが追加された。",
     "source": [
       "news.ycombinator.com",
       "wired.com",
       "tomshardware.com",
       "elchapuzasinformatico.com",
       "the-decoder.com",
-      "thehackernews.com",
-      "techcrunch.com",
-      "kite.kagi.com"
+      "thehackernews.com"
     ],
-    "count": 8
+    "count": 6
   },
   {
-    "title": "Appleの「メールを非表示」に脆弱性、ユーザーの実際のメールアドレスが露呈",
-    "summary": "ユーザーの実際のメールアドレスを隠すために設計された機能に、真のデータを明らかにしプライバシーを危険にさらす欠陥がある。",
+    "title": "Microsoft、ディスクドライブなしのXbox Project Helixコンソールを計画、物理ゲームのデジタル化をテスト",
+    "summary": "噂によると、次期Xboxは完全デジタルになるとされ、Microsoftは既存の物理ゲームをデジタルに変換する方法を模索している。",
     "source": [
+      "/r/hardware",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Meta、AIコンピューティングの余剰能力を販売するクラウド事業を構築",
+    "summary": "SpaceXの例に倣い、同社はデータセンターの余剰電力を外部顧客に提供することで収益化を図っている。",
+    "source": [
+      "the-decoder.com",
       "techcrunch.com",
-      "/r/technology",
-      "news.ycombinator.com"
+      "/r/hardware"
     ],
     "count": 3
   },
   {
-    "title": "Cinder City、推奨要件として64GBのRAMを要求する初めてのゲームに",
-    "summary": "この新しいインディータイトルは、PCのハードウェア要件に新たな基準を打ち立て、現在のほとんどのゲームの仕様を大幅に上回る。",
+    "title": "Cinder City、推奨要件として64GBのRAMを要求する初のゲームに",
+    "summary": "このインディーゲームは技術仕様の新たな基準を打ち立て、ハードウェア要件の進化について議論を巻き起こしている。",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es",
@@ -50,99 +59,8 @@
     "count": 3
   },
   {
-    "title": "次期Xbox Project HelixとPlayStation 6はディスクドライブなしの完全デジタルコンソールを目指す",
-    "summary": "複数のリークによると、MicrosoftとSonyはどちらも次世代コンソールからディスクドライブを廃止し、デジタル配信を促進する見込み。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "2026年第1四半期の米国PC出荷台数が7%減少、年間14%の急落が見込まれる",
-    "summary": "メモリやストレージなどのコンポーネント価格の上昇により、特に低価格ノートPCでコンピューター販売が急落。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta、余剰AI計算能力をクラウド事業として販売へ",
-    "summary": "マーク・ザッカーバーグ率いる同社は、余剰能力を第三者に貸し出すことでAIインフラへの投資を収益化しようとしている。",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA GeForce RTX 5090D、Blackwell GPUで初めて4GHzを達成",
-    "summary": "GALAXの特別版HOF OC LABが、オーバークロックにより4GHzの壁を突破した最初のBlackwellアーキテクチャGPUとなる。",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steam Machine、デュアルチャネルRAM使用時にGPUパフォーマンスが2.5%向上",
-    "summary": "テストでは、Valveのコンソールがデュアルチャネル構成のRAMを使用すると、グラフィック性能が適度に向上することが示されている。",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "韓国、SamsungやSK Hynixと共に5200億ドルを投資しAIメモリ市場でリードへ",
-    "summary": "韓国政府と現地テクノロジー大手の共同計画は、人工知能用半導体製造における世界的リーダーシップを確保することを目指す。",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ESA、MinecraftとCall of Dutyのプライベートサーバーを違法と宣言、著作権侵害とみなす",
-    "summary": "ゲーム業界を代表する団体は、許可されていないプライベートサーバーが著作権を侵害すると警告し、オンラインゲーム保護のための立法イニシアチブを妨げている。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic、低料金を謳うClaude Sonnet 5を発表するも、トークン単価の実質的な値上げを隠蔽",
-    "summary": "Anthropicの新モデルはより安いと宣伝されているが、トークンカウントの変更により、集中的に使用する開発者にとっては実質的なコスト増となる。",
-    "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google、低価格AIモデルNano Banana 2 Liteと動画生成Gemini Omni Flashを発表",
-    "summary": "Googleは、よりアクセスしやすいモデルと新しいオンデマンド動画生成機能でAIエコシステムを拡大。",
-    "source": [
-      "alternativeto.net",
-      "producthunt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenClaw、iOSとAndroid向けネイティブアプリをリリース",
-    "summary": "このオープンソースプラットフォームは、モバイルデバイス向けのネイティブアプリを提供し、どこからでもアクセスしやすくなる。",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DeepSeek V4、トークンコストを最大80%削減、NVIDIAはBlackwell GPUを中国のAI向けに最適化",
-    "summary": "中国のモデルDeepSeek V4とNVIDIAのBlackwell GPUの共同最適化により、AIの計算コストの大幅な削減が約束される。",
+    "title": "NVIDIAとDeepSeek V4、Blackwell GPUの最適化によりAIのトークンあたりのコストを最大80%削減",
+    "summary": "ソフトウェアの改善により、中国語の言語モデルをより効率的に実行できるようになり、企業アプリケーションでの使用コストが低減される。",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es"
@@ -150,42 +68,121 @@
     "count": 2
   },
   {
-    "title": "米最高裁判所、大規模な位置情報データの収集には令状が必要との判断",
-    "summary": "この判決は、令状なしでの大規模な地理位置情報データの収集は修正第四条に関わるとし、デジタルプライバシー保護を強化する。",
+    "title": "韓国、SamsungやSK Hynixと共に5200億ドルを投資しAIメモリ市場を支配へ",
+    "summary": "この野心的な国家計画は、メモリチップとロボティクスの生産でリーダーシップを目指し、総投資額は1兆ドル近くに上る。",
     "source": [
-      "/r/technology"
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米国のPC出荷台数、2026年第1四半期に7%減少、年間14%の縮小が見込まれる",
+    "summary": "メモリとストレージの価格上昇により、特に低価格ノートPCセグメントでコンピューターの需要が減退している。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米国の郡、AIデータセンターによる価格高騰のため電力消費削減を要請",
+    "summary": "データセンターの拡大がエネルギー消費と料金を急騰させる中、イーロン・マスクは影響を受ける住民にStarlinkの割引を提供している。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "WhatsAppのユーザー名、なりすまし警告を引き起こし、広告との関連性が指摘される",
+    "summary": "新機能はすでになりすましの事例を引き起こしており、広告のセグメント化に利用される可能性があることが明らかになった。",
+    "source": [
+      "techcrunch.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA GeForce RTX 5090D、Blackwell GPUとして初の4GHz周波数達成",
+    "summary": "GALAXのHOF OC LABエディションがクロック速度の記録を達成し、Blackwellアーキテクチャの可能性を示している。",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ValveのSteam Machine、シングルチャネルRAM使用時にパフォーマンス低下",
+    "summary": "テストでは、シングルチャネルメモリの使用によりグラフィックパフォーマンスが最大2.5%低下し、設計に対する批判が生じている。",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX、xAIの人工知能を搭載したスマートフォンのプロトタイプを公開",
+    "summary": "宇宙企業はAIを内蔵した薄型デバイスを発表し、自社製電話への第一歩と思われる。",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bending Spoons、初日の取引で40%上昇して上場",
+    "summary": "アプリ企業はIPOで180億ドルを調達し、創業者は成功の秘訣は運を最小限にすることだと強調している。",
+    "source": [
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "BYD、再びテスラを抜いて電気自動車販売でトップに立つ準備",
-    "summary": "中国企業はグローバル展開を続けており、一時的にテスラから電気自動車販売の首位を奪う可能性がある。",
+    "title": "Venice AI、6500万ドルのシリーズAラウンドでユニコーンに",
+    "summary": "プライバシー重視のAIプラットフォームは、市場における独自のアプローチにより評価額が急上昇している。",
     "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "米国、民間超音速飛行の禁止解除を検討",
-    "summary": "米国政府は、騒音を理由に陸上での超音速飛行を禁止してきた歴史的な制限を撤廃することを検討しており、民間航空業界に革命をもたらす可能性がある。",
+    "title": "Apple、来年初めに新型iPad ProとMacBook Proを発売予定",
+    "summary": "同社はプロフェッショナル向けデバイスに、パフォーマンスと接続性の向上を含む主要なアップデートを計画している。",
     "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "スウェーデン裁判所、GoogleにKlarnaへの15億ドルの支払いを独占禁止法違反で命令",
-    "summary": "検索とオンライン広告市場での優位的地位の濫用による有罪判決は、大手テクノロジー企業に対する欧州の独占禁止法闘いにおける画期的な出来事である。",
+    "title": "AppleのHide My Emailの欠陥により実際のメールアドレスが露呈",
+    "summary": "iCloudのプライバシー機能の脆弱性により、第三者による非公開アカウントの取得が可能になると研究者が報告。",
     "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "OpenAI、ゲノミクス論文で偶然にも新しい「Pro」モデルシリーズを暴露",
-    "summary": "OpenAIが公開した科学論文に、同社がまだ公式に確認していない、より高度な「Pro」モデルシリーズへの言及が誤って含まれている。",
+    "title": "OpenAI、ゲノミクスに関する学術論文で誤ってProモデルを公開",
+    "summary": "研究論文により未発表の言語モデルバージョンの存在が明らかになり、今後のサブスクリプション計画の拡大が示唆された。",
     "source": [
       "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Anthropic、トークン料金を変更せずにClaude Sonnet 5の値上げを隠蔽",
+    "summary": "同社は新モデルのコンテキスト制限と使用量を調整し、基本料金を変えずにサービスを実質的に値上げしている。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ハッカーがClaudeを騙し、米国のほぼすべての音楽フェスティバルの偽チケットを発行",
+    "summary": "AnthropicのAIが操作されてアクセスパスを生成し、チケット発行システムの深刻なセキュリティ欠陥が露呈した。",
+    "source": [
+      "wired.com"
     ],
     "count": 1
   }

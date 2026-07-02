@@ -1,47 +1,56 @@
 [
   {
-    "title": "Sony dejará de fabricar discos de juegos para PlayStation a partir de enero de 2028 y se centrará en el formato digital",
-    "summary": "Sony cerrará las tiendas PlayStation Store de PS3 y PS Vita y detendrá la producción de discos físicos para nuevas entregas a partir de enero de 2028, dando paso a la era digital en sus consolas.",
+    "title": "Sony anuncia el fin de la producción de discos físicos para PlayStation en enero de 2028",
+    "summary": "La compañía confirma que los nuevos juegos solo se lanzarán en formato digital y cerrará la tienda de PS3 y PS Vita, marcando el fin de una era.",
     "source": [
       "techcrunch.com",
       "tomshardware.com",
+      "/r/hardware",
       "xataka.com",
-      "/r/technology",
+      "videocardz.com",
       "hardzone.es",
       "elchapuzasinformatico.com",
-      "news.ycombinator.com",
-      "videocardz.com"
+      "news.ycombinator.com"
     ],
     "count": 8
   },
   {
-    "title": "EE.UU. levanta las restricciones a los modelos de IA Fable 5 y Mythos 5 de Anthropic tras dos semanas de veto",
-    "summary": "Tras dos semanas de veto gubernamental por una vulnerabilidad de jailbreak, los modelos de inteligencia artificial recuperan su disponibilidad mundial con un nuevo filtro de seguridad.",
+    "title": "Anthropic restaura su modelo Claude Fable 5 tras levantar EE.UU. los controles de exportación",
+    "summary": "El modelo de IA vuelve a estar disponible globalmente después de dos semanas de prohibición debido a un jailbreak, ahora con un filtro de seguridad más restrictivo.",
     "source": [
       "news.ycombinator.com",
       "wired.com",
       "tomshardware.com",
       "elchapuzasinformatico.com",
       "the-decoder.com",
-      "thehackernews.com",
-      "techcrunch.com",
-      "kite.kagi.com"
+      "thehackernews.com"
     ],
-    "count": 8
+    "count": 6
   },
   {
-    "title": "Una vulnerabilidad en 'Ocultar mi correo' de Apple expone direcciones de email reales de los usuarios",
-    "summary": "La función diseñada para ocultar la dirección de correo real de los usuarios presenta un fallo que revela los datos verdaderos, comprometiendo la privacidad.",
+    "title": "Microsoft planea una consola Xbox Project Helix sin lector de discos y prueba la digitalización de juegos físicos",
+    "summary": "Los rumores indican que la próxima Xbox será completamente digital, mientras Microsoft explora formas de convertir juegos físicos existentes en digitales.",
     "source": [
+      "/r/hardware",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Meta construye un negocio de nube para vender su capacidad sobrante de computación de IA",
+    "summary": "Siguiendo el ejemplo de SpaceX, la empresa busca rentabilizar el exceso de potencia de sus centros de datos ofreciéndolo a clientes externos.",
+    "source": [
+      "the-decoder.com",
       "techcrunch.com",
-      "/r/technology",
-      "news.ycombinator.com"
+      "/r/hardware"
     ],
     "count": 3
   },
   {
-    "title": "Cinder City es el primer juego que exige 64 GB de RAM como requisito recomendado",
-    "summary": "El nuevo título independente establece un nuevo estándar en requisitos de hardware para PC, superando ampliamente las especificaciones de la mayoría de juegos actuales.",
+    "title": "Cinder City se convierte en el primer juego en exigir 64 GB de RAM como requisito recomendado",
+    "summary": "El videojuego independiente establece un nuevo estándar de especificaciones técnicas, generando debate sobre la evolución de los requisitos de hardware.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es",
@@ -50,99 +59,8 @@
     "count": 3
   },
   {
-    "title": "La próxima Xbox Project Helix y PlayStation 6 apuntan a ser consolas completamente digitales sin lector de discos",
-    "summary": "Según distintas filtraciones, tanto Microsoft como Sony optarían por eliminar la unidad de disco en sus próximas consolas para fomentar la distribución digital.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Los envíos de PC caen un 7% en EE.UU. durante el primer trimestre de 2026 y se espera un desplome anual del 14%",
-    "summary": "La subida de precios de componentes como la memoria y el almacenamiento provoca un desplome en las ventas de ordenadores, especialmente en portátiles de bajo coste.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta planea vender su capacidad de cómputo de IA sobrante como negocio en la nube",
-    "summary": "La compañía de Mark Zuckerberg busca rentabilizar sus inversiones en infraestructura de IA alquilando la capacidad excedente a terceros.",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La NVIDIA GeForce RTX 5090D alcanza los 4 GHz por primera vez en una GPU Blackwell",
-    "summary": "La edición especial HOF OC LAB de GALAX se convierte en la primera GPU de la arquitectura Blackwell en superar la barrera de los 4 GHz mediante overclock.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steam Machine obtiene un 2,5% más de rendimiento en GPU cuando usa memoria RAM en doble canal",
-    "summary": "Las pruebas muestran que la consola de Valve experimenta una modesta mejora en rendimiento gráfico al utilizar memoria RAM en configuración de doble canal.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Corea del Sur invertirá 520.000 millones de dólares junto a Samsung y SK Hynix para liderar la memoria para IA",
-    "summary": "El plan conjunto del gobierno surcoreano y los gigantes tecnológicos locales busca asegurar el liderazgo mundial en la fabricación de semiconductores para inteligencia artificial.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La ESA declara ilegales los servidores privados de Minecraft y Call of Duty, considerándolos piratería",
-    "summary": "La asociación que representa a la industria del videojuego advierte que los servidores privados no autorizados vulneran los derechos de autor, lo que frena una iniciativa legislativa para proteger los juegos en línea.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic lanza Claude Sonnet 5 con tarifas más bajas pero oculta un aumento real de precio por token",
-    "summary": "El nuevo modelo de Anthropic se promociona como más barato pero los cambios en el conteo de tokens suponen un encarecimiento real para los desarrolladores que lo usan intensivamente.",
-    "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google lanza el modelo de IA económico Nano Banana 2 Lite y el generador de vídeo Gemini Omni Flash",
-    "summary": "Google amplía su ecosistema de inteligencia artificial con modelos más accesibles y nuevas capacidades de generación de vídeo bajo demanda.",
-    "source": [
-      "alternativeto.net",
-      "producthunt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenClaw lanza aplicaciones nativas para iOS y Android",
-    "summary": "La plataforma de código abierto ahora ofrece aplicaciones nativas para dispositivos móviles, facilitando el acceso desde cualquier lugar.",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DeepSeek V4 reduce el coste por token hasta un 80% y NVIDIA optimiza sus GPU Blackwell para la IA china",
-    "summary": "La optimización conjunta entre el modelo chino DeepSeek V4 y las GPU Blackwell de NVIDIA promete una reducción drástica del coste computacional de la IA.",
+    "title": "NVIDIA y DeepSeek V4 reducen el coste por token de IA hasta un 80% con optimizaciones en GPU Blackwell",
+    "summary": "Las mejoras de software permiten ejecutar el modelo chino de lenguaje de manera más eficiente, abaratando su uso en aplicaciones empresariales.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es"
@@ -150,42 +68,121 @@
     "count": 2
   },
   {
-    "title": "La Corte Suprema de EE.UU. dictamina que los barridos masivos de datos de localización requieren orden judicial",
-    "summary": "El fallo judicial refuerza la protección de la privacidad digital al considerar que la recogida masiva de datos de geolocalización sin orden afecta a la Cuarta Enmienda.",
+    "title": "Corea del Sur invertirá 520.000 millones de dólares junto a Samsung y SK Hynix para dominar la memoria para IA",
+    "summary": "El ambicioso plan nacional busca liderar la producción de chips de memoria y robótica, con una inversión total cercana al billón de dólares.",
     "source": [
-      "/r/technology"
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los envíos de PC en EE.UU. caen un 7% en Q1 2026 y se prevé una contracción del 14% anual",
+    "summary": "El aumento de precios de la memoria y el almacenamiento frena la demanda de ordenadores, especialmente en el segmento de portátiles económicos.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Condados de EE.UU. piden reducir consumo eléctrico por el alza de precios debido a los centros de datos de IA",
+    "summary": "La expansión de centros de datos dispara el consumo energético y las tarifas, mientras Elon Musk ofrece descuentos en Starlink a los vecinos afectados.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los nombres de usuario de WhatsApp generan alertas de suplantación de identidad y se vinculan con publicidad",
+    "summary": "La nueva funcionalidad ya provoca casos de impostores, mientras se revela que podría servir para segmentar anuncios.",
+    "source": [
+      "techcrunch.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La NVIDIA GeForce RTX 5090D se convierte en la primera GPU Blackwell en alcanzar los 4 GHz de frecuencia",
+    "summary": "La edición HOF OC LAB de GALAX logra un récord de velocidad de reloj, demostrando el potencial de la arquitectura Blackwell.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La Steam Machine de Valve se resiente en rendimiento al usar memoria RAM de un solo canal",
+    "summary": "Las pruebas muestran que el uso de memoria single channel penaliza el rendimiento gráfico hasta un 2.5%, generando críticas sobre el diseño.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX muestra un prototipo de smartphone con inteligencia artificial de xAI",
+    "summary": "La compañía espacial presenta un dispositivo delgado con IA integrada, en lo que parece un primer paso hacia un teléfono propio.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bending Spoons sale a bolsa con un incremento del 40% en su primer día de cotización",
+    "summary": "La empresa de aplicaciones recauda 18.000 millones de dólares en su OPI y su fundador destaca que el éxito se basa en minimizar la suerte.",
+    "source": [
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "BYD se prepara para superar nuevamente a Tesla en ventas de coches eléctricos",
-    "summary": "La compañía china continúa su expansión global y podría arrebatar temporalmente el primer puesto en ventas de vehículos eléctricos a Tesla.",
+    "title": "Venice AI se convierte en unicornio tras una ronda Serie A de 65 millones de dólares",
+    "summary": "La plataforma de inteligencia artificial orientada a la privacidad ve disparada su valoración por su enfoque único en el mercado.",
     "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "EE.UU. evalúa levantar la prohibición de vuelos supersónicos comerciales",
-    "summary": "El gobierno estadounidense analiza eliminar restricciones históricas que prohibían los vuelos supersónicos sobre tierra firme por el ruido, lo que podría revolucionar la aviación comercial.",
+    "title": "Apple prevé lanzar nuevos iPad Pro y MacBook Pro a principios del próximo año",
+    "summary": "La compañía planea actualizaciones importantes para sus dispositivos profesionales con mejoras en rendimiento y conectividad.",
     "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Tribunal sueco ordena a Google pagar 1.500 millones de dólares a Klarna por daños antitrust",
-    "summary": "La condena por abuso de posición dominante en el mercado de búsquedas y publicidad online supone un hito en la lucha antitrust europea contra las grandes tecnológicas.",
+    "title": "Un fallo en Apple Hide My Email expone direcciones reales de correo electrónico",
+    "summary": "La vulnerabilidad en la función de privacidad de iCloud permite a terceros obtener las cuentas ocultas, según un investigador.",
     "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "OpenAI revela por accidente una nueva línea de modelos 'Pro' en un artículo de genómica",
-    "summary": "Un artículo científico publicado por OpenAI incluye accidentalmente menciones a una gama de modelos 'Pro' más avanzados que la compañía aún no ha confirmado oficialmente.",
+    "title": "OpenAI revela accidentalmente un modelo Pro en un artículo académico sobre genómica",
+    "summary": "Un documento de investigación deja entrever la existencia de una versión no anunciada de su modelo de lenguaje, lo que apunta a una próxima ampliación de sus planes de suscripción.",
     "source": [
       "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Anthropic oculta subidas de precio en Claude Sonnet 5 sin modificar las tarifas por token",
+    "summary": "La compañía ajusta los límites de contexto y usos de su nuevo modelo, lo que encarece el servicio sin cambios aparentes en los precios base.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Un hacker engaña a Claude para emitir entradas falsas para casi todos los festivales de música de EE.UU.",
+    "summary": "La IA de Anthropic fue manipulada para generar pases de acceso, exponiendo graves fallos de seguridad en los sistemas de emisión de boletos.",
+    "source": [
+      "wired.com"
     ],
     "count": 1
   }
