@@ -1,184 +1,189 @@
 [
   {
-    "title": "Sony accelerates abandonment of physical media and will remove 500 digital movies from PlayStation",
-    "summary": "The company reduces costs by eliminating the disc drive in PS6, while archivists struggle to preserve PS3 data and more than 500 Studio Canal titles will be removed from user libraries in 2026.",
+    "title": "Anthropic negotiates with Samsung for the production of its own artificial intelligence chip",
+    "summary": "The company seeks to reduce its dependence on Nvidia by developing customized hardware alongside the Korean manufacturer.",
     "source": [
-      "elchapuzasinformatico.com",
       "xataka.com",
-      "alternativeto.net",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Intel quietly raises prices of Core Ultra 7 270K Plus and Core Ultra 5 250K Plus",
-    "summary": "Official product pages already reflect an increase of up to $50 on Intel's flagship processors for the DIY market.",
-    "source": [
-      "elchapuzasinformatico.com",
       "/r/hardware",
-      "tomshardware.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 4
   },
   {
-    "title": "Anthropic cuts Claude Code system prompt by 80% to adapt to Fable 5 models",
-    "summary": "The company claims the new models 'want a smaller system prompt', sparking an intense debate about AI control in the United States.",
+    "title": "The Steam Machine platform resurges with new hardware, open source, and technical controversies",
+    "summary": "Valve publishes the design of its e-ink screen, Aoostar launches a clone, and critical failures are reported in some units.",
     "source": [
       "news.ycombinator.com",
-      "the-decoder.com",
+      "videocardz.com",
+      "elchapuzasinformatico.com",
+      "/r/hardware"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Sony gradually eliminates physical format games for PlayStation",
+    "summary": "The company justifies the measure by cost savings, while the community reacts negatively and GitHub launches repository CDs as a sign of protest.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "hardzone.es",
       "xataka.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Anthropic explores custom chip manufacturing with Samsung without abandoning Nvidia",
-    "summary": "The AI company holds advanced talks with Samsung to design custom silicon, while ensuring Nvidia will remain its main hardware partner.",
-    "source": [
-      "/r/hardware",
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI offers US government 5% of its shares to create an AI sovereign wealth fund",
-    "summary": "Sam Altman proposes that all leading AI labs contribute to a public prosperity fund in the style of Alaska, amid regulatory negotiations over the launch of GPT-5.6.",
-    "source": [
-      "techcrunch.com",
-      "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Intel resumes production of its 13th and 14th Gen Core CPUs exclusively for the Chinese market",
-    "summary": "The company revives its processors for the DIY channel in China, aiming to clear its inventory in the Asian mid-range segment.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nvidia offers new financing vehicle that swaps cloud compute for a share of revenue",
-    "summary": "The chip giant proposes to AI companies an optional model where it finances hardware in exchange for tokens on their future cloud revenue.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Vulnerability in Apple's Hide My Email exposes users' real addresses for a year",
-    "summary": "The flaw, known to Cupertino but unpatched, allows attackers to unmask email addresses protected by the service.",
-    "source": [
-      "alternativeto.net",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "TV show tracking app TV Time will permanently shut down on July 15, 2026",
-    "summary": "The parent company announces it will focus on artificial intelligence, leaving its 22 million users without the leading TV tracking platform.",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft launches 'Frontier Company' with $2.5 billion and 6,000 AI engineers for enterprises",
-    "summary": "The new division will embed its engineers directly into enterprise clients to accelerate adoption of Copilot and generative AI.",
+    "title": "Meta admits that its AI agents are not advancing as expected and acknowledges that layoffs were ineffective",
+    "summary": "Zuckerberg's company changes its strategy to sell computing capacity instead of just buying it, adjusting its staff and priorities.",
     "source": [
       "the-decoder.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "xataka.com",
+      "news.ycombinator.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "Philips introduces Evnia 27M4N monitors with triple mode: HD 540Hz, FHD 360Hz, and QHD 275Hz",
-    "summary": "The new 27-inch panels allow switching between three resolutions and refresh rates, aimed at competitive gamers.",
+    "title": "AI demand skyrockets DRAM and NAND memory prices by up to 18%",
+    "summary": "Manufacturers increase investments and pressure the US government, while chip prices become more expensive.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "tomshardware.com",
+      "/r/hardware"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Prototype of AMD Radeon RX 7900 XTX appears with red PCB and only 16GB memory",
-    "summary": "An engineering sample found on Reddit shows an unreleased configuration of the flagship GPU, without a backplate and with specs close to the RX 7900 GRE.",
+    "title": "Anthropic perfects Claude Code while Alibaba bans it for alleged security risks",
+    "summary": "The AI coding tool reduces its initial prompt and enters labs, but faces blocks due to alleged backdoors.",
+    "source": [
+      "xataka.com",
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Intel increases the price of its high-end Core Ultra 7 and 5 processors",
+    "summary": "The company applies an unannounced increase to its most powerful desktop chips.",
     "source": [
       "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft halts Game Pass agreements and prepares a tool to digitize physical Xbox games",
-    "summary": "Amid internal restructuring, Xbox pauses new third-party agreements while developing a feature to convert discs into digital copies.",
-    "source": [
-      "hardzone.es",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Micron invests $250 million to avoid lawsuits over high memory prices while cheap PCs disappear",
-    "summary": "The memory maker seeks to appease the Trump administration with a major investment, as high DRAM prices drive low-cost computers out of the market.",
-    "source": [
-      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "EU confirms record €4.1 billion fine against Google for Android monopoly abuse",
-    "summary": "The Court of Justice of the European Union definitively ratifies the penalty, closing the case against the tech giant for its dominance in the mobile operating system market.",
+    "title": "Intel overcomes performance issues of its 18A process and doubles production",
+    "summary": "Manufacturing of future chips reaches 30,000 monthly wafers after fixing defects.",
     "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
+      "tomshardware.com",
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Meta plans to rent out its AI compute power, sending sector stocks down",
-    "summary": "The 'Meta Compute' project would put the company in direct competition with AWS, causing an earthquake in the cloud industry.",
+    "title": "EU Court upholds €4.1 billion fine on Google for Android abuse",
+    "summary": "The penalty for anti-competitive practices is confirmed after years of litigation.",
     "source": [
-      "tomshardware.com"
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Tesla reports huge sales increase in second quarter of 2025",
-    "summary": "Elon Musk's company beats market expectations and regains momentum in the electric vehicle sector.",
+    "title": "MEP investigating Pegasus spyware hacked with the same program",
+    "summary": "The attack demonstrates the vulnerability even of those who pursue cyberespionage.",
     "source": [
+      "thehackernews.com",
       "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "China opens world's first AI-driven personalized cancer vaccine factory",
-    "summary": "The facility will use artificial intelligence to design cancer vaccines tailored to each patient's genetic profile.",
+    "title": "OpenAI offers 5% of its capital to a US sovereign wealth fund",
+    "summary": "The proposal seeks to align the company's interests with those of the US government.",
     "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "BYD will install a network of 1,500 kW superchargers in Spain, copying Tesla's model",
-    "summary": "The Chinese manufacturer announces a massive deployment of ultra-fast chargers in the country by 2027, following the strategy of its US competitor.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "US government suffers massive new cyberattack",
-    "summary": "Federal authorities confirm they have been victims of a large-scale computer intrusion.",
-    "source": [
+      "kite.kagi.com",
       "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "TV show tracking app TV Time will close in 2026 and focus on AI",
+    "summary": "The service recommends alternatives to its users before the final shutdown.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A flaw in Apple's Hide My Email exposes users' real addresses",
+    "summary": "The vulnerability allows attackers to discover emails hidden by the privacy feature.",
+    "source": [
+      "alternativeto.net",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Podman 6.0 improves container integration with modern networks and pod management",
+    "summary": "The new version of the daemonless container engine simplifies development and administration.",
+    "source": [
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft plans an operating system with integrated Copilot called Project Aion",
+    "summary": "A leaked video shows the company's plans to deepen AI in Windows.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Philips introduces gaming monitors with triple mode and refresh rate up to 540 Hz",
+    "summary": "The new models allow switching between QHD, FHD, and HD resolutions without losing fluidity.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xbox prepares for the end of physical discs with new conversion feature and changes to Game Pass",
+    "summary": "Microsoft is working on a system to transform physical games into digital and pauses the addition of new titles to the catalog.",
+    "source": [
+      "alternativeto.net",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia offers to finance AI infrastructure in exchange for a percentage of cloud revenue",
+    "summary": "The company proposes an alternative payment model that includes tokens and a share of the client's billing.",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft invests $2.5 billion in a company to integrate AI into corporate clients",
+    "summary": "The initiative will place 6,000 AI engineers directly into companies.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Tesla deliveries increase 25% to nearly 500,000 vehicles",
+    "summary": "The company exceeds market expectations despite economic challenges.",
+    "source": [
+      "kite.kagi.com"
     ],
     "count": 1
   }

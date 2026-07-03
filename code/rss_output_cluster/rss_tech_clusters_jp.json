@@ -1,184 +1,189 @@
 [
   {
-    "title": "Sonyが物理フォーマットの放棄を加速、PlayStationから500のデジタル映画を削除へ",
-    "summary": "同社はPS6でのディスクドライブ廃止によりコスト削減を図る一方、アーキビストはPS3のデータ保存に奮闘し、2026年にはStudio Canalの500以上のタイトルがユーザーのライブラリから削除される予定。",
+    "title": "Anthropic、独自AIチップの製造をSamsungと交渉",
+    "summary": "同社はNvidiaへの依存を減らすため、韓国メーカーと協力してカスタムハードウェアを開発している。",
     "source": [
-      "elchapuzasinformatico.com",
       "xataka.com",
-      "alternativeto.net",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Intel、Core Ultra 7 270K PlusとCore Ultra 5 250K Plusの価格を静かに値上げ",
-    "summary": "公式製品ページには、DIY市場向けのIntelの主力プロセッサで最大50ドルの値上げがすでに反映されている。",
-    "source": [
-      "elchapuzasinformatico.com",
       "/r/hardware",
-      "tomshardware.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 4
   },
   {
-    "title": "Anthropic、Claude Codeのシステムプロンプトを80%削減しFable 5モデルに適応",
-    "summary": "同社は新しいモデルが「より小さなシステムプロンプトを望んでいる」と述べ、米国でAI制御に関する激しい議論を引き起こしている。",
+    "title": "Steam Machine、新ハードウェア、オープンソース、技術的論争とともに再浮上",
+    "summary": "Valveがe-inkディスプレイの設計を公開、Aoostarがクローンを発売、一部ユニットで重大な障害が報告される。",
     "source": [
       "news.ycombinator.com",
-      "the-decoder.com",
+      "videocardz.com",
+      "elchapuzasinformatico.com",
+      "/r/hardware"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Sony、PlayStation向け物理メディア版ゲームを段階的に廃止",
+    "summary": "同社はコスト削減を理由に説明する一方、コミュニティは否定的な反応を示し、抗議の意を込めてGitHubがリポジトリCDをリリース。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "hardzone.es",
       "xataka.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Anthropic、Nvidiaを離れずSamsungとカスタムチップ製造を模索",
-    "summary": "AI企業はSamsungとカスタムシリコン設計について高度な協議を続ける一方、Nvidiaが引き続きハードウェアの主要パートナーであるとしている。",
-    "source": [
-      "/r/hardware",
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI、米国政府に株式の5%を提供しAIソブリンファンドを創設へ",
-    "summary": "サム・アルトマンは、GPT-5.6リリースをめぐる規制交渉の中で、すべての主要AIラボがアラスカ型の公共福祉基金に貢献することを提案。",
-    "source": [
-      "techcrunch.com",
-      "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Intel、第13世代および第14世代Core CPUの生産を中国市場限定で再開",
-    "summary": "同社は中国のDIYチャネル向けにプロセッサを復活させ、アジアのミッドレンジセグメントで在庫を処分しようとしている。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nvidia、クラウドパワーと収益の一部を交換する新たな資金調達手段を提供",
-    "summary": "半導体大手はAI企業に対し、将来のクラウド収入に関するトークンと引き換えにハードウェアを融資するオプションモデルを提案。",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AppleのHide My Emailの脆弱性、1年前からユーザーの実際のメールアドレスを暴露",
-    "summary": "クパチーノ社が把握しているがパッチ未適用のこの欠陥により、攻撃者はサービスで保護された電子メールアドレスを特定できる。",
-    "source": [
-      "alternativeto.net",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "シリーズ追跡アプリTV Time、2026年7月15日に完全終了へ",
-    "summary": "親会社は人工知能に注力すると発表し、2200万人のユーザーがテレビ追跡の主力プラットフォームを失うことになる。",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、25億ドルと6000人のAIエンジニアを投入し「Frontier Company」を立ち上げ",
-    "summary": "新しい部門はエンジニアを企業顧客に直接配置し、Copilotと生成AIの導入を加速する。",
+    "title": "Meta、AIエージェントの進捗が期待通りでないことを認め、解雇は効果がなかったと認識",
+    "summary": "ザッカーバーグ率いる同社は、単に購入するのではなく、計算能力を販売する戦略に変更し、人員と優先順位を調整している。",
     "source": [
       "the-decoder.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "xataka.com",
+      "news.ycombinator.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "Philips、トリプルモード対応モニター「Evnia 27M4N」を発表：HD 540Hz、FHD 360Hz、QHD 275Hz",
-    "summary": "27インチの新しいパネルは3つの解像度とリフレッシュレートを切り替え可能で、競技ゲーマー向け。",
+    "title": "AI需要でDRAMとNANDメモリの価格が最大18%高騰",
+    "summary": "メーカーは投資を増やし米国政府に圧力をかける一方、チップ価格は上昇している。",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "tomshardware.com",
+      "/r/hardware"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "AMD Radeon RX 7900 XTXのプロトタイプが登場、赤いPCBとわずか16GBのメモリ",
-    "summary": "Redditで見つかったエンジニアリングサンプルは、未発表のフラッグシップGPU構成で、バックプレートなし、RX 7900 GREに近い仕様。",
+    "title": "AnthropicはClaude Codeを改良、一方Alibabaはセキュリティリスクの疑いで禁止",
+    "summary": "AIコーディングツールは初期プロンプトを減らしてラボに入るが、疑惑のバックドアによるブロックに直面。",
+    "source": [
+      "xataka.com",
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Intel、ハイエンドCore Ultra 7および5プロセッサの価格を引き上げ",
+    "summary": "同社は最も強力なデスクトップチップに事前予告なしに値上げを適用。",
     "source": [
       "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、Game Pass契約を停止しXboxの物理ゲームをデジタル化するツールを準備",
-    "summary": "内部再編の中で、Xboxは第三者との新規契約を一時停止し、ディスクをデジタルコピーに変換する機能を開発中。",
-    "source": [
-      "hardzone.es",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Micron、メモリ高価格による訴訟を避けるため2億5000万ドルを投資、低価格PCが消滅する中",
-    "summary": "メモリメーカーはトランプ政権をなだめるために多額の投資を行う一方、DRAMの高価格が低コストPCを市場から追い出している。",
-    "source": [
-      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "EU、Googleへの41億ユーロの制裁金を確定、Androidでの独占禁止法違反で",
-    "summary": "欧州連合司法裁判所は制裁を最終的に承認し、モバイルOS市場での支配をめぐる同テクノロジー大手に対する訴訟を終結させた。",
+    "title": "Intel、18Aプロセスの性能問題を克服し生産を倍増",
+    "summary": "欠陥を解決した後、将来のチップ製造は月間3万ウェーハに達する。",
     "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
+      "tomshardware.com",
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Meta、AI計算能力のレンタルを計画し業界株価が下落",
-    "summary": "「Meta Compute」プロジェクトにより、同社はAWSと直接競合することになり、クラウド業界に激震が走る。",
+    "title": "EU裁判所、Googleに対するAndroid関連の巨額制裁金（41億ユーロ）を支持",
+    "summary": "長年にわたる訴訟の末、反競争的慣行に対する制裁金が確定。",
     "source": [
-      "tomshardware.com"
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Tesla、2025年第2四半期に大幅な売上増加を記録",
-    "summary": "イーロン・マスク率いる同社は市場予想を上回り、電気自動車セクターで勢いを取り戻す。",
+    "title": "Pegasusスパイウェアを調査していた欧州議会議員が同じプログラムでハッキングされる",
+    "summary": "この攻撃は、サイバースパイ行為を追及する者でさえも脆弱であることを示している。",
     "source": [
+      "thehackernews.com",
       "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "中国、世界初のAIによる個別化がんワクチン工場を開設",
-    "summary": "この施設は人工知能を活用し、各患者の遺伝子プロファイルに合わせたがんワクチンを設計する。",
+    "title": "OpenAI、米国政府系ファンドに自己資本の5%を提供",
+    "summary": "この提案は、企業の利益を米国政府の利益と一致させることを目指している。",
     "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "BYD、Teslaモデルを模倣しスペインに1500kWの急速充電ネットワークを設置へ",
-    "summary": "中国メーカーは2027年までに同国で超急速充電器を大量展開すると発表、米国の競合他社の戦略に追随。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "米国政府、新たな大規模サイバー攻撃を受ける",
-    "summary": "連邦当局は大規模なコンピュータ侵入の被害に遭ったことを確認。",
-    "source": [
+      "kite.kagi.com",
       "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "シリーズ追跡アプリTV Time、2026年に終了しAIに注力",
+    "summary": "同サービスは完全停止前にユーザーに代替案を推奨している。",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AppleのHide My Emailの欠陥によりユーザーの実際のメールアドレスが露出",
+    "summary": "この脆弱性により、攻撃者はプライバシー機能によって隠された電子メールを発見できる。",
+    "source": [
+      "alternativeto.net",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Podman 6.0、最新ネットワークとポッド管理によるコンテナ統合を改善",
+    "summary": "デーモンレスのコンテナエンジンの新バージョンが開発と管理を簡素化。",
+    "source": [
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、Copilot統合OS「Project Aion」を計画",
+    "summary": "漏洩した動画は、WindowsにおけるAIをさらに深める同社の計画を示している。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Philips、最大540Hzのトリプルモードゲーミングモニターを発表",
+    "summary": "新モデルはQHD、FHD、HD解像度をスムーズに切り替え可能。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xbox、物理ディスク終了に備えて変換機能とGame Pass変更を準備",
+    "summary": "Microsoftは物理ゲームをデジタル化するシステムに取り組み、カタログへの新タイトル追加を一時停止。",
+    "source": [
+      "alternativeto.net",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia、クラウド収益の一部と引き換えにAIインフラへの資金提供を提案",
+    "summary": "同社はトークンと顧客の売上に対する分配を含む代替支払いモデルを提案。",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、企業顧客へのAI統合のために企業に25億ドル投資",
+    "summary": "この取り組みにより、6,000人のAIエンジニアが直接企業に配置される。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Teslaの納入台数が25%増加し、約50万台に",
+    "summary": "同社は経済的課題にもかかわらず市場予想を上回った。",
+    "source": [
+      "kite.kagi.com"
     ],
     "count": 1
   }
