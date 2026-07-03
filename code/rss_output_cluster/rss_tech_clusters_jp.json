@@ -1,71 +1,138 @@
 [
   {
-    "title": "Microsoft、Xboxの物理ゲームのデジタル化とディスクドライブなしのコンソールを準備",
-    "summary": "同社はXbox OneおよびSeriesのディスクをデジタルライセンスに変換できるシステムをテスト中で、Project Helixは光学ドライブなしで投入される可能性がある。",
+    "title": "ソニー、PlayStationの物理メディア終了を確認、完全デジタル化へ",
+    "summary": "同社は2028年以降ゲームディスクを廃止し、PS6のドライブユニットを排除、PS3ストアを閉鎖する。これにより、ゲーマーの間で抗議が起こり、ソフトウェアの所有権に対する疑問が高まっている。",
     "source": [
-      "hardzone.es",
+      "/r/technology",
       "elchapuzasinformatico.com",
-      "videocardz.com",
-      "kite.kagi.com",
-      "/r/hardware",
-      "tomshardware.com"
+      "xataka.com",
+      "alternativeto.net",
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 6
   },
   {
-    "title": "Sony、PlayStation向け物理フォーマットのゲームの終了を発表",
-    "summary": "同社は2028年からディスクの販売を終了し、PS6でドライブを廃止してデジタルライセンスの購入を強制する。",
+    "title": "企業、AIエージェントの利用を削減 コスト高と性能不足で",
+    "summary": "人工知能エージェントのコストと効率は期待から大きくかけ離れており、企業はその使用を制限している。一方で、技術は進化を続けている。",
     "source": [
-      "xataka",
-      "hardzone.es",
-      "alternativeto.net",
-      "elchapuzasinformatico.com"
+      "techcrunch.com",
+      "the-decoder.com",
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 4
   },
   {
-    "title": "Intel、Core Ultra 7 270Kおよび250Kの価格を最大50ドル値上げ",
-    "summary": "製造元は複数の報道によると、デスクトップ向けのフラッグシッププロセッサの推奨価格を引き上げた。",
+    "title": "欧州政府がPalantirを禁止、CEOの発言が物議を醸す",
+    "summary": "スペインは安全保障上のリスクからPalantirシステムの使用を禁止。英国のNHSも同社の排除を検討する中、CEOは自社を擁護している。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI、米国政府に5%の株式を提供 規制支援と引き換えに",
+    "summary": "AI企業OpenAIが、GPT-5の承認交渉の中で、米国政府系ファンドに株式の一部を提供する提案を行っている。",
+    "source": [
+      "techcrunch.com",
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Intel、Core Ultra 7および5プロセッサの価格を最大50ドル値上げ",
+    "summary": "同社は公式リストによると、ハイエンドデスクトップCPUの推奨価格を更新した。",
     "source": [
       "elchapuzasinformatico.com",
-      "/r/hardware",
       "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "OpenAI、米国のソブリンファンドに資本の5％を寄付する提案",
-    "summary": "AI企業は規制支援と引き換えに米国政府に株式を提供することを提案している。",
+    "title": "Microsoft、Xboxの物理ゲームをデジタル化する機能を準備",
+    "summary": "Sonyの決定を受け、Xboxはディスクをユーザーに紐づくデジタルライセンスに変換できるようにする可能性がある。物理メディアのないエコシステムへの流れに沿った動きだ。",
     "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Microsoft、25億ドルでAI導入企業を設立、Copilotシステムを準備",
+    "summary": "同社は「Frontier Company」を設立し、6000人のAIエンジニアを企業顧客に統合する。同時にCopilotベースのオペレーティングシステムを開発中。",
+    "source": [
+      "the-decoder.com",
       "techcrunch.com",
-      "tomshardware.com",
-      "the-decoder.com"
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "SpaceXがAI搭載スマートフォンのプロトタイプを公開、イーロン・マスクは否定",
-    "summary": "SpaceXがxAI技術を搭載した薄型スマートフォンを投資家に披露したとの報道に対し、マスク氏は完全に虚偽だと述べた。",
-    "source": [
-      "tomshardware.com",
-      "kite.kagi.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "スペイン、国家安全保障上のリスクでPalantirの排除を命令",
-    "summary": "スペイン政府はPalantirを脅威と見なす一方、NATOはスペインのパートナーとして同社を安全保障の最前線に置いている。",
+    "title": "AnthropicのFable 5モデル、AI開発を再定義、プロンプト最適化を要求",
+    "summary": "Anthropicは、より簡潔な対話を必要とする新モデルFable 5に適応するため、Claude Codeのシステム指示を大幅に削減した。",
     "source": [
       "news.ycombinator.com",
-      "xataka"
+      "the-decoder.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD、Radeon GPUの価格値上げ、RX 7900 XTXのエンジニアリングサンプル発見",
+    "summary": "AMDのパートナー企業はグラフィックカードの価格が10%上昇する。一方、メモリ16GBのみのRX 7900 XTXのテストボードが出現。",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "メモリ市場の新たな動き：Appleは中国製チップに依存、SKハイニックスは7120億ウォンを投資",
+    "summary": "RAMの価格危機を受け、Appleは中国メーカーに代替を求める一方、SKハイニックスとマイクロンはメモリ部門での戦略を展開している。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AppleのHide My Emailの欠陥がユーザーの実際のメールアドレスを暴露",
+    "summary": "Appleのプライバシー機能「Hide My Email」に脆弱性があり、攻撃者が本当のメールアドレスを特定できる。同社は1年前からこの問題を認識しているが、修正されていない。",
+    "source": [
+      "alternativeto.net",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic、AI向けカスタムチップの製造でSamsungと交渉",
-    "summary": "AI企業はSamsungと独自プロセッサの開発を模索しているが、Nvidiaが引き続き重要であるとしている。",
+    "title": "EUがGoogleへの41億ユーロの制裁金を確定 独占的地位の乱用で",
+    "summary": "欧州連合司法裁判所が、Androidシステムに関するGoogleへの制裁金を確認した。控訴は不可能。",
+    "source": [
+      "xataka.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "テスラの緊張：Semiの事故、株価下落、四半期販売増加",
+    "summary": "電気トラックのSemiが初の死亡事故を起こした。株価は予想を上回ったにもかかわらず下落、同社は納車台数の大幅な増加を報告。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、SamsungとAI専用チップの製造交渉",
+    "summary": "AI企業はNVIDIA以外の半導体供給源を多様化しようとしている。ただしNVIDIAは依然として重要であると述べている。",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
@@ -73,8 +140,8 @@
     "count": 2
   },
   {
-    "title": "Noctua、AMD向けロープロファイルクーラーとSeasonicの新しい電源を準備",
-    "summary": "NoctuaのロードマップにはAM5向けロープロファイルクーラーとSeasonicとの電源における協業が含まれている。",
+    "title": "Noctua、AMD向け新クーラーとSeasonic電源をロードマップに追加",
+    "summary": "同社はAM5向けのロープロファイルクーラーと、Seasonicとの協業による新電源ユニットを2027年に発売予定。",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -82,102 +149,48 @@
     "count": 2
   },
   {
-    "title": "Radeon RX 7900 XTXのプロトタイプが登場、赤いPCBとわずか16GBのメモリ",
-    "summary": "AMDのハイエンドGPUのエンジニアリングサンプルは、スペックが低下し、バックプレートなしのデザインを示している。",
+    "title": "Meta、ハードウェア進展：手術不要の脳-コンピューターインターフェースとスマートグラスサブスクリプション",
+    "summary": "BCIの第2バージョンで思考による文字入力が可能に。一方、Ray-Ban Storiesスマートグラスはプレミアム機能に月額課金が必要となる。",
     "source": [
-      "videocardz.com",
-      "tomshardware.com"
+      "wired.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Apple、2027年初頭に新しいiPad ProとMacBook Proを発売予定",
-    "summary": "同社はM7チップを含むプロフェッショナル向けデバイスの大規模なアップデートを準備している。",
+    "title": "NVIDIA、AIスタートアップへの資金提供とクラウド収益割引を提供、エコシステム強化",
+    "summary": "同社は大手クラウドプロバイダーへの依存を減らすためスタートアップに投資し、ハードウェアによる新しい収益分配モデルを提案している。",
+    "source": [
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米国、デジタルプライバシー強化：バージニア州が位置情報データ販売禁止、オレゴン州がKalshiを提訴",
+    "summary": "州当局は個人データの搾取と違法賭博に対して措置を講じており、米国の規制の転換点を示している。",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "マーク・ザッカーバーグ、AIエージェントの遅れを認め、公の恥を晒す",
+    "summary": "MetaのCEOは従業員にAIエージェントが期待に応えていないと伝えた。一方、バイラルな出来事で彼は嘲笑の的となった。",
     "source": [
       "techcrunch.com",
-      "kite.kagi.com"
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic、Fable 5モデルの需要によりClaude Codeのプロンプトを80%削減",
-    "summary": "Fable 5の新しいAIモデルはより簡潔な指示を好むため、Claudeのシステムを削減することになった。",
+    "title": "電気自動車業界の再編：Lucidの人事異動、Rivianの成長、BYDのスペイン計画",
+    "summary": "EV業界では重要な動きがあった。LucidのCFOが辞任、Rivianは見通しを上方修正、BYDはスペインでの超急速充電器を発表。",
     "source": [
-      "the-decoder.com",
-      "xataka"
+      "techcrunch.com",
+      "xataka.com"
     ],
     "count": 2
-  },
-  {
-    "title": "EU、グーグルに対する巨額の41億ユーロ制裁金を確認、独占的地位の濫用で",
-    "summary": "欧州連合司法裁判所は同社に課された過去最高の独禁法制裁を承認した。",
-    "source": [
-      "xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "米国政府が新たな大規模サイバー攻撃を受ける",
-    "summary": "当局は連邦システムのセキュリティ侵害を確認したが、現時点では全容は明らかにされていない。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta、AIコンピューティング容量のレンタルを計画、AWSと直接競合へ",
-    "summary": "マーク・ザッカーバーグ氏の会社は第三者にAIインフラを提供する可能性があり、株式市場の下落を引き起こした。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Nvidia、大手チップベンダーへの依存を減らすためAIスタートアップを資金調達",
-    "summary": "同社はエコシステムを多様化し、ビッグテックの力を抑えるために新興企業に投資している。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft、25億ドルでAI展開に特化した企業を設立",
-    "summary": "テクノロジー大手は企業における人工知能の導入を加速するため、新たな子会社を設立する。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AIエージェントがフリーランス業務の16%をプロ品質で実行",
-    "summary": "わずか8ヶ月で、自律型アシスタントの熟練タスクにおける能力は2.5%から16%に上昇した。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "日本の最高裁、AIは特許の発明者として認められないと判決",
-    "summary": "日本の裁判所は、発明者として認められるのは人間のみであると判断し、法的な先例となった。",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "BYD、2027年までにスペインに1500kWの超急速充電器を設置へ",
-    "summary": "中国メーカーはテスラのモデルを模倣し、高出力充電ステーションのネットワークを計画している。",
-    "source": [
-      "xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "シンガポール、Nvidia GPUの密輸容疑者から4200万ドルの邸宅を押収",
-    "summary": "当局はAIサーバーを中国に違法輸出した疑いのある個人の口座と資産を凍結した。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
   }
 ]
