@@ -1,37 +1,105 @@
 [
   {
-    "title": "Las acciones de semiconductores se desploman globalmente y arrastran a los mercados bursátiles",
-    "summary": "Broadcom, SanDisk y Teradyne lideran las pérdidas, mientras que el Nikkei japonés cae más de 1.000 puntos por la venta masiva de tecnológicas.",
+    "title": "Las bolsas asiáticas suben gracias al rebote tecnológico y la relajación de las expectativas de tipos",
+    "summary": "Los índices de Japón y Corea del Sur registran fuertes ganancias, impulsados por la recuperación de los valores tecnológicos y la esperanza de una pausa en las subidas de tipos.",
     "source": [
-      "nikkei.com",
-      "nasdaq.com",
       "bolsamania.com",
-      "/r/stocks"
+      "investing.com",
+      "nikkei.com",
+      "handelsblatt.com"
     ],
     "count": 4
   },
   {
-    "title": "Tesla supera las expectativas con un récord de entregas trimestrales",
-    "summary": "La compañía reporta 480.126 vehículos entregados en el segundo trimestre, impulsada por la recuperación del mercado europeo y la demanda en China.",
+    "title": "Las bolsas europeas suben y el DAX marca un nuevo récord ante la relajación de las preocupaciones sobre los tipos",
+    "summary": "El Ibex supera los 19.700 puntos, el DAX alcanza los 26.000 puntos y las bolsas europeas abren al alza gracias a la expectativa de que los tipos de interés no suban más.",
+    "source": [
+      "handelsblatt.com",
+      "bolsamania.com",
+      "expansion.com",
+      "nasdaq.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Debate sobre el impacto de la inteligencia artificial en la economía y los mercados",
+    "summary": "Analistas y expertos discuten si la IA generará inflación, oportunidades de inversión o riesgos de seguridad, mientras el fundador de OpenAI propone reglas claras.",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com",
+      "/r/stocks",
+      "expansion.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "El informe de empleo de EE.UU. decepciona con solo 57.000 nuevos puestos en junio",
+    "summary": "La creación de empleo muy por debajo de lo esperado genera expectativas de una pausa en las subidas de tipos y impulsa las bolsas mundiales.",
     "source": [
       "investing.com",
-      "bolsamania.com",
+      "ft.com",
       "/r/stocks"
     ],
     "count": 3
   },
   {
-    "title": "Lockheed Martin se perfila como comprador de Ultra Maritime por 3.500 millones de dólares",
-    "summary": "El grupo aeroespacial estadounidense lidera las negociaciones para adquirir la empresa de tecnología naval del fondo de inversión Advent.",
+    "title": "El petróleo cae ante previsiones de menor demanda y el alto el fuego en Irán",
+    "summary": "El Brent podría bajar a 60 dólares por barril, según Citi, y el crudo confirma un cambio de tendencia bajista.",
     "source": [
-      "investing.com",
+      "bolsamania.com",
+      "ft.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Lagarde no descarta abandonar el BCE antes de que termine su mandato",
+    "summary": "La presidenta del BCE, Christine Lagarde, abre la puerta a una salida anticipada, lo que genera incertidumbre sobre el futuro de la política monetaria.",
+    "source": [
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX se une al Nasdaq 100 y su valoración experimenta fuertes oscilaciones",
+    "summary": "La compañía espacial de Elon Musk entra en el índice Nasdaq 100 con una valoración que ha oscilado entre 150 y 225 dólares en dos semanas.",
+    "source": [
+      "nasdaq.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Señales de advertencia en el mercado de valores: los pronósticos de ganancias generan temores de burbuja",
+    "summary": "Expertos advierten que las expectativas de beneficios son demasiado optimistas y que el mercado podría estar sobrevalorado.",
+    "source": [
+      "nasdaq.com",
       "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "El Ibex 35 renueva sus máximos históricos y supera los 19.700 puntos",
-    "summary": "El principal índice de la bolsa española extiende su racha alcista en un contexto de optimismo por los tipos de interés y los datos macroeconómicos.",
+    "title": "Wall Street cierra mixto con el Dow Jones alcanzando un nuevo récord",
+    "summary": "El Dow Jones marca un máximo histórico mientras el Nasdaq y el S&P 500 cotizan de forma desigual.",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los tipos de interés en Europa suben: el Euríbor y el bono alemán al alza",
+    "summary": "El Euríbor rompe su racha bajista y el rendimiento del bono alemán a 10 años sube hasta el 2,9%.",
+    "source": [
+      "nikkei.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Repsol: caída en bolsa y perspectivas de dividendo",
+    "summary": "Repsol se sitúa entre los peores del Ibex, mientras los analistas analizan la estrategia de dividendo de la petrolera.",
     "source": [
       "bolsamania.com",
       "expansion.com"
@@ -39,26 +107,26 @@
     "count": 2
   },
   {
-    "title": "La creación de empleo en EE.UU. se desploma en junio y aviva las apuestas de recorte de tipos",
-    "summary": "Las nóminas no agrícolas crecieron solo en 57.000, muy por debajo de las expectativas, lo que refuerza la posibilidad de un recorte de la Fed.",
+    "title": "El bitcoin sube y el euro digital genera controversia",
+    "summary": "El bitcoin se revaloriza un 2,33% mientras avanza el proyecto de euro digital, que genera un intenso debate.",
     "source": [
-      "bolsamania.com",
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "China enfrenta nuevas regulaciones tecnológicas y financieras",
+    "summary": "Alibaba prohíbe a sus empleados usar una herramienta de codificación de IA, mientras la SEC investiga presunto uso de información privilegiada relacionado con casas de bolsa chinas.",
+    "source": [
+      "investing.com",
       "/r/stocks"
     ],
     "count": 2
   },
   {
-    "title": "El Dow Jones alcanza un nuevo récord al cierre de una semana alcista",
-    "summary": "El índice bursátil estadounidense sube un 0,5% y marca un máximo histórico, mientras que el S&P 500 se mantiene plano y el Nasdaq cae.",
-    "source": [
-      "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Micron celebra su jornada de inversores con optimismo sobre la demanda de memoria",
-    "summary": "La compañía de chips destaca el crecimiento impulsado por la inteligencia artificial y las nuevas tecnologías, elevando las perspectivas del sector.",
+    "title": "Tesla supera expectativas de entregas y lidera el debate sobre vehículos eléctricos",
+    "summary": "Tesla entrega 480.126 vehículos en el segundo trimestre, superando las previsiones, mientras los analistas comparan a los principales fabricantes de vehículos eléctricos.",
     "source": [
       "nasdaq.com",
       "/r/stocks"
@@ -66,108 +134,53 @@
     "count": 2
   },
   {
-    "title": "Las acciones biotecnológicas repuntan con Moderna y Universal Health al frente",
-    "summary": "El sector biotecnológico experimenta un fuerte rebote, con Moderna subiendo más del 8% y renovando el interés de los inversores.",
+    "title": "Broadcom supera un escrutinio antimonopolio en Japón y sigue siendo foco de inversores",
+    "summary": "La Comisión de Comercio Justo de Japón cierra la investigación antimonopolio contra Broadcom, mientras los inversores debaten su valoración.",
     "source": [
-      "bolsamania.com",
+      "nikkei.com",
       "/r/stocks"
     ],
     "count": 2
   },
   {
-    "title": "Avances del euro digital y las finanzas digitales en la Unión Europea",
-    "summary": "El BCE impulsa la moneda digital europea mientras crece el ecosistema de stablecoins y la integración financiera digital en la eurozona.",
+    "title": "Lockheed Martin lidera la compra de Ultra Maritime y Voyager se perfila como empresa espacial y de defensa",
+    "summary": "Lockheed Martin está en conversaciones avanzadas para adquirir Ultra Maritime por 3.500 millones de dólares, mientras Voyager gana atención como empresa de defensa espacial.",
     "source": [
-      "handelsblatt.com",
-      "ft.com"
+      "ft.com",
+      "/r/stocks"
     ],
     "count": 2
   },
   {
-    "title": "Canadá anuncia un nuevo oleoducto para reducir su dependencia energética de EE.UU.",
-    "summary": "El proyecto busca diversificar los mercados de exportación de petróleo y fortalecer la seguridad energética del país.",
+    "title": "Cadenas de comida rápida: Jersey Mike's sale a bolsa y Wendy's atrae con su dividendo",
+    "summary": "Jersey Mike's presenta su OPV mientras Blackstone busca plusvalías, y Wendy's ofrece una rentabilidad por dividendo del 6% con un nuevo CEO.",
+    "source": [
+      "ft.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Canadá anuncia un nuevo oleoducto para reducir su dependencia de EE.UU.",
+    "summary": "Canadá revela planes para construir un oleoducto que permita exportar petróleo a otros mercados y reducir la dependencia de las refinerías estadounidenses.",
     "source": [
       "ft.com"
     ],
     "count": 1
   },
   {
-    "title": "OpenAI contempla una salida a bolsa en 2027 con una valoración de 1 billón de dólares",
-    "summary": "La empresa de inteligencia artificial fundada por Sam Altman evalúa una OPV que podría ser una de las mayores de la historia.",
-    "source": [
-      "nasdaq.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta asegura que su modelo de IA ya iguala a OpenAI, pero admite retraso en agentes",
-    "summary": "La compañía de Mark Zuckerberg declara haber alcanzado el nivel de OpenAI en modelos de lenguaje, aunque el progreso en agentes de IA es más lento de lo esperado.",
-    "source": [
-      "investing.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Un conductor de Tesla es acusado de homicidio involuntario por un accidente en Texas",
-    "summary": "El vehículo impactó contra una vivienda, y las autoridades presentaron cargos contra el conductor tras la investigación.",
-    "source": [
-      "investing.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Blue Owl sufre solicitudes de rescate por 4.700 millones de dólares por la fuga de inversores",
-    "summary": "El gestor de activos alternativos enfrenta una persistente salida de capitales que pone presión sobre sus fondos.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El tribunal británico suspende el plan de compensación por financiación de automóviles",
-    "summary": "El esquema para compensar a los consumidores por comisiones no reveladas se paraliza mientras se revisa la legalidad del proceso.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El fabricante alemán de tanques KNDS aplaza su salida a bolsa por las condiciones del mercado",
-    "summary": "La OPV de la empresa de defensa, considerada un desastre para el Gobierno alemán, se pospone hasta nuevo aviso.",
+    "title": "KNDS pospone su salida a bolsa en un revés para el gobierno alemán",
+    "summary": "El fabricante de tanques KNDS cancela su oferta pública inicial planeada para 2026, lo que supone un duro golpe para los planes de privatización del gobierno.",
     "source": [
       "handelsblatt.com"
     ],
     "count": 1
   },
   {
-    "title": "La SEC investiga un presunto caso de uso de información privilegiada vinculado a brókers chinos",
-    "summary": "El regulador bursátil estadounidense examina transacciones sospechosas relacionadas con la represión de las corredurías chinas.",
+    "title": "Securitize, el primer unicornio español, debuta en Wall Street con una subida del 11%",
+    "summary": "Securitize, la plataforma de tokenización de activos, comienza a cotizar en el Nasdaq y se revaloriza un 11% en su primer día.",
     "source": [
-      "/r/stocks"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Argentina manifiesta su indignación ante el auge petrolero en las Islas Malvinas",
-    "summary": "El gobierno argentino protesta por los planes de explotación de hidrocarburos en el archipiélago en disputa con el Reino Unido.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Un gran minorista abandona el negocio de la moda en EE.UU. tras un escándalo millonario",
-    "summary": "La compañía decide retirarse del mercado estadounidense de moda después de un fraude que involucra millones de dólares.",
-    "source": [
-      "finance.yahoo.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Forvis Mazars es multado con 600.000 libras por deficiencias generalizadas en sus auditorías",
-    "summary": "El regulador contable británico sanciona a la firma por fallos sistemáticos en sus trabajos de revisión de cuentas.",
-    "source": [
-      "ft.com"
+      "expansion.com"
     ],
     "count": 1
   }

@@ -1,37 +1,105 @@
 [
   {
-    "title": "Semiconductor stocks plunge globally and drag down stock markets",
-    "summary": "Broadcom, SanDisk and Teradyne lead the losses, while Japan's Nikkei falls more than 1,000 points due to the massive sell-off in tech stocks.",
+    "title": "Asian stocks rise thanks to tech rebound and easing rate expectations",
+    "summary": "Indices in Japan and South Korea post strong gains, driven by the recovery of technology stocks and hope for a pause in rate hikes.",
     "source": [
-      "nikkei.com",
-      "nasdaq.com",
       "bolsamania.com",
-      "/r/stocks"
+      "investing.com",
+      "nikkei.com",
+      "handelsblatt.com"
     ],
     "count": 4
   },
   {
-    "title": "Tesla beats expectations with record quarterly deliveries",
-    "summary": "The company reports 480,126 vehicles delivered in the second quarter, driven by the recovery of the European market and demand in China.",
+    "title": "European stocks rise and DAX hits new record as rate worries ease",
+    "summary": "The Ibex surpasses 19,700 points, the DAX reaches 26,000 points, and European markets open higher on expectations that interest rates will not rise further.",
+    "source": [
+      "handelsblatt.com",
+      "bolsamania.com",
+      "expansion.com",
+      "nasdaq.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Debate on the impact of artificial intelligence on the economy and markets",
+    "summary": "Analysts and experts discuss whether AI will generate inflation, investment opportunities, or security risks, while OpenAI's founder proposes clear rules.",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com",
+      "/r/stocks",
+      "expansion.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "US jobs report disappoints with only 57,000 new jobs in June",
+    "summary": "Job creation far below expectations fuels hopes of a pause in rate hikes and boosts global stock markets.",
     "source": [
       "investing.com",
-      "bolsamania.com",
+      "ft.com",
       "/r/stocks"
     ],
     "count": 3
   },
   {
-    "title": "Lockheed Martin emerges as buyer of Ultra Maritime for $3.5 billion",
-    "summary": "The American aerospace group leads negotiations to acquire the naval technology company from investment fund Advent.",
+    "title": "Oil falls on lower demand forecasts and Iran ceasefire",
+    "summary": "Brent could drop to $60 per barrel, according to Citi, and crude confirms a bearish trend change.",
     "source": [
-      "investing.com",
+      "bolsamania.com",
+      "ft.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Lagarde does not rule out leaving the ECB before her term ends",
+    "summary": "ECB President Christine Lagarde opens the door to an early departure, raising uncertainty about the future of monetary policy.",
+    "source": [
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX joins the Nasdaq 100 and its valuation sees sharp swings",
+    "summary": "Elon Musk's space company enters the Nasdaq 100 index with a valuation that has swung between $150 and $225 in two weeks.",
+    "source": [
+      "nasdaq.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Warning signs in the stock market: earnings forecasts fuel bubble fears",
+    "summary": "Experts warn that profit expectations are too optimistic and that the market may be overvalued.",
+    "source": [
+      "nasdaq.com",
       "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Ibex 35 renews all-time highs and exceeds 19,700 points",
-    "summary": "Spain's main stock index extends its bullish streak in a context of optimism over interest rates and macroeconomic data.",
+    "title": "Wall Street mixed with Dow Jones hitting a new record",
+    "summary": "The Dow Jones marks an all-time high while the Nasdaq and S&P 500 trade unevenly.",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Interest rates in Europe rise: Euribor and German bond yield up",
+    "summary": "Euribor breaks its downtrend and the German 10-year bond yield rises to 2.9%.",
+    "source": [
+      "nikkei.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Repsol: stock drop and dividend outlook",
+    "summary": "Repsol is among the worst performers on the Ibex, as analysts review the oil company's dividend strategy.",
     "source": [
       "bolsamania.com",
       "expansion.com"
@@ -39,26 +107,26 @@
     "count": 2
   },
   {
-    "title": "US job creation plummets in June, fueling rate cut bets",
-    "summary": "Non-farm payrolls grew by only 57,000, well below expectations, reinforcing the possibility of a Fed cut.",
+    "title": "Bitcoin rises and digital euro sparks controversy",
+    "summary": "Bitcoin gains 2.33% as the digital euro project advances, sparking intense debate.",
     "source": [
-      "bolsamania.com",
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "China faces new tech and financial regulations",
+    "summary": "Alibaba bans employees from using an AI coding tool, while the SEC investigates alleged insider trading related to Chinese brokerages.",
+    "source": [
+      "investing.com",
       "/r/stocks"
     ],
     "count": 2
   },
   {
-    "title": "Dow Jones hits new record at close of bullish week",
-    "summary": "The US stock index rises 0.5% and marks an all-time high, while the S&P 500 remains flat and the Nasdaq falls.",
-    "source": [
-      "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Micron celebrates investor day with optimism about memory demand",
-    "summary": "The chip company highlights growth driven by artificial intelligence and new technologies, raising sector outlook.",
+    "title": "Tesla beats delivery expectations and leads electric vehicle debate",
+    "summary": "Tesla delivers 480,126 vehicles in the second quarter, beating forecasts, as analysts compare major electric vehicle manufacturers.",
     "source": [
       "nasdaq.com",
       "/r/stocks"
@@ -66,108 +134,53 @@
     "count": 2
   },
   {
-    "title": "Biotech stocks rebound with Moderna and Universal Health leading",
-    "summary": "The biotech sector experiences a strong rebound, with Moderna rising more than 8% and renewing investor interest.",
+    "title": "Broadcom passes antitrust scrutiny in Japan and remains investor focus",
+    "summary": "Japan's Fair Trade Commission closes its antitrust investigation into Broadcom, as investors debate its valuation.",
     "source": [
-      "bolsamania.com",
+      "nikkei.com",
       "/r/stocks"
     ],
     "count": 2
   },
   {
-    "title": "Advances in the digital euro and digital finance in the European Union",
-    "summary": "The ECB promotes the European digital currency while the ecosystem of stablecoins and digital financial integration in the eurozone grows.",
+    "title": "Lockheed Martin leads purchase of Ultra Maritime and Voyager emerges as space and defense company",
+    "summary": "Lockheed Martin is in advanced talks to acquire Ultra Maritime for $3.5 billion, while Voyager gains attention as a space defense firm.",
     "source": [
-      "handelsblatt.com",
-      "ft.com"
+      "ft.com",
+      "/r/stocks"
     ],
     "count": 2
   },
   {
-    "title": "Canada announces new oil pipeline to reduce energy dependence on the US",
-    "summary": "The project seeks to diversify oil export markets and strengthen the country's energy security.",
+    "title": "Fast food chains: Jersey Mike's goes public and Wendy's attracts with its dividend",
+    "summary": "Jersey Mike's files for its IPO as Blackstone seeks gains, and Wendy's offers a 6% dividend yield with a new CEO.",
+    "source": [
+      "ft.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Canada announces new pipeline to reduce its dependence on the US",
+    "summary": "Canada reveals plans to build a pipeline to export oil to other markets and reduce reliance on US refineries.",
     "source": [
       "ft.com"
     ],
     "count": 1
   },
   {
-    "title": "OpenAI considers IPO in 2027 with a $1 trillion valuation",
-    "summary": "The artificial intelligence company founded by Sam Altman evaluates an IPO that could be one of the largest in history.",
-    "source": [
-      "nasdaq.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta claims its AI model already matches OpenAI, but admits delay in agents",
-    "summary": "Mark Zuckerberg's company declares it has reached the level of OpenAI in language models, although progress in AI agents is slower than expected.",
-    "source": [
-      "investing.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Tesla driver charged with manslaughter for accident in Texas",
-    "summary": "The vehicle crashed into a home, and authorities filed charges against the driver after the investigation.",
-    "source": [
-      "investing.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Blue Owl faces $4.7 billion in redemption requests due to investor exodus",
-    "summary": "The alternative asset manager faces a persistent capital outflow that puts pressure on its funds.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "UK court suspends car finance compensation plan",
-    "summary": "The scheme to compensate consumers for undisclosed commissions is halted while the legality of the process is reviewed.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "German tank manufacturer KNDS postpones its IPO due to market conditions",
-    "summary": "The defense company's IPO, considered a disaster for the German government, is postponed until further notice.",
+    "title": "KNDS postpones its IPO in a setback for the German government",
+    "summary": "Tank maker KNDS cancels its planned initial public offering for 2026, dealing a blow to the government's privatization plans.",
     "source": [
       "handelsblatt.com"
     ],
     "count": 1
   },
   {
-    "title": "SEC investigates alleged insider trading case linked to Chinese brokers",
-    "summary": "The US stock market regulator examines suspicious transactions related to the crackdown on Chinese brokerage firms.",
+    "title": "Securitize, Spain's first unicorn, debuts on Wall Street with an 11% rise",
+    "summary": "Securitize, the asset tokenization platform, starts trading on the Nasdaq and gains 11% on its first day.",
     "source": [
-      "/r/stocks"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Argentina expresses outrage over oil boom in the Falkland Islands",
-    "summary": "The Argentine government protests plans for hydrocarbon exploitation in the archipelago disputed with the United Kingdom.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Major retailer abandons fashion business in US after multimillion-dollar scandal",
-    "summary": "The company decides to withdraw from the US fashion market after a fraud involving millions of dollars.",
-    "source": [
-      "finance.yahoo.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Forvis Mazars fined £600,000 for widespread deficiencies in its audits",
-    "summary": "The British accounting regulator sanctions the firm for systematic failures in its audit work.",
-    "source": [
-      "ft.com"
+      "expansion.com"
     ],
     "count": 1
   }

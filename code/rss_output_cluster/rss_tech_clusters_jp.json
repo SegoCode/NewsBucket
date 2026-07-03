@@ -1,81 +1,30 @@
 [
   {
-    "title": "ソニー、PlayStationの物理メディア終了を確認、完全デジタル化へ",
-    "summary": "同社は2028年以降ゲームディスクを廃止し、PS6のドライブユニットを排除、PS3ストアを閉鎖する。これにより、ゲーマーの間で抗議が起こり、ソフトウェアの所有権に対する疑問が高まっている。",
+    "title": "Sonyが物理フォーマットの放棄を加速、PlayStationから500のデジタル映画を削除へ",
+    "summary": "同社はPS6でのディスクドライブ廃止によりコスト削減を図る一方、アーキビストはPS3のデータ保存に奮闘し、2026年にはStudio Canalの500以上のタイトルがユーザーのライブラリから削除される予定。",
     "source": [
-      "/r/technology",
       "elchapuzasinformatico.com",
       "xataka.com",
       "alternativeto.net",
       "tomshardware.com",
       "hardzone.es"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "企業、AIエージェントの利用を削減 コスト高と性能不足で",
-    "summary": "人工知能エージェントのコストと効率は期待から大きくかけ離れており、企業はその使用を制限している。一方で、技術は進化を続けている。",
+    "title": "Intel、Core Ultra 7 270K PlusとCore Ultra 5 250K Plusの価格を静かに値上げ",
+    "summary": "公式製品ページには、DIY市場向けのIntelの主力プロセッサで最大50ドルの値上げがすでに反映されている。",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "/r/technology",
-      "tomshardware.com"
+      "elchapuzasinformatico.com",
+      "/r/hardware",
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "欧州政府がPalantirを禁止、CEOの発言が物議を醸す",
-    "summary": "スペインは安全保障上のリスクからPalantirシステムの使用を禁止。英国のNHSも同社の排除を検討する中、CEOは自社を擁護している。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI、米国政府に5%の株式を提供 規制支援と引き換えに",
-    "summary": "AI企業OpenAIが、GPT-5の承認交渉の中で、米国政府系ファンドに株式の一部を提供する提案を行っている。",
-    "source": [
-      "techcrunch.com",
-      "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Intel、Core Ultra 7および5プロセッサの価格を最大50ドル値上げ",
-    "summary": "同社は公式リストによると、ハイエンドデスクトップCPUの推奨価格を更新した。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft、Xboxの物理ゲームをデジタル化する機能を準備",
-    "summary": "Sonyの決定を受け、Xboxはディスクをユーザーに紐づくデジタルライセンスに変換できるようにする可能性がある。物理メディアのないエコシステムへの流れに沿った動きだ。",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft、25億ドルでAI導入企業を設立、Copilotシステムを準備",
-    "summary": "同社は「Frontier Company」を設立し、6000人のAIエンジニアを企業顧客に統合する。同時にCopilotベースのオペレーティングシステムを開発中。",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AnthropicのFable 5モデル、AI開発を再定義、プロンプト最適化を要求",
-    "summary": "Anthropicは、より簡潔な対話を必要とする新モデルFable 5に適応するため、Claude Codeのシステム指示を大幅に削減した。",
+    "title": "Anthropic、Claude Codeのシステムプロンプトを80%削減しFable 5モデルに適応",
+    "summary": "同社は新しいモデルが「より小さなシステムプロンプトを望んでいる」と述べ、米国でAI制御に関する激しい議論を引き起こしている。",
     "source": [
       "news.ycombinator.com",
       "the-decoder.com",
@@ -84,28 +33,46 @@
     "count": 3
   },
   {
-    "title": "AMD、Radeon GPUの価格値上げ、RX 7900 XTXのエンジニアリングサンプル発見",
-    "summary": "AMDのパートナー企業はグラフィックカードの価格が10%上昇する。一方、メモリ16GBのみのRX 7900 XTXのテストボードが出現。",
+    "title": "Anthropic、Nvidiaを離れずSamsungとカスタムチップ製造を模索",
+    "summary": "AI企業はSamsungとカスタムシリコン設計について高度な協議を続ける一方、Nvidiaが引き続きハードウェアの主要パートナーであるとしている。",
     "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "hardzone.es"
+      "/r/hardware",
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "メモリ市場の新たな動き：Appleは中国製チップに依存、SKハイニックスは7120億ウォンを投資",
-    "summary": "RAMの価格危機を受け、Appleは中国メーカーに代替を求める一方、SKハイニックスとマイクロンはメモリ部門での戦略を展開している。",
+    "title": "OpenAI、米国政府に株式の5%を提供しAIソブリンファンドを創設へ",
+    "summary": "サム・アルトマンは、GPT-5.6リリースをめぐる規制交渉の中で、すべての主要AIラボがアラスカ型の公共福祉基金に貢献することを提案。",
     "source": [
-      "/r/technology",
+      "techcrunch.com",
       "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "AppleのHide My Emailの欠陥がユーザーの実際のメールアドレスを暴露",
-    "summary": "Appleのプライバシー機能「Hide My Email」に脆弱性があり、攻撃者が本当のメールアドレスを特定できる。同社は1年前からこの問題を認識しているが、修正されていない。",
+    "title": "Intel、第13世代および第14世代Core CPUの生産を中国市場限定で再開",
+    "summary": "同社は中国のDIYチャネル向けにプロセッサを復活させ、アジアのミッドレンジセグメントで在庫を処分しようとしている。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia、クラウドパワーと収益の一部を交換する新たな資金調達手段を提供",
+    "summary": "半導体大手はAI企業に対し、将来のクラウド収入に関するトークンと引き換えにハードウェアを融資するオプションモデルを提案。",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AppleのHide My Emailの脆弱性、1年前からユーザーの実際のメールアドレスを暴露",
+    "summary": "クパチーノ社が把握しているがパッチ未適用のこの欠陥により、攻撃者はサービスで保護された電子メールアドレスを特定できる。",
     "source": [
       "alternativeto.net",
       "tomshardware.com"
@@ -113,84 +80,106 @@
     "count": 2
   },
   {
-    "title": "EUがGoogleへの41億ユーロの制裁金を確定 独占的地位の乱用で",
-    "summary": "欧州連合司法裁判所が、Androidシステムに関するGoogleへの制裁金を確認した。控訴は不可能。",
+    "title": "シリーズ追跡アプリTV Time、2026年7月15日に完全終了へ",
+    "summary": "親会社は人工知能に注力すると発表し、2200万人のユーザーがテレビ追跡の主力プラットフォームを失うことになる。",
     "source": [
-      "xataka.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "テスラの緊張：Semiの事故、株価下落、四半期販売増加",
-    "summary": "電気トラックのSemiが初の死亡事故を起こした。株価は予想を上回ったにもかかわらず下落、同社は納車台数の大幅な増加を報告。",
-    "source": [
-      "/r/technology",
+      "alternativeto.net",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic、SamsungとAI専用チップの製造交渉",
-    "summary": "AI企業はNVIDIA以外の半導体供給源を多様化しようとしている。ただしNVIDIAは依然として重要であると述べている。",
+    "title": "Microsoft、25億ドルと6000人のAIエンジニアを投入し「Frontier Company」を立ち上げ",
+    "summary": "新しい部門はエンジニアを企業顧客に直接配置し、Copilotと生成AIの導入を加速する。",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com"
+      "the-decoder.com",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Noctua、AMD向け新クーラーとSeasonic電源をロードマップに追加",
-    "summary": "同社はAM5向けのロープロファイルクーラーと、Seasonicとの協業による新電源ユニットを2027年に発売予定。",
+    "title": "Philips、トリプルモード対応モニター「Evnia 27M4N」を発表：HD 540Hz、FHD 360Hz、QHD 275Hz",
+    "summary": "27インチの新しいパネルは3つの解像度とリフレッシュレートを切り替え可能で、競技ゲーマー向け。",
     "source": [
-      "hardzone.es",
+      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta、ハードウェア進展：手術不要の脳-コンピューターインターフェースとスマートグラスサブスクリプション",
-    "summary": "BCIの第2バージョンで思考による文字入力が可能に。一方、Ray-Ban Storiesスマートグラスはプレミアム機能に月額課金が必要となる。",
+    "title": "AMD Radeon RX 7900 XTXのプロトタイプが登場、赤いPCBとわずか16GBのメモリ",
+    "summary": "Redditで見つかったエンジニアリングサンプルは、未発表のフラッグシップGPU構成で、バックプレートなし、RX 7900 GREに近い仕様。",
     "source": [
-      "wired.com",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、Game Pass契約を停止しXboxの物理ゲームをデジタル化するツールを準備",
+    "summary": "内部再編の中で、Xboxは第三者との新規契約を一時停止し、ディスクをデジタルコピーに変換する機能を開発中。",
+    "source": [
+      "hardzone.es",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Micron、メモリ高価格による訴訟を避けるため2億5000万ドルを投資、低価格PCが消滅する中",
+    "summary": "メモリメーカーはトランプ政権をなだめるために多額の投資を行う一方、DRAMの高価格が低コストPCを市場から追い出している。",
+    "source": [
+      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIA、AIスタートアップへの資金提供とクラウド収益割引を提供、エコシステム強化",
-    "summary": "同社は大手クラウドプロバイダーへの依存を減らすためスタートアップに投資し、ハードウェアによる新しい収益分配モデルを提案している。",
+    "title": "EU、Googleへの41億ユーロの制裁金を確定、Androidでの独占禁止法違反で",
+    "summary": "欧州連合司法裁判所は制裁を最終的に承認し、モバイルOS市場での支配をめぐる同テクノロジー大手に対する訴訟を終結させた。",
     "source": [
-      "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "米国、デジタルプライバシー強化：バージニア州が位置情報データ販売禁止、オレゴン州がKalshiを提訴",
-    "summary": "州当局は個人データの搾取と違法賭博に対して措置を講じており、米国の規制の転換点を示している。",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "マーク・ザッカーバーグ、AIエージェントの遅れを認め、公の恥を晒す",
-    "summary": "MetaのCEOは従業員にAIエージェントが期待に応えていないと伝えた。一方、バイラルな出来事で彼は嘲笑の的となった。",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "電気自動車業界の再編：Lucidの人事異動、Rivianの成長、BYDのスペイン計画",
-    "summary": "EV業界では重要な動きがあった。LucidのCFOが辞任、Rivianは見通しを上方修正、BYDはスペインでの超急速充電器を発表。",
-    "source": [
-      "techcrunch.com",
+      "elchapuzasinformatico.com",
       "xataka.com"
     ],
     "count": 2
+  },
+  {
+    "title": "Meta、AI計算能力のレンタルを計画し業界株価が下落",
+    "summary": "「Meta Compute」プロジェクトにより、同社はAWSと直接競合することになり、クラウド業界に激震が走る。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Tesla、2025年第2四半期に大幅な売上増加を記録",
+    "summary": "イーロン・マスク率いる同社は市場予想を上回り、電気自動車セクターで勢いを取り戻す。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "中国、世界初のAIによる個別化がんワクチン工場を開設",
+    "summary": "この施設は人工知能を活用し、各患者の遺伝子プロファイルに合わせたがんワクチンを設計する。",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "BYD、Teslaモデルを模倣しスペインに1500kWの急速充電ネットワークを設置へ",
+    "summary": "中国メーカーは2027年までに同国で超急速充電器を大量展開すると発表、米国の競合他社の戦略に追随。",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "米国政府、新たな大規模サイバー攻撃を受ける",
+    "summary": "連邦当局は大規模なコンピュータ侵入の被害に遭ったことを確認。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
   }
 ]

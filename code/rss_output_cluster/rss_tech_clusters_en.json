@@ -1,81 +1,30 @@
 [
   {
-    "title": "Sony confirms the end of physical format for PlayStation and bets on a fully digital future",
-    "summary": "The company will eliminate game discs starting in 2028, will remove the PS6 unit and close the PS3 store, generating protests among players and doubts about software ownership.",
+    "title": "Sony accelerates abandonment of physical media and will remove 500 digital movies from PlayStation",
+    "summary": "The company reduces costs by eliminating the disc drive in PS6, while archivists struggle to preserve PS3 data and more than 500 Studio Canal titles will be removed from user libraries in 2026.",
     "source": [
-      "/r/technology",
       "elchapuzasinformatico.com",
       "xataka.com",
       "alternativeto.net",
       "tomshardware.com",
       "hardzone.es"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "Companies cut back on the use of AI agents due to high cost and limited performance",
-    "summary": "The cost and efficiency of artificial agents are far from expected, so companies are limiting their use while the technology continues to evolve.",
+    "title": "Intel quietly raises prices of Core Ultra 7 270K Plus and Core Ultra 5 250K Plus",
+    "summary": "Official product pages already reflect an increase of up to $50 on Intel's flagship processors for the DIY market.",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "/r/technology",
-      "tomshardware.com"
+      "elchapuzasinformatico.com",
+      "/r/hardware",
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "Palantir is banned by European governments and its CEO sparks controversy with his statements",
-    "summary": "Spain prohibits the use of Palantir systems due to security risks, while the British NHS considers withdrawing it, and its CEO defends the company.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI offers the US government 5% of its capital in exchange for regulatory support",
-    "summary": "The artificial intelligence company proposes an equity stake to the US sovereign wealth fund, amid negotiations for the approval of GPT-5.",
-    "source": [
-      "techcrunch.com",
-      "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Intel increases the price of its Core Ultra 7 and 5 processors by up to $50",
-    "summary": "The company updated the recommended prices of its high-end desktop CPUs, according to official listings.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft prepares a feature to digitize physical Xbox games",
-    "summary": "Following Sony's decision, Xbox would allow converting discs into digital licenses tied to the user, following the trend towards an ecosystem without physical format.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft launches an AI deployment company with $2.5 billion and prepares a Copilot system",
-    "summary": "The company creates 'Frontier Company' to integrate 6,000 AI engineers into enterprise clients, while developing an operating system based on Copilot.",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic's Fable 5 model redefines AI development and forces optimizing prompts",
-    "summary": "Anthropic has drastically reduced the system instructions of Claude Code to adapt to the new Fable 5 model, which requires shorter interaction.",
+    "title": "Anthropic cuts Claude Code system prompt by 80% to adapt to Fable 5 models",
+    "summary": "The company claims the new models 'want a smaller system prompt', sparking an intense debate about AI control in the United States.",
     "source": [
       "news.ycombinator.com",
       "the-decoder.com",
@@ -84,28 +33,46 @@
     "count": 3
   },
   {
-    "title": "AMD will raise the price of its Radeon GPUs and an engineering sample of the RX 7900 XTX is discovered",
-    "summary": "AMD partners will pay 10% more for graphics cards, while a test board of the RX 7900 XTX with only 16 GB of memory appears.",
+    "title": "Anthropic explores custom chip manufacturing with Samsung without abandoning Nvidia",
+    "summary": "The AI company holds advanced talks with Samsung to design custom silicon, while ensuring Nvidia will remain its main hardware partner.",
     "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "hardzone.es"
+      "/r/hardware",
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "New dynamics in the memory market: Apple turns to Chinese chips and SK hynix invests 712 billion",
-    "summary": "Facing the RAM price crisis, Apple seeks alternatives in Chinese manufacturers while SK hynix and Micron adjust their strategies in the memory sector.",
+    "title": "OpenAI offers US government 5% of its shares to create an AI sovereign wealth fund",
+    "summary": "Sam Altman proposes that all leading AI labs contribute to a public prosperity fund in the style of Alaska, amid regulatory negotiations over the launch of GPT-5.6.",
     "source": [
-      "/r/technology",
+      "techcrunch.com",
       "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "A flaw in Apple's Hide My Email exposes users' real addresses",
-    "summary": "Apple's privacy feature allows attackers to discover the real email, and the company has known about it for a year without fixing it.",
+    "title": "Intel resumes production of its 13th and 14th Gen Core CPUs exclusively for the Chinese market",
+    "summary": "The company revives its processors for the DIY channel in China, aiming to clear its inventory in the Asian mid-range segment.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia offers new financing vehicle that swaps cloud compute for a share of revenue",
+    "summary": "The chip giant proposes to AI companies an optional model where it finances hardware in exchange for tokens on their future cloud revenue.",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Vulnerability in Apple's Hide My Email exposes users' real addresses for a year",
+    "summary": "The flaw, known to Cupertino but unpatched, allows attackers to unmask email addresses protected by the service.",
     "source": [
       "alternativeto.net",
       "tomshardware.com"
@@ -113,84 +80,106 @@
     "count": 2
   },
   {
-    "title": "EU confirms record fine of 4.1 billion euros to Google for abuse of dominant position",
-    "summary": "The Court of Justice of the European Union upholds the penalty against Google for its Android system, with no possibility of appeal.",
+    "title": "TV show tracking app TV Time will permanently shut down on July 15, 2026",
+    "summary": "The parent company announces it will focus on artificial intelligence, leaving its 22 million users without the leading TV tracking platform.",
     "source": [
-      "xataka.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tensions at Tesla: Semi accident, stock drop, and quarterly sales increase",
-    "summary": "The electric truck suffers its first fatal accident, the stock falls despite beating expectations, and the company reports a strong increase in deliveries.",
-    "source": [
-      "/r/technology",
+      "alternativeto.net",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic negotiates with Samsung to manufacture a custom AI chip",
-    "summary": "The artificial intelligence company seeks to diversify its semiconductor supply beyond Nvidia, although it says Nvidia remains important.",
+    "title": "Microsoft launches 'Frontier Company' with $2.5 billion and 6,000 AI engineers for enterprises",
+    "summary": "The new division will embed its engineers directly into enterprise clients to accelerate adoption of Copilot and generative AI.",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com"
+      "the-decoder.com",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Noctua updates its roadmap with new coolers for AMD and Seasonic power supplies",
-    "summary": "The company prepares a low-profile cooler for AM5 and new power supplies in collaboration with Seasonic for 2027.",
+    "title": "Philips introduces Evnia 27M4N monitors with triple mode: HD 540Hz, FHD 360Hz, and QHD 275Hz",
+    "summary": "The new 27-inch panels allow switching between three resolutions and refresh rates, aimed at competitive gamers.",
     "source": [
-      "hardzone.es",
+      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta advances in hardware: brain-computer interface without surgery and subscription for smart glasses",
-    "summary": "The second version of its BCI allows writing with the mind, while the Ray-Ban Stories smart glasses will require a monthly payment for premium features.",
+    "title": "Prototype of AMD Radeon RX 7900 XTX appears with red PCB and only 16GB memory",
+    "summary": "An engineering sample found on Reddit shows an unreleased configuration of the flagship GPU, without a backplate and with specs close to the RX 7900 GRE.",
     "source": [
-      "wired.com",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft halts Game Pass agreements and prepares a tool to digitize physical Xbox games",
+    "summary": "Amid internal restructuring, Xbox pauses new third-party agreements while developing a feature to convert discs into digital copies.",
+    "source": [
+      "hardzone.es",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Micron invests $250 million to avoid lawsuits over high memory prices while cheap PCs disappear",
+    "summary": "The memory maker seeks to appease the Trump administration with a major investment, as high DRAM prices drive low-cost computers out of the market.",
+    "source": [
+      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Nvidia funds AI startups and offers discounts on cloud revenue to boost its ecosystem",
-    "summary": "The company invests in startups to reduce dependence on large cloud providers and proposes a new hardware revenue sharing model.",
+    "title": "EU confirms record €4.1 billion fine against Google for Android monopoly abuse",
+    "summary": "The Court of Justice of the European Union definitively ratifies the penalty, closing the case against the tech giant for its dominance in the mobile operating system market.",
     "source": [
-      "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "United States strengthens digital privacy: Virginia bans sale of location data and Oregon sues Kalshi",
-    "summary": "State authorities take action against the exploitation of personal data and illegal gambling, marking a regulatory shift in the country.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Mark Zuckerberg admits slow progress of AI agents and suffers public humiliation",
-    "summary": "Meta's CEO tells his employees that AI agents are not meeting expectations, while a viral incident leaves him embarrassed.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The electric vehicle industry reconfigures: changes at Lucid, growth of Rivian, and BYD's plans in Spain",
-    "summary": "The electric car sector experiences key moves: Lucid's CFO resigns, Rivian raises forecasts, and BYD announces ultra-fast chargers in Spain.",
-    "source": [
-      "techcrunch.com",
+      "elchapuzasinformatico.com",
       "xataka.com"
     ],
     "count": 2
+  },
+  {
+    "title": "Meta plans to rent out its AI compute power, sending sector stocks down",
+    "summary": "The 'Meta Compute' project would put the company in direct competition with AWS, causing an earthquake in the cloud industry.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Tesla reports huge sales increase in second quarter of 2025",
+    "summary": "Elon Musk's company beats market expectations and regains momentum in the electric vehicle sector.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "China opens world's first AI-driven personalized cancer vaccine factory",
+    "summary": "The facility will use artificial intelligence to design cancer vaccines tailored to each patient's genetic profile.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "BYD will install a network of 1,500 kW superchargers in Spain, copying Tesla's model",
+    "summary": "The Chinese manufacturer announces a massive deployment of ultra-fast chargers in the country by 2027, following the strategy of its US competitor.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "US government suffers massive new cyberattack",
+    "summary": "Federal authorities confirm they have been victims of a large-scale computer intrusion.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
   }
 ]
