@@ -1,98 +1,102 @@
 [
   {
-    "title": "Anthropic negotiates with Samsung for the production of its own artificial intelligence chip",
-    "summary": "The company seeks to reduce its dependence on Nvidia by developing customized hardware alongside the Korean manufacturer.",
+    "title": "Steam Machine suffers from a 'red line of death' due to GPU failure after a few minutes of use",
+    "summary": "Several users report that the Steam Machine console freezes with a red line on the screen due to a GPU failure, reminiscent of the Xbox 360's red ring of death.",
     "source": [
-      "xataka.com",
+      "hardzone.es",
       "/r/hardware",
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "The Steam Machine platform resurges with new hardware, open source, and technical controversies",
-    "summary": "Valve publishes the design of its e-ink screen, Aoostar launches a clone, and critical failures are reported in some units.",
-    "source": [
-      "news.ycombinator.com",
-      "videocardz.com",
+      "tomshardware.com",
       "elchapuzasinformatico.com",
-      "/r/hardware"
+      "videocardz.com"
     ],
-    "count": 4
+    "count": 5
   },
   {
-    "title": "Sony gradually eliminates physical format games for PlayStation",
-    "summary": "The company justifies the measure by cost savings, while the community reacts negatively and GitHub launches repository CDs as a sign of protest.",
+    "title": "Intel solves 18A node performance issues and reaches 30,000 wafers per month",
+    "summary": "Intel has resolved the performance issues of its 18A manufacturing process, achieving production of 30,000 wafers per month across its two factories.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
-      "hardzone.es",
-      "xataka.com"
+      "/r/hardware"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Meta admits that its AI agents are not advancing as expected and acknowledges that layoffs were ineffective",
-    "summary": "Zuckerberg's company changes its strategy to sell computing capacity instead of just buying it, adjusting its staff and priorities.",
+    "title": "Sony's controversial decision to eliminate physical format on PlayStation sparks reactions and criticism",
+    "summary": "The Video Game History Foundation warns about the impact of the end of the physical format, while players try to avoid it and GitHub launches CD-ROMs in protest.",
     "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "xataka.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Valve opens source code for Steam Machine screen and interface so users can build their own consoles",
+    "summary": "Valve has published on GitLab the code for the Inkterface interface and the e-ink screen of the Steam Machine, allowing enthusiasts to create their own versions.",
+    "source": [
+      "videocardz.com",
       "news.ycombinator.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "AI demand skyrockets DRAM and NAND memory prices by up to 18%",
-    "summary": "Manufacturers increase investments and pressure the US government, while chip prices become more expensive.",
+    "title": "Intel confirms price increases on select processors, including Xeon and Core Ultra",
+    "summary": "Intel has raised prices on some consumer and server processors due to supply costs and demand, with increases of over $1,000 on some Xeons.",
     "source": [
-      "elchapuzasinformatico.com",
       "tomshardware.com",
-      "/r/hardware"
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Anthropic perfects Claude Code while Alibaba bans it for alleged security risks",
-    "summary": "The AI coding tool reduces its initial prompt and enters labs, but faces blocks due to alleged backdoors.",
+    "title": "Details leaked of Intel Nova Lake-S processors with 22 cores and cache optimized for gaming",
+    "summary": "Future Intel Nova Lake-S processors will include 22-core models with a special cache to improve gaming performance, according to rumors.",
     "source": [
-      "xataka.com",
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Intel increases the price of its high-end Core Ultra 7 and 5 processors",
-    "summary": "The company applies an unannounced increase to its most powerful desktop chips.",
+    "title": "DRAM price expected to rise up to 20% in Q3 2026 due to AI demand",
+    "summary": "The growing demand for memory for AI data centers will drive a DRAM price increase of between 15% and 20% in the third quarter of 2026.",
     "source": [
-      "videocardz.com",
+      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel overcomes performance issues of its 18A process and doubles production",
-    "summary": "Manufacturing of future chips reaches 30,000 monthly wafers after fixing defects.",
+    "title": "Anthropic develops its own AI chip in collaboration with Samsung",
+    "summary": "AI company Anthropic is working on a custom AI processor with Samsung to strengthen its position in the sector.",
     "source": [
-      "tomshardware.com",
+      "xataka.com",
       "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "EU Court upholds €4.1 billion fine on Google for Android abuse",
-    "summary": "The penalty for anti-competitive practices is confirmed after years of litigation.",
+    "title": "Safari launches MCP server for automated browser debugging",
+    "summary": "Safari has introduced a server based on the Model Context Protocol that allows developers to debug the browser automatically.",
     "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
+      "alternativeto.net",
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "MEP investigating Pegasus spyware hacked with the same program",
-    "summary": "The attack demonstrates the vulnerability even of those who pursue cyberespionage.",
+    "title": "Zuckerberg admits that AI agent development at Meta is slower than expected",
+    "summary": "Mark Zuckerberg has told Meta employees that the AI agents are not progressing at the expected pace.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "MEP investigating espionage hacked with Pegasus software",
+    "summary": "The phone of a European Parliament member who was part of an investigation into spyware abuses was infected with Pegasus malware.",
     "source": [
       "thehackernews.com",
       "techcrunch.com"
@@ -100,90 +104,82 @@
     "count": 2
   },
   {
-    "title": "OpenAI offers 5% of its capital to a US sovereign wealth fund",
-    "summary": "The proposal seeks to align the company's interests with those of the US government.",
-    "source": [
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "TV show tracking app TV Time will close in 2026 and focus on AI",
-    "summary": "The service recommends alternatives to its users before the final shutdown.",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A flaw in Apple's Hide My Email exposes users' real addresses",
-    "summary": "The vulnerability allows attackers to discover emails hidden by the privacy feature.",
-    "source": [
-      "alternativeto.net",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Podman 6.0 improves container integration with modern networks and pod management",
-    "summary": "The new version of the daemonless container engine simplifies development and administration.",
-    "source": [
-      "alternativeto.net",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft plans an operating system with integrated Copilot called Project Aion",
-    "summary": "A leaked video shows the company's plans to deepen AI in Windows.",
+    "title": "Amazon Leo surpasses 390 satellites and prepares to compete with Starlink",
+    "summary": "Amazon's satellite internet project, Leo, has reached more than 390 satellites in orbit, enough to start service and rival Starlink.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Philips introduces gaming monitors with triple mode and refresh rate up to 540 Hz",
-    "summary": "The new models allow switching between QHD, FHD, and HD resolutions without losing fluidity.",
+    "title": "Fable 5 development faces technical and ethical challenges with AI use",
+    "summary": "The Fable 5 studio has reduced costs by converting code into images for OCR, but Anthropic has blocked the use of its AI to write game code.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Xbox prepares for the end of physical discs with new conversion feature and changes to Game Pass",
-    "summary": "Microsoft is working on a system to transform physical games into digital and pauses the addition of new titles to the catalog.",
+    "title": "Anthropic expands Claude's capabilities with Code Artifacts and lab access",
+    "summary": "Anthropic has made Claude Code Artifacts available to paying users and integrated Claude into labs so it can write and execute code.",
     "source": [
       "alternativeto.net",
-      "hardzone.es"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Nvidia offers to finance AI infrastructure in exchange for a percentage of cloud revenue",
-    "summary": "The company proposes an alternative payment model that includes tokens and a share of the client's billing.",
+    "title": "Meta optimizes AI costs by selling compute capacity and reusing DDR4 memory in DDR5 servers",
+    "summary": "Meta has started selling AI compute capacity to third parties and developed a CXL chip to reuse DDR4 memory in new DDR5 servers, thus reducing hardware costs.",
     "source": [
-      "tomshardware.com",
+      "xataka.com",
       "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft invests $2.5 billion in a company to integrate AI into corporate clients",
-    "summary": "The initiative will place 6,000 AI engineers directly into companies.",
+    "title": "Intel revives 13th and 14th Gen processors in China after stability issues",
+    "summary": "Intel has put 13th and 14th generation Core processors on sale again in the Chinese market, while a study suggests consumer confidence has been affected by the stability issues.",
     "source": [
-      "the-decoder.com"
+      "/r/hardware",
+      "elchapuzasinformatico.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Tesla deliveries increase 25% to nearly 500,000 vehicles",
-    "summary": "The company exceeds market expectations despite economic challenges.",
+    "title": "Microsoft accelerates its AI strategy with Windows Project Aion and the Frontier Company program",
+    "summary": "Microsoft plans an AI-focused Windows operating system called Project Aion, and has launched a $2.5 billion program to integrate 6,000 AI engineers into client companies.",
     "source": [
-      "kite.kagi.com"
+      "elchapuzasinformatico.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xbox develops feature to convert physical games to digital while its lack of strategy is criticized",
+    "summary": "Xbox is working on a tool that allows converting physical game discs into digital copies, while analysts point out that the company lacks a clear strategy after layoffs and closures.",
+    "source": [
+      "hardzone.es",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "New high-speed SSDs: Samsung 990 reaches 7,250 MB/s and Kioxia promises a big leap with its new memory",
+    "summary": "Samsung has introduced its 990 PCIe 4.0 SSD with read speeds of up to 7,250 MB/s, while Kioxia is developing new memory that could revolutionize SSD performance.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google loses appeal to EU and must pay €4.1 billion for Android monopoly",
+    "summary": "The Court of Justice of the European Union has confirmed the €4.1 billion fine on Google for abusing its dominant position with Android.",
+    "source": [
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   }

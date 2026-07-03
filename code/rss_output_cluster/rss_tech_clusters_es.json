@@ -1,98 +1,102 @@
 [
   {
-    "title": "Anthropic negocia con Samsung la fabricación de su propio chip de inteligencia artificial",
-    "summary": "La empresa busca reducir su dependencia de Nvidia desarrollando hardware personalizado junto al fabricante coreano.",
+    "title": "La Steam Machine sufre una 'línea roja de la muerte' por fallo de GPU tras pocos minutos de uso",
+    "summary": "Varios usuarios reportan que la consola Steam Machine se bloquea con una línea roja en la pantalla debido a un fallo de la GPU, reminiscente del anillo rojo de la muerte de Xbox 360.",
     "source": [
-      "xataka.com",
+      "hardzone.es",
       "/r/hardware",
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "La plataforma Steam Machine resurge con nuevo hardware, código abierto y controversias técnicas",
-    "summary": "Valve publica el diseño de su pantalla e-ink, Aoostar lanza un clon y se reportan fallos críticos en algunas unidades.",
-    "source": [
-      "news.ycombinator.com",
-      "videocardz.com",
+      "tomshardware.com",
       "elchapuzasinformatico.com",
-      "/r/hardware"
+      "videocardz.com"
     ],
-    "count": 4
+    "count": 5
   },
   {
-    "title": "Sony elimina gradualmente los juegos en formato físico para PlayStation",
-    "summary": "La compañía justifica la medida por ahorro de costes, mientras la comunidad reacciona negativamente y GitHub lanza CDs de repositorio en señal de protesta.",
+    "title": "Intel soluciona los problemas de rendimiento de su nodo 18A y alcanza 30.000 obleas al mes",
+    "summary": "Intel ha resuelto los problemas de rendimiento de su proceso de fabricación de 18A, logrando producir 30.000 obleas al mes entre sus dos fábricas.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
-      "hardzone.es",
-      "xataka.com"
+      "/r/hardware"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Meta admite que sus agentes de IA no avanzan como esperaba y reconoce que los despidos fueron ineficaces",
-    "summary": "La empresa de Zuckerberg cambia su estrategia para vender capacidad de cómputo en lugar de solo comprarla, ajustando su plantilla y prioridades.",
+    "title": "La polémica decisión de Sony de eliminar el formato físico en PlayStation genera reacciones y críticas",
+    "summary": "La Fundación de la Historia de los Videojuegos advierte sobre el impacto del fin del formato físico, mientras jugadores intentan evitarlo y GitHub lanza discos CD-ROM en señal de protesta.",
     "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "xataka.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Valve abre el código de la pantalla y la interfaz de Steam Machine para que los usuarios fabriquen sus propias consolas",
+    "summary": "Valve ha publicado en GitLab el código de la interfaz Inkterface y la pantalla de tinta electrónica de Steam Machine, permitiendo a los entusiastas crear sus propias versiones.",
+    "source": [
+      "videocardz.com",
       "news.ycombinator.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "La demanda de IA dispara los precios de la memoria DRAM y NAND hasta un 18%",
-    "summary": "Los fabricantes aumentan inversiones y presionan al gobierno de EE.UU., mientras los precios de los chips se encarecen.",
+    "title": "Intel confirma subidas de precios en procesadores selectos, incluyendo Xeon y Core Ultra",
+    "summary": "Intel ha aumentado los precios de algunos procesores para consumidores y servidores debido a los costes de suministro y la demanda, con incrementos de más de 1.000 dólares en algunos Xeon.",
     "source": [
-      "elchapuzasinformatico.com",
       "tomshardware.com",
-      "/r/hardware"
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Anthropic perfecciona Claude Code mientras Alibaba lo prohíbe por supuestos riesgos de seguridad",
-    "summary": "La herramienta de codificación con IA reduce su indicación inicial y entra en laboratorios, pero enfrenta bloqueos por presuntos backdoors.",
+    "title": "Filtran detalles de los procesadores Intel Nova Lake-S de 22 núcleos con caché optimizada para juegos",
+    "summary": "Los futuros procesadores Intel Nova Lake-S incluirán modelos de 22 núcleos con un caché especial para mejorar el rendimiento en juegos, según rumores.",
     "source": [
-      "xataka.com",
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Intel incrementa el precio de sus procesadores Core Ultra 7 y 5 de gama alta",
-    "summary": "La compañía aplica una subida sin previo aviso a sus chips de escritorio más potentes.",
+    "title": "Se espera un aumento del precio de la DRAM de hasta el 20% en el tercer trimestre de 2026 por la demanda de IA",
+    "summary": "La creciente demanda de memoria para centros de datos de inteligencia artificial impulsará una subida de precios de la DRAM de entre el 15% y el 20% en el tercer trimestre de 2026.",
     "source": [
-      "videocardz.com",
+      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel supera los problemas de rendimiento de su proceso 18A y duplica la producción",
-    "summary": "La fabricación de los futuros chips alcanza las 30.000 obleas mensuales tras solucionar los defectos.",
+    "title": "Anthropic desarrolla su propio chip de IA en colaboración con Samsung",
+    "summary": "La empresa de inteligencia artificial Anthropic está trabajando en un procesador personalizado para IA junto a Samsung para reforzar su posición en el sector.",
     "source": [
-      "tomshardware.com",
+      "xataka.com",
       "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "El Tribunal de la UE ratifica la multa de 4.100 millones de euros a Google por abuso con Android",
-    "summary": "La sanción por prácticas anticompetitivas queda confirmada tras años de litigio.",
+    "title": "Safari lanza un servidor MCP para la depuración automatizada de navegadores",
+    "summary": "Safari ha introducido un servidor basado en el Model Context Protocol que permite a los desarrolladores depurar el navegador de forma automatizada.",
     "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
+      "alternativeto.net",
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Un eurodiputado que investigaba el spyware Pegasus es hackeado con el mismo programa",
-    "summary": "El ataque demuestra la vulnerabilidad incluso de los que persiguen el ciberespionaje.",
+    "title": "Zuckerberg admite que el desarrollo de agentes de IA en Meta va más lento de lo previsto",
+    "summary": "Mark Zuckerberg ha comunicado a los empleados de Meta que los agentes de inteligencia artificial no avanzan al ritmo esperado.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Un eurodiputado que investigaba el espionaje fue hackeado con el software Pegasus",
+    "summary": "El teléfono de un miembro del Parlamento Europeo que formaba parte de una investigación sobre abusos de spyware fue infectado con el malware Pegasus.",
     "source": [
       "thehackernews.com",
       "techcrunch.com"
@@ -100,90 +104,82 @@
     "count": 2
   },
   {
-    "title": "OpenAI ofrece un 5% de su capital a un fondo soberano de Estados Unidos",
-    "summary": "La propuesta busca alinear los intereses de la empresa con los del gobierno estadounidense.",
-    "source": [
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La aplicación de seguimiento de series TV Time cerrará en 2026 y se centrará en IA",
-    "summary": "El servicio recomienda alternativas a sus usuarios antes del apagón definitivo.",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Un fallo en Apple Hide My Email expone las direcciones reales de los usuarios",
-    "summary": "La vulnerabilidad permite a atacantes descubrir los correos ocultos por la función de privacidad.",
-    "source": [
-      "alternativeto.net",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Podman 6.0 mejora la integración de contenedores con redes modernas y gestión de pods",
-    "summary": "La nueva versión del motor de contenedores sin daemon simplifica el desarrollo y la administración.",
-    "source": [
-      "alternativeto.net",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft planea un sistema operativo con Copilot integrado llamado Project Aion",
-    "summary": "Un vídeo filtrado muestra los planes de la compañía para profundizar la IA en Windows.",
+    "title": "Amazon Leo supera los 390 satélites y se prepara para competir con Starlink",
+    "summary": "El proyecto de internet satelital de Amazon, Leo, ha alcanzado más de 390 satélites en órbita, suficiente para iniciar el servicio y rivalizar con Starlink.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Philips presenta monitores gaming con triple modo y frecuencia de hasta 540 Hz",
-    "summary": "Los nuevos modelos permiten alternar entre resoluciones QHD, FHD y HD sin perder fluidez.",
+    "title": "El desarrollo de Fable 5 enfrenta desafíos técnicos y éticos con el uso de IA",
+    "summary": "El estudio de Fable 5 ha reducido costes convirtiendo código en imágenes para OCR, pero Anthropic ha bloqueado el uso de su IA para escribir código del juego.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Xbox se prepara para el fin de los discos físicos con nueva función de conversión y cambios en Game Pass",
-    "summary": "Microsoft trabaja en un sistema para transformar juegos físicos en digitales y pausa la incorporación de nuevos títulos al catálogo.",
+    "title": "Anthropic expande las capacidades de Claude con Code Artifacts y acceso a laboratorios",
+    "summary": "Anthropic ha puesto a disposición de los usuarios de pago los Claude Code Artifacts y ha integrado a Claude en laboratorios para que pueda escribir y ejecutar código.",
     "source": [
       "alternativeto.net",
-      "hardzone.es"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Nvidia ofrece financiar infraestructura de IA a cambio de un porcentaje de los ingresos en la nube",
-    "summary": "La compañía propone un modelo de pago alternativo que incluye tokens y participación en la facturación del cliente.",
+    "title": "Meta optimiza sus costes de IA vendiendo capacidad de cómputo y reutilizando memoria DDR4 en servidores DDR5",
+    "summary": "Meta ha comenzado a vender capacidad de cómputo de IA a terceros y ha desarrollado un chip CXL para reutilizar memoria DDR4 en nuevos servidores DDR5, reduciendo así los costes de hardware.",
     "source": [
-      "tomshardware.com",
+      "xataka.com",
       "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft invierte 2.500 millones de dólares en una empresa para integrar IA en clientes corporativos",
-    "summary": "La iniciativa colocará 6.000 ingenieros de inteligencia artificial directamente en las empresas.",
+    "title": "Intel revive sus procesadores de 13ª y 14ª Generación en China tras los problemas de estabilidad",
+    "summary": "Intel ha puesto a la venta nuevamente procesadores Core de 13ª y 14ª generación en el mercado chino, mientras un estudio sugiere que la confianza del consumidor se ha visto afectada por los problemas de estabilidad.",
     "source": [
-      "the-decoder.com"
+      "/r/hardware",
+      "elchapuzasinformatico.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Las entregas de Tesla aumentan un 25% hasta casi 500.000 vehículos",
-    "summary": "La compañía supera las expectativas del mercado a pesar de los desafíos económicos.",
+    "title": "Microsoft acelera su estrategia de IA con el sistema Windows Project Aion y el programa Frontier Company",
+    "summary": "Microsoft planea un sistema operativo Windows centrado en IA llamado Project Aion, y ha lanzado un programa de 2.500 millones de dólares para integrar 6.000 ingenieros de IA en empresas clientes.",
     "source": [
-      "kite.kagi.com"
+      "elchapuzasinformatico.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xbox desarrolla una función para convertir juegos físicos en digitales mientras se critica su falta de estrategia",
+    "summary": "Xbox está trabajando en una herramienta que permite convertir discos de juegos físicos en copias digitales, mientras que analistas señalan que la compañía carece de una estrategia clara tras los despidos y cierres.",
+    "source": [
+      "hardzone.es",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nuevos SSD de alta velocidad: Samsung 990 alcanza 7.250 MB/s y Kioxia promete un gran salto con su nueva memoria",
+    "summary": "Samsung ha presentado su SSD 990 PCIe 4.0 con velocidades de lectura de hasta 7.250 MB/s, mientras Kioxia desarrolla una nueva memoria que podría revolucionar el rendimiento de los SSD.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google pierde el recurso ante la UE y deberá pagar 4.100 millones de euros por su monopolio con Android",
+    "summary": "El Tribunal de Justicia de la Unión Europea ha confirmado la multa de 4.100 millones de euros a Google por abusar de su posición dominante con Android.",
+    "source": [
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   }

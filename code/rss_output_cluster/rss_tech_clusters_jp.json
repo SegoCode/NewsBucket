@@ -1,98 +1,102 @@
 [
   {
-    "title": "Anthropic、独自AIチップの製造をSamsungと交渉",
-    "summary": "同社はNvidiaへの依存を減らすため、韓国メーカーと協力してカスタムハードウェアを開発している。",
+    "title": "Steam MachineがGPU障害により使用開始数分で『赤い死のライン』を発症",
+    "summary": "複数のユーザーが、Steam MachineコンソールがGPU障害により画面に赤いラインが表示されてフリーズすると報告。これはXbox 360の『レッドリングオブデス』を彷彿とさせる。",
     "source": [
-      "xataka.com",
+      "hardzone.es",
       "/r/hardware",
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Steam Machine、新ハードウェア、オープンソース、技術的論争とともに再浮上",
-    "summary": "Valveがe-inkディスプレイの設計を公開、Aoostarがクローンを発売、一部ユニットで重大な障害が報告される。",
-    "source": [
-      "news.ycombinator.com",
-      "videocardz.com",
+      "tomshardware.com",
       "elchapuzasinformatico.com",
-      "/r/hardware"
+      "videocardz.com"
     ],
-    "count": 4
+    "count": 5
   },
   {
-    "title": "Sony、PlayStation向け物理メディア版ゲームを段階的に廃止",
-    "summary": "同社はコスト削減を理由に説明する一方、コミュニティは否定的な反応を示し、抗議の意を込めてGitHubがリポジトリCDをリリース。",
+    "title": "Intel、18Aノードのパフォーマンス問題を解決し月産3万枚のウェハーを達成",
+    "summary": "Intelは、18A製造プロセスのパフォーマンス問題を解決し、2つの工場で月産3万枚のウェハー生産を達成した。",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
-      "hardzone.es",
-      "xataka.com"
+      "/r/hardware"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Meta、AIエージェントの進捗が期待通りでないことを認め、解雇は効果がなかったと認識",
-    "summary": "ザッカーバーグ率いる同社は、単に購入するのではなく、計算能力を販売する戦略に変更し、人員と優先順位を調整している。",
+    "title": "SonyがPlayStationで物理メディアを廃止するという物議を醸す決定に反応と批判",
+    "summary": "ビデオゲーム歴史財団は物理メディア終了の影響について警告する一方、ゲーマーはそれを回避しようとし、GitHubは抗議のシンボルとしてCD-ROMディスクを発売した。",
     "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "xataka.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Valve、Steam Machineのディスプレイとインターフェースのコードを公開、ユーザーが自作コンソールを製作可能に",
+    "summary": "ValveはGitLabにInkterfaceインターフェースとSteam Machineの電子ペーパーディスプレイのコードを公開し、愛好家が自分自身のバージョンを作成できるようにした。",
+    "source": [
+      "videocardz.com",
       "news.ycombinator.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "AI需要でDRAMとNANDメモリの価格が最大18%高騰",
-    "summary": "メーカーは投資を増やし米国政府に圧力をかける一方、チップ価格は上昇している。",
+    "title": "Intel、XeonおよびCore Ultraを含む一部プロセッサの値上げを確認",
+    "summary": "Intelは供給コストと需要により、消費者向けおよびサーバー向けの一部プロセッサの価格を引き上げた。一部のXeonでは1,000ドル以上の値上げとなっている。",
     "source": [
-      "elchapuzasinformatico.com",
       "tomshardware.com",
-      "/r/hardware"
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "AnthropicはClaude Codeを改良、一方Alibabaはセキュリティリスクの疑いで禁止",
-    "summary": "AIコーディングツールは初期プロンプトを減らしてラボに入るが、疑惑のバックドアによるブロックに直面。",
+    "title": "Intel Nova Lake-S 22コアプロセッサの詳細が流出、ゲーム向けに最適化されたキャッシュを搭載",
+    "summary": "将来のIntel Nova Lake-Sプロセッサには、ゲームパフォーマンスを向上させる特別なキャッシュを備えた22コアモデルが含まれるとの噂。",
     "source": [
-      "xataka.com",
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Intel、ハイエンドCore Ultra 7および5プロセッサの価格を引き上げ",
-    "summary": "同社は最も強力なデスクトップチップに事前予告なしに値上げを適用。",
+    "title": "AI需要によりDRAM価格が2026年第3四半期に最大20%上昇へ",
+    "summary": "AIデータセンター向けメモリ需要の高まりにより、DRAM価格は2026年第3四半期に15%から20%の上昇が見込まれる。",
     "source": [
-      "videocardz.com",
+      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel、18Aプロセスの性能問題を克服し生産を倍増",
-    "summary": "欠陥を解決した後、将来のチップ製造は月間3万ウェーハに達する。",
+    "title": "Anthropic、Samsungと協力して独自のAIチップを開発",
+    "summary": "AI企業Anthropicは、業界での地位を強化するため、Samsungと共同でカスタムAIプロセッサを開発している。",
     "source": [
-      "tomshardware.com",
+      "xataka.com",
       "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "EU裁判所、Googleに対するAndroid関連の巨額制裁金（41億ユーロ）を支持",
-    "summary": "長年にわたる訴訟の末、反競争的慣行に対する制裁金が確定。",
+    "title": "Safari、ブラウザの自動デバッグのためのMCPサーバーを公開",
+    "summary": "SafariはModel Context Protocolに基づくサーバーを導入し、開発者がブラウザを自動的にデバッグできるようにした。",
     "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
+      "alternativeto.net",
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Pegasusスパイウェアを調査していた欧州議会議員が同じプログラムでハッキングされる",
-    "summary": "この攻撃は、サイバースパイ行為を追及する者でさえも脆弱であることを示している。",
+    "title": "ザッカーバーグ、MetaにおけるAIエージェント開発が予想より遅れていることを認める",
+    "summary": "マーク・ザッカーバーグはMetaの従業員に対し、AIエージェントが期待通りのペースで進んでいないと伝えた。",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "スパイ行為を調査していた欧州議会議員がPegasusソフトウェアでハッキングされる",
+    "summary": "スパイウェアの悪用に関する調査に関与していた欧州議会議員の電話が、マルウェアPegasusに感染した。",
     "source": [
       "thehackernews.com",
       "techcrunch.com"
@@ -100,90 +104,82 @@
     "count": 2
   },
   {
-    "title": "OpenAI、米国政府系ファンドに自己資本の5%を提供",
-    "summary": "この提案は、企業の利益を米国政府の利益と一致させることを目指している。",
-    "source": [
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "シリーズ追跡アプリTV Time、2026年に終了しAIに注力",
-    "summary": "同サービスは完全停止前にユーザーに代替案を推奨している。",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AppleのHide My Emailの欠陥によりユーザーの実際のメールアドレスが露出",
-    "summary": "この脆弱性により、攻撃者はプライバシー機能によって隠された電子メールを発見できる。",
-    "source": [
-      "alternativeto.net",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Podman 6.0、最新ネットワークとポッド管理によるコンテナ統合を改善",
-    "summary": "デーモンレスのコンテナエンジンの新バージョンが開発と管理を簡素化。",
-    "source": [
-      "alternativeto.net",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、Copilot統合OS「Project Aion」を計画",
-    "summary": "漏洩した動画は、WindowsにおけるAIをさらに深める同社の計画を示している。",
+    "title": "Amazon Leo、390基以上の衛星を達成、Starlinkとの競争に備える",
+    "summary": "Amazonの衛星インターネットプロジェクトLeoは、軌道上で390基以上の衛星を達成し、サービス開始とStarlinkとの競争に十分な数となった。",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Philips、最大540Hzのトリプルモードゲーミングモニターを発表",
-    "summary": "新モデルはQHD、FHD、HD解像度をスムーズに切り替え可能。",
+    "title": "Fable 5の開発、AI使用による技術的・倫理的課題に直面",
+    "summary": "Fable 5のスタジオはコードを画像に変換してOCRで読み取ることでコストを削減したが、Anthropicはゲームコードを書くためのAI使用をブロックした。",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Xbox、物理ディスク終了に備えて変換機能とGame Pass変更を準備",
-    "summary": "Microsoftは物理ゲームをデジタル化するシステムに取り組み、カタログへの新タイトル追加を一時停止。",
+    "title": "Anthropic、ClaudeにCode Artifactsとラボアクセス機能を追加",
+    "summary": "Anthropicは有料ユーザー向けにClaude Code Artifactsを提供し、Claudeをラボに統合してコードの作成と実行を可能にした。",
     "source": [
       "alternativeto.net",
-      "hardzone.es"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Nvidia、クラウド収益の一部と引き換えにAIインフラへの資金提供を提案",
-    "summary": "同社はトークンと顧客の売上に対する分配を含む代替支払いモデルを提案。",
+    "title": "Meta、AIコスト最適化のためコンピューティング容量を販売しDDR4メモリをDDR5サーバーで再利用",
+    "summary": "Metaは第三者にAIコンピューティング容量を販売し始め、DDR4メモリを新しいDDR5サーバーで再利用するためのCXLチップを開発し、ハードウェアコストを削減している。",
     "source": [
-      "tomshardware.com",
+      "xataka.com",
       "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft、企業顧客へのAI統合のために企業に25億ドル投資",
-    "summary": "この取り組みにより、6,000人のAIエンジニアが直接企業に配置される。",
+    "title": "Intel、安定性問題の後、中国で第13世代・第14世代プロセッサを再販",
+    "summary": "Intelは中国市場で第13世代および第14世代Coreプロセッサを再販売する一方、調査では安定性問題により消費者の信頼が損なわれた可能性が示唆されている。",
     "source": [
-      "the-decoder.com"
+      "/r/hardware",
+      "elchapuzasinformatico.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Teslaの納入台数が25%増加し、約50万台に",
-    "summary": "同社は経済的課題にもかかわらず市場予想を上回った。",
+    "title": "Microsoft、Windows Project AionとFrontier CompanyプログラムでAI戦略を加速",
+    "summary": "MicrosoftはProject Aionと呼ばれるAI中心のWindows OSを計画しており、顧客企業に6,000人のAIエンジニアを統合するための25億ドルのプログラムを開始した。",
     "source": [
-      "kite.kagi.com"
+      "elchapuzasinformatico.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xbox、物理ゲームをデジタルに変換する機能を開発中、戦略不足を批判される",
+    "summary": "Xboxは物理ゲームディスクをデジタルコピーに変換できるツールを開発しているが、アナリストは解雇や閉鎖後の明確な戦略が欠けていると指摘する。",
+    "source": [
+      "hardzone.es",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "新しい高速SSD：Samsung 990は7,250MB/sを達成、Kioxiaは新メモリで大幅な飛躍を約束",
+    "summary": "Samsungは読み取り速度最大7,250MB/sのSSD 990 PCIe 4.0を発表。一方KioxiaはSSDのパフォーマンスに革命をもたらす可能性のある新しいメモリを開発中。",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google、EUへの控訴に敗れ、Android独占で41億ユーロの支払い命じられる",
+    "summary": "欧州連合司法裁判所は、Androidでの優越的地位の濫用によりGoogleに対する41億ユーロの制裁金を確認した。",
+    "source": [
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   }
