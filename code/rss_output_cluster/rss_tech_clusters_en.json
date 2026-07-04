@@ -1,9 +1,21 @@
 [
   {
-    "title": "Sony's decision to eliminate physical discs on PlayStation sparks controversy and reactions",
-    "summary": "The end of the physical format prompts calls for legislation, industry criticism, and alternative proposals such as code preservation on CD-ROM.",
+    "title": "Steam Machine suffers a 'red line of death' due to GPU failure",
+    "summary": "Several owners report that their console becomes unusable after displaying a red line on the screen, similar to the Xbox 360 error, after a few minutes of use.",
     "source": [
-      "/r/technology",
+      "hardzone.es",
+      "/r/hardware",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Sony accelerates the end of physical format on PlayStation and sparks reactions in the industry",
+    "summary": "Sales limitations of the PS5 disc drive and the abandonment of Blu-ray draw criticism from players and companies, while GitHub releases CD repositories as a protest.",
+    "source": [
+      "videocardz.com",
       "elchapuzasinformatico.com",
       "tomshardware.com",
       "hardzone.es"
@@ -11,170 +23,156 @@
     "count": 4
   },
   {
-    "title": "The Steam Machine suffers critical GPU failures known as 'red line of death'",
-    "summary": "Several units present a hardware error that renders them unusable within minutes of use, similar to the Xbox 360's red ring.",
+    "title": "Intel resolves performance issues of its 18A node and reaches 30,000 monthly wafers",
+    "summary": "The company confirms it has fixed yield failures in its most advanced manufacturing process, increasing production at its factories.",
     "source": [
-      "hardzone.es",
-      "videocardz.com",
+      "elchapuzasinformatico.com",
       "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Samsung plans to raise DRAM prices by up to 20% in the third quarter of 2026",
+    "summary": "Demand from AI data centers drives memory price increases, which could exceed 20% according to industry reports.",
+    "source": [
+      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Microsoft secretly develops an operating system based entirely on Copilot and AI agents",
-    "summary": "The project called 'Windows Project Aion' seeks to integrate the AI assistant into the core of the system.",
+    "title": "SK hynix, Samsung, and Micron pressure against government intervention in memory chip supply",
+    "summary": "The industrial group warns that intervention would worsen the situation and proposes tax deductions for consumer electronics as an alternative.",
     "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com",
-      "the-decoder.com"
+      "/r/hardware",
+      "tomshardware.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "A member of the European Parliament investigating espionage abuses was hacked using Pegasus spyware",
-    "summary": "The attack against a member of the European Parliament underscores the use of surveillance software against political targets.",
+    "title": "Intel confirms price hikes on Core Ultra and Xeon processors due to supply costs",
+    "summary": "CPU prices increase to over $1,000 in some models, due to high demand and production costs.",
     "source": [
-      "thehackernews.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Artificial intelligence boosts vulnerability detection and enables new types of cyberattacks",
-    "summary": "The rise of AI models has increased security flaws, while AI-powered browsers can be manipulated to execute attacks.",
+    "title": "A MEP investigating espionage was hacked with Pegasus",
+    "summary": "The spyware attack against a member of the European Parliament reveals new vulnerabilities in the security of EU institutions.",
     "source": [
-      "/r/technology",
+      "news.ycombinator.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Mistral launches Leanstral 1.5, an open-source model that excels in mathematics and error detection",
+    "summary": "The AI model surpasses formal benchmarks and finds real bugs in code, promoting transparency and collaboration in AI development.",
+    "source": [
       "the-decoder.com",
       "news.ycombinator.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "Intel fixes performance issues in its 18A node and accelerates wafer production",
-    "summary": "The company claims to have resolved manufacturing defects in its 18A process, reaching up to 30,000 wafers per month.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
     "count": 2
   },
   {
-    "title": "Intel prepares Nova Lake-S processors with 22 cores and special cache for gaming",
-    "summary": "The new Core Ultra 400 will include 125W and 65W versions with a cache that promises to improve performance in video games.",
+    "title": "Microsoft accelerates its bet on AI with renewed Copilot and the new Windows Project Aion system",
+    "summary": "The company presents an improved version of Copilot with AutoPilot agents and details leak of an operating system centered on Copilot AI.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel confirms price increases on its Core and Xeon processors due to rising costs",
-    "summary": "The company applies increases of up to $1,000 on some Xeon models and raises prices on Core Ultra 7 and Ultra 5.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Chevrolet's electric pickup truck fails to convince the US market",
-    "summary": "Despite being a 100% US-manufactured vehicle, sales are not taking off and the company seeks to understand why.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tesla limits its employees' weekly spending on AI tools to $200",
-    "summary": "The measure aims to control the use of artificial intelligence within the company, according to internal reports.",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Mark Zuckerberg acknowledges that the development of AI agents at Meta is progressing slower than expected",
-    "summary": "The CEO of Meta admits that initial expectations about autonomous agents have not been met as planned.",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Blackstone cancels the world's largest data center campus project due to a legal technicality",
-    "summary": "The 2,100-acre Digital Gateway project in Virginia is discarded after years of lawsuits and a defect in public notification.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A Tesla driver is charged with homicide after an accident with FSD mode activated",
-    "summary": "The accident occurred when the vehicle in full self-driving mode crashed into a home in Texas.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "The EU imposes a €4.1 billion fine on Google for abuse of dominant position with Android",
-    "summary": "The Court of Justice of the European Union confirms the penalty for monopolistic practices in the mobile operating system market.",
-    "source": [
+      "the-decoder.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Scientists manage to reverse the flow of time in a quantum experiment",
-    "summary": "A team of physicists manages to make time flow backwards at the quantum level, opening new possibilities in computing.",
+    "title": "India investigates Telegram and Signal over anonymity while impersonation grows on WhatsApp",
+    "summary": "Authorities request information about accounts with nicknames, while usernames on WhatsApp generate identity issues.",
     "source": [
-      "/r/technology"
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The rise of AI drives up security vulnerabilities, especially with the launch of Claude Mythos",
+    "summary": "Vulnerability reports multiply since the arrival of AI models like Claude Mythos, which expose new exploitable faults.",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Spain suffers an intense heat wave with historical records and increased demand for air conditioning",
+    "summary": "Temperatures break records in all stations, with tropical nights and AEMET warnings about tougher summers, while Europe accelerates the purchase of air conditioners.",
+    "source": [
+      "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "A fungus inside Chernobyl feeds on radiation and could have space applications",
-    "summary": "The radiotrophic organism detected in the nuclear reactor could be used to protect astronauts from radiation.",
+    "title": "The avalanche of tourists forces Aena to limit capacity at Barajas and El Prat and sends rents soaring",
+    "summary": "The record number of travelers saturates Spanish airports and drives up housing costs, leading authorities to take control measures.",
     "source": [
-      "/r/technology"
+      "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "Negotiations for the unionization of Google DeepMind begin with difficulties",
-    "summary": "Employees of the AI lab seek to form a union, but the company shows resistance to conversations.",
+    "title": "July 4th deals on hardware: discounts up to 71% on gaming PCs, chairs, and tools",
+    "summary": "Big sales on Dell, Alienware, HP, and Omen equipment, plus Secretlab chairs and screwdriver sets, during summer promotional events.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Talks to unionize Google DeepMind start with difficulties",
+    "summary": "Attempts to form a union at Google's AI lab face initial obstacles according to internal sources.",
     "source": [
       "wired.com"
     ],
     "count": 1
   },
   {
-    "title": "UK AI safety institute warns that benchmarks underestimate agents' capabilities",
-    "summary": "Standard tests do not reflect the true potential of autonomous artificial intelligence agents.",
+    "title": "Apple defends itself against lawsuit for training AI with public YouTube videos",
+    "summary": "The company argues it used content available to everyone and denies having violated copyright in the development of its models.",
     "source": [
-      "the-decoder.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "Chinese company Kling raises $2 billion for AI video expansion",
-    "summary": "The AI video generation company prepares for its IPO in Hong Kong.",
+    "title": "Amazon already has enough Leo satellites to compete with Starlink",
+    "summary": "Amazon's constellation reaches the necessary number to offer satellite internet services and rival SpaceX's network.",
     "source": [
-      "the-decoder.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "Anthropic develops its own AI chip to compete with NVIDIA and other companies",
-    "summary": "The company behind Claude seeks to strengthen its AI leadership with a processor specifically designed for its models.",
+    "title": "Anthropic prepares its own chip to strengthen its leadership in artificial intelligence",
+    "summary": "The company develops an AI-specific processor that would allow it to reduce dependence on external suppliers and optimize its models.",
     "source": [
       "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "China's Kling raises $2 billion for its IPO in Hong Kong",
+    "summary": "The AI video creator attracts a large investment while preparing for its initial public offering on the Hong Kong stock exchange.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Tesla limits its employees' spending on AI to $200 per week",
+    "summary": "The company sets a weekly cap on the use of artificial intelligence tools by its staff, amid cost-saving policies.",
+    "source": [
+      "the-decoder.com"
     ],
     "count": 1
   }

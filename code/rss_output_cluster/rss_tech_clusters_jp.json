@@ -1,9 +1,21 @@
 [
   {
-    "title": "ソニーがPlayStationの物理ディスクを廃止する決定が論争と反応を引き起こす",
-    "summary": "物理フォーマットの終焉は、法制化への呼びかけ、業界の批判、そしてCD-ROMへのコード保存といった代替案を引き起こしている。",
+    "title": "Steam Machine、GPU障害で「レッドライン・オブ・デス」に直面",
+    "summary": "複数の所有者が、使用開始数分後に画面に赤い線が表示され、Xbox 360のエラーと同様に本体が使用不能になったと報告している。",
     "source": [
-      "/r/technology",
+      "hardzone.es",
+      "/r/hardware",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Sony、PlayStationでの物理フォーマット終焉を加速、業界に波紋",
+    "summary": "PS5ディスクドライブの販売制限とBlu-rayの放棄がプレイヤーや企業からの批判を招き、抗議としてGitHubがCDリポジトリを公開した。",
+    "source": [
+      "videocardz.com",
       "elchapuzasinformatico.com",
       "tomshardware.com",
       "hardzone.es"
@@ -11,170 +23,156 @@
     "count": 4
   },
   {
-    "title": "Steam Machine、「死の赤線」と呼ばれる致命的なGPU障害が発生",
-    "summary": "複数のユニットで、使用開始後数分で動作不能になるハードウェアエラーが発生。Xbox 360のレッドリングと類似している。",
+    "title": "Intel、18Aノードの性能問題を解決し月産3万ウェーハを達成",
+    "summary": "同社は最先端製造プロセスにおける歩留まり問題を解決し、工場での生産量を増加させたことを確認した。",
     "source": [
-      "hardzone.es",
-      "videocardz.com",
+      "elchapuzasinformatico.com",
       "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Samsung、2026年第3四半期にDRAM価格を最大20%引き上げへ",
+    "summary": "AIデータセンターの需要がメモリ価格の上昇を促し、業界報告によれば20%を超える可能性もある。",
+    "source": [
+      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "MicrosoftがCopilotとAIエージェントに完全に基づいたオペレーティングシステムを秘密裏に開発",
-    "summary": "「Windows Project Aion」と名付けられたプロジェクトは、AIアシスタントをシステムの核に統合することを目指している。",
+    "title": "SKハイニックス・サムスン・マイクロン、メモリチップ供給への政府介入に反発",
+    "summary": "業界団体は介入が状況を悪化させると警告し、代替案として家電向け税控除を提案している。",
     "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com",
-      "the-decoder.com"
+      "/r/hardware",
+      "tomshardware.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "スパイ行為の濫用を調査していた欧州議会議員がスパイウェアPegasusでハッキングされる",
-    "summary": "欧州議会議員に対する攻撃は、政治的標的に対する監視ソフトウェアの使用を浮き彫りにしている。",
+    "title": "Intel、供給コスト上昇によりCore UltraおよびXeonプロセッサの値上げを確認",
+    "summary": "一部モデルではCPU価格が1000ドル以上に上昇。需要増と生産コスト高騰が背景。",
     "source": [
-      "thehackernews.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "人工知能が脆弱性検出を急増させ、新種のサイバー攻撃を可能にする",
-    "summary": "AIモデルの台頭はセキュリティ上の欠陥を増加させ、一方でAI搭載ブラウザが操作されて攻撃を実行される可能性がある。",
+    "title": "スパイ活動を調査中の欧州議員、Pegasusでハッキングされる",
+    "summary": "欧州議会議員へのスパイウェア攻撃により、EU機関のセキュリティに新たな脆弱性が明らかになった。",
     "source": [
-      "/r/technology",
+      "news.ycombinator.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Mistral、数学とバグ検出に優れたオープンソースモデル「Leanstral 1.5」を公開",
+    "summary": "このAIモデルは公式ベンチマークを上回り、実際のコードのバグを発見。AI開発の透明性と協力を促進する。",
+    "source": [
       "the-decoder.com",
       "news.ycombinator.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "Intel、18Aノードのパフォーマンス問題を解決し、ウェハー生産を加速",
-    "summary": "同社は18Aプロセスの製造欠陥を解決し、月間最大30,000枚のウェハーを達成したと発表。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
     "count": 2
   },
   {
-    "title": "Intel、ゲーム向け特別キャッシュを搭載した22コアのNova Lake-Sプロセッサを準備",
-    "summary": "新しいCore Ultra 400は、125Wと65Wのバージョンが用意され、ゲーム性能を向上させるとされるキャッシュを搭載する。",
+    "title": "Microsoft、Copilot刷新とProject AionでAIへの注力を加速",
+    "summary": "同社はAutoPilotエージェントを搭載したCopilot改良版を発表。Copilot AIに特化した新OSの詳細も流出している。",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel、コスト上昇によりCoreおよびXeonプロセッサの値上げを確認",
-    "summary": "同社は一部のXeonモデルで最大1,000ドルの値上げを実施し、Core Ultra 7およびUltra 5も値上げ調整。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "シボレーの電気自動車ピックアップトラック、米国市場を魅了できず",
-    "summary": "100%米国製でありながら販売が伸びず、同社はその理由を探っている。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tesla、従業員のAIツールへの週間支出を200ドルに制限",
-    "summary": "この措置は、社内での人工知能の使用を管理することを目的としていると内部報告が伝えている。",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "マーク・ザッカーバーグ、MetaのAIエージェント開発が予想より遅れていることを認める",
-    "summary": "MetaのCEOは、自律エージェントに対する初期の期待が計画通りに達成されていないことを認めた。",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Blackstone、法的な技術的問題により世界最大のデータセンターキャンパスプロジェクトを中止",
-    "summary": "バージニア州の2,100エーカーのDigital Gatewayプロジェクトは、長年にわたる訴訟と公告の不備により断念された。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tesla運転手、FSDモード起動中の事故で殺人罪に問われる",
-    "summary": "事故は、完全自動運転モードの車両がテキサス州の民家に衝突した際に発生した。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "EU、GoogleにAndroidによる支配的地位の濫用で41億ユーロの制裁金",
-    "summary": "欧州連合司法裁判所は、モバイルOS市場における独占的行為に対する制裁を確認した。",
-    "source": [
+      "the-decoder.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "科学者らが量子実験で時間の流れを逆転させることに成功",
-    "summary": "物理学者チームが量子レベルで時間を逆流させることに成功し、コンピューティングに新たな可能性を開く。",
+    "title": "インド、匿名性巡りTelegramとSignalを調査、WhatsAppではなりすまし増加",
+    "summary": "当局がニックネームアカウントの情報開示を求める一方、WhatsAppのユーザー名がなりすまし問題を引き起こしている。",
     "source": [
-      "/r/technology"
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AIの台頭でセキュリティ脆弱性が急増、特にClaude Mythosリリースで顕著に",
+    "summary": "Claude MythosなどのAIモデル登場により悪用可能な新たな欠陥が露呈し、脆弱性報告が急増している。",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "スペイン、記録的な猛暑に見舞われエアコン需要急増",
+    "summary": "各地で気温が記録を更新し熱帯夜が続く。AEMETは夏の厳しさを警告し、欧州全体でエアコン購入が加速している。",
+    "source": [
+      "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "チェルノブイリの放射線を食べる菌類、宇宙応用の可能性",
-    "summary": "原子炉で発見された放射線栄養生物は、宇宙飛行士を放射線から守るために利用される可能性がある。",
+    "title": "観光客殺到でAenaがバラハスとエル・プラットの容量制限、家賃高騰も",
+    "summary": "過去最多の旅行者がスペインの空港を飽和させ住宅価格を押し上げ、当局が規制措置を講じている。",
     "source": [
-      "/r/technology"
+      "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "Google DeepMindの労働組合化交渉、困難な船出",
-    "summary": "AI研究所の従業員は組合結成を目指しているが、同社は交渉に抵抗を示している。",
+    "title": "7月4日ハードウェアセール：ゲーミングPC・チェア・ツールが最大71%オフ",
+    "summary": "Dell、Alienware、HP、Omen製品に加え、Secretlabチェアやドライバーセットが夏のプロモーションで大幅値下げ。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Google DeepMindの労働組合設立交渉、困難な滑り出し",
+    "summary": "GoogleのAI研究所での労働組合結成の試みは、内部関係者によると初期段階で多くの障害に直面している。",
     "source": [
       "wired.com"
     ],
     "count": 1
   },
   {
-    "title": "英国AI安全研究所、ベンチマークがエージェントの能力を過小評価していると警告",
-    "summary": "標準テストは自律型人工知能エージェントの真の可能性を反映していない。",
+    "title": "Apple、YouTube公開動画によるAI訓練訴訟に反論",
+    "summary": "同社は誰でも利用可能なコンテンツを使用したと主張し、モデル開発における著作権侵害を否定している。",
     "source": [
-      "the-decoder.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "中国のKling、AI動画展開のために20億ドルを調達",
-    "summary": "AI動画生成企業は香港での新規株式公開に備えている。",
+    "title": "Amazon、Starlinkに対抗できる十分なLEO衛星を確保",
+    "summary": "Amazonの衛星コンステレーションが衛星インターネットサービスを提供し、SpaceXのネットワークと競合するのに必要な数に達した。",
     "source": [
-      "the-decoder.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "Anthropic、NVIDIAなどに対抗する独自AIチップを開発",
-    "summary": "Claudeを開発した同社は、自社モデル用に設計されたプロセッサでAI分野でのリーダーシップ強化を目指す。",
+    "title": "Anthropic、AIリーダーシップ強化のため自社チップを開発",
+    "summary": "同社は外部プロバイダーへの依存を低減しモデルを最適化するため、AI専用プロセッサを開発中。",
     "source": [
       "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "中国のKling、香港上場に向け20億ドルを調達",
+    "summary": "AI動画生成企業が香港証券取引所への新規公開を前に、大型投資を獲得した。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Tesla、従業員のAI支出を週200ドルに制限",
+    "summary": "同社はコスト削減策の一環として、スタッフのAIツール利用に週間上限を設定した。",
+    "source": [
+      "the-decoder.com"
     ],
     "count": 1
   }
