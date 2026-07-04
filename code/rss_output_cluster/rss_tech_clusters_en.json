@@ -1,30 +1,51 @@
 [
   {
-    "title": "Steam Machine suffers a 'red line of death' due to GPU failure",
-    "summary": "Several owners report that their console becomes unusable after displaying a red line on the screen, similar to the Xbox 360 error, after a few minutes of use.",
+    "title": "Users report multiple GPU failures in new Steam Machines, reviving the 'red ring of death'",
+    "summary": "Several units of the new Steam Machine console suffer a catastrophic GPU failure that produces a red line on the screen, reminiscent of the Xbox 360's RROD, leaving the console completely unusable after a few minutes of use.",
     "source": [
       "hardzone.es",
+      "videocardz.com",
       "/r/hardware",
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "kite.kagi.com",
+      "tomshardware.com"
     ],
     "count": 5
   },
   {
-    "title": "Sony accelerates the end of physical format on PlayStation and sparks reactions in the industry",
-    "summary": "Sales limitations of the PS5 disc drive and the abandonment of Blu-ray draw criticism from players and companies, while GitHub releases CD repositories as a protest.",
+    "title": "Sony limits sales of PS5 disc drive and industry debates the end of physical format",
+    "summary": "Faced with a surge in demand after the announcement of a disc-less future, Sony restricts the purchase of the drive to one unit per order, while the VGHF and various companies criticize a decision that accelerates the end of physical games.",
     "source": [
-      "videocardz.com",
       "elchapuzasinformatico.com",
       "tomshardware.com",
-      "hardzone.es"
+      "videocardz.com",
+      "alternativeto.net"
     ],
     "count": 4
   },
   {
-    "title": "Intel resolves performance issues of its 18A node and reaches 30,000 monthly wafers",
-    "summary": "The company confirms it has fixed yield failures in its most advanced manufacturing process, increasing production at its factories.",
+    "title": "Intel solves performance issues of its 18A node and prepares new Nova Lake processors",
+    "summary": "Intel stabilizes production of its 18A node with 30,000 wafers per month, prepares 22-core Core Ultra 5 processors for Nova Lake, and confirms price increases for its Xeon and consumer CPUs.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Semiconductor industry urges Trump administration not to intervene in the memory chip market",
+    "summary": "SK hynix, Samsung, and Micron lead a lobbying group that warns government restrictions on memory supply would worsen the market situation.",
+    "source": [
+      "/r/hardware",
+      "kite.kagi.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "DRAM and NAND prices will continue to rise through 2026 due to AI data center demand",
+    "summary": "Despite a slight moderation for consumers, Samsung and other manufacturers forecast increases of up to 20% in the third quarter of 2026 due to high demand from artificial intelligence infrastructure.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -33,44 +54,28 @@
     "count": 3
   },
   {
-    "title": "Samsung plans to raise DRAM prices by up to 20% in the third quarter of 2026",
-    "summary": "Demand from AI data centers drives memory price increases, which could exceed 20% according to industry reports.",
+    "title": "Japan boosts its technology strategy with robots, Micron's gigafactory, and emergency communications with Starlink",
+    "summary": "The Asian nation plans to deploy ten million robots to address the worker shortage, Micron opens a $9 billion plant, and hydrants with Starlink are tested for Wi-Fi emergencies.",
     "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SK hynix, Samsung, and Micron pressure against government intervention in memory chip supply",
-    "summary": "The industrial group warns that intervention would worsen the situation and proposes tax deductions for consumer electronics as an alternative.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel confirms price hikes on Core Ultra and Xeon processors due to supply costs",
-    "summary": "CPU prices increase to over $1,000 in some models, due to high demand and production costs.",
-    "source": [
+      "xataka.com",
       "tomshardware.com",
-      "videocardz.com"
+      "/r/hardware"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "A MEP investigating espionage was hacked with Pegasus",
-    "summary": "The spyware attack against a member of the European Parliament reveals new vulnerabilities in the security of EU institutions.",
+    "title": "The race for the AI 'superapp' accelerates with Microsoft Copilot, ChatGPT Codex, and open source models",
+    "summary": "Microsoft redesigns Copilot and launches AutoPilot, OpenAI introduces ChatGPT Codex, and the community adds models like Kimi K2.7 to GitHub Copilot, transforming software development while OpenAI's co-founder anticipates a future without interfaces.",
     "source": [
-      "news.ycombinator.com",
-      "thehackernews.com"
+      "xataka.com",
+      "the-decoder.com",
+      "alternativeto.net"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Mistral launches Leanstral 1.5, an open-source model that excels in mathematics and error detection",
-    "summary": "The AI model surpasses formal benchmarks and finds real bugs in code, promoting transparency and collaboration in AI development.",
+    "title": "Mistral launches Leanstral 1.5, an open source model that dominates formal mathematics benchmarks",
+    "summary": "Mistral's new model demonstrates superior ability in mathematical theorems and proof formalization, being able to detect real errors in software source code.",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com"
@@ -78,101 +83,104 @@
     "count": 2
   },
   {
-    "title": "Microsoft accelerates its bet on AI with renewed Copilot and the new Windows Project Aion system",
-    "summary": "The company presents an improved version of Copilot with AutoPilot agents and details leak of an operating system centered on Copilot AI.",
+    "title": "Anthropic developer criticizes Fable 5 development, questioning the future of the video game",
+    "summary": "A Claude developer shared prompting tips for Fable 5, generating controversy and speculation about development viability and the difficulties facing the franchise's return.",
     "source": [
       "the-decoder.com",
-      "elchapuzasinformatico.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "India investigates Telegram and Signal over anonymity while impersonation grows on WhatsApp",
-    "summary": "Authorities request information about accounts with nicknames, while usernames on WhatsApp generate identity issues.",
+    "title": "Security vulnerability reports have skyrocketed since AI began hunting bugs",
+    "summary": "A study reveals that the number of reported vulnerabilities exploded coinciding with the use of artificial intelligence in bug hunting, with a notable peak after the launch of Claude Mythos Preview.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google pressures media to give up their content in exchange for revenue from training its AI",
+    "summary": "Google warns that media outlets that do not allow the use of their articles to train AI models will lose revenue from the News Showcase program, while union negotiations at DeepMind face initial difficulties.",
     "source": [
       "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The rise of AI drives up security vulnerabilities, especially with the launch of Claude Mythos",
-    "summary": "Vulnerability reports multiply since the arrival of AI models like Claude Mythos, which expose new exploitable faults.",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Spain suffers an intense heat wave with historical records and increased demand for air conditioning",
-    "summary": "Temperatures break records in all stations, with tropical nights and AEMET warnings about tougher summers, while Europe accelerates the purchase of air conditioners.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "The avalanche of tourists forces Aena to limit capacity at Barajas and El Prat and sends rents soaring",
-    "summary": "The record number of travelers saturates Spanish airports and drives up housing costs, leading authorities to take control measures.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "July 4th deals on hardware: discounts up to 71% on gaming PCs, chairs, and tools",
-    "summary": "Big sales on Dell, Alienware, HP, and Omen equipment, plus Secretlab chairs and screwdriver sets, during summer promotional events.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Talks to unionize Google DeepMind start with difficulties",
-    "summary": "Attempts to form a union at Google's AI lab face initial obstacles according to internal sources.",
-    "source": [
       "wired.com"
     ],
+    "count": 2
+  },
+  {
+    "title": "Browser competition intensifies with Brave, Safari, and Chrome alternatives",
+    "summary": "Brave adds Firefox-like containers to isolate accounts, Safari integrates an MCP server for automatic browser debugging, and analysts recommend exploring alternatives given the market's evolution.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Multiple critical vulnerabilities: Bad Epoll in the Linux kernel and privilege escalation in MSI Center",
+    "summary": "The 'Bad Epoll' vulnerability is discovered in the Linux kernel that allows escalating to root on Android systems, while MSI Center exposes a flaw that grants SYSTEM privileges on Windows systems.",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Data center news: 3D-printed nuclear reactor, canceled megaproject, and Japanese investment",
+    "summary": "A startup presents the first 3D-printed thorium reactor for AI, Blackstone abandons the world's largest data center campus, and Japan invests $500 million in semiconductors for the future.",
+    "source": [
+      "tomshardware.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Weekly cyberattack summary: Avalon ransomware, trojan targeting governments, and North Korean packages",
+    "summary": "New threats such as Avalon ransomware and the BusySnake trojan target government infrastructures, while North Korea releases 108 malicious packages and flaws are revealed in millions of embedded devices.",
+    "source": [
+      "thehackernews.com"
+    ],
     "count": 1
   },
   {
-    "title": "Apple defends itself against lawsuit for training AI with public YouTube videos",
-    "summary": "The company argues it used content available to everyone and denies having violated copyright in the development of its models.",
+    "title": "Immich 3.0, Raycast 0.67, and xplorer² 6.3: productivity software news for advanced users",
+    "summary": "Immich incorporates non-destructive editing and mobile OCR, Raycast adds content search in files, and xplorer² integrates the Everything search engine to optimize daily work.",
+    "source": [
+      "alternativeto.net"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Apple defends against AI training lawsuit claiming YouTube videos were public",
+    "summary": "The company responds to the class action lawsuit by stating that the YouTube subtitles used to train its artificial intelligence models were publicly available to everyone.",
     "source": [
       "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "Amazon already has enough Leo satellites to compete with Starlink",
-    "summary": "Amazon's constellation reaches the necessary number to offer satellite internet services and rival SpaceX's network.",
-    "source": [
-      "elchapuzasinformatico.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Anthropic prepares its own chip to strengthen its leadership in artificial intelligence",
-    "summary": "The company develops an AI-specific processor that would allow it to reduce dependence on external suppliers and optimize its models.",
+    "title": "Airbus names and dates the A320 replacement: the eAction plane will take off in 2030",
+    "summary": "Airbus officially announces its new short-range aircraft, the eAction, whose launch is planned for 2030, marking a milestone in sustainable commercial aviation.",
     "source": [
       "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "China's Kling raises $2 billion for its IPO in Hong Kong",
-    "summary": "The AI video creator attracts a large investment while preparing for its initial public offering on the Hong Kong stock exchange.",
+    "title": "Epic Games confirms new free games starting July 9 and Sony announces PS Plus price increase",
+    "summary": "Epic Games reveals the upcoming games that can be claimed for free on its store, while Sony announces a new increase in the PlayStation Plus subscription.",
     "source": [
-      "the-decoder.com"
+      "hardzone.es"
     ],
     "count": 1
   },
   {
-    "title": "Tesla limits its employees' spending on AI to $200 per week",
-    "summary": "The company sets a weekly cap on the use of artificial intelligence tools by its staff, amid cost-saving policies.",
+    "title": "Hollywood will exploit the 'Backrooms' universe and a documentary portrays the biggest box office failure in history",
+    "summary": "The industry prepares multiple projects on the popular creepypasta 'Backrooms', while a new documentary analyzes the legendary financial flop of a recent blockbuster.",
     "source": [
-      "the-decoder.com"
+      "xataka.com"
     ],
     "count": 1
   }

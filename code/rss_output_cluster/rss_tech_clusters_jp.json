@@ -1,30 +1,51 @@
 [
   {
-    "title": "Steam Machine、GPU障害で「レッドライン・オブ・デス」に直面",
-    "summary": "複数の所有者が、使用開始数分後に画面に赤い線が表示され、Xbox 360のエラーと同様に本体が使用不能になったと報告している。",
+    "title": "ユーザーが新しいSteam MachineでGPUの複数の障害を報告、『レッドリング・オブ・デス』が復活",
+    "summary": "新しいSteam Machineコンソールの複数ユニットがGPUの致命的な障害に見舞われ、画面に赤い線が表示される。これはXbox 360のRRODを彷彿とさせ、使用開始から数分でコンソールが完全に使用不能になる。",
     "source": [
       "hardzone.es",
+      "videocardz.com",
       "/r/hardware",
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "kite.kagi.com",
+      "tomshardware.com"
     ],
     "count": 5
   },
   {
-    "title": "Sony、PlayStationでの物理フォーマット終焉を加速、業界に波紋",
-    "summary": "PS5ディスクドライブの販売制限とBlu-rayの放棄がプレイヤーや企業からの批判を招き、抗議としてGitHubがCDリポジトリを公開した。",
+    "title": "ソニーがPS5ディスクドライブの販売を制限、業界は物理メディアの終焉を議論",
+    "summary": "ディスクなしの未来の発表後、需要が急増したことを受け、ソニーはドライブの購入を1注文あたり1台に制限。VGHFやさまざまな企業が、物理ゲームの終焉を早める決定を批判している。",
     "source": [
-      "videocardz.com",
       "elchapuzasinformatico.com",
       "tomshardware.com",
-      "hardzone.es"
+      "videocardz.com",
+      "alternativeto.net"
     ],
     "count": 4
   },
   {
-    "title": "Intel、18Aノードの性能問題を解決し月産3万ウェーハを達成",
-    "summary": "同社は最先端製造プロセスにおける歩留まり問題を解決し、工場での生産量を増加させたことを確認した。",
+    "title": "Intelが18Aノードのパフォーマンス問題を解決、新しいNova Lakeプロセッサを準備",
+    "summary": "Intelは18Aノードの生産を月3万ウェーハで安定化させ、Nova Lake向け22コアのCore Ultra 5プロセッサを準備し、Xeonおよびコンシューマー向けCPUの価格上昇を確認した。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "半導体業界がトランプ政権にメモリチップ市場への介入をしないよう要請",
+    "summary": "SK hynix、Samsung、Micronがロビー団体を主導し、政府によるメモリ供給制限が市場状況を悪化させると警告している。",
+    "source": [
+      "/r/hardware",
+      "kite.kagi.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AIデータセンターの需要により、DRAMとNANDの価格は2026年も上昇を続ける",
+    "summary": "消費者向けにはやや落ち着きを見せているものの、Samsungなどのメーカーは、AIインフラの高い需要により、2026年第3四半期に最大20%の値上がりを予測している。",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -33,44 +54,28 @@
     "count": 3
   },
   {
-    "title": "Samsung、2026年第3四半期にDRAM価格を最大20%引き上げへ",
-    "summary": "AIデータセンターの需要がメモリ価格の上昇を促し、業界報告によれば20%を超える可能性もある。",
+    "title": "日本がロボット、Micronのギガファクトリー、Starlinkによる緊急通信で技術戦略を推進",
+    "summary": "日本は労働者不足を補うために1000万台のロボットを配備する計画で、Micronは90億ドルの工場を開設、Wi-Fi緊急用にStarlinkを備えた消火栓がテストされている。",
     "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SKハイニックス・サムスン・マイクロン、メモリチップ供給への政府介入に反発",
-    "summary": "業界団体は介入が状況を悪化させると警告し、代替案として家電向け税控除を提案している。",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel、供給コスト上昇によりCore UltraおよびXeonプロセッサの値上げを確認",
-    "summary": "一部モデルではCPU価格が1000ドル以上に上昇。需要増と生産コスト高騰が背景。",
-    "source": [
+      "xataka.com",
       "tomshardware.com",
-      "videocardz.com"
+      "/r/hardware"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "スパイ活動を調査中の欧州議員、Pegasusでハッキングされる",
-    "summary": "欧州議会議員へのスパイウェア攻撃により、EU機関のセキュリティに新たな脆弱性が明らかになった。",
+    "title": "Microsoft Copilot、ChatGPT Codex、オープンソースモデルでAI『スーパーアプリ』競争が加速",
+    "summary": "MicrosoftはCopilotを再設計しAutoPilotを発表、OpenAIはChatGPT Codexを公開、コミュニティはKimi K2.7などのモデルをGitHub Copilotに追加。ソフトウェア開発を変革する一方、OpenAIの共同創業者はインターフェースのない未来を予想している。",
     "source": [
-      "news.ycombinator.com",
-      "thehackernews.com"
+      "xataka.com",
+      "the-decoder.com",
+      "alternativeto.net"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Mistral、数学とバグ検出に優れたオープンソースモデル「Leanstral 1.5」を公開",
-    "summary": "このAIモデルは公式ベンチマークを上回り、実際のコードのバグを発見。AI開発の透明性と協力を促進する。",
+    "title": "Mistralが形式数学ベンチマークを制するオープンソースモデルLeanstral 1.5を発表",
+    "summary": "Mistralの新モデルは数学の定理と証明の形式化において優れた能力を示し、ソフトウェアのソースコード内の実際のエラーを検出することができる。",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com"
@@ -78,101 +83,104 @@
     "count": 2
   },
   {
-    "title": "Microsoft、Copilot刷新とProject AionでAIへの注力を加速",
-    "summary": "同社はAutoPilotエージェントを搭載したCopilot改良版を発表。Copilot AIに特化した新OSの詳細も流出している。",
+    "title": "Anthropicの開発者がFable 5の開発を批判、ビデオゲームの将来に疑問を投げかける",
+    "summary": "Claudeの開発者がFable 5のプロンプティングのヒントを共有し、開発の実現可能性やフランチャイズ復活が直面する困難について議論と憶測を呼んでいる。",
     "source": [
       "the-decoder.com",
-      "elchapuzasinformatico.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "インド、匿名性巡りTelegramとSignalを調査、WhatsAppではなりすまし増加",
-    "summary": "当局がニックネームアカウントの情報開示を求める一方、WhatsAppのユーザー名がなりすまし問題を引き起こしている。",
+    "title": "AIがバグを探し始めてからセキュリティ脆弱性の報告が急増",
+    "summary": "ある研究によると、バグハンティングにAIが使用されるようになった時期と一致して報告される脆弱性の数が急増し、Claude Mythos Previewのリリース後に顕著なピークが見られた。",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Googleがメディアに対し、AIトレーニングのためにコンテンツを提供するよう圧力、収益と引き換えに",
+    "summary": "Googleは、AIモデルのトレーニングに記事の使用を許可しないメディアはNews Showcaseプログラムからの収益を失うと警告。一方、DeepMindでの労働組合交渉は初期の困難に直面している。",
     "source": [
       "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AIの台頭でセキュリティ脆弱性が急増、特にClaude Mythosリリースで顕著に",
-    "summary": "Claude MythosなどのAIモデル登場により悪用可能な新たな欠陥が露呈し、脆弱性報告が急増している。",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "スペイン、記録的な猛暑に見舞われエアコン需要急増",
-    "summary": "各地で気温が記録を更新し熱帯夜が続く。AEMETは夏の厳しさを警告し、欧州全体でエアコン購入が加速している。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "観光客殺到でAenaがバラハスとエル・プラットの容量制限、家賃高騰も",
-    "summary": "過去最多の旅行者がスペインの空港を飽和させ住宅価格を押し上げ、当局が規制措置を講じている。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "7月4日ハードウェアセール：ゲーミングPC・チェア・ツールが最大71%オフ",
-    "summary": "Dell、Alienware、HP、Omen製品に加え、Secretlabチェアやドライバーセットが夏のプロモーションで大幅値下げ。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Google DeepMindの労働組合設立交渉、困難な滑り出し",
-    "summary": "GoogleのAI研究所での労働組合結成の試みは、内部関係者によると初期段階で多くの障害に直面している。",
-    "source": [
       "wired.com"
     ],
+    "count": 2
+  },
+  {
+    "title": "Brave、Safari、Chromeの代替ブラウザでブラウザ競争が激化",
+    "summary": "Braveはアカウントを分離するFirefox風のコンテナを追加、Safariはブラウザの自動デバッグ用MCPサーバーを統合。アナリストは市場の進化に伴い代替ブラウザの探索を推奨している。",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "複数の重大な脆弱性：LinuxカーネルのBad EpollとMSI Centerの権限昇格",
+    "summary": "LinuxカーネルでAndroidシステム上でrootへの権限昇格を可能にする「Bad Epoll」脆弱性が発見される一方、MSI CenterではWindowsシステムでSYSTEM権限を付与する欠陥が明らかになった。",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "データセンター関連ニュース：3D印刷された原子炉、巨大プロジェクトの中止、日本の投資",
+    "summary": "スタートアップがAI向け初の3Dトリウム原子炉を発表、Blackstoneは世界最大のデータキャンパスを断念、日本は将来の半導体に5億ドルを投資。",
+    "source": [
+      "tomshardware.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "今週のサイバー攻撃まとめ：Avalonランサムウェア、政府を狙ったトロイの木馬、北朝鮮のパッケージ",
+    "summary": "AvalonランサムウェアやBusySnakeトロイの木馬などの新たな脅威が政府インフラを標的とする一方、北朝鮮は108個の悪意あるパッケージを公開、数百万の組み込みデバイスに欠陥が明らかになった。",
+    "source": [
+      "thehackernews.com"
+    ],
     "count": 1
   },
   {
-    "title": "Apple、YouTube公開動画によるAI訓練訴訟に反論",
-    "summary": "同社は誰でも利用可能なコンテンツを使用したと主張し、モデル開発における著作権侵害を否定している。",
+    "title": "Immich 3.0、Raycast 0.67、xplorer² 6.3：パワーユーザー向け生産性ソフトウェアの新機能",
+    "summary": "Immichは非破壊編集とモバイルOCRを搭載、Raycastはファイル内コンテンツ検索を追加、xplorer²はEverything検索エンジンを統合し、日々の作業を最適化する。",
+    "source": [
+      "alternativeto.net"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Apple、AIトレーニングに関する訴訟でYouTube動画は公開されていたと主張して防御",
+    "summary": "同社は集団訴訟に対し、AIモデルのトレーニングに使用されたYouTubeの字幕は誰でも公開で利用可能だったと回答している。",
     "source": [
       "elchapuzasinformatico.com"
     ],
     "count": 1
   },
   {
-    "title": "Amazon、Starlinkに対抗できる十分なLEO衛星を確保",
-    "summary": "Amazonの衛星コンステレーションが衛星インターネットサービスを提供し、SpaceXのネットワークと競合するのに必要な数に達した。",
-    "source": [
-      "elchapuzasinformatico.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Anthropic、AIリーダーシップ強化のため自社チップを開発",
-    "summary": "同社は外部プロバイダーへの依存を低減しモデルを最適化するため、AI専用プロセッサを開発中。",
+    "title": "AirbusがA320の後継機に名称と日程を発表：eAction機は2030年に離陸",
+    "summary": "Airbusは2030年に発売予定の新しい短距離航空機eActionを正式に発表、持続可能な商業航空のマイルストーンとなる。",
     "source": [
       "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "中国のKling、香港上場に向け20億ドルを調達",
-    "summary": "AI動画生成企業が香港証券取引所への新規公開を前に、大型投資を獲得した。",
+    "title": "Epic Gamesが7月9日からの新たな無料ゲームを確認、ソニーがPS Plusの値上げを発表",
+    "summary": "Epic Gamesはストアで無料で入手できる今後のゲームを公開、一方ソニーはPlayStation Plusサブスクリプションの新たな値上げを認めた。",
     "source": [
-      "the-decoder.com"
+      "hardzone.es"
     ],
     "count": 1
   },
   {
-    "title": "Tesla、従業員のAI支出を週200ドルに制限",
-    "summary": "同社はコスト削減策の一環として、スタッフのAIツール利用に週間上限を設定した。",
+    "title": "ハリウッドが『Backrooms』ユニバースを活用、ドキュメンタリーが史上最大の興行収入の失敗を描く",
+    "summary": "業界は人気のクリーピーパスタ『Backrooms』に関する複数のプロジェクトを準備する一方、新しいドキュメンタリーが最近の大作映画の伝説的な興行失敗を分析している。",
     "source": [
-      "the-decoder.com"
+      "xataka.com"
     ],
     "count": 1
   }
