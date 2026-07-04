@@ -1,185 +1,180 @@
 [
   {
-    "title": "Steam MachineがGPU障害により使用開始数分で『赤い死のライン』を発症",
-    "summary": "複数のユーザーが、Steam MachineコンソールがGPU障害により画面に赤いラインが表示されてフリーズすると報告。これはXbox 360の『レッドリングオブデス』を彷彿とさせる。",
+    "title": "ソニーがPlayStationの物理ディスクを廃止する決定が論争と反応を引き起こす",
+    "summary": "物理フォーマットの終焉は、法制化への呼びかけ、業界の批判、そしてCD-ROMへのコード保存といった代替案を引き起こしている。",
     "source": [
-      "hardzone.es",
-      "/r/hardware",
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Intel、18Aノードのパフォーマンス問題を解決し月産3万枚のウェハーを達成",
-    "summary": "Intelは、18A製造プロセスのパフォーマンス問題を解決し、2つの工場で月産3万枚のウェハー生産を達成した。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 3
-  },
-  {
-    "title": "SonyがPlayStationで物理メディアを廃止するという物議を醸す決定に反応と批判",
-    "summary": "ビデオゲーム歴史財団は物理メディア終了の影響について警告する一方、ゲーマーはそれを回避しようとし、GitHubは抗議のシンボルとしてCD-ROMディスクを発売した。",
-    "source": [
+      "/r/technology",
       "elchapuzasinformatico.com",
       "tomshardware.com",
       "hardzone.es"
     ],
+    "count": 4
+  },
+  {
+    "title": "Steam Machine、「死の赤線」と呼ばれる致命的なGPU障害が発生",
+    "summary": "複数のユニットで、使用開始後数分で動作不能になるハードウェアエラーが発生。Xbox 360のレッドリングと類似している。",
+    "source": [
+      "hardzone.es",
+      "videocardz.com",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "MicrosoftがCopilotとAIエージェントに完全に基づいたオペレーティングシステムを秘密裏に開発",
+    "summary": "「Windows Project Aion」と名付けられたプロジェクトは、AIアシスタントをシステムの核に統合することを目指している。",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "the-decoder.com"
+    ],
     "count": 3
   },
   {
-    "title": "Valve、Steam Machineのディスプレイとインターフェースのコードを公開、ユーザーが自作コンソールを製作可能に",
-    "summary": "ValveはGitLabにInkterfaceインターフェースとSteam Machineの電子ペーパーディスプレイのコードを公開し、愛好家が自分自身のバージョンを作成できるようにした。",
-    "source": [
-      "videocardz.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel、XeonおよびCore Ultraを含む一部プロセッサの値上げを確認",
-    "summary": "Intelは供給コストと需要により、消費者向けおよびサーバー向けの一部プロセッサの価格を引き上げた。一部のXeonでは1,000ドル以上の値上げとなっている。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Nova Lake-S 22コアプロセッサの詳細が流出、ゲーム向けに最適化されたキャッシュを搭載",
-    "summary": "将来のIntel Nova Lake-Sプロセッサには、ゲームパフォーマンスを向上させる特別なキャッシュを備えた22コアモデルが含まれるとの噂。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AI需要によりDRAM価格が2026年第3四半期に最大20%上昇へ",
-    "summary": "AIデータセンター向けメモリ需要の高まりにより、DRAM価格は2026年第3四半期に15%から20%の上昇が見込まれる。",
-    "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic、Samsungと協力して独自のAIチップを開発",
-    "summary": "AI企業Anthropicは、業界での地位を強化するため、Samsungと共同でカスタムAIプロセッサを開発している。",
-    "source": [
-      "xataka.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Safari、ブラウザの自動デバッグのためのMCPサーバーを公開",
-    "summary": "SafariはModel Context Protocolに基づくサーバーを導入し、開発者がブラウザを自動的にデバッグできるようにした。",
-    "source": [
-      "alternativeto.net",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ザッカーバーグ、MetaにおけるAIエージェント開発が予想より遅れていることを認める",
-    "summary": "マーク・ザッカーバーグはMetaの従業員に対し、AIエージェントが期待通りのペースで進んでいないと伝えた。",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "スパイ行為を調査していた欧州議会議員がPegasusソフトウェアでハッキングされる",
-    "summary": "スパイウェアの悪用に関する調査に関与していた欧州議会議員の電話が、マルウェアPegasusに感染した。",
+    "title": "スパイ行為の濫用を調査していた欧州議会議員がスパイウェアPegasusでハッキングされる",
+    "summary": "欧州議会議員に対する攻撃は、政治的標的に対する監視ソフトウェアの使用を浮き彫りにしている。",
     "source": [
       "thehackernews.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "人工知能が脆弱性検出を急増させ、新種のサイバー攻撃を可能にする",
+    "summary": "AIモデルの台頭はセキュリティ上の欠陥を増加させ、一方でAI搭載ブラウザが操作されて攻撃を実行される可能性がある。",
+    "source": [
+      "/r/technology",
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Intel、18Aノードのパフォーマンス問題を解決し、ウェハー生産を加速",
+    "summary": "同社は18Aプロセスの製造欠陥を解決し、月間最大30,000枚のウェハーを達成したと発表。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel、ゲーム向け特別キャッシュを搭載した22コアのNova Lake-Sプロセッサを準備",
+    "summary": "新しいCore Ultra 400は、125Wと65Wのバージョンが用意され、ゲーム性能を向上させるとされるキャッシュを搭載する。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel、コスト上昇によりCoreおよびXeonプロセッサの値上げを確認",
+    "summary": "同社は一部のXeonモデルで最大1,000ドルの値上げを実施し、Core Ultra 7およびUltra 5も値上げ調整。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "シボレーの電気自動車ピックアップトラック、米国市場を魅了できず",
+    "summary": "100%米国製でありながら販売が伸びず、同社はその理由を探っている。",
+    "source": [
+      "/r/technology",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Amazon Leo、390基以上の衛星を達成、Starlinkとの競争に備える",
-    "summary": "Amazonの衛星インターネットプロジェクトLeoは、軌道上で390基以上の衛星を達成し、サービス開始とStarlinkとの競争に十分な数となった。",
+    "title": "Tesla、従業員のAIツールへの週間支出を200ドルに制限",
+    "summary": "この措置は、社内での人工知能の使用を管理することを目的としていると内部報告が伝えている。",
     "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Fable 5の開発、AI使用による技術的・倫理的課題に直面",
-    "summary": "Fable 5のスタジオはコードを画像に変換してOCRで読み取ることでコストを削減したが、Anthropicはゲームコードを書くためのAI使用をブロックした。",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic、ClaudeにCode Artifactsとラボアクセス機能を追加",
-    "summary": "Anthropicは有料ユーザー向けにClaude Code Artifactsを提供し、Claudeをラボに統合してコードの作成と実行を可能にした。",
-    "source": [
-      "alternativeto.net",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta、AIコスト最適化のためコンピューティング容量を販売しDDR4メモリをDDR5サーバーで再利用",
-    "summary": "Metaは第三者にAIコンピューティング容量を販売し始め、DDR4メモリを新しいDDR5サーバーで再利用するためのCXLチップを開発し、ハードウェアコストを削減している。",
-    "source": [
-      "xataka.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel、安定性問題の後、中国で第13世代・第14世代プロセッサを再販",
-    "summary": "Intelは中国市場で第13世代および第14世代Coreプロセッサを再販売する一方、調査では安定性問題により消費者の信頼が損なわれた可能性が示唆されている。",
-    "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、Windows Project AionとFrontier CompanyプログラムでAI戦略を加速",
-    "summary": "MicrosoftはProject Aionと呼ばれるAI中心のWindows OSを計画しており、顧客企業に6,000人のAIエンジニアを統合するための25億ドルのプログラムを開始した。",
-    "source": [
-      "elchapuzasinformatico.com",
+      "/r/technology",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Xbox、物理ゲームをデジタルに変換する機能を開発中、戦略不足を批判される",
-    "summary": "Xboxは物理ゲームディスクをデジタルコピーに変換できるツールを開発しているが、アナリストは解雇や閉鎖後の明確な戦略が欠けていると指摘する。",
+    "title": "マーク・ザッカーバーグ、MetaのAIエージェント開発が予想より遅れていることを認める",
+    "summary": "MetaのCEOは、自律エージェントに対する初期の期待が計画通りに達成されていないことを認めた。",
     "source": [
-      "hardzone.es",
-      "alternativeto.net"
+      "/r/technology",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "新しい高速SSD：Samsung 990は7,250MB/sを達成、Kioxiaは新メモリで大幅な飛躍を約束",
-    "summary": "Samsungは読み取り速度最大7,250MB/sのSSD 990 PCIe 4.0を発表。一方KioxiaはSSDのパフォーマンスに革命をもたらす可能性のある新しいメモリを開発中。",
+    "title": "Blackstone、法的な技術的問題により世界最大のデータセンターキャンパスプロジェクトを中止",
+    "summary": "バージニア州の2,100エーカーのDigital Gatewayプロジェクトは、長年にわたる訴訟と公告の不備により断念された。",
     "source": [
-      "videocardz.com",
-      "hardzone.es"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Google、EUへの控訴に敗れ、Android独占で41億ユーロの支払い命じられる",
-    "summary": "欧州連合司法裁判所は、Androidでの優越的地位の濫用によりGoogleに対する41億ユーロの制裁金を確認した。",
+    "title": "Tesla運転手、FSDモード起動中の事故で殺人罪に問われる",
+    "summary": "事故は、完全自動運転モードの車両がテキサス州の民家に衝突した際に発生した。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "EU、GoogleにAndroidによる支配的地位の濫用で41億ユーロの制裁金",
+    "summary": "欧州連合司法裁判所は、モバイルOS市場における独占的行為に対する制裁を確認した。",
     "source": [
       "elchapuzasinformatico.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "科学者らが量子実験で時間の流れを逆転させることに成功",
+    "summary": "物理学者チームが量子レベルで時間を逆流させることに成功し、コンピューティングに新たな可能性を開く。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "チェルノブイリの放射線を食べる菌類、宇宙応用の可能性",
+    "summary": "原子炉で発見された放射線栄養生物は、宇宙飛行士を放射線から守るために利用される可能性がある。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Google DeepMindの労働組合化交渉、困難な船出",
+    "summary": "AI研究所の従業員は組合結成を目指しているが、同社は交渉に抵抗を示している。",
+    "source": [
+      "wired.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "英国AI安全研究所、ベンチマークがエージェントの能力を過小評価していると警告",
+    "summary": "標準テストは自律型人工知能エージェントの真の可能性を反映していない。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "中国のKling、AI動画展開のために20億ドルを調達",
+    "summary": "AI動画生成企業は香港での新規株式公開に備えている。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Anthropic、NVIDIAなどに対抗する独自AIチップを開発",
+    "summary": "Claudeを開発した同社は、自社モデル用に設計されたプロセッサでAI分野でのリーダーシップ強化を目指す。",
+    "source": [
+      "xataka.com"
     ],
     "count": 1
   }
