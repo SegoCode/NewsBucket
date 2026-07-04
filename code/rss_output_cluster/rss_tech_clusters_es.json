@@ -1,81 +1,69 @@
 [
   {
-    "title": "Usuarios reportan múltiples fallos de GPU en las nuevas Steam Machines, reviviendo el 'anillo rojo de la muerte'",
-    "summary": "Varias unidades de la nueva consola Steam Machine sufren un fallo catastrófico de GPU que produce una línea roja en la pantalla, reminiscente del RROD de Xbox 360, dejando la consola completamente inutilizable tras pocos minutos de uso.",
+    "title": "PlayStation se encamina a un futuro sin discos físicos en medio de la polémica",
+    "summary": "Sony limita la compra de lectores de discos para PS5, la producción de discos se detendrá en 2028 y crecen las críticas de empresas, políticos y consumidores.",
     "source": [
-      "hardzone.es",
+      "elchapuzasinformatico.com",
       "videocardz.com",
-      "/r/hardware",
-      "kite.kagi.com",
-      "tomshardware.com"
+      "/r/technology",
+      "tomshardware.com",
+      "alternativeto.net"
     ],
     "count": 5
   },
   {
-    "title": "Sony limita la venta del lector de discos de PS5 y la industria debate el fin del formato físico",
-    "summary": "Ante el gran repunte de demanda tras el anuncio de un futuro sin discos, Sony restringe la compra del lector a una unidad por pedido, mientras la VGHF y diversas empresas critican una decisión que acelera el fin de los juegos físicos.",
+    "title": "Los SSD chinos YMTC ya se montan en portátiles Lenovo a nivel global",
+    "summary": "Fabricantes como Lenovo incorporan unidades de estado sólido de YMTC en sus portátiles, lo que supone la entrada de la memoria NAND china en el mercado internacional de ordenadores.",
     "source": [
-      "elchapuzasinformatico.com",
       "tomshardware.com",
-      "videocardz.com",
-      "alternativeto.net"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Intel soluciona los problemas de rendimiento de su nodo 18A y prepara nuevos procesadores Nova Lake",
-    "summary": "Intel estabiliza la producción de su nodo 18A con 30.000 obleas al mes, prepara procesadores Core Ultra 5 de 22 núcleos para Nova Lake y confirma subidas de precio en sus CPUs Xeon y de consumo.",
-    "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "/r/hardware",
       "videocardz.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "La industria de semiconductores insta a la administración Trump a no intervenir en el mercado de chips de memoria",
-    "summary": "SK hynix, Samsung y Micron encabezan un grupo de presión que advierte que las restricciones gubernamentales al suministro de memorias empeorarían la situación del mercado.",
+    "title": "Centros de datos bajo escrutinio por contaminación ambiental y nuevas fuentes de energía",
+    "summary": "Meta suspende vertidos de agua contaminada, Microsoft es demandada por ruido, las emisiones de CO2 superan lo estimado y una startup propone reactores nucleares impresos en 3D para alimentarlos.",
     "source": [
-      "/r/hardware",
-      "kite.kagi.com",
+      "news.ycombinator.com",
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "El precio de la DRAM y la NAND seguirá subiendo durante 2026 por la demanda de centros de datos de IA",
-    "summary": "A pesar de una ligera moderación para el consumidor, Samsung y otros fabricantes pronostican incrementos de hasta el 20% en el tercer trimestre de 2026 debido a la alta demanda de las infraestructuras de inteligencia artificial.",
+    "title": "Crece la controversia en torno al uso de la inteligencia artificial por derechos de autor y competencia desleal",
+    "summary": "Músicos, creadores y gobiernos denuncian el uso no autorizado de obras por parte de la IA, mientras empresas como Apple y Meta defienden sus prácticas y aumentan las demandas.",
     "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "/r/hardware"
+      "/r/technology",
+      "techcrunch.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "Japón impulsa su estrategia tecnológica con robots, la gigafactoría de Micron y comunicaciones de emergencia con Starlink",
-    "summary": "El país nipón planea desplegar diez millones de robots para cubrir la falta de trabajadores, Micron inaugura una planta de 9.000 millones de dólares, y se prueban hidrantes con Starlink para emergencias Wi-Fi.",
+    "title": "Nuevos procesadores y portátiles gaming ligeros con RTX 5070 y Ryzen 7 dominan el mercado",
+    "summary": "System76 y ThundeRobot lanzan portátiles con RTX 5070, AMD presenta el Ryzen 7 8700G, Intel prepara Nova Lake, y AYANEO lanza una consola portátil Strix Halo.",
     "source": [
-      "xataka.com",
-      "tomshardware.com",
-      "/r/hardware"
+      "videocardz.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "La carrera por la 'superapp' de IA se acelera con Microsoft Copilot, ChatGPT Codex y modelos de código abierto",
-    "summary": "Microsoft rediseña Copilot y lanza AutoPilot, OpenAI presenta ChatGPT Codex, y la comunidad suma modelos como Kimi K2.7 a GitHub Copilot, transformando el desarrollo de software mientras el cofundador de OpenAI anticipa un futuro sin interfaces.",
+    "title": "Nuevas herramientas y recursos para desarrolladores: optimización de costes de IA y técnicas de programación",
+    "summary": "Aparecen herramientas como pxpipe para reducir costes de tokens de IA, junto con consejos de prompt engineering, cursos de programación y charlas sobre concurrencia.",
     "source": [
-      "xataka.com",
       "the-decoder.com",
-      "alternativeto.net"
+      "news.ycombinator.com",
+      "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "Mistral lanza Leanstral 1.5, un modelo de código abierto que domina los benchmarks formales de matemáticas",
-    "summary": "El nuevo modelo de Mistral demuestra una capacidad superior en teoremas matemáticos y formalización de pruebas, siendo capaz de detectar errores reales en código fuente de software.",
+    "title": "Mistral lanza Leanstral 1.5, modelo de código abierto que domina las matemáticas formales",
+    "summary": "El modelo de inteligencia artificial de Mistral establece nuevos récords en benchmarks de matemáticas y detecta errores reales en código.",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com"
@@ -83,44 +71,26 @@
     "count": 2
   },
   {
-    "title": "Desarrollador de Anthropic critica el desarrollo de Fable 5 poniendo en duda el futuro del videojuego",
-    "summary": "Un desarrollador de Claude compartió consejos de prompting para Fable 5, generando controversia y especulación sobre la viabilidad del desarrollo y las dificultades que enfrenta el regreso de la franquicia.",
+    "title": "Microsoft acelera su apuesta por la inteligencia artificial con Copilot y agentes AutoPilot",
+    "summary": "Microsoft desarrolla un sistema operativo centrado en Copilot y se une a la carrera de las superapps de IA con sus propios agentes inteligentes.",
     "source": [
-      "the-decoder.com",
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Olas de calor extremo afectan a Estados Unidos y Europa con apagones, sequía y récords de temperatura",
+    "summary": "EE.UU. sufre apagones masivos y la eliminación de páginas sobre eficiencia energética, mientras Europa enfrenta el descenso del Rin y temperaturas récord en España.",
+    "source": [
+      "/r/technology",
       "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Los informes de vulnerabilidades de seguridad se han disparado desde que la IA empezó a buscar bugs",
-    "summary": "Un estudio revela que la cantidad de vulnerabilidades reportadas explotó coincidiendo con el uso de inteligencia artificial en la caza de errores, con un pico notable tras el lanzamiento de Claude Mythos Preview.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google presiona a los medios para que cedan su contenido a cambio de ingresos por entrenar su IA",
-    "summary": "Google advierte que los medios que no permitan el uso de sus artículos para entrenar modelos de IA perderán los ingresos del programa News Showcase, mientras las negociaciones sindicales en DeepMind enfrentan dificultades iniciales.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La competencia en navegadores se intensifica con Brave, Safari y las alternativas a Chrome",
-    "summary": "Brave añade contenedores tipo Firefox para aislar cuentas, Safari integra un servidor MCP para depuración automática del navegador, y los analistas recomiendan explorar alternativas ante la evolución del mercado.",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Múltiples vulnerabilidades críticas: Bad Epoll en el kernel de Linux y escalada de privilegios en MSI Center",
-    "summary": "Se descubre la vulnerabilidad 'Bad Epoll' en el kernel de Linux que permite escalar a root en sistemas Android, mientras que MSI Center expone un fallo que concede privilegios SYSTEM en sistemas Windows.",
+    "title": "Múltiples vulnerabilidades de seguridad afectan a sistemas Linux, Android y dispositivos embebidos",
+    "summary": "Se revelan fallos como Bad Epoll en Linux que permite escalar privilegios, junto con campañas de malware norcoreanas y agujeros en sistemas de archivos para millones de dispositivos.",
     "source": [
       "thehackernews.com",
       "news.ycombinator.com"
@@ -128,60 +98,93 @@
     "count": 2
   },
   {
-    "title": "Noticias sobre centros de datos: reactor nuclear impreso en 3D, megaproyecto cancelado e inversión japonesa",
-    "summary": "Una startup presenta el primer reactor de torio en 3D para IA, Blackstone abandona el mayor campus de datos del mundo, y Japón invierte 500 millones en semiconductores para el futuro.",
+    "title": "La RTX 5090 genera polémica por sus elevados precios y problemas de disipación térmica",
+    "summary": "Las tarjetas gráficas RTX 5090 alcanzan precios de hasta 6.499 euros, mientras se reportan casos de derretimiento del aislante del riser PCIe en configuraciones verticales.",
     "source": [
-      "tomshardware.com",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El alto costo de la vivienda en las ciudades provoca oficinas vacías y busca alternativas más baratas",
+    "summary": "Mientras Seattle enfrenta torres de oficinas vacías, el precio de los pisos en Madrid supera al de una isla en Escocia.",
+    "source": [
+      "news.ycombinator.com",
       "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Resumen de ciberataques de la semana: ransomware Avalon, troyano contra gobiernos y paquetes norcoreanos",
-    "summary": "Nuevas amenazas como el ransomware Avalon y el troyano BusySnake apuntan a infraestructuras gubernamentales, mientras Corea del Norte lanza 108 paquetes maliciosos y se revelan fallos en millones de dispositivos embebidos.",
+    "title": "El futuro de la movilidad: Airbus desarrolla el sucesor del A320 y Chevrolet lucha por vender su camioneta eléctrica",
+    "summary": "Airbus anuncia el lanzamiento del avión eAction en 2030, mientras la camioneta eléctrica de Chevrolet no logra atraer compradores en Estados Unidos.",
     "source": [
-      "thehackernews.com"
+      "xataka.com",
+      "/r/technology"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Immich 3.0, Raycast 0.67 y xplorer² 6.3: novedades en software de productividad para usuarios avanzados",
-    "summary": "Immich incorpora edición no destructiva y OCR móvil, Raycast añade búsqueda de contenido en archivos y xplorer² integra el motor de búsqueda Everything para optimizar el trabajo diario.",
+    "title": "Criptomonedas y desigualdad: inversores pierden miles de millones mientras los multimillonarios aumentan su fortuna",
+    "summary": "Casi un millón de inversores perdieron 3.800 millones de dólares con la criptomoneda de Trump, mientras los millonarios globales incrementaron su riqueza un 25% en el último año.",
     "source": [
-      "alternativeto.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple se defiende de la demanda por entrenamiento de su IA alegando que los vídeos de YouTube eran públicos",
-    "summary": "La compañía responde a la demanda colectiva afirmando que los subtítulos de YouTube utilizados para entrenar sus modelos de inteligencia artificial estaban disponibles públicamente para todo el mundo.",
-    "source": [
-      "elchapuzasinformatico.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Airbus pone nombre y fecha al sustituto del A320: el avión eAction despegará en 2030",
-    "summary": "Airbus anuncia oficialmente su nuevo avión de corto alcance, el eAction, cuyo lanzamiento está previsto para 2030, marcando un hito en la aviación comercial sostenible.",
-    "source": [
+      "/r/technology",
       "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Epic Games confirma nuevos juegos gratuitos desde el 9 de julio y Sony anuncia subida de precio en PS Plus",
-    "summary": "Epic Games revela los próximos juegos que se podrán reclamar gratis en su tienda, mientras Sony admite un nuevo aumento en la suscripción de PlayStation Plus.",
+    "title": "La conectividad avanza con routers XGS-PON WiFi 7 y antenas Starlink en hidrantes de Japón",
+    "summary": "Orange renueva su router con fibra de 10 Gbps y WiFi 7, mientras Japón prueba hidrantes con antenas Starlink para proporcionar Wi-Fi en emergencias.",
     "source": [
+      "bandaancha.eu",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Entusiastas reviven consolas clásicas y crean sus propias Steam Machine con componentes modernos",
+    "summary": "Desde un mando de PS1 funcional hasta un clon de Dreamcast con Windows CE, los aficionados mantienen viva la tecnología retro con proyectos DIY.",
+    "source": [
+      "tomshardware.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nuevos hallazgos astronómicos: el telescopio Webb desconcierta a los científicos y las bacterias sobreviven en Marte",
+    "summary": "Las observaciones del telescopio Webb desafían las teorías actuales del universo, mientras un estudio muestra que las bacterias pueden resistir condiciones marcianas.",
+    "source": [
+      "news.ycombinator.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La tecnología y la inteligencia artificial transforman el ámbito laboral y la productividad",
+    "summary": "Excel sigue dominando la web, YouTube preocupa a los creadores con cambios en sus algoritmos, y la IA afecta las relaciones humanas y el aprendizaje.",
+    "source": [
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Monitores OLED y teclados magnéticos marcan tendencia en el mercado gaming",
+    "summary": "Los monitores OLED 1440p 240 Hz alcanzan precios de IPS, mientras los teclados con switches Hall Effect ganan popularidad frente a los mecánicos.",
+    "source": [
+      "tomshardware.com",
       "hardzone.es"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Hollywood explotará el universo 'Backrooms' y un documental retrata el mayor fracaso de taquilla de la historia",
-    "summary": "La industria prepara múltiples proyectos sobre el popular creepypasta 'Backrooms', mientras un nuevo documental analiza el legendario batacazo financiero de una superproducción reciente.",
+    "title": "Filtraciones de datos y privacidad: desde YouTube hasta las solicitudes de información a Telegram",
+    "summary": "Se reportan filtraciones de vídeos privados en YouTube, posibles fugas de caché en espacios de trabajo, Verizon afecta a los relojes inteligentes y la India pide explicaciones a Telegram y Signal.",
     "source": [
-      "xataka.com"
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 1
+    "count": 2
   }
 ]
