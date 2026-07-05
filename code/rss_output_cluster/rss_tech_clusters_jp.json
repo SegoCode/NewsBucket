@@ -1,191 +1,167 @@
 [
   {
-    "title": "新たなユニコーン、夏のセール、世界のテクノロジー市場で記録的な売上",
-    "summary": "テクノロジー業界で新たに約90社のユニコーンが誕生し、サイバーパンク2077が4000万本を達成、サムスンの折りたたみスマホの価格が欧州で上昇。",
+    "title": "ソニーがディスクドライブの購入制限を導入、物理ゲームの未来に関する議論が再燃",
+    "summary": "ソニーがPS5向けディスクドライブの購入に制限を課す中、業界では物理メディアの終焉が問われ、プレイヤーはゲームの所有権を守ろうとしている。",
     "source": [
-      "techcrunch.com",
-      "tomshardware.com",
-      "producthunt.com",
-      "xataka.com",
-      "kite.kagi.com",
-      "videocardz.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "ハードウェア大分析：あらゆる予算に対応するノートPC、モニター、GPU、周辺機器",
-    "summary": "RTX 5070搭載の新ノートPC、手頃な価格の有機ELモニター、RTX 5090やThinkPad X1の詳細レビューがハードウェアの話題を席巻。",
-    "source": [
-      "hardzone.es",
-      "tomshardware.com",
-      "xataka.com",
-      "videocardz.com"
+      "/r/technology",
+      "news.ycombinator.com",
+      "alternativeto.net",
+      "tomshardware.com"
     ],
     "count": 4
   },
   {
-    "title": "ソニー、パッケージゲーム、休眠アカウント、PS5ディスクドライブ不足に関する見解を表明",
-    "summary": "同社は2028年以降もディスク版ゲームの再販を継続することを確認し、休眠アカウントの停止を擁護、ディスクドライブの購入制限を認めた。",
+    "title": "Google、建国の父がAIで独立宣言を起草するという広告で物議を醸す",
+    "summary": "GoogleのCMは歴史上の人物がAIを使って独立宣言を起草する様子を描き、AIを軽視していると批判されている。",
     "source": [
-      "videocardz.com",
-      "alternativeto.net",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ハリウッド、AIと対決：Midjourneyを提訴、Seedanceの禁止を要求",
-    "summary": "映画業界はAIツールに対し学習データの開示を要求し、自社作品の無断使用を阻止しようとしている。",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Fableエンジンとクラシックゲームの移植がブラウザとモバイルゲームに革命",
-    "summary": "Half-Life 2がブラウザ上で100FPS以上で動作、Command & Conquer GeneralsがmacOSとiOSに登場、Claude CodeとFable 5のトークンコストを削減するツールが公開。",
-    "source": [
-      "tomshardware.com",
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "健康、ウェルネス、デジタルデトックス：大麻のリスクと静寂・散歩の力",
-    "summary": "研究により大麻と心筋梗塞の関連性が確認される一方、運動と瞑想が創造性と精神衛生を向上させることが科学的に裏付けられている。",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "サイバーセキュリティ、エネルギー、インフラ：汚染データセンターからドローン用原子力電池まで",
-    "summary": "メタが汚染問題でデータセンターを停止、FBIがScattered Spiderに関連するエストニアの若いハッカーを逮捕、DARPAが軍事ドローン用原子力電池を計画。",
-    "source": [
-      "tomshardware.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ソニー、DualShockにPS1を内蔵したコントローラーを試作も、日の目を見ずに中止",
-    "summary": "「PlayStation Puga」プロジェクトはコントローラーに完全なゲーム機を内蔵していたが、高コストと開発者にとっての低マージンにより破棄された。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "アリババ、スパイ行為とバックドア疑惑でClaude Codeの社内使用を禁止",
-    "summary": "中国のテクノロジー企業は、Anthropicのソフトウェアをめぐる論争を受け、従業員に自社ツールのQoderへの移行を命じた。",
-    "source": [
-      "tomshardware.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google、AIがアメリカ独立宣言を起草する広告で新たな議論を巻き起こす",
-    "summary": "この広告は、建国の父たちが人工知能を使って歴史的な建国文書を作成するというパラレルワールドを描いている。",
-    "source": [
+      "/r/technology",
       "kite.kagi.com",
       "techcrunch.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "OpenAIの欧州ライバルMistral AI、プロプライエタリモデルと企業プライバシーをめぐる論争の中で成長",
-    "summary": "フランスのスタートアップが注目を集める一方、CEOは企業が有料の人工知能を利用する際に内部プロセスをさらすリスクを警告。",
+    "title": "Microsoft、ユーザーの苦情を受けTeamsでCopilot、Facilitator、Recapを無効化できるように",
+    "summary": "マイクロソフトはTeamsへの強制的なAI統合に対する批判に応え、会議中にこれらの機能を無効化するオプションを提供する。",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "中国YMTCのSSDがLenovoノートPCに搭載、性能面で批判も",
-    "summary": "中国のNANDメモリメーカーが国際OEM市場に進出する一方、初期テストでは業界平均を下回る性能が指摘されている。",
+    "title": "CIA長官、高度なAIを核兵器に例える",
+    "summary": "CIA長官は、人工知能が世界的な安全保障にとって核兵器に匹敵するリスクをもたらすと警告している。",
     "source": [
-      "elchapuzasinformatico.com",
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SpaceX、6ヶ月で260機のスターリンク衛星を大気圏で焼却、環境への懸念が高まる",
+    "summary": "大気圏での大型衛星の焼却が生態学的な警鐘を鳴らす中、FCCはこれらを規制から除外しようとしている。",
+    "source": [
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Intel、デスクトップ向けNova Lake-Sプロセッサを準備、新しいXe3Pグラフィックスと22コアを搭載",
-    "summary": "Intelの将来のCPUは、高いキャッシュとLinuxカーネルのグラフィックサポート強化により、AMD Ryzen X3Dに対抗することを目指す。",
+    "title": "ドイツ最大のゲーム保存プロジェクト、資金難で頓挫",
+    "summary": "完全公開されていた6万本のゲームアーカイブが、150万ユーロの資金調達を失い放棄された。",
     "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Valveのハードウェア遺産：Steamコントローラーのプロトタイプとファンが製作したコンソール",
-    "summary": "Steam Controllerの初期プロトタイプが中古店に出現する一方、愛好家たちが自作のSteam Machineを構築している。",
-    "source": [
-      "videocardz.com",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "サムスン、DRAM価格を値上げ、小売向け新型SSD 990 PCIe 4.0を準備",
-    "summary": "韓国の巨大企業は第3四半期にメモリを20%値上げする計画で、謎の新型SSDを発売する。",
+    "title": "ブラッド・ピットの偽喧嘩動画を生成した中国支援のAIツール、ハリウッドに進出",
+    "summary": "中国のディープフェイク技術が映画業界で使われ始め、偽情報に関する懸念が生じている。",
     "source": [
-      "kite.kagi.com",
-      "/r/hardware"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "ゲームが進化：磁気キーボード、高精度トラックボール、放置ゲームの止まらない成功",
-    "summary": "代替周辺機器と「増分ゲーム」が既存のトレンドに挑戦し、インタラクティブな娯楽に新たな方向性を示している。",
+    "title": "AI搭載ブラウザは「催眠」されてユーザーを攻撃する可能性がある",
+    "summary": "研究者は、スマートブラウザを操作して所有者に対して悪意のある動作を実行させることが可能であることを発見した。",
     "source": [
-      "hardzone.es",
-      "xataka.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "スペインのテクノロジー：DigiがLaLigaブロッキングで告発、OrangeがWiFi7を開始、自動運転免許が支持を集める",
-    "summary": "国内のテクノロジーニュースは、通信のプライバシー、新しい光ファイバー、自動運転への運転習慣の変化に焦点が当てられている。",
+    "title": "データセンターが発する絶え間ないノイズ、男性の住宅に直接的な影響",
+    "summary": "近隣のデータセンター施設が発生させる耐え難い騒音を住民が訴え、共存問題が浮上している。",
     "source": [
-      "bandaancha.eu",
-      "xataka.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "エジプトのピラミッドから火星まで：先週の科学と探査の偉大なマイルストーン",
-    "summary": "地球の磁場、ピラミッドの起源、火星の細菌の耐性、クラゲの治癒に関する新たなデータが科学界の注目を集めている。",
+    "title": "米海軍、修理時間を半減する3Dプリント戦闘機部品を試験",
+    "summary": "3Dプリントで製造された部品は、運用中のF/A-18スーパーホーネットに搭載され、整備の迅速化が図られる。",
     "source": [
-      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "新しい合成移植材料、骨癌を除去し骨を再生",
+    "summary": "この革新的な素材は、癌細胞を破壊し、新しい骨組織の成長を促進する能力を示した。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ジム・ケラーのスタートアップ、小型半導体工場を量産するための工場を建設",
+    "summary": "Atomic SemiはFab2としてブランド名を変更し、コンパクトでモジュール式の工場でチップ製造に革命を起こす計画だ。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "マイクロソフト、Windows 11のユニークコードを手がかりに19歳のハッカー特定でFBIに協力",
+    "summary": "オペレーティングシステムの識別子を使用することで、恐喝グループ「Scattered Spider」に関連する若者の追跡と逮捕が可能になった。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "アリババ、中国検出の疑惑バックドア発覚後、AnthropicのClaude Code使用を禁止",
+    "summary": "企業間の対立が激化：アリババは従業員に自社ツール「Qoder」への移行を命じる。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "EU理事会、物議を醸すチャット監視法案を迅速に承認",
+    "summary": "新たな規制はプライベートな通信のスキャンを可能にするもので、プライバシー擁護派から強い批判を受けている。",
+    "source": [
       "news.ycombinator.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "気候危機が深刻化：ライン川の干ばつ、熱波、地中海での革新的ソリューション",
-    "summary": "水不足が欧州の物流を脅かし、都市の樹木が熱波に対して不可欠になり、再生可能エネルギーと循環型経済が勢いを増している。",
+    "title": "米国の裕福な家庭向けに、AI私立学校がパーソナライズ学習を提供",
+    "summary": "これらの教育機関は人工知能を利用して各生徒に合わせた指導を提供し、従来の教育に代わるものを求める保護者を惹きつけている。",
     "source": [
-      "xataka.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "開発界隈はAIと新たな生産性ツールに熱中",
-    "summary": "Shadcn/UIからBase UIへの移行から、コード内の仮定を減らすためのアドバイスまで、技術コミュニティはソフトウェアの効率と品質の向上を目指して休むことを知らない。",
-    "source": [
-      "news.ycombinator.com",
       "the-decoder.com"
     ],
-    "count": 2
+    "count": 1
+  },
+  {
+    "title": "世界最強の太陽光設備はピレネー山脈にあり、3500°Cに達する",
+    "summary": "ピレネー山脈のオデイロ太陽炉は、発電所ではなく、研究用に極度の高温を発生させることができる。",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "化石化した糞が示す、4000年前のアジアで最も乾燥した砂漠は森林だった",
+    "summary": "糞石の分析により、現在の中国のタクラマカン砂漠は、古代には緑豊かな森林であったことが証明された。",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "地球を太陽スーパーストームから守るため、400トンの巨大宇宙エアバッグが提案される",
+    "summary": "科学者らは、有害な太陽粒子をそらすための大規模な磁気シールドの展開を提案している。",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "欧州委、欧州で販売されるシナモンの3分の2に品質問題または偽装の疑い",
+    "summary": "欧州連合の報告書は、市場に出回るシナモンの大部分に混入物が含まれているか、基準を満たしていないことを明らかにした。",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
   }
 ]
