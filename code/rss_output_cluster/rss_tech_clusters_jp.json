@@ -1,105 +1,100 @@
 [
   {
-    "title": "PlayStation、物議を醸す中で物理ディスクのない未来へ",
-    "summary": "SonyはPS5用ディスクドライブの購入を制限、2028年にディスク生産停止へ。企業・政治家・消費者の批判が高まる。",
+    "title": "Sonyがデジタルフォーマットへの注力で強い反発に直面：プレイヤー、企業、GitHubが物理メディアを擁護",
+    "summary": "物理ゲームの廃止への不満がアンケート、ディスクドライブ購入制限、企業による物理生産停止の脅威となって現れている。",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
       "/r/technology",
+      "elchapuzasinformatico.com",
       "tomshardware.com",
       "alternativeto.net"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "中国YMTCのSSD、LenovoノートPCに世界レベルで搭載され始める",
-    "summary": "LenovoなどのメーカーがYMTCのソリッドステートドライブをノートPCに採用。中国NANDメモリーの国際的なPC市場参入を意味する。",
+    "title": "人工知能は技術的・倫理的議論と社会への統合の中で進歩",
+    "summary": "OpenAIがGPT-5.5の性能で批判に直面する一方、Googleは歴史的なコマーシャルでAIを宣伝し、ジャーナリストはサム・アルトマンの半ば宗教的な影響力を分析している。",
     "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "データセンター、環境汚染と新たなエネルギー源を巡り監視の目",
-    "summary": "Metaは汚染水の排出を停止、Microsoftは騒音で訴えられ、CO2排出量は推定を上回る。スタートアップがデータセンター向けに3Dプリントされた原子炉を提案。",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "著作権と不正競争を巡り、人工知能の利用を巡る論争が拡大",
-    "summary": "ミュージシャン、クリエイター、政府はAIによる作品の無断使用を非難。一方、AppleやMetaなどの企業は自社の慣行を擁護し、訴訟が増加。",
-    "source": [
+      "the-decoder.com",
       "/r/technology",
       "techcrunch.com",
-      "elchapuzasinformatico.com"
+      "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "RTX 5070とRyzen 7搭載の軽量ゲーミングノートPC、新プロセッサが市場を席巻",
-    "summary": "System76とThundeRobotがRTX 5070搭載ノートPCを発売、AMDはRyzen 7 8700Gを発表、IntelはNova Lakeを準備、AYANEOはStrix Halo携帯ゲーム機を発売。",
+    "title": "複数のセキュリティ障害と詐欺がユーザーと企業のプライバシーを危険にさらす",
+    "summary": "Appleのサービスの脆弱性からフィッシングキャンペーンやデータの恐喝まで、サイバーセキュリティは依然として重大な課題である。",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com",
+      "thehackernews.com",
+      "bandaancha.eu"
+    ],
+    "count": 4
+  },
+  {
+    "title": "新しいノートPC、モニター、コンポーネントがゲーミングのパフォーマンスを向上",
+    "summary": "System76がRTX 5070搭載ノートPCを発売、OLEDモニターが手頃な価格に、磁気キーボードが普及、IntelはAMDと競合するNova Lake CPUを準備。",
     "source": [
       "videocardz.com",
+      "tomshardware.com",
       "hardzone.es",
       "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "開発者向け新ツールとリソース：AIコスト最適化とプログラミングテクニック",
-    "summary": "AIトークンコスト削減のためのpxpipeのようなツールが登場。プロンプトエンジニアリングのアドバイス、プログラミングコース、並行処理に関する講演も。",
+    "title": "熱波とエネルギー危機が新たな気候・通信ソリューションを促進",
+    "summary": "米国でのエネルギー効率に関するページの削除から日本での消火栓でのWi-Fiテストまで、世界は極度の暑さと資源不足に適応しようとしている。",
     "source": [
-      "the-decoder.com",
+      "xataka.com",
+      "/r/technology",
+      "tomshardware.com",
+      "news.ycombinator.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "AnthropicのClaudeとFableがAIツールと開発のニュースの中心に",
+    "summary": "ほぼ完全にClaudeによって書かれたツールから、トークンコストを削減するソフトウェア、Alibabaによる使用禁止まで、Anthropicのエコシステムが話題の中心にある。",
+    "source": [
       "news.ycombinator.com",
+      "the-decoder.com",
       "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "Mistral、形式数学を制するオープンソースモデルLeanstral 1.5をリリース",
-    "summary": "Mistralの人工知能モデルが数学ベンチマークで新記録を樹立し、実際のコードのエラーを検出。",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、CopilotとAutoPilotエージェントでAIへの注力を加速",
-    "summary": "MicrosoftはCopilot中心のオペレーティングシステムを開発し、独自のインテリジェントエージェントでAIスーパーアップ競争に参入。",
+    "title": "デジタルプラットフォームがモデルを調整：YouTubeはクリエイターを動員、Plexは値上げ、CircleChatが登場",
+    "summary": "YouTubeは英国での規制変更に直面、Plexは生涯パスのコストを大幅に増加、新しいメッセージングアプリCircleChatが市場に参入。",
     "source": [
       "/r/technology",
-      "the-decoder.com"
+      "alternativeto.net",
+      "producthunt.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "猛暑が米国と欧州を襲い、停電、干ばつ、気温記録を更新",
-    "summary": "米国では大規模停電とエネルギー効率に関するページの削除。欧州ではライン川の水位低下とスペインでの記録的な気温。",
+    "title": "科学的発見：クラゲの再生とエジプトのピラミッドの起源",
+    "summary": "科学者たちはクラゲが数分で傷を治す能力を調査し、考古学者は千年の墓からピラミッド建設に関する新たな手がかりを発見。",
     "source": [
-      "/r/technology",
+      "news.ycombinator.com",
       "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Linux、Android、組み込みデバイスに影響を与える複数のセキュリティ脆弱性",
-    "summary": "特権昇格を可能にするLinuxのBad Epollなどの欠陥が明らかに。北朝鮮のマルウェアキャンペーンや、数百万のデバイスに影響するファイルシステムの穴も。",
+    "title": "AppleとMeta、ウェアラブル計画で批判に直面：キャンセルとサブスクリプション",
+    "summary": "Appleはカメラ付きAirPods Proを断念したとされ、Metaはスマートグラスの主要機能に月額料金を課す。",
     "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
+      "elchapuzasinformatico.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "RTX 5090、高価格と放熱問題で論争を巻き起こす",
-    "summary": "RTX 5090グラフィックカードは最高6,499ユーロに達し、垂直構成でのPCIeライザーケーブルの絶縁体溶融事例が報告される。",
+    "title": "Windowsタスクマネージャーの開発者がAMD Threadripperの熱を利用してスターリングエンジンを駆動",
+    "summary": "Dave Plummerは、高性能プロセッサの廃熱が19世紀のエンジンを動かし、補助冷却ソリューションを提供することを実証。",
     "source": [
       "videocardz.com",
       "tomshardware.com"
@@ -107,83 +102,92 @@
     "count": 2
   },
   {
-    "title": "都市部の住宅価格高騰でオフィスが空き、より安価な代替手段を模索",
-    "summary": "シアトルではオフィスビルが空き床となる一方、マドリードの住宅価格はスコットランドの島を上回る。",
+    "title": "SonyはPlayStation内蔵のDualShockコントローラーを開発していたが、プロジェクトは中止",
+    "summary": "PlayStation Pugaとして知られるこのデバイスは、コントローラー内に完全なコンソールを搭載していたが、Sonyは市場投入前に破棄。",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "モビリティの未来：AirbusがA320後継機を開発、ChevroletはEVピックアップトラックの販売に苦戦",
-    "summary": "Airbusは2030年のeAction航空機投入を発表。一方、Chevroletの電気ピックアップトラックは米国で購入者を惹きつけられず。",
-    "source": [
-      "xataka.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "暗号通貨と不平等：投資家は数十億ドルを失う一方、富裕層は資産を増やす",
-    "summary": "約100万人の投資家がトランプの暗号通貨で38億ドルを損失。世界の富裕層は昨年、資産を25%増加させた。",
-    "source": [
-      "/r/technology",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "XGS-PON WiFi 7ルーターと日本の消火栓へのStarlinkアンテナで接続性が進化",
-    "summary": "Orangeは10GbpsファイバーとWiFi 7対応ルーターを刷新。日本では消火栓にStarlinkアンテナを設置し、緊急時にWi-Fiを提供する試験を実施。",
-    "source": [
-      "bandaancha.eu",
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "愛好家がクラシックゲーム機を復活させ、最新部品で自作Steam Machineを製作",
-    "summary": "動作するPS1コントローラーからWindows CE搭載のDreamcastクローンまで、DIYプロジェクトでレトロテクノロジーを存続させる。",
-    "source": [
-      "tomshardware.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "天文学的新発見：Webb望遠鏡が科学者を困惑させ、細菌が火星で生存",
-    "summary": "Webb望遠鏡の観測が現在の宇宙理論に疑問を投げかける一方、細菌が火星環境に耐えられることを研究が示す。",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "テクノロジーと人工知能が労働環境と生産性を変革",
-    "summary": "Excelは依然としてウェブを支配し、YouTubeはアルゴリズム変更でクリエイターを不安にさせる。AIは人間関係と学習に影響を与える。",
+    "title": "Midjourney、ハリウッドのスタジオに人工知能の使用方法を開示するよう要求",
+    "summary": "AI画像生成会社が、映画業界での自社ツールの使用について透明性を求める。",
     "source": [
       "/r/technology",
-      "the-decoder.com"
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "OLEDモニターと磁気スイッチキーボードがゲーミング市場のトレンドに",
-    "summary": "1440p 240Hz OLEDモニターがIPS並みの価格に。ホール効果スイッチ搭載キーボードがメカニカルキーボードに代わり人気を集める。",
+    "title": "Meta、データセンターの排水がシャイアンの水道供給を細菌で汚染したとして排水を停止",
+    "summary": "データセンターの冷却システムからの排水が金属耐性細菌を拡散させ、システムの清掃と数ヶ月にわたる運用停止を余儀なくされた。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "メモリ価格の上昇は落ち着くが、AI需要が上昇傾向を維持",
+    "summary": "消費者は手頃さの限界に達しているが、人工知能の需要によりDRAMとNANDの価格は2026年まで上昇し続ける。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lenovo、中国メーカーYMTCのSSDをノートPCに採用",
+    "summary": "中国のNANDメーカーYMTCのSSDがLenovoのコンピュータに搭載されるが、初期のレビューでは平均以下のパフォーマンスが指摘されている。",
     "source": [
       "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "スタートアップがAIデータセンター向けに世界初の3Dプリントトリウム原子炉を発表",
+    "summary": "工場で製造された未臨界固体原子炉は、増大するAIセンターの需要に対してクリーンで一定のエネルギーを約束。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "サイバーパンク2077が4000万本を突破、ゲーミングの名作が回想される",
+    "summary": "CD Projekt Redのゲームが販売マイルストーンを達成する一方、ビデオゲーム史上最も重要なタイトルについて振り返られる。",
+    "source": [
+      "videocardz.com",
       "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "データ漏洩とプライバシー：YouTubeからTelegramへの情報提供要請まで",
-    "summary": "YouTubeでのプライベート動画漏洩、ワークスペースのキャッシュ漏洩の可能性、Verizonがスマートウォッチに影響、インドがTelegramとSignalに説明を要求。",
+    "title": "熱波が米国で停電を引き起こし、欧州ではライン川の水量を脅かす",
+    "summary": "米国で約100万人が停電する一方、ライン川の低水位が欧州で物流とエネルギーの問題を引き起こしている。",
     "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com"
+      "/r/technology",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "12VHPWRケーブルの問題とRTX 5090の高価格がGPUの現在を象徴",
+    "summary": "ユーザーが電源コネクタに細心の注意を払わなければならない中、新しいRTX 5090がフランスの店舗で記録的な価格に達する。",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ゲーミングモニターレビュー：Xiaomi Mini LEDとAOC Dual-Refreshが高品質を提供",
+    "summary": "2つのレビューがこれらのモニターの性能とコストパフォーマンスを詳細に説明し、AOCの速度と柔軟性、XiaomiのMini LED技術を強調。",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
     ],
     "count": 2
   }

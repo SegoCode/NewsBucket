@@ -1,105 +1,100 @@
 [
   {
-    "title": "PlayStation se encamina a un futuro sin discos físicos en medio de la polémica",
-    "summary": "Sony limita la compra de lectores de discos para PS5, la producción de discos se detendrá en 2028 y crecen las críticas de empresas, políticos y consumidores.",
+    "title": "Sony enfrenta una fuerte reacción en contra por su apuesta por el formato digital: jugadores, empresas y GitHub defienden lo físico",
+    "summary": "El descontento por la eliminación de los juegos físicos se manifiesta en encuestas, restricciones de compra de lectores de discos y amenazas de empresas de dejar de producir físicos.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
       "/r/technology",
+      "elchapuzasinformatico.com",
       "tomshardware.com",
       "alternativeto.net"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "Los SSD chinos YMTC ya se montan en portátiles Lenovo a nivel global",
-    "summary": "Fabricantes como Lenovo incorporan unidades de estado sólido de YMTC en sus portátiles, lo que supone la entrada de la memoria NAND china en el mercado internacional de ordenadores.",
+    "title": "La inteligencia artificial avanza entre debates técnicos, éticos y su integración en la sociedad",
+    "summary": "Mientras OpenAI enfrenta críticas sobre el rendimiento de GPT-5.5, Google promociona la IA en un comercial histórico y periodistas analizan la influencia cuasirreligiosa de Sam Altman.",
     "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Centros de datos bajo escrutinio por contaminación ambiental y nuevas fuentes de energía",
-    "summary": "Meta suspende vertidos de agua contaminada, Microsoft es demandada por ruido, las emisiones de CO2 superan lo estimado y una startup propone reactores nucleares impresos en 3D para alimentarlos.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Crece la controversia en torno al uso de la inteligencia artificial por derechos de autor y competencia desleal",
-    "summary": "Músicos, creadores y gobiernos denuncian el uso no autorizado de obras por parte de la IA, mientras empresas como Apple y Meta defienden sus prácticas y aumentan las demandas.",
-    "source": [
+      "the-decoder.com",
       "/r/technology",
       "techcrunch.com",
-      "elchapuzasinformatico.com"
+      "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Nuevos procesadores y portátiles gaming ligeros con RTX 5070 y Ryzen 7 dominan el mercado",
-    "summary": "System76 y ThundeRobot lanzan portátiles con RTX 5070, AMD presenta el Ryzen 7 8700G, Intel prepara Nova Lake, y AYANEO lanza una consola portátil Strix Halo.",
+    "title": "Múltiples fallos de seguridad y estafas ponen en riesgo la privacidad de usuarios y empresas",
+    "summary": "Desde vulnerabilidades en servicios de Apple hasta campañas de phishing y extorsión de datos, la ciberseguridad sigue siendo un desafío crítico.",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com",
+      "thehackernews.com",
+      "bandaancha.eu"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Nuevos portátiles, monitores y componentes elevan el rendimiento en el gaming",
+    "summary": "System76 lanza un portátil con RTX 5070, los monitores OLED se vuelven asequibles, los teclados magnéticos ganan terreno e Intel prepara sus CPUs Nova Lake para competir con AMD.",
     "source": [
       "videocardz.com",
+      "tomshardware.com",
       "hardzone.es",
       "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Nuevas herramientas y recursos para desarrolladores: optimización de costes de IA y técnicas de programación",
-    "summary": "Aparecen herramientas como pxpipe para reducir costes de tokens de IA, junto con consejos de prompt engineering, cursos de programación y charlas sobre concurrencia.",
+    "title": "Olas de calor y crisis energética impulsan nuevas soluciones climáticas y de comunicación",
+    "summary": "Desde la eliminación de páginas sobre eficiencia energética en EE.UU. hasta pruebas de Wi-Fi en hidrantes en Japón, el mundo busca adaptarse al calor extremo y la escasez de recursos.",
     "source": [
-      "the-decoder.com",
+      "xataka.com",
+      "/r/technology",
+      "tomshardware.com",
+      "news.ycombinator.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Claude y Fable de Anthropic protagonizan novedades en herramientas de IA y desarrollo",
+    "summary": "Desde una herramienta escrita casi íntegramente por Claude hasta un software que reduce los costes de tokens y la prohibición de Alibaba a su uso, el ecosistema de Anthropic está en el centro de la actualidad.",
+    "source": [
       "news.ycombinator.com",
+      "the-decoder.com",
       "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "Mistral lanza Leanstral 1.5, modelo de código abierto que domina las matemáticas formales",
-    "summary": "El modelo de inteligencia artificial de Mistral establece nuevos récords en benchmarks de matemáticas y detecta errores reales en código.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft acelera su apuesta por la inteligencia artificial con Copilot y agentes AutoPilot",
-    "summary": "Microsoft desarrolla un sistema operativo centrado en Copilot y se une a la carrera de las superapps de IA con sus propios agentes inteligentes.",
+    "title": "Plataformas digitales ajustan sus modelos: YouTube moviliza creadores, Plex sube precios y llega CircleChat",
+    "summary": "YouTube enfrenta cambios regulatorios en Reino Unido, Plex incrementa drásticamente el costo de su pase vitalicio y una nueva aplicación de mensajería, CircleChat, entra al mercado.",
     "source": [
       "/r/technology",
-      "the-decoder.com"
+      "alternativeto.net",
+      "producthunt.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Olas de calor extremo afectan a Estados Unidos y Europa con apagones, sequía y récords de temperatura",
-    "summary": "EE.UU. sufre apagones masivos y la eliminación de páginas sobre eficiencia energética, mientras Europa enfrenta el descenso del Rin y temperaturas récord en España.",
+    "title": "Descubrimientos científicos: la regeneración de las medusas y el origen de las pirámides egipcias",
+    "summary": "Científicos investigan la capacidad de las medusas para curar heridas en minutos, mientras que arqueólogos encuentran nuevas pistas sobre la construcción de las pirámides en tumbas milenarias.",
     "source": [
-      "/r/technology",
+      "news.ycombinator.com",
       "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Múltiples vulnerabilidades de seguridad afectan a sistemas Linux, Android y dispositivos embebidos",
-    "summary": "Se revelan fallos como Bad Epoll en Linux que permite escalar privilegios, junto con campañas de malware norcoreanas y agujeros en sistemas de archivos para millones de dispositivos.",
+    "title": "Apple y Meta enfrentan críticas por sus planes en wearables: cancelaciones y suscripciones",
+    "summary": "Apple habría abandonado sus AirPods Pro con cámara, mientras que Meta impone un pago mensual por funciones clave en sus gafas inteligentes.",
     "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
+      "elchapuzasinformatico.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "La RTX 5090 genera polémica por sus elevados precios y problemas de disipación térmica",
-    "summary": "Las tarjetas gráficas RTX 5090 alcanzan precios de hasta 6.499 euros, mientras se reportan casos de derretimiento del aislante del riser PCIe en configuraciones verticales.",
+    "title": "Creador del Administrador de tareas de Windows utiliza el calor de un AMD Threadripper para alimentar un motor Stirling",
+    "summary": "Dave Plummer demuestra cómo el calor residual de un procesador de alto rendimiento puede hacer funcionar un motor del siglo XIX, ofreciendo una solución de refrigeración auxiliar.",
     "source": [
       "videocardz.com",
       "tomshardware.com"
@@ -107,83 +102,92 @@
     "count": 2
   },
   {
-    "title": "El alto costo de la vivienda en las ciudades provoca oficinas vacías y busca alternativas más baratas",
-    "summary": "Mientras Seattle enfrenta torres de oficinas vacías, el precio de los pisos en Madrid supera al de una isla en Escocia.",
+    "title": "Sony desarrolló un mando DualShock con una PlayStation integrada, pero el proyecto fue cancelado",
+    "summary": "El dispositivo, conocido como PlayStation Puga, ofrecía una consola completa dentro del mando, pero Sony lo desechó antes de lanzarlo al mercado.",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El futuro de la movilidad: Airbus desarrolla el sucesor del A320 y Chevrolet lucha por vender su camioneta eléctrica",
-    "summary": "Airbus anuncia el lanzamiento del avión eAction en 2030, mientras la camioneta eléctrica de Chevrolet no logra atraer compradores en Estados Unidos.",
-    "source": [
-      "xataka.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Criptomonedas y desigualdad: inversores pierden miles de millones mientras los multimillonarios aumentan su fortuna",
-    "summary": "Casi un millón de inversores perdieron 3.800 millones de dólares con la criptomoneda de Trump, mientras los millonarios globales incrementaron su riqueza un 25% en el último año.",
-    "source": [
-      "/r/technology",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La conectividad avanza con routers XGS-PON WiFi 7 y antenas Starlink en hidrantes de Japón",
-    "summary": "Orange renueva su router con fibra de 10 Gbps y WiFi 7, mientras Japón prueba hidrantes con antenas Starlink para proporcionar Wi-Fi en emergencias.",
-    "source": [
-      "bandaancha.eu",
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Entusiastas reviven consolas clásicas y crean sus propias Steam Machine con componentes modernos",
-    "summary": "Desde un mando de PS1 funcional hasta un clon de Dreamcast con Windows CE, los aficionados mantienen viva la tecnología retro con proyectos DIY.",
-    "source": [
-      "tomshardware.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nuevos hallazgos astronómicos: el telescopio Webb desconcierta a los científicos y las bacterias sobreviven en Marte",
-    "summary": "Las observaciones del telescopio Webb desafían las teorías actuales del universo, mientras un estudio muestra que las bacterias pueden resistir condiciones marcianas.",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La tecnología y la inteligencia artificial transforman el ámbito laboral y la productividad",
-    "summary": "Excel sigue dominando la web, YouTube preocupa a los creadores con cambios en sus algoritmos, y la IA afecta las relaciones humanas y el aprendizaje.",
+    "title": "Midjourney exige a los estudios de Hollywood que revelen cómo utilizan la inteligencia artificial",
+    "summary": "La empresa de generación de imágenes por IA solicita transparencia sobre el uso de sus herramientas en la industria cinematográfica.",
     "source": [
       "/r/technology",
-      "the-decoder.com"
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Monitores OLED y teclados magnéticos marcan tendencia en el mercado gaming",
-    "summary": "Los monitores OLED 1440p 240 Hz alcanzan precios de IPS, mientras los teclados con switches Hall Effect ganan popularidad frente a los mecánicos.",
+    "title": "Meta suspende vertidos de su centro de datos por contaminar el suministro de agua de Cheyenne con bacterias",
+    "summary": "Las descargas de agua del sistema de refrigeración del centro de datos propagaron bacterias resistentes a metales, lo que obligó a la limpieza del sistema y a la suspensión de las operaciones por meses.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El aumento de precios de la memoria se modera aunque la demanda de IA mantiene la tendencia al alza",
+    "summary": "Los consumidores alcanzan el límite de asequibilidad, pero la demanda de inteligencia artificial sigue elevando los precios de DRAM y NAND hasta 2026.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lenovo incorpora unidades SSD del fabricante chino YMTC en sus portátiles",
+    "summary": "Los SSD de YMTC, fabricante de NAND china, llegan a los ordenadores Lenovo, aunque las primeras críticas señalan un rendimiento por debajo del promedio.",
     "source": [
       "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Una startup presenta el primer reactor nuclear de torio impreso en 3D para alimentar centros de datos de IA",
+    "summary": "El reactor subcrítico y de estado sólido, fabricado en fábrica, promete energía limpia y constante para la creciente demanda de los centros de inteligencia artificial.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cyberpunk 2077 supera los 40 millones de copias mientras los clásicos del gaming son recordados",
+    "summary": "El juego de CD Projekt Red alcanza un hito de ventas, mientras se reflexiona sobre los títulos más importantes de la historia de los videojuegos.",
+    "source": [
+      "videocardz.com",
       "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "Filtraciones de datos y privacidad: desde YouTube hasta las solicitudes de información a Telegram",
-    "summary": "Se reportan filtraciones de vídeos privados en YouTube, posibles fugas de caché en espacios de trabajo, Verizon afecta a los relojes inteligentes y la India pide explicaciones a Telegram y Signal.",
+    "title": "Las olas de calor provocan apagones en EE.UU. y amenazan el caudal del Rin en Europa",
+    "summary": "Mientras casi un millón de personas pierden el suministro eléctrico en Estados Unidos, el bajo nivel del río Rin genera problemas logísticos y energéticos en Europa.",
     "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com"
+      "/r/technology",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Problemas con los cables 12VHPWR y precios elevados de la RTX 5090 marcan la actualidad de las GPU",
+    "summary": "Mientras los usuarios deben extremar precauciones con los conectores de alimentación, la nueva RTX 5090 alcanza precios récord en tiendas francesas.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Análisis de monitores gaming: Xiaomi Mini LED y AOC Dual-Refresh ofrecen alta calidad",
+    "summary": "Dos revisiones detallan las prestaciones y la relación calidad-precio de estos monitores, destacando la velocidad y flexibilidad del AOC y la tecnología Mini LED del Xiaomi.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
     ],
     "count": 2
   }
