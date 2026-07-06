@@ -1,176 +1,180 @@
 [
   {
-    "title": "SpaceXへの1,000ドル投資、5年後の価値は？",
-    "summary": "同記事は、宇宙企業SpaceXのIPO前における投資の成長可能性を分析している。",
+    "title": "ウォール街、テクノロジー楽観論と歴史的警告の間で混在シグナルに直面",
+    "summary": "先物はAIセクターの再評価により上昇する一方、歴史的シグナルは潜在的な下落を警告。投資銀行は復活を遂げる。",
     "source": [
-      "finance.yahoo.com",
+      "investing.com",
+      "nasdaq.com",
+      "/r/stocks",
+      "ft.com",
+      "expansion.com",
+      "handelsblatt.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "中国の進歩、英国の規制、政府支援で激化するグローバルAI競争",
+    "summary": "中国はAIモデルを20分の1のコストで提供、各国政府は投資誘致で競争、英国は金融サービスにおける軍拡競争を警告。",
+    "source": [
+      "nikkei.com",
+      "ft.com",
+      "/r/stocks",
       "nasdaq.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "Nvidia株、先月13%下落もトレンドはプラスに転じる可能性",
-    "summary": "最近の調整にもかかわらず、アナリストはAI分野でのリーダーシップからテクノロジー大手に買い機会を見ている。",
+    "title": "アジア市場はまちまち、テクノロジー主導でプラス方向",
+    "summary": "上海、香港、東京が上昇する一方、オーストラリアは下落、日本先物は損失を記録。",
     "source": [
-      "finance.yahoo.com",
+      "nikkei.com",
+      "nasdaq.com",
+      "investing.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AIインフラに明暗：メガプロジェクト中止とAnthropicの拡大",
+    "summary": "計画されていた最大のデータセンターが中止される一方、Anthropicはオーストラリアで能力を獲得し、数十億ドル規模のIPO準備。",
+    "source": [
+      "/r/stocks",
+      "investing.com",
       "nasdaq.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "コカ・コーラ、2026年にナスダックとS&P500を上回るも、高配当株がより良い選択肢に",
-    "summary": "コカ・コーラと別の高配当利回り銘柄のパフォーマンスを比較し、後半戦の投資戦略を考察。",
+    "title": "中央銀行の議題：FOMC議事録、ECB予測、日本国債利回り上昇",
+    "summary": "投資家はFOMC議事録を待つ中、ECBはインフレ予測を修正、日本国債長期利回りは2.8%に上昇。",
     "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
+      "handelsblatt.com",
+      "nikkei.com",
+      "bolsamania.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "M&A：TeslaとSpaceXの合併可能性、Genesisの買収提案、Bending Spoonsの成長",
+    "summary": "TeslaとSpaceXの合併が憶測される中、Genesis MineralsがVaultに39億ドルの提案、Bending Spoonsはテクノロジー帝国を構築。",
+    "source": [
+      "nasdaq.com",
+      "investing.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "原油価格まちまち：OPEC+増産で原油下落もドバイ原油は上昇",
+    "summary": "石油市場は新たな個人投資家を迎える一方、OPEC+は増産を維持、ドバイ原油価格は回復。",
+    "source": [
+      "nikkei.com",
+      "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "ServiceNow投資家が考慮すべき最大のリスク",
-    "summary": "クラウドソフトウェア企業への潜在的な脅威として、競合や高いバリュエーションを指摘。",
+    "title": "為替市場：円安、元安、ユーロに対してドル高",
+    "summary": "円は1ドル161円で取引、元は低めに設定、専門家はドルがユーロに対して強さを維持すると予想。",
     "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
+      "nikkei.com",
+      "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "Alphabet（グーグル）株、1年で2倍に：今から投資は遅いか？",
-    "summary": "AIけん引の急騰後、テクノロジー大手にまだ上昇余地があるかを分析。",
+    "title": "スペインの投資推奨：注目ファンドとテクニカル銘柄",
+    "summary": "アナリストは50,000～500,000ユーロの投資に最適なファンドと、テクニカル分析で注目すべき5銘柄を指摘。",
     "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
+      "expansion.com",
+      "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "Palantir株、ウォール街の予想で1年間に55%上昇の可能性",
-    "summary": "データおよびAIプラットフォームへの需要増加を背景に、アナリストは買いを推奨。",
+    "title": "米国で住宅ローン金利とCD金利が上昇",
+    "summary": "住宅ローン金利は先週から大幅に上昇、一方預金証書は年利4.10%まで提供。",
     "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
+      "finance.yahoo.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "大半の投資家が見逃しているが注目すべきエネルギー銘柄",
-    "summary": "成長潜在性と魅力的な配当を備えたエネルギーセクターの機会を紹介。",
+    "title": "ドイツ不動産市場：ミュンヘンは上昇も苦境、ケルンは危機的状況",
+    "summary": "ミュンヘンの価格は上昇を続けるが苦痛の閾値を下回る、一方ケルン市場は危機的に。ギリシャの高級物件は好機を提供。",
     "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
+      "handelsblatt.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "金（ゴールド）、2026年上半期は不安定：残りの年の投資戦略",
-    "summary": "地政学的な不確実性と金利見通しを踏まえた金投資の戦略を提示。",
+    "title": "Unzer元CEOとWirecard元社員、大規模カード詐欺で起訴",
+    "summary": "ドイツ検察当局は、Unzerの元CEOとWirecardの元社員をクレジットカード詐欺の罪で起訴。",
     "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
+      "handelsblatt.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "e.l.f. Beauty株、6月に32%急騰",
-    "summary": "同化粧品会社は好決算で予想を上回り、通期見通しを上方修正。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "予測：この銘柄、2026年後半の大きな勝者の一つに",
-    "summary": "市場トレンドと堅調なファンダメンタルズに基づき、高い値上がり潜在性を持つ銘柄をアナリストが指摘。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "予測：2026年末までに2倍になる可能性のあるAI銘柄",
-    "summary": "今後数ヶ月で加速的な成長をもたらす触媒を持つAIセクター企業を特定。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "市場下落が来た場合、このETFが最も賢い買い物に",
-    "summary": "この上場投資信託は、ディフェンシブ銘柄へのエクスポージャーにより調整局面での保護を提供。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "予測：Energy Transfer（ET）、2026年後半にS&P500を上回る",
-    "summary": "同分析は、配当利回りとエネルギーセクターの見通しから米国の石油パイプライン企業の魅力を強調。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "1,000ドルある？マイクロソフトの52週安値への下落は買いの好機",
-    "summary": "マイクロソフト株の最近の下落は、アナリストによれば長期投資家にとって買いの好機。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OPEP+7カ国、価格下落受け月間生産量を緩やかに増加で合意",
-    "summary": "米国とイランの合意後、OPEP+は市場安定化のため供給増を維持する方針を決定。",
-    "source": [
-      "finance.yahoo.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "イージージェット、キャッスルレイクによる52億ポンドの買収提案を受け入れ",
-    "summary": "英格安航空会社が投資会社キャッスルレイクと合意、1株当たり6.90ポンドのオファー。",
+    "title": "韓国大統領、半導体メガファクトリー計画の加速を要請",
+    "summary": "李大統領は、他国に対する競争力を維持するため、半導体投資計画の迅速化を求める。",
     "source": [
       "investing.com"
     ],
     "count": 1
   },
   {
-    "title": "イランでハメネイ師の国葬2日目、大規模な参列者",
-    "summary": "地域の緊張の中、イラン高官と大群衆が最高指導者の葬儀に参列。",
+    "title": "香港で記録的なロックアップ解除ラッシュ",
+    "summary": "IPO後にロックされた過去最大量の株式が香港市場に放出される見込み。",
+    "source": [
+      "investing.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "AI需要が牽引する半導体の歴史的増益",
+    "summary": "サムスンは18倍の利益増加を予想、フォックスコンは過去最高収益を報告、SKハイニックスは米国で280億ドルのIPOを計画。",
+    "source": [
+      "investing.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ロシア株式市場は下落、MOEX指数は変わらず",
+    "summary": "ロシア株は下落して取引終了、ただし基準指数は安定。",
+    "source": [
+      "investing.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ウォール街の注目銘柄：マクドナルド、パランティア、レボリューションメディシンズ、ロビンフッド",
+    "summary": "マクドナルドは4%上昇、パランティアは格付け引き上げ、レボリューションメディシンズは140%急騰、ロビンフッドは週間で反発。",
+    "source": [
+      "nasdaq.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ベネズエラ地震で3,000人以上死亡、公式発表過少の疑い",
+    "summary": "ベネズエラ政府は数千人の犠牲者を出した地震の規模を過小評価したと非難される。",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "Bending Spoons、苦戦するブランドから230億ドルのテクノロジー帝国を築く方法",
-    "summary": "イタリアのアプリ企業は、EvernoteやMeetupなどのブランドを買収・再生して成長してきた。",
+    "title": "ハメネイ最高指導者の葬儀、イランで宗教的感情高まる",
+    "summary": "ハメネイ師の死は団結の表れを生む一方、イラン社会の内部分裂も反映。",
     "source": [
-      "ft.com"
+      "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "FRB議事録と配当ラッシュ、来週の注目イベントに",
-    "summary": "投資家は金融政策のシグナルと企業の配当発表に注目。",
+    "title": "日本の企業、テクノロジー、文化ニュース",
+    "summary": "医薬品買収や自動運転の進歩からサイバー攻撃やスポーツまで、日本は多様な議題を提示。",
     "source": [
-      "bolsamania.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "『レインメーカー』の復活：投資銀行ビジネスが再び活況",
-    "summary": "大手金融機関は、企業取引の回復によりアドバイザリー業務や引受収入を増加させている。",
-    "source": [
-      "handelsblatt.com"
+      "nikkei.com"
     ],
     "count": 1
   }
