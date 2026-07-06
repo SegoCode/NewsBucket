@@ -1,168 +1,190 @@
 [
   {
-    "title": "Sony、PS5用ディスクドライブの販売を制限し、物理ゲームの将来についての議論を再燃させる",
-    "summary": "同社は、2028年以降も既存のディスクゲームを再版可能としながら、業界や小島秀夫のようなクリエイターが物理メディアの衰退に対する懸念を表明している。",
+    "title": "ソニー、プレイステーションの物理ディスクと休眠アカウントの方針を明確化",
+    "summary": "同社はディスクゲームの再印刷を継続し、休眠によるアカウント削除は新しいものではないと説明。一方で、ディスク工場をマイクロレンズ製造に転換中",
     "source": [
-      "/r/technology",
-      "news.ycombinator.com",
-      "alternativeto.net",
-      "tomshardware.com"
+      "hardzone",
+      "xataka",
+      "videocardz",
+      "alternativeto",
+      "tomshardware"
+    ],
+    "count": 5
+  },
+  {
+    "title": "人工知能の進歩：コーディング、教育、プロプライエタリモデルをめぐる議論",
+    "summary": "Claude Codeはゲーム移植に使用される一方、Alibabaに禁止。新しいAIチューター登場、データセンター盗難報告、Mistral幹部が企業プライバシーに警告",
+    "source": [
+      "xataka",
+      "hackernews",
+      "hardzone",
+      "the-decoder",
+      "tomshardware"
+    ],
+    "count": 5
+  },
+  {
+    "title": "レトロゲームの世界：ブラウザでHalf-Life 2、DualShockにPS1実装",
+    "summary": "Steamコントローラーのプロトタイプから、コントローラーにPS1を組み込むMOD、ブラウザでHalf-Life 2を100FPSでプレイ可能、Steamセールシミュレーターまで",
+    "source": [
+      "hardzone",
+      "hackernews",
+      "xataka",
+      "videocardz",
+      "tomshardware"
+    ],
+    "count": 5
+  },
+  {
+    "title": "エージェント型ランサムウェア、クロスプラットフォームマルウェア、ブラウザ攻撃でサイバー脅威増大",
+    "summary": "JADEPUFFER、QuimaRAT、SkillCloak検出、Opera GXの脆弱性。Windows 11コードでScattered Spiderグループのハッカー捕獲",
+    "source": [
+      "the-decoder",
+      "thehackernews",
+      "hackernews",
+      "tomshardware"
     ],
     "count": 4
   },
   {
-    "title": "ドイツ最大のビデオゲームアーカイブが資金不足で崩壊",
-    "summary": "6万タイトルの保存プロジェクトが150万ユーロを使い果たし閉鎖。物理メディアの消滅という背景の中での出来事。",
+    "title": "PCメモリー：手作り革新とVRAM最低容量議論",
+    "summary": "高騰する価格の中、愛好家が磁気コアメモリーを自作。AmazonがGraviton G5の帯域幅を公開。16GB VRAMで1080p十分かの議論",
     "source": [
-      "/r/technology",
-      "tomshardware.com"
+      "tomshardware",
+      "/r/hardware",
+      "hardzone"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Linux刷新：グラフィックサポート、新ネットワークツール、歴史的リマスター",
+    "summary": "カーネルがUSB問題修正、Intel Xe3Pサポート追加、DNSGlobeでDNS監視、Organic Mapsが無料地図提供、Hannah Montana Linuxが更新版Debianで復活",
+    "source": [
+      "hackernews",
+      "videocardz",
+      "tomshardware"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Bigme、25.3インチカラー電子ペーパーモニターを60Hzのリフレッシュレートで発売",
+    "summary": "解像度3200x1800、4096色、E Inkで最高のリフレッシュレート。目の疲れを軽減する読書や作業に最適",
+    "source": [
+      "tomshardware",
+      "videocardz"
     ],
     "count": 2
   },
   {
-    "title": "トランプ氏の仮想通貨投資家が38億ドルの損失",
-    "summary": "約100万人の投資家が、米元大統領に関連するミームコインで巨額の損失を被る。",
+    "title": "NVIDIA GeForce RTX 3060 12GBモデルがNeweggで329ドルで再販",
+    "summary": "MSI Ventus 2X OCグラフィックカードが送料無料で提供。12GB VRAM搭載の競争力ある価格",
     "source": [
-      "techcrunch.com",
-      "/r/technology"
+      "tomshardware",
+      "videocardz"
     ],
     "count": 2
   },
   {
-    "title": "12GBのRTX 3060がNeweggで329.99ドルで再販開始",
-    "summary": "MSI Ventus 2X OCモデルが送料無料で市場に復活。ゲーム向けの手頃なオプションを提供。",
+    "title": "ノートPC用RTX 4080をデスクトップに改造、RX 9070 GRE相当の性能を低消費電力で実現",
+    "summary": "ラップトップチップをデスクトップグラフィックカードに変換、消費電力わずか100W、価格も25%低減",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "videocardz",
+      "tomshardware"
     ],
     "count": 2
   },
   {
-    "title": "Googleの広告が建国の父たちがAIで独立宣言を起草する様子を描写",
-    "summary": "不快と評価されるCMが、建国の父たちが人工知能を使用するイメージで論争を巻き起こす。",
+    "title": "米海軍、F/A-18戦闘機用3Dプリント部品を試験",
+    "summary": "複合材料部品で修理時間を半減。実機での飛行試験を実施予定",
     "source": [
-      "/r/technology",
-      "kite.kagi.com"
+      "/r/hardware",
+      "tomshardware"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft、顧客のAI導入促進のために6000人のエンジニアを配備",
-    "summary": "同社は企業向けAIソリューションを実装する大規模チームを編成。",
+    "title": "Intel、最大22コアのプロセッサとPanther Lake搭載マザーボードでAMDに対抗",
+    "summary": "22コア・108MBキャッシュの新型Core Ultra 7を搭載したMini-ITXマザーボードが登場。Xe3Pグラフィック採用のNova Lakeも期待",
     "source": [
-      "/r/technology"
+      "hardzone",
+      "videocardz"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lenovo、ThinkBookに中国製SSD搭載へ。ThinkPad X1 Carbonのバッテリー持続時間も向上",
+    "summary": "NANDメモリー価格高騰を受け、LenovoはYMTC製SSDをノートPCに採用。ThinkPad X1 Carbon Gen 14 Aura Editionは高評価",
+    "source": [
+      "/r/hardware",
+      "tomshardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "携帯ゲーム機ニュース：Ayaneoが価格記録更新、SteamOS改善、クラウドゲーミングのコツ",
+    "summary": "Ayaneoの新ゲーム機は価格がRTX 5080約4台分。SteamOSがMSI ClawとLegion Goのバグ修正。低遅延クラウドゲームのアドバイスも",
+    "source": [
+      "hardzone",
+      "videocardz"
+    ],
+    "count": 2
+  },
+  {
+    "title": "宇宙の野心的プロジェクト：衛星大気圏焼却、原子力バッテリー、磁気エアバッグ",
+    "summary": "SpaceXが260機の衛星を大気圏廃棄、DARPAがドローン用核廃棄物バッテリー研究、科学者らが太陽嵐から地球を守る磁気シールド提案",
+    "source": [
+      "tomshardware",
+      "xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "注目の財務結果：Samsung Foundryが黒字転換、新ユニコーン続出、Amazon Mechanical Turk閉鎖",
+    "summary": "Samsungのファウンドリが3年ぶりに利益を計上。新たに90社のユニコーンが誕生。AmazonはMechanical Turkの新規受付を停止。Bending Spoonsが株式公開",
+    "source": [
+      "/r/hardware",
+      "techcrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "世界最大のゲームアーカイブ、資金不足で閉鎖。デジタル所有権めぐり議論",
+    "summary": "6万本のゲームを保存するドイツのプロジェクトが資金難で断念。物理メディアとデジタル所有の重要性について議論再燃",
+    "source": [
+      "tomshardware",
+      "hackernews"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Jim KellerのスタートアップFab2、小型半導体工場を建設",
+    "summary": "Atomic SemiがFab2へ社名変更。モジュラー型低コスト工場でチップ製造に革命を目指す",
+    "source": [
+      "tomshardware"
     ],
     "count": 1
   },
   {
-    "title": "Rockstar Gamesが「クランチ」を助長し、ジェンダー賃金格差を拡大させていると非難される",
-    "summary": "組合は、同社がボーナスを使って圧力をかけ、男女間の賃金格差が拡大したと非難。",
+    "title": "デルタ航空機、ミッドウェイ空港着陸時に花火に直撃される",
+    "summary": "7月4日に発生したインシデントで重傷者なし。機体に損傷あり、調査中",
     "source": [
-      "/r/technology"
+      "hackernews"
     ],
     "count": 1
   },
   {
-    "title": "Netflixの視聴者が第1シーズンでシリーズを離脱",
-    "summary": "調査によると、ほとんどのユーザーが最初のエピソードの後にシリーズを見るのをやめ、更新に影響を与えている。",
+    "title": "ゴビ砂漠で発見された化石化した糞が4000年前の森林を明らかに",
+    "summary": "糞石の発見により、現在はアジアで最も乾燥した砂漠がかつて森林だったことが判明。過去の気候変動に関するデータを提供",
     "source": [
-      "/r/technology"
+      "xataka"
     ],
     "count": 1
   },
   {
-    "title": "デルタ航空便、ミッドウェイ空港着陸時に花火に打たれる",
-    "summary": "7月4日の祝賀行事中に発生したインシデントで、重傷者は報告されていない。",
+    "title": "中国、雨水で電気を使わず建物を冷やす空調システムを開発",
+    "summary": "水の蒸発を利用して建物の温度を下げ、エネルギー消費と排出量を削減する技術",
     "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AIチューター、ダートマス大学のコースで効果量1.30SDを達成",
-    "summary": "大学生を対象とした研究によると、この教育ツールは従来の方法を大幅に上回る性能を示した。",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "CIA長官、高度なAIを核兵器に例える",
-    "summary": "情報機関のトップが人工知能の存続リスクについて警告。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Amazon、Mechanical Turkで新規顧客の受け付けを停止",
-    "summary": "クラウドソーシングプラットフォームが新規申請者の登録を締め切り、タスクエコノミーに影響。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceX、6ヶ月で260機のStarlink衛星を大気圏で燃焼",
-    "summary": "衛星の廃棄により、2,700ポンドの材料燃焼による環境懸念が生じている。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Baidu、人間の忘却を模倣してページを処理する「無制限」OCRを発表",
-    "summary": "この光学認識ツールは、1回のパスで数十ページを処理可能。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AIデータセンターの水消費量が報告よりもはるかに多い",
-    "summary": "調査により、実際の水消費量が大手テクノロジー企業が公表する数値を大幅に上回ることが判明。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AIブラウザは催眠術をかけられ、自社ユーザーを攻撃する可能性がある",
-    "summary": "研究者らは、ナビゲーションアシスタントの脆弱性を実証し、それを操作して有害な行動を実行できることを示した。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ニューヨーク州、分散型太陽光発電8GWを達成し2030年目標を前倒し",
-    "summary": "州は、10年末までに設定された目標を超え、再生可能エネルギーでマイルストーンを達成。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "新しい骨移植材料が骨がんを除去し組織を再生",
-    "summary": "開発された生体材料はがん細胞と戦い、健康な骨の成長を促進する。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Jim Kellerのスタートアップ、チップ工場の量産を計画",
-    "summary": "Atomic Semiは「Fab2」に改名し、小型半導体を大規模生産する工場建設を目指す。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft、Windows 11のコードを使用してScattered Spiderのハッカー逮捕に協力",
-    "summary": "Microsoftが共有した情報により、19歳の若者が恐喝グループとの関連で逮捕される。",
-    "source": [
-      "tomshardware.com"
+      "xataka"
     ],
     "count": 1
   }
