@@ -1,7 +1,79 @@
 [
   {
-    "title": "トランプ氏、ホワイトハウスからナスダックの開幕の鐘を鳴らす",
-    "summary": "米大統領はウォール街での象徴的な打鐘を行い、市場の節目を刻んだ。",
+    "title": "SK Hynix、米国IPOで280億ドル調達を目指す",
+    "summary": "半導体メモリーメーカーがウォール街への上場を計画し、ヘッジファンドや個人投資家の関心を集めている。",
+    "source": [
+      "ft.com",
+      "bolsamania.com",
+      "handelsblatt.com",
+      "/r/stocks"
+    ],
+    "count": 4
+  },
+  {
+    "title": "ウォール街、半導体の反発に支えられ上昇引け",
+    "summary": "ナスダックは半導体株がけん引し1%以上上昇、2週間の下落から回復した。",
+    "source": [
+      "bolsamania.com",
+      "investing.com",
+      "nasdaq.com",
+      "nikkei.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "イージージェット、キャッスルレイクへの55億ポンドでの売却に合意",
+    "summary": "格安航空会社が投資ファンドと買収合意を結び、株価が急騰した。",
+    "source": [
+      "bolsamania.com",
+      "ft.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "メモリーチップセクターに強気の賭けと韓国大手の警告が集まる",
+    "summary": "投資家やファンドがメモリーセクターにポジションを取る中、SK HynixとSamsungがMicronに供給過剰の可能性を警告している。",
+    "source": [
+      "nasdaq.com",
+      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "買収ラッシュ：Criteo、Singular Bank、CVC Marina",
+    "summary": "テクノロジー企業Criteoが買収提案を受け、INGがスペインのSingular Bankを買収、CVCがマリーナ事業を10億ドル超で売却。",
+    "source": [
+      "investing.com",
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AIが銀行業務と規制を変革、一方AmazonはAIチップに参入",
+    "summary": "AIが金融セクターに革命を起こし、規制当局がリスクを警告、AmazonはAIチップ市場でNvidiaに挑戦する。",
+    "source": [
+      "nasdaq.com",
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "債券市場：欧州金利は横ばい、FRBのガイダンスに疑問、イラン危機がQTに影響",
+    "summary": "ドイツ国債利回りは横ばい、FRBは金利に関するコミュニケーションを議論、イラン危機がQTプログラムに影響を与えている。",
+    "source": [
+      "nikkei.com",
+      "bolsamania.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "固定収入：債券ETF、ユーリボー低下、年金改革",
+    "summary": "投資家が短期債券ETFを比較する中、ユーリボーは2.7%を下回り、ドイツは年金改革を議論している。",
     "source": [
       "nasdaq.com",
       "expansion.com",
@@ -10,76 +82,8 @@
     "count": 3
   },
   {
-    "title": "キャッスルレイク、イージージェットを64億ユーロで買収合意",
-    "summary": "米投資ファンドのキャッスルレイクが、英国格安航空会社イージージェットの経営権を取得する。",
-    "source": [
-      "ft.com",
-      "nikkei.com",
-      "expansion.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "半導体株が上昇、メモリー需要拡大とSKハイニックスの米国IPO観測で",
-    "summary": "マイクロンとサンディスクの株が反発、メモリーチップ部門がSKハイニックスのウォール街上場計画で活性化。",
-    "source": [
-      "finance.yahoo.com",
-      "handelsblatt.com",
-      "/r/stocks"
-    ],
-    "count": 3
-  },
-  {
-    "title": "円が40年ぶり安値、日本国債利回りは最高値",
-    "summary": "円はドルに対して弱含み、10年債利回りが2.83%に上昇し、日銀に圧力。",
-    "source": [
-      "finance.yahoo.com",
-      "handelsblatt.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Euriborが2.7%に低下、欧州不動産市場はまちまち",
-    "summary": "スペインでは賃貸利回りが低下する一方、コロニアルはドイツで拡大、ギリシャとドイツの高級市場にチャンス。",
-    "source": [
-      "bolsamania.com",
-      "expansion.com",
-      "handelsblatt.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "原油は中東・ウクライナの地政学的緊迫化で安定",
-    "summary": "原油価格はイラン紛争前の水準で安定、ロシアはキエフへのドローン攻撃を強化。",
-    "source": [
-      "finance.yahoo.com",
-      "ft.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "金は下落基調を維持、ETFに大幅な資金流出",
-    "summary": "貴金属は低迷を続け、SPDRゴールド・シェアーズには大規模な資本流出。",
-    "source": [
-      "bolsamania.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ウォール街はまちまち、AI・FRB・企業決算を注視",
-    "summary": "ダウは小幅安、ナスダックとS&P500は上昇、テクノロジー・半導体株の反発が主導。",
-    "source": [
-      "finance.yahoo.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "イベックス35は0.87%安、欧州株式市場で出遅れ",
-    "summary": "スペイン株価指数はアクシオナとアルセロール・ミッタルに押され高値から後退、IAGとアマデウスが上昇を主導。",
+    "title": "IBEXが最高値からの調整後に19,700ポイントを下回る",
+    "summary": "スペイン株式指標は企業決算を前に下落幅を拡大している。",
     "source": [
       "bolsamania.com",
       "expansion.com"
@@ -87,102 +91,98 @@
     "count": 2
   },
   {
-    "title": "マイクロソフト、技術系レイオフの波に加わり最大4,800人削減",
-    "summary": "同社はゲーム・Azure部門で人員削減、人工知能への投資シフトを反映。",
-    "source": [
-      "investing.com",
-      "finance.yahoo.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ハネウェルから分離したソルスティス、エレメント・ソリューションズを145億ドルで買収",
-    "summary": "買収はハネウェル再編によるAIブームへの露出拡大を反映、ソルスティス株は13%下落。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "アナリスト、割安感のある2つのAI関連株を指摘",
-    "summary": "Yahoo Financeとナスダックの両方が、同じAI企業を魅力的な評価額で買い機会として強調。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ストラテジー、さらに2億1600万ドル相当のビットコインを売却",
-    "summary": "マイケル・セイラー氏の会社は暗号通貨を手放し続け、市場下落の中で3,600トークンを売却。",
+    "title": "OPECプラスが増産に合意し原油価格下落、一方中国は原油購入を増やす",
+    "summary": "OPECプラスは日量18万8,000バレル供給を増やし価格を圧迫、中国はこれを好機に購入を増やしている。",
     "source": [
       "bolsamania.com",
-      "finance.yahoo.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "大口投資家、混乱の中でもプライベートクレジットに数十億ドル投入",
-    "summary": "同セクターは米国・欧州双方で巨額の資本を集め、伝統的銀行に代わる利回りを追求。",
-    "source": [
-      "expansion.com",
       "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "規制当局と銀行、金融におけるAI活用で「軍拡競争」に備える",
-    "summary": "英FCAは個人金融でのAI大量使用に警告、独銀行は技術変革を遂行。",
-    "source": [
-      "ft.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "巨額の資産移転がウォール街を揺るがし、人間関係を再定義",
-    "summary": "数百万ドル単位の相続移動と友情への影響が市場や社会で話題に。",
-    "source": [
-      "expansion.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "暗号通貨、週明けは楽観的、FRB議事録に注目",
-    "summary": "ビットコインとイーサリアムは週間反発後に下落、ビットマインが7400万ドルのイーサを取得。",
-    "source": [
-      "finance.yahoo.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "アナリスト、スペイン銀行株の目標株価引き上げ、アルミラルは転換期に",
-    "summary": "ジェフリーズ、シティ、インベスコがサバデル、ウニカハ、アルミラル、スペイン株式市場全体の見通しを改善。",
+    "title": "金は低迷、シティがロンドンの清算市場に参加",
+    "summary": "貴金属は下落を続け、シティグループはロンドンの金清算システムへの統合を準備している。",
     "source": [
       "bolsamania.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "大口投資家がボラティリティにもかかわらずプライベートクレジットに数十億を投じる",
+    "summary": "機関投資家は市場の不確実性の中で利回りを求め、プライベートクレジットに引き続き投資している。",
+    "source": [
+      "ft.com",
       "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "バイオテクノロジー・医療機器株が上昇、メディケアとオプション取引が追い風",
-    "summary": "エノビスとバイオベンタスはメディケア償還削減の撤回で恩恵、オキュラー・セラピューティクスは取引急増。",
+    "title": "トランプが大統領執務室からウォール街の鐘を鳴らし、ダウ平均が新たな節目に到達",
+    "summary": "元大統領が市場の開場式に象徴的に参加し、ダウ平均の新記録を祝った。",
     "source": [
-      "investing.com",
-      "finance.yahoo.com"
+      "handelsblatt.com",
+      "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "クレジットカード詐欺、年会費無料カードランキング、最高CD金利が消費者金融ニュースの話題に",
-    "summary": "ハンデルスブラットはワイヤーカードの詐欺告発と最適クレジットカードを報道、ヤフーは最高CD金利を特集。",
+    "title": "First SolarとSolariaが太陽光発電セクターの上昇を主導",
+    "summary": "First Solarがセクターのニュースで急騰、一方Solariaはスペイン株式市場で重要なテクニカル水準を突破した。",
     "source": [
-      "handelsblatt.com",
-      "finance.yahoo.com"
+      "investing.com",
+      "bolsamania.com"
     ],
     "count": 2
+  },
+  {
+    "title": "テスラ、Joby Aviation、ベゾスの電気トラック：電動モビリティの最新情報",
+    "summary": "テスラが投資家に良い知らせを発表、Joby Aviation株が急騰、ベゾスが中国製バッテリー搭載の米国最安の電気トラックを発売。",
+    "source": [
+      "nasdaq.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "アルファベット、ブロードコム、そして半導体の買いのチャンス",
+    "summary": "アルファベットは10%下落後に買いの可能性を示し、ブロードコムはアップルとの契約を2031年まで延長、アナリストは半導体株の1つに625%の上昇可能性を見ている。",
+    "source": [
+      "nasdaq.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国が潜水艦からミサイル発射、NATOが懸念を表明",
+    "summary": "中国軍がミサイル発射を実施、潜水艦からの発射もあり、NATOは警戒感を強め台湾は非難している。",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "AT&T、たばこ、コストコ、低コストETFの分析",
+    "summary": "Nasdaq.comが決算前のAT&Tの分析、アルトリアとフィリップモリスの比較、コストコへの疑問、S&P500を上回るETFを公開。",
+    "source": [
+      "nasdaq.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "マイケル・セイラーが2億1,600万ユーロ相当のビットコインを売却",
+    "summary": "マイクロストラテジーの創業者が強気市場の中でビットコインへのエクスポージャーを削減。",
+    "source": [
+      "handelsblatt.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "日本：年金基金が最高のリターン、MUFGは世界トップ5を目指す",
+    "summary": "日本の年金基金がAIの恩恵で6年ぶりの最高運用成績、MUFGはROE2桁目標を設定。",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
   }
 ]

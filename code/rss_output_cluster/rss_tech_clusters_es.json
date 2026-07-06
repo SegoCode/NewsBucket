@@ -1,29 +1,30 @@
 [
   {
-    "title": "Microsoft despide a 5.000 empleados en Xbox y reestructura sus estudios de videojuegos",
-    "summary": "La compañía anuncia la salida de cuatro estudios y un reset de la división Xbox, que incluye cierres y despidos masivos.",
+    "title": "Microsoft anuncia el despido de 3.200 empleados de Xbox y la desinversión de varios estudios en su mayor reestructuración",
+    "summary": "La compañía recorta personal en su división de juegos y cede cuatro estudios como parte del mayor reinicio en la historia de Xbox.",
     "source": [
       "techcrunch.com",
-      "news.ycombinator.com",
+      "tomshardware.com",
+      "/r/technology",
       "xataka.com",
-      "videocardz.com"
+      "videocardz.com",
+      "news.ycombinator.com"
     ],
-    "count": 4
+    "count": 6
   },
   {
-    "title": "Sony abandona el formato físico para PlayStation y el mayor archivo de videojuegos alemán colapsa",
-    "summary": "La fábrica de discos de Sony se reconvertirá a microlentes ópticas, mientras que el proyecto de preservación de 60.000 juegos se queda sin fondos.",
+    "title": "AMD lanza el PC Ryzen AI Halo por 3999 dólares en un único minorista estadounidense",
+    "summary": "La plataforma de desarrollo de IA de AMD combina CPU y GPU de alto rendimiento y se vende exclusivamente en un punto de venta en EE.UU.",
     "source": [
-      "hardzone.es",
-      "xataka.com",
-      "kite.kagi.com",
+      "videocardz.com",
+      "news.ycombinator.com",
       "tomshardware.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Nintendo lanza una revisión de Switch 2 en Europa con menor batería y mayor peso",
-    "summary": "La nueva versión llegará este verano, mientras que las ventas de la consola original se detendrán en febrero de 2027.",
+    "title": "Nintendo confirma nuevas revisiones de Switch 2 en Europa con batería reemplazable y mayor peso",
+    "summary": "Las consolas actualizadas llegarán en verano de 2027 e incluyen cambios en la batería y el diseño, mientras se retira la Switch original en 2027.",
     "source": [
       "xataka.com",
       "videocardz.com",
@@ -32,95 +33,44 @@
     "count": 3
   },
   {
-    "title": "La Vía Láctea es un 10% más grande de lo conocido, la NASA rescata su telescopio Swift y SpaceX quema 260 satélites Starlink",
-    "summary": "La astronomía y la exploración espacial registran avances y controversias ambientales por la reentrada de satélites.",
+    "title": "Sony aclara que seguirá fabricando discos de PlayStation después de 2028, pero no para nuevos juegos",
+    "summary": "La decisión de eliminar los discos en futuros lanzamientos provoca una petición con más de 112.000 firmas para conservar el formato físico.",
     "source": [
-      "xataka.com",
-      "news.ycombinator.com",
-      "tomshardware.com"
+      "/r/technology",
+      "hardzone.es"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "China prohíbe chatbots humanoides, Bender matiza el término loro estocástico y Reddit usa IA para resolver problemas creados por la IA",
-    "summary": "El debate ético y regulatorio sobre la inteligencia artificial se intensifica con medidas de control y nuevas reflexiones.",
+    "title": "Reddit utiliza modelos de lenguaje para resolver un problema que ellos mismos crearon",
+    "summary": "La plataforma recurre a la IA para moderar contenido generado por IA, en una paradoja tecnológica.",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com",
+      "/r/technology",
       "techcrunch.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Steam se afianza en el gaming portátil: nuevas entrevistas sobre Steam Machine, SteamOS para portátiles y la cara Ayaneo",
-    "summary": "El ecosistema Steam se expande hacia dispositivos portátiles con mejoras en SteamOS, consolas ultracaras y análisis históricos.",
+    "title": "China obliga a las plataformas de IA a eliminar los asistentes con apariencia humana",
+    "summary": "Las autoridades chinas ordenan desactivar los chatbots con personalidad humana por motivos de control social.",
     "source": [
-      "tomshardware.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "China impulsa sus chips de IA: Huawei entra en Corea del Sur, Biren busca 892 millones de dólares y Baidu lanza OCR ilimitado",
-    "summary": "La industria china de semiconductores para inteligencia artificial acelera su expansión global con productos y financiación.",
-    "source": [
-      "tomshardware.com",
-      "kite.kagi.com",
+      "xataka.com",
       "the-decoder.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "La agencia canadiense hackea delincuentes, el DOJ cierra el caso contra Abbott y Wisconsin demanda a Microsoft por el ruido de un centro de datos",
-    "summary": "La actualidad judicial incluye operaciones de ciberespionaje, archivo de casos y demandas por contaminación acústica.",
+    "title": "Vulnerabilidad de 16 años en KVM permite que una máquina invitada escape al anfitrión en sistemas x86",
+    "summary": "El fallo bautizado como Januscape afecta a kernels de Linux y permite la ejecución de código en el sistema anfitrión.",
     "source": [
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Organic Maps añade imágenes satélite, las redes difunden mapas del fin del calor y un mapa interactivo del ferrocarril británico",
-    "summary": "Las aplicaciones de mapas ofrecen nuevas funcionalidades y se vuelven virales en medio de la ola de calor.",
-    "source": [
-      "alternativeto.net",
-      "xataka.com",
+      "thehackernews.com",
       "news.ycombinator.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "Amazon cierra su plataforma Mechanical Turk, el origen de la inteligencia artificial artificial",
-    "summary": "El servicio de microtareas, clave en la formación de modelos de IA, deja de admitir nuevos clientes y se encamina a su desaparición.",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
     "count": 2
   },
   {
-    "title": "AMD presenta Ryzen AI Halo, un potente kit de desarrollo de IA por 4.000 dólares",
-    "summary": "Los análisis califican al sistema como el equivalente de la DGX Spark de Nvidia, compitiendo en rendimiento para inteligencia artificial.",
-    "source": [
-      "news.ycombinator.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Los racks Nvidia Kyber para la arquitectura Rubin se retrasan hasta 2028 por problemas en las placas",
-    "summary": "Proveedores asiáticos confirman el retraso de más de un año debido a fallos en el diseño del circuito intermedio.",
-    "source": [
-      "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La GeForce RTX 3060 de 12 GB regresa a Newegg a un precio de 329,99 dólares",
-    "summary": "La tarjeta gráfica de gama media vuelve a estar disponible tras un período de escasez de stock.",
+    "title": "MSI valida memoria CXMT china a velocidades DDR5-8200 en placas base AMD",
+    "summary": "La memoria fabricada por CXMT alcanza nuevas velocidades en plataformas AMD gracias a una actualización de BIOS.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -128,66 +78,102 @@
     "count": 2
   },
   {
-    "title": "Fable 5 y Claude Code portan el juego Command & Conquer a iOS en solo unas horas",
-    "summary": "Un experimento de inteligencia artificial demuestra su capacidad para adaptar software clásico a plataformas modernas de forma casi instantánea.",
+    "title": "Residentes de Wisconsin presentan demanda colectiva contra el centro de datos de Microsoft por ruido y contaminación lumínica",
+    "summary": "La instalación de Microsoft de 7.300 millones de dólares genera molestias y los afectados buscan compensación.",
     "source": [
-      "news.ycombinator.com",
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google y Cloudflare permiten a los usuarios evitar que sus datos se usen para entrenar IA",
+    "summary": "Las compañías implementan herramientas para que sitios web y usuarios puedan impedir que su contenido sea utilizado por modelos de inteligencia artificial.",
+    "source": [
+      "techcrunch.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Nuevas herramientas permiten escanear agentes de IA en busca de capacidades peligrosas, pero también evadirlos",
-    "summary": "Investigadores presentan tanto un escáner de agentes como una técnica de ofuscación que sortea estos detectores.",
+    "title": "El liderazgo de los modelos de IA se acorta a siete semanas y directivos cuestionan el exceso de hype",
+    "summary": "Mientras la duración del dominio de los mejores modelos se reduce drásticamente, el CEO de Palantir critica que las capacidades están sobredimensionadas.",
     "source": [
-      "news.ycombinator.com",
-      "thehackernews.com"
+      "/r/technology",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "JADEPUFFER, el primer ransomware con agente autónomo, y una vulnerabilidad crítica en Opera GX",
-    "summary": "Las amenazas cibernéticas evolucionan con malware que actúa como agente y fallos de seguridad en el navegador que permiten instalar mods maliciosos.",
+    "title": "Amazon cierra Mechanical Turk, el servicio pionero de inteligencia artificial humana",
+    "summary": "La plataforma que comenzó como un experimento de crowdsourcing dejará de funcionar, marcando el final de una era en la IA híbrida.",
     "source": [
-      "the-decoder.com",
-      "thehackernews.com"
+      "the-decoder.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "MSI valida memoria DDR5-8000+ en placas AMD y un creador construye su propia memoria magnética casera",
-    "summary": "El mundo de la memoria muestra avances desde récords de velocidad hasta soluciones artesanales con tecnología de la era Apolo.",
+    "title": "Inversores de la memecoin de Trump pierden 3.800 millones de dólares, según análisis",
+    "summary": "La criptomoneda asociada al expresidente estadounidense ha sufrido un desplome que ha dejado pérdidas millonarias a sus tenedores.",
     "source": [
-      "videocardz.com",
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SpaceX desorbita 260 satélites Starlink en seis meses usando la atmósfera terrestre",
+    "summary": "Las crecientes quemas controladas generan preocupaciones ambientales y la FCC quiere eximir a los satélites de regulaciones.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El mayor archivo de videojuegos de Alemania colapsa al quedarse sin fondos tras invertir 1,5 millones de euros",
+    "summary": "El proyecto de preservación de 60.000 juegos queda abandonado, coincidiendo con el fin del disco físico en consolas.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Illinois promulga una de las leyes de inteligencia artificial más estrictas del país",
+    "summary": "El gobernador Pritzker firma la SB 315, que impone requisitos de transparencia y rendición de cuentas para sistemas de IA.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Microsoft confirma un error en Windows 11 que consume hasta 500 GB de almacenamiento",
+    "summary": "La compañía advierte a los usuarios sobre un fallo que llena el disco duro y recomienda verificar si están afectados.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "YouTubers colaboran con el FBI para desmantelar una estafa de 65 millones de dólares a ancianos",
+    "summary": "Treinta acusados fueron imputados tras la investigación conjunta que destapó un elaborado esquema de fraude financiero.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Dron eléctrico rompe el récord mundial de velocidad al alcanzar 698 km/h",
+    "summary": "La aeronave no tripulada diseñada como interceptor antiaéreo supera la marca oficial de 658 km/h.",
+    "source": [
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Un dron eléctrico bate el récord de velocidad con 434 mph y Tesla lanza su servicio de robotaxi en Miami",
-    "summary": "El transporte eléctrico avanza con un dron interceptor y el debut del taxi autónomo de Tesla en una ciudad estadounidense.",
+    "title": "Empresa de robótica humanoide sale a bolsa pero su CEO no promete robots domésticos a corto plazo",
+    "summary": "La compañía busca financiación para seguir desarrollando robots humanoides, aunque advierte que aún falta tiempo para su uso en hogares.",
     "source": [
-      "tomshardware.com",
-      "kite.kagi.com"
+      "techcrunch.com"
     ],
-    "count": 2
-  },
-  {
-    "title": "El kernel de Linux corrige un problema de ancho de banda USB y el sistema CalyxOS se actualiza a la versión 7.2.2",
-    "summary": "Actualizaciones de software de código abierto mejoran el rendimiento y añaden soporte para nuevos dispositivos.",
-    "source": [
-      "alternativeto.net",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Acer lanza el portátil Swift 16 AI con OLED y un PC gaming con RTX 5090 se ofrece con un descuento de 1.050 dólares",
-    "summary": "Novedades en el mercado de hardware: un portátil con inteligencia artificial y una ganga en un ordenador de alta gama.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
+    "count": 1
   }
 ]

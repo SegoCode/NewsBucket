@@ -1,29 +1,30 @@
 [
   {
-    "title": "Microsoft、Xboxで5,000人を解雇し、ゲームスタジオを再編",
-    "summary": "同社は4つのスタジオの閉鎖とXbox部門の再編を発表。閉鎖と大量解雇が含まれる。",
+    "title": "Microsoft、Xboxの従業員3,200人を解雇し、複数のスタジオを売却する最大の再編を発表",
+    "summary": "同社はゲーム部門で人員を削減し、Xbox史上最大の再起動の一環として4つのスタジオを譲渡。",
     "source": [
       "techcrunch.com",
-      "news.ycombinator.com",
+      "tomshardware.com",
+      "/r/technology",
       "xataka.com",
-      "videocardz.com"
+      "videocardz.com",
+      "news.ycombinator.com"
     ],
-    "count": 4
+    "count": 6
   },
   {
-    "title": "Sony、PlayStation向け物理メディアを廃止、ドイツ最大のゲーム保存プロジェクトが崩壊",
-    "summary": "ソニーのディスク工場は光学マイクロレンズに転換される一方、6万本のゲーム保存プロジェクトは資金難に直面。",
+    "title": "AMD、Ryzen AI Halo PCを3999ドルで米国唯一の小売店から発売",
+    "summary": "AMDのAI開発プラットフォームは高性能CPUとGPUを組み合わせ、米国の1つの販売店でのみ販売。",
     "source": [
-      "hardzone.es",
-      "xataka.com",
-      "kite.kagi.com",
+      "videocardz.com",
+      "news.ycombinator.com",
       "tomshardware.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Nintendo、欧州でSwitch 2の改訂版を発売、バッテリー低下と重量増加",
-    "summary": "新型は今夏に登場し、オリジナル機の販売は2027年2月に終了する。",
+    "title": "Nintendo、欧州でSwitch 2の新リビジョンを確認、交換可能なバッテリーと重量増加",
+    "summary": "更新されたコンソールは2027年夏に発売され、バッテリーとデザインの変更が含まれる一方、オリジナルのSwitchは2027年に販売終了。",
     "source": [
       "xataka.com",
       "videocardz.com",
@@ -32,95 +33,44 @@
     "count": 3
   },
   {
-    "title": "天の川銀河は既知のサイズより10%大きい、NASAがSwift望遠鏡を救出、SpaceXがStarlink衛星260基を廃棄",
-    "summary": "天文学と宇宙探査は進展を見せる一方、衛星再突入による環境論争も起きている。",
+    "title": "ソニー、2028年以降もPlayStationのディスクを製造するが、新作ゲーム用ではないと説明",
+    "summary": "将来のリリースでディスクを廃止する決定により、物理フォーマットを維持するよう112,000以上の署名が集まった。",
     "source": [
-      "xataka.com",
-      "news.ycombinator.com",
-      "tomshardware.com"
+      "/r/technology",
+      "hardzone.es"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "中国、人間型チャットボットを禁止、Bender氏が「確率的オウム」の用語を修正、RedditがAIでAI起因の問題を解決",
-    "summary": "AIをめぐる倫理的・規制的議論は、規制措置と新たな考察によって激化している。",
+    "title": "Reddit、自ら作り出した問題を解決するために言語モデルを利用",
+    "summary": "同プラットフォームは、AIが生成したコンテンツをモデレートするためにAIを利用するという技術的パラドックス。",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com",
+      "/r/technology",
       "techcrunch.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Steamが携帯ゲーム分野で存在感強化：Steam Machine、携帯向けSteamOS、高額なAyaneoに関する新インタビュー",
-    "summary": "SteamエコシステムはSteamOSの改善、超高価格コンソール、歴史的分析を通じて携帯デバイスへ拡大している。",
+    "title": "中国、AIプラットフォームに人間のような外見のアシスタントを削除するよう義務付け",
+    "summary": "中国当局は、社会的統制の理由から人間的な性格を持つチャットボットを無効にするよう命令。",
     "source": [
-      "tomshardware.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "中国がAIチップを推進：Huaweiが韓国に進出、Birenは8億9200万ドルを調達、Baiduは無制限OCRを開始",
-    "summary": "中国のAI用半導体産業は製品と資金調達によりグローバル展開を加速。",
-    "source": [
-      "tomshardware.com",
-      "kite.kagi.com",
+      "xataka.com",
       "the-decoder.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "カナダ政府機関が犯罪者をハッキング、DOJがAbbottに対する訴訟を却下、ウィスコンシン州がデータセンターの騒音でMicrosoftを提訴",
-    "summary": "司法の最新動向には、サイバースパイ活動、訴訟の却下、騒音公害をめぐる訴訟が含まれる。",
+    "title": "KVMの16年前の脆弱性により、x86システムでゲストマシンがホストにエスケープ可能",
+    "summary": "Januscapeと名付けられたこの欠陥はLinuxカーネルに影響し、ホストシステムでのコード実行を許す。",
     "source": [
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Organic Mapsが衛星画像を追加、SNSで暑さ終息マップと英国鉄道のインタラクティブマップが拡散",
-    "summary": "マップアプリは新機能を提供し、熱波の中でバイラルになっている。",
-    "source": [
-      "alternativeto.net",
-      "xataka.com",
+      "thehackernews.com",
       "news.ycombinator.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "Amazon、人工人工知能の起源Mechanical Turkプラットフォームを閉鎖",
-    "summary": "マイクロタスクサービスはAIモデル訓練の鍵であり、新規顧客受け入れを停止し、消滅へ向かう。",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
     "count": 2
   },
   {
-    "title": "AMD、強力なAI開発キットRyzen AI Haloを4,000ドルで発表",
-    "summary": "アナリストはこのシステムをNvidiaのDGX Sparkと同等と評価、AI性能で競合。",
-    "source": [
-      "news.ycombinator.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nvidia、Rubinアーキテクチャ向けKyberラックが基板問題で2028年まで延期",
-    "summary": "アジアのサプライヤーは中間回路設計の欠陥による1年以上の遅延を確認。",
-    "source": [
-      "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "12GB版GeForce RTX 3060がNeweggに329.99ドルで再登場",
-    "summary": "中級グラフィックカードが在庫不足期間を経て再び入手可能に。",
+    "title": "MSI、AMDマザーボードで中国CXMTメモリのDDR5-8200速度を検証",
+    "summary": "CXMT製メモリがBIOSアップデートによりAMDプラットフォームで新たな速度を達成。",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -128,66 +78,102 @@
     "count": 2
   },
   {
-    "title": "Fable 5とClaude CodeがCommand & Conquerをわずか数時間でiOSに移植",
-    "summary": "AI実験は古典的ソフトウェアをほぼ瞬時に最新プラットフォームに適応させる能力を示す。",
+    "title": "ウィスコンシン州住民、騒音と光害でマイクロソフトのデータセンターを集団訴訟",
+    "summary": "マイクロソフトの73億ドルの施設が迷惑を引き起こし、影響を受けた人々が補償を求める。",
     "source": [
-      "news.ycombinator.com",
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GoogleとCloudflare、ユーザーが自分のデータをAIトレーニングに使用されないようにする機能を提供",
+    "summary": "両社は、ウェブサイトやユーザーが自分のコンテンツをAIモデルに使用されるのを防ぐツールを導入。",
+    "source": [
+      "techcrunch.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "新ツールで危険能力を持つAIエージェントをスキャン可能、ただし回避も可能",
-    "summary": "研究者はエージェントスキャナーと、これらの検出器を回避する難読化手法の両方を発表。",
+    "title": "AIモデルのリーダーシップは7週間に短縮、幹部は過剰な誇大広告を疑問視",
+    "summary": "最高モデルの支配期間が劇的に短縮される一方、PalantirのCEOは能力が過大評価されていると批判。",
     "source": [
-      "news.ycombinator.com",
-      "thehackernews.com"
+      "/r/technology",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "自律エージェント型ランサムウェアJADEPUFFERとOpera GXの深刻な脆弱性",
-    "summary": "サイバー脅威はエージェント型マルウェアと、悪意あるmodをインストール可能にするブラウザのセキュリティ問題で進化。",
+    "title": "Amazon、人間の知能を活用した先駆的サービスMechanical Turkを閉鎖",
+    "summary": "クラウドソーシングの実験として始まったプラットフォームが終了し、ハイブリッドAIの時代の終わりを告げる。",
     "source": [
-      "the-decoder.com",
-      "thehackernews.com"
+      "the-decoder.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "MSIがAMDマザーボードでDDR5-8000+メモリを検証、愛好家が自作磁気メモリを構築",
-    "summary": "メモリの世界は速度記録からアポロ時代の技術を使った手作りソリューションまで進歩を示す。",
+    "title": "トランプ氏のミームコイン投資家、分析によると38億ドルの損失",
+    "summary": "元米大統領に関連する暗号通貨が暴落し、保有者に巨額の損失をもたらした。",
     "source": [
-      "videocardz.com",
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SpaceX、6ヶ月で260機のStarlink衛星を大気圏で廃棄",
+    "summary": "増加する制御された燃焼が環境への懸念を引き起こし、FCCは衛星を規制から免除しようとしている。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ドイツ最大のビデオゲームアーカイブ、150万ユーロを投資後に資金不足で崩壊",
+    "summary": "60,000タイトルの保存プロジェクトが放棄され、コンソールでの物理ディスクの終焉と同時期に。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "イリノイ州、国内で最も厳格な人工知能法の1つを制定",
+    "summary": "プリツカー知事がSB 315に署名、AIシステムに透明性と説明責任の要件を課す。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Microsoft、Windows 11で最大500GBのストレージを消費するバグを確認",
+    "summary": "同社はハードドライブを満たす不具合についてユーザーに警告し、影響を受けているか確認するよう推奨。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "YouTuberがFBIと協力し、高齢者を狙った6500万ドルの詐欺を解体",
+    "summary": "共同捜査により精巧な金融詐欺スキームが明るみに出て、30人の被告が起訴された。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "電気ドローンが時速698kmを記録し世界速度記録を更新",
+    "summary": "対空迎撃機として設計された無人航空機が公式記録の658km/hを超える。",
+    "source": [
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "電気ドローンが時速434マイルの速度記録、Teslaがマイアミでロボタクシーサービス開始",
-    "summary": "迎撃ドローンとテスラの自動運転タクシーのデビューにより電動輸送が進展。",
+    "title": "ヒューマノイドロボット企業が上場するも、CEOは短期的な家庭用ロボットを約束せず",
+    "summary": "同社はヒューマノイドロボットの開発継続のための資金調達を目指すが、家庭での使用にはまだ時間がかかると警告。",
     "source": [
-      "tomshardware.com",
-      "kite.kagi.com"
+      "techcrunch.com"
     ],
-    "count": 2
-  },
-  {
-    "title": "LinuxカーネルがUSB帯域幅問題を修正、CalyxOSがバージョン7.2.2に更新",
-    "summary": "オープンソースソフトウェアのアップデートがパフォーマンスを向上させ、新デバイスのサポートを追加。",
-    "source": [
-      "alternativeto.net",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Acer、OLED搭載ノートPC Swift 16 AIを発売、RTX 5090搭載ゲーミングPCが1,050ドル割引で提供",
-    "summary": "ハードウェア市場の最新情報：AI搭載ノートPCとハイエンドPCのお買い得情報。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
+    "count": 1
   }
 ]
