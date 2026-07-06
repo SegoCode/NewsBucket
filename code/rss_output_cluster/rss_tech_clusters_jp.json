@@ -1,191 +1,193 @@
 [
   {
-    "title": "ソニー、プレイステーションの物理ディスクと休眠アカウントの方針を明確化",
-    "summary": "同社はディスクゲームの再印刷を継続し、休眠によるアカウント削除は新しいものではないと説明。一方で、ディスク工場をマイクロレンズ製造に転換中",
+    "title": "Microsoft、Xboxで5,000人を解雇し、ゲームスタジオを再編",
+    "summary": "同社は4つのスタジオの閉鎖とXbox部門の再編を発表。閉鎖と大量解雇が含まれる。",
     "source": [
-      "hardzone",
-      "xataka",
-      "videocardz",
-      "alternativeto",
-      "tomshardware"
-    ],
-    "count": 5
-  },
-  {
-    "title": "人工知能の進歩：コーディング、教育、プロプライエタリモデルをめぐる議論",
-    "summary": "Claude Codeはゲーム移植に使用される一方、Alibabaに禁止。新しいAIチューター登場、データセンター盗難報告、Mistral幹部が企業プライバシーに警告",
-    "source": [
-      "xataka",
-      "hackernews",
-      "hardzone",
-      "the-decoder",
-      "tomshardware"
-    ],
-    "count": 5
-  },
-  {
-    "title": "レトロゲームの世界：ブラウザでHalf-Life 2、DualShockにPS1実装",
-    "summary": "Steamコントローラーのプロトタイプから、コントローラーにPS1を組み込むMOD、ブラウザでHalf-Life 2を100FPSでプレイ可能、Steamセールシミュレーターまで",
-    "source": [
-      "hardzone",
-      "hackernews",
-      "xataka",
-      "videocardz",
-      "tomshardware"
-    ],
-    "count": 5
-  },
-  {
-    "title": "エージェント型ランサムウェア、クロスプラットフォームマルウェア、ブラウザ攻撃でサイバー脅威増大",
-    "summary": "JADEPUFFER、QuimaRAT、SkillCloak検出、Opera GXの脆弱性。Windows 11コードでScattered Spiderグループのハッカー捕獲",
-    "source": [
-      "the-decoder",
-      "thehackernews",
-      "hackernews",
-      "tomshardware"
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "xataka.com",
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "PCメモリー：手作り革新とVRAM最低容量議論",
-    "summary": "高騰する価格の中、愛好家が磁気コアメモリーを自作。AmazonがGraviton G5の帯域幅を公開。16GB VRAMで1080p十分かの議論",
+    "title": "Sony、PlayStation向け物理メディアを廃止、ドイツ最大のゲーム保存プロジェクトが崩壊",
+    "summary": "ソニーのディスク工場は光学マイクロレンズに転換される一方、6万本のゲーム保存プロジェクトは資金難に直面。",
     "source": [
-      "tomshardware",
-      "/r/hardware",
-      "hardzone"
+      "hardzone.es",
+      "xataka.com",
+      "kite.kagi.com",
+      "tomshardware.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Nintendo、欧州でSwitch 2の改訂版を発売、バッテリー低下と重量増加",
+    "summary": "新型は今夏に登場し、オリジナル機の販売は2027年2月に終了する。",
+    "source": [
+      "xataka.com",
+      "videocardz.com",
+      "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "Linux刷新：グラフィックサポート、新ネットワークツール、歴史的リマスター",
-    "summary": "カーネルがUSB問題修正、Intel Xe3Pサポート追加、DNSGlobeでDNS監視、Organic Mapsが無料地図提供、Hannah Montana Linuxが更新版Debianで復活",
+    "title": "天の川銀河は既知のサイズより10%大きい、NASAがSwift望遠鏡を救出、SpaceXがStarlink衛星260基を廃棄",
+    "summary": "天文学と宇宙探査は進展を見せる一方、衛星再突入による環境論争も起きている。",
     "source": [
-      "hackernews",
-      "videocardz",
-      "tomshardware"
+      "xataka.com",
+      "news.ycombinator.com",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Bigme、25.3インチカラー電子ペーパーモニターを60Hzのリフレッシュレートで発売",
-    "summary": "解像度3200x1800、4096色、E Inkで最高のリフレッシュレート。目の疲れを軽減する読書や作業に最適",
+    "title": "中国、人間型チャットボットを禁止、Bender氏が「確率的オウム」の用語を修正、RedditがAIでAI起因の問題を解決",
+    "summary": "AIをめぐる倫理的・規制的議論は、規制措置と新たな考察によって激化している。",
     "source": [
-      "tomshardware",
-      "videocardz"
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Steamが携帯ゲーム分野で存在感強化：Steam Machine、携帯向けSteamOS、高額なAyaneoに関する新インタビュー",
+    "summary": "SteamエコシステムはSteamOSの改善、超高価格コンソール、歴史的分析を通じて携帯デバイスへ拡大している。",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "中国がAIチップを推進：Huaweiが韓国に進出、Birenは8億9200万ドルを調達、Baiduは無制限OCRを開始",
+    "summary": "中国のAI用半導体産業は製品と資金調達によりグローバル展開を加速。",
+    "source": [
+      "tomshardware.com",
+      "kite.kagi.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "カナダ政府機関が犯罪者をハッキング、DOJがAbbottに対する訴訟を却下、ウィスコンシン州がデータセンターの騒音でMicrosoftを提訴",
+    "summary": "司法の最新動向には、サイバースパイ活動、訴訟の却下、騒音公害をめぐる訴訟が含まれる。",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Organic Mapsが衛星画像を追加、SNSで暑さ終息マップと英国鉄道のインタラクティブマップが拡散",
+    "summary": "マップアプリは新機能を提供し、熱波の中でバイラルになっている。",
+    "source": [
+      "alternativeto.net",
+      "xataka.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Amazon、人工人工知能の起源Mechanical Turkプラットフォームを閉鎖",
+    "summary": "マイクロタスクサービスはAIモデル訓練の鍵であり、新規顧客受け入れを停止し、消滅へ向かう。",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIA GeForce RTX 3060 12GBモデルがNeweggで329ドルで再販",
-    "summary": "MSI Ventus 2X OCグラフィックカードが送料無料で提供。12GB VRAM搭載の競争力ある価格",
+    "title": "AMD、強力なAI開発キットRyzen AI Haloを4,000ドルで発表",
+    "summary": "アナリストはこのシステムをNvidiaのDGX Sparkと同等と評価、AI性能で競合。",
     "source": [
-      "tomshardware",
-      "videocardz"
+      "news.ycombinator.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "ノートPC用RTX 4080をデスクトップに改造、RX 9070 GRE相当の性能を低消費電力で実現",
-    "summary": "ラップトップチップをデスクトップグラフィックカードに変換、消費電力わずか100W、価格も25%低減",
+    "title": "Nvidia、Rubinアーキテクチャ向けKyberラックが基板問題で2028年まで延期",
+    "summary": "アジアのサプライヤーは中間回路設計の欠陥による1年以上の遅延を確認。",
     "source": [
-      "videocardz",
-      "tomshardware"
+      "tomshardware.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "米海軍、F/A-18戦闘機用3Dプリント部品を試験",
-    "summary": "複合材料部品で修理時間を半減。実機での飛行試験を実施予定",
+    "title": "12GB版GeForce RTX 3060がNeweggに329.99ドルで再登場",
+    "summary": "中級グラフィックカードが在庫不足期間を経て再び入手可能に。",
     "source": [
-      "/r/hardware",
-      "tomshardware"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel、最大22コアのプロセッサとPanther Lake搭載マザーボードでAMDに対抗",
-    "summary": "22コア・108MBキャッシュの新型Core Ultra 7を搭載したMini-ITXマザーボードが登場。Xe3Pグラフィック採用のNova Lakeも期待",
+    "title": "Fable 5とClaude CodeがCommand & Conquerをわずか数時間でiOSに移植",
+    "summary": "AI実験は古典的ソフトウェアをほぼ瞬時に最新プラットフォームに適応させる能力を示す。",
     "source": [
-      "hardzone",
-      "videocardz"
+      "news.ycombinator.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Lenovo、ThinkBookに中国製SSD搭載へ。ThinkPad X1 Carbonのバッテリー持続時間も向上",
-    "summary": "NANDメモリー価格高騰を受け、LenovoはYMTC製SSDをノートPCに採用。ThinkPad X1 Carbon Gen 14 Aura Editionは高評価",
+    "title": "新ツールで危険能力を持つAIエージェントをスキャン可能、ただし回避も可能",
+    "summary": "研究者はエージェントスキャナーと、これらの検出器を回避する難読化手法の両方を発表。",
     "source": [
-      "/r/hardware",
-      "tomshardware"
+      "news.ycombinator.com",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "携帯ゲーム機ニュース：Ayaneoが価格記録更新、SteamOS改善、クラウドゲーミングのコツ",
-    "summary": "Ayaneoの新ゲーム機は価格がRTX 5080約4台分。SteamOSがMSI ClawとLegion Goのバグ修正。低遅延クラウドゲームのアドバイスも",
+    "title": "自律エージェント型ランサムウェアJADEPUFFERとOpera GXの深刻な脆弱性",
+    "summary": "サイバー脅威はエージェント型マルウェアと、悪意あるmodをインストール可能にするブラウザのセキュリティ問題で進化。",
     "source": [
-      "hardzone",
-      "videocardz"
+      "the-decoder.com",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "宇宙の野心的プロジェクト：衛星大気圏焼却、原子力バッテリー、磁気エアバッグ",
-    "summary": "SpaceXが260機の衛星を大気圏廃棄、DARPAがドローン用核廃棄物バッテリー研究、科学者らが太陽嵐から地球を守る磁気シールド提案",
+    "title": "MSIがAMDマザーボードでDDR5-8000+メモリを検証、愛好家が自作磁気メモリを構築",
+    "summary": "メモリの世界は速度記録からアポロ時代の技術を使った手作りソリューションまで進歩を示す。",
     "source": [
-      "tomshardware",
-      "xataka"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "注目の財務結果：Samsung Foundryが黒字転換、新ユニコーン続出、Amazon Mechanical Turk閉鎖",
-    "summary": "Samsungのファウンドリが3年ぶりに利益を計上。新たに90社のユニコーンが誕生。AmazonはMechanical Turkの新規受付を停止。Bending Spoonsが株式公開",
+    "title": "電気ドローンが時速434マイルの速度記録、Teslaがマイアミでロボタクシーサービス開始",
+    "summary": "迎撃ドローンとテスラの自動運転タクシーのデビューにより電動輸送が進展。",
     "source": [
-      "/r/hardware",
-      "techcrunch"
+      "tomshardware.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "世界最大のゲームアーカイブ、資金不足で閉鎖。デジタル所有権めぐり議論",
-    "summary": "6万本のゲームを保存するドイツのプロジェクトが資金難で断念。物理メディアとデジタル所有の重要性について議論再燃",
+    "title": "LinuxカーネルがUSB帯域幅問題を修正、CalyxOSがバージョン7.2.2に更新",
+    "summary": "オープンソースソフトウェアのアップデートがパフォーマンスを向上させ、新デバイスのサポートを追加。",
     "source": [
-      "tomshardware",
-      "hackernews"
+      "alternativeto.net",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Jim KellerのスタートアップFab2、小型半導体工場を建設",
-    "summary": "Atomic SemiがFab2へ社名変更。モジュラー型低コスト工場でチップ製造に革命を目指す",
+    "title": "Acer、OLED搭載ノートPC Swift 16 AIを発売、RTX 5090搭載ゲーミングPCが1,050ドル割引で提供",
+    "summary": "ハードウェア市場の最新情報：AI搭載ノートPCとハイエンドPCのお買い得情報。",
     "source": [
-      "tomshardware"
+      "videocardz.com",
+      "tomshardware.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "デルタ航空機、ミッドウェイ空港着陸時に花火に直撃される",
-    "summary": "7月4日に発生したインシデントで重傷者なし。機体に損傷あり、調査中",
-    "source": [
-      "hackernews"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ゴビ砂漠で発見された化石化した糞が4000年前の森林を明らかに",
-    "summary": "糞石の発見により、現在はアジアで最も乾燥した砂漠がかつて森林だったことが判明。過去の気候変動に関するデータを提供",
-    "source": [
-      "xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "中国、雨水で電気を使わず建物を冷やす空調システムを開発",
-    "summary": "水の蒸発を利用して建物の温度を下げ、エネルギー消費と排出量を削減する技術",
-    "source": [
-      "xataka"
-    ],
-    "count": 1
+    "count": 2
   }
 ]

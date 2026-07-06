@@ -1,191 +1,193 @@
 [
   {
-    "title": "Sony clarifies its policies on physical discs and inactive accounts on PlayStation",
-    "summary": "The company assures that it will continue reprinting disc games and that account cancellation due to inactivity is not new, while its disc factory is repurposed for microlenses.",
+    "title": "Microsoft lays off 5,000 employees in Xbox and restructures its game studios",
+    "summary": "The company announces the exit of four studios and a reset of the Xbox division, including closures and mass layoffs.",
     "source": [
-      "hardzone",
-      "xataka",
-      "videocardz",
-      "alternativeto",
-      "tomshardware"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Artificial intelligence marks the news with advances in coding, education, and debate on proprietary models",
-    "summary": "Claude Code is used to port games and is banned by Alibaba, new AI tutors appear, thefts in data centers are reported, and Mistral executives warn about corporate privacy.",
-    "source": [
-      "xataka",
-      "hackernews",
-      "hardzone",
-      "the-decoder",
-      "tomshardware"
-    ],
-    "count": 5
-  },
-  {
-    "title": "The retro video game world offers curiosities like Half-Life 2 in the browser and the PS1 inside a DualShock",
-    "summary": "From the Steam controller prototype to a mod that puts a PS1 console inside a controller, including the possibility of playing Half-Life 2 in the browser at 100 FPS and the Steam sale simulator.",
-    "source": [
-      "hardzone",
-      "hackernews",
-      "xataka",
-      "videocardz",
-      "tomshardware"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Cybersecurity threats increase with agentive ransomware, cross-platform malware, and browser attacks",
-    "summary": "JADEPUFFER, QuimaRAT, SkillCloak and a flaw in Opera GX are detected, while a Windows 11 code allows the capture of a hacker from the Scattered Spider group.",
-    "source": [
-      "the-decoder",
-      "thehackernews",
-      "hackernews",
-      "tomshardware"
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "xataka.com",
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "Computer memory stars handmade innovations and debates on minimum VRAM capacity",
-    "summary": "An enthusiast builds a magnetic core memory amid high prices, Amazon showcases Graviton G5 bandwidth, and it is discussed whether 16 GB of VRAM will be enough for 1080p.",
+    "title": "Sony abandons physical format for PlayStation and the largest German video game archive collapses",
+    "summary": "Sony's disc factory will be converted to optical microlenses, while the preservation project of 60,000 games runs out of funding.",
     "source": [
-      "tomshardware",
-      "/r/hardware",
-      "hardzone"
+      "hardzone.es",
+      "xataka.com",
+      "kite.kagi.com",
+      "tomshardware.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Nintendo launches a Switch 2 revision in Europe with lower battery life and heavier weight",
+    "summary": "The new version will arrive this summer, while sales of the original console will stop in February 2027.",
+    "source": [
+      "xataka.com",
+      "videocardz.com",
+      "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "Linux renews itself with graphics support, new network tools, and a historic remaster",
-    "summary": "The kernel fixes USB issues, Intel adds Xe3P support, DNSGlobe enables DNS monitoring, Organic Maps offers free maps, and Hannah Montana Linux reappears with updated Debian.",
+    "title": "The Milky Way is 10% larger than previously known, NASA rescues its Swift telescope, and SpaceX burns 260 Starlink satellites",
+    "summary": "Astronomy and space exploration experience progress and environmental controversies due to satellite reentries.",
     "source": [
-      "hackernews",
-      "videocardz",
-      "tomshardware"
+      "xataka.com",
+      "news.ycombinator.com",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Bigme launches a 25.3-inch color e-ink monitor with 60 Hz refresh rate",
-    "summary": "The device offers 3200x1800 resolution, 4096 colors, and a record refresh rate for E Ink, ideal for reading and work without eye strain.",
+    "title": "China bans humanoid chatbots, Bender clarifies the term stochastic parrot, and Reddit uses AI to solve problems created by AI",
+    "summary": "The ethical and regulatory debate on artificial intelligence intensifies with control measures and new reflections.",
     "source": [
-      "tomshardware",
-      "videocardz"
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Steam strengthens its position in handheld gaming: new interviews about Steam Machine, SteamOS for handhelds, and the costly Ayaneo",
+    "summary": "The Steam ecosystem expands into handheld devices with improvements in SteamOS, ultra-expensive consoles, and historical analyses.",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "China advances its AI chips: Huawei enters South Korea, Biren seeks 892 million dollars, and Baidu launches unlimited OCR",
+    "summary": "The Chinese semiconductor industry for artificial intelligence accelerates its global expansion with products and funding.",
+    "source": [
+      "tomshardware.com",
+      "kite.kagi.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Canadian agency hacks criminals, DOJ closes case against Abbott, and Wisconsin sues Microsoft over data center noise",
+    "summary": "The judicial news includes cyberespionage operations, case closings, and lawsuits for noise pollution.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Organic Maps adds satellite images, networks spread maps of the end of the heatwave, and an interactive map of British railway",
+    "summary": "Map applications offer new functionalities and go viral amid the heatwave.",
+    "source": [
+      "alternativeto.net",
+      "xataka.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Amazon closes its Mechanical Turk platform, the origin of artificial artificial intelligence",
+    "summary": "The micro-task service, key in training AI models, stops accepting new clients and heads toward its demise.",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "The NVIDIA GeForce RTX 3060 12 GB is back in stock at Newegg for $329",
-    "summary": "The MSI Ventus 2X OC graphics card is offered with free shipping, a 12 GB VRAM option at a competitive price.",
+    "title": "AMD presents Ryzen AI Halo, a powerful AI development kit for $4,000",
+    "summary": "Reviews describe the system as the equivalent of Nvidia's DGX Spark, competing in performance for artificial intelligence.",
     "source": [
-      "tomshardware",
-      "videocardz"
+      "news.ycombinator.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "A portable RTX 4080 GPU adapted to desktop offers performance similar to the RX 9070 GRE with lower consumption",
-    "summary": "The device converts a laptop chip into a desktop graphics card that consumes only 100 W and costs 25% less.",
+    "title": "Nvidia Kyber racks for the Rubin architecture are delayed until 2028 due to board problems",
+    "summary": "Asian suppliers confirm the delay of more than a year due to failures in the intermediate circuit design.",
     "source": [
-      "videocardz",
-      "tomshardware"
+      "tomshardware.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "The US Navy tests F/A-18 fighter parts made with 3D printing",
-    "summary": "The composite components halve repair times and will be flight-tested on operational aircraft.",
+    "title": "The GeForce RTX 3060 12GB returns to Newegg at $329.99",
+    "summary": "The mid-range graphics card becomes available again after a period of stock shortages.",
     "source": [
-      "/r/hardware",
-      "tomshardware"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel prepares processors with up to 22 cores and motherboards with Panther Lake to compete with AMD",
-    "summary": "Mini-ITX boards appear with the new 22-core Core Ultra 7 and 108 MB cache, while Nova Lake with Xe3P graphics are expected.",
+    "title": "Fable 5 and Claude Code port the game Command & Conquer to iOS in just hours",
+    "summary": "An artificial intelligence experiment demonstrates its ability to adapt classic software to modern platforms almost instantly.",
     "source": [
-      "hardzone",
-      "videocardz"
+      "news.ycombinator.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Lenovo bets on Chinese SSDs in its ThinkBook and launches a ThinkPad X1 Carbon with great battery life",
-    "summary": "Faced with rising NAND memory prices, Lenovo installs YMTC drives in its laptops, while the ThinkPad X1 Carbon Gen 14 Aura Edition receives positive reviews.",
+    "title": "New tools allow scanning AI agents for dangerous capabilities, but also evading them",
+    "summary": "Researchers present both an agent scanner and an obfuscation technique that bypasses these detectors.",
     "source": [
-      "/r/hardware",
-      "tomshardware"
+      "news.ycombinator.com",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "News in handheld consoles: Ayaneo breaks price records, SteamOS improves, and tips for cloud gaming",
-    "summary": "Ayaneo's new console costs almost four RTX 5080s, SteamOS fixes bugs on MSI Claw and Legion Go, and tips are offered for low-latency cloud gaming.",
+    "title": "JADEPUFFER, the first ransomware with autonomous agent, and a critical vulnerability in Opera GX",
+    "summary": "Cyber threats evolve with malware that acts as an agent and security flaws in the browser that allow installing malicious mods.",
     "source": [
-      "hardzone",
-      "videocardz"
+      "the-decoder.com",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "Space is the stage for ambitious projects: burning satellites, nuclear batteries, and a magnetic airbag",
-    "summary": "SpaceX eliminates 260 satellites in the atmosphere, DARPA studies nuclear waste batteries for drones, and scientists propose a magnetic shield to protect Earth from solar storms.",
+    "title": "MSI validates DDR5-8000+ memory on AMD boards and a creator builds their own homemade magnetic memory",
+    "summary": "The memory world shows advances from speed records to artisanal solutions with Apollo-era technology.",
     "source": [
-      "tomshardware",
-      "xataka"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Notable financial results: Samsung Foundry returns to profit, new unicorns, and Amazon closes Mechanical Turk",
-    "summary": "Samsung's foundry posts profits for the first time in three years, 90 new unicorns are created, Amazon stops accepting new customers on Mechanical Turk, and Bending Spoons goes public.",
+    "title": "Electric drone breaks speed record with 434 mph and Tesla launches its robotaxi service in Miami",
+    "summary": "Electric transportation advances with an interceptor drone and the debut of Tesla's autonomous taxi in a US city.",
     "source": [
-      "/r/hardware",
-      "techcrunch"
+      "tomshardware.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "The world's largest video game archive closes due to lack of funds as the community debates digital ownership",
-    "summary": "The German project preserving 60,000 games is abandoned due to lack of funding, and the debate on the importance of owning physical versus digital games is reopened.",
+    "title": "Linux kernel fixes a USB bandwidth issue and the CalyxOS system updates to version 7.2.2",
+    "summary": "Open source software updates improve performance and add support for new devices.",
     "source": [
-      "tomshardware",
-      "hackernews"
+      "alternativeto.net",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Jim Keller's startup, Fab2, will build a factory to produce small semiconductor plants",
-    "summary": "Atomic Semi renames itself Fab2 and plans to revolutionize chip manufacturing with modular, low-cost factories.",
+    "title": "Acer launches Swift 16 AI laptop with OLED and a gaming PC with RTX 5090 is offered at a discount of $1,050",
+    "summary": "New in the hardware market: an AI laptop and a bargain on a high-end computer.",
     "source": [
-      "tomshardware"
+      "videocardz.com",
+      "tomshardware.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "A Delta flight is hit by a firework during landing at Midway Airport",
-    "summary": "The incident occurred on July 4 with no serious injuries, but caused damage to the aircraft and prompted an investigation.",
-    "source": [
-      "hackernews"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Fossilized excrement discovered in the Gobi Desert reveals a 4,000-year-old forest",
-    "summary": "The finding of coprolites shows that the current most arid desert in Asia was a forest, providing data on past climate changes.",
-    "source": [
-      "xataka"
-    ],
-    "count": 1
-  },
-  {
-    "title": "China invents a climate control system that cools buildings using rainwater without electricity",
-    "summary": "The technology uses water evaporation to reduce building temperatures, decreasing energy consumption and emissions.",
-    "source": [
-      "xataka"
-    ],
-    "count": 1
+    "count": 2
   }
 ]
