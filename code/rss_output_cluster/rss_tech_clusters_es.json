@@ -1,10 +1,10 @@
 [
   {
-    "title": "Microsoft realiza el mayor recorte de su historia: 5.000 despidos y reestructuración total de Xbox",
-    "summary": "La compañía despide a miles de empleados, cierra o vende estudios de Xbox y redefine su estrategia, afirmando que busca un 'reseteo' completo de la división de juegos.",
+    "title": "Microsoft reestructura Xbox con despidos masivos y la venta de cinco estudios",
+    "summary": "La compañía busca mejorar sus márgenes ante la competencia y redefine su estrategia de juegos propios.",
     "source": [
+      "hardzone.es",
       "alternativeto.net",
-      "/r/technology",
       "tomshardware.com",
       "techcrunch.com",
       "news.ycombinator.com",
@@ -14,8 +14,18 @@
     "count": 7
   },
   {
-    "title": "AMD lanza el Ryzen AI Halo, un PC de desarrollo para IA por 4.000 dólares",
-    "summary": "El nuevo equipo de desarrollo de AMD, con CPU Ryzen AI y GPU integrada de alto rendimiento, se lanza a un precio competitivo frente a las ofertas de Nvidia como el DGX Spark.",
+    "title": "El sistema de racks de IA Kyber NVL144 de Nvidia se retrasa hasta 2028",
+    "summary": "Problemas de fabricación en las placas base aplazan la próxima generación de infraestructura para IA, aunque Nvidia lo niega.",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD lanza el PC Ryzen AI Halo por $3.999 como estación de desarrollo de IA",
+    "summary": "El equipo ofrece un rendimiento similar al DGX Spark de Nvidia en un formato compacto y asequible.",
     "source": [
       "videocardz.com",
       "news.ycombinator.com",
@@ -24,57 +34,55 @@
     "count": 3
   },
   {
-    "title": "El boom de la IA genera dudas sobre su rentabilidad: deuda multimillonaria y modelos efímeros",
-    "summary": "Analistas advierten sobre una burbuja financiera, con altos costes de computación, rápida obsolescencia de modelos y preguntas fundamentales sobre la utilidad real de la producción de la IA.",
+    "title": "MSI valida memoria china CXMT a velocidades récord de DDR5-8000+ en placas AMD",
+    "summary": "Las nuevas BIOS permiten alcanzar frecuencias de 8200 MHz en memoria fabricada por CXMT, compitiendo con los principales fabricantes.",
     "source": [
-      "/r/technology",
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Carrera mundial de semiconductores: EE.UU. impulsa la producción local mientras China lanza sus propios chips de IA",
-    "summary": "Mientras Estados Unidos refuerza su cadena de suministro doméstica con inversiones de Nvidia e Intel, fabricantes chinos como Huawei y Biren lanzan alternativas competitivas y buscan financiamiento en bolsa.",
-    "source": [
-      "techcrunch.com",
+      "/r/hardware",
       "tomshardware.com",
-      "kite.kagi.com"
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Gobiernos de todo el mundo avanzan en la regulación de la inteligencia artificial",
-    "summary": "Desde leyes estatales en EE.UU. hasta normativas en China, los gobiernos buscan controlar el uso de la IA, la recopilación de datos y el acceso a plataformas mediante nuevas normativas de verificación y transparencia.",
+    "title": "Valve publica controladores Windows para Steam Machine y muestra un frontal de tinta electrónica",
+    "summary": "En una entrevista, los ingenieros explican el precio, la escasez de componentes y el soporte para Windows.",
     "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "the-decoder.com"
+      "videocardz.com",
+      "hardzone.es",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Apple se prepara para el futuro: iPhone plegable, personalización de Siri y búsqueda de componentes en China",
-    "summary": "Apple prepara el lanzamiento de su iPhone plegable, reactiva los pagos en India, personaliza Siri en la beta de iOS 27 y busca activamente suministro de RAM en el mercado chino, según diversas fuentes.",
+    "title": "Auriculares Sony funcionan como tracker de cabeza gratuito en simuladores gracias a una app open-source",
+    "summary": "La aplicación traduce los datos de los sensores en movimientos de cámara para cientos de juegos de carreras y vuelo.",
     "source": [
-      "techcrunch.com",
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Ataques de ransomware impulsados por IA aumentan en sofisticación y velocidad",
-    "summary": "Los nuevos ataques de ransomware, como JADEPUFFER, operan a velocidad de máquina utilizando agentes de IA, aunque el primer ataque completamente autónomo aún requirió intervención humana en sus inicios.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
+      "/r/hardware",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Vulnerabilidad Januscape de 16 años en KVM de Linux permite la fuga de máquinas virtuales al anfitrión",
-    "summary": "Identificado como CVE-2026-53359, el fallo afecta a sistemas Intel y AMD x86 y permite a invitados maliciosos ejecutar código en el sistema anfitrión.",
+    "title": "Nintendo Switch 2 introduce revisiones de batería mientras la Switch original se retira de Europa en 2027",
+    "summary": "La nueva consola cumple con regulaciones de la UE mientras la generación actual finaliza sus ventas por normativa.",
+    "source": [
+      "xataka.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Crean el diario de Tom Riddle combinando una tableta reMarkable con inteligencia artificial",
+    "summary": "Un proyecto artístico utiliza un modelo de IA para generar texto mágico en la pantalla de tinta electrónica.",
+    "source": [
+      "news.ycombinator.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Vulnerabilidad crítica de 16 años en KVM permite la fuga de máquinas virtuales en sistemas x86",
+    "summary": "El fallo Januscape afecta a todos los kernels Linux y permite a invitados ejecutar código en el host.",
     "source": [
       "thehackernews.com",
       "news.ycombinator.com"
@@ -82,109 +90,94 @@
     "count": 2
   },
   {
-    "title": "Nintendo confirma una revisión de Switch 2 con cambios de batería y peso para Europa",
-    "summary": "La nueva versión del Switch 2 para el mercado europeo tendrá una batería de menor duración y un peso ligeramente superior, mientras la Switch original dejará de venderse en la región.",
+    "title": "China obliga a sus plataformas de IA a eliminar chatbots con personalidades humanas",
+    "summary": "Las autoridades prohíben los asistentes virtuales afectivos para prevenir la dependencia emocional de los usuarios.",
     "source": [
       "xataka.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La memoria china CXMT alcanza velocidades históricas en placas base AMD de MSI",
-    "summary": "MSI logra validar la memoria DDR5 fabricada por CXMT alcanzando velocidades de 8200 MHz, un hito para los semiconductores chinos en el mercado de sobremesa.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Usuarios se movilizan contra la PlayStation totalmente digital con una petición de más de 112.000 firmas",
-    "summary": "La decisión de Sony de eliminar el soporte físico en su próxima consola genera un rechazo masivo en redes y una campaña multitudinaria para salvar el formato físico.",
-    "source": [
-      "/r/technology",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Demanda colectiva contra Microsoft por el ruido y la contaminación lumínica de su centro de datos de IA en Wisconsin",
-    "summary": "Los residentes presentan una demanda contra el centro de datos de 7.300 millones de dólares de Microsoft por ruido extremo, construcción constante y contaminación lumínica desmedida.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Retraso confirmado para el rack Kyber de Nvidia: el Rubin Ultra se pospone hasta 2028",
-    "summary": "Problemas con la placa PCB obligan a Nvidia a retrasar el lanzamiento de su rack de alto rendimiento, impactando a toda la cadena de suministro de infraestructura para IA.",
-    "source": [
-      "tomshardware.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Reddit utiliza inteligencia artificial para solucionar el problema de la desinformación creada por los LLMs",
-    "summary": "La plataforma recurre a modelos de lenguaje para combatir bots, malas traducciones y contenido generado por máquinas, un problema que los propios LLMs ayudaron a agravar.",
+    "title": "El primer ransomware autónomo JADEPUFFER demuestra la evolución de las amenazas automatizadas",
+    "summary": "Aunque el ataque fue completamente dirigido por IA, aún requirió un punto de entrada manual.",
     "source": [
-      "/r/technology",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Samsung registra beneficios récord en su división de semiconductores y su fundición vuelve a ganancias",
+    "summary": "El boom de la IA impulsa las ganancias de la firma surcoreana, superando a Nvidia en rentabilidad.",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La ventaja competitiva de los modelos de IA se desploma: apenas permanecen semanas en la cima",
+    "summary": "La rápida evolución y la competencia reducen drásticamente los márgenes y la duración del liderazgo técnico.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft puede rastrear usuarios mediante un identificador único de dispositivo en Windows",
+    "summary": "El GDID permite a la compañía monitorizar la actividad incluso después de restablecer el sistema operativo.",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Amazon cierra Mechanical Turk, el servicio original de inteligencia artificial humana",
+    "summary": "La plataforma que subcontrataba tareas simples a trabajadores humanos finaliza sus operaciones tras años de declive.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Un dron eléctrico alemán bate el récord mundial de velocidad con 434 mph (698 km/h)",
+    "summary": "Diseñado como interceptor antiaéreo, el dron supera ampliamente el récord oficial y busca certificación Guinness.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Huawei entra en el mercado surcoreano de chips de IA con los superclústeres Atlas Ascend 950",
+    "summary": "Los nuevos sistemas ofrecen tres veces el rendimiento de inferencia de la GPU H20 a una cuarta parte del costo.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Vecinos de Wisconsin demandan a Microsoft por la contaminación acústica y lumínica de su centro de datos de IA",
+    "summary": "La demanda colectiva alega que la instalación de $7.300 millones genera ruido, vibraciones y luz excesiva.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Reddit utiliza modelos de lenguaje para combatir la desinformación generada por la IA",
+    "summary": "La plataforma emplea herramientas de inteligencia artificial para detectar contenido engañoso creado por la misma tecnología.",
+    "source": [
       "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "China prohíbe a la IA simular personalidades humanas, incluidos amigos virtuales y parejas sentimentales",
-    "summary": "El gobierno chino obliga a las plataformas de inteligencia artificial a eliminar sus funciones de chat con personalidades humanas para evitar la dependencia emocional y los riesgos de seguridad.",
+    "title": "Netflix se aleja del modelo de maratón de series y apuesta por lanzamientos semanales",
+    "summary": "La plataforma reconsidera su estrategia de contenido ante el cambio en los hábitos de consumo.",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Fanático de Harry Potter convierte una tableta reMarkable en el diario de Tom Riddle usando inteligencia artificial",
-    "summary": "Un proyecto creativo combina la pantalla de tinta electrónica con un modelo de lenguaje para recrear la libreta mágica y maldita de la saga de ficción.",
-    "source": [
-      "news.ycombinator.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La Vía Láctea es más grande, la ciencia ciudadana observará el eclipse de agosto y SpaceX desorbita satélites Starlink",
-    "summary": "Nuevos datos revelan que la Vía Láctea es un 10% más grande de lo estimado, se prepara la observación del eclipse del 12 de agosto y SpaceX desorbita 260 satélites Starlink en seis meses.",
-    "source": [
-      "xataka.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "España reconfigura su economía: fin de la burbuja turística, gigafactoría de baterías y nueva ruta comercial con Turquía",
-    "summary": "El mercado de pisos turísticos en España sufre una caída histórica, Gotion elige Valladolid para su gigafactoría y la guerra redirige el comercio europeo hacia Turquía como supermercado logístico.",
-    "source": [
-      "xataka.com",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Innovación en movilidad: tren de hidrógeno en vías estrechas y dron eléctrico con récord mundial de velocidad",
-    "summary": "Suiza e Italia resuelven el reto de integrar trenes de hidrógeno en vías estrechas, mientras un dron eléctrico alemán de intercepción aérea bate el récord mundial de velocidad a 434 mph.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Creciente rechazo en EE.UU. al uso masivo de cámaras de matrícula por parte de la policía",
-    "summary": "Varios incidentes, incluyendo el acoso a una mujer mediante un lector de matrículas por parte de un agente y la instalación de 40 cámaras en zonas rurales de Florida, alimentan el debate nacional.",
-    "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   }

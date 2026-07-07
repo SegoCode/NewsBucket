@@ -1,10 +1,10 @@
 [
   {
-    "title": "Microsoft史上最大の人員削減：5,000人のレイオフとXboxの全面的な再編",
-    "summary": "同社は数千人の従業員を解雇し、Xboxスタジオを閉鎖・売却し、戦略を再定義。ゲーム部門の完全な『リセット』を目指すと表明している。",
+    "title": "マイクロソフト、Xboxを再編し大規模解雇と5つのスタジオ売却",
+    "summary": "同社は競争に対応するため利益率の向上を目指し、自社ゲーム戦略を再定義する。",
     "source": [
+      "hardzone.es",
       "alternativeto.net",
-      "/r/technology",
       "tomshardware.com",
       "techcrunch.com",
       "news.ycombinator.com",
@@ -14,8 +14,18 @@
     "count": 7
   },
   {
-    "title": "AMDがRyzen AI Haloを発表、4,000ドルのAI開発用PC",
-    "summary": "AMDの新しい開発用PCは、Ryzen AI CPUと高性能統合GPUを搭載し、NvidiaのDGX Sparkなどの製品と競合する価格で発売される。",
+    "title": "NvidiaのAIラックシステムKyber NVL144、2028年まで延期",
+    "summary": "マザーボードの製造問題により次世代AIインフラが延期されるが、Nvidiaは否定。",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD、AI開発ワークステーションとしてRyzen AI Halo PCを3,999ドルで発売",
+    "summary": "このマシンはコンパクトで手頃な価格ながら、NvidiaのDGX Sparkに匹敵する性能を提供。",
     "source": [
       "videocardz.com",
       "news.ycombinator.com",
@@ -24,57 +34,55 @@
     "count": 3
   },
   {
-    "title": "AIブームが収益性に疑問を投げかける：巨額の負債と儚いモデル",
-    "summary": "アナリストは、高い計算コスト、モデルの急速な陳腐化、AI生成物の実際の有用性に関する根本的な疑問など、金融バブルについて警告している。",
+    "title": "MSI、AMDマザーボードで中国CXMTメモリのDDR5-8000+記録速度を検証",
+    "summary": "新しいBIOSによりCXMT製メモリで8200MHzの周波数を達成、主要メーカーと競合。",
     "source": [
-      "/r/technology",
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "世界半導体競争：米国が国内生産を推進、中国は自国AIチップを投入",
-    "summary": "米国がNvidiaやIntelの投資で国内サプライチェーンを強化する一方、HuaweiやBirenなど中国メーカーは競争力のある代替品を発表し、株式公開による資金調達を目指している。",
-    "source": [
-      "techcrunch.com",
+      "/r/hardware",
       "tomshardware.com",
-      "kite.kagi.com"
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "世界各国政府、人工知能規制を推進",
-    "summary": "米国の州法から中国の規制まで、各国政府は新たな検証・透明性ルールにより、AIの利用、データ収集、プラットフォームへのアクセスを管理しようとしている。",
+    "title": "Valve、Steam Machine向けWindowsドライバを公開、電子インクフロントパネルを披露",
+    "summary": "インタビューでエンジニアが価格、部品不足、Windowsサポートについて説明。",
     "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "the-decoder.com"
+      "videocardz.com",
+      "hardzone.es",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Appleが未来に備える：折りたたみiPhone、Siriのカスタマイズ、中国での部品調達",
-    "summary": "Appleは折りたたみiPhoneの発売を準備し、インドでの決済を再開、iOS 27ベータでSiriをパーソナライズし、中国市場でRAMの供給を積極的に追求していると、複数の情報筋が伝えている。",
+    "title": "Sonyヘッドホンがオープンソースアプリでシミュレーター向け無料ヘッドトラッカーに",
+    "summary": "このアプリはセンサーデータをカメラ移動に変換し、数百のレース＆フライトゲームで使用可能。",
     "source": [
-      "techcrunch.com",
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AIを利用したランサムウェア攻撃、巧妙化・高速化",
-    "summary": "JADEPUFFERのような新しいランサムウェア攻撃は、AIエージェントを利用して機械の速度で動作するが、完全に自律的な最初の攻撃は、初期段階ではまだ人間の介入を必要とした。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
+      "/r/hardware",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Linux KVMの16年ぶりのJanuscape脆弱性、仮想マシンからホストへのエスケープを可能に",
-    "summary": "CVE-2026-53359として特定されたこの欠陥は、IntelおよびAMD x86システムに影響し、悪意のあるゲストがホストシステム上でコードを実行することを可能にする。",
+    "title": "Nintendo Switch 2、バッテリー規制対応へ、初代Switchは2027年に欧州販売終了",
+    "summary": "新型はEU規制に準拠する一方、現行世代は規制により販売終了。",
+    "source": [
+      "xataka.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "reMarkableタブレットとAIを組み合わせてトム・リドルの日記を作成",
+    "summary": "アートプロジェクトがAIモデルを使用して電子インク画面に魔法のテキストを生成。",
+    "source": [
+      "news.ycombinator.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "KVMの16年にわたる重大な脆弱性、x86システムでVM脱出を可能にする",
+    "summary": "Januscapeバグは全Linuxカーネルに影響し、ゲストがホスト上でコードを実行可能。",
     "source": [
       "thehackernews.com",
       "news.ycombinator.com"
@@ -82,109 +90,94 @@
     "count": 2
   },
   {
-    "title": "Nintendo、欧州向けSwitch 2のバッテリーと重量変更を確認",
-    "summary": "欧州市場向けの新しいSwitch 2は、バッテリー持続時間が短くなり、重量がわずかに増加する。一方、オリジナルのSwitchは同地域での販売を終了する。",
+    "title": "中国、AIプラットフォームに人間らしい性格を持つチャットボットの削除を義務付け",
+    "summary": "当局はユーザーの感情依存を防ぐため、感情的なバーチャルアシスタントを禁止。",
     "source": [
       "xataka.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国CXMTメモリ、MSIのAMDマザーボードで歴史的な速度を達成",
-    "summary": "MSIはCXMT製DDR5メモリを検証し、8200MHzの速度を達成。これはデスクトップ市場における中国半導体のマイルストーンとなる。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ユーザーが完全デジタル版PlayStationに反対、11万2000筆以上の署名が集まる",
-    "summary": "ソニーが次期コンソールから物理メディア対応を廃止する決定に対し、ネット上で大きな反発が起こり、物理フォーマットを守るための大規模なキャンペーンが展開されている。",
-    "source": [
-      "/r/technology",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、ウィスコンシン州のAIデータセンターの騒音と光害で集団訴訟",
-    "summary": "住民らは、マイクロソフトの73億ドルのデータセンターに対し、極度の騒音、絶え間ない工事、過剰な光害を理由に訴訟を提起した。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NvidiaのKyberラックの遅延確定：Rubin Ultraは2028年まで延期",
-    "summary": "PCB基板の問題により、Nvidiaは高性能ラックの発売を延期、AIインフラのサプライチェーン全体に影響を及ぼしている。",
-    "source": [
-      "tomshardware.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Reddit、LLMが生み出す誤情報問題をAIで解決へ",
-    "summary": "同プラットフォームは、ボット、誤った翻訳、機械生成コンテンツに対抗するために言語モデルを活用。この問題はLLM自体が悪化させたものでもある。",
+    "title": "初の自律型ランサムウェアJADEPUFFERが自動化された脅威の進化を示す",
+    "summary": "攻撃は完全にAI主導であったが、手動による侵入ポイントが必要だった。",
     "source": [
-      "/r/technology",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "サムスン半導体部門が過去最高益、ファウンドリも黒字転換",
+    "summary": "AIブームが韓国企業の利益を押し上げ、Nvidiaを上回る収益性。",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AIモデルの競争優位性が崩壊、トップの座はわずか数週間",
+    "summary": "急速な進化と競争により、マージンと技術的リーダーシップの期間が劇的に短縮。",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、Windowsのデバイス固有IDでユーザー追跡が可能に",
+    "summary": "GDIDにより、OSをリセットした後でも同社がアクティビティを監視できる。",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Amazon、人間によるAIサービスの元祖Mechanical Turkを終了",
+    "summary": "単純作業を人間に外注していたプラットフォームが、衰退の末に運用停止。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ドイツの電気ドローンが時速698kmで世界速度記録を更新",
+    "summary": "対空迎撃機として設計されたドローンは公式記録を大幅に上回り、ギネス認定を目指す。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Huawei、Atlas Ascend 950スーパークラスターで韓国AIチップ市場に参入",
+    "summary": "新システムはH20 GPUの3倍の推論性能を4分の1のコストで提供。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ウィスコンシン州の住民、MicrosoftのAIデータセンターの騒音・光害で集団訴訟",
+    "summary": "集団訴訟は、73億ドルの施設が騒音、振動、過剰な光を発生させていると主張。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Reddit、AI生成の誤情報対策に言語モデルを活用",
+    "summary": "同プラットフォームはAIツールを使用し、同じ技術で作られた欺瞞的なコンテンツを検出。",
+    "source": [
       "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "中国、AIが人間の性格を模倣することを禁止、仮想の友人や恋愛相手も対象",
-    "summary": "中国政府は、感情的な依存やセキュリティリスクを防ぐため、AIプラットフォームに人間の性格を持つチャット機能を削除するよう義務付けた。",
+    "title": "Netflix、一気見モデルから週刊リリースへ方針転換",
+    "summary": "消費習慣の変化を受け、同プラットフォームはコンテンツ戦略を見直し。",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ハリーポッターファン、AIを使ってreMarkableタブレットをトム・リドルの日記に変身",
-    "summary": "電子インク画面と言語モデルを組み合わせた独創的なプロジェクトが、フィクションシリーズの呪われた魔法のノートを再現する。",
-    "source": [
-      "news.ycombinator.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "天の川銀河はより大きい、市民科学者が8月の日食を観測、SpaceXがスターリンク衛星を廃棄",
-    "summary": "新たなデータにより、天の川銀河は推定より10%大きいことが判明。8月12日の日食観測が準備され、SpaceXは6ヶ月で260基のスターリンク衛星を廃棄している。",
-    "source": [
-      "xataka.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "スペインが経済を再構築：観光バブルの終焉、バッテリーギガファクトリー、トルコとの新たな貿易ルート",
-    "summary": "スペインの観光用住宅市場は歴史的な落ち込みを見せ、Gotionはバリャドリッドをギガファクトリーの候地に選び、戦争により欧州の貿易は物流スーパーマーケットとしてのトルコに向かっている。",
-    "source": [
-      "xataka.com",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "モビリティの革新：狭軌水素列車と電気ドローンが世界速度記録を更新",
-    "summary": "スイスとイタリアが狭軌線路への水素列車統合の課題を解決する一方、ドイツの電気迎撃ドローンが時速434マイルで世界速度記録を更新した。",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "米国で警察によるナンバープレートカメラの大量使用への反発が高まる",
-    "summary": "警察官によるナンバープレートリーダーを使った女性への嫌がらせや、フロリダ州の農村部への40台のカメラ設置など、複数の事件が全国的な議論を煽っている。",
-    "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   }
