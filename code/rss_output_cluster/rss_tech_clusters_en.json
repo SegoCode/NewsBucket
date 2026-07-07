@@ -1,31 +1,38 @@
 [
   {
-    "title": "Microsoft cuts thousands of jobs in Xbox and restructures its development studios",
-    "summary": "The company reduces its workforce by up to 4,800 positions and sells several studios in an attempt to improve margins in its video game business.",
+    "title": "Microsoft restructures its Xbox division with mass layoffs and studio closures",
+    "summary": "The company cuts 3,200 jobs, sells studios, and acknowledges the failure of its subscription strategy, while evaluating changes in hardware.",
     "source": [
-      "hardzone.es",
-      "alternativeto.net",
-      "/r/technology",
-      "tomshardware.com",
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "AMD launches its Ryzen AI Halo development PC for $3,999",
-    "summary": "The system, limited to one retailer in the US, competes with Nvidia solutions and is aimed at AI developers.",
-    "source": [
-      "videocardz.com",
       "news.ycombinator.com",
-      "kite.kagi.com",
-      "tomshardware.com"
+      "hardzone.es",
+      "/r/technology",
+      "alternativeto.net"
     ],
     "count": 4
   },
   {
-    "title": "Samsung's chip division annual profits surpass the last 40 years combined",
-    "summary": "The South Korean manufacturer becomes the most profitable company in the world thanks to the AI memory boom.",
+    "title": "Anthropic launches its Claude Cowork agent on mobile devices and web",
+    "summary": "The AI assistant is now available on smartphones and browsers to perform tasks autonomously.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Sony eliminates physical games on PlayStation triggering a wave of criticism",
+    "summary": "The decision to stop producing physical media for new titles triggers a petition with nearly 200,000 signatures and thousands of complaints on social media.",
+    "source": [
+      "/r/technology",
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Samsung breaks profit records in its chip division and becomes the most profitable company in the world",
+    "summary": "Samsung's semiconductor division records profits exceeding those of the last 40 years combined, driven by memory demand.",
     "source": [
       "xataka.com",
       "/r/technology",
@@ -34,46 +41,35 @@
     "count": 3
   },
   {
-    "title": "Anthropic reveals that Claude has developed a hidden workspace",
-    "summary": "The discovery of an internal 'J-space' reignites the debate on consciousness and transparency in advanced language models.",
+    "title": "Valve fixes the red line issue on Steam Machine by simply clearing the CMOS",
+    "summary": "The dreaded red line of death on Steam Machines was not a GPU failure and has a simple official remedy: clearing the CMOS memory.",
     "source": [
-      "xataka.com",
-      "/r/technology",
-      "kite.kagi.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "US, UK, and Scotland adopt opposing measures on data center regulation",
-    "summary": "While the US relaxes pollution limits, the UK speeds up permits, and Scotland freezes projects amid the energy crisis.",
+    "title": "Intel Nova Lake processors will regain AVX-512 compatibility",
+    "summary": "The upcoming Intel desktop chips will again include AVX-512 instructions in their performance and efficiency cores according to Linux patches.",
     "source": [
-      "xataka.com",
       "tomshardware.com",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "The AI boom could generate a $7 trillion debt bubble, analysts warn",
-    "summary": "AI profits outside the tech sector would take longer than Wall Street expects.",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "PlayStation faces criticism for its all-digital push while Xbox considers including a disc drive",
-    "summary": "Sony's decision sparks a heated debate on social media, while Microsoft considers adding the optical drive in its next console.",
+    "title": "UK grants national importance status to data centers to accelerate their construction",
+    "summary": "The British government allows data center projects to bypass local regulations and reduce timelines, saving billions in disputes.",
     "source": [
       "/r/technology",
-      "hardzone.es"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Hidden backdoor discovered in cheap Tenda routers",
-    "summary": "CERT/CC warns about a vulnerability that allows unauthorized remote access to the devices.",
+    "title": "Critical backdoor discovered in cheap Tenda routers",
+    "summary": "The CERT/CC agency warns that Tenda routers contain a hidden administrator account that allows unauthorized remote access.",
     "source": [
       "bandaancha.eu",
       "thehackernews.com"
@@ -81,26 +77,8 @@
     "count": 2
   },
   {
-    "title": "Sony headphones can be used as free head trackers for PC simulators",
-    "summary": "An open-source app converts the headphone sensors into real-time camera controls for hundreds of games.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steam Machine's 'red line of death' has an official cure: clear the CMOS",
-    "summary": "The fault, previously thought to be a GPU problem, is easily resolved by erasing the system configuration memory.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Elon Musk's xAI merges with SpaceX and is renamed to SpaceXAI",
-    "summary": "The unification of both companies seeks to simplify the corporate structure in the face of investor interest.",
+    "title": "Elon Musk's xAI merges with SpaceX and renames to SpaceXAI",
+    "summary": "Musk's two companies join into a single entity called SpaceXAI, in a move that seeks to simplify corporate structure and attract Wall Street.",
     "source": [
       "xataka.com",
       "kite.kagi.com"
@@ -108,75 +86,93 @@
     "count": 2
   },
   {
-    "title": "They manage to run Linux on the legendary 64-bit Atari Jaguar console",
-    "summary": "The retro community succeeds in porting the operating system to a platform considered difficult to program and that failed commercially.",
+    "title": "DeepSeek expands beyond AI models and develops its own chip to compete with NVIDIA",
+    "summary": "The Chinese artificial intelligence company announces plans to design its own chips and stop relying on external suppliers.",
     "source": [
-      "tomshardware.com",
-      "news.ycombinator.com"
+      "xataka.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Windows device identifier allowed the FBI to track a hacker from the Scattered Spider group",
-    "summary": "Microsoft can track users via the Device ID, a method used by authorities in a judicial investigation.",
+    "title": "Microsoft 365 Copilot reduces costs and faces low adoption among users",
+    "summary": "Microsoft removes OpenAI and Anthropic models to lower the cost, while the weekly usage rate of the assistant does not reach 1%.",
     "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
+      "the-decoder.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Nintendo discontinues the original Switch in Europe and aims for a Switch 2 with a removable battery",
-    "summary": "The company ceases sales of the current console while rumors indicate the launch of an improved version for autumn.",
+    "title": "X launches a video editor for iOS with subtitles and green screen",
+    "summary": "The social network introduces editing tools to encourage original content creation and reduce stolen posts.",
     "source": [
-      "kite.kagi.com",
-      "hardzone.es"
+      "techcrunch.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "A Meta data center contaminates a town's water with lethal bacteria",
-    "summary": "The AI facility causes a health crisis by leaking dangerous microorganisms into the local supply.",
+    "title": "Anthropic discovers a hidden workspace in Claude and makes its internal monologue readable",
+    "summary": "Through the new Jacobian Lens, researchers can read Claude's internal reasoning and reveal that the model develops a hidden J-space.",
+    "source": [
+      "the-decoder.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Longsys, Lexar parent company, surges profits 60,000% due to memory demand",
+    "summary": "The Chinese memory and storage chip manufacturer expects profits of nearly 1.5 billion dollars in the first half, while preparing new DDR5 RGB modules.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "US Supreme Court requires warrant to access mobile location data",
+    "summary": "The court rules that police need a warrant to collect geolocation data from phones, reinforcing digital privacy.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "US Supreme Court requires warrant to access phone location data",
-    "summary": "The ruling strengthens digital privacy by requiring prior authorization to track users' location.",
+    "title": "FBI and Google dismantle a botnet that infected 2 million Smart TVs",
+    "summary": "The joint operation eliminated a network of hijacked devices used for large-scale cyber attacks.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Illinois enacts one of the strictest artificial intelligence laws in the country",
-    "summary": "Governor Pritzker signs bill 315, which imposes comprehensive regulations on AI development and use.",
+    "title": "Meta data center contaminates city water supply with lethal bacteria",
+    "summary": "Authorities investigate the leakage of dangerous bacteria from Meta's artificial intelligence facilities into the municipal water network.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Netflix, pioneer of 'binge-watching', may be moving beyond the series marathon model",
-    "summary": "The streaming platform explores new content strategies amid changing viewer habits.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft 365 Copilot adoption remains below 4.5% three years after launch",
-    "summary": "Only 1% of users use it weekly, while the company increases service prices.",
+    "title": "FCC eliminates rule requiring ISPs to list all their fees",
+    "summary": "The decision revokes a Biden-era policy intended to make internet costs transparent for consumers.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "FCC eliminates rule that required internet providers to list all their fees",
-    "summary": "The measure revokes a Biden-era regulation that aimed to bring transparency to costs for consumers.",
+    "title": "Half-Life 2 now playable in the browser at over 100 FPS",
+    "summary": "An ingenious port recreates the entire game campaign using WebGL 2, with support for saved games and console.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Pentagon launches 'War Force' campaign to attract software engineers",
+    "summary": "The US Department of Defense seeks to recruit tech talent through an initiative that promises to work on advanced defense projects.",
     "source": [
       "/r/technology"
     ],

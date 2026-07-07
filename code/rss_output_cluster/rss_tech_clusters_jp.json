@@ -1,31 +1,38 @@
 [
   {
-    "title": "Microsoft、Xboxで数千人規模の人員削減と開発スタジオの再編を実施",
-    "summary": "同社は最大4,800人を削減し、複数のスタジオを売却することで、ゲーム事業の利益率改善を図る。",
+    "title": "マイクロソフト、Xbox部門を再編、大規模レイオフとスタジオ閉鎖",
+    "summary": "同社は3,200人の人員削減、スタジオ売却、サブスクリプション戦略の失敗を認め、ハードウェアの変更を検討中。",
     "source": [
-      "hardzone.es",
-      "alternativeto.net",
-      "/r/technology",
-      "tomshardware.com",
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "AMD、Ryzen AI Halo開発用PCを3,999ドルで発売",
-    "summary": "この製品は米国1社の小売店限定で販売され、Nvidiaのソリューションと競合し、AI開発者向けである。",
-    "source": [
-      "videocardz.com",
       "news.ycombinator.com",
-      "kite.kagi.com",
-      "tomshardware.com"
+      "hardzone.es",
+      "/r/technology",
+      "alternativeto.net"
     ],
     "count": 4
   },
   {
-    "title": "Samsung半導体部門の年間利益、過去40年分の合計を上回る",
-    "summary": "韓国メーカーはAI向けメモリの好況により、世界で最も収益性の高い企業となった。",
+    "title": "Anthropic、モバイルとウェブでClaude Coworkエージェントを公開",
+    "summary": "AIアシスタントがスマートフォンとブラウザで利用可能になり、自律的にタスクを実行。",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ソニー、PlayStationで物理ゲームを廃止し批判の波",
+    "summary": "新作タイトルの物理メディア生産中止の決定により、約20万筆の署名と数千の苦情がSNSに寄せられる。",
+    "source": [
+      "/r/technology",
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "サムスン、半導体部門で過去最高益を記録し世界で最も収益性の高い企業に",
+    "summary": "サムスンの半導体部門はメモリ需要に牽引され、過去40年間の合計を超える利益を達成。",
     "source": [
       "xataka.com",
       "/r/technology",
@@ -34,46 +41,35 @@
     "count": 3
   },
   {
-    "title": "Anthropic、Claudeが隠しワークスペースを開発していたことを明かす",
-    "summary": "内部の「Jスペース」の発見は、高度な言語モデルにおける意識と透明性に関する議論を再燃させた。",
+    "title": "Valve、Steam Machineの赤線問題をCMOSクリアだけで解決",
+    "summary": "Steam Machineの恐れられた赤い線はGPUの故障ではなく、公式の簡単な対処法はCMOSメモリのクリア。",
     "source": [
-      "xataka.com",
-      "/r/technology",
-      "kite.kagi.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "米国、英国、スコットランド、データセンター規制で相反する措置を採用",
-    "summary": "米国が汚染規制を緩和する一方、英国は許可を迅速化し、スコットランドはエネルギー危機でプロジェクトを凍結する。",
+    "title": "Intel Nova LakeプロセッサがAVX-512互換性を復活",
+    "summary": "Intelの次期デスクトップ向けチップは、Linuxパッチによると、パフォーマンスコアと効率コアにAVX-512命令を再び搭載。",
     "source": [
-      "xataka.com",
       "tomshardware.com",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AIブームは7兆ドルの債務バブルを生む可能性があるとアナリストが警告",
-    "summary": "テクノロジー分野以外での人工知能の利益は、ウォール街が期待するよりも時間がかかるだろう。",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "PlayStation、デジタル専用戦略に批判、Xboxはディスクドライブ搭載を検討",
-    "summary": "Sonyの決定はソーシャルメディアで激しい議論を巻き起こし、一方Microsoftは次世代機への光学ドライブ搭載を検討している。",
+    "title": "英国、データセンターに国家的重要性の地位を付与し建設を促進",
+    "summary": "英国政府はデータセンタープロジェクトに地域規制の回避と期間短縮を認め、紛争で数十億を節約。",
     "source": [
       "/r/technology",
-      "hardzone.es"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "格安Tendaルーターに隠しバックドアを発見",
-    "summary": "CERT/CCは、デバイスへの不正なリモートアクセスを可能にする脆弱性について警告している。",
+    "title": "Tendaの安価なルーターに重大なバックドアを発見",
+    "summary": "CERT/CCは、Tendaルーターに隠された管理者アカウントが存在し、不正なリモートアクセスを可能にすると警告。",
     "source": [
       "bandaancha.eu",
       "thehackernews.com"
@@ -81,26 +77,8 @@
     "count": 2
   },
   {
-    "title": "Sonyヘッドホン、PCシミュレーター向け無料ヘッドトラッカーとして使用可能に",
-    "summary": "オープンソースアプリがヘッドホンのセンサーを数百のゲーム向けリアルタイムカメラコントロールに変換する。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steam Machineの「死亡赤線」に公式の解決策：CMOSクリア",
-    "summary": "GPUの問題と思われていた不具合が、システム構成メモリを消去することで簡単に解決できる。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Elon MuskのxAIがSpaceXと合併、SpaceXAIに改称",
-    "summary": "両社の統合は、投資家の関心を受けて企業構造を簡素化することを目的としている。",
+    "title": "イーロン・マスクのxAIがSpaceXと合併しSpaceXAIに改名",
+    "summary": "マスクの2社がSpaceXAIという単一の事業体に統合。企業構造を簡素化しウォール街を魅了する動き。",
     "source": [
       "xataka.com",
       "kite.kagi.com"
@@ -108,75 +86,93 @@
     "count": 2
   },
   {
-    "title": "伝説の64ビット機Atari JaguarでLinuxの実行に成功",
-    "summary": "レトロコミュニティが、プログラミングが難しいとされ商業的に失敗したプラットフォームへのOS移植に成功した。",
+    "title": "DeepSeek、AIモデルを超えて独自チップを開発、NVIDIAと競合へ",
+    "summary": "中国のAI企業が自社チップ設計の計画を発表し、外部サプライヤーへの依存から脱却。",
     "source": [
-      "tomshardware.com",
-      "news.ycombinator.com"
+      "xataka.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Windowsのデバイス識別子によりFBIがScattered Spiderグループのハッカーを追跡",
-    "summary": "MicrosoftはデバイスIDを通じてユーザーを追跡可能で、当局が司法捜査で使用した手法である。",
+    "title": "Microsoft 365 Copilot、コスト削減もユーザー導入率は低迷",
+    "summary": "MicrosoftはOpenAIとAnthropicのモデルを排除してサービスを安くする一方、アシスタントの週間使用率は1%未満。",
     "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nintendo、欧州で初代Switchの販売を終了、バッテリー脱着可能なSwitch 2を視野に",
-    "summary": "同社は現行機の販売を終了する一方、噂では改良版が今秋発売されるとされている。",
-    "source": [
-      "kite.kagi.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Metaのデータセンター、致死性細菌で村の水を汚染",
-    "summary": "AI施設が危険な微生物を地域の水道に流出させ、健康危機を引き起こす。",
-    "source": [
+      "the-decoder.com",
       "/r/technology"
     ],
-    "count": 1
+    "count": 2
+  },
+  {
+    "title": "X、iOS向けに字幕とグリーンスクリーン対応のビデオエディタを公開",
+    "summary": "ソーシャルネットワークがオリジナルコンテンツ作成を促進し、盗用投稿を減らすための編集ツールを導入。",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、Claudeの隠されたワークスペースを発見し内部の独り言を可読に",
+    "summary": "新しいヤコビアンレンズにより、研究者はClaudeの内部推論を読み取ることができ、モデルが隠されたJ空間を発展させていることが明らかに。",
+    "source": [
+      "the-decoder.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lexarの親会社Longsys、メモリ需要で利益が60,000%増加",
+    "summary": "中国のメモリ・ストレージチップメーカーは上半期に約15億ドルの利益を見込み、新たなDDR5 RGBモジュールを準備中。",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
   },
   {
     "title": "米最高裁、携帯電話の位置情報データへのアクセスに令状を要求",
-    "summary": "この判決は、ユーザーの位置情報追跡に事前承認を必要とすることでデジタルプライバシーを強化する。",
+    "summary": "裁判所は、警察が電話の位置情報データを収集するには令状が必要であるとの判断を下し、デジタルプライバシーを強化。",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "イリノイ州、国内で最も厳格な人工知能法の一つを制定",
-    "summary": "プリツカー知事が法案315号に署名し、AIの開発と使用に包括的な規制を課す。",
+    "title": "FBIとGoogle、200万台のスマートTVに感染したボットネットを解体",
+    "summary": "共同作戦により、大規模なサイバー攻撃に使用されていた乗っ取られたデバイスのネットワークが排除された。",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "「一気見」の先駆者Netflix、シリーズ一気観モデルを超える可能性",
-    "summary": "ストリーミングプラットフォームは、視聴者の習慣の変化に対応して新たなコンテンツ戦略を模索している。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft 365 Copilotの導入率、発売から3年経っても4.5%未満",
-    "summary": "週次利用率はわずか1%で、同社はサービス価格を値上げしている。",
+    "title": "Metaのデータセンター、致死性細菌で都市の水道を汚染",
+    "summary": "当局はMetaのAI施設から市営水道網への危険な細菌の漏洩を調査中。",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "FCC、インターネットプロバイダーに全料金表示を義務付けた規則を撤廃",
-    "summary": "この措置は、消費者に費用の透明性をもたらすことを目的としたバイデン政権時代の規制を撤回するものである。",
+    "title": "FCC、ISPに全料金の表示を義務付ける規則を撤廃",
+    "summary": "この決定は、インターネット費用を消費者に透明化しようとしたバイデン時代の政策を撤回するもの。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Half-Life 2がブラウザで100FPS以上でプレイ可能に",
+    "summary": "巧妙な移植により、WebGL 2を使用してゲームの全キャンペーンが再現され、セーブデータとコンソールをサポート。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "米国防総省、ソフトウェアエンジニアを惹きつける「War Force」キャンペーンを開始",
+    "summary": "米国防総省は、高度な防衛プロジェクトでの作業を約束するイニシアチブを通じて、技術人材の採用を目指す。",
     "source": [
       "/r/technology"
     ],

@@ -1,31 +1,38 @@
 [
   {
-    "title": "Microsoft recorta miles de empleos en Xbox y reestructura sus estudios de desarrollo",
-    "summary": "La compañía reduce su fuerza laboral en hasta 4.800 puestos y vende varios estudios en un intento por mejorar los márgenes de su negocio de videojuegos.",
+    "title": "Microsoft reestructura su división Xbox con despidos masivos y cierre de estudios",
+    "summary": "La compañía recorta 3.200 puestos de trabajo, vende estudios y reconoce el fracaso de su estrategia de suscripciones, mientras evalúa cambios en el hardware.",
     "source": [
-      "hardzone.es",
-      "alternativeto.net",
-      "/r/technology",
-      "tomshardware.com",
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "AMD lanza su PC de desarrollo Ryzen AI Halo por 3.999 dólares",
-    "summary": "El equipo, limitado a un minorista en EE.UU., compite con soluciones de Nvidia y está destinado a desarrolladores de IA.",
-    "source": [
-      "videocardz.com",
       "news.ycombinator.com",
-      "kite.kagi.com",
-      "tomshardware.com"
+      "hardzone.es",
+      "/r/technology",
+      "alternativeto.net"
     ],
     "count": 4
   },
   {
-    "title": "Las ganancias anuales de la división de chips de Samsung superan las de los últimos 40 años combinadas",
-    "summary": "El fabricante surcoreano se convierte en la empresa más rentable del mundo gracias al auge de la memoria para IA.",
+    "title": "Anthropic lanza su agente Claude Cowork en dispositivos móviles y web",
+    "summary": "El asistente de IA ya está disponible en smartphones y navegadores para realizar tareas de forma autónoma.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Sony elimina los juegos físicos en PlayStation y desata una ola de críticas",
+    "summary": "La decisión de dejar de producir medios físicos para nuevos títulos provoca una petición con casi 200.000 firmas y miles de quejas en redes sociales.",
+    "source": [
+      "/r/technology",
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Samsung bate récords de beneficios en su división de chips y se convierte en la empresa más rentable del mundo",
+    "summary": "La división de semiconductores de Samsung registra ganancias que superan las de los últimos 40 años juntos, impulsadas por la demanda de memoria.",
     "source": [
       "xataka.com",
       "/r/technology",
@@ -34,46 +41,35 @@
     "count": 3
   },
   {
-    "title": "Anthropic revela que Claude ha desarrollado un espacio de trabajo oculto",
-    "summary": "El hallazgo de un 'espacio J' interno reaviva el debate sobre la consciencia y la transparencia en modelos de lenguaje avanzados.",
+    "title": "Valve soluciona el problema de la línea roja en Steam Machine con solo borrar la CMOS",
+    "summary": "La temida línea roja de muerte en las Steam Machines no era un fallo de GPU y tiene un sencillo remedio oficial: limpiar la memoria CMOS.",
     "source": [
-      "xataka.com",
-      "/r/technology",
-      "kite.kagi.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "EE.UU., Reino Unido y Escocia adoptan medidas opuestas sobre regulación de centros de datos",
-    "summary": "Mientras EE.UU. flexibiliza límites de contaminación, Reino Unido acelera permisos y Escocia congela proyectos ante la crisis energética.",
+    "title": "Los procesadores Intel Nova Lake recuperarán la compatibilidad con AVX-512",
+    "summary": "Los próximos chips de Intel para sobremesa incluirán de nuevo las instrucciones AVX-512 en sus núcleos de rendimiento y eficiencia según los parches de Linux.",
     "source": [
-      "xataka.com",
       "tomshardware.com",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El boom de la IA podría generar una burbuja de deuda de 7 billones de dólares, advierten analistas",
-    "summary": "Las ganancias de la inteligencia artificial fuera del sector tecnológico tardarían más de lo que espera Wall Street.",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "PlayStation recibe críticas por su apuesta solo digital mientras Xbox evalúa incluir lector de discos",
-    "summary": "La decisión de Sony genera un fuerte debate en redes sociales, mientras Microsoft considera añadir la unidad óptica en su próxima consola.",
+    "title": "Reino Unido otorga estatus de importancia nacional a los centros de datos para acelerar su construcción",
+    "summary": "El gobierno británico permite a los proyectos de centros de datos saltarse normativas locales y reducir plazos, ahorrando miles de millones en disputas.",
     "source": [
       "/r/technology",
-      "hardzone.es"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Descubren una puerta trasera oculta en routers Tenda económicos",
-    "summary": "CERT/CC alerta sobre una vulnerabilidad que permite acceso remoto no autorizado a los dispositivos.",
+    "title": "Descubren una puerta trasera crítica en los routers baratos de Tenda",
+    "summary": "La agencia CERT/CC advierte que los routers Tenda contienen una cuenta de administrador oculta que permite el acceso remoto no autorizado.",
     "source": [
       "bandaancha.eu",
       "thehackernews.com"
@@ -81,26 +77,8 @@
     "count": 2
   },
   {
-    "title": "Los cascos Sony pueden usarse como trackers de cabeza gratuitos para simuladores en PC",
-    "summary": "Una aplicación de código abierto convierte los sensores de los auriculares en controles de cámara en tiempo real para cientos de juegos.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La 'línea roja de la muerte' de las Steam Machine tiene cura oficial: limpiar la CMOS",
-    "summary": "El fallo, que se creía un problema de GPU, se resuelve fácilmente borrando la memoria de configuración del sistema.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "xAI de Elon Musk se fusiona con SpaceX y pasa a llamarse SpaceXAI",
-    "summary": "La unificación de ambas empresas busca simplificar la estructura corporativa ante el interés de los inversores.",
+    "title": "xAI de Elon Musk se fusiona con SpaceX y se renombra como SpaceXAI",
+    "summary": "Las dos compañías de Musk se unen en una sola entidad llamada SpaceXAI, en un movimiento que busca simplificar la estructura corporativa y atraer a Wall Street.",
     "source": [
       "xataka.com",
       "kite.kagi.com"
@@ -108,75 +86,93 @@
     "count": 2
   },
   {
-    "title": "Consiguen ejecutar Linux en la mítica consola Atari Jaguar de 64 bits",
-    "summary": "La comunidad retro logra portar el sistema operativo a una plataforma considerada difícil de programar y que fracasó comercialmente.",
+    "title": "DeepSeek se expande más allá de los modelos de IA y desarrolla su propio chip para competir con NVIDIA",
+    "summary": "La empresa china de inteligencia artificial anuncia planes para diseñar chips propios y dejar de depender de proveedores externos.",
     "source": [
-      "tomshardware.com",
-      "news.ycombinator.com"
+      "xataka.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "El identificador de dispositivo de Windows permitió al FBI rastrear a un hacker del grupo Scattered Spider",
-    "summary": "Microsoft puede seguir a los usuarios mediante el Device ID, método usado por las autoridades en una investigación judicial.",
+    "title": "Microsoft 365 Copilot reduce costos y enfrenta baja adopción entre los usuarios",
+    "summary": "Microsoft elimina los modelos de OpenAI y Anthropic para abaratar el servicio, mientras que la tasa de uso semanal del asistente no alcanza el 1%.",
     "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
+      "the-decoder.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Nintendo descontinúa la Switch original en Europa y apunta a una Switch 2 con batería extraíble",
-    "summary": "La compañía cesa las ventas de la consola actual mientras los rumores indican el lanzamiento de una versión mejorada para otoño.",
+    "title": "X lanza un editor de vídeo para iOS con subtítulos y pantalla verde",
+    "summary": "La red social introduce herramientas de edición para fomentar la creación de contenido original y reducir las publicaciones robadas.",
     "source": [
-      "kite.kagi.com",
-      "hardzone.es"
+      "techcrunch.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "Un centro de datos de Meta contamina el agua de un pueblo con bacterias letales",
-    "summary": "La instalación de inteligencia artificial provoca una crisis sanitaria al filtrar microorganismos peligrosos en el suministro local.",
+    "title": "Anthropic descubre un espacio de trabajo oculto en Claude y hace legible su monólogo interno",
+    "summary": "Mediante la nueva Lente Jacobiana, los investigadores pueden leer el razonamiento interno de Claude y revelan que el modelo desarrolla un espacio J oculto.",
+    "source": [
+      "the-decoder.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Longsys, matriz de Lexar, dispara sus beneficios un 60.000% por la demanda de memorias",
+    "summary": "El fabricante chino de chips de memoria y almacenamiento prevé ganancias de casi 1.500 millones de dólares en el primer semestre, mientras prepara nuevos módulos DDR5 RGB.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El Tribunal Supremo de EE.UU. exige orden judicial para acceder a los datos de ubicación del móvil",
+    "summary": "La corte dictamina que la policía necesita una orden para recopilar datos de geolocalización de los teléfonos, reforzando la privacidad digital.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "La Corte Suprema de EE.UU. exige orden judicial para acceder a datos de ubicación del teléfono",
-    "summary": "El fallo fortalece la privacidad digital al requerir autorización previa para rastrear la localización de los usuarios.",
+    "title": "El FBI y Google desarticulan una botnet que infectó 2 millones de Smart TVs",
+    "summary": "La operación conjunta eliminó una red de dispositivos secuestrados utilizados para ataques cibernéticos a gran escala.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Illinois promulga una de las leyes de inteligencia artificial más rigurosas del país",
-    "summary": "El gobernador Pritzker firma el proyecto de ley 315, que impone regulaciones exhaustivas al desarrollo y uso de IA.",
+    "title": "Un centro de datos de Meta contamina el suministro de agua de una ciudad con bacterias letales",
+    "summary": "Las autoridades investigan la filtración de bacterias peligrosas desde las instalaciones de inteligencia artificial de Meta en la red de agua municipal.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Netflix, pionero del 'binge-watching', podría estar superando el modelo de maratón de series",
-    "summary": "La plataforma de streaming explora nuevas estrategias de contenido ante el cambio en los hábitos de los espectadores.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La adopción de Microsoft 365 Copilot sigue por debajo del 4,5% tres años después de su lanzamiento",
-    "summary": "Solo el 1% de los usuarios lo emplea semanalmente, mientras la compañía incrementa los precios del servicio.",
+    "title": "La FCC elimina la norma que obliga a los ISP a listar todas sus tarifas",
+    "summary": "La decisión revoca una política de la era Biden que buscaba transparentar los costos de internet para los consumidores.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "La FCC elimina la norma que obligaba a los proveedores de internet a listar todas sus tarifas",
-    "summary": "La medida revoca una regulación de la era Biden que pretendía dar transparencia a los costos para los consumidores.",
+    "title": "Half-Life 2 ahora se puede jugar en el navegador a más de 100 FPS",
+    "summary": "Un port ingenioso recrea toda la campaña del videojuego usando WebGL 2, con soporte de partidas guardadas y consola.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El Pentágono lanza la campaña 'War Force' para atraer ingenieros de software",
+    "summary": "El Departamento de Defensa de EE.UU. busca reclutar talento tecnológico mediante una iniciativa que promete trabajar en proyectos de defensa avanzados.",
     "source": [
       "/r/technology"
     ],
