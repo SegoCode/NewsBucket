@@ -1,20 +1,21 @@
 [
   {
-    "title": "Microsoft announces layoffs of 3,200 Xbox employees and divestment of several studios in its biggest restructuring",
-    "summary": "The company cuts staff in its gaming division and transfers four studios as part of the largest reset in Xbox history.",
+    "title": "Microsoft makes the largest layoffs in its history: 5,000 job cuts and complete restructuring of Xbox",
+    "summary": "The company lays off thousands of employees, closes or sells Xbox studios, and redefines its strategy, stating that it is seeking a complete 'reset' of the gaming division.",
     "source": [
-      "techcrunch.com",
-      "tomshardware.com",
+      "alternativeto.net",
       "/r/technology",
+      "tomshardware.com",
+      "techcrunch.com",
+      "news.ycombinator.com",
       "xataka.com",
-      "videocardz.com",
-      "news.ycombinator.com"
+      "videocardz.com"
     ],
-    "count": 6
+    "count": 7
   },
   {
-    "title": "AMD launches Ryzen AI Halo PC for $3,999 at a single US retailer",
-    "summary": "AMD's AI development platform combines high-performance CPU and GPU and is sold exclusively at one retail location in the US.",
+    "title": "AMD launches the Ryzen AI Halo, an AI development PC for $4,000",
+    "summary": "AMD's new development kit, featuring a Ryzen AI CPU and a high-performance integrated GPU, launches at a competitive price compared to Nvidia's offerings like the DGX Spark.",
     "source": [
       "videocardz.com",
       "news.ycombinator.com",
@@ -23,72 +24,48 @@
     "count": 3
   },
   {
-    "title": "Nintendo confirms new Switch 2 revisions in Europe with replaceable battery and increased weight",
-    "summary": "The updated consoles will arrive in summer 2027 and include changes to the battery and design, while the original Switch is being discontinued in 2027.",
+    "title": "The AI boom creates doubts about its profitability: multi-billion dollar debt and short-lived models",
+    "summary": "Analysts warn of a financial bubble, with high computing costs, rapid model obsolescence, and fundamental questions about the actual utility of AI output.",
     "source": [
-      "xataka.com",
-      "videocardz.com",
-      "news.ycombinator.com"
+      "/r/technology",
+      "news.ycombinator.com",
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "Sony clarifies it will continue manufacturing PlayStation discs after 2028, but not for new games",
-    "summary": "The decision to eliminate discs in future releases prompts a petition with more than 112,000 signatures to preserve the physical format.",
+    "title": "Global semiconductor race: US boosts local production while China launches its own AI chips",
+    "summary": "While the US strengthens its domestic supply chain with investments from Nvidia and Intel, Chinese manufacturers such as Huawei and Biren launch competitive alternatives and seek stock market funding.",
     "source": [
-      "/r/technology",
-      "hardzone.es"
+      "techcrunch.com",
+      "tomshardware.com",
+      "kite.kagi.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Reddit uses language models to solve a problem they created themselves",
-    "summary": "The platform turns to AI to moderate AI-generated content, in a technological paradox.",
+    "title": "Governments around the world move forward with regulating artificial intelligence",
+    "summary": "From state laws in the US to regulations in China, governments seek to control AI usage, data collection, and platform access through new verification and transparency regulations.",
     "source": [
       "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China forces AI platforms to remove human-looking assistants",
-    "summary": "Chinese authorities order the deactivation of chatbots with human-like personalities for social control reasons.",
-    "source": [
-      "xataka.com",
+      "techcrunch.com",
       "the-decoder.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "16-year-old vulnerability in KVM allows guest machine to escape to host on x86 systems",
-    "summary": "The flaw, dubbed 'Januscape', affects Linux kernels and allows code execution on the host system.",
+    "title": "Apple prepares for the future: foldable iPhone, Siri customization, and component sourcing in China",
+    "summary": "Apple is preparing the launch of its foldable iPhone, reactivating payments in India, customizing Siri in the iOS 27 beta, and actively seeking RAM supply from the Chinese market, according to various sources.",
     "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
+      "techcrunch.com",
+      "xataka.com",
+      "kite.kagi.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "MSI validates Chinese CXMT memory at DDR5-8200 speeds on AMD motherboards",
-    "summary": "Memory manufactured by CXMT achieves new speeds on AMD platforms thanks to a BIOS update.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Wisconsin residents file class-action lawsuit against Microsoft data center over noise and light pollution",
-    "summary": "Microsoft's $7.3 billion facility causes disturbances, and those affected seek compensation.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google and Cloudflare allow users to prevent their data from being used to train AI",
-    "summary": "The companies implement tools so that websites and users can prevent their content from being used by artificial intelligence models.",
+    "title": "AI-powered ransomware attacks increase in sophistication and speed",
+    "summary": "The new ransomware attacks, such as JADEPUFFER, operate at machine speed using AI agents, although the first fully autonomous attack still required human intervention in its early stages.",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
@@ -96,83 +73,118 @@
     "count": 2
   },
   {
-    "title": "AI model leadership shrinks to seven weeks and executives question the excess hype",
-    "summary": "While the duration of dominance of the best models decreases drastically, the CEO of Palantir criticizes that capabilities are overhyped.",
+    "title": "16-year-old Januscape vulnerability in Linux KVM allows virtual machine escape to host",
+    "summary": "Identified as CVE-2026-53359, the flaw affects Intel and AMD x86 systems and allows malicious guests to execute code on the host system.",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nintendo confirms a Switch 2 revision with battery and weight changes for Europe",
+    "summary": "The new version of the Switch 2 for the European market will have a shorter battery life and a slightly higher weight, while the original Switch will be discontinued in the region.",
+    "source": [
+      "xataka.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Chinese memory CXMT achieves historic speeds on MSI AMD motherboards",
+    "summary": "MSI manages to validate DDR5 memory manufactured by CXMT reaching speeds of 8200 MHz, a milestone for Chinese semiconductors in the desktop market.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Users mobilize against the all-digital PlayStation with a petition of more than 112,000 signatures",
+    "summary": "Sony's decision to eliminate physical support in its next console generates massive backlash on social media and a widespread campaign to save physical media.",
     "source": [
       "/r/technology",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Class-action lawsuit against Microsoft over noise and light pollution from its AI data center in Wisconsin",
+    "summary": "Residents file a lawsuit against Microsoft's $7.3 billion data center for extreme noise, constant construction, and excessive light pollution.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Confirmed delay for Nvidia's Kyber rack: Rubin Ultra postponed until 2028",
+    "summary": "Problems with the PCB board force Nvidia to delay the launch of its high-performance rack, impacting the entire AI infrastructure supply chain.",
+    "source": [
+      "tomshardware.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Amazon shuts down Mechanical Turk, the pioneering human intelligence service",
-    "summary": "The platform that started as a crowdsourcing experiment will cease operations, marking the end of an era in hybrid AI.",
+    "title": "Reddit uses artificial intelligence to solve the misinformation problem created by LLMs",
+    "summary": "The platform turns to language models to combat bots, poor translations, and machine-generated content, a problem that LLMs themselves helped exacerbate.",
     "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "China bans AI from simulating human personalities, including virtual friends and romantic partners",
+    "summary": "The Chinese government forces AI platforms to remove their human personality chat features to avoid emotional dependence and security risks.",
+    "source": [
+      "xataka.com",
       "the-decoder.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Trump memecoin investors lose $3.8 billion, according to analysis",
-    "summary": "The cryptocurrency associated with the former US president has suffered a crash that has left its holders with million-dollar losses.",
+    "title": "Harry Potter fan turns a reMarkable tablet into Tom Riddle's diary using AI",
+    "summary": "A creative project combines the e-ink display with a language model to recreate the magical and cursed notebook from the fiction saga.",
     "source": [
-      "techcrunch.com"
+      "news.ycombinator.com",
+      "hardzone.es"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "SpaceX deorbits 260 Starlink satellites in six months using Earth's atmosphere",
-    "summary": "The increasing controlled burns raise environmental concerns, and the FCC wants to exempt satellites from regulations.",
+    "title": "The Milky Way is bigger, citizen science will observe the August eclipse, and SpaceX deorbits Starlink satellites",
+    "summary": "New data reveals that the Milky Way is 10% larger than estimated, preparation is underway for observing the August 12 eclipse, and SpaceX deorbits 260 Starlink satellites in six months.",
     "source": [
+      "xataka.com",
       "/r/technology"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Germany's largest video game archive collapses after running out of funds following a €1.5 million investment",
-    "summary": "The preservation project of 60,000 games is abandoned, coinciding with the end of physical discs in consoles.",
+    "title": "Spain reshapes its economy: end of the tourism bubble, battery gigafactory, and new trade route with Turkey",
+    "summary": "The market for tourist apartments in Spain suffers a historic decline, Gotion chooses Valladolid for its gigafactory, and the war redirects European trade towards Turkey as a logistical supermarket.",
     "source": [
-      "/r/technology"
+      "xataka.com",
+      "bandaancha.eu"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Illinois enacts one of the strictest artificial intelligence laws in the country",
-    "summary": "Governor Pritzker signs SB 315, which imposes transparency and accountability requirements for AI systems.",
+    "title": "Mobility innovation: hydrogen train on narrow-gauge tracks and electric drone with world speed record",
+    "summary": "Switzerland and Italy solve the challenge of integrating hydrogen trains on narrow-gauge tracks, while a German electric interceptor drone breaks the world speed record at 434 mph.",
     "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft confirms a Windows 11 bug that consumes up to 500 GB of storage",
-    "summary": "The company warns users about a flaw that fills up the hard drive and recommends checking if they are affected.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "YouTubers collaborate with FBI to dismantle $65 million scam targeting the elderly",
-    "summary": "Thirty defendants were charged after the joint investigation that uncovered an elaborate financial fraud scheme.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Electric drone breaks world speed record by reaching 698 km/h",
-    "summary": "The unmanned aircraft designed as an anti-aircraft interceptor surpasses the official mark of 658 km/h.",
-    "source": [
+      "xataka.com",
       "tomshardware.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Humanoid robotics company goes public but its CEO does not promise domestic robots in the short term",
-    "summary": "The company seeks funding to continue developing humanoid robots, although it warns that there is still time until they can be used in homes.",
+    "title": "Growing rejection in the US of the massive use of license plate cameras by police",
+    "summary": "Several incidents, including the harassment of a woman through a license plate reader by an officer and the installation of 40 cameras in rural areas of Florida, fuel the national debate.",
     "source": [
-      "techcrunch.com"
+      "/r/technology"
     ],
     "count": 1
   }

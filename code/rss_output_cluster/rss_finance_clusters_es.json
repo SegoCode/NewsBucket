@@ -1,7 +1,19 @@
 [
   {
-    "title": "SK Hynix busca recaudar 28.000 millones de dólares en su salida a Bolsa en EE.UU.",
-    "summary": "El fabricante de chips de memoria planea su cotización en Wall Street, atrayendo el interés de fondos de cobertura y minoristas.",
+    "title": "La inteligencia artificial revoluciona la banca, la seguridad y la tecnología",
+    "summary": "La IA se expande en la administración pública, la seguridad portuaria y el sector financiero, mientras las startups enfrentan obstáculos para salir a bolsa.",
+    "source": [
+      "nasdaq.com",
+      "handelsblatt.com",
+      "ft.com",
+      "bolsamania.com",
+      "/r/stocks"
+    ],
+    "count": 5
+  },
+  {
+    "title": "SK Hynix busca recaudar 28.000 millones de dólares con su salida a Bolsa en EE.UU.",
+    "summary": "El fabricante de chips surcoreano planea una doble cotización en Wall Street para financiar su expansión en inteligencia artificial.",
     "source": [
       "ft.com",
       "bolsamania.com",
@@ -11,133 +23,101 @@
     "count": 4
   },
   {
-    "title": "Wall Street cierra al alza impulsado por el rebote de los semiconductores",
-    "summary": "El Nasdaq sube más del 1% liderado por acciones de chips, que se recuperan tras dos semanas de caídas.",
+    "title": "Trump toca la campana de Wall Street y el Dow Jones cierra en un nuevo récord",
+    "summary": "El presidente de EE.UU. participó en la ceremonia de apertura desde la Casa Blanca, impulsando los índices a máximos históricos.",
     "source": [
-      "bolsamania.com",
-      "investing.com",
-      "nasdaq.com",
-      "nikkei.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "EasyJet acuerda su venta a Castlelake por 5.500 millones de libras",
-    "summary": "La aerolínea de bajo coste se dispara en bolsa tras alcanzar un acuerdo de adquisición con el fondo de inversión.",
-    "source": [
-      "bolsamania.com",
-      "ft.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El sector de chips de memoria atrae apuestas alcistas y advertencias de los gigantes coreanos",
-    "summary": "Inversores y fondos se posicionan en el sector de la memoria, con SK Hynix y Samsung advirtiendo a Micron sobre una posible sobreoferta.",
-    "source": [
-      "nasdaq.com",
-      "investing.com",
-      "/r/stocks"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Ola de adquisiciones: Criteo, Singular Bank y CVC Marina",
-    "summary": "La tecnológica Criteo recibe una oferta de compra, ING adquiere el banco español Singular Bank, y CVC vende su negocio de puertos deportivos por más de mil millones.",
-    "source": [
-      "investing.com",
-      "handelsblatt.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "La inteligencia artificial transforma la banca y la regulación, mientras Amazon irrumpe en los chips de IA",
-    "summary": "La IA revoluciona el sector financiero, los reguladores advierten sobre los riesgos, y Amazon desafía a Nvidia en el mercado de chips de inteligencia artificial.",
-    "source": [
-      "nasdaq.com",
-      "handelsblatt.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Mercados de bonos: tipos estables en Europa, dudas de la Fed sobre orientación y efecto de la crisis iraní en el QT",
-    "summary": "El rendimiento del bono alemán se mantiene plano, la Fed debate la comunicación de tipos de interés, y la crisis de Irán afecta al programa de QT.",
-    "source": [
-      "nikkei.com",
-      "bolsamania.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Renta fija: ETFs de bonos, caída del Euríbor y reforma de pensiones",
-    "summary": "Los inversores comparan ETFs de bonos a corto plazo, el Euríbor cae por debajo del 2,7%, y Alemania debate su reforma de pensiones.",
-    "source": [
-      "nasdaq.com",
       "expansion.com",
+      "handelsblatt.com",
+      "bolsamania.com",
+      "nikkei.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Ola de fusiones y adquisiciones: ITV-Sky, EasyJet, ING-Singular Bank y récord de operaciones en EE.UU.",
+    "summary": "Varios acuerdos multimillonarios en medios, aviación y banca marcan un primer semestre histórico en fusiones y adquisiciones a nivel global.",
+    "source": [
+      "investing.com",
+      "nikkei.com",
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Wisetech, Clover Health, Rocket Lab y Rivian lideran los movimientos destacados en Wall Street",
+    "summary": "Las acciones de estas empresas registran fuertes variaciones por noticias corporativas, ofertas de acciones y resultados.",
+    "source": [
+      "investing.com",
+      "nasdaq.com",
+      "bolsamania.com",
+      "/r/stocks"
+    ],
+    "count": 4
+  },
+  {
+    "title": "El oro se mantiene deprimido pese al ingreso de Citi en la compensación del mercado londinense",
+    "summary": "Los precios del oro se estabilizan tras los datos de empleo mientras los grandes bancos amplían su presencia en el mercado del metal.",
+    "source": [
+      "ft.com",
+      "finance.yahoo.com",
+      "bolsamania.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La OPEP+ acuerda aumentar la producción y China aprovecha la caída del crudo para comprar",
+    "summary": "La decisión del cártel de incrementar el bombeo y la mayor demanda china provocan un descenso de los precios del petróleo.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El yen cae a 162 por dólar por el diferencial de tipos entre Japón y Estados Unidos",
+    "summary": "La moneda japonesa se debilita ante la expectativa de que la Fed mantenga los tipos altos mientras el Banco de Japón los mantiene bajos.",
+    "source": [
+      "investing.com",
+      "nikkei.com",
       "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "El Ibex cae por debajo de los 19.700 puntos tras su corrección desde máximos",
-    "summary": "El selectivo español amplía su caída a la espera de resultados empresariales.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La OPEP+ acuerda aumentar la producción y el petróleo cae mientras China compra más crudo",
-    "summary": "La OPEP+ incrementa la oferta en 188.000 barriles diarios, presionando los precios, y China aprovecha para aumentar sus compras.",
-    "source": [
-      "bolsamania.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El oro se mantiene deprimido y Citi se une al mercado de compensación de Londres",
-    "summary": "El metal precioso continúa a la baja y Citigroup se prepara para integrar el sistema de compensación de oro de Londres.",
-    "source": [
-      "bolsamania.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Grandes inversores destinan miles de millones al crédito privado a pesar de la volatilidad",
-    "summary": "Los inversores institucionales siguen apostando por el crédito privado en busca de rendimientos en medio de la incertidumbre del mercado.",
-    "source": [
-      "ft.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Trump toca la campana de Wall Street desde el Despacho Oval y el Dow Jones alcanza un nuevo hito",
-    "summary": "El expresidente participa simbólicamente en la apertura del mercado, celebrando un nuevo récord del Dow Jones.",
-    "source": [
-      "handelsblatt.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "First Solar y Solaria lideran las subidas en el sector solar",
-    "summary": "First Solar se dispara por noticias del sector, mientras Solaria supera niveles técnicos clave en la bolsa española.",
+    "title": "Samsung anuncia un beneficio trimestral récord gracias a la demanda de chips de IA",
+    "summary": "El gigante surcoreano reporta un aumento del 1.900% en su beneficio, aunque sus acciones caen por el temor a una desaceleración del sector.",
     "source": [
       "investing.com",
-      "bolsamania.com"
+      "nikkei.com",
+      "/r/stocks"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Tesla, Joby Aviation y el camión eléctrico de Bezos: novedades en movilidad eléctrica",
-    "summary": "Tesla presenta buenas noticias para inversores, Joby Aviation se dispara en bolsa, y Bezos lanza el camión eléctrico más barato de EE.UU. con baterías chinas.",
+    "title": "La Fed espera las actas de su reunión mientras Waller pone en duda las guías de tipos",
+    "summary": "Los inversores aguardan las minutas de la Reserva Federal mientras un gobernador cuestiona la utilidad de la forward guidance.",
+    "source": [
+      "investing.com",
+      "bolsamania.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El Dax alemán y el Ibex español marcan nuevos máximos pese a las caídas de algunos valores",
+    "summary": "Las bolsas europeas alcanzan niveles récord impulsadas por los resultados empresariales y la moderación de la inflación.",
+    "source": [
+      "handelsblatt.com",
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Las bolsas asiáticas abren sin dirección clara, con Tailandia al alza y Japón a la baja",
+    "summary": "El mercado tailandés apunta a una apertura positiva mientras el Nikkei cae arrastrado por las pérdidas en semiconductores.",
     "source": [
       "nasdaq.com",
       "nikkei.com"
@@ -145,43 +125,70 @@
     "count": 2
   },
   {
-    "title": "Alphabet, Broadcom y una oportunidad de compra en chips",
-    "summary": "Alphabet muestra potencial de compra tras caer un 10%, Broadcom amplía su acuerdo con Apple hasta 2031, y un analista ve posible subida del 625% en una acción de semiconductores.",
+    "title": "Los grandes inversores destinan miles de millones al crédito privado a pesar de la incertidumbre",
+    "summary": "El apetito por el crédito privado crece entre los inversores institucionales, que buscan mayores rendimientos en un entorno de tipos elevados.",
     "source": [
-      "nasdaq.com",
+      "expansion.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Irán lanza misiles contra buques comerciales en el estrecho de Ormuz",
+    "summary": "Los ataques aumentan la tensión en la región y generan preocupación sobre la estabilidad del suministro de petróleo.",
+    "source": [
+      "investing.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bitcoin y ether caen tras el repunte de la semana pasada mientras Saylor vende más bitcoins",
+    "summary": "El precio de las criptomonedas retrocede mientras el fundador de MicroStrategy continúa deshaciéndose de sus tenencias.",
+    "source": [
+      "handelsblatt.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Endesa reparte dividendo y Solaria perfora soportes en la bolsa española",
+    "summary": "La atención se centra en los valores españoles, con Endesa en su último día para cobrar dividendo y Solaria superando niveles técnicos.",
+    "source": [
+      "expansion.com",
       "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "China lanza misiles desde submarinos y la OTAN muestra su preocupación",
-    "summary": "Las Fuerzas Armadas chinas realizan lanzamientos de misiles, incluyendo uno desde un submarino, generando alerta en la OTAN y críticas de Taiwán.",
+    "title": "El consumo y los salarios reales en Japón muestran señales mixtas en mayo",
+    "summary": "El gasto de los hogares cae por sexto mes consecutivo mientras los salarios reales aumentan por quinto mes.",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "Análisis de AT&T, tabaco, Costco y un ETF de bajo costo",
-    "summary": "Nasdaq.com publica análisis sobre AT&T antes de resultados, comparativa entre Altria y Philip Morris, dudas sobre Costco y un ETF que supera al S&P 500.",
+    "title": "Un padre es arrestado por la muerte de sus dos hijos en la prefectura de Gunma",
+    "summary": "El hombre detenido manifestó pesar por la salud y el futuro de la familia.",
     "source": [
-      "nasdaq.com"
+      "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "Michael Saylor vende 216 millones de euros en Bitcoin",
-    "summary": "El fundador de MicroStrategy reduce su exposición a Bitcoin en medio del mercado alcista.",
+    "title": "El mercado inmobiliario alemán busca soluciones: Karlsruhe apuesta por la altura y Colonia sufre una crisis",
+    "summary": "Las ciudades alemanas enfrentan desafíos de vivienda con estrategias de construcción en altura y precios al alza.",
     "source": [
       "handelsblatt.com"
     ],
     "count": 1
   },
   {
-    "title": "Japón: fondos de pensiones rinden al máximo y MUFG aspira a ser top 5 global",
-    "summary": "Los fondos de pensiones japoneses obtienen su mejor rendimiento en seis años gracias a la IA, y el banco MUFG se fija el objetivo de un ROE de doble dígito.",
+    "title": "La comunidad de Reddit debate sobre estrategias de inversión y perspectivas del mercado",
+    "summary": "Los inversores minoristas comparten opiniones sobre carteras, valoraciones y tendencias en el foro r/Stocks.",
     "source": [
-      "nikkei.com"
+      "/r/stocks"
     ],
     "count": 1
   }

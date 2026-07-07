@@ -1,7 +1,19 @@
 [
   {
-    "title": "SK Hynix、米国IPOで280億ドル調達を目指す",
-    "summary": "半導体メモリーメーカーがウォール街への上場を計画し、ヘッジファンドや個人投資家の関心を集めている。",
+    "title": "人工知能が銀行、セキュリティ、テクノロジーに革命をもたらす",
+    "summary": "AIは公共行政、港湾セキュリティ、金融分野で普及が進む一方、スタートアップは上場への障壁に直面している。",
+    "source": [
+      "nasdaq.com",
+      "handelsblatt.com",
+      "ft.com",
+      "bolsamania.com",
+      "/r/stocks"
+    ],
+    "count": 5
+  },
+  {
+    "title": "SK Hynix、米国上場で280億ドル調達へ",
+    "summary": "韓国の半導体メーカーSK Hynixは、人工知能（AI）分野での拡大資金を調達するため、ウォール街への二重上場を計画している。",
     "source": [
       "ft.com",
       "bolsamania.com",
@@ -11,133 +23,101 @@
     "count": 4
   },
   {
-    "title": "ウォール街、半導体の反発に支えられ上昇引け",
-    "summary": "ナスダックは半導体株がけん引し1%以上上昇、2週間の下落から回復した。",
+    "title": "トランプ大統領、ウォール街の開会の鐘を鳴らし、ダウ平均は最高値で終了",
+    "summary": "トランプ大統領はホワイトハウスから取引開始式典に参加し、株価指数を最高値に押し上げた。",
     "source": [
-      "bolsamania.com",
-      "investing.com",
-      "nasdaq.com",
-      "nikkei.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "イージージェット、キャッスルレイクへの55億ポンドでの売却に合意",
-    "summary": "格安航空会社が投資ファンドと買収合意を結び、株価が急騰した。",
-    "source": [
-      "bolsamania.com",
-      "ft.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "メモリーチップセクターに強気の賭けと韓国大手の警告が集まる",
-    "summary": "投資家やファンドがメモリーセクターにポジションを取る中、SK HynixとSamsungがMicronに供給過剰の可能性を警告している。",
-    "source": [
-      "nasdaq.com",
-      "investing.com",
-      "/r/stocks"
-    ],
-    "count": 3
-  },
-  {
-    "title": "買収ラッシュ：Criteo、Singular Bank、CVC Marina",
-    "summary": "テクノロジー企業Criteoが買収提案を受け、INGがスペインのSingular Bankを買収、CVCがマリーナ事業を10億ドル超で売却。",
-    "source": [
-      "investing.com",
-      "handelsblatt.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AIが銀行業務と規制を変革、一方AmazonはAIチップに参入",
-    "summary": "AIが金融セクターに革命を起こし、規制当局がリスクを警告、AmazonはAIチップ市場でNvidiaに挑戦する。",
-    "source": [
-      "nasdaq.com",
-      "handelsblatt.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "債券市場：欧州金利は横ばい、FRBのガイダンスに疑問、イラン危機がQTに影響",
-    "summary": "ドイツ国債利回りは横ばい、FRBは金利に関するコミュニケーションを議論、イラン危機がQTプログラムに影響を与えている。",
-    "source": [
-      "nikkei.com",
-      "bolsamania.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "固定収入：債券ETF、ユーリボー低下、年金改革",
-    "summary": "投資家が短期債券ETFを比較する中、ユーリボーは2.7%を下回り、ドイツは年金改革を議論している。",
-    "source": [
-      "nasdaq.com",
       "expansion.com",
+      "handelsblatt.com",
+      "bolsamania.com",
+      "nikkei.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "合併・買収の波：ITV-スカイ、イージージェット、ING-シンギュラーバンク、米国で記録的な取引",
+    "summary": "メディア、航空、銀行業界での大型契約が、世界的なM&Aで歴史的な上半期を記録した。",
+    "source": [
+      "investing.com",
+      "nikkei.com",
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Wisetech、Clover Health、Rocket Lab、Rivianがウォール街の値動きをリード",
+    "summary": "これらの企業株は、企業情報、株式公開、業績報告により大きな変動を記録している。",
+    "source": [
+      "investing.com",
+      "nasdaq.com",
+      "bolsamania.com",
+      "/r/stocks"
+    ],
+    "count": 4
+  },
+  {
+    "title": "金、シティのロンドン清算参加も低迷続く",
+    "summary": "金価格は雇用統計発表後に落ち着きを見せる一方、大手銀行は金市場での存在感を強めている。",
+    "source": [
+      "ft.com",
+      "finance.yahoo.com",
+      "bolsamania.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OPECプラスが増産合意、中国は原油安を利用して買い入れ",
+    "summary": "OPECプラスの増産決定と中国の需要増加が原油価格の下落を招いている。",
+    "source": [
+      "bolsamania.com",
+      "expansion.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "円は1ドル162円に下落、日米金利差が原因",
+    "summary": "FRBの高金利維持と日銀の低金利維持の見通しから円安が進行している。",
+    "source": [
+      "investing.com",
+      "nikkei.com",
       "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "IBEXが最高値からの調整後に19,700ポイントを下回る",
-    "summary": "スペイン株式指標は企業決算を前に下落幅を拡大している。",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OPECプラスが増産に合意し原油価格下落、一方中国は原油購入を増やす",
-    "summary": "OPECプラスは日量18万8,000バレル供給を増やし価格を圧迫、中国はこれを好機に購入を増やしている。",
-    "source": [
-      "bolsamania.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "金は低迷、シティがロンドンの清算市場に参加",
-    "summary": "貴金属は下落を続け、シティグループはロンドンの金清算システムへの統合を準備している。",
-    "source": [
-      "bolsamania.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "大口投資家がボラティリティにもかかわらずプライベートクレジットに数十億を投じる",
-    "summary": "機関投資家は市場の不確実性の中で利回りを求め、プライベートクレジットに引き続き投資している。",
-    "source": [
-      "ft.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "トランプが大統領執務室からウォール街の鐘を鳴らし、ダウ平均が新たな節目に到達",
-    "summary": "元大統領が市場の開場式に象徴的に参加し、ダウ平均の新記録を祝った。",
-    "source": [
-      "handelsblatt.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "First SolarとSolariaが太陽光発電セクターの上昇を主導",
-    "summary": "First Solarがセクターのニュースで急騰、一方Solariaはスペイン株式市場で重要なテクニカル水準を突破した。",
+    "title": "サムスン、AIチップ需要で四半期利益が過去最高を発表",
+    "summary": "韓国のハイテク大手は1900%の増益を発表したが、業界の減速懸念から株価は下落した。",
     "source": [
       "investing.com",
-      "bolsamania.com"
+      "nikkei.com",
+      "/r/stocks"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "テスラ、Joby Aviation、ベゾスの電気トラック：電動モビリティの最新情報",
-    "summary": "テスラが投資家に良い知らせを発表、Joby Aviation株が急騰、ベゾスが中国製バッテリー搭載の米国最安の電気トラックを発売。",
+    "title": "FRB、議事録公開待つ、ウォラー理事が金利指針に疑問",
+    "summary": "投資家は米連邦準備制度理事会（FRB）の議事録を待つ一方、理事の一人がフォワードガイダンスの有用性に疑問を呈している。",
+    "source": [
+      "investing.com",
+      "bolsamania.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ドイツDAXとスペインIBEXが最高値更新、一部銘柄下落も",
+    "summary": "欧州株式市場は企業決算とインフレ沈静化に後押しされ、最高値を更新した。",
+    "source": [
+      "handelsblatt.com",
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "アジア株は方向感なくスタート、タイは上昇、日本は下落",
+    "summary": "タイ市場は堅調なスタートが予想される一方、日経平均は半導体セクターの損失に引きずられて下落している。",
     "source": [
       "nasdaq.com",
       "nikkei.com"
@@ -145,43 +125,70 @@
     "count": 2
   },
   {
-    "title": "アルファベット、ブロードコム、そして半導体の買いのチャンス",
-    "summary": "アルファベットは10%下落後に買いの可能性を示し、ブロードコムはアップルとの契約を2031年まで延長、アナリストは半導体株の1つに625%の上昇可能性を見ている。",
+    "title": "大手投資家、不確実性にもかかわらずプライベートクレジットに数十億ドルを割り当て",
+    "summary": "機関投資家の間でプライベートクレジットへの選好が高まっており、高金利環境での一段の利回りを追求している。",
     "source": [
-      "nasdaq.com",
+      "expansion.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "イラン、ホルムズ海峡で商船にミサイル発射",
+    "summary": "攻撃により地域の緊張が高まり、石油供給の安定への懸念が生じている。",
+    "source": [
+      "investing.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ビットコインとイーサが先週の上昇から下落、セイラーが追加売却",
+    "summary": "仮想通貨は下落に転じ、MicroStrategyの創業者は保有資産の売却を続けている。",
+    "source": [
+      "handelsblatt.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "エンデサは配当落ち、ソラリアはサポートラインを下回る",
+    "summary": "焦点はスペイン株に移り、エンデサは配当受領の最終日、ソラリアはテクニカルな水準を上抜けた。",
+    "source": [
+      "expansion.com",
       "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "中国が潜水艦からミサイル発射、NATOが懸念を表明",
-    "summary": "中国軍がミサイル発射を実施、潜水艦からの発射もあり、NATOは警戒感を強め台湾は非難している。",
+    "title": "日本の消費と実質賃金、5月にまちまちの兆候",
+    "summary": "家計支出は6ヶ月連続で減少する一方、実質賃金は5ヶ月連続で増加している。",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "AT&T、たばこ、コストコ、低コストETFの分析",
-    "summary": "Nasdaq.comが決算前のAT&Tの分析、アルトリアとフィリップモリスの比較、コストコへの疑問、S&P500を上回るETFを公開。",
+    "title": "群馬県で2人の子供の死亡で父親を逮捕",
+    "summary": "逮捕された男は家族の健康と将来について悲しみを表明した。",
     "source": [
-      "nasdaq.com"
+      "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "マイケル・セイラーが2億1,600万ユーロ相当のビットコインを売却",
-    "summary": "マイクロストラテジーの創業者が強気市場の中でビットコインへのエクスポージャーを削減。",
+    "title": "ドイツ不動産市場、解決策模索：カールスルーエは高層建築を推進、ケルンは危機に",
+    "summary": "ドイツの都市は、高層建築戦略と値上がりに伴う住宅問題に直面している。",
     "source": [
       "handelsblatt.com"
     ],
     "count": 1
   },
   {
-    "title": "日本：年金基金が最高のリターン、MUFGは世界トップ5を目指す",
-    "summary": "日本の年金基金がAIの恩恵で6年ぶりの最高運用成績、MUFGはROE2桁目標を設定。",
+    "title": "Redditコミュニティが投資戦略と市場見通しについて議論",
+    "summary": "個人投資家がr/Stocksフォーラムでポートフォリオ、評価、トレンドについて意見を交換している。",
     "source": [
-      "nikkei.com"
+      "/r/stocks"
     ],
     "count": 1
   }
