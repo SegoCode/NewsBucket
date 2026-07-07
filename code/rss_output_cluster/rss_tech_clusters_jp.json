@@ -1,88 +1,124 @@
 [
   {
-    "title": "マイクロソフト、Xboxを再編し大規模解雇と5つのスタジオ売却",
-    "summary": "同社は競争に対応するため利益率の向上を目指し、自社ゲーム戦略を再定義する。",
+    "title": "Microsoft、Xboxで数千人規模の人員削減と開発スタジオの再編を実施",
+    "summary": "同社は最大4,800人を削減し、複数のスタジオを売却することで、ゲーム事業の利益率改善を図る。",
     "source": [
       "hardzone.es",
       "alternativeto.net",
+      "/r/technology",
       "tomshardware.com",
       "techcrunch.com",
-      "news.ycombinator.com",
-      "xataka.com",
-      "videocardz.com"
+      "kite.kagi.com"
     ],
-    "count": 7
+    "count": 6
   },
   {
-    "title": "NvidiaのAIラックシステムKyber NVL144、2028年まで延期",
-    "summary": "マザーボードの製造問題により次世代AIインフラが延期されるが、Nvidiaは否定。",
+    "title": "AMD、Ryzen AI Halo開発用PCを3,999ドルで発売",
+    "summary": "この製品は米国1社の小売店限定で販売され、Nvidiaのソリューションと競合し、AI開発者向けである。",
     "source": [
-      "/r/hardware",
+      "videocardz.com",
+      "news.ycombinator.com",
+      "kite.kagi.com",
+      "tomshardware.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Samsung半導体部門の年間利益、過去40年分の合計を上回る",
+    "summary": "韓国メーカーはAI向けメモリの好況により、世界で最も収益性の高い企業となった。",
+    "source": [
+      "xataka.com",
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic、Claudeが隠しワークスペースを開発していたことを明かす",
+    "summary": "内部の「Jスペース」の発見は、高度な言語モデルにおける意識と透明性に関する議論を再燃させた。",
+    "source": [
+      "xataka.com",
+      "/r/technology",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "米国、英国、スコットランド、データセンター規制で相反する措置を採用",
+    "summary": "米国が汚染規制を緩和する一方、英国は許可を迅速化し、スコットランドはエネルギー危機でプロジェクトを凍結する。",
+    "source": [
+      "xataka.com",
       "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AIブームは7兆ドルの債務バブルを生む可能性があるとアナリストが警告",
+    "summary": "テクノロジー分野以外での人工知能の利益は、ウォール街が期待するよりも時間がかかるだろう。",
+    "source": [
+      "/r/technology",
       "the-decoder.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "AMD、AI開発ワークステーションとしてRyzen AI Halo PCを3,999ドルで発売",
-    "summary": "このマシンはコンパクトで手頃な価格ながら、NvidiaのDGX Sparkに匹敵する性能を提供。",
-    "source": [
-      "videocardz.com",
-      "news.ycombinator.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "MSI、AMDマザーボードで中国CXMTメモリのDDR5-8000+記録速度を検証",
-    "summary": "新しいBIOSによりCXMT製メモリで8200MHzの周波数を達成、主要メーカーと競合。",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Valve、Steam Machine向けWindowsドライバを公開、電子インクフロントパネルを披露",
-    "summary": "インタビューでエンジニアが価格、部品不足、Windowsサポートについて説明。",
-    "source": [
-      "videocardz.com",
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Sonyヘッドホンがオープンソースアプリでシミュレーター向け無料ヘッドトラッカーに",
-    "summary": "このアプリはセンサーデータをカメラ移動に変換し、数百のレース＆フライトゲームで使用可能。",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
     "count": 2
   },
   {
-    "title": "Nintendo Switch 2、バッテリー規制対応へ、初代Switchは2027年に欧州販売終了",
-    "summary": "新型はEU規制に準拠する一方、現行世代は規制により販売終了。",
+    "title": "PlayStation、デジタル専用戦略に批判、Xboxはディスクドライブ搭載を検討",
+    "summary": "Sonyの決定はソーシャルメディアで激しい議論を巻き起こし、一方Microsoftは次世代機への光学ドライブ搭載を検討している。",
     "source": [
-      "xataka.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "reMarkableタブレットとAIを組み合わせてトム・リドルの日記を作成",
-    "summary": "アートプロジェクトがAIモデルを使用して電子インク画面に魔法のテキストを生成。",
-    "source": [
-      "news.ycombinator.com",
+      "/r/technology",
       "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "KVMの16年にわたる重大な脆弱性、x86システムでVM脱出を可能にする",
-    "summary": "Januscapeバグは全Linuxカーネルに影響し、ゲストがホスト上でコードを実行可能。",
+    "title": "格安Tendaルーターに隠しバックドアを発見",
+    "summary": "CERT/CCは、デバイスへの不正なリモートアクセスを可能にする脆弱性について警告している。",
+    "source": [
+      "bandaancha.eu",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sonyヘッドホン、PCシミュレーター向け無料ヘッドトラッカーとして使用可能に",
+    "summary": "オープンソースアプリがヘッドホンのセンサーを数百のゲーム向けリアルタイムカメラコントロールに変換する。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Steam Machineの「死亡赤線」に公式の解決策：CMOSクリア",
+    "summary": "GPUの問題と思われていた不具合が、システム構成メモリを消去することで簡単に解決できる。",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Elon MuskのxAIがSpaceXと合併、SpaceXAIに改称",
+    "summary": "両社の統合は、投資家の関心を受けて企業構造を簡素化することを目的としている。",
+    "source": [
+      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "伝説の64ビット機Atari JaguarでLinuxの実行に成功",
+    "summary": "レトロコミュニティが、プログラミングが難しいとされ商業的に失敗したプラットフォームへのOS移植に成功した。",
+    "source": [
+      "tomshardware.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Windowsのデバイス識別子によりFBIがScattered Spiderグループのハッカーを追跡",
+    "summary": "MicrosoftはデバイスIDを通じてユーザーを追跡可能で、当局が司法捜査で使用した手法である。",
     "source": [
       "thehackernews.com",
       "news.ycombinator.com"
@@ -90,94 +126,59 @@
     "count": 2
   },
   {
-    "title": "中国、AIプラットフォームに人間らしい性格を持つチャットボットの削除を義務付け",
-    "summary": "当局はユーザーの感情依存を防ぐため、感情的なバーチャルアシスタントを禁止。",
+    "title": "Nintendo、欧州で初代Switchの販売を終了、バッテリー脱着可能なSwitch 2を視野に",
+    "summary": "同社は現行機の販売を終了する一方、噂では改良版が今秋発売されるとされている。",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
+      "kite.kagi.com",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "初の自律型ランサムウェアJADEPUFFERが自動化された脅威の進化を示す",
-    "summary": "攻撃は完全にAI主導であったが、手動による侵入ポイントが必要だった。",
+    "title": "Metaのデータセンター、致死性細菌で村の水を汚染",
+    "summary": "AI施設が危険な微生物を地域の水道に流出させ、健康危機を引き起こす。",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "サムスン半導体部門が過去最高益、ファウンドリも黒字転換",
-    "summary": "AIブームが韓国企業の利益を押し上げ、Nvidiaを上回る収益性。",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AIモデルの競争優位性が崩壊、トップの座はわずか数週間",
-    "summary": "急速な進化と競争により、マージンと技術的リーダーシップの期間が劇的に短縮。",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、Windowsのデバイス固有IDでユーザー追跡が可能に",
-    "summary": "GDIDにより、OSをリセットした後でも同社がアクティビティを監視できる。",
-    "source": [
-      "news.ycombinator.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Amazon、人間によるAIサービスの元祖Mechanical Turkを終了",
-    "summary": "単純作業を人間に外注していたプラットフォームが、衰退の末に運用停止。",
+    "title": "米最高裁、携帯電話の位置情報データへのアクセスに令状を要求",
+    "summary": "この判決は、ユーザーの位置情報追跡に事前承認を必要とすることでデジタルプライバシーを強化する。",
     "source": [
-      "the-decoder.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "ドイツの電気ドローンが時速698kmで世界速度記録を更新",
-    "summary": "対空迎撃機として設計されたドローンは公式記録を大幅に上回り、ギネス認定を目指す。",
+    "title": "イリノイ州、国内で最も厳格な人工知能法の一つを制定",
+    "summary": "プリツカー知事が法案315号に署名し、AIの開発と使用に包括的な規制を課す。",
     "source": [
-      "tomshardware.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Huawei、Atlas Ascend 950スーパークラスターで韓国AIチップ市場に参入",
-    "summary": "新システムはH20 GPUの3倍の推論性能を4分の1のコストで提供。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ウィスコンシン州の住民、MicrosoftのAIデータセンターの騒音・光害で集団訴訟",
-    "summary": "集団訴訟は、73億ドルの施設が騒音、振動、過剰な光を発生させていると主張。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Reddit、AI生成の誤情報対策に言語モデルを活用",
-    "summary": "同プラットフォームはAIツールを使用し、同じ技術で作られた欺瞞的なコンテンツを検出。",
+    "title": "「一気見」の先駆者Netflix、シリーズ一気観モデルを超える可能性",
+    "summary": "ストリーミングプラットフォームは、視聴者の習慣の変化に対応して新たなコンテンツ戦略を模索している。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Netflix、一気見モデルから週刊リリースへ方針転換",
-    "summary": "消費習慣の変化を受け、同プラットフォームはコンテンツ戦略を見直し。",
+    "title": "Microsoft 365 Copilotの導入率、発売から3年経っても4.5%未満",
+    "summary": "週次利用率はわずか1%で、同社はサービス価格を値上げしている。",
     "source": [
-      "techcrunch.com"
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "FCC、インターネットプロバイダーに全料金表示を義務付けた規則を撤廃",
+    "summary": "この措置は、消費者に費用の透明性をもたらすことを目的としたバイデン政権時代の規制を撤回するものである。",
+    "source": [
+      "/r/technology"
     ],
     "count": 1
   }

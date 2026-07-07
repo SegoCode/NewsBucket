@@ -1,88 +1,124 @@
 [
   {
-    "title": "Microsoft reestructura Xbox con despidos masivos y la venta de cinco estudios",
-    "summary": "La compañía busca mejorar sus márgenes ante la competencia y redefine su estrategia de juegos propios.",
+    "title": "Microsoft recorta miles de empleos en Xbox y reestructura sus estudios de desarrollo",
+    "summary": "La compañía reduce su fuerza laboral en hasta 4.800 puestos y vende varios estudios en un intento por mejorar los márgenes de su negocio de videojuegos.",
     "source": [
       "hardzone.es",
       "alternativeto.net",
+      "/r/technology",
       "tomshardware.com",
       "techcrunch.com",
-      "news.ycombinator.com",
-      "xataka.com",
-      "videocardz.com"
+      "kite.kagi.com"
     ],
-    "count": 7
+    "count": 6
   },
   {
-    "title": "El sistema de racks de IA Kyber NVL144 de Nvidia se retrasa hasta 2028",
-    "summary": "Problemas de fabricación en las placas base aplazan la próxima generación de infraestructura para IA, aunque Nvidia lo niega.",
+    "title": "AMD lanza su PC de desarrollo Ryzen AI Halo por 3.999 dólares",
+    "summary": "El equipo, limitado a un minorista en EE.UU., compite con soluciones de Nvidia y está destinado a desarrolladores de IA.",
     "source": [
-      "/r/hardware",
+      "videocardz.com",
+      "news.ycombinator.com",
+      "kite.kagi.com",
+      "tomshardware.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Las ganancias anuales de la división de chips de Samsung superan las de los últimos 40 años combinadas",
+    "summary": "El fabricante surcoreano se convierte en la empresa más rentable del mundo gracias al auge de la memoria para IA.",
+    "source": [
+      "xataka.com",
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic revela que Claude ha desarrollado un espacio de trabajo oculto",
+    "summary": "El hallazgo de un 'espacio J' interno reaviva el debate sobre la consciencia y la transparencia en modelos de lenguaje avanzados.",
+    "source": [
+      "xataka.com",
+      "/r/technology",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "EE.UU., Reino Unido y Escocia adoptan medidas opuestas sobre regulación de centros de datos",
+    "summary": "Mientras EE.UU. flexibiliza límites de contaminación, Reino Unido acelera permisos y Escocia congela proyectos ante la crisis energética.",
+    "source": [
+      "xataka.com",
       "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El boom de la IA podría generar una burbuja de deuda de 7 billones de dólares, advierten analistas",
+    "summary": "Las ganancias de la inteligencia artificial fuera del sector tecnológico tardarían más de lo que espera Wall Street.",
+    "source": [
+      "/r/technology",
       "the-decoder.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "AMD lanza el PC Ryzen AI Halo por $3.999 como estación de desarrollo de IA",
-    "summary": "El equipo ofrece un rendimiento similar al DGX Spark de Nvidia en un formato compacto y asequible.",
-    "source": [
-      "videocardz.com",
-      "news.ycombinator.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "MSI valida memoria china CXMT a velocidades récord de DDR5-8000+ en placas AMD",
-    "summary": "Las nuevas BIOS permiten alcanzar frecuencias de 8200 MHz en memoria fabricada por CXMT, compitiendo con los principales fabricantes.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Valve publica controladores Windows para Steam Machine y muestra un frontal de tinta electrónica",
-    "summary": "En una entrevista, los ingenieros explican el precio, la escasez de componentes y el soporte para Windows.",
-    "source": [
-      "videocardz.com",
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Auriculares Sony funcionan como tracker de cabeza gratuito en simuladores gracias a una app open-source",
-    "summary": "La aplicación traduce los datos de los sensores en movimientos de cámara para cientos de juegos de carreras y vuelo.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
     "count": 2
   },
   {
-    "title": "Nintendo Switch 2 introduce revisiones de batería mientras la Switch original se retira de Europa en 2027",
-    "summary": "La nueva consola cumple con regulaciones de la UE mientras la generación actual finaliza sus ventas por normativa.",
+    "title": "PlayStation recibe críticas por su apuesta solo digital mientras Xbox evalúa incluir lector de discos",
+    "summary": "La decisión de Sony genera un fuerte debate en redes sociales, mientras Microsoft considera añadir la unidad óptica en su próxima consola.",
     "source": [
-      "xataka.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Crean el diario de Tom Riddle combinando una tableta reMarkable con inteligencia artificial",
-    "summary": "Un proyecto artístico utiliza un modelo de IA para generar texto mágico en la pantalla de tinta electrónica.",
-    "source": [
-      "news.ycombinator.com",
+      "/r/technology",
       "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "Vulnerabilidad crítica de 16 años en KVM permite la fuga de máquinas virtuales en sistemas x86",
-    "summary": "El fallo Januscape afecta a todos los kernels Linux y permite a invitados ejecutar código en el host.",
+    "title": "Descubren una puerta trasera oculta en routers Tenda económicos",
+    "summary": "CERT/CC alerta sobre una vulnerabilidad que permite acceso remoto no autorizado a los dispositivos.",
+    "source": [
+      "bandaancha.eu",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los cascos Sony pueden usarse como trackers de cabeza gratuitos para simuladores en PC",
+    "summary": "Una aplicación de código abierto convierte los sensores de los auriculares en controles de cámara en tiempo real para cientos de juegos.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La 'línea roja de la muerte' de las Steam Machine tiene cura oficial: limpiar la CMOS",
+    "summary": "El fallo, que se creía un problema de GPU, se resuelve fácilmente borrando la memoria de configuración del sistema.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "xAI de Elon Musk se fusiona con SpaceX y pasa a llamarse SpaceXAI",
+    "summary": "La unificación de ambas empresas busca simplificar la estructura corporativa ante el interés de los inversores.",
+    "source": [
+      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Consiguen ejecutar Linux en la mítica consola Atari Jaguar de 64 bits",
+    "summary": "La comunidad retro logra portar el sistema operativo a una plataforma considerada difícil de programar y que fracasó comercialmente.",
+    "source": [
+      "tomshardware.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El identificador de dispositivo de Windows permitió al FBI rastrear a un hacker del grupo Scattered Spider",
+    "summary": "Microsoft puede seguir a los usuarios mediante el Device ID, método usado por las autoridades en una investigación judicial.",
     "source": [
       "thehackernews.com",
       "news.ycombinator.com"
@@ -90,94 +126,59 @@
     "count": 2
   },
   {
-    "title": "China obliga a sus plataformas de IA a eliminar chatbots con personalidades humanas",
-    "summary": "Las autoridades prohíben los asistentes virtuales afectivos para prevenir la dependencia emocional de los usuarios.",
+    "title": "Nintendo descontinúa la Switch original en Europa y apunta a una Switch 2 con batería extraíble",
+    "summary": "La compañía cesa las ventas de la consola actual mientras los rumores indican el lanzamiento de una versión mejorada para otoño.",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
+      "kite.kagi.com",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "El primer ransomware autónomo JADEPUFFER demuestra la evolución de las amenazas automatizadas",
-    "summary": "Aunque el ataque fue completamente dirigido por IA, aún requirió un punto de entrada manual.",
+    "title": "Un centro de datos de Meta contamina el agua de un pueblo con bacterias letales",
+    "summary": "La instalación de inteligencia artificial provoca una crisis sanitaria al filtrar microorganismos peligrosos en el suministro local.",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung registra beneficios récord en su división de semiconductores y su fundición vuelve a ganancias",
-    "summary": "El boom de la IA impulsa las ganancias de la firma surcoreana, superando a Nvidia en rentabilidad.",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La ventaja competitiva de los modelos de IA se desploma: apenas permanecen semanas en la cima",
-    "summary": "La rápida evolución y la competencia reducen drásticamente los márgenes y la duración del liderazgo técnico.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft puede rastrear usuarios mediante un identificador único de dispositivo en Windows",
-    "summary": "El GDID permite a la compañía monitorizar la actividad incluso después de restablecer el sistema operativo.",
-    "source": [
-      "news.ycombinator.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Amazon cierra Mechanical Turk, el servicio original de inteligencia artificial humana",
-    "summary": "La plataforma que subcontrataba tareas simples a trabajadores humanos finaliza sus operaciones tras años de declive.",
+    "title": "La Corte Suprema de EE.UU. exige orden judicial para acceder a datos de ubicación del teléfono",
+    "summary": "El fallo fortalece la privacidad digital al requerir autorización previa para rastrear la localización de los usuarios.",
     "source": [
-      "the-decoder.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Un dron eléctrico alemán bate el récord mundial de velocidad con 434 mph (698 km/h)",
-    "summary": "Diseñado como interceptor antiaéreo, el dron supera ampliamente el récord oficial y busca certificación Guinness.",
+    "title": "Illinois promulga una de las leyes de inteligencia artificial más rigurosas del país",
+    "summary": "El gobernador Pritzker firma el proyecto de ley 315, que impone regulaciones exhaustivas al desarrollo y uso de IA.",
     "source": [
-      "tomshardware.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Huawei entra en el mercado surcoreano de chips de IA con los superclústeres Atlas Ascend 950",
-    "summary": "Los nuevos sistemas ofrecen tres veces el rendimiento de inferencia de la GPU H20 a una cuarta parte del costo.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Vecinos de Wisconsin demandan a Microsoft por la contaminación acústica y lumínica de su centro de datos de IA",
-    "summary": "La demanda colectiva alega que la instalación de $7.300 millones genera ruido, vibraciones y luz excesiva.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Reddit utiliza modelos de lenguaje para combatir la desinformación generada por la IA",
-    "summary": "La plataforma emplea herramientas de inteligencia artificial para detectar contenido engañoso creado por la misma tecnología.",
+    "title": "Netflix, pionero del 'binge-watching', podría estar superando el modelo de maratón de series",
+    "summary": "La plataforma de streaming explora nuevas estrategias de contenido ante el cambio en los hábitos de los espectadores.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Netflix se aleja del modelo de maratón de series y apuesta por lanzamientos semanales",
-    "summary": "La plataforma reconsidera su estrategia de contenido ante el cambio en los hábitos de consumo.",
+    "title": "La adopción de Microsoft 365 Copilot sigue por debajo del 4,5% tres años después de su lanzamiento",
+    "summary": "Solo el 1% de los usuarios lo emplea semanalmente, mientras la compañía incrementa los precios del servicio.",
     "source": [
-      "techcrunch.com"
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "La FCC elimina la norma que obligaba a los proveedores de internet a listar todas sus tarifas",
+    "summary": "La medida revoca una regulación de la era Biden que pretendía dar transparencia a los costos para los consumidores.",
+    "source": [
+      "/r/technology"
     ],
     "count": 1
   }

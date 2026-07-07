@@ -1,88 +1,124 @@
 [
   {
-    "title": "Microsoft restructures Xbox with mass layoffs and sale of five studios",
-    "summary": "The company seeks to improve its margins in the face of competition and redefines its first-party games strategy.",
+    "title": "Microsoft cuts thousands of jobs in Xbox and restructures its development studios",
+    "summary": "The company reduces its workforce by up to 4,800 positions and sells several studios in an attempt to improve margins in its video game business.",
     "source": [
       "hardzone.es",
       "alternativeto.net",
+      "/r/technology",
       "tomshardware.com",
       "techcrunch.com",
-      "news.ycombinator.com",
-      "xataka.com",
-      "videocardz.com"
+      "kite.kagi.com"
     ],
-    "count": 7
+    "count": 6
   },
   {
-    "title": "Nvidia's Kyber NVL144 AI rack system delayed until 2028",
-    "summary": "Manufacturing issues in the motherboards delay the next generation of AI infrastructure, although Nvidia denies it.",
+    "title": "AMD launches its Ryzen AI Halo development PC for $3,999",
+    "summary": "The system, limited to one retailer in the US, competes with Nvidia solutions and is aimed at AI developers.",
     "source": [
-      "/r/hardware",
+      "videocardz.com",
+      "news.ycombinator.com",
+      "kite.kagi.com",
+      "tomshardware.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Samsung's chip division annual profits surpass the last 40 years combined",
+    "summary": "The South Korean manufacturer becomes the most profitable company in the world thanks to the AI memory boom.",
+    "source": [
+      "xataka.com",
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic reveals that Claude has developed a hidden workspace",
+    "summary": "The discovery of an internal 'J-space' reignites the debate on consciousness and transparency in advanced language models.",
+    "source": [
+      "xataka.com",
+      "/r/technology",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "US, UK, and Scotland adopt opposing measures on data center regulation",
+    "summary": "While the US relaxes pollution limits, the UK speeds up permits, and Scotland freezes projects amid the energy crisis.",
+    "source": [
+      "xataka.com",
       "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "The AI boom could generate a $7 trillion debt bubble, analysts warn",
+    "summary": "AI profits outside the tech sector would take longer than Wall Street expects.",
+    "source": [
+      "/r/technology",
       "the-decoder.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "AMD launches the Ryzen AI Halo PC at $3,999 as an AI development station",
-    "summary": "The system offers performance similar to Nvidia's DGX Spark in a compact and affordable format.",
-    "source": [
-      "videocardz.com",
-      "news.ycombinator.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "MSI validates Chinese CXMT memory at record DDR5-8000+ speeds on AMD boards",
-    "summary": "New BIOS updates allow achieving frequencies of 8200 MHz in memory manufactured by CXMT, competing with major manufacturers.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Valve releases Windows drivers for Steam Machine and shows an e-ink front panel",
-    "summary": "In an interview, engineers explain the price, component shortage, and Windows support.",
-    "source": [
-      "videocardz.com",
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Sony headphones work as a free head tracker in simulators thanks to an open-source app",
-    "summary": "The app translates sensor data into camera movements for hundreds of racing and flight games.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
     "count": 2
   },
   {
-    "title": "Nintendo Switch 2 introduces battery revisions while the original Switch is retired from Europe in 2027",
-    "summary": "The new console complies with EU regulations while the current generation ends sales due to regulations.",
+    "title": "PlayStation faces criticism for its all-digital push while Xbox considers including a disc drive",
+    "summary": "Sony's decision sparks a heated debate on social media, while Microsoft considers adding the optical drive in its next console.",
     "source": [
-      "xataka.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "They create Tom Riddle's diary by combining a reMarkable tablet with artificial intelligence",
-    "summary": "An artistic project uses an AI model to generate magical text on the e-ink screen.",
-    "source": [
-      "news.ycombinator.com",
+      "/r/technology",
       "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "Critical 16-year-old vulnerability in KVM allows virtual machine escape on x86 systems",
-    "summary": "The Januscape flaw affects all Linux kernels and allows guests to execute code on the host.",
+    "title": "Hidden backdoor discovered in cheap Tenda routers",
+    "summary": "CERT/CC warns about a vulnerability that allows unauthorized remote access to the devices.",
+    "source": [
+      "bandaancha.eu",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony headphones can be used as free head trackers for PC simulators",
+    "summary": "An open-source app converts the headphone sensors into real-time camera controls for hundreds of games.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Steam Machine's 'red line of death' has an official cure: clear the CMOS",
+    "summary": "The fault, previously thought to be a GPU problem, is easily resolved by erasing the system configuration memory.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Elon Musk's xAI merges with SpaceX and is renamed to SpaceXAI",
+    "summary": "The unification of both companies seeks to simplify the corporate structure in the face of investor interest.",
+    "source": [
+      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "They manage to run Linux on the legendary 64-bit Atari Jaguar console",
+    "summary": "The retro community succeeds in porting the operating system to a platform considered difficult to program and that failed commercially.",
+    "source": [
+      "tomshardware.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Windows device identifier allowed the FBI to track a hacker from the Scattered Spider group",
+    "summary": "Microsoft can track users via the Device ID, a method used by authorities in a judicial investigation.",
     "source": [
       "thehackernews.com",
       "news.ycombinator.com"
@@ -90,94 +126,59 @@
     "count": 2
   },
   {
-    "title": "China forces its AI platforms to remove chatbots with human personalities",
-    "summary": "Authorities ban affective virtual assistants to prevent users' emotional dependence.",
+    "title": "Nintendo discontinues the original Switch in Europe and aims for a Switch 2 with a removable battery",
+    "summary": "The company ceases sales of the current console while rumors indicate the launch of an improved version for autumn.",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
+      "kite.kagi.com",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "The first autonomous ransomware JADEPUFFER demonstrates the evolution of automated threats",
-    "summary": "Although the attack was completely AI-driven, it still required a manual entry point.",
+    "title": "A Meta data center contaminates a town's water with lethal bacteria",
+    "summary": "The AI facility causes a health crisis by leaking dangerous microorganisms into the local supply.",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung posts record profits in its semiconductor division and its foundry returns to profitability",
-    "summary": "The AI boom boosts the South Korean firm's profits, surpassing Nvidia in profitability.",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The competitive advantage of AI models collapses: they barely remain at the top for weeks",
-    "summary": "Rapid evolution and competition drastically reduce margins and the duration of technical leadership.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft can track users through a unique device identifier in Windows",
-    "summary": "The GDID allows the company to monitor activity even after resetting the operating system.",
-    "source": [
-      "news.ycombinator.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Amazon shuts down Mechanical Turk, the original human intelligence service",
-    "summary": "The platform that outsourced simple tasks to human workers ends its operations after years of decline.",
+    "title": "US Supreme Court requires warrant to access phone location data",
+    "summary": "The ruling strengthens digital privacy by requiring prior authorization to track users' location.",
     "source": [
-      "the-decoder.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "German electric drone breaks world speed record at 434 mph (698 km/h)",
-    "summary": "Designed as an anti-aircraft interceptor, the drone far exceeds the official record and seeks Guinness certification.",
+    "title": "Illinois enacts one of the strictest artificial intelligence laws in the country",
+    "summary": "Governor Pritzker signs bill 315, which imposes comprehensive regulations on AI development and use.",
     "source": [
-      "tomshardware.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Huawei enters South Korean AI chip market with Atlas Ascend 950 superclusters",
-    "summary": "The new systems offer three times the inference performance of the H20 GPU at a quarter of the cost.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Wisconsin neighbors sue Microsoft over noise and light pollution from its AI data center",
-    "summary": "The class-action lawsuit alleges that the $7.3 billion facility generates noise, vibrations, and excessive light.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Reddit uses language models to combat AI-generated misinformation",
-    "summary": "The platform employs AI tools to detect deceptive content created by the same technology.",
+    "title": "Netflix, pioneer of 'binge-watching', may be moving beyond the series marathon model",
+    "summary": "The streaming platform explores new content strategies amid changing viewer habits.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Netflix moves away from the binge-watching model and bets on weekly releases",
-    "summary": "The platform reconsiders its content strategy in the face of changing consumption habits.",
+    "title": "Microsoft 365 Copilot adoption remains below 4.5% three years after launch",
+    "summary": "Only 1% of users use it weekly, while the company increases service prices.",
     "source": [
-      "techcrunch.com"
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "FCC eliminates rule that required internet providers to list all their fees",
+    "summary": "The measure revokes a Biden-era regulation that aimed to bring transparency to costs for consumers.",
+    "source": [
+      "/r/technology"
     ],
     "count": 1
   }
