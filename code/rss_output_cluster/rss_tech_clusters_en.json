@@ -1,45 +1,28 @@
 [
   {
-    "title": "Hidden authentication backdoor discovered in Tenda router firmware",
-    "summary": "CERT/CC warns about multiple firmware versions that allow administrative access without credentials.",
+    "title": "Anthropic's Claude Cowork is now available on mobile and web",
+    "summary": "Anthropic's AI agent, Claude Cowork, expands to mobile and web platforms, allowing background task execution.",
     "source": [
-      "news.ycombinator.com",
-      "bandaancha.eu",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic launches its Claude Cowork agent on mobile and web",
-    "summary": "Anthropic's AI assistant is now available on phones and browsers, expanding its use beyond the desktop.",
-    "source": [
+      "alternativeto.net",
       "the-decoder.com",
       "techcrunch.com",
       "wired.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Meta uses Instagram photos to train its generative AI unless users opt out",
-    "summary": "The new Muse Image tool generates AI images from users' photos, sparking controversy over privacy.",
+    "title": "Meta launches Muse Image, its new generative AI for images, with integration in Instagram and WhatsApp",
+    "summary": "The Muse Image model allows creating images based on users' photos, which has generated controversy over the use of personal data without explicit consent.",
     "source": [
+      "alternativeto.net",
       "techcrunch.com",
       "wired.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Microsoft replaces OpenAI and Anthropic models with its own to cut Copilot costs",
-    "summary": "The company reduces costs in its Copilot assistant by relying less on third-party models and more on its own developments.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DeepSeek designs its own AI chip to compete with NVIDIA",
-    "summary": "The Chinese AI startup develops a custom processor to reduce its dependence on NVIDIA chips.",
+    "title": "China considers imposing restrictions on the export of its advanced artificial intelligence models",
+    "summary": "Taking example from the United States, China evaluates limiting the export of its best AI systems, which could affect Europe and the global market.",
     "source": [
       "xataka.com",
       "the-decoder.com"
@@ -47,8 +30,35 @@
     "count": 2
   },
   {
-    "title": "Samsung's profits multiply by 19 thanks to the semiconductor boom",
-    "summary": "Samsung's chip division surpasses the combined profits of the last 40 years and becomes the most profitable company in the world.",
+    "title": "Valve releases official Windows drivers for Steam Machine",
+    "summary": "The drivers allow proper use of the Steam Machine with Windows, facilitating installation and compatibility.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The 'red line of death' on Steam Machine has a solution: clear the CMOS",
+    "summary": "Valve confirms that the red screen problem is not a GPU failure and is easily fixed with a CMOS memory reset.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft cuts costs in artificial intelligence by replacing external models with its own",
+    "summary": "The company uses its own AI models for Copilot and other services, reducing dependence on OpenAI and Anthropic to save costs.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Samsung breaks profit records thanks to its memory chips, but the stock market falls 7%",
+    "summary": "Samsung's chip division multiplies its profits by 19, surpassing Nvidia as the world's most profitable company, although investors show skepticism.",
     "source": [
       "xataka.com",
       "tomshardware.com"
@@ -56,8 +66,17 @@
     "count": 2
   },
   {
-    "title": "Sony faces a wave of criticism for ending physical games and petitions exceed 200,000 signatures",
-    "summary": "Sony's decision to stop producing physical media for new titles generates a strong reaction on social media and a massive petition.",
+    "title": "Serious backdoor discovered in Tenda routers allows unauthorized access",
+    "summary": "Researchers reveal that multiple versions of Tenda firmware contain a hidden authentication backdoor, compromising device security.",
+    "source": [
+      "news.ycombinator.com",
+      "bandaancha.eu"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony plans to eliminate physical games on PlayStation and sparks a wave of criticism",
+    "summary": "After the announcement that new titles will be digital-only, players have started a petition with nearly 200,000 signatures and social media erupts in protests.",
     "source": [
       "hardzone.es",
       "tomshardware.com"
@@ -65,71 +84,8 @@
     "count": 2
   },
   {
-    "title": "The red light on Steam Machines is fixed by resetting the CMOS, according to Valve and the community",
-    "summary": "The dreaded red line error is not a hardware failure but a firmware problem that is easily resolved.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel confirms its Nova Lake processors will restore AVX-512 compatibility",
-    "summary": "The P and E cores of Intel's next-generation CPUs will include native support for AVX-512 instructions according to the latest kernel patches.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Longsys (Lexar) expects a 60,000% profit increase and launches new DDR5 kits",
-    "summary": "The Chinese memory company benefits from high demand and introduces DDR5 RAM based on CXMT technology up to 7600 MT/s.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Future NVIDIA RTX 50 Super listed in Seasonic's power supply calculator",
-    "summary": "The unannounced graphics cards show a power consumption between 10 and 17% higher than the original models.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "X launches a video editor on iOS with subtitles and green screen to encourage original content",
-    "summary": "The social network introduces editing tools for creators to publish their own content instead of reposting others' content.",
-    "source": [
-      "techcrunch.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "xAI merges with SpaceX and becomes SpaceXAI",
-    "summary": "Elon Musk's companies integrate into a single entity to simplify its corporate structure and attract investors.",
-    "source": [
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA reveals its Rigel CPU core will be the next-generation processor for Rosa CPU",
-    "summary": "The company has submitted initial support for the Rigel core in the GCC compiler and will integrate it into its future processors.",
-    "source": [
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China studies restricting export of its most advanced AI models, following the US example",
-    "summary": "Both powers consider limiting access to their AI technologies, while Europe is caught in the middle.",
+    "title": "DeepSeek develops its own artificial intelligence chip to compete with NVIDIA",
+    "summary": "Chinese company DeepSeek, known for its AI models, is designing a specialized chip that would rival NVIDIA's solutions.",
     "source": [
       "xataka.com",
       "the-decoder.com"
@@ -137,41 +93,85 @@
     "count": 2
   },
   {
-    "title": "Microsoft lays off idTech team and restructures its Xbox division",
-    "summary": "The company continues cutbacks in its gaming area with studio closures and changes in Xbox leadership.",
+    "title": "X launches a video editor on iOS with subtitle and green screen features",
+    "summary": "Social network X introduces video editing tools to encourage original content creation and reduce stolen posts.",
     "source": [
-      "news.ycombinator.com",
-      "hardzone.es"
+      "techcrunch.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "Google sets launch of new Pixel phones for August 12",
-    "summary": "Google's annual event where the new Pixel smartphones are expected to be launched will take place in August.",
+    "title": "Researchers demonstrate how to trick GitHub AI agents to leak private repositories",
+    "summary": "A technique called 'GitLost' exploits flaws in GitHub's agent workflows to expose confidential data from private repositories.",
+    "source": [
+      "news.ycombinator.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA reveals its new Rigel CPU core for future Rosa processors",
+    "summary": "NVIDIA adds support for its Rigel core to the GCC compiler, which will be the basis for its future high-performance CPUs.",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel Nova Lake CPUs regain AVX-512 support after its removal in Alder Lake",
+    "summary": "Intel's upcoming Nova Lake processors will feature native AVX-512 support in their high-performance and efficiency cores, as revealed by Linux kernel patches.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI launches GPT-5.6 'Sol' this Thursday after delay imposed by US government",
+    "summary": "OpenAI's new version includes the Sol, Terra, and Luna models, and is released to the public after a forced pause due to safety regulations.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SambaNova raises $1 billion and reaches a valuation of $11 billion",
+    "summary": "The AI chip startup secures a new funding round to boost its AI processors.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Figma acquires the team behind a coding-by-vibration app",
-    "summary": "Design platform Figma buys the team of an app that allows creating code through vibrations, reinforcing its bet on AI.",
+    "title": "The European Union will require all new cars to include a driver monitoring camera",
+    "summary": "From now on, every new vehicle sold in the EU must incorporate a driver monitoring system to improve road safety.",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Hacktivists attack US Army websites in protest against Donald Trump",
+    "summary": "A group of cyberactivists deface official US Army pages to denounce Trump's policies.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "OpenAI's director of futurism leaves the company",
-    "summary": "The person responsible for anticipating future trends in artificial intelligence leaves OpenAI, according to the company.",
+    "title": "15-year-old GhostLock vulnerability discovered that allows container escape in Linux",
+    "summary": "The flaw, present in most Linux distributions, allows attackers to gain root access and escape the container.",
     "source": [
-      "wired.com"
+      "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "South Korea's $880 billion chips and AI plan faces serious energy challenges",
-    "summary": "The project to build semiconductor megaclusters requires a quarter of Seoul's total electricity demand and large amounts of water.",
+    "title": "Intel patents new XBM memory architecture that eliminates HBM's silicon interposer",
+    "summary": "XBM technology stacks DRAM with backside transistors and UCIe links to reduce costs and improve bandwidth in artificial intelligence.",
     "source": [
       "tomshardware.com"
     ],

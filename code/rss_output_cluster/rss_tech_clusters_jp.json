@@ -1,45 +1,28 @@
 [
   {
-    "title": "Tendaルーターのファームウェアに隠れた認証バックドアが発見される",
-    "summary": "CERT/CCは、複数のファームウェアバージョンが資格情報なしで管理アクセスを許可することを警告しています。",
+    "title": "AnthropicのClaude Coworkがモバイルデバイスとウェブで利用可能に",
+    "summary": "AnthropicのAIエージェント、Claude Coworkがモバイルとウェブプラットフォームに拡大し、バックグラウンドでのタスク実行を可能に。",
     "source": [
-      "news.ycombinator.com",
-      "bandaancha.eu",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic、モバイルデバイスとWebでClaude Coworkエージェントを開始",
-    "summary": "AnthropicのAIアシスタントが、スマートフォンやブラウザでも利用可能になり、デスクトップ以外への利用が広がっています。",
-    "source": [
+      "alternativeto.net",
       "the-decoder.com",
       "techcrunch.com",
       "wired.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Metaはユーザーがオプトアウトしない限り、Instagramの写真を使用して生成AIをトレーニング",
-    "summary": "新しいツールMuse Imageは、ユーザーの写真からAI画像を生成し、プライバシーの問題で議論を呼んでいます。",
+    "title": "Meta、新しい画像生成AI「Muse Image」を発表、InstagramとWhatsAppに統合",
+    "summary": "Muse Imageモデルはユーザーの写真に基づいて画像を作成できるが、明示的な同意なしに個人データを使用しているとの論争を引き起こしている。",
     "source": [
+      "alternativeto.net",
       "techcrunch.com",
       "wired.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Microsoft、Copilotのコスト削減のためOpenAIとAnthropicのモデルを自社モデルに置き換え",
-    "summary": "同社は、サードパーティのモデルへの依存を減らし、自社開発に依存することで、Copilotアシスタントのコストを削減しています。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DeepSeek、NVIDIAと競合する自社製AIチップを設計",
-    "summary": "中国のAIスタートアップは、NVIDIAチップへの依存を減らすためにカスタムプロセッサを開発しています。",
+    "title": "中国、高度な人工知能モデルの輸出規制を検討",
+    "summary": "米国に倣い、中国は最高のAIシステムの輸出制限を評価しており、欧州や世界市場に影響を与える可能性がある。",
     "source": [
       "xataka.com",
       "the-decoder.com"
@@ -47,8 +30,35 @@
     "count": 2
   },
   {
-    "title": "サムスン、半導体ブームにより利益が19倍に急増",
-    "summary": "サムスンのチップ部門は過去40年間の合計利益を超え、世界で最も収益性の高い企業になりました。",
+    "title": "Valve、Steam Machine向けWindows公式ドライバーを公開",
+    "summary": "このドライバーにより、WindowsでSteam Machineを正しく使用できるようになり、インストールと互換性が容易になる。",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Steam Machineの「死の赤い線」問題には解決策：CMOSクリア",
+    "summary": "Valveは、赤い画面の問題はGPUの障害ではなく、CMOSメモリのリセットで簡単に修正できることを確認。",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、外部モデルを自社モデルに置き換えAIコストを削減",
+    "summary": "同社はCopilotやその他のサービスに自社のAIモデルを使用し、OpenAIやAnthropicへの依存を減らしてコストを削減。",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Samsung、メモリーチップで利益記録を更新も株価は7%下落",
+    "summary": "Samsungの半導体部門は利益を19倍に増やし、Nvidiaを抜いて世界で最も収益性の高い企業となったが、投資家は懐疑的。",
     "source": [
       "xataka.com",
       "tomshardware.com"
@@ -56,8 +66,17 @@
     "count": 2
   },
   {
-    "title": "ソニー、物理的なゲームの中止で批判の波、署名は20万を超える",
-    "summary": "新作タイトル向けの物理メディアの生産を中止するというソニーの決定は、ソーシャルメディアで強い反発を引き起こし、大規模な署名キャンペーンが行われています。",
+    "title": "Tendaルーターに深刻なバックドアが発見され、不正アクセスが可能に",
+    "summary": "研究者らは、Tendaのファームウェアの複数バージョンに隠された認証バックドアが含まれており、デバイスのセキュリティを危険にさらしていることを明らかにした。",
+    "source": [
+      "news.ycombinator.com",
+      "bandaancha.eu"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony、PlayStationで物理ゲームを廃止予定で批判の波",
+    "summary": "新作タイトルがデジタルのみになるとの発表後、ゲーマーは約20万の署名を集めた請願を開始し、ソーシャルメディアは抗議の声で溢れている。",
     "source": [
       "hardzone.es",
       "tomshardware.com"
@@ -65,71 +84,8 @@
     "count": 2
   },
   {
-    "title": "Valveとコミュニティが確認、Steam Machinesの赤色灯はCMOSリセットで解決",
-    "summary": "恐れられていた赤色線エラーはハードウェアの故障ではなく、簡単に解決できるファームウェアの問題です。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel、Nova LakeプロセッサがAVX-512互換性を復活させることを確認",
-    "summary": "最新のカーネルパッチによると、Intelの次世代CPUのPコアとEコアはAVX-512命令をネイティブサポートする予定です。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Longsys（Lexar）、60,000%の利益増加を見込み、新しいDDR5キットを発表",
-    "summary": "中国のメモリ企業は高い需要の恩恵を受けており、CXMTテクノロジーに基づく最大7600 MT/sのDDR5 RAMを発表しています。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIAの将来のRTX 50 SuperがSeasonicの計算機にリストアップされる",
-    "summary": "未発表のグラフィックスカードは、元のモデルよりも10～17%高い消費電力を示しています。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "X、オリジナルコンテンツを促進するため、字幕とグリーンスクリーン機能を備えたiOS向けビデオエディタを公開",
-    "summary": "ソーシャルネットワークは、クリエイターが他人のコンテンツを再投稿するのではなく、独自のコンテンツを公開できるように編集ツールを導入しています。",
-    "source": [
-      "techcrunch.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "xAIがSpaceXと合併し、SpaceXAIになる",
-    "summary": "イーロン・マスクの企業は、企業構造を簡素化し投資家を引き付けるために単一のエンティティに統合されています。",
-    "source": [
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA、CPUコアRigelがRosa CPU向け次世代プロセッサになることを発表",
-    "summary": "同社はGCCコンパイラにRigelコアの初期サポートを追加し、将来のプロセッサに統合する予定です。",
-    "source": [
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国、米国に倣い、最先端AIモデルの輸出制限を検討",
-    "summary": "両大国は自国の人工知能技術へのアクセスを制限することを検討しており、欧州はその狭間で板挟みになっています。",
+    "title": "DeepSeek、NVIDIAと競合する独自のAIチップを開発",
+    "summary": "AIモデルで知られる中国企業DeepSeekは、NVIDIAのソリューションと競合する専用チップを設計している。",
     "source": [
       "xataka.com",
       "the-decoder.com"
@@ -137,41 +93,85 @@
     "count": 2
   },
   {
-    "title": "Microsoft、idTechチームを解雇しXbox部門を再編",
-    "summary": "同社は、スタジオ閉鎖とXboxのトップ交代により、ゲーム分野での人員削減を続けています。",
+    "title": "X、iOS向けに字幕やグリーンスクリーン機能を備えたビデオエディターをリリース",
+    "summary": "ソーシャルネットワークXは、オリジナルコンテンツの作成を促進し、盗まれた投稿を減らすためにビデオ編集ツールを導入。",
     "source": [
-      "news.ycombinator.com",
-      "hardzone.es"
+      "techcrunch.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "Google、新型Pixelの発表を8月12日に設定",
-    "summary": "新しいPixelスマートフォンの発売が期待されるGoogleの年間イベントは8月に開催されます。",
+    "title": "研究者、GitHubのAIエージェントを欺いてプライベートリポジトリを漏洩させる方法を実証",
+    "summary": "「GitLost」と呼ばれる手法は、GitHubエージェントワークフローの欠陥を悪用して、プライベートリポジトリの機密データを暴露する。",
+    "source": [
+      "news.ycombinator.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA、将来のRosaプロセッサ向け新CPUコア「Rigel」を公開",
+    "summary": "NVIDIAは、GCCコンパイラにRigelコアのサポートを追加。これは将来の高性能CPUのベースとなる。",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel Nova Lake CPU、Alder Lakeで削除されたAVX-512互換性を復活",
+    "summary": "Intelの次期Nova Lakeプロセッサは、高性能コアと効率コアの両方でAVX-512のネイティブサポートを組み込むと、Linuxカーネルのパッチが明らかに。",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、米国政府による遅延の後、今週木曜日にGPT-5.6「Sol」をリリース",
+    "summary": "OpenAIの新バージョンにはSol、Terra、Lunaモデルが含まれ、セキュリティ規制による強制的な一時停止の後に一般公開される。",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SambaNova、10億ドルを調達し評価額110億ドルに",
+    "summary": "AIチップスタートアップが新たな資金調達ラウンドを獲得し、AIプロセッサを推進。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Figma、振動でコードを作成するアプリのチームを買収",
-    "summary": "デザインプラットフォームのFigmaは、振動を使ってコードを生成できるアプリのチームを買収し、AIへの取り組みを強化しています。",
+    "title": "EU、全ての新車にドライバー監視カメラの搭載を義務化",
+    "summary": "今後、EUで販売されるすべての新車には、道路安全を向上させるためにドライバーモニタリングシステムの搭載が義務付けられる。",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ハクティビスト、ドナルド・トランプに抗議して米陸軍のウェブサイトを攻撃",
+    "summary": "サイバー活動家グループが、トランプの政策を非難するために米陸軍の公式ページを改ざん。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "OpenAIのフューチャリズム責任者が同社を去る",
-    "summary": "人工知能の将来のトレンドを予測する責任者がOpenAIを去ったと、同社が発表しました。",
+    "title": "15年前の「GhostLock」脆弱性を発見、Linuxコンテナエスケープが可能",
+    "summary": "この欠陥はほとんどのLinuxディストリビューションに存在し、攻撃者がルートアクセスを取得してコンテナから脱出することを可能にする。",
     "source": [
-      "wired.com"
+      "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "韓国の8800億ドル規模のチップ・AI計画、深刻なエネルギー課題に直面",
-    "summary": "半導体メガクラスターを構築するプロジェクトには、ソウルの総電力需要の4分の1と大量の水が必要です。",
+    "title": "Intel、HBMのシリコンインターポーザーを排除する新メモリアーキテクチャXBMを特許取得",
+    "summary": "XBM技術は、バックサイドトランジスタとUCIeリンクでDRAMを積層し、AIにおけるコスト削減と帯域幅の向上を実現。",
     "source": [
       "tomshardware.com"
     ],
