@@ -1,18 +1,17 @@
 [
   {
-    "title": "Microsoft reestructura su división Xbox con despidos masivos y cierre de estudios",
-    "summary": "La compañía recorta 3.200 puestos de trabajo, vende estudios y reconoce el fracaso de su estrategia de suscripciones, mientras evalúa cambios en el hardware.",
+    "title": "Descubren una puerta trasera de autenticación oculta en el firmware de routers Tenda",
+    "summary": "CERT/CC alerta sobre múltiples versiones de firmware que permiten acceso administrativo sin credenciales.",
     "source": [
       "news.ycombinator.com",
-      "hardzone.es",
-      "/r/technology",
-      "alternativeto.net"
+      "bandaancha.eu",
+      "thehackernews.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
     "title": "Anthropic lanza su agente Claude Cowork en dispositivos móviles y web",
-    "summary": "El asistente de IA ya está disponible en smartphones y navegadores para realizar tareas de forma autónoma.",
+    "summary": "El asistente de IA de Anthropic ya está disponible en teléfonos y navegadores, ampliando su uso más allá del escritorio.",
     "source": [
       "the-decoder.com",
       "techcrunch.com",
@@ -21,73 +20,26 @@
     "count": 3
   },
   {
-    "title": "Sony elimina los juegos físicos en PlayStation y desata una ola de críticas",
-    "summary": "La decisión de dejar de producir medios físicos para nuevos títulos provoca una petición con casi 200.000 firmas y miles de quejas en redes sociales.",
+    "title": "Meta usa fotos de Instagram para entrenar su IA generativa a menos que los usuarios opten por excluirse",
+    "summary": "La nueva herramienta Muse Image genera imágenes con IA a partir de fotos de los usuarios, generando polémica por la privacidad.",
     "source": [
-      "/r/technology",
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Samsung bate récords de beneficios en su división de chips y se convierte en la empresa más rentable del mundo",
-    "summary": "La división de semiconductores de Samsung registra ganancias que superan las de los últimos 40 años juntos, impulsadas por la demanda de memoria.",
-    "source": [
-      "xataka.com",
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Valve soluciona el problema de la línea roja en Steam Machine con solo borrar la CMOS",
-    "summary": "La temida línea roja de muerte en las Steam Machines no era un fallo de GPU y tiene un sencillo remedio oficial: limpiar la memoria CMOS.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "Los procesadores Intel Nova Lake recuperarán la compatibilidad con AVX-512",
-    "summary": "Los próximos chips de Intel para sobremesa incluirán de nuevo las instrucciones AVX-512 en sus núcleos de rendimiento y eficiencia según los parches de Linux.",
+    "title": "Microsoft reemplaza modelos de OpenAI y Anthropic por sus propios modelos para abaratar Copilot",
+    "summary": "La compañía reduce costos en su asistente Copilot al depender menos de modelos de terceros y más de sus propios desarrollos.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Reino Unido otorga estatus de importancia nacional a los centros de datos para acelerar su construcción",
-    "summary": "El gobierno británico permite a los proyectos de centros de datos saltarse normativas locales y reducir plazos, ahorrando miles de millones en disputas.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Descubren una puerta trasera crítica en los routers baratos de Tenda",
-    "summary": "La agencia CERT/CC advierte que los routers Tenda contienen una cuenta de administrador oculta que permite el acceso remoto no autorizado.",
-    "source": [
-      "bandaancha.eu",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "xAI de Elon Musk se fusiona con SpaceX y se renombra como SpaceXAI",
-    "summary": "Las dos compañías de Musk se unen en una sola entidad llamada SpaceXAI, en un movimiento que busca simplificar la estructura corporativa y atraer a Wall Street.",
-    "source": [
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DeepSeek se expande más allá de los modelos de IA y desarrolla su propio chip para competir con NVIDIA",
-    "summary": "La empresa china de inteligencia artificial anuncia planes para diseñar chips propios y dejar de depender de proveedores externos.",
+    "title": "DeepSeek diseña su propio chip de IA para competir con NVIDIA",
+    "summary": "La startup china de inteligencia artificial desarrolla un procesador personalizado para reducir su dependencia de los chips de NVIDIA.",
     "source": [
       "xataka.com",
       "the-decoder.com"
@@ -95,35 +47,26 @@
     "count": 2
   },
   {
-    "title": "Microsoft 365 Copilot reduce costos y enfrenta baja adopción entre los usuarios",
-    "summary": "Microsoft elimina los modelos de OpenAI y Anthropic para abaratar el servicio, mientras que la tasa de uso semanal del asistente no alcanza el 1%.",
+    "title": "Samsung multiplica sus beneficios por 19 gracias al auge de los semiconductores",
+    "summary": "La división de chips de Samsung supera las ganancias combinadas de los últimos 40 años y se convierte en la empresa más rentable del mundo.",
     "source": [
-      "the-decoder.com",
-      "/r/technology"
+      "xataka.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "X lanza un editor de vídeo para iOS con subtítulos y pantalla verde",
-    "summary": "La red social introduce herramientas de edición para fomentar la creación de contenido original y reducir las publicaciones robadas.",
+    "title": "Sony enfrenta una ola de críticas por poner fin a los juegos físicos y las peticiones de firmas superan las 200.000",
+    "summary": "La decisión de Sony de dejar de producir medios físicos para nuevos títulos genera una fuerte reacción en redes sociales y una petición de firmas masiva.",
     "source": [
-      "techcrunch.com",
-      "alternativeto.net"
+      "hardzone.es",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic descubre un espacio de trabajo oculto en Claude y hace legible su monólogo interno",
-    "summary": "Mediante la nueva Lente Jacobiana, los investigadores pueden leer el razonamiento interno de Claude y revelan que el modelo desarrolla un espacio J oculto.",
-    "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Longsys, matriz de Lexar, dispara sus beneficios un 60.000% por la demanda de memorias",
-    "summary": "El fabricante chino de chips de memoria y almacenamiento prevé ganancias de casi 1.500 millones de dólares en el primer semestre, mientras prepara nuevos módulos DDR5 RGB.",
+    "title": "La luz roja en las Steam Machines se soluciona reiniciando la CMOS, según confirman Valve y la comunidad",
+    "summary": "El temido error de la línea roja no es un fallo de hardware sino un problema de firmware que se resuelve fácilmente.",
     "source": [
       "videocardz.com",
       "tomshardware.com"
@@ -131,50 +74,106 @@
     "count": 2
   },
   {
-    "title": "El Tribunal Supremo de EE.UU. exige orden judicial para acceder a los datos de ubicación del móvil",
-    "summary": "La corte dictamina que la policía necesita una orden para recopilar datos de geolocalización de los teléfonos, reforzando la privacidad digital.",
+    "title": "Intel confirma que sus procesadores Nova Lake recuperarán la compatibilidad con AVX-512",
+    "summary": "Los núcleos P y E de la próxima generación de CPUs Intel incluirán soporte nativo para instrucciones AVX-512 según los últimos parches del kernel.",
     "source": [
-      "/r/technology"
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Longsys (Lexar) prevé un incremento de beneficios del 60.000% y lanza nuevos kits DDR5",
+    "summary": "La empresa china de memorias se beneficia de la alta demanda y presenta memorias RAM DDR5 basadas en tecnología CXMT de hasta 7600 MT/s.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Las futuras RTX 50 Super de NVIDIA aparecen listadas en la calculadora de Seasonic",
+    "summary": "Las tarjetas gráficas no anunciadas muestran un consumo energético entre un 10 y 17% superior al de los modelos originales.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "X lanza un editor de vídeo en iOS con subtítulos y pantalla verde para fomentar contenido original",
+    "summary": "La red social introduce herramientas de edición para que los creadores publiquen contenido propio en lugar de republicar contenido ajeno.",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "xAI se fusiona con SpaceX y se convierte en SpaceXAI",
+    "summary": "Las empresas de Elon Musk se integran en una sola entidad para simplificar su estructura corporativa y atraer a los inversores.",
+    "source": [
+      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA revela que su núcleo CPU Rigel será el procesador de próxima generación para Rosa CPU",
+    "summary": "La compañía ha subido soporte inicial para el núcleo Rigel en el compilador GCC y lo integrará en sus futuros procesadores.",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "China estudia restringir la exportación de sus modelos de IA más avanzados, siguiendo el ejemplo de EE.UU.",
+    "summary": "Ambas potencias consideran limitar el acceso a sus tecnologías de inteligencia artificial, mientras Europa queda atrapada en medio.",
+    "source": [
+      "xataka.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft despide al equipo de idTech y reestructura su división Xbox",
+    "summary": "La compañía continúa los recortes en su área de videojuegos con el cierre de estudios y cambios en la cúpula de Xbox.",
+    "source": [
+      "news.ycombinator.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google fija la presentación de sus nuevos Pixel para el 12 de agosto",
+    "summary": "El evento anual de Google donde se espera el lanzamiento de los nuevos smartphones Pixel se celebrará en agosto.",
+    "source": [
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "El FBI y Google desarticulan una botnet que infectó 2 millones de Smart TVs",
-    "summary": "La operación conjunta eliminó una red de dispositivos secuestrados utilizados para ataques cibernéticos a gran escala.",
+    "title": "Figma adquiere el equipo detrás de una aplicación de código por vibración",
+    "summary": "La plataforma de diseño Figma compra al equipo de una app que permite crear código mediante vibraciones, reforzando su apuesta por la IA.",
     "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Un centro de datos de Meta contamina el suministro de agua de una ciudad con bacterias letales",
-    "summary": "Las autoridades investigan la filtración de bacterias peligrosas desde las instalaciones de inteligencia artificial de Meta en la red de agua municipal.",
+    "title": "El director de futurismo de OpenAI abandona la compañía",
+    "summary": "La responsable de anticipar tendencias futuras en inteligencia artificial deja OpenAI, según ha informado la compañía.",
     "source": [
-      "/r/technology"
+      "wired.com"
     ],
     "count": 1
   },
   {
-    "title": "La FCC elimina la norma que obliga a los ISP a listar todas sus tarifas",
-    "summary": "La decisión revoca una política de la era Biden que buscaba transparentar los costos de internet para los consumidores.",
+    "title": "El plan de chips e IA de Corea del Sur por 880.000 millones de dólares enfrenta graves desafíos energéticos",
+    "summary": "El proyecto para construir megaclusters de semiconductores requiere una cuarta parte de la demanda eléctrica total de Seúl y grandes cantidades de agua.",
     "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Half-Life 2 ahora se puede jugar en el navegador a más de 100 FPS",
-    "summary": "Un port ingenioso recrea toda la campaña del videojuego usando WebGL 2, con soporte de partidas guardadas y consola.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El Pentágono lanza la campaña 'War Force' para atraer ingenieros de software",
-    "summary": "El Departamento de Defensa de EE.UU. busca reclutar talento tecnológico mediante una iniciativa que promete trabajar en proyectos de defensa avanzados.",
-    "source": [
-      "/r/technology"
+      "tomshardware.com"
     ],
     "count": 1
   }

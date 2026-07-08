@@ -1,18 +1,17 @@
 [
   {
-    "title": "マイクロソフト、Xbox部門を再編、大規模レイオフとスタジオ閉鎖",
-    "summary": "同社は3,200人の人員削減、スタジオ売却、サブスクリプション戦略の失敗を認め、ハードウェアの変更を検討中。",
+    "title": "Tendaルーターのファームウェアに隠れた認証バックドアが発見される",
+    "summary": "CERT/CCは、複数のファームウェアバージョンが資格情報なしで管理アクセスを許可することを警告しています。",
     "source": [
       "news.ycombinator.com",
-      "hardzone.es",
-      "/r/technology",
-      "alternativeto.net"
+      "bandaancha.eu",
+      "thehackernews.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Anthropic、モバイルとウェブでClaude Coworkエージェントを公開",
-    "summary": "AIアシスタントがスマートフォンとブラウザで利用可能になり、自律的にタスクを実行。",
+    "title": "Anthropic、モバイルデバイスとWebでClaude Coworkエージェントを開始",
+    "summary": "AnthropicのAIアシスタントが、スマートフォンやブラウザでも利用可能になり、デスクトップ以外への利用が広がっています。",
     "source": [
       "the-decoder.com",
       "techcrunch.com",
@@ -21,73 +20,26 @@
     "count": 3
   },
   {
-    "title": "ソニー、PlayStationで物理ゲームを廃止し批判の波",
-    "summary": "新作タイトルの物理メディア生産中止の決定により、約20万筆の署名と数千の苦情がSNSに寄せられる。",
+    "title": "Metaはユーザーがオプトアウトしない限り、Instagramの写真を使用して生成AIをトレーニング",
+    "summary": "新しいツールMuse Imageは、ユーザーの写真からAI画像を生成し、プライバシーの問題で議論を呼んでいます。",
     "source": [
-      "/r/technology",
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "サムスン、半導体部門で過去最高益を記録し世界で最も収益性の高い企業に",
-    "summary": "サムスンの半導体部門はメモリ需要に牽引され、過去40年間の合計を超える利益を達成。",
-    "source": [
-      "xataka.com",
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Valve、Steam Machineの赤線問題をCMOSクリアだけで解決",
-    "summary": "Steam Machineの恐れられた赤い線はGPUの故障ではなく、公式の簡単な対処法はCMOSメモリのクリア。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel Nova LakeプロセッサがAVX-512互換性を復活",
-    "summary": "Intelの次期デスクトップ向けチップは、Linuxパッチによると、パフォーマンスコアと効率コアにAVX-512命令を再び搭載。",
+    "title": "Microsoft、Copilotのコスト削減のためOpenAIとAnthropicのモデルを自社モデルに置き換え",
+    "summary": "同社は、サードパーティのモデルへの依存を減らし、自社開発に依存することで、Copilotアシスタントのコストを削減しています。",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "英国、データセンターに国家的重要性の地位を付与し建設を促進",
-    "summary": "英国政府はデータセンタープロジェクトに地域規制の回避と期間短縮を認め、紛争で数十億を節約。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tendaの安価なルーターに重大なバックドアを発見",
-    "summary": "CERT/CCは、Tendaルーターに隠された管理者アカウントが存在し、不正なリモートアクセスを可能にすると警告。",
-    "source": [
-      "bandaancha.eu",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "イーロン・マスクのxAIがSpaceXと合併しSpaceXAIに改名",
-    "summary": "マスクの2社がSpaceXAIという単一の事業体に統合。企業構造を簡素化しウォール街を魅了する動き。",
-    "source": [
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DeepSeek、AIモデルを超えて独自チップを開発、NVIDIAと競合へ",
-    "summary": "中国のAI企業が自社チップ設計の計画を発表し、外部サプライヤーへの依存から脱却。",
+    "title": "DeepSeek、NVIDIAと競合する自社製AIチップを設計",
+    "summary": "中国のAIスタートアップは、NVIDIAチップへの依存を減らすためにカスタムプロセッサを開発しています。",
     "source": [
       "xataka.com",
       "the-decoder.com"
@@ -95,35 +47,26 @@
     "count": 2
   },
   {
-    "title": "Microsoft 365 Copilot、コスト削減もユーザー導入率は低迷",
-    "summary": "MicrosoftはOpenAIとAnthropicのモデルを排除してサービスを安くする一方、アシスタントの週間使用率は1%未満。",
+    "title": "サムスン、半導体ブームにより利益が19倍に急増",
+    "summary": "サムスンのチップ部門は過去40年間の合計利益を超え、世界で最も収益性の高い企業になりました。",
     "source": [
-      "the-decoder.com",
-      "/r/technology"
+      "xataka.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "X、iOS向けに字幕とグリーンスクリーン対応のビデオエディタを公開",
-    "summary": "ソーシャルネットワークがオリジナルコンテンツ作成を促進し、盗用投稿を減らすための編集ツールを導入。",
+    "title": "ソニー、物理的なゲームの中止で批判の波、署名は20万を超える",
+    "summary": "新作タイトル向けの物理メディアの生産を中止するというソニーの決定は、ソーシャルメディアで強い反発を引き起こし、大規模な署名キャンペーンが行われています。",
     "source": [
-      "techcrunch.com",
-      "alternativeto.net"
+      "hardzone.es",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic、Claudeの隠されたワークスペースを発見し内部の独り言を可読に",
-    "summary": "新しいヤコビアンレンズにより、研究者はClaudeの内部推論を読み取ることができ、モデルが隠されたJ空間を発展させていることが明らかに。",
-    "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lexarの親会社Longsys、メモリ需要で利益が60,000%増加",
-    "summary": "中国のメモリ・ストレージチップメーカーは上半期に約15億ドルの利益を見込み、新たなDDR5 RGBモジュールを準備中。",
+    "title": "Valveとコミュニティが確認、Steam Machinesの赤色灯はCMOSリセットで解決",
+    "summary": "恐れられていた赤色線エラーはハードウェアの故障ではなく、簡単に解決できるファームウェアの問題です。",
     "source": [
       "videocardz.com",
       "tomshardware.com"
@@ -131,50 +74,106 @@
     "count": 2
   },
   {
-    "title": "米最高裁、携帯電話の位置情報データへのアクセスに令状を要求",
-    "summary": "裁判所は、警察が電話の位置情報データを収集するには令状が必要であるとの判断を下し、デジタルプライバシーを強化。",
+    "title": "Intel、Nova LakeプロセッサがAVX-512互換性を復活させることを確認",
+    "summary": "最新のカーネルパッチによると、Intelの次世代CPUのPコアとEコアはAVX-512命令をネイティブサポートする予定です。",
     "source": [
-      "/r/technology"
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Longsys（Lexar）、60,000%の利益増加を見込み、新しいDDR5キットを発表",
+    "summary": "中国のメモリ企業は高い需要の恩恵を受けており、CXMTテクノロジーに基づく最大7600 MT/sのDDR5 RAMを発表しています。",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIAの将来のRTX 50 SuperがSeasonicの計算機にリストアップされる",
+    "summary": "未発表のグラフィックスカードは、元のモデルよりも10～17%高い消費電力を示しています。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "X、オリジナルコンテンツを促進するため、字幕とグリーンスクリーン機能を備えたiOS向けビデオエディタを公開",
+    "summary": "ソーシャルネットワークは、クリエイターが他人のコンテンツを再投稿するのではなく、独自のコンテンツを公開できるように編集ツールを導入しています。",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "xAIがSpaceXと合併し、SpaceXAIになる",
+    "summary": "イーロン・マスクの企業は、企業構造を簡素化し投資家を引き付けるために単一のエンティティに統合されています。",
+    "source": [
+      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA、CPUコアRigelがRosa CPU向け次世代プロセッサになることを発表",
+    "summary": "同社はGCCコンパイラにRigelコアの初期サポートを追加し、将来のプロセッサに統合する予定です。",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国、米国に倣い、最先端AIモデルの輸出制限を検討",
+    "summary": "両大国は自国の人工知能技術へのアクセスを制限することを検討しており、欧州はその狭間で板挟みになっています。",
+    "source": [
+      "xataka.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、idTechチームを解雇しXbox部門を再編",
+    "summary": "同社は、スタジオ閉鎖とXboxのトップ交代により、ゲーム分野での人員削減を続けています。",
+    "source": [
+      "news.ycombinator.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google、新型Pixelの発表を8月12日に設定",
+    "summary": "新しいPixelスマートフォンの発売が期待されるGoogleの年間イベントは8月に開催されます。",
+    "source": [
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "FBIとGoogle、200万台のスマートTVに感染したボットネットを解体",
-    "summary": "共同作戦により、大規模なサイバー攻撃に使用されていた乗っ取られたデバイスのネットワークが排除された。",
+    "title": "Figma、振動でコードを作成するアプリのチームを買収",
+    "summary": "デザインプラットフォームのFigmaは、振動を使ってコードを生成できるアプリのチームを買収し、AIへの取り組みを強化しています。",
     "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Metaのデータセンター、致死性細菌で都市の水道を汚染",
-    "summary": "当局はMetaのAI施設から市営水道網への危険な細菌の漏洩を調査中。",
+    "title": "OpenAIのフューチャリズム責任者が同社を去る",
+    "summary": "人工知能の将来のトレンドを予測する責任者がOpenAIを去ったと、同社が発表しました。",
     "source": [
-      "/r/technology"
+      "wired.com"
     ],
     "count": 1
   },
   {
-    "title": "FCC、ISPに全料金の表示を義務付ける規則を撤廃",
-    "summary": "この決定は、インターネット費用を消費者に透明化しようとしたバイデン時代の政策を撤回するもの。",
+    "title": "韓国の8800億ドル規模のチップ・AI計画、深刻なエネルギー課題に直面",
+    "summary": "半導体メガクラスターを構築するプロジェクトには、ソウルの総電力需要の4分の1と大量の水が必要です。",
     "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Half-Life 2がブラウザで100FPS以上でプレイ可能に",
-    "summary": "巧妙な移植により、WebGL 2を使用してゲームの全キャンペーンが再現され、セーブデータとコンソールをサポート。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "米国防総省、ソフトウェアエンジニアを惹きつける「War Force」キャンペーンを開始",
-    "summary": "米国防総省は、高度な防衛プロジェクトでの作業を約束するイニシアチブを通じて、技術人材の採用を目指す。",
-    "source": [
-      "/r/technology"
+      "tomshardware.com"
     ],
     "count": 1
   }

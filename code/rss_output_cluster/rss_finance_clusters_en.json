@@ -1,174 +1,187 @@
 [
   {
-    "title": "SpaceX enters the Nasdaq 100 and receives bullish recommendations from investment banks",
-    "summary": "SpaceX joins the Nasdaq 100 index and several Wall Street banks issue optimistic forecasts as it prepares for its initial public offering.",
+    "title": "SpaceX debuts on Nasdaq 100 with bullish bank recommendations",
+    "summary": "Elon Musk's company begins trading on the selective index and analysts project an upside potential of up to $800 per share.",
     "source": [
+      "nasdaq.com",
+      "expansion.com",
+      "bolsamania.com",
       "handelsblatt.com",
+      "/r/stocks",
+      "ft.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Semiconductor sector plummets over AI doubts and Samsung drag",
+    "summary": "The SOX index nears a bear market after Samsung's drop despite its record profits, infecting the rest of the tech sector.",
+    "source": [
+      "nikkei.com",
+      "investing.com",
+      "/r/stocks",
+      "handelsblatt.com",
+      "bolsamania.com",
+      "nasdaq.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "US launches attacks against Iran and revokes oil licenses, crude rises to two-week highs",
+    "summary": "The escalation in the Strait of Hormuz raises oil prices and generates uncertainty about global supply.",
+    "source": [
+      "investing.com",
+      "nikkei.com",
       "ft.com",
-      "finance.yahoo.com",
+      "handelsblatt.com",
+      "bolsamania.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Artificial intelligence shakes financial markets: stock market falls and new regulation",
+    "summary": "Oracle plummets 25% over AI warnings, software falls sharply, and regulators incorporate AI into corporate governance codes.",
+    "source": [
+      "nasdaq.com",
+      "expansion.com",
+      "ft.com",
       "/r/stocks"
     ],
     "count": 4
   },
   {
-    "title": "Global stock markets fall due to semiconductor slump and concerns about AI spending",
-    "summary": "The Dow Jones, S&P 500, and Nasdaq close lower, dragged down by losses in chip stocks like Samsung, while the German Dax breaks its record streak and the Spanish Ibex also retreats.",
+    "title": "McCormick, Coty and Adnoc close agreements worth billions",
+    "summary": "McCormick enters the refrigerated business, Coty drops the Gucci license, and Adnoc buys Shell's subsidiary in South Africa.",
     "source": [
-      "bolsamania.com",
-      "handelsblatt.com",
-      "nikkei.com",
-      "expansion.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Samsung's record earnings fail to boost Asian and European markets",
-    "summary": "Despite reporting a historic profit, the drop in Samsung's shares drags down Asian and European stock exchanges, amid concerns about semiconductor demand.",
-    "source": [
-      "handelsblatt.com",
-      "bolsamania.com",
-      "nikkei.com"
+      "nasdaq.com",
+      "investing.com",
+      "ft.com"
     ],
     "count": 3
   },
   {
-    "title": "Trump rings the Wall Street bell from the White House and the Dow Jones hits a new high",
-    "summary": "President Donald Trump symbolically participates in the opening of the New York market just as the Dow Jones reaches a closing record.",
-    "source": [
-      "expansion.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Financial regulators warn about the increase in cyberattacks using artificial intelligence",
-    "summary": "The ECB and other banking supervisors demand that banks have an action plan in the face of the growing threat of AI-driven cyberattacks.",
-    "source": [
-      "ft.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Roadside assistance faces a driverless future",
-    "summary": "The expansion of autonomous vehicles could make traditional roadside assistance services obsolete, according to analysts.",
-    "source": [
-      "ft.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Cognizant Technology Solutions leads S&P 500 gains with a 6% rise",
-    "summary": "Cognizant shares surge after the IT services company reported quarterly results that exceeded expectations.",
+    "title": "Amazon issues $25 billion in bonds to finance its investment in artificial intelligence",
+    "summary": "The company seeks external capital for large AI expenditures, moving away from internal financing.",
     "source": [
       "investing.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Oil price rises after revocation of Iranian crude export licenses",
-    "summary": "The United States cancels oil export permits to Iran, pushing Brent up more than 3% in international markets.",
-    "source": [
-      "bolsamania.com",
       "nikkei.com"
     ],
     "count": 2
   },
   {
-    "title": "Amazon plans a $25 billion bond issuance",
-    "summary": "The e-commerce giant seeks to raise funds through the largest corporate debt issuance of the year to finance investments.",
+    "title": "Japan: 10-year bond yield reaches highest level in 30 years and Nikkei falls",
+    "summary": "Japanese government debt soars on oil-related inflation fears, while the stock market and yen weaken.",
     "source": [
-      "investing.com"
+      "ft.com",
+      "nikkei.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Best Buy and Apple warn of an impact on consumer prices",
-    "summary": "Retail chains warn that the increase in the cost of electronic components will be passed on to final prices.",
+    "title": "Apple tests CXMT chips for devices in China and iPhone could rise in price due to memory costs",
+    "summary": "The price of memory chips triples, which would force Apple to raise the iPhone price by 13 to 15 million yen.",
     "source": [
-      "finance.yahoo.com"
+      "investing.com",
+      "nikkei.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Rivian places 75 million shares in a new public offering",
-    "summary": "The electric vehicle manufacturer seeks to raise additional capital in a competitive market.",
+    "title": "Roadside rescue faces a future with autonomous vehicles",
+    "summary": "Roadside assistance services could become obsolete with the arrival of driverless cars, according to analysts.",
     "source": [
-      "/r/stocks"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Bank of England plans to ease capital rules for banks",
-    "summary": "The British monetary authority proposes reducing capital requirements to stimulate credit and economic growth.",
-    "source": [
+      "expansion.com",
       "ft.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "China grants investors greater access to bonds in Hong Kong",
-    "summary": "The Asian country expands foreign participation in the Hong Kong bond market, as a step toward financial opening.",
+    "title": "HSBC withdraws from private credit funds due to increased risks",
+    "summary": "The British bank reduces its exposure to private loans amid market volatility.",
     "source": [
+      "handelsblatt.com",
       "ft.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Greek shipping companies earned nearly $4 billion transporting Russian oil",
-    "summary": "Greek-flagged ships have moved Russian crude over the past three years, obtaining high profits despite sanctions.",
+    "title": "Bank supervisors demand banks plan against cyberattacks with artificial intelligence",
+    "summary": "The ECB and other bodies warn of a growing threat of AI-powered cyberattacks and call for immediate action.",
     "source": [
-      "ft.com"
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SK Hynix recommended by UBS to invest in US as ADR",
+    "summary": "The Swiss bank recommends buying ADRs of South Korean SK Hynix in the US market, generating debate among investors.",
+    "source": [
+      "/r/stocks",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Consolidation prospects for Asian stock markets on Wednesday",
+    "summary": "Markets in Indonesia, Hong Kong, China, Australia, Taiwan and Singapore show signs of moderation or declines.",
+    "source": [
+      "nasdaq.com"
     ],
     "count": 1
   },
   {
-    "title": "Big audit firms face regulatory troubles in Australia",
-    "summary": "The Big Four firms are having difficulties with Australian authorities due to accounting and compliance scandals.",
+    "title": "Hulic acquires Tetsurinkai university prep academy, formerly owned by Benesse",
+    "summary": "The Japanese real estate company buys the preparation business for the University of Tokyo amid a restructuring of the education sector.",
     "source": [
-      "ft.com"
+      "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "NATO to invest 40 billion euros in anti-drone systems",
-    "summary": "Allied countries commit to allocating a historic amount to drone defense, given the evolution of aerial threats.",
+    "title": "IOC allows Russia to participate in Los Angeles 2028 and excludes Nordic combined from 2030 Games",
+    "summary": "Restrictions on Russia are lifted for the next Olympic Games, while Nordic combined skiing is left out of the program.",
     "source": [
-      "bolsamania.com"
+      "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "Rheinmetall and Lockheed Martin agree to build a missile factory in Europe",
-    "summary": "The German and American defense companies will create a joint plant to manufacture missiles and strengthen European military capability.",
+    "title": "Naomi Osaka falls in Wimbledon quarterfinals and Yui Kamiji advances in wheelchair",
+    "summary": "The Japanese tennis player loses to Muchova, while Kamiji qualifies for the quarterfinals in the wheelchair category.",
     "source": [
-      "bolsamania.com"
+      "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "Norfolk Southern and Union Pacific defend their $85 billion merger",
-    "summary": "The two major US railroad companies argue that the deal will improve efficiency and service before regulators.",
+    "title": "Argentina comes back and Messi scores in his ninth consecutive World Cup match, Switzerland also advances",
+    "summary": "Argentina wins an exciting round of 16 match and Switzerland joins the quarterfinal qualifiers.",
     "source": [
-      "investing.com"
+      "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "Canada to invest up to 400 million Canadian dollars in Teck Resources",
-    "summary": "The Canadian government supports critical metals production with a strategic investment in miner Teck.",
+    "title": "Toyota shifts production from Mexico to US after nine years, Trump celebrates",
+    "summary": "Toyota's decision returns jobs to the US and is seen as a success of Trump's tariff policy.",
     "source": [
-      "investing.com"
+      "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "A K2 Airways cargo plane loses contact after a technical failure",
-    "summary": "A Boeing 737 cargo plane of the Pakistani airline disappears from radar after reporting a technical problem; a search is underway.",
+    "title": "IMF appoints Pierre-Olivier Gourinchas as new chief economist",
+    "summary": "The former member of the Bank of England's Monetary Policy Committee takes office in a context of global economic uncertainty.",
     "source": [
-      "investing.com"
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Japan suggests temporary return of technical interns as their visas expire",
+    "summary": "The government proposes that workers in the internship program return to their home countries while the extension of their stay is reviewed.",
+    "source": [
+      "nikkei.com"
     ],
     "count": 1
   }
