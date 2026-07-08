@@ -1,190 +1,205 @@
 [
   {
-    "title": "Meta launches its Muse Image image generator and sparks controversy for using Instagram photos",
-    "summary": "The artificial intelligence tool generates content from Instagram accounts, which has drawn criticism over privacy and the unauthorized use of personal data.",
+    "title": "Meta launches its Muse Image generator and draws criticism for using Instagram photos without permission",
+    "summary": "Meta's artificial intelligence creates images from public Instagram photos, sparking controversy over privacy and user consent.",
     "source": [
+      "/r/technology",
       "the-decoder.com",
       "alternativeto.net",
       "kite.kagi.com",
       "techcrunch.com",
       "wired.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Massive software updates: Windows 11, Chrome 150, OpenSSH, Proton, and more",
+    "summary": "Major software platforms release new versions with security, performance, and functionality improvements, including post-quantum support and new drivers.",
+    "source": [
+      "news.ycombinator.com",
+      "alternativeto.net",
+      "videocardz.com",
+      "hardzone.es",
+      "tomshardware.com",
+      "bandaancha.eu"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Wave of cyber threats: leaks, banking malware, critical vulnerabilities, and AI attacks",
+    "summary": "From backdoors in routers to AI scams and Linux flaws, cybersecurity faces a diverse and growing threat landscape.",
+    "source": [
+      "thehackernews.com",
+      "techcrunch.com",
+      "/r/technology",
+      "news.ycombinator.com",
+      "tomshardware.com"
     ],
     "count": 5
   },
   {
-    "title": "Anthropic's AI agent Claude Cowork is now available on web and mobile",
-    "summary": "The tool allows running tasks in the background from any platform to increase productivity.",
+    "title": "OpenAI introduces GPT-Live, its new voice mode for more natural conversations with ChatGPT",
+    "summary": "ChatGPT's voice system can now listen and speak simultaneously, improving the fluidity of interactions.",
     "source": [
-      "alternativeto.net",
+      "xataka.com",
       "the-decoder.com",
-      "techcrunch.com",
-      "wired.com"
+      "news.ycombinator.com",
+      "techcrunch.com"
     ],
     "count": 4
   },
   {
-    "title": "Microsoft replaces OpenAI and Anthropic models with its own AI to reduce costs",
-    "summary": "The company migrates its AI services to proprietary models in order to cut costs and reduce dependency on external providers.",
+    "title": "OpenAI, MiniMax, DeepSeek, and Nvidia drive the next generation of AI models and chips",
+    "summary": "OpenAI's GPT-5.6, MiniMax's 2.7 trillion parameter model, DeepSeek's chip, and Nvidia's Vera CPU set the pace for AI innovation.",
     "source": [
-      "kite.kagi.com",
+      "the-decoder.com",
+      "tomshardware.com",
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Sony will delete PlayStation digital games after three years of inactivity and faces lawsuits and stock drop",
+    "summary": "The new policy of deleting digital games triggers a million-dollar lawsuit, CEO stock sale, and PS Plus discounts to retain subscribers.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple to invest $30 billion in Broadcom chips manufactured in the United States",
+    "summary": "Apple expands its agreement with Broadcom to produce wireless chips in the US, bolstering domestic manufacturing.",
+    "source": [
+      "xataka.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Meta's smart glasses raise alarm over continuous recording and lack of transparency",
+    "summary": "Meta tests glasses with permanent recording capability, while users and experts warn about privacy risks.",
+    "source": [
+      "xataka.com",
       "techcrunch.com",
       "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "Nvidia presents its next-generation Rigel CPU core and highlights its single-threaded performance for AI agents",
-    "summary": "The company reveals details of its Vera CPU and confirms the integration of the Rigel core in the GCC compiler, showing its commitment to high-performance computing in artificial intelligence.",
+    "title": "Microsoft lays off 4,800 Xbox employees and its console strategy is questioned",
+    "summary": "The Xbox division suffers massive cuts and criticism from Bernie Sanders, while seeking to grow its player base.",
     "source": [
-      "tomshardware.com",
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Lexar and its parent company Longsys report explosive sales growth and unveil new DDR5 memory modules with Chinese CXMT chips",
-    "summary": "Longsys forecasts earnings of $1.5 billion in the first half of 2026, boosted by demand for its Lexar products, while launching THOR memory with domestic technology.",
-    "source": [
-      "/r/hardware",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Petition to save PlayStation physical discs surpasses 200,000 signatures after Sony's announcement to stop manufacturing physical games",
-    "summary": "Users mobilize against Sony's decision to eliminate physical media, and PlayStation responds with PS Plus discounts for those who cancel.",
-    "source": [
-      "videocardz.com",
       "hardzone.es",
+      "/r/technology",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Microsoft, Google, and Anthropic launch new tools to create and run AI agents",
+    "summary": "Flint, Gemini API with background execution, and Claude Cowork on mobile represent big tech's bet on autonomous agents.",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com",
+      "alternativeto.net"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Launch of the first commercial nuclear satellite and multi-billion dollar investments in the space industry",
+    "summary": "SpaceX launches a nuclear satellite, Blue Origin and Venus Aerospace raise large funds, and the Space Force debuts a microwave weapon.",
+    "source": [
+      "xataka.com",
+      "techcrunch.com",
       "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "DeepSeek develops its own AI inference chip to compete with Nvidia, as Chinese companies abandon the American manufacturer",
-    "summary": "A survey reveals that Chinese firms are migrating to local AI providers, and DeepSeek accelerates its plan to manufacture its own processors.",
+    "title": "New genetic research links obesity to heredity and microplastics to health risks",
+    "summary": "Recent studies reveal that obesity is largely genetic, microplastics accumulate in the body, and creatine could help against cancer.",
     "source": [
-      "/r/hardware",
-      "kite.kagi.com",
-      "xataka.com"
+      "xataka.com",
+      "news.ycombinator.com",
+      "/r/technology"
     ],
     "count": 3
   },
   {
-    "title": "Meta tests always-on AI glasses that record all day, raising privacy concerns",
-    "summary": "The device, a rival to the Nano Banana 2, continuously captures the environment, which raises serious concerns about constant surveillance.",
+    "title": "Hardware news: new standards, CPUs, GPUs, and component deals",
+    "summary": "Intel, AMD, Nvidia, and other manufacturers launch new processors, graphics cards, and memory standards that boost PC performance.",
     "source": [
-      "the-decoder.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DLSS Swapper creator warns that user-uploaded DLL files may contain malware",
-    "summary": "The modding tool for swapping DLSS versions can be unsafe if files are downloaded from unofficial sources.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Valve releases Windows drivers for Steam hardware, but refuses to offer official support",
-    "summary": "The drivers allow installing Windows on Steam Machines, although Valve warns that it does not provide technical support for this configuration.",
-    "source": [
+      "videocardz.com",
       "tomshardware.com",
       "hardzone.es"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Intel Nova Lake CPUs regain AVX-512 support and offer a major leap in multimedia performance",
-    "summary": "Recent Linux kernel patches confirm that Nova Lake's P and E cores will be able to execute 512-bit instructions natively.",
+    "title": "Backdoor found in Tenda routers that allows passwordless access, and the company does not fix it",
+    "summary": "Several Tenda router models contain a critical unpatched vulnerability that grants administrative access without authentication.",
     "source": [
-      "hardzone.es",
-      "tomshardware.com"
+      "tomshardware.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft tests a cloud recovery feature to repair Windows 11 PCs that do not boot",
-    "summary": "The Cloud Rebuild tool would allow restoring the operating system from the cloud without needing physical media.",
+    "title": "DLSS Swapper tool could contain malware if third-party DLL files are downloaded",
+    "summary": "The mod creator warns that user-uploaded DLL files can infect the PC, urging to use only official sources.",
     "source": [
-      "kite.kagi.com",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "X (Twitter) launches an integrated video editor to encourage original content and avoid reposts",
-    "summary": "The social network introduces features like subtitles and green screen so creators can edit videos directly on the platform.",
-    "source": [
-      "techcrunch.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A vulnerability in GitHub workflows could expose private repository data through automated agents",
-    "summary": "The flaw allows a public issue to trick GitHub agents into leaking confidential information.",
-    "source": [
-      "news.ycombinator.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Future Nvidia RTX 50 Super GPUs leaked with 10-17% higher power consumption than original models",
-    "summary": "Seasonic's power supply calculator shows these unannounced graphics cards, hinting at their launch.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google sets August 12 as launch date for the Pixel 11 series",
-    "summary": "Google's annual event to showcase its new smartphones will take place in mid-August.",
-    "source": [
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China considers imposing export restrictions on its AI models, while the US has already limited access",
-    "summary": "Europe watches closely as the major powers weigh control measures for advanced AI.",
-    "source": [
-      "xataka.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI delays launch of GPT-5.6 by order of the US government and its lead futurist leaves the company",
-    "summary": "The company faces regulatory challenges and changes in its management team.",
+    "title": "Mistral introduces Robostral Navigate, an AI model for robotic navigation with a single camera",
+    "summary": "The 8 billion parameter model allows robots to orient themselves with one camera, marking Mistral's entry into robotics.",
     "source": [
       "the-decoder.com",
-      "wired.com"
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Discord admits that a flaw in its AI moderation banned accounts for harmless content",
-    "summary": "The AI tool incorrectly classified benign images as violative.",
+    "title": "Oregon raises electricity rate for data centers by 30% and reduces it by 1.3% for households",
+    "summary": "The POWER Act forces large consumers to pay more for electricity, while residents get minimal relief.",
     "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "US Space Force receives its first mobile electromagnetic beam weapon to incapacitate enemy satellites",
-    "summary": "The 'Meadowlands' system can detect, deny, and degrade hostile space assets from the ground.",
-    "source": [
+      "/r/technology",
       "tomshardware.com"
     ],
-    "count": 1
+    "count": 2
+  },
+  {
+    "title": "Grok 4.5, Fable 5, and GPT 5.5 compete in performance and price, narrowing benchmark differences",
+    "summary": "Next-generation AI models show that price is increasingly decisive compared to small performance differences.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Multiple vulnerabilities in GitHub affect verified commits, Copilot, and repository privacy",
+    "summary": "Researchers demonstrate that verified commits can be rewritten without breaking the signature, Copilot ignores restrictions, and AI agents leak private repos.",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Climate change causes permanent tropical nights in the Mediterranean and limits mobility",
+    "summary": "New data shows that tropical nights are now the norm, extreme heat confines people, and North American emissions grow.",
+    "source": [
+      "xataka.com",
+      "/r/technology"
+    ],
+    "count": 2
   }
 ]
