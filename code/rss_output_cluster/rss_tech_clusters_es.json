@@ -1,7 +1,19 @@
 [
   {
-    "title": "Claude Cowork de Anthropic ya está disponible en dispositivos móviles y web",
-    "summary": "El agente de inteligencia artificial de Anthropic, Claude Cowork, se expande a plataformas móviles y web, permitiendo la ejecución de tareas en segundo plano.",
+    "title": "Meta lanza su generador de imágenes Muse Image y desata polémica por usar fotos de Instagram",
+    "summary": "La herramienta de inteligencia artificial genera contenido a partir de cuentas de Instagram, lo que ha provocado críticas por la privacidad y el uso no consentido de datos personales.",
+    "source": [
+      "the-decoder.com",
+      "alternativeto.net",
+      "kite.kagi.com",
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "El agente de inteligencia artificial Claude Cowork de Anthropic ya está disponible en web y móvil",
+    "summary": "La herramienta permite ejecutar tareas en segundo plano desde cualquier plataforma para aumentar la productividad.",
     "source": [
       "alternativeto.net",
       "the-decoder.com",
@@ -11,72 +23,85 @@
     "count": 4
   },
   {
-    "title": "Meta lanza Muse Image, su nueva inteligencia artificial generativa de imágenes, con integración en Instagram y WhatsApp",
-    "summary": "El modelo Muse Image permite crear imágenes basadas en fotos de usuarios, lo que ha generado controversia por el uso de datos personales sin consentimiento explícito.",
+    "title": "Microsoft reemplaza modelos de OpenAI y Anthropic por su propia inteligencia artificial para reducir costos",
+    "summary": "La compañía migra sus servicios de IA a modelos propios con el objetivo de abaratar costes y disminuir la dependencia de proveedores externos.",
     "source": [
-      "alternativeto.net",
+      "kite.kagi.com",
       "techcrunch.com",
-      "wired.com"
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "China estudia imponer restricciones a la exportación de sus modelos de inteligencia artificial avanzada",
-    "summary": "Tomando ejemplo de Estados Unidos, China evalúa limitar la exportación de sus mejores sistemas de IA, lo que podría afectar a Europa y al mercado global.",
+    "title": "Nvidia presenta su núcleo CPU Rigel de próxima generación y destaca su rendimiento monotarea para agentes de IA",
+    "summary": "La compañía revela detalles de su CPU Vera y confirma la integración del núcleo Rigel en el compilador GCC, mostrando su apuesta por el cómputo de alto rendimiento en inteligencia artificial.",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
+      "tomshardware.com",
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Lexar y su matriz Longsys registran un crecimiento explosivo en ventas y presentan nuevos módulos de memoria DDR5 con chips CXMT chinos",
+    "summary": "Longsys prevé ganancias de 1.500 millones de dólares en el primer semestre de 2026, impulsadas por la demanda de sus productos Lexar, mientras lanza memorias THOR con tecnología doméstica.",
+    "source": [
+      "/r/hardware",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La petición para salvar los discos físicos de PlayStation supera las 200.000 firmas tras el anuncio de Sony de dejar de fabricar juegos físicos",
+    "summary": "Los usuarios se movilizan contra la decisión de Sony de eliminar los soportes físicos, y PlayStation responde con descuentos en PS Plus para quienes cancelan.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "DeepSeek desarrolla su propio chip de inferencia de IA para competir con Nvidia, mientras empresas chinas abandonan al fabricante estadounidense",
+    "summary": "Una encuesta revela que las firmas chinas están migrando a proveedores locales de IA, y DeepSeek acelera su plan para fabricar sus propios procesadores.",
+    "source": [
+      "/r/hardware",
+      "kite.kagi.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Meta prueba unas gafas de inteligencia artificial siempre activas que graban todo el día, generando dudas sobre la privacidad",
+    "summary": "El dispositivo rival del Nano Banana 2 captura continuamente el entorno, lo que plantea serias preocupaciones sobre la vigilancia constante.",
+    "source": [
+      "the-decoder.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Valve publica los controladores oficiales de Windows para la Steam Machine",
-    "summary": "Los drivers permiten usar correctamente la Steam Machine con Windows, facilitando su instalación y compatibilidad.",
+    "title": "El creador de DLSS Swapper advierte que archivos DLL subidos por usuarios pueden contener malware",
+    "summary": "La herramienta de modding para intercambiar versiones de DLSS puede ser insegura si se descargan archivos de fuentes no oficiales.",
     "source": [
-      "hardzone.es",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "La 'línea roja de la muerte' en las Steam Machine tiene solución: limpiar la CMOS",
-    "summary": "Valve confirma que el problema de la pantalla roja no es un fallo de GPU y se corrige fácilmente con un reinicio de la memoria CMOS.",
+    "title": "Valve publica controladores para Windows en hardware Steam, pero se niega a dar soporte oficial",
+    "summary": "Los controladores permiten instalar Windows en Steam Machines, aunque Valve advierte que no ofrece asistencia técnica para esta configuración.",
     "source": [
-      "videocardz.com",
-      "tomshardware.com"
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft recorta costos en inteligencia artificial al reemplazar modelos externos por los propios",
-    "summary": "La compañía utiliza sus propios modelos de IA para Copilot y otros servicios, reduciendo la dependencia de OpenAI y Anthropic para ahorrar costes.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung bate récords de beneficios gracias a sus chips de memoria, pero la bolsa cae un 7%",
-    "summary": "La división de chips de Samsung multiplica sus ganancias por 19, superando a Nvidia como la empresa más rentable del mundo, aunque los inversores muestran escepticismo.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Grave puerta trasera descubierta en los routers Tenda permite acceso no autorizado",
-    "summary": "Investigadores revelan que múltiples versiones del firmware de Tenda contienen una puerta trasera de autenticación oculta, comprometiendo la seguridad de los dispositivos.",
-    "source": [
-      "news.ycombinator.com",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony planea eliminar los juegos físicos en PlayStation y provoca una ola de críticas",
-    "summary": "Tras el anuncio de que los nuevos títulos serán solo digitales, los jugadores han iniciado una petición con casi 200.000 firmas y las redes sociales estallan en protestas.",
+    "title": "Las CPU Intel Nova Lake recuperan la compatibilidad con AVX-512 y ofrecen un gran salto en rendimiento multimedia",
+    "summary": "Parches recientes del kernel de Linux confirman que los núcleos P y E de Nova Lake podrán ejecutar instrucciones de 512 bits de forma nativa.",
     "source": [
       "hardzone.es",
       "tomshardware.com"
@@ -84,17 +109,17 @@
     "count": 2
   },
   {
-    "title": "DeepSeek desarrolla su propio chip de inteligencia artificial para competir con NVIDIA",
-    "summary": "La empresa china DeepSeek, conocida por sus modelos de IA, está diseñando un chip especializado que rivalizaría con las soluciones de NVIDIA.",
+    "title": "Microsoft prueba una función de recuperación en la nube para reparar PCs con Windows 11 que no arrancan",
+    "summary": "La herramienta Cloud Rebuild permitiría restaurar el sistema operativo desde la nube sin necesidad de medios físicos.",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
+      "kite.kagi.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "X lanza un editor de vídeo en iOS con funciones de subtítulos y pantalla verde",
-    "summary": "La red social X introduce herramientas de edición de vídeo para incentivar la creación de contenido original y reducir las publicaciones robadas.",
+    "title": "X (Twitter) lanza un editor de vídeo integrado para fomentar contenido original y evitar los reposteos",
+    "summary": "La red social introduce funciones como subtítulos y pantalla verde para que los creadores editen vídeos directamente en la plataforma.",
     "source": [
       "techcrunch.com",
       "alternativeto.net"
@@ -102,8 +127,8 @@
     "count": 2
   },
   {
-    "title": "Investigadores demuestran cómo engañar a los agentes de IA de GitHub para filtrar repositorios privados",
-    "summary": "Una técnica llamada 'GitLost' explota fallos en los flujos de trabajo agentes de GitHub para exponer datos confidenciales de repositorios privados.",
+    "title": "Una vulnerabilidad en los flujos de trabajo de GitHub podría exponer datos de repositorios privados a través de agentes automatizados",
+    "summary": "La falla permite que una issue pública engañe a los agentes de GitHub para que filtren información confidencial.",
     "source": [
       "news.ycombinator.com",
       "thehackernews.com"
@@ -111,67 +136,52 @@
     "count": 2
   },
   {
-    "title": "NVIDIA revela su nuevo núcleo CPU Rigel para futuros procesadores Rosa",
-    "summary": "NVIDIA sube al compilador GCC el soporte de su núcleo Rigel, que será la base de sus futuras CPUs de alto rendimiento.",
+    "title": "Filtradas las futuras GPU Nvidia RTX 50 Super con un consumo un 10-17% mayor que los modelos originales",
+    "summary": "La calculadora de fuentes de alimentación de Seasonic muestra estas tarjetas gráficas no anunciadas, anticipando su lanzamiento.",
     "source": [
       "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las CPU Intel Nova Lake recuperan la compatibilidad con AVX-512 tras su eliminación en Alder Lake",
-    "summary": "Los próximos procesadores Nova Lake de Intel incorporarán soporte nativo para AVX-512 en sus núcleos de alto rendimiento y eficiencia, según revelan parches del kernel Linux.",
-    "source": [
-      "hardzone.es",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI lanza GPT-5.6 'Sol' este jueves tras retraso impuesto por el gobierno de EE. UU.",
-    "summary": "La nueva versión de OpenAI incluye los modelos Sol, Terra y Luna, y sale al público después de una pausa forzada por regulaciones de seguridad.",
+    "title": "Google fija el 12 de agosto como fecha de presentación de la gama Pixel 11",
+    "summary": "El evento anual de Google para mostrar sus nuevos teléfonos inteligentes tendrá lugar a mediados de agosto.",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "kite.kagi.com",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "SambaNova recauda 1.000 millones de dólares y alcanza una valoración de 11.000 millones",
-    "summary": "La startup de chips de inteligencia artificial obtiene una nueva ronda de financiación para impulsar sus procesadores de IA.",
+    "title": "China estudia imponer restricciones a la exportación de sus modelos de inteligencia artificial, mientras EE.UU. ya limitó el acceso",
+    "summary": "Europa observa con atención mientras las grandes potencias sopesan medidas de control para la IA avanzada.",
+    "source": [
+      "xataka.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI retrasa el lanzamiento de GPT-5.6 por orden del gobierno de EE.UU. y su principal futurista abandona la compañía",
+    "summary": "La empresa enfrenta desafíos regulatorios y cambios en su equipo directivo.",
+    "source": [
+      "the-decoder.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Discord admite que un fallo en su moderación por IA prohibió cuentas por contenido inofensivo",
+    "summary": "La herramienta de inteligencia artificial clasificó erróneamente imágenes benignas como infractoras.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "La Unión Europea exigirá que todos los coches nuevos incluyan una cámara de vigilancia del conductor",
-    "summary": "A partir de ahora, cada vehículo nuevo vendido en la UE deberá incorporar un sistema de monitoreo del conductor para mejorar la seguridad vial.",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Hacktivistas atacan sitios web del Ejército de EE. UU. en protesta contra Donald Trump",
-    "summary": "Un grupo de ciberactivistas desfigura páginas oficiales del Ejército estadounidense para denunciar las políticas de Trump.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Descubren una vulnerabilidad GhostLock de 15 años que permite escapar de contenedores en Linux",
-    "summary": "El fallo, presente en la mayoría de distribuciones Linux, permite a atacantes obtener acceso root y salir del contenedor.",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Intel patenta una nueva arquitectura de memoria XBM que elimina el interpositor de silicio de HBM",
-    "summary": "La tecnología XBM apila DRAM con transistores traseros y enlaces UCIe para reducir costes y mejorar el ancho de banda en inteligencia artificial.",
+    "title": "La Fuerza Espacial de EE.UU. recibe su primera arma móvil de haz electromagnético para incapacitar satélites enemigos",
+    "summary": "El sistema ‘Meadowlands’ puede detectar, denegar y degradar activos espaciales hostiles desde tierra.",
     "source": [
       "tomshardware.com"
     ],

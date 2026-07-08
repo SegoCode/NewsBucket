@@ -1,7 +1,19 @@
 [
   {
-    "title": "AnthropicのClaude Coworkがモバイルデバイスとウェブで利用可能に",
-    "summary": "AnthropicのAIエージェント、Claude Coworkがモバイルとウェブプラットフォームに拡大し、バックグラウンドでのタスク実行を可能に。",
+    "title": "Metaが画像生成AI「Muse Image」を公開、Instagramの写真使用で物議に",
+    "summary": "このAIツールはInstagramのアカウントからコンテンツを生成するため、プライバシーと個人データの無断使用に対する批判が起きている。",
+    "source": [
+      "the-decoder.com",
+      "alternativeto.net",
+      "kite.kagi.com",
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "AnthropicのAIエージェント「Claude Cowork」、Webとモバイルで利用可能に",
+    "summary": "このツールは任意のプラットフォームからバックグラウンドでタスクを実行し、生産性を向上させる。",
     "source": [
       "alternativeto.net",
       "the-decoder.com",
@@ -11,72 +23,85 @@
     "count": 4
   },
   {
-    "title": "Meta、新しい画像生成AI「Muse Image」を発表、InstagramとWhatsAppに統合",
-    "summary": "Muse Imageモデルはユーザーの写真に基づいて画像を作成できるが、明示的な同意なしに個人データを使用しているとの論争を引き起こしている。",
+    "title": "Microsoft、OpenAIとAnthropicのモデルを自社AIに置き換え、コスト削減へ",
+    "summary": "同社はコスト削減と外部ベンダーへの依存度低減を目的に、AIサービスを自社モデルに移行している。",
     "source": [
-      "alternativeto.net",
+      "kite.kagi.com",
       "techcrunch.com",
-      "wired.com"
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "中国、高度な人工知能モデルの輸出規制を検討",
-    "summary": "米国に倣い、中国は最高のAIシステムの輸出制限を評価しており、欧州や世界市場に影響を与える可能性がある。",
+    "title": "Nvidia、次世代CPUコア「Rigel」発表、AIエージェント向けのシングルスレッド性能を強調",
+    "summary": "同社はCPU「Vera」の詳細を公開し、GCCコンパイラへのRigelコア統合を確認。AIにおける高性能コンピューティングへの注力を示している。",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
+      "tomshardware.com",
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Lexarと親会社のLongsysが爆発的な売上成長、中国CXMTチップ搭載の新DDR5メモリモジュール発表",
+    "summary": "LongsysはLexar製品の需要に牽引され、2026年上半期に15億ドルの利益を見込む。同時に国内技術を使用した「THOR」メモリを発売する。",
+    "source": [
+      "/r/hardware",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Sonyのパッケージゲーム製造中止発表を受け、PlayStationのディスク保存を求める署名が20万筆突破",
+    "summary": "ユーザーはSonyのパッケージソフト廃止決定に反発して動いており、PlayStation側は解約者向けにPS Plusの割引を提供している。",
+    "source": [
+      "videocardz.com",
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "DeepSeek、Nvidiaに対抗する独自AI推論チップを開発、中国企業が米国メーカーから離脱する中で",
+    "summary": "調査によると中国企業は地元のAIサプライヤーに移行しており、DeepSeekは独自プロセッサ製造計画を加速させている。",
+    "source": [
+      "/r/hardware",
+      "kite.kagi.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Meta、一日中録画する常時稼働のAIグラスをテスト、プライバシーへの懸念が高まる",
+    "summary": "「Nano Banana 2」の競合となるこのデバイスは常に周囲を撮影し続けるため、絶え間ない監視に関する深刻な懸念を引き起こしている。",
+    "source": [
+      "the-decoder.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Valve、Steam Machine向けWindows公式ドライバーを公開",
-    "summary": "このドライバーにより、WindowsでSteam Machineを正しく使用できるようになり、インストールと互換性が容易になる。",
+    "title": "DLSS Swapperの開発者、ユーザーアップロードのDLLファイルにマルウェアが含まれる可能性があると警告",
+    "summary": "DLSSバージョンを交換するModツールは、非公式ソースからファイルをダウンロードすると安全性が損なわれる可能性がある。",
     "source": [
-      "hardzone.es",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Steam Machineの「死の赤い線」問題には解決策：CMOSクリア",
-    "summary": "Valveは、赤い画面の問題はGPUの障害ではなく、CMOSメモリのリセットで簡単に修正できることを確認。",
+    "title": "Valve、Steamハードウェア向けWindowsドライバを公開するも、公式サポートは拒否",
+    "summary": "このドライバによりSteam MachinesへのWindowsインストールが可能になるが、Valveはこの構成に対するテクニカルサポートを提供しないと注意喚起している。",
     "source": [
-      "videocardz.com",
-      "tomshardware.com"
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft、外部モデルを自社モデルに置き換えAIコストを削減",
-    "summary": "同社はCopilotやその他のサービスに自社のAIモデルを使用し、OpenAIやAnthropicへの依存を減らしてコストを削減。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung、メモリーチップで利益記録を更新も株価は7%下落",
-    "summary": "Samsungの半導体部門は利益を19倍に増やし、Nvidiaを抜いて世界で最も収益性の高い企業となったが、投資家は懐疑的。",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tendaルーターに深刻なバックドアが発見され、不正アクセスが可能に",
-    "summary": "研究者らは、Tendaのファームウェアの複数バージョンに隠された認証バックドアが含まれており、デバイスのセキュリティを危険にさらしていることを明らかにした。",
-    "source": [
-      "news.ycombinator.com",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony、PlayStationで物理ゲームを廃止予定で批判の波",
-    "summary": "新作タイトルがデジタルのみになるとの発表後、ゲーマーは約20万の署名を集めた請願を開始し、ソーシャルメディアは抗議の声で溢れている。",
+    "title": "Intel Nova Lake CPUがAVX-512互換性を取り戻し、マルチメディア性能が大幅に向上",
+    "summary": "最近のLinuxカーネルのパッチにより、Nova LakeのPコアとEコアが512ビット命令をネイティブ実行できることが確認された。",
     "source": [
       "hardzone.es",
       "tomshardware.com"
@@ -84,17 +109,17 @@
     "count": 2
   },
   {
-    "title": "DeepSeek、NVIDIAと競合する独自のAIチップを開発",
-    "summary": "AIモデルで知られる中国企業DeepSeekは、NVIDIAのソリューションと競合する専用チップを設計している。",
+    "title": "Microsoft、起動しないWindows 11 PCを修復するクラウド回復機能をテスト",
+    "summary": "「Cloud Rebuild」ツールは、物理メディアを必要とせずにクラウドからOSを復元することを可能にする。",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
+      "kite.kagi.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "X、iOS向けに字幕やグリーンスクリーン機能を備えたビデオエディターをリリース",
-    "summary": "ソーシャルネットワークXは、オリジナルコンテンツの作成を促進し、盗まれた投稿を減らすためにビデオ編集ツールを導入。",
+    "title": "X（Twitter）、オリジナルコンテンツ促進と再投稿防止のために統合動画エディタを公開",
+    "summary": "このソーシャルネットワークは、クリエイターがプラットフォーム上で直接動画編集できるよう、字幕やクロマキー機能を導入する。",
     "source": [
       "techcrunch.com",
       "alternativeto.net"
@@ -102,8 +127,8 @@
     "count": 2
   },
   {
-    "title": "研究者、GitHubのAIエージェントを欺いてプライベートリポジトリを漏洩させる方法を実証",
-    "summary": "「GitLost」と呼ばれる手法は、GitHubエージェントワークフローの欠陥を悪用して、プライベートリポジトリの機密データを暴露する。",
+    "title": "GitHubワークフローの脆弱性により、自動化エージェントを介してプライベートリポジトリのデータが流出する可能性",
+    "summary": "この欠陥により、公開IssueがGitHubエージェントを欺き、機密情報を流出させる可能性がある。",
     "source": [
       "news.ycombinator.com",
       "thehackernews.com"
@@ -111,67 +136,52 @@
     "count": 2
   },
   {
-    "title": "NVIDIA、将来のRosaプロセッサ向け新CPUコア「Rigel」を公開",
-    "summary": "NVIDIAは、GCCコンパイラにRigelコアのサポートを追加。これは将来の高性能CPUのベースとなる。",
+    "title": "将来のNvidia RTX 50 Super GPUが流出、消費電力はオリジナルモデル比10～17%増加",
+    "summary": "Seasonicの電源ユニット計算ツールに未発表のこれらのグラフィックカードが表示され、発売が予告された。",
     "source": [
       "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Nova Lake CPU、Alder Lakeで削除されたAVX-512互換性を復活",
-    "summary": "Intelの次期Nova Lakeプロセッサは、高性能コアと効率コアの両方でAVX-512のネイティブサポートを組み込むと、Linuxカーネルのパッチが明らかに。",
-    "source": [
-      "hardzone.es",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI、米国政府による遅延の後、今週木曜日にGPT-5.6「Sol」をリリース",
-    "summary": "OpenAIの新バージョンにはSol、Terra、Lunaモデルが含まれ、セキュリティ規制による強制的な一時停止の後に一般公開される。",
+    "title": "Google、Pixel 11シリーズ発表日を8月12日に設定",
+    "summary": "新型スマートフォンを公開するGoogleの年次イベントは8月中旬に行われる予定。",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "kite.kagi.com",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "SambaNova、10億ドルを調達し評価額110億ドルに",
-    "summary": "AIチップスタートアップが新たな資金調達ラウンドを獲得し、AIプロセッサを推進。",
+    "title": "中国、自国のAIモデルへの輸出規制を検討、米国は既にアクセスを制限",
+    "summary": "大国が高度なAIに対する管理措置を検討する中、欧州は注目している。",
+    "source": [
+      "xataka.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、米国政府の指示でGPT-5.6のリリースを延期、主任フューチャリストが退社",
+    "summary": "同社は規制上の課題と経営陣の交代に直面している。",
+    "source": [
+      "the-decoder.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Discord、AIモデレーションの不具合で無害なコンテンツのアカウントをBANしたと認める",
+    "summary": "AIツールが良性の画像を誤って違反として分類した。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "EU、全ての新車にドライバー監視カメラの搭載を義務化",
-    "summary": "今後、EUで販売されるすべての新車には、道路安全を向上させるためにドライバーモニタリングシステムの搭載が義務付けられる。",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ハクティビスト、ドナルド・トランプに抗議して米陸軍のウェブサイトを攻撃",
-    "summary": "サイバー活動家グループが、トランプの政策を非難するために米陸軍の公式ページを改ざん。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "15年前の「GhostLock」脆弱性を発見、Linuxコンテナエスケープが可能",
-    "summary": "この欠陥はほとんどのLinuxディストリビューションに存在し、攻撃者がルートアクセスを取得してコンテナから脱出することを可能にする。",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Intel、HBMのシリコンインターポーザーを排除する新メモリアーキテクチャXBMを特許取得",
-    "summary": "XBM技術は、バックサイドトランジスタとUCIeリンクでDRAMを積層し、AIにおけるコスト削減と帯域幅の向上を実現。",
+    "title": "米宇宙軍、敵衛星を無力化する初の移動式電磁波兵器を受領",
+    "summary": "「Meadowlands」システムは、地上から敵対的な宇宙資産を探知、妨害、劣化させることができる。",
     "source": [
       "tomshardware.com"
     ],

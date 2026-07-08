@@ -1,80 +1,48 @@
 [
   {
-    "title": "米国とイランの紛争が石油価格上昇と世界の株式市場の下落を引き起こす",
-    "summary": "両国間の報復攻撃により原油価格が急騰し、欧州とアジアの市場が暴落した。",
+    "title": "トランプ氏、イランとの停戦終了を宣言、攻撃発生、世界市場急落",
+    "summary": "原油は6%超上昇、金と銀は下落、ウォール街、欧州、アジアの株式市場は停戦終了と米国によるイラン爆撃を受けて大幅な損失を記録。",
     "source": [
       "bolsamania.com",
+      "finance.yahoo.com",
       "investing.com",
       "ft.com",
-      "expansion.com",
-      "handelsblatt.com",
-      "nikkei.com",
-      "nasdaq.com"
-    ],
-    "count": 7
-  },
-  {
-    "title": "SpaceXがナスダックにデビュー、アナリストの楽観論と買い推奨で",
-    "summary": "宇宙企業が株式市場にデビューし、ウォール街から最大56%の上昇余地があるとの好評価を得ている。",
-    "source": [
       "nasdaq.com",
       "handelsblatt.com",
       "expansion.com",
-      "bolsamania.com",
-      "/r/stocks",
-      "ft.com"
+      "nikkei.com"
     ],
-    "count": 6
+    "count": 8
   },
   {
-    "title": "テクノロジー株と半導体株の急落が韓国市場を弱気相場に引きずり込む",
-    "summary": "サムスンとSKハイニックスが韓国での損失を主導し、世界的なチップセクターはバリュエーション懸念と地政学的緊張の影響を受けている。",
+    "title": "スペースX、ナスダック100に採用され、最大70%の上昇余地がある買い推奨を受ける",
+    "summary": "イーロン・マスク氏の会社は、ドイツ銀行などの好意的な分析により株式市場での存在感を加速させ、月面ミッションのためにispaceとの事業を拡大している。",
     "source": [
-      "investing.com",
-      "ft.com",
-      "nikkei.com",
-      "/r/stocks",
-      "expansion.com",
-      "handelsblatt.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "投資推奨：テクノロジー株、小型株、ナノ・ニュークリア、バークシャーのポートフォリオ",
-    "summary": "アナリストは、今年下半期に向けて中小企業、AI株、ウォーレン・バフェットの遺産にチャンスがあると強調している。",
-    "source": [
-      "bolsamania.com",
+      "finance.yahoo.com",
       "nasdaq.com",
+      "bolsamania.com",
+      "handelsblatt.com",
       "expansion.com",
+      "/r/stocks",
+      "ft.com",
+      "nikkei.com"
+    ],
+    "count": 8
+  },
+  {
+    "title": "AI半導体株、バブル懸念で急落、アジア株を圧迫",
+    "summary": "韓国は弱気相場入り、サムスンは利益急増にもかかわらず下落、メモリメーカーは広範な損失を被る。",
+    "source": [
+      "finance.yahoo.com",
+      "ft.com",
+      "handelsblatt.com",
       "/r/stocks"
     ],
     "count": 4
   },
   {
-    "title": "企業決算：レプソルは利益率137%増加、Figmaは急落、ZigupとSeniorは見通し改善",
-    "summary": "複数の企業が決算を発表：レプソルは精製事業で予想を上回り、Figmaは29%下落、FuelCellは増資、Metaはポジティブなニュースを提供。",
-    "source": [
-      "nasdaq.com",
-      "investing.com",
-      "bolsamania.com",
-      "nikkei.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "合併・買収：UniCreditがCommerzbankの株式を増加、MasTecがSuperior Groupを買収、GucciがCotyとの契約を終了しL'Oréalと契約",
-    "summary": "企業セクターでは、国境を越えた取引や戦略的提携の波が起こり、市場を揺るがしている。",
-    "source": [
-      "handelsblatt.com",
-      "nasdaq.com",
-      "nikkei.com",
-      "bolsamania.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "マクロ分析：バンク・オブ・アメリカが米国の二つの経済を警告、AIが欧州株式のリターンの半分を生み出す",
-    "summary": "経済の分断が深刻化する一方、人工知能がリターンを支配し、財政リスクが高まっている。",
+    "title": "人工知能が金融セクターに革命を起こす、規制当局の警告と収益性向上の中で",
+    "summary": "規制当局はAIによるサイバー攻撃に警告、CNMVはガバナンスコードを更新、AIは欧州株式市場の収益性の半分を生み出している。",
     "source": [
       "finance.yahoo.com",
       "handelsblatt.com",
@@ -84,118 +52,145 @@
     "count": 4
   },
   {
-    "title": "エヌビディアが史上最高値から17%下落、アナリストは割安かどうか議論",
-    "summary": "AIチップメーカーは、セクターのバリュエーション上昇に対する懸念の中、価値を失い続けている。",
+    "title": "アップルとブロードコム、米国でのチップ製造に向け300億ドルの提携拡大",
+    "summary": "この複数年契約は国内の半導体生産を強化し、アップル製品の主要部品を確保する。",
     "source": [
-      "bolsamania.com",
       "nasdaq.com",
-      "/r/stocks"
-    ],
-    "count": 3
-  },
-  {
-    "title": "世界各国の金融当局がAIを活用したサイバー攻撃に対する行動計画を要求",
-    "summary": "CNMV、欧州中央銀行、その他の監督当局は、人工知能に基づくサイバー脅威の増大について警告している。",
-    "source": [
-      "expansion.com",
-      "ft.com",
-      "handelsblatt.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "デイリーダイジェスト：ユーリボー2.695%、ビットコイン下落、7月8日の市場の鍵",
-    "summary": "ユーリボーは最新の水準にある一方、ビットコインはわずかに下落し、市場は地政学的緊張を消化している。",
-    "source": [
-      "expansion.com",
       "/r/stocks",
-      "handelsblatt.com"
+      "bolsamania.com"
     ],
     "count": 3
   },
   {
-    "title": "テクノロジーセクターの調整：ポートフォリオのローテーションによりソフトウェアとAI株が下落",
-    "summary": "CoreWeaveが急落、ソフトウェアは最悪のセッションを記録し、投資家はセクターローテーションのタイミングについて議論している。",
+    "title": "トランプ氏、スペインとの全貿易停止を脅迫、IBEX35は2%超下落",
+    "summary": "米国前大統領のスペイン政府に対する発言が、特に米国へのエクスポージャーが大きい銘柄でスペイン株式市場の下落を悪化させている。",
+    "source": [
+      "expansion.com",
+      "nikkei.com",
+      "bolsamania.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "フォード6月に20％急落、ホンダは30万台をリコール、GMはJPモルガンから格上げ",
+    "summary": "米自動車セクターは、売上高の低迷と品質問題でまちまちの展開となる一方、ゼネラルモーターズはアナリストから押し上げを受ける。",
+    "source": [
+      "nasdaq.com",
+      "investing.com",
+      "bolsamania.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "エネルギーセクターはまちまちの動き: 原油上昇、原子力株下落、格付け引き上げ",
+    "summary": "オクシデンタルとコノコフィリップスが肯定的な評価を受ける一方、原子力株は急落し、地政学的緊張から原油は上昇。",
+    "source": [
+      "nasdaq.com",
+      "investing.com",
+      "finance.yahoo.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ウニクレディト、コメルツ銀行の株式保有比率を44%超に引き上げ、TOBが近づく",
+    "summary": "イタリアの金融機関は、欧州銀行統合を巡る争いの中、ドイツの銀行での地位を強化。",
+    "source": [
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "キャシー・ウッド、市場暴落を利用して3社の株式を購入",
+    "summary": "ARKインベストメントの運用会社は、株式市場の調整局面で割安な価格でハイテク企業の株式を取得。",
     "source": [
       "finance.yahoo.com",
-      "ft.com",
-      "/r/stocks"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAIが公開向けにGPT-5.6モデルをリリース、これまでで最も強力",
-    "summary": "AI企業は政府の承認を受け、数回の遅延を経て新モデルを展開した。",
-    "source": [
-      "investing.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "スペイン市場、石油と銀行に圧迫される；イベルドローラは配当後に新高値",
-    "summary": "Ibexは下落して始まったが、レプソルとソラリアが上昇を主導；ゴールドマンはサバデルの可能性は尽きたと見なし、ジェフリーズはBBVAをお気に入りに含める。",
-    "source": [
-      "expansion.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中央銀行：ニュージーランドが3年ぶりに利上げ、イングランド銀行は資本規制の緩和を計画",
-    "summary": "ニュージーランド準備銀行が利上げを行う一方、英中銀は貸し手向けの資本要件緩和を検討している。",
-    "source": [
-      "nikkei.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "日本株は3日連続で下落、国債コストは30年ぶりの高水準",
-    "summary": "日経平均は1,400ポイント以上下落し、国債利回りは世界的な緊張と債務増加により急騰している。",
-    "source": [
-      "nikkei.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NATOは長距離ミサイルに500億ドルを投資へ",
-    "summary": "軍事同盟は、新たな安全保障上の脅威への対応として、大規模なミサイル開発計画を発表した。",
-    "source": [
-      "bolsamania.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "バンク・オブ・アメリカが指摘するインド株式の主要な改革テーマ",
-    "summary": "BofAは、インド株に影響を与え、投資家が注目すべき4つの改革軸を強調している。",
-    "source": [
-      "investing.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "社会保障に関する新たな注意喚起：受給中の就労が思わぬ落とし穴に",
-    "summary": "米国の社会保障ルールは、働きながら年金を受給している人々に影響を与える可能性がある。",
-    "source": [
       "nasdaq.com"
     ],
+    "count": 2
+  },
+  {
+    "title": "ロイヤル・カリビアン、クルーズ需要の堅調さからBMOキャピタルがお気に入り銘柄に選定",
+    "summary": "クルーズ会社は旺盛な需要とセクターの良好な見通しから恩恵を受けている。",
+    "source": [
+      "investing.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "UBS、SKハイニックスのADR買い推奨、米国で半導体メーカーの潜在性を活用へ",
+    "summary": "スイスの銀行は買い推奨でカバレッジを開始、メモリ市場の見通しを強調。",
+    "source": [
+      "/r/stocks",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "スペイン銀再編: バンキンテルが統合完了、ウニカハがファクタリング開始、サバデルとBBVAが注目集める",
+    "summary": "スペインの金融機関は事業計画を進める一方、アナリストはセクターの評価を調整。",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "取引所クラーケンが欧州で銀行ライセンス申請、ビットコイン6万ドル突破、スペインがステーブルコイン決済を承認",
+    "summary": "仮想通貨エコシステムは、世界的な変動性の中、規制と市場の進展を記録。",
+    "source": [
+      "finance.yahoo.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "アナリスト、配当の税効率を検証、高利回りの2銘柄推奨",
+    "summary": "複数のレポートがJPモルガンやキャタピラーなどの企業の配当の税制上の優位性を分析し、高配当利回りの2銘柄を選定。",
+    "source": [
+      "nasdaq.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Securitize、ウォール街初のスペインのユニコーン、株式デビューで極端な変動に直面",
+    "summary": "資産トークン化企業は上場初日に11%上昇するも、その後公開価格から30%下落。",
+    "source": [
+      "expansion.com"
+    ],
     "count": 1
   },
   {
-    "title": "南海バブル事件：最初の英国金融危機を再考する",
-    "summary": "フィナンシャル・タイムズの記事が、18世紀に南海バブルを引き起こした靴屋の息子の人物像を振り返る。",
+    "title": "アリババ、好決算で約10%急騰、中国ハイテク株の上昇を主導",
+    "summary": "中国の電子商取引と人工知能株は、投資家の楽観論に後押しされ力強く上昇。",
+    "source": [
+      "finance.yahoo.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "バンク・オブ・アメリカ、米国には2つの乖離する経済があると警告",
+    "summary": "同行は、米国経済内の繁栄しているセクターと困難に直面しているセクターの間で拡大する格差を指摘。",
+    "source": [
+      "finance.yahoo.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ロンドンのIPO不足が深刻な水準に、上場よりも資金調達が優勢に",
+    "summary": "英国の買収提案の価値は新規上場の27倍に上り、株式市場の新規公開の干ばつを反映。",
     "source": [
       "ft.com"
     ],
     "count": 1
   },
   {
-    "title": "ドイツの金融スキャンダル：フォルクスバンクから Cum-Ex 裁判、Sparkasse 強盗まで",
-    "summary": "複数の詐欺、脱税、金融犯罪事件がドイツの銀行システムを揺るがし、規制当局を懸念させている。",
+    "title": "退職女性、金貨詐欺で30万ドルを失い、IRMAAで予期せぬ追加料金が発覚",
+    "summary": "女性は投資詐欺の被害に遭い、さらにメディケア保険料が予想外に上昇した。",
     "source": [
-      "handelsblatt.com"
+      "finance.yahoo.com"
     ],
     "count": 1
   }
