@@ -1,18 +1,19 @@
 [
   {
-    "title": "OpenAI introduces GPT-Live: ChatGPT's voice mode enables more human-like real-time conversations",
-    "summary": "The new voice feature listens and responds without pauses, improving the fluidity of interactions with the AI.",
+    "title": "OpenAI launches GPT-Live, a voice model that enables simultaneous listening and speaking",
+    "summary": "ChatGPT's new voice feature enables more natural conversations by allowing interruptions and real-time responses, like in a human conversation.",
     "source": [
-      "techcrunch.com",
+      "alternativeto.net",
       "the-decoder.com",
       "xataka.com",
-      "news.ycombinator.com"
+      "news.ycombinator.com",
+      "techcrunch.com"
     ],
-    "count": 4
+    "count": 5
   },
   {
-    "title": "SpaceXAI launches Grok 4.5 considered an Opus-class model with competitive pricing",
-    "summary": "The new AI model offers performance comparable to GPT 5.5 and Fable 5 but at a significantly lower cost.",
+    "title": "SpaceXAI releases Grok 4.5, an 'Opus-class' model with very competitive prices",
+    "summary": "The launch of Elon Musk's language model stands out for its low cost compared to Fable 5 and GPT-5.5, although the gaps in benchmarks are notable.",
     "source": [
       "techcrunch.com",
       "the-decoder.com",
@@ -21,8 +22,8 @@
     "count": 3
   },
   {
-    "title": "Meta tightens privacy measures on its smart glasses after complaints about covert recording",
-    "summary": "The company updates its policies to prevent users from covering the recording indicator LED, while testing glasses that capture all day.",
+    "title": "Meta tests smart glasses with continuous recording, raising privacy concerns",
+    "summary": "Meta's new glasses capture the user's entire day permanently, reigniting the debate on privacy invasion and consent.",
     "source": [
       "techcrunch.com",
       "the-decoder.com",
@@ -31,17 +32,18 @@
     "count": 3
   },
   {
-    "title": "Meta launches Muse Image, an AI model to generate and edit images in Instagram and WhatsApp",
-    "summary": "The tool uses Instagram photos to create advanced visual effects, sparking debate about data privacy.",
+    "title": "Valve launches Proton 11 and drivers to run Windows on its Steam Machines",
+    "summary": "The updates improve game compatibility and allow installing Windows on Steam hardware, although the company does not offer official support.",
     "source": [
-      "the-decoder.com",
-      "alternativeto.net"
+      "videocardz.com",
+      "tomshardware.com",
+      "hardzone.es"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Mistral presents Robostral Navigate, a robotic navigation model that uses a single camera",
-    "summary": "The 8 billion parameter model enables robots to orient themselves with a single camera, marking a breakthrough in autonomous robotics.",
+    "title": "Mistral presents Robostral Navigate, a model that guides robots with a single camera",
+    "summary": "The 8 billion parameter model enables autonomous robot navigation using only a camera, marking Mistral's entry into robotics.",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com"
@@ -49,8 +51,26 @@
     "count": 2
   },
   {
-    "title": "Cooler Master V4 and V8 3DHP: a masterpiece of cooling engineering",
-    "summary": "The new heat sinks with 3DHP technology offer exceptional performance according to early reviews.",
+    "title": "Instagram debuts Story effects with Muse Image, but user privacy is called into question",
+    "summary": "Meta's new AI tool uses Instagram images to create effects, raising doubts about the use of personal data.",
+    "source": [
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Warning that the modding tool DLSS Swapper can infect the PC with malware by downloading incorrect DLLs",
+    "summary": "The tool's creator warns against using third-party DLL files, as they could contain malicious software and compromise the system.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cooler Master V4 and V8 3DHP receive excellent reviews as a thermal engineering achievement",
+    "summary": "The coolers with three-dimensional heat pipe technology offer exceptional cooling performance, according to technical analyses.",
     "source": [
       "/r/hardware",
       "tomshardware.com"
@@ -58,17 +78,8 @@
     "count": 2
   },
   {
-    "title": "AMD announces its new generation of leading x86 CPUs alongside X870 motherboards",
-    "summary": "The company announces its Advancing AI event for July, while listings of the ASUS ROG Crosshair X870E Edition appear.",
-    "source": [
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Details of Intel Nova Lake CPUs with Xe3 and Xe3P graphics leaked",
-    "summary": "The next-generation processors promise a big leap in graphics performance according to revealed specifications.",
+    "title": "Intel Nova Lake processor specifications leaked with Xe3 and Xe3P graphics",
+    "summary": "Intel's new SKUs promise a big leap in graphics and video performance, according to details revealed by leakers.",
     "source": [
       "videocardz.com",
       "hardzone.es"
@@ -76,17 +87,17 @@
     "count": 2
   },
   {
-    "title": "Valve releases drivers to run Windows on Steam Machine, but offers no official support",
-    "summary": "The drivers allow installing Windows on Steam hardware, although Valve warns it will not provide technical support.",
+    "title": "Xbox states that consoles are 80% of its business and aims to reach 1 billion daily players",
+    "summary": "Microsoft's strategy focuses on hardware and Game Pass, while aiming to expand its user base globally.",
     "source": [
-      "tomshardware.com",
-      "hardzone.es"
+      "hardzone.es",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "US deploys a high-power mobile electromagnetic anti-satellite weapon",
-    "summary": "The US Space Force activates the 'Meadowlands' system to disable enemy satellites with electromagnetic rays.",
+    "title": "US deploys a projectile-free anti-satellite weapon and a space electromagnetic cannon",
+    "summary": "The Space Force receives its first mobile electromagnetic beam system to disable enemy satellites, complementing a non-kinetic anti-satellite weapon.",
     "source": [
       "xataka.com",
       "tomshardware.com"
@@ -94,83 +105,81 @@
     "count": 2
   },
   {
-    "title": "DLSS Swapper modding tool could contain malware when downloading third-party DLL files",
-    "summary": "The app's creator warns against using user-submitted DLLs that could infect the system.",
+    "title": "Sony fuels rumors of a PS Vita 2 while PlayStation applies discounts on PS Plus",
+    "summary": "Statements from Sony's CEO spark speculation about a new handheld, while PS Plus subscriptions are offered with 50% discounts.",
     "source": [
-      "tomshardware.com",
+      "hardzone.es",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Massive data leak exposes millions of driver's license numbers",
-    "summary": "A new security breach compromises sensitive personal information of drivers in the United States.",
+    "title": "RTX 5070 INFINITY and RTX 50 Super leaked in power supply calculators",
+    "summary": "Nvidia's future GPUs appear in listings with TGP increases of 10-17%, previewing specifications not officially announced.",
     "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "15-year-old GhostLock vulnerability allows privilege escalation in most Linux distributions",
-    "summary": "The kernel flaw enables container escape and root access, affecting older Linux systems.",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Budget smartphone market contracts 22% due to memory shortage",
-    "summary": "Memory cost accounts for up to 64% of the total price of low-end devices, causing a sales drop.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceX and City Labs launch the first commercial nuclear satellite on Transporter-17 mission",
-    "summary": "The milestone opens the door to new space applications with onboard nuclear power sources.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Samsung achieves 28.4 GB/s with PCIe 6.0 SSD transferring 100 GB in 3.5 seconds",
-    "summary": "The new storage standard doubles the bandwidth of the previous generation, approaching 30 GB/s.",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Sony CEO fuels rumors about a possible PlayStation Vita 2",
-    "summary": "Statements from the executive suggest that the company is considering reviving its handheld console.",
-    "source": [
-      "hardzone.es"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Chrome 150 adds new CSS properties, fixes 382 bugs, and continues removing Manifest V2",
-    "summary": "The new version of the browser includes improvements to the rendering engine and critical security patches.",
-    "source": [
-      "alternativeto.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Future NVIDIA RTX 50 Super leaked with TGP between 10 and 17% higher",
-    "summary": "Seasonic power supply calculators list unannounced models of the RTX 50 Super series.",
-    "source": [
+      "videocardz.com",
       "/r/hardware"
     ],
+    "count": 2
+  },
+  {
+    "title": "Google launches deepfake detector, AI video editing, and Gemini API improvements",
+    "summary": "Google's new AI tools address disinformation, video editing, and agent management in the cloud.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Critical vulnerabilities in Tenda and Ubiquiti routers expose networks to unauthorized access",
+    "summary": "Backdoors discovered in Tenda routers and flaws in UniFi allow attackers to take control of devices.",
+    "source": [
+      "tomshardware.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD announces Advancing AI event and ASUS ROG Crosshair X870E bundle leaked at a high price",
+    "summary": "AMD prepares to launch a new leadership x86 CPU, while a motherboard bundle appears at a price well above the official one.",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Claude Fable 5 dominates benchmarks but at a high cost; China accuses Claude Code of having backdoors",
+    "summary": "Anthropic's model is a performance leader but expensive to run, while the Chinese government denounces that Claude Code sends data to servers without consent.",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX launches first commercial nuclear satellite and introduces Starlink collar for dogs",
+    "summary": "The Transporter-17 mission includes a nuclear-powered satellite, while the Fi Ultra Dog Tracker offers global location via satellite.",
+    "source": [
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI launches GPT-5.6 on Thursday after a delay imposed by the US government",
+    "summary": "OpenAI's new language model was delayed due to government regulations and will finally be available this week.",
+    "source": [
+      "the-decoder.com"
+    ],
     "count": 1
   },
   {
-    "title": "Former DeepMind executive warns that the AI arms race could end in disaster",
-    "summary": "The expert fears that uncontrolled competition among AI companies could lead to catastrophic consequences for humanity.",
+    "title": "Farmers obtain right to repair John Deere tractors thanks to agreement with FTC",
+    "summary": "The agreement allows owners to repair their equipment without going to official services, a milestone in the right to repair movement.",
     "source": [
-      "wired.com"
+      "news.ycombinator.com"
     ],
     "count": 1
   }

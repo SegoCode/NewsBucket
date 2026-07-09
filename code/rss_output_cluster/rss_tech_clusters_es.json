@@ -1,18 +1,19 @@
 [
   {
-    "title": "OpenAI presenta GPT-Live: el modo de voz de ChatGPT permite conversaciones en tiempo real más humanas",
-    "summary": "La nueva función de voz escucha y responde sin pausas, mejorando la fluidez de las interacciones con la IA.",
+    "title": "OpenAI lanza GPT-Live, un modelo de voz que permite escuchar y hablar simultáneamente",
+    "summary": "La nueva función de voz de ChatGPT permite conversaciones más naturales al poder interrumpir y responder en tiempo real, como en una charla humana.",
     "source": [
-      "techcrunch.com",
+      "alternativeto.net",
       "the-decoder.com",
       "xataka.com",
-      "news.ycombinator.com"
+      "news.ycombinator.com",
+      "techcrunch.com"
     ],
-    "count": 4
+    "count": 5
   },
   {
-    "title": "SpaceXAI lanza Grok 4.5 considerado un modelo de clase Opus con precios competitivos",
-    "summary": "El nuevo modelo de IA ofrece un rendimiento comparable a GPT 5.5 y Fable 5 pero a un coste significativamente menor.",
+    "title": "SpaceXAI libera Grok 4.5, un modelo 'Opus-class' con precios muy competitivos",
+    "summary": "El lanzamiento del modelo de lenguaje de Elon Musk destaca por su bajo costo en comparación con Fable 5 y GPT-5.5, aunque las brechas en benchmarks son notables.",
     "source": [
       "techcrunch.com",
       "the-decoder.com",
@@ -21,8 +22,8 @@
     "count": 3
   },
   {
-    "title": "Meta endurece medidas de privacidad en sus gafas inteligentes tras denuncias por grabación encubierta",
-    "summary": "La compañía actualiza sus políticas para evitar que usuarios tapen el LED indicador de grabación, mientras prueba gafas que capturan todo el día.",
+    "title": "Meta prueba gafas inteligentes con grabación continua, generando alarma por la privacidad",
+    "summary": "Las nuevas gafas de Meta capturan todo el día del usuario de forma permanente, reavivando el debate sobre la invasión de la privacidad y el consentimiento.",
     "source": [
       "techcrunch.com",
       "the-decoder.com",
@@ -31,17 +32,18 @@
     "count": 3
   },
   {
-    "title": "Meta lanza Muse Image, un modelo de IA para generar y editar imágenes en Instagram y WhatsApp",
-    "summary": "La herramienta utiliza fotos de Instagram para crear efectos visuales avanzados, generando debate sobre la privacidad de los datos.",
+    "title": "Valve lanza Proton 11 y controladores para ejecutar Windows en sus Steam Machines",
+    "summary": "Las actualizaciones mejoran la compatibilidad con juegos y permiten instalar Windows en hardware Steam, aunque la compañía no ofrece soporte oficial.",
     "source": [
-      "the-decoder.com",
-      "alternativeto.net"
+      "videocardz.com",
+      "tomshardware.com",
+      "hardzone.es"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Mistral presenta Robostral Navigate, un modelo de navegación robótica que utiliza una sola cámara",
-    "summary": "El modelo de 8 mil millones de parámetros permite a los robots orientarse con una única cámara, marcando un avance en la robótica autónoma.",
+    "title": "Mistral presenta Robostral Navigate, un modelo que guía robots con una sola cámara",
+    "summary": "El modelo de 8.000 millones de parámetros permite la navegación autónoma de robots usando únicamente una cámara, marcando la entrada de Mistral en robótica.",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com"
@@ -49,8 +51,26 @@
     "count": 2
   },
   {
-    "title": "Cooler Master V4 y V8 3DHP: una obra maestra de la ingeniería de refrigeración",
-    "summary": "Los nuevos disipadores de calor con tecnología 3DHP ofrecen un rendimiento excepcional según las primeras revisiones.",
+    "title": "Instagram estrena efectos de Story con Muse Image, pero la privacidad de los usuarios queda en entredicho",
+    "summary": "La nueva herramienta de IA de Meta utiliza imágenes de Instagram para crear efectos, lo que genera dudas sobre el uso de datos personales.",
+    "source": [
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Alertan de que el modding tool DLSS Swapper puede infectar el PC con malware al descargar DLLs incorrectos",
+    "summary": "El creador de la herramienta advierte contra el uso de archivos DLL de terceros, ya que podrían contener software malicioso y comprometer el sistema.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cooler Master V4 y V8 3DHP reciben críticas excelentes como un logro de ingeniería térmica",
+    "summary": "Los disipadores con tecnología de heat pipes tridimensional ofrecen un rendimiento de refrigeración excepcional, según análisis técnicos.",
     "source": [
       "/r/hardware",
       "tomshardware.com"
@@ -58,17 +78,8 @@
     "count": 2
   },
   {
-    "title": "AMD anuncia su nueva generación de CPU x86 de liderazgo junto a placas base X870",
-    "summary": "La compañía presenta su evento Advancing AI para julio, mientras aparecen listados de la placa ASUS ROG Crosshair X870E Edition.",
-    "source": [
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Se filtran detalles de las CPU Intel Nova Lake con gráficos Xe3 y Xe3P",
-    "summary": "Los procesadores de próxima generación prometen un gran salto de rendimiento gráfico según las especificaciones reveladas.",
+    "title": "Filtran especificaciones de los procesadores Intel Nova Lake con gráficos Xe3 y Xe3P",
+    "summary": "Los nuevos SKUs de Intel prometen un gran salto en rendimiento gráfico y de video, según detalles revelados por filtradores.",
     "source": [
       "videocardz.com",
       "hardzone.es"
@@ -76,17 +87,17 @@
     "count": 2
   },
   {
-    "title": "Valve publica controladores para ejecutar Windows en Steam Machine, pero no ofrece soporte oficial",
-    "summary": "Los drivers permiten instalar Windows en el hardware de Steam, aunque Valve advierte que no brindará asistencia técnica.",
+    "title": "Xbox señala que las consolas son el 80% de su negocio y busca alcanzar 1.000 millones de jugadores diarios",
+    "summary": "La estrategia de Microsoft se centra en el hardware y Game Pass, mientras aspira a expandir su base de usuarios a nivel global.",
     "source": [
-      "tomshardware.com",
-      "hardzone.es"
+      "hardzone.es",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "EE UU despliega un arma antisatélite electromagnética móvil de alta potencia",
-    "summary": "La Fuerza Espacial estadounidense activa el sistema 'Meadowlands' para incapacitar satélites enemigos con rayos electromagnéticos.",
+    "title": "EE.UU. despliega un arma antisatélite sin proyectiles y un cañón electromagnético espacial",
+    "summary": "La Fuerza Espacial recibe su primer sistema móvil de haz electromagnético para inutilizar satélites enemigos, complementando un arma antisatélite no cinética.",
     "source": [
       "xataka.com",
       "tomshardware.com"
@@ -94,83 +105,81 @@
     "count": 2
   },
   {
-    "title": "La herramienta de modding DLSS Swapper podría contener malware al descargar archivos DLL de terceros",
-    "summary": "El creador de la aplicación advierte contra el uso de DLLs enviados por usuarios que podrían infectar el sistema.",
+    "title": "Sony alimenta rumores de una PS Vita 2 mientras PlayStation aplica descuentos en PS Plus",
+    "summary": "Las declaraciones del CEO de Sony disparan las especulaciones sobre una nueva portátil, al tiempo que las suscripciones PS Plus se ofrecen con rebajas del 50%.",
     "source": [
-      "tomshardware.com",
+      "hardzone.es",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Filtración masiva de datos expone millones de números de licencias de conducir",
-    "summary": "Una nueva brecha de seguridad compromete información personal sensible de conductores en Estados Unidos.",
+    "title": "Se filtran las RTX 5070 INFINITY y RTX 50 Super en calculadoras de fuente de alimentación",
+    "summary": "Las futuras GPU de Nvidia aparecen en listados con aumentos de TGP del 10-17%, adelantando especificaciones no anunciadas oficialmente.",
     "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Vulnerabilidad GhostLock de 15 años permite escalada de privilegios en la mayoría de distribuciones Linux",
-    "summary": "El fallo en el kernel posibilita el escape de contenedores y acceso root afectando a sistemas Linux antiguos.",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El mercado de smartphones económicos se contrae un 22% por la escasez de memoria",
-    "summary": "El coste de la memoria representa hasta el 64% del precio total de los terminales de gama baja provocando una caída de ventas.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceX y City Labs lanzan el primer satélite nuclear comercial en la misión Transporter-17",
-    "summary": "El hito abre la puerta a nuevas aplicaciones espaciales con fuentes de energía nuclear a bordo.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Samsung alcanza 28,4 GB/s con un SSD PCIe 6.0 transfiriendo 100 GB en 3,5 segundos",
-    "summary": "El nuevo estándar de almacenamiento duplica el ancho de banda de la generación anterior acercándose a los 30 GB/s.",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El CEO de Sony alimenta los rumores sobre una posible PlayStation Vita 2",
-    "summary": "Declaraciones del ejecutivo sugieren que la compañía está considerando revivir su consola portátil.",
-    "source": [
-      "hardzone.es"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Chrome 150 añade nuevas propiedades CSS corrige 382 fallos y continúa eliminando Manifest V2",
-    "summary": "La nueva versión del navegador incluye mejoras en el motor de renderizado y parches de seguridad críticos.",
-    "source": [
-      "alternativeto.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Se filtran las futuras NVIDIA RTX 50 Super con un TGP entre un 10 y un 17% superior",
-    "summary": "Calculadoras de fuente de alimentación de Seasonic listan modelos aún no anunciados de la serie RTX 50 Super.",
-    "source": [
+      "videocardz.com",
       "/r/hardware"
     ],
+    "count": 2
+  },
+  {
+    "title": "Google lanza detector de deepfakes, edición de video con IA y mejoras en Gemini API",
+    "summary": "Las nuevas herramientas de inteligencia artificial de Google abordan la desinformación, la edición de video y la gestión de agentes en la nube.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Vulnerabilidades críticas en routers Tenda y Ubiquiti exponen redes a accesos no autorizados",
+    "summary": "Se descubren puertas traseras en routers Tenda y fallos en UniFi que permiten a atacantes tomar el control de los dispositivos.",
+    "source": [
+      "tomshardware.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD anuncia su evento Advancing AI y se filtra un bundle ASUS ROG Crosshair X870E a precio elevado",
+    "summary": "AMD se prepara para lanzar una nueva CPU x86 de liderazgo, mientras aparece un bundle de placa base con un precio muy superior al oficial.",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Claude Fable 5 arrasa en benchmarks pero a un alto costo; China acusa a Claude Code de tener puertas traseras",
+    "summary": "El modelo de Anthropic es líder en rendimiento pero caro de ejecutar, mientras el gobierno chino denuncia que Claude Code envía datos a servidores sin consentimiento.",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX lanza el primer satélite nuclear comercial y presenta un collar con Starlink para perros",
+    "summary": "La misión Transporter-17 incluye un satélite de energía nuclear, mientras el Fi Ultra Dog Tracker ofrece localización global vía satélite.",
+    "source": [
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI lanza GPT-5.6 el jueves tras un retraso impuesto por el gobierno de EE.UU.",
+    "summary": "El nuevo modelo de lenguaje de OpenAI se retrasó debido a regulaciones gubernamentales y finalmente estará disponible esta semana.",
+    "source": [
+      "the-decoder.com"
+    ],
     "count": 1
   },
   {
-    "title": "Ex ejecutivo de DeepMind advierte que la carrera armamentística de IA podría terminar en desastre",
-    "summary": "El experto teme que la competencia sin control entre empresas de IA desemboque en consecuencias catastróficas para la humanidad.",
+    "title": "Los agricultores obtienen el derecho a reparar sus tractores John Deere gracias a un acuerdo con la FTC",
+    "summary": "El acuerdo permite a los propietarios reparar sus equipos sin acudir a servicios oficiales, un hito en el movimiento right to repair.",
     "source": [
-      "wired.com"
+      "news.ycombinator.com"
     ],
     "count": 1
   }

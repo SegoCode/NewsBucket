@@ -1,18 +1,19 @@
 [
   {
-    "title": "OpenAI、GPT-Liveを発表：ChatGPTの音声モードがより人間らしいリアルタイム会話を実現",
-    "summary": "新しい音声機能は、途切れることなく聞いて応答し、AIとの対話の流暢さを向上させる。",
+    "title": "OpenAI、同時に聞きながら話せる音声モデルGPT-Liveを発表",
+    "summary": "ChatGPTの新しい音声機能により、割り込みやリアルタイム応答が可能になり、人間の会話のように自然なコミュニケーションが実現。",
     "source": [
-      "techcrunch.com",
+      "alternativeto.net",
       "the-decoder.com",
       "xataka.com",
-      "news.ycombinator.com"
+      "news.ycombinator.com",
+      "techcrunch.com"
     ],
-    "count": 4
+    "count": 5
   },
   {
-    "title": "SpaceXAI、競争力のある価格でOpusクラスのモデルとされるGrok 4.5を発表",
-    "summary": "新しいAIモデルはGPT 5.5やFable 5に匹敵するパフォーマンスを提供するが、コストは大幅に低い。",
+    "title": "SpaceXAI、競争力のある価格の「Opus級」モデルGrok 4.5をリリース",
+    "summary": "イーロン・マスクの言語モデルは、Fable 5やGPT-5.5と比較して低コストであることが特徴だが、ベンチマークの差は顕著。",
     "source": [
       "techcrunch.com",
       "the-decoder.com",
@@ -21,8 +22,8 @@
     "count": 3
   },
   {
-    "title": "Meta、隠し撮り告発を受けスマートグラスのプライバシー対策を強化",
-    "summary": "同社は、ユーザーが録画インジケーターLEDを覆うことを防ぐためポリシーを更新。一方で、終日撮影するメガネをテスト中。",
+    "title": "Meta、継続録画可能なスマートグラスをテスト、プライバシー懸念を引き起こす",
+    "summary": "Metaの新しいメガネはユーザーの一日を常に記録し、プライバシー侵害と同意に関する議論を再燃させている。",
     "source": [
       "techcrunch.com",
       "the-decoder.com",
@@ -31,17 +32,18 @@
     "count": 3
   },
   {
-    "title": "Meta、InstagramとWhatsAppで画像を生成・編集するAIモデル「Muse Image」を公開",
-    "summary": "このツールはInstagramの写真を使用して高度な視覚効果を作成し、データプライバシーに関する議論を巻き起こしている。",
+    "title": "Valve、Steam MachineでWindowsを実行するためのProton 11とドライバをリリース",
+    "summary": "アップデートによりゲームの互換性が向上し、SteamハードウェアへのWindowsインストールが可能になるが、同社は公式サポートを提供しない。",
     "source": [
-      "the-decoder.com",
-      "alternativeto.net"
+      "videocardz.com",
+      "tomshardware.com",
+      "hardzone.es"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Mistral、単一カメラを使用するロボットナビゲーションモデル「Robostral Navigate」を発表",
-    "summary": "80億パラメータのモデルにより、ロボットは1台のカメラだけで自己位置を把握でき、自律ロボット工学の進歩を示す。",
+    "title": "Mistral、単一カメラでロボットを誘導するモデルRobostral Navigateを発表",
+    "summary": "80億パラメータのモデルが単一カメラのみでロボットの自律ナビゲーションを可能にし、Mistralのロボティクス分野への参入を示す。",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com"
@@ -49,8 +51,26 @@
     "count": 2
   },
   {
-    "title": "Cooler Master V4およびV8 3DHP：冷却工学の傑作",
-    "summary": "3DHP技術を採用した新しいヒートシンクは、初期レビューによると卓越したパフォーマンスを提供する。",
+    "title": "Instagram、Muse Imageでストーリーエフェクトを開始するが、ユーザーのプライバシーに疑問",
+    "summary": "Metaの新しいAIツールはInstagramの画像を使用してエフェクトを作成し、個人データの使用に関する疑問を生じさせている。",
+    "source": [
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "改造ツールDLSS Swapper、誤ったDLLダウンロードでPCをマルウェア感染させる可能性があると警告",
+    "summary": "ツールの作成者はサードパーティのDLLファイルの使用を警告しており、悪意のあるソフトウェアを含みシステムを危険にさらす可能性がある。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cooler Master V4およびV8 3DHP、熱工学の成果として絶賛される",
+    "summary": "3次元ヒートパイプ技術を採用したクーラーは、技術分析によれば卓越した冷却性能を提供する。",
     "source": [
       "/r/hardware",
       "tomshardware.com"
@@ -58,17 +78,8 @@
     "count": 2
   },
   {
-    "title": "AMD、X870マザーボードとともに新世代のリーダーシップx86 CPUを発表",
-    "summary": "同社は7月にAdvancing AIイベントを開催すると発表。一方、ASUS ROG Crosshair X870E Editionのリストが出現。",
-    "source": [
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Nova Lake CPU、Xe3およびXe3Pグラフィックス搭載の詳細がリーク",
-    "summary": "次世代プロセッサは、明らかになった仕様によると、グラフィック性能の大幅な飛躍を約束している。",
+    "title": "Intel Nova Lakeプロセッサの詳細が流出、Xe3およびXe3Pグラフィックス搭載",
+    "summary": "Intelの新しいSKUは、リーカーによって明らかにされた詳細によると、グラフィックとビデオ性能の大幅な向上を約束する。",
     "source": [
       "videocardz.com",
       "hardzone.es"
@@ -76,17 +87,17 @@
     "count": 2
   },
   {
-    "title": "Valve、Steam MachineでWindowsを実行するためのドライバーを公開するも、公式サポートは提供せず",
-    "summary": "このドライバーによりSteamハードウェアへのWindowsインストールが可能になるが、Valveは技術サポートを提供しないと警告。",
+    "title": "Xbox、コンソールが事業の80%を占めると表明、10億人のデイリープレイヤーを目指す",
+    "summary": "マイクロソフトの戦略はハードウェアとGame Passに焦点を当て、世界規模でのユーザーベース拡大を目指している。",
     "source": [
-      "tomshardware.com",
-      "hardzone.es"
+      "hardzone.es",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "米国、高威力の移動式電磁波対衛星兵器を配備",
-    "summary": "米宇宙軍は、電磁波で敵の衛星を無力化するシステム「Meadowlands」を稼働。",
+    "title": "米国、無弾頭の対衛星兵器と宇宙用電磁カノンを配備",
+    "summary": "宇宙軍は初の移動式電磁ビームシステムを受領し、敵衛星を無力化する。非運動エネルギー対衛星兵器を補完する。",
     "source": [
       "xataka.com",
       "tomshardware.com"
@@ -94,83 +105,81 @@
     "count": 2
   },
   {
-    "title": "ModdingツールDLSS Swapper、サードパーティのDLLファイルダウンロードによりマルウェアを含む可能性",
-    "summary": "アプリの作成者は、システムに感染させる可能性のあるユーザー送信のDLLを使用しないよう警告。",
+    "title": "Sony、PS Vita 2の噂を促進、PlayStationがPS Plus割引を実施",
+    "summary": "SonyのCEOの発言が新型携帯ゲーム機の憶測を呼ぶ一方、PS Plusサブスクリプションが50%オフで提供されている。",
     "source": [
-      "tomshardware.com",
+      "hardzone.es",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "大規模なデータ漏洩で数百万の運転免許証番号が暴露",
-    "summary": "新たなセキュリティ侵害により、米国の運転手の機密個人情報が危険にさらされる。",
+    "title": "RTX 5070 INFINITYとRTX 50 Super、電源計算ツールにリーク",
+    "summary": "Nvidiaの将来のGPUがTGP 10-17%増のリストに登場し、公式未発表の仕様を先取り。",
     "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "15年前のGhostLock脆弱性、ほとんどのLinuxディストリビューションで権限昇格を可能に",
-    "summary": "カーネルの欠陥によりコンテナエスケープとrootアクセスが可能になり、古いLinuxシステムに影響。",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "メモリ不足で低価格スマートフォン市場が22%縮小",
-    "summary": "メモリコストが低価格帯端末の総価格の最大64%を占め、販売減少を引き起こしている。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceXとCity Labs、Transporter-17ミッションで初の商業用原子力衛星を打ち上げ",
-    "summary": "この偉業は、原子力エネルギー源を搭載した新たな宇宙アプリケーションへの道を開く。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Samsung、PCIe 6.0 SSDで28.4 GB/sを達成、100GBを3.5秒で転送",
-    "summary": "新しいストレージ規格は前世代の帯域幅を2倍にし、30 GB/sに迫る。",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Sony CEO、PlayStation Vita 2の可能性に関する噂を煽る",
-    "summary": "幹部の発言は、同社が携帯ゲーム機の復活を検討していることを示唆。",
-    "source": [
-      "hardzone.es"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Chrome 150、新しいCSSプロパティを追加、382のバグを修正、Manifest V2の廃止を継続",
-    "summary": "新しいバージョンのブラウザには、レンダリングエンジンの改善と重要なセキュリティパッチが含まれている。",
-    "source": [
-      "alternativeto.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "将来のNVIDIA RTX 50 Super、TGPが10〜17%向上してリーク",
-    "summary": "Seasonicの電源計算ツールが、まだ発表されていないRTX 50 Superシリーズのモデルをリストアップ。",
-    "source": [
+      "videocardz.com",
       "/r/hardware"
     ],
+    "count": 2
+  },
+  {
+    "title": "Google、ディープフェイク検出器、AI動画編集、Gemini APIの改善を発表",
+    "summary": "Googleの新しいAIツールは、偽情報対策、動画編集、クラウド上のエージェント管理に対応する。",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "TendaおよびUbiquitiルーターの重大な脆弱性、ネットワークを不正アクセスにさらす",
+    "summary": "TendaルーターのバックドアとUniFiの欠陥が発見され、攻撃者がデバイスを制御できるようになる。",
+    "source": [
+      "tomshardware.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMDがAdvancing AIイベントを発表、ASUS ROG Crosshair X870Eバンドルが高額で流出",
+    "summary": "AMDは新たなリーダーシップx86 CPUの発売を準備する一方、マザーボードバンドルが公式価格を大幅に上回る価格で登場。",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Claude Fable 5、ベンチマークで圧倒するも高コスト；中国、Claude Codeにバックドアがあると非難",
+    "summary": "Anthropicのモデルは性能面でリーダーだが実行コストが高く、中国政府はClaude Codeが同意なしにデータをサーバーに送信していると非難。",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX、初の民生用原子力衛星を打ち上げ、Starlink対応犬用首輪を発表",
+    "summary": "Transporter-17ミッションには原子力衛星が含まれ、Fi Ultra Dog Trackerは衛星経由のグローバル位置情報を提供。",
+    "source": [
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、米国政府による遅延の後、木曜日にGPT-5.6をリリース",
+    "summary": "OpenAIの新しい言語モデルは政府規制により遅れていたが、今週中に利用可能となる。",
+    "source": [
+      "the-decoder.com"
+    ],
     "count": 1
   },
   {
-    "title": "元DeepMind幹部、AI軍拡競争が破局を招く可能性があると警告",
-    "summary": "専門家は、AI企業間の無制限の競争が人類に壊滅的な結果をもたらすことを懸念している。",
+    "title": "農家、FTCとの合意によりJohn Deereトラクターの修理権を獲得",
+    "summary": "この合意により、所有者は公式サービスを利用せずに機器を修理できるようになり、修理する権利運動のマイルストーンとなる。",
     "source": [
-      "wired.com"
+      "news.ycombinator.com"
     ],
     "count": 1
   }
