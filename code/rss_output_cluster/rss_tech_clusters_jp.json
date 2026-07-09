@@ -1,156 +1,101 @@
 [
   {
-    "title": "Metaが画像生成AI「Muse Image」を発表、Instagramの写真を無断使用し批判を浴びる",
-    "summary": "Metaの人工知能がInstagramの公開写真から画像を生成、ユーザーのプライバシーと同意に関する論争を引き起こしている。",
+    "title": "OpenAI、GPT-Liveを発表：ChatGPTの音声モードがより人間らしいリアルタイム会話を実現",
+    "summary": "新しい音声機能は、途切れることなく聞いて応答し、AIとの対話の流暢さを向上させる。",
     "source": [
-      "/r/technology",
+      "techcrunch.com",
       "the-decoder.com",
-      "alternativeto.net",
-      "kite.kagi.com",
-      "techcrunch.com",
-      "wired.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "ソフトウェアの大規模アップデート：Windows 11、Chrome 150、OpenSSH、Protonなど",
-    "summary": "主要なソフトウェアプラットフォームがセキュリティ、パフォーマンス、機能性の向上を含む新バージョンを発表。ポスト量子暗号サポートや新しいドライバも含まれている。",
-    "source": [
-      "news.ycombinator.com",
-      "alternativeto.net",
-      "videocardz.com",
-      "hardzone.es",
-      "tomshardware.com",
-      "bandaancha.eu"
-    ],
-    "count": 6
-  },
-  {
-    "title": "サイバー脅威の波：情報漏洩、銀行マルウェア、重大な脆弱性、AI攻撃",
-    "summary": "ルーターのバックドアからAI詐欺、Linuxの欠陥まで、サイバーセキュリティは多様で増大する脅威に直面している。",
-    "source": [
-      "thehackernews.com",
-      "techcrunch.com",
-      "/r/technology",
-      "news.ycombinator.com",
-      "tomshardware.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "OpenAIがGPT-Liveを発表、ChatGPTとのより自然な会話を実現する新音声モード",
-    "summary": "ChatGPTの音声システムが同時に聞き取りと発話が可能になり、対話の流暢さが向上。",
-    "source": [
       "xataka.com",
-      "the-decoder.com",
-      "news.ycombinator.com",
-      "techcrunch.com"
+      "news.ycombinator.com"
     ],
     "count": 4
   },
   {
-    "title": "OpenAI、MiniMax、DeepSeek、Nvidiaが次世代AIモデルとチップを推進",
-    "summary": "OpenAIのGPT-5.6、MiniMaxの2.7兆パラメータモデル、DeepSeekのチップ、NvidiaのVera CPUが人工知能の革新をリードしている。",
+    "title": "SpaceXAI、競争力のある価格でOpusクラスのモデルとされるGrok 4.5を発表",
+    "summary": "新しいAIモデルはGPT 5.5やFable 5に匹敵するパフォーマンスを提供するが、コストは大幅に低い。",
     "source": [
+      "techcrunch.com",
       "the-decoder.com",
-      "tomshardware.com",
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Sony、3年間の非アクティブ後PlayStationのデジタルゲームを削除へ、訴訟と株価下落に直面",
-    "summary": "デジタルゲーム削除の新ポリシーが、巨額訴訟、CEOの株式売却、PS Plus割引を引き起こし、加入者維持を目指す。",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Apple、米国製Broadcomチップに300億ドル投資",
-    "summary": "AppleはBroadcomとの契約を拡大し、米国でワイヤレスチップを生産、国内製造を強化する。",
-    "source": [
-      "xataka.com",
-      "techcrunch.com",
       "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "Metaのスマートグラス、継続的な録画と透明性の欠如で警鐘",
-    "summary": "Metaが永続的な録画機能を持つメガネを試験、ユーザーと専門家がプライバシーの危険性を警告。",
+    "title": "Meta、隠し撮り告発を受けスマートグラスのプライバシー対策を強化",
+    "summary": "同社は、ユーザーが録画インジケーターLEDを覆うことを防ぐためポリシーを更新。一方で、終日撮影するメガネをテスト中。",
     "source": [
-      "xataka.com",
       "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft、Xbox部門で4800人を解雇、コンソール戦略に疑問の声",
-    "summary": "Xbox部門は大規模な人員削減とバーニー・サンダース氏の批判に直面し、プレイヤー基盤の拡大を模索。",
-    "source": [
-      "hardzone.es",
-      "/r/technology",
+      "the-decoder.com",
       "xataka.com"
     ],
     "count": 3
   },
   {
-    "title": "Microsoft、Google、Anthropic、AIエージェント作成・実行の新ツールを発表",
-    "summary": "Flint、Gemini APIのバックグラウンド実行、モバイルのClaude Coworkは、大手テクノロジー企業の自律エージェントへの取り組みを象徴している。",
+    "title": "Meta、InstagramとWhatsAppで画像を生成・編集するAIモデル「Muse Image」を公開",
+    "summary": "このツールはInstagramの写真を使用して高度な視覚効果を作成し、データプライバシーに関する議論を巻き起こしている。",
     "source": [
-      "news.ycombinator.com",
       "the-decoder.com",
       "alternativeto.net"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "初の商業用原子力衛星打ち上げ、宇宙産業への多額投資",
-    "summary": "SpaceXが原子力衛星を打ち上げ、Blue OriginとVenus Aerospaceが巨額の資金調達、米宇宙軍がマイクロ波兵器を導入。",
+    "title": "Mistral、単一カメラを使用するロボットナビゲーションモデル「Robostral Navigate」を発表",
+    "summary": "80億パラメータのモデルにより、ロボットは1台のカメラだけで自己位置を把握でき、自律ロボット工学の進歩を示す。",
     "source": [
-      "xataka.com",
-      "techcrunch.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "肥満は遺伝性、マイクロプラスチックは健康リスクと関連、新たな遺伝子研究",
-    "summary": "最近の研究で、肥満は主に遺伝的であり、マイクロプラスチックは人体に蓄積され、クレアチンは癌治療に役立つ可能性が示された。",
-    "source": [
-      "xataka.com",
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ハードウェア最新情報：新規格、CPU、GPU、コンポーネント割引",
-    "summary": "Intel、AMD、Nvidiaなどのメーカーが新プロセッサ、グラフィックカード、メモリ規格を発表、PC性能を向上。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Tendaルーターにパスワード不要のバックドアが発見、修正されず",
-    "summary": "Tendaの複数ルーターモデルに、認証不要で管理者権限を取得できる未修正の重大な脆弱性。",
-    "source": [
-      "tomshardware.com",
+      "the-decoder.com",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "DLSS Swapperツール、サードパーティ製DLLダウンロードでマルウェア感染の可能性",
-    "summary": "MOD作成者は、ユーザーアップロードのDLLファイルがPCに感染する恐れがあると警告し、公式配布元のみを使用するよう呼びかけ。",
+    "title": "Cooler Master V4およびV8 3DHP：冷却工学の傑作",
+    "summary": "3DHP技術を採用した新しいヒートシンクは、初期レビューによると卓越したパフォーマンスを提供する。",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD、X870マザーボードとともに新世代のリーダーシップx86 CPUを発表",
+    "summary": "同社は7月にAdvancing AIイベントを開催すると発表。一方、ASUS ROG Crosshair X870E Editionのリストが出現。",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel Nova Lake CPU、Xe3およびXe3Pグラフィックス搭載の詳細がリーク",
+    "summary": "次世代プロセッサは、明らかになった仕様によると、グラフィック性能の大幅な飛躍を約束している。",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve、Steam MachineでWindowsを実行するためのドライバーを公開するも、公式サポートは提供せず",
+    "summary": "このドライバーによりSteamハードウェアへのWindowsインストールが可能になるが、Valveは技術サポートを提供しないと警告。",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米国、高威力の移動式電磁波対衛星兵器を配備",
+    "summary": "米宇宙軍は、電磁波で敵の衛星を無力化するシステム「Meadowlands」を稼働。",
+    "source": [
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ModdingツールDLSS Swapper、サードパーティのDLLファイルダウンロードによりマルウェアを含む可能性",
+    "summary": "アプリの作成者は、システムに感染させる可能性のあるユーザー送信のDLLを使用しないよう警告。",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -158,48 +103,75 @@
     "count": 2
   },
   {
-    "title": "Mistral、単一カメラによるロボットナビゲーション向けAIモデル「Robostral Navigate」を発表",
-    "summary": "80億パラメータのモデルによりロボットが単一カメラで自己位置を特定可能に、Mistralがロボティクスに参入。",
+    "title": "大規模なデータ漏洩で数百万の運転免許証番号が暴露",
+    "summary": "新たなセキュリティ侵害により、米国の運転手の機密個人情報が危険にさらされる。",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "米オレゴン州、データセンターの電気料金を30％引き上げ、家庭は1.3％引き下げ",
-    "summary": "POWER法により大口需要家は高い電気代を支払うことになり、住民は最小限の軽減しか受けない。",
+    "title": "15年前のGhostLock脆弱性、ほとんどのLinuxディストリビューションで権限昇格を可能に",
+    "summary": "カーネルの欠陥によりコンテナエスケープとrootアクセスが可能になり、古いLinuxシステムに影響。",
     "source": [
-      "/r/technology",
+      "thehackernews.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "メモリ不足で低価格スマートフォン市場が22%縮小",
+    "summary": "メモリコストが低価格帯端末の総価格の最大64%を占め、販売減少を引き起こしている。",
+    "source": [
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Grok 4.5、Fable 5、GPT 5.5が性能と価格で競争、ベンチマーク差は縮小",
-    "summary": "次世代AIモデルは、僅かな性能差よりも価格が重要な決定要因になりつつあることを示している。",
+    "title": "SpaceXとCity Labs、Transporter-17ミッションで初の商業用原子力衛星を打ち上げ",
+    "summary": "この偉業は、原子力エネルギー源を搭載した新たな宇宙アプリケーションへの道を開く。",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "xataka.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "GitHubに複数の脆弱性、検証済みコミットやCopilot、リポジトリプライバシーに影響",
-    "summary": "研究者が、検証済みコミットが署名を維持したまま書き換え可能、Copilotが制限を無視、AIエージェントが非公開リポジトリを漏洩することを実証。",
+    "title": "Samsung、PCIe 6.0 SSDで28.4 GB/sを達成、100GBを3.5秒で転送",
+    "summary": "新しいストレージ規格は前世代の帯域幅を2倍にし、30 GB/sに迫る。",
     "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
+      "videocardz.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "気候変動により地中海で熱帯夜が常態化、移動制限も",
-    "summary": "新たなデータにより、熱帯夜が常態化し、猛暑が人々を屋内に閉じ込め、北米の排出量が増加していることが明らかになった。",
+    "title": "Sony CEO、PlayStation Vita 2の可能性に関する噂を煽る",
+    "summary": "幹部の発言は、同社が携帯ゲーム機の復活を検討していることを示唆。",
     "source": [
-      "xataka.com",
-      "/r/technology"
+      "hardzone.es"
     ],
-    "count": 2
+    "count": 1
+  },
+  {
+    "title": "Chrome 150、新しいCSSプロパティを追加、382のバグを修正、Manifest V2の廃止を継続",
+    "summary": "新しいバージョンのブラウザには、レンダリングエンジンの改善と重要なセキュリティパッチが含まれている。",
+    "source": [
+      "alternativeto.net"
+    ],
+    "count": 1
+  },
+  {
+    "title": "将来のNVIDIA RTX 50 Super、TGPが10〜17%向上してリーク",
+    "summary": "Seasonicの電源計算ツールが、まだ発表されていないRTX 50 Superシリーズのモデルをリストアップ。",
+    "source": [
+      "/r/hardware"
+    ],
+    "count": 1
+  },
+  {
+    "title": "元DeepMind幹部、AI軍拡競争が破局を招く可能性があると警告",
+    "summary": "専門家は、AI企業間の無制限の競争が人類に壊滅的な結果をもたらすことを懸念している。",
+    "source": [
+      "wired.com"
+    ],
+    "count": 1
   }
 ]
