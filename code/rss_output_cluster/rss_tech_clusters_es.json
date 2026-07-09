@@ -1,19 +1,18 @@
 [
   {
-    "title": "OpenAI lanza modelos de voz GPT-Live que permiten escuchar y hablar simultáneamente",
-    "summary": "Los nuevos modelos de voz de OpenAI para ChatGPT permiten conversaciones más naturales en tiempo real.",
+    "title": "Meta usará fotos públicas de Instagram para entrenar sus modelos de IA: cómo evitarlo",
+    "summary": "Los usuarios pueden desactivar el uso de sus imágenes en la configuración de privacidad de la red social.",
     "source": [
-      "alternativeto.net",
-      "producthunt.com",
-      "kite.kagi.com",
-      "the-decoder.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "/r/technology",
+      "thehackernews.com",
+      "kite.kagi.com"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "AMD Zen 6 Medusa Point de 10 núcleos supera a Ryzen AI 9 HX 370 en pruebas de rendimiento",
-    "summary": "El nuevo procesador AMD Medusa Point registra hasta un 22% más de rendimiento que su predecesor en Geekbench.",
+    "title": "El APU AMD Zen6 Medusa Point de 10 núcleos supera en rendimiento a los Ryzen AI 9 HX 370",
+    "summary": "Filtraciones de benchmarks muestran una mejora del 22% en Geekbench respecto a los procesadores actuales.",
     "source": [
       "tomshardware.com",
       "hardzone.es",
@@ -22,17 +21,72 @@
     "count": 3
   },
   {
-    "title": "Nvidia presenta las tarjetas coleccionables GeForce Trading Cards Series 1",
-    "summary": "Nvidia distribuirá gratuitamente en eventos cartas coleccionables con juegos, GPUs y demostraciones tecnológicas.",
+    "title": "China impulsa su industria de chips ante la incertidumbre de las sanciones estadounidenses",
+    "summary": "Las grandes tecnológicas chinas apuestan por fabricantes locales, mientras se fragua una alianza de chips con Rusia.",
     "source": [
-      "tomshardware.com",
-      "/r/hardware"
+      "/r/technology",
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El New York Times acusa a OpenAI de ocultar pruebas en el juicio por derechos de autor",
+    "summary": "OpenAI habría eliminado registros de ChatGPT y ocultado la incapacidad de buscar datos de entrenamiento.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD revive el procesador Zen 2 Ryzen 7 4700LE en un PC preensamblado con RTX 3050",
-    "summary": "El antiguo chip de AMD resurge en un presupuesto de 800 dólares con memoria DDR4.",
+    "title": "OpenAI lanza GPT-5.6 y ChatGPT Work, un agente para automatizar flujos de trabajo",
+    "summary": "El nuevo modelo iguala a Fable 5 con un tercio del costo y se despliega junto a una herramienta de automatización.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "xAI presenta Grok 4.5 con codificación más rápida y precios más bajos",
+    "summary": "Grok 4.5 ofrece rendimiento competitivo a un costo muy inferior al de GPT-5.5 y Fable 5.",
+    "source": [
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El modelo GLM 5.2 de código abierto chino iguala la precisión humana en contabilidad",
+    "summary": "Databricks adopta GLM 5.2 como su motor de codificación predeterminado tras demostrar eficiencia y bajo coste.",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI lanza GPT-Live, modelos de voz que permiten escuchar y hablar al mismo tiempo",
+    "summary": "Los nuevos modelos de voz ofrecen interacción en tiempo real, hablando y escuchando simultáneamente.",
+    "source": [
+      "alternativeto.net",
+      "producthunt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El navegador DuckDuckGo bloquea automáticamente los anuncios de YouTube en todas las plataformas",
+    "summary": "La función está disponible sin extensiones y de forma gratuita tanto en escritorio como en móviles.",
+    "source": [
+      "alternativeto.net",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD revive el procesador Zen2 Ryzen 7 4700LE en un PC de bajo costo con RTX 3050",
+    "summary": "El antiguo procesador de 8 núcleos vuelve en un equipo preensamblado de 800 dólares con gráficos discretos.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -40,35 +94,44 @@
     "count": 2
   },
   {
-    "title": "Profesor sospechaba de trampas con IA y al hacer examen presencial las notas se desplomaron",
-    "summary": "Solo dos estudiantes mantuvieron su calificación tras pasar de un examen en casa a uno presencial.",
-    "source": [
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel prepara CPUs Nova Lake-S de hasta 28 núcleos para estaciones de trabajo Dunlow",
-    "summary": "La plataforma contará con un socket LGA1954 y se espera para el segmento de alto rendimiento.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China acusa a Claude Code de contener puertas traseras; Anthropic lo niega",
-    "summary": "El gobierno chino afirma que el asistente de código envía información sin consentimiento, mientras Anthropic rechaza las acusaciones.",
+    "title": "Minisforum lanza un mini PC con 128 GB de RAM y soporte para GPU de perfil bajo",
+    "summary": "La nueva estación de trabajo Panther Lake está diseñada para tareas intensivas y admite gráficas discretas.",
     "source": [
       "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El Parlamento Europeo reactiva la ley Chat Control 1.0 para el escaneo masivo de comunicaciones",
+    "summary": "Mediante un procedimiento parlamentario, se aprobó el control de mensajes pese a la oposición previa.",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Profesor de la Ivy League descubre trampas con IA al pasar un examen presencial y las notas caen un 50%",
+    "summary": "Solo dos estudiantes mantuvieron su calificación cuando el examen se realizó en persona frente a la modalidad virtual.",
+    "source": [
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Nuevo ataque 'HalluSquatting' explota alucinaciones de la IA para ejecutar código malicioso",
-    "summary": "Los atacantes se aprovechan de la tendencia de los asistentes de IA a alucinar para instalar malware.",
+    "title": "Google Fotos incorpora Video Remix, una herramienta de edición de video rápida con IA",
+    "summary": "La nueva función permite crear clips creativos de manera ágil usando inteligencia artificial generativa.",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "HalluSquatting: nuevo ataque explota las alucinaciones de la IA para ejecutar código malicioso",
+    "summary": "Los sistemas de seguridad basados en IA pueden ser engañados mediante la explotación de sus errores generativos.",
     "source": [
       "tomshardware.com",
       "thehackernews.com"
@@ -76,104 +139,48 @@
     "count": 2
   },
   {
-    "title": "Meta usará por defecto fotos públicas de Instagram para entrenar su herramienta de IA Muse",
-    "summary": "La compañía habilita automáticamente el uso de imágenes de usuarios en su generador de imágenes con IA.",
+    "title": "Intel prepara procesadores Nova Lake-S de 28 núcleos para estaciones de trabajo",
+    "summary": "Detalles filtrados revelan las especificaciones de los próximos chips de alto rendimiento con gráficos Xe3.",
     "source": [
-      "thehackernews.com",
-      "kite.kagi.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Google lanza la herramienta 'Video Remix' con IA en Google Photos",
-    "summary": "La nueva función permite remezclar vídeos usando inteligencia artificial directamente desde la aplicación.",
-    "source": [
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceXAI lanza Grok 4.5, un modelo de IA 'de clase Opus' a precio competitivo",
-    "summary": "Elon Musk presenta Grok 4.5 como un modelo de alto rendimiento a un coste inferior al de GPT-5.5 y Fable 5.",
+    "title": "Meta lanza la API Muse Spark 1.1 con precios que aprietan a OpenAI y Anthropic",
+    "summary": "Los nuevos precios reducen el costo de acceso a los modelos de IA, intensificando la guerra de precios.",
     "source": [
       "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La escasez de memoria dispara los precios de la RAM y colapsa el mercado de smartphones económicos",
-    "summary": "Los precios de la DDR4 suben más del 50% en el tercer trimestre y la memoria supone hasta el 64% del coste de los móviles baratos.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "TCL lanza monitores gaming con frecuencias extremas: 1080Hz y 320Hz en paneles Mini LED",
-    "summary": "El TCL 27P2A Ultra ofrece modo 1080p a 1080 Hz, mientras que otro modelo combina 4K y alta tasa de refresco.",
-    "source": [
-      "videocardz.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La herramienta de IA de código abierto Ollama recauda 65 millones de dólares",
-    "summary": "Ollama alcanza casi 9 millones de usuarios tras una ronda de financiación Serie A.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El Parlamento Europeo aprueba el Chat Control 1.0 entre críticas por la privacidad",
-    "summary": "La ley permite el escaneo de comunicaciones para detectar contenido ilegal, generando preocupación entre defensores de derechos digitales.",
-    "source": [
       "news.ycombinator.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Los propietarios de John Deere obtienen el derecho a reparar sus equipos según acuerdo con la FTC",
-    "summary": "El acuerdo permite a los agricultores reparar sus tractores sin depender exclusivamente del fabricante.",
+    "title": "Nueva York prohíbe las gafas inteligentes en tribunales, mientras Pamplona las usa en los Sanfermines",
+    "summary": "Dos incidentes recientes ponen de relieve el debate en torno al uso de gafas inteligentes en espacios públicos.",
     "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El detector de deepfakes de Google desmiente una imagen falsa de Mitch McConnell",
-    "summary": "La herramienta de inteligencia artificial de Google identificó un montaje fotográfico del político estadounidense.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Estados Unidos pone en servicio un arma antisatélite que no utiliza proyectiles",
-    "summary": "La nueva arma emplea tecnologías no cinéticas para incapacitar satélites en órbita.",
-    "source": [
+      "/r/technology",
       "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "ASML se consolida como el monopolio más importante del mundo en fabricación de chips",
-    "summary": "La empresa neerlandesa domina la producción de las máquinas de litografía necesarias para los semiconductores más avanzados.",
+    "title": "PlayStation impulsa el fin del formato físico, pero Halloween rescata los discos con ediciones físicas",
+    "summary": "La industria del videojuego vive una tensión entre el abandono de los soportes físicos y el lanzamiento de nuevas ediciones en disco.",
     "source": [
+      "xataka.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Avances en manos robóticas: empresas chinas y estadounidenses compiten por la destreza artificial",
+    "summary": "El robot Neo de 1X y las innovaciones chinas muestran progresos significativos en la manipulación robótica.",
+    "source": [
+      "wired.com",
       "xataka.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "Mistral AI lanza Robostral Navigate, un modelo de 8B parámetros para navegación robótica",
-    "summary": "El modelo permite a los robots navegar utilizando una sola cámara, marcando la entrada de Mistral en robótica.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]

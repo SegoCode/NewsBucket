@@ -1,19 +1,18 @@
 [
   {
-    "title": "OpenAIがGPT-Live音声モデルを発表、同時に聞き取りと会話が可能に",
-    "summary": "ChatGPT向けのOpenAIの新しい音声モデルにより、より自然なリアルタイム会話が可能になります。",
+    "title": "Meta、Instagramの公開写真をAIモデルの訓練に使用へ：その回避方法",
+    "summary": "ユーザーはソーシャルネットワークのプライバシー設定で画像の使用を無効にすることができます。",
     "source": [
-      "alternativeto.net",
-      "producthunt.com",
-      "kite.kagi.com",
-      "the-decoder.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "/r/technology",
+      "thehackernews.com",
+      "kite.kagi.com"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "AMD Zen 6 Medusa Point 10コアがRyzen AI 9 HX 370をベンチマークで上回る",
-    "summary": "新しいAMD Medusa PointプロセッサはGeekbenchで前世代比最大22%のパフォーマンス向上を記録。",
+    "title": "AMD Zen6 Medusa Point APU、10コアでRyzen AI 9 HX 370を性能で上回る",
+    "summary": "ベンチマーク流出により、現行プロセッサと比べてGeekbenchで22%の向上が示された。",
     "source": [
       "tomshardware.com",
       "hardzone.es",
@@ -22,17 +21,72 @@
     "count": 3
   },
   {
-    "title": "Nvidia、GeForceトレーディングカードシリーズ1を発表",
-    "summary": "Nvidiaはイベントでゲーム、GPU、テクノロジーデモをフィーチャーしたコレクターズカードを無料配布。",
+    "title": "中国、米国の制裁不確実性を受けて半導体産業を促進",
+    "summary": "中国の大手ハイテク企業は地元メーカーに注力し、一方でロシアとの半導体同盟が形成されつつある。",
     "source": [
-      "tomshardware.com",
-      "/r/hardware"
+      "/r/technology",
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ニューヨーク・タイムズ、OpenAIが著作権訴訟で証拠を隠蔽したと非難",
+    "summary": "OpenAIはChatGPTの記録を削除し、学習データの検索ができないことを隠したとされる。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "AMDがZen 2 Ryzen 7 4700LEをRTX 3050搭載の完成品PCで復活",
-    "summary": "AMDの旧型チップが800ドルの予算でDDR4メモリとともに再登場。",
+    "title": "OpenAI、GPT-5.6とワークフロー自動化エージェントChatGPT Workを発表",
+    "summary": "新モデルはFable 5に匹敵する性能を3分の1のコストで実現し、自動化ツールと共に展開される。",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "xAI、より高速なコーディングと低価格でGrok 4.5を発表",
+    "summary": "Grok 4.5はGPT-5.5やFable 5よりもはるかに低いコストで競争力のあるパフォーマンスを提供する。",
+    "source": [
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国のオープンソースモデルGLM 5.2、会計で人間の精度に匹敵",
+    "summary": "Databricks、効率性と低コストを実証したGLM 5.2をデフォルトのコーディングエンジンとして採用。",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、聞きながら話せる音声モデルGPT-Liveを発表",
+    "summary": "新しい音声モデルは、同時に話したり聞いたりできるリアルタイムのインタラクションを提供する。",
+    "source": [
+      "alternativeto.net",
+      "producthunt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "DuckDuckGoブラウザ、全プラットフォームでYouTube広告を自動ブロック",
+    "summary": "この機能は拡張機能不要で無料で利用可能で、デスクトップとモバイルの両方に対応。",
+    "source": [
+      "alternativeto.net",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD、Zen2 Ryzen 7 4700LEプロセッサをRTX 3050搭載の低価格PCで復活",
+    "summary": "8コアの旧型プロセッサが、800ドルのプリビルドPCに搭載されて再登場。",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -40,35 +94,44 @@
     "count": 2
   },
   {
-    "title": "教授がAIによる不正を疑い、対面試験を実施すると成績が急落",
-    "summary": "自宅受験から対面試験に移行後、わずか2名の学生だけが評価を維持。",
-    "source": [
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel、Dunlowワークステーション向け最大28コアのNova Lake-S CPUを準備",
-    "summary": "このプラットフォームはLGA1954ソケットを採用し、ハイパフォーマンスセグメント向けが期待されます。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国がClaude Codeにバックドアが含まれていると非難、Anthropicは否定",
-    "summary": "中国政府はコードアシスタントが同意なしに情報を送信していると主張する一方、Anthropicは告発を否定。",
+    "title": "Minisforum、128GB RAMとロープロファイルGPU対応のミニPCを発表",
+    "summary": "新しいワークステーションPanther Lakeは、高負荷タスク向けに設計され、ディスクリートグラフィックスをサポート。",
     "source": [
       "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "欧州議会、大規模通信スキャンのためのChat Control 1.0法を再活性化",
+    "summary": "議会手続きにより、事前の反対にもかかわらずメッセージ管理が承認された。",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "アイビーリーグ教授、対面試験でAIカンニングを発見、成績が50%低下",
+    "summary": "オンライン試験と比較して対面試験では、わずか2人の学生だけが成績を維持した。",
+    "source": [
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "新たな「HalluSquatting」攻撃、AIの幻覚を悪用して悪意のあるコードを実行",
-    "summary": "攻撃者はAIアシスタントが幻覚を起こしやすい傾向を利用してマルウェアをインストール。",
+    "title": "Googleフォト、AIによる動画編集ツールVideo Remixを搭載",
+    "summary": "新機能は、生成AIを使ってクリエイティブなクリップを迅速に作成することができる。",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "HalluSquatting：AIの幻覚を悪用して悪意のあるコードを実行する新たな攻撃",
+    "summary": "AIベースのセキュリティシステムは、その生成エラーを悪用されることで欺かれる可能性がある。",
     "source": [
       "tomshardware.com",
       "thehackernews.com"
@@ -76,104 +139,48 @@
     "count": 2
   },
   {
-    "title": "Meta、Instagramの公開写真をデフォルトでAIツールMuseのトレーニングに使用へ",
-    "summary": "同社はAI画像生成ツールでのユーザー画像の使用を自動的に有効化。",
+    "title": "Intel、ワークステーション向け28コアNova Lake-Sプロセッサを準備",
+    "summary": "リークされた詳細により、Xe3グラフィックスを搭載した次期高性能チップの仕様が明らかに。",
     "source": [
-      "thehackernews.com",
-      "kite.kagi.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Google、GoogleフォトでAI搭載の「ビデオリミックス」ツールをリリース",
-    "summary": "新しい機能はアプリから直接AIを使ってビデオをリミックスできます。",
-    "source": [
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceXAI、競争力のある価格で『Opus級』のAIモデルGrok 4.5をリリース",
-    "summary": "イーロン・マスクはGrok 4.5を、GPT-5.5やFable 5よりも低コストな高性能モデルとして発表。",
+    "title": "Meta、OpenAIやAnthropicを圧迫する価格でMuse Spark 1.1 APIを公開",
+    "summary": "新しい価格設定はAIモデルへのアクセスコストを削減し、価格競争を激化させている。",
     "source": [
       "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "メモリ不足がRAM価格を高騰させ、低価格スマートフォン市場を崩壊",
-    "summary": "DDR4価格は第3四半期に50%以上上昇し、メモリは低価格携帯電話のコストの最大64%を占める。",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "TCL、Mini LEDパネルで1080Hzと320Hzの極端なリフレッシュレートを備えたゲーミングモニターを発売",
-    "summary": "TCL 27P2A Ultraは1080pで1080Hzのモードを提供し、別のモデルは4Kと高リフレッシュレートを組み合わせる。",
-    "source": [
-      "videocardz.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "オープンソースAIツールOllamaが6500万ドルを調達",
-    "summary": "OllamaはシリーズAの資金調達ラウンドを経て、ユーザー数が約900万人に達する。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "欧州議会がプライバシー批判の中チャットコントロール1.0を承認",
-    "summary": "この法律は違法コンテンツを検出するための通信スキャンを許可し、デジタル権利擁護者の間で懸念を引き起こしている。",
-    "source": [
       "news.ycombinator.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "John Deereの所有者、FTCとの合意により機器を修理する権利を獲得",
-    "summary": "この合意により、農家はメーカーに依存せずにトラクターを修理できるようになる。",
+    "title": "ニューヨークは裁判所でのスマートグラスを禁止、一方パンプローナはサンフェルミン祭りで使用",
+    "summary": "最近の2つの出来事が、公共の場でのスマートグラス使用に関する議論を浮き彫りにしている。",
     "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Googleのディープフェイク検出器がミッチ・マコーネルの偽画像を暴く",
-    "summary": "Googleの人工知能ツールが米国人政治家の写真加工を特定。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "米国、弾薬を使わない対衛星兵器を実戦配備",
-    "summary": "この新しい兵器は非運動エネルギー技術を使用して軌道上の衛星を無力化する。",
-    "source": [
+      "/r/technology",
       "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "ASML、半導体製造において世界で最も重要な独占企業としての地位を固める",
-    "summary": "オランダの企業は最先端半導体に必要なリソグラフィ装置の生産を支配している。",
+    "title": "PlayStationが物理メディアの終焉を推進する一方、Halloweenがディスク版を復活させる",
+    "summary": "ゲーム業界は、物理メディアの放棄と新たなディスク版の発売の間で緊張状態にある。",
     "source": [
+      "xataka.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ロボットハンドの進歩：中国企業と米国企業が人工的な器用さを競う",
+    "summary": "1XのNeoロボットと中国のイノベーションが、ロボット操作において顕著な進歩を示している。",
+    "source": [
+      "wired.com",
       "xataka.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "Mistral AI、ロボットナビゲーション向け8BパラメータモデルRobostral Navigateを発表",
-    "summary": "このモデルによりロボットは1台のカメラのみでナビゲートが可能になり、Mistralのロボティクス分野への参入を示す。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]

@@ -1,19 +1,18 @@
 [
   {
-    "title": "OpenAI launches GPT-Live voice models that allow simultaneous listening and speaking",
-    "summary": "OpenAI's new voice models for ChatGPT allow more natural real-time conversations.",
+    "title": "Meta will use public Instagram photos to train its AI models: how to avoid it",
+    "summary": "Users can disable the use of their images in the social network's privacy settings.",
     "source": [
-      "alternativeto.net",
-      "producthunt.com",
-      "kite.kagi.com",
-      "the-decoder.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "/r/technology",
+      "thehackernews.com",
+      "kite.kagi.com"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "AMD Zen 6 Medusa Point with 10 cores outperforms Ryzen AI 9 HX 370 in performance tests",
-    "summary": "The new AMD Medusa Point processor records up to 22% more performance than its predecessor in Geekbench.",
+    "title": "AMD Zen6 Medusa Point 10-core APU outperforms Ryzen AI 9 HX 370",
+    "summary": "Benchmark leaks show a 22% improvement in Geekbench compared to current processors.",
     "source": [
       "tomshardware.com",
       "hardzone.es",
@@ -22,17 +21,72 @@
     "count": 3
   },
   {
-    "title": "Nvidia presents GeForce Trading Cards Series 1 collectibles",
-    "summary": "Nvidia will distribute free collectible cards at events featuring games, GPUs, and tech demonstrations.",
+    "title": "China boosts its chip industry amid uncertainty over US sanctions",
+    "summary": "Major Chinese tech companies bet on local manufacturers, while a chip alliance with Russia is being forged.",
     "source": [
-      "tomshardware.com",
-      "/r/hardware"
+      "/r/technology",
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "The New York Times accuses OpenAI of hiding evidence in copyright trial",
+    "summary": "OpenAI allegedly deleted ChatGPT records and concealed the inability to search training data.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD revives Zen 2 Ryzen 7 4700LE processor in a pre-assembled PC with RTX 3050",
-    "summary": "The old AMD chip resurfaces in an $800 budget PC with DDR4 memory.",
+    "title": "OpenAI launches GPT-5.6 and ChatGPT Work, an agent to automate workflows",
+    "summary": "The new model matches Fable 5 at a third of the cost and is deployed alongside an automation tool.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "xAI introduces Grok 4.5 with faster coding and lower prices",
+    "summary": "Grok 4.5 offers competitive performance at a much lower cost than GPT-5.5 and Fable 5.",
+    "source": [
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Chinese open-source model GLM 5.2 matches human accuracy in accounting",
+    "summary": "Databricks adopts GLM 5.2 as its default coding engine after demonstrating efficiency and low cost.",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI launches GPT-Live, voice models that allow listening and speaking at the same time",
+    "summary": "The new voice models offer real-time interaction, speaking and listening simultaneously.",
+    "source": [
+      "alternativeto.net",
+      "producthunt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The DuckDuckGo browser automatically blocks YouTube ads on all platforms",
+    "summary": "The feature is available without extensions and for free on both desktop and mobile.",
+    "source": [
+      "alternativeto.net",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD revives the Zen2 Ryzen 7 4700LE processor in a low-cost PC with RTX 3050",
+    "summary": "The old 8-core processor returns in a pre-assembled $800 PC with discrete graphics.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -40,35 +94,44 @@
     "count": 2
   },
   {
-    "title": "Professor suspected AI cheating and grades plummeted after in-person exam",
-    "summary": "Only two students maintained their grades after switching from an at-home exam to an in-person one.",
-    "source": [
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel prepares Nova Lake-S CPUs with up to 28 cores for Dunlow workstations",
-    "summary": "The platform will feature an LGA1954 socket and is expected for the high-performance segment.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China accuses Claude Code of containing backdoors; Anthropic denies",
-    "summary": "The Chinese government claims the code assistant sends information without consent, while Anthropic rejects the accusations.",
+    "title": "Minisforum launches a mini PC with 128 GB RAM and support for low-profile GPU",
+    "summary": "The new Panther Lake workstation is designed for intensive tasks and supports discrete graphics.",
     "source": [
       "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The European Parliament reactivates the Chat Control 1.0 law for mass scanning of communications",
+    "summary": "Through a parliamentary procedure, message control was approved despite previous opposition.",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Ivy League professor uncovers AI cheating by switching to in-person exam, grades drop 50%",
+    "summary": "Only two students maintained their grade when the exam was held in person versus the virtual format.",
+    "source": [
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "New 'HalluSquatting' attack exploits AI hallucinations to execute malicious code",
-    "summary": "Attackers take advantage of the tendency of AI assistants to hallucinate to install malware.",
+    "title": "Google Photos incorporates Video Remix, a fast AI video editing tool",
+    "summary": "The new feature allows creating creative clips quickly using generative AI.",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "HalluSquatting: new attack exploits AI hallucinations to execute malicious code",
+    "summary": "AI-based security systems can be deceived by exploiting their generative errors.",
     "source": [
       "tomshardware.com",
       "thehackernews.com"
@@ -76,104 +139,48 @@
     "count": 2
   },
   {
-    "title": "Meta will use public Instagram photos by default to train its AI tool Muse",
-    "summary": "The company automatically enables the use of user images in its AI image generator.",
+    "title": "Intel prepares 28-core Nova Lake-S processors for workstations",
+    "summary": "Leaked details reveal specifications of upcoming high-performance chips with Xe3 graphics.",
     "source": [
-      "thehackernews.com",
-      "kite.kagi.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Google launches 'Video Remix' AI tool in Google Photos",
-    "summary": "The new feature allows remixing videos using artificial intelligence directly from the app.",
-    "source": [
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceXAI launches Grok 4.5, an 'Opus-class' AI model at a competitive price",
-    "summary": "Elon Musk presents Grok 4.5 as a high-performance model at a lower cost than GPT-5.5 and Fable 5.",
+    "title": "Meta launches Muse Spark 1.1 API with prices that squeeze OpenAI and Anthropic",
+    "summary": "The new prices reduce the cost of accessing AI models, intensifying the price war.",
     "source": [
       "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Memory shortage drives up RAM prices and collapses the budget smartphone market",
-    "summary": "DDR4 prices rise more than 50% in Q3 and memory accounts for up to 64% of the cost of cheap phones.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "TCL launches gaming monitors with extreme refresh rates: 1080Hz and 320Hz in Mini LED panels",
-    "summary": "The TCL 27P2A Ultra offers 1080p at 1080 Hz mode, while another model combines 4K and high refresh rate.",
-    "source": [
-      "videocardz.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Open source AI tool Ollama raises $65 million",
-    "summary": "Ollama reaches nearly 9 million users after a Series A funding round.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "European Parliament approves Chat Control 1.0 amid privacy criticisms",
-    "summary": "The law allows scanning communications to detect illegal content, raising concern among digital rights advocates.",
-    "source": [
       "news.ycombinator.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "John Deere owners gain right to repair their equipment under FTC agreement",
-    "summary": "The agreement allows farmers to repair their tractors without relying exclusively on the manufacturer.",
+    "title": "New York bans smart glasses in courts, while Pamplona uses them in San Fermín",
+    "summary": "Two recent incidents highlight the debate around the use of smart glasses in public spaces.",
     "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Google's deepfake detector debunks a fake image of Mitch McConnell",
-    "summary": "Google's artificial intelligence tool identified a photomontage of the US politician.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "United States deploys a projectile-free anti-satellite weapon",
-    "summary": "The new weapon uses non-kinetic technologies to incapacitate satellites in orbit.",
-    "source": [
+      "/r/technology",
       "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "ASML solidifies as the world's most important monopoly in chip manufacturing",
-    "summary": "The Dutch company dominates the production of lithography machines necessary for the most advanced semiconductors.",
+    "title": "PlayStation pushes for the end of physical format, but Halloween rescues discs with physical editions",
+    "summary": "The video game industry experiences tension between the abandonment of physical media and the release of new disc editions.",
     "source": [
+      "xataka.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Advances in robotic hands: Chinese and American companies compete for artificial dexterity",
+    "summary": "1X's Neo robot and Chinese innovations show significant progress in robotic manipulation.",
+    "source": [
+      "wired.com",
       "xataka.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "Mistral AI launches Robostral Navigate, an 8B parameter model for robotic navigation",
-    "summary": "The model allows robots to navigate using a single camera, marking Mistral's entry into robotics.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]
