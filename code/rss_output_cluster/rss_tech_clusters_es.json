@@ -1,185 +1,189 @@
 [
   {
-    "title": "OpenAI lanza GPT-Live, un modelo de voz que permite escuchar y hablar simultáneamente",
-    "summary": "La nueva función de voz de ChatGPT permite conversaciones más naturales al poder interrumpir y responder en tiempo real, como en una charla humana.",
+    "title": "OpenAI lanza GPT-Live con conversación simultánea en tiempo real",
+    "summary": "El nuevo modelo de voz permite mantener diálogos fluidos con escucha activa y respuesta inmediata, disponible en múltiples plataformas.",
     "source": [
       "alternativeto.net",
+      "producthunt.com",
+      "xataka.com",
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Meta enfrenta una oleada de críticas por la privacidad de sus gafas inteligentes y el uso de fotos de Instagram",
+    "summary": "La compañía es acusada de invadir la privacidad con nuevas herramientas de IA y gafas de grabación continua, mientras los tribunales restringen su uso.",
+    "source": [
+      "thehackernews.com",
       "the-decoder.com",
       "xataka.com",
-      "news.ycombinator.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 5
   },
   {
-    "title": "SpaceXAI libera Grok 4.5, un modelo 'Opus-class' con precios muy competitivos",
-    "summary": "El lanzamiento del modelo de lenguaje de Elon Musk destaca por su bajo costo en comparación con Fable 5 y GPT-5.5, aunque las brechas en benchmarks son notables.",
+    "title": "La industria del videojuego tiembla: crisis en Sony por el disco físico y despidos en Microsoft Xbox",
+    "summary": "Sony se enfrenta a demandas y fuga de inversores por sus políticas digitales, mientras Xbox intenta contener la polémica por los recortes de personal.",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Meta prueba gafas inteligentes con grabación continua, generando alarma por la privacidad",
-    "summary": "Las nuevas gafas de Meta capturan todo el día del usuario de forma permanente, reavivando el debate sobre la invasión de la privacidad y el consentimiento.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com",
+      "/r/technology",
+      "videocardz.com",
+      "hardzone.es",
       "xataka.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Valve lanza Proton 11 y controladores para ejecutar Windows en sus Steam Machines",
-    "summary": "Las actualizaciones mejoran la compatibilidad con juegos y permiten instalar Windows en hardware Steam, aunque la compañía no ofrece soporte oficial.",
+    "title": "El imperio de Elon Musk acumula hitos y polémicas: satélites nucleares, caída de acciones y acuerdo con la SEC",
+    "summary": "SpaceX lanza un satélite nuclear comercial, las acciones se desploman, la Fuerza Espacial recibe un arma de rayos y Musk pacta con el regulador bursátil.",
     "source": [
-      "videocardz.com",
+      "xataka.com",
       "tomshardware.com",
-      "hardzone.es"
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "SpaceXAI presenta Grok 4.5, un modelo de IA de alto rendimiento a bajo coste",
+    "summary": "Elon Musk califica el nuevo modelo como de 'clase Opus', compitiendo directamente con GPT-5 y Gemini por una fracción de su precio.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "Mistral presenta Robostral Navigate, un modelo que guía robots con una sola cámara",
-    "summary": "El modelo de 8.000 millones de parámetros permite la navegación autónoma de robots usando únicamente una cámara, marcando la entrada de Mistral en robótica.",
+    "title": "La privacidad en las telecomunicaciones: Truecaller desafía a la India y las SIM anónimas vuelven a España",
+    "summary": "Las normativas de privacidad chocan con los intereses comerciales, mientras las operadoras españolas reintroducen tarjetas prepago sin identificación.",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "techcrunch.com",
+      "bandaancha.eu",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Múltiples vulnerabilidades ponen en riesgo la seguridad de los asistentes de código con inteligencia artificial",
+    "summary": "Fallos en Copilot, GhostApproval y otros sistemas permiten ejecutar código malicioso, robar credenciales y manipular commits verificados en GitHub.",
+    "source": [
+      "thehackernews.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Instagram estrena efectos de Story con Muse Image, pero la privacidad de los usuarios queda en entredicho",
-    "summary": "La nueva herramienta de IA de Meta utiliza imágenes de Instagram para crear efectos, lo que genera dudas sobre el uso de datos personales.",
+    "title": "Malware, puertas traseras y estafas: la ciberseguridad global en alerta",
+    "summary": "Desde instaladores falsos de 7-Zip hasta fallos críticos en routers Tenda, los expertos alertan sobre una nueva oleada de ciberataques masivos.",
+    "source": [
+      "thehackernews.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Assassin's Creed Black Flag Remake se filtra en Internet días antes de su lanzamiento oficial",
+    "summary": "La protección Denuvo no logra evitar que los crackers publiquen una versión pirata del juego, demostrando su vulnerabilidad.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El alto costo de la memoria provoca el colapso del mercado de teléfonos inteligentes baratos",
+    "summary": "Los componentes de memoria representan hasta el 64% del coste total, lo que ha reducido las ventas esperadas en un 22% a nivel global.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Oregón obliga a los centros de datos a pagar un 30% más de electricidad para abaratar la tarifa doméstica",
+    "summary": "La nueva ley POWER Act busca que los gigantes tecnológicos contribuyan al coste energético, reduciendo la factura de los hogares en un 1.3%.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Una nueva filtración masiva expone los datos personales y licencias de casi 7 millones de conductores",
+    "summary": "El ataque informático, reportado por múltiples fuentes, revela una vez más la fragilidad de los sistemas gubernamentales de identificación.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "DuckDuckGo lanza el bloqueo automático de anuncios en YouTube sin necesidad de instalar extensiones",
+    "summary": "La función gratuita llega semanas después de que YouTube incrementara el precio de su suscripción Premium, ofreciendo una alternativa a los usuarios.",
     "source": [
       "alternativeto.net",
-      "the-decoder.com"
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Alertan de que el modding tool DLSS Swapper puede infectar el PC con malware al descargar DLLs incorrectos",
-    "summary": "El creador de la herramienta advierte contra el uso de archivos DLL de terceros, ya que podrían contener software malicioso y comprometer el sistema.",
+    "title": "John Deere acepta un acuerdo histórico con la FTC para que los agricultores puedan reparar sus propios equipos",
+    "summary": "El fabricante de maquinaria agrícola se compromete a facilitar el acceso a piezas y manuales, zanjando años de litigios por el derecho a reparar.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "news.ycombinator.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Cooler Master V4 y V8 3DHP reciben críticas excelentes como un logro de ingeniería térmica",
-    "summary": "Los disipadores con tecnología de heat pipes tridimensional ofrecen un rendimiento de refrigeración excepcional, según análisis técnicos.",
+    "title": "El mundo del hardware se renueva: nuevos procesadores de AMD, Intel y Nvidia, y estándares de memoria",
+    "summary": "Las filtraciones y anuncios oficiales marcan la pauta de la próxima generación de componentes para PC, desde CPUs Arm hasta memorias HBM4.",
     "source": [
-      "/r/hardware",
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Filtran especificaciones de los procesadores Intel Nova Lake con gráficos Xe3 y Xe3P",
-    "summary": "Los nuevos SKUs de Intel prometen un gran salto en rendimiento gráfico y de video, según detalles revelados por filtradores.",
+    "title": "Descubrimientos científicos sobre la obesidad, el intestino, el clima y la prehistoria redefinen nuestro conocimiento",
+    "summary": "Desde la genética hasta el cambio climático, la ciencia sigue desvelando los misterios del cuerpo humano y el planeta.",
     "source": [
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Xbox señala que las consolas son el 80% de su negocio y busca alcanzar 1.000 millones de jugadores diarios",
-    "summary": "La estrategia de Microsoft se centra en el hardware y Game Pass, mientras aspira a expandir su base de usuarios a nivel global.",
-    "source": [
-      "hardzone.es",
       "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "EE.UU. despliega un arma antisatélite sin proyectiles y un cañón electromagnético espacial",
-    "summary": "La Fuerza Espacial recibe su primer sistema móvil de haz electromagnético para inutilizar satélites enemigos, complementando un arma antisatélite no cinética.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony alimenta rumores de una PS Vita 2 mientras PlayStation aplica descuentos en PS Plus",
-    "summary": "Las declaraciones del CEO de Sony disparan las especulaciones sobre una nueva portátil, al tiempo que las suscripciones PS Plus se ofrecen con rebajas del 50%.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Se filtran las RTX 5070 INFINITY y RTX 50 Super en calculadoras de fuente de alimentación",
-    "summary": "Las futuras GPU de Nvidia aparecen en listados con aumentos de TGP del 10-17%, adelantando especificaciones no anunciadas oficialmente.",
-    "source": [
-      "videocardz.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google lanza detector de deepfakes, edición de video con IA y mejoras en Gemini API",
-    "summary": "Las nuevas herramientas de inteligencia artificial de Google abordan la desinformación, la edición de video y la gestión de agentes en la nube.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Vulnerabilidades críticas en routers Tenda y Ubiquiti exponen redes a accesos no autorizados",
-    "summary": "Se descubren puertas traseras en routers Tenda y fallos en UniFi que permiten a atacantes tomar el control de los dispositivos.",
-    "source": [
-      "tomshardware.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD anuncia su evento Advancing AI y se filtra un bundle ASUS ROG Crosshair X870E a precio elevado",
-    "summary": "AMD se prepara para lanzar una nueva CPU x86 de liderazgo, mientras aparece un bundle de placa base con un precio muy superior al oficial.",
-    "source": [
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Claude Fable 5 arrasa en benchmarks pero a un alto costo; China acusa a Claude Code de tener puertas traseras",
-    "summary": "El modelo de Anthropic es líder en rendimiento pero caro de ejecutar, mientras el gobierno chino denuncia que Claude Code envía datos a servidores sin consentimiento.",
-    "source": [
-      "the-decoder.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX lanza el primer satélite nuclear comercial y presenta un collar con Starlink para perros",
-    "summary": "La misión Transporter-17 incluye un satélite de energía nuclear, mientras el Fi Ultra Dog Tracker ofrece localización global vía satélite.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI lanza GPT-5.6 el jueves tras un retraso impuesto por el gobierno de EE.UU.",
-    "summary": "El nuevo modelo de lenguaje de OpenAI se retrasó debido a regulaciones gubernamentales y finalmente estará disponible esta semana.",
-    "source": [
-      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Los agricultores obtienen el derecho a reparar sus tractores John Deere gracias a un acuerdo con la FTC",
-    "summary": "El acuerdo permite a los propietarios reparar sus equipos sin acudir a servicios oficiales, un hito en el movimiento right to repair.",
+    "title": "De las trampas con IA en la educación a la vida de lujo: la tecnología transforma la sociedad",
+    "summary": "Las tendencias revelan una generación que prioriza el bienestar sobre el salario, el auge de las bebidas vegetales y la controversia en las aulas.",
     "source": [
-      "news.ycombinator.com"
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Las startups de inteligencia artificial atraen inversiones multimillonarias en plena ebullición del sector",
+    "summary": "Lovable, Prime Intellect y Paradigm lideran una ronda de financiación que refleja la fiebre inversora por la IA empresarial y los agentes autónomos.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Un juez aprueba el pago de 47 millones de dólares a las víctimas de la filtración masiva de datos de 23andMe",
+    "summary": "La compensación económica cierra un capítulo del mayor robo de datos genéticos de la historia, que afectó a millones de usuarios.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El boom de la inteligencia artificial choca con la vida cotidiana: vecinos denuncian el ruido y la contaminación de los centros de datos",
+    "summary": "Desde el ruido insoportable en Míchigan hasta la contaminación de aguas en Cheyenne, la expansión de los centros de IA genera un creciente malestar social.",
+    "source": [
+      "/r/technology"
     ],
     "count": 1
   }
