@@ -1,189 +1,178 @@
 [
   {
-    "title": "OpenAI、GPT-Liveを発表、リアルタイム同時会話に対応",
-    "summary": "新しい音声モデルは、アクティブリスニングと即時応答により流暢な対話を実現し、複数のプラットフォームで利用可能。",
+    "title": "OpenAIがGPT-Live音声モデルを発表、同時に聞き取りと会話が可能に",
+    "summary": "ChatGPT向けのOpenAIの新しい音声モデルにより、より自然なリアルタイム会話が可能になります。",
     "source": [
       "alternativeto.net",
       "producthunt.com",
-      "xataka.com",
+      "kite.kagi.com",
       "the-decoder.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "Meta、スマートグラスのプライバシーとInstagram写真使用で批判の波に直面",
-    "summary": "同社は、新しいAIツールと録画が続くグラスでプライバシーを侵害していると非難され、裁判所が使用を制限している。",
-    "source": [
-      "thehackernews.com",
-      "the-decoder.com",
-      "xataka.com",
-      "techcrunch.com",
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 5
   },
   {
-    "title": "ゲーム業界が震撼：ソニー、物理ディスクの危機とMicrosoft Xboxの解雇問題",
-    "summary": "ソニーはデジタル政策で訴訟と投資家逃亡に直面、一方Xboxは人員削減の論争を抑え込もうとしている。",
+    "title": "AMD Zen 6 Medusa Point 10コアがRyzen AI 9 HX 370をベンチマークで上回る",
+    "summary": "新しいAMD Medusa PointプロセッサはGeekbenchで前世代比最大22%のパフォーマンス向上を記録。",
     "source": [
-      "/r/technology",
-      "videocardz.com",
+      "tomshardware.com",
       "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia、GeForceトレーディングカードシリーズ1を発表",
+    "summary": "Nvidiaはイベントでゲーム、GPU、テクノロジーデモをフィーチャーしたコレクターズカードを無料配布。",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMDがZen 2 Ryzen 7 4700LEをRTX 3050搭載の完成品PCで復活",
+    "summary": "AMDの旧型チップが800ドルの予算でDDR4メモリとともに再登場。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "教授がAIによる不正を疑い、対面試験を実施すると成績が急落",
+    "summary": "自宅受験から対面試験に移行後、わずか2名の学生だけが評価を維持。",
+    "source": [
+      "tomshardware.com",
       "xataka.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "イーロン・マスク帝国、核衛星や株価暴落、SECとの合意など話題と論争を集積",
-    "summary": "スペースXが商業用核衛星を打ち上げ、株価が急落、宇宙軍は光線兵器を受領、マスクは証券規制当局と合意。",
+    "title": "Intel、Dunlowワークステーション向け最大28コアのNova Lake-S CPUを準備",
+    "summary": "このプラットフォームはLGA1954ソケットを採用し、ハイパフォーマンスセグメント向けが期待されます。",
     "source": [
-      "xataka.com",
       "tomshardware.com",
-      "/r/technology",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国がClaude Codeにバックドアが含まれていると非難、Anthropicは否定",
+    "summary": "中国政府はコードアシスタントが同意なしに情報を送信していると主張する一方、Anthropicは告発を否定。",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "新たな「HalluSquatting」攻撃、AIの幻覚を悪用して悪意のあるコードを実行",
+    "summary": "攻撃者はAIアシスタントが幻覚を起こしやすい傾向を利用してマルウェアをインストール。",
+    "source": [
+      "tomshardware.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta、Instagramの公開写真をデフォルトでAIツールMuseのトレーニングに使用へ",
+    "summary": "同社はAI画像生成ツールでのユーザー画像の使用を自動的に有効化。",
+    "source": [
+      "thehackernews.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google、GoogleフォトでAI搭載の「ビデオリミックス」ツールをリリース",
+    "summary": "新しい機能はアプリから直接AIを使ってビデオをリミックスできます。",
+    "source": [
+      "kite.kagi.com",
       "techcrunch.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "SpaceXAI、低コストで高性能なAIモデルGrok 4.5を発表",
-    "summary": "イーロン・マスクはこの新モデルを「Opusクラス」と評価、GPT-5やGeminiと直接競合し、価格はその一部。",
+    "title": "SpaceXAI、競争力のある価格で『Opus級』のAIモデルGrok 4.5をリリース",
+    "summary": "イーロン・マスクはGrok 4.5を、GPT-5.5やFable 5よりも低コストな高性能モデルとして発表。",
     "source": [
       "the-decoder.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "通信のプライバシー：Truecallerがインドに挑戦、スペインでは匿名SIMが復活",
-    "summary": "プライバシー規制が商業的利益と衝突する中、スペインの携帯電話事業者が本人確認不要のプリペイドカードを再導入。",
-    "source": [
-      "techcrunch.com",
-      "bandaancha.eu",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "コードアシスタントのAIセキュリティを脅かす複数の脆弱性",
-    "summary": "Copilot、GhostApprovalなどのシステムの欠陥により、悪意のあるコードの実行、資格情報の盗難、GitHubでの検証済みコミットの改ざんが可能。",
-    "source": [
-      "thehackernews.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "マルウェア、バックドア、詐欺：世界のサイバーセキュリティが警戒態勢",
-    "summary": "偽の7-ZipインストーラからTendaルーターの重大な欠陥まで、専門家が新たな大規模サイバー攻撃の波について警告。",
-    "source": [
-      "thehackernews.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "『アサシン クリード ブラック フラッグ リメイク』、公式発売直前にインターネットでリーク",
-    "summary": "Denuvo保護はクラッカーがゲームの海賊版を公開するのを防げず、その脆弱性が露呈。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "メモリの高コストが格安スマートフォン市場の崩壊を引き起こす",
-    "summary": "メモリ部品が総コストの最大64%を占め、世界の販売予想が22%減少。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "オレゴン州、データセンターに電気料金30%増を義務付け、家庭向け料金を値下げへ",
-    "summary": "新法POWER Actは、テクノロジー大手がエネルギーコストを負担し、家庭の請求額を1.3%削減することを目指す。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "新たな大規模リークで約700万人の運転免許証と個人情報が流出",
-    "summary": "複数の情報源が報じたこのサイバー攻撃は、政府の身分証明システムの脆弱性を再び露呈。",
-    "source": [
-      "/r/technology",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "DuckDuckGo、拡張機能不要のYouTube広告自動ブロック機能を開始",
-    "summary": "この無料機能は、YouTubeがプレミアムサブスクリプションの値上げを行った数週間後に登場し、ユーザーに代替手段を提供。",
+    "title": "メモリ不足がRAM価格を高騰させ、低価格スマートフォン市場を崩壊",
+    "summary": "DDR4価格は第3四半期に50%以上上昇し、メモリは低価格携帯電話のコストの最大64%を占める。",
     "source": [
-      "alternativeto.net",
-      "/r/technology"
+      "/r/hardware",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "John Deere、農家が機器を自己修理できるようFTCと歴史的合意",
-    "summary": "農業機械メーカーは修理部品とマニュアルへのアクセスを容易にすることを約束し、長年の修理権訴訟に終止符。",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ハードウェア界が刷新：新しいAMD、Intel、Nvidiaのプロセッサとメモリ規格",
-    "summary": "リーク情報と公式発表が、Arm CPUからHBM4メモリに至る次世代PCコンポーネントの方向性を示す。",
+    "title": "TCL、Mini LEDパネルで1080Hzと320Hzの極端なリフレッシュレートを備えたゲーミングモニターを発売",
+    "summary": "TCL 27P2A Ultraは1080pで1080Hzのモードを提供し、別のモデルは4Kと高リフレッシュレートを組み合わせる。",
     "source": [
       "videocardz.com",
-      "tomshardware.com"
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "肥満、腸内環境、気候、先史時代に関する科学的発見が知識を再定義",
-    "summary": "遺伝学から気候変動まで、科学は人体と地球の謎を解き明かし続けている。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "教育におけるAI不正から贅沢な生活まで：テクノロジーが社会を変革",
-    "summary": "トレンドは、給与より幸福を優先する世代、植物由来飲料の台頭、教室での論争を明らかにしている。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AIスタートアップがセクターの活況の中、数十億ドルの投資を集める",
-    "summary": "Lovable、Prime Intellect、Paradigmが、企業向けAIと自律エージェントへの投資熱を反映した資金調達ラウンドを主導。",
+    "title": "オープンソースAIツールOllamaが6500万ドルを調達",
+    "summary": "OllamaはシリーズAの資金調達ラウンドを経て、ユーザー数が約900万人に達する。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "裁判官、23andMeの大規模データ漏洩被害者への4700万ドル支払いを承認",
-    "summary": "経済補償により、数百万のユーザーに影響を与えた歴史上最大の遺伝子データ盗難の一章が閉じられる。",
+    "title": "欧州議会がプライバシー批判の中チャットコントロール1.0を承認",
+    "summary": "この法律は違法コンテンツを検出するための通信スキャンを許可し、デジタル権利擁護者の間で懸念を引き起こしている。",
     "source": [
-      "/r/technology"
+      "news.ycombinator.com"
     ],
     "count": 1
   },
   {
-    "title": "AIブームと日常生活の衝突：近隣住民がデータセンターの騒音と汚染を告発",
-    "summary": "ミシガン州の耐え難い騒音からシャイアンの水質汚染まで、AIデータセンターの拡大が市民の不満を増大。",
+    "title": "John Deereの所有者、FTCとの合意により機器を修理する権利を獲得",
+    "summary": "この合意により、農家はメーカーに依存せずにトラクターを修理できるようになる。",
     "source": [
-      "/r/technology"
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Googleのディープフェイク検出器がミッチ・マコーネルの偽画像を暴く",
+    "summary": "Googleの人工知能ツールが米国人政治家の写真加工を特定。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "米国、弾薬を使わない対衛星兵器を実戦配備",
+    "summary": "この新しい兵器は非運動エネルギー技術を使用して軌道上の衛星を無力化する。",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ASML、半導体製造において世界で最も重要な独占企業としての地位を固める",
+    "summary": "オランダの企業は最先端半導体に必要なリソグラフィ装置の生産を支配している。",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Mistral AI、ロボットナビゲーション向け8BパラメータモデルRobostral Navigateを発表",
+    "summary": "このモデルによりロボットは1台のカメラのみでナビゲートが可能になり、Mistralのロボティクス分野への参入を示す。",
+    "source": [
+      "the-decoder.com"
     ],
     "count": 1
   }

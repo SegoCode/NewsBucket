@@ -1,189 +1,178 @@
 [
   {
-    "title": "OpenAI launches GPT-Live with real-time simultaneous conversation",
-    "summary": "The new voice model allows fluid dialogues with active listening and immediate response, available on multiple platforms.",
+    "title": "OpenAI launches GPT-Live voice models that allow simultaneous listening and speaking",
+    "summary": "OpenAI's new voice models for ChatGPT allow more natural real-time conversations.",
     "source": [
       "alternativeto.net",
       "producthunt.com",
-      "xataka.com",
+      "kite.kagi.com",
       "the-decoder.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "Meta faces wave of criticism over privacy of its smart glasses and use of Instagram photos",
-    "summary": "The company is accused of invading privacy with new AI tools and continuous recording glasses, while courts restrict their use.",
-    "source": [
-      "thehackernews.com",
-      "the-decoder.com",
-      "xataka.com",
-      "techcrunch.com",
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 5
   },
   {
-    "title": "The video game industry trembles: crisis at Sony over physical discs and layoffs at Microsoft Xbox",
-    "summary": "Sony faces lawsuits and investor flight over its digital policies, while Xbox tries to contain controversy over staff cuts.",
+    "title": "AMD Zen 6 Medusa Point with 10 cores outperforms Ryzen AI 9 HX 370 in performance tests",
+    "summary": "The new AMD Medusa Point processor records up to 22% more performance than its predecessor in Geekbench.",
     "source": [
-      "/r/technology",
-      "videocardz.com",
+      "tomshardware.com",
       "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia presents GeForce Trading Cards Series 1 collectibles",
+    "summary": "Nvidia will distribute free collectible cards at events featuring games, GPUs, and tech demonstrations.",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD revives Zen 2 Ryzen 7 4700LE processor in a pre-assembled PC with RTX 3050",
+    "summary": "The old AMD chip resurfaces in an $800 budget PC with DDR4 memory.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Professor suspected AI cheating and grades plummeted after in-person exam",
+    "summary": "Only two students maintained their grades after switching from an at-home exam to an in-person one.",
+    "source": [
+      "tomshardware.com",
       "xataka.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Elon Musk's empire accumulates milestones and controversies: nuclear satellites, stock drop and SEC agreement",
-    "summary": "SpaceX launches a commercial nuclear satellite, stocks plummet, Space Force receives a ray weapon, and Musk reaches agreement with stock market regulator.",
+    "title": "Intel prepares Nova Lake-S CPUs with up to 28 cores for Dunlow workstations",
+    "summary": "The platform will feature an LGA1954 socket and is expected for the high-performance segment.",
     "source": [
-      "xataka.com",
       "tomshardware.com",
-      "/r/technology",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "China accuses Claude Code of containing backdoors; Anthropic denies",
+    "summary": "The Chinese government claims the code assistant sends information without consent, while Anthropic rejects the accusations.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "New 'HalluSquatting' attack exploits AI hallucinations to execute malicious code",
+    "summary": "Attackers take advantage of the tendency of AI assistants to hallucinate to install malware.",
+    "source": [
+      "tomshardware.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta will use public Instagram photos by default to train its AI tool Muse",
+    "summary": "The company automatically enables the use of user images in its AI image generator.",
+    "source": [
+      "thehackernews.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google launches 'Video Remix' AI tool in Google Photos",
+    "summary": "The new feature allows remixing videos using artificial intelligence directly from the app.",
+    "source": [
+      "kite.kagi.com",
       "techcrunch.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "SpaceXAI presents Grok 4.5, a high-performance low-cost AI model",
-    "summary": "Elon Musk rates the new model as 'Opus class', competing directly with GPT-5 and Gemini for a fraction of the price.",
+    "title": "SpaceXAI launches Grok 4.5, an 'Opus-class' AI model at a competitive price",
+    "summary": "Elon Musk presents Grok 4.5 as a high-performance model at a lower cost than GPT-5.5 and Fable 5.",
     "source": [
       "the-decoder.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Privacy in telecommunications: Truecaller challenges India and anonymous SIMs return to Spain",
-    "summary": "Privacy regulations clash with commercial interests, while Spanish operators reintroduce prepaid cards without identification.",
-    "source": [
-      "techcrunch.com",
-      "bandaancha.eu",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Multiple vulnerabilities put security of AI code assistants at risk",
-    "summary": "Flaws in Copilot, GhostApproval, and other systems allow running malicious code, stealing credentials, and manipulating verified commits on GitHub.",
-    "source": [
-      "thehackernews.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Malware, backdoors and scams: global cybersecurity on alert",
-    "summary": "From fake 7-Zip installers to critical flaws in Tenda routers, experts warn of a new wave of massive cyberattacks.",
-    "source": [
-      "thehackernews.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Assassin's Creed Black Flag Remake leaks online days before official launch",
-    "summary": "Denuvo protection fails to prevent crackers from publishing a pirated version of the game, demonstrating its vulnerability.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "High cost of memory causes collapse of cheap smartphone market",
-    "summary": "Memory components account for up to 64% of total cost, reducing expected sales by 22% globally.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Oregon forces data centers to pay 30% more for electricity to lower household rates",
-    "summary": "The new POWER Act seeks tech giants to contribute to energy costs, reducing household bills by 1.3%.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "New massive leak exposes personal data and licenses of nearly 7 million drivers",
-    "summary": "The cyberattack, reported by multiple sources, once again reveals the fragility of government identification systems.",
-    "source": [
-      "/r/technology",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "DuckDuckGo launches automatic ad blocking on YouTube without needing to install extensions",
-    "summary": "The free feature arrives weeks after YouTube increased the price of its Premium subscription, offering an alternative to users.",
+    "title": "Memory shortage drives up RAM prices and collapses the budget smartphone market",
+    "summary": "DDR4 prices rise more than 50% in Q3 and memory accounts for up to 64% of the cost of cheap phones.",
     "source": [
-      "alternativeto.net",
-      "/r/technology"
+      "/r/hardware",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "John Deere accepts historic FTC settlement so farmers can repair their own equipment",
-    "summary": "The agricultural machinery manufacturer commits to facilitating access to parts and manuals, ending years of litigation over the right to repair.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The hardware world renews itself: new processors from AMD, Intel and Nvidia, and memory standards",
-    "summary": "Leaks and official announcements set the pace for the next generation of PC components, from Arm CPUs to HBM4 memory.",
+    "title": "TCL launches gaming monitors with extreme refresh rates: 1080Hz and 320Hz in Mini LED panels",
+    "summary": "The TCL 27P2A Ultra offers 1080p at 1080 Hz mode, while another model combines 4K and high refresh rate.",
     "source": [
       "videocardz.com",
-      "tomshardware.com"
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Scientific discoveries about obesity, gut, climate and prehistory redefine our knowledge",
-    "summary": "From genetics to climate change, science continues to unravel the mysteries of the human body and the planet.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "From AI cheating in education to luxury living: technology transforms society",
-    "summary": "Trends reveal a generation that prioritizes well-being over salary, the rise of plant-based beverages, and controversy in classrooms.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AI startups attract multi-million dollar investments in midst of sector boom",
-    "summary": "Lovable, Prime Intellect, and Paradigm lead a funding round that reflects the investment frenzy for enterprise AI and autonomous agents.",
+    "title": "Open source AI tool Ollama raises $65 million",
+    "summary": "Ollama reaches nearly 9 million users after a Series A funding round.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Judge approves $47 million payment to victims of 23andMe massive data breach",
-    "summary": "The financial compensation closes a chapter of the largest genetic data theft in history, affecting millions of users.",
+    "title": "European Parliament approves Chat Control 1.0 amid privacy criticisms",
+    "summary": "The law allows scanning communications to detect illegal content, raising concern among digital rights advocates.",
     "source": [
-      "/r/technology"
+      "news.ycombinator.com"
     ],
     "count": 1
   },
   {
-    "title": "AI boom clashes with everyday life: neighbors denounce noise and pollution from data centers",
-    "summary": "From unbearable noise in Michigan to water contamination in Cheyenne, the expansion of AI centers generates growing social unrest.",
+    "title": "John Deere owners gain right to repair their equipment under FTC agreement",
+    "summary": "The agreement allows farmers to repair their tractors without relying exclusively on the manufacturer.",
     "source": [
-      "/r/technology"
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Google's deepfake detector debunks a fake image of Mitch McConnell",
+    "summary": "Google's artificial intelligence tool identified a photomontage of the US politician.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "United States deploys a projectile-free anti-satellite weapon",
+    "summary": "The new weapon uses non-kinetic technologies to incapacitate satellites in orbit.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ASML solidifies as the world's most important monopoly in chip manufacturing",
+    "summary": "The Dutch company dominates the production of lithography machines necessary for the most advanced semiconductors.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Mistral AI launches Robostral Navigate, an 8B parameter model for robotic navigation",
+    "summary": "The model allows robots to navigate using a single camera, marking Mistral's entry into robotics.",
+    "source": [
+      "the-decoder.com"
     ],
     "count": 1
   }
