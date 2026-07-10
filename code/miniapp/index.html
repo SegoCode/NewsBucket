@@ -200,10 +200,11 @@
                                     .map(([, v]) => v)
                                     .sort()
                                     .pop();
-                                const name = typeof p.enName === 'string' ? p.enName : p.enName?.[level];
+                                const names = lang.value === 'jp' ? p.name : p.enName;
+                                const name = (typeof names === 'string' ? names : names?.[level])?.replace(/<[^>]+>/g, ' ').trim();
                                 if (!level || !name) return [];
                                 return [{
-                                    title: name.replace(/<[^>]+>/g, ' ').trim(),
+                                    title: `${lang.value === 'jp' ? '気象警報' : 'Weather alert'}: ${name}`,
                                     source: ['JMA', prefecture],
                                     cls: 'quake-high',
                                     url: `${JMA}warning/#lang=en&area_type=offices&area_code=${officeCode}`,
