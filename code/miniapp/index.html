@@ -77,7 +77,7 @@
         const LIVE = ytLive('Anr15FA9OCI');
         const LIVE_EN = ytLive('f0lYkdA-Gtw');
         const tg = window.Telegram?.WebApp;
-        let weatherItems = [];
+        let jma = null;
         try {
             const saved = JSON.parse(localStorage.getItem('nb') || '{}');
             if (saved.t) topic.value = saved.t;
@@ -106,7 +106,12 @@
                 if (res.ok) items = await res.json();
             } catch {}
             if (topic.value === 'japan') {
-                if (weatherItems.length) items.unshift(...weatherItems);
+                if (jma?.alerts.length) items.unshift(...jma.alerts.map(a => ({
+                    title: `${lang.value === 'jp' ? '気象警報' : 'Weather alert'}: ${lang.value === 'jp' ? a.jp : a.en}`,
+                    source: ['JMA', jma.prefecture],
+                    cls: 'quake-high',
+                    url: `${JMA}warning/#lang=en&area_type=offices&area_code=${jma.officeCode}`,
+                })));
                 try {
                     const res = await fetch(QUAKE);
                     if (res.ok) {
@@ -192,24 +197,21 @@
                             const data = Object.fromEntries(await Promise.all(
                                 urlKeys.map(async key => [key, await fetch(JMA + cfg.urls[key]).then(r => r.json())])
                             ));
-                            weatherItems = panels.flatMap(([key, p]) => {
-                                const level = p.url
-                                    .flatMap(u => Object.values(data[u]?.[key] || {}))
-                                    .flatMap(m => Object.entries(m))
-                                    .filter(([c]) => codes.has(c))
-                                    .map(([, v]) => v)
-                                    .sort()
-                                    .pop();
-                                const names = lang.value === 'jp' ? p.name : p.enName;
-                                const name = (typeof names === 'string' ? names : names?.[level])?.replace(/<[^>]+>/g, ' ').trim();
-                                if (!level || !name) return [];
-                                return [{
-                                    title: `${lang.value === 'jp' ? '気象警報' : 'Weather alert'}: ${name}`,
-                                    source: ['JMA', prefecture],
-                                    cls: 'quake-high',
-                                    url: `${JMA}warning/#lang=en&area_type=offices&area_code=${officeCode}`,
-                                }];
-                            });
+                            jma = {
+                                prefecture, officeCode,
+                                alerts: panels.flatMap(([key, p]) => {
+                                    const level = p.url
+                                        .flatMap(u => Object.values(data[u]?.[key] || {}))
+                                        .flatMap(m => Object.entries(m))
+                                        .filter(([c]) => codes.has(c))
+                                        .map(([, v]) => v)
+                                        .sort()
+                                        .pop();
+                                    if (!level) return [];
+                                    const pick = n => (typeof n === 'string' ? n : n?.[level])?.replace(/<[^>]+>/g, ' ').trim();
+                                    return [{ en: pick(p.enName), jp: pick(p.name) }];
+                                }),
+                            };
                             if (topic.value === 'japan') load();
                         } catch {}
                     });
