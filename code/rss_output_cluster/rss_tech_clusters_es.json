@@ -1,18 +1,17 @@
 [
   {
-    "title": "Meta usará fotos públicas de Instagram para entrenar sus modelos de IA: cómo evitarlo",
-    "summary": "Los usuarios pueden desactivar el uso de sus imágenes en la configuración de privacidad de la red social.",
+    "title": "AMD revive el procesador Zen 2 Ryzen 7 4700LE para PC económicos con RTX 3050",
+    "summary": "El procesador de hace cuatro años reaparece en un preensamblado de 800 dólares, ofreciendo una opción asequible con DDR4.",
     "source": [
-      "techcrunch.com",
-      "/r/technology",
-      "thehackernews.com",
-      "kite.kagi.com"
+      "/r/hardware",
+      "tomshardware.com",
+      "videocardz.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "El APU AMD Zen6 Medusa Point de 10 núcleos supera en rendimiento a los Ryzen AI 9 HX 370",
-    "summary": "Filtraciones de benchmarks muestran una mejora del 22% en Geekbench respecto a los procesadores actuales.",
+    "title": "El APU AMD Zen 6 Medusa Point de 10 núcleos supera en rendimiento a los Ryzen AI 9 HX 370 en Geekbench",
+    "summary": "Los primeros benchmarks muestran una mejora de hasta el 22% frente a los procesadores actuales de gama alta, según filtraciones.",
     "source": [
       "tomshardware.com",
       "hardzone.es",
@@ -21,54 +20,80 @@
     "count": 3
   },
   {
-    "title": "China impulsa su industria de chips ante la incertidumbre de las sanciones estadounidenses",
-    "summary": "Las grandes tecnológicas chinas apuestan por fabricantes locales, mientras se fragua una alianza de chips con Rusia.",
+    "title": "OpenAI lanza GPT-5.6 como modelo preferido para Microsoft Copilot 365 en medio de especulaciones de ruptura",
+    "summary": "La nueva familia de modelos de inteligencia artificial se posiciona como la recomendada para la suite de productividad de Microsoft.",
     "source": [
-      "/r/technology",
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El New York Times acusa a OpenAI de ocultar pruebas en el juicio por derechos de autor",
-    "summary": "OpenAI habría eliminado registros de ChatGPT y ocultado la incapacidad de buscar datos de entrenamiento.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI lanza GPT-5.6 y ChatGPT Work, un agente para automatizar flujos de trabajo",
-    "summary": "El nuevo modelo iguala a Fable 5 con un tercio del costo y se despliega junto a una herramienta de automatización.",
-    "source": [
-      "the-decoder.com",
+      "techcrunch.com",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "xAI presenta Grok 4.5 con codificación más rápida y precios más bajos",
-    "summary": "Grok 4.5 ofrece rendimiento competitivo a un costo muy inferior al de GPT-5.5 y Fable 5.",
+    "title": "Fidji Simo, directora de despliegue de AGI en OpenAI, abandona su cargo",
+    "summary": "La ejecutiva responsable de la implementación de inteligencia artificial general deja el puesto número dos de la compañía.",
     "source": [
-      "alternativeto.net",
-      "the-decoder.com"
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "El modelo GLM 5.2 de código abierto chino iguala la precisión humana en contabilidad",
-    "summary": "Databricks adopta GLM 5.2 como su motor de codificación predeterminado tras demostrar eficiencia y bajo coste.",
+    "title": "Meta lanza Muse Spark 1.1, su nuevo modelo de IA para tareas de programación",
+    "summary": "La herramienta de inteligencia artificial para desarrolladores busca competir en el creciente mercado de asistentes de codificación.",
     "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI lanza GPT-Live, modelos de voz que permiten escuchar y hablar al mismo tiempo",
-    "summary": "Los nuevos modelos de voz ofrecen interacción en tiempo real, hablando y escuchando simultáneamente.",
+    "title": "Meta permitirá que su IA genere imágenes usando fotos públicas de Instagram",
+    "summary": "La nueva herramienta de inteligencia artificial generativa se nutre de contenido público, generando preocupaciones sobre la privacidad de los usuarios.",
+    "source": [
+      "techcrunch.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Minisforum presenta una estación de trabajo mini con 128 GB de RAM y soporte para GPU discretas",
+    "summary": "El nuevo modelo Panther Lake ofrece alto rendimiento en formato compacto, ideal para profesionales con espacio limitado.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "TCL lanza monitores Mini LED con frecuencias de hasta 1080 Hz y opciones 4K a precios asequibles",
+    "summary": "Los nuevos paneles combinan altas tasas de refresco con tecnología Mini LED para mejorar la experiencia en juegos y productividad.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD expande su familia Ryzen 200 y 100 con 11 nuevas CPUs Hawk Point de arquitectura Zen 4",
+    "summary": "La compañía añade más variantes de procesadores para portátiles y equipos de bajo consumo, ampliando su oferta en el mercado.",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "China construye su propio mercado de chips ante las sanciones de EE.UU. y forja alianzas con Rusia",
+    "summary": "Las restricciones a la exportación están acelerando el desarrollo de la industria local de semiconductores y una posible alianza sino-rusa.",
+    "source": [
+      "tomshardware.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI lanza GPT-Live, un modelo de voz con capacidad de escucha y habla simultánea",
+    "summary": "El nuevo sistema permite conversaciones en tiempo real más naturales al procesar entrada y salida de audio al mismo tiempo.",
     "source": [
       "alternativeto.net",
       "producthunt.com"
@@ -76,62 +101,8 @@
     "count": 2
   },
   {
-    "title": "El navegador DuckDuckGo bloquea automáticamente los anuncios de YouTube en todas las plataformas",
-    "summary": "La función está disponible sin extensiones y de forma gratuita tanto en escritorio como en móviles.",
-    "source": [
-      "alternativeto.net",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD revive el procesador Zen2 Ryzen 7 4700LE en un PC de bajo costo con RTX 3050",
-    "summary": "El antiguo procesador de 8 núcleos vuelve en un equipo preensamblado de 800 dólares con gráficos discretos.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Minisforum lanza un mini PC con 128 GB de RAM y soporte para GPU de perfil bajo",
-    "summary": "La nueva estación de trabajo Panther Lake está diseñada para tareas intensivas y admite gráficas discretas.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El Parlamento Europeo reactiva la ley Chat Control 1.0 para el escaneo masivo de comunicaciones",
-    "summary": "Mediante un procedimiento parlamentario, se aprobó el control de mensajes pese a la oposición previa.",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Profesor de la Ivy League descubre trampas con IA al pasar un examen presencial y las notas caen un 50%",
-    "summary": "Solo dos estudiantes mantuvieron su calificación cuando el examen se realizó en persona frente a la modalidad virtual.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google Fotos incorpora Video Remix, una herramienta de edición de video rápida con IA",
-    "summary": "La nueva función permite crear clips creativos de manera ágil usando inteligencia artificial generativa.",
-    "source": [
-      "alternativeto.net",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "HalluSquatting: nuevo ataque explota las alucinaciones de la IA para ejecutar código malicioso",
-    "summary": "Los sistemas de seguridad basados en IA pueden ser engañados mediante la explotación de sus errores generativos.",
+    "title": "Descubren múltiples vulnerabilidades que permiten engañar a agentes de IA para ejecutar código malicioso",
+    "summary": "Ataques como HalluSquatting y GhostApproval explotan alucinaciones y fallos de simetría para comprometer la seguridad de los agentes autónomos.",
     "source": [
       "tomshardware.com",
       "thehackernews.com"
@@ -139,48 +110,68 @@
     "count": 2
   },
   {
-    "title": "Intel prepara procesadores Nova Lake-S de 28 núcleos para estaciones de trabajo",
-    "summary": "Detalles filtrados revelan las especificaciones de los próximos chips de alto rendimiento con gráficos Xe3.",
+    "title": "El Parlamento Europeo aprueba el control de chats y extiende el rastreo de mensajes hasta 2028",
+    "summary": "La normativa permite a empresas como Meta, Google y Microsoft seguir monitoreando comunicaciones, a pesar del rechazo de la mayoría parlamentaria.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta lanza la API Muse Spark 1.1 con precios que aprietan a OpenAI y Anthropic",
-    "summary": "Los nuevos precios reducen el costo de acceso a los modelos de IA, intensificando la guerra de precios.",
+    "title": "TypeScript 7.0 se lanza con compilador en Go y hasta 12 veces más rendimiento",
+    "summary": "La nueva versión del lenguaje de programación promete compilaciones mucho más rápidas, mejorando la productividad de los desarrolladores.",
     "source": [
-      "the-decoder.com",
+      "alternativeto.net"
+    ],
+    "count": 1
+  },
+  {
+    "title": "PostgreSQL es reescrito en Rust y pasa todas las pruebas de regresión",
+    "summary": "El proyecto demuestra que es posible migrar la base de datos a un lenguaje seguro en memoria sin perder compatibilidad ni rendimiento.",
+    "source": [
       "news.ycombinator.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Nueva York prohíbe las gafas inteligentes en tribunales, mientras Pamplona las usa en los Sanfermines",
-    "summary": "Dos incidentes recientes ponen de relieve el debate en torno al uso de gafas inteligentes en espacios públicos.",
+    "title": "npm 12 desactiva los scripts de instalación por defecto para mitigar ataques a la cadena de suministro",
+    "summary": "La nueva versión del gestor de paquetes elimina la ejecución automática de código durante la instalación, reduciendo riesgos de seguridad.",
     "source": [
-      "/r/technology",
-      "xataka.com"
+      "thehackernews.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "PlayStation impulsa el fin del formato físico, pero Halloween rescata los discos con ediciones físicas",
-    "summary": "La industria del videojuego vive una tensión entre el abandono de los soportes físicos y el lanzamiento de nuevas ediciones en disco.",
+    "title": "El navegador DuckDuckGo bloquea automáticamente los anuncios de YouTube",
+    "summary": "La función de privacidad impide la reproducción de anuncios en la plataforma de vídeos tanto en escritorio como en dispositivos móviles.",
     "source": [
-      "xataka.com",
-      "hardzone.es"
+      "alternativeto.net"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Avances en manos robóticas: empresas chinas y estadounidenses compiten por la destreza artificial",
-    "summary": "El robot Neo de 1X y las innovaciones chinas muestran progresos significativos en la manipulación robótica.",
+    "title": "Meta anuncia que sus nuevos chips de IA comenzarán su producción en septiembre",
+    "summary": "Los procesadores personalizados para inteligencia artificial reducirán la dependencia de proveedores externos y mejorarán la eficiencia.",
     "source": [
-      "wired.com",
-      "xataka.com"
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
+  },
+  {
+    "title": "Samsung incursiona en el mercado de chips para portátiles con el Exynos GAIA de 4 nm",
+    "summary": "El nuevo procesador, ya en fase de muestreo con socios, competirá directamente con las soluciones de Intel y AMD en ordenadores portátiles.",
+    "source": [
+      "/r/hardware"
+    ],
+    "count": 1
+  },
+  {
+    "title": "The New York Times acusa a OpenAI de ocultar pruebas en juicio por derechos de autor",
+    "summary": "El diario alega que la compañía de inteligencia artificial retuvo evidencia sobre el uso de contenido protegido para entrenar ChatGPT.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
   }
 ]

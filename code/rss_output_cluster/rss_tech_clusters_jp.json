@@ -1,18 +1,17 @@
 [
   {
-    "title": "Meta、Instagramの公開写真をAIモデルの訓練に使用へ：その回避方法",
-    "summary": "ユーザーはソーシャルネットワークのプライバシー設定で画像の使用を無効にすることができます。",
+    "title": "AMD、Zen 2 Ryzen 7 4700LEプロセッサを復活、RTX 3050搭載の低価格PC向け",
+    "summary": "4年前のプロセッサが800ドルのプリビルドPCに再登場、DDR4対応で手頃な選択肢を提供。",
     "source": [
-      "techcrunch.com",
-      "/r/technology",
-      "thehackernews.com",
-      "kite.kagi.com"
+      "/r/hardware",
+      "tomshardware.com",
+      "videocardz.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "AMD Zen6 Medusa Point APU、10コアでRyzen AI 9 HX 370を性能で上回る",
-    "summary": "ベンチマーク流出により、現行プロセッサと比べてGeekbenchで22%の向上が示された。",
+    "title": "AMDの10コアZen 6 APU「Medusa Point」、GeekbenchでRyzen AI 9 HX 370を上回る性能",
+    "summary": "初期ベンチマークでは、現行のハイエンドプロセッサと比較して最大22%の改善を示しているとリーク情報。",
     "source": [
       "tomshardware.com",
       "hardzone.es",
@@ -21,54 +20,80 @@
     "count": 3
   },
   {
-    "title": "中国、米国の制裁不確実性を受けて半導体産業を促進",
-    "summary": "中国の大手ハイテク企業は地元メーカーに注力し、一方でロシアとの半導体同盟が形成されつつある。",
+    "title": "OpenAI、GPT-5.6をMicrosoft Copilot 365の推奨モデルとして公開、決別の憶測の中",
+    "summary": "新しいAIモデルファミリーは、Microsoftの生産性向上スイート向けの推奨モデルとして位置づけられている。",
     "source": [
-      "/r/technology",
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ニューヨーク・タイムズ、OpenAIが著作権訴訟で証拠を隠蔽したと非難",
-    "summary": "OpenAIはChatGPTの記録を削除し、学習データの検索ができないことを隠したとされる。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI、GPT-5.6とワークフロー自動化エージェントChatGPT Workを発表",
-    "summary": "新モデルはFable 5に匹敵する性能を3分の1のコストで実現し、自動化ツールと共に展開される。",
-    "source": [
-      "the-decoder.com",
+      "techcrunch.com",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "xAI、より高速なコーディングと低価格でGrok 4.5を発表",
-    "summary": "Grok 4.5はGPT-5.5やFable 5よりもはるかに低いコストで競争力のあるパフォーマンスを提供する。",
+    "title": "OpenAIのAGI展開責任者フィジー・シモ氏が退任",
+    "summary": "汎用人工知能の実装を担当していた幹部が、同社の2番目のポストを去る。",
     "source": [
-      "alternativeto.net",
-      "the-decoder.com"
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "中国のオープンソースモデルGLM 5.2、会計で人間の精度に匹敵",
-    "summary": "Databricks、効率性と低コストを実証したGLM 5.2をデフォルトのコーディングエンジンとして採用。",
+    "title": "Meta、プログラミングタスク向け新AIモデル「Muse Spark 1.1」を発表",
+    "summary": "開発者向けのAIツールは、成長するコーディングアシスタント市場での競争を目指す。",
     "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI、聞きながら話せる音声モデルGPT-Liveを発表",
-    "summary": "新しい音声モデルは、同時に話したり聞いたりできるリアルタイムのインタラクションを提供する。",
+    "title": "Meta、Instagramの公開写真を使用してAIが画像を生成することを許可",
+    "summary": "新しい生成AIツールは公開コンテンツを利用し、ユーザーのプライバシーに関する懸念を引き起こしている。",
+    "source": [
+      "techcrunch.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Minisforum、128GB RAMとディスクリートGPU対応のミニワークステーションを発表",
+    "summary": "新モデル「Panther Lake」はコンパクトなフォーマットで高性能を提供、スペースが限られたプロフェッショナルに最適。",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "TCL、最大1080Hzのリフレッシュレートと4Kオプションを備えたMini LEDモニターを手頃な価格で発売",
+    "summary": "新しいパネルは、高いリフレッシュレートとMini LED技術を組み合わせ、ゲームと生産性の体験を向上させる。",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD、Ryzen 200および100ファミリーにZen 4アーキテクチャのHawk Point CPUを11製品追加",
+    "summary": "同社はノートPCや低消費電力デバイス向けのプロセッサバリエーションをさらに追加し、市場での製品展開を拡大。",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米国の制裁に対抗し、中国が独自のチップ市場を構築、ロシアとの提携も模索",
+    "summary": "輸出規制により、現地半導体産業の発展と中露同盟の可能性が加速している。",
+    "source": [
+      "tomshardware.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、同時聴話可能な音声モデル「GPT-Live」を発表",
+    "summary": "新しいシステムは、オーディオの入力と出力を同時に処理することで、より自然なリアルタイム会話を実現。",
     "source": [
       "alternativeto.net",
       "producthunt.com"
@@ -76,62 +101,8 @@
     "count": 2
   },
   {
-    "title": "DuckDuckGoブラウザ、全プラットフォームでYouTube広告を自動ブロック",
-    "summary": "この機能は拡張機能不要で無料で利用可能で、デスクトップとモバイルの両方に対応。",
-    "source": [
-      "alternativeto.net",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD、Zen2 Ryzen 7 4700LEプロセッサをRTX 3050搭載の低価格PCで復活",
-    "summary": "8コアの旧型プロセッサが、800ドルのプリビルドPCに搭載されて再登場。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Minisforum、128GB RAMとロープロファイルGPU対応のミニPCを発表",
-    "summary": "新しいワークステーションPanther Lakeは、高負荷タスク向けに設計され、ディスクリートグラフィックスをサポート。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "欧州議会、大規模通信スキャンのためのChat Control 1.0法を再活性化",
-    "summary": "議会手続きにより、事前の反対にもかかわらずメッセージ管理が承認された。",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "アイビーリーグ教授、対面試験でAIカンニングを発見、成績が50%低下",
-    "summary": "オンライン試験と比較して対面試験では、わずか2人の学生だけが成績を維持した。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Googleフォト、AIによる動画編集ツールVideo Remixを搭載",
-    "summary": "新機能は、生成AIを使ってクリエイティブなクリップを迅速に作成することができる。",
-    "source": [
-      "alternativeto.net",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "HalluSquatting：AIの幻覚を悪用して悪意のあるコードを実行する新たな攻撃",
-    "summary": "AIベースのセキュリティシステムは、その生成エラーを悪用されることで欺かれる可能性がある。",
+    "title": "AIエージェントを騙して悪意のあるコードを実行させる複数の脆弱性が発見される",
+    "summary": "HalluSquattingやGhostApprovalなどの攻撃は、幻覚や対称性の欠陥を悪用して自律エージェントのセキュリティを侵害する。",
     "source": [
       "tomshardware.com",
       "thehackernews.com"
@@ -139,48 +110,68 @@
     "count": 2
   },
   {
-    "title": "Intel、ワークステーション向け28コアNova Lake-Sプロセッサを準備",
-    "summary": "リークされた詳細により、Xe3グラフィックスを搭載した次期高性能チップの仕様が明らかに。",
+    "title": "欧州議会、チャット監視を承認、メッセージ追跡を2028年まで延長",
+    "summary": "この規制により、Meta、Google、Microsoftなどの企業は通信の監視を継続できるが、議会の過半数は反対している。",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta、OpenAIやAnthropicを圧迫する価格でMuse Spark 1.1 APIを公開",
-    "summary": "新しい価格設定はAIモデルへのアクセスコストを削減し、価格競争を激化させている。",
+    "title": "TypeScript 7.0、Go製コンパイラを採用し最大12倍のパフォーマンス向上でリリース",
+    "summary": "プログラミング言語の新バージョンは、コンパイルの大幅な高速化を実現し、開発者の生産性を向上させる。",
     "source": [
-      "the-decoder.com",
+      "alternativeto.net"
+    ],
+    "count": 1
+  },
+  {
+    "title": "PostgreSQLがRustで書き直され、すべての回帰テストに合格",
+    "summary": "このプロジェクトは、互換性やパフォーマンスを失うことなく、データベースをメモリセーフな言語に移行できることを実証している。",
+    "source": [
       "news.ycombinator.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "ニューヨークは裁判所でのスマートグラスを禁止、一方パンプローナはサンフェルミン祭りで使用",
-    "summary": "最近の2つの出来事が、公共の場でのスマートグラス使用に関する議論を浮き彫りにしている。",
+    "title": "npm 12、サプライチェーン攻撃を軽減するためデフォルトでインストールスクリプトを無効化",
+    "summary": "パッケージマネージャの新バージョンは、インストール中のコードの自動実行を廃止し、セキュリティリスクを低減する。",
     "source": [
-      "/r/technology",
-      "xataka.com"
+      "thehackernews.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "PlayStationが物理メディアの終焉を推進する一方、Halloweenがディスク版を復活させる",
-    "summary": "ゲーム業界は、物理メディアの放棄と新たなディスク版の発売の間で緊張状態にある。",
+    "title": "ブラウザ「DuckDuckGo」、YouTubeの広告を自動ブロック",
+    "summary": "プライバシー機能により、デスクトップとモバイルの両方で動画プラットフォーム上の広告再生を防止。",
     "source": [
-      "xataka.com",
-      "hardzone.es"
+      "alternativeto.net"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "ロボットハンドの進歩：中国企業と米国企業が人工的な器用さを競う",
-    "summary": "1XのNeoロボットと中国のイノベーションが、ロボット操作において顕著な進歩を示している。",
+    "title": "Meta、新しいAIチップの生産を9月に開始すると発表",
+    "summary": "AI向けカスタムプロセッサは、外部サプライヤーへの依存を減らし、効率を向上させる。",
     "source": [
-      "wired.com",
-      "xataka.com"
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
+  },
+  {
+    "title": "サムスン、4nmプロセス「Exynos GAIA」でノートPC向けチップ市場に参入",
+    "summary": "新プロセッサは既にパートナーによるサンプリング段階にあり、ノートPC市場でIntelやAMDのソリューションと直接競合する。",
+    "source": [
+      "/r/hardware"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ニューヨーク・タイムズ、著作権裁判でOpenAIが証拠隠蔽したと非難",
+    "summary": "同紙は、AI企業がChatGPTのトレーニングに保護されたコンテンツを使用した証拠を隠したと主張。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
   }
 ]
