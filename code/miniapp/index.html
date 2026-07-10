@@ -72,11 +72,16 @@
     <script>
         const BASE = 'https://raw.githubusercontent.com/SegoCode/NewsBucket/main/code/rss_output_cluster';
         const QUAKE = 'https://www.jma.go.jp/bosai/quake/data/list.json';
+        const JMA_AREA = 'https://www.jma.go.jp/bosai/common/const/area.json';
+        const jmaWarning = code => `https://www.jma.go.jp/bosai/warning/data/warning/${code}.json`;
         const ytLive = id => `https://www.youtube.com/embed/${id}?autoplay=1&controls=0&modestbranding=1&rel=0&playsinline=1&disablekb=1`;
         const LIVE = ytLive('Anr15FA9OCI');
         const LIVE_EN = ytLive('f0lYkdA-Gtw');
         const tg = window.Telegram?.WebApp;
-        let loc = null;
+        let location = null;
+        let prefecture = null;
+        let weatherItems = [];
+        const inactiveWarning = new Set(['解除', '発表警報・注意報はなし']);
         try {
             const saved = JSON.parse(localStorage.getItem('nb') || '{}');
             if (saved.t) topic.value = saved.t;
@@ -105,6 +110,7 @@
                 if (res.ok) items = await res.json();
             } catch {}
             if (topic.value === 'japan') {
+                if (weatherItems.length) items.unshift(...weatherItems);
                 try {
                     const res = await fetch(QUAKE);
                     if (res.ok) {
@@ -167,7 +173,37 @@
             } catch {}
             tg.LocationManager?.init(() => {
                 tg.showAlert('NewsBucket needs location access to provide weather alerts for where you are. To enable or change it: open this bot’s chat → tap the bot name at the top → scroll to Location. Leave it off if you prefer to skip these alerts.', () => {
-                    tg.LocationManager.getLocation(l => { loc = l; });
+                    tg.LocationManager.getLocation(async coords => {
+                        location = coords;
+                        prefecture = null;
+                        weatherItems = [];
+                        if (!coords) return;
+                        try {
+                            const place = await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${coords.latitude}&longitude=${coords.longitude}&localityLanguage=en`).then(r => r.json());
+                            if (place.countryCode !== 'JP') return;
+                            prefecture = place.principalSubdivision || null;
+                            if (!prefecture) return;
+                            const areas = await fetch(JMA_AREA).then(r => r.json());
+                            const office = Object.entries(areas.offices).find(([, o]) =>
+                                o.enName === prefecture || prefecture.startsWith(o.enName)
+                            );
+                            if (!office) return;
+                            const [officeCode] = office;
+                            const bulletin = await fetch(jmaWarning(officeCode)).then(r => r.json());
+                            const active = (bulletin.areaTypes || [])
+                                .flatMap(group => group.areas || [])
+                                .flatMap(area => area.warnings || [])
+                                .filter(warning => warning.code && !inactiveWarning.has(warning.status));
+                            if (!active.length) return;
+                            weatherItems = [{
+                                title: bulletin.headlineText || `Weather alerts · ${prefecture}`,
+                                source: ['JMA', prefecture],
+                                cls: 'quake-high',
+                                url: `https://www.jma.go.jp/bosai/warning/#lang=en&area_type=offices&area_code=${officeCode}`
+                            }];
+                            if (topic.value === 'japan') load();
+                        } catch {}
+                    });
                 });
             });
             tg.MainButton.setText('🔴 Live News');
