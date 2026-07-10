@@ -72,16 +72,12 @@
     <script>
         const BASE = 'https://raw.githubusercontent.com/SegoCode/NewsBucket/main/code/rss_output_cluster';
         const QUAKE = 'https://www.jma.go.jp/bosai/quake/data/list.json';
-        const JMA_AREA = 'https://www.jma.go.jp/bosai/common/const/area.json';
-        const jmaWarning = code => `https://www.jma.go.jp/bosai/warning/data/warning/${code}.json`;
+        const JMA = 'https://www.jma.go.jp/bosai/';
         const ytLive = id => `https://www.youtube.com/embed/${id}?autoplay=1&controls=0&modestbranding=1&rel=0&playsinline=1&disablekb=1`;
         const LIVE = ytLive('Anr15FA9OCI');
         const LIVE_EN = ytLive('f0lYkdA-Gtw');
         const tg = window.Telegram?.WebApp;
-        let location = null;
-        let prefecture = null;
         let weatherItems = [];
-        const inactiveWarning = new Set(['解除', '発表警報・注意報はなし']);
         try {
             const saved = JSON.parse(localStorage.getItem('nb') || '{}');
             if (saved.t) topic.value = saved.t;
@@ -174,33 +170,45 @@
             tg.LocationManager?.init(() => {
                 tg.showAlert('NewsBucket needs location access to provide weather alerts for where you are. To enable or change it: open this bot’s chat → tap the bot name at the top → scroll to Location. Leave it off if you prefer to skip these alerts.', () => {
                     tg.LocationManager.getLocation(async coords => {
-                        location = coords;
-                        prefecture = null;
-                        weatherItems = [];
                         if (!coords) return;
                         try {
                             const place = await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${coords.latitude}&longitude=${coords.longitude}&localityLanguage=en`).then(r => r.json());
-                            if (place.countryCode !== 'JP') return;
-                            prefecture = place.principalSubdivision || null;
-                            if (!prefecture) return;
-                            const areas = await fetch(JMA_AREA).then(r => r.json());
-                            const office = Object.entries(areas.offices).find(([, o]) =>
-                                o.enName === prefecture || prefecture.startsWith(o.enName)
-                            );
-                            if (!office) return;
-                            const [officeCode] = office;
-                            const bulletin = await fetch(jmaWarning(officeCode)).then(r => r.json());
-                            const active = (bulletin.areaTypes || [])
-                                .flatMap(group => group.areas || [])
-                                .flatMap(area => area.warnings || [])
-                                .filter(warning => warning.code && !inactiveWarning.has(warning.status));
-                            if (!active.length) return;
-                            weatherItems = [{
-                                title: bulletin.headlineText || `Weather alerts · ${prefecture}`,
-                                source: ['JMA', prefecture],
-                                cls: 'quake-high',
-                                url: `https://www.jma.go.jp/bosai/warning/#lang=en&area_type=offices&area_code=${officeCode}`
-                            }];
+                            const pref = place.countryCode === 'JP' && place.principalSubdivisionCode?.split('-')[1];
+                            if (!pref) return;
+                            const prefecture = place.principalSubdivision;
+                            const [areas, cfg] = await Promise.all([
+                                fetch(`${JMA}common/const/area.json`).then(r => r.json()),
+                                fetch(`${JMA}panel/const/setting.json`).then(r => r.json()),
+                            ]);
+                            const offices = Object.entries(areas.offices).filter(([code]) => code.startsWith(pref));
+                            if (!offices.length) return;
+                            const officeCode = offices[0][0];
+                            const c10 = offices.flatMap(([, o]) => o.children || []);
+                            const c15 = c10.flatMap(c => areas.class10s[c]?.children || []);
+                            const codes = new Set([officeCode, ...c10, ...c15,
+                                ...Object.keys(areas.class20s).filter(k => c10.includes(areas.class20s[k].parent) || c15.includes(areas.class20s[k].parent))]);
+                            const panels = cfg.lines[1].map(key => [key, cfg.panels[key]]);
+                            const urlKeys = [...new Set(panels.flatMap(([, p]) => p.url))];
+                            const data = Object.fromEntries(await Promise.all(
+                                urlKeys.map(async key => [key, await fetch(JMA + cfg.urls[key]).then(r => r.json())])
+                            ));
+                            weatherItems = panels.flatMap(([key, p]) => {
+                                const level = p.url
+                                    .flatMap(u => Object.values(data[u]?.[key] || {}))
+                                    .flatMap(m => Object.entries(m))
+                                    .filter(([c]) => codes.has(c))
+                                    .map(([, v]) => v)
+                                    .sort()
+                                    .pop();
+                                const name = typeof p.enName === 'string' ? p.enName : p.enName?.[level];
+                                if (!level || !name) return [];
+                                return [{
+                                    title: name.replace(/<[^>]+>/g, ' ').trim(),
+                                    source: ['JMA', prefecture],
+                                    cls: 'quake-high',
+                                    url: `${JMA}warning/#lang=en&area_type=offices&area_code=${officeCode}`,
+                                }];
+                            });
                             if (topic.value === 'japan') load();
                         } catch {}
                     });
