@@ -168,8 +168,15 @@
             tg.LocationManager?.init(() => {
                 const lm = tg.LocationManager;
                 const take = () => lm.getLocation(l => { loc = l; });
-                if (lm.isAccessGranted) take();
-                else tg.showAlert('NewsBucket needs location access to provide weather alerts for where you are. You can disable it anytime in Settings → Privacy and Security → Bots and websites. Leave it off if you prefer to skip these alerts.', take);
+                if (lm.isAccessGranted) return take();
+                tg.showAlert('NewsBucket needs location access to provide weather alerts for where you are. You can disable it anytime in Settings → Privacy and Security → Bots and websites. Leave it off if you prefer to skip these alerts.', () => {
+                    // Denied once → getLocation stays silent; openSettings re-prompts.
+                    if (lm.isAccessRequested && !lm.isAccessGranted) lm.openSettings();
+                    else take();
+                });
+            });
+            tg.onEvent('locationManagerUpdated', () => {
+                if (tg.LocationManager.isAccessGranted) tg.LocationManager.getLocation(l => { loc = l; });
             });
             tg.MainButton.setText('🔴 Live News');
             tg.MainButton.onClick(() => setLive(live.hidden));
