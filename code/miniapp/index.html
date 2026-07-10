@@ -165,10 +165,12 @@
                 tg.setHeaderColor('secondary_bg_color');
                 tg.setBackgroundColor('bg_color');
             } catch {}
-            tg.LocationManager?.init(() => tg.LocationManager.getLocation(l => {
-                loc = l;
-                if (!l) tg.showAlert('NewsBucket needs location access to provide alerts for where you are. You can enable it in Settings → Privacy and Security → Bots and websites. Leave it off if you prefer to skip these alerts.');
-            }));
+            tg.LocationManager?.init(() => {
+                const lm = tg.LocationManager;
+                const take = () => lm.getLocation(l => { loc = l; });
+                if (lm.isAccessGranted) take();
+                else tg.showAlert('NewsBucket needs location access to provide weather alerts for where you are. You can disable it anytime in Settings → Privacy and Security → Bots and websites. Leave it off if you prefer to skip these alerts.', take);
+            });
             tg.MainButton.setText('🔴 Live News');
             tg.MainButton.onClick(() => setLive(live.hidden));
             tg.SecondaryButton?.onClick(swapLang);
