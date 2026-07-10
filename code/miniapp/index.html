@@ -76,6 +76,7 @@
         const LIVE = ytLive('Anr15FA9OCI');
         const LIVE_EN = ytLive('f0lYkdA-Gtw');
         const tg = window.Telegram?.WebApp;
+        let loc = null;
         try {
             const saved = JSON.parse(localStorage.getItem('nb') || '{}');
             if (saved.t) topic.value = saved.t;
@@ -164,6 +165,7 @@
                 tg.setHeaderColor('secondary_bg_color');
                 tg.setBackgroundColor('bg_color');
             } catch {}
+            tg.LocationManager?.init(() => tg.LocationManager.getLocation(l => { loc = l; }));
             tg.MainButton.setText('🔴 Live News');
             tg.MainButton.onClick(() => setLive(live.hidden));
             tg.SecondaryButton?.onClick(swapLang);
