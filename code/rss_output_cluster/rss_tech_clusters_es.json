@@ -1,72 +1,92 @@
 [
   {
-    "title": "AMD revive el procesador Zen 2 Ryzen 7 4700LE para PC económicos con RTX 3050",
-    "summary": "El procesador de hace cuatro años reaparece en un preensamblado de 800 dólares, ofreciendo una opción asequible con DDR4.",
+    "title": "Apple demanda a OpenAI por presunto robo de secretos comerciales de hardware",
+    "summary": "La empresa de Cupertino acusa a OpenAI de contratar a ex empleados que sustrajeron información confidencial sobre chips y hardware.",
     "source": [
-      "/r/hardware",
       "tomshardware.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "wired.com",
+      "/r/technology"
+    ],
+    "count": 5
+  },
+  {
+    "title": "La UE amenaza a Meta con multas millonarias por funciones adictivas en Instagram y Facebook",
+    "summary": "Bruselas exige a Meta desactivar el auto-reproducción y el desplazamiento infinito o enfrentarse a sanciones de hasta 12.000 millones de dólares.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "xataka.com"
     ],
     "count": 3
   },
   {
-    "title": "El APU AMD Zen 6 Medusa Point de 10 núcleos supera en rendimiento a los Ryzen AI 9 HX 370 en Geekbench",
-    "summary": "Los primeros benchmarks muestran una mejora de hasta el 22% frente a los procesadores actuales de gama alta, según filtraciones.",
+    "title": "El director de seguridad de OpenAI abandona la compañía",
+    "summary": "La salida del ejecutivo encargado de la seguridad se produce en medio de desafíos regulatorios y de confianza.",
     "source": [
-      "tomshardware.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI lanza GPT-5.6 como modelo preferido para Microsoft Copilot 365 en medio de especulaciones de ruptura",
-    "summary": "La nueva familia de modelos de inteligencia artificial se posiciona como la recomendada para la suite de productividad de Microsoft.",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Fidji Simo, directora de despliegue de AGI en OpenAI, abandona su cargo",
-    "summary": "La ejecutiva responsable de la implementación de inteligencia artificial general deja el puesto número dos de la compañía.",
-    "source": [
-      "techcrunch.com",
+      "/r/technology",
       "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta lanza Muse Spark 1.1, su nuevo modelo de IA para tareas de programación",
-    "summary": "La herramienta de inteligencia artificial para desarrolladores busca competir en el creciente mercado de asistentes de codificación.",
+    "title": "Meta elimina la función de IA que generaba imágenes a partir de fotos públicas de Instagram",
+    "summary": "La decisión llega tras las críticas por el uso no consentido de imágenes de usuarios para entrenar modelos.",
     "source": [
       "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nueva York prohíbe las prácticas engañosas de suscripción y las tarifas ocultas",
+    "summary": "La ciudad se convierte en la primera de EE.UU. en impedir que las empresas dificulten la cancelación de suscripciones recurrentes.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI presenta GPT-5.6 Sol, un modelo de IA capaz de auto-entrenar a otros y demostrar teoremas",
+    "summary": "El sistema, con cinco niveles de razonamiento, puede post-entrenar a modelos más pequeños y ha resuelto la conjetura del doble recubrimiento de ciclos.",
+    "source": [
+      "the-decoder.com",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta permitirá que su IA genere imágenes usando fotos públicas de Instagram",
-    "summary": "La nueva herramienta de inteligencia artificial generativa se nutre de contenido público, generando preocupaciones sobre la privacidad de los usuarios.",
+    "title": "Tencent negocia la compra de Manus a Meta tras la intervención del gobierno chino",
+    "summary": "El acuerdo devolvería la independencia a Manus después de que Pekín forzara a Meta a deshacer su inversión de 2.000 millones.",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SK Hynix realiza la mayor OPI extranjera de la historia en EE.UU. con 26.500 millones de dólares",
+    "summary": "El fabricante surcoreano de memoria planea usar los fondos para expandir la producción de HBM y construir nuevas fábricas en el país.",
     "source": [
       "techcrunch.com",
-      "thehackernews.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Minisforum presenta una estación de trabajo mini con 128 GB de RAM y soporte para GPU discretas",
-    "summary": "El nuevo modelo Panther Lake ofrece alto rendimiento en formato compacto, ideal para profesionales con espacio limitado.",
+    "title": "La UE aprueba el 'Chat Control' para escanear mensajes privados sin orden judicial",
+    "summary": "La normativa permite a empresas como Meta y Google analizar comunicaciones en busca de contenido ilegal, lo que genera críticas por vigilancia masiva.",
     "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "TCL lanza monitores Mini LED con frecuencias de hasta 1080 Hz y opciones 4K a precios asequibles",
-    "summary": "Los nuevos paneles combinan altas tasas de refresco con tecnología Mini LED para mejorar la experiencia en juegos y productividad.",
+    "title": "AMD confirma el lanzamiento de los procesadores Zen 6 en las próximas dos semanas",
+    "summary": "Los primeros chips EPYC 'Venice' con la nueva arquitectura llegarán antes de lo previsto, según la compañía.",
     "source": [
       "videocardz.com",
       "hardzone.es"
@@ -74,101 +94,85 @@
     "count": 2
   },
   {
-    "title": "AMD expande su familia Ryzen 200 y 100 con 11 nuevas CPUs Hawk Point de arquitectura Zen 4",
-    "summary": "La compañía añade más variantes de procesadores para portátiles y equipos de bajo consumo, ampliando su oferta en el mercado.",
+    "title": "El Intel Core Ultra 5 245K alcanza su precio mínimo histórico de 179 dólares",
+    "summary": "El procesador de 14 núcleos con soporte PCIe 5.0 se ofrece con un descuento del 42% sobre su precio original.",
     "source": [
-      "/r/hardware",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "China construye su propio mercado de chips ante las sanciones de EE.UU. y forja alianzas con Rusia",
-    "summary": "Las restricciones a la exportación están acelerando el desarrollo de la industria local de semiconductores y una posible alianza sino-rusa.",
+    "title": "Consiguen ejecutar Minecraft en 3D con texturas en una Game Boy original",
+    "summary": "Un desarrollador ha logrado que el juego funcione en el hardware de casi 30 años aprovechando sus limitaciones para crear un efecto tridimensional.",
     "source": [
-      "tomshardware.com",
-      "xataka.com"
+      "hardzone.es",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI lanza GPT-Live, un modelo de voz con capacidad de escucha y habla simultánea",
-    "summary": "El nuevo sistema permite conversaciones en tiempo real más naturales al procesar entrada y salida de audio al mismo tiempo.",
+    "title": "Condenado a 70 meses de prisión un negociador de rescates que ayudó a la banda BlackCat",
+    "summary": "El acusado, que también se declaró culpable en un caso en Florida, facilitó extorsiones a empresas estadounidenses.",
     "source": [
-      "alternativeto.net",
-      "producthunt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Descubren múltiples vulnerabilidades que permiten engañar a agentes de IA para ejecutar código malicioso",
-    "summary": "Ataques como HalluSquatting y GhostApproval explotan alucinaciones y fallos de simetría para comprometer la seguridad de los agentes autónomos.",
-    "source": [
-      "tomshardware.com",
+      "techcrunch.com",
       "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "El Parlamento Europeo aprueba el control de chats y extiende el rastreo de mensajes hasta 2028",
-    "summary": "La normativa permite a empresas como Meta, Google y Microsoft seguir monitoreando comunicaciones, a pesar del rechazo de la mayoría parlamentaria.",
+    "title": "Grok 4.5 y Muse Spark 1.1 ofrecen alto rendimiento a bajo costo frente a la competencia",
+    "summary": "Los nuevos modelos de IA de xAI y Muse prometen un 90% de eficacia con solo el 20% del precio de sus rivales, además de un contexto de 1 millón de tokens.",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
+      "xataka.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "TypeScript 7.0 se lanza con compilador en Go y hasta 12 veces más rendimiento",
-    "summary": "La nueva versión del lenguaje de programación promete compilaciones mucho más rápidas, mejorando la productividad de los desarrolladores.",
+    "title": "OpenAI cierra su navegador Atlas a los ocho meses y lo fusiona con ChatGPT",
+    "summary": "La empresa simplifica su oferta de productos al integrar las capacidades de Atlas en su chatbot principal, eliminando la marca.",
     "source": [
-      "alternativeto.net"
+      "xataka.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI podría quedarse sin fondos a mediados de 2027 según un análisis financiero",
+    "summary": "El informe señala que los gastos operativos superan los ingresos y la empresa necesitará una nueva ronda de financiación para sostenerse.",
+    "source": [
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "PostgreSQL es reescrito en Rust y pasa todas las pruebas de regresión",
-    "summary": "El proyecto demuestra que es posible migrar la base de datos a un lenguaje seguro en memoria sin perder compatibilidad ni rendimiento.",
+    "title": "SpaceX planea lanzar 100.000 satélites Starlink para multiplicar el ancho de banda por 100",
+    "summary": "La compañía de Elon Musk busca ampliar masivamente su constelación para ofrecer internet de alta velocidad global.",
     "source": [
       "news.ycombinator.com"
     ],
     "count": 1
   },
   {
-    "title": "npm 12 desactiva los scripts de instalación por defecto para mitigar ataques a la cadena de suministro",
-    "summary": "La nueva versión del gestor de paquetes elimina la ejecución automática de código durante la instalación, reduciendo riesgos de seguridad.",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El navegador DuckDuckGo bloquea automáticamente los anuncios de YouTube",
-    "summary": "La función de privacidad impide la reproducción de anuncios en la plataforma de vídeos tanto en escritorio como en dispositivos móviles.",
-    "source": [
-      "alternativeto.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta anuncia que sus nuevos chips de IA comenzarán su producción en septiembre",
-    "summary": "Los procesadores personalizados para inteligencia artificial reducirán la dependencia de proveedores externos y mejorarán la eficiencia.",
+    "title": "China acelera en cohetes reutilizables y se acerca a los logros de SpaceX",
+    "summary": "Los avances chinos en tecnología de lanzadores reutilizables reducen la brecha con los cohetes Falcon de Elon Musk.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Samsung incursiona en el mercado de chips para portátiles con el Exynos GAIA de 4 nm",
-    "summary": "El nuevo procesador, ya en fase de muestreo con socios, competirá directamente con las soluciones de Intel y AMD en ordenadores portátiles.",
+    "title": "Anthropic logra leer los 'pensamientos' de su IA Claude en un estudio innovador",
+    "summary": "Los investigadores observaron un espacio de trabajo global en el modelo, revelando por primera vez cómo procesa internamente la información.",
     "source": [
-      "/r/hardware"
+      "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "The New York Times acusa a OpenAI de ocultar pruebas en juicio por derechos de autor",
-    "summary": "El diario alega que la compañía de inteligencia artificial retuvo evidencia sobre el uso de contenido protegido para entrenar ChatGPT.",
+    "title": "Disney+ estudia lanzar un nivel gratuito con publicidad para competir en el mercado de streaming",
+    "summary": "La plataforma podría seguir el modelo freemium adoptado por otras compañías para atraer a más usuarios.",
     "source": [
       "techcrunch.com"
     ],

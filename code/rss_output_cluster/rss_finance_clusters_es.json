@@ -1,19 +1,51 @@
 [
   {
-    "title": "SK Hynix debuta en Wall Street con una oferta de 26.500 millones de dólares",
-    "summary": "La compañía surcoreana de semiconductores completó su oferta pública en Estados Unidos con una demanda que superó las expectativas.",
+    "title": "SK Hynix debuta en Wall Street con una OPV récord de 26.500 millones de dólares",
+    "summary": "Las acciones de la surcoreana se disparan más de un 13% en su primer día de cotización en el Nasdaq, impulsadas por el auge de la inteligencia artificial.",
     "source": [
+      "nasdaq.com",
       "nikkei.com",
-      "investing.com",
+      "bolsamania.com",
       "ft.com",
+      "handelsblatt.com",
       "expansion.com",
       "/r/stocks"
     ],
-    "count": 5
+    "count": 7
   },
   {
-    "title": "Wall Street cierra en verde tras los contactos de Trump con Irán",
-    "summary": "Los principales índices estadounidenses subieron ante la posibilidad de una distensión en el conflicto en Oriente Medio.",
+    "title": "Apollo compra easyJet por 5.700 millones de libras tras mejorar su oferta",
+    "summary": "El fondo de inversión se impone a Castlelake y adquiere la aerolínea de bajo coste británica, que pasará a ser privada.",
+    "source": [
+      "nikkei.com",
+      "ft.com",
+      "bolsamania.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Meta presenta su propio chip de IA y sus acciones suben por el menor costo de infraestructura",
+    "summary": "El nuevo chip interno de Meta entra en producción en septiembre, lo que reduce la dependencia de proveedores externos y eleva el valor de la compañía.",
+    "source": [
+      "nasdaq.com",
+      "/r/stocks",
+      "bolsamania.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El petróleo supera los 76 dólares por las tensiones con Irán y la AIE alerta sobre la oferta de combustible",
+    "summary": "El fin del alto el fuego en Gaza y la reanudación de negociaciones elevan el crudo, mientras la Agencia Internacional de la Energía advierte de una posible escasez de gasolina y diésel.",
+    "source": [
+      "bolsamania.com",
+      "/r/stocks",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Wall Street cierra al alza impulsado por los resultados empresariales y las tecnológicas",
+    "summary": "El Dow Jones, el S&P 500 y el Nasdaq registran ganancias moderadas en una sesión positiva para el mercado estadounidense.",
     "source": [
       "investing.com",
       "bolsamania.com",
@@ -22,73 +54,53 @@
     "count": 3
   },
   {
-    "title": "Samsung busca reunirse con Nvidia en medio del auge de la inteligencia artificial",
-    "summary": "El anuncio de una posible alianza entre Samsung y Nvidia y los avances de DeepSeek impulsan el sector de chips.",
+    "title": "Apple demanda a OpenAI por robo de secretos comerciales y fuga de información confidencial",
+    "summary": "La tecnológica acusa a OpenAI y a antiguos ejecutivos de haberse apropiado indebidamente de datos para desarrollar sus propios dispositivos.",
     "source": [
-      "handelsblatt.com",
-      "investing.com",
-      "nasdaq.com"
+      "nikkei.com",
+      "/r/stocks"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "La Fed crea grupos de trabajo con Marc Andreessen y el exdirector de Walmart",
-    "summary": "El banco central estadounidense designó a cinco grupos de expertos para supervisar sus políticas monetarias y regulatorias.",
+    "title": "Shein obtiene la aprobación china para su esperada salida a bolsa",
+    "summary": "El gigante de moda rápida recibe luz verde de Pekín para cotizar en el extranjero, allanando el camino para una de las mayores OPV del año.",
     "source": [
-      "handelsblatt.com",
       "expansion.com",
-      "bolsamania.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Goldman Sachs prohíbe las apuestas financieras a sus empleados",
-    "summary": "La entidad financiera endureció sus reglas internas ante el crecimiento de las plataformas de apuestas reguladas.",
-    "source": [
-      "handelsblatt.com",
       "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "El estrecho de Ormuz al borde del colapso dispara el precio del petróleo",
-    "summary": "Los ataques de EE.UU. contra Irán interrumpieron el tráfico marítimo en el estrecho, elevando el crudo.",
+    "title": "Circle consigue la licencia bancaria nacional en EE.UU. para operar como banco",
+    "summary": "La empresa de criptomonedas obtiene la aprobación regulatoria que le permite realizar actividades bancarias tradicionales.",
     "source": [
-      "investing.com",
+      "nasdaq.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Vodafone se dispara en bolsa tras la entrada del inversor Xavier Niel",
+    "summary": "Las acciones de la operadora británica suben más de un 12% ante la participación del empresario francés, lo que genera expectativas de reestructuración.",
+    "source": [
+      "nasdaq.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los agentes de inteligencia artificial de JPMorgan superan a la cartera tradicional 60/40",
+    "summary": "El banco estadounidense demuestra que sus algoritmos de IA logran rendimientos superiores a la combinación clásica de bonos y acciones.",
+    "source": [
+      "expansion.com",
       "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "Fast Retailing cae en bolsa a pesar de mejorar sus previsiones de beneficio",
-    "summary": "La operadora de Uniqlo presentó resultados positivos pero advirtió sobre el impacto del yen en sus cuentas.",
-    "source": [
-      "nikkei.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Costco encabeza las pérdidas del Nasdaq al caer un 4,2%",
-    "summary": "El minorista estadounidense sufrió su peor jornada en meses debido a la preocupación por el gasto del consumidor.",
-    "source": [
-      "nasdaq.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las actas de la Fed muestran divisiones sobre el futuro de los tipos",
-    "summary": "El banco central mantiene un tono cauteloso mientras los miembros del comité difieren sobre el rumbo de las tasas.",
-    "source": [
-      "ft.com",
-      "finance.yahoo.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El Ibex 35 rebota impulsado por la distensión entre EE.UU. e Irán",
-    "summary": "El selectivo español recuperó terreno tras las pérdidas anteriores por el conflicto geopolítico.",
+    "title": "El Ibex 35 cae un 2,3% en una semana marcada por la crisis en Oriente Medio",
+    "summary": "El selectivo español sufre pérdidas semanales lastrado por la volatilidad geopolítica y la incertidumbre global.",
     "source": [
       "bolsamania.com",
       "expansion.com"
@@ -96,84 +108,75 @@
     "count": 2
   },
   {
-    "title": "Meta acelera su apuesta por la IA con nuevos modelos y chips propios",
-    "summary": "La empresa de Mark Zuckerberg destina 145.000 millones de dólares a infraestructura para competir en inteligencia artificial.",
-    "source": [
-      "/r/stocks",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Micron invertirá 250.000 millones en EE.UU. hasta 2035",
-    "summary": "El fabricante de chips estadounidense amplía su capacidad productiva en plena demanda de semiconductores para IA.",
-    "source": [
-      "bolsamania.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las bolsas asiáticas suben contagiadas por el optimismo de Wall Street",
-    "summary": "Los mercados de Japón, China, Hong Kong, Australia e Indonesia abrieron al alza siguiendo a Wall Street.",
-    "source": [
-      "nasdaq.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La número dos de OpenAI, Fidji Simo, deja su cargo por motivos de salud",
-    "summary": "Fidji Simo, directora de aplicaciones de OpenAI, se retira a un rol parcial para tratar una enfermedad.",
+    "title": "Las bolsas asiáticas suben impulsadas por los valores de semiconductores",
+    "summary": "El Nikkei y el Topix avanzan gracias al entusiasmo por SK Hynix y Micron, con los futuros del índice japonés ganando más de 500 puntos.",
     "source": [
       "nikkei.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Inversores reevalúan la inteligencia artificial ante la venta de deuda y la incertidumbre en el sector",
+    "summary": "Las dudas sobre el retorno de la IA y la emisión de bonos por parte de las grandes tecnológicas generan cautela entre los inversores.",
+    "source": [
+      "ft.com",
       "investing.com"
     ],
     "count": 2
   },
   {
-    "title": "El DAX alemán cierra por encima de los 25.000 puntos",
-    "summary": "El índice alemán alcanzó un nuevo récord impulsado por el sector tecnológico y la calma geopolítica.",
+    "title": "Novedades en la banca europea: cambios de tarjetas, investigaciones y preferencias de inversión",
+    "summary": "En Alemania, Commerzbank cambia a Visa y se cierra la investigación por manipulación, mientras el Ibex 35 favorece a los grandes bancos.",
     "source": [
-      "handelsblatt.com"
+      "handelsblatt.com",
+      "expansion.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "El Parlamento Europeo da luz verde al euro digital",
-    "summary": "La cámara europea aprobó la creación de una moneda digital del BCE, pendiente de regulación final.",
-    "source": [
-      "handelsblatt.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El yen se fortalece hasta los 161,90 por dólar tras declaraciones del ministro de Finanzas",
-    "summary": "El ministro de Finanzas japonés intervino verbalmente para frenar la depreciación del yen.",
+    "title": "China y Corea del Norte reafirman su alianza militar en el 65 aniversario del tratado bilateral",
+    "summary": "Los presidentes Xi Jinping y Kim Jong Un intercambian mensajes de felicitación y se comprometen a defender los intereses comunes.",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "Kim Jong-un ordena reforzar la inteligencia exterior norcoreana",
-    "summary": "El líder norcoreano fortalece su agencia de espionaje para mejorar las operaciones en el extranjero.",
+    "title": "Ohtani batea su 21er jonrón pero se pierde el Juego de Estrellas por lesión",
+    "summary": "El jugador de los Dodgers continúa su explosiva temporada ofensiva, pero una inflamación en la rodilla izquierda le impide participar en el All-Star Game y lanzar.",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "El ministro de Educación ruso visita las islas Kuriles en medio de la protesta japonesa",
-    "summary": "La visita de un alto funcionario ruso a las islas disputadas reaviva la tensión diplomática con Japón.",
+    "title": "España avanza a las semifinales del Mundial tras vencer a Bélgica con gol de Merino",
+    "summary": "La selección española se impone 1-0 y se enfrentará a Francia en busca del pase a la final.",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "Japón fomenta el emprendimiento femenino con múltiples iniciativas regionales",
-    "summary": "Varias prefecturas japonesas lanzan programas de mentoría, préstamos y seminarios para apoyar a mujeres emprendedoras.",
+    "title": "Meta retira su función de imágenes con IA por críticas de privacidad y su detector falla",
+    "summary": "La compañía elimina la herramienta tras las protestas de los usuarios y además su detector de imágenes generadas por IA no reconoce sus propias creaciones.",
+    "source": [
+      "investing.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Resultados del golf: Nakajima asciende e Iwaki se coloca segunda en el Evian",
+    "summary": "En el torneo masculino estadounidense, Ryo Nakajima se sitúa sexto, mientras en el Evian femenino Akie Iwaki ocupa la segunda plaza.",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Sinner y Zverev disputarán la final de Wimbledon y Murakami participará en el derbi de jonrones",
+    "summary": "El italiano y el alemán se enfrentan por el título; en la NBA, Kawamura debuta en la Liga de Verano; y en béisbol, el japonés competirá en el Home Run Derby.",
     "source": [
       "nikkei.com"
     ],

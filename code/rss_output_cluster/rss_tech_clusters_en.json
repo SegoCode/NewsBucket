@@ -1,72 +1,92 @@
 [
   {
-    "title": "AMD revives Zen 2 Ryzen 7 4700LE processor for budget PCs with RTX 3050",
-    "summary": "The four-year-old processor reappears in an $800 pre-built, offering an affordable option with DDR4.",
+    "title": "Apple sues OpenAI for alleged theft of hardware trade secrets",
+    "summary": "The Cupertino company accuses OpenAI of hiring former employees who stole confidential information about chips and hardware.",
     "source": [
-      "/r/hardware",
       "tomshardware.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "wired.com",
+      "/r/technology"
+    ],
+    "count": 5
+  },
+  {
+    "title": "EU threatens Meta with multi-million fines for addictive features on Instagram and Facebook",
+    "summary": "Brussels demands Meta disable autoplay and infinite scroll or face sanctions of up to $12 billion.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "xataka.com"
     ],
     "count": 3
   },
   {
-    "title": "AMD Zen 6 Medusa Point 10-core APU outperforms Ryzen AI 9 HX 370 in Geekbench",
-    "summary": "Early benchmarks show up to a 22% improvement over current high-end processors, according to leaks.",
+    "title": "OpenAI's head of security leaves the company",
+    "summary": "The departure of the executive in charge of security comes amid regulatory and trust challenges.",
     "source": [
-      "tomshardware.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI launches GPT-5.6 as preferred model for Microsoft Copilot 365 amid breakup speculation",
-    "summary": "The new family of AI models is positioned as the recommended one for Microsoft's productivity suite.",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Fidji Simo, head of AGI deployment at OpenAI, leaves position",
-    "summary": "The executive responsible for general AI implementation leaves the number two post at the company.",
-    "source": [
-      "techcrunch.com",
+      "/r/technology",
       "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta launches Muse Spark 1.1, its new AI model for programming tasks",
-    "summary": "The AI tool for developers seeks to compete in the growing market of coding assistants.",
+    "title": "Meta removes AI feature that generated images from public Instagram photos",
+    "summary": "The decision comes after criticism over the unauthorized use of user images to train models.",
     "source": [
       "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "New York bans deceptive subscription practices and hidden fees",
+    "summary": "The city becomes the first in the US to prevent companies from making it difficult to cancel recurring subscriptions.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI introduces GPT-5.6 Sol, an AI model capable of self-training others and proving theorems",
+    "summary": "The system, with five levels of reasoning, can post-train smaller models and has solved the double cycle cover conjecture.",
+    "source": [
+      "the-decoder.com",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta will allow its AI to generate images using public Instagram photos",
-    "summary": "The new generative AI tool draws from public content, raising concerns about user privacy.",
+    "title": "Tencent negotiates purchase of Manus from Meta after Chinese government intervention",
+    "summary": "The deal would return independence to Manus after Beijing forced Meta to unwind its $2 billion investment.",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SK Hynix makes largest foreign IPO in US history with $26.5 billion",
+    "summary": "The South Korean memory manufacturer plans to use the funds to expand HBM production and build new factories in the country.",
     "source": [
       "techcrunch.com",
-      "thehackernews.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Minisforum unveils mini workstation with 128 GB of RAM and support for discrete GPUs",
-    "summary": "The new Panther Lake model offers high performance in a compact form factor, ideal for professionals with limited space.",
+    "title": "EU approves 'Chat Control' to scan private messages without a warrant",
+    "summary": "The regulation allows companies like Meta and Google to analyze communications for illegal content, drawing criticism for mass surveillance.",
     "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "TCL launches Mini LED monitors with refresh rates up to 1080 Hz and affordable 4K options",
-    "summary": "New panels combine high refresh rates with Mini LED technology to enhance gaming and productivity experiences.",
+    "title": "AMD confirms launch of Zen 6 processors within the next two weeks",
+    "summary": "The first EPYC 'Venice' chips with the new architecture will arrive earlier than expected, according to the company.",
     "source": [
       "videocardz.com",
       "hardzone.es"
@@ -74,101 +94,85 @@
     "count": 2
   },
   {
-    "title": "AMD expands Ryzen 200 and 100 families with 11 new Hawk Point CPUs based on Zen 4 architecture",
-    "summary": "The company adds more processor variants for laptops and low-power devices, expanding its market offering.",
+    "title": "Intel Core Ultra 5 245K hits all-time low price of $179",
+    "summary": "The 14-core processor with PCIe 5.0 support is offered at a 42% discount from its original price.",
     "source": [
-      "/r/hardware",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "China builds its own chip market amid U.S. sanctions and forges alliances with Russia",
-    "summary": "Export restrictions are accelerating the development of the local semiconductor industry and a potential Sino-Russian alliance.",
+    "title": "They manage to run Minecraft in 3D with textures on an original Game Boy",
+    "summary": "A developer has gotten the game to run on nearly 30-year-old hardware, leveraging its limitations to create a three-dimensional effect.",
     "source": [
-      "tomshardware.com",
-      "xataka.com"
+      "hardzone.es",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI launches GPT-Live, a voice model with simultaneous listening and speaking capabilities",
-    "summary": "The new system enables more natural real-time conversations by processing audio input and output simultaneously.",
+    "title": "Ransom negotiator who helped the BlackCat gang sentenced to 70 months in prison",
+    "summary": "The defendant, who also pleaded guilty in a case in Florida, facilitated extortions against US companies.",
     "source": [
-      "alternativeto.net",
-      "producthunt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Multiple vulnerabilities discovered that allow tricking AI agents into executing malicious code",
-    "summary": "Attacks like HalluSquatting and GhostApproval exploit hallucinations and symmetry flaws to compromise the security of autonomous agents.",
-    "source": [
-      "tomshardware.com",
+      "techcrunch.com",
       "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "European Parliament approves chat monitoring and extends message tracking until 2028",
-    "summary": "The regulation allows companies like Meta, Google, and Microsoft to continue monitoring communications, despite rejection by the parliamentary majority.",
+    "title": "Grok 4.5 and Muse Spark 1.1 offer high performance at low cost compared to competition",
+    "summary": "The new AI models from xAI and Muse promise 90% effectiveness at just 20% of the price of their rivals, plus a 1 million token context.",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
+      "xataka.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "TypeScript 7.0 released with compiler in Go and up to 12x performance",
-    "summary": "The new version of the programming language promises much faster compilation, improving developer productivity.",
+    "title": "OpenAI shuts down its Atlas browser after eight months and merges it with ChatGPT",
+    "summary": "The company simplifies its product offering by integrating Atlas' capabilities into its main chatbot, eliminating the brand.",
     "source": [
-      "alternativeto.net"
+      "xataka.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI could run out of funds by mid-2027 according to financial analysis",
+    "summary": "The report indicates that operating expenses exceed revenue and the company will need a new funding round to sustain itself.",
+    "source": [
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "PostgreSQL rewritten in Rust and passes all regression tests",
-    "summary": "The project demonstrates that it is possible to migrate the database to a memory-safe language without losing compatibility or performance.",
+    "title": "SpaceX plans to launch 100,000 Starlink satellites to multiply bandwidth by 100",
+    "summary": "Elon Musk's company seeks to massively expand its constellation to offer global high-speed internet.",
     "source": [
       "news.ycombinator.com"
     ],
     "count": 1
   },
   {
-    "title": "npm 12 disables installation scripts by default to mitigate supply chain attacks",
-    "summary": "The new version of the package manager removes automatic code execution during installation, reducing security risks.",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "DuckDuckGo browser automatically blocks YouTube ads",
-    "summary": "The privacy feature prevents ad playback on the video platform on both desktop and mobile devices.",
-    "source": [
-      "alternativeto.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta announces that its new AI chips will start production in September",
-    "summary": "Custom AI processors will reduce dependence on external suppliers and improve efficiency.",
+    "title": "China accelerates in reusable rockets and closes the gap with SpaceX achievements",
+    "summary": "Chinese advances in reusable launch vehicle technology narrow the gap with Elon Musk's Falcon rockets.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Samsung ventures into laptop chip market with 4nm Exynos GAIA",
-    "summary": "The new processor, already in sampling phase with partners, will directly compete with Intel and AMD solutions in laptops.",
+    "title": "Anthropic manages to read the 'thoughts' of its AI Claude in a groundbreaking study",
+    "summary": "Researchers observed a global workspace in the model, revealing for the first time how it internally processes information.",
     "source": [
-      "/r/hardware"
+      "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "The New York Times accuses OpenAI of hiding evidence in copyright lawsuit",
-    "summary": "The newspaper alleges that the AI company withheld evidence about the use of protected content to train ChatGPT.",
+    "title": "Disney+ considers launching a free ad-supported tier to compete in the streaming market",
+    "summary": "The platform could follow the freemium model adopted by other companies to attract more users.",
     "source": [
       "techcrunch.com"
     ],

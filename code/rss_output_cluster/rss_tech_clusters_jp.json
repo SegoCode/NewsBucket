@@ -1,72 +1,92 @@
 [
   {
-    "title": "AMD、Zen 2 Ryzen 7 4700LEプロセッサを復活、RTX 3050搭載の低価格PC向け",
-    "summary": "4年前のプロセッサが800ドルのプリビルドPCに再登場、DDR4対応で手頃な選択肢を提供。",
+    "title": "AppleがOpenAIをハードウェア営業秘密の窃取で提訴",
+    "summary": "クパチーノの企業は、OpenAIがチップやハードウェアに関する機密情報を持ち出した元従業員を雇用したとして非難している。",
     "source": [
-      "/r/hardware",
       "tomshardware.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "wired.com",
+      "/r/technology"
+    ],
+    "count": 5
+  },
+  {
+    "title": "EU、InstagramとFacebookの中毒性機能でMetaに巨額制裁金の脅し",
+    "summary": "ブリュッセルはMetaに対し、自動再生と無限スクロールを無効にするよう要求、さもなければ最大120億ドルの制裁に直面する。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "xataka.com"
     ],
     "count": 3
   },
   {
-    "title": "AMDの10コアZen 6 APU「Medusa Point」、GeekbenchでRyzen AI 9 HX 370を上回る性能",
-    "summary": "初期ベンチマークでは、現行のハイエンドプロセッサと比較して最大22%の改善を示しているとリーク情報。",
+    "title": "OpenAIのセキュリティ責任者が退社",
+    "summary": "安全保障を担当する幹部の退社は、規制上の課題と信頼の問題の中で行われた。",
     "source": [
-      "tomshardware.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI、GPT-5.6をMicrosoft Copilot 365の推奨モデルとして公開、決別の憶測の中",
-    "summary": "新しいAIモデルファミリーは、Microsoftの生産性向上スイート向けの推奨モデルとして位置づけられている。",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAIのAGI展開責任者フィジー・シモ氏が退任",
-    "summary": "汎用人工知能の実装を担当していた幹部が、同社の2番目のポストを去る。",
-    "source": [
-      "techcrunch.com",
+      "/r/technology",
       "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta、プログラミングタスク向け新AIモデル「Muse Spark 1.1」を発表",
-    "summary": "開発者向けのAIツールは、成長するコーディングアシスタント市場での競争を目指す。",
+    "title": "Meta、Instagramの公開写真から画像を生成するAI機能を削除",
+    "summary": "この決定は、ユーザーの画像を無断でモデル学習に使用したことへの批判を受けてのもの。",
     "source": [
       "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ニューヨーク、サブスクリプションの欺瞞的行為と隠れた料金を禁止",
+    "summary": "この都市は、企業が定期購読の解約を困難にすることを防ぐ米国初の都市となった。",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、自己学習可能で定理証明ができるAIモデル「GPT-5.6 Sol」を発表",
+    "summary": "5段階の推論レベルを持つこのシステムは、より小さなモデルを後学習させることができ、二重サイクル被覆予想を解決した。",
+    "source": [
+      "the-decoder.com",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta、Instagramの公開写真を使用してAIが画像を生成することを許可",
-    "summary": "新しい生成AIツールは公開コンテンツを利用し、ユーザーのプライバシーに関する懸念を引き起こしている。",
+    "title": "Tencent、中国政府の介入を受けMetaからManus買収を交渉",
+    "summary": "この合意は、北京がMetaに20億ドルの投資を撤回させた後、Manusに独立を取り戻すことになる。",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SKハイニックス、265億ドルで米国史上最大の外国人によるIPOを実施",
+    "summary": "韓国のメモリーメーカーは、資金をHBM生産の拡大と国内での新工場建設に使用する計画。",
     "source": [
       "techcrunch.com",
-      "thehackernews.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Minisforum、128GB RAMとディスクリートGPU対応のミニワークステーションを発表",
-    "summary": "新モデル「Panther Lake」はコンパクトなフォーマットで高性能を提供、スペースが限られたプロフェッショナルに最適。",
+    "title": "EU、令状なしにプライベートメッセージをスキャンする「チャットコントロール」を承認",
+    "summary": "この規制により、MetaやGoogleなどの企業が違法コンテンツを探すために通信を分析することが可能になり、大量監視への批判が起こっている。",
     "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "TCL、最大1080Hzのリフレッシュレートと4Kオプションを備えたMini LEDモニターを手頃な価格で発売",
-    "summary": "新しいパネルは、高いリフレッシュレートとMini LED技術を組み合わせ、ゲームと生産性の体験を向上させる。",
+    "title": "AMD、Zen 6プロセッサを今後2週間以内に発売すると確認",
+    "summary": "同社によると、新しいアーキテクチャを採用した最初のEPYC「Venice」チップは予定より早く登場する。",
     "source": [
       "videocardz.com",
       "hardzone.es"
@@ -74,101 +94,85 @@
     "count": 2
   },
   {
-    "title": "AMD、Ryzen 200および100ファミリーにZen 4アーキテクチャのHawk Point CPUを11製品追加",
-    "summary": "同社はノートPCや低消費電力デバイス向けのプロセッサバリエーションをさらに追加し、市場での製品展開を拡大。",
+    "title": "Intel Core Ultra 5 245Kが過去最低価格の179ドルに",
+    "summary": "PCIe 5.0対応の14コアプロセッサが、元の価格から42%引きで提供されている。",
     "source": [
-      "/r/hardware",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "米国の制裁に対抗し、中国が独自のチップ市場を構築、ロシアとの提携も模索",
-    "summary": "輸出規制により、現地半導体産業の発展と中露同盟の可能性が加速している。",
+    "title": "オリジナルGame Boyでテクスチャ付きの3D Minecraftを動作させることに成功",
+    "summary": "開発者が、約30年前のハードウェア上でゲームを動作させ、その制限を利用して3D効果を生み出すことに成功した。",
     "source": [
-      "tomshardware.com",
-      "xataka.com"
+      "hardzone.es",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI、同時聴話可能な音声モデル「GPT-Live」を発表",
-    "summary": "新しいシステムは、オーディオの入力と出力を同時に処理することで、より自然なリアルタイム会話を実現。",
+    "title": "BlackCatグループを支援した身代金交渉人に70ヶ月の懲役刑",
+    "summary": "フロリダの事件でも有罪を認めた被告は、米国企業への恐喝を容易にした。",
     "source": [
-      "alternativeto.net",
-      "producthunt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AIエージェントを騙して悪意のあるコードを実行させる複数の脆弱性が発見される",
-    "summary": "HalluSquattingやGhostApprovalなどの攻撃は、幻覚や対称性の欠陥を悪用して自律エージェントのセキュリティを侵害する。",
-    "source": [
-      "tomshardware.com",
+      "techcrunch.com",
       "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "欧州議会、チャット監視を承認、メッセージ追跡を2028年まで延長",
-    "summary": "この規制により、Meta、Google、Microsoftなどの企業は通信の監視を継続できるが、議会の過半数は反対している。",
+    "title": "Grok 4.5とMuse Spark 1.1、競合に対して低コストで高性能を提供",
+    "summary": "xAIとMuseの新しいAIモデルは、競合の20%の価格で90%の効果を約束し、さらに100万トークンのコンテキストを備えている。",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
+      "xataka.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "TypeScript 7.0、Go製コンパイラを採用し最大12倍のパフォーマンス向上でリリース",
-    "summary": "プログラミング言語の新バージョンは、コンパイルの大幅な高速化を実現し、開発者の生産性を向上させる。",
+    "title": "OpenAI、8ヶ月でブラウザ「Atlas」を閉鎖しChatGPTに統合",
+    "summary": "同社は、Atlasの機能をメインのチャットボットに統合し、ブランドを廃止することで製品提供を簡素化する。",
     "source": [
-      "alternativeto.net"
+      "xataka.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、財務分析によると2027年半ばに資金不足に陥る可能性",
+    "summary": "報告書は、運営費が収入を上回っており、企業は持続するために新たな資金調達ラウンドが必要になると指摘している。",
+    "source": [
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "PostgreSQLがRustで書き直され、すべての回帰テストに合格",
-    "summary": "このプロジェクトは、互換性やパフォーマンスを失うことなく、データベースをメモリセーフな言語に移行できることを実証している。",
+    "title": "SpaceX、帯域幅を100倍にするため10万基のStarlink衛星打ち上げを計画",
+    "summary": "イーロン・マスクの会社は、高速インターネットをグローバルに提供するために衛星コンステレーションを大幅に拡大しようとしている。",
     "source": [
       "news.ycombinator.com"
     ],
     "count": 1
   },
   {
-    "title": "npm 12、サプライチェーン攻撃を軽減するためデフォルトでインストールスクリプトを無効化",
-    "summary": "パッケージマネージャの新バージョンは、インストール中のコードの自動実行を廃止し、セキュリティリスクを低減する。",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ブラウザ「DuckDuckGo」、YouTubeの広告を自動ブロック",
-    "summary": "プライバシー機能により、デスクトップとモバイルの両方で動画プラットフォーム上の広告再生を防止。",
-    "source": [
-      "alternativeto.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta、新しいAIチップの生産を9月に開始すると発表",
-    "summary": "AI向けカスタムプロセッサは、外部サプライヤーへの依存を減らし、効率を向上させる。",
+    "title": "中国、再利用可能ロケットで加速しSpaceXの成果に迫る",
+    "summary": "中国の再利用可能ロケット技術の進歩により、イーロン・マスクのファルコンロケットとの差が縮まっている。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "サムスン、4nmプロセス「Exynos GAIA」でノートPC向けチップ市場に参入",
-    "summary": "新プロセッサは既にパートナーによるサンプリング段階にあり、ノートPC市場でIntelやAMDのソリューションと直接競合する。",
+    "title": "Anthropic、革新的研究でAI Claudeの「思考」を読み取ることに成功",
+    "summary": "研究者らはモデル内のグローバルなワークスペースを観察し、情報を内部でどのように処理するかを初めて明らかにした。",
     "source": [
-      "/r/hardware"
+      "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "ニューヨーク・タイムズ、著作権裁判でOpenAIが証拠隠蔽したと非難",
-    "summary": "同紙は、AI企業がChatGPTのトレーニングに保護されたコンテンツを使用した証拠を隠したと主張。",
+    "title": "Disney+、ストリーミング市場で競争するため広告付き無料プランの提供を検討",
+    "summary": "このプラットフォームは、より多くのユーザーを引き付けるために他の企業が採用しているフリーミアムモデルに従う可能性がある。",
     "source": [
       "techcrunch.com"
     ],

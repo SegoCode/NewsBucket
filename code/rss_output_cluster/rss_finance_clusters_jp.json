@@ -1,19 +1,51 @@
 [
   {
-    "title": "SK Hynix、265億ドルの公募でウォール街にデビュー",
-    "summary": "韓国の半導体企業が米国でのIPOを完了し、需要が予想を上回った。",
+    "title": "SKハイニックスが265億ドルの記録的IPOでウォール街にデビュー",
+    "summary": "韓国の同社の株価はナスダック上場初日に13%以上急騰し、人工知能ブームに後押しされた。",
     "source": [
+      "nasdaq.com",
       "nikkei.com",
-      "investing.com",
+      "bolsamania.com",
       "ft.com",
+      "handelsblatt.com",
       "expansion.com",
       "/r/stocks"
     ],
-    "count": 5
+    "count": 7
   },
   {
-    "title": "Wall Street、トランプ・イラン接触で上昇",
-    "summary": "中東紛争の緊張緩和期待から米主要株価指数が上昇。",
+    "title": "アポロがイージージェットを57億ポンドで買収、買収提案を改善",
+    "summary": "投資ファンドはキャッスルレイクを抑え、英国の格安航空会社を買収し非公開化する。",
+    "source": [
+      "nikkei.com",
+      "ft.com",
+      "bolsamania.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "メタが自社AIチップを発表、インフラコスト削減で株価上昇",
+    "summary": "メタの新しい内部チップは9月に生産開始となり、外部サプライヤーへの依存を減らし、会社の価値を高める。",
+    "source": [
+      "nasdaq.com",
+      "/r/stocks",
+      "bolsamania.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "イラン緊張で原油が76ドルを突破、IEAが燃料供給に警告",
+    "summary": "ガザ停戦の終了と交渉再開で原油が上昇し、国際エネルギー機関がガソリンとディーゼルの不足の可能性を警告する。",
+    "source": [
+      "bolsamania.com",
+      "/r/stocks",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ウォール街、企業業績とテクノロジー株に支えられ上昇終了",
+    "summary": "ダウ平均、S&P500、ナスダックは小幅高となり、米国市場にとってポジティブなセッションとなった。",
     "source": [
       "investing.com",
       "bolsamania.com",
@@ -22,73 +54,53 @@
     "count": 3
   },
   {
-    "title": "Samsung、AIブームの中でNvidiaとの会合を模索",
-    "summary": "SamsungとNvidiaの提携の可能性やDeepSeekの進展が半導体セクターを押し上げる。",
+    "title": "Apple、OpenAIを営業秘密の盗用と機密情報漏洩で提訴",
+    "summary": "テクノロジー企業はOpenAIと元幹部がデータを不正に取得して独自のデバイスを開発したと非難している。",
     "source": [
-      "handelsblatt.com",
-      "investing.com",
-      "nasdaq.com"
+      "nikkei.com",
+      "/r/stocks"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "FRB、Marc Andreessen氏とWalmart元CEOとの作業部会を設置",
-    "summary": "米連邦準備理事会（FRB）は金融政策と規制政策を監督するため5つの専門家グループを指名。",
+    "title": "シーイン、待望の上場へ中国の承認を得る",
+    "summary": "ファストファッション大手は北京から海外上場のゴーサインを得て、今年最大のIPOの一角への道を切り開いた。",
     "source": [
-      "handelsblatt.com",
       "expansion.com",
-      "bolsamania.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Goldman Sachs、従業員の金融賭博を禁止",
-    "summary": "金融大手は規制されたベッティングプラットフォームの成長を受け、社内規則を強化。",
-    "source": [
-      "handelsblatt.com",
       "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "ホルムズ海峡が崩壊の危機に、原油価格急騰",
-    "summary": "米国のイラン攻撃で海峡の海上交通が遮断され、原油価格が上昇。",
+    "title": "サークル、米国で銀行業務のための全国銀行免許を取得",
+    "summary": "暗号通貨企業は規制当局の承認を得て、伝統的な銀行業務を実行できるようになった。",
     "source": [
-      "investing.com",
+      "nasdaq.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ボーダフォン、投資家グザヴィエ・ニエルの参入で株価急騰",
+    "summary": "英国通信会社の株価はフランス人実業家の参加により12%以上上昇し、リストラ期待が高まっている。",
+    "source": [
+      "nasdaq.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "JPモルガンのAIエージェントが伝統的な60/40ポートフォリオを凌駕",
+    "summary": "米銀はAIアルゴリズムが債券と株式の古典的な組み合わせを上回るリターンを達成することを証明した。",
+    "source": [
+      "expansion.com",
       "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "Fast Retailing、利益予想改善も株価下落",
-    "summary": "ユニクロを展開する同社は好決算を発表したが、円の影響について警告。",
-    "source": [
-      "nikkei.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Costco、4.2%安でNasdaq下落率トップ",
-    "summary": "米小売大手は消費支出懸念から数ヶ月ぶりの大幅下落。",
-    "source": [
-      "nasdaq.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "FRB議事録、金利の行方を巡り意見の相違示す",
-    "summary": "FRBは慎重姿勢を維持する一方、委員の間で金利方向に意見の相違。",
-    "source": [
-      "ft.com",
-      "finance.yahoo.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Ibex35、米イラン緊張緩和で反発",
-    "summary": "スペインの株価指数は地政学的な損失から回復し、プラス圏に戻す。",
+    "title": "イベックス35、中東危機で週間2.3%下落",
+    "summary": "スペインの株価指標は地政学的な変動と世界的不確実性に影響され、週間で損失を出している。",
     "source": [
       "bolsamania.com",
       "expansion.com"
@@ -96,84 +108,75 @@
     "count": 2
   },
   {
-    "title": "Meta、新モデルと自社チップでAI投資加速",
-    "summary": "マーク・ザッカーバーグ氏のMetaはAIで競争するため、1450億ドルをインフラに投資する。",
-    "source": [
-      "/r/stocks",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Micron、2035年までに米国に2500億ドル投資",
-    "summary": "米半導体メーカーはAI向け半導体需要の高まりを受け、生産能力を拡大。",
-    "source": [
-      "bolsamania.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "アジア株、Wall Streetの楽観に連れて上昇",
-    "summary": "日本、中国、香港、オーストラリア、インドネシアの市場がWall Streetに続いて上昇して寄り付いた。",
-    "source": [
-      "nasdaq.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAIのNo.2、Fidji Simo氏が健康上の理由で辞任",
-    "summary": "OpenAIのアプリケーション責任者であるFidji Simo氏は病気治療のため、パートタイム役割に移行。",
+    "title": "アジア株、半導体株に牽引され上昇",
+    "summary": "日経平均とTOPIXはSKハイニックスとマイクロンへの期待で上昇し、日本株先物は500ポイント超上昇した。",
     "source": [
       "nikkei.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "投資家、AIを再評価、債券売却とセクター不確実性を背景に",
+    "summary": "AIのリターンに関する疑問や大手テクノロジー企業による債券発行が投資家の間に慎重感を生んでいる。",
+    "source": [
+      "ft.com",
       "investing.com"
     ],
     "count": 2
   },
   {
-    "title": "ドイツDAX、25,000ポイント超えで引ける",
-    "summary": "ドイツ株式指数はテクノロジーセクターと地政学的な落ち着きに支えられ、史上最高値を更新。",
+    "title": "欧州銀行の新動向：カード変更、調査、投資選好",
+    "summary": "ドイツではコメルツ銀行がVisaに切り替え、不正操作の調査が終了した一方、イベックス35は大手銀行に有利に働いている。",
     "source": [
-      "handelsblatt.com"
+      "handelsblatt.com",
+      "expansion.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "欧州議会、デジタルユーロにゴーサイン",
-    "summary": "欧州議会は欧州中央銀行（ECB）のデジタル通貨創設を承認、最終規制を待つ。",
-    "source": [
-      "handelsblatt.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "円、財務相の発言で1ドル＝161.90円まで上昇",
-    "summary": "日本の財務相が円安を防ぐために口先介入。",
+    "title": "中国と北朝鮮、二国間条約65周年で軍事同盟を再確認",
+    "summary": "習近平国家主席と金正恩国務委員長が祝電を交換し、共通の利益を守ることを約束した。",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "金正恩氏、北朝鮮の対外情報活動強化を指示",
-    "summary": "北朝鮮の指導者は海外工作を強化するため情報機関を強化。",
+    "title": "大谷翔平が21号本塁打を放つが、怪我でオールスター欠場",
+    "summary": "ドジャースの選手は打撃で爆発的なシーズンを続けているが、左膝の炎症によりオールスターゲームへの出場と投球が不可能となった。",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "ロシア教育相、日本の抗議の中クリル諸島訪問",
-    "summary": "ロシア高官の係争島訪問が日本との外交的緊張を再燃。",
+    "title": "スペイン、メリノのゴールでベルギーを破りW杯準決勝進出",
+    "summary": "スペイン代表は1-0で勝利し、決勝進出をかけてフランスと対戦する。",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "日本、地域イニシアチブで女性起業支援を促進",
-    "summary": "複数の日本の県が女性起業家を支援するためのメンタリング、融資、セミナー事業を開始。",
+    "title": "メタ、プライバシー批判でAI画像機能を撤回、自社検出器も故障",
+    "summary": "同社はユーザーの抗議を受けてツールを削除し、さらにAI生成画像の検出器が自社の作成物を認識できない。",
+    "source": [
+      "investing.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ゴルフ結果：中島が順位を上げ、岩崎はエビアンで2位に",
+    "summary": "米男子ツアーでは中島良が6位、女子エビアンでは岩崎明恵が2位となっている。",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "シナーとズベレフがウィンブルドン決勝で対戦、村上はホームランダービーに出場",
+    "summary": "イタリア人とドイツ人がタイトルをかけて対戦。NBAでは河村勇輝がサマーリーグデビュー、野球では村上がホームランダービーに出場する。",
     "source": [
       "nikkei.com"
     ],
