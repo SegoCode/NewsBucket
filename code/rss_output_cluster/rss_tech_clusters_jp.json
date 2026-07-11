@@ -1,19 +1,52 @@
 [
   {
-    "title": "Apple、従業員を介した営業秘密窃取の疑いでOpenAIを提訴",
-    "summary": "Appleは、元従業員がハードウェアの機密情報を持ち出すようOpenAIがキャンペーンを仕組んだと非難している。",
+    "title": "AppleがOpenAIを提訴、営業秘密の窃取と従業員の違法な引き抜きを主張",
+    "summary": "この訴訟は、OpenAIがアップルの元従業員にハードウェアに関する機密情報を持ち出させるためのキャンペーンを組織したと非難している。",
     "source": [
       "the-decoder.com",
+      "kite.kagi.com",
       "tomshardware.com",
       "techcrunch.com",
       "news.ycombinator.com",
-      "wired.com"
+      "wired.com",
+      "/r/technology"
     ],
-    "count": 5
+    "count": 7
   },
   {
-    "title": "OpenAI、GPT-5.6をリリース：Sol、Terra、Lunaモデルを搭載し高度な推論能力を実証",
-    "summary": "新バージョンは5段階の推論レベル、自律的なポストトレーニング、そしてある予想の数学的実証を含む。",
+    "title": "OpenAIがChatGPT Workをリリースし、ブラウザ「Atlas」を閉鎖、製品提供を簡素化",
+    "summary": "同社はAIツールを統一したが、ChatGPT、Atlas、Codexの間で生じた混乱に対して批判を受けている。",
+    "source": [
+      "the-decoder.com",
+      "alternativeto.net",
+      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "SKハイニックス、米国最大の外国人IPOで265億ドルを調達し、メモリー不足は2030年まで続くと予測",
+    "summary": "韓国のHBMチップメーカーがナスダックに上場し、CEOは半導体不足は改善する前に悪化すると警告した。",
+    "source": [
+      "tomshardware.com",
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "MetaがInstagramの公開写真からAI画像を生成する機能を撤回",
+    "summary": "ユーザーの投稿を明示的な同意なしにAIモデルのトレーニングに使用していたこのツールは、論争の後に削除された。",
+    "source": [
+      "techcrunch.com",
+      "/r/technology",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAIがGPT-5.6を発表、Sol、Terra、Lunaのモデルを搭載し、Solが数学的予想を証明",
+    "summary": "新しいAIシステムは5段階の推論を導入し、より小さなモデルが主要モデルによって自律的にトレーニングされることを実現した。",
     "source": [
       "alternativeto.net",
       "the-decoder.com",
@@ -22,72 +55,44 @@
     "count": 3
   },
   {
-    "title": "OpenAI、8ヶ月でブラウザAtlasを閉鎖し全ツールをChatGPTに統合",
-    "summary": "同社はブラウザを統合しChatGPTに新しい作業ツールを投入することで製品戦略を簡素化する。",
+    "title": "OpenAIのセキュリティ責任者が退社",
+    "summary": "経営陣の離脱は、AI開発における再編とセキュリティへの注目が高まる中で発生した。",
     "source": [
-      "alternativeto.net",
-      "xataka.com",
-      "the-decoder.com"
+      "/r/technology",
+      "wired.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "SKハイニックス、対米外国企業として過去最大の265億ドルを調達",
-    "summary": "韓国のメモリーメーカーは、この資金でHBM製造を拡大し、米国に新工場を建設する計画。",
+    "title": "Steamの売上高、2026年上半期に110億ドルに達する",
+    "summary": "中国のゲーマーとレトロなカタログに牽引された成長により、Valveのプラットフォームは競合他社に対して強化された。",
     "source": [
-      "techcrunch.com",
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Micron、AI需要に対応するため米国への投資を2500億ドルに増額",
-    "summary": "同社は、メモリーチップ生産を促進するため、国内唯一の300mmウェーハ工場の株式を取得する。",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Core Ultra 5 245K、Amazonで179ドルに値下げ：過去最安値を記録",
-    "summary": "14コアとPCIe 5.0対応を備えたミッドレンジプロセッサが、通常価格から最大42%オフで提供されている。",
+    "title": "マイクロソフトの排出量がAIデータセンターの増加により25%増加",
+    "summary": "この増加は2030年の持続可能性目標を脅かすが、同社は新しい戦略で引き続き達成可能だと主張している。",
     "source": [
       "tomshardware.com",
-      "videocardz.com"
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIA、RTX 5080とRTX 5090の中間バージョン「GeForce RTX 5090 SE」を準備",
-    "summary": "業界レポートによると、このグラフィックカードは2つのハイエンドの間のセグメントに位置づけられる。",
+    "title": "ニューヨーク州が「クリックしてキャンセル」法を可決、欺瞞的なサブスクリプションと隠れた料金を禁止",
+    "summary": "この規制は、企業に契約と同じくらい簡単に解約を提供することを義務付けており、消費者保護の画期的な出来事である。",
     "source": [
-      "hardzone.es",
-      "/r/hardware"
+      "news.ycombinator.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "オリジナルGame BoyとGame Boy ColorでMinecraftを3Dテクスチャで実行することに成功",
-    "summary": "ある開発者が、極度の圧縮と最適化技術により、約30年前のハードウェアでゲームをレンダリングすることに成功した。",
-    "source": [
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "フロリダの身代金交渉人、ランサムウェアBlackCatへの関与で70ヶ月の禁固刑",
-    "summary": "被告は被害者とランサムウェアグループとの間の交渉を促進し、恐喝罪で判決を受けた。",
-    "source": [
-      "techcrunch.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tencent、中国政府の介入後、MetaからManusの過半数買収を交渉",
-    "summary": "Manusプラットフォームは、中国のテクノロジー大手がソーシャルネットワークの買収を目指す中、独立性の維持を期待している。",
+    "title": "テンセント、中国政府の介入を受けてMetaからManusの買収を交渉",
+    "summary": "中国企業は、北京がMetaに投資を放棄させた後、AIスタートアップの過半数を取得しようとしている。",
     "source": [
       "the-decoder.com",
       "tomshardware.com"
@@ -95,84 +100,88 @@
     "count": 2
   },
   {
-    "title": "Grok 4.5とMuse Spark 1.1、大幅に低い価格で高いパフォーマンスを提供",
-    "summary": "Muse Spark 1.1はコンテキストを100万トークンに拡大し、エージェントタスクのオーケストレーションとコード生成を改善。",
+    "title": "EU、MetaにFacebookとInstagramの再設計を要求、依存性のあるデザインに罰金を科すと脅迫",
+    "summary": "欧州当局は、プラットフォームのアルゴリズムがユーザーの脆弱性を悪用しているとみなし、大幅な変更を命じている。",
     "source": [
-      "xataka.com",
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国、再利用可能ロケットで前進し、長征10Bブースターを海上ネットで回収",
+    "summary": "海上回収の成功により、中国は打ち上げ機の再利用においてSpaceXの直接の競合相手として位置づけられる。",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Flock監視カメラが自動車評論家を誤認し、警察が拘束",
+    "summary": "ナンバープレート認識のエラーにより、ジャーナリストは駐車場で警察に取り囲まれ、1時間拘束された。",
+    "source": [
+      "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "FCC、太陽光を地球に反射する巨大な鏡衛星の実験を承認",
+    "summary": "天文学者からの苦情にもかかわらず承認されたこの実験は、軌道上の反射鏡を使って夜間に暗いエリアを照らすことを目的としている。",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "MetaがオープンソースのMuse Spark 1.1をリリース、プログラミングでGLM-5.2を上回る",
+    "summary": "このモデルは100万トークンのコンテキストを提供し、計算コストを削減して自律タスクのオーケストレーションを改善する。",
+    "source": [
+      "the-decoder.com",
       "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "EU、InstagramとFacebookの依存性を誘う設計でMetaに最大120億ドルの罰金を警告",
-    "summary": "ブリュッセルは、プラットフォームが設計上依存性があるとみなし、デジタル規制の遵守に変更を要求している。",
+    "title": "ユーザーがデジタルデトックスを求めてスマートフォンからシンプルな電話や固定電話に移行",
+    "summary": "「ダムフォン」ムーブメントは、ソーシャルメディアによる疲労と絶え間ない過剰刺激への対応として支持を集めている。",
     "source": [
-      "techcrunch.com",
-      "xataka.com"
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAIのセキュリティ責任者、退任",
-    "summary": "最高セキュリティ責任者が、人工知能開発の重要な時期に会社を去る。",
+    "title": "政府部門DOGEが正式に業務を停止",
+    "summary": "行政の近代化のために設立された団体は、公式筋によると活動を停止した。",
     "source": [
-      "wired.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Hugging Face CEO、企業がAIをレンタルしなくなった理由を説明",
-    "summary": "最高経営責任者によると、企業は外部サービスに依存するのではなく、自社のAIソリューションを選択している。",
+    "title": "欧州議会がChat Control 1.0を可決、批判派は公開討論なしと主張",
+    "summary": "通信監視規制は迅速な手続きで採択され、プライバシー擁護者の間で反発を引き起こした。",
     "source": [
-      "techcrunch.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Oatomic、20,000量子ビットの実用的な量子コンピュータ構築のため3億ドルを調達",
-    "summary": "このスタートアップは、限られた量子ビット数で実用的な問題を解決できる量子コンピュータの開発を計画している。",
+    "title": "OpenAI、財務分析によると2027年半ばに現金が枯渇する可能性",
+    "summary": "高いインフラコストと持続可能な収入の欠如により、同社の短期的な存続可能性が危険にさらされている。",
     "source": [
-      "techcrunch.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "中国、イーロン・マスクの再利用可能ロケットに接近、報告書",
-    "summary": "中国は再利用可能ロケット技術の開発を進めており、SpaceXと直接競合している。",
+    "title": "SpaceX、帯域幅を100倍にするためにさらに10万機のStarlink衛星の打ち上げを申請",
+    "summary": "衛星コンステレーションの大規模な拡張提案は、光害と軌道上の安全性への懸念を引き起こしている。",
     "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AMD、Zen 6が2週間以内にリリースされることを確認、まずはEPYC Veniceから",
-    "summary": "サーバー向けCPUの新アーキテクチャはまずEPYCプラットフォームに搭載され、コンシューマー向けは後日となる。",
-    "source": [
-      "/r/hardware"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Asha Sharma、Xboxの従業員3,200人を解雇し、米国で雇用・生産性アドバイザーに任命",
-    "summary": "幹部はマイクロソフトのゲーム部門で多数の人員削減を行い、その後政府顧問に任命された。",
-    "source": [
-      "hardzone.es"
-    ],
-    "count": 1
-  },
-  {
-    "title": "欧州議会、裁判所の令状なしにユーザーデータをスキャンできるChat Control 1.0を承認",
-    "summary": "物議を醸すこの規制は、企業が裁判所の令状なしにプライベート通信をスキャンすることを認め、欧州議会を通過した。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Anthropic、Claudeの「思考」を読み取れると主張、新たな研究論文で",
-    "summary": "この研究は、言語モデルが推論プロセスを解釈できるグローバルなワークスペースを持っていることを明らかにしている。",
-    "source": [
-      "tomshardware.com"
+      "news.ycombinator.com"
     ],
     "count": 1
   }

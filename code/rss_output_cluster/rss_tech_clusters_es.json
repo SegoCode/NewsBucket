@@ -1,19 +1,52 @@
 [
   {
-    "title": "Apple demanda a OpenAI por presunto robo de secretos comerciales con ayuda de empleados captados",
-    "summary": "Apple acusa a OpenAI de orquestar una campaña para que exempleados se llevaran información confidencial de hardware.",
+    "title": "Apple demanda a OpenAI por robo de secretos comerciales y reclutamiento ilegal de empleados",
+    "summary": "La demanda acusa a OpenAI de orquestar una campaña para que exempleados de Apple se llevaran información confidencial sobre hardware.",
     "source": [
       "the-decoder.com",
+      "kite.kagi.com",
       "tomshardware.com",
       "techcrunch.com",
       "news.ycombinator.com",
-      "wired.com"
+      "wired.com",
+      "/r/technology"
     ],
-    "count": 5
+    "count": 7
   },
   {
-    "title": "OpenAI lanza GPT-5.6 con los modelos Sol, Terra y Luna y demuestra capacidades avanzadas de razonamiento",
-    "summary": "La nueva versión incluye cinco niveles de razonamiento, post-entrenamiento autónomo y una demostración matemática de una conjetura.",
+    "title": "OpenAI lanza ChatGPT Work y cierra el navegador Atlas para simplificar su oferta de productos",
+    "summary": "La empresa unifica sus herramientas de inteligencia artificial, pero recibe críticas por la confusión generada entre ChatGPT, Atlas y Codex.",
+    "source": [
+      "the-decoder.com",
+      "alternativeto.net",
+      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "SK Hynix obtiene 26.500 millones de dólares en la mayor OPV extranjera de EE.UU. y predice escasez de memoria hasta 2030",
+    "summary": "El fabricante surcoreano de chips HBM debutó en Nasdaq y su CEO advirtió que la escasez de semiconductores empeorará antes de mejorar.",
+    "source": [
+      "tomshardware.com",
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Meta retira la función de Instagram que generaba imágenes con IA a partir de fotos públicas",
+    "summary": "La herramienta, que utilizaba publicaciones de usuarios para entrenar modelos de IA sin consentimiento explícito, fue eliminada tras la controversia.",
+    "source": [
+      "techcrunch.com",
+      "/r/technology",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI presenta GPT-5.6 con los modelos Sol, Terra y Luna, y Sol demuestra una conjetura matemática",
+    "summary": "El nuevo sistema de IA introduce cinco niveles de razonamiento y logra que un modelo más pequeño sea entrenado de forma autónoma por el modelo principal.",
     "source": [
       "alternativeto.net",
       "the-decoder.com",
@@ -22,72 +55,44 @@
     "count": 3
   },
   {
-    "title": "OpenAI cierra su navegador Atlas tras ocho meses y unifica todas sus herramientas en ChatGPT",
-    "summary": "La empresa simplifica su estrategia de productos al integrar el navegador y lanzar una nueva herramienta de trabajo en ChatGPT.",
+    "title": "El responsable de seguridad de OpenAI deja la empresa",
+    "summary": "La salida del directivo se produce en un contexto de reestructuración y mayor atención a la seguridad en el desarrollo de inteligencia artificial.",
     "source": [
-      "alternativeto.net",
-      "xataka.com",
-      "the-decoder.com"
+      "/r/technology",
+      "wired.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "SK Hynix capta 26.500 millones de dólares en la mayor salida a bolsa extranjera en EE.UU.",
-    "summary": "La empresa surcoreana de memoria planea expandir la fabricación de HBM y construir nuevas fábricas en Estados Unidos con los fondos.",
+    "title": "Las ventas de Steam alcanzan los 11.000 millones de dólares en la primera mitad de 2026",
+    "summary": "El crecimiento impulsado por jugadores chinos y el catálogo retro consolida la plataforma de Valve frente a sus competidores.",
     "source": [
-      "techcrunch.com",
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Micron aumenta su inversión en EE.UU. a 250.000 millones de dólares para satisfacer la demanda de IA",
-    "summary": "La compañía toma una participación en la única planta de obleas de 300 mm del país para impulsar la producción de chips de memoria.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El Intel Core Ultra 5 245K alcanza su precio mínimo histórico al bajar a 179 dólares en Amazon",
-    "summary": "El procesador de gama media con 14 núcleos y soporte PCIe 5.0 se ofrece con un descuento de hasta el 42% respecto a su precio habitual.",
+    "title": "Las emisiones de Microsoft aumentan un 25% por el auge de centros de datos para IA",
+    "summary": "El incremento pone en jaque el objetivo de sostenibilidad para 2030, aunque la empresa asegura que sigue siendo factible con nuevas estrategias.",
     "source": [
       "tomshardware.com",
-      "videocardz.com"
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIA prepara la GeForce RTX 5090 SE como una versión intermedia entre la RTX 5080 y la RTX 5090",
-    "summary": "La tarjeta gráfica se ubicaría en un segmento entre las dos gamas altas, según informes de la industria.",
+    "title": "Nueva York aprueba la ley 'Click para Cancelar' para prohibir suscripciones engañosas y cargos ocultos",
+    "summary": "La normativa obliga a las empresas a ofrecer la cancelación con la misma facilidad que la contratación, en un hito de protección al consumidor.",
     "source": [
-      "hardzone.es",
-      "/r/hardware"
+      "news.ycombinator.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Logran ejecutar Minecraft en 3D con texturas en una Game Boy original y Game Boy Color",
-    "summary": "Un desarrollador consigue renderizar el juego en hardware de hace casi 30 años mediante técnicas de compresión y optimización extremas.",
-    "source": [
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Negociador de rescates de Florida condenado a 70 meses de prisión por ayudar al ransomware BlackCat",
-    "summary": "El acusado facilitó las negociaciones entre víctimas y el grupo de ransomware, siendo sentenciado por extorsión.",
-    "source": [
-      "techcrunch.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tencent negocia comprar la mayoría de Manus a Meta tras la intervención del gobierno chino",
-    "summary": "La plataforma Manus espera mantener su independencia mientras el gigante tecnológico chino busca adquirir la red social.",
+    "title": "Tencent negocia la compra de Manus a Meta tras la intervención del gobierno chino",
+    "summary": "La empresa china pretende adquirir la mayoría de la startup de inteligencia artificial después de que Pekín forzara a Meta a deshacer su inversión.",
     "source": [
       "the-decoder.com",
       "tomshardware.com"
@@ -95,84 +100,88 @@
     "count": 2
   },
   {
-    "title": "Los modelos Grok 4.5 y Muse Spark 1.1 ofrecen mayor rendimiento a un precio significativamente menor",
-    "summary": "Muse Spark 1.1 amplía su contexto a 1 millón de tokens y mejora la orquestación de tareas agénticas y la generación de código.",
+    "title": "La UE exige a Meta rediseñar Facebook e Instagram y amenaza con multas por diseño adictivo",
+    "summary": "Las autoridades europeas consideran que los algoritmos de las plataformas explotan la vulnerabilidad de los usuarios y ordenan cambios sustanciales.",
     "source": [
-      "xataka.com",
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "China avanza en cohetes reutilizables y recupera el propulsor Long March 10B con una red en el mar",
+    "summary": "El éxito de la recuperación marina posiciona a China como competidor directo de SpaceX en la reutilización de lanzadores.",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cámaras de vigilancia Flock identifican erróneamente a un crítico de coches y la policía lo detiene",
+    "summary": "Un error en el reconocimiento de matrículas provocó que el periodista fuera rodeado por la policía en un estacionamiento y retenido durante una hora.",
+    "source": [
+      "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La FCC autoriza la prueba de un satélite espejo gigante para reflejar la luz solar hacia la Tierra",
+    "summary": "El experimento, aprobado pese a las quejas de astrónomos, busca iluminar zonas oscuras durante la noche mediante un reflector orbital.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta lanza Muse Spark 1.1, un modelo de código abierto que supera a GLM-5.2 en programación",
+    "summary": "El modelo ofrece 1 millón de tokens de contexto y mejora la orquestación de tareas autónomas con un coste computacional reducido.",
+    "source": [
+      "the-decoder.com",
       "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "La UE amenaza a Meta con multas de hasta 12.000 millones por el diseño adictivo de Instagram y Facebook",
-    "summary": "Bruselas considera que las plataformas son adictivas por diseño y exige cambios en el cumplimiento de la normativa digital.",
+    "title": "Usuarios abandonan los smartphones por teléfonos simples y líneas fijas en busca de desconexión digital",
+    "summary": "El movimiento 'dumb phone' gana adeptos como respuesta al agotamiento por las redes sociales y la sobreestimulación constante.",
     "source": [
-      "techcrunch.com",
-      "xataka.com"
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "La jefa de seguridad de OpenAI abandona la empresa",
-    "summary": "La directora de seguridad deja la compañía en un momento clave para el desarrollo de la inteligencia artificial.",
+    "title": "El departamento gubernamental DOGE cierra sus operaciones oficialmente",
+    "summary": "La entidad creada para modernizar la administración pública cesa sus actividades, según fuentes oficiales.",
     "source": [
-      "wired.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "El CEO de Hugging Face explica por qué las empresas ya no alquilan su IA",
-    "summary": "Las compañías están optando por soluciones de IA propias en lugar de depender de servicios externos, según el ejecutivo.",
+    "title": "El Parlamento Europeo aprueba el Chat Control 1.0 sin debate público, según críticos",
+    "summary": "La normativa de vigilancia de comunicaciones fue adoptada por un procedimiento acelerado, generando rechazo entre defensores de la privacidad.",
     "source": [
-      "techcrunch.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Oatomic recauda 300 millones de dólares para construir un ordenador cuántico viable con 20.000 qubits",
-    "summary": "La startup planea desarrollar un ordenador cuántico que pueda resolver problemas prácticos con un número limitado de qubits.",
+    "title": "OpenAI podría agotar su efectivo a mediados de 2027, según un análisis financiero",
+    "summary": "Los altos costes de infraestructura y la falta de ingresos sostenibles ponen en riesgo la viabilidad de la compañía a corto plazo.",
     "source": [
-      "techcrunch.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "China se acerca a los cohetes reutilizables de Elon Musk, según un informe",
-    "summary": "El país avanza en el desarrollo de tecnología de cohetes reutilizables, compitiendo directamente con SpaceX.",
+    "title": "SpaceX solicita lanzar 100.000 satélites Starlink más para multiplicar el ancho de banda por 100",
+    "summary": "La propuesta de expansión masiva de la constelación genera preocupación por la contaminación lumínica y la seguridad en órbita.",
     "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AMD confirma que Zen 6 se lanza en menos de dos semanas, comenzando con EPYC Venice",
-    "summary": "La nueva arquitectura de CPU para servidores llegará primero a la plataforma EPYC, con versiones para consumidores posteriores.",
-    "source": [
-      "/r/hardware"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Asha Sharma despide a 3.200 empleados de Xbox y la nombran asesora de empleo y productividad en EE.UU.",
-    "summary": "La ejecutiva recortó una gran cantidad de puestos de trabajo en la división de videojuegos de Microsoft y luego fue nombrada asesora gubernamental.",
-    "source": [
-      "hardzone.es"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El Parlamento Europeo aprueba el Chat Control 1.0 que permite escanear datos de usuarios sin orden judicial",
-    "summary": "La controvertida normativa se cuela en el Parlamento Europeo permitiendo a las empresas escanear comunicaciones privadas sin mandato judicial.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Anthropic afirma que puede leer los 'pensamientos' de Claude según un nuevo artículo de investigación",
-    "summary": "El estudio revela que los modelos de lenguaje disponen de un espacio de trabajo global que permite interpretar su proceso de razonamiento.",
-    "source": [
-      "tomshardware.com"
+      "news.ycombinator.com"
     ],
     "count": 1
   }

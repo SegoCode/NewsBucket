@@ -1,20 +1,29 @@
 [
   {
-    "title": "SK Hynix debuts on Wall Street with a 13% rise in the largest foreign IPO in the US",
-    "summary": "The South Korean semiconductor company raises $26.5 billion and reaches a market cap of $1.2 trillion.",
+    "title": "South Korean manufacturer SK Hynix debuts on Nasdaq with a rise of up to 16%",
+    "summary": "The world's largest memory chip maker began trading on Wall Street with a strong revaluation, marking the biggest foreign debut on the US stock exchange.",
     "source": [
-      "nasdaq.com",
-      "nikkei.com",
       "bolsamania.com",
       "ft.com",
       "expansion.com",
-      "/r/stocks"
+      "handelsblatt.com"
     ],
-    "count": 6
+    "count": 4
   },
   {
-    "title": "Apollo buys easyJet for £5.7 billion after outbidding Castlelake",
-    "summary": "The low-cost airline accepts the improved offer from private equity firm Apollo.",
+    "title": "US and Iran show willingness to resume negotiations as tensions rise in the Middle East",
+    "summary": "Despite threats, both sides hint at possible dialogues, while oil surpasses $76 and markets react to the crisis.",
+    "source": [
+      "investing.com",
+      "nikkei.com",
+      "bolsamania.com",
+      "/r/stocks"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Apollo Global acquires easyJet for £5.7 billion, surpassing Castlelake's offer",
+    "summary": "The US investment fund takes over the British low-cost airline after improving its proposal, in a deal valued at 1.2 trillion yen.",
     "source": [
       "nikkei.com",
       "ft.com",
@@ -23,27 +32,37 @@
     "count": 3
   },
   {
-    "title": "Meta launches its own AI chip and value surges 22% on lower infrastructure costs",
-    "summary": "Zuckerberg's company begins production of its in-house chip, and investors celebrate cost reduction.",
+    "title": "Wall Street reassesses investments in artificial intelligence amid mixed market signals",
+    "summary": "Analysts debate the real impact of AI on corporate earnings and the chip sector, as investors adjust their expectations.",
     "source": [
-      "nasdaq.com",
+      "finance.yahoo.com",
+      "ft.com",
+      "investing.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Meta surges 22% in ten days on expectations of cheaper AI infrastructure",
+    "summary": "Shares of the tech company rise sharply after Zuckerberg's statements on AI costs and analyst support.",
+    "source": [
+      "finance.yahoo.com",
       "/r/stocks",
       "bolsamania.com"
     ],
     "count": 3
   },
   {
-    "title": "Apple sues OpenAI for theft of trade secrets",
-    "summary": "The tech company accuses OpenAI of hiring a former executive who stole confidential documents.",
+    "title": "Meta removes its AI image feature on Instagram after privacy criticism",
+    "summary": "The company deactivates the unauthorized image synthesis tool after a wave of complaints and failures in detecting generated content.",
     "source": [
       "nikkei.com",
-      "/r/stocks"
+      "investing.com"
     ],
     "count": 2
   },
   {
-    "title": "Shein gets green light from China for its long-awaited IPO",
-    "summary": "The textile giant overcomes regulatory veto and will be able to list on the stock market.",
+    "title": "Shein gets China's approval for its long-awaited stock market debut",
+    "summary": "The Chinese fast-fashion giant gets the green light from Beijing to start its initial public offering, paving the way for its listing.",
     "source": [
       "expansion.com",
       "ft.com"
@@ -51,17 +70,80 @@
     "count": 2
   },
   {
-    "title": "Tensions with Iran drive up oil and shake global markets",
-    "summary": "Brent surpasses $76 as the US resumes negotiations but warns the ceasefire is over.",
+    "title": "Wall Street closes higher, driven by SK Hynix's debut and tech rebound",
+    "summary": "US indices rose slightly in a session marked by the chipmaker's debut and gains from Meta and Sandisk.",
     "source": [
       "bolsamania.com",
-      "/r/stocks"
+      "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "Ibex 35 falls 2.3% weekly, weighed down by situation in the Middle East",
-    "summary": "The Spanish index cuts losses at the end of the week but accumulates a weekly drop of 2.3%.",
+    "title": "Fed resists Trump's pressure to cut interest rates, says Christopher Waller",
+    "summary": "The Federal Reserve governor stated he will not give in to political demands to reduce rates, in a message of central bank independence.",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Analysts debate whether to buy ServiceNow shares before July 22",
+    "summary": "The question of the right time to invest in the enterprise software company is gaining attention among investors.",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A stock with a history of growing dividends goes unnoticed, and experts recommend buying it",
+    "summary": "A share belonging to the select group of 'Dividend Kings' is considered undervalued and with great potential for appreciation.",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Zoom CEO sells shares worth $5.1 million: a warning sign for investors?",
+    "summary": "The sale of shares by the CEO raises doubts about confidence in the company's future.",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Broadcom offers reasons to keep buying its shares, according to analysts",
+    "summary": "The semiconductor company presents solid arguments for investors, including a potential return of $30 billion.",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "JPMorgan's artificial intelligence agents outperform the classic 60/40 portfolio",
+    "summary": "The US bank shows that its AI algorithms achieve better returns than the traditional investment strategy.",
+    "source": [
+      "expansion.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX progresses toward its stock market debut and attracts UK retail investors",
+    "summary": "Elon Musk's space company prepares its stock market listing, generating expectations among international investors.",
+    "source": [
+      "nasdaq.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Ibex 35 falls 2.3% in a week marked by tensions in the Middle East",
+    "summary": "The Spanish index partially cut losses thanks to the performance of some stocks, but geopolitical uncertainty weighed on the market.",
     "source": [
       "expansion.com",
       "bolsamania.com"
@@ -69,107 +151,39 @@
     "count": 2
   },
   {
-    "title": "Micron to invest $250 billion in developing memory chips for AI",
-    "summary": "CEO Sanjay Mehrotra announces the company's largest expansion plan to meet AI demand.",
+    "title": "Wall Street closes positive as corporate earnings season begins",
+    "summary": "Major US indices ended higher as investors focus on companies' quarterly figures.",
     "source": [
+      "investing.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Palo Alto Networks and CrowdStrike lead declines in the cybersecurity sector on Wall Street",
+    "summary": "Shares of cybersecurity companies fall in a day of general weakness in the tech sector.",
+    "source": [
+      "nasdaq.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Micron captures attention: from Trump's portfolio to analyst recommendations",
+    "summary": "The chip company makes news due to President Trump's shareholding and comparisons with other manufacturers in the sector.",
+    "source": [
+      "finance.yahoo.com",
       "nasdaq.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "SpaceX receives highest Wall Street price target",
-    "summary": "An analysis suggests a $10,000 investment could multiply if the forecast is met.",
+    "title": "NVIDIA rises on Wall Street and baffles analysts with its stock market behavior",
+    "summary": "The graphics chip maker posts gains in a positive session while Jim Cramer is puzzled by the performance of its shares.",
     "source": [
-      "nasdaq.com"
+      "finance.yahoo.com",
+      "bolsamania.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "Shohei Ohtani misses All-Star Game due to left knee inflammation",
-    "summary": "The Japanese star apologizes to fans as he recovers from the injury.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Ryanair plane loses window in flight with passenger partially ejected",
-    "summary": "In an incident in Greece, a Boeing window detaches and a passenger is injured.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Rocket Lab reveals new technology that will change the space game",
-    "summary": "The aerospace company presents a significant advance in its launch systems.",
-    "source": [
-      "nasdaq.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "IEA warns that slow electrification in Europe is a 'grave mistake'",
-    "summary": "The head of the International Energy Agency urges acceleration of the energy transition.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "New York bans companies from using subscription traps",
-    "summary": "Companies must obtain explicit consent before automatically renewing contracts.",
-    "source": [
-      "investing.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SEC requires activist investors to disclose their clients in filings",
-    "summary": "The securities commission tightens transparency in shareholder activism campaigns.",
-    "source": [
-      "investing.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Ukraine attacks Russian shadow fleet with drones",
-    "summary": "Attacks hit 40% of vessels transporting Russian oil evading sanctions.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Yen strengthens to 161.7 per dollar after comments from Minister Katayama",
-    "summary": "The Japanese currency appreciates on the possibility of currency intervention.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Judge flags 'red flags' in Elon Musk's deal with SEC",
-    "summary": "The court expresses concerns about the agreement reached between the regulator and the businessman.",
-    "source": [
-      "finance.yahoo.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Vodafone rises 12% in stock market after Xavier Niel's entry",
-    "summary": "The French billionaire acquires a significant stake in the British operator.",
-    "source": [
-      "expansion.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Bayer sells its contraceptive business to Apollo for €3 billion",
-    "summary": "The German pharmaceutical company cedes its women's health division to the private equity firm.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]
