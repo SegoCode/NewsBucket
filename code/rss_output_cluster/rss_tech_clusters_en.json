@@ -1,74 +1,39 @@
 [
   {
-    "title": "Apple sues OpenAI for alleged theft of hardware trade secrets",
-    "summary": "The Cupertino company accuses OpenAI of hiring former employees who stole confidential information about chips and hardware.",
+    "title": "Apple sues OpenAI for alleged theft of trade secrets with help of recruited employees",
+    "summary": "Apple accuses OpenAI of orchestrating a campaign for former employees to take confidential hardware information.",
     "source": [
+      "the-decoder.com",
       "tomshardware.com",
       "techcrunch.com",
       "news.ycombinator.com",
-      "wired.com",
-      "/r/technology"
+      "wired.com"
     ],
     "count": 5
   },
   {
-    "title": "EU threatens Meta with multi-million fines for addictive features on Instagram and Facebook",
-    "summary": "Brussels demands Meta disable autoplay and infinite scroll or face sanctions of up to $12 billion.",
+    "title": "OpenAI launches GPT-5.6 with Sol, Terra and Luna models and demonstrates advanced reasoning capabilities",
+    "summary": "The new version includes five reasoning levels, autonomous post-training and a mathematical demonstration of a conjecture.",
     "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "xataka.com"
+      "alternativeto.net",
+      "the-decoder.com",
+      "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "OpenAI's head of security leaves the company",
-    "summary": "The departure of the executive in charge of security comes amid regulatory and trust challenges.",
+    "title": "OpenAI closes its Atlas browser after eight months and unifies all its tools in ChatGPT",
+    "summary": "The company simplifies its product strategy by integrating the browser and launching a new work tool in ChatGPT.",
     "source": [
-      "/r/technology",
-      "wired.com"
+      "alternativeto.net",
+      "xataka.com",
+      "the-decoder.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Meta removes AI feature that generated images from public Instagram photos",
-    "summary": "The decision comes after criticism over the unauthorized use of user images to train models.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "New York bans deceptive subscription practices and hidden fees",
-    "summary": "The city becomes the first in the US to prevent companies from making it difficult to cancel recurring subscriptions.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI introduces GPT-5.6 Sol, an AI model capable of self-training others and proving theorems",
-    "summary": "The system, with five levels of reasoning, can post-train smaller models and has solved the double cycle cover conjecture.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tencent negotiates purchase of Manus from Meta after Chinese government intervention",
-    "summary": "The deal would return independence to Manus after Beijing forced Meta to unwind its $2 billion investment.",
-    "source": [
-      "the-decoder.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SK Hynix makes largest foreign IPO in US history with $26.5 billion",
-    "summary": "The South Korean memory manufacturer plans to use the funds to expand HBM production and build new factories in the country.",
+    "title": "SK Hynix raises $26.5 billion in largest foreign IPO in the US",
+    "summary": "The South Korean memory company plans to expand HBM manufacturing and build new factories in the US with the funds.",
     "source": [
       "techcrunch.com",
       "tomshardware.com"
@@ -76,26 +41,17 @@
     "count": 2
   },
   {
-    "title": "EU approves 'Chat Control' to scan private messages without a warrant",
-    "summary": "The regulation allows companies like Meta and Google to analyze communications for illegal content, drawing criticism for mass surveillance.",
+    "title": "Micron increases its investment in the US to $250 billion to meet AI demand",
+    "summary": "The company takes a stake in the country's only 300 mm wafer plant to boost memory chip production.",
     "source": [
-      "/r/technology",
+      "/r/hardware",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD confirms launch of Zen 6 processors within the next two weeks",
-    "summary": "The first EPYC 'Venice' chips with the new architecture will arrive earlier than expected, according to the company.",
-    "source": [
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Core Ultra 5 245K hits all-time low price of $179",
-    "summary": "The 14-core processor with PCIe 5.0 support is offered at a 42% discount from its original price.",
+    "title": "Intel Core Ultra 5 245K hits all-time low price dropping to $179 on Amazon",
+    "summary": "The mid-range processor with 14 cores and PCIe 5.0 support is offered with a discount of up to 42% off its usual price.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -103,8 +59,17 @@
     "count": 2
   },
   {
-    "title": "They manage to run Minecraft in 3D with textures on an original Game Boy",
-    "summary": "A developer has gotten the game to run on nearly 30-year-old hardware, leveraging its limitations to create a three-dimensional effect.",
+    "title": "NVIDIA prepares GeForce RTX 5090 SE as an intermediate version between the RTX 5080 and RTX 5090",
+    "summary": "The graphics card would be placed in a segment between the two high-end ranges, according to industry reports.",
+    "source": [
+      "hardzone.es",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "They manage to run Minecraft in 3D with textures on an original Game Boy and Game Boy Color",
+    "summary": "A developer manages to render the game on hardware from almost 30 years ago through extreme compression and optimization techniques.",
     "source": [
       "hardzone.es",
       "tomshardware.com"
@@ -112,8 +77,8 @@
     "count": 2
   },
   {
-    "title": "Ransom negotiator who helped the BlackCat gang sentenced to 70 months in prison",
-    "summary": "The defendant, who also pleaded guilty in a case in Florida, facilitated extortions against US companies.",
+    "title": "Florida ransom negotiator sentenced to 70 months in prison for aiding BlackCat ransomware",
+    "summary": "The defendant facilitated negotiations between victims and the ransomware group, being sentenced for extortion.",
     "source": [
       "techcrunch.com",
       "thehackernews.com"
@@ -121,8 +86,17 @@
     "count": 2
   },
   {
-    "title": "Grok 4.5 and Muse Spark 1.1 offer high performance at low cost compared to competition",
-    "summary": "The new AI models from xAI and Muse promise 90% effectiveness at just 20% of the price of their rivals, plus a 1 million token context.",
+    "title": "Tencent negotiates to buy majority of Manus from Meta after Chinese government intervention",
+    "summary": "The Manus platform hopes to maintain its independence while the Chinese tech giant seeks to acquire the social network.",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Grok 4.5 and Muse Spark 1.1 models offer higher performance at a significantly lower price",
+    "summary": "Muse Spark 1.1 extends its context to 1 million tokens and improves orchestration of agentic tasks and code generation.",
     "source": [
       "xataka.com",
       "alternativeto.net"
@@ -130,51 +104,75 @@
     "count": 2
   },
   {
-    "title": "OpenAI shuts down its Atlas browser after eight months and merges it with ChatGPT",
-    "summary": "The company simplifies its product offering by integrating Atlas' capabilities into its main chatbot, eliminating the brand.",
+    "title": "EU threatens Meta with fines of up to 12 billion for addictive design of Instagram and Facebook",
+    "summary": "Brussels considers the platforms addictive by design and demands changes in compliance with digital regulations.",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
+      "techcrunch.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI could run out of funds by mid-2027 according to financial analysis",
-    "summary": "The report indicates that operating expenses exceed revenue and the company will need a new funding round to sustain itself.",
+    "title": "OpenAI's head of security leaves the company",
+    "summary": "The security director leaves the company at a key moment for the development of artificial intelligence.",
     "source": [
-      "/r/technology"
+      "wired.com"
     ],
     "count": 1
   },
   {
-    "title": "SpaceX plans to launch 100,000 Starlink satellites to multiply bandwidth by 100",
-    "summary": "Elon Musk's company seeks to massively expand its constellation to offer global high-speed internet.",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "China accelerates in reusable rockets and closes the gap with SpaceX achievements",
-    "summary": "Chinese advances in reusable launch vehicle technology narrow the gap with Elon Musk's Falcon rockets.",
+    "title": "Hugging Face CEO explains why companies no longer rent their AI",
+    "summary": "Companies are opting for their own AI solutions instead of relying on external services, according to the executive.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Anthropic manages to read the 'thoughts' of its AI Claude in a groundbreaking study",
-    "summary": "Researchers observed a global workspace in the model, revealing for the first time how it internally processes information.",
+    "title": "Oatomic raises $300 million to build a viable quantum computer with 20,000 qubits",
+    "summary": "The startup plans to develop a quantum computer that can solve practical problems with a limited number of qubits.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "China catches up to Elon Musk's reusable rockets, according to a report",
+    "summary": "The country advances in the development of reusable rocket technology, directly competing with SpaceX.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "AMD confirms Zen 6 launches in less than two weeks, starting with EPYC Venice",
+    "summary": "The new server CPU architecture will first arrive on the EPYC platform, with consumer versions later.",
+    "source": [
+      "/r/hardware"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Asha Sharma lays off 3,200 Xbox employees and is appointed employment and productivity advisor in the US",
+    "summary": "The executive cut a large number of jobs in Microsoft's video game division and was later appointed as a government advisor.",
+    "source": [
+      "hardzone.es"
+    ],
+    "count": 1
+  },
+  {
+    "title": "European Parliament approves Chat Control 1.0 allowing scanning of user data without a court order",
+    "summary": "The controversial regulation sneaks into the European Parliament allowing companies to scan private communications without a court order.",
     "source": [
       "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "Disney+ considers launching a free ad-supported tier to compete in the streaming market",
-    "summary": "The platform could follow the freemium model adopted by other companies to attract more users.",
+    "title": "Anthropic claims it can read Claude's 'thoughts' according to a new research paper",
+    "summary": "The study reveals that language models have a global workspace that allows interpreting their reasoning process.",
     "source": [
-      "techcrunch.com"
+      "tomshardware.com"
     ],
     "count": 1
   }

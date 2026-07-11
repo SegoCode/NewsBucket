@@ -1,74 +1,39 @@
 [
   {
-    "title": "AppleがOpenAIをハードウェア営業秘密の窃取で提訴",
-    "summary": "クパチーノの企業は、OpenAIがチップやハードウェアに関する機密情報を持ち出した元従業員を雇用したとして非難している。",
+    "title": "Apple、従業員を介した営業秘密窃取の疑いでOpenAIを提訴",
+    "summary": "Appleは、元従業員がハードウェアの機密情報を持ち出すようOpenAIがキャンペーンを仕組んだと非難している。",
     "source": [
+      "the-decoder.com",
       "tomshardware.com",
       "techcrunch.com",
       "news.ycombinator.com",
-      "wired.com",
-      "/r/technology"
+      "wired.com"
     ],
     "count": 5
   },
   {
-    "title": "EU、InstagramとFacebookの中毒性機能でMetaに巨額制裁金の脅し",
-    "summary": "ブリュッセルはMetaに対し、自動再生と無限スクロールを無効にするよう要求、さもなければ最大120億ドルの制裁に直面する。",
+    "title": "OpenAI、GPT-5.6をリリース：Sol、Terra、Lunaモデルを搭載し高度な推論能力を実証",
+    "summary": "新バージョンは5段階の推論レベル、自律的なポストトレーニング、そしてある予想の数学的実証を含む。",
     "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "xataka.com"
+      "alternativeto.net",
+      "the-decoder.com",
+      "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "OpenAIのセキュリティ責任者が退社",
-    "summary": "安全保障を担当する幹部の退社は、規制上の課題と信頼の問題の中で行われた。",
+    "title": "OpenAI、8ヶ月でブラウザAtlasを閉鎖し全ツールをChatGPTに統合",
+    "summary": "同社はブラウザを統合しChatGPTに新しい作業ツールを投入することで製品戦略を簡素化する。",
     "source": [
-      "/r/technology",
-      "wired.com"
+      "alternativeto.net",
+      "xataka.com",
+      "the-decoder.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Meta、Instagramの公開写真から画像を生成するAI機能を削除",
-    "summary": "この決定は、ユーザーの画像を無断でモデル学習に使用したことへの批判を受けてのもの。",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ニューヨーク、サブスクリプションの欺瞞的行為と隠れた料金を禁止",
-    "summary": "この都市は、企業が定期購読の解約を困難にすることを防ぐ米国初の都市となった。",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI、自己学習可能で定理証明ができるAIモデル「GPT-5.6 Sol」を発表",
-    "summary": "5段階の推論レベルを持つこのシステムは、より小さなモデルを後学習させることができ、二重サイクル被覆予想を解決した。",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tencent、中国政府の介入を受けMetaからManus買収を交渉",
-    "summary": "この合意は、北京がMetaに20億ドルの投資を撤回させた後、Manusに独立を取り戻すことになる。",
-    "source": [
-      "the-decoder.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SKハイニックス、265億ドルで米国史上最大の外国人によるIPOを実施",
-    "summary": "韓国のメモリーメーカーは、資金をHBM生産の拡大と国内での新工場建設に使用する計画。",
+    "title": "SKハイニックス、対米外国企業として過去最大の265億ドルを調達",
+    "summary": "韓国のメモリーメーカーは、この資金でHBM製造を拡大し、米国に新工場を建設する計画。",
     "source": [
       "techcrunch.com",
       "tomshardware.com"
@@ -76,26 +41,17 @@
     "count": 2
   },
   {
-    "title": "EU、令状なしにプライベートメッセージをスキャンする「チャットコントロール」を承認",
-    "summary": "この規制により、MetaやGoogleなどの企業が違法コンテンツを探すために通信を分析することが可能になり、大量監視への批判が起こっている。",
+    "title": "Micron、AI需要に対応するため米国への投資を2500億ドルに増額",
+    "summary": "同社は、メモリーチップ生産を促進するため、国内唯一の300mmウェーハ工場の株式を取得する。",
     "source": [
-      "/r/technology",
+      "/r/hardware",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD、Zen 6プロセッサを今後2週間以内に発売すると確認",
-    "summary": "同社によると、新しいアーキテクチャを採用した最初のEPYC「Venice」チップは予定より早く登場する。",
-    "source": [
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Core Ultra 5 245Kが過去最低価格の179ドルに",
-    "summary": "PCIe 5.0対応の14コアプロセッサが、元の価格から42%引きで提供されている。",
+    "title": "Intel Core Ultra 5 245K、Amazonで179ドルに値下げ：過去最安値を記録",
+    "summary": "14コアとPCIe 5.0対応を備えたミッドレンジプロセッサが、通常価格から最大42%オフで提供されている。",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -103,8 +59,17 @@
     "count": 2
   },
   {
-    "title": "オリジナルGame Boyでテクスチャ付きの3D Minecraftを動作させることに成功",
-    "summary": "開発者が、約30年前のハードウェア上でゲームを動作させ、その制限を利用して3D効果を生み出すことに成功した。",
+    "title": "NVIDIA、RTX 5080とRTX 5090の中間バージョン「GeForce RTX 5090 SE」を準備",
+    "summary": "業界レポートによると、このグラフィックカードは2つのハイエンドの間のセグメントに位置づけられる。",
+    "source": [
+      "hardzone.es",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "オリジナルGame BoyとGame Boy ColorでMinecraftを3Dテクスチャで実行することに成功",
+    "summary": "ある開発者が、極度の圧縮と最適化技術により、約30年前のハードウェアでゲームをレンダリングすることに成功した。",
     "source": [
       "hardzone.es",
       "tomshardware.com"
@@ -112,8 +77,8 @@
     "count": 2
   },
   {
-    "title": "BlackCatグループを支援した身代金交渉人に70ヶ月の懲役刑",
-    "summary": "フロリダの事件でも有罪を認めた被告は、米国企業への恐喝を容易にした。",
+    "title": "フロリダの身代金交渉人、ランサムウェアBlackCatへの関与で70ヶ月の禁固刑",
+    "summary": "被告は被害者とランサムウェアグループとの間の交渉を促進し、恐喝罪で判決を受けた。",
     "source": [
       "techcrunch.com",
       "thehackernews.com"
@@ -121,8 +86,17 @@
     "count": 2
   },
   {
-    "title": "Grok 4.5とMuse Spark 1.1、競合に対して低コストで高性能を提供",
-    "summary": "xAIとMuseの新しいAIモデルは、競合の20%の価格で90%の効果を約束し、さらに100万トークンのコンテキストを備えている。",
+    "title": "Tencent、中国政府の介入後、MetaからManusの過半数買収を交渉",
+    "summary": "Manusプラットフォームは、中国のテクノロジー大手がソーシャルネットワークの買収を目指す中、独立性の維持を期待している。",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Grok 4.5とMuse Spark 1.1、大幅に低い価格で高いパフォーマンスを提供",
+    "summary": "Muse Spark 1.1はコンテキストを100万トークンに拡大し、エージェントタスクのオーケストレーションとコード生成を改善。",
     "source": [
       "xataka.com",
       "alternativeto.net"
@@ -130,51 +104,75 @@
     "count": 2
   },
   {
-    "title": "OpenAI、8ヶ月でブラウザ「Atlas」を閉鎖しChatGPTに統合",
-    "summary": "同社は、Atlasの機能をメインのチャットボットに統合し、ブランドを廃止することで製品提供を簡素化する。",
+    "title": "EU、InstagramとFacebookの依存性を誘う設計でMetaに最大120億ドルの罰金を警告",
+    "summary": "ブリュッセルは、プラットフォームが設計上依存性があるとみなし、デジタル規制の遵守に変更を要求している。",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
+      "techcrunch.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI、財務分析によると2027年半ばに資金不足に陥る可能性",
-    "summary": "報告書は、運営費が収入を上回っており、企業は持続するために新たな資金調達ラウンドが必要になると指摘している。",
+    "title": "OpenAIのセキュリティ責任者、退任",
+    "summary": "最高セキュリティ責任者が、人工知能開発の重要な時期に会社を去る。",
     "source": [
-      "/r/technology"
+      "wired.com"
     ],
     "count": 1
   },
   {
-    "title": "SpaceX、帯域幅を100倍にするため10万基のStarlink衛星打ち上げを計画",
-    "summary": "イーロン・マスクの会社は、高速インターネットをグローバルに提供するために衛星コンステレーションを大幅に拡大しようとしている。",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "中国、再利用可能ロケットで加速しSpaceXの成果に迫る",
-    "summary": "中国の再利用可能ロケット技術の進歩により、イーロン・マスクのファルコンロケットとの差が縮まっている。",
+    "title": "Hugging Face CEO、企業がAIをレンタルしなくなった理由を説明",
+    "summary": "最高経営責任者によると、企業は外部サービスに依存するのではなく、自社のAIソリューションを選択している。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Anthropic、革新的研究でAI Claudeの「思考」を読み取ることに成功",
-    "summary": "研究者らはモデル内のグローバルなワークスペースを観察し、情報を内部でどのように処理するかを初めて明らかにした。",
+    "title": "Oatomic、20,000量子ビットの実用的な量子コンピュータ構築のため3億ドルを調達",
+    "summary": "このスタートアップは、限られた量子ビット数で実用的な問題を解決できる量子コンピュータの開発を計画している。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "中国、イーロン・マスクの再利用可能ロケットに接近、報告書",
+    "summary": "中国は再利用可能ロケット技術の開発を進めており、SpaceXと直接競合している。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "AMD、Zen 6が2週間以内にリリースされることを確認、まずはEPYC Veniceから",
+    "summary": "サーバー向けCPUの新アーキテクチャはまずEPYCプラットフォームに搭載され、コンシューマー向けは後日となる。",
+    "source": [
+      "/r/hardware"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Asha Sharma、Xboxの従業員3,200人を解雇し、米国で雇用・生産性アドバイザーに任命",
+    "summary": "幹部はマイクロソフトのゲーム部門で多数の人員削減を行い、その後政府顧問に任命された。",
+    "source": [
+      "hardzone.es"
+    ],
+    "count": 1
+  },
+  {
+    "title": "欧州議会、裁判所の令状なしにユーザーデータをスキャンできるChat Control 1.0を承認",
+    "summary": "物議を醸すこの規制は、企業が裁判所の令状なしにプライベート通信をスキャンすることを認め、欧州議会を通過した。",
     "source": [
       "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "Disney+、ストリーミング市場で競争するため広告付き無料プランの提供を検討",
-    "summary": "このプラットフォームは、より多くのユーザーを引き付けるために他の企業が採用しているフリーミアムモデルに従う可能性がある。",
+    "title": "Anthropic、Claudeの「思考」を読み取れると主張、新たな研究論文で",
+    "summary": "この研究は、言語モデルが推論プロセスを解釈できるグローバルなワークスペースを持っていることを明らかにしている。",
     "source": [
-      "techcrunch.com"
+      "tomshardware.com"
     ],
     "count": 1
   }
