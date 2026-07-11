@@ -1,42 +1,21 @@
 [
   {
-    "title": "Apple sues OpenAI for trade secret theft and illegal employee recruitment",
-    "summary": "The lawsuit accuses OpenAI of orchestrating a campaign for former Apple employees to take confidential hardware information.",
+    "title": "Apple sues OpenAI for alleged theft of trade secrets and hardware",
+    "summary": "The lawsuit alleges that OpenAI orchestrated a campaign to get former Apple employees to reveal confidential information about chips.",
     "source": [
+      "/r/technology",
       "the-decoder.com",
       "kite.kagi.com",
       "tomshardware.com",
       "techcrunch.com",
       "news.ycombinator.com",
-      "wired.com",
-      "/r/technology"
+      "wired.com"
     ],
     "count": 7
   },
   {
-    "title": "OpenAI launches ChatGPT Work and shuts down Atlas browser to simplify its product offering",
-    "summary": "The company unifies its artificial intelligence tools but faces criticism for the confusion generated among ChatGPT, Atlas, and Codex.",
-    "source": [
-      "the-decoder.com",
-      "alternativeto.net",
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "SK Hynix raises $26.5 billion in the largest foreign IPO in the US and predicts memory shortage until 2030",
-    "summary": "The South Korean HBM chipmaker debuted on Nasdaq and its CEO warned that the semiconductor shortage will worsen before improving.",
-    "source": [
-      "tomshardware.com",
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Meta removes Instagram feature that generated AI images from public photos",
-    "summary": "The tool, which used user posts to train AI models without explicit consent, was removed after controversy.",
+    "title": "Meta removes its AI-generated image tool on Instagram after criticism",
+    "summary": "The feature allowed users to create images from user posts and was removed due to privacy concerns.",
     "source": [
       "techcrunch.com",
       "/r/technology",
@@ -45,27 +24,8 @@
     "count": 3
   },
   {
-    "title": "OpenAI introduces GPT-5.6 with Sol, Terra, and Luna models, and Sol proves a mathematical conjecture",
-    "summary": "The new AI system introduces five levels of reasoning and enables a smaller model to be autonomously trained by the main model.",
-    "source": [
-      "alternativeto.net",
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI's head of security leaves the company",
-    "summary": "The departure of the executive occurs in a context of restructuring and increased attention to safety in the development of artificial intelligence.",
-    "source": [
-      "/r/technology",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steam sales reach $11 billion in the first half of 2026",
-    "summary": "Growth driven by Chinese players and the retro catalog solidifies Valve's platform against its competitors.",
+    "title": "Microsoft loses lawsuit in Brazil for failing to restore hacked Xbox account",
+    "summary": "A Brazilian court ordered Microsoft to return the account with all games and pay $400 in compensation.",
     "source": [
       "/r/technology",
       "tomshardware.com"
@@ -73,53 +33,35 @@
     "count": 2
   },
   {
-    "title": "Microsoft emissions increase 25% due to boom in data centers for AI",
-    "summary": "The increase jeopardizes the 2030 sustainability goal, although the company assures it remains feasible with new strategies.",
+    "title": "SK Hynix warns 2027 will be the worst year for memory shortage, with crisis until 2030",
+    "summary": "The company's CEO forecast a severe contraction in memory chip supply that will last for years.",
     "source": [
-      "tomshardware.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "New York passes 'Click to Cancel' law to prohibit deceptive subscriptions and hidden charges",
-    "summary": "The regulation requires companies to offer cancellation as easily as sign-up, in a milestone for consumer protection.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tencent negotiates purchase of Manus from Meta after Chinese government intervention",
-    "summary": "The Chinese company aims to acquire a majority stake in the artificial intelligence startup after Beijing forced Meta to divest its investment.",
-    "source": [
-      "the-decoder.com",
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "EU demands Meta redesign Facebook and Instagram, threatens fines for addictive design",
-    "summary": "European authorities consider that the platforms' algorithms exploit user vulnerability and order substantial changes.",
+    "title": "AMD Radeon RX 9070 GRE drops below $500",
+    "summary": "The graphics card reduces its price by 9% to compete in the mid-range market just one month after its launch.",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "China advances in reusable rockets and recovers Long March 10B booster with a net at sea",
-    "summary": "The success of the marine recovery positions China as a direct competitor to SpaceX in launch vehicle reusability.",
+    "title": "NVIDIA Blackwell GPU temperature sensor remains accessible via internal diagnostic tools",
+    "summary": "It was detected that the RTX 5070 Ti reaches 107°C and reduces its performance due to poor thermal paste application.",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Flock surveillance cameras mistakenly identify a car critic and police detain him",
-    "summary": "An error in license plate recognition caused the journalist to be surrounded by police in a parking lot and held for an hour.",
+    "title": "Microsoft's emissions increase 25% due to AI data center expansion",
+    "summary": "The company faces challenges in meeting its 2030 sustainability goal while growing its AI infrastructure.",
     "source": [
       "tomshardware.com",
       "/r/technology"
@@ -127,17 +69,8 @@
     "count": 2
   },
   {
-    "title": "FCC authorizes test of giant mirror satellite to reflect sunlight back to Earth",
-    "summary": "The experiment, approved despite complaints from astronomers, aims to illuminate dark areas at night using an orbital reflector.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta launches Muse Spark 1.1, an open-source model that outperforms GLM-5.2 in programming",
-    "summary": "The model offers 1 million tokens of context and improves orchestration of autonomous tasks with reduced computational cost.",
+    "title": "OpenAI launches GPT-5.6 with Sol, Terra, and Luna models for public use",
+    "summary": "The Sol Ultra model solved a 50-year-old math problem in less than an hour and autonomously trained the Luna model.",
     "source": [
       "the-decoder.com",
       "alternativeto.net"
@@ -145,43 +78,99 @@
     "count": 2
   },
   {
-    "title": "Users abandon smartphones for basic phones and landlines in search of digital disconnection",
-    "summary": "The 'dumb phone' movement gains followers as a response to exhaustion from social media and constant overstimulation.",
+    "title": "OpenAI presents ChatGPT Work and announces the closure of the Atlas browser",
+    "summary": "The company acknowledges initial usability and cost issues and is working to resolve them.",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
+      "alternativeto.net",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "The government department DOGE officially shuts down operations",
-    "summary": "The entity created to modernize public administration ceases its activities, according to official sources.",
+    "title": "U.S. Government Efficiency Department (DOGE) officially closes",
+    "summary": "The U.S. government cost-cutting initiative comes to an end after months of operation.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "European Parliament approves Chat Control 1.0 without public debate, critics say",
-    "summary": "The communications surveillance regulation was adopted through an accelerated procedure, generating rejection among privacy advocates.",
+    "title": "European Parliament approves Chat Control 1.0 through the back door",
+    "summary": "The controversial digital communication surveillance measure makes its way into European legislation.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "OpenAI could run out of cash by mid-2027, according to financial analysis",
-    "summary": "High infrastructure costs and lack of sustainable revenues jeopardize the company's viability in the short term.",
+    "title": "Google opposes website blocking in Europe while the US advances anti-piracy measures",
+    "summary": "The company criticizes proposals to block pages for copyright infringement in the European Union.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "SpaceX requests to launch 100,000 more Starlink satellites to multiply bandwidth by 100",
-    "summary": "The proposal for massive expansion of the constellation raises concerns about light pollution and orbital safety.",
+    "title": "Terrorist groups use AI chatbots to plan attacks and develop weapons",
+    "summary": "According to a report, extremist organizations are taking advantage of leading AI assistants for offensive purposes.",
     "source": [
-      "news.ycombinator.com"
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Ransomware negotiator hired to represent victims actually worked for the attackers",
+    "summary": "The man was sentenced to six years in prison for betraying the victims he was supposed to defend.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "US cybersecurity agency CISA admits it had to develop its response plan during an incident",
+    "summary": "The CISA director revealed they lacked a prepared incident manual and developed it on the fly.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Fake DNS scanner on GitHub distributed malware through more than 200 repositories",
+    "summary": "The 'Muck and Load' operation published 700 malicious modules since January, infecting developers.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "John Deere loses total control over tractor repairs and will be under supervision for 10 years",
+    "summary": "The company must allow independent repairs under an agreement that limits its monopoly on maintenance.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Chinese probe arrives at asteroid that baffled astronomers and sends first image",
+    "summary": "China has reached an asteroid considered strange, and the first photos could change current theories.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Race for PS5 emulation on PC begins ahead of GTA 6 release",
+    "summary": "Some 2D games already work on PC via emulation, in anticipation of the next big title.",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Switzerland discovers snow is unexpected ally of solar panels installed at 2,500 meters",
+    "summary": "The reflection of snow increases the energy production of solar panels in high mountains.",
+    "source": [
+      "xataka.com"
     ],
     "count": 1
   }

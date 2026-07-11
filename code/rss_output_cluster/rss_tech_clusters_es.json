@@ -1,42 +1,21 @@
 [
   {
-    "title": "Apple demanda a OpenAI por robo de secretos comerciales y reclutamiento ilegal de empleados",
-    "summary": "La demanda acusa a OpenAI de orquestar una campaña para que exempleados de Apple se llevaran información confidencial sobre hardware.",
+    "title": "Apple demanda a OpenAI por presunto robo de secretos comerciales y de hardware",
+    "summary": "La demanda alega que OpenAI orquestó una campaña para que exempleados de Apple revelaran información confidencial sobre chips.",
     "source": [
+      "/r/technology",
       "the-decoder.com",
       "kite.kagi.com",
       "tomshardware.com",
       "techcrunch.com",
       "news.ycombinator.com",
-      "wired.com",
-      "/r/technology"
+      "wired.com"
     ],
     "count": 7
   },
   {
-    "title": "OpenAI lanza ChatGPT Work y cierra el navegador Atlas para simplificar su oferta de productos",
-    "summary": "La empresa unifica sus herramientas de inteligencia artificial, pero recibe críticas por la confusión generada entre ChatGPT, Atlas y Codex.",
-    "source": [
-      "the-decoder.com",
-      "alternativeto.net",
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "SK Hynix obtiene 26.500 millones de dólares en la mayor OPV extranjera de EE.UU. y predice escasez de memoria hasta 2030",
-    "summary": "El fabricante surcoreano de chips HBM debutó en Nasdaq y su CEO advirtió que la escasez de semiconductores empeorará antes de mejorar.",
-    "source": [
-      "tomshardware.com",
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Meta retira la función de Instagram que generaba imágenes con IA a partir de fotos públicas",
-    "summary": "La herramienta, que utilizaba publicaciones de usuarios para entrenar modelos de IA sin consentimiento explícito, fue eliminada tras la controversia.",
+    "title": "Meta elimina su herramienta de imágenes generadas por IA en Instagram tras las críticas",
+    "summary": "La función permitía crear imágenes a partir de publicaciones de usuarios y fue retirada por preocupaciones de privacidad.",
     "source": [
       "techcrunch.com",
       "/r/technology",
@@ -45,27 +24,8 @@
     "count": 3
   },
   {
-    "title": "OpenAI presenta GPT-5.6 con los modelos Sol, Terra y Luna, y Sol demuestra una conjetura matemática",
-    "summary": "El nuevo sistema de IA introduce cinco niveles de razonamiento y logra que un modelo más pequeño sea entrenado de forma autónoma por el modelo principal.",
-    "source": [
-      "alternativeto.net",
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El responsable de seguridad de OpenAI deja la empresa",
-    "summary": "La salida del directivo se produce en un contexto de reestructuración y mayor atención a la seguridad en el desarrollo de inteligencia artificial.",
-    "source": [
-      "/r/technology",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las ventas de Steam alcanzan los 11.000 millones de dólares en la primera mitad de 2026",
-    "summary": "El crecimiento impulsado por jugadores chinos y el catálogo retro consolida la plataforma de Valve frente a sus competidores.",
+    "title": "Microsoft pierde juicio en Brasil por no restaurar cuenta de Xbox hackeada",
+    "summary": "Un tribunal brasileño ordenó a Microsoft devolver la cuenta con todos los juegos y pagar 400 dólares de indemnización.",
     "source": [
       "/r/technology",
       "tomshardware.com"
@@ -73,53 +33,35 @@
     "count": 2
   },
   {
-    "title": "Las emisiones de Microsoft aumentan un 25% por el auge de centros de datos para IA",
-    "summary": "El incremento pone en jaque el objetivo de sostenibilidad para 2030, aunque la empresa asegura que sigue siendo factible con nuevas estrategias.",
+    "title": "SK Hynix advierte que 2027 será el peor año de escasez de memoria, con crisis hasta 2030",
+    "summary": "El CEO de la compañía pronosticó una grave contracción del suministro de chips de memoria que se prolongará durante años.",
     "source": [
-      "tomshardware.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nueva York aprueba la ley 'Click para Cancelar' para prohibir suscripciones engañosas y cargos ocultos",
-    "summary": "La normativa obliga a las empresas a ofrecer la cancelación con la misma facilidad que la contratación, en un hito de protección al consumidor.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tencent negocia la compra de Manus a Meta tras la intervención del gobierno chino",
-    "summary": "La empresa china pretende adquirir la mayoría de la startup de inteligencia artificial después de que Pekín forzara a Meta a deshacer su inversión.",
-    "source": [
-      "the-decoder.com",
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "La UE exige a Meta rediseñar Facebook e Instagram y amenaza con multas por diseño adictivo",
-    "summary": "Las autoridades europeas consideran que los algoritmos de las plataformas explotan la vulnerabilidad de los usuarios y ordenan cambios sustanciales.",
+    "title": "La AMD Radeon RX 9070 GRE baja su precio por debajo de los 500 dólares",
+    "summary": "La tarjeta gráfica reduce su precio un 9% para competir en el mercado de gama media apenas un mes después de su lanzamiento.",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "China avanza en cohetes reutilizables y recupera el propulsor Long March 10B con una red en el mar",
-    "summary": "El éxito de la recuperación marina posiciona a China como competidor directo de SpaceX en la reutilización de lanzadores.",
+    "title": "El sensor de temperatura de las GPU NVIDIA Blackwell sigue accesible mediante herramientas internas de diagnóstico",
+    "summary": "Se detectó que la RTX 5070 Ti alcanza los 107°C y reduce su rendimiento por una mala aplicación de pasta térmica.",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Cámaras de vigilancia Flock identifican erróneamente a un crítico de coches y la policía lo detiene",
-    "summary": "Un error en el reconocimiento de matrículas provocó que el periodista fuera rodeado por la policía en un estacionamiento y retenido durante una hora.",
+    "title": "Las emisiones de Microsoft aumentan un 25% por la expansión de centros de datos de IA",
+    "summary": "La empresa enfrenta dificultades para cumplir su objetivo de sostenibilidad para 2030 mientras crece su infraestructura de inteligencia artificial.",
     "source": [
       "tomshardware.com",
       "/r/technology"
@@ -127,17 +69,8 @@
     "count": 2
   },
   {
-    "title": "La FCC autoriza la prueba de un satélite espejo gigante para reflejar la luz solar hacia la Tierra",
-    "summary": "El experimento, aprobado pese a las quejas de astrónomos, busca iluminar zonas oscuras durante la noche mediante un reflector orbital.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta lanza Muse Spark 1.1, un modelo de código abierto que supera a GLM-5.2 en programación",
-    "summary": "El modelo ofrece 1 millón de tokens de contexto y mejora la orquestación de tareas autónomas con un coste computacional reducido.",
+    "title": "OpenAI lanza GPT-5.6 con los modelos Sol, Terra y Luna para uso público",
+    "summary": "El modelo Sol Ultra resolvió un problema matemático de 50 años en menos de una hora y entrenó autónomamente al modelo Luna.",
     "source": [
       "the-decoder.com",
       "alternativeto.net"
@@ -145,43 +78,99 @@
     "count": 2
   },
   {
-    "title": "Usuarios abandonan los smartphones por teléfonos simples y líneas fijas en busca de desconexión digital",
-    "summary": "El movimiento 'dumb phone' gana adeptos como respuesta al agotamiento por las redes sociales y la sobreestimulación constante.",
+    "title": "OpenAI presenta ChatGPT Work y anuncia el cierre del navegador Atlas",
+    "summary": "La compañía reconoce problemas iniciales de usabilidad y costes y trabaja para solucionarlos.",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
+      "alternativeto.net",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "El departamento gubernamental DOGE cierra sus operaciones oficialmente",
-    "summary": "La entidad creada para modernizar la administración pública cesa sus actividades, según fuentes oficiales.",
+    "title": "El Departamento de Eficiencia Gubernamental (DOGE) cierra oficialmente",
+    "summary": "La iniciativa de reducción de costos del gobierno estadounidense llega a su fin tras meses de operación.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "El Parlamento Europeo aprueba el Chat Control 1.0 sin debate público, según críticos",
-    "summary": "La normativa de vigilancia de comunicaciones fue adoptada por un procedimiento acelerado, generando rechazo entre defensores de la privacidad.",
+    "title": "El Parlamento Europeo aprueba Chat Control 1.0 por la puerta de atrás",
+    "summary": "La controvertida medida de vigilancia de comunicaciones digitales se abre paso en la legislación europea.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "OpenAI podría agotar su efectivo a mediados de 2027, según un análisis financiero",
-    "summary": "Los altos costes de infraestructura y la falta de ingresos sostenibles ponen en riesgo la viabilidad de la compañía a corto plazo.",
+    "title": "Google se opone al bloqueo de sitios web en Europa mientras EE.UU. avanza en medidas antipiratería",
+    "summary": "La compañía critica las propuestas de bloqueo de páginas por infracción de derechos de autor en la Unión Europea.",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "SpaceX solicita lanzar 100.000 satélites Starlink más para multiplicar el ancho de banda por 100",
-    "summary": "La propuesta de expansión masiva de la constelación genera preocupación por la contaminación lumínica y la seguridad en órbita.",
+    "title": "Grupos terroristas utilizan chatbots de IA para planificar ataques y desarrollar armas",
+    "summary": "Según un informe, organizaciones extremistas están aprovechando los principales asistentes de inteligencia artificial con fines ofensivos.",
     "source": [
-      "news.ycombinator.com"
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Un negociador de ransomware contratado para representar a víctimas en realidad trabajaba para los atacantes",
+    "summary": "El hombre fue condenado a seis años de prisión por traicionar a las víctimas que debía defender.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "La agencia de ciberseguridad de EE.UU. CISA admite que tuvo que elaborar su plan de respuesta durante un incidente",
+    "summary": "El director de CISA reveló que carecían de un manual de incidentes preparado y lo desarrollaron sobre la marcha.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Un escáner DNS falso en GitHub distribuyó malware a través de más de 200 repositorios",
+    "summary": "La operación 'Muck and Load' publicó 700 módulos maliciosos desde enero, infectando a desarrolladores.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "John Deere pierde el control total sobre las reparaciones de sus tractores y estará bajo supervisión 10 años",
+    "summary": "La empresa deberá permitir reparaciones independientes tras un acuerdo que limita su monopolio sobre el mantenimiento.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "La sonda china llega al asteroide que desconcertó a los astrónomos y envía su primera imagen",
+    "summary": "China ha alcanzado un asteroide considerado extraño y las primeras fotos podrían cambiar las teorías actuales.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Comienza la carrera por la emulación de PS5 en PC antes del lanzamiento de GTA 6",
+    "summary": "Algunos juegos en 2D ya funcionan en PC mediante emulación, en anticipación al próximo gran título.",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Suiza descubre que la nieve es aliada inesperada de los paneles solares instalados a 2.500 metros",
+    "summary": "El reflejo de la nieve aumenta la producción de energía de los paneles solares en alta montaña.",
+    "source": [
+      "xataka.com"
     ],
     "count": 1
   }

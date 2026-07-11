@@ -1,42 +1,21 @@
 [
   {
-    "title": "AppleがOpenAIを提訴、営業秘密の窃取と従業員の違法な引き抜きを主張",
-    "summary": "この訴訟は、OpenAIがアップルの元従業員にハードウェアに関する機密情報を持ち出させるためのキャンペーンを組織したと非難している。",
+    "title": "Apple、OpenAIを営業秘密とハードウェアの窃取で提訴",
+    "summary": "訴訟は、OpenAIが元Apple社員にチップの機密情報を漏洩させるキャンペーンを仕組んだと主張している。",
     "source": [
+      "/r/technology",
       "the-decoder.com",
       "kite.kagi.com",
       "tomshardware.com",
       "techcrunch.com",
       "news.ycombinator.com",
-      "wired.com",
-      "/r/technology"
+      "wired.com"
     ],
     "count": 7
   },
   {
-    "title": "OpenAIがChatGPT Workをリリースし、ブラウザ「Atlas」を閉鎖、製品提供を簡素化",
-    "summary": "同社はAIツールを統一したが、ChatGPT、Atlas、Codexの間で生じた混乱に対して批判を受けている。",
-    "source": [
-      "the-decoder.com",
-      "alternativeto.net",
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "SKハイニックス、米国最大の外国人IPOで265億ドルを調達し、メモリー不足は2030年まで続くと予測",
-    "summary": "韓国のHBMチップメーカーがナスダックに上場し、CEOは半導体不足は改善する前に悪化すると警告した。",
-    "source": [
-      "tomshardware.com",
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "MetaがInstagramの公開写真からAI画像を生成する機能を撤回",
-    "summary": "ユーザーの投稿を明示的な同意なしにAIモデルのトレーニングに使用していたこのツールは、論争の後に削除された。",
+    "title": "Meta、批判を受けInstagramのAI画像生成ツールを削除",
+    "summary": "この機能はユーザーの投稿から画像を作成できたが、プライバシー上の懸念から削除された。",
     "source": [
       "techcrunch.com",
       "/r/technology",
@@ -45,27 +24,8 @@
     "count": 3
   },
   {
-    "title": "OpenAIがGPT-5.6を発表、Sol、Terra、Lunaのモデルを搭載し、Solが数学的予想を証明",
-    "summary": "新しいAIシステムは5段階の推論を導入し、より小さなモデルが主要モデルによって自律的にトレーニングされることを実現した。",
-    "source": [
-      "alternativeto.net",
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAIのセキュリティ責任者が退社",
-    "summary": "経営陣の離脱は、AI開発における再編とセキュリティへの注目が高まる中で発生した。",
-    "source": [
-      "/r/technology",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steamの売上高、2026年上半期に110億ドルに達する",
-    "summary": "中国のゲーマーとレトロなカタログに牽引された成長により、Valveのプラットフォームは競合他社に対して強化された。",
+    "title": "Microsoft、ハッキングされたXboxアカウントを復元せずブラジルで敗訴",
+    "summary": "ブラジルの裁判所はMicrosoftに対し、アカウントと全ゲームを返還し、400ドルの損害賠償を支払うよう命じた。",
     "source": [
       "/r/technology",
       "tomshardware.com"
@@ -73,53 +33,35 @@
     "count": 2
   },
   {
-    "title": "マイクロソフトの排出量がAIデータセンターの増加により25%増加",
-    "summary": "この増加は2030年の持続可能性目標を脅かすが、同社は新しい戦略で引き続き達成可能だと主張している。",
+    "title": "SKハイニックス、2027年はメモリ不足の最悪の年に、2030年まで危機が続くと警告",
+    "summary": "同社CEOは、メモリチップの供給が深刻に減少し、それが何年も続くと予測した。",
     "source": [
-      "tomshardware.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ニューヨーク州が「クリックしてキャンセル」法を可決、欺瞞的なサブスクリプションと隠れた料金を禁止",
-    "summary": "この規制は、企業に契約と同じくらい簡単に解約を提供することを義務付けており、消費者保護の画期的な出来事である。",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "テンセント、中国政府の介入を受けてMetaからManusの買収を交渉",
-    "summary": "中国企業は、北京がMetaに投資を放棄させた後、AIスタートアップの過半数を取得しようとしている。",
-    "source": [
-      "the-decoder.com",
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "EU、MetaにFacebookとInstagramの再設計を要求、依存性のあるデザインに罰金を科すと脅迫",
-    "summary": "欧州当局は、プラットフォームのアルゴリズムがユーザーの脆弱性を悪用しているとみなし、大幅な変更を命じている。",
+    "title": "AMD Radeon RX 9070 GRE、500ドルを下回る価格に値下げ",
+    "summary": "このグラフィックカードは、発売からわずか1ヶ月でミッドレンジ市場で競争するために価格を9％引き下げた。",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "中国、再利用可能ロケットで前進し、長征10Bブースターを海上ネットで回収",
-    "summary": "海上回収の成功により、中国は打ち上げ機の再利用においてSpaceXの直接の競合相手として位置づけられる。",
+    "title": "NVIDIA Blackwell GPUの温度センサー、内部診断ツールで引き続きアクセス可能に",
+    "summary": "RTX 5070 Tiが107°Cに達し、サーマルペーストの塗布不良により性能が低下していることが確認された。",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Flock監視カメラが自動車評論家を誤認し、警察が拘束",
-    "summary": "ナンバープレート認識のエラーにより、ジャーナリストは駐車場で警察に取り囲まれ、1時間拘束された。",
+    "title": "AIデータセンター拡大でMicrosoftの排出量が25%増加",
+    "summary": "AIインフラが拡大する中、同社は2030年の持続可能性目標の達成に困難に直面している。",
     "source": [
       "tomshardware.com",
       "/r/technology"
@@ -127,17 +69,8 @@
     "count": 2
   },
   {
-    "title": "FCC、太陽光を地球に反射する巨大な鏡衛星の実験を承認",
-    "summary": "天文学者からの苦情にもかかわらず承認されたこの実験は、軌道上の反射鏡を使って夜間に暗いエリアを照らすことを目的としている。",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "MetaがオープンソースのMuse Spark 1.1をリリース、プログラミングでGLM-5.2を上回る",
-    "summary": "このモデルは100万トークンのコンテキストを提供し、計算コストを削減して自律タスクのオーケストレーションを改善する。",
+    "title": "OpenAI、GPT-5.6を公開、Sol、Terra、Lunaモデルを一般公開",
+    "summary": "Sol Ultraモデルは50年来の数学問題を1時間未満で解決し、Lunaモデルを自律的に訓練した。",
     "source": [
       "the-decoder.com",
       "alternativeto.net"
@@ -145,43 +78,99 @@
     "count": 2
   },
   {
-    "title": "ユーザーがデジタルデトックスを求めてスマートフォンからシンプルな電話や固定電話に移行",
-    "summary": "「ダムフォン」ムーブメントは、ソーシャルメディアによる疲労と絶え間ない過剰刺激への対応として支持を集めている。",
+    "title": "OpenAI、「ChatGPT Work」を発表、ブラウザ「Atlas」の終了を発表",
+    "summary": "同社は初期のユーザビリティとコストの問題を認め、それらを解決するために取り組んでいる。",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
+      "alternativeto.net",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "政府部門DOGEが正式に業務を停止",
-    "summary": "行政の近代化のために設立された団体は、公式筋によると活動を停止した。",
+    "title": "政府効率化部門（DOGE）が正式に閉鎖",
+    "summary": "米政府のコスト削減イニシアチブは、数ヶ月の運用を経て終了した。",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "欧州議会がChat Control 1.0を可決、批判派は公開討論なしと主張",
-    "summary": "通信監視規制は迅速な手続きで採択され、プライバシー擁護者の間で反発を引き起こした。",
+    "title": "欧州議会、Chat Control 1.0を裏口承認",
+    "summary": "物議を醸すデジタル通信監視措置が欧州の法律に盛り込まれる。",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "OpenAI、財務分析によると2027年半ばに現金が枯渇する可能性",
-    "summary": "高いインフラコストと持続可能な収入の欠如により、同社の短期的な存続可能性が危険にさらされている。",
+    "title": "Google、欧州でのウェブサイトブロッキングに反対、米国は海賊版対策を推進",
+    "summary": "同社は、欧州連合における著作権侵害によるページブロックの提案を批判している。",
     "source": [
       "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "SpaceX、帯域幅を100倍にするためにさらに10万機のStarlink衛星の打ち上げを申請",
-    "summary": "衛星コンステレーションの大規模な拡張提案は、光害と軌道上の安全性への懸念を引き起こしている。",
+    "title": "テロ組織、攻撃計画と兵器開発にAIチャットボットを利用",
+    "summary": "報告書によると、過激派組織が主要なAIアシスタントを攻撃目的で利用している。",
     "source": [
-      "news.ycombinator.com"
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "被害者を代表するために雇われたランサムウェア交渉人、実は攻撃者側だった",
+    "summary": "この男は、守るべき被害者を裏切った罪で懲役6年の判決を受けた。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "米サイバーセキュリティ機関CISA、インシデント対応計画を事中に策定したと認める",
+    "summary": "CISA長官は、事前に準備されたインシデントマニュアルがなく、その場で作成したことを明らかにした。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "GitHub上の偽DNSスキャナー、200以上のリポジトリを介してマルウェアを拡散",
+    "summary": "「Muck and Load」作戦は1月から700個の悪意あるモジュールを公開し、開発者に感染させた。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ジョンディア、トラクター修理の完全な支配権を失い、10年間の監督下に",
+    "summary": "同社は、メンテナンスの独占を制限する合意後、独立した修理を許可しなければならない。",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "中国探査機、天文学者を困惑させた小惑星に到着、初画像を送信",
+    "summary": "中国は奇妙とされる小惑星に到達し、最初の写真は現在の理論を変える可能性がある。",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "GTA 6発売前にPCでPS5エミュレーションを目指す競争が開始",
+    "summary": "次期大作タイトルを見据え、一部の2DゲームはすでにPCでエミュレーションにより動作している。",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "スイス、標高2500メートル設置の太陽光パネルに雪が意外な味方であることを発見",
+    "summary": "雪の反射が高山の太陽光パネルのエネルギー生産を増加させる。",
+    "source": [
+      "xataka.com"
     ],
     "count": 1
   }
