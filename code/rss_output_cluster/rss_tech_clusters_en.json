@@ -1,34 +1,7 @@
 [
   {
-    "title": "Apple sues OpenAI for alleged trade secret theft through employee poaching",
-    "summary": "Apple accuses OpenAI of orchestrating a campaign to recruit its engineers and appropriate protected technologies.",
-    "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI launches GPT-5.6 with Sol, Terra and Luna models and solves a 50-year-old math problem",
-    "summary": "The new version of OpenAI's AI includes optimized models that achieve milestones in mathematical reasoning and is made available to the public.",
-    "source": [
-      "the-decoder.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI launches ChatGPT Work and acknowledges launch issues while improving user experience",
-    "summary": "The company rushes to fix bugs in its new work tool and announces the closure of the Atlas browser.",
-    "source": [
-      "the-decoder.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD cuts price of Radeon RX 9070 GRE to under $500 to compete in mid-range market",
-    "summary": "The RDNA 4 graphics card drops 9% in price just a month after launch to take on Nvidia in 1440p gaming.",
+    "title": "The 'hotspot' sensor of Nvidia RTX 50 GPUs remains accessible through the internal MODS tool",
+    "summary": "It was detected that the RTX 5070 Ti can throttle its performance at 107 °C due to poor thermal paste application in some assemblies.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -36,8 +9,8 @@
     "count": 2
   },
   {
-    "title": "RTX 50 hotspot temperature sensor still accessible via Nvidia's internal MODS tool",
-    "summary": "RTX 5070 Ti reaches 107 °C due to poor thermal paste application, and diagnosis is only possible with internal tools.",
+    "title": "AMD reduces the price of the RX 9070 GRE below $500 to revitalize 1440p gaming",
+    "summary": "AMD's mid-range graphics card drops 9% from its initial price just a month after launch to compete with Nvidia's offerings.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -45,122 +18,146 @@
     "count": 2
   },
   {
-    "title": "Terrorist groups use AI chatbots to plan attacks and develop weapons",
-    "summary": "According to a report, extremist organizations exploit tools like ChatGPT for military purposes.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Critical vulnerability in Zimbra allows malicious code execution via manipulated emails",
-    "summary": "The security flaw in the mail server could compromise user sessions without additional intervention.",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Version 8.14.0 of npm package jscrambler distributes an information stealer written in Rust",
-    "summary": "An attacker compromised the official release to infect systems during installation.",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Cybercriminals use Balochistan police portal in multi-group espionage campaigns",
-    "summary": "Several hacker groups leverage a government website to carry out intelligence operations.",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "China's Orca model matches specialized robotic systems without having seen any action labels",
-    "summary": "The AI system achieves performance comparable to models trained with labeled data.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta Muse Spark 1.1 surpasses GLM-5.2 in programming tasks and is cheaper",
-    "summary": "Meta's new model offers better performance in code generation at a lower cost.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "OpenAI bets on families and brings ChatGPT to homes with family plans",
-    "summary": "The company launches new subscriptions designed so that multiple household members can use the AI.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "The race to emulate PS5 on PC begins before the launch of GTA 6",
-    "summary": "2D PS5 games are already running on emulators, although full support is still far off.",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Xbox could launch Positron system to convert physical discs to digital next week",
-    "summary": "The feature would allow users to redeem their disc games for digital copies.",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SK Hynix warns that 2027 will be the worst year for memory shortage and that the crisis will last until 2030",
-    "summary": "The CEO of the South Korean company forecasts a severe shortage of memory chips in the coming years.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "TSMC plans to expand its photonic integrated circuit manufacturing capacity in the next two years",
-    "summary": "The Taiwanese manufacturer bets on photonics to overcome the limits of silicon.",
-    "source": [
-      "/r/hardware"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Lenovo unveils first ThinkPads with Wildcat Lake Core 7 360 processor and up to 32GB DDR5",
-    "summary": "The new laptop range combines efficiency and next-generation memory.",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "LPCAMM2: The new standard that will replace soldered memory in gaming laptops",
-    "summary": "This memory module format allows for easy upgrade and improves performance.",
-    "source": [
-      "hardzone.es"
-    ],
-    "count": 1
-  },
-  {
-    "title": "John Deere loses exclusive control over tractor repairs and is placed under supervision for 10 years",
-    "summary": "The company must allow independent repairs after an agreement with farmers.",
+    "title": "Apple sues OpenAI for misappropriation of trade secrets after engineer's 'Lol, I have access' message",
+    "summary": "The lawsuit alleges that OpenAI used stolen technology from Apple's labs to develop its language models.",
     "source": [
       "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "SGAE points to artificial intelligence as a new threat for 'pirating' authors' styles",
-    "summary": "The Spanish rights management society denounces that AI reproduces the style of its members without authorization.",
+    "title": "OpenAI claims its new GPT-5.6 Sol Ultra model has solved a mathematical problem unsolved for 50 years in under an hour",
+    "summary": "The milestone, if confirmed, would represent a major advance in the reasoning capability of generative artificial intelligence.",
     "source": [
-      "bandaancha.eu"
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Report reveals that terrorist groups use all major AI chatbots to plan attacks and develop weapons",
+    "summary": "A recent security analysis warns about terrorist organizations' access to generative artificial intelligence for operational purposes.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Microsoft loses lawsuit in Brazil for refusing to restore a hacked Xbox user's account and must compensate him",
+    "summary": "A Brazilian court ordered Microsoft to restore a user's game library and pay $400 for forcing him to repurchase his games.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "John Deere loses control over the repair of its agricultural machinery and will be under judicial oversight for a decade",
+    "summary": "The manufacturer must allow independent repairs and provide diagnostic tools after a historic agreement with regulators.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Malware campaign with fake DNS scanners infects more than 200 repositories on GitHub via Go packages",
+    "summary": "The 'Muck and Load' operation has published more than 700 malicious modules since January, spreading an infostealer among developers.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Martha Lillard, the last US polio patient who depended on an iron lung, dies at 78 in Oklahoma",
+    "summary": "Lillard was one of the last people in the United States to live with an iron lung, a symbol of the fight against polio before the vaccine.",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "China reaches asteroid that had baffled scientists for a decade and its first photograph already provides new clues",
+    "summary": "The Chinese mission has reached a rare asteroid and the first images are changing the understanding of its composition and origin.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Meta launches Muse Spark 1.1, an AI model that surpasses GLM-5.2 in programming tasks at a lower cost",
+    "summary": "The battle for supremacy in code AI intensifies with this new Meta model offering competitive performance at a lower price.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "China presents 'Orca', a world model that matches specialized robotic systems without needing to see a single action label",
+    "summary": "The system learns by observation and equals systems with years of supervised training, a major advance for generalist robotics.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SK Hynix forecasts that 2027 will be the 'worst year' of memory shortage, with effects that could extend until 2030",
+    "summary": "The South Korean semiconductor manufacturer warns of a prolonged crisis in the supply of DRAM and NAND memory chips.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Analysis uncovers the virtuous funding circle between Nvidia, CoreWeave and Nebius that drives the GPU boom",
+    "summary": "The analysis details how the financial interconnection between these companies is fueling the explosive growth of AI infrastructure.",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "AI agents prevail in Slay the Spire 2 thanks to a new structured memory system",
+    "summary": "Researchers achieved AI surpassing human players by replacing messy chat logs with a hierarchical memory system.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "China reactivates coal after a decade of slowdown with renewables to sustain its industrial and energy growth",
+    "summary": "The increase in energy demand, driven by the technology industry, forces China to burn coal again on a large scale.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Microsoft struggles to meet its 2030 sustainability commitment amid the unstoppable growth of its AI infrastructure",
+    "summary": "The company assures that the goal remains feasible despite the enormous energy consumption of data centers dedicated to artificial intelligence.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "The 'Colibrì' model demonstrates that it is possible to run a 1.5 TB frontier-level AI in just 25 GB of RAM",
+    "summary": "A new compression technique allows running massive artificial intelligence models on consumer hardware efficiently.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Popular npm security package Jscrambler 8.14.0 is compromised and installs an information stealer during installation",
+    "summary": "The software supply chain attack affects developers who installed this version of the JavaScript security package.",
+    "source": [
+      "thehackernews.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Xbox could launch its physical-to-digital game conversion system 'Positron' for Insiders next week",
+    "summary": "The feature would allow registering game discs to the digital account, eliminating the need for physical media to play.",
+    "source": [
+      "videocardz.com"
     ],
     "count": 1
   }
