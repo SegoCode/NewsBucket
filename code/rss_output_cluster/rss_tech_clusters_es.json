@@ -1,163 +1,188 @@
 [
   {
-    "title": "El sensor 'hotspot' de las GPU Nvidia RTX 50 sigue siendo accesible a través de la herramienta interna MODS",
-    "summary": "Se detectó que la RTX 5070 Ti puede estrangular su rendimiento a 107 °C por una mala aplicación de la pasta térmica en algunos ensamblajes.",
+    "title": "La inteligencia artificial desafía los derechos de autor en la creación de contenido",
+    "summary": "Meta elimina la generación de imágenes de usuarios, se proponen etiquetas para música creada con IA y crece la detección de textos sintéticos.",
     "source": [
+      "the-decoder.com",
+      "/r/technology",
+      "bandaancha.eu",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Centros de datos bajo escrutinio por regulación, emisiones y riesgos financieros",
+    "summary": "Moratorios municipales, aumento de emisiones de carbono y rebajas de calificación crediticia marcan el entorno de los centros de datos.",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Debate sobre el impacto de la IA en el empleo se intensifica",
+    "summary": "El CEO de OpenAI afirma que la IA creará empleos, mientras otros ejecutivos piden moderación y se critica su uso como excusa para despidos.",
+    "source": [
+      "the-decoder.com",
+      "/r/technology",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Avances espaciales: cohetes reutilizables, espejos orbitales y estudios en microgravedad",
+    "summary": "China recupera un cohete reutilizable y llega a un asteroide, la FCC aprueba espejos espaciales y dos científicas volarán en 2027 para estudiar la menstruación en el espacio.",
+    "source": [
+      "/r/technology",
       "tomshardware.com",
-      "videocardz.com"
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Novedades en hardware: procesadores, gráficas y periféricos",
+    "summary": "Nuevos casos, fuentes de alimentación, monitores MiniLED y portátiles con GPUs de última generación marcan la actualidad del hardware.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Políticas y regulaciones impactan centros de datos, educación y peajes",
+    "summary": "Nuevas reglas federales condicionan ayudas a universidades, se investigan acuerdos de centros de datos y Cataluña reconsidera los peajes de la AP-7.",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Finanzas y estrategias empresariales en tecnología y entretenimiento",
+    "summary": "Disney evalúa un nivel gratuito con anuncios, OpenAI apuesta por las familias y el financiamiento circular de GPUs atrae críticas.",
+    "source": [
+      "news.ycombinator.com",
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Estudios científicos revelan nuevos aspectos sobre el sueño, el envejecimiento y la nutrición",
+    "summary": "Investigaciones destacan el papel de la siesta en la memoria, el aumento de mutaciones genéticas en espermatozoides de hombres mayores y el uso de algas invasoras como superalimento.",
+    "source": [
+      "xataka.com",
+      "wired.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Microsoft pierde caso judicial en Brasil y deberá restaurar cuenta Xbox",
+    "summary": "El tribunal ordenó a Microsoft devolver los juegos a un usuario hackeado y pagar una indemnización de 400 dólares.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD reduce el precio de la RX 9070 GRE por debajo de los 500 dólares para revitalizar el gaming 1440p",
-    "summary": "La tarjeta gráfica de gama media de AMD baja un 9% su precio inicial apenas un mes después del lanzamiento para competir con las ofertas de Nvidia.",
+    "title": "Sony planea eliminar los discos físicos para juegos de PlayStation",
+    "summary": "Ejecutivos venden sus acciones mientras la UE admite que no puede impedir que Sony abandone el formato físico.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "/r/technology",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Apple demanda a OpenAI por apropiación de secretos comerciales tras el mensaje 'Lol, tengo acceso' de un ingeniero",
-    "summary": "La demanda alega que OpenAI utilizó tecnología robada de los laboratorios de Apple para el desarrollo de sus modelos de lenguaje.",
+    "title": "Gafas inteligentes sin cámara apuestan por la productividad",
+    "summary": "Fabricantes como Even Realities evitan la grabación para centrarse en herramientas de productividad y privacidad.",
     "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La inteligencia artificial revoluciona la educación universitaria",
+    "summary": "Universidades prohíben dispositivos en clases de derecho y un experimento revela que los estudiantes sin IA obtienen calificaciones mucho más bajas.",
+    "source": [
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El mundo del gaming: protestas, modding y derechos digitales",
+    "summary": "El sindicato de Bethesda protesta contra despidos, se modifican consolas PlayStation y tribunales chinos avalan herencia de cuentas de juego.",
+    "source": [
+      "videocardz.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft y Windows generan controversia entre profesionales de TI",
+    "summary": "Administradores critican las aplicaciones basura de Windows 11 y un veterano revela cómo Windows 95 detectaba instaladores por el nombre del archivo.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nuevas herramientas de software e inteligencia artificial",
+    "summary": "Claude Cowork automatiza tareas ofimáticas, agentes de IA vencen en Slay the Spire y GPT-5 resuelve un problema matemático, mientras surgen nuevos runtimes y emuladores de terminal.",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Infraestructura y energía: cables submarinos y hallazgos históricos",
+    "summary": "Un cable que suministra electricidad a San Francisco queda fuera de servicio y la construcción de un parque eólico en Dinamarca desentierra un barco del siglo XVII.",
+    "source": [
+      "/r/technology",
       "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "OpenAI afirma que su nuevo modelo GPT-5.6 Sol Ultra ha resuelto un problema matemático sin solución durante 50 años en menos de una hora",
-    "summary": "El hito, de confirmarse, supondría un avance mayúsculo en la capacidad de razonamiento de la inteligencia artificial generativa.",
+    "title": "Apple demanda a OpenAI y Meta enfrenta demandas por adicción y patentes",
+    "summary": "Apple acusa a OpenAI de robo de secretos, Meta apela un veredicto por adicción a redes sociales y patenta un sistema de monitoreo emocional.",
     "source": [
-      "the-decoder.com"
+      "xataka.com",
+      "/r/technology"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Informe revela que grupos terroristas utilizan todos los principales chatbots de IA para planificar ataques y desarrollar armamento",
-    "summary": "Un reciente análisis de seguridad alerta sobre el acceso de organizaciones terroristas a la inteligencia artificial generativa para fines operativos.",
+    "title": "Historias humanas: esclavitud, emprendimiento y una máquina de slushie salvadora",
+    "summary": "Una mujer es liberada tras 55 años de esclavitud en Brasil, el hijo de Steve Jobs busca curar el cáncer y una máquina de slushie alivia el calor en Nueva York.",
     "source": [
-      "the-decoder.com"
+      "news.ycombinator.com",
+      "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Microsoft pierde un juicio en Brasil por negarse a restaurar la cuenta de un usuario de Xbox hackeado y deberá indemnizarlo",
-    "summary": "Un tribunal brasileño ordenó a Microsoft restaurar el catálogo de juegos de un usuario y pagar 400 dólares por obligarlo a recomprar sus juegos.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "John Deere pierde el control sobre la reparación de su maquinaria agrícola y estará bajo supervisión judicial durante una década",
-    "summary": "El fabricante deberá permitir reparaciones independientes y facilitar herramientas de diagnóstico tras un acuerdo histórico con los reguladores.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Campaña de malware con escáneres DNS falsos infecta más de 200 repositorios en GitHub mediante paquetes Go",
-    "summary": "La operación 'Muck and Load' ha publicado más de 700 módulos maliciosos desde enero, propagando un infostealer entre desarrolladores.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Martha Lillard, la última paciente estadounidense de polio que dependía de un pulmón de acero, fallece a los 78 años en Oklahoma",
-    "summary": "Lillard fue una de las últimas personas en Estados Unidos en vivir con un pulmón de acero, símbolo de la lucha contra la polio antes de la vacuna.",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "China llega al asteroide que llevaba una década desconcertando a los científicos y su primera fotografía ya aporta nuevas claves",
-    "summary": "La misión china ha alcanzado un asteroide poco común y las primeras imágenes están cambiando la comprensión de su composición y origen.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta lanza Muse Spark 1.1, un modelo de inteligencia artificial que supera a GLM-5.2 en tareas de programación con un coste menor",
-    "summary": "La batalla por la supremacía en la IA de código se intensifica con este nuevo modelo de Meta que ofrece rendimiento competitivo a un precio más bajo.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "China presenta 'Orca', un modelo de mundo que iguala a sistemas robóticos especializados sin necesidad de ver una sola etiqueta de acción",
-    "summary": "El sistema aprende por observación y se equipara a sistemas con años de entrenamiento supervisado, un gran avance para la robótica generalista.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SK Hynix pronostica que 2027 será el 'peor año' de la escasez de memoria, con efectos que podrían alargarse hasta 2030",
-    "summary": "El fabricante surcoreano de semiconductores advierte de una crisis prolongada en el suministro de chips de memoria DRAM y NAND.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Análisis descubre el círculo virtuoso de financiación entre Nvidia, CoreWeave y Nebius que impulsa el 'boom' de las GPU",
-    "summary": "El análisis detalla cómo la interconexión financiera entre estas empresas está alimentando el crecimiento explosivo de la infraestructura para IA.",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Los agentes de inteligencia artificial vencen en el Slay the Spire 2 gracias a un nuevo sistema de memoria estructurada",
-    "summary": "Investigadores lograron que la IA superara a jugadores humanos sustituyendo los registros de chat desordenados por un sistema de memoria jerárquica.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "China reactiva el carbón tras una década de freno con renovables para sostener su crecimiento industrial y energético",
-    "summary": "El incremento de la demanda energética, impulsada por la industria tecnológica, obliga a China a volver a quemar carbón a gran escala.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft lucha por cumplir su compromiso de sostenibilidad para 2030 ante el imparable crecimiento de su infraestructura de IA",
-    "summary": "La compañía asegura que el objetivo sigue siendo factible a pesar del enorme consumo energético de los centros de datos dedicados a la inteligencia artificial.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El modelo 'Colibrì' demuestra que es posible ejecutar una IA de nivel frontera de 1,5 TB en solo 25 GB de RAM",
-    "summary": "Una nueva técnica de compresión permite ejecutar modelos masivos de inteligencia artificial en hardware de consumo de forma eficiente.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El popular paquete npm de seguridad Jscrambler 8.14.0 es comprometido e instala un ladrón de información durante la instalación",
-    "summary": "El ataque a la cadena de suministro de software afecta a los desarrolladores que instalaron esta versión del paquete de seguridad JavaScript.",
+    "title": "Ciberataques y vulnerabilidades comprometen la seguridad",
+    "summary": "Un paquete npm infectado con malware y el portal policial de Baluchistán utilizado para espionaje ponen en alerta a la comunidad de seguridad.",
     "source": [
       "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "Xbox podría lanzar su sistema de conversión de juegos físicos a digitales 'Positron' para los Insiders la próxima semana",
-    "summary": "La función permitiría registrar los discos de juegos en la cuenta digital, eliminando la necesidad del soporte físico para jugar.",
+    "title": "Curiosidades históricas y culturales: desde focas parlantes hasta vikingos",
+    "summary": "Anécdotas como una foca que hablaba inglés, el origen de la pizza frita, el Necronomicon y una fábrica textil vikinga muestran la riqueza de la historia.",
     "source": [
-      "videocardz.com"
+      "xataka.com"
     ],
     "count": 1
   }

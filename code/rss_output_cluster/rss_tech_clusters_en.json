@@ -1,163 +1,188 @@
 [
   {
-    "title": "The 'hotspot' sensor of Nvidia RTX 50 GPUs remains accessible through the internal MODS tool",
-    "summary": "It was detected that the RTX 5070 Ti can throttle its performance at 107 °C due to poor thermal paste application in some assemblies.",
+    "title": "Artificial intelligence challenges copyright in content creation",
+    "summary": "Meta removes user image generation, labels for AI-created music are proposed, and detection of synthetic texts increases.",
     "source": [
+      "the-decoder.com",
+      "/r/technology",
+      "bandaancha.eu",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Data centers under scrutiny for regulation, emissions, and financial risks",
+    "summary": "Municipal moratoriums, increased carbon emissions, and credit rating downgrades mark the landscape for data centers.",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Debate over AI's impact on employment intensifies",
+    "summary": "OpenAI CEO says AI will create jobs, while other executives urge caution, and its use as an excuse for layoffs is criticized.",
+    "source": [
+      "the-decoder.com",
+      "/r/technology",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Space advances: reusable rockets, orbital mirrors, and microgravity studies",
+    "summary": "China recovers a reusable rocket and reaches an asteroid, FCC approves space mirrors, and two female scientists will fly in 2027 to study menstruation in space.",
+    "source": [
+      "/r/technology",
       "tomshardware.com",
-      "videocardz.com"
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Hardware news: processors, graphics cards, and peripherals",
+    "summary": "New cases, power supplies, MiniLED monitors, and laptops with latest-gen GPUs highlight the hardware news.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Policies and regulations impact data centers, education, and tolls",
+    "summary": "New federal rules condition aid to universities, data center agreements are investigated, and Catalonia reconsiders AP-7 tolls.",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Finance and business strategies in technology and entertainment",
+    "summary": "Disney evaluates a free ad-supported tier, OpenAI bets on families, and circular GPU financing draws criticism.",
+    "source": [
+      "news.ycombinator.com",
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Scientific studies reveal new insights about sleep, aging, and nutrition",
+    "summary": "Research highlights the role of napping in memory, the increase of genetic mutations in sperm of older men, and the use of invasive algae as a superfood.",
+    "source": [
+      "xataka.com",
+      "wired.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Microsoft loses court case in Brazil and must restore Xbox account",
+    "summary": "The court ordered Microsoft to return games to a hacked user and pay $400 in compensation.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD reduces the price of the RX 9070 GRE below $500 to revitalize 1440p gaming",
-    "summary": "AMD's mid-range graphics card drops 9% from its initial price just a month after launch to compete with Nvidia's offerings.",
+    "title": "Sony plans to eliminate physical discs for PlayStation games",
+    "summary": "Executives sell their shares while the EU admits it cannot prevent Sony from abandoning the physical format.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "/r/technology",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Apple sues OpenAI for misappropriation of trade secrets after engineer's 'Lol, I have access' message",
-    "summary": "The lawsuit alleges that OpenAI used stolen technology from Apple's labs to develop its language models.",
+    "title": "Camera-less smart glasses bet on productivity",
+    "summary": "Manufacturers like Even Realities avoid recording to focus on productivity and privacy tools.",
     "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Artificial intelligence revolutionizes university education",
+    "summary": "Universities ban devices in law classes and an experiment reveals that students without AI get much lower grades.",
+    "source": [
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The world of gaming: protests, modding, and digital rights",
+    "summary": "Bethesda union protests layoffs, PlayStation consoles are modded, and Chinese courts uphold inheritance of gaming accounts.",
+    "source": [
+      "videocardz.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft and Windows stir controversy among IT professionals",
+    "summary": "Administrators criticize Windows 11 bloatware and a veteran reveals how Windows 95 detected installers by filename.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "New software and artificial intelligence tools",
+    "summary": "Claude Cowork automates office tasks, AI agents win at Slay the Spire, and GPT-5 solves a math problem, while new runtimes and terminal emulators emerge.",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Infrastructure and energy: submarine cables and historical discoveries",
+    "summary": "A cable supplying electricity to San Francisco goes out of service, and construction of a wind farm in Denmark uncovers a 17th-century ship.",
+    "source": [
+      "/r/technology",
       "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "OpenAI claims its new GPT-5.6 Sol Ultra model has solved a mathematical problem unsolved for 50 years in under an hour",
-    "summary": "The milestone, if confirmed, would represent a major advance in the reasoning capability of generative artificial intelligence.",
+    "title": "Apple sues OpenAI and Meta faces lawsuits over addiction and patents",
+    "summary": "Apple accuses OpenAI of secret theft, Meta appeals a verdict on social media addiction and patents an emotional monitoring system.",
     "source": [
-      "the-decoder.com"
+      "xataka.com",
+      "/r/technology"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Report reveals that terrorist groups use all major AI chatbots to plan attacks and develop weapons",
-    "summary": "A recent security analysis warns about terrorist organizations' access to generative artificial intelligence for operational purposes.",
+    "title": "Human stories: slavery, entrepreneurship, and a lifesaving slushie machine",
+    "summary": "A woman is freed after 55 years of slavery in Brazil, Steve Jobs' son seeks to cure cancer, and a slushie machine relieves heat in New York.",
     "source": [
-      "the-decoder.com"
+      "news.ycombinator.com",
+      "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Microsoft loses lawsuit in Brazil for refusing to restore a hacked Xbox user's account and must compensate him",
-    "summary": "A Brazilian court ordered Microsoft to restore a user's game library and pay $400 for forcing him to repurchase his games.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "John Deere loses control over the repair of its agricultural machinery and will be under judicial oversight for a decade",
-    "summary": "The manufacturer must allow independent repairs and provide diagnostic tools after a historic agreement with regulators.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Malware campaign with fake DNS scanners infects more than 200 repositories on GitHub via Go packages",
-    "summary": "The 'Muck and Load' operation has published more than 700 malicious modules since January, spreading an infostealer among developers.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Martha Lillard, the last US polio patient who depended on an iron lung, dies at 78 in Oklahoma",
-    "summary": "Lillard was one of the last people in the United States to live with an iron lung, a symbol of the fight against polio before the vaccine.",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "China reaches asteroid that had baffled scientists for a decade and its first photograph already provides new clues",
-    "summary": "The Chinese mission has reached a rare asteroid and the first images are changing the understanding of its composition and origin.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta launches Muse Spark 1.1, an AI model that surpasses GLM-5.2 in programming tasks at a lower cost",
-    "summary": "The battle for supremacy in code AI intensifies with this new Meta model offering competitive performance at a lower price.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "China presents 'Orca', a world model that matches specialized robotic systems without needing to see a single action label",
-    "summary": "The system learns by observation and equals systems with years of supervised training, a major advance for generalist robotics.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SK Hynix forecasts that 2027 will be the 'worst year' of memory shortage, with effects that could extend until 2030",
-    "summary": "The South Korean semiconductor manufacturer warns of a prolonged crisis in the supply of DRAM and NAND memory chips.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Analysis uncovers the virtuous funding circle between Nvidia, CoreWeave and Nebius that drives the GPU boom",
-    "summary": "The analysis details how the financial interconnection between these companies is fueling the explosive growth of AI infrastructure.",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AI agents prevail in Slay the Spire 2 thanks to a new structured memory system",
-    "summary": "Researchers achieved AI surpassing human players by replacing messy chat logs with a hierarchical memory system.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "China reactivates coal after a decade of slowdown with renewables to sustain its industrial and energy growth",
-    "summary": "The increase in energy demand, driven by the technology industry, forces China to burn coal again on a large scale.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Microsoft struggles to meet its 2030 sustainability commitment amid the unstoppable growth of its AI infrastructure",
-    "summary": "The company assures that the goal remains feasible despite the enormous energy consumption of data centers dedicated to artificial intelligence.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "The 'Colibrì' model demonstrates that it is possible to run a 1.5 TB frontier-level AI in just 25 GB of RAM",
-    "summary": "A new compression technique allows running massive artificial intelligence models on consumer hardware efficiently.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Popular npm security package Jscrambler 8.14.0 is compromised and installs an information stealer during installation",
-    "summary": "The software supply chain attack affects developers who installed this version of the JavaScript security package.",
+    "title": "Cyberattacks and vulnerabilities compromise security",
+    "summary": "An npm package infected with malware and the Balochistan police portal used for espionage put the security community on alert.",
     "source": [
       "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "Xbox could launch its physical-to-digital game conversion system 'Positron' for Insiders next week",
-    "summary": "The feature would allow registering game discs to the digital account, eliminating the need for physical media to play.",
+    "title": "Historical and cultural curiosities: from talking seals to Vikings",
+    "summary": "Anecdotes like a seal that spoke English, the origin of fried pizza, the Necronomicon, and a Viking textile factory show the richness of history.",
     "source": [
-      "videocardz.com"
+      "xataka.com"
     ],
     "count": 1
   }

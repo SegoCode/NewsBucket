@@ -1,163 +1,188 @@
 [
   {
-    "title": "Nvidia RTX 50 GPUの「ホットスポット」センサーは、内部ツールMODSを介して引き続きアクセス可能",
-    "summary": "一部の組み立てにおけるサーマルペーストの不良塗布により、RTX 5070 Tiが107°Cでパフォーマンスを制限する可能性があることが判明しました。",
+    "title": "人工知能がコンテンツ作成における著作権に挑戦",
+    "summary": "Metaがユーザーの画像生成を削除、AI作成音楽へのラベル提案、合成テキスト検出の増加",
     "source": [
+      "the-decoder.com",
+      "/r/technology",
+      "bandaancha.eu",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "データセンター、規制・排出・財務リスクで厳しい監視下に",
+    "summary": "自治体のモラトリアム、炭素排出量の増加、信用格付けの引き下げがデータセンター環境を特徴づける",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "雇用へのAI影響の議論が激化",
+    "summary": "OpenAIのCEOはAIが雇用を創出すると主張、他の経営陣は自制を求め、解雇の口実としての利用を批判",
+    "source": [
+      "the-decoder.com",
+      "/r/technology",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "宇宙開発の進歩：再利用可能ロケット、軌道上ミラー、微小重力研究",
+    "summary": "中国が再利用可能ロケットを回収し小惑星に到達、FCCが宇宙ミラーを承認、2人の女性科学者が2027年に宇宙で月経を研究するために飛行",
+    "source": [
+      "/r/technology",
       "tomshardware.com",
-      "videocardz.com"
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ハードウェアの新製品：プロセッサ、グラフィックカード、周辺機器",
+    "summary": "新しいケース、電源ユニット、MiniLEDモニター、最新GPU搭載ノートパソコンがハードウェアニュースを賑わせる",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "政策と規制がデータセンター、教育、通行料金に影響",
+    "summary": "連邦政府の新ルールが大学への支援を条件付け、データセンター契約が調査対象に、カタルーニャ州がAP-7の通行料金を再検討",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "テクノロジーとエンターテインメントの財務・企業戦略",
+    "summary": "ディズニーが広告付き無料プランを検討、OpenAIは家族向けに注力、GPUの循環型資金調達に批判",
+    "source": [
+      "news.ycombinator.com",
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "睡眠、老化、栄養に関する新たな知見を科学的研究が明らかに",
+    "summary": "研究は、昼寝が記憶に果たす役割、高齢男性の精子における遺伝子変異の増加、侵略的藻類のスーパーフードとしての利用を強調",
+    "source": [
+      "xataka.com",
+      "wired.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "マイクロソフト、ブラジルの裁判で敗訴、Xboxアカウントを復元へ",
+    "summary": "裁判所はマイクロソフトに対し、ハッキングされたユーザーにゲームを返却し、400ドルの賠償金を支払うよう命じた",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "AMDが1440pゲーミングを活性化するため、RX 9070 GREの価格を500ドル未満に引き下げ",
-    "summary": "AMDのミッドレンジグラフィックカードが、発売からわずか1ヶ月でNVIDIAの製品と競争するために初期価格を9%値下げしました。",
+    "title": "ソニー、PlayStationゲームの物理ディスク廃止を計画",
+    "summary": "経営陣が株式を売却する一方、EUはソニーが物理フォーマットを放棄するのを妨げられないと認める",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "/r/technology",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "アップル、エンジニアの『Lol、アクセス権があるよ』というメッセージを受けて、営業秘密の横領でOpenAIを訴える",
-    "summary": "訴訟は、OpenAIが言語モデルの開発のためにアップルの研究所から盗まれた技術を使用したと主張している。",
+    "title": "カメラなしスマートグラスが生産性に注力",
+    "summary": "Even Realitiesなどのメーカーは録画を避け、生産性とプライバシーツールに集中",
     "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "人工知能が大学教育に革命をもたらす",
+    "summary": "大学が法学の授業で端末を禁止、AIなしの学生の成績が大幅に低いことを実験が明らかに",
+    "source": [
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ゲームの世界：抗議、改造、デジタル権利",
+    "summary": "ベセスダ労働組合が解雇に抗議、PlayStationコンソールの改造、中国裁判所がゲームアカウントの相続を承認",
+    "source": [
+      "videocardz.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "マイクロソフトとWindows、IT専門家の間で論争を巻き起こす",
+    "summary": "管理者がWindows 11のジャンクアプリを批判、ベテランがWindows 95がファイル名でインストーラを検出した方法を明かす",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "新しいソフトウェアと人工知能ツール",
+    "summary": "Claude Coworkがオフィス業務を自動化、AIエージェントがSlay the Spireで勝利、GPT-5が数学問題を解決、新しいランタイムや端末エミュレータが登場",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "インフラとエネルギー：海底ケーブルと歴史的発見",
+    "summary": "サンフランシスコに電力を供給するケーブルが停止、デンマークの風力発電所建設で17世紀の船が発掘される",
+    "source": [
+      "/r/technology",
       "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "OpenAI、新モデルGPT-5.6 Sol Ultraが50年間未解決だった数学の問題を1時間未満で解決したと主張",
-    "summary": "この偉業が確認されれば、生成AIの推論能力における大きな進歩となる。",
+    "title": "AppleがOpenAIを提訴、Metaは依存症と特許で訴訟に直面",
+    "summary": "AppleはOpenAIを秘密漏洩で告発、Metaはソーシャルメディア依存症の評決を控訴、感情監視システムを特許取得",
     "source": [
-      "the-decoder.com"
+      "xataka.com",
+      "/r/technology"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "報告書、テロ組織が攻撃計画と兵器開発に主要なAIチャットボットをすべて利用していることを明らかに",
-    "summary": "最近のセキュリティ分析は、テロ組織が作戦目的で生成AIにアクセスしていることを警告している。",
+    "title": "人間の物語：奴隷制、起業、救いのスラッシュマシン",
+    "summary": "ブラジルで55年ぶりに奴隷制から解放された女性、スティーブ・ジョブズの息子が癌治療を目指す、ニューヨークでスラッシュマシンが暑さを和らげる",
     "source": [
-      "the-decoder.com"
+      "news.ycombinator.com",
+      "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "マイクロソフト、ハッキングされたXboxユーザーのアカウント復元を拒否したことでブラジルで訴訟に敗れ、賠償金の支払い命じられる",
-    "summary": "ブラジルの裁判所はマイクロソフトに対し、ユーザーのゲームカタログを復元し、ゲームの再購入を強制したことに対する賠償金400ドルの支払いを命じた。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ジョンディア、農業機械の修理に関する管理権を失い、10年間司法監視下に置かれる",
-    "summary": "同社は、規制当局との歴史的な合意により、独立した修理を許可し、診断ツールを提供しなければならない。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "偽DNSスキャナーを使ったマルウェアキャンペーン、Goパッケージを介してGitHubの200以上のリポジトリに感染",
-    "summary": "「Muck and Load」作戦は1月以降、700以上の悪意のあるモジュールを公開し、開発者の間で情報窃取型マルウェアを拡散させている。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "鉄の肺に依存していた米国最後のポリオ患者マーサ・リラード氏、オクラホマ州で78歳で死去",
-    "summary": "リラード氏は、ワクチン以前のポリオとの闘いの象徴である鉄の肺を使用して生活した米国最後の人物の一人だった。",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "中国、10年間科学者を困惑させてきた小惑星に到達、最初の写真が新たな手がかりをもたらす",
-    "summary": "中国のミッションは珍しい小惑星に到達し、最初の画像がその組成と起源の理解を変えつつある。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta、Muse Spark 1.1をリリース、低コストでプログラミングタスクにおいてGLM-5.2を凌駕するAIモデル",
-    "summary": "コード生成AIの覇権を巡る戦いは、より低価格で競争力のあるパフォーマンスを提供するMetaのこの新モデルで激化している。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "中国、『Orca』を発表、アクションラベルを1つも見ることなく専門ロボットシステムに匹敵する世界モデル",
-    "summary": "このシステムは観察によって学習し、何年もの教師ありトレーニングを受けたシステムに匹敵するもので、汎用ロボティクスにとって大きな進歩である。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SKハイニックス、2027年がメモリ不足の『最悪の年』になると予測、影響は2030年まで及ぶ可能性も",
-    "summary": "韓国の半導体メーカーは、DRAMおよびNANDメモリチップの供給における長期危機を警告している。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "分析、GPUブームを促進するNVIDIA、CoreWeave、Nebius間の好循環の資金調達を発見",
-    "summary": "この分析は、これらの企業間の財務的な相互接続がどのようにAIインフラの爆発的成長を促進しているかを詳述している。",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AIエージェント、新しい構造化メモリシステムのおかげでSlay the Spire 2で勝利",
-    "summary": "研究者らは、乱雑なチャットログを階層的なメモリシステムに置き換えることで、AIが人間プレイヤーを上回ることに成功した。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "中国、再生可能エネルギーによる10年間の抑制を経て石炭を再活性化、産業・エネルギー成長を支える",
-    "summary": "テクノロジー産業に牽引されたエネルギー需要の増加により、中国は再び大規模な石炭燃焼を余儀なくされている。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "マイクロソフト、AIインフラの止まらない成長の中で2030年の持続可能性目標達成に奮闘",
-    "summary": "同社は、AI専用データセンターの多大なエネルギー消費にもかかわらず、目標は依然として達成可能であると主張している。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "「Colibrì」モデル、1.5TBのフロンティアレベルAIをわずか25GBのRAMで実行可能であることを実証",
-    "summary": "新しい圧縮技術により、コンシューマーハードウェア上で大規模なAIモデルを効率的に実行できるようになります。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "人気のnpmセキュリティパッケージJscrambler 8.14.0が侵害され、インストール中に情報窃取型マルウェアをインストール",
-    "summary": "ソフトウェアサプライチェーン攻撃は、このバージョンのJavaScriptセキュリティパッケージをインストールした開発者に影響を与える。",
+    "title": "サイバー攻撃と脆弱性がセキュリティを脅かす",
+    "summary": "マルウェアに感染したnpmパッケージとバロチスタン警察ポータルがスパイに利用され、セキュリティコミュニティに警鐘",
     "source": [
       "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "Xbox、来週Insiders向けにゲームのパッケージ版からデジタル版への変換システム『Positron』をリリースか",
-    "summary": "この機能により、ゲームディスクをデジタルアカウントに登録できるようになり、プレイするために物理メディアが不要になる。",
+    "title": "歴史と文化の雑学：話すアザラシからバイキングまで",
+    "summary": "英語を話すアザラシ、フライドピザの起源、ネクロノミコン、バイキングの繊維工場などの逸話が歴史の豊かさを示す",
     "source": [
-      "videocardz.com"
+      "xataka.com"
     ],
     "count": 1
   }
