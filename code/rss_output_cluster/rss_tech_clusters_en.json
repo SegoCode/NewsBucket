@@ -1,76 +1,16 @@
 [
   {
-    "title": "Apple sues OpenAI for alleged theft of trade secrets and hardware",
-    "summary": "The lawsuit alleges that OpenAI orchestrated a campaign to get former Apple employees to reveal confidential information about chips.",
+    "title": "Apple sues OpenAI for alleged trade secret theft through employee poaching",
+    "summary": "Apple accuses OpenAI of orchestrating a campaign to recruit its engineers and appropriate protected technologies.",
     "source": [
-      "/r/technology",
       "the-decoder.com",
-      "kite.kagi.com",
-      "tomshardware.com",
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "wired.com"
-    ],
-    "count": 7
-  },
-  {
-    "title": "Meta removes its AI-generated image tool on Instagram after criticism",
-    "summary": "The feature allowed users to create images from user posts and was removed due to privacy concerns.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology",
       "kite.kagi.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft loses lawsuit in Brazil for failing to restore hacked Xbox account",
-    "summary": "A Brazilian court ordered Microsoft to return the account with all games and pay $400 in compensation.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
     "count": 2
   },
   {
-    "title": "SK Hynix warns 2027 will be the worst year for memory shortage, with crisis until 2030",
-    "summary": "The company's CEO forecast a severe contraction in memory chip supply that will last for years.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD Radeon RX 9070 GRE drops below $500",
-    "summary": "The graphics card reduces its price by 9% to compete in the mid-range market just one month after its launch.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA Blackwell GPU temperature sensor remains accessible via internal diagnostic tools",
-    "summary": "It was detected that the RTX 5070 Ti reaches 107°C and reduces its performance due to poor thermal paste application.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft's emissions increase 25% due to AI data center expansion",
-    "summary": "The company faces challenges in meeting its 2030 sustainability goal while growing its AI infrastructure.",
-    "source": [
-      "tomshardware.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI launches GPT-5.6 with Sol, Terra, and Luna models for public use",
-    "summary": "The Sol Ultra model solved a 50-year-old math problem in less than an hour and autonomously trained the Luna model.",
+    "title": "OpenAI launches GPT-5.6 with Sol, Terra and Luna models and solves a 50-year-old math problem",
+    "summary": "The new version of OpenAI's AI includes optimized models that achieve milestones in mathematical reasoning and is made available to the public.",
     "source": [
       "the-decoder.com",
       "alternativeto.net"
@@ -78,99 +18,149 @@
     "count": 2
   },
   {
-    "title": "OpenAI presents ChatGPT Work and announces the closure of the Atlas browser",
-    "summary": "The company acknowledges initial usability and cost issues and is working to resolve them.",
+    "title": "OpenAI launches ChatGPT Work and acknowledges launch issues while improving user experience",
+    "summary": "The company rushes to fix bugs in its new work tool and announces the closure of the Atlas browser.",
     "source": [
-      "alternativeto.net",
-      "the-decoder.com"
+      "the-decoder.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "U.S. Government Efficiency Department (DOGE) officially closes",
-    "summary": "The U.S. government cost-cutting initiative comes to an end after months of operation.",
+    "title": "AMD cuts price of Radeon RX 9070 GRE to under $500 to compete in mid-range market",
+    "summary": "The RDNA 4 graphics card drops 9% in price just a month after launch to take on Nvidia in 1440p gaming.",
     "source": [
-      "/r/technology"
+      "tomshardware.com",
+      "videocardz.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "European Parliament approves Chat Control 1.0 through the back door",
-    "summary": "The controversial digital communication surveillance measure makes its way into European legislation.",
+    "title": "RTX 50 hotspot temperature sensor still accessible via Nvidia's internal MODS tool",
+    "summary": "RTX 5070 Ti reaches 107 °C due to poor thermal paste application, and diagnosis is only possible with internal tools.",
     "source": [
-      "/r/technology"
+      "tomshardware.com",
+      "videocardz.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "Google opposes website blocking in Europe while the US advances anti-piracy measures",
-    "summary": "The company criticizes proposals to block pages for copyright infringement in the European Union.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
+    "count": 2
   },
   {
     "title": "Terrorist groups use AI chatbots to plan attacks and develop weapons",
-    "summary": "According to a report, extremist organizations are taking advantage of leading AI assistants for offensive purposes.",
+    "summary": "According to a report, extremist organizations exploit tools like ChatGPT for military purposes.",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Ransomware negotiator hired to represent victims actually worked for the attackers",
-    "summary": "The man was sentenced to six years in prison for betraying the victims he was supposed to defend.",
+    "title": "Critical vulnerability in Zimbra allows malicious code execution via manipulated emails",
+    "summary": "The security flaw in the mail server could compromise user sessions without additional intervention.",
     "source": [
-      "/r/technology"
+      "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "US cybersecurity agency CISA admits it had to develop its response plan during an incident",
-    "summary": "The CISA director revealed they lacked a prepared incident manual and developed it on the fly.",
+    "title": "Version 8.14.0 of npm package jscrambler distributes an information stealer written in Rust",
+    "summary": "An attacker compromised the official release to infect systems during installation.",
+    "source": [
+      "thehackernews.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Cybercriminals use Balochistan police portal in multi-group espionage campaigns",
+    "summary": "Several hacker groups leverage a government website to carry out intelligence operations.",
+    "source": [
+      "thehackernews.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "China's Orca model matches specialized robotic systems without having seen any action labels",
+    "summary": "The AI system achieves performance comparable to models trained with labeled data.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Meta Muse Spark 1.1 surpasses GLM-5.2 in programming tasks and is cheaper",
+    "summary": "Meta's new model offers better performance in code generation at a lower cost.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "OpenAI bets on families and brings ChatGPT to homes with family plans",
+    "summary": "The company launches new subscriptions designed so that multiple household members can use the AI.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Fake DNS scanner on GitHub distributed malware through more than 200 repositories",
-    "summary": "The 'Muck and Load' operation published 700 malicious modules since January, infecting developers.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "John Deere loses total control over tractor repairs and will be under supervision for 10 years",
-    "summary": "The company must allow independent repairs under an agreement that limits its monopoly on maintenance.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Chinese probe arrives at asteroid that baffled astronomers and sends first image",
-    "summary": "China has reached an asteroid considered strange, and the first photos could change current theories.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Race for PS5 emulation on PC begins ahead of GTA 6 release",
-    "summary": "Some 2D games already work on PC via emulation, in anticipation of the next big title.",
+    "title": "The race to emulate PS5 on PC begins before the launch of GTA 6",
+    "summary": "2D PS5 games are already running on emulators, although full support is still far off.",
     "source": [
       "videocardz.com"
     ],
     "count": 1
   },
   {
-    "title": "Switzerland discovers snow is unexpected ally of solar panels installed at 2,500 meters",
-    "summary": "The reflection of snow increases the energy production of solar panels in high mountains.",
+    "title": "Xbox could launch Positron system to convert physical discs to digital next week",
+    "summary": "The feature would allow users to redeem their disc games for digital copies.",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SK Hynix warns that 2027 will be the worst year for memory shortage and that the crisis will last until 2030",
+    "summary": "The CEO of the South Korean company forecasts a severe shortage of memory chips in the coming years.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "TSMC plans to expand its photonic integrated circuit manufacturing capacity in the next two years",
+    "summary": "The Taiwanese manufacturer bets on photonics to overcome the limits of silicon.",
+    "source": [
+      "/r/hardware"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Lenovo unveils first ThinkPads with Wildcat Lake Core 7 360 processor and up to 32GB DDR5",
+    "summary": "The new laptop range combines efficiency and next-generation memory.",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "LPCAMM2: The new standard that will replace soldered memory in gaming laptops",
+    "summary": "This memory module format allows for easy upgrade and improves performance.",
+    "source": [
+      "hardzone.es"
+    ],
+    "count": 1
+  },
+  {
+    "title": "John Deere loses exclusive control over tractor repairs and is placed under supervision for 10 years",
+    "summary": "The company must allow independent repairs after an agreement with farmers.",
     "source": [
       "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SGAE points to artificial intelligence as a new threat for 'pirating' authors' styles",
+    "summary": "The Spanish rights management society denounces that AI reproduces the style of its members without authorization.",
+    "source": [
+      "bandaancha.eu"
     ],
     "count": 1
   }

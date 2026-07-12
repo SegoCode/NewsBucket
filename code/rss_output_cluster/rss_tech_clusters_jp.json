@@ -1,76 +1,16 @@
 [
   {
-    "title": "Apple、OpenAIを営業秘密とハードウェアの窃取で提訴",
-    "summary": "訴訟は、OpenAIが元Apple社員にチップの機密情報を漏洩させるキャンペーンを仕組んだと主張している。",
+    "title": "Apple、従業員引き抜きによる営業秘密の窃取疑惑でOpenAIを提訴",
+    "summary": "AppleはOpenAIが同社のエンジニアを勧誘し、保護技術を流用するための組織的なキャンペーンを行ったと非難している。",
     "source": [
-      "/r/technology",
       "the-decoder.com",
-      "kite.kagi.com",
-      "tomshardware.com",
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "wired.com"
-    ],
-    "count": 7
-  },
-  {
-    "title": "Meta、批判を受けInstagramのAI画像生成ツールを削除",
-    "summary": "この機能はユーザーの投稿から画像を作成できたが、プライバシー上の懸念から削除された。",
-    "source": [
-      "techcrunch.com",
-      "/r/technology",
       "kite.kagi.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft、ハッキングされたXboxアカウントを復元せずブラジルで敗訴",
-    "summary": "ブラジルの裁判所はMicrosoftに対し、アカウントと全ゲームを返還し、400ドルの損害賠償を支払うよう命じた。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
     "count": 2
   },
   {
-    "title": "SKハイニックス、2027年はメモリ不足の最悪の年に、2030年まで危機が続くと警告",
-    "summary": "同社CEOは、メモリチップの供給が深刻に減少し、それが何年も続くと予測した。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD Radeon RX 9070 GRE、500ドルを下回る価格に値下げ",
-    "summary": "このグラフィックカードは、発売からわずか1ヶ月でミッドレンジ市場で競争するために価格を9％引き下げた。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA Blackwell GPUの温度センサー、内部診断ツールで引き続きアクセス可能に",
-    "summary": "RTX 5070 Tiが107°Cに達し、サーマルペーストの塗布不良により性能が低下していることが確認された。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AIデータセンター拡大でMicrosoftの排出量が25%増加",
-    "summary": "AIインフラが拡大する中、同社は2030年の持続可能性目標の達成に困難に直面している。",
-    "source": [
-      "tomshardware.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI、GPT-5.6を公開、Sol、Terra、Lunaモデルを一般公開",
-    "summary": "Sol Ultraモデルは50年来の数学問題を1時間未満で解決し、Lunaモデルを自律的に訓練した。",
+    "title": "OpenAI、GPT-5.6をリリース—モデルSol、Terra、Luna搭載で50年来の数学問題を解決",
+    "summary": "OpenAIの新たなAIバージョンは最適化されたモデルを搭載し、数学的推論のマイルストーンを達成、一般公開される。",
     "source": [
       "the-decoder.com",
       "alternativeto.net"
@@ -78,99 +18,149 @@
     "count": 2
   },
   {
-    "title": "OpenAI、「ChatGPT Work」を発表、ブラウザ「Atlas」の終了を発表",
-    "summary": "同社は初期のユーザビリティとコストの問題を認め、それらを解決するために取り組んでいる。",
+    "title": "OpenAI、ChatGPT Workをリリース、起動時の問題を認めユーザー体験を修正中",
+    "summary": "同社は新しい仕事用ツールの不具合修正を急ぎ、ブラウザAtlasの終了を発表。",
     "source": [
-      "alternativeto.net",
-      "the-decoder.com"
+      "the-decoder.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "政府効率化部門（DOGE）が正式に閉鎖",
-    "summary": "米政府のコスト削減イニシアチブは、数ヶ月の運用を経て終了した。",
+    "title": "AMD、Radeon RX 9070 GREを500ドル未満に値下げ、ミッドレンジ市場で競争へ",
+    "summary": "RDNA 4グラフィックカードが発売からわずか1ヶ月で価格を9％引き下げ、1440pゲームでNvidiaに対抗。",
     "source": [
-      "/r/technology"
+      "tomshardware.com",
+      "videocardz.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "欧州議会、Chat Control 1.0を裏口承認",
-    "summary": "物議を醸すデジタル通信監視措置が欧州の法律に盛り込まれる。",
+    "title": "RTX 50のホットスポット温度センサー、Nvidia内部MODSツールで引き続きアクセス可能",
+    "summary": "RTX 5070 Tiは放熱グリス不良で107°Cに達し、診断は内部ツールでのみ可能。",
     "source": [
-      "/r/technology"
+      "tomshardware.com",
+      "videocardz.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "Google、欧州でのウェブサイトブロッキングに反対、米国は海賊版対策を推進",
-    "summary": "同社は、欧州連合における著作権侵害によるページブロックの提案を批判している。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
+    "count": 2
   },
   {
     "title": "テロ組織、攻撃計画と兵器開発にAIチャットボットを利用",
-    "summary": "報告書によると、過激派組織が主要なAIアシスタントを攻撃目的で利用している。",
+    "summary": "報告書によると、過激派組織がChatGPTなどのツールを軍事目的に利用している。",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "被害者を代表するために雇われたランサムウェア交渉人、実は攻撃者側だった",
-    "summary": "この男は、守るべき被害者を裏切った罪で懲役6年の判決を受けた。",
+    "title": "Zimbraの重大な脆弱性により、操作された電子メールで悪意のあるコード実行が可能に",
+    "summary": "メールサーバーのセキュリティ上の欠陥により、追加の操作なしでユーザーセッションが危険にさらされる可能性がある。",
     "source": [
-      "/r/technology"
+      "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "米サイバーセキュリティ機関CISA、インシデント対応計画を事中に策定したと認める",
-    "summary": "CISA長官は、事前に準備されたインシデントマニュアルがなく、その場で作成したことを明らかにした。",
+    "title": "npmパッケージjscramblerのバージョン8.14.0、Rustで書かれた情報窃盗型マルウェアを配布",
+    "summary": "攻撃者は公式リリースを侵害し、インストール中にシステムを感染させた。",
+    "source": [
+      "thehackernews.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "サイバー犯罪者、バロチスタン警察ポータルを利用した複数グループによるスパイ活動",
+    "summary": "複数のハッカーグループが政府サイトを利用して諜報活動を行っている。",
+    "source": [
+      "thehackernews.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "中国のOrcaモデル、動作ラベルなしで専門ロボットシステムに匹敵",
+    "summary": "AIシステムはラベル付きデータで訓練されたモデルに匹敵する性能を達成。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Meta Muse Spark 1.1、プログラミングタスクでGLM-5.2を上回り、低コスト",
+    "summary": "Metaの新モデルはコード生成性能が向上し、コストも低い。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "OpenAIは家族向けに注力、ファミリープランでChatGPTを家庭へ",
+    "summary": "同社は複数の家族がAIを使用できる新しいサブスクリプションを開始。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "GitHub上の偽DNSスキャナー、200以上のリポジトリを介してマルウェアを拡散",
-    "summary": "「Muck and Load」作戦は1月から700個の悪意あるモジュールを公開し、開発者に感染させた。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ジョンディア、トラクター修理の完全な支配権を失い、10年間の監督下に",
-    "summary": "同社は、メンテナンスの独占を制限する合意後、独立した修理を許可しなければならない。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "中国探査機、天文学者を困惑させた小惑星に到着、初画像を送信",
-    "summary": "中国は奇妙とされる小惑星に到達し、最初の写真は現在の理論を変える可能性がある。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "GTA 6発売前にPCでPS5エミュレーションを目指す競争が開始",
-    "summary": "次期大作タイトルを見据え、一部の2DゲームはすでにPCでエミュレーションにより動作している。",
+    "title": "GTA 6発売前にPCでのPS5エミュレーション競争が始まる",
+    "summary": "PS5の2Dゲームはエミュレータで動作しているが、フルサポートにはまだ遠い。",
     "source": [
       "videocardz.com"
     ],
     "count": 1
   },
   {
-    "title": "スイス、標高2500メートル設置の太陽光パネルに雪が意外な味方であることを発見",
-    "summary": "雪の反射が高山の太陽光パネルのエネルギー生産を増加させる。",
+    "title": "Xbox、来週にも物理ディスクをデジタル化するPositronシステムを発表か",
+    "summary": "この機能により、ユーザーはディスクゲームをデジタルコピーと交換できるようになる。",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SKハイニックス、2027年はメモリ不足の最悪年と警告、危機は2030年まで続く",
+    "summary": "韓国企業のCEOは今後数年間の深刻なメモリチップ不足を予測。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "TSMC、今後2年間でフォトニック集積回路の製造能力拡大を計画",
+    "summary": "台湾メーカーはシリコンの限界を超えるためフォトニクスに注力。",
+    "source": [
+      "/r/hardware"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Lenovo、Wildcat Lake Core 7 360プロセッサ搭載の初のThinkPadを発表、最大32GB DDR5",
+    "summary": "新しいノートパソコンシリーズは効率性と次世代メモリを組み合わせている。",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "LPCAMM2：ゲーミングノートPCで半田付けメモリに取って代わる新標準",
+    "summary": "このメモリモジュール形式はアップグレードが容易で、パフォーマンスを向上させる。",
+    "source": [
+      "hardzone.es"
+    ],
+    "count": 1
+  },
+  {
+    "title": "John Deere、トラクター修理の独占的支配権を失い、10年間監視下に",
+    "summary": "同社は農家との合意後、独立した修理を許可しなければならない。",
     "source": [
       "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SGAE、AIを作家のスタイルを「海賊版」にする新たな脅威として指摘",
+    "summary": "スペインの著作権管理団体は、AIが許可なく会員のスタイルを複製していると非難。",
+    "source": [
+      "bandaancha.eu"
     ],
     "count": 1
   }

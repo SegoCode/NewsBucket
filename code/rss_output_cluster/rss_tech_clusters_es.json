@@ -1,76 +1,16 @@
 [
   {
-    "title": "Apple demanda a OpenAI por presunto robo de secretos comerciales y de hardware",
-    "summary": "La demanda alega que OpenAI orquestó una campaña para que exempleados de Apple revelaran información confidencial sobre chips.",
+    "title": "Apple demanda a OpenAI por presunto robo de secretos comerciales mediante caza de empleados",
+    "summary": "Apple acusa a OpenAI de orquestar una campaña para reclutar a sus ingenieros y apropiarse de tecnologías protegidas.",
     "source": [
-      "/r/technology",
       "the-decoder.com",
-      "kite.kagi.com",
-      "tomshardware.com",
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "wired.com"
-    ],
-    "count": 7
-  },
-  {
-    "title": "Meta elimina su herramienta de imágenes generadas por IA en Instagram tras las críticas",
-    "summary": "La función permitía crear imágenes a partir de publicaciones de usuarios y fue retirada por preocupaciones de privacidad.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology",
       "kite.kagi.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft pierde juicio en Brasil por no restaurar cuenta de Xbox hackeada",
-    "summary": "Un tribunal brasileño ordenó a Microsoft devolver la cuenta con todos los juegos y pagar 400 dólares de indemnización.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
     "count": 2
   },
   {
-    "title": "SK Hynix advierte que 2027 será el peor año de escasez de memoria, con crisis hasta 2030",
-    "summary": "El CEO de la compañía pronosticó una grave contracción del suministro de chips de memoria que se prolongará durante años.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La AMD Radeon RX 9070 GRE baja su precio por debajo de los 500 dólares",
-    "summary": "La tarjeta gráfica reduce su precio un 9% para competir en el mercado de gama media apenas un mes después de su lanzamiento.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El sensor de temperatura de las GPU NVIDIA Blackwell sigue accesible mediante herramientas internas de diagnóstico",
-    "summary": "Se detectó que la RTX 5070 Ti alcanza los 107°C y reduce su rendimiento por una mala aplicación de pasta térmica.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las emisiones de Microsoft aumentan un 25% por la expansión de centros de datos de IA",
-    "summary": "La empresa enfrenta dificultades para cumplir su objetivo de sostenibilidad para 2030 mientras crece su infraestructura de inteligencia artificial.",
-    "source": [
-      "tomshardware.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI lanza GPT-5.6 con los modelos Sol, Terra y Luna para uso público",
-    "summary": "El modelo Sol Ultra resolvió un problema matemático de 50 años en menos de una hora y entrenó autónomamente al modelo Luna.",
+    "title": "OpenAI lanza GPT-5.6 con los modelos Sol, Terra y Luna y resuelve un problema matemático de 50 años",
+    "summary": "La nueva versión de la IA de OpenAI incluye modelos optimizados que logran hitos en razonamiento matemático y se pone a disposición del público.",
     "source": [
       "the-decoder.com",
       "alternativeto.net"
@@ -78,99 +18,149 @@
     "count": 2
   },
   {
-    "title": "OpenAI presenta ChatGPT Work y anuncia el cierre del navegador Atlas",
-    "summary": "La compañía reconoce problemas iniciales de usabilidad y costes y trabaja para solucionarlos.",
+    "title": "OpenAI lanza ChatGPT Work y admite problemas en su lanzamiento mientras corrige la experiencia de usuario",
+    "summary": "La empresa se apresura a solucionar fallos en su nueva herramienta de trabajo y anuncia el cierre del navegador Atlas.",
     "source": [
-      "alternativeto.net",
-      "the-decoder.com"
+      "the-decoder.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "El Departamento de Eficiencia Gubernamental (DOGE) cierra oficialmente",
-    "summary": "La iniciativa de reducción de costos del gobierno estadounidense llega a su fin tras meses de operación.",
+    "title": "AMD reduce el precio de la Radeon RX 9070 GRE a menos de 500 dólares para competir en el mercado de gama media",
+    "summary": "La tarjeta gráfica RDNA 4 baja un 9% su precio apenas un mes después de su lanzamiento para enfrentarse a Nvidia en juegos 1440p.",
     "source": [
-      "/r/technology"
+      "tomshardware.com",
+      "videocardz.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "El Parlamento Europeo aprueba Chat Control 1.0 por la puerta de atrás",
-    "summary": "La controvertida medida de vigilancia de comunicaciones digitales se abre paso en la legislación europea.",
+    "title": "El sensor de temperatura hotspot de las RTX 50 sigue accesible mediante la herramienta MODS interna de Nvidia",
+    "summary": "Las RTX 5070 Ti alcanzan 107 °C por mala aplicación de pasta térmica, y el diagnóstico solo es posible con herramientas internas.",
     "source": [
-      "/r/technology"
+      "tomshardware.com",
+      "videocardz.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "Google se opone al bloqueo de sitios web en Europa mientras EE.UU. avanza en medidas antipiratería",
-    "summary": "La compañía critica las propuestas de bloqueo de páginas por infracción de derechos de autor en la Unión Europea.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
+    "count": 2
   },
   {
     "title": "Grupos terroristas utilizan chatbots de IA para planificar ataques y desarrollar armas",
-    "summary": "Según un informe, organizaciones extremistas están aprovechando los principales asistentes de inteligencia artificial con fines ofensivos.",
+    "summary": "Según un informe, organizaciones extremistas aprovechan herramientas como ChatGPT para fines bélicos.",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Un negociador de ransomware contratado para representar a víctimas en realidad trabajaba para los atacantes",
-    "summary": "El hombre fue condenado a seis años de prisión por traicionar a las víctimas que debía defender.",
+    "title": "Una vulnerabilidad crítica en Zimbra permite ejecutar código malicioso mediante correos electrónicos manipulados",
+    "summary": "La falla de seguridad en el servidor de correo podría comprometer sesiones de usuarios sin intervención adicional.",
     "source": [
-      "/r/technology"
+      "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "La agencia de ciberseguridad de EE.UU. CISA admite que tuvo que elaborar su plan de respuesta durante un incidente",
-    "summary": "El director de CISA reveló que carecían de un manual de incidentes preparado y lo desarrollaron sobre la marcha.",
+    "title": "La versión 8.14.0 del paquete npm jscrambler distribuye un ladrón de información escrito en Rust",
+    "summary": "Un atacante comprometió el lanzamiento oficial para infectar sistemas durante la instalación.",
+    "source": [
+      "thehackernews.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Ciberdelincuentes utilizan el portal de la policía de Baluchistán en campañas de espionaje multi-grupo",
+    "summary": "Varios grupos de hackers aprovechan un sitio gubernamental para llevar a cabo operaciones de inteligencia.",
+    "source": [
+      "thehackernews.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El modelo Orca de China iguala a sistemas robóticos especializados sin haber visto ninguna etiqueta de acción",
+    "summary": "El sistema de inteligencia artificial logra un rendimiento comparable a modelos entrenados con datos etiquetados.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Meta Muse Spark 1.1 supera a GLM-5.2 en tareas de programación y es más barato",
+    "summary": "El nuevo modelo de Meta ofrece mejor rendimiento en generación de código a un costo inferior.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "OpenAI apuesta por las familias y lleva ChatGPT a los hogares con planes familiares",
+    "summary": "La compañía lanza nuevas suscripciones diseñadas para que varios miembros del hogar puedan usar la IA.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Un escáner DNS falso en GitHub distribuyó malware a través de más de 200 repositorios",
-    "summary": "La operación 'Muck and Load' publicó 700 módulos maliciosos desde enero, infectando a desarrolladores.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "John Deere pierde el control total sobre las reparaciones de sus tractores y estará bajo supervisión 10 años",
-    "summary": "La empresa deberá permitir reparaciones independientes tras un acuerdo que limita su monopolio sobre el mantenimiento.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La sonda china llega al asteroide que desconcertó a los astrónomos y envía su primera imagen",
-    "summary": "China ha alcanzado un asteroide considerado extraño y las primeras fotos podrían cambiar las teorías actuales.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Comienza la carrera por la emulación de PS5 en PC antes del lanzamiento de GTA 6",
-    "summary": "Algunos juegos en 2D ya funcionan en PC mediante emulación, en anticipación al próximo gran título.",
+    "title": "Comienza la carrera por emular la PS5 en PC antes del lanzamiento de GTA 6",
+    "summary": "Ya se ejecutan juegos 2D de PS5 en emuladores, aunque el soporte completo aún está lejos.",
     "source": [
       "videocardz.com"
     ],
     "count": 1
   },
   {
-    "title": "Suiza descubre que la nieve es aliada inesperada de los paneles solares instalados a 2.500 metros",
-    "summary": "El reflejo de la nieve aumenta la producción de energía de los paneles solares en alta montaña.",
+    "title": "Xbox podría lanzar el sistema Positron para convertir discos físicos en digitales la próxima semana",
+    "summary": "La función permitiría a los usuarios canjear sus juegos en disco por copias digitales.",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SK Hynix advierte que 2027 será el peor año de escasez de memoria y que la crisis durará hasta 2030",
+    "summary": "El CEO de la compañía surcoreana pronostica una grave escasez de chips de memoria en los próximos años.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "TSMC planea expandir su capacidad de fabricación de circuitos integrados fotónicos en los próximos dos años",
+    "summary": "El fabricante taiwanés apuesta por la fotónica para superar los límites del silicio.",
+    "source": [
+      "/r/hardware"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Lenovo presenta los primeros ThinkPads con procesador Wildcat Lake Core 7 360 y hasta 32 GB DDR5",
+    "summary": "La nueva gama de portátiles combina eficiencia y memoria de última generación.",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "LPCAMM2: el nuevo estándar que reemplazará a la memoria soldada en portátiles gaming",
+    "summary": "Este formato de módulo de memoria permite una actualización sencilla y mejora el rendimiento.",
+    "source": [
+      "hardzone.es"
+    ],
+    "count": 1
+  },
+  {
+    "title": "John Deere pierde el control exclusivo de las reparaciones de sus tractores y queda bajo supervisión durante 10 años",
+    "summary": "La empresa deberá permitir reparaciones independientes tras un acuerdo con los agricultores.",
     "source": [
       "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "La SGAE señala a la inteligencia artificial como nueva amenaza por 'piratear' el estilo de los autores",
+    "summary": "La sociedad de gestión de derechos española denuncia que la IA reproduce el estilo de sus miembros sin autorización.",
+    "source": [
+      "bandaancha.eu"
     ],
     "count": 1
   }
