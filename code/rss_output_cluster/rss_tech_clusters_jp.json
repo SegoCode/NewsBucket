@@ -1,62 +1,26 @@
 [
   {
-    "title": "暑さ、テクノロジー、昼寝が健康に影響を与える、複数の科学的研究による",
-    "summary": "複数の科学的研究が、血液と意思決定への暑さの影響、看護師のテクノロジー疲れ、記憶における昼寝の役割、ペプチド生成のためのAI応用について警告している。",
+    "title": "Apple M7 Ultra、1.5TBのユニファイドメモリとBlackwellクラスの性能を目指す",
+    "summary": "噂によると、AppleはM6チップをスキップしてM7に注力し、AIとメモリに大幅な改良を加える可能性がある。ただし、発売はメモリの入手状況に依存する。",
     "source": [
-      "xataka.com",
-      "/r/technology",
-      "wired.com"
+      "tomshardware.com",
+      "videocardz.com",
+      "kite.kagi.com"
     ],
     "count": 3
   },
   {
-    "title": "人工知能の重要な進展：自律エージェント、解釈可能性、雇用に関する議論",
-    "summary": "AIモデルはコスト削減と速度向上を実現し、エージェントはウェブサイトを閲覧したりSlay the Spireをプレイしたりする。一方、OpenAIは雇用創出について議論し、S&PはOracleのリスクを警告している。",
+    "title": "AMD、NVIDIAに対抗するためドライバーで8倍フレーム生成を準備",
+    "summary": "AMDの実験的なドライバーは、最大8倍のフレーム倍率を備えたFSRの次の進化を示唆している。",
     "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "新ハードウェア：AMDプロセッサ、MiniLEDモニター、電源ユニット、PCケース",
-    "summary": "AMDはテーマ別CPUを発売しFSR 8Xをテスト、HKCは31.4インチMiniLEDモニターを発表、MSI Afterburnerはマップを改善、Thermaltakeは2台PC用ケースを発売、Cooler Masterは750W電源を改良。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "スペインのテクノロジー市場：材料不足、輸入コスト上昇、新製品",
-    "summary": "銅と繊維の不足、中国からの輸送費高騰、ゲームランチャー統一やコントローラー・SSD選択のガイド、Windroseデバイスの成功が話題を集めている。",
-    "source": [
-      "hardzone.es",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "データセンター：アイルランドでの記録的な消費、政治的論争、ワイオミング州での汚染",
-    "summary": "アイルランドのデータセンターが国内電力の23％を消費、ワイオミング州でのMetaのデータセンター建設が汚染と珍しい細菌を引き起こし、この問題が選挙戦に取り上げられている。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AI生成コンテンツの台頭がLinkedInや他のプラットフォームの質を低下させる",
-    "summary": "ジャーナリストが合成記事に取って代わられ、LinkedInはAI投稿や偽の求人で溢れ、専門家はオンラインコミュニティにおける知識のリセットを警告している。",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lenovo、Ryzen AIプロセッサとRTX 5070グラフィックスを搭載したゲーミングおよびプロフェッショナル向けノートPCを発表",
-    "summary": "新しいLegionとYOGAは、AMD Ryzen AI Max+ CPU、RTX 5070およびRadeon 8060S GPUを搭載し、価格は3,375ドルを超える。",
+    "title": "Valve、BIOSアップデートでSteam Machineの過熱警告を修正へ",
+    "summary": "警告の赤色ライトが早まって点灯していた問題を修正。BIOSがしきい値を100°Cに引き上げ、誤検出を防ぐ。",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -64,119 +28,156 @@
     "count": 2
   },
   {
-    "title": "米国の大学、AI使用対策として電子機器を禁止",
-    "summary": "シカゴ大学は法学の授業でコンピューターと電話を禁止、ブラウン大学の教授は試験でAIの助けがないと成績が48％低下することを観察。",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta、ソーシャルメディア中毒判決を控訴、AI画像生成機能を削除",
-    "summary": "Metaはソーシャルメディア中毒の責任を認める判決を控訴、勝訴した弁護士は'聖戦'と評し、同社はInstagramで同意なしに写真を生成していたMuseを無効化。",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 11 Copilotがメモリを消費、管理者はMicrosoftを批判、Windows 95の逸話が思い出される",
-    "summary": "Copilotアシスタントは1GBのRAMを使用、IT管理者はMicrosoftのアプリにうんざり、あるベテランはWindows 95がインストーラーを推測していたことを思い出す。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "最初のソーシャルネットワークは5万7000年前、ユーザーはNetflixのシリーズとステータス更新を放棄",
-    "summary": "研究により狩猟採集民がすでにソーシャルネットワークを形成していたことが判明、Netflix加入者は最初のエピソードでシリーズを離脱、大多数のアメリカ人がソーシャルメディアへの投稿をやめている。",
+    "title": "Meta、批判を受けInstagramの写真から画像を生成するAI機能を撤回",
+    "summary": "ユーザーの画像を無断で使用していたこの機能は強い反発を招き、無効化された。",
     "source": [
       "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ロード、マドリードのフェスティバルでRay-Ban Meta AIグラスを批判し「セクシーじゃない」と評価",
+    "summary": "ニュージーランドの歌手は、フェスティバルでのパフォーマンス中にMetaのウェアラブル技術への拒否感を表明した。",
+    "source": [
+      "kite.kagi.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Apple、営業秘密の窃盗でOpenAIを訴え、Apple-1コンピュータを競売",
-    "summary": "Appleは秘密を盗んだとしてOpenAIを提訴、一方サザビーズは初代シリーズの動作するApple-1を競売にかける。",
+    "title": "Anthropic、OpenAIとの価格競争の中で加入者向けClaude Fable 5の無料アクセスを延長",
+    "summary": "この延長により、ユーザーは7月19日までAIモデルを試用できる。一方、OpenAIはGPT-5.6 Solをリリース。",
     "source": [
-      "tomshardware.com",
-      "xataka.com"
+      "the-decoder.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Linux 7.2-rc3、Dreamcastコンソールの修正を含む、小型エミュレーターが人気に",
-    "summary": "Linuxカーネルは伝説的なDreamcastコンソールをサポートし続け、愛好家は古典的なビデオゲームを保存するためのTiny Emulatorsの開発を強調している。",
+    "title": "アイルランドのデータセンター、2025年に国内全家庭とほぼ同量の電力を消費",
+    "summary": "サーバーは送電網の制限にもかかわらず、国内エネルギー消費の23%を占めた。",
     "source": [
-      "news.ycombinator.com",
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "ロボタクシーが監視下に、交通渋滞緩和の提案",
-    "summary": "TechCrunchはロボタクシー分野の最後通牒を報じ、Hacker Newsでは都市部の渋滞緩和戦略が議論されている。",
+    "title": "UberとWaymoの対立が激化、アトランタでロビー活動とドライバーの抗議",
+    "summary": "Uberは規制当局に圧力をかけ、ドライバーはWaymoの拡大に制限を求める。TechCrunchはロボタクシーに関する最後通告を公開。",
     "source": [
       "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "サンフランシスコ警察のドローン画像流出とLAPDのナンバープレート読み取りカメラ契約終了",
+    "summary": "ドローンやカメラによる都市監視は、公的監視の強化と使用制限の決定に直面している。",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AIを使用して人間のジャーナリストに代わる偽のニュースコンテンツを生成する懸念",
+    "summary": "ジャーナリストが解雇された後も、企業は彼の名前でAI生成記事を公開し続けた。また、調査によるとLinkedInがAI生成コンテンツの最大の拡散源である。",
+    "source": [
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Secure BootのアップデートがWindows 11とDebian 13.6で問題を引き起こす",
+    "summary": "MicrosoftはWindows 11のSecure Boot更新における不具合を認める一方、Debianはセキュリティ変更を伴うバージョン13.6をリリース。",
+    "source": [
+      "/r/technology",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Claude Code、統合ブラウザを搭載しトークン送信を最適化",
+    "summary": "AnthropicのAIツールはWebサイトの読み取りやクリックが可能に。比較ではOpenCodeよりも送信トークンが少ないことが示されている。",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Windows 11、電話統合へ、Copilotアシスタントが1GBのRAMを消費",
+    "summary": "Microsoftは電話とのさらなる統合をテスト中。CopilotはPCのパフォーマンスを報告する一方、かなりのメモリを使用している。",
+    "source": [
+      "kite.kagi.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ドイツのコンソーシアムがオープンモデルSoofi Sを公開、AI購入者はより安価なシステムへ",
+    "summary": "Soofi Sは英語とドイツ語で他のモデルを凌駕。一方、市場はより経済的なAIソリューションへと向かっている。",
+    "source": [
+      "the-decoder.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "批評家によると、新しい情報を発見する能力は衰退している",
+    "summary": "2つの記事が、関連コンテンツを見つける能力の低下を警告し、現在のアルゴリズムに疑問を投げかけている。",
+    "source": [
+      "/r/technology",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "宇宙初の月経研究と地球を照らす軌道鏡の承認",
-    "summary": "2人の女性科学者が2027年に微小重力下での月経を研究するために旅立ち、FCCは太陽光を反射する巨大な鏡を備えた衛星を承認。",
+    "title": "AIがニューヨークで看護師を置き換え、Photoshopに別れを告げる",
+    "summary": "自動化は創造的・医療専門職に影響を与えており、ケアの質に関する懸念が生じている。",
     "source": [
-      "xataka.com",
+      "/r/technology",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AIによる犯罪の法的責任に関する議論",
+    "summary": "自律システムが犯罪を犯した場合に誰が責任を負うべきか、専門家が議論している。",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lenovo、メモリ拡張不可のLunar LakeミニPCとRTX 5070搭載ゲーミングノートLegion 7aを発表",
+    "summary": "同社は、際立った仕様を持つ異なるセグメント向けデバイスを発表した。",
+    "source": [
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "4分で充電できる新しいナトリウム電池、欧州の電気自動車販売は不均衡な地図を示す",
-    "summary": "ナトリウム電池は超高速充電と長寿命を提供、一方欧州の電気自動車販売は国によって大きな差があり、スカンジナビア半島がリードしている。",
+    "title": "PS5エミュレーターが3Dゲームをロード、DreamcastがLinuxでサポート",
+    "summary": "エミュレーションシーンが進歩。PS5エミュレーターがGTA Vのメニューに到達し、DreamcastがLinuxに含まれる。",
     "source": [
-      "/r/technology",
-      "xataka.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "スーパーマーケットの価格監視に反対する法律とスペインでのサブスクリプション共有プラットフォーム",
-    "summary": "米国3州がスーパーマーケットの価格監視を禁止、一方スペインではデジタルサブスクリプションの費用を共有する合法的なプラットフォームが登場。",
+    "title": "銅とガラス繊維の不足が業界を脅かす一方、Huaweiは自社DRAM工場を建設",
+    "summary": "電子機器向けの重要な材料が不足しており、メーカーは自社メモリ生産などの代替手段を模索している。",
     "source": [
-      "/r/technology",
+      "hardzone.es",
       "xataka.com"
     ],
     "count": 2
-  },
-  {
-    "title": "大手テクノロジー企業、データ窃盗とAIを決定の言い訳に使っていると非難される",
-    "summary": "ある記事はテクノロジー企業がデータを盗み民主主義を弱体化させていると非難、別の記事は企業がAIを削減や拡大の口実に使っていると指摘。",
-    "source": [
-      "/r/technology",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "愛好家が独自のGPUを構築、初めて自宅でプリント基板を設計",
-    "summary": "メーカーコミュニティは自宅でGPUを製造可能であることを実証、他の愛好家はPCB基板の設計と組み立ての経験を共有。",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ブラジルのYouTuber、GIMPでPhotoshopのツールを無料かつオープンソースで再現",
-    "summary": "このコンテンツ制作者は、GIMPがPhotoshopの主要機能を模倣できることを示し、Adobeソフトウェアに代わる無料の代替手段を提供する。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
   }
 ]
