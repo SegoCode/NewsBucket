@@ -1,76 +1,17 @@
 [
   {
-    "title": "Artificial intelligence redefines work and research between optimism and concern",
-    "summary": "Studies reveal that AI reduces the quality of knowledge in online communities, but also boosts scientific careers, while executives debate its impact on employment.",
+    "title": "Heat, technology, and napping impact health according to multiple scientific studies",
+    "summary": "Various scientific studies warn about the effects of heat on blood and decision-making, technological fatigue in nursing, the role of napping in memory, and the application of AI to generate peptides.",
     "source": [
-      "/r/technology",
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "xataka.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Meta and Apple face lawsuits over privacy and social media addiction",
-    "summary": "Meta appeals a verdict that blames it for addiction and removes its AI image feature, while Apple sues OpenAI for theft of trade secrets.",
-    "source": [
-      "/r/technology",
-      "the-decoder.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "New gaming hardware launches: AMD, Lenovo, and the DDR5 debate",
-    "summary": "AMD presents Valorant-themed processors, Lenovo renews its Legion laptop with RTX 5070, and the convenience of DDR5 memory in 2026 is analyzed.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "LinkedIn leads production of AI-generated content and a YouTuber clones Photoshop in GIMP",
-    "summary": "A study places LinkedIn as the platform with the most 'AI slop', while a Brazilian creator replicates Photoshop in GIMP and the social network becomes a dating app.",
-    "source": [
-      "the-decoder.com",
       "xataka.com",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Medical advances: shingles vaccine reduces risk of dementia and new sodium battery charges in minutes",
-    "summary": "The shingles vaccine could prevent dementia, a sodium battery charges in four minutes, and AI generates new peptides for therapeutic purposes.",
-    "source": [
-      "news.ycombinator.com",
       "/r/technology",
       "wired.com"
     ],
     "count": 3
   },
   {
-    "title": "55% of Americans stopped posting on social media, according to a study",
-    "summary": "Research reveals that the majority of users abandoned posting status updates on social platforms.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Universities ban electronic devices to combat AI in classrooms",
-    "summary": "The University of Chicago bans electronic devices in law classes, while a Brown professor discovers that grades drop drastically when students do not use AI.",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Claude Code incorporates web browser and is compared with OpenCode in token usage",
-    "summary": "The artificial intelligence tool for programming can now read and click on websites, and it is revealed that it sends many more tokens than its competition.",
+    "title": "Key advances in artificial intelligence: autonomous agents, interpretability, and debate on employment",
+    "summary": "AI models reduce costs and improve speed, agents browse websites and play Slay the Spire, while OpenAI discusses job creation and S&P warns of Oracle risk.",
     "source": [
       "news.ycombinator.com",
       "the-decoder.com"
@@ -78,8 +19,26 @@
     "count": 2
   },
   {
-    "title": "Windows 11 Copilot consumes 1 GB of RAM and Windows 95 detected installers by name",
-    "summary": "The Copilot assistant uses a lot of memory to show PC performance, while a veteran developer explains that Windows 95 did not detect installers but rather guessed.",
+    "title": "New hardware: AMD processors, MiniLED monitors, power supplies, and PC cases",
+    "summary": "AMD launches themed CPUs and tests FSR 8X, HKC presents a 31.4-inch MiniLED monitor, MSI Afterburner improves maps, Thermaltake launches case for two PCs, and Cooler Master revises 750W power supply.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The technology market in Spain: material shortages, rising import costs, and new products",
+    "summary": "The shortage of copper and fiber, the increase in shipping costs from China, guides to unify game launchers and choose controllers or SSDs, and the success of the Windrose device mark the current news.",
+    "source": [
+      "hardzone.es",
+      "bandaancha.eu"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Data centers: record consumption in Ireland, political controversy, and pollution in Wyoming",
+    "summary": "Irish data centers consumed 23% of the national electricity, construction of a Meta center in Wyoming generates pollution and rare bacteria, and the issue enters election campaigns.",
     "source": [
       "/r/technology",
       "tomshardware.com"
@@ -87,17 +46,89 @@
     "count": 2
   },
   {
-    "title": "Data centers consume as much electricity as homes in Ireland and cause bacterial contamination",
-    "summary": "Servers in Ireland use almost the same energy as all homes, and the construction of a Meta data center in Wyoming released rare bacteria.",
+    "title": "The rise of AI-generated content degrades quality on LinkedIn and other platforms",
+    "summary": "Journalists are replaced by synthetic articles, LinkedIn is flooded with AI posts and fake job offers, and experts warn of a knowledge reset in online communities.",
+    "source": [
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lenovo presents gaming and professional laptops with Ryzen AI processors and RTX 5070 graphics",
+    "summary": "The new Legion and YOGA incorporate AMD Ryzen AI Max+ CPUs, RTX 5070 and Radeon 8060S GPUs, with prices above $3,375.",
     "source": [
       "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "US universities ban electronic devices to combat the use of AI",
+    "summary": "The University of Chicago bans computers and phones in law classes, while a Brown professor notes that grades drop 48% without AI help on exams.",
+    "source": [
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta appeals verdict on social media addiction and removes AI image generation feature",
+    "summary": "Meta appeals a ruling blaming it for social media addiction, the winning lawyer calls it a 'holy war', and the company disables Muse which generated photos without consent on Instagram.",
+    "source": [
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Windows 11 Copilot consumes memory as administrators criticize Microsoft and anecdotes of Windows 95 are recalled",
+    "summary": "The Copilot assistant uses 1 GB of RAM, IT administrators are fed up with Microsoft's applications, and a veteran recalls how Windows 95 guessed installers.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The first social network is 57,000 years old and users abandon Netflix series and status updates",
+    "summary": "A study reveals that hunter-gatherers already formed social networks, Netflix subscribers leave series after the first episode, and most Americans have stopped posting on social media.",
+    "source": [
+      "xataka.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "FCC approves orbital mirrors to reflect sunlight and proposes freezing the Arctic",
-    "summary": "The Federal Communications Commission authorizes satellites with mirrors to illuminate Earth, while a plan suggests refreezing the Arctic to slow melting.",
+    "title": "Apple sues OpenAI for theft of trade secrets and auctions Apple-1 computer",
+    "summary": "Apple files a lawsuit against OpenAI for stealing secrets, while Sotheby's auctions a functioning Apple-1 from the first series.",
+    "source": [
+      "tomshardware.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Linux 7.2-rc3 includes fixes for the Dreamcast console and small emulators gain popularity",
+    "summary": "The Linux kernel continues to support the legendary Dreamcast console, while enthusiasts highlight the development of Tiny Emulators to preserve classic video games.",
+    "source": [
+      "news.ycombinator.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Robotaxis under scrutiny and proposals to reduce traffic congestion",
+    "summary": "TechCrunch reports on an ultimatum in the robotaxi sector, while Hacker News discusses strategies to alleviate urban traffic jams.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "First menstrual study in space and approval of orbital mirrors to illuminate Earth",
+    "summary": "Two female scientists will travel in 2027 to research menstruation in microgravity, and the FCC authorizes satellites with giant mirrors to reflect sunlight.",
     "source": [
       "xataka.com",
       "tomshardware.com"
@@ -105,74 +136,46 @@
     "count": 2
   },
   {
-    "title": "Chinese courts allow inheritance of video game accounts and virtual items",
-    "summary": "Judges set legal precedents that recognize inheritance of digital properties such as games and in-game items.",
+    "title": "New sodium battery charges in 4 minutes and electric car sales in Europe show an uneven map",
+    "summary": "A sodium battery offers ultra-fast charging and long life, while electric vehicle sales in Europe reflect large differences between countries, led by the Scandinavian peninsula.",
     "source": [
-      "/r/technology"
+      "/r/technology",
+      "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Ukrainians use VPN to alter status of fuel stations on Russian maps",
-    "summary": "Through VPN connections, Ukrainian citizens modify gas station indicators in map applications to generate chaos in Russia.",
+    "title": "Laws against price surveillance in supermarkets and platforms to share subscriptions in Spain",
+    "summary": "Three US states ban price surveillance in supermarkets, while in Spain legal platforms emerge to share costs of digital subscriptions.",
     "source": [
-      "/r/technology"
+      "/r/technology",
+      "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Sony executives sell shares after announcement of end of physical disc games",
-    "summary": "Several top Sony executives sold their stakes after PlayStation announced it will stop releasing new games on physical discs.",
+    "title": "Big tech companies are accused of stealing data and using AI as an excuse for their decisions",
+    "summary": "One article denounces that tech companies steal data and undermine democracy, while another points out that companies use AI as a pretext to cut back or expand.",
     "source": [
-      "/r/technology"
+      "/r/technology",
+      "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "IT administrators show frustration with Windows 11 bloatware",
-    "summary": "Technology professionals express their discontent with unwanted applications and Microsoft's direction.",
+    "title": "Hobbyists build their own GPU and design their first printed circuit at home",
+    "summary": "The maker community demonstrates that it is possible to manufacture a GPU from home, while other enthusiasts share experiences designing and assembling PCB boards.",
     "source": [
-      "/r/technology"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Linux 7.2-rc3 updates Sega Dreamcast drivers while dropping classic architectures",
-    "summary": "The new Linux kernel includes fixes for the Dreamcast console, which continues to receive support unlike CPUs such as i486.",
+    "title": "A Brazilian YouTuber recreates Photoshop tools in GIMP for free and open source",
+    "summary": "The content creator shows how GIMP can imitate the main functions of Photoshop, offering a free alternative to Adobe software.",
     "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "MSI Afterburner adds frequency/voltage maps for NVIDIA GPUs",
-    "summary": "The overclocking tool shows how NVIDIA graphics cards follow the Boost curve in real time.",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AMD tests multi-frame generation FSR up to 8X in its drivers",
-    "summary": "According to reports, AMD is developing an improved version of FSR that multiplies frames generated by artificial intelligence.",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Thermaltake launches CAPO X case that houses two gaming PCs in a single chassis",
-    "summary": "The case allows assembling two independent computers to play on a network, with a price of $186.",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Sotheby's auctions a functional Apple-1 with serial number 01-0033",
-    "summary": "The auction house puts up for sale one of the first working Apple computers, part of its science history collection.",
-    "source": [
-      "tomshardware.com"
+      "xataka.com"
     ],
     "count": 1
   }
