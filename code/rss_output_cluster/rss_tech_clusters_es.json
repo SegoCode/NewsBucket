@@ -1,7 +1,7 @@
 [
   {
-    "title": "El Apple M7 Ultra apunta a 1.5 TB de memoria unificada y rendimiento de clase Blackwell",
-    "summary": "Los rumores indican que Apple saltaría los chips M6 para centrarse en el M7 con mejoras masivas en IA y memoria, aunque su lanzamiento dependería de la disponibilidad de memoria.",
+    "title": "Apple prepara el chip M7 Ultra con 1,5 TB de memoria unificada para IA de clase Blackwell",
+    "summary": "Los rumores indican que Apple saltará los chips M6 de gama alta para lanzar el M7 Ultra en 2028, con soporte de hasta 1,5 TB de memoria y rendimiento competitivo con NVIDIA Blackwell.",
     "source": [
       "tomshardware.com",
       "videocardz.com",
@@ -10,8 +10,17 @@
     "count": 3
   },
   {
-    "title": "AMD prepara la generación múltiple de fotogramas 8x en sus controladores para competir con NVIDIA",
-    "summary": "Los drivers experimentales de AMD insinúan la próxima evolución de FSR con multiplicación de fotogramas hasta 8x.",
+    "title": "Lenovo lanza un mini PC con Intel Lunar Lake y 16 GB de RAM no ampliable",
+    "summary": "Los nuevos ThinkCentre de Lenovo ofrecen procesadores Core Ultra 5 y 7 con arquitectura Lunar Lake, con precios desde 1.179 dólares.",
+    "source": [
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD habilita la generación múltiple de fotogramas hasta 8x en sus controladores experimentales",
+    "summary": "Los drivers de AMD apuntan a una próxima evolución de FSR que permitiría multiplicar la tasa de fotogramas por ocho, superando a NVIDIA.",
     "source": [
       "tomshardware.com",
       "hardzone.es"
@@ -19,8 +28,8 @@
     "count": 2
   },
   {
-    "title": "Valve corregirá la advertencia de sobrecalentamiento de las Steam Machine con una actualización de BIOS",
-    "summary": "La luz roja de advertencia se activaba antes de lo debido; la BIOS elevará el umbral a 100 °C para evitar falsos positivos.",
+    "title": "Valve corrige la advertencia de sobrecalentamiento en Steam Machines y eleva el umbral a 100 °C",
+    "summary": "Una actualización de BIOS solucionará el problema de la luz roja de sobrecalentamiento que se activaba antes de tiempo en las Steam Machines.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -28,8 +37,8 @@
     "count": 2
   },
   {
-    "title": "Meta retira la función de IA que generaba imágenes a partir de fotos de Instagram tras las críticas",
-    "summary": "La función, que usaba imágenes de los usuarios sin permiso, generó un fuerte rechazo y fue desactivada.",
+    "title": "Meta retira su función de IA generativa de imágenes a partir de fotos de Instagram tras la polémica",
+    "summary": "La herramienta, que generaba imágenes basadas en las fotos de los usuarios, fue eliminada días después de su lanzamiento por las críticas recibidas.",
     "source": [
       "xataka.com",
       "kite.kagi.com"
@@ -37,147 +46,126 @@
     "count": 2
   },
   {
-    "title": "Lorde critica las gafas Ray-Ban Meta AI en un festival de Madrid y las califica de \"poco sexis\"",
-    "summary": "La cantante neozelandesa expresó su rechazo a la tecnología wearable de Meta durante su actuación en el festival.",
-    "source": [
-      "kite.kagi.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic extiende el acceso gratuito a Claude Fable 5 para suscriptores en medio de la guerra de precios con OpenAI",
-    "summary": "La extensión permite a los usuarios probar el modelo de IA hasta el 19 de julio mientras OpenAI lanza GPT-5.6 Sol.",
+    "title": "Anthropic amplía el acceso gratuito a Claude Fable 5 para suscriptores en plena guerra de precios con OpenAI",
+    "summary": "La extensión del acceso hasta el 19 de julio se produce mientras OpenAI presiona con el lanzamiento de GPT-5.6 Sol.",
     "source": [
       "the-decoder.com",
       "kite.kagi.com"
     ],
     "count": 2
+  },
+  {
+    "title": "Lenovo presenta nuevos dispositivos Legion: un portátil con RTX 5070 y un handheld de cloud gaming",
+    "summary": "La compañía amplía su línea Legion con un portátil gaming de gama alta y un dispositivo portátil para juegos en la nube con soporte de Tencent START.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La demanda de IA se desplaza hacia modelos más eficientes y económicos",
+    "summary": "Empresas están migrando a sistemas de IA como GPT-5.6 que ofrecen mayor velocidad a menor coste, mientras los compradores se alejan de los modelos grandes y caros.",
+    "source": [
+      "news.ycombinator.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX recibe autorización para volver a volar el Starship tras la falla del booster en mayo",
+    "summary": "La FAA aprueba la reanudación de los vuelos de prueba del cohete Starship después de la investigación del accidente.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Las acciones de SK Hynix se desploman un 15% en su debut en el Nasdaq por pesimismo sobre ganancias",
+    "summary": "El fabricante de memoria surcoreano cae en bolsa tras su salida a bolsa en EE.UU. en medio de dudas sobre la demanda de semiconductores.",
+    "source": [
+      "/r/hardware"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Apple demanda a OpenAI por presunto robo de secretos comerciales de hardware",
+    "summary": "La demanda alega que OpenAI se apropió indebidamente de información confidencial sobre el diseño de chips de Apple.",
+    "source": [
+      "kite.kagi.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Gamers Nexus revela un cártel de discos duros con conspiración de precios",
+    "summary": "Una investigación expone un acuerdo ilegal entre fabricantes de discos duros para fijar precios, lo que derivó en una condena penal.",
+    "source": [
+      "/r/hardware"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Google presenta SensorFM, una capa de inteligencia general para datos de salud de wearables",
+    "summary": "La nueva herramienta de Google convierte el ruidoso flujo de datos de sensores portátiles en información útil para el seguimiento de la salud.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Claude Code de Anthropic ahora incluye un navegador integrado para leer e interactuar con sitios web",
+    "summary": "La nueva actualización permite que la IA navegue por páginas web externas, lea contenido y realice clics de forma autónoma.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "TSMC amplía sus plantas de empaquetado avanzado en Chiayi, Taiwán",
+    "summary": "La mayor fundición del mundo invierte en nuevas instalaciones de empaquetado para satisfacer la demanda de chips avanzados.",
+    "source": [
+      "kite.kagi.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Se filtra el diseño del Pixel 11 Pro Fold con un renovado módulo de cámara 'Pine'",
+    "summary": "Las imágenes filtradas muestran un rediseño del teléfono plegable de Google con un módulo de cámara reformado.",
+    "source": [
+      "kite.kagi.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Uber intensifica su lobby en el sector de robotaxis, chocando con Waymo",
+    "summary": "La presión de Uber para impulsar su servicio de taxis autónomos genera tensiones con Waymo, líder en el mercado.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Meta expande sus planes para el supercluster Hyperion a 5 GW e invierte 1.000 millones en infraestructura en Luisiana",
+    "summary": "El proyecto de IA de Meta alcanza una capacidad de 5 GW, con una inversión total prevista de más de 50.000 millones de dólares.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
   },
   {
     "title": "Los centros de datos en Irlanda consumieron casi tanta electricidad como todos los hogares del país en 2025",
-    "summary": "Los servidores representaron el 23% del consumo nacional de energía a pesar de las restricciones a la red.",
+    "summary": "Un informe revela que los servidores representaron el 23% del consumo eléctrico nacional, pese a las restricciones a la conexión.",
     "source": [
-      "/r/technology",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "El conflicto entre Uber y Waymo se intensifica con cabildeo y protestas de conductores en Atlanta",
-    "summary": "Uber presiona a los reguladores mientras los conductores piden límites a la expansión de Waymo, y TechCrunch publica un ultimátum sobre robotaxis.",
+    "title": "Un consorcio alemán de IA publica Soofi S, un modelo abierto de 30B que lidera benchmarks en inglés y alemán",
+    "summary": "El modelo Soofi S supera a otros modelos abiertos en pruebas de rendimiento en ambos idiomas, impulsando la investigación en IA.",
     "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Filtración de imágenes de drones policiales en San Francisco y fin del acuerdo de LAPD con cámaras lectoras de matrículas",
-    "summary": "La vigilancia urbana con drones y cámaras enfrenta un creciente escrutinio público y decisiones de restringir su uso.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Preocupación por el uso de IA para generar contenido periodístico falso que reemplaza a periodistas humanos",
-    "summary": "Un periodista fue despedido pero la empresa siguió publicando artículos con su nombre generados por IA, y un estudio señala a LinkedIn como el mayor difusor de contenido generado por IA.",
-    "source": [
-      "/r/technology",
       "the-decoder.com"
     ],
-    "count": 2
-  },
-  {
-    "title": "Actualizaciones de Secure Boot causan problemas en Windows 11 y Debian 13.6",
-    "summary": "Microsoft reconoce fallos en la actualización de Secure Boot en Windows 11 mientras Debian lanza su versión 13.6 con cambios de seguridad.",
-    "source": [
-      "/r/technology",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Claude Code incorpora navegador integrado y optimiza el envío de tokens",
-    "summary": "La herramienta de IA de Anthropic ahora puede leer y hacer clic en sitios web, mientras que una comparación muestra que envía menos tokens que OpenCode.",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 11 integrará el teléfono y su asistente Copilot consume 1 GB de RAM",
-    "summary": "Microsoft prueba una integración más profunda con teléfonos y Copilot ahora informa sobre el rendimiento del PC mientras usa una cantidad significativa de memoria.",
-    "source": [
-      "kite.kagi.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Consorcio alemán lanza modelo abierto Soofi S y los compradores de IA se decantan por sistemas más baratos",
-    "summary": "Soofi S supera a otros modelos en inglés y alemán, mientras el mercado se orienta hacia soluciones de IA más económicas.",
-    "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La capacidad de descubrir información nueva está en declive según críticos",
-    "summary": "Dos artículos advierten sobre la pérdida de la capacidad de encontrar contenido relevante y cuestionan los algoritmos actuales.",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La IA reemplaza a enfermeras en Nueva York y provoca una despedida a Photoshop",
-    "summary": "La automatización está afectando a profesiones creativas y sanitarias, generando preocupación sobre la calidad asistencial.",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Debate sobre la responsabilidad legal de los crímenes cometidos por IA",
-    "summary": "Expertos discuten quién debe asumir la culpa cuando un sistema autónomo comete un delito.",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lenovo lanza una mini PC Lunar Lake con memoria no ampliable y un portátil gaming Legion 7a con RTX 5070",
-    "summary": "La compañía presenta dispositivos para diferentes segmentos con especificaciones llamativas.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El emulador de PS5 ya carga juegos en 3D y el Dreamcast recibe soporte en Linux",
-    "summary": "La escena de la emulación avanza con el emulador de PS5 alcanzando menús de GTA V y la inclusión de Dreamcast en Linux.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La escasez de cobre y fibra de vidrio amenaza la industria, mientras Huawei construye su propia fábrica de DRAM",
-    "summary": "Los materiales críticos para la electrónica escasean y los fabricantes buscan alternativas como la producción propia de memoria.",
-    "source": [
-      "hardzone.es",
-      "xataka.com"
-    ],
-    "count": 2
+    "count": 1
   }
 ]

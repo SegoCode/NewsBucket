@@ -1,7 +1,7 @@
 [
   {
-    "title": "Apple M7 Ultra、1.5TBのユニファイドメモリとBlackwellクラスの性能を目指す",
-    "summary": "噂によると、AppleはM6チップをスキップしてM7に注力し、AIとメモリに大幅な改良を加える可能性がある。ただし、発売はメモリの入手状況に依存する。",
+    "title": "Apple は、Blackwell クラスの AI 向けに 1.5 TB のユニファイドメモリを搭載した M7 Ultra チップを準備中",
+    "summary": "噂によると、Apple はハイエンドの M6 チップをスキップし、2028 年に最大 1.5 TB のメモリをサポートし、NVIDIA Blackwell と競合するパフォーマンスを備えた M7 Ultra を発売する見込みです。",
     "source": [
       "tomshardware.com",
       "videocardz.com",
@@ -10,8 +10,17 @@
     "count": 3
   },
   {
-    "title": "AMD、NVIDIAに対抗するためドライバーで8倍フレーム生成を準備",
-    "summary": "AMDの実験的なドライバーは、最大8倍のフレーム倍率を備えたFSRの次の進化を示唆している。",
+    "title": "Lenovo が Intel Lunar Lake 搭載で RAM 16 GB 増設不可のミニ PC を発売",
+    "summary": "Lenovo の新しい ThinkCentre は、Lunar Lake アーキテクチャを採用した Core Ultra 5 および 7 プロセッサを搭載し、価格は 1,179 ドルからです。",
+    "source": [
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD、実験的なドライバーで最大 8 倍のマルチフレーム生成を有効化",
+    "summary": "AMD のドライバーは、FSR の次期進化形を示唆しており、フレームレートを 8 倍に増やし、NVIDIA を上回る可能性があります。",
     "source": [
       "tomshardware.com",
       "hardzone.es"
@@ -19,8 +28,8 @@
     "count": 2
   },
   {
-    "title": "Valve、BIOSアップデートでSteam Machineの過熱警告を修正へ",
-    "summary": "警告の赤色ライトが早まって点灯していた問題を修正。BIOSがしきい値を100°Cに引き上げ、誤検出を防ぐ。",
+    "title": "Valve、Steam Machines の過熱警告を修正し、しきい値を 100°C に引き上げ",
+    "summary": "BIOS アップデートにより、Steam Machines で早期に作動していた過熱の赤色警告灯の問題が修正されます。",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -28,8 +37,8 @@
     "count": 2
   },
   {
-    "title": "Meta、批判を受けInstagramの写真から画像を生成するAI機能を撤回",
-    "summary": "ユーザーの画像を無断で使用していたこの機能は強い反発を招き、無効化された。",
+    "title": "Meta、Instagram の写真から画像を生成する AI 機能を論争後に撤回",
+    "summary": "ユーザーの写真に基づいて画像を生成するツールは、批判を受けてリリースから数日後に削除されました。",
     "source": [
       "xataka.com",
       "kite.kagi.com"
@@ -37,17 +46,8 @@
     "count": 2
   },
   {
-    "title": "ロード、マドリードのフェスティバルでRay-Ban Meta AIグラスを批判し「セクシーじゃない」と評価",
-    "summary": "ニュージーランドの歌手は、フェスティバルでのパフォーマンス中にMetaのウェアラブル技術への拒否感を表明した。",
-    "source": [
-      "kite.kagi.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic、OpenAIとの価格競争の中で加入者向けClaude Fable 5の無料アクセスを延長",
-    "summary": "この延長により、ユーザーは7月19日までAIモデルを試用できる。一方、OpenAIはGPT-5.6 Solをリリース。",
+    "title": "Anthropic、OpenAI との価格競争の中、サブスクライバー向け Claude Fable 5 の無料アクセスを拡大",
+    "summary": "アクセスが 7 月 19 日まで延長されるのは、OpenAI が GPT-5.6 Sol のリリースで圧力をかけている中でのことです。",
     "source": [
       "the-decoder.com",
       "kite.kagi.com"
@@ -55,129 +55,117 @@
     "count": 2
   },
   {
-    "title": "アイルランドのデータセンター、2025年に国内全家庭とほぼ同量の電力を消費",
-    "summary": "サーバーは送電網の制限にもかかわらず、国内エネルギー消費の23%を占めた。",
+    "title": "Lenovo、新 Legion デバイスを発表：RTX 5070 搭載ノート PC とクラウドゲーミングハンドヘルド",
+    "summary": "同社は Legion ラインを拡大し、ハイエンドゲーミングノート PC と、Tencent START をサポートするクラウドゲーム用携帯端末を投入します。",
     "source": [
-      "/r/technology",
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "UberとWaymoの対立が激化、アトランタでロビー活動とドライバーの抗議",
-    "summary": "Uberは規制当局に圧力をかけ、ドライバーはWaymoの拡大に制限を求める。TechCrunchはロボタクシーに関する最後通告を公開。",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "サンフランシスコ警察のドローン画像流出とLAPDのナンバープレート読み取りカメラ契約終了",
-    "summary": "ドローンやカメラによる都市監視は、公的監視の強化と使用制限の決定に直面している。",
+    "title": "AI 需要がより効率的で経済的なモデルへシフト",
+    "summary": "企業は GPT-5.6 のような AI システムに移行しており、低コストでより高速な処理を実現する一方、バイヤーは大規模で高価なモデルから離れています。",
     "source": [
       "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AIを使用して人間のジャーナリストに代わる偽のニュースコンテンツを生成する懸念",
-    "summary": "ジャーナリストが解雇された後も、企業は彼の名前でAI生成記事を公開し続けた。また、調査によるとLinkedInがAI生成コンテンツの最大の拡散源である。",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Secure BootのアップデートがWindows 11とDebian 13.6で問題を引き起こす",
-    "summary": "MicrosoftはWindows 11のSecure Boot更新における不具合を認める一方、Debianはセキュリティ変更を伴うバージョン13.6をリリース。",
-    "source": [
-      "/r/technology",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Claude Code、統合ブラウザを搭載しトークン送信を最適化",
-    "summary": "AnthropicのAIツールはWebサイトの読み取りやクリックが可能に。比較ではOpenCodeよりも送信トークンが少ないことが示されている。",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 11、電話統合へ、Copilotアシスタントが1GBのRAMを消費",
-    "summary": "Microsoftは電話とのさらなる統合をテスト中。CopilotはPCのパフォーマンスを報告する一方、かなりのメモリを使用している。",
-    "source": [
-      "kite.kagi.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ドイツのコンソーシアムがオープンモデルSoofi Sを公開、AI購入者はより安価なシステムへ",
-    "summary": "Soofi Sは英語とドイツ語で他のモデルを凌駕。一方、市場はより経済的なAIソリューションへと向かっている。",
-    "source": [
-      "the-decoder.com",
       "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "批評家によると、新しい情報を発見する能力は衰退している",
-    "summary": "2つの記事が、関連コンテンツを見つける能力の低下を警告し、現在のアルゴリズムに疑問を投げかけている。",
+    "title": "SpaceX、5月のブースター故障後にスターシップの飛行再開許可を取得",
+    "summary": "FAA は事故調査後、スターシップロケットの試験飛行再開を承認しました。",
     "source": [
-      "/r/technology",
-      "news.ycombinator.com"
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "AIがニューヨークで看護師を置き換え、Photoshopに別れを告げる",
-    "summary": "自動化は創造的・医療専門職に影響を与えており、ケアの質に関する懸念が生じている。",
+    "title": "SK ハイニックス株、ナスダック上場初日で 15% 急落、収益見通しの悲観視から",
+    "summary": "韓国のメモリーメーカーは米国上場後に株価が下落、半導体需要を巡る懸念が広がっています。",
     "source": [
-      "/r/technology",
-      "news.ycombinator.com"
+      "/r/hardware"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "AIによる犯罪の法的責任に関する議論",
-    "summary": "自律システムが犯罪を犯した場合に誰が責任を負うべきか、専門家が議論している。",
+    "title": "Apple、ハードウェアの営業秘密を盗んだとして OpenAI を提訴",
+    "summary": "訴訟では、OpenAI が Apple のチップ設計に関する機密情報を不正に取得したと主張しています。",
     "source": [
-      "/r/technology",
-      "news.ycombinator.com"
+      "kite.kagi.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Lenovo、メモリ拡張不可のLunar LakeミニPCとRTX 5070搭載ゲーミングノートLegion 7aを発表",
-    "summary": "同社は、際立った仕様を持つ異なるセグメント向けデバイスを発表した。",
+    "title": "Gamers Nexus、ハードディスクドライブの価格操作カルテルを暴露",
+    "summary": "調査により、ハードディスクメーカー間での価格固定の不正な合意が明らかになり、刑事告発に至りました。",
     "source": [
-      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Google、ウェアラブルの健康データ向け汎用知能層 SensorFM を発表",
+    "summary": "この Google の新ツールは、ウェアラブルセンサーからのノイズの多いデータストリームを健康管理に役立つ情報に変換します。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Anthropic の Claude Code、Web サイトの読み取りと操作のためのブラウザー機能を内蔵",
+    "summary": "新しいアップデートにより、AI が外部の Web ページを閲覧し、コンテンツを読み取り、自律的にクリック操作を行うことが可能になります。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "TSMC、台湾・嘉義の先端パッケージング工場を拡張",
+    "summary": "世界最大の半導体受託製造会社が、先端チップの需要に応えるため、新たなパッケージング施設に投資しています。",
+    "source": [
+      "kite.kagi.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Pixel 11 Pro Fold のデザインが流出、刷新されたカメラモジュール「Pine」を搭載",
+    "summary": "流出した画像には、カメラモジュールが改良された Google の折りたたみ式電話の再設計が示されています。",
+    "source": [
+      "kite.kagi.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Uber、ロボタクシー分野でのロビー活動を強化、Waymo と衝突",
+    "summary": "Uber が自動運転タクシーサービスを推進するための圧力が、市場リーダーである Waymo との緊張を生んでいます。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Meta、スーパークラスター Hyperion の計画を 5GW に拡大、ルイジアナ州のインフラに 10 億ドル投資",
+    "summary": "Meta の AI プロジェクトは 5 GW の容量に達し、総投資額は 500 億ドル超を見込んでいます。",
+    "source": [
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "PS5エミュレーターが3Dゲームをロード、DreamcastがLinuxでサポート",
-    "summary": "エミュレーションシーンが進歩。PS5エミュレーターがGTA Vのメニューに到達し、DreamcastがLinuxに含まれる。",
+    "title": "アイルランドのデータセンター、2025 年に国内全家庭とほぼ同量の電力を消費",
+    "summary": "報告書によると、サーバーは国内電力消費の 23% を占め、接続制限にもかかわらず増加しています。",
     "source": [
-      "videocardz.com",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "銅とガラス繊維の不足が業界を脅かす一方、Huaweiは自社DRAM工場を建設",
-    "summary": "電子機器向けの重要な材料が不足しており、メーカーは自社メモリ生産などの代替手段を模索している。",
+    "title": "ドイツの AI コンソーシアム、英語とドイツ語のベンチマークでトップのオープンモデル Soofi S（30B）を公開",
+    "summary": "Soofi S モデルは、両言語のパフォーマンステストで他のオープンモデルを上回り、AI 研究を推進しています。",
     "source": [
-      "hardzone.es",
-      "xataka.com"
+      "the-decoder.com"
     ],
-    "count": 2
+    "count": 1
   }
 ]

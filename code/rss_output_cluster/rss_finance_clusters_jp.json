@@ -1,52 +1,84 @@
 [
   {
-    "title": "米・イラン間の攻撃で原油が急騰、市場は下落",
-    "summary": "中東での軍事的緊張の高まりが原油を急騰させ、世界の株式市場に変動をもたらす。",
+    "title": "SKハイニックス株、米国上場後に急落、半導体セクターを圧迫",
+    "summary": "韓国の半導体メーカーSKハイニックスは、ナスダック上場が期待外れに終わり、ソウル市場で最大16％下落。テクノロジーセクター全体に売りが広がり、人工知能への疑念も浮上した。",
     "source": [
-      "bolsamania.com",
-      "finance.yahoo.com",
-      "investing.com",
-      "nikkei.com",
-      "expansion.com",
+      "ft.com",
       "handelsblatt.com",
-      "ft.com"
+      "finance.yahoo.com",
+      "/r/stocks",
+      "expansion.com",
+      "nikkei.com",
+      "investing.com"
     ],
     "count": 7
   },
   {
-    "title": "SKハイニックスがソウルで急落、米国上場後にテクノロジー株を連れ落とす",
-    "summary": "このチップメーカーの株は15%以上下落し、他のメモリーセクター銘柄に波及する。",
+    "title": "原油価格が急伸、米イランの軍事衝突激化とホルムズ海峡封鎖懸念",
+    "summary": "米軍のイラン施設攻撃とホルムズ海峡封鎖の脅威により、原油は3週間ぶりの高値に上昇。世界の株式市場は慎重な反応を示した。",
+    "source": [
+      "finance.yahoo.com",
+      "bolsamania.com",
+      "ft.com",
+      "handelsblatt.com",
+      "nikkei.com",
+      "expansion.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "米国四半期決算シーズン開始、ハイテク大手に焦点",
+    "summary": "投資家は、テクノロジー成長の減速とインフレ懸念の中、Netflix、Tesla、Disneyの決算を控え、重要な一週間に備えている。",
     "source": [
       "finance.yahoo.com",
       "ft.com",
-      "nikkei.com",
-      "expansion.com",
-      "/r/stocks"
+      "nasdaq.com",
+      "investing.com"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "ビットコインとステーブルコイン、リスク回避の高まりで下落",
-    "summary": "ビットコインは2%下落、ステーブルコイン市場は2023年以来最悪の月を記録。",
+    "title": "暗号資産市場が後退：ビットコイン下落、ステーブルコインは2023年以来の最悪の月に",
+    "summary": "ビットコインはこの日2％以上下落。ステーブルコインの時価総額は6月に100億ドル減少。ドイツは暗号資産に新たな税制を導入。",
     "source": [
       "finance.yahoo.com",
       "expansion.com",
-      "bolsamania.com"
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "スペースXが史上最安値更新、日本は再利用ロケット試験に成功",
+    "summary": "スペースXの株価はFAAによるスターシップ飛行審査を受け下落が続く一方、日本の宇宙機関は再利用可能ロケットの試作機を着陸させ、宇宙開発競争が激化。",
+    "source": [
+      "investing.com",
+      "nasdaq.com",
+      "/r/stocks"
     ],
     "count": 3
   },
   {
-    "title": "地政学的緊張にもかかわらず金と銀が下落",
-    "summary": "貴金属はリスク回避とドル高の状況下で値を下げる。",
+    "title": "Apple、OpenAIを営業秘密と機密情報の窃盗で提訴",
+    "summary": "AppleはOpenAIが特許データを不法に流用したと告発。この訴訟にはイーロン・マスクもAppleを支持して加わった。",
     "source": [
-      "nasdaq.com",
-      "finance.yahoo.com"
+      "finance.yahoo.com",
+      "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "米国の社会保障制度の分析：退職年齢と制度の健全性が議論の中心",
-    "summary": "専門家は制度の破綻可能性を踏まえ、62歳、67歳、70歳での退職の影響について議論する。",
+    "title": "Klaviyo、エリカ・スミスを新CFOに任命、株価上昇",
+    "summary": "スミスのCFO就任は市場に好感され、マーケティングソフトウェア企業Klaviyoの株価を押し上げた。",
+    "source": [
+      "nasdaq.com",
+      "investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米社会保障制度の破綻懸念が退職不安を招く",
+    "summary": "複数の分析が、社会保障の申請時の誤りや収入が給付に与える影響、制度の破綻に伴う早期退職の可能性について警告している。",
     "source": [
       "finance.yahoo.com",
       "nasdaq.com"
@@ -54,125 +86,99 @@
     "count": 2
   },
   {
-    "title": "予測市場を正当な金融ツールとして擁護",
-    "summary": "論説は予測市場が許可され、適切に規制されるべきだと主張する。",
+    "title": "予測市場を投資ツールとして擁護",
+    "summary": "予測市場は、FT紙やExpansión紙の記事によると、金融意思決定の有効な代替手段として分析されている。",
     "source": [
-      "expansion.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "IBEX 35、原油と企業業績に左右され方向性定まらず",
-    "summary": "スペインの主要株価指数は上げと下げが交錯、レプソルとテレフォニカが上昇、IAGが下落。",
-    "source": [
-      "bolsamania.com",
+      "ft.com",
       "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "ウォール街、地政学的ニュース待ちでまちまちのスタート",
-    "summary": "ニューヨーク株価指数は寄り付きでまちまち、ダウは上昇、ナスダックは下落。",
+    "title": "Shein、香港で最大30億ドルのIPOを計画",
+    "summary": "中国のファストファッション大手Sheinが8月に上場か、ブルームバーグによれば今年最大級の公募の一つ。",
     "source": [
-      "bolsamania.com",
-      "nasdaq.com"
+      "investing.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "インテル、アイルランドのチップ工場拡張に57億ドル投資",
-    "summary": "この投資により欧州の半導体製造能力が強化される。",
+    "title": "VW、コスト削減で追加5万人の人員削減を発表",
+    "summary": "VWのCEOは、コスト圧力と電動化移行を理由に、より大規模な人員調整の必要性を従業員に伝達。",
+    "source": [
+      "investing.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Masdar、世界最大の太陽光発電・蓄電施設建設に51億ドル調達",
+    "summary": "アラブ首長国連邦の再生可能エネルギー企業Masdarは、太陽光発電と蓄電を組み合わせた世界最大のメガプロジェクトに資金を提供する。",
     "source": [
       "finance.yahoo.com"
     ],
     "count": 1
   },
   {
-    "title": "メタ、ルイジアナ州のAIデータセンターを500億ドル投資で拡張",
-    "summary": "同社は大規模人工知能向けのインフラを拡大する。",
+    "title": "バンコクのレストラン火災、28人死亡",
+    "summary": "タイの首都の飲食店で発生した火災、犠牲者は避難が間に合わず死亡したとみられる。",
     "source": [
-      "finance.yahoo.com"
+      "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "ネットフリックス、最高値から43%下落、厳しい四半期に直面",
-    "summary": "ストリーミングサービス株は業績と競争の圧力に直面し続けている。",
+    "title": "EU、ロシアLNGプラントからのガス購入が過去最高に",
+    "summary": "制裁にもかかわらず、EUはロシア産天然ガスの輸入を続け、主要LNGプラントからの購入量が過去最高を記録。",
     "source": [
-      "finance.yahoo.com"
+      "ft.com"
     ],
     "count": 1
   },
   {
-    "title": "アップル、OpenAIを営業秘密と機密情報の窃盗で提訴",
-    "summary": "テクノロジー大手はAI企業がデータを不正に流用したと非難する。",
+    "title": "TSMC、6月収益68％増、AI需要が牽引",
+    "summary": "世界最大の半導体メーカーTSMCは、AI向けチップ需要により予想を上回る収益を達成、業界での地位を強化。",
+    "source": [
+      "/r/stocks"
+    ],
+    "count": 1
+  },
+  {
+    "title": "英法律規制当局「方向性見失った」と報告書",
+    "summary": "独立したレビューにより、規制当局が使命を果たせておらず、緊急の改革が必要と結論。",
+    "source": [
+      "ft.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "金融デジタル化促進で英経済に330億ポンドの貢献可能性",
+    "summary": "業界報告書は、英国経済活性化のため政府にデジタル金融技術の導入を要請。",
+    "source": [
+      "ft.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "エヌビディア、弱気調整の一巡兆し、テクニカル分析",
+    "summary": "エヌビディアの株価は最近の下落トレンド終了が近く、反発の可能性があるとの見方。",
     "source": [
       "bolsamania.com"
     ],
     "count": 1
   },
   {
-    "title": "VWのCEO、最大5万人の追加解雇が必要になる可能性を警告",
-    "summary": "ドイツの自動車メーカーは競争力の差を埋めるため大規模な人員削減を模索する。",
+    "title": "ディズニー、テーマパークとストリーミングの可能性で買い推奨",
+    "summary": "アナリストがディズニーのカバレッジを買い推奨で開始、テーマパークの成長とストリーミングサービスを評価。",
     "source": [
       "investing.com"
     ],
     "count": 1
   },
   {
-    "title": "ウィリアムズとブラックストーン、エネルギーインフラで53.4億ドルの合弁企業",
-    "summary": "この提携はパイプライン資産を統合し、エネルギー事業を展開する。",
-    "source": [
-      "investing.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "バンク・オブ・アメリカ、ミドルマーケット事業強化のため投資銀行員9人を採用",
-    "summary": "同行は米国で中堅法人顧客を開拓するためチームを増強する。",
-    "source": [
-      "investing.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "CACI、南部国境のドローン監視システムで国防契約を獲得",
-    "summary": "同社は国境警備のための無人航空機技術を供給する。",
-    "source": [
-      "investing.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "イラク首相、訪米中にエネルギー投資を模索",
-    "summary": "イラクは石油・ガスインフラ近代化のため米国資本を誘致したい考え。",
-    "source": [
-      "investing.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "バーンスタイン、スターリンクの脅威でAT&T・ベライゾン・Tモバイルの目標価格引き下げ",
-    "summary": "スペースXの衛星インターネットは従来の通信事業者にとってリスクが増大する。",
+    "title": "バーンスタイン、AT&T・ベライゾン・Tモバイルの目標株価を引き下げ、スターリンクの脅威で",
+    "summary": "投資会社バーンスタインは、スターリンクの衛星インターネットサービスとの競合懸念から、米通信大手3社の評価を引き下げた。",
     "source": [
       "finance.yahoo.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "エア・カナダ、IAMAW組合と4年間の暫定労働協定を締結",
-    "summary": "この協定により交渉を経てカナダの航空会社の雇用安定が確保される。",
-    "source": [
-      "nasdaq.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "TSMC、6月売上高は68%増、AI需要けん引",
-    "summary": "世界最大の半導体メーカーは人工知能の需要で記録的な成長を続ける。",
-    "source": [
-      "/r/stocks"
     ],
     "count": 1
   }

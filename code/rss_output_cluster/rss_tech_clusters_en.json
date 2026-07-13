@@ -1,7 +1,7 @@
 [
   {
-    "title": "Apple M7 Ultra targets 1.5 TB of unified memory and Blackwell-class performance",
-    "summary": "Rumors suggest that Apple would skip the M6 chips to focus on the M7 with massive AI and memory improvements, although its launch would depend on memory availability.",
+    "title": "Apple prepares M7 Ultra chip with 1.5 TB of unified memory for Blackwell-class AI",
+    "summary": "Rumors indicate that Apple will skip the high-end M6 chips to launch the M7 Ultra in 2028, supporting up to 1.5 TB of memory and performance competitive with NVIDIA Blackwell.",
     "source": [
       "tomshardware.com",
       "videocardz.com",
@@ -10,8 +10,17 @@
     "count": 3
   },
   {
-    "title": "AMD prepares 8x multi-frame generation in its drivers to compete with NVIDIA",
-    "summary": "AMD's experimental drivers hint at the next evolution of FSR with up to 8x frame multiplication.",
+    "title": "Lenovo launches mini PC with Intel Lunar Lake and 16 GB of non-expandable RAM",
+    "summary": "Lenovo's new ThinkCentre offers Core Ultra 5 and 7 processors with Lunar Lake architecture, starting at $1,179.",
+    "source": [
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD enables multi-frame generation up to 8x in its experimental drivers",
+    "summary": "AMD's drivers point to a next evolution of FSR that would multiply the frame rate by eight, surpassing NVIDIA.",
     "source": [
       "tomshardware.com",
       "hardzone.es"
@@ -19,8 +28,8 @@
     "count": 2
   },
   {
-    "title": "Valve will fix the overheating warning on Steam Machines with a BIOS update",
-    "summary": "The red warning light was activating prematurely; the BIOS will raise the threshold to 100 °C to avoid false positives.",
+    "title": "Valve fixes overheating warning on Steam Machines and raises threshold to 100°C",
+    "summary": "A BIOS update will fix the problem of the red overheating light that activated prematurely on Steam Machines.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -28,8 +37,8 @@
     "count": 2
   },
   {
-    "title": "Meta removes AI feature that generated images from Instagram photos after criticism",
-    "summary": "The feature, which used users' images without permission, generated strong backlash and was disabled.",
+    "title": "Meta removes its generative AI image feature from Instagram photos after controversy",
+    "summary": "The tool, which generated images based on users' photos, was removed days after its launch due to criticism.",
     "source": [
       "xataka.com",
       "kite.kagi.com"
@@ -37,17 +46,8 @@
     "count": 2
   },
   {
-    "title": "Lorde criticizes Ray-Ban Meta AI glasses at a festival in Madrid and calls them 'unsexy'",
-    "summary": "The New Zealand singer expressed her rejection of Meta's wearable technology during her performance at the festival.",
-    "source": [
-      "kite.kagi.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic extends free access to Claude Fable 5 for subscribers amid price war with OpenAI",
-    "summary": "The extension allows users to try the AI model until July 19 while OpenAI launches GPT-5.6 Sol.",
+    "title": "Anthropic expands free access to Claude Fable 5 for subscribers amid price war with OpenAI",
+    "summary": "The access extension until July 19 comes as OpenAI applies pressure with the launch of GPT-5.6 Sol.",
     "source": [
       "the-decoder.com",
       "kite.kagi.com"
@@ -55,129 +55,117 @@
     "count": 2
   },
   {
-    "title": "Data centers in Ireland consumed almost as much electricity as all households in the country in 2025",
-    "summary": "Servers accounted for 23% of national energy consumption despite grid restrictions.",
+    "title": "Lenovo unveils new Legion devices: a laptop with RTX 5070 and a cloud gaming handheld",
+    "summary": "The company expands its Legion line with a high-end gaming laptop and a handheld device for cloud gaming with support from Tencent START.",
     "source": [
-      "/r/technology",
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Uber-Waymo conflict intensifies with lobbying and driver protests in Atlanta",
-    "summary": "Uber pressures regulators while drivers call for limits on Waymo's expansion, and TechCrunch publishes an ultimatum on robotaxis.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Leak of police drone images in San Francisco and end of LAPD agreement with license plate reader cameras",
-    "summary": "Urban surveillance with drones and cameras faces growing public scrutiny and decisions to restrict its use.",
+    "title": "AI demand shifts toward more efficient and economical models",
+    "summary": "Companies are migrating to AI systems like GPT-5.6 that offer greater speed at lower cost, while buyers move away from large, expensive models.",
     "source": [
       "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Concern over use of AI to generate fake journalistic content that replaces human journalists",
-    "summary": "A journalist was fired but the company continued publishing AI-generated articles under his name, and a study points to LinkedIn as the biggest distributor of AI-generated content.",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Secure Boot updates cause issues in Windows 11 and Debian 13.6",
-    "summary": "Microsoft acknowledges failures in the Secure Boot update on Windows 11 while Debian releases version 13.6 with security changes.",
-    "source": [
-      "/r/technology",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Claude Code incorporates built-in browser and optimizes token sending",
-    "summary": "Anthropic's AI tool can now read and click on websites, while a comparison shows it sends fewer tokens than OpenCode.",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 11 will integrate your phone and its Copilot assistant consumes 1 GB of RAM",
-    "summary": "Microsoft tests deeper integration with phones and Copilot now reports on PC performance while using a significant amount of memory.",
-    "source": [
-      "kite.kagi.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "German consortium launches open model Soofi S and AI buyers opt for cheaper systems",
-    "summary": "Soofi S outperforms other models in English and German, while the market shifts toward more affordable AI solutions.",
-    "source": [
-      "the-decoder.com",
       "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "The ability to discover new information is in decline, according to critics",
-    "summary": "Two articles warn about the loss of ability to find relevant content and question current algorithms.",
+    "title": "SpaceX receives authorization to fly Starship again after booster failure in May",
+    "summary": "The FAA approves the resumption of test flights of the Starship rocket after the accident investigation.",
     "source": [
-      "/r/technology",
-      "news.ycombinator.com"
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "AI replaces nurses in New York and causes a farewell to Photoshop",
-    "summary": "Automation is affecting creative and healthcare professions, raising concerns about care quality.",
+    "title": "SK Hynix shares plummet 15% on Nasdaq debut amid earnings pessimism",
+    "summary": "The South Korean memory manufacturer falls on the stock market after its IPO in the US amid doubts about semiconductor demand.",
     "source": [
-      "/r/technology",
-      "news.ycombinator.com"
+      "/r/hardware"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Debate over legal responsibility for crimes committed by AI",
-    "summary": "Experts discuss who should take the blame when an autonomous system commits a crime.",
+    "title": "Apple sues OpenAI for alleged theft of hardware trade secrets",
+    "summary": "The lawsuit alleges that OpenAI misappropriated confidential information about Apple's chip design.",
     "source": [
-      "/r/technology",
-      "news.ycombinator.com"
+      "kite.kagi.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Lenovo launches a Lunar Lake mini PC with non-expandable memory and a Legion 7a gaming laptop with RTX 5070",
-    "summary": "The company presents devices for different segments with striking specifications.",
+    "title": "Gamers Nexus reveals a hard drive cartel with price-fixing conspiracy",
+    "summary": "An investigation exposes an illegal agreement between hard drive manufacturers to fix prices, resulting in a criminal conviction.",
     "source": [
-      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Google introduces SensorFM, a general intelligence layer for wearable health data",
+    "summary": "Google's new tool converts the noisy stream of data from wearable sensors into useful information for health tracking.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Anthropic's Claude Code now includes an integrated browser to read and interact with websites",
+    "summary": "The new update allows the AI to navigate external web pages, read content, and click autonomously.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "TSMC expands its advanced packaging plants in Chiayi, Taiwan",
+    "summary": "The world's largest foundry invests in new packaging facilities to meet demand for advanced chips.",
+    "source": [
+      "kite.kagi.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Pixel 11 Pro Fold design leaks with renewed \"Pine\" camera module",
+    "summary": "Leaked images show a redesign of Google's foldable phone with a revamped camera module.",
+    "source": [
+      "kite.kagi.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Uber intensifies its lobbying in the robotaxi sector, clashing with Waymo",
+    "summary": "Uber's pressure to boost its autonomous taxi service creates tensions with Waymo, the market leader.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Meta expands its plans for the Hyperion supercluster to 5 GW and invests $1 billion in infrastructure in Louisiana",
+    "summary": "Meta's AI project reaches a capacity of 5 GW, with a total planned investment of over $50 billion.",
+    "source": [
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "PS5 emulator already loads 3D games and Dreamcast receives support on Linux",
-    "summary": "The emulation scene advances with the PS5 emulator reaching GTA V menus and the inclusion of Dreamcast in Linux.",
+    "title": "Data centers in Ireland consumed nearly as much electricity as all households in the country in 2025",
+    "summary": "A report reveals that servers accounted for 23% of national electricity consumption, despite restrictions on connections.",
     "source": [
-      "videocardz.com",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Shortage of copper and fiberglass threatens industry, while Huawei builds its own DRAM factory",
-    "summary": "Critical materials for electronics are scarce and manufacturers seek alternatives like in-house memory production.",
+    "title": "German AI consortium publishes Soofi S, a 30B open model leading benchmarks in English and German",
+    "summary": "The Soofi S model outperforms other open models in performance tests in both languages, boosting AI research.",
     "source": [
-      "hardzone.es",
-      "xataka.com"
+      "the-decoder.com"
     ],
-    "count": 2
+    "count": 1
   }
 ]
