@@ -1,35 +1,16 @@
 [
   {
-    "title": "Apple は、Blackwell クラスの AI 向けに 1.5 TB のユニファイドメモリを搭載した M7 Ultra チップを準備中",
-    "summary": "噂によると、Apple はハイエンドの M6 チップをスキップし、2028 年に最大 1.5 TB のメモリをサポートし、NVIDIA Blackwell と競合するパフォーマンスを備えた M7 Ultra を発売する見込みです。",
+    "title": "アップル、OpenAIをハードウェアの営業秘密の盗用で提訴",
+    "summary": "訴訟は、同AIスタートアップがアップルのチップやコンポーネントの開発に関する機密情報を不正に入手したと主張している。",
     "source": [
-      "tomshardware.com",
-      "videocardz.com",
+      "techcrunch.com",
       "kite.kagi.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "Lenovo が Intel Lunar Lake 搭載で RAM 16 GB 増設不可のミニ PC を発売",
-    "summary": "Lenovo の新しい ThinkCentre は、Lunar Lake アーキテクチャを採用した Core Ultra 5 および 7 プロセッサを搭載し、価格は 1,179 ドルからです。",
-    "source": [
-      "videocardz.com",
-      "/r/hardware"
-    ],
     "count": 2
   },
   {
-    "title": "AMD、実験的なドライバーで最大 8 倍のマルチフレーム生成を有効化",
-    "summary": "AMD のドライバーは、FSR の次期進化形を示唆しており、フレームレートを 8 倍に増やし、NVIDIA を上回る可能性があります。",
-    "source": [
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Valve、Steam Machines の過熱警告を修正し、しきい値を 100°C に引き上げ",
-    "summary": "BIOS アップデートにより、Steam Machines で早期に作動していた過熱の赤色警告灯の問題が修正されます。",
+    "title": "インテル、Panther LakeコアとIntel 3 GPU搭載の宇宙向けプロセッサ「Starfire」を発表",
+    "summary": "このチップは米国政府向けに設計され、18AプロセスCPUとIntel 3プロセスで製造されたGPUを組み合わせ、宇宙環境に耐える仕様となっている。",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -37,17 +18,62 @@
     "count": 2
   },
   {
-    "title": "Meta、Instagram の写真から画像を生成する AI 機能を論争後に撤回",
-    "summary": "ユーザーの写真に基づいて画像を生成するツールは、批判を受けてリリースから数日後に削除されました。",
+    "title": "Valve、Steam MachinesのLED過熱警告を修正、しきい値を100℃に引き上げ",
+    "summary": "BIOSアップデートにより、実際のシステムの臨界温度に合わせて、早期に点灯していた赤色LEDの誤動作が修正される。",
     "source": [
-      "xataka.com",
-      "kite.kagi.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic、OpenAI との価格競争の中、サブスクライバー向け Claude Fable 5 の無料アクセスを拡大",
-    "summary": "アクセスが 7 月 19 日まで延長されるのは、OpenAI が GPT-5.6 Sol のリリースで圧力をかけている中でのことです。",
+    "title": "将来のApple M7 Ultra、1.5TBの統合メモリとBlackwellに匹敵するAI性能を目標",
+    "summary": "ある報告によれば、2028年に登場するこのチップは、大規模なAIワークロードに対応する強力なものであるが、その入手可能性はメモリ不足の解消に依存する。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD、FSRドライバーで最大8倍のマルチフレーム生成を準備",
+    "summary": "最新ドライバーで検出された実験的な設定から、AMDがDLSSマルチフレーム生成に対抗するFSRの進化版を開発中であることが示唆されている。",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Zotac RTX 5090が使用中に発火、16ピンコネクタは原因ではないと判明",
+    "summary": "グラフィックカードは動作開始から数分で発火し、調査の結果、この障害は問題の電源コネクタとは関係がないとされている。",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cooler Master HAF 500 IIのレビューでは、エアフローと広々としたデザインが高く評価",
+    "summary": "新しい筐体は、アイコニックなHAFシリーズの本質を維持しつつ、卓越した冷却性能とハイエンドコンポーネントのための十分なスペースを提供する。",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lenovo、Intel Lunar Lakeと16GBの増設不可メモリを搭載したThinkCentreミニPCを発表",
+    "summary": "このコンパクトなマシンはCore Ultra 5またはUltra 7搭載で、16GBのはんだ付けRAMを搭載し、効率的なデスクトップソリューションとして位置づけられている。",
+    "source": [
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、Claude Fable 5のサブスクライバー向け無料アクセスを7月19日まで延長",
+    "summary": "この延長は、OpenAIがGPT-5.6 Solをリリースした価格競争の中で行われ、AIモデル市場の競争が激化している。",
     "source": [
       "the-decoder.com",
       "kite.kagi.com"
@@ -55,114 +81,88 @@
     "count": 2
   },
   {
-    "title": "Lenovo、新 Legion デバイスを発表：RTX 5070 搭載ノート PC とクラウドゲーミングハンドヘルド",
-    "summary": "同社は Legion ラインを拡大し、ハイエンドゲーミングノート PC と、Tencent START をサポートするクラウドゲーム用携帯端末を投入します。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AI 需要がより効率的で経済的なモデルへシフト",
-    "summary": "企業は GPT-5.6 のような AI システムに移行しており、低コストでより高速な処理を実現する一方、バイヤーは大規模で高価なモデルから離れています。",
-    "source": [
-      "news.ycombinator.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX、5月のブースター故障後にスターシップの飛行再開許可を取得",
-    "summary": "FAA は事故調査後、スターシップロケットの試験飛行再開を承認しました。",
+    "title": "SpaceX、5月のブースター故障後、スターシップの飛行許可を取得",
+    "summary": "FAAは、打ち上げ時にブースターが故障し破壊された後、巨大ロケットの飛行再開を承認した。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "SK ハイニックス株、ナスダック上場初日で 15% 急落、収益見通しの悲観視から",
-    "summary": "韓国のメモリーメーカーは米国上場後に株価が下落、半導体需要を巡る懸念が広がっています。",
+    "title": "中国、ロケットの第1段回収に成功、SpaceXとBlue Originのみが達成していた快挙",
+    "summary": "制御された着陸は、中国の宇宙計画における打ち上げ機再利用への重要な進歩を示している。",
     "source": [
-      "/r/hardware"
+      "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "Apple、ハードウェアの営業秘密を盗んだとして OpenAI を提訴",
-    "summary": "訴訟では、OpenAI が Apple のチップ設計に関する機密情報を不正に取得したと主張しています。",
+    "title": "Meta、Hyperionスーパークラスターを5GWに拡大、ルイジアナに500億ドル以上を投資",
+    "summary": "同社は、5ギガワットのスーパークラスターと地域改善のための追加10億ドルを含む、大規模なAIインフラ計画を発表。",
     "source": [
-      "kite.kagi.com"
+      "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "Gamers Nexus、ハードディスクドライブの価格操作カルテルを暴露",
-    "summary": "調査により、ハードディスクメーカー間での価格固定の不正な合意が明らかになり、刑事告発に至りました。",
-    "source": [
-      "/r/hardware"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Google、ウェアラブルの健康データ向け汎用知能層 SensorFM を発表",
-    "summary": "この Google の新ツールは、ウェアラブルセンサーからのノイズの多いデータストリームを健康管理に役立つ情報に変換します。",
+    "title": "サティア・ナデラ、OpenAIとAnthropicを蒸留禁止の偽善で非難、自らは他者のデータで学習",
+    "summary": "マイクロソフトのCEOは、AI研究所が蒸留による自社モデルの使用を禁止する一方で、彼ら自身は制限なく公開データを利用していると批判している。",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Anthropic の Claude Code、Web サイトの読み取りと操作のためのブラウザー機能を内蔵",
-    "summary": "新しいアップデートにより、AI が外部の Web ページを閲覧し、コンテンツを読み取り、自律的にクリック操作を行うことが可能になります。",
+    "title": "ノーベル賞受賞者やAIリーダーら、人工知能の経済的影響への備えの時間が残り少ないと警告",
+    "summary": "専門家グループは、経済と雇用をAIに適応させるための猶予が急速に閉ざされており、緊急の対策が必要だと警鐘を鳴らしている。",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "TSMC、台湾・嘉義の先端パッケージング工場を拡張",
-    "summary": "世界最大の半導体受託製造会社が、先端チップの需要に応えるため、新たなパッケージング施設に投資しています。",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Pixel 11 Pro Fold のデザインが流出、刷新されたカメラモジュール「Pine」を搭載",
-    "summary": "流出した画像には、カメラモジュールが改良された Google の折りたたみ式電話の再設計が示されています。",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Uber、ロボタクシー分野でのロビー活動を強化、Waymo と衝突",
-    "summary": "Uber が自動運転タクシーサービスを推進するための圧力が、市場リーダーである Waymo との緊張を生んでいます。",
+    "title": "General Fusion、初の上場核融合企業として株式市場にデビュー",
+    "summary": "この核融合企業は株式公開で大きく値上がりし、商業用核融合エネルギーへの投資における節目となった。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Meta、スーパークラスター Hyperion の計画を 5GW に拡大、ルイジアナ州のインフラに 10 億ドル投資",
-    "summary": "Meta の AI プロジェクトは 5 GW の容量に達し、総投資額は 500 億ドル超を見込んでいます。",
+    "title": "新たな報道によると、NintendoはSwitch 2に1080pのOLEDディスプレイの採用を検討",
+    "summary": "同社は次世代コンソールのディスプレイをLCDからより高解像度のOLEDパネルにアップグレードすることを検討しているとされる。",
     "source": [
-      "tomshardware.com"
+      "videocardz.com"
     ],
     "count": 1
   },
   {
-    "title": "アイルランドのデータセンター、2025 年に国内全家庭とほぼ同量の電力を消費",
-    "summary": "報告書によると、サーバーは国内電力消費の 23% を占め、接続制限にもかかわらず増加しています。",
+    "title": "Uber、ロボタクシーを巡るロビー活動を強化、Waymoと直接対決",
+    "summary": "自動運転車の規制に影響を与えようとするUberのロビー活動は、市場支配をめぐる競争でWaymoの利害と衝突している。",
     "source": [
-      "tomshardware.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "ドイツの AI コンソーシアム、英語とドイツ語のベンチマークでトップのオープンモデル Soofi S（30B）を公開",
-    "summary": "Soofi S モデルは、両言語のパフォーマンステストで他のオープンモデルを上回り、AI 研究を推進しています。",
+    "title": "12州、ParamountとWarner Brosの1100億ドルの合併阻止で提訴",
+    "summary": "複数の州の司法長官連合は、この巨大合併がエンターテインメント業界の競争を損なうと主張し、反トラスト法違反の訴訟を提起した。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "PS5エミュレーター、GTA Vのメニューに到達、PCで初の3Dゲームを読み込み成功",
+    "summary": "エミュレーションの進歩により、PCがPlayStation 5の市販タイトルを3Dグラフィックスで実行することが初めて可能になった。",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "チューリング賞受賞者リッチ・サットン、自律学習するAIエージェント開発のOak Labを設立",
+    "summary": "強化学習の先駆者は、人間の監督なしに自ら学習する人工知能システムの構築に特化した研究所を設立する。",
     "source": [
       "the-decoder.com"
     ],

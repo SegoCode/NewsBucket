@@ -1,35 +1,16 @@
 [
   {
-    "title": "Apple prepares M7 Ultra chip with 1.5 TB of unified memory for Blackwell-class AI",
-    "summary": "Rumors indicate that Apple will skip the high-end M6 chips to launch the M7 Ultra in 2028, supporting up to 1.5 TB of memory and performance competitive with NVIDIA Blackwell.",
+    "title": "Apple sues OpenAI over alleged theft of hardware trade secrets",
+    "summary": "The lawsuit alleges that the artificial intelligence startup stole confidential information about the development of Apple's chips and components.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com",
+      "techcrunch.com",
       "kite.kagi.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "Lenovo launches mini PC with Intel Lunar Lake and 16 GB of non-expandable RAM",
-    "summary": "Lenovo's new ThinkCentre offers Core Ultra 5 and 7 processors with Lunar Lake architecture, starting at $1,179.",
-    "source": [
-      "videocardz.com",
-      "/r/hardware"
-    ],
     "count": 2
   },
   {
-    "title": "AMD enables multi-frame generation up to 8x in its experimental drivers",
-    "summary": "AMD's drivers point to a next evolution of FSR that would multiply the frame rate by eight, surpassing NVIDIA.",
-    "source": [
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Valve fixes overheating warning on Steam Machines and raises threshold to 100°C",
-    "summary": "A BIOS update will fix the problem of the red overheating light that activated prematurely on Steam Machines.",
+    "title": "Intel introduces the Starfire space processor with Panther Lake cores and Intel 3 GPU",
+    "summary": "The chip designed for the US government combines an 18A CPU with a GPU manufactured on Intel 3 to withstand space conditions.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -37,17 +18,62 @@
     "count": 2
   },
   {
-    "title": "Meta removes its generative AI image feature from Instagram photos after controversy",
-    "summary": "The tool, which generated images based on users' photos, was removed days after its launch due to criticism.",
+    "title": "Valve fixes LED overheating warning on Steam Machines by raising threshold to 100°C",
+    "summary": "A BIOS update will fix the false positive of the red LED that activated prematurely, adjusting to the actual critical system temperature.",
     "source": [
-      "xataka.com",
-      "kite.kagi.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic expands free access to Claude Fable 5 for subscribers amid price war with OpenAI",
-    "summary": "The access extension until July 19 comes as OpenAI applies pressure with the launch of GPT-5.6 Sol.",
+    "title": "Future Apple M7 Ultra aims for 1.5 TB of unified memory and AI performance comparable to Blackwell",
+    "summary": "According to a report, the 2028 chip would be a beast for massive AI workloads, although its availability will depend on the easing of memory shortages.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD prepares multi-frame generation up to 8x in FSR drivers",
+    "summary": "Experimental settings detected in the latest drivers suggest that AMD is working on an evolution of FSR to compete with DLSS Multi Frame Generation.",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A Zotac RTX 5090 catches fire during use and the 16-pin connector is ruled out as cause",
+    "summary": "The graphics card burned up a few minutes into operation, and investigations indicate that the fault is not related to the controversial power connector.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cooler Master HAF 500 II reviews highlight its airflow and spacious design",
+    "summary": "The new case maintains the essence of the iconic HAF series with outstanding thermal performance and generous space for high-end components.",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lenovo launches ThinkCentre mini PC with Intel Lunar Lake and 16 GB non-upgradable memory",
+    "summary": "The compact device will be available with Core Ultra 5 or Ultra 7, offers 16 GB of soldered RAM, and is positioned as an efficient desktop solution.",
+    "source": [
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic extends free access to Claude Fable 5 for subscribers until July 19",
+    "summary": "The extension comes amid a price war with OpenAI, which has launched GPT-5.6 Sol, intensifying competition in the AI model market.",
     "source": [
       "the-decoder.com",
       "kite.kagi.com"
@@ -55,114 +81,88 @@
     "count": 2
   },
   {
-    "title": "Lenovo unveils new Legion devices: a laptop with RTX 5070 and a cloud gaming handheld",
-    "summary": "The company expands its Legion line with a high-end gaming laptop and a handheld device for cloud gaming with support from Tencent START.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AI demand shifts toward more efficient and economical models",
-    "summary": "Companies are migrating to AI systems like GPT-5.6 that offer greater speed at lower cost, while buyers move away from large, expensive models.",
-    "source": [
-      "news.ycombinator.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX receives authorization to fly Starship again after booster failure in May",
-    "summary": "The FAA approves the resumption of test flights of the Starship rocket after the accident investigation.",
+    "title": "SpaceX receives authorization to fly Starship after May booster failure",
+    "summary": "The FAA gives the green light to resume flights of the mega-rocket after the booster failed during takeoff and caused its destruction.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "SK Hynix shares plummet 15% on Nasdaq debut amid earnings pessimism",
-    "summary": "The South Korean memory manufacturer falls on the stock market after its IPO in the US amid doubts about semiconductor demand.",
+    "title": "China successfully recovers rocket first stage, a feat previously achieved only by SpaceX and Blue Origin",
+    "summary": "The controlled landing maneuver marks a key advance in the Chinese space program towards launch vehicle reusability.",
     "source": [
-      "/r/hardware"
+      "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "Apple sues OpenAI for alleged theft of hardware trade secrets",
-    "summary": "The lawsuit alleges that OpenAI misappropriated confidential information about Apple's chip design.",
+    "title": "Meta expands its Hyperion supercluster to 5 GW and invests over $50 billion in Louisiana",
+    "summary": "The company announces massive AI infrastructure plans with a 5-gigawatt supercluster and an additional billion in local improvements.",
     "source": [
-      "kite.kagi.com"
+      "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "Gamers Nexus reveals a hard drive cartel with price-fixing conspiracy",
-    "summary": "An investigation exposes an illegal agreement between hard drive manufacturers to fix prices, resulting in a criminal conviction.",
-    "source": [
-      "/r/hardware"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Google introduces SensorFM, a general intelligence layer for wearable health data",
-    "summary": "Google's new tool converts the noisy stream of data from wearable sensors into useful information for health tracking.",
+    "title": "Satya Nadella accuses OpenAI and Anthropic of hypocrisy for banning distillation while training on others' data",
+    "summary": "The Microsoft CEO criticizes that AI labs prevent the use of their models through distillation while they take advantage of public data without restrictions.",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Anthropic's Claude Code now includes an integrated browser to read and interact with websites",
-    "summary": "The new update allows the AI to navigate external web pages, read content, and click autonomously.",
+    "title": "Nobel laureates and AI leaders warn that time is running out to prepare for the economic impact of artificial intelligence",
+    "summary": "A group of experts warns that the window to adapt the economy and employment to AI is closing rapidly and urgent measures are needed.",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "TSMC expands its advanced packaging plants in Chiayi, Taiwan",
-    "summary": "The world's largest foundry invests in new packaging facilities to meet demand for advanced chips.",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Pixel 11 Pro Fold design leaks with renewed \"Pine\" camera module",
-    "summary": "Leaked images show a redesign of Google's foldable phone with a revamped camera module.",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Uber intensifies its lobbying in the robotaxi sector, clashing with Waymo",
-    "summary": "Uber's pressure to boost its autonomous taxi service creates tensions with Waymo, the market leader.",
+    "title": "General Fusion goes public as the first publicly traded nuclear fusion company",
+    "summary": "The fusion company experiences a strong rise in its stock market debut, marking a milestone for investment in commercial fusion energy.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Meta expands its plans for the Hyperion supercluster to 5 GW and invests $1 billion in infrastructure in Louisiana",
-    "summary": "Meta's AI project reaches a capacity of 5 GW, with a total planned investment of over $50 billion.",
+    "title": "Nintendo evaluates incorporating a 1080p OLED display in Switch 2, according to new reports",
+    "summary": "The Japanese company is considering improving the screen of its next console, switching from LCD to a higher-resolution OLED panel.",
     "source": [
-      "tomshardware.com"
+      "videocardz.com"
     ],
     "count": 1
   },
   {
-    "title": "Data centers in Ireland consumed nearly as much electricity as all households in the country in 2025",
-    "summary": "A report reveals that servers accounted for 23% of national electricity consumption, despite restrictions on connections.",
+    "title": "Uber intensifies its lobbying for robotaxis and directly challenges Waymo",
+    "summary": "Uber's lobbying efforts to influence autonomous vehicle regulation clash with Waymo's interests in the race to dominate the market.",
     "source": [
-      "tomshardware.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "German AI consortium publishes Soofi S, a 30B open model leading benchmarks in English and German",
-    "summary": "The Soofi S model outperforms other open models in performance tests in both languages, boosting AI research.",
+    "title": "Twelve states sue to block Paramount's merger with Warner Bros worth $110 billion",
+    "summary": "A coalition of attorneys general files an antitrust lawsuit alleging that the megamerger would harm competition in the entertainment sector.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "PS5 emulator reaches GTA V menus and manages to load first 3D games on PC",
+    "summary": "Advances in emulation allow for the first time a PC to run commercial PlayStation 5 titles with three-dimensional graphics.",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Turing Award winner Rich Sutton founds Oak Lab to develop AI agents with autonomous learning",
+    "summary": "The reinforcement learning pioneer launches a lab focused on creating artificial intelligence systems that learn by themselves without human supervision.",
     "source": [
       "the-decoder.com"
     ],

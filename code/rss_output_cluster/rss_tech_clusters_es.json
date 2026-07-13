@@ -1,35 +1,16 @@
 [
   {
-    "title": "Apple prepara el chip M7 Ultra con 1,5 TB de memoria unificada para IA de clase Blackwell",
-    "summary": "Los rumores indican que Apple saltará los chips M6 de gama alta para lanzar el M7 Ultra en 2028, con soporte de hasta 1,5 TB de memoria y rendimiento competitivo con NVIDIA Blackwell.",
+    "title": "Apple demanda a OpenAI por el presunto robo de secretos comerciales de hardware",
+    "summary": "La demanda alega que la startup de inteligencia artificial sustrajo información confidencial sobre el desarrollo de chips y componentes de la manzana.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com",
+      "techcrunch.com",
       "kite.kagi.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "Lenovo lanza un mini PC con Intel Lunar Lake y 16 GB de RAM no ampliable",
-    "summary": "Los nuevos ThinkCentre de Lenovo ofrecen procesadores Core Ultra 5 y 7 con arquitectura Lunar Lake, con precios desde 1.179 dólares.",
-    "source": [
-      "videocardz.com",
-      "/r/hardware"
-    ],
     "count": 2
   },
   {
-    "title": "AMD habilita la generación múltiple de fotogramas hasta 8x en sus controladores experimentales",
-    "summary": "Los drivers de AMD apuntan a una próxima evolución de FSR que permitiría multiplicar la tasa de fotogramas por ocho, superando a NVIDIA.",
-    "source": [
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Valve corrige la advertencia de sobrecalentamiento en Steam Machines y eleva el umbral a 100 °C",
-    "summary": "Una actualización de BIOS solucionará el problema de la luz roja de sobrecalentamiento que se activaba antes de tiempo en las Steam Machines.",
+    "title": "Intel presenta el procesador espacial Starfire con núcleos Panther Lake y GPU Intel 3",
+    "summary": "El chip diseñado para el gobierno de EE.UU. combina una CPU de 18A con una GPU fabricada en Intel 3 para resistir las condiciones del espacio.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -37,17 +18,62 @@
     "count": 2
   },
   {
-    "title": "Meta retira su función de IA generativa de imágenes a partir de fotos de Instagram tras la polémica",
-    "summary": "La herramienta, que generaba imágenes basadas en las fotos de los usuarios, fue eliminada días después de su lanzamiento por las críticas recibidas.",
+    "title": "Valve corrige la advertencia LED de sobrecalentamiento en Steam Machines elevando el umbral a 100 °C",
+    "summary": "Una actualización de BIOS solucionará el falso positivo del LED rojo que se activaba antes de tiempo, ajustando la temperatura crítica real del sistema.",
     "source": [
-      "xataka.com",
-      "kite.kagi.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic amplía el acceso gratuito a Claude Fable 5 para suscriptores en plena guerra de precios con OpenAI",
-    "summary": "La extensión del acceso hasta el 19 de julio se produce mientras OpenAI presiona con el lanzamiento de GPT-5.6 Sol.",
+    "title": "El futuro Apple M7 Ultra apunta a 1,5 TB de memoria unificada y rendimiento de IA comparable a Blackwell",
+    "summary": "Según un informe, el chip de 2028 sería una bestia para cargas de IA masivas, aunque su disponibilidad dependerá de que se alivie la escasez de memorias.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD prepara la generación múltiple de fotogramas hasta 8x en los controladores FSR",
+    "summary": "Configuraciones experimentales detectadas en los últimos drivers sugieren que AMD trabaja en una evolución de FSR para competir con DLSS Multi Frame Generation.",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Una Zotac RTX 5090 se incendia durante el uso y el conector de 16 pines queda descartado como culpable",
+    "summary": "La tarjeta gráfica ardió a los pocos minutos de funcionar y las investigaciones señalan que el fallo no está relacionado con el polémico conector de alimentación.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Las reviews del Cooler Master HAF 500 II destacan su flujo de aire y diseño espacioso",
+    "summary": "El nuevo chasis mantiene la esencia de la icónica serie HAF con un rendimiento térmico sobresaliente y espacio generoso para componentes de alta gama.",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lenovo lanza un mini PC ThinkCentre con Intel Lunar Lake y 16 GB de memoria no ampliable",
+    "summary": "El equipo compacto estará disponible con Core Ultra 5 o Ultra 7, ofrece 16 GB de RAM soldada y se posiciona como una solución de escritorio eficiente.",
+    "source": [
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic amplía el acceso gratuito a Claude Fable 5 para suscriptores hasta el 19 de julio",
+    "summary": "La extensión se produce en plena guerra de precios con OpenAI, que ha lanzado GPT-5.6 Sol, intensificando la competencia en el mercado de modelos de IA.",
     "source": [
       "the-decoder.com",
       "kite.kagi.com"
@@ -55,114 +81,88 @@
     "count": 2
   },
   {
-    "title": "Lenovo presenta nuevos dispositivos Legion: un portátil con RTX 5070 y un handheld de cloud gaming",
-    "summary": "La compañía amplía su línea Legion con un portátil gaming de gama alta y un dispositivo portátil para juegos en la nube con soporte de Tencent START.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La demanda de IA se desplaza hacia modelos más eficientes y económicos",
-    "summary": "Empresas están migrando a sistemas de IA como GPT-5.6 que ofrecen mayor velocidad a menor coste, mientras los compradores se alejan de los modelos grandes y caros.",
-    "source": [
-      "news.ycombinator.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX recibe autorización para volver a volar el Starship tras la falla del booster en mayo",
-    "summary": "La FAA aprueba la reanudación de los vuelos de prueba del cohete Starship después de la investigación del accidente.",
+    "title": "SpaceX obtiene autorización para volar Starship tras el fallo del propulsor en mayo",
+    "summary": "La FAA da luz verde a la reanudación de vuelos del megacohete después de que el booster fallara durante el despegue y provocara su destrucción.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Las acciones de SK Hynix se desploman un 15% en su debut en el Nasdaq por pesimismo sobre ganancias",
-    "summary": "El fabricante de memoria surcoreano cae en bolsa tras su salida a bolsa en EE.UU. en medio de dudas sobre la demanda de semiconductores.",
+    "title": "China logra recuperar la primera etapa de un cohete, un hito solo alcanzado antes por SpaceX y Blue Origin",
+    "summary": "La maniobra de aterrizaje controlado marca un avance clave en el programa espacial chino hacia la reutilización de lanzadores.",
     "source": [
-      "/r/hardware"
+      "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "Apple demanda a OpenAI por presunto robo de secretos comerciales de hardware",
-    "summary": "La demanda alega que OpenAI se apropió indebidamente de información confidencial sobre el diseño de chips de Apple.",
+    "title": "Meta expande su superclúster Hyperion a 5 GW e invierte más de 50.000 millones de dólares en Luisiana",
+    "summary": "La compañía anuncia planes masivos de infraestructura de IA con un superclúster de 5 gigavatios y mil millones adicionales en mejoras locales.",
     "source": [
-      "kite.kagi.com"
+      "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "Gamers Nexus revela un cártel de discos duros con conspiración de precios",
-    "summary": "Una investigación expone un acuerdo ilegal entre fabricantes de discos duros para fijar precios, lo que derivó en una condena penal.",
-    "source": [
-      "/r/hardware"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Google presenta SensorFM, una capa de inteligencia general para datos de salud de wearables",
-    "summary": "La nueva herramienta de Google convierte el ruidoso flujo de datos de sensores portátiles en información útil para el seguimiento de la salud.",
+    "title": "Satya Nadella acusa a OpenAI y Anthropic de hipocresía por prohibir la destilación mientras entrenan con datos ajenos",
+    "summary": "El CEO de Microsoft critica que los laboratorios de IA impidan el uso de sus modelos mediante destilación mientras ellos aprovechan datos públicos sin restricciones.",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Claude Code de Anthropic ahora incluye un navegador integrado para leer e interactuar con sitios web",
-    "summary": "La nueva actualización permite que la IA navegue por páginas web externas, lea contenido y realice clics de forma autónoma.",
+    "title": "Premios Nobel y líderes de IA advierten que se agota el tiempo para prepararse ante el impacto económico de la inteligencia artificial",
+    "summary": "Un grupo de expertos alerta de que la ventana para adaptar la economía y el empleo a la IA se está cerrando rápidamente y se necesitan medidas urgentes.",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "TSMC amplía sus plantas de empaquetado avanzado en Chiayi, Taiwán",
-    "summary": "La mayor fundición del mundo invierte en nuevas instalaciones de empaquetado para satisfacer la demanda de chips avanzados.",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Se filtra el diseño del Pixel 11 Pro Fold con un renovado módulo de cámara 'Pine'",
-    "summary": "Las imágenes filtradas muestran un rediseño del teléfono plegable de Google con un módulo de cámara reformado.",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Uber intensifica su lobby en el sector de robotaxis, chocando con Waymo",
-    "summary": "La presión de Uber para impulsar su servicio de taxis autónomos genera tensiones con Waymo, líder en el mercado.",
+    "title": "General Fusion debuta en bolsa como la primera empresa de fusión nuclear que cotiza públicamente",
+    "summary": "La compañía de fusión experimenta una fuerte subida en su estreno bursátil, marcando un hito para la inversión en energía de fusión comercial.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Meta expande sus planes para el supercluster Hyperion a 5 GW e invierte 1.000 millones en infraestructura en Luisiana",
-    "summary": "El proyecto de IA de Meta alcanza una capacidad de 5 GW, con una inversión total prevista de más de 50.000 millones de dólares.",
+    "title": "Nintendo evalúa incorporar una pantalla OLED 1080p en Switch 2 según nuevos informes",
+    "summary": "La compañía japonesa estaría considerando mejorar la pantalla de su próxima consola, pasando de LCD a un panel OLED de mayor resolución.",
     "source": [
-      "tomshardware.com"
+      "videocardz.com"
     ],
     "count": 1
   },
   {
-    "title": "Los centros de datos en Irlanda consumieron casi tanta electricidad como todos los hogares del país en 2025",
-    "summary": "Un informe revela que los servidores representaron el 23% del consumo eléctrico nacional, pese a las restricciones a la conexión.",
+    "title": "Uber intensifica su cabildeo por los robotaxis y se enfrenta directamente a Waymo",
+    "summary": "Las maniobras de lobby de Uber para influir en la regulación de vehículos autónomos chocan con los intereses de Waymo en la carrera por dominar el mercado.",
     "source": [
-      "tomshardware.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Un consorcio alemán de IA publica Soofi S, un modelo abierto de 30B que lidera benchmarks en inglés y alemán",
-    "summary": "El modelo Soofi S supera a otros modelos abiertos en pruebas de rendimiento en ambos idiomas, impulsando la investigación en IA.",
+    "title": "Doce estados demandan para bloquear la fusión de Paramount con Warner Bros por 110.000 millones de dólares",
+    "summary": "Una coalición de fiscales generales presenta una demanda antimonopolio alegando que la megafusión dañaría la competencia en el sector del entretenimiento.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El emulador de PS5 alcanza los menús de GTA V y logra cargar los primeros juegos 3D en PC",
+    "summary": "Los avances en emulación permiten por primera vez que un PC ejecute títulos comerciales de PlayStation 5 con gráficos tridimensionales.",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El premio Turing Rich Sutton funda Oak Lab para desarrollar agentes de IA con aprendizaje autónomo",
+    "summary": "El pionero del aprendizaje por refuerzo lanza un laboratorio centrado en crear sistemas de inteligencia artificial que aprendan por sí mismos sin supervisión humana.",
     "source": [
       "the-decoder.com"
     ],
