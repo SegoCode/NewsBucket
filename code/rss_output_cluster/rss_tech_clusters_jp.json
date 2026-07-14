@@ -1,52 +1,17 @@
 [
   {
-    "title": "アップル、OpenAIをハードウェアの営業秘密の盗用で提訴",
-    "summary": "訴訟は、同AIスタートアップがアップルのチップやコンポーネントの開発に関する機密情報を不正に入手したと主張している。",
+    "title": "Valve、Steam Machineの早期過熱警告を確認、閾値を100°Cに引き上げ",
+    "summary": "同社は、複数の報告によると、必要以上に早く作動していた赤色LEDアラートを修正するため、BIOSアップデートをリリースする。",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "インテル、Panther LakeコアとIntel 3 GPU搭載の宇宙向けプロセッサ「Starfire」を発表",
-    "summary": "このチップは米国政府向けに設計され、18AプロセスCPUとIntel 3プロセスで製造されたGPUを組み合わせ、宇宙環境に耐える仕様となっている。",
-    "source": [
+      "/r/technology",
       "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Valve、Steam MachinesのLED過熱警告を修正、しきい値を100℃に引き上げ",
-    "summary": "BIOSアップデートにより、実際のシステムの臨界温度に合わせて、早期に点灯していた赤色LEDの誤動作が修正される。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "将来のApple M7 Ultra、1.5TBの統合メモリとBlackwellに匹敵するAI性能を目標",
-    "summary": "ある報告によれば、2028年に登場するこのチップは、大規模なAIワークロードに対応する強力なものであるが、その入手可能性はメモリ不足の解消に依存する。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD、FSRドライバーで最大8倍のマルチフレーム生成を準備",
-    "summary": "最新ドライバーで検出された実験的な設定から、AMDがDLSSマルチフレーム生成に対抗するFSRの進化版を開発中であることが示唆されている。",
-    "source": [
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Zotac RTX 5090が使用中に発火、16ピンコネクタは原因ではないと判明",
-    "summary": "グラフィックカードは動作開始から数分で発火し、調査の結果、この障害は問題の電源コネクタとは関係がないとされている。",
+    "title": "Zotac RTX 5090が使用中に発火、16ピンコネクターが原因ではないと発表",
+    "summary": "ハイエンドGPUのインシデントについて、実際の故障原因が調査されている中、2つの独立した報告が記録されている。",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -54,117 +19,154 @@
     "count": 2
   },
   {
-    "title": "Cooler Master HAF 500 IIのレビューでは、エアフローと広々としたデザインが高く評価",
-    "summary": "新しい筐体は、アイコニックなHAFシリーズの本質を維持しつつ、卓越した冷却性能とハイエンドコンポーネントのための十分なスペースを提供する。",
+    "title": "米国12州がパラマウントとワーナー・ブラザースの合併阻止を求めて提訴",
+    "summary": "1100億ドル規模のこの取引は、ニューヨーク市長の批判や州司法長官が率いる訴訟に直面している。",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "LAPD、プライバシー懸念からナンバープレート読み取り企業Flockとの契約を終了",
+    "summary": "ロサンゼルス市警は、誤ったデータに基づく不適切な逮捕の報告を受け、契約を更新しなかった。",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Samsung、AIトレーニングに同意しないユーザーの健康データを削除すると脅迫",
+    "summary": "Samsung Healthアプリは、人工知能モデル開発への同意を個人情報へのアクセスの条件とする。",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel、Panther Lakeアーキテクチャベースの8コア宇宙向けプロセッサ「Starfire」を発表",
+    "summary": "米国政府向けに設計されたこのチップは、GPUにIntel 3テクノロジーを採用し、軌道ミッションに対応する予定。",
     "source": [
       "tomshardware.com",
-      "/r/hardware"
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Lenovo、Intel Lunar Lakeと16GBの増設不可メモリを搭載したThinkCentreミニPCを発表",
-    "summary": "このコンパクトなマシンはCore Ultra 5またはUltra 7搭載で、16GBのはんだ付けRAMを搭載し、効率的なデスクトップソリューションとして位置づけられている。",
+    "title": "Apple M7 Ultraは最大1.5TBのユニファイドメモリとBlackwellクラスの性能を搭載か",
+    "summary": "業界の報道によると、2028年向けのAppleの将来のチップは容量の怪物になるだろう。",
     "source": [
-      "videocardz.com",
-      "/r/hardware"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic、Claude Fable 5のサブスクライバー向け無料アクセスを7月19日まで延長",
-    "summary": "この延長は、OpenAIがGPT-5.6 Solをリリースした価格競争の中で行われ、AIモデル市場の競争が激化している。",
+    "title": "AMD、ドライバーに最大8倍のマルチフレーム生成技術をリーク",
+    "summary": "AMDの実験的ドライバーは、次期バージョンのFSRが画像スケーリングに劇的な改善を含むことを示唆している。",
     "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX、5月のブースター故障後、スターシップの飛行許可を取得",
-    "summary": "FAAは、打ち上げ時にブースターが故障し破壊された後、巨大ロケットの飛行再開を承認した。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "中国、ロケットの第1段回収に成功、SpaceXとBlue Originのみが達成していた快挙",
-    "summary": "制御された着陸は、中国の宇宙計画における打ち上げ機再利用への重要な進歩を示している。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta、Hyperionスーパークラスターを5GWに拡大、ルイジアナに500億ドル以上を投資",
-    "summary": "同社は、5ギガワットのスーパークラスターと地域改善のための追加10億ドルを含む、大規模なAIインフラ計画を発表。",
-    "source": [
+      "hardzone.es",
       "tomshardware.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "サティア・ナデラ、OpenAIとAnthropicを蒸留禁止の偽善で非難、自らは他者のデータで学習",
-    "summary": "マイクロソフトのCEOは、AI研究所が蒸留による自社モデルの使用を禁止する一方で、彼ら自身は制限なく公開データを利用していると批判している。",
+    "title": "約200人の経済学者とノーベル賞受賞者がAIによる大規模な雇用喪失を警告",
+    "summary": "AnthropicのJack Clarkなどの人物が署名した「We Must Act Now」の書簡は、人工知能の経済的影響に対する緊急措置を求めている。",
     "source": [
+      "the-decoder.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、Claude Fable 5の無料アクセスを7月19日まで延長",
+    "summary": "このアクセス延長は、言語モデルをめぐるOpenAIとの激しい価格戦争の中で行われた。",
+    "source": [
+      "kite.kagi.com",
       "the-decoder.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "ノーベル賞受賞者やAIリーダーら、人工知能の経済的影響への備えの時間が残り少ないと警告",
-    "summary": "専門家グループは、経済と雇用をAIに適応させるための猶予が急速に閉ざされており、緊急の対策が必要だと警鐘を鳴らしている。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "General Fusion、初の上場核融合企業として株式市場にデビュー",
-    "summary": "この核融合企業は株式公開で大きく値上がりし、商業用核融合エネルギーへの投資における節目となった。",
+    "title": "SpaceX、5月の推進器故障後、スターシップの飛行再開承認を取得",
+    "summary": "FAAは、前回の打ち上げでのブースター故障後、同社に巨大ロケットの試験再開のゴーサインを出した。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "新たな報道によると、NintendoはSwitch 2に1080pのOLEDディスプレイの採用を検討",
-    "summary": "同社は次世代コンソールのディスプレイをLCDからより高解像度のOLEDパネルにアップグレードすることを検討しているとされる。",
+    "title": "Meta、ユーザーの批判を受けInstagramのAI生成画像機能を撤去",
+    "summary": "同社は、プラットフォーム上での人工知能の使用に対する苦情の波を受けて、このツールを削除することを決定した。",
     "source": [
-      "videocardz.com"
+      "kite.kagi.com"
     ],
     "count": 1
   },
   {
-    "title": "Uber、ロボタクシーを巡るロビー活動を強化、Waymoと直接対決",
-    "summary": "自動運転車の規制に影響を与えようとするUberのロビー活動は、市場支配をめぐる競争でWaymoの利害と衝突している。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "12州、ParamountとWarner Brosの1100億ドルの合併阻止で提訴",
-    "summary": "複数の州の司法長官連合は、この巨大合併がエンターテインメント業界の競争を損なうと主張し、反トラスト法違反の訴訟を提起した。",
+    "title": "Satya Nadella、制御されないAIの使用は有害である可能性があると企業に警告",
+    "summary": "マイクロソフトのCEOは、企業に対し人工知能の導入に慎重であるよう促した。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "PS5エミュレーター、GTA Vのメニューに到達、PCで初の3Dゲームを読み込み成功",
-    "summary": "エミュレーションの進歩により、PCがPlayStation 5の市販タイトルを3Dグラフィックスで実行することが初めて可能になった。",
+    "title": "動画生成スタートアップPixVerseが4億3900万ドルを調達、評価額は2倍に",
+    "summary": "2年前に設立された同社は、今回の資金調達ラウンドを経て、評価額が20億ドルを超えた。",
     "source": [
-      "videocardz.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "チューリング賞受賞者リッチ・サットン、自律学習するAIエージェント開発のOak Labを設立",
-    "summary": "強化学習の先駆者は、人間の監督なしに自ら学習する人工知能システムの構築に特化した研究所を設立する。",
+    "title": "General Fusion、核融合企業として初の株式上場を果たす",
+    "summary": "核融合会社は上場に際して投資家から強い支持を受け、業界のマイルストーンとなった。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "チューリング賞受賞者Rich Suttonが自己学習型AIエージェントを開発するOak Labを設立",
+    "summary": "この研究所は、人間の監視なしに自律的に学習する人工知能の構築に焦点を当てる。",
     "source": [
       "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Telegramのドメインt.meが一時的に停止",
+    "summary": "メッセージングプラットフォームのリンク短縮サービスの停止が、ユーザーの間に不確実性を生み出している。",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Oracle、6月から50%下落しLarry Ellisonを富豪トップ10から脱落させる",
+    "summary": "ソフトウェア企業の株価の急落により、創業者の資産から数十億ドルが消失した。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ニューヨーク市、欺瞞的なサブスクリプション慣行を禁止し、簡単な解約を義務化へ",
+    "summary": "新しい市法は、不要な請求や複雑な解約プロセスから消費者を保護することを目的としている。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "中国、ロケットの第1段回収に成功、SpaceXとBlue Originのみが達成した偉業",
+    "summary": "アジアの国は、ロケットの第1段の制御された着陸に成功し、再利用の進歩を示した。",
+    "source": [
+      "xataka.com"
     ],
     "count": 1
   }

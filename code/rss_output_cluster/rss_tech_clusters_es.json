@@ -1,52 +1,17 @@
 [
   {
-    "title": "Apple demanda a OpenAI por el presunto robo de secretos comerciales de hardware",
-    "summary": "La demanda alega que la startup de inteligencia artificial sustrajo información confidencial sobre el desarrollo de chips y componentes de la manzana.",
+    "title": "Valve confirma advertencia de sobrecalentamiento prematura en Steam Machine y eleva el umbral a 100 °C",
+    "summary": "La compañía lanzará una actualización de BIOS para corregir la alerta LED roja que se activaba antes de lo necesario, según múltiples reportes.",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel presenta el procesador espacial Starfire con núcleos Panther Lake y GPU Intel 3",
-    "summary": "El chip diseñado para el gobierno de EE.UU. combina una CPU de 18A con una GPU fabricada en Intel 3 para resistir las condiciones del espacio.",
-    "source": [
+      "/r/technology",
       "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Valve corrige la advertencia LED de sobrecalentamiento en Steam Machines elevando el umbral a 100 °C",
-    "summary": "Una actualización de BIOS solucionará el falso positivo del LED rojo que se activaba antes de tiempo, ajustando la temperatura crítica real del sistema.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El futuro Apple M7 Ultra apunta a 1,5 TB de memoria unificada y rendimiento de IA comparable a Blackwell",
-    "summary": "Según un informe, el chip de 2028 sería una bestia para cargas de IA masivas, aunque su disponibilidad dependerá de que se alivie la escasez de memorias.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD prepara la generación múltiple de fotogramas hasta 8x en los controladores FSR",
-    "summary": "Configuraciones experimentales detectadas en los últimos drivers sugieren que AMD trabaja en una evolución de FSR para competir con DLSS Multi Frame Generation.",
-    "source": [
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Una Zotac RTX 5090 se incendia durante el uso y el conector de 16 pines queda descartado como culpable",
-    "summary": "La tarjeta gráfica ardió a los pocos minutos de funcionar y las investigaciones señalan que el fallo no está relacionado con el polémico conector de alimentación.",
+    "title": "Una Zotac RTX 5090 se incendia durante el uso y descarta el conector de 16 pines como causa",
+    "summary": "Dos reportes independientes documentan el incidente con la GPU de gama alta mientras se investiga la causa real del fallo.",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -54,117 +19,154 @@
     "count": 2
   },
   {
-    "title": "Las reviews del Cooler Master HAF 500 II destacan su flujo de aire y diseño espacioso",
-    "summary": "El nuevo chasis mantiene la esencia de la icónica serie HAF con un rendimiento térmico sobresaliente y espacio generoso para componentes de alta gama.",
+    "title": "Doce estados de EE.UU. demandan para bloquear la fusión de Paramount con Warner Bros.",
+    "summary": "La operación de 110 mil millones de dólares enfrenta críticas de la alcaldesa de Nueva York y una demanda encabezada por fiscales generales estatales.",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "LAPD finaliza su contrato con la empresa Flock de lectores de matrículas por preocupaciones de privacidad",
+    "summary": "El departamento de policía de Los Ángeles no renovó el acuerdo tras reportes de detenciones injustas basadas en datos erróneos.",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Samsung amenaza con eliminar datos de salud de usuarios que no acepten entrenar su IA",
+    "summary": "La aplicación Samsung Health condicionará el acceso a la información personal al consentimiento para el desarrollo de modelos de inteligencia artificial.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel presenta Starfire, un procesador espacial de 8 núcleos basado en la arquitectura Panther Lake",
+    "summary": "El chip diseñado para el gobierno de EE.UU. utiliza tecnología Intel 3 para la GPU y estará listo para misiones orbitales.",
     "source": [
       "tomshardware.com",
-      "/r/hardware"
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Lenovo lanza un mini PC ThinkCentre con Intel Lunar Lake y 16 GB de memoria no ampliable",
-    "summary": "El equipo compacto estará disponible con Core Ultra 5 o Ultra 7, ofrece 16 GB de RAM soldada y se posiciona como una solución de escritorio eficiente.",
+    "title": "Se rumorea que el Apple M7 Ultra contendrá hasta 1,5 TB de memoria unificada y rendimiento de clase Blackwell",
+    "summary": "El futuro chip de Apple para 2028 sería un monstruo de capacidad, según reportes de la industria.",
     "source": [
-      "videocardz.com",
-      "/r/hardware"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic amplía el acceso gratuito a Claude Fable 5 para suscriptores hasta el 19 de julio",
-    "summary": "La extensión se produce en plena guerra de precios con OpenAI, que ha lanzado GPT-5.6 Sol, intensificando la competencia en el mercado de modelos de IA.",
+    "title": "AMD filtra su tecnología de generación múltiple de fotogramas con hasta 8x en sus controladores",
+    "summary": "Los drivers experimentales de AMD sugieren que la próxima versión de FSR incluirá mejoras drásticas en el escalado de imagen.",
     "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX obtiene autorización para volar Starship tras el fallo del propulsor en mayo",
-    "summary": "La FAA da luz verde a la reanudación de vuelos del megacohete después de que el booster fallara durante el despegue y provocara su destrucción.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "China logra recuperar la primera etapa de un cohete, un hito solo alcanzado antes por SpaceX y Blue Origin",
-    "summary": "La maniobra de aterrizaje controlado marca un avance clave en el programa espacial chino hacia la reutilización de lanzadores.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta expande su superclúster Hyperion a 5 GW e invierte más de 50.000 millones de dólares en Luisiana",
-    "summary": "La compañía anuncia planes masivos de infraestructura de IA con un superclúster de 5 gigavatios y mil millones adicionales en mejoras locales.",
-    "source": [
+      "hardzone.es",
       "tomshardware.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Satya Nadella acusa a OpenAI y Anthropic de hipocresía por prohibir la destilación mientras entrenan con datos ajenos",
-    "summary": "El CEO de Microsoft critica que los laboratorios de IA impidan el uso de sus modelos mediante destilación mientras ellos aprovechan datos públicos sin restricciones.",
+    "title": "Cerca de 200 economistas y premios Nobel advierten sobre el desplazamiento laboral masivo por la IA",
+    "summary": "La carta \"We Must Act Now\" firmada por figuras como Jack Clark de Anthropic pide medidas urgentes ante el impacto económico de la inteligencia artificial.",
     "source": [
+      "the-decoder.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic extiende el acceso gratuito a Claude Fable 5 hasta el 19 de julio",
+    "summary": "La ampliación del acceso se produce en medio de una intensa guerra de precios con OpenAI por sus modelos de lenguaje.",
+    "source": [
+      "kite.kagi.com",
       "the-decoder.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Premios Nobel y líderes de IA advierten que se agota el tiempo para prepararse ante el impacto económico de la inteligencia artificial",
-    "summary": "Un grupo de expertos alerta de que la ventana para adaptar la economía y el empleo a la IA se está cerrando rápidamente y se necesitan medidas urgentes.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "General Fusion debuta en bolsa como la primera empresa de fusión nuclear que cotiza públicamente",
-    "summary": "La compañía de fusión experimenta una fuerte subida en su estreno bursátil, marcando un hito para la inversión en energía de fusión comercial.",
+    "title": "SpaceX recibe autorización para reiniciar los vuelos del Starship tras el fallo del propulsor en mayo",
+    "summary": "La FAA ha dado luz verde a la compañía para retomar las pruebas del megacohete, después de la avería del booster en el último lanzamiento.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Nintendo evalúa incorporar una pantalla OLED 1080p en Switch 2 según nuevos informes",
-    "summary": "La compañía japonesa estaría considerando mejorar la pantalla de su próxima consola, pasando de LCD a un panel OLED de mayor resolución.",
+    "title": "Meta retira su función de imágenes generadas por IA en Instagram tras las críticas de los usuarios",
+    "summary": "La empresa decidió eliminar la herramienta tras una ola de quejas por el uso de inteligencia artificial en la plataforma.",
     "source": [
-      "videocardz.com"
+      "kite.kagi.com"
     ],
     "count": 1
   },
   {
-    "title": "Uber intensifica su cabildeo por los robotaxis y se enfrenta directamente a Waymo",
-    "summary": "Las maniobras de lobby de Uber para influir en la regulación de vehículos autónomos chocan con los intereses de Waymo en la carrera por dominar el mercado.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Doce estados demandan para bloquear la fusión de Paramount con Warner Bros por 110.000 millones de dólares",
-    "summary": "Una coalición de fiscales generales presenta una demanda antimonopolio alegando que la megafusión dañaría la competencia en el sector del entretenimiento.",
+    "title": "Satya Nadella advierte a las empresas que el uso de IA sin control puede ser perjudicial",
+    "summary": "El CEO de Microsoft instó a las compañías a ser cautelosas con la implementación de la inteligencia artificial.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "El emulador de PS5 alcanza los menús de GTA V y logra cargar los primeros juegos 3D en PC",
-    "summary": "Los avances en emulación permiten por primera vez que un PC ejecute títulos comerciales de PlayStation 5 con gráficos tridimensionales.",
+    "title": "La startup de generación de vídeo PixVerse recauda 439 millones de dólares y duplica su valoración",
+    "summary": "La compañía fundada hace dos años alcanza una valoración superior a los 2.000 millones de dólares tras esta ronda de financiación.",
     "source": [
-      "videocardz.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "El premio Turing Rich Sutton funda Oak Lab para desarrollar agentes de IA con aprendizaje autónomo",
-    "summary": "El pionero del aprendizaje por refuerzo lanza un laboratorio centrado en crear sistemas de inteligencia artificial que aprendan por sí mismos sin supervisión humana.",
+    "title": "General Fusion debuta en bolsa como la primera empresa de fusión nuclear que cotiza en bolsa",
+    "summary": "La compañía de fusión nuclear recibió un fuerte respaldo de los inversores en su salida a bolsa, marcando un hito para el sector.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El premio Turing Rich Sutton funda Oak Lab para desarrollar agentes de IA que aprendan por sí mismos",
+    "summary": "El laboratorio se centrará en crear inteligencia artificial que aprenda de forma autónoma, sin supervisión humana.",
     "source": [
       "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El dominio t.me de Telegram ha sido suspendido temporalmente",
+    "summary": "La suspensión del acortador de enlaces de la plataforma de mensajería ha generado incertidumbre entre los usuarios.",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Oracle se desploma un 50% desde junio y saca a Larry Ellison del top 10 de multimillonarios",
+    "summary": "La fuerte caída en bolsa de la empresa de software ha borrado miles de millones de la fortuna de su fundador.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Nueva York prohibirá las prácticas de suscripción engañosas y obligará a cancelaciones fáciles",
+    "summary": "La nueva ley municipal busca proteger a los consumidores de cargos no deseados y procesos de cancelación complicados.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "China logra recuperar la primera etapa de un cohete espacial, un hito solo logrado por SpaceX y Blue Origin",
+    "summary": "El país asiático realizó con éxito el aterrizaje controlado de la primera etapa de su cohete, demostrando avances en reutilización.",
+    "source": [
+      "xataka.com"
     ],
     "count": 1
   }

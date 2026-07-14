@@ -1,52 +1,17 @@
 [
   {
-    "title": "Apple sues OpenAI over alleged theft of hardware trade secrets",
-    "summary": "The lawsuit alleges that the artificial intelligence startup stole confidential information about the development of Apple's chips and components.",
+    "title": "Valve confirms premature overheating warning on Steam Machine and raises threshold to 100°C",
+    "summary": "The company will release a BIOS update to fix the red LED alert that was triggering earlier than necessary, according to multiple reports.",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel introduces the Starfire space processor with Panther Lake cores and Intel 3 GPU",
-    "summary": "The chip designed for the US government combines an 18A CPU with a GPU manufactured on Intel 3 to withstand space conditions.",
-    "source": [
+      "/r/technology",
       "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Valve fixes LED overheating warning on Steam Machines by raising threshold to 100°C",
-    "summary": "A BIOS update will fix the false positive of the red LED that activated prematurely, adjusting to the actual critical system temperature.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Future Apple M7 Ultra aims for 1.5 TB of unified memory and AI performance comparable to Blackwell",
-    "summary": "According to a report, the 2028 chip would be a beast for massive AI workloads, although its availability will depend on the easing of memory shortages.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD prepares multi-frame generation up to 8x in FSR drivers",
-    "summary": "Experimental settings detected in the latest drivers suggest that AMD is working on an evolution of FSR to compete with DLSS Multi Frame Generation.",
-    "source": [
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A Zotac RTX 5090 catches fire during use and the 16-pin connector is ruled out as cause",
-    "summary": "The graphics card burned up a few minutes into operation, and investigations indicate that the fault is not related to the controversial power connector.",
+    "title": "A Zotac RTX 5090 catches fire during use and rules out 16-pin connector as cause",
+    "summary": "Two independent reports document the incident with the high-end GPU as the real cause of the failure is investigated.",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -54,117 +19,154 @@
     "count": 2
   },
   {
-    "title": "Cooler Master HAF 500 II reviews highlight its airflow and spacious design",
-    "summary": "The new case maintains the essence of the iconic HAF series with outstanding thermal performance and generous space for high-end components.",
+    "title": "Twelve US states sue to block Paramount-Warner Bros. merger",
+    "summary": "The $110 billion deal faces criticism from New York's mayor and a lawsuit led by state attorneys general.",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "LAPD ends contract with Flock license plate reader company over privacy concerns",
+    "summary": "The Los Angeles police department did not renew the agreement following reports of wrongful arrests based on erroneous data.",
+    "source": [
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Samsung threatens to delete health data of users who do not agree to train its AI",
+    "summary": "The Samsung Health app will condition access to personal information on consent for the development of artificial intelligence models.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel unveils Starfire, an 8-core space processor based on Panther Lake architecture",
+    "summary": "The chip designed for the US government uses Intel 3 technology for the GPU and will be ready for orbital missions.",
     "source": [
       "tomshardware.com",
-      "/r/hardware"
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Lenovo launches ThinkCentre mini PC with Intel Lunar Lake and 16 GB non-upgradable memory",
-    "summary": "The compact device will be available with Core Ultra 5 or Ultra 7, offers 16 GB of soldered RAM, and is positioned as an efficient desktop solution.",
+    "title": "Apple M7 Ultra rumored to contain up to 1.5 TB of unified memory and Blackwell-class performance",
+    "summary": "Apple's future chip for 2028 would be a monster of capacity, according to industry reports.",
     "source": [
-      "videocardz.com",
-      "/r/hardware"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic extends free access to Claude Fable 5 for subscribers until July 19",
-    "summary": "The extension comes amid a price war with OpenAI, which has launched GPT-5.6 Sol, intensifying competition in the AI model market.",
+    "title": "AMD leaks its multi-frame generation technology with up to 8x in its drivers",
+    "summary": "AMD's experimental drivers suggest that the next version of FSR will include drastic improvements in image scaling.",
     "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX receives authorization to fly Starship after May booster failure",
-    "summary": "The FAA gives the green light to resume flights of the mega-rocket after the booster failed during takeoff and caused its destruction.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "China successfully recovers rocket first stage, a feat previously achieved only by SpaceX and Blue Origin",
-    "summary": "The controlled landing maneuver marks a key advance in the Chinese space program towards launch vehicle reusability.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta expands its Hyperion supercluster to 5 GW and invests over $50 billion in Louisiana",
-    "summary": "The company announces massive AI infrastructure plans with a 5-gigawatt supercluster and an additional billion in local improvements.",
-    "source": [
+      "hardzone.es",
       "tomshardware.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Satya Nadella accuses OpenAI and Anthropic of hypocrisy for banning distillation while training on others' data",
-    "summary": "The Microsoft CEO criticizes that AI labs prevent the use of their models through distillation while they take advantage of public data without restrictions.",
+    "title": "Nearly 200 economists and Nobel laureates warn about massive labor displacement by AI",
+    "summary": "The letter \"We Must Act Now\" signed by figures like Jack Clark of Anthropic calls for urgent measures in the face of the economic impact of artificial intelligence.",
     "source": [
+      "the-decoder.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic extends free access to Claude Fable 5 until July 19",
+    "summary": "The extension of access comes amid an intense price war with OpenAI over their language models.",
+    "source": [
+      "kite.kagi.com",
       "the-decoder.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Nobel laureates and AI leaders warn that time is running out to prepare for the economic impact of artificial intelligence",
-    "summary": "A group of experts warns that the window to adapt the economy and employment to AI is closing rapidly and urgent measures are needed.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "General Fusion goes public as the first publicly traded nuclear fusion company",
-    "summary": "The fusion company experiences a strong rise in its stock market debut, marking a milestone for investment in commercial fusion energy.",
+    "title": "SpaceX receives authorization to resume Starship flights after booster failure in May",
+    "summary": "The FAA has given the green light to the company to resume testing of the megrocket, after the booster failure in the last launch.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Nintendo evaluates incorporating a 1080p OLED display in Switch 2, according to new reports",
-    "summary": "The Japanese company is considering improving the screen of its next console, switching from LCD to a higher-resolution OLED panel.",
+    "title": "Meta removes its AI-generated image feature on Instagram after user criticism",
+    "summary": "The company decided to remove the tool after a wave of complaints about the use of artificial intelligence on the platform.",
     "source": [
-      "videocardz.com"
+      "kite.kagi.com"
     ],
     "count": 1
   },
   {
-    "title": "Uber intensifies its lobbying for robotaxis and directly challenges Waymo",
-    "summary": "Uber's lobbying efforts to influence autonomous vehicle regulation clash with Waymo's interests in the race to dominate the market.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Twelve states sue to block Paramount's merger with Warner Bros worth $110 billion",
-    "summary": "A coalition of attorneys general files an antitrust lawsuit alleging that the megamerger would harm competition in the entertainment sector.",
+    "title": "Satya Nadella warns companies that uncontrolled use of AI can be harmful",
+    "summary": "Microsoft's CEO urged companies to be cautious with the implementation of artificial intelligence.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "PS5 emulator reaches GTA V menus and manages to load first 3D games on PC",
-    "summary": "Advances in emulation allow for the first time a PC to run commercial PlayStation 5 titles with three-dimensional graphics.",
+    "title": "Video generation startup PixVerse raises $439 million and doubles valuation",
+    "summary": "The two-year-old company reaches a valuation of over $2 billion after this funding round.",
     "source": [
-      "videocardz.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Turing Award winner Rich Sutton founds Oak Lab to develop AI agents with autonomous learning",
-    "summary": "The reinforcement learning pioneer launches a lab focused on creating artificial intelligence systems that learn by themselves without human supervision.",
+    "title": "General Fusion goes public as the first nuclear fusion company to list on the stock exchange",
+    "summary": "The nuclear fusion company received strong backing from investors in its IPO, marking a milestone for the sector.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Turing Award winner Rich Sutton founds Oak Lab to develop AI agents that learn by themselves",
+    "summary": "The lab will focus on creating artificial intelligence that learns autonomously, without human supervision.",
     "source": [
       "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Telegram's t.me domain has been temporarily suspended",
+    "summary": "The suspension of the messaging platform's link shortener has generated uncertainty among users.",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Oracle plummets 50% since June and knocks Larry Ellison out of the top 10 billionaires",
+    "summary": "The sharp stock market decline of the software company has erased billions from its founder's fortune.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "New York will ban deceptive subscription practices and require easy cancellations",
+    "summary": "The new city law seeks to protect consumers from unwanted charges and complicated cancellation processes.",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "China successfully recovers first stage of a space rocket, a feat only achieved by SpaceX and Blue Origin",
+    "summary": "The Asian country successfully performed the controlled landing of the first stage of its rocket, demonstrating advances in reusability.",
+    "source": [
+      "xataka.com"
     ],
     "count": 1
   }
