@@ -1,74 +1,104 @@
 [
   {
-    "title": "Intel presenta Starfire, un procesador para el espacio basado en Panther Lake con núcleos 18A",
-    "summary": "El chip espacial de Intel, diseñado para soportar temperaturas y radiación extremas, combina una CPU Panther Lake con GPU Intel 3 para aplicaciones gubernamentales.",
+    "title": "El agotamiento digital y los dilemas éticos de la IA dominan el debate público",
+    "summary": "La sociedad enfrenta una creciente fatiga digital mientras surgen preguntas sobre el uso gubernamental de la inteligencia artificial y la privacidad en las interacciones con chatbots.",
     "source": [
-      "hardzone.es",
-      "/r/hardware",
-      "tomshardware.com",
-      "videocardz.com"
+      "news.ycombinator.com",
+      "wired.com",
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 4
   },
   {
-    "title": "Uber impulsa sus robotaxis mientras Madrid se prepara para su llegada y crece la regulación",
-    "summary": "La compañía avanza en el despliegue de vehículos autónomos con nuevos servicios, presión regulatoria y planes concretos en España, mientras una app permite comparar precios entre operadores.",
+    "title": "Anthropic localiza Claude en India y enfrenta un debate ético sobre la consciencia de su IA",
+    "summary": "El asistente muestra diferencias idiomáticas en su comportamiento mientras la empresa adapta sus precios al mercado indio.",
+    "source": [
+      "xataka.com",
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "SK Hynix, CXMT y Micron redefinen el mercado global de la memoria RAM con nuevas estrategias",
+    "summary": "Los fabricantes apuestan por la producción en EE.UU. y rompen con los ciclos tradicionales de la industria.",
+    "source": [
+      "hardzone.es",
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "12 estados demandan para bloquear la fusión de 110.000 millones entre Paramount y Warner Bros",
+    "summary": "Una coalición de fiscales generales impugna la megafusión alegando que perjudica al interés público.",
+    "source": [
+      "/r/technology",
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Los grandes líderes de la IA debaten el futuro del sector: inversiones millonarias frente a cautela regulatoria",
+    "summary": "Ejecutivos de Softbank, OpenAI y DeepMind discrepan sobre la velocidad y los riesgos de la próxima ola de inteligencia artificial.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Expertos mundiales chocan por el impacto de la IA en el empleo: ¿catástrofe o mito?",
+    "summary": "Mientras premios Nobel y economistas piden salvaguardas urgentes, un análisis alternativo sostiene que se necesita más talento humano que nunca.",
+    "source": [
+      "/r/technology",
+      "the-decoder.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple demanda a OpenAI por el robo de secretos comerciales por parte de un exempleado",
+    "summary": "La compañía de Cupertino acusa a un antiguo empleado de filtrar documentos confidenciales a la startup de inteligencia artificial.",
     "source": [
       "techcrunch.com",
-      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nueva York frena la expansión de centros de datos por su consumo energético mientras crece la oposición vecinal",
+    "summary": "El estado promulga una moratoria histórica a grandes proyectos mientras los residentes denuncian el impacto en sus hogares.",
+    "source": [
+      "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Japón desarrolla un método revolucionario para recuperar el 90% del litio de baterías usadas",
+    "summary": "El avance científico promete transformar el reciclaje de vehículos eléctricos y reducir la dependencia de materias primas importadas.",
+    "source": [
+      "/r/technology",
       "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Apple refuerza su apuesta por la inteligencia artificial con Siri, nuevas APIs y el futuro chip M7 Ultra",
-    "summary": "La compañía de Cupertino expande sus capacidades de IA con mejoras en Siri, una API de análisis de voz y un chip masivo con memoria de 1,5 TB previsto para 2028.",
+    "title": "SpaceX recibe luz verde para Starship mientras el precio de sus acciones se desploma",
+    "summary": "La empresa enfrenta un doble desafío: la recuperación regulatoria de su cohete y el desplome de su valoración bursátil.",
     "source": [
-      "wired.com",
-      "news.ycombinator.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Una Zotac RTX 5090 se incendia durante su uso, pero el conector de 16 pines no es el culpable",
-    "summary": "Una unidad de la RTX 5090 de Zotac sufrió un incendio a los pocos minutos de uso, aunque las investigaciones apuntan a que el problema no está en el conector de alimentación.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Lenovo presenta Legion C700, su nueva consola portátil de cloud gaming con soporte de Tencent START",
-    "summary": "La Legion C700 es una consola portátil centrada en el juego en la nube, que apuesta por un enfoque diferente y contará con la plataforma Tencent START.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lenovo lanza un mini PC con Intel Lunar Lake y 16 GB de memoria no ampliable",
-    "summary": "El nuevo mini PC de Lenovo, disponible por 1.179 dólares, incorpora un procesador Intel Core Ultra 5 226V con 16 GB de RAM soldada.",
-    "source": [
-      "videocardz.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Cooler Master HAF 500 II: análisis de la nueva versión del clásico chasis con flujo de aire mejorado",
-    "summary": "Las revisiones destacan el impresionante flujo de aire y el amplio espacio interior del nuevo HAF 500 II, manteniendo el espíritu de la serie.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Satya Nadella advierte a las empresas sobre la IA y critica a OpenAI y Anthropic por la destilación de datos",
-    "summary": "El CEO de Microsoft alertó sobre los riesgos de la inteligencia artificial y acusó a los laboratorios de IA de prohibir la destilación mientras entrenan con datos ajenos.",
+    "title": "Satya Nadella acusa a OpenAI y Anthropic de tener un doble rasero con los datos de entrenamiento",
+    "summary": "El CEO de Microsoft critica que los laboratorios de IA impidan la destilación mientras usan contenido público sin permiso.",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
@@ -76,101 +106,84 @@
     "count": 2
   },
   {
-    "title": "Éxitos en la recuperación de cohetes: China logra su primera reutilización y SpaceX recibe permiso para volar Starship",
-    "summary": "China recupera por primera vez la primera etapa de un cohete, imitando a SpaceX y Blue Origin, mientras la FAA da luz verde a Starship tras la falla de mayo.",
+    "title": "Apple acelera el desarrollo de sus chips M7 y lanza las betas de iOS 27 con Siri potenciado por IA",
+    "summary": "La compañía integra nuevas capacidades de inteligencia artificial en su ecosistema, desde el asistente de voz hasta los procesadores.",
     "source": [
-      "xataka.com",
-      "techcrunch.com"
+      "wired.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "El mercado de la memoria en alerta: SK Hynix cuestiona el ciclo, Micron invierte 500 millones en EE.UU. y se avisan precios apocalípticos",
-    "summary": "Las principales fabricantes de memoria muestran señales contradictorias: SK Hynix cree que el ciclo tradicional ha muerto, Micron apuesta por la producción local y se pronostican subas drásticas.",
+    "title": "AMD relanza el Ryzen 7 5800X3D con paquetes promocionales que incluyen refrigeración gratuita",
+    "summary": "Los nuevos lotes por el aniversario del procesador ofrecen descuentos de hasta 173 dólares y combos con placas base.",
     "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple demanda a un ex empleado que robó archivos confidenciales para llevarlos a OpenAI",
-    "summary": "La compañía acusa a un antiguo trabajador de explotar un error poco común para descargar documentos internos y luego unirse a OpenAI, en una batalla legal por secretos comerciales.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La startup de vídeo generado por IA PixVerse recauda 439 millones de dólares y supera los 2.000 millones de valoración",
-    "summary": "PixVerse, especializada en generar vídeos mediante inteligencia artificial, cierra una ronda masiva que dispara su valoración por encima de los dos mil millones de dólares.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "General Fusion debuta en bolsa como la primera empresa de fusión nuclear que cotiza públicamente",
-    "summary": "La compañía de fusión nuclear sale a la bolsa con gran acogida de los inversores, convirtiéndose en la primera de su tipo en los mercados públicos.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Nintendo podría equipar la Switch 2 con una pantalla OLED de 1080p según nuevos rumores",
-    "summary": "Se especula que la próxima consola de Nintendo incorporará una pantalla OLED de 1080p, mejorando las prestaciones de su predecesora.",
-    "source": [
+      "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Tesla fabrica su chip AI5 con nodo de 2nm en Samsung Foundry, meses después de hacerlo en TSMC",
-    "summary": "El nuevo procesador de inteligencia artificial de Tesla, fabricado con tecnología de 2nm, sale de Samsung Foundry y se prepara para producción, en paralelo con el tape out en TSMC.",
+    "title": "Intel invierte 5.700 millones en su fábrica irlandesa y presenta el chip Starfire para el espacio",
+    "summary": "La compañía refuerza la producción de sus procesadores Xeon mientras diseña un chip capaz de soportar la radiación extrema.",
     "source": [
-      "tomshardware.com"
+      "tomshardware.com",
+      "hardzone.es"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Meta expande su supercluster Hyperion de IA a 5 GW y eleva su inversión en Luisiana a más de 50.000 millones",
-    "summary": "El plan de Meta para su infraestructura de inteligencia artificial alcanza los 5 GW en Hyperion, con una inversión récord en el estado de Luisiana y mejoras locales.",
+    "title": "Waze incorpora las funciones de inteligencia artificial Gemini y nuevas opciones de personalización",
+    "summary": "La aplicación de navegación se actualiza con asistentes conversacionales y mejoras en la experiencia de usuario impulsadas por IA.",
     "source": [
-      "tomshardware.com"
+      "kite.kagi.com",
+      "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "EE.UU. ordena la suspensión del dominio t.me de Telegram, dejando sin acceso a enlaces en todo el mundo",
-    "summary": "Por orden del gobierno estadounidense, el dominio utilizado para los enlaces de Telegram fue suspendido, impidiendo el acceso global a estos vínculos.",
+    "title": "La startup de vídeo por IA PixVerse capta 439 millones y alcanza una valoración de 2.000 millones",
+    "summary": "La compañía demuestra que el mercado de generación de vídeo con inteligencia artificial sigue atrayendo grandes inversiones.",
     "source": [
-      "bandaancha.eu"
+      "the-decoder.com",
+      "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Japón desarrolla un método para recuperar hasta el 90% del litio de las baterías de vehículos eléctricos usadas",
-    "summary": "Investigadores japoneses crean un proceso eficiente que permite extraer la mayor parte del litio de baterías agotadas, mejorando la sostenibilidad del reciclaje.",
+    "title": "Valve corrige el umbral de sobrecalentamiento de Steam Machine mientras las primeras críticas son mixtas",
+    "summary": "La compañía planea actualizar la BIOS para elevar el límite de temperatura a 100 grados Celsius tras las quejas de los usuarios.",
     "source": [
+      "hardzone.es",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La policía de Los Ángeles no renueva su contrato con Flock por las violaciones de privacidad",
+    "summary": "El departamento cede a la presión ciudadana después de que los lectores de matrículas identificaran erróneamente vehículos como robados.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nuevos incidentes de seguridad en Grok y Codex ponen en alerta a la comunidad de inteligencia artificial",
+    "summary": "La IA de xAI subió repositorios completos a su almacenamiento, mientras que Codex filtró los ganadores del premio Fields.",
+    "source": [
+      "thehackernews.com",
       "news.ycombinator.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Un CEO de 22 años defiende la jornada laboral 996 como un 'producto' voluntario y afirma que 'esforzarse al 95% equivale al 0%'",
-    "summary": "El joven empresario justifica el régimen de trabajo de 9 a 9, seis días a la semana, como una opción personal para alcanzar el máximo rendimiento.",
+    "title": "Meta expande su supercluster Hyperion y apuesta fuerte por la carrera hacia la superinteligencia artificial",
+    "summary": "La compañía de Mark Zuckerberg invierte más de 50.000 millones en infraestructura de IA, desafiando a sus competidores.",
     "source": [
+      "tomshardware.com",
       "xataka.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "Un emulador de PS5 alcanza los menús de GTA V y comienza a cargar juegos 3D en PC",
-    "summary": "El proyecto de emulación de la consola de Sony consigue ejecutar los primeros títulos tridimensionales en computadoras, marcando un importante hito.",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]

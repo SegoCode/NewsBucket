@@ -1,74 +1,104 @@
 [
   {
-    "title": "Intel presents Starfire, a space processor based on Panther Lake with 18A cores",
-    "summary": "Intel's space chip, designed to withstand extreme temperatures and radiation, combines a Panther Lake CPU with an Intel 3 GPU for government applications.",
+    "title": "Digital exhaustion and ethical dilemmas of AI dominate public debate",
+    "summary": "Society faces growing digital fatigue as questions arise about government use of artificial intelligence and privacy in interactions with chatbots.",
     "source": [
-      "hardzone.es",
-      "/r/hardware",
-      "tomshardware.com",
-      "videocardz.com"
+      "news.ycombinator.com",
+      "wired.com",
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 4
   },
   {
-    "title": "Uber boosts its robotaxis while Madrid prepares for their arrival and regulation grows",
-    "summary": "The company advances in the deployment of autonomous vehicles with new services, regulatory pressure and concrete plans in Spain, while an app allows comparing prices among operators.",
+    "title": "Anthropic localizes Claude in India and faces ethical debate about its AI's consciousness",
+    "summary": "The assistant shows language differences in its behavior while the company adapts its prices to the Indian market.",
+    "source": [
+      "xataka.com",
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "SK Hynix, CXMT and Micron redefine the global RAM market with new strategies",
+    "summary": "Manufacturers bet on production in the US and break with traditional industry cycles.",
+    "source": [
+      "hardzone.es",
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "12 states sue to block $110 billion merger between Paramount and Warner Bros",
+    "summary": "A coalition of attorneys general challenges the mega-merger alleging it harms the public interest.",
+    "source": [
+      "/r/technology",
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Big AI leaders debate the future of the sector: multi-million dollar investments versus regulatory caution",
+    "summary": "Executives from SoftBank, OpenAI and DeepMind disagree on the speed and risks of the next wave of artificial intelligence.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Global experts clash over the impact of AI on employment: catastrophe or myth?",
+    "summary": "While Nobel laureates and economists call for urgent safeguards, an alternative analysis argues that more human talent is needed than ever.",
+    "source": [
+      "/r/technology",
+      "the-decoder.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple sues OpenAI for trade secret theft by a former employee",
+    "summary": "The Cupertino company accuses a former employee of leaking confidential documents to the artificial intelligence startup.",
     "source": [
       "techcrunch.com",
-      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "New York halts data center expansion due to energy consumption as neighborhood opposition grows",
+    "summary": "The state enacts a historic moratorium on large projects while residents denounce the impact on their homes.",
+    "source": [
+      "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Japan develops revolutionary method to recover 90% of lithium from used batteries",
+    "summary": "The scientific breakthrough promises to transform electric vehicle recycling and reduce dependence on imported raw materials.",
+    "source": [
+      "/r/technology",
       "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Apple reinforces its commitment to artificial intelligence with Siri, new APIs and the future M7 Ultra chip",
-    "summary": "The Cupertino company expands its AI capabilities with improvements in Siri, a voice analysis API and a massive chip with 1.5 TB memory planned for 2028.",
+    "title": "SpaceX gets green light for Starship while its stock price plummets",
+    "summary": "The company faces a double challenge: the regulatory recovery of its rocket and the collapse of its stock market valuation.",
     "source": [
-      "wired.com",
-      "news.ycombinator.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "A Zotac RTX 5090 catches fire during use, but the 16-pin connector is not to blame",
-    "summary": "A Zotac RTX 5090 unit suffered a fire within minutes of use, although investigations indicate that the problem is not the power connector.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Lenovo presents Legion C700, its new cloud gaming handheld console with Tencent START support",
-    "summary": "The Legion C700 is a portable console focused on cloud gaming, which bets on a different approach and will feature the Tencent START platform.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lenovo launches a mini PC with Intel Lunar Lake and 16 GB of non-expandable memory",
-    "summary": "Lenovo's new mini PC, available for $1,179, features an Intel Core Ultra 5 226V processor with 16 GB of soldered RAM.",
-    "source": [
-      "videocardz.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Cooler Master HAF 500 II: review of the new version of the classic chassis with improved airflow",
-    "summary": "Reviews highlight the impressive airflow and spacious interior of the new HAF 500 II, maintaining the spirit of the series.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Satya Nadella warns companies about AI and criticizes OpenAI and Anthropic for data distillation",
-    "summary": "Microsoft's CEO warned about the risks of artificial intelligence and accused AI labs of prohibiting distillation while training with others' data.",
+    "title": "Satya Nadella accuses OpenAI and Anthropic of having a double standard with training data",
+    "summary": "Microsoft's CEO criticizes AI labs for preventing distillation while using public content without permission.",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
@@ -76,101 +106,84 @@
     "count": 2
   },
   {
-    "title": "Rocket recovery successes: China achieves its first reuse and SpaceX gets permission to fly Starship",
-    "summary": "China recovers the first stage of a rocket for the first time, imitating SpaceX and Blue Origin, while the FAA gives the green light to Starship after the May failure.",
+    "title": "Apple accelerates development of its M7 chips and releases iOS 27 betas with AI-powered Siri",
+    "summary": "The company integrates new artificial intelligence capabilities into its ecosystem, from voice assistant to processors.",
     "source": [
-      "xataka.com",
-      "techcrunch.com"
+      "wired.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Memory market on alert: SK Hynix questions the cycle, Micron invests $500 million in the US and apocalyptic prices are warned",
-    "summary": "Major memory manufacturers show conflicting signals: SK Hynix believes the traditional cycle is dead, Micron bets on local production, and drastic increases are forecast.",
+    "title": "AMD relaunches Ryzen 7 5800X3D with promotional bundles including free cooling",
+    "summary": "The new anniversary batches of the processor offer discounts of up to $173 and combos with motherboards.",
     "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple sues former employee who stole confidential files to take them to OpenAI",
-    "summary": "The company accuses a former worker of exploiting a rare bug to download internal documents and then joining OpenAI, in a legal battle over trade secrets.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AI-generated video startup PixVerse raises $439 million and surpasses $2 billion valuation",
-    "summary": "PixVerse, specialized in generating videos using artificial intelligence, closes a massive round that shoots its valuation over two billion dollars.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "General Fusion debuts on the stock exchange as the first publicly traded nuclear fusion company",
-    "summary": "The nuclear fusion company hits the stock market with great investor reception, becoming the first of its kind in public markets.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Nintendo could equip the Switch 2 with a 1080p OLED screen according to new rumors",
-    "summary": "It is speculated that Nintendo's next console will feature a 1080p OLED screen, improving on its predecessor's specifications.",
-    "source": [
+      "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Tesla manufactures its AI5 chip on a 2nm node at Samsung Foundry, months after doing so at TSMC",
-    "summary": "Tesla's new artificial intelligence processor, manufactured with 2nm technology, comes out of Samsung Foundry and prepares for production, in parallel with the tape-out at TSMC.",
+    "title": "Intel invests $5.7 billion in its Irish factory and presents the Starfire chip for space",
+    "summary": "The company strengthens production of its Xeon processors while designing a chip capable of withstanding extreme radiation.",
     "source": [
-      "tomshardware.com"
+      "tomshardware.com",
+      "hardzone.es"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Meta expands its AI supercluster Hyperion to 5 GW and raises its investment in Louisiana to more than $50 billion",
-    "summary": "Meta's plan for its artificial intelligence infrastructure reaches 5 GW in Hyperion, with a record investment in the state of Louisiana and local improvements.",
+    "title": "Waze incorporates Gemini artificial intelligence features and new customization options",
+    "summary": "The navigation app is updated with conversational assistants and AI-driven user experience improvements.",
     "source": [
-      "tomshardware.com"
+      "kite.kagi.com",
+      "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "US orders suspension of Telegram's t.me domain, blocking access to links worldwide",
-    "summary": "By order of the US government, the domain used for Telegram links was suspended, preventing global access to these links.",
+    "title": "AI video startup PixVerse raises $439 million and reaches a valuation of $2 billion",
+    "summary": "The company shows that the AI video generation market continues to attract large investments.",
     "source": [
-      "bandaancha.eu"
+      "the-decoder.com",
+      "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Japan develops method to recover up to 90% of lithium from used electric vehicle batteries",
-    "summary": "Japanese researchers create an efficient process that allows extracting most of the lithium from depleted batteries, improving recycling sustainability.",
+    "title": "Valve fixes Steam Machine overheating threshold as early reviews are mixed",
+    "summary": "The company plans to update the BIOS to raise the temperature limit to 100 degrees Celsius following user complaints.",
     "source": [
+      "hardzone.es",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los Angeles police do not renew contract with Flock due to privacy violations",
+    "summary": "The department yields to public pressure after license plate readers mistakenly identified vehicles as stolen.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "New security incidents at Grok and Codex put the AI community on alert",
+    "summary": "xAI's AI uploaded complete repositories to its storage, while Codex leaked the Fields Medal winners.",
+    "source": [
+      "thehackernews.com",
       "news.ycombinator.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "A 22-year-old CEO defends the 996 work schedule as a voluntary 'product' and states that 'giving 95% effort equals 0%'",
-    "summary": "The young entrepreneur justifies the 9-to-9, six-days-a-week work regime as a personal choice to achieve maximum performance.",
+    "title": "Meta expands its Hyperion supercluster and bets big on the race toward artificial superintelligence",
+    "summary": "Mark Zuckerberg's company invests over $50 billion in AI infrastructure, challenging its competitors.",
     "source": [
+      "tomshardware.com",
       "xataka.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "PS5 emulator reaches GTA V menus and begins loading 3D games on PC",
-    "summary": "The Sony console emulation project manages to run the first three-dimensional titles on computers, marking an important milestone.",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]

@@ -1,74 +1,104 @@
 [
   {
-    "title": "Intel、Panther Lakeベースの宇宙用プロセッサ「Starfire」を発表、18Aコア搭載",
-    "summary": "Intelの宇宙用チップは、極端な温度や放射線に耐えるよう設計されており、政府向けアプリケーション向けにPanther Lake CPUとIntel 3 GPUを組み合わせている。",
+    "title": "デジタル疲労とAIの倫理的ジレンマが公共の議論を支配",
+    "summary": "社会は増大するデジタル疲労に直面し、政府による人工知能の利用やチャットボットとのやり取りにおけるプライバシーに関する疑問が浮上している。",
     "source": [
-      "hardzone.es",
-      "/r/hardware",
-      "tomshardware.com",
-      "videocardz.com"
+      "news.ycombinator.com",
+      "wired.com",
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 4
   },
   {
-    "title": "Uberがロボタクシーを推進、マドリードは到着に備え規制も拡大",
-    "summary": "同社は新たなサービス、規制圧力、スペインでの具体的な計画により自動運転車の展開を進めており、一方でアプリは事業者間の価格比較を可能にしている。",
+    "title": "AnthropicがClaudeをインドにローカライズ、AIの意識に関する倫理的議論に直面",
+    "summary": "アシスタントは行動に言語的な違いを示し、同社は価格をインド市場に適応させている。",
+    "source": [
+      "xataka.com",
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "SK Hynix、CXMT、Micronが新戦略で世界のRAM市場を再定義",
+    "summary": "各メーカーは米国での生産に注力し、業界の従来のサイクルを打破している。",
+    "source": [
+      "hardzone.es",
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "12州がパラマウントとワーナー・ブラザースの1100億ドル規模の合併を阻止するため訴訟",
+    "summary": "検事総長らの連合が、このメガ合併は公共の利益を損なうと主張して異議を申し立てている。",
+    "source": [
+      "/r/technology",
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AIの主要リーダーが業界の将来を議論：巨額投資と規制の慎重さの間で",
+    "summary": "ソフトバンク、OpenAI、DeepMindの経営陣が、次なる人工知能の波の速度とリスクについて意見を異にしている。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "世界的専門家がAIの雇用への影響で対立：災害か神話か？",
+    "summary": "ノーベル賞受賞者や経済学者が緊急の保護策を求める一方、別の分析ではかつてないほど人間の才能が必要とされていると主張している。",
+    "source": [
+      "/r/technology",
+      "the-decoder.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple、元従業員による営業秘密の盗用でOpenAIを提訴",
+    "summary": "クパチーノの同社は、元従業員がAIスタートアップに機密文書を漏洩したと非難している。",
     "source": [
       "techcrunch.com",
-      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ニューヨーク州、エネルギー消費を理由にデータセンターの拡張を抑制、住民の反対が高まる",
+    "summary": "州は大規模プロジェクトに歴史的なモラトリアムを制定する一方、住民は自宅への影響を訴えている。",
+    "source": [
+      "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "日本、使用済みバッテリーからリチウムの90%を回収する革新的な方法を開発",
+    "summary": "この科学的進歩は、電気自動車のリサイクルを変革し、輸入原材料への依存を減らすと期待されている。",
+    "source": [
+      "/r/technology",
       "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Apple、Siri、新API、将来のM7 UltraチップでAIへの取り組みを強化",
-    "summary": "クパティーノの同社は、Siriの改善、音声解析API、2028年予定の1.5TBメモリを搭載した巨大チップによりAI機能を拡大している。",
+    "title": "SpaceX、スターシップの承認を得るも株価が急落",
+    "summary": "同社は、ロケットの規制上の承認と株式評価額の暴落という二重の課題に直面している。",
     "source": [
-      "wired.com",
-      "news.ycombinator.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Zotac RTX 5090が使用中に発火、16ピンコネクタが原因ではない",
-    "summary": "ZotacのRTX 5090の1ユニットが使用開始数分後に火災を起こしたが、調査によると問題は電源コネクタではないとされる。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Lenovo、Tencent START対応の新型クラウドゲーム携帯ゲーム機「Legion C700」を発表",
-    "summary": "Legion C700はクラウドゲームに特化した携帯ゲーム機で、異なるアプローチを採用し、Tencent STARTプラットフォームに対応する。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lenovo、Intel Lunar Lake搭載で16GBメモリ（増設不可）のミニPCを発売",
-    "summary": "Lenovoの新型ミニPCは1,179ドルで入手可能で、Intel Core Ultra 5 226Vプロセッサと16GBのはんだ付けRAMを搭載。",
-    "source": [
-      "videocardz.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Cooler Master HAF 500 II：エアフローが改善されたクラシックケースの新バージョンをレビュー",
-    "summary": "レビューでは、新型HAF 500 IIの印象的なエアフローと広い内部スペースが強調されており、シリーズの精神を維持している。",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "サティア・ナデラ、企業にAIについて警告し、データ蒸留でOpenAIとAnthropicを批判",
-    "summary": "マイクロソフトのCEOは人工知能のリスクについて警告し、AIラボが他社のデータで学習しながら蒸留を禁止していると非難した。",
+    "title": "サティア・ナデラ氏、OpenAIとAnthropicにトレーニングデータに関するダブルスタンダードがあると非難",
+    "summary": "マイクロソフトのCEOは、AIラボが蒸留を妨げる一方で許可なく公開コンテンツを使用していると批判している。",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
@@ -76,101 +106,84 @@
     "count": 2
   },
   {
-    "title": "ロケット回収の成功：中国が初の再使用を達成、SpaceXはStarship飛行許可を取得",
-    "summary": "中国は初めてロケットの第1段を回収し、SpaceXやBlue Originに続く。一方、FAAは5月の失敗後、Starshipにゴーサインを出した。",
+    "title": "Apple、M7チップの開発を加速し、AI強化されたSiriを搭載したiOS 27のベータ版をリリース",
+    "summary": "同社は、音声アシスタントからプロセッサに至るまで、エコシステム全体に新しい人工知能機能を統合している。",
     "source": [
-      "xataka.com",
-      "techcrunch.com"
+      "wired.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "メモリ市場に警戒感：SKハイニックスはサイクルに疑問、マイクロンは米国に5億ドル投資、終末的な価格を警告",
-    "summary": "主要メモリメーカーは矛盾するシグナルを示している：SKハイニックスは従来のサイクルは終わったと考え、マイクロンは地元生産に賭け、大幅な値上がりが予測されている。",
+    "title": "AMD、無料冷却装置付きのプロモーションパッケージでRyzen 7 5800X3Dを再販売",
+    "summary": "プロセッサの記念ロットは最大173ドルの割引やマザーボードとのコンボを提供している。",
     "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple、機密ファイルを盗んでOpenAIに持ち込んだ元従業員を提訴",
-    "summary": "同社は、元従業員が稀なエラーを悪用して内部文書をダウンロードし、その後OpenAIに加わったと告発し、営業秘密をめぐる法廷闘争に発展している。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AI動画生成スタートアップPixVerseが4億3900万ドルを調達、評価額は20億ドル超に",
-    "summary": "AIによる動画生成に特化したPixVerseが大規模ラウンドを完了し、評価額は20億ドルを超えた。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "General Fusion、核融合企業として初の株式公開",
-    "summary": "核融合会社が投資家に好評のうちに株式公開し、同種の企業として初めて公開市場に登場した。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Nintendo、Switch 2に1080p有機ELディスプレイ搭載の可能性、新たな噂",
-    "summary": "任天堂の次世代機は1080p有機ELディスプレイを搭載し、前世代から性能が向上すると噂されている。",
-    "source": [
+      "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Tesla、TSMCに続きサムスン・ファウンドリでも2nmノードでAI5チップを製造",
-    "summary": "Teslaの新型AIプロセッサは2nm技術で製造され、サムスン・ファウンドリから出荷、TSMCでのテープアウトと並行して生産準備を進めている。",
+    "title": "Intel、アイルランド工場に57億ドルを投資、宇宙向けチップStarfireを発表",
+    "summary": "同社はXeonプロセッサの生産を強化すると同時に、極端な放射線に耐えられるチップを設計している。",
     "source": [
-      "tomshardware.com"
+      "tomshardware.com",
+      "hardzone.es"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Meta、AIスーパークラスターHyperionを5GWに拡大、ルイジアナ州への投資を500億ドル以上に",
-    "summary": "MetaのAIインフラ計画はHyperionで5GWに達し、ルイジアナ州への記録的な投資と地域の改善を伴う。",
+    "title": "Waze、AI機能Geminiと新しいカスタマイズオプションを導入",
+    "summary": "ナビアプリが、会話型アシスタントとAIによるユーザーエクスペリエンスの向上でアップデートされる。",
     "source": [
-      "tomshardware.com"
+      "kite.kagi.com",
+      "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "米国、Telegramのドメインt.meの停止を命令、世界中でリンクにアクセス不能に",
-    "summary": "米国政府の命令により、Telegramのリンクに使用されていたドメインが停止され、全世界でこれらのリンクへのアクセスができなくなった。",
+    "title": "AI動画スタートアップPixVerseが4億3900万ドルを調達、評価額は20億ドルに",
+    "summary": "同社は、AI動画生成市場が引き続き大型投資を集めていることを示している。",
     "source": [
-      "bandaancha.eu"
+      "the-decoder.com",
+      "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "日本、使用済みEVバッテリーからリチウムを最大90%回収する方法を開発",
-    "summary": "日本の研究者が、使用済みバッテリーからリチウムの大部分を抽出できる効率的なプロセスを開発し、リサイクルの持続可能性を向上させた。",
+    "title": "Valve、Steam Machineの過熱しきい値を修正、初期の評価は賛否両論",
+    "summary": "同社はユーザーの苦情を受け、温度制限を摂氏100度に引き上げるBIOSアップデートを計画している。",
     "source": [
+      "hardzone.es",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ロサンゼルス警察、プライバシー侵害でFlockとの契約を更新せず",
+    "summary": "ナンバープレート読み取り装置が車両を誤って盗難車と識別した後、警察署は市民の圧力に屈した。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GrokとCodexの新たなセキュリティインシデントがAIコミュニティに警告を発する",
+    "summary": "xAIのAIがストレージに完全なリポジトリをアップロードした一方、Codexはフィールズ賞受賞者を漏洩した。",
+    "source": [
+      "thehackernews.com",
       "news.ycombinator.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "22歳のCEO、996労働時間を自発的な「商品」と擁護、「95%の努力は0%と同じ」と主張",
-    "summary": "若手実業家は、週6日午前9時から午後9時までの労働体制を、最大のパフォーマンスを達成するための個人の選択肢として正当化している。",
+    "title": "Meta、スーパークラスターHyperionを拡張し、人工超知能への競争に大きく賭ける",
+    "summary": "マーク・ザッカーバーグ率いる同社は、競合他社に挑戦しながらAIインフラに500億ドル以上を投資している。",
     "source": [
+      "tomshardware.com",
       "xataka.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "PS5エミュレーター、GTA Vのメニューに到達しPCで3Dゲームの読み込みを開始",
-    "summary": "Sonyのコンソールのエミュレーションプロジェクトは、コンピュータ上で初の3Dタイトルの実行に成功し、重要なマイルストーンを達成した。",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]
