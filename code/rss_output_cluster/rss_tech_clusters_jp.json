@@ -1,172 +1,175 @@
 [
   {
-    "title": "Valve、Steam Machineの早期過熱警告を確認、閾値を100°Cに引き上げ",
-    "summary": "同社は、複数の報告によると、必要以上に早く作動していた赤色LEDアラートを修正するため、BIOSアップデートをリリースする。",
+    "title": "Intel、Panther Lakeベースの宇宙用プロセッサ「Starfire」を発表、18Aコア搭載",
+    "summary": "Intelの宇宙用チップは、極端な温度や放射線に耐えるよう設計されており、政府向けアプリケーション向けにPanther Lake CPUとIntel 3 GPUを組み合わせている。",
     "source": [
-      "/r/technology",
+      "hardzone.es",
+      "/r/hardware",
       "tomshardware.com",
       "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Uberがロボタクシーを推進、マドリードは到着に備え規制も拡大",
+    "summary": "同社は新たなサービス、規制圧力、スペインでの具体的な計画により自動運転車の展開を進めており、一方でアプリは事業者間の価格比較を可能にしている。",
+    "source": [
+      "techcrunch.com",
+      "xataka.com",
+      "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "Zotac RTX 5090が使用中に発火、16ピンコネクターが原因ではないと発表",
-    "summary": "ハイエンドGPUのインシデントについて、実際の故障原因が調査されている中、2つの独立した報告が記録されている。",
+    "title": "Apple、Siri、新API、将来のM7 UltraチップでAIへの取り組みを強化",
+    "summary": "クパティーノの同社は、Siriの改善、音声解析API、2028年予定の1.5TBメモリを搭載した巨大チップによりAI機能を拡大している。",
     "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "米国12州がパラマウントとワーナー・ブラザースの合併阻止を求めて提訴",
-    "summary": "1100億ドル規模のこの取引は、ニューヨーク市長の批判や州司法長官が率いる訴訟に直面している。",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "LAPD、プライバシー懸念からナンバープレート読み取り企業Flockとの契約を終了",
-    "summary": "ロサンゼルス市警は、誤ったデータに基づく不適切な逮捕の報告を受け、契約を更新しなかった。",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung、AIトレーニングに同意しないユーザーの健康データを削除すると脅迫",
-    "summary": "Samsung Healthアプリは、人工知能モデル開発への同意を個人情報へのアクセスの条件とする。",
-    "source": [
+      "wired.com",
       "news.ycombinator.com",
-      "/r/technology"
+      "tomshardware.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Intel、Panther Lakeアーキテクチャベースの8コア宇宙向けプロセッサ「Starfire」を発表",
-    "summary": "米国政府向けに設計されたこのチップは、GPUにIntel 3テクノロジーを採用し、軌道ミッションに対応する予定。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple M7 Ultraは最大1.5TBのユニファイドメモリとBlackwellクラスの性能を搭載か",
-    "summary": "業界の報道によると、2028年向けのAppleの将来のチップは容量の怪物になるだろう。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD、ドライバーに最大8倍のマルチフレーム生成技術をリーク",
-    "summary": "AMDの実験的ドライバーは、次期バージョンのFSRが画像スケーリングに劇的な改善を含むことを示唆している。",
+    "title": "Zotac RTX 5090が使用中に発火、16ピンコネクタが原因ではない",
+    "summary": "ZotacのRTX 5090の1ユニットが使用開始数分後に火災を起こしたが、調査によると問題は電源コネクタではないとされる。",
     "source": [
       "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lenovo、Tencent START対応の新型クラウドゲーム携帯ゲーム機「Legion C700」を発表",
+    "summary": "Legion C700はクラウドゲームに特化した携帯ゲーム機で、異なるアプローチを採用し、Tencent STARTプラットフォームに対応する。",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lenovo、Intel Lunar Lake搭載で16GBメモリ（増設不可）のミニPCを発売",
+    "summary": "Lenovoの新型ミニPCは1,179ドルで入手可能で、Intel Core Ultra 5 226Vプロセッサと16GBのはんだ付けRAMを搭載。",
+    "source": [
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cooler Master HAF 500 II：エアフローが改善されたクラシックケースの新バージョンをレビュー",
+    "summary": "レビューでは、新型HAF 500 IIの印象的なエアフローと広い内部スペースが強調されており、シリーズの精神を維持している。",
+    "source": [
+      "/r/hardware",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "約200人の経済学者とノーベル賞受賞者がAIによる大規模な雇用喪失を警告",
-    "summary": "AnthropicのJack Clarkなどの人物が署名した「We Must Act Now」の書簡は、人工知能の経済的影響に対する緊急措置を求めている。",
+    "title": "サティア・ナデラ、企業にAIについて警告し、データ蒸留でOpenAIとAnthropicを批判",
+    "summary": "マイクロソフトのCEOは人工知能のリスクについて警告し、AIラボが他社のデータで学習しながら蒸留を禁止していると非難した。",
     "source": [
-      "the-decoder.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic、Claude Fable 5の無料アクセスを7月19日まで延長",
-    "summary": "このアクセス延長は、言語モデルをめぐるOpenAIとの激しい価格戦争の中で行われた。",
-    "source": [
-      "kite.kagi.com",
+      "techcrunch.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "SpaceX、5月の推進器故障後、スターシップの飛行再開承認を取得",
-    "summary": "FAAは、前回の打ち上げでのブースター故障後、同社に巨大ロケットの試験再開のゴーサインを出した。",
+    "title": "ロケット回収の成功：中国が初の再使用を達成、SpaceXはStarship飛行許可を取得",
+    "summary": "中国は初めてロケットの第1段を回収し、SpaceXやBlue Originに続く。一方、FAAは5月の失敗後、Starshipにゴーサインを出した。",
+    "source": [
+      "xataka.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "メモリ市場に警戒感：SKハイニックスはサイクルに疑問、マイクロンは米国に5億ドル投資、終末的な価格を警告",
+    "summary": "主要メモリメーカーは矛盾するシグナルを示している：SKハイニックスは従来のサイクルは終わったと考え、マイクロンは地元生産に賭け、大幅な値上がりが予測されている。",
+    "source": [
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple、機密ファイルを盗んでOpenAIに持ち込んだ元従業員を提訴",
+    "summary": "同社は、元従業員が稀なエラーを悪用して内部文書をダウンロードし、その後OpenAIに加わったと告発し、営業秘密をめぐる法廷闘争に発展している。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Meta、ユーザーの批判を受けInstagramのAI生成画像機能を撤去",
-    "summary": "同社は、プラットフォーム上での人工知能の使用に対する苦情の波を受けて、このツールを削除することを決定した。",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Satya Nadella、制御されないAIの使用は有害である可能性があると企業に警告",
-    "summary": "マイクロソフトのCEOは、企業に対し人工知能の導入に慎重であるよう促した。",
+    "title": "AI動画生成スタートアップPixVerseが4億3900万ドルを調達、評価額は20億ドル超に",
+    "summary": "AIによる動画生成に特化したPixVerseが大規模ラウンドを完了し、評価額は20億ドルを超えた。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "動画生成スタートアップPixVerseが4億3900万ドルを調達、評価額は2倍に",
-    "summary": "2年前に設立された同社は、今回の資金調達ラウンドを経て、評価額が20億ドルを超えた。",
+    "title": "General Fusion、核融合企業として初の株式公開",
+    "summary": "核融合会社が投資家に好評のうちに株式公開し、同種の企業として初めて公開市場に登場した。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "General Fusion、核融合企業として初の株式上場を果たす",
-    "summary": "核融合会社は上場に際して投資家から強い支持を受け、業界のマイルストーンとなった。",
+    "title": "Nintendo、Switch 2に1080p有機ELディスプレイ搭載の可能性、新たな噂",
+    "summary": "任天堂の次世代機は1080p有機ELディスプレイを搭載し、前世代から性能が向上すると噂されている。",
     "source": [
-      "techcrunch.com"
+      "videocardz.com"
     ],
     "count": 1
   },
   {
-    "title": "チューリング賞受賞者Rich Suttonが自己学習型AIエージェントを開発するOak Labを設立",
-    "summary": "この研究所は、人間の監視なしに自律的に学習する人工知能の構築に焦点を当てる。",
+    "title": "Tesla、TSMCに続きサムスン・ファウンドリでも2nmノードでAI5チップを製造",
+    "summary": "Teslaの新型AIプロセッサは2nm技術で製造され、サムスン・ファウンドリから出荷、TSMCでのテープアウトと並行して生産準備を進めている。",
     "source": [
-      "the-decoder.com"
+      "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "Telegramのドメインt.meが一時的に停止",
-    "summary": "メッセージングプラットフォームのリンク短縮サービスの停止が、ユーザーの間に不確実性を生み出している。",
+    "title": "Meta、AIスーパークラスターHyperionを5GWに拡大、ルイジアナ州への投資を500億ドル以上に",
+    "summary": "MetaのAIインフラ計画はHyperionで5GWに達し、ルイジアナ州への記録的な投資と地域の改善を伴う。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "米国、Telegramのドメインt.meの停止を命令、世界中でリンクにアクセス不能に",
+    "summary": "米国政府の命令により、Telegramのリンクに使用されていたドメインが停止され、全世界でこれらのリンクへのアクセスができなくなった。",
+    "source": [
+      "bandaancha.eu"
+    ],
+    "count": 1
+  },
+  {
+    "title": "日本、使用済みEVバッテリーからリチウムを最大90%回収する方法を開発",
+    "summary": "日本の研究者が、使用済みバッテリーからリチウムの大部分を抽出できる効率的なプロセスを開発し、リサイクルの持続可能性を向上させた。",
     "source": [
       "news.ycombinator.com"
     ],
     "count": 1
   },
   {
-    "title": "Oracle、6月から50%下落しLarry Ellisonを富豪トップ10から脱落させる",
-    "summary": "ソフトウェア企業の株価の急落により、創業者の資産から数十億ドルが消失した。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ニューヨーク市、欺瞞的なサブスクリプション慣行を禁止し、簡単な解約を義務化へ",
-    "summary": "新しい市法は、不要な請求や複雑な解約プロセスから消費者を保護することを目的としている。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "中国、ロケットの第1段回収に成功、SpaceXとBlue Originのみが達成した偉業",
-    "summary": "アジアの国は、ロケットの第1段の制御された着陸に成功し、再利用の進歩を示した。",
+    "title": "22歳のCEO、996労働時間を自発的な「商品」と擁護、「95%の努力は0%と同じ」と主張",
+    "summary": "若手実業家は、週6日午前9時から午後9時までの労働体制を、最大のパフォーマンスを達成するための個人の選択肢として正当化している。",
     "source": [
       "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "PS5エミュレーター、GTA Vのメニューに到達しPCで3Dゲームの読み込みを開始",
+    "summary": "Sonyのコンソールのエミュレーションプロジェクトは、コンピュータ上で初の3Dタイトルの実行に成功し、重要なマイルストーンを達成した。",
+    "source": [
+      "videocardz.com"
     ],
     "count": 1
   }
