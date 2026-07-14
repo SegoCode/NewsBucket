@@ -1,113 +1,63 @@
 [
   {
-    "title": "デジタル疲労とAIの倫理的ジレンマが公共の議論を支配",
-    "summary": "社会は増大するデジタル疲労に直面し、政府による人工知能の利用やチャットボットとのやり取りにおけるプライバシーに関する疑問が浮上している。",
+    "title": "ニューヨーク州、50メガワット超のデータセンターに1年間のモラトリアムを課す、米国初",
+    "summary": "ニューヨーク州は大規模データセンターの建設一時停止を承認し、税制優遇措置を撤廃して業界の拡大にブレーキをかける。",
     "source": [
-      "news.ycombinator.com",
-      "wired.com",
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 4
-  },
-  {
-    "title": "AnthropicがClaudeをインドにローカライズ、AIの意識に関する倫理的議論に直面",
-    "summary": "アシスタントは行動に言語的な違いを示し、同社は価格をインド市場に適応させている。",
-    "source": [
-      "xataka.com",
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "SK Hynix、CXMT、Micronが新戦略で世界のRAM市場を再定義",
-    "summary": "各メーカーは米国での生産に注力し、業界の従来のサイクルを打破している。",
-    "source": [
-      "hardzone.es",
-      "xataka.com",
+      "/r/technology",
+      "techcrunch",
       "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "12州がパラマウントとワーナー・ブラザースの1100億ドル規模の合併を阻止するため訴訟",
-    "summary": "検事総長らの連合が、このメガ合併は公共の利益を損なうと主張して異議を申し立てている。",
+    "title": "DeepMind CEOと進歩派リーダーがAI規制と真剣なメッセージを求める",
+    "summary": "Google DeepMindの経営幹部と米国議員が、基準を確立し、AIマネーが公共の討論を沈黙させるのを防ぐよう求める。",
     "source": [
-      "/r/technology",
-      "kite.kagi.com",
-      "techcrunch.com"
+      "techcrunch",
+      "the-decoder",
+      "/r/technology"
     ],
     "count": 3
   },
   {
-    "title": "AIの主要リーダーが業界の将来を議論：巨額投資と規制の慎重さの間で",
-    "summary": "ソフトバンク、OpenAI、DeepMindの経営陣が、次なる人工知能の波の速度とリスクについて意見を異にしている。",
+    "title": "イーロン・マスクのColossus 2データセンターが許可なくガスタービン59基を設置、ミシシッピ州の黒人コミュニティを汚染",
+    "summary": "報告書は、この施設が数千トンの汚染物質を放出し、肺疾患率の高い地域に影響を与えたことを明らかにしている。",
     "source": [
       "/r/technology",
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "世界的専門家がAIの雇用への影響で対立：災害か神話か？",
-    "summary": "ノーベル賞受賞者や経済学者が緊急の保護策を求める一方、別の分析ではかつてないほど人間の才能が必要とされていると主張している。",
-    "source": [
-      "/r/technology",
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Apple、元従業員による営業秘密の盗用でOpenAIを提訴",
-    "summary": "クパチーノの同社は、元従業員がAIスタートアップに機密文書を漏洩したと非難している。",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "ニューヨーク州、エネルギー消費を理由にデータセンターの拡張を抑制、住民の反対が高まる",
-    "summary": "州は大規模プロジェクトに歴史的なモラトリアムを制定する一方、住民は自宅への影響を訴えている。",
+    "title": "DeepSeek、15億ドルの資金調達を目指しIPO準備",
+    "summary": "中国のAIスタートアップは、70億ドルのラウンドを終了してからわずか数週間で新たな資金を求めている。",
     "source": [
-      "tomshardware.com",
+      "techcrunch",
+      "the-decoder"
+    ],
+    "count": 2
+  },
+  {
+    "title": "動画生成スタートアップPixVerseが4億3900万ドルを調達、評価額は20億ドル超に",
+    "summary": "この投資は、AIによる動画生成市場に対する継続的な信頼を反映している。",
+    "source": [
+      "the-decoder",
+      "techcrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "オラクル、6月以来株価50%下落、S&Pはジャンク債の一歩手前に格下げ",
+    "summary": "この急落により、ラリー・エリソンは億万長者リストで2位から8位に後退した。",
+    "source": [
+      "news.ycombinator.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "日本、使用済みバッテリーからリチウムの90%を回収する革新的な方法を開発",
-    "summary": "この科学的進歩は、電気自動車のリサイクルを変革し、輸入原材料への依存を減らすと期待されている。",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX、スターシップの承認を得るも株価が急落",
-    "summary": "同社は、ロケットの規制上の承認と株式評価額の暴落という二重の課題に直面している。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "サティア・ナデラ氏、OpenAIとAnthropicにトレーニングデータに関するダブルスタンダードがあると非難",
-    "summary": "マイクロソフトのCEOは、AIラボが蒸留を妨げる一方で許可なく公開コンテンツを使用していると批判している。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple、M7チップの開発を加速し、AI強化されたSiriを搭載したiOS 27のベータ版をリリース",
-    "summary": "同社は、音声アシスタントからプロセッサに至るまで、エコシステム全体に新しい人工知能機能を統合している。",
+    "title": "Apple、AIベースのSiri機能を搭載したiOS 27を発表、M7チップ開発を加速",
+    "summary": "SiriアシスタントはAppleの統合ツールとなり、同社は自社のAI向けチップを加速させる。",
     "source": [
       "wired.com",
       "kite.kagi.com"
@@ -115,75 +65,108 @@
     "count": 2
   },
   {
-    "title": "AMD、無料冷却装置付きのプロモーションパッケージでRyzen 7 5800X3Dを再販売",
-    "summary": "プロセッサの記念ロットは最大173ドルの割引やマザーボードとのコンボを提供している。",
+    "title": "Telegramのドメインt.meが誤って1日停止、その後復旧",
+    "summary": "この停止は世界中のすべてのTelegramリンクに影響を与え、サービス障害を引き起こした。",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "techcrunch",
+      "bandaancha.eu"
     ],
     "count": 2
   },
   {
-    "title": "Intel、アイルランド工場に57億ドルを投資、宇宙向けチップStarfireを発表",
-    "summary": "同社はXeonプロセッサの生産を強化すると同時に、極端な放射線に耐えられるチップを設計している。",
+    "title": "大手出版社、Googleが自社コンテンツをAIトレーニングに使用したとして提訴",
+    "summary": "この訴訟は、AIモデルのトレーニングにおける著作権で保護されたデータの使用をめぐる法的な戦いの拡大に加わる。",
     "source": [
-      "tomshardware.com",
-      "hardzone.es"
+      "techcrunch"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Waze、AI機能Geminiと新しいカスタマイズオプションを導入",
-    "summary": "ナビアプリが、会話型アシスタントとAIによるユーザーエクスペリエンスの向上でアップデートされる。",
+    "title": "イラン、携帯ネットワークの脆弱性を悪用し中東の米軍を特定",
+    "summary": "報告書は、イラン政府が電話ネットワークのセキュリティの弱点を悪用して軍事目標を追跡したことを明らかにしている。",
     "source": [
-      "kite.kagi.com",
-      "techcrunch.com"
+      "techcrunch"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "AI動画スタートアップPixVerseが4億3900万ドルを調達、評価額は20億ドルに",
-    "summary": "同社は、AI動画生成市場が引き続き大型投資を集めていることを示している。",
+    "title": "YouTubeとXが人物画像を裸にするアプリへのゲートウェイに",
+    "summary": "ソーシャルプラットフォームは、同意のない性的ディープフェイクアプリの配信チャネルとして利用されている。",
     "source": [
-      "the-decoder.com",
-      "techcrunch.com"
+      "wired.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Valve、Steam Machineの過熱しきい値を修正、初期の評価は賛否両論",
-    "summary": "同社はユーザーの苦情を受け、温度制限を摂氏100度に引き上げるBIOSアップデートを計画している。",
+    "title": "政府効率化省、住宅政策にAIを利用するも手法を開示せず",
+    "summary": "連邦政府は住宅に関する意思決定にAIモデルを採用したが、その機能に関する詳細を公に提供することを拒否している。",
     "source": [
-      "hardzone.es",
+      "wired.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ソフトバンク孫正義CEO、AIは2040年までに年間5兆ドル必要と主張",
+    "summary": "孫氏はバブルを否定し、技術成長を維持するにはAIへの大規模投資が必要だと指摘する。",
+    "source": [
       "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "ロサンゼルス警察、プライバシー侵害でFlockとの契約を更新せず",
-    "summary": "ナンバープレート読み取り装置が車両を誤って盗難車と識別した後、警察署は市民の圧力に屈した。",
+    "title": "SpaceX株、競合の大幅な進展を受け史上最安値に",
+    "summary": "イーロン・マスクの宇宙企業は、ライバルが大きな技術的進歩を遂げた後、株式市場で大きな打撃を受けた。",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "GrokとCodexの新たなセキュリティインシデントがAIコミュニティに警告を発する",
-    "summary": "xAIのAIがストレージに完全なリポジトリをアップロードした一方、Codexはフィールズ賞受賞者を漏洩した。",
+    "title": "任天堂、Switch 2のディスプレイを1080p有機ELパネルにアップグレードを検討か",
+    "summary": "日本の同社は、次世代携帯ゲーム機の画質向上を検討しており、より鮮明で鮮やかな色を提供することを目指している。",
     "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
+      "hardzone.es"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Meta、スーパークラスターHyperionを拡張し、人工超知能への競争に大きく賭ける",
-    "summary": "マーク・ザッカーバーグ率いる同社は、競合他社に挑戦しながらAIインフラに500億ドル以上を投資している。",
+    "title": "Intel、アイルランド工場に57億ドル投資、Xeon 6の生産拡大",
+    "summary": "この投資は、Intel 3プロセスに基づく次世代プロセッサの製造を拡大することを目的としている。",
     "source": [
-      "tomshardware.com",
-      "xataka.com"
+      "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
+  },
+  {
+    "title": "中国、2026年上半期のチップ輸出が1770億ドルと倍増",
+    "summary": "前年比96%の増加はメモリ価格の上昇によるもので、輸出額を膨らませている。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "NVIDIA、アジアの認定顧客リストを削減、AIチップの密輸防止",
+    "summary": "同社はワシントンからの圧力を受け、顧客に現場査察官を派遣し、ビジネスの正当性を確認している。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Apple、OpenAIをハードウェア秘密の窃盗で提訴",
+    "summary": "クパティーノの同社は、OpenAIが自社のチップに関する機密情報を不正に取得したと非難している。",
+    "source": [
+      "kite.kagi.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ChatGPTが欧州のWhatsAppに復活、EU命令でMetaは競合ボットに門戸を開く",
+    "summary": "欧州のこの措置により、Metaはメッセージングプラットフォーム上でAIアシスタントの競争を許可せざるを得なくなった。",
+    "source": [
+      "the-decoder"
+    ],
+    "count": 1
   }
 ]

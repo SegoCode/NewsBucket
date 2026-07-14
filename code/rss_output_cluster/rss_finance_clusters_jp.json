@@ -1,192 +1,184 @@
 [
   {
-    "title": "IBM、AI支出の影響で収益見通しを下方修正、ウォール街で22%急落",
-    "summary": "AIインフラへの投資シフトが従来のソフトウェア販売を圧迫し、1987年以来最大の下落を引き起こす。",
+    "title": "米国の大手銀行、第2四半期に過去最高益を報告",
+    "summary": "JPモルガン、シティグループ、バンク・オブ・アメリカ、ゴールドマン・サックスは、投資銀行業務とトレーディングに牽引され、利益が27％から78％増加した。",
     "source": [
+      "nasdaq.com",
       "finance.yahoo.com",
-      "investing.com",
+      "nikkei.com",
+      "handelsblatt.com",
+      "ft.com",
+      "expansion.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "米国とイランの緊張、原油を急騰させ湾岸で空爆",
+    "summary": "ホルムズ海峡を巡る攻防の後、原油は87ドルを突破。一方、トランプ氏は20％の通行料を撤廃し、米国は石油タンカーを狙うイランのミサイルを攻撃した。",
+    "source": [
       "ft.com",
       "bolsamania.com",
-      "/r/stocks"
+      "nikkei.com",
+      "expansion.com",
+      "handelsblatt.com"
     ],
     "count": 5
   },
   {
-    "title": "米国のインフレ率、6月に予想以上に低下し3.5%に",
-    "summary": "米消費者物価指数は6年ぶりの大幅な低下を記録し、FRBへの圧力が緩和。",
-    "source": [
-      "bolsamania.com",
-      "handelsblatt.com",
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "湾岸の戦闘激化とホルムズ海峡の脅威で原油が87ドルに急騰",
-    "summary": "タンカー攻撃と米国によるイラン爆撃で原油が2週間で22%上昇。",
-    "source": [
-      "ft.com",
-      "expansion.com",
-      "finance.yahoo.com",
-      "handelsblatt.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "米FRB議長ウォーシュ、持続的な高インフレは許容しないと表明",
-    "summary": "ウォーシュ議長は議会で、過去5年間のインフレ上昇を克服すると約束。",
-    "source": [
-      "handelsblatt.com",
-      "bolsamania.com",
-      "finance.yahoo.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "JPモルガン、第2四半期に過去最高益、ディモンCEOはリスク増大を警告",
-    "summary": "米最大手銀行は41%増益で予想を上回るも、CEOは地政学的・経済的不確実性を警告。",
-    "source": [
-      "handelsblatt.com",
-      "bolsamania.com",
-      "finance.yahoo.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ウェルズ・ファーゴ、金利収入とトレーディングで利益予想を上回る",
-    "summary": "同行は健全な経済環境とトレーディング事業の好調が寄与。",
-    "source": [
-      "investing.com",
-      "finance.yahoo.com",
-      "bolsamania.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "バンク・オブ・アメリカ、第2四半期に26%増益で予想上回る",
-    "summary": "バンク・オブ・アメリカは堅調な経済環境を背景に大幅な増益を記録。",
-    "source": [
-      "finance.yahoo.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ゴールドマン・サックス、第2四半期に66億3000万ドルの純利益、78%増で予想上回る",
-    "summary": "投資銀行部門の好調とM&A・IPO手数料の増加が寄与。",
-    "source": [
-      "bolsamania.com",
-      "finance.yahoo.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ウォール街の銀行株、好調な四半期決算もまちまちの展開",
-    "summary": "市場は大手銀行の決算にまちまちの反応。総じて予想を上回る。",
-    "source": [
-      "finance.yahoo.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ECB、デジタルユーロ試験プロジェクトに36の決済プロバイダーを選定",
-    "summary": "プロジェクトに批判的な団体も含めてイニシアチブが進展。具体的な機能が定義されつつある。",
-    "source": [
-      "handelsblatt.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "エボテック、業績見通し下方修正で株価急落",
-    "summary": "独バイオテクノロジー企業が利益見通しを下方修正し、評価に悪影響。",
-    "source": [
-      "finance.yahoo.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SKハイニックス、米国預託証券(ADR)による米国上場を検討",
-    "summary": "韓国の半導体メーカーがセクターの好況と投資家需要を取り込む。",
+    "title": "IBM、AI移行に伴う減収を警告し株価が25％急落",
+    "summary": "IBMは第2四半期の業績が予想を下回るとの見通しを示し、同社史上最大の下落率を記録、ソフトウェアセクター全体に波及した。",
     "source": [
       "nasdaq.com",
+      "bolsamania.com",
+      "ft.com",
+      "/r/stocks",
+      "nikkei.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "米国インフレ率、6月に3.5%に低下、6年ぶりの大幅下落、世界の株式市場は上昇",
+    "summary": "米国のCPI（消費者物価指数）は予想以上に落ち着き、IBMの下落にもかかわらずS&P500、ナスダック、欧州市場を押し上げた。",
+    "source": [
+      "handelsblatt.com",
+      "investing.com",
+      "bolsamania.com",
+      "nikkei.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "FRBのケビン・ウォーシュ議長、高インフレを容認せずと断言",
+    "summary": "議会での初の証言で、ウォーシュ議長はFRBが物価抑制に断固として行動すると述べた。",
+    "source": [
+      "expansion.com",
+      "nikkei.com",
       "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ECB、デジタルユーロのパイロットプログラムで36のプロバイダーを選定、批判派も取り込む",
+    "summary": "欧州中央銀行は、36の機関を含むパイロットプログラムでデジタル通貨を前進させ、批判的な意見の取り込みとのバランスを図っている。",
+    "source": [
+      "handelsblatt.com",
+      "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "フロンティア航空など、スターリンクを採用し機内接続サービスで旅客誘致",
-    "summary": "SpaceXの衛星インターネットサービスが競争優位性として商用航空に拡大。",
+    "title": "サイバーセキュリティとAIチップ株がウォール街で上昇をリード、CrowdStrikeも上昇",
+    "summary": "CrowdStrikeとMonolithicは10%以上上昇し、IBMの大打撃後のソフトウェアセクターの急落とは対照的だ。",
+    "source": [
+      "nasdaq.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ウォーレン・バフェット、ゲイツ財団への寄付を打ち切り、バークシャーの全資本譲渡を計画",
+    "summary": "投資家はエプスタインに関する暴露を受けて寄付を終了し、2034年までにバークシャー・ハサウェイの全財産を譲渡すると発表した。",
     "source": [
       "investing.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "スペインIBEX35、原油高に圧され0.40%安の19,258ポイント",
-    "summary": "原油高と地政学的緊張がスペイン株式市場を圧迫。米インフレ統計を受けて下落幅を縮小。",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "インドラ、モルガン・スタンレーの好意的推奨でIBEX上昇率トップ",
-    "summary": "スペインのテクノロジー企業が2%上昇。アナリストは最近の下落後に買い機会と見る。",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "欧州株式市場、米インフレ統計受けて下落幅縮小",
-    "summary": "欧州株価指数は米消費者物価の減速を受けて下落幅を縮小。",
-    "source": [
-      "investing.com",
       "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "ウォール街と米国債が下落、イラン情勢緊迫化で",
-    "summary": "湾岸の軍事緊張の高まりとそれに伴う原油価格上昇がリスク回避を誘発。",
+    "title": "LegalZoomとSea Limitedの幹部が大量の株式を売却",
+    "summary": "LegalZoomの法務責任者は5万株以上を売却し、Sea LimitedのCOOは450万ドルで4万株を処分した。",
     "source": [
-      "ft.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ウォール街先物、6月の予想外のインフレ統計を受けて上昇",
-    "summary": "予想を下回る消費者物価指数がFRBの緩和的なスタンスへの期待を高める。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "原油高が英国の借入コストを急上昇させ市場を動揺",
-    "summary": "原油が87ドルに達し、英国債利回りを5月以来の高水準に押し上げ。",
-    "source": [
-      "ft.com",
+      "nasdaq.com",
       "finance.yahoo.com"
     ],
     "count": 2
   },
   {
-    "title": "ドイツ、GoogleのAI要約をメディア法の対象に、AppleはAI関連訴訟に直面",
-    "summary": "欧州規制当局がハイテク大手のAIアプリケーションへの監視を強化。",
+    "title": "サムスン、龍仁半導体工場の建設を加速、米国上場を検討",
+    "summary": "韓国の同社は、6つの工場のうち最初の工場の稼働開始を2029年に前倒し、当初の拒否を経て米国市場でのADR発行を検討している。",
     "source": [
-      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 1
+  },
+  {
+    "title": "米国の小型株が急上昇、投資家が大型テクノロジー株から撤退",
+    "summary": "ウォール街で小型株への関心が高まり、セクターで顕著な利益が見られる。",
+    "source": [
+      "ft.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Target、想像以上の構造的問題に直面",
+    "summary": "同小売チェーンは、インフレや競争にとどまらない業績に影響する深い課題に取り組んでいる。",
+    "source": [
       "finance.yahoo.com"
     ],
-    "count": 2
+    "count": 1
+  },
+  {
+    "title": "BMWの米国事業が現在の業績の鍵であることが判明",
+    "summary": "北米での販売は、複雑な世界環境の中でドイツの自動車メーカーの業績に大きく貢献している。",
+    "source": [
+      "finance.yahoo.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "アナリスト、AIラリーの次の局面が始まると指摘",
+    "summary": "企業がテクノロジーの収益化を始めるにつれ、AIセクターは新たな強気局面に入る可能性がある。",
+    "source": [
+      "/r/stocks"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Evotec、財務見通しを下方修正、株価急落",
+    "summary": "ドイツのバイオテクノロジー企業が収益見通しを引き下げ、株式市場で急落を引き起こした。",
+    "source": [
+      "handelsblatt.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "スイスの暗号資産プラットフォームBitcoin Suisse、ドイツで事業開始",
+    "summary": "暗号資産取引所は、カストディサービスと売買サービスを提供し、ドイツ市場に拡大する。",
+    "source": [
+      "handelsblatt.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "スペインの9ヶ月国庫短期証券の利回りが2.63%に上昇、2024年以来の高水準",
+    "summary": "スペインの短期国債の利回りが2024年11月以来の高水準に上昇。",
+    "source": [
+      "expansion.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "高市首相、自民党の党員獲得で首位",
+    "summary": "自民党の党内選挙で、高市氏が最も多くの新規会員を獲得し、青山議員が続いている。",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "スペイン議会、政府の予算安定軌道を否決",
+    "summary": "野党が政府提案の財政計画を阻止し、一般予算の策定が困難になっている。",
+    "source": [
+      "bolsamania.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ARC Resourcesの株主、Shellによる164億ドルの買収を承認",
+    "summary": "買収契約は投資家の承認を得て、シェルのガス分野での拡大を後押しする。",
+    "source": [
+      "investing.com"
+    ],
+    "count": 1
   }
 ]

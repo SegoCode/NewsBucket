@@ -1,192 +1,184 @@
 [
   {
-    "title": "IBM plunges 22% on Wall Street after cutting revenue forecasts due to AI spending",
-    "summary": "The shift in investment towards artificial intelligence infrastructure drags down traditional software sales and triggers the biggest drop since 1987.",
+    "title": "Large US banks report record profits in second quarter",
+    "summary": "JPMorgan, Citigroup, Bank of America and Goldman Sachs see profit increases between 27% and 78%, driven by investment banking and trading.",
     "source": [
+      "nasdaq.com",
       "finance.yahoo.com",
-      "investing.com",
+      "nikkei.com",
+      "handelsblatt.com",
+      "ft.com",
+      "expansion.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "US-Iran tensions drive up oil and trigger airstrikes in Gulf",
+    "summary": "Crude surpasses $87 after confrontation in Strait of Hormuz, as Trump withdraws 20% toll and US strikes Iranian missiles targeting oil tankers.",
+    "source": [
       "ft.com",
       "bolsamania.com",
-      "/r/stocks"
+      "nikkei.com",
+      "expansion.com",
+      "handelsblatt.com"
     ],
     "count": 5
   },
   {
-    "title": "U.S. inflation falls more than expected in June, dropping to 3.5%",
-    "summary": "The U.S. consumer price index recorded its biggest drop in six years, easing pressure on the Federal Reserve.",
-    "source": [
-      "bolsamania.com",
-      "handelsblatt.com",
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Oil soars to $87 on military escalation in the Gulf and threat to the Strait of Hormuz",
-    "summary": "Attacks on tankers and U.S. bombings in Iran push crude up 22% in two weeks.",
-    "source": [
-      "ft.com",
-      "expansion.com",
-      "finance.yahoo.com",
-      "handelsblatt.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Fed President Warsh says he will not tolerate persistently high inflation",
-    "summary": "Warsh committed to Congress to leave behind the inflationary spike of the last five years.",
-    "source": [
-      "handelsblatt.com",
-      "bolsamania.com",
-      "finance.yahoo.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "JP Morgan posts record profit in second quarter, but Dimon warns of growing risks",
-    "summary": "The largest U.S. bank beats expectations with a 41% jump in profits, though its CEO warns of geopolitical and economic uncertainty.",
-    "source": [
-      "handelsblatt.com",
-      "bolsamania.com",
-      "finance.yahoo.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Wells Fargo beats profit forecasts driven by interest income and trading",
-    "summary": "The bank benefits from a healthy economic environment and strong trading business.",
-    "source": [
-      "investing.com",
-      "finance.yahoo.com",
-      "bolsamania.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Bank of America posts 26% profit rise in second quarter, beating estimates",
-    "summary": "Bank of America records a significant increase in profits thanks to the solid economic environment.",
-    "source": [
-      "finance.yahoo.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Goldman Sachs earns $6.63 billion in second quarter, up 78%, beating forecasts",
-    "summary": "The investment bank benefits from strong investment banking and higher fees from mergers and IPOs.",
-    "source": [
-      "bolsamania.com",
-      "finance.yahoo.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Wall Street bank stocks trade mixed despite strong quarterly results",
-    "summary": "The market reacts divergently to the major banks' earnings reports, which overall exceed expectations.",
-    "source": [
-      "finance.yahoo.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ECB selects 36 payment providers for digital euro pilot project",
-    "summary": "The initiative advances with the inclusion of entities critical of the project, while concrete functionalities are defined.",
-    "source": [
-      "handelsblatt.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Evotec cuts its forecasts, causing its stock to plummet",
-    "summary": "The German biotechnology company reduces its earnings outlook, negatively impacting its valuation.",
-    "source": [
-      "finance.yahoo.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SK Hynix considers US IPO via American Depositary Receipts",
-    "summary": "The South Korean chipmaker aims to capitalize on the industry's boom and investor demand.",
+    "title": "IBM plummets 25% on warning of lower revenue from shift to AI",
+    "summary": "The company anticipates second-quarter results worse than expected, triggering its biggest-ever stock drop and dragging down the software sector.",
     "source": [
       "nasdaq.com",
+      "bolsamania.com",
+      "ft.com",
+      "/r/stocks",
+      "nikkei.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "US inflation falls to 3.5% in June, steepest drop in six years, and global stock markets rally",
+    "summary": "US CPI moderates more than expected, boosting the S&P 500, Nasdaq, and European markets despite the drag from IBM.",
+    "source": [
+      "handelsblatt.com",
+      "investing.com",
+      "bolsamania.com",
+      "nikkei.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Fed Chair Kevin Warsh says central bank will not tolerate high inflation",
+    "summary": "In his first appearance before Congress, Warsh states the Federal Reserve will act firmly to control prices.",
+    "source": [
+      "expansion.com",
+      "nikkei.com",
       "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ECB selects 36 providers for digital euro pilot, includes critics in project",
+    "summary": "The European Central Bank advances the digital currency with a pilot program involving 36 entities while seeking to balance the inclusion of critical voices.",
+    "source": [
+      "handelsblatt.com",
+      "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Airlines like Frontier bet on Starlink to offer in-flight connectivity and attract passengers",
-    "summary": "SpaceX's satellite internet service expands in commercial aviation as a competitive edge.",
+    "title": "Cybersecurity and AI chip stocks lead Wall Street gains as CrowdStrike rallies",
+    "summary": "CrowdStrike and Monolithic rise more than 10%, contrasting with the software sector collapse after IBM's debacle.",
+    "source": [
+      "nasdaq.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Warren Buffett cuts donations to Gates Foundation, plans to give away all Berkshire holdings",
+    "summary": "The investor ends contributions following Epstein revelations and announces he will transfer all his Berkshire Hathaway wealth by 2034.",
     "source": [
       "investing.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Ibex 35 falls 0.40% to 19,258 points, pressured by oil",
-    "summary": "The rise in oil and geopolitical tensions drag on the Spanish stock market, which eases losses after the inflation data.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Indra leads Ibex gains with positive recommendations from Morgan Stanley",
-    "summary": "The Spanish tech company rises 2% and analysts see an opportunity following its recent drop.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "European stocks ease losses thanks to U.S. inflation data",
-    "summary": "European indexes narrow losses after the slowdown in U.S. consumer prices is announced.",
-    "source": [
-      "investing.com",
       "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "Wall Street falls and U.S. bonds decline amid escalation with Iran",
-    "summary": "Rising military tensions in the Gulf and the consequent oil rally create risk aversion.",
+    "title": "LegalZoom and Sea Limited executives sell large stock packages",
+    "summary": "LegalZoom's legal director sells more than 50,000 shares, while Sea Limited's COO divests 40,000 shares for $4.5 million.",
     "source": [
-      "ft.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Wall Street futures rise after surprising June inflation data",
-    "summary": "The consumer price index, lower than expected, fuels hopes of a less aggressive Fed.",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Oil surge sends UK borrowing costs soaring and rattles markets",
-    "summary": "Crude oil reaches $87 and pushes British debt yields to highs since May.",
-    "source": [
-      "ft.com",
+      "nasdaq.com",
       "finance.yahoo.com"
     ],
     "count": 2
   },
   {
-    "title": "Germany subjects Google's AI summaries to media law and Apple faces lawsuit over artificial intelligence",
-    "summary": "European regulators step up scrutiny of major tech companies' AI applications.",
+    "title": "Samsung accelerates chip plant construction in Yongin, explores US listing",
+    "summary": "The South Korean company advances the opening of the first of six plants to 2029 and considers issuing ADRs in the US market after an initial rejection.",
     "source": [
-      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 1
+  },
+  {
+    "title": "US small-cap stocks surge as investors rotate away from large tech",
+    "summary": "Interest in small caps grows on Wall Street, with notable gains in the sector.",
+    "source": [
+      "ft.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Target faces structural problems deeper than believed",
+    "summary": "The retail chain grapples with deep challenges affecting its performance beyond inflation and competition.",
+    "source": [
       "finance.yahoo.com"
     ],
-    "count": 2
+    "count": 1
+  },
+  {
+    "title": "BMW's US business proves key to its current performance",
+    "summary": "North American sales significantly contribute to the German automaker's performance in a complicated global environment.",
+    "source": [
+      "finance.yahoo.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Next phase of AI rally begins, analysts say",
+    "summary": "The AI sector may enter a new bullish phase as companies begin monetizing the technology.",
+    "source": [
+      "/r/stocks"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Evotec cuts financial forecasts, stock plummets",
+    "summary": "The German biotech company lowers its revenue outlook, triggering a sharp market drop.",
+    "source": [
+      "handelsblatt.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Swiss platform Bitcoin Suisse begins operations in Germany",
+    "summary": "The cryptocurrency exchange expands into the German market, offering custody and trading services.",
+    "source": [
+      "handelsblatt.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Yield on Spanish 9-month Treasury bills reaches 2.63%, highest since 2024",
+    "summary": "Short-term Spanish public debt interest rises to highs not seen since November 2024.",
+    "source": [
+      "expansion.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Prime Minister Takaichi leads Liberal Democratic Party membership drive in Japan",
+    "summary": "In the LDP internal race, Takaichi secures the highest number of new members, followed by lawmaker Aoyama.",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Spanish Congress rejects government's budget stability path",
+    "summary": "The opposition blocks the fiscal trajectory proposed by the executive, complicating the drafting of the general budget.",
+    "source": [
+      "bolsamania.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ARC Resources shareholders approve Shell's $16.4 billion acquisition",
+    "summary": "The acquisition deal receives investor green light, boosting Shell's expansion in the gas sector.",
+    "source": [
+      "investing.com"
+    ],
+    "count": 1
   }
 ]
