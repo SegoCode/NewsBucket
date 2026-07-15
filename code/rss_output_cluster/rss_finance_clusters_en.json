@@ -1,73 +1,124 @@
 [
   {
-    "title": "Inflation in the US falls to 3.5% and markets react positively, although the Fed maintains its vigilance",
-    "summary": "June CPI surprises on the downside and halts bets on rate hikes, but Fed Governor Warsh says the central bank 'will not tolerate' high inflation, which tempers optimism.",
+    "title": "European stock markets open lower due to earnings season and geopolitical tensions",
+    "summary": "The Ibex 35 and the German DAX fall at the open, as investors assess corporate earnings and uncertainty in the Middle East.",
     "source": [
-      "investing.com",
-      "expansion.com",
-      "nikkei.com",
-      "handelsblatt.com",
-      "bolsamania.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Oil spikes 22% in two weeks due to military escalation in the Persian Gulf",
-    "summary": "The US launches airstrikes while Iran attacks tankers with cruise missiles, pushing Brent crude to $87 and straining global energy markets.",
-    "source": [
-      "nikkei.com",
-      "ft.com",
-      "expansion.com",
       "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "IBM plummets 25% on the stock market after cutting forecasts due to IT spending shifting towards artificial intelligence",
-    "summary": "Enterprise clients redirect their IT budgets towards AI infrastructure, harming the company's traditional sales and dragging down the software sector as a whole.",
-    "source": [
-      "nasdaq.com",
-      "/r/stocks",
-      "ft.com",
-      "nikkei.com",
-      "bolsamania.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Fear of an artificial intelligence bubble shakes the technology sector",
-    "summary": "HSBC cuts Arm's rating, CoreWeave seeks coverage for chip prices, and fund manager Panza warns of excessive optimism, as investors debate whether it's time to buy or flee.",
-    "source": [
+      "handelsblatt.com",
       "investing.com",
-      "nasdaq.com",
-      "expansion.com",
-      "/r/stocks"
+      "expansion.com"
     ],
     "count": 4
   },
   {
-    "title": "Wall Street banks record record profits in the first half of the year",
-    "summary": "JP Morgan leads the results of the stock market 'Super Tuesday', although its CEO, Jamie Dimon, warns about geopolitical and inflation risks in a high-rate environment.",
+    "title": "Oil surges on fears of a disruption in the Strait of Hormuz",
+    "summary": "Crude oil prices reach $87 per barrel, while the UK sees its borrowing costs rise due to escalating tensions.",
     "source": [
+      "bolsamania.com",
+      "ft.com",
       "expansion.com",
+      "nikkei.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "US inflation falls to 3.5% in June, its biggest drop in six years",
+    "summary": "The moderation in prices eases pressure on the Federal Reserve and gives financial markets a breather.",
+    "source": [
+      "investing.com",
       "handelsblatt.com",
-      "ft.com"
+      "expansion.com"
     ],
     "count": 3
   },
   {
-    "title": "The Ibex resists pressure from oil and Treasury bills climb to 2.6%, their highest level since 2024",
-    "summary": "Analysts recommend caution, highlight the potential of Indra after its fall and the healthcare sector, while short-term debt yields continue to attract investors.",
+    "title": "Asian stock markets rise driven by US inflation data and the AI boom",
+    "summary": "The Nikkei and KOSPI post strong gains, buoyed by the moderation in US inflation and solid results from ASML.",
     "source": [
+      "handelsblatt.com",
+      "nikkei.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ASML posts 27% higher profit in Q2 and raises its sales forecast for 2026",
+    "summary": "The Dutch semiconductor company surges on the stock market after beating expectations, thanks to demand for artificial intelligence chips.",
+    "source": [
+      "bolsamania.com",
+      "investing.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "IBM plummets 25% after cutting its revenue forecasts due to AI spending",
+    "summary": "The tech giant suffers a historic stock market decline as it loses customers who shift their budget to artificial intelligence, dragging down the sector.",
+    "source": [
+      "nikkei.com",
+      "ft.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Wall Street banks post record profits in the first half of 2026",
+    "summary": "JP Morgan and other major banks report historic earnings, although their executives warn about the risks of excessive optimism.",
+    "source": [
+      "ft.com",
       "expansion.com",
-      "bolsamania.com"
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "China's GDP grows less than expected in Q2",
+    "summary": "The Chinese economy slows down, though Asian markets close higher thanks to the moderation in US inflation.",
+    "source": [
+      "bolsamania.com",
+      "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "Space sector stocks lose $89 billion in one day, but orders remain at record highs",
-    "summary": "The market wonders whether the sector is a bubble or the future of transportation, while SpaceX captures the attention of retail and institutional investors.",
+    "title": "Chip maker CXMT seeks $10 billion in China's largest IPO since 2010",
+    "summary": "The semiconductor company plans to list in Shanghai to fund its expansion amid growing demand for chips.",
+    "source": [
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Stripe and Advent launch a $53 billion bid to acquire PayPal",
+    "summary": "The payments and private equity firms present a joint proposal to buy the payments platform at $60.50 per share.",
+    "source": [
+      "ft.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ECB selects 36 providers to test the digital euro",
+    "summary": "The European Central Bank advances in the development of the digital currency with a pilot program that will evaluate its technical and operational feasibility.",
+    "source": [
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Indra attracts interest from Morgan Stanley after falling 26% on the stock market",
+    "summary": "Investment bank analysts see a buying opportunity in the Spanish defense and technology company, highlighting its recovery potential.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Space sector loses $89 billion in one day despite record orders",
+    "summary": "Shares of space companies crash on the stock market, although order backlogs reach historic levels, sparking debate on the sector's valuation.",
     "source": [
       "nasdaq.com",
       "/r/stocks"
@@ -75,108 +126,59 @@
     "count": 2
   },
   {
-    "title": "The ECB selects 36 entities for the digital euro pilot and includes critics of the project",
-    "summary": "The European central bank advances in the development of the digital euro, even recruiting detractors for the testing phase, in a process that could transform payments in the Eurozone.",
+    "title": "Major banks warn of a possible stock market correction due to excessive optimism",
+    "summary": "Bank of America and other institutions recommend that investors moderate their enthusiasm, noting that markets could be overvalued.",
     "source": [
       "handelsblatt.com",
-      "ft.com"
+      "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "Small-cap stocks and cybersecurity lead the gains on Wall Street",
-    "summary": "Investors rotate into small-cap stocks and the cybersecurity sector surges, with CrowdStrike and Monolithic rising more than 10%, while Goldman Sachs and Nvidia also stand out.",
-    "source": [
-      "ft.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tokyo Stock Exchange rises sharply driven by the advance of semiconductors on Wall Street",
-    "summary": "The Nikkei index extends its winning streak and surpasses 68,000 points thanks to optimism in the US technology sector and the weakness of the yen.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Japanese economy shows signs of weakness in machinery orders, while BOJ publishes unprecedented minutes",
-    "summary": "Machinery orders fall 12.4% in May, although the government maintains its recovery assessment, and the Bank of Japan reveals the intense debates behind the adoption of negative rates in 2016.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Mitsubishi Heavy Industries surges on the stock market after announcing an alliance with Nvidia for AI data centers",
-    "summary": "The strategic collaboration boosts the value of the Japanese company, which joins Nvidia's growing global artificial intelligence infrastructure.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Shohei Ohtani returns to the Dodgers lineup for the second half of the MLB season",
-    "summary": "The Japanese phenomenon will play again on July 18, although his role as a pitcher remains undecided by the medical and technical staff.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "China plans ambitious 60 trillion yuan consumption expansion plan for 2030",
-    "summary": "The Chinese government prepares a massive stimulus to counter the economic slowdown and improve domestic consumption indicators amid deteriorating macroeconomic data.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Trump modifies his immigration policy and the Supreme Court requests more security in the face of increased threats",
-    "summary": "The US president stops vehicle immigration checks after a fatal incident, while the high court judges ask for protection due to the increase in serious intimidation cases.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Japan debates reform of the Imperial House and advances in infrastructure while remembering its legends",
-    "summary": "The Japanese parliament discusses the imperial succession law, the Shinkansen route to Osaka is confirmed, a victim's family requests a retrial, and tribute is paid to yokozuna Tamanoumi.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Lucid Motors shares plummet amid rumors of possible delisting or bankruptcy",
-    "summary": "The US luxury electric vehicle manufacturer could opt for a buyout by a private investor or file for bankruptcy, according to market reports.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Evotec plummets on the stock market after drastically cutting its financial forecasts",
-    "summary": "The German biotechnology company suffers a sharp stock market punishment caused by the reduction of its business expectations for the next fiscal year.",
+    "title": "Warren Buffett plans to give away all his stake in Berkshire Hathaway by 2034",
+    "summary": "The legendary investor begins a gradual transition of his business empire, ensuring an orderly transfer of his shares.",
     "source": [
       "handelsblatt.com"
     ],
     "count": 1
   },
   {
-    "title": "Boeing records its best first half in airplane deliveries since 2018",
-    "summary": "The US aerospace manufacturer shows signs of recovery by increasing the number of aircraft delivered to its clients in the first six months of the year.",
+    "title": "German prosecutors raid a Deutsche Bank branch over alleged money laundering",
+    "summary": "Authorities conduct a raid at a bank office as part of an investigation into suspicious financial transactions.",
+    "source": [
+      "handelsblatt.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Huawei resumes sales of 5G phones abroad for the first time since sanctions",
+    "summary": "The Chinese company manages to circumvent US restrictions and resumes selling 5G devices in international markets.",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Sojitz and a US firm to produce gallium in Australia to secure supply",
+    "summary": "The joint project aims to reduce dependence on China for the production of this critical metal used in semiconductors and electronics.",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Oil moderates after Trump gives up 20% toll in Hormuz",
+    "summary": "Crude prices ease after the former president's decision not to impose additional charges on vessels transiting the strait.",
     "source": [
       "bolsamania.com"
     ],
     "count": 1
   },
   {
-    "title": "Elon Musk's artificial intelligence project generates pollution affecting African American communities",
-    "summary": "An investigation reveals that the use of unauthorized electric generators for the xAI plant is disproportionately harming the black population in the area.",
+    "title": "Spain's inflation stands at 3.2% in June thanks to cheaper fuel",
+    "summary": "The consumer price index falls slightly, aligning with the Bank of Spain's forecasts and giving consumers some relief.",
     "source": [
-      "investing.com"
+      "bolsamania.com"
     ],
     "count": 1
   }

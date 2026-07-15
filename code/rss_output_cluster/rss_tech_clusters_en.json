@@ -1,64 +1,74 @@
 [
   {
-    "title": "Data centers cause electricity price increases, pollution and a moratorium in New York",
-    "summary": "The growth of data centers raises electricity bills by 23 billion, generates polluting emissions in Mississippi and leads New York to ban new projects for a year.",
+    "title": "Microsoft releases record patch that fixes more than 570 security vulnerabilities",
+    "summary": "The update includes the fix for a Secure Boot vulnerability that has been active for a decade and flaws actively exploited by cybercriminals.",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com",
+      "thehackernews.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI prepares its first physical device: a screenless smart speaker with AI",
+    "summary": "The voice assistant is shaping up as a direct competitor to Alexa with advanced generative artificial intelligence capabilities.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Researchers expose serious security vulnerabilities in Claude that allow stealing secrets and reading emails",
+    "summary": "The flaws in Anthropic's assistant demonstrate how it is possible to obtain sensitive personal data and access linked services such as Gmail.",
     "source": [
       "news.ycombinator.com",
-      "tomshardware.com",
-      "techcrunch.com"
+      "thehackernews.com",
+      "xataka.com"
     ],
     "count": 3
   },
   {
-    "title": "Chinese manufacturer CXMT advances in DRAM memory manufacturing and gets support from MSI",
-    "summary": "CXMT will match Micron's capacity this year while MSI promotes compatibility of its motherboards with CXMT's DDR5 memory.",
+    "title": "New York becomes the first U.S. state to ban the construction of large data centers",
+    "summary": "The one-year moratorium seeks to assess the energy and environmental impact of these infrastructures in the state.",
     "source": [
-      "/r/hardware",
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Intel invests 5.7 billion in its Ireland factory and moves Nova Lake production to its own facilities",
-    "summary": "Intel strengthens its manufacturing in Europe with a million-dollar investment in Ireland and announces that Nova Lake processors will be produced internally to improve yields.",
-    "source": [
-      "xataka.com",
-      "/r/hardware",
+      "/r/technology",
+      "techcrunch.com",
       "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Microsoft launches the largest security update in its history with over 600 vulnerabilities fixed",
-    "summary": "The company releases patches for hundreds of flaws, including two zero-day vulnerabilities actively exploited.",
+    "title": "DeepSeek negotiates a new $1.5 billion funding round before its possible IPO",
+    "summary": "The Chinese AI startup seeks more capital just weeks after closing a historic $7 billion investment.",
     "source": [
-      "news.ycombinator.com",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "xAI's Grok programming tool uploaded entire user repositories to the cloud without explicit permission",
+    "summary": "Elon Musk states that the already uploaded data will be deleted after the controversy over the privacy of developers' source code.",
+    "source": [
+      "/r/technology",
       "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI prepares a screenless smart speaker with movement capabilities, according to Bloomberg",
-    "summary": "OpenAI's first hardware device would be a speaker that can move and seeks to change interaction with artificial intelligence.",
+    "title": "Apple releases public beta of iOS 27 with new AI-powered Siri",
+    "summary": "Users can test the advanced Apple Intelligence features before the official release of the operating system.",
     "source": [
-      "techcrunch.com",
-      "xataka.com"
+      "alternativeto.net",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "DeepSeek negotiates a $1.5 billion round and plans its IPO",
-    "summary": "The Chinese AI startup seeks new capital weeks after closing a $7 billion round, preparing an IPO.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DeepMind CEO calls for independent regulatory body for artificial intelligence",
-    "summary": "Demis Hassabis advocates for establishing safety barriers and a global regulatory body for frontier AI, acknowledging uncertainty about the future of the technology.",
+    "title": "DeepMind CEO calls for creation of an independent international body to regulate frontier AI",
+    "summary": "Demis Hassabis advocates for building safety guardrails given the uncertainty about the future of artificial intelligence.",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
@@ -66,35 +76,26 @@
     "count": 2
   },
   {
-    "title": "HWMonitor restores hotspot temperature monitoring on NVIDIA RTX 50 GPUs",
-    "summary": "After a guide on how to measure hotspot temperature, the HWMonitor update officially recovers this feature for RTX 50.",
+    "title": "Intel invests $5.7 billion in its Ireland factory to increase production of its Xeon processors",
+    "summary": "The investment aims to strengthen cutting-edge chip manufacturing in Europe using the Intel 3 process.",
     "source": [
-      "/r/hardware",
-      "videocardz.com"
+      "xataka.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Samsung updates its 990 2TB SSD and warns about 870 EVO counterfeits",
-    "summary": "The revision of the Samsung 990 2TB shows speed and efficiency improvements, while a fake 870 EVO unit fails after writing only 120GB.",
+    "title": "Elon Musk's Colossus 2 data center installed 59 natural gas turbines without required permits",
+    "summary": "A report reveals that the installation emits thousands of tons of pollutants, affecting African American communities with high rates of lung disease.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Valve fixes overheating warning in Steam Machine and tests reveal limited performance",
-    "summary": "A BIOS update raises the temperature threshold, but tests of 25 games show that the Steam Machine is still not recommendable.",
-    "source": [
-      "/r/hardware",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google integrates AI-generated images in search and redesigns Google Images in Pinterest style",
-    "summary": "Google allows generating images with AI when it doesn't find results and renews the Google Images interface to improve visual discovery.",
+    "title": "Google redesigns its image search with artificial intelligence and a Pinterest-inspired layout",
+    "summary": "The new feature generates AI images when no visual results are available and improves visual browsing.",
     "source": [
       "the-decoder.com",
       "techcrunch.com"
@@ -102,26 +103,53 @@
     "count": 2
   },
   {
-    "title": "ChatGPT returns to WhatsApp in Europe and a study analyzes why users share secrets with the bot",
-    "summary": "The European Union forces Meta to allow rival bots on WhatsApp, facilitating the return of ChatGPT, while an investigation reveals the psychological reasons behind users' trust.",
+    "title": "The impact of data centers on electricity prices and job creation sparks intense global debate",
+    "summary": "While data centers drive up energy consumption and prices, critics point out that the promise of jobs is not being fulfilled.",
     "source": [
-      "the-decoder.com",
-      "wired.com"
+      "/r/technology",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic claims to have found 'consciousness' in Claude and discovers behavioral differences depending on language",
-    "summary": "Anthropic claims to have identified signs of consciousness in its AI Claude, although the data is disputed, and the model responds more warmly in Hindi and more rigorously in Russian.",
+    "title": "Flock surveillance camera network faces growing public and political scrutiny in the United States",
+    "summary": "The Los Angeles Police Department will not renew the contract with the company, while links to political operatives are revealed and mass data collection is criticized.",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
+      "/r/technology",
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Nintendo could launch Switch 2 with 1080p OLED screen and there is already a retro dock with N64 style",
-    "summary": "Rumors point to a higher resolution screen for the next console, while a third-party accessory offers a dock with a Nintendo 64 look that houses six games.",
+    "title": "Meta faces criticism for using artificial intelligence in layoffs and management of its engineers",
+    "summary": "A lawsuit alleges that the company used AI to identify low-performing employees to be laid off, while limiting token usage per engineer is being considered.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google, OpenAI, and Meta face a wave of lawsuits over the use of data in training their AI models",
+    "summary": "The accusations range from copyright violations and trade secrets to abusive labor practices mediated by artificial intelligence.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Chinese memory maker CXMT gains ground by achieving compatibility with MSI's Intel 800 series motherboards",
+    "summary": "Amid the RAM crisis, the Chinese company advances in the certification of its DDR5 modules for the global PC market.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nintendo Switch 2 could have a 1080p OLED display while the retro accessory ecosystem grows",
+    "summary": "Rumors point to an improvement in the console's image quality, while docks with nostalgic designs like the Nintendo 64 are already being sold.",
     "source": [
       "hardzone.es",
       "tomshardware.com"
@@ -129,51 +157,30 @@
     "count": 2
   },
   {
-    "title": "Apple opens public beta of its new Siri with artificial intelligence in iOS 27",
-    "summary": "All users can try the new Siri assistant with advanced AI through the public beta of iOS 27.",
+    "title": "Artificial intelligence raises alarms about its impact on minors: from virtual girlfriends to nude apps",
+    "summary": "Studies and reports warn about the rise of young people's relationships with chatbots and the use of platforms like YouTube to distribute apps that generate fake intimate images.",
     "source": [
-      "techcrunch.com"
+      "/r/technology",
+      "wired.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Major publishers sue Google for using their content to train AI",
-    "summary": "Google faces another copyright infringement lawsuit from major publishers alleging unauthorized use of their works to train AI models.",
+    "title": "Lenovo expands its catalog with a powerful workstation and a long-battery-life laptop",
+    "summary": "The company launches a system with up to 1 TB of RAM and an RTX PRO GPU, along with an affordable laptop with over 30 hours of battery life.",
     "source": [
-      "techcrunch.com"
+      "videocardz.com",
+      "hardzone.es"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Volkswagen delays construction of its battery factory in Sagunto",
-    "summary": "The German manufacturer postpones plans to manufacture batteries in Spain, delaying its low-cost electric car projects.",
+    "title": "Analysts debate whether the artificial intelligence race is moving beyond frontier model development",
+    "summary": "While the industry rethinks its priorities, Meta emerges as a silent competitor with strategic advantages in the race toward superintelligence.",
     "source": [
+      "techcrunch.com",
       "xataka.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "Lucid Motors denies it is considering filing for bankruptcy",
-    "summary": "The electric vehicle company denies reports claiming it considered filing for bankruptcy.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Reflection closes a $1 billion cloud computing agreement with Nebius",
-    "summary": "AI startup Reflection signs a massive contract to use Nebius infrastructure for training its models.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "PixVerse achieves a valuation of $2 billion in the AI-generated video sector",
-    "summary": "The artificial intelligence video generation company PixVerse demonstrates that investors still trust the potential of the sector.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]

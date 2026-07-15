@@ -1,73 +1,124 @@
 [
   {
-    "title": "La inflación en EE.UU. cae al 3,5% y los mercados reaccionan al alza, aunque la Fed mantiene su vigilancia",
-    "summary": "El IPC de junio sorprende a la baja y frena las apuestas de subidas de tipos, pero el consejero de la Fed, Warsh, afirma que el banco central 'no tolerará' una inflación elevada, lo que modera el optimismo.",
+    "title": "Las bolsas europeas abren a la baja por la temporada de resultados y las tensiones geopolíticas",
+    "summary": "El Ibex 35 y el DAX alemán caen en la apertura, mientras los inversores evalúan los resultados corporativos y la incertidumbre en Oriente Medio.",
     "source": [
-      "investing.com",
-      "expansion.com",
-      "nikkei.com",
-      "handelsblatt.com",
-      "bolsamania.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "El petróleo se dispara un 22% en dos semanas por la escalada militar en el Golfo Pérsico",
-    "summary": "EE.UU. lanza ataques aéreos mientras Irán ataca petroleros con misiles de crucero, elevando el crudo Brent a 87 dólares y tensionando los mercados energéticos globales.",
-    "source": [
-      "nikkei.com",
-      "ft.com",
-      "expansion.com",
       "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "IBM se desploma un 25% en bolsa al recortar previsiones por el trasvase del gasto en TI hacia la inteligencia artificial",
-    "summary": "Los clientes empresariales redirigen sus presupuestos informáticos hacia infraestructura de IA, perjudicando las ventas tradicionales de la compañía y lastrando al sector de software en su conjunto.",
-    "source": [
-      "nasdaq.com",
-      "/r/stocks",
-      "ft.com",
-      "nikkei.com",
-      "bolsamania.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "El temor a una burbuja en la inteligencia artificial sacude al sector tecnológico",
-    "summary": "HSBC recorta la calificación de Arm, CoreWeave busca cobertura para los precios de los chips y la gestora Panza alerta de un exceso de optimismo, mientras los inversores debaten si es momento de comprar o huir.",
-    "source": [
+      "handelsblatt.com",
       "investing.com",
-      "nasdaq.com",
-      "expansion.com",
-      "/r/stocks"
+      "expansion.com"
     ],
     "count": 4
   },
   {
-    "title": "La banca de Wall Street registra ganancias récord en el primer semestre del año",
-    "summary": "JP Morgan lidera los resultados del 'supermartes' bursátil, aunque su CEO, Jamie Dimon, advierte sobre los riesgos geopolíticos y de inflación en un entorno de tipos elevados.",
+    "title": "El petróleo se dispara ante el temor a una interrupción en el estrecho de Ormuz",
+    "summary": "Los precios del crudo alcanzan los 87 dólares por barril, mientras el Reino Unido ve aumentar sus costos de endeudamiento por la escalada de tensiones.",
     "source": [
+      "bolsamania.com",
+      "ft.com",
       "expansion.com",
+      "nikkei.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "La inflación en EE.UU. cae al 3,5% en junio, su mayor descenso en seis años",
+    "summary": "La moderación de los precios alivia la presión sobre la Reserva Federal y da un respiro a los mercados financieros.",
+    "source": [
+      "investing.com",
       "handelsblatt.com",
-      "ft.com"
+      "expansion.com"
     ],
     "count": 3
   },
   {
-    "title": "El Ibex resiste la presión del petróleo y las letras del Tesoro escalan al 2,6%, su nivel más alto desde 2024",
-    "summary": "Los analistas recomiendan prudencia, destacan el potencial de Indra tras su caída y el sector salud, mientras la rentabilidad de la deuda a corto plazo sigue atrayendo a los inversores.",
+    "title": "Las bolsas asiáticas suben impulsadas por los datos de inflación de EE.UU. y el auge de la IA",
+    "summary": "El Nikkei y el KOSPI registran fuertes ganancias, animados por la moderación de la inflación estadounidense y los sólidos resultados de ASML.",
     "source": [
+      "handelsblatt.com",
+      "nikkei.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ASML gana un 27% más en el segundo trimestre y eleva su previsión de ventas para 2026",
+    "summary": "La compañía neerlandesa de semiconductores se dispara en bolsa tras superar expectativas, gracias a la demanda de chips para inteligencia artificial.",
+    "source": [
+      "bolsamania.com",
+      "investing.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "IBM se desploma un 25% tras recortar sus previsiones de ingresos por el gasto en IA",
+    "summary": "El gigante tecnológico sufre una caída histórica en bolsa al perder clientes que trasladan su presupuesto a inteligencia artificial, lo que arrastra al sector.",
+    "source": [
+      "nikkei.com",
+      "ft.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La banca de Wall Street obtiene beneficios récord en el primer semestre de 2026",
+    "summary": "JP Morgan y otros grandes bancos registran ganancias históricas, aunque sus directivos advierten sobre los riesgos de un optimismo excesivo.",
+    "source": [
+      "ft.com",
       "expansion.com",
-      "bolsamania.com"
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El PIB de China crece menos de lo previsto en el segundo trimestre",
+    "summary": "La economía china se desacelera, aunque los mercados asiáticos cierran al alza gracias a la moderación de la inflación en Estados Unidos.",
+    "source": [
+      "bolsamania.com",
+      "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "Las acciones del sector espacial pierden 89.000 millones de dólares en un día, pero los pedidos siguen en máximos históricos",
-    "summary": "El mercado se pregunta si el sector es una burbuja o el futuro del transporte, mientras SpaceX acapara la atención de los inversores minoristas e institucionales.",
+    "title": "El fabricante de chips CXMT busca 10.000 millones de dólares en la mayor OPI china desde 2010",
+    "summary": "La empresa de semiconductores planea salir a bolsa en Shanghái para financiar su expansión en un contexto de creciente demanda de chips.",
+    "source": [
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Stripe y Advent lanzan una oferta de 53.000 millones de dólares para comprar PayPal",
+    "summary": "Las empresas de pagos y capital privado presentan una propuesta conjunta para adquirir la plataforma de pagos a 60,50 dólares por acción.",
+    "source": [
+      "ft.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El BCE selecciona a 36 proveedores para probar el euro digital",
+    "summary": "El Banco Central Europeo avanza en el desarrollo de la moneda digital con un programa piloto que evaluará su viabilidad técnica y operativa.",
+    "source": [
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Indra atrae el interés de Morgan Stanley tras caer un 26% en bolsa",
+    "summary": "Los analistas del banco de inversión ven una oportunidad de compra en la empresa española de defensa y tecnología, destacando su potencial de recuperación.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El sector espacial pierde 89.000 millones de dólares en un día pese a los récords de pedidos",
+    "summary": "Las acciones de empresas espaciales se desploman en bolsa, aunque las carteras de pedidos alcanzan niveles históricos, generando debate sobre la valoración del sector.",
     "source": [
       "nasdaq.com",
       "/r/stocks"
@@ -75,108 +126,59 @@
     "count": 2
   },
   {
-    "title": "El BCE selecciona 36 entidades para el piloto del euro digital e incorpora a críticos del proyecto",
-    "summary": "El banco central europeo avanza en el desarrollo del euro digital, reclutando incluso a detractores para la fase de prueba, en un proceso que podría transformar los pagos en la Eurozona.",
+    "title": "Los grandes bancos advierten de una posible corrección bursátil por el excesivo optimismo",
+    "summary": "Bank of America y otras entidades recomiendan a los inversores moderar su entusiasmo, señalando que los mercados podrían estar sobrevalorados.",
     "source": [
       "handelsblatt.com",
-      "ft.com"
+      "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "Las pequeñas empresas y la ciberseguridad lideran las subidas en Wall Street",
-    "summary": "Los inversores rotan hacia valores de menor capitalización y el sector de ciberseguridad se dispara, con CrowdStrike y Monolithic subiendo más de un 10%, mientras Goldman Sachs y Nvidia también destacan.",
-    "source": [
-      "ft.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La Bolsa de Tokio sube con fuerza impulsada por el avance de los semiconductores en Wall Street",
-    "summary": "El índice Nikkei extiende su racha alcista y supera los 68.000 puntos gracias al optimismo en el sector tecnológico estadounidense y la debilidad del yen.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La economía japonesa muestra signos de debilidad en los pedidos de maquinaria, mientras el BOJ publica actas inéditas",
-    "summary": "Los pedidos de maquinaria caen un 12,4% en mayo, aunque el Gobierno mantiene su diagnóstico de recuperación, y el Banco de Japón revela los intensos debates detrás de la adopción de tipos negativos en 2016.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Mitsubishi Heavy Industries se dispara en bolsa tras anunciar una alianza con Nvidia para centros de datos de IA",
-    "summary": "La colaboración estratégica impulsa el valor de la empresa nipona, que se suma a la creciente infraestructura global de inteligencia artificial de Nvidia.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Shohei Ohtani regresa a la alineación de los Dodgers para la segunda mitad de la temporada de la MLB",
-    "summary": "El fenómeno japonés volverá a jugar el 18 de julio, aunque su rol como lanzador sigue sin definir por decisión del equipo médico y técnico.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "China planea un ambicioso plan de expansión del consumo de 60 billones de yuanes para 2030",
-    "summary": "El gobierno chino prepara un estímulo masivo para contrarrestar la desaceleración económica y mejorar los indicadores de consumo interno ante el deterioro de los datos macroeconómicos.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Trump modifica su política migratoria y la Corte Suprema solicita más seguridad ante el aumento de amenazas",
-    "summary": "El presidente estadounidense detiene los controles vehiculares de inmigración tras un incidente fatal, mientras los jueces del alto tribunal piden protección por el incremento de casos graves de intimidación.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Japón debate la reforma de la Casa Imperial y avanza en infraestructuras mientras recuerda a sus leyendas",
-    "summary": "El parlamento nipón discute la ley de sucesión imperial, se confirma el trazado del Shinkansen a Osaka, la familia de una víctima pide la revisión de un juicio y se rinde homenaje al yokozuna Tamanoumi.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Las acciones de Lucid Motors se desploman ante rumores de posible deslistación o bancarrota",
-    "summary": "El fabricante estadounidense de vehículos eléctricos de lujo podría optar por la compra por parte de un inversor privado o la declaración de quiebra, según reportes del mercado.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Evotec se desploma en bolsa tras recortar drásticamente sus previsiones financieras",
-    "summary": "La compañía alemana de biotecnología sufre un fuerte castigo bursátil provocado por la rebaja de sus expectativas de negocio para el próximo ejercicio.",
+    "title": "Warren Buffett planea ceder toda su participación en Berkshire Hathaway hasta 2034",
+    "summary": "El legendario inversor inicia una transición gradual de su imperio empresarial, asegurando una transferencia ordenada de sus acciones.",
     "source": [
       "handelsblatt.com"
     ],
     "count": 1
   },
   {
-    "title": "Boeing registra su mejor primer semestre en entregas de aviones desde 2018",
-    "summary": "El fabricante aeroespacial estadounidense muestra signos de recuperación al aumentar el número de aeronaves entregadas a sus clientes en los primeros seis meses del año.",
+    "title": "La fiscalía alemana registra una sucursal de Deutsche Bank por presunto blanqueo de capitales",
+    "summary": "Las autoridades realizan una redada en una oficina del banco como parte de una investigación sobre operaciones financieras sospechosas.",
+    "source": [
+      "handelsblatt.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Huawei reanuda la venta de teléfonos 5G en el extranjero por primera vez tras las sanciones",
+    "summary": "La compañía china logra sortear las restricciones estadounidenses y vuelve a comercializar dispositivos 5G en mercados internacionales.",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Sojitz y una firma estadounidense producirán galio en Australia para asegurar el suministro",
+    "summary": "El proyecto conjunto busca reducir la dependencia de China en la producción de este metal crítico utilizado en semiconductores y electrónica.",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El petróleo se modera después de que Trump renuncie al peaje del 20% en Ormuz",
+    "summary": "Los precios del crudo se relajan ante la decisión del expresidente de no imponer tasas adicionales a los buques que transiten el estrecho.",
     "source": [
       "bolsamania.com"
     ],
     "count": 1
   },
   {
-    "title": "El proyecto de inteligencia artificial de Elon Musk genera contaminación que afecta a comunidades afroamericanas",
-    "summary": "Una investigación revela que el uso de generadores eléctricos sin permiso para la planta de xAI está perjudicando desproporcionadamente a la población negra de la zona.",
+    "title": "La inflación en España se sitúa en el 3,2% en junio gracias al abaratamiento de los carburantes",
+    "summary": "El índice de precios al consumo baja ligeramente, alineándose con las previsiones del Banco de España y dando respiro a los consumidores.",
     "source": [
-      "investing.com"
+      "bolsamania.com"
     ],
     "count": 1
   }
