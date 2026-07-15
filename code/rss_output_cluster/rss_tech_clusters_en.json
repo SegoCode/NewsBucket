@@ -1,91 +1,118 @@
 [
   {
-    "title": "OpenAI plans a screenless smart speaker with ChatGPT to compete with Alexa",
-    "summary": "OpenAI's first physical device will be a screenless speaker that integrates the ChatGPT language model.",
+    "title": "Thinking Machines Lab launches Inkling, an open language model with 975B parameters",
+    "summary": "The startup founded by Mira Murati publishes its first open-weights model, competing with AI industry leaders.",
     "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "kite.kagi.com",
-      "xataka.com"
+      "news.ycombinator.com",
+      "wired.com",
+      "techcrunch.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "China's CXMT approaches Micron's DRAM capacity and becomes the second largest producer worldwide",
-    "summary": "Chinese memory will match the US giant's production this year and receives support from MSI motherboard.",
+    "title": "Nvidia and Sega resume their alliance to bring classic games to RTX Spark PCs",
+    "summary": "The partnership includes the anticipated Virtua Fighter Crossroads and uses Nvidia's RTX Spark technology.",
     "source": [
+      "hardzone.es",
       "tomshardware.com",
-      "/r/hardware",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Apple launches public beta of iOS 27 with new Siri and Apple Intelligence features",
-    "summary": "The update allows users to test artificial intelligence improvements in the virtual assistant.",
+    "title": "26 former Meta employees sue over AI-assisted mass layoffs",
+    "summary": "Workers allege that the company used discriminatory AI systems to select whom to lay off, including employees on leave.",
     "source": [
-      "alternativeto.net",
+      "the-decoder.com",
+      "kite.kagi.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple Intelligence arrives in China with Alibaba's Qwen and is tested in iOS 27 beta",
+    "summary": "Apple's AI is approved in China through an alliance with Alibaba, while the public beta of iOS 27 integrates the new Siri features.",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft fixes a record 622 security vulnerabilities, including two active attacks",
+    "summary": "The company attributes the increase in patches to the use of artificial intelligence for detecting flaws in its ecosystem.",
+    "source": [
+      "techcrunch.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Spotify adds AI chat for Premium subscribers and managed accounts for parents",
+    "summary": "The streaming platform expands its social features with a conversational assistant and extends parental controls to its free tier.",
+    "source": [
+      "the-decoder.com",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft publishes a record over 600 security patches, including two active zero-days",
-    "summary": "A researcher published exploit code just after Patch Tuesday, while the company fixed a historic number of flaws.",
-    "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Vulnerability in Cursor editor allows remote code execution when cloning malicious repositories",
-    "summary": "The security flaw puts developers at risk until official fixes are applied.",
-    "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PS5 emulation on PC accelerates development and now runs 2D and 3D games",
-    "summary": "The emulator community progresses rapidly after Sony's decision to reduce physical games.",
-    "source": [
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta employees sue over layoffs based on discriminatory AI systems",
-    "summary": "Workers accuse the company of using biased algorithms in selecting for mass layoffs.",
-    "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DeepSeek negotiates $1.5 billion round and plans to go public",
-    "summary": "The Chinese AI startup seeks additional funding just weeks after closing a mega $7 billion round.",
+    "title": "A hack reveals that Suno used YouTube, Deezer, and Genius to train its music AI",
+    "summary": "Leaked source code shows how the AI music generator extracted decades of songs without explicit permission.",
     "source": [
       "techcrunch.com",
-      "the-decoder.com"
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Google integrates AI image generation in search and Google Images",
-    "summary": "The engine generates synthetic images when it does not find relevant visual results on the web.",
+    "title": "SpaceX shares fall below its IPO price of $135",
+    "summary": "The collapse occurs just before the launch of the Starship spacecraft, creating uncertainty among investors.",
     "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Starlink introduces smaller, lighter, and more efficient V5 residential kit",
-    "summary": "The new antenna halves power consumption and size, offering speeds up to 375 Mbps.",
+    "title": "Stripe and Advent International offer more than $53 billion to buy PayPal",
+    "summary": "The potential acquisition would be one of the largest in the digital payments sector in recent history.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Palit relaunches the GeForce RTX 3060 12 GB graphics card as a solution to the AI crisis",
+    "summary": "The company presents an updated version of its 2021 GPU to meet the high demand for AI hardware.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A modder turns Steam games into physical cartridges using 2.5-inch SSDs",
+    "summary": "The ingenious system allows storing complete titles on 128GB drives with an auto-start script.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve stops manufacturing spare parts for the Steam Deck LCD, complicating repairs",
+    "summary": "The manufacturer's decision makes maintenance of the original model difficult by gradually withdrawing official components.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Starlink launches a smaller, lighter V5 residential kit with half the energy consumption",
+    "summary": "The new antenna offers speeds up to 375 Mbps with a significantly reduced design compared to the previous generation.",
     "source": [
       "tomshardware.com",
       "bandaancha.eu"
@@ -93,88 +120,61 @@
     "count": 2
   },
   {
-    "title": "HWiNFO and HWMonitor incorporate hotspot temperature monitoring on NVIDIA RTX 50",
-    "summary": "The monitoring tools allow measuring the hottest point of the new Series 50 graphics cards.",
+    "title": "OpenAI prepares a screenless speaker with ChatGPT for launch in 2027",
+    "summary": "The company's first own hardware device will be designed to feel alive and operate through voice conversation.",
     "source": [
-      "videocardz.com",
-      "/r/hardware"
+      "the-decoder.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Nvidia and Sega team up to bring RTX Spark technologies to future games",
-    "summary": "The collaboration will debut with Virtua Fighter Crossroads and open Sega's catalog on RTX Spark PCs.",
+    "title": "Sony plans a digital-only PS6 that would leave 121 countries without store access",
+    "summary": "Recent patents from the company reveal solutions for PS5 issues while a fully digital ecosystem takes shape.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "/r/technology",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "Palit relaunches GeForce RTX 3060 with 12 GB as a solution to the AI crisis",
-    "summary": "The 2021 GPU returns with a new design to meet the demand for artificial intelligence hardware.",
+    "title": "The rise of AI drives up electricity consumption and energy prices globally",
+    "summary": "The race for artificial intelligence is causing a record increase in electricity consumption and prices, affecting both households and large corporations.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Intel invests $5 billion in its Ireland plant to boost chip manufacturing in Europe",
-    "summary": "The company bets on the Irish factory to offset the cancellation of its complex in Germany.",
+    "title": "A new cell therapy saves four children with terminal brain cancer",
+    "summary": "The innovative treatment, published in New Scientist, manages to reverse cases considered incurable by conventional medicine.",
     "source": [
-      "tomshardware.com",
-      "xataka.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Linux arrives on classic Sega consoles with port for 32X and improvements on Dreamcast",
-    "summary": "The open-source community expands Linux support for two retro Sega systems, including modern peripherals.",
+    "title": "GPT-5.6 Sol solves a 30-year-old unsolved statistical conjecture in 90 minutes",
+    "summary": "The next-generation AI model achieves what human mathematicians could not in three decades.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "the-decoder.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Two security vulnerabilities in Claude expose users' private data",
-    "summary": "Researchers show how a faulty Chrome extension and prompt injection can leak sensitive information.",
-    "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Best Buy discounts $900 on Asus ROG Flow Z13 laptop with 64 GB of RAM",
-    "summary": "The 2-in-1 gaming and AI device is offered at $2,099 in a temporary promotion.",
+    "title": "Intel manufactures the first volume logic chips with ASML's High NA EUV lithography",
+    "summary": "The US company marks a milestone by qualifying 18A process layers for 0.55 NA scanners, surpassing its competitors.",
     "source": [
       "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "Discrepancy between ASUS and iFixit on repairability of ROG Flow Z13",
-    "summary": "While ASUS gives it a 10/10, iFixit considers the real score to be 7 out of 10.",
+    "title": "Vint Cerf, co-creator of the internet, works on a plan to release AI agents on the web",
+    "summary": "The network pioneer seeks a standard that allows autonomous agents to operate safely in the open digital ecosystem.",
     "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceX bonds plummet 10% and approach junk bond status",
-    "summary": "The space company's debt trades lower due to concerns about its financial health.",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "YouTube and X become gateway to AI non-consensual nudity apps",
-    "summary": "Social platforms facilitate access to AI-generated nudity services.",
-    "source": [
-      "wired.com"
+      "techcrunch.com"
     ],
     "count": 1
   }

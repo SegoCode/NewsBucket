@@ -1,91 +1,118 @@
 [
   {
-    "title": "OpenAI planea un altavoz inteligente sin pantalla con ChatGPT para competir con Alexa",
-    "summary": "El primer dispositivo físico de OpenAI será un altavoz sin pantalla que integra el modelo de lenguaje ChatGPT.",
+    "title": "Thinking Machines Lab lanza Inkling, un modelo de lenguaje abierto de 975B parámetros",
+    "summary": "La startup fundada por Mira Murati publica su primer modelo de pesos abiertos, compitiendo con los líderes del sector de IA.",
     "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "kite.kagi.com",
-      "xataka.com"
+      "news.ycombinator.com",
+      "wired.com",
+      "techcrunch.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "La china CXMT se acerca a la capacidad de Micron en DRAM y se consolida como segundo productor mundial",
-    "summary": "La memoria china igualará este año la producción del gigante estadounidense y recibe soporte de la placa base MSI.",
+    "title": "Nvidia y Sega retoman su alianza para llevar juegos clásicos a las PC RTX Spark",
+    "summary": "La asociación incluye el esperado Virtua Fighter Crossroads y utiliza la tecnología RTX Spark de Nvidia.",
     "source": [
+      "hardzone.es",
       "tomshardware.com",
-      "/r/hardware",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Apple lanza la beta pública de iOS 27 con la nueva Siri y funciones de Apple Intelligence",
-    "summary": "La actualización permite a los usuarios probar las mejoras de inteligencia artificial en el asistente virtual.",
+    "title": "26 exempleados de Meta demandan por despidos masivos asistidos por inteligencia artificial",
+    "summary": "Los trabajadores alegan que la compañía utilizó sistemas de IA discriminatorios para seleccionar a quién despedir, incluidos empleados de baja.",
     "source": [
-      "alternativeto.net",
+      "the-decoder.com",
+      "kite.kagi.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple Intelligence llega a China con Qwen de Alibaba y se prueba en la beta de iOS 27",
+    "summary": "La inteligencia artificial de Apple es aprobada en China mediante una alianza con Alibaba, mientras la beta pública de iOS 27 integra las nuevas funciones de Siri.",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft corrige un récord de 622 vulnerabilidades de seguridad, incluidos dos ataques activos",
+    "summary": "La empresa atribuye el aumento en parches al uso de inteligencia artificial para la detección de fallos en su ecosistema.",
+    "source": [
+      "techcrunch.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Spotify añade chat con IA para suscriptores Premium y cuentas gestionadas para padres",
+    "summary": "La plataforma de streaming expande sus funciones sociales con un asistente conversacional y amplía el control parental a su nivel gratuito.",
+    "source": [
+      "the-decoder.com",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft publica un récord de más de 600 parches de seguridad, incluyendo dos zero-days activos",
-    "summary": "Un investigador publicó un código de explotación justo después del Patch Tuesday, mientras la compañía solucionó un número histórico de fallos.",
-    "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Vulnerabilidad en el editor Cursor permite ejecución remota de código al clonar repositorios maliciosos",
-    "summary": "El fallo de seguridad pone en riesgo a los desarrolladores hasta que se apliquen las correcciones oficiales.",
-    "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La emulación de PS5 en PC acelera su desarrollo y ya ejecuta juegos en 2D y 3D",
-    "summary": "La comunidad de emuladores progresa rápidamente tras la decisión de Sony de reducir los juegos físicos.",
-    "source": [
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Empleados de Meta demandan por despidos basados en sistemas de IA discriminatorios",
-    "summary": "Los trabajadores acusan a la empresa de utilizar algoritmos sesgados en la selección para los despidos masivos.",
-    "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DeepSeek negocia una ronda de 1.500 millones de dólares y planea salir a bolsa",
-    "summary": "La startup china de IA busca financiación adicional apenas semanas después de cerrar una mega ronda de 7.000 millones.",
+    "title": "Un hackeo revela que Suno usó YouTube, Deezer y Genius para entrenar su IA musical",
+    "summary": "El código fuente filtrado muestra cómo la generadora de música por IA extrajo décadas de canciones sin permiso explícito.",
     "source": [
       "techcrunch.com",
-      "the-decoder.com"
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Google integra generación de imágenes por IA en el buscador y en Google Images",
-    "summary": "El motor genera imágenes sintéticas cuando no encuentra resultados visuales relevantes en la web.",
+    "title": "Las acciones de SpaceX caen por debajo de su precio de salida a bolsa de 135 dólares",
+    "summary": "El desplome se produce justo antes del lanzamiento de la nave Starship, generando incertidumbre entre los inversores.",
     "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Starlink presenta un kit residencial V5 más pequeño, ligero y eficiente",
-    "summary": "La nueva antena reduce a la mitad el consumo y el tamaño, ofreciendo velocidades de hasta 375 Mbps.",
+    "title": "Stripe y Advent International ofrecen más de 53 mil millones de dólares para comprar PayPal",
+    "summary": "La potencial adquisición sería una de las mayores en el sector de pagos digitales de la historia reciente.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Palit relanza la tarjeta gráfica GeForce RTX 3060 con 12 GB como solución ante la crisis de IA",
+    "summary": "La compañía presenta una versión actualizada de su GPU de 2021 para cubrir la alta demanda de hardware para inteligencia artificial.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Un modder transforma juegos de Steam en cartuchos físicos mediante discos SSD de 2.5 pulgadas",
+    "summary": "El ingenioso sistema permite almacenar títulos completos en unidades de 128 GB con un script de autoarranque.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve deja de fabricar piezas de repuesto para la Steam Deck LCD, complicando las reparaciones",
+    "summary": "La decisión del fabricante dificulta el mantenimiento del modelo original al retirar gradualmente los componentes oficiales.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Starlink lanza un kit residencial V5 más pequeño, ligero y con la mitad de consumo energético",
+    "summary": "La nueva antena ofrece velocidades de hasta 375 Mbps con un diseño significativamente reducido respecto a la generación anterior.",
     "source": [
       "tomshardware.com",
       "bandaancha.eu"
@@ -93,88 +120,61 @@
     "count": 2
   },
   {
-    "title": "HWiNFO y HWMonitor incorporan monitorización de temperatura hotspot en RTX 50 de NVIDIA",
-    "summary": "Las herramientas de monitoreo permiten medir el punto más caliente de las nuevas tarjetas gráficas Serie 50.",
+    "title": "OpenAI prepara un altavoz sin pantalla con ChatGPT para su lanzamiento en 2027",
+    "summary": "El primer dispositivo hardware propio de la compañía estará diseñado para sentirse vivo y funcionar mediante conversación por voz.",
     "source": [
-      "videocardz.com",
-      "/r/hardware"
+      "the-decoder.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Nvidia y Sega se alían para llevar las tecnologías RTX Spark a futuros juegos",
-    "summary": "La colaboración debutará con Virtua Fighter Crossroads y abrirá el catálogo de Sega en los PC RTX Spark.",
+    "title": "Sony planea una PS6 solo digital que dejaría sin acceso a la tienda a 121 países",
+    "summary": "Patentes recientes de la compañía revelan soluciones para problemas de la PS5 mientras se perfila un ecosistema completamente digital.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "/r/technology",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "Palit relanza la GeForce RTX 3060 con 12 GB como solución ante la crisis de IA",
-    "summary": "La GPU de 2021 regresa con un nuevo diseño para cubrir la demanda de hardware de inteligencia artificial.",
+    "title": "El auge de la IA dispara el consumo eléctrico y los precios de la energía a nivel global",
+    "summary": "La carrera por la inteligencia artificial está provocando un aumento récord en el consumo y precio de la electricidad, afectando tanto a hogares como a grandes corporaciones.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Intel invierte 5.000 millones en su planta de Irlanda para reforzar la fabricación de chips en Europa",
-    "summary": "La compañía apuesta por la fábrica irlandesa para compensar la cancelación de su complejo en Alemania.",
+    "title": "Una nueva terapia celular salva a cuatro niños con cáncer cerebral terminal",
+    "summary": "El innovador tratamiento, publicado en New Scientist, logra revertir casos considerados incurables por la medicina convencional.",
     "source": [
-      "tomshardware.com",
-      "xataka.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Linux llega a consolas clásicas de Sega con puerto para 32X y mejoras en Dreamcast",
-    "summary": "La comunidad open-source amplía el soporte de Linux para dos sistemas retro de Sega, incluyendo periféricos modernos.",
+    "title": "GPT-5.6 Sol resuelve en 90 minutos una conjetura estadística de 30 años sin resolver",
+    "summary": "El modelo de inteligencia artificial de nueva generación logra lo que los matemáticos humanos no pudieron en tres décadas.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "the-decoder.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Dos vulnerabilidades de seguridad en Claude exponen datos privados de los usuarios",
-    "summary": "Investigadores muestran cómo una extensión de Chrome defectuosa y una inyección de prompts pueden filtrar información sensible.",
-    "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Best Buy descuenta 900 dólares en el portátil Asus ROG Flow Z13 con 64 GB de RAM",
-    "summary": "El equipo 2 en 1 gaming y para IA se ofrece a 2.099 dólares en una promoción temporal.",
+    "title": "Intel fabrica los primeros chips lógicos en volumen con la litografía High NA EUV de ASML",
+    "summary": "La compañía estadounidense marca un hito al cualificar las capas del proceso 18A para los escáneres de 0.55 NA, superando a sus competidores.",
     "source": [
       "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "Discrepancia entre ASUS e iFixit sobre la reparabilidad del ROG Flow Z13",
-    "summary": "Mientras ASUS otorga un 10/10, iFixit considera que la puntuación real es de 7 sobre 10.",
+    "title": "Vint Cerf, cocreador de internet, trabaja en un plan para liberar agentes de IA en la web",
+    "summary": "El pionero de la red busca un estándar que permita a los agentes autónomos operar de forma segura en el ecosistema digital abierto.",
     "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Los bonos de SpaceX se desploman un 10% y se acercan a la categoría de bono basura",
-    "summary": "La deuda de la compañía espacial cotiza a la baja debido a preocupaciones sobre su salud financiera.",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "YouTube y X se convierten en puerta de entrada a aplicaciones de desnudos no consentidos con IA",
-    "summary": "Las plataformas sociales facilitan el acceso a servicios de desnudos generados por inteligencia artificial.",
-    "source": [
-      "wired.com"
+      "techcrunch.com"
     ],
     "count": 1
   }

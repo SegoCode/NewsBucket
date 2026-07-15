@@ -1,91 +1,118 @@
 [
   {
-    "title": "OpenAI、ChatGPT搭載のディスプレイなしスマートスピーカーを計画、Alexaと競合へ",
-    "summary": "OpenAI初の物理デバイスは、ChatGPT言語モデルを統合したディスプレイなしのスピーカーとなる。",
+    "title": "Thinking Machines Lab、975Bパラメータのオープン言語モデルInklingを発表",
+    "summary": "Mira Muratiが設立したスタートアップが初のオープンウェイトモデルを公開、AI業界のリーダーと競合する。",
     "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "kite.kagi.com",
-      "xataka.com"
+      "news.ycombinator.com",
+      "wired.com",
+      "techcrunch.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "中国のCXMT、DRAMでMicronの生産能力に迫り、世界第2位のメーカーに",
-    "summary": "中国メモリは今年、米国大手の生産量に並び、MSIマザーボードのサポートを受ける。",
+    "title": "NvidiaとSegaが再提携、RTX Spark対応PCにクラシックゲームを提供",
+    "summary": "提携には待望の『Virtua Fighter Crossroads』が含まれ、NvidiaのRTX Sparkテクノロジーを活用する。",
     "source": [
+      "hardzone.es",
       "tomshardware.com",
-      "/r/hardware",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Apple、新SiriとApple Intelligence機能を搭載したiOS 27のパブリックベータを公開",
-    "summary": "このアップデートにより、ユーザーはバーチャルアシスタントのAI機能強化を試すことができる。",
+    "title": "Metaの元従業員26名、AI支援による大量解雇をめぐり提訴",
+    "summary": "従業員らは、同社が差別的なAIシステムを使用して解雇対象を選別し、休職中の従業員も含まれていたと主張している。",
     "source": [
-      "alternativeto.net",
+      "the-decoder.com",
+      "kite.kagi.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple IntelligenceがAlibabaのQwenと共に中国に登場、iOS 27ベータでテスト中",
+    "summary": "Appleの人工知能がAlibabaとの提携により中国で承認され、iOS 27のパブリックベータにはSiriの新機能が統合されている。",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、過去最多の622件のセキュリティ脆弱性を修正、うち2件は活発な攻撃あり",
+    "summary": "同社はパッチ増加の原因を、エコシステム内の障害検出における人工知能の活用にあるとしている。",
+    "source": [
+      "techcrunch.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Spotify、プレミアム加入者向けAIチャットと保護者管理アカウントを追加",
+    "summary": "ストリーミングプラットフォームは、会話アシスタントによるソーシャル機能を拡大し、無料プランにもペアレンタルコントロールを拡張する。",
+    "source": [
+      "the-decoder.com",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft、2件の活発なゼロデイを含む過去最多の600以上のセキュリティパッチを公開",
-    "summary": "研究者がPatch Tuesday直後にエクスプロイトコードを公開する中、同社は過去最多の脆弱性を修正した。",
-    "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Cursorエディターの脆弱性、悪意のあるリポジトリのクローンでリモートコード実行を許す",
-    "summary": "このセキュリティ上の欠陥は、公式修正が適用されるまで開発者を危険にさらす。",
-    "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PCでのPS5エミュレーション開発が加速、2Dおよび3Dゲームが動作",
-    "summary": "Sonyがパッケージゲームを縮小する決定を受けて、エミュレーターコミュニティは急速に進歩している。",
-    "source": [
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta従業員、差別的なAIシステムに基づく解雇で提訴",
-    "summary": "従業員は、大量解雇の選定において偏ったアルゴリズムを使用したとして同社を非難している。",
-    "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DeepSeek、15億ドルの資金調達ラウンドを交渉中、上場を計画",
-    "summary": "中国のAIスタートアップは、70億ドルのメガラウンドを完了してからわずか数週間で追加資金を求めている。",
+    "title": "ハッキングによりSunoがYouTube、Deezer、Geniusのデータを音楽AIトレーニングに使用していたことが判明",
+    "summary": "流出したソースコードは、AI音楽生成ツールが明示的な許可なく数十年分の楽曲を抽出した方法を示している。",
     "source": [
       "techcrunch.com",
-      "the-decoder.com"
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Google、検索エンジンとGoogle画像検索にAI画像生成を統合",
-    "summary": "検索エンジンは、ウェブ上に関連する画像結果が見つからない場合に合成画像を生成する。",
+    "title": "SpaceX株、IPO価格135ドルを下回る",
+    "summary": "スターシップ打ち上げ直前に株価が急落し、投資家の間に不確実性が広がっている。",
     "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Starlink、より小型・軽量・効率的な住宅用V5キットを発表",
-    "summary": "新しいアンテナは消費電力とサイズを半分にし、最大375Mbpsの速度を提供する。",
+    "title": "StripeとAdvent International、PayPal買収に530億ドル以上を提示",
+    "summary": "この買収提案は、デジタル決済分野における近年最大級のものとなる可能性がある。",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Palit、AI需要の高まりに対応するためGeForce RTX 3060 12GBを再販",
+    "summary": "同社は、人工知能向けハードウェアの高い需要を満たすために、2021年発売のGPUのアップデート版を発表した。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ModderがSteamゲームを2.5インチSSDで物理カートリッジに変換",
+    "summary": "この独創的なシステムは、128GBドライブに自動起動スクリプトを使用してゲーム全体を保存することを可能にする。",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve、Steam Deck LCDの交換部品の製造を終了、修理が困難に",
+    "summary": "メーカーの決定により、公式部品が段階的に廃止され、オリジナルモデルのメンテナンスが困難になっている。",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Starlink、小型・軽量で消費電力半分の住宅用キットV5を発売",
+    "summary": "新しいアンテナは、前世代に比べて大幅に小型化された設計で、最大375Mbpsの速度を提供する。",
     "source": [
       "tomshardware.com",
       "bandaancha.eu"
@@ -93,88 +120,61 @@
     "count": 2
   },
   {
-    "title": "HWiNFOとHWMonitor、NVIDIA RTX 50のホットスポット温度モニタリングに対応",
-    "summary": "これらのモニタリングツールにより、新しいGeForce RTX 50シリーズの最も高温になるポイントを測定できる。",
+    "title": "OpenAI、2027年発売に向けてChatGPT搭載の画面なしスピーカーを準備",
+    "summary": "同社初の自社ハードウェアデバイスは、生きているかのような感覚を提供し、音声会話で動作するように設計される。",
     "source": [
-      "videocardz.com",
-      "/r/hardware"
+      "the-decoder.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIAとSega、RTX Sparkテクノロジーを将来のゲームに導入するために提携",
-    "summary": "この協業は「Virtua Fighter Crossroads」で幕を開け、RTX Spark PCでSegaのカタログを開放する。",
+    "title": "Sony、デジタル専用PS6を計画、121カ国でストアアクセス不能の可能性",
+    "summary": "同社の最近の特許はPS5の問題に対する解決策を示す一方、完全デジタルエコシステムの構想が明らかになっている。",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "/r/technology",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "Palit、AI需要の高まりに対応するためGeForce RTX 3060 12GBを再販",
-    "summary": "2021年のGPUが新デザインで帰ってきて、AIハードウェア需要に応える。",
+    "title": "AIの台頭が世界の電力消費とエネルギー価格を急上昇させる",
+    "summary": "人工知能開発競争により、電力消費量と価格が過去最高の上昇を記録し、家庭から大企業に至るまで影響を及ぼしている。",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Intel、アイルランド工場に50億ドル投資、欧州の半導体製造を強化",
-    "summary": "同社はドイツの工場計画中止を補うため、アイルランド工場に重点を置く。",
+    "title": "新しい細胞療法で末期脳腫瘍の子供4人が救われる",
+    "summary": "『ニュー・サイエンティスト』に掲載された革新的な治療法が、従来の医療では治癒不可能とされていた症例を改善することに成功した。",
     "source": [
-      "tomshardware.com",
-      "xataka.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Linux、セガのクラシックコンソールに登場：32Xへの移植とDreamcastの改良",
-    "summary": "オープンソースコミュニティが、最新の周辺機器を含むセガの2つのレトロシステム向けLinuxサポートを拡大。",
+    "title": "GPT-5.6 Sol、30年間未解決の統計学的予想を90分で解決",
+    "summary": "次世代AIモデルが、人間の数学者たちが30年間達成できなかったことを成し遂げた。",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "the-decoder.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Claudeの2つのセキュリティ脆弱性によりユーザーの個人データが露出",
-    "summary": "研究者らは、欠陥のあるChrome拡張機能とプロンプトインジェクションによって機密情報が漏洩する仕組みを実証した。",
-    "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Best Buy、64GB RAM搭載のASUS ROG Flow Z13を900ドル値引き",
-    "summary": "ゲーミングとAI向けの2-in-1デバイスが、期間限定プロモーションで2,099ドルで提供されている。",
+    "title": "Intel、ASMLのHigh NA EUVリソグラフィで初の量産ロジックチップを製造",
+    "summary": "米Intel社は、0.55NAスキャナー向けに18Aプロセス層を認定し、競合他社をリードするマイルストーンを達成した。",
     "source": [
       "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "ASUSとiFixit間でROG Flow Z13の修理難易度評価に矛盾",
-    "summary": "ASUSは10/10と評価する一方、iFixitは実際のスコアは10点中7点であると考えている。",
+    "title": "インターネットの共同創設者ヴィントン・サーフ、Web上にAIエージェントを解放する計画に取り組む",
+    "summary": "ネットの先駆者は、自律エージェントがオープンなデジタルエコシステムで安全に動作できる標準を模索している。",
     "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceXの社債が10%下落、ジャンク債格付けに近づく",
-    "summary": "同社の財務健全性への懸念から、宇宙企業の債務は低調に推移している。",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "YouTubeとX、同意のないAIヌード生成アプリへの入り口に",
-    "summary": "ソーシャルプラットフォームが、AIによって生成されたヌード画像サービスのアクセスを容易にしている。",
-    "source": [
-      "wired.com"
+      "techcrunch.com"
     ],
     "count": 1
   }
