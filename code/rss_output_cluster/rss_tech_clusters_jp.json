@@ -1,171 +1,178 @@
 [
   {
-    "title": "ニューヨーク州、50メガワット超のデータセンターに1年間のモラトリアムを課す、米国初",
-    "summary": "ニューヨーク州は大規模データセンターの建設一時停止を承認し、税制優遇措置を撤廃して業界の拡大にブレーキをかける。",
-    "source": [
-      "/r/technology",
-      "techcrunch",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "DeepMind CEOと進歩派リーダーがAI規制と真剣なメッセージを求める",
-    "summary": "Google DeepMindの経営幹部と米国議員が、基準を確立し、AIマネーが公共の討論を沈黙させるのを防ぐよう求める。",
-    "source": [
-      "techcrunch",
-      "the-decoder",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "イーロン・マスクのColossus 2データセンターが許可なくガスタービン59基を設置、ミシシッピ州の黒人コミュニティを汚染",
-    "summary": "報告書は、この施設が数千トンの汚染物質を放出し、肺疾患率の高い地域に影響を与えたことを明らかにしている。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DeepSeek、15億ドルの資金調達を目指しIPO準備",
-    "summary": "中国のAIスタートアップは、70億ドルのラウンドを終了してからわずか数週間で新たな資金を求めている。",
-    "source": [
-      "techcrunch",
-      "the-decoder"
-    ],
-    "count": 2
-  },
-  {
-    "title": "動画生成スタートアップPixVerseが4億3900万ドルを調達、評価額は20億ドル超に",
-    "summary": "この投資は、AIによる動画生成市場に対する継続的な信頼を反映している。",
-    "source": [
-      "the-decoder",
-      "techcrunch"
-    ],
-    "count": 2
-  },
-  {
-    "title": "オラクル、6月以来株価50%下落、S&Pはジャンク債の一歩手前に格下げ",
-    "summary": "この急落により、ラリー・エリソンは億万長者リストで2位から8位に後退した。",
+    "title": "データセンターが電気代上昇、汚染、そしてニューヨークでのモラトリアムを引き起こす",
+    "summary": "データセンターの成長により電気料金が230億ドル上昇し、ミシシッピ州では汚染物質の排出を引き起こし、ニューヨーク市は新規プロジェクトを1年間禁止するに至った。",
     "source": [
       "news.ycombinator.com",
-      "/r/technology"
+      "tomshardware.com",
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Apple、AIベースのSiri機能を搭載したiOS 27を発表、M7チップ開発を加速",
-    "summary": "SiriアシスタントはAppleの統合ツールとなり、同社は自社のAI向けチップを加速させる。",
+    "title": "中国メーカーCXMT、DRAMメモリ製造で前進、MSIのサポートを獲得",
+    "summary": "CXMTは年内にMicronのキャパシティに追いつく見込みで、MSIは同社のDDR5メモリとのマザーボード互換性を推進している。",
     "source": [
-      "wired.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Telegramのドメインt.meが誤って1日停止、その後復旧",
-    "summary": "この停止は世界中のすべてのTelegramリンクに影響を与え、サービス障害を引き起こした。",
-    "source": [
-      "techcrunch",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "大手出版社、Googleが自社コンテンツをAIトレーニングに使用したとして提訴",
-    "summary": "この訴訟は、AIモデルのトレーニングにおける著作権で保護されたデータの使用をめぐる法的な戦いの拡大に加わる。",
-    "source": [
-      "techcrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "イラン、携帯ネットワークの脆弱性を悪用し中東の米軍を特定",
-    "summary": "報告書は、イラン政府が電話ネットワークのセキュリティの弱点を悪用して軍事目標を追跡したことを明らかにしている。",
-    "source": [
-      "techcrunch"
-    ],
-    "count": 1
-  },
-  {
-    "title": "YouTubeとXが人物画像を裸にするアプリへのゲートウェイに",
-    "summary": "ソーシャルプラットフォームは、同意のない性的ディープフェイクアプリの配信チャネルとして利用されている。",
-    "source": [
-      "wired.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "政府効率化省、住宅政策にAIを利用するも手法を開示せず",
-    "summary": "連邦政府は住宅に関する意思決定にAIモデルを採用したが、その機能に関する詳細を公に提供することを拒否している。",
-    "source": [
-      "wired.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ソフトバンク孫正義CEO、AIは2040年までに年間5兆ドル必要と主張",
-    "summary": "孫氏はバブルを否定し、技術成長を維持するにはAIへの大規模投資が必要だと指摘する。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceX株、競合の大幅な進展を受け史上最安値に",
-    "summary": "イーロン・マスクの宇宙企業は、ライバルが大きな技術的進歩を遂げた後、株式市場で大きな打撃を受けた。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "任天堂、Switch 2のディスプレイを1080p有機ELパネルにアップグレードを検討か",
-    "summary": "日本の同社は、次世代携帯ゲーム機の画質向上を検討しており、より鮮明で鮮やかな色を提供することを目指している。",
-    "source": [
+      "/r/hardware",
+      "videocardz.com",
       "hardzone.es"
     ],
-    "count": 1
+    "count": 3
   },
   {
-    "title": "Intel、アイルランド工場に57億ドル投資、Xeon 6の生産拡大",
-    "summary": "この投資は、Intel 3プロセスに基づく次世代プロセッサの製造を拡大することを目的としている。",
+    "title": "Intel、アイルランド工場に57億ドルを投資、Nova Lakeの生産を自社施設に移管",
+    "summary": "Intelはアイルランドへの巨額投資により欧州での製造を強化し、Nova Lakeプロセッサを自社内で生産して歩留まりを向上させると発表した。",
     "source": [
+      "xataka.com",
+      "/r/hardware",
       "tomshardware.com"
     ],
-    "count": 1
+    "count": 3
   },
   {
-    "title": "中国、2026年上半期のチップ輸出が1770億ドルと倍増",
-    "summary": "前年比96%の増加はメモリ価格の上昇によるもので、輸出額を膨らませている。",
+    "title": "Microsoft、過去最大のセキュリティ更新を発表、600以上の脆弱性を修正",
+    "summary": "同社は数百の欠陥に対するパッチを公開し、その中には活発に悪用されている2つのゼロデイ脆弱性が含まれている。",
     "source": [
+      "news.ycombinator.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ブルームバーグ報道：OpenAI、ディスプレイなしで動きに対応したスマートスピーカーを準備",
+    "summary": "OpenAI初のハードウェアデバイスは動くことができるスピーカーであり、人工知能とのインタラクションを変えようとしている。",
+    "source": [
+      "techcrunch.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "DeepSeek、15億ドルのラウンドを交渉、IPOを計画",
+    "summary": "中国のAIスタートアップは、70億ドルのラウンドを完了した数週間後に新たな資金を求め、IPOの準備を進めている。",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "DeepMind CEO、人工知能のための独立した規制機関を要請",
+    "summary": "Demis Hassabis氏は、フロンティアAIに安全策と世界的な規制機関を設けることを主張し、技術の将来に関する不確実性を認めている。",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "HWMonitor、NVIDIA RTX 50 GPUのホットスポット温度監視を復元",
+    "summary": "ホットスポット温度の測定方法に関するガイドの後、HWMonitorのアップデートによりRTX 50向けにこの機能が正式に復活した。",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SamsungがSSD 990 2TBをアップデート、870 EVOの偽造品に注意喚起",
+    "summary": "Samsung 990 2TBのリビジョンは速度と効率の向上を示す一方、偽造の870 EVOユニットはわずか120GBの書き込み後に故障した。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve、Steam Machineの過熱警告を修正、テストでは限定的なパフォーマンスが明らかに",
+    "summary": "BIOSアップデートにより温度しきい値が引き上げられたが、25のゲームテストではSteam Machineはまだ推奨できないことが示された。",
+    "source": [
+      "/r/hardware",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google、検索にAI生成画像を統合し、Google画像検索をPinterest風に再設計",
+    "summary": "Googleは結果が見つからない場合にAIで画像を生成できるようにし、画像の発見を向上させるためにGoogle画像検索のインターフェースを刷新した。",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ChatGPTが欧州のWhatsAppに復活、ユーザーがボットと秘密を共有する理由を研究が分析",
+    "summary": "EUはMetaに対してWhatsAppで競合ボットを許可するよう義務付け、ChatGPTの復帰を容易にした。一方、調査によりユーザーの信頼の背後にある心理的理由が明らかになった。",
+    "source": [
+      "the-decoder.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、Claudeに「意識」を発見したと主張、言語による行動の違いを発見",
+    "summary": "Anthropicは自社のAI Claudeに意識の兆候を特定したと主張するが、データは議論の余地があり、モデルはヒンディー語ではより暖かく、ロシア語ではより厳密に応答する。",
+    "source": [
+      "xataka.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nintendo、1080p OLEDディスプレイを搭載したSwitch 2を発売の可能性、N64スタイルのレトロドックも登場",
+    "summary": "噂では次世代コンソールの高解像度ディスプレイが示唆される一方、サードパーティのアクセサリーとしてNintendo 64風の外観で6つのゲームを収納するドックが登場している。",
+    "source": [
+      "hardzone.es",
       "tomshardware.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "NVIDIA、アジアの認定顧客リストを削減、AIチップの密輸防止",
-    "summary": "同社はワシントンからの圧力を受け、顧客に現場査察官を派遣し、ビジネスの正当性を確認している。",
+    "title": "Apple、iOS 27で新しいAI搭載Siriのパブリックベータを公開",
+    "summary": "すべてのユーザーがiOS 27のパブリックベータを通じて、高度なAIを搭載した新しいSiriアシスタントを試すことができる。",
     "source": [
-      "tomshardware.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Apple、OpenAIをハードウェア秘密の窃盗で提訴",
-    "summary": "クパティーノの同社は、OpenAIが自社のチップに関する機密情報を不正に取得したと非難している。",
+    "title": "大手出版社、Googleを提訴、自社コンテンツをAIトレーニングに使用したと",
+    "summary": "Googleは、主要な出版社から著作権侵害で新たな訴訟に直面している。出版社は、自社の作品がAIモデルのトレーニングに無断で使用されたと主張している。",
     "source": [
-      "kite.kagi.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "ChatGPTが欧州のWhatsAppに復活、EU命令でMetaは競合ボットに門戸を開く",
-    "summary": "欧州のこの措置により、Metaはメッセージングプラットフォーム上でAIアシスタントの競争を許可せざるを得なくなった。",
+    "title": "VW、サグントのバッテリー工場建設を延期",
+    "summary": "ドイツの自動車メーカーはスペインでバッテリーを製造する計画を延期し、低コストの電気自動車プロジェクトが遅れることになる。",
     "source": [
-      "the-decoder"
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Lucid Motors、破産申請を検討しているとの報道を否定",
+    "summary": "電気自動車メーカーは、破産法の適用を検討しているとする報道を否定した。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Reflection、Nebiusとの間で10億ドルのクラウドコンピューティング契約を締結",
+    "summary": "AIスタートアップのReflectionは、モデルトレーニングにNebiusのインフラを利用する大規模な契約を結んだ。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "PixVerse、AI生成動画分野で20億ドルの評価額に到達",
+    "summary": "AI動画生成企業のPixVerseは、投資家が引き続きこの分野の可能性に信頼を寄せていることを示している。",
+    "source": [
+      "the-decoder.com"
     ],
     "count": 1
   }

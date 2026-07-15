@@ -1,65 +1,82 @@
 [
   {
-    "title": "Grandes bancos estadounidenses reportan ganancias récord en el segundo trimestre",
-    "summary": "JPMorgan, Citigroup, Bank of America y Goldman Sachs presentan aumentos de entre el 27% y el 78% en sus beneficios, impulsados por la banca de inversión y el trading.",
+    "title": "La inflación en EE.UU. cae al 3,5% y los mercados reaccionan al alza, aunque la Fed mantiene su vigilancia",
+    "summary": "El IPC de junio sorprende a la baja y frena las apuestas de subidas de tipos, pero el consejero de la Fed, Warsh, afirma que el banco central 'no tolerará' una inflación elevada, lo que modera el optimismo.",
     "source": [
-      "nasdaq.com",
-      "finance.yahoo.com",
+      "investing.com",
+      "expansion.com",
       "nikkei.com",
       "handelsblatt.com",
-      "ft.com",
-      "expansion.com"
+      "bolsamania.com"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "Tensiones entre EE.UU. e Irán disparan el petróleo y provocan ataques aéreos en el Golfo",
-    "summary": "El crudo supera los 87 dólares tras la batalla por el estrecho de Ormuz, mientras Trump retira el peaje del 20% y Estados Unidos ataca misiles iraníes contra petroleros.",
+    "title": "El petróleo se dispara un 22% en dos semanas por la escalada militar en el Golfo Pérsico",
+    "summary": "EE.UU. lanza ataques aéreos mientras Irán ataca petroleros con misiles de crucero, elevando el crudo Brent a 87 dólares y tensionando los mercados energéticos globales.",
     "source": [
-      "ft.com",
-      "bolsamania.com",
       "nikkei.com",
+      "ft.com",
       "expansion.com",
+      "bolsamania.com",
       "handelsblatt.com"
     ],
     "count": 5
   },
   {
-    "title": "IBM se desploma un 25% en bolsa al advertir de menores ingresos por el cambio hacia la IA",
-    "summary": "La compañía anticipa resultados del segundo trimestre peores de lo esperado, provocando la mayor caída de su historia y arrastrando al sector del software.",
+    "title": "IBM se desploma un 25% en bolsa al recortar previsiones por el trasvase del gasto en TI hacia la inteligencia artificial",
+    "summary": "Los clientes empresariales redirigen sus presupuestos informáticos hacia infraestructura de IA, perjudicando las ventas tradicionales de la compañía y lastrando al sector de software en su conjunto.",
     "source": [
       "nasdaq.com",
-      "bolsamania.com",
-      "ft.com",
       "/r/stocks",
-      "nikkei.com"
+      "ft.com",
+      "nikkei.com",
+      "bolsamania.com"
     ],
     "count": 5
   },
   {
-    "title": "La inflación en EE.UU. cae al 3,5% en junio, su mayor descenso en seis años, y las bolsas globales suben",
-    "summary": "El IPC estadounidense se modera más de lo esperado, lo que impulsa al S&P 500, Nasdaq y a los mercados europeos, pese al lastre de IBM.",
+    "title": "El temor a una burbuja en la inteligencia artificial sacude al sector tecnológico",
+    "summary": "HSBC recorta la calificación de Arm, CoreWeave busca cobertura para los precios de los chips y la gestora Panza alerta de un exceso de optimismo, mientras los inversores debaten si es momento de comprar o huir.",
     "source": [
-      "handelsblatt.com",
       "investing.com",
-      "bolsamania.com",
-      "nikkei.com"
+      "nasdaq.com",
+      "expansion.com",
+      "/r/stocks"
     ],
     "count": 4
   },
   {
-    "title": "El presidente de la Fed, Kevin Warsh, asegura que el banco central no tolerará una inflación elevada",
-    "summary": "En su primera comparecencia ante el Congreso, Warsh señala que la Reserva Federal actuará con firmeza para controlar los precios.",
+    "title": "La banca de Wall Street registra ganancias récord en el primer semestre del año",
+    "summary": "JP Morgan lidera los resultados del 'supermartes' bursátil, aunque su CEO, Jamie Dimon, advierte sobre los riesgos geopolíticos y de inflación en un entorno de tipos elevados.",
     "source": [
       "expansion.com",
-      "nikkei.com",
-      "handelsblatt.com"
+      "handelsblatt.com",
+      "ft.com"
     ],
     "count": 3
   },
   {
-    "title": "El BCE selecciona 36 proveedores para el piloto del euro digital e incorpora a críticos en el proyecto",
-    "summary": "El Banco Central Europeo avanza en la moneda digital con un programa piloto que incluye a 36 entidades, mientras busca equilibrar la inclusión de voces críticas.",
+    "title": "El Ibex resiste la presión del petróleo y las letras del Tesoro escalan al 2,6%, su nivel más alto desde 2024",
+    "summary": "Los analistas recomiendan prudencia, destacan el potencial de Indra tras su caída y el sector salud, mientras la rentabilidad de la deuda a corto plazo sigue atrayendo a los inversores.",
+    "source": [
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Las acciones del sector espacial pierden 89.000 millones de dólares en un día, pero los pedidos siguen en máximos históricos",
+    "summary": "El mercado se pregunta si el sector es una burbuja o el futuro del transporte, mientras SpaceX acapara la atención de los inversores minoristas e institucionales.",
+    "source": [
+      "nasdaq.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El BCE selecciona 36 entidades para el piloto del euro digital e incorpora a críticos del proyecto",
+    "summary": "El banco central europeo avanza en el desarrollo del euro digital, reclutando incluso a detractores para la fase de prueba, en un proceso que podría transformar los pagos en la Eurozona.",
     "source": [
       "handelsblatt.com",
       "ft.com"
@@ -67,115 +84,97 @@
     "count": 2
   },
   {
-    "title": "Las acciones de ciberseguridad y chips de IA lideran las subidas en Wall Street, con CrowdStrike al alza",
-    "summary": "CrowdStrike y Monolithic se revalorizan más del 10%, en contraste con el desplome del sector software tras el batacazo de IBM.",
+    "title": "Las pequeñas empresas y la ciberseguridad lideran las subidas en Wall Street",
+    "summary": "Los inversores rotan hacia valores de menor capitalización y el sector de ciberseguridad se dispara, con CrowdStrike y Monolithic subiendo más de un 10%, mientras Goldman Sachs y Nvidia también destacan.",
     "source": [
-      "nasdaq.com",
+      "ft.com",
       "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "Warren Buffett corta las donaciones a la Fundación Gates y planea ceder todo su capital en Berkshire",
-    "summary": "El inversor pone fin a las contribuciones tras las revelaciones sobre Epstein y anuncia que transferirá todo su patrimonio en Berkshire Hathaway hasta 2034.",
-    "source": [
-      "investing.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Directivos de LegalZoom y Sea Limited venden grandes paquetes de acciones",
-    "summary": "El director legal de LegalZoom vende más de 50.000 títulos, mientras el COO de Sea Limited se desprende de 40.000 acciones por 4,5 millones de dólares.",
-    "source": [
-      "nasdaq.com",
-      "finance.yahoo.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung acelera la construcción de su planta de chips en Yongin y explora cotizar en EE.UU.",
-    "summary": "La compañía surcoreana adelanta a 2029 la apertura de la primera de seis plantas y considera emitir ADR en el mercado estadounidense tras un rechazo inicial.",
-    "source": [
-      "/r/stocks"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Las acciones de pequeña capitalización en EE.UU. se disparan al alejarse los inversores de las grandes tecnológicas",
-    "summary": "El interés por las small caps crece en Wall Street, con ganancias notables en el sector.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Target enfrenta problemas estructurales más allá de lo que se piensa",
-    "summary": "La cadena minorista lidia con desafíos profundos que afectan su rendimiento más allá de la inflación y la competencia.",
-    "source": [
-      "finance.yahoo.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El negocio de BMW en EE.UU. demuestra ser clave en sus resultados actuales",
-    "summary": "Las ventas en Norteamérica contribuyen significativamente al desempeño de la automotriz alemana en un contexto global complicado.",
-    "source": [
-      "finance.yahoo.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La próxima fase del rally de inteligencia artificial comienza, según analistas",
-    "summary": "El sector de IA podría entrar en una nueva etapa alcista a medida que las empresas comienzan a monetizar la tecnología.",
-    "source": [
-      "/r/stocks"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Evotec recorta sus previsiones financieras y su acción se desploma en bolsa",
-    "summary": "La biotecnológica alemana reduce sus perspectivas de ingresos, provocando una fuerte caída en el mercado.",
-    "source": [
-      "handelsblatt.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La plataforma suiza Bitcoin Suisse inicia operaciones en Alemania",
-    "summary": "El exchange de criptomonedas se expande al mercado alemán ofreciendo servicios de custodia y compraventa.",
-    "source": [
-      "handelsblatt.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La rentabilidad de las Letras del Tesoro a 9 meses en España alcanza el 2,63%, su nivel más alto desde 2024",
-    "summary": "El interés de la deuda pública española a corto plazo sube a máximos no vistos desde noviembre de 2024.",
-    "source": [
-      "expansion.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La primera ministra Takaichi encabeza la captación de afiliados en el Partido Liberal Demócrata japonés",
-    "summary": "En la carrera interna del PLD, Takaichi obtiene el mayor número de nuevos miembros, seguida del legislador Aoyama.",
+    "title": "La Bolsa de Tokio sube con fuerza impulsada por el avance de los semiconductores en Wall Street",
+    "summary": "El índice Nikkei extiende su racha alcista y supera los 68.000 puntos gracias al optimismo en el sector tecnológico estadounidense y la debilidad del yen.",
     "source": [
       "nikkei.com"
     ],
     "count": 1
   },
   {
-    "title": "El Congreso español rechaza la senda de estabilidad presupuestaria del Gobierno",
-    "summary": "La oposición bloquea la trayectoria fiscal planteada por el Ejecutivo, lo que complica la elaboración de los presupuestos generales.",
+    "title": "La economía japonesa muestra signos de debilidad en los pedidos de maquinaria, mientras el BOJ publica actas inéditas",
+    "summary": "Los pedidos de maquinaria caen un 12,4% en mayo, aunque el Gobierno mantiene su diagnóstico de recuperación, y el Banco de Japón revela los intensos debates detrás de la adopción de tipos negativos en 2016.",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Mitsubishi Heavy Industries se dispara en bolsa tras anunciar una alianza con Nvidia para centros de datos de IA",
+    "summary": "La colaboración estratégica impulsa el valor de la empresa nipona, que se suma a la creciente infraestructura global de inteligencia artificial de Nvidia.",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Shohei Ohtani regresa a la alineación de los Dodgers para la segunda mitad de la temporada de la MLB",
+    "summary": "El fenómeno japonés volverá a jugar el 18 de julio, aunque su rol como lanzador sigue sin definir por decisión del equipo médico y técnico.",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "China planea un ambicioso plan de expansión del consumo de 60 billones de yuanes para 2030",
+    "summary": "El gobierno chino prepara un estímulo masivo para contrarrestar la desaceleración económica y mejorar los indicadores de consumo interno ante el deterioro de los datos macroeconómicos.",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Trump modifica su política migratoria y la Corte Suprema solicita más seguridad ante el aumento de amenazas",
+    "summary": "El presidente estadounidense detiene los controles vehiculares de inmigración tras un incidente fatal, mientras los jueces del alto tribunal piden protección por el incremento de casos graves de intimidación.",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Japón debate la reforma de la Casa Imperial y avanza en infraestructuras mientras recuerda a sus leyendas",
+    "summary": "El parlamento nipón discute la ley de sucesión imperial, se confirma el trazado del Shinkansen a Osaka, la familia de una víctima pide la revisión de un juicio y se rinde homenaje al yokozuna Tamanoumi.",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Las acciones de Lucid Motors se desploman ante rumores de posible deslistación o bancarrota",
+    "summary": "El fabricante estadounidense de vehículos eléctricos de lujo podría optar por la compra por parte de un inversor privado o la declaración de quiebra, según reportes del mercado.",
+    "source": [
+      "nikkei.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Evotec se desploma en bolsa tras recortar drásticamente sus previsiones financieras",
+    "summary": "La compañía alemana de biotecnología sufre un fuerte castigo bursátil provocado por la rebaja de sus expectativas de negocio para el próximo ejercicio.",
+    "source": [
+      "handelsblatt.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Boeing registra su mejor primer semestre en entregas de aviones desde 2018",
+    "summary": "El fabricante aeroespacial estadounidense muestra signos de recuperación al aumentar el número de aeronaves entregadas a sus clientes en los primeros seis meses del año.",
     "source": [
       "bolsamania.com"
     ],
     "count": 1
   },
   {
-    "title": "Los accionistas de ARC Resources aprueban la compra de la compañía por Shell por 16.400 millones de dólares",
-    "summary": "El acuerdo de adquisición recibe luz verde de los inversores, impulsando la expansión de Shell en el sector del gas.",
+    "title": "El proyecto de inteligencia artificial de Elon Musk genera contaminación que afecta a comunidades afroamericanas",
+    "summary": "Una investigación revela que el uso de generadores eléctricos sin permiso para la planta de xAI está perjudicando desproporcionadamente a la población negra de la zona.",
     "source": [
       "investing.com"
     ],
