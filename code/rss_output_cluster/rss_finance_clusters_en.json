@@ -1,115 +1,156 @@
 [
   {
-    "title": "European stock markets open lower due to earnings season and geopolitical tensions",
-    "summary": "The Ibex 35 and the German DAX fall at the open, as investors assess corporate earnings and uncertainty in the Middle East.",
+    "title": "AI-driven memory shortage boosts investments and hurts smartphone shipments",
+    "summary": "Strong demand for memory chips for artificial intelligence causes historic fall in smartphone shipments, accelerates Samsung's expansion and possible IPO of CXMT, and improves sector outlook.",
     "source": [
-      "bolsamania.com",
-      "handelsblatt.com",
       "investing.com",
-      "expansion.com"
+      "finance.yahoo.com",
+      "ft.com",
+      "handelsblatt.com",
+      "nikkei.com",
+      "/r/stocks"
     ],
-    "count": 4
+    "count": 6
   },
   {
-    "title": "Oil surges on fears of a disruption in the Strait of Hormuz",
-    "summary": "Crude oil prices reach $87 per barrel, while the UK sees its borrowing costs rise due to escalating tensions.",
+    "title": "Cautious optimism and correction warnings mark investor outlook",
+    "summary": "Multiple reports and analysts recommend caution amid risk of stock market correction after recent rally, as market awaits macro data and upcoming Fed decisions.",
+    "source": [
+      "nasdaq.com",
+      "finance.yahoo.com",
+      "expansion.com",
+      "handelsblatt.com",
+      "ft.com",
+      "bolsamania.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Conflict with Iran raises oil prices and generates uncertainty in global markets",
+    "summary": "Ongoing military tensions in the Middle East, the blockade in the Strait of Hormuz, and US threats push crude above $87 and affect stock markets.",
     "source": [
       "bolsamania.com",
       "ft.com",
+      "finance.yahoo.com",
       "expansion.com",
       "nikkei.com"
     ],
+    "count": 5
+  },
+  {
+    "title": "Wall Street big banks achieve record profits supported by AI and market activity",
+    "summary": "Morgan Stanley, PNC Financial, and BNY Mellon report significant increases in quarterly profits, driven by demand for artificial intelligence and strong business volume.",
+    "source": [
+      "finance.yahoo.com",
+      "investing.com",
+      "bolsamania.com",
+      "expansion.com",
+      "ft.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Stripe and Advent launch buyout offer for PayPal valued at over $53 billion",
+    "summary": "The joint proposal by Stripe and Advent International fund to acquire PayPal sends shares of the payments company up 10% in premarket trading.",
+    "source": [
+      "finance.yahoo.com",
+      "investing.com",
+      "ft.com",
+      "/r/stocks"
+    ],
     "count": 4
   },
   {
-    "title": "US inflation falls to 3.5% in June, its biggest drop in six years",
-    "summary": "The moderation in prices eases pressure on the Federal Reserve and gives financial markets a breather.",
+    "title": "US inflation falls to 3.5%, largest decline in six years",
+    "summary": "The inflation data surprises to the downside and reinforces the possibility that the Fed will keep rates unchanged, triggering a rally in global stock markets.",
     "source": [
+      "finance.yahoo.com",
       "investing.com",
-      "handelsblatt.com",
-      "expansion.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Asian stock markets rise driven by US inflation data and the AI boom",
-    "summary": "The Nikkei and KOSPI post strong gains, buoyed by the moderation in US inflation and solid results from ASML.",
-    "source": [
-      "handelsblatt.com",
-      "nikkei.com",
-      "/r/stocks"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ASML posts 27% higher profit in Q2 and raises its sales forecast for 2026",
-    "summary": "The Dutch semiconductor company surges on the stock market after beating expectations, thanks to demand for artificial intelligence chips.",
-    "source": [
-      "bolsamania.com",
-      "investing.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "IBM plummets 25% after cutting its revenue forecasts due to AI spending",
-    "summary": "The tech giant suffers a historic stock market decline as it loses customers who shift their budget to artificial intelligence, dragging down the sector.",
-    "source": [
-      "nikkei.com",
-      "ft.com",
-      "/r/stocks"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Wall Street banks post record profits in the first half of 2026",
-    "summary": "JP Morgan and other major banks report historic earnings, although their executives warn about the risks of excessive optimism.",
-    "source": [
-      "ft.com",
       "expansion.com",
       "handelsblatt.com"
     ],
+    "count": 4
+  },
+  {
+    "title": "ASML raises sales forecasts to 45 billion due to AI chip demand",
+    "summary": "The semiconductor equipment manufacturer improves its annual outlook thanks to intense spending on artificial intelligence, boosting its stock price.",
+    "source": [
+      "bolsamania.com",
+      "/r/stocks",
+      "finance.yahoo.com"
+    ],
     "count": 3
   },
   {
-    "title": "China's GDP grows less than expected in Q2",
-    "summary": "The Chinese economy slows down, though Asian markets close higher thanks to the moderation in US inflation.",
+    "title": "US producer prices unexpectedly fall in June",
+    "summary": "The producer price index falls below forecasts, suggesting a moderation of inflationary pressures and giving the Fed room to maintain its current policy.",
     "source": [
       "bolsamania.com",
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Bitcoin and ether rebound after moderation of US inflation",
+    "summary": "The price of major cryptocurrencies recovers after the inflation data, while firm Circle faces allegations of market manipulation against a fund linked to Tether.",
+    "source": [
+      "finance.yahoo.com",
+      "expansion.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Board and executive movements mark the session with notable trades",
+    "summary": "Vickers reports capture insider buys and sells in companies like HeartFlow and Netskope, indicating confidence or lack thereof in their respective companies.",
+    "source": [
+      "investing.com",
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Mixed results in healthcare sector: J&J beats estimates, Celcuity and Veradermics record disparate moves",
+    "summary": "Johnson & Johnson beats expectations and rises, Celcuity falls due to delay of its oncology drug, and Veradermics gains after positive data on alopecia, while Merck and Pfizer also grab attention.",
+    "source": [
+      "/r/stocks",
+      "finance.yahoo.com",
+      "investing.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ECB advocates caution and Bundesbank leans towards a pause in rates",
+    "summary": "The ECB governing council recommends acting with caution, while Bundesbank president Joachim Nagel considers the current interest rate level appropriate for a pause in July.",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Conagra Brands cuts fiscal 2027 profit forecast and calls investors",
+    "summary": "The food company lowers its earnings estimates for the next year and schedules an earnings conference to discuss its outlook.",
+    "source": [
+      "finance.yahoo.com",
       "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "Chip maker CXMT seeks $10 billion in China's largest IPO since 2010",
-    "summary": "The semiconductor company plans to list in Shanghai to fund its expansion amid growing demand for chips.",
-    "source": [
-      "handelsblatt.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Stripe and Advent launch a $53 billion bid to acquire PayPal",
-    "summary": "The payments and private equity firms present a joint proposal to buy the payments platform at $60.50 per share.",
+    "title": "BlackRock reaches all-time high of $15.3 trillion in assets under management",
+    "summary": "The world's largest asset manager reports record assets under management and its CEO, Larry Fink, is optimistic about the strength of markets and investor demand.",
     "source": [
       "ft.com",
-      "/r/stocks"
+      "finance.yahoo.com"
     ],
     "count": 2
   },
   {
-    "title": "ECB selects 36 providers to test the digital euro",
-    "summary": "The European Central Bank advances in the development of the digital currency with a pilot program that will evaluate its technical and operational feasibility.",
-    "source": [
-      "handelsblatt.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Indra attracts interest from Morgan Stanley after falling 26% on the stock market",
-    "summary": "Investment bank analysts see a buying opportunity in the Spanish defense and technology company, highlighting its recovery potential.",
+    "title": "Ibex 35 gives up ground weighed by Fluidra and Telefónica, while ACS leads gains",
+    "summary": "The Spanish benchmark accumulates declines in a session marked by corporate earnings, with Fluidra and Telefónica as the biggest laggards and ACS as the top gainer.",
     "source": [
       "bolsamania.com",
       "expansion.com"
@@ -117,68 +158,44 @@
     "count": 2
   },
   {
-    "title": "Space sector loses $89 billion in one day despite record orders",
-    "summary": "Shares of space companies crash on the stock market, although order backlogs reach historic levels, sparking debate on the sector's valuation.",
+    "title": "IBM plummets 25% on shift in corporate spending towards artificial intelligence",
+    "summary": "IBM shares fall sharply after reports that clients are reallocating their IT budget from traditional services to artificial intelligence solutions.",
     "source": [
-      "nasdaq.com",
-      "/r/stocks"
+      "/r/stocks",
+      "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Major banks warn of a possible stock market correction due to excessive optimism",
-    "summary": "Bank of America and other institutions recommend that investors moderate their enthusiasm, noting that markets could be overvalued.",
+    "title": "Renta 4 raises BBVA price target as Bank of America withdraws buy recommendation",
+    "summary": "Analysts show divergent views on BBVA ahead of its results, with Renta 4 highlighting its AI growth and Bank of America concerned about its exposure to Turkey.",
     "source": [
-      "handelsblatt.com",
+      "bolsamania.com",
       "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "Warren Buffett plans to give away all his stake in Berkshire Hathaway by 2034",
-    "summary": "The legendary investor begins a gradual transition of his business empire, ensuring an orderly transfer of his shares.",
+    "title": "Warren Buffett plans to donate all his Berkshire Hathaway stake before 2034",
+    "summary": "A report reveals that the 95-year-old investor plans to transfer all his shares in the US conglomerate in the coming years.",
     "source": [
       "handelsblatt.com"
     ],
     "count": 1
   },
   {
-    "title": "German prosecutors raid a Deutsche Bank branch over alleged money laundering",
-    "summary": "Authorities conduct a raid at a bank office as part of an investigation into suspicious financial transactions.",
+    "title": "India-UK free trade agreement comes into force",
+    "summary": "The trade agreement eliminates tariffs and facilitates trade in services between both countries, enhancing bilateral relations.",
     "source": [
-      "handelsblatt.com"
+      "finance.yahoo.com"
     ],
     "count": 1
   },
   {
-    "title": "Huawei resumes sales of 5G phones abroad for the first time since sanctions",
-    "summary": "The Chinese company manages to circumvent US restrictions and resumes selling 5G devices in international markets.",
+    "title": "Apple Intelligence gets approval in China via Alibaba's Qwen model",
+    "summary": "Apple's artificial intelligence assistant will be available in the Chinese market thanks to collaboration with Alibaba and its Qwen model.",
     "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Sojitz and a US firm to produce gallium in Australia to secure supply",
-    "summary": "The joint project aims to reduce dependence on China for the production of this critical metal used in semiconductors and electronics.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Oil moderates after Trump gives up 20% toll in Hormuz",
-    "summary": "Crude prices ease after the former president's decision not to impose additional charges on vessels transiting the strait.",
-    "source": [
-      "bolsamania.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Spain's inflation stands at 3.2% in June thanks to cheaper fuel",
-    "summary": "The consumer price index falls slightly, aligning with the Bank of Spain's forecasts and giving consumers some relief.",
-    "source": [
-      "bolsamania.com"
+      "finance.yahoo.com"
     ],
     "count": 1
   }

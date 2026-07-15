@@ -1,65 +1,28 @@
 [
   {
-    "title": "Microsoft、570以上のセキュリティ脆弱性を修正する過去最多のパッチを公開",
-    "summary": "このアップデートは、10年にわたり存在したSecure Bootの脆弱性や、サイバー犯罪者に積極的に悪用されている欠陥を修正する。",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI、初の物理デバイスを準備中：画面なしのAIスマートスピーカー",
-    "summary": "音声アシスタントは、高度な生成AI機能を備えたAlexaの直接の競合となる見込み。",
+    "title": "OpenAI、ChatGPT搭載のディスプレイなしスマートスピーカーを計画、Alexaと競合へ",
+    "summary": "OpenAI初の物理デバイスは、ChatGPT言語モデルを統合したディスプレイなしのスピーカーとなる。",
     "source": [
       "the-decoder.com",
       "techcrunch.com",
+      "kite.kagi.com",
       "xataka.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "研究者ら、Claudeの深刻なセキュリティ脆弱性を暴露——秘密情報の抽出やメールの読み取りが可能に",
-    "summary": "Anthropicのアシスタントにおける欠陥は、機密性の高い個人データを取得し、Gmailなどの連携サービスにアクセスする方法を示している。",
+    "title": "中国のCXMT、DRAMでMicronの生産能力に迫り、世界第2位のメーカーに",
+    "summary": "中国メモリは今年、米国大手の生産量に並び、MSIマザーボードのサポートを受ける。",
     "source": [
-      "news.ycombinator.com",
-      "thehackernews.com",
-      "xataka.com"
+      "tomshardware.com",
+      "/r/hardware",
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "ニューヨーク州、大規模データセンターの建設を禁止する米国初の州に",
-    "summary": "1年間のモラトリアムは、これらのインフラが州内に与えるエネルギーと環境への影響を評価することを目的としている。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "DeepSeek、上場前に15億ドルの新たな資金調達ラウンドを交渉",
-    "summary": "中国のAIスタートアップは、過去最高の70億ドルの投資を完了してからわずか数週間で、さらなる資金を求めている。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "xAIのプログラミングツールGrok、ユーザーのリポジトリ全体を明示的な許可なくクラウドにアップロード",
-    "summary": "イーロン・マスク氏は、開発者のソースコードのプライバシーをめぐる論争を受け、既にアップロードされたデータは削除されると述べている。",
-    "source": [
-      "/r/technology",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple、iOS 27のパブリックベータを公開——AIを活用した新しいSiriを搭載",
-    "summary": "ユーザーは、OSの正式リリース前にApple Intelligenceの高度な機能を試すことができる。",
+    "title": "Apple、新SiriとApple Intelligence機能を搭載したiOS 27のパブリックベータを公開",
+    "summary": "このアップデートにより、ユーザーはバーチャルアシスタントのAI機能強化を試すことができる。",
     "source": [
       "alternativeto.net",
       "techcrunch.com"
@@ -67,8 +30,44 @@
     "count": 2
   },
   {
-    "title": "DeepMindCEO、フロンティアAIを規制する独立した国際機関の設立を要請",
-    "summary": "デミス・ハサビス氏は、人工知能の将来に対する不確実性を踏まえ、安全策の構築を訴えている。",
+    "title": "Microsoft、2件の活発なゼロデイを含む過去最多の600以上のセキュリティパッチを公開",
+    "summary": "研究者がPatch Tuesday直後にエクスプロイトコードを公開する中、同社は過去最多の脆弱性を修正した。",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cursorエディターの脆弱性、悪意のあるリポジトリのクローンでリモートコード実行を許す",
+    "summary": "このセキュリティ上の欠陥は、公式修正が適用されるまで開発者を危険にさらす。",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "PCでのPS5エミュレーション開発が加速、2Dおよび3Dゲームが動作",
+    "summary": "Sonyがパッケージゲームを縮小する決定を受けて、エミュレーターコミュニティは急速に進歩している。",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta従業員、差別的なAIシステムに基づく解雇で提訴",
+    "summary": "従業員は、大量解雇の選定において偏ったアルゴリズムを使用したとして同社を非難している。",
+    "source": [
+      "the-decoder.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "DeepSeek、15億ドルの資金調達ラウンドを交渉中、上場を計画",
+    "summary": "中国のAIスタートアップは、70億ドルのメガラウンドを完了してからわずか数週間で追加資金を求めている。",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
@@ -76,111 +75,107 @@
     "count": 2
   },
   {
-    "title": "Intel、アイルランド工場に57億ドルを投資しXeonプロセッサの生産を拡大",
-    "summary": "この投資は、Intel 3プロセスを採用し、欧州での最先端チップの製造を強化することを目的としている。",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "イーロン・マスクのデータセンター「Colossus 2」、必要な許可なく天然ガスタービン59基を設置",
-    "summary": "報告書によると、この設備は数千トンの汚染物質を排出し、肺疾患率の高いアフリカ系アメリカ人コミュニティに影響を与えている。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google、AIとPinterestに着想を得たデザインで画像検索をリニューアル",
-    "summary": "新しい機能は、視覚的な結果がない場合にAIで画像を生成し、ビジュアル探索を向上させる。",
+    "title": "Google、検索エンジンとGoogle画像検索にAI画像生成を統合",
+    "summary": "検索エンジンは、ウェブ上に関連する画像結果が見つからない場合に合成画像を生成する。",
     "source": [
       "the-decoder.com",
-      "techcrunch.com"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "データセンターの電気料金と雇用創出への影響、世界的な激しい議論を巻き起こす",
-    "summary": "データセンターがエネルギー消費と価格を急騰させる一方、批評家は雇用の約束が果たされていないと指摘する。",
+    "title": "Starlink、より小型・軽量・効率的な住宅用V5キットを発表",
+    "summary": "新しいアンテナは消費電力とサイズを半分にし、最大375Mbpsの速度を提供する。",
     "source": [
-      "/r/technology",
+      "tomshardware.com",
+      "bandaancha.eu"
+    ],
+    "count": 2
+  },
+  {
+    "title": "HWiNFOとHWMonitor、NVIDIA RTX 50のホットスポット温度モニタリングに対応",
+    "summary": "これらのモニタリングツールにより、新しいGeForce RTX 50シリーズの最も高温になるポイントを測定できる。",
+    "source": [
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIAとSega、RTX Sparkテクノロジーを将来のゲームに導入するために提携",
+    "summary": "この協業は「Virtua Fighter Crossroads」で幕を開け、RTX Spark PCでSegaのカタログを開放する。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Palit、AI需要の高まりに対応するためGeForce RTX 3060 12GBを再販",
+    "summary": "2021年のGPUが新デザインで帰ってきて、AIハードウェア需要に応える。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel、アイルランド工場に50億ドル投資、欧州の半導体製造を強化",
+    "summary": "同社はドイツの工場計画中止を補うため、アイルランド工場に重点を置く。",
+    "source": [
+      "tomshardware.com",
       "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "監視カメラネットワークFlock、米国で公的・政治的監視の目が強まる",
-    "summary": "ロサンゼルス警察は同社との契約を更新しない一方、政治オペレーターとの関連が明らかになり、大量データ収集が批判されている。",
+    "title": "Linux、セガのクラシックコンソールに登場：32Xへの移植とDreamcastの改良",
+    "summary": "オープンソースコミュニティが、最新の周辺機器を含むセガの2つのレトロシステム向けLinuxサポートを拡大。",
     "source": [
-      "/r/technology",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Claudeの2つのセキュリティ脆弱性によりユーザーの個人データが露出",
+    "summary": "研究者らは、欠陥のあるChrome拡張機能とプロンプトインジェクションによって機密情報が漏洩する仕組みを実証した。",
+    "source": [
+      "thehackernews.com",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta、解雇におけるAIの使用とエンジニア管理で批判に直面",
-    "summary": "訴訟では、同社が休職中の従業員を解雇対象として特定するためにAIを使用したと主張。一方、エンジニアあたりのトークン使用制限が検討されている。",
+    "title": "Best Buy、64GB RAM搭載のASUS ROG Flow Z13を900ドル値引き",
+    "summary": "ゲーミングとAI向けの2-in-1デバイスが、期間限定プロモーションで2,099ドルで提供されている。",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google、OpenAI、Meta、AIモデルトレーニングにおけるデータ使用で訴訟ラッシュに直面",
-    "summary": "告発は、著作権侵害や営業秘密の漏洩から、AIを媒介とした虐待的な労働慣行にまで及ぶ。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国メモリメーカーCXMT、MSIのIntel 800シリーズマザーボードとの互換性を獲得し存在感を増す",
-    "summary": "RAM危機の中、中国企業はDDR5モジュールのグローバルPC市場向け認証を進めている。",
-    "source": [
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nintendo Switch 2、1080p有機ELディスプレイ搭載の可能性？ レトロアクセサリーエコシステムも拡大",
-    "summary": "噂ではコンソールの画質向上が示唆される一方、Nintendo 64を思わせるノスタルジックなデザインのドックがすでに販売されている。",
-    "source": [
-      "hardzone.es",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "人工知能が未成年に与える影響に警鐘——バーチャル恋人からヌード加工アプリまで",
-    "summary": "調査や報道は、若者のチャットボットとの関係の増加や、偽の親密な画像を生成するアプリを配布するためのYouTubeのようなプラットフォームの使用について警告している。",
+    "title": "ASUSとiFixit間でROG Flow Z13の修理難易度評価に矛盾",
+    "summary": "ASUSは10/10と評価する一方、iFixitは実際のスコアは10点中7点であると考えている。",
     "source": [
-      "/r/technology",
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SpaceXの社債が10%下落、ジャンク債格付けに近づく",
+    "summary": "同社の財務健全性への懸念から、宇宙企業の債務は低調に推移している。",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "YouTubeとX、同意のないAIヌード生成アプリへの入り口に",
+    "summary": "ソーシャルプラットフォームが、AIによって生成されたヌード画像サービスのアクセスを容易にしている。",
+    "source": [
       "wired.com"
     ],
-    "count": 2
-  },
-  {
-    "title": "Lenovo、高性能ワークステーションと長時間駆動ノートPCをラインナップに追加",
-    "summary": "同社は、最大1TBのRAMとRTX PRO GPUを搭載したマシンと、30時間以上のバッテリー駆動時間を備えた手頃なノートPCを市場に投入する。",
-    "source": [
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "アナリスト、AI競争がフロンティアモデルの開発を超えて進んでいるか議論",
-    "summary": "業界が優先順位を再考する中、Metaはスーパーインテリジェンスへの競争において戦略的優位性を持つ静かな競争相手として浮上している。",
-    "source": [
-      "techcrunch.com",
-      "xataka.com"
-    ],
-    "count": 2
+    "count": 1
   }
 ]

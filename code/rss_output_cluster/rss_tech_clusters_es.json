@@ -1,65 +1,28 @@
 [
   {
-    "title": "Microsoft publica un parche récord que corrige más de 570 vulnerabilidades de seguridad",
-    "summary": "La actualización incluye la corrección de una brecha de Secure Boot activa desde hace una década y fallos explotados activamente por ciberdelincuentes.",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI prepara su primer dispositivo físico: un altavoz inteligente sin pantalla con IA",
-    "summary": "El asistente de voz se perfila como un competidor directo de Alexa con capacidades avanzadas de inteligencia artificial generativa.",
+    "title": "OpenAI planea un altavoz inteligente sin pantalla con ChatGPT para competir con Alexa",
+    "summary": "El primer dispositivo físico de OpenAI será un altavoz sin pantalla que integra el modelo de lenguaje ChatGPT.",
     "source": [
       "the-decoder.com",
       "techcrunch.com",
+      "kite.kagi.com",
       "xataka.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Investigadores exponen graves vulnerabilidades de seguridad en Claude que permiten extraer secretos y leer correos",
-    "summary": "Las fallas en el asistente de Anthropic demuestran cómo es posible obtener datos personales sensibles y acceder a servicios vinculados como Gmail.",
+    "title": "La china CXMT se acerca a la capacidad de Micron en DRAM y se consolida como segundo productor mundial",
+    "summary": "La memoria china igualará este año la producción del gigante estadounidense y recibe soporte de la placa base MSI.",
     "source": [
-      "news.ycombinator.com",
-      "thehackernews.com",
-      "xataka.com"
+      "tomshardware.com",
+      "/r/hardware",
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Nueva York se convierte en el primer estado de EE. UU. en prohibir la construcción de grandes centros de datos",
-    "summary": "La moratoria de un año busca evaluar el impacto energético y ambiental de estas infraestructuras en el estado.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "DeepSeek negocia una nueva ronda de financiación de 1.500 millones de dólares antes de su posible salida a bolsa",
-    "summary": "La startup china de inteligencia artificial busca más capital apenas semanas después de cerrar una inversión histórica de 7.000 millones de dólares.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La herramienta de programación Grok de xAI subía repositorios enteros de usuarios a la nube sin permiso explícito",
-    "summary": "Elon Musk afirma que los datos ya subidos serán eliminados tras la polémica sobre la privacidad del código fuente de los desarrolladores.",
-    "source": [
-      "/r/technology",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple lanza la beta pública de iOS 27 con la nueva Siri impulsada por inteligencia artificial",
-    "summary": "Los usuarios pueden probar las funciones avanzadas de Apple Intelligence antes del lanzamiento oficial del sistema operativo.",
+    "title": "Apple lanza la beta pública de iOS 27 con la nueva Siri y funciones de Apple Intelligence",
+    "summary": "La actualización permite a los usuarios probar las mejoras de inteligencia artificial en el asistente virtual.",
     "source": [
       "alternativeto.net",
       "techcrunch.com"
@@ -67,8 +30,44 @@
     "count": 2
   },
   {
-    "title": "El CEO de DeepMind pide la creación de un organismo internacional independiente para regular la IA de frontera",
-    "summary": "Demis Hassabis aboga por la construcción de barandillas de seguridad ante la incertidumbre sobre el futuro de la inteligencia artificial.",
+    "title": "Microsoft publica un récord de más de 600 parches de seguridad, incluyendo dos zero-days activos",
+    "summary": "Un investigador publicó un código de explotación justo después del Patch Tuesday, mientras la compañía solucionó un número histórico de fallos.",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Vulnerabilidad en el editor Cursor permite ejecución remota de código al clonar repositorios maliciosos",
+    "summary": "El fallo de seguridad pone en riesgo a los desarrolladores hasta que se apliquen las correcciones oficiales.",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La emulación de PS5 en PC acelera su desarrollo y ya ejecuta juegos en 2D y 3D",
+    "summary": "La comunidad de emuladores progresa rápidamente tras la decisión de Sony de reducir los juegos físicos.",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Empleados de Meta demandan por despidos basados en sistemas de IA discriminatorios",
+    "summary": "Los trabajadores acusan a la empresa de utilizar algoritmos sesgados en la selección para los despidos masivos.",
+    "source": [
+      "the-decoder.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "DeepSeek negocia una ronda de 1.500 millones de dólares y planea salir a bolsa",
+    "summary": "La startup china de IA busca financiación adicional apenas semanas después de cerrar una mega ronda de 7.000 millones.",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
@@ -76,111 +75,107 @@
     "count": 2
   },
   {
-    "title": "Intel invierte 5.700 millones de dólares en su fábrica de Irlanda para aumentar la producción de sus procesadores Xeon",
-    "summary": "La inversión busca fortalecer la fabricación de chips de última generación en Europa utilizando el proceso Intel 3.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El centro de datos Colossus 2 de Elon Musk instaló 59 turbinas de gas natural sin los permisos requeridos",
-    "summary": "Un informe revela que la instalación emite miles de toneladas de contaminantes afectando a comunidades afroamericanas con altas tasas de enfermedades pulmonares.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google rediseña su buscador de imágenes con inteligencia artificial y un diseño inspirado en Pinterest",
-    "summary": "La nueva función genera imágenes por IA cuando no hay resultados visuales disponibles y mejora la exploración visual.",
+    "title": "Google integra generación de imágenes por IA en el buscador y en Google Images",
+    "summary": "El motor genera imágenes sintéticas cuando no encuentra resultados visuales relevantes en la web.",
     "source": [
       "the-decoder.com",
-      "techcrunch.com"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "El impacto de los centros de datos en el precio de la electricidad y la creación de empleo genera un intenso debate global",
-    "summary": "Mientras los centros de datos disparan el consumo energético y los precios, críticos señalan que la promesa de empleos no se está cumpliendo.",
+    "title": "Starlink presenta un kit residencial V5 más pequeño, ligero y eficiente",
+    "summary": "La nueva antena reduce a la mitad el consumo y el tamaño, ofreciendo velocidades de hasta 375 Mbps.",
     "source": [
-      "/r/technology",
+      "tomshardware.com",
+      "bandaancha.eu"
+    ],
+    "count": 2
+  },
+  {
+    "title": "HWiNFO y HWMonitor incorporan monitorización de temperatura hotspot en RTX 50 de NVIDIA",
+    "summary": "Las herramientas de monitoreo permiten medir el punto más caliente de las nuevas tarjetas gráficas Serie 50.",
+    "source": [
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia y Sega se alían para llevar las tecnologías RTX Spark a futuros juegos",
+    "summary": "La colaboración debutará con Virtua Fighter Crossroads y abrirá el catálogo de Sega en los PC RTX Spark.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Palit relanza la GeForce RTX 3060 con 12 GB como solución ante la crisis de IA",
+    "summary": "La GPU de 2021 regresa con un nuevo diseño para cubrir la demanda de hardware de inteligencia artificial.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel invierte 5.000 millones en su planta de Irlanda para reforzar la fabricación de chips en Europa",
+    "summary": "La compañía apuesta por la fábrica irlandesa para compensar la cancelación de su complejo en Alemania.",
+    "source": [
+      "tomshardware.com",
       "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "La red de cámaras de vigilancia Flock enfrenta un creciente escrutinio público y político en Estados Unidos",
-    "summary": "La policía de Los Ángeles no renovará el contrato con la empresa, mientras se revelan vínculos con operadores políticos y se critica la recopilación masiva de datos.",
+    "title": "Linux llega a consolas clásicas de Sega con puerto para 32X y mejoras en Dreamcast",
+    "summary": "La comunidad open-source amplía el soporte de Linux para dos sistemas retro de Sega, incluyendo periféricos modernos.",
     "source": [
-      "/r/technology",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Dos vulnerabilidades de seguridad en Claude exponen datos privados de los usuarios",
+    "summary": "Investigadores muestran cómo una extensión de Chrome defectuosa y una inyección de prompts pueden filtrar información sensible.",
+    "source": [
+      "thehackernews.com",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta enfrenta críticas por el uso de inteligencia artificial en despidos y la gestión de sus ingenieros",
-    "summary": "Una demanda alega que la compañía usó IA para identificar empleados de baja para ser despedidos, mientras se plantea limitar el uso de tokens por ingeniero.",
+    "title": "Best Buy descuenta 900 dólares en el portátil Asus ROG Flow Z13 con 64 GB de RAM",
+    "summary": "El equipo 2 en 1 gaming y para IA se ofrece a 2.099 dólares en una promoción temporal.",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google, OpenAI y Meta se enfrentan a una ola de demandas por el uso de datos en el entrenamiento de sus modelos de IA",
-    "summary": "Las acusaciones abarcan desde violaciones de derechos de autor y secretos comerciales hasta prácticas laborales abusivas mediadas por inteligencia artificial.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El fabricante chino de memoria CXMT gana terreno al lograr compatibilidad con las placas Intel serie 800 de MSI",
-    "summary": "En medio de la crisis de la RAM, la empresa china avanza en la homologación de sus módulos DDR5 para el mercado global de PC.",
-    "source": [
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nintendo Switch 2 podría tener pantalla OLED 1080p mientras crece el ecosistema de accesorios retro",
-    "summary": "Los rumores apuntan a una mejora en la calidad de imagen de la consola, mientras ya se comercializan bases con diseños nostálgicos como el de la Nintendo 64.",
-    "source": [
-      "hardzone.es",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "La inteligencia artificial genera alarmas por su impacto en menores: desde novias virtuales hasta aplicaciones de desnudos",
-    "summary": "Estudios y reportajes advierten sobre el auge de relaciones de jóvenes con chatbots y el uso de plataformas como YouTube para distribuir apps que generan imágenes íntimas falsas.",
+    "title": "Discrepancia entre ASUS e iFixit sobre la reparabilidad del ROG Flow Z13",
+    "summary": "Mientras ASUS otorga un 10/10, iFixit considera que la puntuación real es de 7 sobre 10.",
     "source": [
-      "/r/technology",
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Los bonos de SpaceX se desploman un 10% y se acercan a la categoría de bono basura",
+    "summary": "La deuda de la compañía espacial cotiza a la baja debido a preocupaciones sobre su salud financiera.",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "YouTube y X se convierten en puerta de entrada a aplicaciones de desnudos no consentidos con IA",
+    "summary": "Las plataformas sociales facilitan el acceso a servicios de desnudos generados por inteligencia artificial.",
+    "source": [
       "wired.com"
     ],
-    "count": 2
-  },
-  {
-    "title": "Lenovo amplía su catálogo con una potente estación de trabajo y un portátil de larga autonomía",
-    "summary": "La compañía lanza al mercado un equipo con hasta 1 TB de RAM y una GPU RTX PRO, junto a un portátil asequible con más de 30 horas de batería.",
-    "source": [
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Analistas debaten si la carrera de la inteligencia artificial se está moviendo más allá del desarrollo de modelos frontera",
-    "summary": "Mientras la industria repiensa sus prioridades, Meta emerge como un competidor silencioso con ventajas estratégicas en la carrera hacia la superinteligencia.",
-    "source": [
-      "techcrunch.com",
-      "xataka.com"
-    ],
-    "count": 2
+    "count": 1
   }
 ]

@@ -1,65 +1,28 @@
 [
   {
-    "title": "Microsoft releases record patch that fixes more than 570 security vulnerabilities",
-    "summary": "The update includes the fix for a Secure Boot vulnerability that has been active for a decade and flaws actively exploited by cybercriminals.",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI prepares its first physical device: a screenless smart speaker with AI",
-    "summary": "The voice assistant is shaping up as a direct competitor to Alexa with advanced generative artificial intelligence capabilities.",
+    "title": "OpenAI plans a screenless smart speaker with ChatGPT to compete with Alexa",
+    "summary": "OpenAI's first physical device will be a screenless speaker that integrates the ChatGPT language model.",
     "source": [
       "the-decoder.com",
       "techcrunch.com",
+      "kite.kagi.com",
       "xataka.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Researchers expose serious security vulnerabilities in Claude that allow stealing secrets and reading emails",
-    "summary": "The flaws in Anthropic's assistant demonstrate how it is possible to obtain sensitive personal data and access linked services such as Gmail.",
+    "title": "China's CXMT approaches Micron's DRAM capacity and becomes the second largest producer worldwide",
+    "summary": "Chinese memory will match the US giant's production this year and receives support from MSI motherboard.",
     "source": [
-      "news.ycombinator.com",
-      "thehackernews.com",
-      "xataka.com"
+      "tomshardware.com",
+      "/r/hardware",
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "New York becomes the first U.S. state to ban the construction of large data centers",
-    "summary": "The one-year moratorium seeks to assess the energy and environmental impact of these infrastructures in the state.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "DeepSeek negotiates a new $1.5 billion funding round before its possible IPO",
-    "summary": "The Chinese AI startup seeks more capital just weeks after closing a historic $7 billion investment.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "xAI's Grok programming tool uploaded entire user repositories to the cloud without explicit permission",
-    "summary": "Elon Musk states that the already uploaded data will be deleted after the controversy over the privacy of developers' source code.",
-    "source": [
-      "/r/technology",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple releases public beta of iOS 27 with new AI-powered Siri",
-    "summary": "Users can test the advanced Apple Intelligence features before the official release of the operating system.",
+    "title": "Apple launches public beta of iOS 27 with new Siri and Apple Intelligence features",
+    "summary": "The update allows users to test artificial intelligence improvements in the virtual assistant.",
     "source": [
       "alternativeto.net",
       "techcrunch.com"
@@ -67,8 +30,44 @@
     "count": 2
   },
   {
-    "title": "DeepMind CEO calls for creation of an independent international body to regulate frontier AI",
-    "summary": "Demis Hassabis advocates for building safety guardrails given the uncertainty about the future of artificial intelligence.",
+    "title": "Microsoft publishes a record over 600 security patches, including two active zero-days",
+    "summary": "A researcher published exploit code just after Patch Tuesday, while the company fixed a historic number of flaws.",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Vulnerability in Cursor editor allows remote code execution when cloning malicious repositories",
+    "summary": "The security flaw puts developers at risk until official fixes are applied.",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "PS5 emulation on PC accelerates development and now runs 2D and 3D games",
+    "summary": "The emulator community progresses rapidly after Sony's decision to reduce physical games.",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta employees sue over layoffs based on discriminatory AI systems",
+    "summary": "Workers accuse the company of using biased algorithms in selecting for mass layoffs.",
+    "source": [
+      "the-decoder.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "DeepSeek negotiates $1.5 billion round and plans to go public",
+    "summary": "The Chinese AI startup seeks additional funding just weeks after closing a mega $7 billion round.",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
@@ -76,111 +75,107 @@
     "count": 2
   },
   {
-    "title": "Intel invests $5.7 billion in its Ireland factory to increase production of its Xeon processors",
-    "summary": "The investment aims to strengthen cutting-edge chip manufacturing in Europe using the Intel 3 process.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Elon Musk's Colossus 2 data center installed 59 natural gas turbines without required permits",
-    "summary": "A report reveals that the installation emits thousands of tons of pollutants, affecting African American communities with high rates of lung disease.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google redesigns its image search with artificial intelligence and a Pinterest-inspired layout",
-    "summary": "The new feature generates AI images when no visual results are available and improves visual browsing.",
+    "title": "Google integrates AI image generation in search and Google Images",
+    "summary": "The engine generates synthetic images when it does not find relevant visual results on the web.",
     "source": [
       "the-decoder.com",
-      "techcrunch.com"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "The impact of data centers on electricity prices and job creation sparks intense global debate",
-    "summary": "While data centers drive up energy consumption and prices, critics point out that the promise of jobs is not being fulfilled.",
+    "title": "Starlink introduces smaller, lighter, and more efficient V5 residential kit",
+    "summary": "The new antenna halves power consumption and size, offering speeds up to 375 Mbps.",
     "source": [
-      "/r/technology",
+      "tomshardware.com",
+      "bandaancha.eu"
+    ],
+    "count": 2
+  },
+  {
+    "title": "HWiNFO and HWMonitor incorporate hotspot temperature monitoring on NVIDIA RTX 50",
+    "summary": "The monitoring tools allow measuring the hottest point of the new Series 50 graphics cards.",
+    "source": [
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia and Sega team up to bring RTX Spark technologies to future games",
+    "summary": "The collaboration will debut with Virtua Fighter Crossroads and open Sega's catalog on RTX Spark PCs.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Palit relaunches GeForce RTX 3060 with 12 GB as a solution to the AI crisis",
+    "summary": "The 2021 GPU returns with a new design to meet the demand for artificial intelligence hardware.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel invests $5 billion in its Ireland plant to boost chip manufacturing in Europe",
+    "summary": "The company bets on the Irish factory to offset the cancellation of its complex in Germany.",
+    "source": [
+      "tomshardware.com",
       "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Flock surveillance camera network faces growing public and political scrutiny in the United States",
-    "summary": "The Los Angeles Police Department will not renew the contract with the company, while links to political operatives are revealed and mass data collection is criticized.",
+    "title": "Linux arrives on classic Sega consoles with port for 32X and improvements on Dreamcast",
+    "summary": "The open-source community expands Linux support for two retro Sega systems, including modern peripherals.",
     "source": [
-      "/r/technology",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Two security vulnerabilities in Claude expose users' private data",
+    "summary": "Researchers show how a faulty Chrome extension and prompt injection can leak sensitive information.",
+    "source": [
+      "thehackernews.com",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta faces criticism for using artificial intelligence in layoffs and management of its engineers",
-    "summary": "A lawsuit alleges that the company used AI to identify low-performing employees to be laid off, while limiting token usage per engineer is being considered.",
+    "title": "Best Buy discounts $900 on Asus ROG Flow Z13 laptop with 64 GB of RAM",
+    "summary": "The 2-in-1 gaming and AI device is offered at $2,099 in a temporary promotion.",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google, OpenAI, and Meta face a wave of lawsuits over the use of data in training their AI models",
-    "summary": "The accusations range from copyright violations and trade secrets to abusive labor practices mediated by artificial intelligence.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Chinese memory maker CXMT gains ground by achieving compatibility with MSI's Intel 800 series motherboards",
-    "summary": "Amid the RAM crisis, the Chinese company advances in the certification of its DDR5 modules for the global PC market.",
-    "source": [
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nintendo Switch 2 could have a 1080p OLED display while the retro accessory ecosystem grows",
-    "summary": "Rumors point to an improvement in the console's image quality, while docks with nostalgic designs like the Nintendo 64 are already being sold.",
-    "source": [
-      "hardzone.es",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Artificial intelligence raises alarms about its impact on minors: from virtual girlfriends to nude apps",
-    "summary": "Studies and reports warn about the rise of young people's relationships with chatbots and the use of platforms like YouTube to distribute apps that generate fake intimate images.",
+    "title": "Discrepancy between ASUS and iFixit on repairability of ROG Flow Z13",
+    "summary": "While ASUS gives it a 10/10, iFixit considers the real score to be 7 out of 10.",
     "source": [
-      "/r/technology",
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SpaceX bonds plummet 10% and approach junk bond status",
+    "summary": "The space company's debt trades lower due to concerns about its financial health.",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "YouTube and X become gateway to AI non-consensual nudity apps",
+    "summary": "Social platforms facilitate access to AI-generated nudity services.",
+    "source": [
       "wired.com"
     ],
-    "count": 2
-  },
-  {
-    "title": "Lenovo expands its catalog with a powerful workstation and a long-battery-life laptop",
-    "summary": "The company launches a system with up to 1 TB of RAM and an RTX PRO GPU, along with an affordable laptop with over 30 hours of battery life.",
-    "source": [
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Analysts debate whether the artificial intelligence race is moving beyond frontier model development",
-    "summary": "While the industry rethinks its priorities, Meta emerges as a silent competitor with strategic advantages in the race toward superintelligence.",
-    "source": [
-      "techcrunch.com",
-      "xataka.com"
-    ],
-    "count": 2
+    "count": 1
   }
 ]
