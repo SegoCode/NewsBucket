@@ -1,27 +1,95 @@
 [
   {
-    "title": "Thinking Machines Lab、初のオープンソースモデルInklingを発表",
-    "summary": "同スタートアップは専門モデルに注力し、汎用モデルと競合するオープンウェイトモデルInklingを投入する。",
+    "title": "OnePlus、米国と欧州での事業を停止し、西側市場からの撤退を確認",
+    "summary": "Oppo傘下のスマートフォンブランドが、数年におよぶ成長と衰退を経て、米国と欧州市場から撤退する。",
     "source": [
       "news.ycombinator.com",
+      "xataka.com",
+      "techcrunch.com",
+      "/r/hardware",
+      "kite.kagi.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "OpenAIの元CTOが設立したThinking Machines Lab、初のオープンモデル「Inkling」を発表",
+    "summary": "同社によると、9750億パラメータのモデルは米国の研究所を上回るが、中国の進歩には及ばない。",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com",
       "wired.com",
+      "techcrunch.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "AMD Ryzen 7 7700X3Dのレビュー、価格据え置きでパフォーマンスは7800X3Dに劣ると判明",
+    "summary": "分析によると、AMDの新プロセッサは上位モデルと同等の価格でありながらパフォーマンスが低く、魅力に欠ける。",
+    "source": [
+      "/r/hardware",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI、AIコーディングエージェントを操作するジョイスティック付きマクロパッドキーボード「Codex Micro」を発売",
+    "summary": "OpenAI初のハードウェアデバイスは、13個のバックライト付きキーとジョイスティックを備え、AIアシスタントを使用するプログラマー向けに設計されている。",
+    "source": [
+      "tomshardware.com",
+      "producthunt.com",
       "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "NVIDIAとSEGA、RTX Spark向けに歴史的提携を再開",
-    "summary": "この協業により、『Virtua Fighter Crossroads』などのタイトルが来年からRTX Sparkプラットフォームに対応する。",
+    "title": "OpenAI、GPT-Redで自社モデルのセキュリティテストをAIで自動化",
+    "summary": "同社は、人間よりも効率的にGPT-5.6 Solの脆弱性を発見する自動レッドチーミングシステムを開発。",
     "source": [
-      "hardzone.es",
-      "tomshardware.com",
-      "videocardz.com"
+      "thehackernews.com",
+      "the-decoder.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "xAI、データ漏洩を受けてGrok-BuildのコードをGitHubで公開",
-    "summary": "xAIの人工知能ツールは、セキュリティ侵害が検出された後、オープンソース化された。",
+    "title": "マイクロソフト、史上最多のセキュリティパッチを公開、570件の脆弱性を修正",
+    "summary": "月例アップデートには複数の深刻な不具合の修正が含まれており、一部はDellの特定モデルでアップデートをブロックしていた問題に対処。",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国、Apple Intelligenceを承認—AlibabaとBaiduのモデル統合で",
+    "summary": "Appleの人工知能が中国での運用許可を取得。現地プロバイダーを利用し規制要件を満たす。",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX株、Starship打ち上げ前の不透明感でIPO価格まで急落",
+    "summary": "イーロン・マスク氏の企業の価値はIPO価格を下回り、これまでの上昇分をすべて失った。",
+    "source": [
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "調査によりSunoがAI音楽生成器のトレーニングにYouTube動画を使用した可能性が明らかに",
+    "summary": "生成音楽企業が許可なく著作権で保護されたコンテンツを使用したとの告発に直面。",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "xAI、データ漏洩を受けてGitHubでGrok-Buildのソースコードを公開",
+    "summary": "イーロン・マスク氏のAI企業がセキュリティインシデント後、モデル構築ツールをオープンソースとして公開。",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com"
@@ -29,80 +97,44 @@
     "count": 2
   },
   {
-    "title": "Windows 11搭載Steam Machine、SteamOSと同等のパフォーマンスを実現",
-    "summary": "比較テストでは、Windows 11搭載のSteam MachineのパフォーマンスがSteamOSの提供するものに非常に近いことが示された。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PS3エミュレーターRPCS3、PCでPlayStation 3ゲームの75%を実行可能に",
-    "summary": "エミュレーションプロジェクトが新たなマイルストーンを達成し、大多数のPS3タイトルがPCでプレイ可能になった。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "CXMTのDDR5メモリはSK hynixに及ばないものの、中国企業がDRAM第2位の生産者に浮上",
-    "summary": "初期テストではパフォーマンスとオーバークロックの限界が明らかになったが、同社は生産能力でMicronに迫っている。",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OnePlus、米国および欧州市場からの撤退を計画",
-    "summary": "複数の報道によると、中国のスマートフォンメーカーが欧米での事業停止を準備している。",
-    "source": [
-      "/r/hardware",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Spotify、子供向け管理アカウントを無料プランとさらに多くの国に拡大",
-    "summary": "ストリーミングプラットフォームは、ペイサブスクリプションなしのユーザーにも保護者が管理するアカウント機能を拡張する。",
+    "title": "Spotify、音楽やポッドキャストに関する質問に答えるAIチャットボットを開発",
+    "summary": "ストリーミングプラットフォームは、ユーザーが曲の情報やおすすめを得られる会話型アシスタントをテスト中。",
     "source": [
       "alternativeto.net",
-      "techcrunch.com"
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "SpaceX、より小型・軽量・効率的なStarlink V5住宅用キットを発売",
-    "summary": "新型モデルは最大375Mbpsの速度を提供し、前世代と比較して消費電力を約50%削減する。",
+    "title": "Spotify、子ども向け管理アカウントを無料ユーザーにも拡大、複数国で",
+    "summary": "音楽サービスは、プレミアム契約なしで保護者が子どもの監視付きプロフィールを作成できるようにし、機能を新たな地域に拡大。",
     "source": [
-      "tomshardware.com",
-      "bandaancha.eu"
+      "kite.kagi.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "Intel、ASMLのHigh NA EUVリソグラフィで初の大規模チップを製造",
-    "summary": "同社は、18AノードのPanther Lakeプロセッサが0.55NAマシンに対応していることを発表した。",
+    "title": "CXMTのDDR5メモリ、初期テストでSKハイニックスに劣るパフォーマンス",
+    "summary": "中国製チップの分析では、電圧スケーリングとオーバークロックに問題があり、市場リーダーに及ばない。",
     "source": [
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "愛好家がSSDを使ってSteamゲーム用の物理カートリッジを作成",
-    "summary": "2.5インチSSDと自動起動スクリプトを使用して、ユーザーがデジタルゲームを交換可能なカートリッジに変換。",
-    "source": [
-      "hardzone.es",
+      "/r/hardware",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Valve、Steam Deck LCD用交換部品の販売を終了し修理を困難に",
-    "summary": "同社はLCD版の交換部品を市場から撤退させ、デバイスのメンテナンスを困難にしている。",
+    "title": "RPCS3エミュレーター、PS3ゲームの75％をPCで実行達成",
+    "summary": "PlayStation 3エミュレーションプロジェクトが新たなマイルストーンを達成し、コンソールのライブラリとの完全互換に近づく。",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Steam MachinesのWindows 11搭載モデル、初期分析でSteamOSと同等のパフォーマンスを実現",
+    "summary": "ベンチマークによると、Steam MachineのWindows 11互換性は性能を犠牲にしておらず、ValveのネイティブOSに匹敵する。",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -110,66 +142,42 @@
     "count": 2
   },
   {
-    "title": "8月12日の日食、詳細な継続時間マップと市民科学の機会を提供",
-    "summary": "この天文現象はスペイン全土で観測可能で、市民は皆既の1分40秒間に市民科学実験に参加できる。",
+    "title": "TSMC、アリゾナ工場で2nmチップ製造に1000億ドルの追加投資を発表",
+    "summary": "台湾の半導体メーカーが米国での拠点を拡大し、新工場を建設。2026年の設備投資予想を640億ドルに引き上げ。",
     "source": [
-      "xataka.com"
+      "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "VodafoneとOrange、W杯決勝に合わせモバイルネットワークを'TodoUnEquipo'に改名",
-    "summary": "両事業者は決勝戦でスペイン代表への支持を示すため、一時的にネットワーク名を変更する。",
-    "source": [
-      "bandaancha.eu"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Valveが方針転換、Steam Deck LCD用バッテリーの販売を継続",
-    "summary": "同社はバッテリー撤去計画を撤回し、iFixitが来週在庫を確保することを確認した。",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceX、IPO価格を1株135ドルに設定",
-    "summary": "宇宙企業は新規株式公開の評価額を予想よりも低く設定し、Starshipの打ち上げへの期待が高まる中で。",
+    "title": "StripeとAdvent International、PayPal買収に534億ドルを提示か",
+    "summary": "関係筋によると、決済プラットフォームに対する共同提案はフィンテック業界で最大級の取引となる可能性。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "NTSB、テキサス州のTesla事故でドライバーがアクセルを全開にしていたと確認",
-    "summary": "調査では、致命的な衝突時にアクセルが100%踏み込まれていたと結論付け、機械的故障を否定。",
+    "title": "Google、7月からAndroidで競合アプリストアのインストールを許可",
+    "summary": "同社は規制圧力に屈し、エコシステムを代替マーケットプレイスに開放。競争促進を狙う。",
+    "source": [
+      "kite.kagi.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "NTSB、テキサス州のTesla事故車両の運転手がアクセルを最大まで踏んでいたと確認",
+    "summary": "公式調査により、機械的故障やオートパイロットの不具合は否定され、運転手がアクセルペダルを全開にしていたと結論。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "OpenAI、自社のAIをテストするためにAIを活用し、人間よりも多くの欠陥を発見",
-    "summary": "AIによる自動化されたレッドチーミング手法は、言語モデルの脆弱性を検出する上でより効果的であることが示された。",
+    "title": "OpenAI、2027年にChatGPT搭載スマートスピーカーを発売計画",
+    "summary": "AI企業は、会話型アシスタントを搭載しスクリーンがないオーディオ専用デバイスを開発中。現在のスマートスピーカーと類似。",
     "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "GPT-5.6 Sol、30年間未解決の統計学的推測を解決",
-    "summary": "人工知能モデルが90分で推測を反証し、数学者が数十年にわたって達成できなかったことを成し遂げた。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple Intelligence、Alibabaの技術で中国での発売に関する規制承認を取得",
-    "summary": "Appleは、中国市場の要件を満たすために、人工知能をAlibabaのQwenモデルと統合する。",
-    "source": [
-      "techcrunch.com"
+      "kite.kagi.com"
     ],
     "count": 1
   }

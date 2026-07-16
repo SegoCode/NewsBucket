@@ -1,27 +1,95 @@
 [
   {
-    "title": "Thinking Machines Lab launches Inkling, its first open-source model",
-    "summary": "The startup bets on specialized models and presents Inkling, an open-weight model that competes with generalist alternatives.",
+    "title": "OnePlus ceases operations in the United States and Europe and confirms its exit from the Western market",
+    "summary": "The smartphone brand, owned by Oppo, abandons the US and European markets after years of growth and decline.",
     "source": [
       "news.ycombinator.com",
+      "xataka.com",
+      "techcrunch.com",
+      "/r/hardware",
+      "kite.kagi.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Thinking Machines Lab, founded by OpenAI's former CTO, presents its first open model Inkling",
+    "summary": "The 975 billion parameter model surpasses US labs but lags behind Chinese advances, according to the company.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com",
       "wired.com",
+      "techcrunch.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "AMD Ryzen 7 7700X3D reviews reveal lower performance than the 7800X3D without a significant price reduction",
+    "summary": "Analyses show that AMD's new processor offers lower performance than its bigger brother at a similar price, making it less attractive.",
+    "source": [
+      "/r/hardware",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI launches Codex Micro, a macropod keyboard with joystick to control AI coding agents",
+    "summary": "OpenAI's first physical device features 13 backlit keys and a joystick, designed for programmers using artificial intelligence assistants.",
+    "source": [
+      "tomshardware.com",
+      "producthunt.com",
       "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "NVIDIA and SEGA resume their historic partnership to bring games to RTX Spark",
-    "summary": "The collaboration will allow titles like Virtua Fighter Crossroads to be compatible with the RTX Spark platform starting next year.",
+    "title": "OpenAI uses AI to automate security testing of its models with GPT-Red",
+    "summary": "The company develops an automatic 'red teaming' system that finds vulnerabilities in GPT-5.6 Sol more efficiently than humans.",
     "source": [
-      "hardzone.es",
-      "tomshardware.com",
-      "videocardz.com"
+      "thehackernews.com",
+      "the-decoder.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "xAI publishes Grok-Build code on GitHub after a data breach",
-    "summary": "xAI's AI tool becomes open source after a security breach was detected.",
+    "title": "Microsoft publishes a record number of security patches, fixing 570 vulnerabilities",
+    "summary": "The monthly update includes fixes for multiple critical flaws, some of which block updates on certain Dell models.",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "China approves Apple Intelligence with integration of Alibaba and Baidu models",
+    "summary": "Apple's artificial intelligence receives permission to operate in China, using local providers to meet regulatory requirements.",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX shares plummet to IPO price amid uncertainty ahead of Starship launch",
+    "summary": "Elon Musk's company value falls below its IPO price, wiping out all accumulated gains.",
+    "source": [
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Investigation reveals Suno allegedly used YouTube videos to train its AI music generator",
+    "summary": "The generative music company faces accusations of using copyrighted content without authorization.",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "xAI publishes Grok-Build source code on GitHub after a data leak",
+    "summary": "Elon Musk's artificial intelligence company releases its model building tool as open source after a security incident.",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com"
@@ -29,80 +97,44 @@
     "count": 2
   },
   {
-    "title": "Steam Machine with Windows 11 offers performance similar to SteamOS",
-    "summary": "Comparative tests show that the performance of the Steam Machine with Windows 11 is very close to that offered by SteamOS.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "RPCS3 emulator can now run 75% of PlayStation 3 games on PC",
-    "summary": "The emulation project reaches a new milestone by making the majority of PS3 titles playable on computers.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "CXMT's DDR5 memory does not match SK Hynix but Chinese company emerges as second largest DRAM producer",
-    "summary": "Initial tests reveal performance and overclocking limitations, while the company approaches Micron in production capacity.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OnePlus plans to withdraw from US and European markets",
-    "summary": "The Chinese phone manufacturer would be preparing to cease operations in the West, according to multiple reports.",
-    "source": [
-      "/r/hardware",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Spotify expands supervised accounts for children to its free plan and more countries",
-    "summary": "The streaming platform extends the functionality of parent-managed accounts to users without a paid subscription.",
+    "title": "Spotify develops an AI chatbot to answer questions about music and podcasts",
+    "summary": "The streaming platform tests a conversational assistant that allows users to get information about songs and recommendations.",
     "source": [
       "alternativeto.net",
-      "techcrunch.com"
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "SpaceX launches Starlink V5 residential kit, smaller, lighter and more efficient",
-    "summary": "The new model offers up to 375 Mbps speed and reduces energy consumption by almost 50% compared to the previous generation.",
+    "title": "Spotify expands managed accounts for children to free users in several countries",
+    "summary": "The music service now allows parents to create supervised profiles for their children without needing a Premium subscription, expanding the feature to new regions.",
     "source": [
-      "tomshardware.com",
-      "bandaancha.eu"
+      "kite.kagi.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "Intel manufactures its first high-volume chips with ASML's High NA EUV lithography",
-    "summary": "The company announces that Panther Lake processors on the 18A node are qualified for the 0.55 NA machine.",
+    "title": "CXMT's DDR5 memory shows lower performance than SK hynix in early tests",
+    "summary": "Analyses of the Chinese chips reveal voltage scaling and overclocking issues, positioning them behind market leaders.",
     "source": [
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Enthusiast creates physical cartridges for Steam games using SSDs",
-    "summary": "Using 2.5-inch SSDs accompanied by an auto-start script, a user turns digital games into interchangeable cartridges.",
-    "source": [
-      "hardzone.es",
+      "/r/hardware",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Valve stops selling replacement parts for the Steam Deck LCD, complicating repairs",
-    "summary": "The company removes replacement components for the LCD version from the market, making device maintenance difficult.",
+    "title": "RPCS3 emulator manages to run 75% of PS3 games on PC",
+    "summary": "The PlayStation 3 emulation project reaches a new milestone, approaching full compatibility with the console's library.",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Windows 11 Steam Machines offer similar performance to SteamOS according to early reviews",
+    "summary": "Benchmarks show that Steam Machine compatibility with Windows 11 does not sacrifice performance, matching Valve's native operating system.",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -110,66 +142,42 @@
     "count": 2
   },
   {
-    "title": "The solar eclipse on August 12 will offer a detailed duration map and a scientific opportunity for citizens",
-    "summary": "The astronomical phenomenon will be visible throughout Spain and citizens will be able to participate in a citizen science experiment during the minute and 40 seconds of totality.",
+    "title": "TSMC announces additional $100 billion investment in Arizona to manufacture 2nm chips",
+    "summary": "The Taiwanese manufacturer expands its presence in the United States with new factories, raising its planned capital expenditure for 2026 to $64 billion.",
     "source": [
-      "xataka.com"
+      "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "Vodafone and Orange rename their mobile networks 'TodoUnEquipo' for the World Cup final",
-    "summary": "Both operators temporarily change the name of their networks to show support for the Spanish national team in the final.",
-    "source": [
-      "bandaancha.eu"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Valve corrects course and will continue selling batteries for the Steam Deck LCD",
-    "summary": "The company reverses its plan to remove batteries and confirms that iFixit will have stock next week.",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceX sets IPO price at $135 per share",
-    "summary": "The space company values its initial public offering below expectations, amid anticipation for the Starship launch.",
+    "title": "Stripe and Advent International allegedly offered $53.4 billion to acquire PayPal",
+    "summary": "According to close sources, the joint offer for the payments platform could be one of the largest deals in the fintech sector.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "NTSB confirms that the driver of the crashed Tesla in Texas pressed the accelerator to the maximum",
-    "summary": "The investigation concludes that the accelerator was pressed 100% at the time of the fatal crash, ruling out a mechanical failure.",
+    "title": "Google will allow installation of rival app stores on Android starting July",
+    "summary": "The company yields to regulatory pressures and opens its ecosystem to alternative marketplaces, in a move that seeks to foster competition.",
+    "source": [
+      "kite.kagi.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "NTSB confirms that the driver of the crashed Tesla in Texas pressed the accelerator fully",
+    "summary": "The official investigation rules out mechanical or autopilot failures, determining that the driver pressed the pedal to the floor.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "OpenAI uses artificial intelligence to test its own AI and finds more bugs than humans",
-    "summary": "The automated red teaming technique with AI proves to be more effective at detecting vulnerabilities in language models.",
+    "title": "OpenAI plans to launch a smart speaker with ChatGPT by 2027",
+    "summary": "The artificial intelligence company would develop an audio-only device with a conversational assistant, without a screen, similar to current smart speakers.",
     "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "GPT-5.6 Sol solves a statistical conjecture that had remained unsolved for 30 years",
-    "summary": "The AI model manages to refute a conjecture in 90 minutes, something mathematicians had not achieved in decades.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple Intelligence receives regulatory approval for launch in China with Alibaba technology",
-    "summary": "Apple will integrate its artificial intelligence with Alibaba's Qwen model to meet Chinese market requirements.",
-    "source": [
-      "techcrunch.com"
+      "kite.kagi.com"
     ],
     "count": 1
   }
