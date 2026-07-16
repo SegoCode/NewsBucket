@@ -1,17 +1,7 @@
 [
   {
-    "title": "Thinking Machines Lab、975Bパラメータのオープン言語モデルInklingを発表",
-    "summary": "Mira Muratiが設立したスタートアップが初のオープンウェイトモデルを公開、AI業界のリーダーと競合する。",
-    "source": [
-      "news.ycombinator.com",
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "NvidiaとSegaが再提携、RTX Spark対応PCにクラシックゲームを提供",
-    "summary": "提携には待望の『Virtua Fighter Crossroads』が含まれ、NvidiaのRTX Sparkテクノロジーを活用する。",
+    "title": "NvidiaとSega、再び提携：SegaゲームがRTX Spark PCに登場",
+    "summary": "NvidiaとSegaの歴史的な提携が復活し、Virtua Fighter Crossroadsなどのゲームが新しいRTX Spark PCでプレイ可能になります。",
     "source": [
       "hardzone.es",
       "tomshardware.com",
@@ -20,72 +10,36 @@
     "count": 3
   },
   {
-    "title": "Metaの元従業員26名、AI支援による大量解雇をめぐり提訴",
-    "summary": "従業員らは、同社が差別的なAIシステムを使用して解雇対象を選別し、休職中の従業員も含まれていたと主張している。",
+    "title": "Thinking Machines Lab、初のオープンAIモデル「Inkling」を公開",
+    "summary": "新興企業Thinking Machinesが、汎用AIモデルと競合するオープンな言語モデルInklingを発表。一般公開でダウンロード可能。",
     "source": [
-      "the-decoder.com",
-      "kite.kagi.com",
-      "/r/technology"
+      "news.ycombinator.com",
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 3
   },
   {
-    "title": "Apple IntelligenceがAlibabaのQwenと共に中国に登場、iOS 27ベータでテスト中",
-    "summary": "Appleの人工知能がAlibabaとの提携により中国で承認され、iOS 27のパブリックベータにはSiriの新機能が統合されている。",
+    "title": "Intel、ASMLのHigh NA EUVリソグラフィを初めて量産チップに採用：Panther Lakeプロセッサ向け",
+    "summary": "IntelはASMLの高開口数極端紫外線リソグラフィ装置を使用してPanther Lakeチップの一部層を製造、業界のマイルストーンとなる。",
     "source": [
-      "techcrunch.com",
-      "alternativeto.net"
+      "/r/hardware",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft、過去最多の622件のセキュリティ脆弱性を修正、うち2件は活発な攻撃あり",
-    "summary": "同社はパッチ増加の原因を、エコシステム内の障害検出における人工知能の活用にあるとしている。",
+    "title": "Meta従業員、AI支援による解雇は差別的として提訴",
+    "summary": "Metaの従業員26人が集団訴訟を提起し、解雇の選定に使用されたAIシステムが差別的だったと主張。",
     "source": [
-      "techcrunch.com",
-      "thehackernews.com"
+      "kite.kagi.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Spotify、プレミアム加入者向けAIチャットと保護者管理アカウントを追加",
-    "summary": "ストリーミングプラットフォームは、会話アシスタントによるソーシャル機能を拡大し、無料プランにもペアレンタルコントロールを拡張する。",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ハッキングによりSunoがYouTube、Deezer、Geniusのデータを音楽AIトレーニングに使用していたことが判明",
-    "summary": "流出したソースコードは、AI音楽生成ツールが明示的な許可なく数十年分の楽曲を抽出した方法を示している。",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX株、IPO価格135ドルを下回る",
-    "summary": "スターシップ打ち上げ直前に株価が急落し、投資家の間に不確実性が広がっている。",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "StripeとAdvent International、PayPal買収に530億ドル以上を提示",
-    "summary": "この買収提案は、デジタル決済分野における近年最大級のものとなる可能性がある。",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Palit、AI需要の高まりに対応するためGeForce RTX 3060 12GBを再販",
-    "summary": "同社は、人工知能向けハードウェアの高い需要を満たすために、2021年発売のGPUのアップデート版を発表した。",
+    "title": "Palit、GeForce RTX 3060 12GB版を再リリース：AI需要に対応",
+    "summary": "Palitは、2021年発売の12GBメモリ搭載GPU RTX 3060を再販売し、AI向けハードウェア不足を緩和する。",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -93,8 +47,17 @@
     "count": 2
   },
   {
-    "title": "ModderがSteamゲームを2.5インチSSDで物理カートリッジに変換",
-    "summary": "この独創的なシステムは、128GBドライブに自動起動スクリプトを使用してゲーム全体を保存することを可能にする。",
+    "title": "Starlink、小型軽量な住宅用キットV5を発売：最大375Mbps",
+    "summary": "Starlinkの新しいV5アンテナは、V4と比較してサイズと消費電力を半減し、より高速で効率的なホームインターネットを提供。",
+    "source": [
+      "bandaancha.eu",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ユーザーが2.5インチSSDを使ったSteamゲームの物理カートリッジを製作",
+    "summary": "愛好家が、128GB SSDに格納されたSteamゲームを接続時に自動起動するカートリッジシステムを考案。",
     "source": [
       "hardzone.es",
       "tomshardware.com"
@@ -102,8 +65,17 @@
     "count": 2
   },
   {
-    "title": "Valve、Steam Deck LCDの交換部品の製造を終了、修理が困難に",
-    "summary": "メーカーの決定により、公式部品が段階的に廃止され、オリジナルモデルのメンテナンスが困難になっている。",
+    "title": "StripeとAdvent、PayPalを約534億ドルで買収提案か",
+    "summary": "StripeとAdventは、PayPalを約534億ドルと評価する共同買収提案を行った。",
+    "source": [
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve、Steam Deck LCDの交換部品の製造を終了：修理が困難に",
+    "summary": "ValveはSteam Deck LCDの交換部品を市場から撤去し、デバイスの修理をより複雑で高価なものにしている。",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -111,68 +83,88 @@
     "count": 2
   },
   {
-    "title": "Starlink、小型・軽量で消費電力半分の住宅用キットV5を発売",
-    "summary": "新しいアンテナは、前世代に比べて大幅に小型化された設計で、最大375Mbpsの速度を提供する。",
+    "title": "Apple Intelligence、中国での展開承認：AlibabaのQwen AIを採用",
+    "summary": "Appleは中国国内規制を満たすためAlibabaの技術を利用し、同国でのAIシステム導入の承認を得た。",
     "source": [
-      "tomshardware.com",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI、2027年発売に向けてChatGPT搭載の画面なしスピーカーを準備",
-    "summary": "同社初の自社ハードウェアデバイスは、生きているかのような感覚を提供し、音声会話で動作するように設計される。",
-    "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony、デジタル専用PS6を計画、121カ国でストアアクセス不能の可能性",
-    "summary": "同社の最近の特許はPS5の問題に対する解決策を示す一方、完全デジタルエコシステムの構想が明らかになっている。",
-    "source": [
-      "/r/technology",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AIの台頭が世界の電力消費とエネルギー価格を急上昇させる",
-    "summary": "人工知能開発競争により、電力消費量と価格が過去最高の上昇を記録し、家庭から大企業に至るまで影響を及ぼしている。",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "新しい細胞療法で末期脳腫瘍の子供4人が救われる",
-    "summary": "『ニュー・サイエンティスト』に掲載された革新的な治療法が、従来の医療では治癒不可能とされていた症例を改善することに成功した。",
-    "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "GPT-5.6 Sol、30年間未解決の統計学的予想を90分で解決",
-    "summary": "次世代AIモデルが、人間の数学者たちが30年間達成できなかったことを成し遂げた。",
+    "title": "Bonsai 27B：iPhoneで動作する完全なオープン推論モデル",
+    "summary": "270億パラメータのAIモデルBonsai 27BがiPhone上で完全に実行可能に、高度なAIへのアクセスを民主化。",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Intel、ASMLのHigh NA EUVリソグラフィで初の量産ロジックチップを製造",
-    "summary": "米Intel社は、0.55NAスキャナー向けに18Aプロセス層を認定し、競合他社をリードするマイルストーンを達成した。",
+    "title": "Googleの最大のクリーンエネルギー計画、xAIの無許可ガスプラントの北40マイルに位置",
+    "summary": "Googleが最大の再生可能エネルギー計画を推進する一方、xAIは必要な許可なくガスプラントを運営しているとして批判に直面。",
     "source": [
-      "tomshardware.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "インターネットの共同創設者ヴィントン・サーフ、Web上にAIエージェントを解放する計画に取り組む",
-    "summary": "ネットの先駆者は、自律エージェントがオープンなデジタルエコシステムで安全に動作できる標準を模索している。",
+    "title": "GPT-5.6 Sol、30年来の統計学上の予想を90分で解決：人間には不可能だった",
+    "summary": "OpenAIの新しいAIモデルが、数学者を30年にわたって悩ませてきた統計学上の予想が誤りであることを証明した。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Microsoft、記録的な数のセキュリティ脆弱性を修正：AIの活用が功績",
+    "summary": "同社は、AIがこれまでにない数のセキュリティバグを特定し修正する上で重要な役割を果たしたと述べている。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "OpenAI、初のハードウェア製品を発表：画面なしのAIスピーカー、生きているかのような体験",
+    "summary": "OpenAIは、AIを活用してユーザーと自然に表現豊かにやり取りする画面なしのスマートスピーカーを発売。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "OpenAI従業員、CEOに対抗するためのスーパーPACに資金提供",
+    "summary": "OpenAIの従業員グループが、会社の経営陣の決定に反対する独立した政治活動委員会を設立。",
+    "source": [
+      "wired.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SpaceX、Starship打ち上げ前にIPO価格を135ドルに引き下げ",
+    "summary": "イーロン・マスクの宇宙企業は、Starshipの次回飛行に備えて新規株式公開の株式価値を調整。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ハッキング攻撃で、AI音楽生成SunoがYouTubeから学習データを取得した可能性",
+    "summary": "ハッキングの分析により、Sunoが許可なくYouTubeからコンテンツを抽出し、音楽生成モデルのトレーニングに使用した可能性が明らかに。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "NTSB、テキサス州のTesla死亡事故でドライバーがアクセルを100%踏み込んでいたと確認",
+    "summary": "米国家運輸安全委員会の報告書は、テキサス州でのTesla死亡事故でアクセルが完全に踏み込まれていたことを明らかにした。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "米国、ロシアのホスティング事業者をサイバー攻撃で告発：6200万ドルの不正利益",
+    "summary": "米国当局は、サイバー犯罪活動を容認していることで知られるロシアのウェブホスティングサービスを告発。",
     "source": [
       "techcrunch.com"
     ],

@@ -1,17 +1,7 @@
 [
   {
-    "title": "Thinking Machines Lab launches Inkling, an open language model with 975B parameters",
-    "summary": "The startup founded by Mira Murati publishes its first open-weights model, competing with AI industry leaders.",
-    "source": [
-      "news.ycombinator.com",
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Nvidia and Sega resume their alliance to bring classic games to RTX Spark PCs",
-    "summary": "The partnership includes the anticipated Virtua Fighter Crossroads and uses Nvidia's RTX Spark technology.",
+    "title": "Nvidia and Sega renew their alliance: Sega games will arrive on RTX Spark PCs",
+    "summary": "The historic partnership between Nvidia and Sega is reborn with compatibility of games like Virtua Fighter Crossroads on the new RTX Spark PCs.",
     "source": [
       "hardzone.es",
       "tomshardware.com",
@@ -20,72 +10,36 @@
     "count": 3
   },
   {
-    "title": "26 former Meta employees sue over AI-assisted mass layoffs",
-    "summary": "Workers allege that the company used discriminatory AI systems to select whom to lay off, including employees on leave.",
+    "title": "Thinking Machines Lab launches its first open AI model, Inkling",
+    "summary": "The startup Thinking Machines presents Inkling, an open language model that competes with other generalist AI models, available for public download.",
     "source": [
-      "the-decoder.com",
-      "kite.kagi.com",
-      "/r/technology"
+      "news.ycombinator.com",
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 3
   },
   {
-    "title": "Apple Intelligence arrives in China with Alibaba's Qwen and is tested in iOS 27 beta",
-    "summary": "Apple's AI is approved in China through an alliance with Alibaba, while the public beta of iOS 27 integrates the new Siri features.",
+    "title": "Intel is the first to manufacture high-volume chips with ASML's High NA EUV lithography for its Panther Lake processors",
+    "summary": "Intel uses ASML's high numerical aperture extreme ultraviolet lithography machine to produce select layers of its Panther Lake chips, marking a milestone in the industry.",
     "source": [
-      "techcrunch.com",
-      "alternativeto.net"
+      "/r/hardware",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft fixes a record 622 security vulnerabilities, including two active attacks",
-    "summary": "The company attributes the increase in patches to the use of artificial intelligence for detecting flaws in its ecosystem.",
+    "title": "Meta employees sue over AI-assisted layoffs they consider discriminatory",
+    "summary": "Twenty-six Meta workers file a class action lawsuit alleging that the artificial intelligence system used to select layoffs was discriminatory.",
     "source": [
-      "techcrunch.com",
-      "thehackernews.com"
+      "kite.kagi.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Spotify adds AI chat for Premium subscribers and managed accounts for parents",
-    "summary": "The streaming platform expands its social features with a conversational assistant and extends parental controls to its free tier.",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A hack reveals that Suno used YouTube, Deezer, and Genius to train its music AI",
-    "summary": "Leaked source code shows how the AI music generator extracted decades of songs without explicit permission.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX shares fall below its IPO price of $135",
-    "summary": "The collapse occurs just before the launch of the Starship spacecraft, creating uncertainty among investors.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Stripe and Advent International offer more than $53 billion to buy PayPal",
-    "summary": "The potential acquisition would be one of the largest in the digital payments sector in recent history.",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Palit relaunches the GeForce RTX 3060 12 GB graphics card as a solution to the AI crisis",
-    "summary": "The company presents an updated version of its 2021 GPU to meet the high demand for AI hardware.",
+    "title": "Palit relaunches the GeForce RTX 3060 graphics card with 12 GB of VRAM as a solution to the AI shortage",
+    "summary": "Palit is reselling the RTX 3060, a 2021 GPU with 12 GB of memory, to alleviate the shortage of hardware for artificial intelligence.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -93,8 +47,17 @@
     "count": 2
   },
   {
-    "title": "A modder turns Steam games into physical cartridges using 2.5-inch SSDs",
-    "summary": "The ingenious system allows storing complete titles on 128GB drives with an auto-start script.",
+    "title": "Starlink launches its smaller and lighter V5 residential kit with speeds up to 375 Mbps",
+    "summary": "The new Starlink V5 antenna halves the size and energy consumption compared to the V4, offering greater speed and efficiency for the home.",
+    "source": [
+      "bandaancha.eu",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A user creates physical cartridges for Steam games using 2.5-inch SSDs",
+    "summary": "An enthusiast designs a cartridge system for Steam games stored on 128 GB SSDs that auto-boot when connected.",
     "source": [
       "hardzone.es",
       "tomshardware.com"
@@ -102,8 +65,17 @@
     "count": 2
   },
   {
+    "title": "Stripe and Advent have reportedly offered to acquire PayPal for around $53.4 billion",
+    "summary": "The companies Stripe and Advent have made a joint offer to buy PayPal, valuing the company at approximately $53.4 billion.",
+    "source": [
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
     "title": "Valve stops manufacturing spare parts for the Steam Deck LCD, complicating repairs",
-    "summary": "The manufacturer's decision makes maintenance of the original model difficult by gradually withdrawing official components.",
+    "summary": "Valve removes from the market replacement components for the Steam Deck LCD, making it more complicated and expensive to repair the device.",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -111,68 +83,88 @@
     "count": 2
   },
   {
-    "title": "Starlink launches a smaller, lighter V5 residential kit with half the energy consumption",
-    "summary": "The new antenna offers speeds up to 375 Mbps with a significantly reduced design compared to the previous generation.",
+    "title": "Apple Intelligence gets approval to launch in China with Alibaba's Qwen AI",
+    "summary": "Apple receives the green light to implement its artificial intelligence system in China, using Alibaba's technology to comply with local regulations.",
     "source": [
-      "tomshardware.com",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI prepares a screenless speaker with ChatGPT for launch in 2027",
-    "summary": "The company's first own hardware device will be designed to feel alive and operate through voice conversation.",
-    "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony plans a digital-only PS6 that would leave 121 countries without store access",
-    "summary": "Recent patents from the company reveal solutions for PS5 issues while a fully digital ecosystem takes shape.",
-    "source": [
-      "/r/technology",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The rise of AI drives up electricity consumption and energy prices globally",
-    "summary": "The race for artificial intelligence is causing a record increase in electricity consumption and prices, affecting both households and large corporations.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A new cell therapy saves four children with terminal brain cancer",
-    "summary": "The innovative treatment, published in New Scientist, manages to reverse cases considered incurable by conventional medicine.",
-    "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "GPT-5.6 Sol solves a 30-year-old unsolved statistical conjecture in 90 minutes",
-    "summary": "The next-generation AI model achieves what human mathematicians could not in three decades.",
+    "title": "Bonsai 27B: the complete open reasoning model that fits on an iPhone",
+    "summary": "The Bonsai 27B artificial intelligence model, with 27 billion parameters, can run entirely on an iPhone, democratizing access to advanced AI.",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Intel manufactures the first volume logic chips with ASML's High NA EUV lithography",
-    "summary": "The US company marks a milestone by qualifying 18A process layers for 0.55 NA scanners, surpassing its competitors.",
+    "title": "Google's largest clean energy project is located 40 miles north of xAI's unpermitted gas plant",
+    "summary": "Google pushes its largest renewable energy initiative while xAI faces criticism for operating a gas plant without the necessary permits.",
     "source": [
-      "tomshardware.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Vint Cerf, co-creator of the internet, works on a plan to release AI agents on the web",
-    "summary": "The network pioneer seeks a standard that allows autonomous agents to operate safely in the open digital ecosystem.",
+    "title": "GPT-5.6 Sol solves a 30-year statistical conjecture in 90 minutes, something humans had not achieved",
+    "summary": "OpenAI's new AI model demonstrated the falsehood of a statistical conjecture that had challenged mathematicians for three decades.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Microsoft fixes a record number of security vulnerabilities and attributes the achievement to the use of artificial intelligence",
+    "summary": "The tech company claims that AI has been key to identifying and patching more security flaws than ever in a single update cycle.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "OpenAI unveils its first hardware product: a screenless AI speaker that aims to feel alive",
+    "summary": "The company launches a smart speaker without a screen that uses AI to interact naturally and expressively with users.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "OpenAI employees fund a rival super PAC to oppose their CEO",
+    "summary": "A group of OpenAI workers creates an independent political action committee to oppose the company's management decisions.",
+    "source": [
+      "wired.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SpaceX lowers its IPO price to $135 before Starship launch",
+    "summary": "Elon Musk's aerospace company adjusts its share value for the initial public offering as it prepares for the next flight of its Starship rocket.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "A cyberattack suggests that AI music generator Suno used YouTube to obtain training data",
+    "summary": "Analysis of a hack reveals that Suno may have extracted content from YouTube without permission to train its music generation models.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "NTSB confirms that the Tesla driver in the fatal Texas accident pressed the accelerator 100%",
+    "summary": "The National Transportation Safety Board report reveals that the accelerator was fully pressed in the fatal Tesla accident in Texas.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "US accuses Russian hosting providers of cyberattacks that generated $62 million in illicit profits",
+    "summary": "US authorities file charges against Russian web hosting services known for harboring cybercriminal activities without intervention.",
     "source": [
       "techcrunch.com"
     ],
