@@ -1,7 +1,17 @@
 [
   {
-    "title": "Nvidia y Sega retoman su alianza: juegos de Sega llegarán a las PC RTX Spark",
-    "summary": "La asociación histórica entre Nvidia y Sega renace con la compatibilidad de juegos como Virtua Fighter Crossroads en las nuevas PC RTX Spark.",
+    "title": "Thinking Machines Lab lanza Inkling, su primer modelo de código abierto",
+    "summary": "La startup apuesta por modelos especializados y presenta Inkling, un modelo de pesos abiertos que compite con alternativas generalistas.",
+    "source": [
+      "news.ycombinator.com",
+      "wired.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "NVIDIA y SEGA retoman su alianza histórica para llevar juegos a RTX Spark",
+    "summary": "La colaboración permitirá que títulos como Virtua Fighter Crossroads sean compatibles con la plataforma RTX Spark a partir del próximo año.",
     "source": [
       "hardzone.es",
       "tomshardware.com",
@@ -10,18 +20,35 @@
     "count": 3
   },
   {
-    "title": "Thinking Machines Lab lanza su primer modelo abierto de IA, Inkling",
-    "summary": "La startup Thinking Machines presenta Inkling, un modelo de lenguaje abierto que compite con otros modelos de IA generalistas, disponible para descarga pública.",
+    "title": "xAI publica el código de Grok-Build en GitHub tras una filtración de datos",
+    "summary": "La herramienta de inteligencia artificial de xAI se convierte en código abierto después de que se detectara una brecha de seguridad.",
     "source": [
-      "news.ycombinator.com",
-      "techcrunch.com",
-      "wired.com"
+      "the-decoder.com",
+      "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Intel es la primera en fabricar chips de alto volumen con la litografía High NA EUV de ASML para sus procesadores Panther Lake",
-    "summary": "Intel utiliza la máquina de litografía ultravioleta extrema de alta apertura numérica de ASML para producir capas selectas de sus chips Panther Lake, marcando un hito en la industria.",
+    "title": "La Steam Machine con Windows 11 ofrece un rendimiento similar al de SteamOS",
+    "summary": "Pruebas comparativas muestran que el rendimiento de la Steam Machine con Windows 11 está muy cerca del que ofrece SteamOS.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El emulador RPCS3 ya es capaz de ejecutar el 75% de los juegos de PlayStation 3 en PC",
+    "summary": "El proyecto de emulación alcanza un nuevo hito al lograr que la mayoría de títulos de PS3 sean jugables en ordenadores.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Las memorias DDR5 de CXMT no igualan a SK Hynix pero la china se perfila como segundo mayor productor DRAM",
+    "summary": "Pruebas iniciales revelan limitaciones de rendimiento y overclocking, mientras que la empresa se acerca a Micron en capacidad de producción.",
     "source": [
       "/r/hardware",
       "tomshardware.com"
@@ -29,35 +56,44 @@
     "count": 2
   },
   {
-    "title": "Empleados de Meta demandan por despidos asistidos por IA que consideran discriminatorios",
-    "summary": "Veintiséis trabajadores de Meta presentan una demanda colectiva alegando que el sistema de inteligencia artificial utilizado para seleccionar despidos fue discriminatorio.",
+    "title": "OnePlus planea retirarse de los mercados de Estados Unidos y Europa",
+    "summary": "El fabricante chino de teléfonos estaría preparando el cese de operaciones en Occidente, según múltiples informes.",
     "source": [
-      "kite.kagi.com",
-      "the-decoder.com"
+      "/r/hardware",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Palit relanza la tarjeta gráfica GeForce RTX 3060 con 12 GB de VRAM como solución ante la crisis de IA",
-    "summary": "Palit vuelve a comercializar la RTX 3060, una GPU de 2021 con 12 GB de memoria, para paliar la escasez de hardware para inteligencia artificial.",
+    "title": "Spotify amplía las cuentas supervisadas para niños a su plan gratuito y a más países",
+    "summary": "La plataforma de streaming extiende la funcionalidad de cuentas gestionadas por padres a usuarios sin suscripción de pago.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX lanza el kit residencial Starlink V5, más pequeño, ligero y eficiente",
+    "summary": "El nuevo modelo ofrece hasta 375 Mbps de velocidad y reduce el consumo energético en casi un 50% respecto a la generación anterior.",
     "source": [
       "tomshardware.com",
-      "videocardz.com"
+      "bandaancha.eu"
     ],
     "count": 2
   },
   {
-    "title": "Starlink lanza su kit residencial V5 más pequeño y ligero con velocidades de hasta 375 Mbps",
-    "summary": "La nueva antena V5 de Starlink reduce a la mitad el tamaño y consumo energético respecto a la V4, ofreciendo mayor velocidad y eficiencia para el hogar.",
+    "title": "Intel fabrica sus primeros chips de alto volumen con la litografía High NA EUV de ASML",
+    "summary": "La compañía anuncia que los procesadores Panther Lake en nodo 18A están calificados para la máquina de 0,55 NA.",
     "source": [
-      "bandaancha.eu",
-      "tomshardware.com"
+      "tomshardware.com",
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Un usuario crea cartuchos físicos para juegos de Steam usando discos SSD de 2,5 pulgadas",
-    "summary": "Un aficionado diseña un sistema de cartuchos para juegos de Steam almacenados en unidades SSD de 128 GB con autoarranque al conectarlos.",
+    "title": "Un entusiasta crea cartuchos físicos para juegos de Steam usando discos SSD",
+    "summary": "Mediante unidades SSD de 2,5 pulgadas acompañadas de un script de inicio automático, un usuario convierte juegos digitales en cartuchos intercambiables.",
     "source": [
       "hardzone.es",
       "tomshardware.com"
@@ -65,17 +101,8 @@
     "count": 2
   },
   {
-    "title": "Stripe y Advent habrían ofrecido adquirir PayPal por unos 53.400 millones de dólares",
-    "summary": "Las empresas Stripe y Advent han realizado una oferta conjunta para comprar PayPal, valorando la compañía en aproximadamente 53.4 mil millones de dólares.",
-    "source": [
-      "news.ycombinator.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Valve deja de fabricar piezas de repuesto para la Steam Deck LCD, dificultando sus reparaciones",
-    "summary": "Valle retira del mercado los componentes de reemplazo para la Steam Deck LCD, lo que hace más complicado y costoso reparar el dispositivo.",
+    "title": "Valve deja de vender piezas de repuesto para la Steam Deck LCD, complicando su reparación",
+    "summary": "La compañía retira del mercado los componentes de repuesto para la versión LCD, lo que dificulta el mantenimiento del dispositivo.",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -83,88 +110,64 @@
     "count": 2
   },
   {
-    "title": "Apple Intelligence obtiene aprobación para lanzarse en China con la inteligencia artificial Qwen de Alibaba",
-    "summary": "Apple recibe luz verde para implementar su sistema de inteligencia artificial en China, utilizando la tecnología de Alibaba para cumplir con las regulaciones locales.",
+    "title": "El eclipse solar del 12 de agosto ofrecerá un mapa detallado de duración y una oportunidad científica para los ciudadanos",
+    "summary": "El fenómeno astronómico será visible en toda España y los ciudadanos podrán participar en un experimento de ciencia ciudadana durante el minuto y 40 segundos de totalidad.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Vodafone y Orange renombran sus redes móviles como 'TodoUnEquipo' por la final del Mundial",
+    "summary": "Los dos operadores modifican temporalmente el nombre de sus redes para mostrar apoyo a la selección española en la final.",
+    "source": [
+      "bandaancha.eu"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Valve rectifica y seguirá vendiendo baterías para la Steam Deck LCD",
+    "summary": "La empresa da marcha atrás en su plan de retirar las baterías y confirma que iFixit dispondrá de existencias la próxima semana.",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SpaceX fija un precio de salida a bolsa de 135 dólares por acción",
+    "summary": "La compañía espacial valora su oferta pública inicial por debajo de lo esperado, en medio de la expectativa por el lanzamiento de Starship.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Bonsai 27B: el modelo de razonamiento abierto completo que cabe en un iPhone",
-    "summary": "El modelo de inteligencia artificial Bonsai 27B, con 27 mil millones de parámetros, puede ejecutarse completamente en un iPhone, democratizando el acceso a IA avanzada.",
+    "title": "La NTSB confirma que el conductor del Tesla accidentado en Texas pisó el acelerador al máximo",
+    "summary": "La investigación concluye que el acelerador estaba presionado al 100% en el momento del choque mortal, descartando un fallo mecánico.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "OpenAI emplea inteligencia artificial para poner a prueba su propia IA y encuentra más fallos que los humanos",
+    "summary": "La técnica de red teaming automatizada con IA demuestra ser más eficaz para detectar vulnerabilidades en los modelos de lenguaje.",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "El mayor proyecto de energía limpia de Google se encuentra a 40 millas al norte de la planta de gas sin permiso de xAI",
-    "summary": "Google impulsa su mayor iniciativa de energía renovable mientras xAI enfrenta críticas por operar una planta de gas sin los permisos necesarios.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "GPT-5.6 Sol resuelve una conjetura estadística de 30 años en 90 minutos, algo que los humanos no habían logrado",
-    "summary": "El nuevo modelo de IA de OpenAI demostró la falsedad de una conjetura estadística que había desafiado a los matemáticos durante tres décadas.",
+    "title": "GPT-5.6 Sol resuelve una conjetura estadística que llevaba 30 años sin solución",
+    "summary": "El modelo de inteligencia artificial logra refutar una conjetura en 90 minutos, algo que los matemáticos no habían conseguido en décadas.",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Microsoft corrige un número récord de vulnerabilidades de seguridad y atribuye el logro al uso de inteligencia artificial",
-    "summary": "La empresa tecnológica afirma que la IA ha sido clave para identificar y parchear más fallos de seguridad que nunca en un solo ciclo de actualizaciones.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "OpenAI presenta su primer producto de hardware: un altavoz de IA sin pantalla que busca sentirse vivo",
-    "summary": "La compañía lanza un altavoz inteligente sin pantalla que utiliza IA para interactuar de forma natural y expresiva con los usuarios.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Empleados de OpenAI financian un super PAC rival para enfrentarse a su director ejecutivo",
-    "summary": "Un grupo de trabajadores de OpenAI crea un comité de acción política independiente para oponerse a las decisiones de la dirección de la empresa.",
-    "source": [
-      "wired.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceX reduce su precio de OPI a $135 dólares antes del lanzamiento de Starship",
-    "summary": "La empresa aeroespacial de Elon Musk ajusta el valor de sus acciones para la oferta pública inicial mientras se prepara para el próximo vuelo de su cohete Starship.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Un ciberataque sugiere que el generador de música con IA Suno utilizó YouTube para obtener datos de entrenamiento",
-    "summary": "El análisis de un hackeo revela que Suno habría extraído contenido de YouTube sin permiso para entrenar sus modelos de generación musical.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La NTSB confirma que el conductor del Tesla en el accidente mortal de Texas presionó el acelerador al 100%",
-    "summary": "El informe de la Junta Nacional de Seguridad en el Transporte revela que el acelerador estaba completamente presionado en el accidente fatal de un Tesla en Texas.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "EEUU acusa a proveedores de hosting rusos por ataques cibernéticos que generaron 62 millones de dólares en ganancias ilícitas",
-    "summary": "Las autoridades estadounidenses presentan cargos contra servicios de alojamiento web rusos conocidos por albergar actividades cibercriminales sin intervención.",
+    "title": "Apple Intelligence obtiene aprobación regulatoria para su lanzamiento en China con tecnología de Alibaba",
+    "summary": "Apple integrará su inteligencia artificial con el modelo Qwen de Alibaba para cumplir con los requisitos del mercado chino.",
     "source": [
       "techcrunch.com"
     ],
