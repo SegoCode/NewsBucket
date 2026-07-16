@@ -77,6 +77,7 @@
         const LIVE = ytLive('Anr15FA9OCI');
         const LIVE_EN = ytLive('f0lYkdA-Gtw');
         const tg = window.Telegram?.WebApp;
+        const sentenceCase = s => s && s[0].toUpperCase() + s.slice(1).toLowerCase();
         let jma = null;
         try {
             const saved = JSON.parse(localStorage.getItem('nb') || '{}');
@@ -107,10 +108,10 @@
             } catch {}
             if (topic.value === 'japan') {
                 if (jma?.alerts.length) items.unshift(...jma.alerts.map(a => ({
-                    title: `${lang.value === 'jp' ? '気象警報' : 'Weather alert'}: ${lang.value === 'jp' ? a.jp : a.en}`,
+                    title: `${lang.value === 'jp' ? '気象警報' : 'Weather alert'}: ${lang.value === 'jp' ? a.jp : sentenceCase(a.en)}`,
                     source: ['JMA', jma.prefecture],
                     cls: 'quake-high',
-                    url: `${JMA}warning/#lang=en&area_type=offices&area_code=${jma.officeCode}`,
+                    url: `https://www.jma.go.jp/bosai/#lang=${lang.value === 'jp' ? 'jp' : 'en'}&pattern=default&area_type=japan&area_code=010000`,
                 })));
                 try {
                     const res = await fetch(QUAKE);
@@ -173,8 +174,7 @@
                 tg.setBackgroundColor('bg_color');
             } catch {}
             tg.LocationManager?.init(() => {
-                tg.showAlert('NewsBucket needs location access to provide weather alerts for where you are. To enable or change it: open this bot’s chat → tap the bot name at the top → scroll to Location. Leave it off if you prefer to skip these alerts.', () => {
-                    tg.LocationManager.getLocation(async coords => {
+                tg.LocationManager.getLocation(async coords => {
                         if (!coords) return;
                         try {
                             const place = await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${coords.latitude}&longitude=${coords.longitude}&localityLanguage=en`).then(r => r.json());
@@ -187,10 +187,9 @@
                             ]);
                             const offices = Object.entries(areas.offices).filter(([code]) => code.startsWith(pref));
                             if (!offices.length) return;
-                            const officeCode = offices[0][0];
                             const c10 = offices.flatMap(([, o]) => o.children || []);
                             const c15 = c10.flatMap(c => areas.class10s[c]?.children || []);
-                            const codes = new Set([officeCode, ...c10, ...c15,
+                            const codes = new Set([...c10, ...c15,
                                 ...Object.keys(areas.class20s).filter(k => c10.includes(areas.class20s[k].parent) || c15.includes(areas.class20s[k].parent))]);
                             const panels = cfg.lines[1].map(key => [key, cfg.panels[key]]);
                             const urlKeys = [...new Set(panels.flatMap(([, p]) => p.url))];
@@ -198,7 +197,7 @@
                                 urlKeys.map(async key => [key, await fetch(JMA + cfg.urls[key]).then(r => r.json())])
                             ));
                             jma = {
-                                prefecture, officeCode,
+                                prefecture,
                                 alerts: panels.flatMap(([key, p]) => {
                                     const level = p.url
                                         .flatMap(u => Object.values(data[u]?.[key] || {}))
@@ -215,7 +214,6 @@
                             if (topic.value === 'japan') load();
                         } catch {}
                     });
-                });
             });
             tg.MainButton.setText('🔴 Live News');
             tg.MainButton.onClick(() => setLive(live.hidden));
