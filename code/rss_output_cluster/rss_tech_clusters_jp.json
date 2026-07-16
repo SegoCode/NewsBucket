@@ -1,86 +1,56 @@
 [
   {
-    "title": "OnePlus、米国と欧州での事業を停止し、西側市場からの撤退を確認",
-    "summary": "Oppo傘下のスマートフォンブランドが、数年におよぶ成長と衰退を経て、米国と欧州市場から撤退する。",
+    "title": "RPCS3エミュレーターがPS3ゲームの75％をPCで実行可能に、Sonyのファームウェア不要に近づく",
+    "summary": "オープンソースエミュレーターRPCS3は、PlayStation 3のカタログの4分の3がPCでプレイ可能になるという成果を達成した。この節目は、PS3とPS Vitaのデジタルストア閉鎖の発表と同時期である。",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com",
-      "techcrunch.com",
-      "/r/hardware",
-      "kite.kagi.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "OpenAIの元CTOが設立したThinking Machines Lab、初のオープンモデル「Inkling」を発表",
-    "summary": "同社によると、9750億パラメータのモデルは米国の研究所を上回るが、中国の進歩には及ばない。",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com",
-      "wired.com",
-      "techcrunch.com"
+      "videocardz.com",
+      "/r/technology",
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 4
   },
   {
-    "title": "AMD Ryzen 7 7700X3Dのレビュー、価格据え置きでパフォーマンスは7800X3Dに劣ると判明",
-    "summary": "分析によると、AMDの新プロセッサは上位モデルと同等の価格でありながらパフォーマンスが低く、魅力に欠ける。",
+    "title": "Google、NotebookLMをGemini Notebookに改名し、検索アプリと統合",
+    "summary": "GoogleのAIノートツールはGemini Notebookと改名され、さらにサードパーティアプリケーションとの統合が可能になった。",
     "source": [
-      "/r/hardware",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI、AIコーディングエージェントを操作するジョイスティック付きマクロパッドキーボード「Codex Micro」を発売",
-    "summary": "OpenAI初のハードウェアデバイスは、13個のバックライト付きキーとジョイスティックを備え、AIアシスタントを使用するプログラマー向けに設計されている。",
-    "source": [
-      "tomshardware.com",
-      "producthunt.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI、GPT-Redで自社モデルのセキュリティテストをAIで自動化",
-    "summary": "同社は、人間よりも効率的にGPT-5.6 Solの脆弱性を発見する自動レッドチーミングシステムを開発。",
-    "source": [
-      "thehackernews.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "マイクロソフト、史上最多のセキュリティパッチを公開、570件の脆弱性を修正",
-    "summary": "月例アップデートには複数の深刻な不具合の修正が含まれており、一部はDellの特定モデルでアップデートをブロックしていた問題に対処。",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国、Apple Intelligenceを承認—AlibabaとBaiduのモデル統合で",
-    "summary": "Appleの人工知能が中国での運用許可を取得。現地プロバイダーを利用し規制要件を満たす。",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX株、Starship打ち上げ前の不透明感でIPO価格まで急落",
-    "summary": "イーロン・マスク氏の企業の価値はIPO価格を下回り、これまでの上昇分をすべて失った。",
-    "source": [
+      "the-decoder.com",
       "news.ycombinator.com",
       "techcrunch.com"
     ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI、AIエージェントを制御するジョイスティック付き初の物理デバイスCodex Microを発表",
+    "summary": "このデバイスは、13のキーとジョイスティックを備えたRGBマクロパッドで、開発者はコマンドを入力せずにAIコーディングエージェントと対話できる。",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com",
+      "producthunt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Linus Torvalds、LinuxカーネルでのAI活用を擁護し、反対派を批判",
+    "summary": "Linuxの創設者は、人工知能は有用なツールであり、反対する者はプロジェクトをフォークすればよいと述べた。",
+    "source": [
+      "tomshardware.com",
+      "/r/technology"
+    ],
     "count": 2
   },
   {
-    "title": "調査によりSunoがAI音楽生成器のトレーニングにYouTube動画を使用した可能性が明らかに",
-    "summary": "生成音楽企業が許可なく著作権で保護されたコンテンツを使用したとの告発に直面。",
+    "title": "AIオプトアウトを毎回手動で行わなければならない不満が高まる",
+    "summary": "ユーザーと活動家は、AIシステムに参加しない選択を常に強いられる負担を非難し、規制の変更を求めている。",
+    "source": [
+      "/r/technology",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国、AlibabaとBaiduのモデルを活用するApple Intelligenceの提供を承認",
+    "summary": "中国当局は、Appleの人工知能プラットフォームにゴーサインを出した。このプラットフォームは、現地規制を満たすためにAlibabaとBaiduのサービスを利用する。",
     "source": [
       "techcrunch.com",
       "kite.kagi.com"
@@ -88,26 +58,26 @@
     "count": 2
   },
   {
-    "title": "xAI、データ漏洩を受けてGitHubでGrok-Buildのソースコードを公開",
-    "summary": "イーロン・マスク氏のAI企業がセキュリティインシデント後、モデル構築ツールをオープンソースとして公開。",
+    "title": "AMD Ryzen 7 7700X3DがNewegg限定で登場、初期レビューでは7800X3Dと比較",
+    "summary": "3D V-Cache搭載のAMD新プロセッサが北米で329ドルにてNewegg独占販売で発売され、ベンチマークでは7800X3Dを下回る性能ながら価格は同等であることが示されている。",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Spotify、音楽やポッドキャストに関する質問に答えるAIチャットボットを開発",
-    "summary": "ストリーミングプラットフォームは、ユーザーが曲の情報やおすすめを得られる会話型アシスタントをテスト中。",
+    "title": "Lenovo、TCL CSOTのインクジェット印刷方式OLEDディスプレイを搭載した世界初のノートPCを発表",
+    "summary": "Legion R9000Pは、240HzのOLEDパネルを搭載し、インクジェット印刷技術で製造されており、ノートPCとしては世界初となる。",
     "source": [
-      "alternativeto.net",
-      "the-decoder.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Spotify、子ども向け管理アカウントを無料ユーザーにも拡大、複数国で",
-    "summary": "音楽サービスは、プレミアム契約なしで保護者が子どもの監視付きプロフィールを作成できるようにし、機能を新たな地域に拡大。",
+    "title": "Spotify、子ども向け管理アカウントの無料提供を新市場に拡大",
+    "summary": "ストリーミングプラットフォームは、無料ユーザーが13歳未満の子どものための監視付きアカウントを作成できるようにし、この機能をさらなる地域に拡大した。",
     "source": [
       "kite.kagi.com",
       "alternativeto.net"
@@ -115,69 +85,96 @@
     "count": 2
   },
   {
-    "title": "CXMTのDDR5メモリ、初期テストでSKハイニックスに劣るパフォーマンス",
-    "summary": "中国製チップの分析では、電圧スケーリングとオーバークロックに問題があり、市場リーダーに及ばない。",
+    "title": "OpenAI、AIを使って自社のAIを攻撃し、GPT-5.6のセキュリティを強化",
+    "summary": "GPT-Redツールは、プロンプトインジェクション試験を自動化し、言語モデルの脆弱性を特定するもので、人間のチームを上回る効果を発揮する。",
     "source": [
-      "/r/hardware",
-      "tomshardware.com"
+      "the-decoder.com",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "RPCS3エミュレーター、PS3ゲームの75％をPCで実行達成",
-    "summary": "PlayStation 3エミュレーションプロジェクトが新たなマイルストーンを達成し、コンソールのライブラリとの完全互換に近づく。",
+    "title": "Moonshot、Anthropic Opus 4.8に対抗するAIモデルKimi 3を発表",
+    "summary": "中国のスタートアップMoonshotは、新たな言語モデルKimi K3を発表し、業界トップの性能に迫ることを約束している。",
     "source": [
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steam MachinesのWindows 11搭載モデル、初期分析でSteamOSと同等のパフォーマンスを実現",
-    "summary": "ベンチマークによると、Steam MachineのWindows 11互換性は性能を犠牲にしておらず、ValveのネイティブOSに匹敵する。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "TSMC、アリゾナ工場で2nmチップ製造に1000億ドルの追加投資を発表",
-    "summary": "台湾の半導体メーカーが米国での拠点を拡大し、新工場を建設。2026年の設備投資予想を640億ドルに引き上げ。",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "StripeとAdvent International、PayPal買収に534億ドルを提示か",
-    "summary": "関係筋によると、決済プラットフォームに対する共同提案はフィンテック業界で最大級の取引となる可能性。",
-    "source": [
+      "news.ycombinator.com",
       "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Google、7月からAndroidで競合アプリストアのインストールを許可",
-    "summary": "同社は規制圧力に屈し、エコシステムを代替マーケットプレイスに開放。競争促進を狙う。",
+    "title": "Scattered Spiderのハッカー2名、TfLへの2900万ポンドのサイバー攻撃で懲役5年半",
+    "summary": "英国警察は、悪名高いハッカーグループの活動を阻止した若者2名を逮捕し、ロンドンの公共交通機関への攻撃で判決を下した。",
     "source": [
-      "kite.kagi.com"
+      "techcrunch.com",
+      "thehackernews.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "NTSB、テキサス州のTesla事故車両の運転手がアクセルを最大まで踏んでいたと確認",
-    "summary": "公式調査により、機械的故障やオートパイロットの不具合は否定され、運転手がアクセルペダルを全開にしていたと結論。",
+    "title": "Sony、デジタル購入映画の削除やデジタルゲームの価格据え置きを擁護し批判を浴びる",
+    "summary": "PlayStationの元幹部は、ディスクがない場合でもデジタルゲームは安くならないと正当化する一方、Sonyはユーザーが購入したタイトルを削除しており、デジタル所有権をめぐる議論を引き起こしている。",
     "source": [
+      "/r/technology",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta、AIチャットボットでの自殺リスクに備え保護者通知を導入、研究はプロパガンダマシンになり得ると警告",
+    "summary": "ソーシャルネットワークは、青少年がAIに自傷行為について話した場合に保護者に通知する。同時に、監視委員会はチャットボットが大規模にプロパガンダを拡散する可能性があると指摘している。",
+    "source": [
+      "/r/technology",
       "techcrunch.com"
     ],
+    "count": 2
+  },
+  {
+    "title": "ドイツ、GoogleとPerplexityのAI要約をメディア法の対象に、Anthropicは迅速な規制を要請",
+    "summary": "先駆的な決定として、ドイツはAIアシスタントをメディアサービスとして分類し、Anthropicは各国に人工知能規制の加速を促している。",
+    "source": [
+      "wired.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OnePlus、米国と欧州での事業を停止",
+    "summary": "スマートフォンブランドは、西側市場での販売と活動を停止したと業界関係者が報じている。",
+    "source": [
+      "news.ycombinator.com"
+    ],
     "count": 1
   },
   {
-    "title": "OpenAI、2027年にChatGPT搭載スマートスピーカーを発売計画",
-    "summary": "AI企業は、会話型アシスタントを搭載しスクリーンがないオーディオ専用デバイスを開発中。現在のスマートスピーカーと類似。",
+    "title": "Elon Musk、xAIに電力を供給するためエネルギー会社に約10億ドルを支出",
+    "summary": "規制文書によると、Muskは1ギガワット以上の能力を持つガス・ディーゼルタービンを所有するAPR Energyを買収し、AIデータセンターに電力を供給している。",
     "source": [
-      "kite.kagi.com"
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Nvidiaと日本、世界初の国家AIインフラを発表",
+    "summary": "Noetraコンソーシアムは、27,500基のGPUを搭載した140MWのAIファクトリー「Rubin」を建設し、官民協力による人工知能のマイルストーンとなる。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Zoom、Windowsのクリティカルな脆弱性を修正、アカウント乗っ取りの可能性",
+    "summary": "Windows向けビデオ会議アプリのセキュリティ上の欠陥により、ユーザーがアカウント乗っ取りの危険にさらされていたが、すでに同社がパッチを適用した。",
+    "source": [
+      "thehackernews.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "数百人がBethesda本社前でXboxのレイオフに抗議",
+    "summary": "抗議者たちは、マイクロソフトに対してゲームスタジオでの人員削減を再考するよう求めており、多数の従業員が影響を受けている。",
+    "source": [
+      "/r/technology"
     ],
     "count": 1
   }

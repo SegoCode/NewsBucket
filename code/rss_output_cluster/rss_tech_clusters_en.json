@@ -1,86 +1,56 @@
 [
   {
-    "title": "OnePlus ceases operations in the United States and Europe and confirms its exit from the Western market",
-    "summary": "The smartphone brand, owned by Oppo, abandons the US and European markets after years of growth and decline.",
+    "title": "The RPCS3 emulator now runs 75% of PS3 games on PC, nearing the point of no longer needing Sony's firmware",
+    "summary": "The open-source emulator RPCS3 has made three-quarters of the PlayStation 3 catalog playable on computers, a milestone that coincides with the announcement of the closure of the PS3 and PS Vita digital store.",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com",
-      "techcrunch.com",
-      "/r/hardware",
-      "kite.kagi.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Thinking Machines Lab, founded by OpenAI's former CTO, presents its first open model Inkling",
-    "summary": "The 975 billion parameter model surpasses US labs but lags behind Chinese advances, according to the company.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com",
-      "wired.com",
-      "techcrunch.com"
+      "videocardz.com",
+      "/r/technology",
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 4
   },
   {
-    "title": "AMD Ryzen 7 7700X3D reviews reveal lower performance than the 7800X3D without a significant price reduction",
-    "summary": "Analyses show that AMD's new processor offers lower performance than its bigger brother at a similar price, making it less attractive.",
+    "title": "Google renames NotebookLM to Gemini Notebook and integrates it with its search application",
+    "summary": "Google's AI-powered note-taking tool is being renamed Gemini Notebook, also allowing integration with third-party applications.",
     "source": [
-      "/r/hardware",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI launches Codex Micro, a macropod keyboard with joystick to control AI coding agents",
-    "summary": "OpenAI's first physical device features 13 backlit keys and a joystick, designed for programmers using artificial intelligence assistants.",
-    "source": [
-      "tomshardware.com",
-      "producthunt.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI uses AI to automate security testing of its models with GPT-Red",
-    "summary": "The company develops an automatic 'red teaming' system that finds vulnerabilities in GPT-5.6 Sol more efficiently than humans.",
-    "source": [
-      "thehackernews.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft publishes a record number of security patches, fixing 570 vulnerabilities",
-    "summary": "The monthly update includes fixes for multiple critical flaws, some of which block updates on certain Dell models.",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China approves Apple Intelligence with integration of Alibaba and Baidu models",
-    "summary": "Apple's artificial intelligence receives permission to operate in China, using local providers to meet regulatory requirements.",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX shares plummet to IPO price amid uncertainty ahead of Starship launch",
-    "summary": "Elon Musk's company value falls below its IPO price, wiping out all accumulated gains.",
-    "source": [
+      "the-decoder.com",
       "news.ycombinator.com",
       "techcrunch.com"
     ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI presents Codex Micro, its first physical device with a joystick to control AI agents",
+    "summary": "The device, an RGB macropod with 13 keys and a joystick, allows developers to interact with AI coding agents without having to type commands.",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com",
+      "producthunt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Linus Torvalds defends the use of AI in the Linux kernel and criticizes opponents",
+    "summary": "The creator of Linux states that artificial intelligence is a useful tool and that those who oppose it can fork the project.",
+    "source": [
+      "tomshardware.com",
+      "/r/technology"
+    ],
     "count": 2
   },
   {
-    "title": "Investigation reveals Suno allegedly used YouTube videos to train its AI music generator",
-    "summary": "The generative music company faces accusations of using copyrighted content without authorization.",
+    "title": "Growing discontent over having to manually opt out of artificial intelligence on each service",
+    "summary": "Users and activists denounce the constant burden of having to opt out of AI systems, calling for changes in regulation.",
+    "source": [
+      "/r/technology",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "China approves the launch of Apple Intelligence with Alibaba and Baidu models",
+    "summary": "Chinese authorities have given the green light to Apple's artificial intelligence platform, which will use Alibaba and Baidu services to comply with local regulations.",
     "source": [
       "techcrunch.com",
       "kite.kagi.com"
@@ -88,26 +58,26 @@
     "count": 2
   },
   {
-    "title": "xAI publishes Grok-Build source code on GitHub after a data leak",
-    "summary": "Elon Musk's artificial intelligence company releases its model building tool as open source after a security incident.",
+    "title": "AMD Ryzen 7 7700X3D arrives as a Newegg exclusive and early reviews compare it to the 7800X3D",
+    "summary": "AMD's new 3D V-Cache processor launches in North America exclusively through Newegg for $329, and reviews show performance lower than the 7800X3D but at a similar price.",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Spotify develops an AI chatbot to answer questions about music and podcasts",
-    "summary": "The streaming platform tests a conversational assistant that allows users to get information about songs and recommendations.",
+    "title": "Lenovo presents the first laptop with an inkjet-printed OLED display from TCL CSOT",
+    "summary": "The Legion R9000P features a 240 Hz OLED panel manufactured using inkjet printing technology, a world first for laptops.",
     "source": [
-      "alternativeto.net",
-      "the-decoder.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Spotify expands managed accounts for children to free users in several countries",
-    "summary": "The music service now allows parents to create supervised profiles for their children without needing a Premium subscription, expanding the feature to new regions.",
+    "title": "Spotify expands free managed accounts for children to new markets",
+    "summary": "The streaming platform now allows free users to create supervised accounts for children under 13, expanding the feature to more regions.",
     "source": [
       "kite.kagi.com",
       "alternativeto.net"
@@ -115,69 +85,96 @@
     "count": 2
   },
   {
-    "title": "CXMT's DDR5 memory shows lower performance than SK hynix in early tests",
-    "summary": "Analyses of the Chinese chips reveal voltage scaling and overclocking issues, positioning them behind market leaders.",
+    "title": "OpenAI uses AI to attack its own AI and strengthen GPT-5.6 security",
+    "summary": "The GPT-Red tool automates prompt injection tests to identify vulnerabilities in language models, surpassing human teams in effectiveness.",
     "source": [
-      "/r/hardware",
-      "tomshardware.com"
+      "the-decoder.com",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "RPCS3 emulator manages to run 75% of PS3 games on PC",
-    "summary": "The PlayStation 3 emulation project reaches a new milestone, approaching full compatibility with the console's library.",
+    "title": "Moonshot launches Kimi 3, an AI model aiming to compete with Anthropic Opus 4.8",
+    "summary": "Chinese startup Moonshot presents Kimi K3, its new language model that promises to approach the performance of industry leaders.",
     "source": [
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 11 Steam Machines offer similar performance to SteamOS according to early reviews",
-    "summary": "Benchmarks show that Steam Machine compatibility with Windows 11 does not sacrifice performance, matching Valve's native operating system.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "TSMC announces additional $100 billion investment in Arizona to manufacture 2nm chips",
-    "summary": "The Taiwanese manufacturer expands its presence in the United States with new factories, raising its planned capital expenditure for 2026 to $64 billion.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Stripe and Advent International allegedly offered $53.4 billion to acquire PayPal",
-    "summary": "According to close sources, the joint offer for the payments platform could be one of the largest deals in the fintech sector.",
-    "source": [
+      "news.ycombinator.com",
       "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Google will allow installation of rival app stores on Android starting July",
-    "summary": "The company yields to regulatory pressures and opens its ecosystem to alternative marketplaces, in a move that seeks to foster competition.",
+    "title": "Two Scattered Spider hackers sentenced to 5.5 years in prison for £29 million cyberattack on TfL",
+    "summary": "British police arrested two young people who dismantled the operations of the infamous hacker group, and they were sentenced for the attack on London's public transport.",
     "source": [
-      "kite.kagi.com"
+      "techcrunch.com",
+      "thehackernews.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "NTSB confirms that the driver of the crashed Tesla in Texas pressed the accelerator fully",
-    "summary": "The official investigation rules out mechanical or autopilot failures, determining that the driver pressed the pedal to the floor.",
+    "title": "Sony faces criticism for deleting digitally purchased movies and defending equal prices for digital games",
+    "summary": "Former PlayStation executives justify that digital games will not be cheaper without discs, while Sony deletes titles purchased by users, generating controversy over digital ownership.",
     "source": [
+      "/r/technology",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta implements parental alerts for suicide risks in its AI chatbot, while a study warns it could be a propaganda machine",
+    "summary": "The social network notifies guardians if their teenagers talk about self-harm with the AI, while the Oversight Board points out that chatbots could spread propaganda on a massive scale.",
+    "source": [
+      "/r/technology",
       "techcrunch.com"
     ],
+    "count": 2
+  },
+  {
+    "title": "Germany subjects Google and Perplexity AI summaries to media law, while Anthropic urges faster regulation",
+    "summary": "In a pioneering decision, Germany classifies AI assistants as media services, while Anthropic pushes states to accelerate AI regulation.",
+    "source": [
+      "wired.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OnePlus halts its operations in the United States and Europe",
+    "summary": "The smartphone brand suspends its sales and activities in Western markets, according to industry reports.",
+    "source": [
+      "news.ycombinator.com"
+    ],
     "count": 1
   },
   {
-    "title": "OpenAI plans to launch a smart speaker with ChatGPT by 2027",
-    "summary": "The artificial intelligence company would develop an audio-only device with a conversational assistant, without a screen, similar to current smart speakers.",
+    "title": "Elon Musk spent nearly $1 billion on an energy company to power xAI",
+    "summary": "According to regulatory documents, Musk acquired APR Energy, which owns gas and diesel turbines with a capacity of over 1 gigawatt, to supply electricity to his artificial intelligence centers.",
     "source": [
-      "kite.kagi.com"
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Nvidia and Japan unveil the world's first national AI infrastructure",
+    "summary": "The Noetra consortium will build a 140 MW Rubin AI factory with 27,500 GPUs, marking a milestone in public-private collaboration for artificial intelligence.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Zoom fixes critical vulnerability in Windows that could allow account theft",
+    "summary": "The security flaw in the videoconferencing application for Windows exposed users to possible account hijacking, already patched by the company.",
+    "source": [
+      "thehackernews.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Hundreds protest outside Bethesda headquarters against Xbox layoffs",
+    "summary": "Protesters demand that Microsoft reconsider the staff cuts in its video game studios, which have affected numerous employees.",
+    "source": [
+      "/r/technology"
     ],
     "count": 1
   }

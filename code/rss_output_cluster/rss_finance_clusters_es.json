@@ -1,88 +1,181 @@
 [
   {
-    "title": "Resultados récord de TSMC elevan la incertidumbre y golpean al sector tecnológico mundial",
-    "summary": "La firma taiwanesa supera expectativas pero sus planes de gasto generan caídas en las bolsas asiáticas y estadounidenses.",
+    "title": "SpaceX se desploma tras el fin del periodo de restricción y pierde un billón de dólares de valor",
+    "summary": "Las acciones de la compañía espacial caen por debajo de su precio de salida a bolsa arrastradas por el vencimiento de las acciones bloqueadas.",
     "source": [
-      "finance.yahoo.com",
       "investing.com",
       "nasdaq.com",
-      "nikkei.com",
       "handelsblatt.com",
-      "/r/stocks"
+      "expansion.com",
+      "ft.com"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "La crisis del estrecho de Ormuz dispara el petróleo y amenaza el suministro global",
-    "summary": "Las tensiones por las amenazas iraníes y el bloqueo de Estados Unidos elevan el crudo y provocan advertencias de escasez.",
+    "title": "Las bolsas europeas cierran mixtas mientras el Ibex 35 supera los 19.300 puntos",
+    "summary": "La jornada en Europa mostró resultados contradictorios con el Dax alemán presionado por las tecnológicas y el mercado español apoyado por la banca.",
+    "source": [
+      "handelsblatt.com",
+      "nasdaq.com",
+      "bolsamania.com",
+      "expansion.com",
+      "nikkei.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Wall Street cae lastrado por el desplome de los valores tecnológicos y las dudas sobre la inteligencia artificial",
+    "summary": "Los índices estadounidenses cerraron en rojo con el Nasdaq liderando las pérdidas en medio de la cautela por las altas valoraciones del sector.",
     "source": [
       "handelsblatt.com",
       "bolsamania.com",
-      "finance.yahoo.com",
-      "ft.com"
+      "investing.com",
+      "nikkei.com"
     ],
     "count": 4
   },
   {
-    "title": "SpaceX se desploma en bolsa y cae por debajo del precio de su salida a Bolsa",
-    "summary": "Las acciones de la compañía de Musk pierden más de un billón de dólares de valor tras una venta masiva.",
+    "title": "Las tensiones en el estrecho de Ormuz elevan el riesgo de una grave crisis de suministro de petróleo",
+    "summary": "El bloqueo iraní y las represalias de Estados Unidos llevan a los operadores a advertir que el mercado está a punto de quedarse sin combustible.",
     "source": [
       "expansion.com",
-      "handelsblatt.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Bitcoin y ethereum suben en medio de un mercado cripto con señales mixtas",
-    "summary": "Las criptomonedas registran modestas ganancias mientras el mercado busca dirección sin catalizadores macro.",
-    "source": [
-      "finance.yahoo.com",
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Los mercados europeos cierran a la baja y Wall Street cotiza mixto",
-    "summary": "El Ibex 35 cae un 0,77% y el Dax lucha por los 25.000 puntos, mientras que el Dow Jones sube y el Nasdaq baja.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com",
+      "ft.com",
       "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "Abbott supera expectativas en el segundo trimestre y eleva su previsión de ganancias",
-    "summary": "La empresa de dispositivos médicos reporta sólidos resultados impulsados por la demanda de diagnósticos.",
+    "title": "Dudas sobre el futuro de la inteligencia artificial sacuden a las bolsas globales",
+    "summary": "El temor a una desaceleración en el gasto en IA y los resultados mixtos empresariales generan una ola de ventas en el sector tecnológico mundial.",
     "source": [
-      "finance.yahoo.com",
+      "handelsblatt.com",
+      "nasdaq.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Fuerte corrección en los valores de semiconductores por temor a un exceso de capacidad",
+    "summary": "Las acciones de fabricantes de chips como Intel y Micron encabezan las caídas mientras el mercado debate el fin del superciclo de la memoria.",
+    "source": [
+      "nasdaq.com",
+      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Los datos de inflación y ventas minoristas en EE.UU. ofrecen señales contradictorias sobre la economía",
+    "summary": "La moderación de la inflación contrasta con el modesto crecimiento de las ventas minoristas en junio, manteniendo la incertidumbre sobre la senda de la Fed.",
+    "source": [
+      "nasdaq.com",
+      "investing.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Taiwan Semiconductor Manufacturing (TSMC) alcanza ingresos trimestrales récord impulsados por la IA",
+    "summary": "La compañía reportó 40.200 millones de dólares en ingresos, un 36% más que el año pasado, consolidando su liderazgo en la fabricación de chips avanzados.",
+    "source": [
+      "nasdaq.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Digi se hunde en su debut bursátil en España a pesar de un comienzo prometedor",
+    "summary": "La operadora de telecomunicaciones cerró su primer día de cotización con una caída del 8% tras las rebajas de análisis de Barclays a su rival Telefónica.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Citadel Securities invierte 400 millones de dólares en Crypto.com con una valoración de 20.000 millones",
+    "summary": "La firma de trading liderada por Ken Griffin se convierte en inversor estratégico del exchange de criptomonedas, marcando un hito en la financiación del sector.",
+    "source": [
+      "investing.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La CFTC investiga al operador de teleprompter de Trump por uso de información privilegiada en apuestas",
+    "summary": "El regulador de materias primas examina si el empleado realizó apuestas políticas basadas en información confidencial obtenida durante la campaña electoral.",
+    "source": [
+      "investing.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La Fed sugiere que los tipos de interés deben ser 'ligeramente más altos' para frenar la inflación",
+    "summary": "La presidenta de la Fed de Dallas, Lorie Logan, endureció el discurso monetario, generando presión adicional sobre los mercados de renta variable.",
+    "source": [
+      "bolsamania.com",
       "investing.com"
     ],
     "count": 2
   },
   {
-    "title": "Los inversores rotan hacia acciones de pequeña capitalización como alternativa a las grandes tecnológicas",
-    "summary": "El creciente interés por las 'small caps' refleja la búsqueda de mejores rendimientos fuera de las Big Tech.",
+    "title": "El auge de la inteligencia artificial impulsa una ola de salidas a bolsa en el sector energético",
+    "summary": "Las empresas de energía que alimentan los centros de datos se benefician de la demanda de los inversores que buscan exposición indirecta al crecimiento de la IA.",
     "source": [
-      "finance.yahoo.com",
+      "ft.com",
       "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "Uber compra Delivery Hero (Glovo) por 14.800 millones de dólares",
-    "summary": "La adquisición refuerza la posición de Uber en el mercado global de reparto a domicilio.",
+    "title": "CoreWeave se desploma mientras Nueva York congela los permisos para centros de datos de IA",
+    "summary": "La drástica caída del 50% de la empresa de computación en la nube refleja el impacto de las medidas regulatorias sobre la infraestructura energética de la inteligencia artificial.",
     "source": [
-      "finance.yahoo.com",
+      "nasdaq.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Reguladores europeos imponen duras sanciones por fallos de auditoría y el escándalo fiscal Cum-Ex",
+    "summary": "PwC es multada por su trabajo en Babcock International mientras un exbanquero de Macquarie evita la cárcel por su implicación en la trama de dividendos.",
+    "source": [
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Alphabet se enfrenta a retrasos en su IA Gemini y a una orden de la UE para compartir datos de búsqueda",
+    "summary": "Las acciones de Google caen por el retraso de su modelo estrella mientras Bruselas la obliga a abrir sus datos a empresas competidoras.",
+    "source": [
+      "investing.com",
       "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "Seven & i invierte en la cadena polaca de tiendas de conveniencia Zabka",
-    "summary": "El gigante japonés del retail adquiere una participación mayoritaria en la mayor cadena de conveniencia de Polonia.",
+    "title": "SanDisk, Corning y Goldman Sachs lideran las pérdidas en los sectores del S&P 500 y el Dow Jones",
+    "summary": "Los movimientos diarios del mercado mostraron fuertes caídas en el sector de semiconductores y financiero, mientras Abbott y Merck destacaron al alza.",
+    "source": [
+      "bolsamania.com",
+      "investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El Ibex 35 muestra una fortaleza estructural que invita al optimismo sin caer en la burbuja tecnológica",
+    "summary": "Los analistas destacan la baja exposición a la tecnología pura como una ventaja para el mercado español, que podría alcanzar los 20.000 puntos.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Trump presiona a la industria armamentística y acorta la duración de los visados de estudio y prensa",
+    "summary": "La administración Trump anuncia nuevas medidas en materia de defensa e inmigración que afectan tanto a los fabricantes de armas como a los residentes extranjeros.",
     "source": [
       "investing.com",
       "nikkei.com"
@@ -90,93 +183,12 @@
     "count": 2
   },
   {
-    "title": "Las salidas a bolsa de empresas energéticas se disparan por el auge de la inteligencia artificial",
-    "summary": "Los inversores acuden a las OPV del sector eléctrico para aprovechar la creciente demanda de los centros de datos.",
+    "title": "Crece la tensión global con ataques al trigo ucraniano y buques de guerra chinos cerca de Japón",
+    "summary": "Los esfuerzos diplomáticos se complican mientras Grecia veta las sanciones antirrusas y la Armada china realiza un despliegue frente a las costas de Okinawa.",
     "source": [
-      "expansion.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Digi debuta en bolsa con una subida del 7% y gran interés institucional",
-    "summary": "La operadora de telecomunicaciones inicia su cotización con un precio de 5,60 euros y atrae a fondos como Amundi y Wellington.",
-    "source": [
-      "expansion.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las ventas minoristas en EE.UU. se moderan al 0,2% en junio en línea con lo esperado",
-    "summary": "El dato muestra una ralentización del consumo respecto a meses anteriores, pero sin sorpresas negativas.",
-    "source": [
-      "bolsamania.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La Reserva Federal destaca una ligera mejoría económica y moderación de la inflación en su Beige Book",
-    "summary": "El informe de la Fed recoge un repunte en la actividad y una disminución de los precios en varias regiones.",
-    "source": [
-      "handelsblatt.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Nueva York congela los permisos para nuevos centros de datos de IA por el impacto en los costes eléctricos",
-    "summary": "La medida busca contener el consumo energético pero genera dudas sobre la expansión de la infraestructura de inteligencia artificial.",
-    "source": [
-      "/r/stocks"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La UE exige a Google que modifique su plataforma para facilitar el uso de asistentes de IA rivales",
-    "summary": "Bruselas solicita cambios en el diseño para que los usuarios puedan elegir libremente entre servicios competidores de inteligencia artificial.",
-    "source": [
+      "ft.com",
       "nikkei.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "Filtración masiva de datos en la central nuclear más grande de la India por un ciberataque",
-    "summary": "19.000 documentos clasificados fueron expuestos, lo que plantea graves riesgos de seguridad para la instalación.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "PwC y un socio son multados con más de 3 millones de libras por fallos en la auditoría de Babcock",
-    "summary": "El regulador contable británico impone sanciones por deficiencias en la revisión de cuentas del contratista de defensa.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El Parlamento británico rechaza al exdirectivo de Virgin Money para liderar el regulador contable",
-    "summary": "Los diputados no respaldan la candidatura, lo que obliga a buscar un nuevo nominado para el puesto de presidente.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Thames Water advierte sobre su viabilidad financiera mientras el gobierno estudia su intervención",
-    "summary": "La empresa de aguas enfrenta problemas de deuda y el alcalde de Gran Mánchester propone su nacionalización.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Downing Street convoca a directivos de capital privado para abordar la crisis de la Bolsa de Londres",
-    "summary": "El gobierno busca frenar la fuga de empresas de la London Stock Exchange mediante diálogo con los fondos de inversión.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]

@@ -1,86 +1,56 @@
 [
   {
-    "title": "OnePlus cesa sus operaciones en Estados Unidos y Europa y confirma su salida del mercado occidental",
-    "summary": "La marca de teléfonos inteligentes, propiedad de Oppo, abandona los mercados de EE.UU. y Europa después de años de crecimiento y declive.",
+    "title": "El emulador RPCS3 ya ejecuta el 75% de los juegos de PS3 en PC, acercándose a prescindir del firmware de Sony",
+    "summary": "El emulador de código abierto RPCS3 ha logrado que tres cuartas partes del catálogo de PlayStation 3 sean jugables en ordenadores, un hito que coincide con el anuncio del cierre de la tienda digital de PS3 y PS Vita.",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com",
-      "techcrunch.com",
-      "/r/hardware",
-      "kite.kagi.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Thinking Machines Lab, fundada por la exdirectora de tecnología de OpenAI, presenta su primer modelo abierto Inkling",
-    "summary": "El modelo de 975 mil millones de parámetros supera a los laboratorios estadounidenses pero queda por detrás de los avances chinos, según la compañía.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com",
-      "wired.com",
-      "techcrunch.com"
+      "videocardz.com",
+      "/r/technology",
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 4
   },
   {
-    "title": "Las reseñas del AMD Ryzen 7 7700X3D revelan un rendimiento inferior al 7800X3D sin una reducción de precio significativa",
-    "summary": "Los análisis muestran que el nuevo procesador de AMD ofrece un rendimiento menor que su hermano mayor a un precio similar, lo que lo hace menos atractivo.",
+    "title": "Google renombra NotebookLM como Gemini Notebook y lo integra con su aplicación de búsqueda",
+    "summary": "La herramienta de notas con inteligencia artificial de Google pasa a llamarse Gemini Notebook, permitiendo además la integración con aplicaciones de terceros.",
     "source": [
-      "/r/hardware",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI lanza Codex Micro, un teclado macropod con joystick para controlar agentes de codificación por IA",
-    "summary": "El primer dispositivo físico de OpenAI cuenta con 13 teclas retroiluminadas y un joystick, diseñado para programadores que usan asistentes de inteligencia artificial.",
-    "source": [
-      "tomshardware.com",
-      "producthunt.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI emplea IA para automatizar las pruebas de seguridad de sus modelos con GPT-Red",
-    "summary": "La compañía desarrolla un sistema de 'red teaming' automático que encuentra vulnerabilidades en GPT-5.6 Sol de manera más eficiente que los humanos.",
-    "source": [
-      "thehackernews.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft publica un número récord de parches de seguridad, corrigiendo 570 vulnerabilidades",
-    "summary": "La actualización mensual incluye correcciones para múltiples fallos críticos, algunos de los cuales bloquean las actualizaciones en ciertos modelos de Dell.",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China aprueba Apple Intelligence con la integración de modelos de Alibaba y Baidu",
-    "summary": "La inteligencia artificial de Apple recibe permiso para operar en China, utilizando proveedores locales para cumplir con los requisitos regulatorios.",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las acciones de SpaceX se desploman hasta su precio de salida a bolsa en medio de la incertidumbre previa al lanzamiento de Starship",
-    "summary": "El valor de la empresa de Elon Musk cae por debajo de su precio de OPI, borrando todas las ganancias acumuladas.",
-    "source": [
+      "the-decoder.com",
       "news.ycombinator.com",
       "techcrunch.com"
     ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI presenta Codex Micro, su primer dispositivo físico con joystick para controlar agentes de IA",
+    "summary": "El dispositivo, un macropod RGB con 13 teclas y un joystick, permite a los desarrolladores interactuar con agentes de codificación de inteligencia artificial sin necesidad de escribir comandos.",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com",
+      "producthunt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Linus Torvalds defiende el uso de IA en el kernel de Linux y critica a los opositores",
+    "summary": "El creador de Linux afirma que la inteligencia artificial es una herramienta útil y que quienes se opongan pueden bifurcar el proyecto.",
+    "source": [
+      "tomshardware.com",
+      "/r/technology"
+    ],
     "count": 2
   },
   {
-    "title": "Una investigación revela que Suno habría utilizado vídeos de YouTube para entrenar su generador de música con IA",
-    "summary": "La empresa de música generativa enfrenta acusaciones de haber usado contenido protegido por derechos de autor sin autorización.",
+    "title": "Crece el malestar por tener que excluirse manualmente de la inteligencia artificial en cada servicio",
+    "summary": "Usuarios y activistas denuncian la carga constante de tener que optar por no participar en sistemas de IA, pidiendo cambios en la regulación.",
+    "source": [
+      "/r/technology",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "China aprueba el lanzamiento de Apple Intelligence con modelos de Alibaba y Baidu",
+    "summary": "Las autoridades chinas han dado luz verde a la plataforma de inteligencia artificial de Apple, que utilizará servicios de Alibaba y Baidu para cumplir con las regulaciones locales.",
     "source": [
       "techcrunch.com",
       "kite.kagi.com"
@@ -88,26 +58,26 @@
     "count": 2
   },
   {
-    "title": "xAI publica el código fuente de Grok-Build en GitHub tras una filtración de datos",
-    "summary": "La empresa de inteligencia artificial de Elon Musk libera su herramienta de construcción de modelos como código abierto después de un incidente de seguridad.",
+    "title": "AMD Ryzen 7 7700X3D llega como exclusivo de Newegg y las primeras reseñas lo comparan con el 7800X3D",
+    "summary": "El nuevo procesador de AMD con 3D V-Cache se lanza en Norteamérica solo a través de Newegg por 329 dólares, y los análisis muestran un rendimiento inferior al 7800X3D pero a un precio similar.",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Spotify desarrolla un chatbot de IA para responder preguntas sobre música y podcasts",
-    "summary": "La plataforma de streaming prueba un asistente conversacional que permite a los usuarios obtener información sobre canciones y recomendaciones.",
+    "title": "Lenovo presenta el primer portátil con pantalla OLED impresa por inyección de tinta de TCL CSOT",
+    "summary": "El Legion R9000P incorpora un panel OLED de 240 Hz fabricado mediante tecnología de impresión por inyección de tinta, una primicia mundial en portátiles.",
     "source": [
-      "alternativeto.net",
-      "the-decoder.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Spotify amplía las cuentas gestionadas para niños a usuarios gratuitos en varios países",
-    "summary": "El servicio de música permite ahora a los padres crear perfiles supervisados para sus hijos sin necesidad de suscripción Premium, expandiendo la función a nuevas regiones.",
+    "title": "Spotify amplía las cuentas gestionadas para niños gratuitas a nuevos mercados",
+    "summary": "La plataforma de streaming permite ahora que usuarios gratuitos creen cuentas supervisadas para menores de 13 años, expandiendo la función a más regiones.",
     "source": [
       "kite.kagi.com",
       "alternativeto.net"
@@ -115,69 +85,96 @@
     "count": 2
   },
   {
-    "title": "Las memorias DDR5 de CXMT muestran un rendimiento inferior al de SK hynix en las primeras pruebas",
-    "summary": "Los análisis de los chips chinos revelan problemas de escalado de voltaje y overclocking, posicionándolos por detrás de los líderes del mercado.",
+    "title": "OpenAI utiliza IA para atacar su propia IA y reforzar la seguridad de GPT-5.6",
+    "summary": "La herramienta GPT-Red automatiza pruebas de inyección de indicaciones para identificar vulnerabilidades en los modelos de lenguaje, superando en eficacia a los equipos humanos.",
     "source": [
-      "/r/hardware",
-      "tomshardware.com"
+      "the-decoder.com",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "El emulador RPCS3 logra ejecutar el 75% de los juegos de PS3 en PC",
-    "summary": "El proyecto de emulación de PlayStation 3 alcanza un nuevo hito, acercándose a la compatibilidad total con la biblioteca de la consola.",
+    "title": "Moonshot lanza Kimi 3, un modelo de IA que aspira a competir con Anthropic Opus 4.8",
+    "summary": "La startup china Moonshot presenta Kimi K3, su nuevo modelo de lenguaje que promete acercarse al rendimiento de los líderes del sector.",
     "source": [
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las Steam Machines con Windows 11 ofrecen un rendimiento similar al de SteamOS según los primeros análisis",
-    "summary": "Los benchmarks muestran que la compatibilidad de Steam Machine con Windows 11 no sacrifica el rendimiento, equiparándose al sistema operativo nativo de Valve.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "TSMC anuncia una inversión adicional de 100.000 millones de dólares en Arizona para fabricar chips de 2 nm",
-    "summary": "El fabricante taiwanés amplía su presencia en Estados Unidos con nuevas fábricas, elevando su gasto de capital previsto para 2026 a 64.000 millones de dólares.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Stripe y Advent International habrían ofrecido 53.400 millones de dólares para adquirir PayPal",
-    "summary": "Según fuentes cercanas, la oferta conjunta por la plataforma de pagos podría ser una de las mayores operaciones del sector fintech.",
-    "source": [
+      "news.ycombinator.com",
       "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Google permitirá la instalación de tiendas de aplicaciones rivales en Android a partir de julio",
-    "summary": "La compañía cede a las presiones regulatorias y abre su ecosistema a marketplaces alternativos, en un movimiento que busca fomentar la competencia.",
+    "title": "Dos hackers de Scattered Spider condenados a 5,5 años de prisión por el ciberataque de 29 millones de libras al TfL",
+    "summary": "La policía británica arrestó a dos jóvenes que desmantelaron las operaciones del infame grupo de hackers, y fueron sentenciados por el ataque al transporte público de Londres.",
     "source": [
-      "kite.kagi.com"
+      "techcrunch.com",
+      "thehackernews.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "La NTSB confirma que el conductor del Tesla accidentado en Texas pisó el acelerador al máximo",
-    "summary": "La investigación oficial descarta fallos mecánicos o del piloto automático, determinando que el conductor presionó el pedal a fondo.",
+    "title": "Sony enfrenta críticas por eliminar películas compradas digitalmente y defender precios iguales en juegos digitales",
+    "summary": "Exejecutivos de PlayStation justifican que los juegos digitales no serán más baratos sin discos, mientras Sony borra títulos adquiridos por usuarios, generando controversia sobre la propiedad digital.",
     "source": [
+      "/r/technology",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta implementa alertas parentales ante riesgos de suicidio en su chatbot de IA, mientras un estudio advierte que puede ser una máquina de propaganda",
+    "summary": "La red social notifica a los tutores si sus adolescentes hablan de autolesión con la IA, al tiempo que el Oversight Board señala que los chatbots podrían difundir propaganda de forma masiva.",
+    "source": [
+      "/r/technology",
       "techcrunch.com"
     ],
+    "count": 2
+  },
+  {
+    "title": "Alemania somete los resúmenes de IA de Google y Perplexity a la ley de medios, mientras Anthropic insta a regular más rápido",
+    "summary": "En una decisión pionera, Alemania clasifica a los asistentes de IA como servicios de medios, mientras Anthropic presiona a los estados para acelerar la regulación de la inteligencia artificial.",
+    "source": [
+      "wired.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OnePlus detiene sus operaciones en Estados Unidos y Europa",
+    "summary": "La marca de smartphones suspende sus ventas y actividades en los mercados occidentales, según informes del sector.",
+    "source": [
+      "news.ycombinator.com"
+    ],
     "count": 1
   },
   {
-    "title": "OpenAI planea lanzar un altavoz inteligente con ChatGPT para 2027",
-    "summary": "La empresa de inteligencia artificial desarrollaría un dispositivo de solo audio con asistente conversacional, sin pantalla, similar a los altavoces inteligentes actuales.",
+    "title": "Elon Musk gastó cerca de 1.000 millones de dólares en una empresa energética para alimentar xAI",
+    "summary": "Según documentos regulatorios, Musk adquirió APR Energy, dueña de turbinas de gas y diésel con capacidad de más de 1 gigavatio, para suministrar electricidad a sus centros de inteligencia artificial.",
     "source": [
-      "kite.kagi.com"
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Nvidia y Japón presentan la primera infraestructura nacional de IA del mundo",
+    "summary": "El consorcio Noetra construirá una fábrica de IA Rubin de 140 MW con 27.500 GPUs, marcando un hito en la colaboración público-privada para la inteligencia artificial.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Zoom corrige una vulnerabilidad crítica en Windows que podría permitir el robo de cuentas",
+    "summary": "La falla de seguridad en la aplicación de videoconferencias para Windows exponía a los usuarios a un posible secuestro de cuenta, ya parcheada por la empresa.",
+    "source": [
+      "thehackernews.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Cientos de personas protestan frente a la sede de Bethesda contra los despidos de Xbox",
+    "summary": "Los manifestantes reclaman a Microsoft que reconsidere los recortes de personal en sus estudios de videojuegos, que han afectado a numerosos empleados.",
+    "source": [
+      "/r/technology"
     ],
     "count": 1
   }

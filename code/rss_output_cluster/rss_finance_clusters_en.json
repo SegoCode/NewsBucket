@@ -1,88 +1,181 @@
 [
   {
-    "title": "Record results from TSMC increase uncertainty and hit global tech sector",
-    "summary": "The Taiwanese firm beats expectations but its spending plans cause declines in Asian and US stock markets.",
+    "title": "SpaceX plummets after lockup period ends and loses a trillion dollars in value",
+    "summary": "The space company's shares fall below their IPO price, dragged down by the expiration of locked-up shares.",
     "source": [
-      "finance.yahoo.com",
       "investing.com",
       "nasdaq.com",
-      "nikkei.com",
       "handelsblatt.com",
-      "/r/stocks"
+      "expansion.com",
+      "ft.com"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "The Strait of Hormuz crisis sends oil prices soaring and threatens global supply",
-    "summary": "Tensions from Iranian threats and the US blockade raise crude oil and prompt scarcity warnings.",
+    "title": "European stock exchanges close mixed as Ibex 35 surpasses 19,300 points",
+    "summary": "The session in Europe showed contradictory results with the German Dax pressured by tech stocks and the Spanish market supported by banking.",
+    "source": [
+      "handelsblatt.com",
+      "nasdaq.com",
+      "bolsamania.com",
+      "expansion.com",
+      "nikkei.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Wall Street falls weighed down by the collapse of tech stocks and doubts about artificial intelligence",
+    "summary": "U.S. indices closed in the red with the Nasdaq leading losses amid caution over high sector valuations.",
     "source": [
       "handelsblatt.com",
       "bolsamania.com",
-      "finance.yahoo.com",
-      "ft.com"
+      "investing.com",
+      "nikkei.com"
     ],
     "count": 4
   },
   {
-    "title": "SpaceX plummets on stock market and falls below its IPO price",
-    "summary": "Shares of Musk's company lose more than one trillion dollars in value after a massive sell-off.",
+    "title": "Tensions in the Strait of Hormuz raise the risk of a severe oil supply crisis",
+    "summary": "The Iranian blockade and U.S. retaliation lead traders to warn that the market is about to run out of fuel.",
     "source": [
       "expansion.com",
-      "handelsblatt.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Bitcoin and ethereum rise amid mixed signals in crypto market",
-    "summary": "Cryptocurrencies record modest gains as the market seeks direction without macro catalysts.",
-    "source": [
-      "finance.yahoo.com",
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "European markets close lower, Wall Street trades mixed",
-    "summary": "The Ibex 35 falls 0.77% and the DAX struggles around 25,000 points, while the Dow Jones rises and the Nasdaq falls.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com",
+      "ft.com",
       "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "Abbott beats expectations in second quarter and raises earnings forecast",
-    "summary": "The medical device company reports solid results driven by demand for diagnostics.",
+    "title": "Doubts about the future of artificial intelligence shake global stock markets",
+    "summary": "Fears of a slowdown in AI spending and mixed corporate results generate a wave of selling in the global tech sector.",
     "source": [
-      "finance.yahoo.com",
+      "handelsblatt.com",
+      "nasdaq.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Sharp correction in semiconductor stocks on fears of overcapacity",
+    "summary": "Shares of chipmakers such as Intel and Micron lead declines as the market debates the end of the memory supercycle.",
+    "source": [
+      "nasdaq.com",
+      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "U.S. inflation and retail sales data offer contradictory signals about the economy",
+    "summary": "The moderation of inflation contrasts with modest retail sales growth in June, keeping uncertainty about the Fed's path.",
+    "source": [
+      "nasdaq.com",
+      "investing.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Taiwan Semiconductor Manufacturing (TSMC) achieves record quarterly revenue driven by AI",
+    "summary": "The company reported $40.2 billion in revenue, 36% more than last year, consolidating its leadership in advanced chip manufacturing.",
+    "source": [
+      "nasdaq.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Digi sinks in its stock market debut in Spain despite a promising start",
+    "summary": "The telecom operator closed its first day of trading with an 8% drop after Barclays downgraded its rival Telefónica.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Citadel Securities invests $400 million in Crypto.com at a valuation of $20 billion",
+    "summary": "The trading firm led by Ken Griffin becomes a strategic investor in the cryptocurrency exchange, marking a milestone in sector funding.",
+    "source": [
+      "investing.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "CFTC investigates Trump's teleprompter operator for insider trading in bets",
+    "summary": "The commodities regulator examines whether the employee made political bets based on confidential information obtained during the election campaign.",
+    "source": [
+      "investing.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Fed suggests interest rates need to be 'slightly higher' to curb inflation",
+    "summary": "Dallas Fed President Lorie Logan tightened monetary rhetoric, generating additional pressure on equity markets.",
+    "source": [
+      "bolsamania.com",
       "investing.com"
     ],
     "count": 2
   },
   {
-    "title": "Investors rotate into small-cap stocks as an alternative to big tech",
-    "summary": "Growing interest in small caps reflects the search for better returns outside Big Tech.",
+    "title": "The rise of artificial intelligence drives a wave of IPOs in the energy sector",
+    "summary": "Energy companies that power data centers benefit from investor demand seeking indirect exposure to AI growth.",
     "source": [
-      "finance.yahoo.com",
+      "ft.com",
       "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "Uber buys Delivery Hero (Glovo) for $14.8 billion",
-    "summary": "The acquisition strengthens Uber's position in the global food delivery market.",
+    "title": "CoreWeave plummets as New York freezes permits for AI data centers",
+    "summary": "The drastic 50% drop of the cloud computing company reflects the impact of regulatory measures on AI energy infrastructure.",
     "source": [
-      "finance.yahoo.com",
+      "nasdaq.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "European regulators impose tough penalties for audit failures and the Cum-Ex tax scandal",
+    "summary": "PwC is fined for its work on Babcock International while a former Macquarie banker avoids jail for his involvement in the dividend scheme.",
+    "source": [
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Alphabet faces delays in its Gemini AI and an EU order to share search data",
+    "summary": "Google shares fall due to the delay of its flagship model while Brussels forces it to open its data to competitor companies.",
+    "source": [
+      "investing.com",
       "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "Seven & i invests in Polish convenience store chain Zabka",
-    "summary": "The Japanese retail giant acquires a majority stake in Poland's largest convenience store chain.",
+    "title": "SanDisk, Corning and Goldman Sachs lead losses in the S&P 500 and Dow Jones sectors",
+    "summary": "Daily market movements showed sharp declines in the semiconductor and financial sectors, while Abbott and Merck stood out on the upside.",
+    "source": [
+      "bolsamania.com",
+      "investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The Ibex 35 shows structural strength that invites optimism without falling into the tech bubble",
+    "summary": "Analysts highlight low exposure to pure technology as an advantage for the Spanish market, which could reach 20,000 points.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Trump pressures the arms industry and shortens the duration of study and press visas",
+    "summary": "Trump administration announces new measures on defense and immigration that affect both weapons manufacturers and foreign residents.",
     "source": [
       "investing.com",
       "nikkei.com"
@@ -90,93 +183,12 @@
     "count": 2
   },
   {
-    "title": "Energy company listings surge due to artificial intelligence boom",
-    "summary": "Investors flock to IPOs in the electric sector to capitalize on growing demand from data centers.",
+    "title": "Global tension grows with attacks on Ukrainian wheat and Chinese warships near Japan",
+    "summary": "Diplomatic efforts become complicated as Greece vetoes anti-Russian sanctions and the Chinese Navy deploys off the coast of Okinawa.",
     "source": [
-      "expansion.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Digi debuts on stock market with 7% rise and strong institutional interest",
-    "summary": "The telecom operator starts trading at 5.60 euros and attracts funds like Amundi and Wellington.",
-    "source": [
-      "expansion.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "US retail sales moderate to 0.2% in June, in line with expectations",
-    "summary": "The data shows a slowdown in consumption compared to previous months, but without negative surprises.",
-    "source": [
-      "bolsamania.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Federal Reserve highlights slight economic improvement and moderation of inflation in its Beige Book",
-    "summary": "The Fed's report notes a rebound in activity and a decrease in prices in several regions.",
-    "source": [
-      "handelsblatt.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "New York freezes permits for new AI data centers due to impact on electricity costs",
-    "summary": "The measure aims to curb energy consumption but raises doubts about the expansion of AI infrastructure.",
-    "source": [
-      "/r/stocks"
-    ],
-    "count": 1
-  },
-  {
-    "title": "EU demands Google modify its platform to facilitate use of rival AI assistants",
-    "summary": "Brussels requests design changes so that users can freely choose between competing AI services.",
-    "source": [
+      "ft.com",
       "nikkei.com"
     ],
-    "count": 1
-  },
-  {
-    "title": "Massive data leak at India's largest nuclear plant due to cyberattack",
-    "summary": "19,000 classified documents were exposed, posing serious security risks for the facility.",
-    "source": [
-      "nikkei.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "PwC and a partner fined more than 3 million pounds for audit failures at Babcock",
-    "summary": "The UK accounting regulator imposes sanctions for deficiencies in the audit of the defense contractor.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "British Parliament rejects former Virgin Money executive to lead accounting regulator",
-    "summary": "Lawmakers do not support the candidacy, forcing the search for a new nominee for chairman.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Thames Water warns about its financial viability as government studies intervention",
-    "summary": "The water company faces debt problems and the mayor of Greater Manchester proposes its nationalization.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Downing Street convenes private equity executives to address London Stock Exchange crisis",
-    "summary": "The government seeks to stem the exodus of companies from the London Stock Exchange through dialogue with investment funds.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
+    "count": 2
   }
 ]
