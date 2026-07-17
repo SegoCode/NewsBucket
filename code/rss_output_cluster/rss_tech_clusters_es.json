@@ -1,18 +1,7 @@
 [
   {
-    "title": "El emulador RPCS3 ya ejecuta el 75% de los juegos de PS3 en PC, acercándose a prescindir del firmware de Sony",
-    "summary": "El emulador de código abierto RPCS3 ha logrado que tres cuartas partes del catálogo de PlayStation 3 sean jugables en ordenadores, un hito que coincide con el anuncio del cierre de la tienda digital de PS3 y PS Vita.",
-    "source": [
-      "videocardz.com",
-      "/r/technology",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Google renombra NotebookLM como Gemini Notebook y lo integra con su aplicación de búsqueda",
-    "summary": "La herramienta de notas con inteligencia artificial de Google pasa a llamarse Gemini Notebook, permitiendo además la integración con aplicaciones de terceros.",
+    "title": "Google renombra NotebookLM como Gemini Notebook y añade integración con apps de terceros",
+    "summary": "La herramienta de notas con inteligencia artificial de Google adopta el nombre Gemini como parte de la reorganización de sus servicios.",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com",
@@ -21,8 +10,8 @@
     "count": 3
   },
   {
-    "title": "OpenAI presenta Codex Micro, su primer dispositivo físico con joystick para controlar agentes de IA",
-    "summary": "El dispositivo, un macropod RGB con 13 teclas y un joystick, permite a los desarrolladores interactuar con agentes de codificación de inteligencia artificial sin necesidad de escribir comandos.",
+    "title": "OpenAI presenta Codex Micro, su primer dispositivo hardware: un macropod RGB con joystick para controlar agentes de IA",
+    "summary": "El dispositivo cuenta con 13 teclas programables y un joystick que permite a los desarrolladores interactuar con sus agentes de IA sin usar el teclado.",
     "source": [
       "the-decoder.com",
       "tomshardware.com",
@@ -31,71 +20,56 @@
     "count": 3
   },
   {
-    "title": "Linus Torvalds defiende el uso de IA en el kernel de Linux y critica a los opositores",
-    "summary": "El creador de Linux afirma que la inteligencia artificial es una herramienta útil y que quienes se opongan pueden bifurcar el proyecto.",
-    "source": [
-      "tomshardware.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Crece el malestar por tener que excluirse manualmente de la inteligencia artificial en cada servicio",
-    "summary": "Usuarios y activistas denuncian la carga constante de tener que optar por no participar en sistemas de IA, pidiendo cambios en la regulación.",
-    "source": [
-      "/r/technology",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China aprueba el lanzamiento de Apple Intelligence con modelos de Alibaba y Baidu",
-    "summary": "Las autoridades chinas han dado luz verde a la plataforma de inteligencia artificial de Apple, que utilizará servicios de Alibaba y Baidu para cumplir con las regulaciones locales.",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD Ryzen 7 7700X3D llega como exclusivo de Newegg y las primeras reseñas lo comparan con el 7800X3D",
-    "summary": "El nuevo procesador de AMD con 3D V-Cache se lanza en Norteamérica solo a través de Newegg por 329 dólares, y los análisis muestran un rendimiento inferior al 7800X3D pero a un precio similar.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lenovo presenta el primer portátil con pantalla OLED impresa por inyección de tinta de TCL CSOT",
-    "summary": "El Legion R9000P incorpora un panel OLED de 240 Hz fabricado mediante tecnología de impresión por inyección de tinta, una primicia mundial en portátiles.",
+    "title": "El emulador RPCS3 logra ejecutar el 75% de los juegos de PlayStation 3 en PC",
+    "summary": "El emulador de código abierto continúa mejorando mientras Sony se prepara para cerrar la tienda digital de PlayStation 3 y PS Vita en 2027.",
     "source": [
       "videocardz.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "MSI y Lenovo lanzan los primeros monitores y portátiles con pantallas OLED impresas por inyección de tinta",
+    "summary": "Tanto el monitor MSI como el portátil Lenovo utilizan paneles fabricados con la tecnología IJP de TCL CSOT que reduce costes y mejora la calidad de imagen.",
+    "source": [
+      "/r/hardware",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD Ryzen 7 7700X3D llega como exclusivo en Newegg con un rendimiento inferior al 7800X3D",
+    "summary": "El procesador solo está disponible en Newegg en Norteamérica y según las primeras pruebas su rendimiento es inferior al del 7800X3D a un precio similar.",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "TSMC invertirá otros 100.000 millones de dólares en nuevas fábricas de semiconductores en Arizona",
+    "summary": "El plan del gigante taiwanés incluye la construcción de al menos cuatro plantas de última generación en Arizona con una inversión total de 100.000 millones adicionales.",
+    "source": [
+      "/r/hardware",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Spotify amplía las cuentas gestionadas para niños gratuitas a nuevos mercados",
-    "summary": "La plataforma de streaming permite ahora que usuarios gratuitos creen cuentas supervisadas para menores de 13 años, expandiendo la función a más regiones.",
+    "title": "OnePlus cesa sus operaciones en Estados Unidos y Europa",
+    "summary": "La compañía china confirma su salida de los mercados internacionales para centrarse en Asia.",
     "source": [
-      "kite.kagi.com",
-      "alternativeto.net"
+      "news.ycombinator.com",
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI utiliza IA para atacar su propia IA y reforzar la seguridad de GPT-5.6",
-    "summary": "La herramienta GPT-Red automatiza pruebas de inyección de indicaciones para identificar vulnerabilidades en los modelos de lenguaje, superando en eficacia a los equipos humanos.",
-    "source": [
-      "the-decoder.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Moonshot lanza Kimi 3, un modelo de IA que aspira a competir con Anthropic Opus 4.8",
-    "summary": "La startup china Moonshot presenta Kimi K3, su nuevo modelo de lenguaje que promete acercarse al rendimiento de los líderes del sector.",
+    "title": "Aplicaciones de seguimiento menstrual comparten datos de salud sin consentimiento de las usuarias",
+    "summary": "Una investigación de Mozilla descubre que la aplicación Stardust envía datos sensibles a firmas de análisis, mientras otras apps similares también presentan riesgos de privacidad.",
     "source": [
       "news.ycombinator.com",
       "techcrunch.com"
@@ -103,78 +77,101 @@
     "count": 2
   },
   {
-    "title": "Dos hackers de Scattered Spider condenados a 5,5 años de prisión por el ciberataque de 29 millones de libras al TfL",
-    "summary": "La policía británica arrestó a dos jóvenes que desmantelaron las operaciones del infame grupo de hackers, y fueron sentenciados por el ataque al transporte público de Londres.",
+    "title": "Spotify amplía las cuentas supervisadas para niños a usuarios gratuitos y a más países",
+    "summary": "Los padres pueden ahora crear cuentas para sus hijos sin coste y controlar el contenido y la actividad de los pequeños.",
     "source": [
-      "techcrunch.com",
-      "thehackernews.com"
+      "kite.kagi.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "Sony enfrenta críticas por eliminar películas compradas digitalmente y defender precios iguales en juegos digitales",
-    "summary": "Exejecutivos de PlayStation justifican que los juegos digitales no serán más baratos sin discos, mientras Sony borra títulos adquiridos por usuarios, generando controversia sobre la propiedad digital.",
+    "title": "Kimi presenta el modelo de inteligencia artificial abierto K3 que iguala el rendimiento de GPT-5.6 Sol y Claude Fable 5",
+    "summary": "El nuevo modelo de lenguaje abierto de Kimi iguala las capacidades de los sistemas propietarios más avanzados y supone un hito para la IA china.",
     "source": [
-      "/r/technology",
+      "the-decoder.com",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta implementa alertas parentales ante riesgos de suicidio en su chatbot de IA, mientras un estudio advierte que puede ser una máquina de propaganda",
-    "summary": "La red social notifica a los tutores si sus adolescentes hablan de autolesión con la IA, al tiempo que el Oversight Board señala que los chatbots podrían difundir propaganda de forma masiva.",
+    "title": "Dos hackers del grupo Scattered Spider condenados a cinco años y medio por el ataque al metro de Londres",
+    "summary": "Los ciberdelincuentes, de 19 y 20 años, fueron arrestados por la policía británica y sentenciados por fraude informático y robo de datos.",
     "source": [
-      "/r/technology",
+      "thehackernews.com",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Alemania somete los resúmenes de IA de Google y Perplexity a la ley de medios, mientras Anthropic insta a regular más rápido",
-    "summary": "En una decisión pionera, Alemania clasifica a los asistentes de IA como servicios de medios, mientras Anthropic presiona a los estados para acelerar la regulación de la inteligencia artificial.",
+    "title": "SpaceX aborta repentinamente el segundo lanzamiento del Starship V3 tras la ignición",
+    "summary": "El cohete de SpaceX no logró despegar por razones aún no especificadas y se encuentra en revisión técnica.",
     "source": [
-      "wired.com",
-      "the-decoder.com"
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "OnePlus detiene sus operaciones en Estados Unidos y Europa",
-    "summary": "La marca de smartphones suspende sus ventas y actividades en los mercados occidentales, según informes del sector.",
+    "title": "Coca-Cola suspende la producción en su planta láctea Fairlife tras un ciberataque con ransomware",
+    "summary": "El ataque informático afectó exclusivamente a la planta de producción láctea y no se extendió a otros sistemas de la compañía.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Uber adquiere el negocio de reparto de Delivery Hero por 14.800 millones de dólares",
+    "summary": "La compra de la división de entregas de Delivery Hero permitirá a Uber expandir su presencia en el mercado de reparto a domicilio a nivel global.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Nvidia y Japón construyen la primera infraestructura nacional de IA del mundo con más de 27.000 GPUs",
+    "summary": "El consorcio Noetra construirá un centro de datos con 27.500 GPUs Rubin de Nvidia para potenciar la investigación y el desarrollo de IA en Japón.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Elon Musk invirtió mil millones de dólares en una planta de energía para abastecer a su empresa de IA, xAI",
+    "summary": "La adquisición de APR Energy proporciona a la empresa de IA de Musk una capacidad de generación eléctrica de más de un gigavatio.",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El premio Nobel Demis Hassabis alerta sobre el riesgo de perder el control de la inteligencia artificial",
+    "summary": "El fundador de DeepMind y premio Nobel expresa su preocupación por la falta de garantías en el desarrollo de sistemas de inteligencia artificial avanzada.",
+    "source": [
+      "xataka.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Alemania aplica la ley de medios a los resúmenes generados por IA de Google y Perplexity en una decisión pionera",
+    "summary": "La decisión judicial establece un precedente al equiparar los resúmenes generados por IA con los contenidos editoriales tradicionales en términos regulatorios.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Científicos descubren una nueva especie de mono en la cuenca del Congo",
+    "summary": "El primate, bautizado como 'Likweli', fue hallado en la selva tropical congoleña y se suma a las especies de monos descubiertas en la última década.",
     "source": [
       "news.ycombinator.com"
     ],
     "count": 1
   },
   {
-    "title": "Elon Musk gastó cerca de 1.000 millones de dólares en una empresa energética para alimentar xAI",
-    "summary": "Según documentos regulatorios, Musk adquirió APR Energy, dueña de turbinas de gas y diésel con capacidad de más de 1 gigavatio, para suministrar electricidad a sus centros de inteligencia artificial.",
+    "title": "Starlink renueva su antena residencial para solucionar los problemas de tamaño y consumo de la generación anterior",
+    "summary": "La compañía de Elon Musk rediseña su terminal satelital para hacerla más compacta y eficiente, abordando las quejas de los usuarios.",
     "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Nvidia y Japón presentan la primera infraestructura nacional de IA del mundo",
-    "summary": "El consorcio Noetra construirá una fábrica de IA Rubin de 140 MW con 27.500 GPUs, marcando un hito en la colaboración público-privada para la inteligencia artificial.",
-    "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Zoom corrige una vulnerabilidad crítica en Windows que podría permitir el robo de cuentas",
-    "summary": "La falla de seguridad en la aplicación de videoconferencias para Windows exponía a los usuarios a un posible secuestro de cuenta, ya parcheada por la empresa.",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Cientos de personas protestan frente a la sede de Bethesda contra los despidos de Xbox",
-    "summary": "Los manifestantes reclaman a Microsoft que reconsidere los recortes de personal en sus estudios de videojuegos, que han afectado a numerosos empleados.",
-    "source": [
-      "/r/technology"
+      "xataka.com"
     ],
     "count": 1
   }
