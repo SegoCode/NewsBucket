@@ -1,7 +1,38 @@
 [
   {
-    "title": "GoogleがNotebookLMをGemini Notebookに改名、サードパーティアプリとの統合を追加",
-    "summary": "GoogleのAI搭載ノートツールがサービスの再編成の一環としてGeminiの名称を採用",
+    "title": "中国のオープンソースモデルKimi K3が世界最高のAIモデルと競合",
+    "summary": "中国のオープンモデルKimi K3が国際コミュニティを驚かせ、最先端の成果を達成し、GPT-5.6 SolやFable 5に迫り、中国の超安価なAIの終焉を告げる。",
+    "source": [
+      "producthunt.com",
+      "/r/technology",
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Lenovo、印刷式OLEDディスプレイを搭載した初のノートPC Legion R9000Pを発表",
+    "summary": "LenovoのLegion R9000Pは、TCL CSOTのインクジェット印刷技術で製造された240Hz OLEDパネルを採用し、コスト削減が期待される。",
+    "source": [
+      "hardzone.es",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "エミュレータRPCS3がPS3ゲームの75%をPCで実行可能に",
+    "summary": "オープンソースエミュレータRPCS3がPlayStation 3ゲームの4分の3をPCで実行できるようになった一方、ソニーはPS3とPS Vitaのデジタルストアを閉鎖する予定。",
+    "source": [
+      "videocardz.com",
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google、NotebookLMをGemini Notebookに名称変更し統合を可能に",
+    "summary": "AI搭載ノートアプリNotebookLMがGemini Notebookに名称変更され、Googleの検索アプリと統合される。",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com",
@@ -10,168 +41,137 @@
     "count": 3
   },
   {
-    "title": "OpenAIが初のハードウェアデバイス「Codex Micro」を発表：AIエージェントを制御するRGBマクロパッドとジョイスティック",
-    "summary": "このデバイスは13のプログラマブルキーとジョイスティックを備え、開発者はキーボードを使わずにAIエージェントと対話できます。",
+    "title": "SpaceX、Starship V3の打ち上げを土壇場で中止",
+    "summary": "SpaceXのStarship V3ロケットが2度の別々のインシデントで着火直後に打ち上げを中止。",
     "source": [
-      "the-decoder.com",
-      "tomshardware.com",
-      "producthunt.com"
+      "/r/technology",
+      "techcrunch.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "エミュレータRPCS3、PS3ゲームの75%をPCで実行可能に",
-    "summary": "オープンソースのエミュレータは改良を続けており、Sonyは2027年にPS3とPS Vitaのデジタルストアを閉鎖する準備を進めている。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "MSIとLenovo、インクジェット印刷のOLEDパネルを搭載した初のモニターとノートPCを発売",
-    "summary": "MSIのモニターとLenovoのノートPCはどちらもTCL CSOTのIJP技術で製造されたパネルを採用しており、コスト削減と画質向上を実現している。",
-    "source": [
-      "/r/hardware",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD Ryzen 7 7700X3DがNewegg限定で登場、性能は7800X3Dを下回る",
-    "summary": "このプロセッサは北米のNeweggでのみ入手可能で、初期テストによると同等の価格帯で7800X3Dよりも性能が低い。",
+    "title": "AMD Ryzen 7 7700X3DがNewegg限定で329ドルで販売",
+    "summary": "AMDの3D V-Cache搭載新プロセッサが北米のNeweggのみで入手可能で、レビューによると7800X3Dより性能は低いが安くはない。",
     "source": [
       "tomshardware.com",
-      "/r/hardware",
       "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "TSMC、アリゾナ州の新工場にさらに1000億ドルを投資へ",
-    "summary": "台湾の半導体大手の計画には、アリゾナ州に少なくとも4つの最先端工場を建設し、総額1000億ドルを追加投資することが含まれている。",
+    "title": "ユーザーがAIを手動で拒否する必要をなくすよう要請",
+    "summary": "RedditやWiredの論説記事は、企業がAI機能を有効にするオプションを提供する代わりに、ユーザーにオプトアウトを強制していることを批判。",
     "source": [
-      "/r/hardware",
-      "tomshardware.com"
+      "/r/technology",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "OnePlus、米国と欧州での事業を停止",
-    "summary": "中国企業は国際市場からの撤退を確認し、アジアに注力する。",
+    "title": "科学者、大気と生命の可能性を秘めた近くの岩石系太陽系外惑星を発見",
+    "summary": "恒星のハビタブルゾーンにある惑星が大気からヘリウムを放出しており、地球のような生命を宿す条件を満たす可能性がある。",
     "source": [
-      "news.ycombinator.com",
-      "/r/hardware"
+      "/r/technology",
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "生理トラッキングアプリがユーザーの同意なく健康データを共有",
-    "summary": "Mozillaの調査により、アプリ「Stardust」が機密データを分析会社に送信していることが判明。他の同様のアプリもプライバシーリスクがある。",
+    "title": "AI幹部が報復を恐れ、ハサビス氏はAIの制御不能を警告",
+    "summary": "AI業界のトップ幹部が自身の安全に対する恐怖を表明する一方、ノーベル賞受賞者のデミス・ハサビス氏は高度なシステムの制御を失うリスクについて警告。",
     "source": [
-      "news.ycombinator.com",
-      "techcrunch.com"
+      "xataka.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Spotify、保護者管理の子供向けアカウントを無料ユーザーとさらに多くの国に拡大",
-    "summary": "保護者は無料で子供用アカウントを作成し、コンテンツやアクティビティを管理できるようになった。",
-    "source": [
-      "kite.kagi.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Kimi、GPT-5.6 SolやClaude Fable 5に匹敵するオープンAIモデル「K3」を発表",
-    "summary": "Kimiの新しいオープン言語モデルは、最先端のプロプライエタリシステムと同等の性能を持ち、中国のAIにとって画期的な出来事となる。",
+    "title": "OpenAI、AIエージェントを制御するジョイスティック付きデバイスCodex Microを発表",
+    "summary": "キーとジョイスティックを備えた新しいRGBハードウェアにより、開発者はコマンドを入力することなく物理的にAIエージェントと対話できる。",
     "source": [
       "the-decoder.com",
-      "news.ycombinator.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Scattered Spiderグループのハッカー2名、ロンドン地下鉄攻撃で懲役5年半の判決",
-    "summary": "19歳と20歳のサイバー犯罪者は英警察に逮捕され、コンピュータ詐欺とデータ窃盗で有罪判決を受けた。",
+    "title": "ロンドン交通局へのサイバー攻撃で2人の若いハッカーに判決",
+    "summary": "Scattered Spiderグループのハッカーは、英国警察に逮捕された後、2900万ポンドの詐欺で懲役5.5年の判決を受けた。",
     "source": [
-      "thehackernews.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "SpaceX、Starship V3の2回目の打ち上げを点火後に急遽中止",
-    "summary": "SpaceXのロケットは理由不明で離陸できず、技術的なレビューが行われている。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "コカ・コーラ、ランサムウェア攻撃を受けて乳製品工場Fairlifeの生産を停止",
-    "summary": "このサイバー攻撃は乳製品工場のみに影響し、他の企業システムには波及しなかった。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Uber、Delivery Heroの配送事業を148億ドルで買収",
-    "summary": "Delivery Heroの配送部門の買収により、Uberは世界の宅配市場でのプレゼンスを拡大する。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Nvidiaと日本、27,000基以上のGPUを搭載した世界初の国家AIインフラを構築",
-    "summary": "Noetraコンソーシアムは、NvidiaのRubin GPU 27,500基を搭載したデータセンターを建設し、日本のAI研究開発を促進する。",
+    "title": "TSMC、アリゾナ州の2nm工場にさらに1000億ドルの追加投資を確認",
+    "summary": "半導体大手はアリゾナ州に少なくとも4つの新工場を建設すると発表し、総コミットメントを引き上げ、米国での歴史的な拡大を示す。",
     "source": [
       "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "イーロン・マスク、AI企業xAI向けに10億ドルを発電所に投資",
-    "summary": "APR Energyの買収により、マスクのAI企業は1ギガワット以上の発電能力を獲得した。",
+    "title": "リーナス・トーバルズ、Linuxカーネルにとって有用なツールとしてAIを擁護",
+    "summary": "Linuxの創設者は、プロジェクトは反AIではなく、AIは明らかに有用であり、コードレビュープロセスから除外する立場を拒否。",
     "source": [
       "tomshardware.com"
     ],
     "count": 1
   },
   {
-    "title": "ノーベル賞受賞者デミス・ハサビス氏、人工知能の制御を失うリスクを警告",
-    "summary": "DeepMind創業者でノーベル賞受賞者は、高度な人工知能システムの開発における保証の欠如について懸念を表明した。",
+    "title": "コカ・コーラ、ランサムウェア攻撃でFairlife牛乳の生産を停止",
+    "summary": "サイバー攻撃によりFairlife工場での生産が停止され、セキュリティチームが脅威の封じ込めに取り組んでいる。",
     "source": [
-      "xataka.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "ドイツ、GoogleとPerplexityのAI生成要約にメディア法を適用する先駆的判断",
-    "summary": "この判決は、AI生成の要約を規制上伝統的な編集コンテンツと同等とみなす先例を確立した。",
+    "title": "Uber、Delivery Heroを148億ドルで買収することで合意",
+    "summary": "ドイツのDelivery Heroの買収により、Uberのフードデリバリー市場における世界的なプレゼンスがほぼ倍増する。",
     "source": [
-      "the-decoder.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "科学者、コンゴ盆地で新種のサルを発見",
-    "summary": "「リクウェリ」と名付けられたこの霊長類はコンゴの熱帯雨林で発見され、過去10年間に発見されたサルの一種となる。",
+    "title": "韓国、溶融塩原子力コンテナ船の米国承認を取得",
+    "summary": "原子力推進を備えた革新的な貨物船の設計が米国政府の承認を得て、排出ゼロの海上輸送への道を開く。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "NTSB、テスラの死亡事故で運転手がアクセルを最大限踏んだことを確認",
+    "summary": "公式調査により、テキサス州での事故中にアクセルが100%踏み込まれていたことが判明し、機械的な故障は否定された。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Netflix、今年300の番組が生成AIを使用したことを明らかに",
+    "summary": "同社はコンテンツ制作におけるAIの広範な使用を認めたが、具体的な用途については詳しく述べていない。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "コンゴ盆地で新種のサルが発見され「Likweli」と命名",
+    "summary": "この霊長類はコンゴの熱帯雨林で確認され、地域の生物多様性にとって重要な発見である。",
     "source": [
       "news.ycombinator.com"
     ],
     "count": 1
   },
   {
-    "title": "Starlink、家庭用アンテナを刷新、前世代のサイズと消費電力の問題を解決",
-    "summary": "イーロン・マスクの会社は、ユーザーの不満に対処するため、衛星端末をよりコンパクトで効率的に再設計した。",
+    "title": "科学者、トランジスタに代わるものとして45ナノ秒で10万5000個のナノ発振器を同期",
+    "summary": "この大規模同期の達成は、超効率的で高速な次世代電子部品につながる可能性がある。",
     "source": [
-      "xataka.com"
+      "tomshardware.com"
     ],
     "count": 1
   }
