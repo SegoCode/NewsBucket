@@ -1,59 +1,47 @@
 [
   {
-    "title": "中国のモデルKimi K3が最大のオープンソースAIモデルとなり、Claude Fable 5をテストで上回る",
-    "summary": "Moonshot AIは2.8兆パラメータのモデルをリリースし、最高のクローズドモデルと競合し、オープンAIの画期的な出来事となる。",
+    "title": "中国の人工知能モデルKimi K3がFrontend Code Arenaでトップに立ち、世界的な話題を呼ぶ",
+    "summary": "Moonshot AIが最大のオープンソースモデルを発表し、OpenAIやAnthropicのクローズドモデルと直接競合する。",
     "source": [
+      "xataka.com",
+      "news.ycombinator.com",
       "tomshardware.com",
       "producthunt.com",
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "the-decoder.com"
     ],
-    "count": 4
+    "count": 5
   },
   {
-    "title": "Lenovo、世界初のインクジェット印刷OLEDディスプレイ搭載ノートパソコン「Legion R9000P」を発表",
-    "summary": "TCL CSOTのパネルは240Hzを提供し、ゲーミングノートPCにおけるOLED技術の低価格化を約束する。",
+    "title": "AppleがOpenAIを提訴し、IPOの遅延を脅かす",
+    "summary": "AppleはOpenAIの数十人の従業員に法的書簡を送り、IPOを危険にさらす戦いを繰り広げている。",
     "source": [
-      "hardzone.es",
-      "/r/hardware",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Google、NotebookLMをGemini Notebookに名称変更し、検索アプリと統合",
-    "summary": "AIベースのリサーチツールはGemini Notebookと名称変更され、外部アプリケーションとの連携が可能になる。",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com",
       "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "AMD、Newegg限定でRyzen 7 7700X3DをCPUとして発売、バンドル特典と好意的なレビュー",
-    "summary": "8コアの3D V-Cache搭載プロセッサはマザーボードとRAMとのお得なバンドルで販売され、レビューではゲーミング性能が強調されている。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com",
-      "/r/hardware"
+      "news.ycombinator.com",
+      "wired.com"
     ],
     "count": 3
   },
   {
-    "title": "EU、GoogleにAndroidを開放し競合AIアシスタントを許可、検索データ共有を命令",
-    "summary": "欧州委員会はGoogleに対し、競合他社にAndroidのマイク、カメラ、画面へのアクセスを提供するよう要求する独禁法措置。",
+    "title": "BethesdaがFallout 3とNew VegasのリマスターとFallout 5の開発を確認",
+    "summary": "ゲーム会社は、新作と改良版で終末後のシリーズを活性化する計画を発表。",
     "source": [
-      "thehackernews.com",
-      "kite.kagi.com"
+      "videocardz.com",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "TSMC、米国への投資を2650億ドルに増額、2nmチップを製造へ",
-    "summary": "台湾の半導体メーカーはアリゾナ州に追加で4工場を建設することを確認し、米国での賭けを強化。",
+    "title": "フロリダ州でSteamゲームのマルウェアを使って22万ドルの暗号通貨を盗んだ容疑者を逮捕",
+    "summary": "FBIによると、被告は人気タイトルに隠されたトロイの木馬で8000台のデバイスに感染させた。",
+    "source": [
+      "techcrunch.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "TSMC、アリゾナに4工場を建設するためさらに1000億ドルを投資へ",
+    "summary": "台湾メーカーの米国への総投資額は2650億ドルに上り、2nm技術に重点を置く。",
     "source": [
       "xataka.com",
       "/r/hardware"
@@ -61,8 +49,8 @@
     "count": 2
   },
   {
-    "title": "リーク情報によると、Intel Nova LakeプロセッサはCore Ultra 400と呼ばれ、2027年まで段階的に投入される見込み",
-    "summary": "新しい52コアチップは予想以上に時間がかかる可能性があり、発売は2027年末になる可能性がある。",
+    "title": "Intel、Nova LakeプロセッサをCore Ultra 400と命名し、段階的に発売へ",
+    "summary": "リーク情報によると、52コアのフラッグシップは2027年末まで登場しない見込み。",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -70,53 +58,17 @@
     "count": 2
   },
   {
-    "title": "リーナス・トーバルズ、LinuxカーネルでのAI使用を擁護し、批判者を非難",
-    "summary": "Linuxの創設者は、人工知能は有用なツールであり、Linuxプロジェクトは機械反対ではないと述べている。",
+    "title": "AMD Ryzen 7 7700X3DがNeweggでマザーボードとRAM付きの限定バンドルで450ドル",
+    "summary": "このパックは31％割引で、コンパクトで高性能な構成向けに設計されている。",
     "source": [
-      "the-decoder.com",
-      "tomshardware.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Apple、OpenAIを従業員引き抜きで提訴、数十人の元従業員に法的通知を送付",
-    "summary": "クパチーノの同社は、OpenAIが元従業員を不当に雇用し、秘密保持契約に違反している可能性があると非難している。",
-    "source": [
-      "news.ycombinator.com",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Roblox、モバイルアプリにAI搭載のゲーム作成ツールをリリース",
-    "summary": "新しいAI Build機能により、ユーザーは音声コマンドやテキストでシナリオやオブジェクトを生成できる。",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google検索のAIモード、サードパーティアプリと統合し直接アクションが可能に",
-    "summary": "AIモードはSpotifyやMapsなどのアプリと連携し、検索からタスクを実行できるようになり、機能が拡張される。",
-    "source": [
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "LG、モニターでのサイレントアップデートとテレメトリーによるユーザースパイ行為で非難される",
-    "summary": "Gamers Nexusの調査により、LGモニターが同意なしにソフトウェアをインストールし、サーバーにデータを送信していることが明らかになった。",
-    "source": [
-      "videocardz.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GPD、110W APU「Strix Halo」と165Hz OLEDディスプレイ搭載の携帯ゲーム機「Win Max 3」を確認",
-    "summary": "新しいポータブルゲーミングデバイスは、RDNA 5グラフィックスと高リフレッシュレートOLEDディスプレイを搭載し、市場で最も強力になると期待されている。",
+    "title": "GPD Win Max 3、110WのAMD Strix Haloプロセッサと165HzのOLEDディスプレイ搭載で確定",
+    "summary": "この携帯ゲーム機は最も強力になると期待され、Arc G3 Extremeバリアントも開発中。",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -124,58 +76,101 @@
     "count": 2
   },
   {
-    "title": "SpaceX、Starship V3の打ち上げを点火直後に緊急中断",
-    "summary": "宇宙会社のロケットはエンジンの異常により停止し、ミッションは未定の日程に延期された。",
+    "title": "Gamers Nexusの告発によると、LGがWindows Updateを介して同意なしにモニターにソフトウェアをインストール",
+    "summary": "監視ソフトウェアが許可なくインストールされ、ユーザーのプライバシーを侵害する可能性がある。",
     "source": [
-      "techcrunch.com"
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Amazon、AWS顧客に最大170億ドルの請求を発生させた課金エラーを修正",
+    "summary": "コスト見積もりシステムの欠陥により水増し請求が発生し、現在是正中。",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Mario Kart Wiiが静的再コンパイルによりPCに登場、4K対応と200以上のコースをサポート",
+    "summary": "ファンプロジェクトが初めてAIを使用してゲームを移植し、無制限のフレームレートを提供。",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国、対米AI戦争でDeepSeekをチャンピオンとして推進",
+    "summary": "アジアの国は、西側の技術と競争するために自国のAIエコシステムに賭けている。",
+    "source": [
+      "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "サンフランシスコ市長、Waymoのロボタクシーに対する規制強化を要請、交通事故を受けて",
-    "summary": "自動運転車による交通渋滞が発生し、市はこれらのサービスに対するより厳格な監視を求めることとなった。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "コカ・コーラ、ランサムウェア攻撃により「Fairlife」牛乳の生産を停止",
-    "summary": "乳製品ブランドの工場がランサムウェアに感染し、脅威を封じ込めるまで操業を停止した。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Scattered Spiderグループのメンバー2名、ロンドン地下鉄へのサイバー攻撃で5年半の刑に",
-    "summary": "ハッカーらはロンドンの公共交通機関を恐喝し、2900万ポンドを盗んだとして判決を受けた。",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "CISA、すでに悪用されているSharePointのゼロデイ脆弱性を警告",
-    "summary": "米国のサイバーセキュリティ機関は、リモートコード実行の重大な欠陥をアクティブな脆弱性カタログに追加した。",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Uber、フードデリバリー拡大のためDelivery Heroを148億ドルで買収",
-    "summary": "この買収により、Uberのグローバルなデリバリー分野での存在感はほぼ倍増し、特に北米以外の市場で顕著となる。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ドイツ、Google AI OverviewsやPerplexityのようなAI要約にメディア法を適用",
-    "summary": "州裁判所は、ニュースコンテンツを処理するAIシステムはドイツのメディア規制に準拠しなければならないとの判決を下した。",
+    "title": "Linus Torvalds、LinuxカーネルのAI批判者に「アスパラガスを揚げに行け」と強く反論",
+    "summary": "Linuxの創造者は、カーネル開発への人工知能ツールの統合を擁護。",
     "source": [
       "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Netflixが300のAIプロジェクトを制作、エンターテインメントにおけるテクノロジー導入のマイルストーンに",
+    "summary": "ストリーミングプラットフォームはコンテンツへのAI統合を加速させており、業界における止まらないトレンドを反映している。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "EU、Googleに競合アシスタントがAndroidのマイクとカメラにアクセスすることを義務付け",
+    "summary": "独占禁止法の決定は、AndroidデバイスにおけるサードパーティのAIアシスタントの競争条件を平等にすることを目的としている。",
+    "source": [
+      "thehackernews.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "オーストラリア、AIデータセンターに消費電力量と同量のエネルギー生成を要求",
+    "summary": "オーストラリア首相が、エネルギー効率とデータ保護を含む国家AIフレームワークを発表。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "米国議員、安全保障リスクで同盟国のサプライチェーンから中国製メモリチップを禁止へ",
+    "summary": "法案は、中国のメモリへの依存が国家安全保障にとって許容できないリスクをもたらすと見なしている。",
+    "source": [
+      "tomshardware.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "サンフランシスコ、AppleとGoogleに人物を裸にするAIアプリをストアから削除するよう要求",
+    "summary": "当局は、これらのアプリが同意なしに親密な画像を生成することでプライバシーを侵害すると主張。",
+    "source": [
+      "wired.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "サンフランシスコ市長、Waymoの事件を受けてロボタクシーにさらなる規制を提案",
+    "summary": "Waymoの自動運転車が煙で方向感覚を失い、交通混乱を引き起こし、より厳格な管理が求められている。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "SpaceX、2基目のStarship V3の打ち上げを点火から数秒後に中断",
+    "summary": "宇宙企業は異常により巨大ロケットの離陸を中止し、試験を延期、新たな日時は未定。",
+    "source": [
+      "techcrunch.com"
     ],
     "count": 1
   }
