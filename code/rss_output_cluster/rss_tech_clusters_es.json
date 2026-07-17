@@ -1,57 +1,68 @@
 [
   {
-    "title": "El modelo chino de código abierto Kimi K3 compite con los mejores modelos de IA del mundo",
-    "summary": "El modelo abierto Kimi K3 de China sorprende a la comunidad internacional al alcanzar resultados de nivel fronterizo, acercándose a GPT-5.6 Sol y Fable 5, y marca el fin de la IA china súper barata.",
+    "title": "El modelo chino Kimi K3 se convierte en el mayor modelo de IA de código abierto y supera a Claude Fable 5 en pruebas",
+    "summary": "Moonshot AI lanza un modelo de 2,8 billones de parámetros que compite con los mejores modelos cerrados, marcando un hito en la IA abierta.",
     "source": [
+      "tomshardware.com",
       "producthunt.com",
-      "/r/technology",
       "the-decoder.com",
       "news.ycombinator.com"
     ],
     "count": 4
   },
   {
-    "title": "Lenovo presenta el primer portátil con pantalla OLED impresa, Legion R9000P",
-    "summary": "El Legion R9000P de Lenovo incorpora un panel OLED de 240 Hz fabricado con tecnología de impresión por inyección de tinta de TCL CSOT, lo que promete abaratar los costos.",
+    "title": "Lenovo presenta el primer portátil del mundo con pantalla OLED impresa por inyección de tinta, el Legion R9000P",
+    "summary": "El panel de TCL CSOT ofrece 240 Hz y promete abaratar la tecnología OLED en portátiles gaming.",
     "source": [
       "hardzone.es",
+      "/r/hardware",
       "videocardz.com",
       "tomshardware.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "El emulador RPCS3 alcanza el 75% de juegos de PS3 ejecutables en PC",
-    "summary": "El emulador de código abierto RPCS3 logra ejecutar tres cuartas partes de los juegos de PlayStation 3 en ordenadores, mientras Sony planea cerrar la tienda digital de PS3 y PS Vita.",
-    "source": [
-      "videocardz.com",
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google renombra NotebookLM como Gemini Notebook y habilita integraciones",
-    "summary": "La aplicación de notas con inteligencia artificial NotebookLM pasa a llamarse Gemini Notebook y se integra con la app de búsqueda de Google.",
+    "title": "Google cambia el nombre de NotebookLM a Gemini Notebook y lo integra con su app de búsqueda",
+    "summary": "La herramienta de investigación basada en IA ahora se llama Gemini Notebook y permite interacciones con aplicaciones externas.",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "AMD lanza el Ryzen 7 7700X3D como CPU exclusiva en Newegg con ofertas de paquete y análisis favorables",
+    "summary": "El procesador con 3D V-Cache de 8 núcleos se vende en bundles económicos con placa base y RAM, mientras las reseñas destacan su rendimiento gaming.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com",
+      "/r/hardware"
     ],
     "count": 3
   },
   {
-    "title": "SpaceX aborta el lanzamiento del Starship V3 en el último momento",
-    "summary": "El cohete Starship V3 de SpaceX aborta su lanzamiento segundos después de la ignición, en dos incidentes separados.",
+    "title": "La UE ordena a Google abrir Android para permitir asistentes de IA rivales y compartir datos de búsqueda",
+    "summary": "La Comisión Europea exige a Google que dé acceso a micrófono, cámara y pantalla de Android a competidores, en una medida antimonopolio.",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
+      "thehackernews.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD Ryzen 7 7700X3D se vende como exclusivo en Newegg por 329 dólares",
-    "summary": "El nuevo procesador con 3D V-Cache de AMD está disponible solo en Newegg en Norteamérica, y las reseñas indican que ofrece menor rendimiento que el 7800X3D pero no más barato.",
+    "title": "TSMC aumenta su inversión en Estados Unidos a 265.000 millones de dólares para fabricar chips de 2 nm",
+    "summary": "El fabricante taiwanés confirma la construcción de cuatro fábricas adicionales en Arizona, elevando su apuesta en suelo estadounidense.",
+    "source": [
+      "xataka.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Filtraciones apuntan a que los procesadores Intel Nova Lake se llamarán Core Ultra 400 y llegarán escalonadamente hasta 2027",
+    "summary": "Los nuevos chips de 52 núcleos podrían tardar más de lo esperado, con una fecha de lanzamiento posiblemente a finales de 2027.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -59,35 +70,8 @@
     "count": 2
   },
   {
-    "title": "Usuarios piden dejar de tener que rechazar la inteligencia artificial manualmente",
-    "summary": "Artículos de opinión en Reddit y Wired critican que las empresas obliguen a los usuarios a optar por no participar en funciones de IA, en lugar de ofrecer la opción de activarlas.",
-    "source": [
-      "/r/technology",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Científicos descubren un exoplaneta rocoso cercano con atmósfera y posibles condiciones de vida",
-    "summary": "Un planeta en la zona habitable de su estrella muestra helio escapando de su atmósfera y podría reunir las condiciones para albergar vida similar a la Tierra.",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Ejecutivos de IA temen represalias y Hassabis advierte sobre perder el control de la inteligencia artificial",
-    "summary": "Altos ejecutivos del sector de IA expresan miedo por su seguridad, mientras que el premio Nobel Demis Hassabis alerta sobre el riesgo de perder el control de sistemas avanzados.",
-    "source": [
-      "xataka.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI presenta Codex Micro, un dispositivo con joystick para controlar agentes de IA",
-    "summary": "El nuevo hardware RGB con teclas y joystick permite a los desarrolladores interactuar con agentes de IA de manera física, eliminando la necesidad de escribir comandos.",
+    "title": "Linus Torvalds defiende el uso de IA en el kernel de Linux y critica a los detractores",
+    "summary": "El creador de Linux afirma que la inteligencia artificial es una herramienta útil y que el proyecto Linux no es antimáquinas.",
     "source": [
       "the-decoder.com",
       "tomshardware.com"
@@ -95,83 +79,103 @@
     "count": 2
   },
   {
-    "title": "Dos jóvenes hackers sentenciados por el ciberataque a Transport for London",
-    "summary": "Los hackers del grupo Scattered Spider reciben sentencias de 5.5 años por el fraude de 29 millones de libras esterlinas, tras ser arrestados por la policía británica.",
+    "title": "Apple demanda a OpenAI por cazar empleados y envía cartas legales a docenas de exempleados",
+    "summary": "La compañía de Cupertino acusa a OpenAI de contratar injustamente a antiguos empleados en posible violación de acuerdos de confidencialidad.",
     "source": [
-      "techcrunch.com",
-      "thehackernews.com"
+      "news.ycombinator.com",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "TSMC confirma inversión adicional de 100 mil millones de dólares en fábricas de 2 nm en Arizona",
-    "summary": "El gigante de semiconductores anuncia la construcción de al menos cuatro nuevas fábricas en Arizona, elevando su compromiso total y marcando una expansión histórica en EE.UU.",
+    "title": "Roblox lanza una herramienta de creación de juegos impulsada por IA en su aplicación móvil",
+    "summary": "La nueva función AI Build permite a los usuarios generar escenarios y objetos mediante comandos de voz y texto.",
     "source": [
-      "tomshardware.com"
+      "techcrunch.com",
+      "kite.kagi.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Linus Torvalds defiende la inteligencia artificial como herramienta útil para el kernel de Linux",
-    "summary": "El creador de Linux asegura que el proyecto no es anti-IA y que la IA es claramente útil, rechazando posturas que la excluyan del proceso de revisión de código.",
+    "title": "El modo de IA de Google Search ahora se integra con aplicaciones de terceros y permite acciones directas",
+    "summary": "AI Mode puede vincularse con apps como Spotify y Maps para realizar tareas desde la búsqueda, ampliando su funcionalidad.",
     "source": [
-      "tomshardware.com"
+      "kite.kagi.com",
+      "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Coca-Cola suspende producción de leche Fairlife por ataque de ransomware",
-    "summary": "El ciberataque obligó a detener la producción en la planta de Fairlife, mientras los equipos de seguridad trabajan para contener la amenaza.",
+    "title": "LG es acusada de espiar a los usuarios mediante actualizaciones silenciosas y telemetría en sus monitores",
+    "summary": "Una investigación de Gamers Nexus revela que los monitores LG instalan software sin consentimiento y envían datos a sus servidores.",
+    "source": [
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GPD confirma la consola portátil Win Max 3 con APU Strix Halo de 110 W y pantalla OLED de 165 Hz",
+    "summary": "El nuevo dispositivo gaming portátil promete ser el más potente del mercado con gráficos RDNA 5 y una pantalla OLED de alta frecuencia.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX aborta de emergencia el lanzamiento del Starship V3 segundos después de la ignición",
+    "summary": "El cohete de la compañía espacial se detuvo por una anomalía en los motores, posponiendo la misión para una fecha no determinada.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Uber acuerda comprar Delivery Hero por 14.800 millones de dólares",
-    "summary": "La adquisición de la alemana Delivery Hero casi duplicaría la presencia global de Uber en el mercado de reparto de comida.",
+    "title": "El alcalde de San Francisco pide endurecer las reglas para los robotaxis Waymo tras un incidente vial",
+    "summary": "Un atasco provocado por un vehículo autónomo llevó a la ciudad a exigir una supervisión más estricta de estos servicios.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Corea del Sur recibe aprobación de EE.UU. para un buque portacontenedores nuclear de sales fundidas",
-    "summary": "El diseño revolucionario de barco de carga con propulsión nuclear recibe luz verde de la administración estadounidense, abriendo paso al transporte marítimo sin emisiones.",
+    "title": "Coca-Cola paraliza la producción de su leche Fairlife por un ataque de ransomware",
+    "summary": "La planta de la marca de lácteos fue infectada con un ransomware, obligando a detener las operaciones hasta contener la amenaza.",
     "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "NTSB confirma que conductor de Tesla en accidente fatal pisó el acelerador al máximo",
-    "summary": "La investigación oficial determina que el acelerador fue presionado al 100% durante el accidente en Texas, descartando fallos mecánicos.",
+    "title": "Dos miembros del grupo Scattered Spider condenados a cinco años y medio por el ciberataque al metro de Londres",
+    "summary": "Los hackers fueron sentenciados por extorsionar al transporte público londinense y robar 29 millones de libras.",
     "source": [
-      "/r/technology"
+      "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "Netflix revela que 300 de sus programas usaron inteligencia artificial generativa este año",
-    "summary": "La compañía confirma el uso generalizado de IA en la producción de contenido, aunque no detalla las aplicaciones específicas.",
+    "title": "CISA alerta sobre una vulnerabilidad de día cero en SharePoint que ya está siendo explotada",
+    "summary": "La agencia de ciberseguridad de EE.UU. agregó una falla crítica de ejecución remota de código a su catálogo de vulnerabilidades activas.",
     "source": [
-      "/r/technology"
+      "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "Descubren una nueva especie de mono en la cuenca del Congo bautizada como 'Likweli'",
-    "summary": "El primate fue identificado en la selva congoleña y representa un hallazgo significativo para la biodiversidad de la región.",
+    "title": "Uber adquiere Delivery Hero por 14.800 millones de dólares para expandirse en el reparto de comida",
+    "summary": "La compra casi duplicará la presencia global de Uber en el sector de delivery, especialmente en mercados fuera de Norteamérica.",
     "source": [
-      "news.ycombinator.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Científicos sincronizan 105.000 nano-osciladores en 45 nanosegundos como alternativa a los transistores",
-    "summary": "El hito de sincronización masiva podría conducir a una nueva generación de componentes electrónicos ultraeficientes y rápidos.",
+    "title": "Alemania aplica la ley de medios a los resúmenes de inteligencia artificial como Google AI Overviews y Perplexity",
+    "summary": "Un tribunal estatal dictaminó que los sistemas de IA que procesan contenido noticioso deben cumplir con la regulación mediática alemana.",
     "source": [
-      "tomshardware.com"
+      "the-decoder.com"
     ],
     "count": 1
   }

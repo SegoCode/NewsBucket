@@ -1,57 +1,68 @@
 [
   {
-    "title": "Chinese open-source model Kimi K3 competes with the world's best AI models",
-    "summary": "China's open model Kimi K3 surprises the international community by achieving frontier-level results, approaching GPT-5.6 Sol and Fable 5, and marks the end of ultra-cheap Chinese AI.",
+    "title": "Chinese model Kimi K3 becomes the largest open-source AI model and surpasses Claude Fable 5 in tests",
+    "summary": "Moonshot AI launches a 2.8 trillion parameter model that competes with the best closed models, marking a milestone in open AI.",
     "source": [
+      "tomshardware.com",
       "producthunt.com",
-      "/r/technology",
       "the-decoder.com",
       "news.ycombinator.com"
     ],
     "count": 4
   },
   {
-    "title": "Lenovo unveils the first laptop with printed OLED display, Legion R9000P",
-    "summary": "Lenovo's Legion R9000P features a 240 Hz OLED panel manufactured with TCL CSOT's inkjet printing technology, which promises to lower costs.",
+    "title": "Lenovo presents the world's first laptop with inkjet-printed OLED screen, the Legion R9000P",
+    "summary": "The TCL CSOT panel offers 240 Hz and promises to make OLED technology cheaper in gaming laptops.",
     "source": [
       "hardzone.es",
+      "/r/hardware",
       "videocardz.com",
       "tomshardware.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "RPCS3 emulator reaches 75% of PS3 games playable on PC",
-    "summary": "The open-source emulator RPCS3 manages to run three-quarters of PlayStation 3 games on computers, while Sony plans to close the PS3 and PS Vita digital store.",
-    "source": [
-      "videocardz.com",
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google renames NotebookLM to Gemini Notebook and enables integrations",
-    "summary": "The AI note-taking app NotebookLM is renamed Gemini Notebook and integrates with Google's search app.",
+    "title": "Google renames NotebookLM to Gemini Notebook and integrates it with its search app",
+    "summary": "The AI-based research tool is now called Gemini Notebook and allows interactions with external applications.",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "AMD launches Ryzen 7 7700X3D as Newegg-exclusive CPU with bundle deals and favorable reviews",
+    "summary": "The 8-core 3D V-Cache processor is sold in affordable bundles with motherboard and RAM, while reviews highlight its gaming performance.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com",
+      "/r/hardware"
     ],
     "count": 3
   },
   {
-    "title": "SpaceX aborts Starship V3 launch at the last moment",
-    "summary": "SpaceX's Starship V3 rocket aborts its launch seconds after ignition, in two separate incidents.",
+    "title": "EU orders Google to open Android to allow rival AI assistants and share search data",
+    "summary": "The European Commission requires Google to grant competitors access to Android's microphone, camera, and screen, in an antitrust measure.",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
+      "thehackernews.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD Ryzen 7 7700X3D sold as Newegg exclusive for $329",
-    "summary": "AMD's new processor with 3D V-Cache is available only at Newegg in North America, and reviews indicate it offers lower performance than the 7800X3D but is not cheaper.",
+    "title": "TSMC increases its investment in the US to $265 billion to manufacture 2 nm chips",
+    "summary": "The Taiwanese manufacturer confirms the construction of four additional factories in Arizona, increasing its bet on US soil.",
+    "source": [
+      "xataka.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Leaks suggest Intel Nova Lake processors will be called Core Ultra 400 and will arrive in stages until 2027",
+    "summary": "The new 52-core chips could take longer than expected, with a release date possibly in late 2027.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -59,35 +70,8 @@
     "count": 2
   },
   {
-    "title": "Users demand to stop having to manually opt out of artificial intelligence",
-    "summary": "Opinion articles on Reddit and Wired criticize that companies force users to opt out of AI features, instead of offering the option to enable them.",
-    "source": [
-      "/r/technology",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Scientists discover nearby rocky exoplanet with atmosphere and possible life conditions",
-    "summary": "A planet in its star's habitable zone shows helium escaping from its atmosphere and could have the conditions to host Earth-like life.",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AI executives fear retaliation and Hassabis warns about losing control of artificial intelligence",
-    "summary": "High-level AI executives express fear for their safety, while Nobel laureate Demis Hassabis warns about the risk of losing control of advanced systems.",
-    "source": [
-      "xataka.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI introduces Codex Micro, a device with joystick to control AI agents",
-    "summary": "The new RGB hardware with keys and joystick allows developers to physically interact with AI agents, eliminating the need to type commands.",
+    "title": "Linus Torvalds defends use of AI in Linux kernel and criticizes detractors",
+    "summary": "The creator of Linux states that artificial intelligence is a useful tool and that the Linux project is not anti-machine.",
     "source": [
       "the-decoder.com",
       "tomshardware.com"
@@ -95,83 +79,103 @@
     "count": 2
   },
   {
-    "title": "Two young hackers sentenced for cyberattack on Transport for London",
-    "summary": "Hackers from the Scattered Spider group receive sentences of 5.5 years for the £29 million fraud, after being arrested by British police.",
+    "title": "Apple sues OpenAI for poaching employees and sends legal letters to dozens of ex-employees",
+    "summary": "The Cupertino company accuses OpenAI of unfairly hiring former employees in possible violation of confidentiality agreements.",
     "source": [
-      "techcrunch.com",
-      "thehackernews.com"
+      "news.ycombinator.com",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "TSMC confirms additional $100 billion investment in 2nm factories in Arizona",
-    "summary": "The semiconductor giant announces the construction of at least four new factories in Arizona, raising its total commitment and marking a historic expansion in the US.",
+    "title": "Roblox launches an AI-powered game creation tool in its mobile app",
+    "summary": "The new AI Build feature allows users to generate scenes and objects using voice and text commands.",
     "source": [
-      "tomshardware.com"
+      "techcrunch.com",
+      "kite.kagi.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Linus Torvalds defends artificial intelligence as a useful tool for the Linux kernel",
-    "summary": "The creator of Linux assures that the project is not anti-AI and that AI is clearly useful, rejecting positions that exclude it from the code review process.",
+    "title": "Google Search's AI mode now integrates with third-party apps and allows direct actions",
+    "summary": "AI Mode can be linked with apps like Spotify and Maps to perform tasks from search, expanding its functionality.",
     "source": [
-      "tomshardware.com"
+      "kite.kagi.com",
+      "techcrunch.com"
     ],
-    "count": 1
+    "count": 2
   },
   {
-    "title": "Coca-Cola suspends Fairlife milk production due to ransomware attack",
-    "summary": "The cyberattack forced production to stop at the Fairlife plant, while security teams work to contain the threat.",
+    "title": "LG accused of spying on users through silent updates and telemetry on its monitors",
+    "summary": "An investigation by Gamers Nexus reveals that LG monitors install software without consent and send data to its servers.",
+    "source": [
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GPD confirms Win Max 3 handheld console with 110W Strix Halo APU and 165 Hz OLED screen",
+    "summary": "The new portable gaming device promises to be the most powerful on the market with RDNA 5 graphics and a high-frequency OLED screen.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX aborts launch of Starship V3 seconds after ignition",
+    "summary": "The space company's rocket stopped due to a motor anomaly, postponing the mission indefinitely.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Uber agrees to buy Delivery Hero for $14.8 billion",
-    "summary": "The acquisition of German Delivery Hero would nearly double Uber's global presence in the food delivery market.",
+    "title": "San Francisco mayor calls for stricter rules for Waymo robotaxis after road incident",
+    "summary": "A traffic jam caused by an autonomous vehicle led the city to demand stricter oversight of these services.",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "South Korea receives US approval for a molten salt nuclear container ship",
-    "summary": "The revolutionary design of a nuclear-powered cargo ship gets the green light from the US administration, paving the way for emission-free maritime transport.",
+    "title": "Coca-Cola halts production of its Fairlife milk due to ransomware attack",
+    "summary": "The dairy brand's plant was infected with ransomware, forcing operations to stop until the threat was contained.",
     "source": [
-      "/r/technology"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "NTSB confirms Tesla driver in fatal accident pressed accelerator fully",
-    "summary": "The official investigation determines that the accelerator was pressed 100% during the crash in Texas, ruling out mechanical failures.",
+    "title": "Two members of Scattered Spider group sentenced to five and a half years for cyberattack on London Underground",
+    "summary": "The hackers were sentenced for extorting London public transport and stealing £29 million.",
     "source": [
-      "/r/technology"
+      "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "Netflix reveals that 300 of its shows used generative artificial intelligence this year",
-    "summary": "The company confirms widespread use of AI in content production, though it does not detail specific applications.",
+    "title": "CISA warns about zero-day vulnerability in SharePoint that is already being exploited",
+    "summary": "The US cybersecurity agency added a critical remote code execution flaw to its catalog of actively exploited vulnerabilities.",
     "source": [
-      "/r/technology"
+      "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "New species of monkey discovered in the Congo basin named 'Likweli'",
-    "summary": "The primate was identified in the Congolese jungle and represents a significant find for the region's biodiversity.",
+    "title": "Uber acquires Delivery Hero for $14.8 billion to expand in food delivery",
+    "summary": "The purchase will nearly double Uber's global presence in the delivery sector, especially in markets outside North America.",
     "source": [
-      "news.ycombinator.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "Scientists synchronize 105,000 nano-oscillators in 45 nanoseconds as an alternative to transistors",
-    "summary": "The massive synchronization milestone could lead to a new generation of ultra-efficient and fast electronic components.",
+    "title": "Germany applies media law to artificial intelligence summaries like Google AI Overviews and Perplexity",
+    "summary": "A state court ruled that AI systems processing news content must comply with German media regulation.",
     "source": [
-      "tomshardware.com"
+      "the-decoder.com"
     ],
     "count": 1
   }

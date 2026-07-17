@@ -1,65 +1,74 @@
 [
   {
-    "title": "Global markets fall amid tech sell-off and geopolitical tensions",
-    "summary": "Stock indices in the US, Europe, and Asia experience heavy losses due to reversal of AI trade and escalation in the Middle East.",
+    "title": "Global market fall due to the collapse of technology stocks and artificial intelligence",
+    "summary": "Global stock markets register significant losses led by the technology sector, with the Nasdaq falling nearly 2%, dragged by concerns about AI valuations, chips, and geopolitical tensions in the Middle East.",
     "source": [
-      "handelsblatt.com",
-      "expansion.com",
       "ft.com",
-      "bolsamania.com",
       "investing.com",
+      "bolsamania.com",
+      "expansion.com",
+      "handelsblatt.com",
       "/r/stocks",
+      "nasdaq.com",
       "nikkei.com"
     ],
-    "count": 7
+    "count": 8
   },
   {
-    "title": "SpaceX plummets on stock exchange after postponing launch and falling below initial price",
-    "summary": "Shares of the space company lose value after suspending a launch, and several analysts forecast further declines.",
+    "title": "Escalation in Iran and tensions in the Strait of Hormuz fuel energy uncertainty",
+    "summary": "The conflict in the Middle East hits gold, silver and cryptocurrency prices, while Chevron and the U.S. seek alternative routes to the Strait of Hormuz and the energy sector leads gains in the markets.",
     "source": [
-      "bolsamania.com",
-      "nasdaq.com",
-      "/r/stocks",
+      "finance.yahoo.com",
+      "investing.com",
       "expansion.com",
-      "handelsblatt.com"
+      "ft.com",
+      "nasdaq.com"
     ],
     "count": 5
   },
   {
-    "title": "Netflix falls sharply on Wall Street as revenue and forecasts disappoint",
-    "summary": "The streaming platform reports mixed results and reduces quarterly disclosure, triggering mass selling.",
+    "title": "Netflix disappoints the market with its forecasts and its shares plummet on Wall Street",
+    "summary": "Although the company met revenue expectations, its weak forecast for the next quarter caused a sharp stock market decline and fueled general pessimism in the streaming sector.",
     "source": [
-      "bolsamania.com",
-      "/r/stocks",
+      "investing.com",
       "expansion.com",
-      "handelsblatt.com"
+      "handelsblatt.com",
+      "/r/stocks"
     ],
     "count": 4
   },
   {
-    "title": "Strait of Hormuz tensions threaten global oil supply",
-    "summary": "The risk of closure of the strait and Iranian attacks push up oil prices and pressure shipping companies.",
+    "title": "The future of artificial intelligence: massive investment in infrastructure and doubts about valuations",
+    "summary": "While ASML and Applied Digital advance in key AI capacity, analysts like Bernstein foresee an increase in cloud spending, although questions persist about whether the technology will replace traditional enterprise software.",
     "source": [
-      "nikkei.com",
-      "expansion.com",
       "ft.com",
-      "handelsblatt.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Uncertainty over artificial intelligence grows: Alphabet delays its model and Google loses ground",
-    "summary": "Several companies warn about overvaluation and AI delays, while New York freezes permits for data centers.",
-    "source": [
       "/r/stocks",
-      "expansion.com",
-      "bolsamania.com"
+      "nasdaq.com"
     ],
     "count": 3
   },
   {
-    "title": "Trump Media will sell fast access to the president's social media posts",
-    "summary": "The company offers banks priority access to Trump's posts, generating controversy in the markets.",
+    "title": "SpaceX shares fall below the IPO price after the abort of the Starship flight",
+    "summary": "The setback in the Starship rocket test and the general pressure on the IPO market sink the value of the space company, which loses a trillion dollars in market capitalization.",
+    "source": [
+      "/r/stocks",
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Digi rides a rollercoaster in its volatile stock market debut on the Spanish Stock Exchange",
+    "summary": "Telecommunications operator Digi Communications experienced a session of high volatility in its debut on the continuous market, with sharp initial gains that turned into falls of up to 8%.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Trump Media plans to sell ultra-fast access to the president's posts on Truth Social",
+    "summary": "Truth Social's proposal to offer a high-speed data feed on Donald Trump's posts generates criticism and doubts about its legality and its impact on financial markets.",
     "source": [
       "ft.com",
       "/r/stocks"
@@ -67,119 +76,110 @@
     "count": 2
   },
   {
-    "title": "ASSA ABLOY reports strong second-quarter earnings, shares rise",
-    "summary": "The Swedish lock maker beats expectations and reports an increase in revenue.",
+    "title": "Mixed inflation, public debt and import figures set the agenda for central banks",
+    "summary": "Inflation in the euro zone moderates slightly while import prices in the U.S. rise unexpectedly and the Bank of England faces pressure to slow its long-term bond sales.",
     "source": [
-      "investing.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Changes in retirement plans: the successor to Riester and Social Security updates",
-    "summary": "Germany and the US propose modifications to pension systems to adapt to new needs.",
-    "source": [
+      "nasdaq.com",
       "handelsblatt.com",
-      "nasdaq.com"
+      "bolsamania.com",
+      "ft.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "Yen weakens, Euribor rises slightly in currency markets",
-    "summary": "The Japanese currency remains at lows against the dollar, while the daily Euribor picks up.",
+    "title": "The Ibex 35 gives ground dragged by the global tech sell-off and tension in the Middle East",
+    "summary": "The Spanish benchmark closes the session lower, with BBVA, ArcelorMittal and ACS as the worst performers, while Endesa, Redeia and Telefónica try to contain losses for the day.",
     "source": [
-      "nikkei.com",
+      "bolsamania.com",
       "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "Fines and financial penalties: PwC and Macquarie banker face regulatory actions",
-    "summary": "British regulator fines PwC for audit failures and a banker receives conviction for Cum-Ex scandal.",
+    "title": "Uber agrees to buy Delivery Hero for $14.8 billion in a historic deal",
+    "summary": "The acquisition could redefine the global food delivery market, consolidating Uber's position and signaling the possible end of the price war in the sector.",
     "source": [
-      "ft.com",
+      "/r/stocks"
+    ],
+    "count": 1
+  },
+  {
+    "title": "German government backs down from blocking the takeover bid for Commerzbank",
+    "summary": "The federal administration modifies its stance on the possible acquisition of the German bank, paving the way for further consolidation in the country's financial sector.",
+    "source": [
       "handelsblatt.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Second-quarter results in Europe: Berner, Saab, Danske Bank and other companies beat expectations",
-    "summary": "Various European companies report positive quarterly earnings, driven by growth in their sectors.",
-    "source": [
-      "investing.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Bitcoin falls to $62,884 amid volatility",
-    "summary": "The leading cryptocurrency edges lower in recent sessions, while crypto stocks perform better.",
+    "title": "Warren Buffett announces he will sell all his Berkshire Hathaway shares by 2034",
+    "summary": "The legendary investor reveals his plan to gradually liquidate his stake in the conglomerate to donate his entire fortune to various charitable foundations.",
     "source": [
       "expansion.com"
     ],
     "count": 1
   },
   {
-    "title": "Digi has a volatile stock market debut with sharp ups and downs",
-    "summary": "The telecom operator makes its market debut with a roller-coaster trading, ending lower.",
+    "title": "PayPal management considers the received acquisition offer insufficient",
+    "summary": "Executives of the payments platform evaluate the purchase proposal but consider it below the company's real value, waiting for possible new offers.",
     "source": [
-      "expansion.com"
+      "handelsblatt.com"
     ],
     "count": 1
   },
   {
-    "title": "Russian attacks threaten Ukrainian grain trade in the Black Sea",
-    "summary": "Hostilities put Ukraine's agricultural exports at risk and heighten uncertainty in the global market.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Digital euro prepares for beta testing phase",
-    "summary": "The European Central Bank moves forward with the launch of the official digital currency with experimental tests.",
+    "title": "Dassault Systèmes negotiates purchase of a clinical trial software company for 2 billion",
+    "summary": "The French industrial software firm is in advanced talks to acquire a technology platform that optimizes pharmaceutical trials and medical research.",
     "source": [
       "ft.com"
     ],
     "count": 1
   },
   {
-    "title": "Dassault Systèmes negotiates purchase of clinical trial software group for 2 billion",
-    "summary": "The French industrial software company seeks to expand in the pharmaceutical sector with this acquisition.",
+    "title": "Crypto.com reaches a valuation of $20 billion after investment from Citadel Securities",
+    "summary": "The cryptocurrency exchange receives a significant capital injection from the trading giant, which boosts its market valuation and strengthens its position in the crypto industry.",
     "source": [
       "ft.com"
     ],
     "count": 1
   },
   {
-    "title": "India ramps up search for uranium and critical minerals, prepares $1 billion IPO",
-    "summary": "The Indian government boosts its energy security and markets await the IPO of SBI Funds Management.",
-    "source": [
-      "ft.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "S&P 500 shows ominous warning seen only once before",
-    "summary": "A historical pattern in the US index suggests potential future declines according to analysts.",
+    "title": "High expectations for Tesla's quarterly results scheduled for July 22",
+    "summary": "Investors await the figures from Elon Musk's company amid volatility in the technology sector and growing doubts about global demand for electric vehicles.",
     "source": [
       "nasdaq.com"
     ],
     "count": 1
   },
   {
-    "title": "History suggests Nvidia shares could be cheap, but investors hesitate",
-    "summary": "Despite their relative low price, uncertainties in the semiconductor market create caution.",
+    "title": "India intensifies its economic strategy with uranium exploration and a $1 billion IPO",
+    "summary": "The Modi government accelerates the exploration of critical minerals for the energy transition, while SBI Funds Management prepares to go public in a key move for Indian markets.",
     "source": [
-      "nasdaq.com"
+      "ft.com"
     ],
     "count": 1
   },
   {
-    "title": "Elon Musk maintains his view on Tesla, should investors buy the dip?",
-    "summary": "The CEO's optimism contrasts with the recent weakness of the stock, which some see as an opportunity.",
+    "title": "A Trump teleprompter operator under scrutiny for betting on prediction markets",
+    "summary": "The activity of the campaign employee on political betting platforms attracts regulatory scrutiny, in a context of growing tension in the US political environment.",
     "source": [
-      "nasdaq.com"
+      "ft.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Sweetgreen recovers on the stock market while Taco Bell suffers the consequences of the vegetable panic",
+    "summary": "The salad chain benefits from the fresh produce supply crisis affecting its competitor, reversing initial losses and closing the session in positive territory.",
+    "source": [
+      "investing.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Botswana reveals that Anglo American has already selected a buyer for the historic De Beers",
+    "summary": "The Botswana government announces that mining giant Anglo American has chosen a preferred bidder for the acquisition of the diamond company, evaluating the optimal structure of the transaction.",
+    "source": [
+      "investing.com"
     ],
     "count": 1
   }
