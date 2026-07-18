@@ -1,54 +1,139 @@
 [
   {
-    "title": "Apple supera a Nvidia y se convierte en la empresa más valiosa del mundo",
-    "summary": "El valor bursátil de Apple superó temporalmente al del fabricante de chips Nvidia, devolviéndole el puesto de compañía más capitalizada del mundo.",
+    "title": "El petróleo se dispara ante la escalada del conflicto entre Irán y Estados Unidos",
+    "summary": "Los precios del crudo suben hasta un 30% por los ataques de Irán y el temor a un bloqueo del estrecho de Ormuz.",
     "source": [
-      "handelsblatt.com",
-      "/r/stocks",
-      "nikkei.com",
       "nasdaq.com",
-      "ft.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Las acciones de semiconductores sufren su peor semana en más de un año y arrastran a los mercados globales",
-    "summary": "Una fuerte ola de ventas en el sector tecnológico, impulsada por el impacto de la inteligencia artificial china y dudas sobre la demanda, provoca desplomes en los índices bursátiles.",
-    "source": [
-      "/r/stocks",
       "investing.com",
-      "nikkei.com",
-      "ft.com",
+      "/r/stocks",
       "expansion.com",
-      "handelsblatt.com"
+      "bolsamania.com",
+      "ft.com"
     ],
     "count": 6
   },
   {
-    "title": "El petróleo se dispara por la escalada del conflicto entre Irán y Estados Unidos",
-    "summary": "Los ataques continuos y las tensiones en Oriente Medio elevan el precio del crudo, benefician a las refinerías y reavivan el debate sobre la seguridad energética en el estrecho de Ormuz.",
+    "title": "SpaceX sufre un nuevo revés al abortar el vuelo de prueba del Starship y su acción cae en bolsa",
+    "summary": "El cohete no pudo completar el lanzamiento previsto, lo que intensifica la presión sobre la empresa tras su reciente salida a Bolsa.",
     "source": [
-      "nikkei.com",
-      "/r/stocks",
-      "expansion.com",
+      "nasdaq.com",
       "bolsamania.com",
-      "ft.com"
+      "ft.com",
+      "handelsblatt.com",
+      "/r/stocks"
     ],
     "count": 5
   },
   {
-    "title": "Las acciones de SpaceX se desploman tras el aborto del vuelo de prueba del Starship",
-    "summary": "El fallido lanzamiento del cohete Starship provoca una caída en la cotización de la compañía, que ya arrastraba pérdidas desde su reciente salida a bolsa.",
+    "title": "Apple supera a Nvidia y recupera el título de empresa más valiosa del mundo",
+    "summary": "El fabricante del iPhone destrona al gigante de los semiconductores en capitalización bursátil, impulsado por el optimismo en inteligencia artificial.",
+    "source": [
+      "handelsblatt.com",
+      "/r/stocks",
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Los valores de semiconductores sufren un fuerte desplome y arrastran a los mercados globales",
+    "summary": "Las acciones de Nvidia y otras compañías tecnológicas caen ante el temor a una burbuja de IA y la escalada geopolítica.",
+    "source": [
+      "/r/stocks",
+      "ft.com",
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Los mercados de valores cierran a la baja lastrados por la tecnología y el conflicto en Oriente Medio",
+    "summary": "El Dow Jones, el S&P 500 y el Nasdaq registran pérdidas en una jornada marcada por la incertidumbre bélica y el desplome de los chips.",
     "source": [
       "bolsamania.com",
-      "handelsblatt.com",
-      "/r/stocks"
+      "expansion.com",
+      "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "Aumento de ciberataques contra empresas estadounidenses: Abbott y Coca-Cola, afectadas",
-    "summary": "Incidentes de ransomware y un incremento general de amenazas cibernéticas golpean a grandes corporaciones en EE.UU., aunque las operaciones no se ven interrumpidas.",
+    "title": "Warren Buffett planea vender todas sus acciones de Berkshire y las donará a fundaciones benéficas",
+    "summary": "El inversor también ha realizado nuevas apuestas en casas de comercio japonesas, según los últimos movimientos de su conglomerado.",
+    "source": [
+      "nasdaq.com",
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Irak y Siria acuerdan reconstruir un oleoducto como alternativa al estrecho de Ormuz con participación de empresas estadounidenses",
+    "summary": "El proyecto busca asegurar el suministro de crudo iraquí ante el cierre del estratégico paso marítimo por el conflicto con Irán.",
+    "source": [
+      "nikkei.com",
+      "bolsamania.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Empresas estadounidenses y japonesas sufren ciberataques y filtraciones de datos que afectan a millones de usuarios",
+    "summary": "Abbott, Fidelity y la mensajería japonesa Sagawa reportan incidentes de seguridad sin que las operaciones se vean comprometidas.",
+    "source": [
+      "nikkei.com",
+      "investing.com",
+      "finance.yahoo.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Trump Media habría propuesto una tarifa mensual de 100.000 dólares por acceso prioritario a los mensajes del presidente",
+    "summary": "La empresa busca monetizar el contenido de Trump en su plataforma social, según fuentes cercanas a las negociaciones.",
+    "source": [
+      "investing.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El oro, la plata y el bitcoin se desploman mientras el yen se debilita por la escalada iraní",
+    "summary": "Los inversores buscan refugio en el dólar y los bonos del Tesoro ante la intensificación de los ataques en Oriente Medio.",
+    "source": [
+      "nikkei.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta intensifica su apuesta por la inteligencia artificial con un nuevo chip propio y un centro de datos para Anthropic",
+    "summary": "La empresa de Mark Zuckerberg planea duplicar su capacidad de cómputo y negocia un contrato millonario con la startup de IA.",
+    "source": [
+      "nasdaq.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Las expectativas de resultados de Alphabet e Intel centran la atención de los inversores en IA",
+    "summary": "El mercado espera con interés las cifras trimestrales de los gigantes tecnológicos en medio del auge de la inteligencia artificial.",
+    "source": [
+      "nasdaq.com",
+      "investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La Fed sugiere una posible pausa en las subidas de tipos mientras el BCE enfrenta un dilema inflacionario",
+    "summary": "El presidente de la Fed, Jefferson, indica que podría reconsiderar la política actual, mientras la inflación en la Eurozona cede ligeramente.",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "UBS proyecta que la economía espacial alcanzará los 1,3 billones de dólares en 2040, mientras AST SpaceMobile se acerca al lanzamiento comercial",
+    "summary": "El sector espacial privado atrae inversiones gracias a la creciente demanda de servicios de satélite y exploración.",
     "source": [
       "investing.com",
       "nasdaq.com"
@@ -56,35 +141,8 @@
     "count": 2
   },
   {
-    "title": "Trump Media propone cobrar 100.000 dólares mensuales por el acceso prioritario a los mensajes del presidente",
-    "summary": "La compañía busca monetizar la publicación en tiempo real de las declaraciones presidenciales, generando críticas sobre la privatización de la información oficial.",
-    "source": [
-      "investing.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Netflix cae en bolsa tras sus resultados trimestrales y los analistas ven una oportunidad de compra",
-    "summary": "La plataforma de streaming decepciona al mercado, pero algunos inversores consideran que la corrección ofrece un punto de entrada atractivo.",
-    "source": [
-      "bolsamania.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Bruselas impulsa la creación de bancos europeos transnacionales y Alemania suaviza su postura ante la opa de Unicredit sobre Commerzbank",
-    "summary": "La UE presenta un plan para fomentar la consolidación bancaria, mientras el gobierno alemán reduce su resistencia a la oferta del banco italiano.",
-    "source": [
-      "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las acciones de Travelers Companies lideran las ganancias en Wall Street",
-    "summary": "La aseguradora se dispara en bolsa y se convierte en uno de los valores más alcistas del Dow Jones y el S&P 500.",
+    "title": "Amazon lanza un servicio de IA para empresas y se prepara para su próxima actualización para inversores",
+    "summary": "La compañía refuerza su oferta en inteligencia artificial aplicada a la gestión del gasto corporativo.",
     "source": [
       "nasdaq.com",
       "bolsamania.com"
@@ -92,102 +150,43 @@
     "count": 2
   },
   {
-    "title": "ConocoPhillips sube en bolsa y se alía con BP para reurbanizar el yacimiento de Kirkuk en Irak",
-    "summary": "La petrolera estadounidense anuncia su participación en el proyecto del supergigante campo petrolero, lo que impulsa su cotización.",
-    "source": [
-      "nasdaq.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La Bolsa de Japón cae arrastrada por el desplome de los semiconductores",
-    "summary": "El índice Nikkei y los futuros registran fuertes pérdidas en una semana marcada por la aversión al riesgo en el sector tecnológico global.",
-    "source": [
-      "nikkei.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Los bonos repuntan ante la aversión al riesgo mientras la Fed sugiere revisar la política monetaria",
-    "summary": "El rendimiento del bono estadounidense a 10 años cae, mientras el presidente de la Fed, Jefferson, señala que podría ser apropiado reconsiderar las tasas; el BoE también enfrenta presiones.",
-    "source": [
-      "nikkei.com",
-      "bolsamania.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Las bolsas mundiales cierran la semana a la baja por las tensiones geopolíticas y el desplome tecnológico",
-    "summary": "El Ibex, el Dax y Wall Street registran pérdidas semanales, presionados por el conflicto en Oriente Medio y la corrección en el sector de semiconductores.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com",
-      "handelsblatt.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El avance de la inteligencia artificial china Kimi sacude Silicon Valley y Nvidia busca alternativas",
-    "summary": "El modelo chino Kimi demuestra rendimiento cercano al de Anthropic, mientras empresas japonesas consideran cambiar a NPU surcoreanas.",
-    "source": [
-      "nikkei.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Warren Buffett anuncia la venta gradual de todas sus acciones de Berkshire para donarlas a fundaciones",
-    "summary": "El inversor planea desinvertir en su propia empresa durante la próxima década, mientras la inteligencia artificial analiza exitosamente su estrategia.",
+    "title": "Dos estrategias de inversión en ETFs ganan popularidad entre los inversores alemanes y estadounidenses",
+    "summary": "Mientras Handelsblatt recomienda ETFs con mayor rentabilidad y menor volatilidad que el MSCI World, los foros de Reddit debaten sobre selección de ETFs.",
     "source": [
       "handelsblatt.com",
-      "expansion.com"
+      "/r/stocks"
     ],
     "count": 2
   },
   {
-    "title": "Las grandes tecnológicas intensifican sus inversiones en inteligencia artificial",
-    "summary": "Meta, Alphabet, Intel y Amazon lanzan o potencian iniciativas de IA, mientras el sector debate quién debe asumir los costos de esta tecnología.",
-    "source": [
-      "nikkei.com",
-      "investing.com",
-      "bolsamania.com",
-      "ft.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Bitcoin supera los 65.000 dólares y aumentan los debates sobre la autocustodia de criptomonedas",
-    "summary": "La criptomoneda alcanza un nuevo hito semanal, mientras se analizan las ventajas de los monederos autocustodia frente a las plataformas centralizadas.",
-    "source": [
-      "nasdaq.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Corea del Sur prohibirá la emisión de nuevos ETF apalancados de una sola acción",
-    "summary": "El regulador financiero surcoreano impone restricciones a estos productos de alto riesgo para proteger a los inversores.",
+    "title": "Uber compra Delivery Hero por 14.800 millones de dólares y consolida el sector de comida a domicilio",
+    "summary": "La adquisición podría marcar el fin de la guerra de precios en el mercado de reparto de alimentos.",
     "source": [
       "/r/stocks"
     ],
     "count": 1
   },
   {
-    "title": "Los fabricantes de drones anticipan un crecimiento del 300% en el gasto de defensa de EE.UU.",
-    "summary": "Las empresas del sector elevan sus previsiones tras conocerse el presupuesto militar para 2027, que incluye un aumento drástico en adquisiciones.",
+    "title": "Boeing mantiene su previsión de demanda de aviones a 20 años a pesar del conflicto en Irán",
+    "summary": "El fabricante aeronáutico confía en el crecimiento del tráfico aéreo a largo plazo y no modifica sus estimaciones.",
     "source": [
-      "/r/stocks"
+      "investing.com"
     ],
     "count": 1
   },
   {
-    "title": "Modi acelera la búsqueda de uranio y minerales críticos para la independencia energética de la India",
-    "summary": "El gobierno indio intensifica las misiones de exploración y adquisición de recursos estratégicos para reducir la dependencia externa.",
+    "title": "GameStop posee casi el 10% de eBay según una presentación ante la SEC",
+    "summary": "El minorista de videojuegos revela una participación significativa en la plataforma de subastas en línea.",
     "source": [
-      "ft.com"
+      "investing.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Corea del Sur prohibirá la cotización de nuevos ETFs apalancados de una sola acción",
+    "summary": "El regulador busca proteger a los inversores minoristas de productos de alto riesgo derivados de acciones individuales.",
+    "source": [
+      "/r/stocks"
     ],
     "count": 1
   }

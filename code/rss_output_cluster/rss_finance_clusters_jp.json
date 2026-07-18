@@ -1,54 +1,139 @@
 [
   {
-    "title": "AppleがNvidiaを抜き世界で最も価値のある企業に",
-    "summary": "Appleの時価総額が一時的にチップメーカーNvidiaを上回り、世界で最も時価総額の高い企業の座を取り戻した。",
+    "title": "イランと米国の対立激化で原油が急騰",
+    "summary": "イランの攻撃とホルムズ海峡封鎖への懸念で原油価格が最大30％上昇。",
     "source": [
-      "handelsblatt.com",
-      "/r/stocks",
-      "nikkei.com",
       "nasdaq.com",
-      "ft.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "半導体株が1年以上ぶりの最悪の週を記録し、世界市場を牽引",
-    "summary": "中国のAIの影響と需要への懸念に後押しされたテクノロジーセクターの激しい売りが株価指数の急落を引き起こした。",
-    "source": [
-      "/r/stocks",
       "investing.com",
-      "nikkei.com",
-      "ft.com",
+      "/r/stocks",
       "expansion.com",
-      "handelsblatt.com"
+      "bolsamania.com",
+      "ft.com"
     ],
     "count": 6
   },
   {
-    "title": "イランとアメリカの紛争激化で石油が急騰",
-    "summary": "継続的な攻撃と中東の緊張が原油価格を押し上げ、製油所に恩恵をもたらし、ホルムズ海峡のエネルギー安全保障に関する議論を再燃させている。",
+    "title": "スペースX、スターシップ試験飛行を中止し新たな挫折、株価下落",
+    "summary": "ロケットは予定されていた打ち上げを完了できず、最近の上場後に同社への圧力が強まる。",
     "source": [
-      "nikkei.com",
-      "/r/stocks",
-      "expansion.com",
+      "nasdaq.com",
       "bolsamania.com",
-      "ft.com"
+      "ft.com",
+      "handelsblatt.com",
+      "/r/stocks"
     ],
     "count": 5
   },
   {
-    "title": "スターシップ試験飛行の中止でSpaceX株が急落",
-    "summary": "スターシップロケットの打ち上げ失敗により同社の株価が下落。最近の上場以来損失を引きずっていた。",
+    "title": "アップルがエヌビディアを抜き、世界で最も価値のある企業の座を取り戻す",
+    "summary": "iPhoneメーカーが人工知能への楽観論に牽引され、時価総額で半導体大手を打ち倒す。",
+    "source": [
+      "handelsblatt.com",
+      "/r/stocks",
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "半導体株が急落し、世界市場を圧迫",
+    "summary": "エヌビディアや他のハイテク企業の株が、AIバブルと地政学的エスカレーションへの懸念から下落。",
+    "source": [
+      "/r/stocks",
+      "ft.com",
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "株式市場はテクノロジーと中東紛争に押されて下落して終了",
+    "summary": "ダウ平均、S&P500、ナスダックは、戦争不確実性とチップ急落に特徴づけられた取引日で損失を記録。",
     "source": [
       "bolsamania.com",
-      "handelsblatt.com",
-      "/r/stocks"
+      "expansion.com",
+      "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "米国企業へのサイバー攻撃の増加：アボットとコカ・コーラが被害に",
-    "summary": "ランサムウェア事件とサイバー脅威の全般的な増加が米国の大企業を襲っているが、事業は中断されていない。",
+    "title": "ウォーレン・バフェット、バークシャー株をすべて売却し慈善財団に寄付する計画",
+    "summary": "投資家は、彼のコングロマリットの最近の動きによると、日本の商社に新たな賭けも行っている。",
+    "source": [
+      "nasdaq.com",
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "イラクとシリア、米国企業参加のもとホルムズ海峡に代わる石油パイプライン再建で合意",
+    "summary": "このプロジェクトは、イランとの紛争による戦略的海上通路の閉鎖に備え、イラク産原油供給を確保することを目指す。",
+    "source": [
+      "nikkei.com",
+      "bolsamania.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "米国と日本の企業がサイバー攻撃とデータ漏洩に見舞われ、数百万人のユーザーに影響",
+    "summary": "アボット、フィデリティ、日本の佐川急便がセキュリティインシデントを報告、業務に支障はなし。",
+    "source": [
+      "nikkei.com",
+      "investing.com",
+      "finance.yahoo.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "トランプ・メディア、大統領メッセージへの優先アクセスに月額10万ドルの料金を提案か",
+    "summary": "交渉に近い関係者によると、同社は自社のソーシャルプラットフォームでトランプのコンテンツを収益化しようとしている。",
+    "source": [
+      "investing.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "金、銀、ビットコインが急落、円はイラン情勢の悪化で弱含む",
+    "summary": "投資家は中東での攻撃激化を受けてドルと国債に逃避。",
+    "source": [
+      "nikkei.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "メタ、独自チップとアンソロピック向けデータセンターで人工知能への賭けを強化",
+    "summary": "マーク・ザッカーバーグの会社は演算能力を倍増させる計画で、AIスタートアップと巨額契約を交渉中。",
+    "source": [
+      "nasdaq.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "アルファベットとインテルの決算期待が投資家のAIへの注目を集める",
+    "summary": "市場は人工知能ブームの中、ハイテク巨大企業の四半期数字を関心を持って待っている。",
+    "source": [
+      "nasdaq.com",
+      "investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "FRBは利上げ一時停止の可能性を示唆、ECBはインフレジレンマに直面",
+    "summary": "FRB議長ジェファーソンは現行政策を再考する可能性を示す一方、ユーロ圏のインフレはわずかに緩和。",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "UBS、宇宙経済は2040年に1.3兆ドルに達すると予測、ASTスペースモバイルは商業打ち上げ間近",
+    "summary": "民間宇宙セクターは衛星サービスと探査への需要増加により投資を集めている。",
     "source": [
       "investing.com",
       "nasdaq.com"
@@ -56,35 +141,8 @@
     "count": 2
   },
   {
-    "title": "トランプ・メディア、大統領のメッセージへの優先アクセスに月額10万ドルを提案",
-    "summary": "同社は大統領声明のリアルタイム公開を収益化しようとしており、公式情報の民営化に対する批判を招いている。",
-    "source": [
-      "investing.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Netflix、四半期決算を受け株価下落、アナリストは買い機会と見る",
-    "summary": "ストリーミングプラットフォームは市場を失望させたが、一部の投資家はこの調整が魅力的なエントリーポイントを提供すると考えている。",
-    "source": [
-      "bolsamania.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "EUが欧州の国境を越えた銀行の創設を推進、ドイツはUnicreditのCommerzbank買収提案に対する姿勢を軟化",
-    "summary": "EUは銀行統合を促進する計画を発表し、ドイツ政府はイタリアの銀行の提案への抵抗を弱めている。",
-    "source": [
-      "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "トラベラーズ・カンパニーズの株がウォール街で上昇をリード",
-    "summary": "保険会社の株価が急騰し、ダウ平均とS&P500で最も上昇率の高い銘柄の1つとなった。",
+    "title": "アマゾン、法人向けAIサービスを開始、次の投資家向けアップデートに備える",
+    "summary": "同社は法人の経費管理に応用された人工知能の提供を強化。",
     "source": [
       "nasdaq.com",
       "bolsamania.com"
@@ -92,102 +150,43 @@
     "count": 2
   },
   {
-    "title": "コノコフィリップスが株価上昇、BPと提携しイラクのキルクーク油田を再開発",
-    "summary": "米石油会社が超巨大油田プロジェクトへの参加を発表し、株価を押し上げている。",
-    "source": [
-      "nasdaq.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "半導体株急落に引きずられ日本株下落",
-    "summary": "日経平均株価と先物は、世界的なテクノロジーセクターのリスク回避が顕著な週に大幅な損失を記録した。",
-    "source": [
-      "nikkei.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "リスク回避で債券が上昇、FRBが金融政策の見直しを示唆",
-    "summary": "米10年物国債利回りは低下。FRBのジェファーソン総裁は金利の再検討が適切かもしれないと指摘。イングランド銀行（BoE）も圧力に直面している。",
-    "source": [
-      "nikkei.com",
-      "bolsamania.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "地政学的緊張とテクノロジー株急落で世界の株式市場は週間ベースで下落",
-    "summary": "スペインIBEX、ドイツDAX、ウォール街は中東紛争と半導体セクターの調整に圧迫され、週間で下落を記録した。",
-    "source": [
-      "bolsamania.com",
-      "expansion.com",
-      "handelsblatt.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "中国のAI「Kimi」の進歩がシリコンバレーを震撼、Nvidiaは代替案を模索",
-    "summary": "中国のKimiモデルはAnthropicに近いパフォーマンスを示し、日本企業は韓国のNPUへの切り替えを検討している。",
-    "source": [
-      "nikkei.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ウォーレン・バフェット、バークシャー株を全て売却し財団に寄付すると発表",
-    "summary": "投資家は今後10年かけて自社株を売却する計画で、AIが彼の戦略を分析することに成功している。",
+    "title": "2つのETF投資戦略がドイツと米国の投資家の間で人気に",
+    "summary": "ハンデルスブラットがMSCIワールドよりも高利回りで低ボラティリティのETFを推奨する一方、RedditフォーラムではETF選びについて議論。",
     "source": [
       "handelsblatt.com",
-      "expansion.com"
+      "/r/stocks"
     ],
     "count": 2
   },
   {
-    "title": "大手ハイテク企業が人工知能への投資を強化",
-    "summary": "Meta、Alphabet、Intel、AmazonがAIイニシアチブを開始または強化する一方、業界はこのテクノロジーのコストを誰が負担すべきかを議論している。",
-    "source": [
-      "nikkei.com",
-      "investing.com",
-      "bolsamania.com",
-      "ft.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "ビットコインが6万5000ドルを超え、仮想通貨の自己保管に関する議論が活発化",
-    "summary": "仮想通貨は週間で新たな節目に達し、中央集権型プラットフォームに対する自己保管ウォレットの利点が分析されている。",
-    "source": [
-      "nasdaq.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "韓国、新たなレバレッジ型個別株ETFの発行を禁止へ",
-    "summary": "韓国の金融規制当局は投資家保護のため、これらの高リスク商品に制限を課す。",
+    "title": "ウーバー、デリバリーヒーローを148億ドルで買収しフードデリバリー業界を統合",
+    "summary": "この買収はフードデリバリー市場の価格戦争の終わりを告げる可能性がある。",
     "source": [
       "/r/stocks"
     ],
     "count": 1
   },
   {
-    "title": "ドローン製造企業、米国防費が300％増加すると予想",
-    "summary": "セクター企業は2027年度軍事予算を知り予測を引き上げており、調達が大幅に増加する。",
+    "title": "ボーイング、イラン紛争にもかかわらず20年間の航空機需要見通しを維持",
+    "summary": "航空機メーカーは長期的な航空交通成長に自信を持ち、予測を変更せず。",
     "source": [
-      "/r/stocks"
+      "investing.com"
     ],
     "count": 1
   },
   {
-    "title": "モディ首相、インドのエネルギー自立に向けウランと重要鉱物の探査を加速",
-    "summary": "インド政府は对外依存度を下げるため、戦略的資源の探査と確保の取り組みを強化している。",
+    "title": "ゲームストップ、SEC提出書類でeBayの約10％を保有していることが明らかに",
+    "summary": "ビデオゲーム小売業者がオンラインオークションプラットフォームへの重要な出資を開示。",
     "source": [
-      "ft.com"
+      "investing.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "韓国、個別株レバレッジETFの新規上場を禁止へ",
+    "summary": "規制当局は個人投資家を個別株由来の高リスク商品から保護しようとしている。",
+    "source": [
+      "/r/stocks"
     ],
     "count": 1
   }

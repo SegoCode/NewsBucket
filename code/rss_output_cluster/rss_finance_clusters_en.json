@@ -1,54 +1,139 @@
 [
   {
-    "title": "Apple surpasses Nvidia to become the world's most valuable company",
-    "summary": "Apple's market value briefly surpassed that of chipmaker Nvidia, reclaiming its position as the world's most capitalized company.",
+    "title": "Oil surges amid escalation of conflict between Iran and the United States",
+    "summary": "Crude prices rise up to 30% due to Iran's attacks and fears of a blockade of the Strait of Hormuz.",
     "source": [
-      "handelsblatt.com",
-      "/r/stocks",
-      "nikkei.com",
       "nasdaq.com",
-      "ft.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Semiconductor stocks suffer worst week in over a year, dragging global markets",
-    "summary": "A strong wave of selling in the tech sector, driven by the impact of Chinese artificial intelligence and demand doubts, causes stock index plunges.",
-    "source": [
-      "/r/stocks",
       "investing.com",
-      "nikkei.com",
-      "ft.com",
+      "/r/stocks",
       "expansion.com",
-      "handelsblatt.com"
+      "bolsamania.com",
+      "ft.com"
     ],
     "count": 6
   },
   {
-    "title": "Oil soars as Iran-US conflict escalates",
-    "summary": "Continued attacks and tensions in the Middle East raise crude prices, benefit refineries, and reignite debate on energy security in the Strait of Hormuz.",
+    "title": "SpaceX suffers another setback as Starship test flight aborted and its shares fall on stock market",
+    "summary": "The rocket could not complete the planned launch, increasing pressure on the company after its recent stock market debut.",
     "source": [
-      "nikkei.com",
-      "/r/stocks",
-      "expansion.com",
+      "nasdaq.com",
       "bolsamania.com",
-      "ft.com"
+      "ft.com",
+      "handelsblatt.com",
+      "/r/stocks"
     ],
     "count": 5
   },
   {
-    "title": "SpaceX shares plunge after Starship test flight aborts",
-    "summary": "The failed launch of the Starship rocket causes a drop in the company's stock, which was already suffering losses since its recent IPO.",
+    "title": "Apple surpasses Nvidia and regains title of world's most valuable company",
+    "summary": "The iPhone maker dethrones the semiconductor giant in market capitalization, driven by optimism in artificial intelligence.",
+    "source": [
+      "handelsblatt.com",
+      "/r/stocks",
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Semiconductor stocks suffer sharp slump and drag down global markets",
+    "summary": "Shares of Nvidia and other tech companies fall amid fears of an AI bubble and geopolitical escalation.",
+    "source": [
+      "/r/stocks",
+      "ft.com",
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Stock markets close lower weighed down by technology and conflict in the Middle East",
+    "summary": "The Dow Jones, S&P 500, and Nasdaq record losses on a day marked by war uncertainty and a chip slump.",
     "source": [
       "bolsamania.com",
-      "handelsblatt.com",
-      "/r/stocks"
+      "expansion.com",
+      "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "Rise in cyberattacks against US companies: Abbott and Coca-Cola affected",
-    "summary": "Ransomware incidents and a general increase in cyber threats hit major US corporations, though operations are not disrupted.",
+    "title": "Warren Buffett plans to sell all his Berkshire shares and donate them to charitable foundations",
+    "summary": "The investor has also made new bets on Japanese trading houses, according to the latest moves of his conglomerate.",
+    "source": [
+      "nasdaq.com",
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Iraq and Syria agree to rebuild an oil pipeline as an alternative to the Strait of Hormuz with participation of US companies",
+    "summary": "The project aims to secure Iraqi crude supply in case of closure of the strategic maritime passage due to the conflict with Iran.",
+    "source": [
+      "nikkei.com",
+      "bolsamania.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "US and Japanese companies suffer cyberattacks and data leaks affecting millions of users",
+    "summary": "Abbott, Fidelity, and Japanese delivery service Sagawa report security incidents without operations being compromised.",
+    "source": [
+      "nikkei.com",
+      "investing.com",
+      "finance.yahoo.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Trump Media reportedly proposed a monthly fee of $100,000 for priority access to the president's messages",
+    "summary": "The company seeks to monetize Trump's content on its social platform, according to sources close to the negotiations.",
+    "source": [
+      "investing.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Gold, silver, and bitcoin plunge while yen weakens due to Iranian escalation",
+    "summary": "Investors seek refuge in the dollar and Treasury bonds as attacks intensify in the Middle East.",
+    "source": [
+      "nikkei.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta intensifies its bet on artificial intelligence with a new custom chip and a data center for Anthropic",
+    "summary": "Mark Zuckerberg's company plans to double its computing capacity and negotiates a multimillion-dollar contract with the AI startup.",
+    "source": [
+      "nasdaq.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Alphabet and Intel earnings expectations focus investors' attention on AI",
+    "summary": "The market eagerly awaits the quarterly figures from tech giants amid the rise of artificial intelligence.",
+    "source": [
+      "nasdaq.com",
+      "investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Fed suggests possible pause in rate hikes while ECB faces inflationary dilemma",
+    "summary": "Fed Chairman Jefferson indicates he could reconsider current policy, while inflation in the Eurozone eases slightly.",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "UBS projects space economy will reach $1.3 trillion by 2040, as AST SpaceMobile nears commercial launch",
+    "summary": "The private space sector attracts investment thanks to growing demand for satellite services and exploration.",
     "source": [
       "investing.com",
       "nasdaq.com"
@@ -56,35 +141,8 @@
     "count": 2
   },
   {
-    "title": "Trump Media proposes charging $100,000 per month for priority access to president's messages",
-    "summary": "The company seeks to monetize the real-time publication of presidential statements, drawing criticism over privatization of official information.",
-    "source": [
-      "investing.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Netflix falls on stock exchange after quarterly results, analysts see buying opportunity",
-    "summary": "The streaming platform disappoints the market, but some investors believe the correction offers an attractive entry point.",
-    "source": [
-      "bolsamania.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Brussels pushes for creation of transnational European banks and Germany softens stance on Unicredit's bid for Commerzbank",
-    "summary": "The EU presents a plan to encourage banking consolidation, while the German government reduces its resistance to the Italian bank's offer.",
-    "source": [
-      "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Travelers Companies shares lead gains on Wall Street",
-    "summary": "The insurer surges in stock market, becoming one of the top performers in the Dow Jones and S&P 500.",
+    "title": "Amazon launches AI service for businesses and prepares for next investor update",
+    "summary": "The company strengthens its offering in artificial intelligence applied to corporate expense management.",
     "source": [
       "nasdaq.com",
       "bolsamania.com"
@@ -92,102 +150,43 @@
     "count": 2
   },
   {
-    "title": "ConocoPhillips rises in stock market, partners with BP to redevelop Kirkuk field in Iraq",
-    "summary": "The US oil company announces its participation in the supergiant oil field project, boosting its stock price.",
-    "source": [
-      "nasdaq.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Japan's stock market falls dragged by semiconductor plunge",
-    "summary": "The Nikkei index and futures record heavy losses in a week marked by risk aversion in the global tech sector.",
-    "source": [
-      "nikkei.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Bonds rally amid risk aversion as Fed hints at reviewing monetary policy",
-    "summary": "The yield on the 10-year US bond falls, while Fed President Jefferson indicates it might be appropriate to reconsider rates; the BoE also faces pressure.",
-    "source": [
-      "nikkei.com",
-      "bolsamania.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Global stock markets end week lower due to geopolitical tensions and tech slump",
-    "summary": "The Ibex, Dax, and Wall Street post weekly losses, pressured by the Middle East conflict and correction in the semiconductor sector.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com",
-      "handelsblatt.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Advance of Chinese AI Kimi shakes Silicon Valley, Nvidia seeks alternatives",
-    "summary": "The Chinese model Kimi demonstrates performance close to Anthropic's, while Japanese companies consider switching to South Korean NPUs.",
-    "source": [
-      "nikkei.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Warren Buffett announces gradual sale of all his Berkshire shares to donate to foundations",
-    "summary": "The investor plans to divest from his own company over the next decade, while AI successfully analyzes his strategy.",
+    "title": "Two ETF investment strategies gain popularity among German and US investors",
+    "summary": "While Handelsblatt recommends ETFs with higher returns and lower volatility than the MSCI World, Reddit forums debate ETF selection.",
     "source": [
       "handelsblatt.com",
-      "expansion.com"
+      "/r/stocks"
     ],
     "count": 2
   },
   {
-    "title": "Big tech companies intensify investments in artificial intelligence",
-    "summary": "Meta, Alphabet, Intel, and Amazon launch or boost AI initiatives, as the sector debates who should bear the costs of this technology.",
-    "source": [
-      "nikkei.com",
-      "investing.com",
-      "bolsamania.com",
-      "ft.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Bitcoin surpasses $65,000 and debates on cryptocurrency self-custody intensify",
-    "summary": "The cryptocurrency reaches a new weekly milestone, while the advantages of self-custody wallets versus centralized platforms are analyzed.",
-    "source": [
-      "nasdaq.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "South Korea to ban issuance of new single stock leveraged ETFs",
-    "summary": "The South Korean financial regulator imposes restrictions on these high-risk products to protect investors.",
+    "title": "Uber buys Delivery Hero for $14.8 billion and consolidates food delivery sector",
+    "summary": "The acquisition could mark the end of the price war in the food delivery market.",
     "source": [
       "/r/stocks"
     ],
     "count": 1
   },
   {
-    "title": "Drone manufacturers anticipate 300% growth in US defense spending",
-    "summary": "Companies in the sector raise their forecasts after the 2027 military budget is revealed, which includes a drastic increase in acquisitions.",
+    "title": "Boeing keeps 20-year aircraft demand forecast despite conflict in Iran",
+    "summary": "The aerospace manufacturer is confident in long-term air traffic growth and does not change its estimates.",
     "source": [
-      "/r/stocks"
+      "investing.com"
     ],
     "count": 1
   },
   {
-    "title": "Modi accelerates search for uranium and critical minerals for India's energy independence",
-    "summary": "The Indian government intensifies exploration and acquisition missions for strategic resources to reduce external dependence.",
+    "title": "GameStop owns nearly 10% of eBay according to SEC filing",
+    "summary": "The video game retailer reveals a significant stake in the online auction platform.",
     "source": [
-      "ft.com"
+      "investing.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "South Korea to ban listing of new single-stock leveraged ETFs",
+    "summary": "The regulator seeks to protect retail investors from high-risk products derived from individual stocks.",
+    "source": [
+      "/r/stocks"
     ],
     "count": 1
   }
