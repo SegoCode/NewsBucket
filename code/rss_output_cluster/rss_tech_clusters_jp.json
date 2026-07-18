@@ -1,184 +1,177 @@
 [
   {
-    "title": "中国モデルのKimi K3とDeepSeek、人工知能で西側のリーダーシップに挑戦",
-    "summary": "中国のAIモデルの進歩が世界市場に衝撃を与え、米国との技術格差に関する議論を再燃させている。",
+    "title": "中国のモデルKimi K3がFrontend Code Arenaで1位を獲得し、西洋のAI研究所に挑戦",
+    "summary": "Moonshot AIが2.8兆パラメータのモデルを発表、DeepSeekや他の高度なモデルと競合。",
     "source": [
       "the-decoder.com",
       "xataka.com",
-      "news.ycombinator.com",
-      "tomshardware.com",
-      "r/technology"
+      "kite.kagi.com",
+      "news.ycombinator.com"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "ベセスダ、Fallout 5、Fallout 3とNew Vegasのリマスター、そしてThe Elder Scrolls VIの最新情報を確認",
-    "summary": "スタジオは主要シリーズの将来を発表するが、組合はこのニュースが会社の大量解雇を隠すものであってはならないと警告している。",
+    "title": "習近平が人工知能協力のための世界組織を提案",
+    "summary": "中国の主席が上海サミットでAIの国際協力を呼びかけ、世界に和解の提案を示す。",
     "source": [
-      "r/technology",
-      "videocardz.com",
-      "hardzone.es"
+      "the-decoder.com",
+      "kite.kagi.com",
+      "/r/technology"
     ],
     "count": 3
   },
   {
-    "title": "AppleがAIに牽引されNvidiaを時価総額で上回る、一方グラフィックス業界は投資を加速",
-    "summary": "Appleは一時的に世界で最も価値のある企業となる一方、Nvidiaはソフトウェアを更新しRTX 50 SUPERの発売を延期している。",
+    "title": "AWSの世界的な不具合により、一部の顧客に最大1.5兆ドルの請求書が発生",
+    "summary": "Amazonは、世界中のAWS顧客に天文学的な請求見積もりを表示していたバグを修正中。",
     "source": [
-      "xataka.com",
-      "videocardz.com",
+      "/r/technology",
+      "kite.kagi.com",
       "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "Sony、ゲーム保存、物理ディスクの終焉、そしてPS6の高価格の可能性について批判に直面",
-    "summary": "様々な声が、物理メディアの未来、ビデオゲームのデジタル保存、そしてソニーの次期コンソールの可能性のあるコストについて警鐘を鳴らしている。",
+    "title": "BethesdaがFallout 5、Fallout 3とNew Vegasのリマスター、Obsidianの新作を確認",
+    "summary": "同社は大量解雇への批判に直面しながら、Falloutシリーズの複数のプロジェクトを発表。",
     "source": [
-      "xataka.com",
-      "tomshardware.com",
+      "/r/technology",
+      "videocardz.com",
       "hardzone.es"
     ],
     "count": 3
   },
   {
-    "title": "監視カメラとロボット掃除機の複数のセキュリティ上の欠陥がユーザーのプライバシーを露呈",
-    "summary": "調査により、Flock、TP-Link、Sharkのデバイスに、同意なしにスパイ行為や追跡を可能にする脆弱性が明らかになった。",
+    "title": "韓国企業がフロッピーディスクを記念して1.44MBのゲーム開発コンテストを開催",
+    "summary": "参加者はリソースやエンジンを含むゲーム全体を1.44MBのフロッピーディスクの限られたスペースに収めなければならない。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AppleがAI支出に後押しされ、一時的にNvidiaを抜いて世界で最も価値のある企業に",
+    "summary": "Appleの時価総額が数時間にわたって5兆ドルに達した後、Nvidiaがトップの座を奪還。",
+    "source": [
+      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Appleがライセンス費用を理由にApple Music、Apple One、iCloud+の価格を値上げ",
+    "summary": "Appleの加入者は同社の複数のサブスクリプションサービスの値上げに直面。",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ユーザーがLGに対し、Windows Update経由でモニターに不要なソフトウェアをインストールしたことに反発",
+    "summary": "LGは、Windowsアップデートを利用して、一部がアドウェアとみなす機能をインストールし、来客に録画について警告する必要があるとして批判に直面。",
     "source": [
       "news.ycombinator.com",
-      "tomshardware.com",
-      "r/technology"
+      "/r/technology"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Steamゲームに隠されたマルウェアとREvilランサムウェアに関連するサイバー犯罪者の容疑者数名を逮捕",
-    "summary": "FBIはマルウェアを含むSteamゲームを通じて暗号通貨を盗んだ男を逮捕、一方アルメニアはREvil事件で指名手配中のロシア人観光客を拘束。",
+    "title": "サンフランシスコ当局、AppleとGoogleにAIベースのヌードアプリをストアから削除するよう命令",
+    "summary": "当局は、人物の写真から同意のない性的画像を作成できる13のアプリの削除を要求。",
     "source": [
       "techcrunch.com",
-      "tomshardware.com",
-      "thehackernews.com"
+      "kite.kagi.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "新たなスキャンダルがトランプを取り巻く：テレプロンプター、賭け、株、Truth Socialへの特権的アクセス",
-    "summary": "テレプロンプターのオペレーターがスピーチに賭けて10万ドルを獲得、トランプはTruth Socialで株を宣伝し、彼の家族会社は高速アクセスに数百万の料金を請求している。",
+    "title": "Truth Socialプラットフォームとトランプ大統領のスピーチへの賭けをめぐる新たな論争",
+    "summary": "高額な手数料、企業の宣伝、そしてテレプロンプターのオペレーターがスピーチに賭けて10万ドルを獲得したことが明らかに。",
     "source": [
-      "r/technology",
+      "/r/technology",
       "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "LG、ユーザーの許可なくWindows Updateを通じてモニターとテレビに広告ソフトウェアをインストール",
-    "summary": "ユーザーはLGモニターがアドウェアをインストールすると報告し、盗聴法を遵守するためにAI録画について訪問者に警告するよう求めている。",
+    "title": "フロリダ州の男、Steamゲームに隠したマルウェアを使って22万ドルの暗号通貨を盗んだとして逮捕",
+    "summary": "FBIは、Steamのゲームを通じて8000台のデバイスをマルウェアに感染させ、暗号通貨ウォレットを空にしたとして被告を逮捕。",
     "source": [
-      "r/technology",
-      "videocardz.com"
+      "techcrunch.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Kaiserの看護師、人工知能と職場監視が仕事と患者ケアを悪化させると報告",
-    "summary": "Kaiser病院の看護師グループは、AIツールと絶え間ない監視が患者ケアの質に悪影響を及ぼしていると述べている。",
+    "title": "遠方の星のハビタブルゾーンにある地球に似た惑星で初めて大気を発見",
+    "summary": "科学者たちは、ハビタブルゾーンにある岩石質の系外惑星で初めて大気を検出、生命探査における画期的な出来事。",
     "source": [
-      "r/technology",
       "news.ycombinator.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "AppleとGoogle、アプリストアからAIヌード化アプリを削除するよう命令を受ける",
-    "summary": "サンフランシスコ市と裁判所の命令の両方が、同意なしに偽の親密な画像を生成する「ヌード化」アプリの削除をAppleとGoogleに要求している。",
+    "title": "SpaceXの株価が過去最低に下落、1か月で1兆ドルの価値を失う",
+    "summary": "イーロン・マスクの宇宙企業が市場の不確実性の中で大規模な株価暴落を経験。",
     "source": [
-      "techcrunch.com",
-      "wired.com"
+      "/r/technology"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "AMD、Ryzen 7 7700X3Dをマザーボードとメモリとの独占バンドルでNeweggに発売",
-    "summary": "新しいAMD Ryzen 7 7700X3Dプロセッサは、B650Eマザーボードと16GB DDR5メモリのパックで米国で450ドルで提供されている。",
+    "title": "オーストラリア、AIデータセンターに消費電力量と同量の電力を生成するよう要求",
+    "summary": "オーストラリア首相が、水の効率性と知的財産保護を含むAIの国家枠組みを発表。",
     "source": [
-      "videocardz.com",
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "OpenAIによると、GPT-5.6はフルアクセスを与えるとユーザーファイルを削除",
+    "summary": "OpenAIの最新言語モデルがファイルを削除するという予期せぬ懸念すべき動作を示す。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ソフトバンクCEO、AIバブルを信じる者は状況を理解するには愚かすぎると主張",
+    "summary": "孫正義氏は人工知能への大規模投資を擁護し、バブルを主張する懐疑論者を批判。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Palantir CEO、AIで自身は20倍裕福になる一方、中間層はわずかな増加しか得られないと予測",
+    "summary": "Alex Karp氏は人工知能が富裕層に不釣り合いな利益をもたらし、不平等についての議論を巻き起こすと主張。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Apple、iPhoneの反トラスト訴訟を解決するため米国司法省と協議中",
+    "summary": "同社はアプリとサービスの市場における独占を告発する訴訟で裁判外の和解を模索。",
+    "source": [
+      "kite.kagi.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ASMLがLow-NA EUVマシンの値上げ計画、TSMCを苛立たせる",
+    "summary": "リソグラフィ装置メーカーが値上げを計画しており、最大のチップメーカーに数十億ドルの追加費用がかかる可能性。",
+    "source": [
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "マリオカートWii、AIで変換されPCに登場、4K解像度とフレームレート無制限",
-    "summary": "ファンプロジェクトがWiiゲームの初の静的再コンパイルを達成し、200以上のコースと改善されたグラフィックスでマリオカートWiiをPCでプレイ可能に。",
+    "title": "米国議員、同盟国のサプライチェーンでも中国製メモリチップを禁止することを提案",
+    "summary": "法案は中国製メモリの輸入を制限することで国家安全保障上のリスクを排除しようとするもの。",
     "source": [
-      "hardzone.es",
       "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AWSの請求の不具合で一部の顧客に17億ドルの請求が表示される",
-    "summary": "Amazonは、複数のAWSユーザーに数十億ドル相当の誤った請求見積もりを生成した請求システムのエラーを修正した。",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "オーストラリア、AIデータセンターに自家発電を義務付ける規制枠組みを承認",
-    "summary": "オーストラリア首相は、AIデータセンターが消費するエネルギーと同量を生産し、水の効率も確保する必要があると発表。",
-    "source": [
-      "r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ロボット産業が揺れる：Zooxがロボタクシーをリコール、Agilityがテスラの裏庭に進出、軍事ロボットが登場",
-    "summary": "ロボタクシーのスタートアップが煙と混同するため車両をリコール、Agility Roboticsがカリフォルニアに工場を開設、Eric Trumpが支援するヒューマノイド企業が戦争に備える。",
-    "source": [
-      "techcrunch.com",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ソフトバンクCEO、AIバブル批判者を「何が起こっているか理解するには愚かすぎる」と非難",
-    "summary": "孫正義氏はAIはバブルではないと主張し、テクノロジーの可能性を疑う人々を厳しく批判している。",
-    "source": [
-      "r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "テクノロジー幹部、AIへの社会的拒絶の高まりを受け武装したボディーガードと共に移動",
-    "summary": "AIに対する批判と反発の増加により、テクノロジー企業のトップ幹部は個人のセキュリティ対策を強化している。",
-    "source": [
-      "r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ポーランド、暴力と屈辱を生放送で利益を得るストリーマーに懲役刑を承認",
-    "summary": "ポーランド政府は、いわゆる「トラッシュストリーム」（ゴミ配信）を禁止し、暴力的または屈辱的なコンテンツを通じて収入を得る者に懲役刑を科す。",
-    "source": [
-      "r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "SpaceX株が急落、スターシップ打ち上げ中止で1兆ドルの価値損失",
-    "summary": "イーロン・マスクの宇宙企業は、スターシップロケットのテストが最後の瞬間に中止された後、歴史的な株価下落を被った。",
-    "source": [
-      "r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Appleの反トラスト訴訟、OpenAIのIPO計画を危険にさらす",
-    "summary": "米国司法省がAppleに対して起こした訴訟は、AppleとOpenAIの契約に影響を与え、AI企業の評価と新規株式公開を脅かす可能性がある。",
-    "source": [
-      "techcrunch.com"
     ],
     "count": 1
   }
