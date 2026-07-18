@@ -1,29 +1,56 @@
 [
   {
-    "title": "中国の人工知能モデルKimi K3がFrontend Code Arenaでトップに立ち、世界的な話題を呼ぶ",
-    "summary": "Moonshot AIが最大のオープンソースモデルを発表し、OpenAIやAnthropicのクローズドモデルと直接競合する。",
+    "title": "中国のモデルKimi K3、重要なベンチマークで西側のAIシステムを性能で凌駕",
+    "summary": "Moonshot AIのモデルは2.8兆のパラメータを持ち、Frontend Code Arenaで首位を獲得し、AI競争における中国の優位性についての議論を再燃させた。",
     "source": [
+      "/r/technology",
+      "the-decoder.com",
       "xataka.com",
       "news.ycombinator.com",
       "tomshardware.com",
-      "producthunt.com",
-      "the-decoder.com"
+      "producthunt.com"
     ],
-    "count": 5
+    "count": 6
   },
   {
-    "title": "AppleがOpenAIを提訴し、IPOの遅延を脅かす",
-    "summary": "AppleはOpenAIの数十人の従業員に法的書簡を送り、IPOを危険にさらす戦いを繰り広げている。",
+    "title": "ホワイトハウスのテレプロンプター操作者が大統領演説に賭けて10万ドル以上を獲得",
+    "summary": "従業員はテレプロンプターのテキストを操作し、Kalshiプラットフォームを使用して大統領が言う正確な単語を予測し、巨額の利益を得ていた。",
     "source": [
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "wired.com"
+      "/r/technology",
+      "xataka.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "BethesdaがFallout 3とNew VegasのリマスターとFallout 5の開発を確認",
-    "summary": "ゲーム会社は、新作と改良版で終末後のシリーズを活性化する計画を発表。",
+    "title": "カイザーの看護師、人工知能と職場監視が患者ケアを悪化させると非難",
+    "summary": "医療従事者は、AIと監視ツールが自身の効果を低下させ、医療の質を損なうと主張している。",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "LGのモニターとテレビ、Windows Update経由で不要な広告ソフトウェアをインストール",
+    "summary": "ユーザーは、LGデバイスにAIによる録画の可能性についてゲストに警告することを強制するアドウェアが含まれており、消費者の反発を引き起こしていると報告している。",
+    "source": [
+      "/r/technology",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "オーストラリア、AIデータセンターに消費電力をすべて自給するよう要求",
+    "summary": "オーストラリア政府は、水効率、知的財産保護、エネルギー自給自足を含むAIの国家枠組みを発表。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bethesda、Fallout 5とFallout 3およびNew Vegasのリマスターを確認",
+    "summary": "同社はシリーズ最新作の開発と、2つの古典的タイトルのリマスター版、そしてThe Elder Scrolls VIの進捗を発表。",
     "source": [
       "videocardz.com",
       "hardzone.es"
@@ -31,44 +58,17 @@
     "count": 2
   },
   {
-    "title": "フロリダ州でSteamゲームのマルウェアを使って22万ドルの暗号通貨を盗んだ容疑者を逮捕",
-    "summary": "FBIによると、被告は人気タイトルに隠されたトロイの木馬で8000台のデバイスに感染させた。",
+    "title": "Mario Kart WiiがPC向けに再コンパイル、グラフィック向上とネイティブ4K対応",
+    "summary": "静的再コンパイルプロジェクトにより、200以上のコース、フレームレート無制限、4K解像度でWiiのクラシックをPCでプレイ可能に。",
     "source": [
-      "techcrunch.com",
+      "hardzone.es",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "TSMC、アリゾナに4工場を建設するためさらに1000億ドルを投資へ",
-    "summary": "台湾メーカーの米国への総投資額は2650億ドルに上り、2nm技術に重点を置く。",
-    "source": [
-      "xataka.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel、Nova LakeプロセッサをCore Ultra 400と命名し、段階的に発売へ",
-    "summary": "リーク情報によると、52コアのフラッグシップは2027年末まで登場しない見込み。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD Ryzen 7 7700X3DがNeweggでマザーボードとRAM付きの限定バンドルで450ドル",
-    "summary": "このパックは31％割引で、コンパクトで高性能な構成向けに設計されている。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GPD Win Max 3、110WのAMD Strix Haloプロセッサと165HzのOLEDディスプレイ搭載で確定",
-    "summary": "この携帯ゲーム機は最も強力になると期待され、Arc G3 Extremeバリアントも開発中。",
+    "title": "GPD WIN MAX 3、110WのStrix HaloプロセッサとOLEDディスプレイを搭載",
+    "summary": "GPDの新型携帯ゲーム機は、標準版とArc G3グラフィックス搭載のExtreme版により、前例のない性能を提供する。",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -76,101 +76,102 @@
     "count": 2
   },
   {
-    "title": "Gamers Nexusの告発によると、LGがWindows Updateを介して同意なしにモニターにソフトウェアをインストール",
-    "summary": "監視ソフトウェアが許可なくインストールされ、ユーザーのプライバシーを侵害する可能性がある。",
+    "title": "AMD Ryzen 7 7700X3D、Neweggでマザーボードとメモリとの限定バンドルで提供",
+    "summary": "バンドルにはX3Dプロセッサ、B650M Micro ATXマザーボード、16GB DDR5メモリが含まれ、価格は450ドル、米国限定。",
     "source": [
-      "videocardz.com",
-      "/r/hardware"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Amazon、AWS顧客に最大170億ドルの請求を発生させた課金エラーを修正",
-    "summary": "コスト見積もりシステムの欠陥により水増し請求が発生し、現在是正中。",
+    "title": "AppleとGoogle、サンフランシスコの命令でストアから「ヌーディファイ」アプリを削除へ",
+    "summary": "当局は、同意なしに人の裸画像を作成するAIアプリのApp StoreとGoogle Playからの削除を要求。",
     "source": [
       "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Steamゲームを利用して22万ドルの暗号通貨を盗んだ男が逮捕",
+    "summary": "被告はSteamゲームにマルウェアを隠し、8,000台のデバイスに感染させ、被害者に気付かれずに暗号通貨ウォレットから資金を引き出した。",
+    "source": [
+      "techcrunch.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AWS、最大17億ドルの請求を発生させた課金エラーを修正",
+    "summary": "Amazon Web Servicesの課金見積もりシステムの不具合により顧客に過剰請求が発生し、現在返金が行われている。",
+    "source": [
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "遠方の恒星のハビタブルゾーンにある岩石惑星で初の大気を検出",
+    "summary": "科学者たちは、地球サイズの系外惑星で大気を発見したと発表。太陽系外での生命探求におけるマイルストーン。",
+    "source": [
       "news.ycombinator.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Mario Kart Wiiが静的再コンパイルによりPCに登場、4K対応と200以上のコースをサポート",
-    "summary": "ファンプロジェクトが初めてAIを使用してゲームを移植し、無制限のフレームレートを提供。",
+    "title": "SpaceX株が暴落、1ヶ月で1兆ドルの損失",
+    "summary": "宇宙企業はスターシップロケットのテストが土壇場で中断された後、歴史的な株価暴落を被る。",
     "source": [
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国、対米AI戦争でDeepSeekをチャンピオンとして推進",
-    "summary": "アジアの国は、西側の技術と競争するために自国のAIエコシステムに賭けている。",
-    "source": [
-      "xataka.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Linus Torvalds、LinuxカーネルのAI批判者に「アスパラガスを揚げに行け」と強く反論",
-    "summary": "Linuxの創造者は、カーネル開発への人工知能ツールの統合を擁護。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Netflixが300のAIプロジェクトを制作、エンターテインメントにおけるテクノロジー導入のマイルストーンに",
-    "summary": "ストリーミングプラットフォームはコンテンツへのAI統合を加速させており、業界における止まらないトレンドを反映している。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "EU、Googleに競合アシスタントがAndroidのマイクとカメラにアクセスすることを義務付け",
-    "summary": "独占禁止法の決定は、AndroidデバイスにおけるサードパーティのAIアシスタントの競争条件を平等にすることを目的としている。",
+    "title": "EU、GoogleにAndroidのマイク、カメラ、画面を競合AIアシスタントに開放するよう要求",
+    "summary": "欧州委員会は、GoogleにサードパーティのAIアシスタントがAndroidデバイスの主要コンポーネントにアクセスすることを許可するよう義務付ける。",
     "source": [
       "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "オーストラリア、AIデータセンターに消費電力量と同量のエネルギー生成を要求",
-    "summary": "オーストラリア首相が、エネルギー効率とデータ保護を含む国家AIフレームワークを発表。",
+    "title": "Redditユーザー、Flock監視タワーの伐採を祝う、同意なしに個人を追跡していることが明らかに",
+    "summary": "記者がFlockのカメラが個人のGPS位置を記録していることを証明し、同社のプライバシーに関する主張を矛盾させる。",
     "source": [
-      "tomshardware.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "米国議員、安全保障リスクで同盟国のサプライチェーンから中国製メモリチップを禁止へ",
-    "summary": "法案は、中国のメモリへの依存が国家安全保障にとって許容できないリスクをもたらすと見なしている。",
+    "title": "Linus Torvalds、LinuxカーネルへのAI統合に批判的な人々に「去れ」と言う",
+    "summary": "Linuxの創設者は、カーネルへの人工知能統合に関する苦情に対し、反対派は貢献すべきでないと示唆して応答。",
     "source": [
-      "tomshardware.com"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "サンフランシスコ、AppleとGoogleに人物を裸にするAIアプリをストアから削除するよう要求",
-    "summary": "当局は、これらのアプリが同意なしに親密な画像を生成することでプライバシーを侵害すると主張。",
+    "title": "Netflix、人工知能を使用した300のプロジェクトを制作、エンターテイメントへの採用を加速",
+    "summary": "ストリーミングプラットフォームはすでに数百の作品にAIを統合しており、テクノロジーがエンターテイメント業界で急速に普及していることを示している。",
     "source": [
-      "wired.com"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "サンフランシスコ市長、Waymoの事件を受けてロボタクシーにさらなる規制を提案",
-    "summary": "Waymoの自動運転車が煙で方向感覚を失い、交通混乱を引き起こし、より厳格な管理が求められている。",
+    "title": "CISA、ゼロデイとして悪用されているSharePointの重要な脆弱性をカタログに追加",
+    "summary": "米国のサイバーセキュリティ機関は、SharePointのリモートコード実行の欠陥が積極的に悪用されていると警告。",
     "source": [
-      "techcrunch.com"
+      "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "SpaceX、2基目のStarship V3の打ち上げを点火から数秒後に中断",
-    "summary": "宇宙企業は異常により巨大ロケットの離陸を中止し、試験を延期、新たな日時は未定。",
+    "title": "習近平国家主席、人工知能における国際協力を呼びかけ、「協力のシンフォニー」を提案",
+    "summary": "中国国家主席は、技術競争の中で、AIの開発とガバナンスのための国際的な取り組みを促す開かれたメッセージを発信。",
     "source": [
-      "techcrunch.com"
+      "/r/technology"
     ],
     "count": 1
   }

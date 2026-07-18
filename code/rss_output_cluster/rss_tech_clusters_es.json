@@ -1,29 +1,56 @@
 [
   {
-    "title": "El modelo chino de inteligencia artificial Kimi K3 alcanza el primer puesto en Frontend Code Arena y genera revuelo global",
-    "summary": "Moonshot AI presenta el modelo más grande de código abierto, que compite directamente con los modelos cerrados de OpenAI y Anthropic.",
+    "title": "El modelo chino Kimi K3 supera en rendimiento a los sistemas de IA occidentales en puntos de referencia clave",
+    "summary": "El modelo de Moonshot AI, con 2,8 billones de parámetros, alcanza el primer lugar en Frontend Code Arena y reaviva el debate sobre la ventaja de China en la carrera de IA.",
     "source": [
+      "/r/technology",
+      "the-decoder.com",
       "xataka.com",
       "news.ycombinator.com",
       "tomshardware.com",
-      "producthunt.com",
-      "the-decoder.com"
+      "producthunt.com"
     ],
-    "count": 5
+    "count": 6
   },
   {
-    "title": "Apple demanda a OpenAI y amenaza con retrasar su oferta pública inicial",
-    "summary": "La compañía envía cartas legales a decenas de empleados de OpenAI en una batalla que pone en riesgo su salida a Bolsa.",
+    "title": "Operador del telepromter de la Casa Blanca ganó más de 100.000 dólares apostando en discursos presidenciales",
+    "summary": "El empleado manipulaba el texto del telepromter y usaba la plataforma Kalshi para predecir las palabras exactas que diría el presidente, obteniendo grandes ganancias.",
     "source": [
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "wired.com"
+      "/r/technology",
+      "xataka.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Bethesda confirma remasters de Fallout 3 y New Vegas y el desarrollo de Fallout 5",
-    "summary": "La compañía de videojuegos anuncia planes para revitalizar la saga postapocalíptica con nuevas entregas y versiones mejoradas.",
+    "title": "Enfermeras de Kaiser denuncian que la inteligencia artificial y la vigilancia laboral empeoran la atención al paciente",
+    "summary": "Las trabajadoras de salud afirman que las herramientas de IA y monitoreo reducen su efectividad y perjudican la calidad del cuidado médico.",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Monitores y televisores LG instalan software publicitario no deseado a través de Windows Update",
+    "summary": "Usuarios reportan que los dispositivos LG incorporan adware que obliga a advertir a los invitados sobre posible grabación por IA, generando una revuelta de consumidores.",
+    "source": [
+      "/r/technology",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Australia exige que los centros de datos de IA generen toda la energía que consumen",
+    "summary": "El gobierno australiano presenta un marco nacional para IA que incluye eficiencia hídrica, protección de propiedad intelectual y autosuficiencia energética.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bethesda confirma Fallout 5 y remasters de Fallout 3 y New Vegas",
+    "summary": "La compañía anuncia el desarrollo de una nueva entrega de la saga, junto con versiones remasterizadas de dos títulos clásicos y avances de The Elder Scrolls VI.",
     "source": [
       "videocardz.com",
       "hardzone.es"
@@ -31,44 +58,17 @@
     "count": 2
   },
   {
-    "title": "Detenido en Florida por robar 220.000 dólares en criptomonedas mediante malware en juegos de Steam",
-    "summary": "El acusado infectó 8.000 dispositivos con troyanos ocultos en títulos populares, según el FBI.",
+    "title": "Mario Kart Wii recompilado para PC con gráficos mejorados y 4K nativo",
+    "summary": "Un proyecto de recompilación estática permite jugar el clásico de Wii en ordenador con más de 200 pistas, frecuencia de fotogramas ilimitada y resolución 4K.",
     "source": [
-      "techcrunch.com",
+      "hardzone.es",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "TSMC invertirá 100.000 millones de dólares adicionales para construir cuatro fábricas en Arizona",
-    "summary": "La inversión total del fabricante taiwanés en Estados Unidos asciende a 265.000 millones, centrada en tecnología de 2 nm.",
-    "source": [
-      "xataka.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel bautizará a sus procesadores Nova Lake como Core Ultra 400 y los lanzará de forma escalonada",
-    "summary": "Las filtraciones apuntan a que el buque insignia de 52 núcleos no llegará hasta finales de 2027.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD Ryzen 7 7700X3D se ofrece en un lote exclusivo en Newegg con placa base y RAM por 450 dólares",
-    "summary": "El pack incluye un descuento del 31% y está diseñado para montajes compactos de alto rendimiento.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GPD Win Max 3 se confirma con procesador AMD Strix Halo de 110 W y pantalla OLED de 165 Hz",
-    "summary": "La consola portátil promete ser la más potente, con una variante Arc G3 Extreme también en desarrollo.",
+    "title": "GPD WIN MAX 3 confirma procesador Strix Halo de 110 W y pantalla OLED",
+    "summary": "La nueva consola portátil de GPD ofrecerá un rendimiento sin precedentes con una versión estándar y otra Extreme con gráficos Arc G3.",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -76,101 +76,102 @@
     "count": 2
   },
   {
-    "title": "LG instala software no consentido en sus monitores a través de Windows Update, según denuncia Gamers Nexus",
-    "summary": "El software de monitoreo se instala sin permiso y podría comprometer la privacidad de los usuarios.",
+    "title": "AMD Ryzen 7 7700X3D se ofrece en paquete exclusivo con placa base y memoria en Newegg",
+    "summary": "El lote incluye el procesador X3D, una placa B650M Micro ATX y 16 GB de DDR5 por 450 dólares, exclusivo para Estados Unidos.",
     "source": [
-      "videocardz.com",
-      "/r/hardware"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Amazon corrige un error de facturación que generó cargos de hasta 1.700 millones de dólares a clientes de AWS",
-    "summary": "Un fallo en el sistema de estimación de costes provocó facturas infladas que la empresa está subsanando.",
+    "title": "Apple y Google deben eliminar las aplicaciones 'nudify' de sus tiendas por orden de San Francisco",
+    "summary": "Las autoridades exigen la remoción de apps que usan IA para crear imágenes desnudas de personas sin su consentimiento, tanto en la App Store como en Google Play.",
     "source": [
       "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Hombre arrestado por usar juegos de Steam para robar 220.000 dólares en criptomonedas",
+    "summary": "El acusado ocultó malware en partidas de Steam para infectar 8.000 dispositivos y drenar billeteras de criptomonedas sin que las víctimas lo notaran.",
+    "source": [
+      "techcrunch.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AWS corrige un error de facturación que generó cargos de hasta 1.700 millones de dólares",
+    "summary": "Un fallo en el sistema de estimación de facturación de Amazon Web Services provocó cobros excesivos a clientes, que ahora están siendo reembolsados.",
+    "source": [
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Primera atmósfera detectada en un planeta rocoso en zona habitable de una estrella lejana",
+    "summary": "Científicos anuncian el hallazgo de una atmósfera en un exoplaneta del tamaño de la Tierra, un hito en la búsqueda de vida más allá del sistema solar.",
+    "source": [
       "news.ycombinator.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Mario Kart Wii llega a PC mediante recompilación estática con soporte para 4K y más de 200 pistas",
-    "summary": "El proyecto fan utiliza inteligencia artificial para portar el juego por primera vez, ofreciendo frecuencias de cuadro sin límite.",
+    "title": "Las acciones de SpaceX se desploman y pierden un billón de dólares en un mes",
+    "summary": "La empresa espacial sufre una caída histórica en bolsa tras el aborto de la prueba del cohete Starship en el último instante.",
     "source": [
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China impulsa DeepSeek como su campeón en la guerra de la inteligencia artificial contra Estados Unidos",
-    "summary": "El país asiático apuesta por su propio ecosistema de IA para competir con las tecnologías occidentales.",
-    "source": [
-      "xataka.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Linus Torvalds responde a los críticos de la IA en el kernel de Linux con un contundente 'váyanse a freír espárragos'",
-    "summary": "El creador de Linux defiende la integración de herramientas de inteligencia artificial en el desarrollo del kernel.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Netflix produce 300 proyectos con inteligencia artificial, marcando un hito en la adopción de la tecnología en el entretenimiento",
-    "summary": "La plataforma de streaming acelera la integración de IA en sus contenidos, lo que refleja una tendencia imparable en la industria.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La Unión Europea obliga a Google a permitir que asistentes rivales accedan al micrófono y cámara de Android",
-    "summary": "La decisión antimonopolio busca nivelar el campo de juego para los asistentes de IA de terceros en dispositivos Android.",
+    "title": "La UE exige a Google abrir el micrófono, cámara y pantalla de Android a asistentes de IA competidores",
+    "summary": "La Comisión Europea obliga a Google a permitir que asistentes de inteligencia artificial de terceros accedan a componentes clave de los dispositivos Android.",
     "source": [
       "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "Australia exige que los centros de datos de IA generen tanta energía como consumen para ser sostenibles",
-    "summary": "El primer ministro australiano presenta un marco nacional para la IA que incluye eficiencia energética y protección de datos.",
+    "title": "Redditors celebran la tala de torres de vigilancia Flock mientras se demuestra que rastrean personas sin consentimiento",
+    "summary": "Un reportero prueba que las cámaras de Flock registran ubicaciones GPS de individuos, contradiciendo las afirmaciones de la empresa sobre privacidad.",
     "source": [
-      "tomshardware.com"
+      "/r/technology"
     ],
     "count": 1
   },
   {
-    "title": "Legisladores de EE.UU. quieren prohibir los chips de memoria chinos en las cadenas de suministro aliadas por riesgo de seguridad",
-    "summary": "La propuesta de ley considera que la dependencia de memoria china supone un riesgo inaceptable para la seguridad nacional.",
+    "title": "Linus Torvalds dice a los críticos de IA en el kernel de Linux que 'se vayan'",
+    "summary": "El creador de Linux responde a las quejas sobre la integración de inteligencia artificial en el kernel sugiriendo que los oponentes no contribuyan.",
     "source": [
-      "tomshardware.com"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "San Francisco exige a Apple y Google que eliminen de sus tiendas las aplicaciones de IA que desnudan a personas",
-    "summary": "Las autoridades argumentan que estas apps violan la privacidad al generar imágenes íntimas sin consentimiento.",
+    "title": "Netflix produce 300 proyectos con inteligencia artificial, acelerando la adopción en el entretenimiento",
+    "summary": "La plataforma de streaming ya ha integrado IA en cientos de producciones, demostrando cómo la tecnología se está extendiendo rápidamente en la industria del entretenimiento.",
     "source": [
-      "wired.com"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "El alcalde de San Francisco propone regulaciones más estrictas para los robotaxis tras un incidente con Waymo",
-    "summary": "Un vehículo autónomo de Waymo quedó desorientado por el humo, lo que provocó un caos de tráfico y exige mayor control.",
+    "title": "CISA añade vulnerabilidad crítica de SharePoint explotada como cero-días a su catálogo",
+    "summary": "La agencia de ciberseguridad de EE.UU. advierte sobre una falla de ejecución remota de código en SharePoint que está siendo activamente explotada.",
     "source": [
-      "techcrunch.com"
+      "thehackernews.com"
     ],
     "count": 1
   },
   {
-    "title": "SpaceX aborta el lanzamiento del segundo Starship V3 segundos después de la ignición",
-    "summary": "La compañía espacial cancela el despegue del megacohete por una anomalía, posponiendo la prueba sin nueva fecha.",
+    "title": "Xi Jinping pide cooperación global en inteligencia artificial y ofrece una 'sinfonía de colaboración'",
+    "summary": "El presidente chino insta a un esfuerzo internacional para el desarrollo y gobernanza de la IA, en un mensaje de apertura en medio de la competencia tecnológica.",
     "source": [
-      "techcrunch.com"
+      "/r/technology"
     ],
     "count": 1
   }
