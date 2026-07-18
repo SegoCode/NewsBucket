@@ -1,190 +1,200 @@
 [
   {
-    "title": "中東の緊張で石油が急騰、イランの脅威とホルムズ海峡閉鎖の懸念",
-    "summary": "イランと米国の攻撃が原油を押し上げ、イラクとシリアが代替パイプラインの再建に動く一方、市場は戦争拡大を懸念。",
+    "title": "スペースX、IPO後に1兆ドルの時価総額を失い、投資家は同社に空売りを仕掛ける",
+    "summary": "スターシップの打ち上げ延期と中国の競合への懸念が弱気圧力を強めている",
     "source": [
-      "nikkei.com",
-      "ft.com",
-      "investing.com",
-      "/r/stocks",
-      "expansion.com",
-      "bolsamania.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "SpaceX、試験飛行停止と空売り増加でIPO価格を下回る",
-    "summary": "イーロン・マスク氏の企業はIPO以来最悪の状況に直面、打ち上げ遅延、批判的な報道、中国の競争激化。",
-    "source": [
-      "investing.com",
-      "nasdaq.com",
-      "ft.com",
       "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "半導体セクターで大規模売り、AIバブル懸念でチップ株下落",
-    "summary": "半導体メーカーは1年以上ぶりの最悪の週を記録、ボラティリティは過去最高。投資家はメモリ回復とAI支出に疑問。",
-    "source": [
-      "investing.com",
       "finance.yahoo.com",
       "ft.com",
-      "nikkei.com",
-      "/r/stocks"
+      "investing.com",
+      "nasdaq.com"
     ],
     "count": 5
   },
   {
-    "title": "Apple、エヌビディアを抜き世界で最も価値ある企業に",
-    "summary": "Appleが時価総額でトップの座を取り戻し、テクノロジー投資家の選好変化の中でエヌビディアを追い抜く。",
+    "title": "半導体株、メモリーチップの変動で1年以上ぶりの最悪の週に",
+    "summary": "ジョン・テンプルトン氏などの投資家の警告とマイクロンやSKハイニックスの回復への不透明感がセクターの重しに",
     "source": [
+      "/r/stocks",
+      "finance.yahoo.com",
+      "ft.com",
+      "investing.com",
+      "nasdaq.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "エネルギー株が急伸、石油関連雇用は2026年以来の低水準に",
+    "summary": "製油所株は最大123%の上昇を記録し、エネルギーETFが投資家の注目を集める",
+    "source": [
+      "/r/stocks",
+      "bolsamania.com",
+      "finance.yahoo.com",
+      "ft.com",
+      "nasdaq.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "投資家、バリュエーション議論の中でAI以外にポートフォリオを分散",
+    "summary": "ゴールドマン・サックスが代替投資テーマを提示する一方、テクノロジー大手がAI戦略を調整",
+    "source": [
+      "/r/stocks",
+      "finance.yahoo.com",
       "handelsblatt.com",
-      "/r/stocks",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "景気後退指標と市場下落警告がウォール街の懸念をあおる",
-    "summary": "1960年以来すべての景気後退を予測してきた指標が発動、マーティン・ウルフ氏などのアナリストが次の金融崩壊を警告。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "米政治：下院がペニー廃止を可決、トランプ氏がグラム姉妹を選挙に起用、メディア企業は高額料金",
-    "summary": "議会が1セント硬貨廃止を進め、トランプ氏はグラム姉妹を選挙に勧誘、トランプ・メディアは大統領の投稿への独占アクセスを月10万ドルで提供。",
-    "source": [
-      "finance.yahoo.com",
-      "nikkei.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "配当利回り3.2%のETF、今年ナスダック100をアウトパフォーム",
-    "summary": "ある配当ETFは利回り3.2%を提供し、年初来でハイテク指数ナスダック100を上回るパフォーマンス。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NextEra Energy、2032年まで年間590億ドルの設備投資を計画",
-    "summary": "電力会社が野心的な投資計画を発表、株主への配当増加につながる可能性。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SalesforceとCrowdStrike：2026年に買うべきテクノロジー株は？",
-    "summary": "両ソフトウェア企業を比較し、今年の成長見通しがより良いのはどちらかを分析。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "パッシブインカム向け利回り5%超の配当株5選",
-    "summary": "魅力的な利回りを求める投資家向けに、少なくとも5%の配当を支払う5銘柄を選定。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GameStop、コールオプションでeBayの約10%の株式を取得",
-    "summary": "ゲーム会社が39億7000万ドル相当のオプションを行使し、eBayの大株主となる。",
-    "source": [
-      "/r/stocks",
       "investing.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "米国でデータセンターに対する全国的な抗議が拡大、エヌビディアが解決策を模索",
-    "summary": "データセンター拡大への社会的な反発が全米に広がる中、エヌビディアは影響を緩和する代替案を提案。",
+    "title": "エネルギーインフラ攻撃と代替パイプライン合意で中東の緊張高まる",
+    "summary": "イランは米国が核合意に違反したと非難、一方イラクとシリアはホルムズ海峡封鎖を回避するルートを模索",
     "source": [
-      "nasdaq.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ウォール街の大手銀行、AIに後押しされ過去最高益を記録",
-    "summary": "AIへの投資が米国とアジアの投資銀行に歴史的な利益をもたらす。",
-    "source": [
-      "finance.yahoo.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Ibex 35、地政学的不確実性とテクノロジー株急落で下落",
-    "summary": "スペイン株式市場は週間で損失を被るが、Ibexのエネルギーセクターは堅調で、W杯関連銘柄が際立つ。",
-    "source": [
+      "/r/stocks",
       "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "IPO市場の動き：DeepSeekが資金調達を模索、Superdrugは上場延期、Reformationはファストファッションに注力",
-    "summary": "ロンドンと中国で複数の企業が新規公開株を計画または延期しており、IPO市場の混迷を示している。",
-    "source": [
-      "investing.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "日本のスポーツデー：相撲、野球、ゴルフ、ボクシングが注目を集める",
-    "summary": "名古屋場所の大相撲、プロ野球の試合、日経カップゴルフトーナメント、世界タイトルマッチの結果と最新情報。",
-    "source": [
+      "expansion.com",
       "nikkei.com"
     ],
-    "count": 1
+    "count": 4
   },
   {
-    "title": "Netflix、四半期決算を受けて再び株価下落",
-    "summary": "ストリーミング大手が最新の数字で市場を失望させ、投資家を驚かせる能力に疑問が生じている。",
+    "title": "ウォール街は週間で下落、アナリストは調整の可能性を警告",
+    "summary": "ダウ工業株、S&P500、ナスダックが下落を累積、FTコラムニストは近くの崩壊リスクを警告",
     "source": [
-      "bolsamania.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "韓国、個別株レバレッジETFの新規上場を禁止",
-    "summary": "韓国規制当局が株式市場の高リスク金融商品を制限する措置を講じる。",
-    "source": [
-      "/r/stocks"
-    ],
-    "count": 1
-  },
-  {
-    "title": "EU、米国の圧力を受けてメタン規制違反の罰金を延期",
-    "summary": "ブリュッセルはワシントンの苦情を受け規制姿勢を緩和、排出基準を満たさない企業への制裁を延期。",
-    "source": [
+      "bolsamania.com",
+      "finance.yahoo.com",
       "ft.com"
     ],
-    "count": 1
+    "count": 3
   },
   {
-    "title": "UBS、宇宙経済は2040年に1.3兆ドルに達すると予測",
-    "summary": "スイスの銀行は、官民投資に牽引され、宇宙産業の総獲得可能市場を1.3兆ドルと推定。",
+    "title": "Netflix、視聴データ制限と業績失望で株価12%下落",
+    "summary": "同社のAI戦略が投資家を納得させず、株価を下落させる",
     "source": [
+      "/r/stocks",
+      "bolsamania.com",
+      "nasdaq.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AppleがNvidiaを抜き、再び世界で最も価値のある企業に",
+    "summary": "iPhoneメーカーがテクノロジー変動の中、時価総額で半導体大手を追い抜く",
+    "source": [
+      "/r/stocks",
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ウォール街銀行が利益予想を上回り、楽観的見方が欧州に波及",
+    "summary": "ゴールドマン・サックスがセクター収益を牽引、一方バークレイズは欧州が業績レースで先行する可能性を指摘",
+    "source": [
+      "finance.yahoo.com",
+      "ft.com",
       "investing.com"
     ],
-    "count": 1
+    "count": 3
+  },
+  {
+    "title": "CXMTとDeepSeekの上場やロンドン計画でIPO市場が活性化",
+    "summary": "複数のテクノロジー企業や金融企業が上場環境の回復の中で株式デビューを準備",
+    "source": [
+      "/r/stocks",
+      "ft.com",
+      "investing.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "トランプ関税は7月24日に失効、世界的批判と代替貿易模索の中で",
+    "summary": "EUと米国は中国依存を減らすため3800兆円以上が必要、フィナンシャル・タイムズ報道",
+    "source": [
+      "ft.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ビル・アックマンのクローズドエンド型ファンド、上場価格を20%下回る",
+    "summary": "バークシャー・ハサウェイに触発された戦略への懐疑が投資家の不信を招く",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "トランプ・メディア、月額10万ドルで大統領メッセージの優先フィードを提供",
+    "summary": "ドナルド・トランプ氏の投稿にリアルタイムでアクセスできるプレミアム購読が議論を呼ぶ",
+    "source": [
+      "ft.com",
+      "investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "アナリスト、Nvidia株の購入を推奨、AIにおける揺るぎないリーダーシップを評価",
+    "summary": "セクターの変動にもかかわらず、ジェンセン・フアン氏の会社はAIの女王であり続けると専門家",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Joby Aviation、ビジネスモデルへの疑問で株価10ドル割れ",
+    "summary": "都市航空モビリティ企業はテクノロジー新興企業にとって厳しい環境に直面",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "エレクトロニック・アーツCEOが100万ドル相当の株式を売却、不確実性を生む",
+    "summary": "ビデオゲーム大手のトップ経営者による株式売却が疑問を呼ぶ",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Copartの役員、株価下落中に8万株を220万ドルで売却",
+    "summary": "ダニエル・イングランダー氏の取引は株価が40%下落した時に行われ、投資家はその影響を評価",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "C3.ai CEOが420万ドル相当の株式を売却、市場を懸念させる",
+    "summary": "トム・シーベル氏の売却は同AI企業の見通しに対する不透明感の中で行われる",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "長期債ETFの比較：iShares IGLB対Vanguard VGLT",
+    "summary": "両ファンドは長期債務へのエクスポージャーを提供するが、手数料と構成で異なる",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "アルゼンチンとスペインがサッカーワールドカップ決勝で対戦、株式市場に影響",
+    "summary": "スペインのパフォーマンスに関連する株式が決勝戦で投資家の注目を集める",
+    "source": [
+      "expansion.com",
+      "nikkei.com"
+    ],
+    "count": 2
   }
 ]

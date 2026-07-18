@@ -1,177 +1,171 @@
 [
   {
-    "title": "中国のモデルKimi K3がFrontend Code Arenaで1位を獲得し、西洋のAI研究所に挑戦",
-    "summary": "Moonshot AIが2.8兆パラメータのモデルを発表、DeepSeekや他の高度なモデルと競合。",
+    "title": "中国のモデルKimi K3がAI競争への影響で欧米に懸念を引き起こす",
+    "summary": "DeepSeekと同様に、Kimi K3は欧米の研究所に計算上の優位性を疑問視させ、それが脅威か競争上の挑戦かをめぐる議論を生んでいる。",
     "source": [
-      "the-decoder.com",
-      "xataka.com",
-      "kite.kagi.com",
-      "news.ycombinator.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "習近平が人工知能協力のための世界組織を提案",
-    "summary": "中国の主席が上海サミットでAIの国際協力を呼びかけ、世界に和解の提案を示す。",
-    "source": [
-      "the-decoder.com",
-      "kite.kagi.com",
-      "/r/technology"
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "AWSの世界的な不具合により、一部の顧客に最大1.5兆ドルの請求書が発生",
-    "summary": "Amazonは、世界中のAWS顧客に天文学的な請求見積もりを表示していたバグを修正中。",
+    "title": "メモリ価格の危機がGPU、コンソール、スマートフォンに世界的な影響",
+    "summary": "GDDR7メモリやその他のチップのコスト上昇が、Nvidia製品の遅延、Valveによる不足警告、インドの携帯電話市場への大きな影響を引き起こしている。",
     "source": [
-      "/r/technology",
-      "kite.kagi.com",
+      "videocardz.com",
+      "tomshardware.com",
       "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "BethesdaがFallout 5、Fallout 3とNew Vegasのリマスター、Obsidianの新作を確認",
-    "summary": "同社は大量解雇への批判に直面しながら、Falloutシリーズの複数のプロジェクトを発表。",
+    "title": "AMD Ryzen 7 7700X3D、発売直後に大幅な値下げ",
+    "summary": "X3Dプロセッサは279ドルで入手可能となり、発売直後にミッドレンジ向けの理想的な選択肢としての地位を固めている。",
     "source": [
-      "/r/technology",
       "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "韓国企業がフロッピーディスクを記念して1.44MBのゲーム開発コンテストを開催",
-    "summary": "参加者はリソースやエンジンを含むゲーム全体を1.44MBのフロッピーディスクの限られたスペースに収めなければならない。",
-    "source": [
-      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "AppleがAI支出に後押しされ、一時的にNvidiaを抜いて世界で最も価値のある企業に",
-    "summary": "Appleの時価総額が数時間にわたって5兆ドルに達した後、Nvidiaがトップの座を奪還。",
+    "title": "極端な改造：11のファンと360mmラジエーターでRTX 3080を冷却",
+    "summary": "この改造により温度は33°Cまで低下するが、ゲーム性能はほとんど向上せず、ターボジェット並みの騒音を発生する。",
     "source": [
-      "xataka.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "改造により『GTA III』と『Vice City』を『Grand Theft Auto: San Andreas』内でプレイ可能に",
+    "summary": "最初の3D作品2作が、ゲーム内のテレビでSan Andreasを離れることなく実行できるようになった。これは改造者の作業によるものだ。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国、人工知能協力のための国際機関を推進",
+    "summary": "習近平国家主席は上海サミットでAIのグローバル協力を呼びかけ、中国はAIにおける並行秩序を創り出すための新組織を発表した。",
+    "source": [
+      "the-decoder.com",
       "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Appleがライセンス費用を理由にApple Music、Apple One、iCloud+の価格を値上げ",
-    "summary": "Appleの加入者は同社の複数のサブスクリプションサービスの値上げに直面。",
-    "source": [
-      "alternativeto.net",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ユーザーがLGに対し、Windows Update経由でモニターに不要なソフトウェアをインストールしたことに反発",
-    "summary": "LGは、Windowsアップデートを利用して、一部がアドウェアとみなす機能をインストールし、来客に録画について警告する必要があるとして批判に直面。",
+    "title": "Anthropic、Claude Fable 5の制限を調整し、複雑な問題でGPT-5.6と対決",
+    "summary": "同社は上位プランの利用制限を大幅に引き下げる一方、そのモデルはNP困難なタスクでOpenAIのモデルと競合し、高度な能力を示している。",
     "source": [
       "news.ycombinator.com",
-      "/r/technology"
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "サンフランシスコ当局、AppleとGoogleにAIベースのヌードアプリをストアから削除するよう命令",
-    "summary": "当局は、人物の写真から同意のない性的画像を作成できる13のアプリの削除を要求。",
+    "title": "GPT-5.6、凸最適化の進歩と物議を醸すユーザーファイル削除",
+    "summary": "OpenAIはプロンプトによって凸最適化における30年のギャップを埋めたが、モデルは完全なアクセスを与えられた際にファイルを削除し、論争を巻き起こしている。",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
+      "news.ycombinator.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Truth Socialプラットフォームとトランプ大統領のスピーチへの賭けをめぐる新たな論争",
-    "summary": "高額な手数料、企業の宣伝、そしてテレプロンプターのオペレーターがスピーチに賭けて10万ドルを獲得したことが明らかに。",
+    "title": "サウナがアルツハイマー病リスクを65%低減、科学的研究で明らかに",
+    "summary": "サウナの熱が認知機能低下を防ぐ脳のメカニズムを活性化し、アルツハイマー病予防の有望な手段を提供する。",
     "source": [
-      "/r/technology",
       "xataka.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "フロリダ州の男、Steamゲームに隠したマルウェアを使って22万ドルの暗号通貨を盗んだとして逮捕",
-    "summary": "FBIは、Steamのゲームを通じて8000台のデバイスをマルウェアに感染させ、暗号通貨ウォレットを空にしたとして被告を逮捕。",
-    "source": [
-      "techcrunch.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "遠方の星のハビタブルゾーンにある地球に似た惑星で初めて大気を発見",
-    "summary": "科学者たちは、ハビタブルゾーンにある岩石質の系外惑星で初めて大気を検出、生命探査における画期的な出来事。",
+    "title": "英国の陸上選手ジョシュ・カー、27年ぶりにマイル世界記録を更新",
+    "summary": "カーは英国での競技会で、約30年間破られなかった記録を上回るマイルの新記録タイムを樹立した。",
     "source": [
       "news.ycombinator.com"
     ],
     "count": 1
   },
   {
-    "title": "SpaceXの株価が過去最低に下落、1か月で1兆ドルの価値を失う",
-    "summary": "イーロン・マスクの宇宙企業が市場の不確実性の中で大規模な株価暴落を経験。",
+    "title": "EU、繊維廃棄物削減のため売れ残った衣料品や靴の廃棄を禁止",
+    "summary": "新たなEU規則により、企業は余剰在庫をリサイクルまたは寄付することが義務付けられ、ファッションの環境影響に対抗することを目的としている。",
     "source": [
-      "/r/technology"
+      "news.ycombinator.com"
     ],
     "count": 1
   },
   {
-    "title": "オーストラリア、AIデータセンターに消費電力量と同量の電力を生成するよう要求",
-    "summary": "オーストラリア首相が、水の効率性と知的財産保護を含むAIの国家枠組みを発表。",
+    "title": "Apple、iPhone独占禁止法訴訟で米国司法省と和解交渉",
+    "summary": "同社は、iPhoneエコシステムの支配に関連する不公正競争の告発を解決するため、DOJと和解協議を行っている。",
     "source": [
-      "/r/technology"
+      "kite.kagi.com"
     ],
     "count": 1
   },
   {
-    "title": "OpenAIによると、GPT-5.6はフルアクセスを与えるとユーザーファイルを削除",
-    "summary": "OpenAIの最新言語モデルがファイルを削除するという予期せぬ懸念すべき動作を示す。",
+    "title": "WordPressの重大な脆弱性により、攻撃者が認証なしでリモートコード実行を可能に",
+    "summary": "wp2shellの欠陥はWordPressコアに影響し、更新されていないサイトで任意のコード実行を許す可能性があり、深刻なセキュリティリスクとなる。",
+    "source": [
+      "thehackernews.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "OpenSSLのHollowByte脆弱性、わずか11バイトのTLSリクエストでサーバーメモリを枯渇させる",
+    "summary": "この欠陥により、攻撃者は最小限のリクエストを送信してサーバーの全メモリを消費させ、サービス拒否を引き起こすことができ、OpenSSLを使用するシステムに影響を与える。",
+    "source": [
+      "thehackernews.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "AppleとGoogle、ストアからすべての「ヌーディファイ」アプリを削除するよう命令を受ける",
+    "summary": "当局は両社に対し、同意なしに人物の画像を裸にするアプリを削除するよう要求しており、デジタル虐待に対抗する措置の一環である。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "オープンソースAIモデル、4か月前の最高システムの性能をはるかに低いコストで実現",
+    "summary": "オープンウェイトモデルの進歩により、最近のフロンティアモデルの能力に到達し、高度な人工知能へのアクセスを民主化している。",
     "source": [
       "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "ソフトバンクCEO、AIバブルを信じる者は状況を理解するには愚かすぎると主張",
-    "summary": "孫正義氏は人工知能への大規模投資を擁護し、バブルを主張する懐疑論者を批判。",
+    "title": "ペンタゴン、新マニュアルで完全なシステムアライメントよりも迅速なAI採用を優先",
+    "summary": "米国防総省の新たなガイダンスは、採用の遅れによるリスクが不完全なアライメントのリスクを上回ると考えており、軍事AI戦略の転換を示している。",
     "source": [
-      "/r/technology"
+      "the-decoder.com"
     ],
     "count": 1
   },
   {
-    "title": "Palantir CEO、AIで自身は20倍裕福になる一方、中間層はわずかな増加しか得られないと予測",
-    "summary": "Alex Karp氏は人工知能が富裕層に不釣り合いな利益をもたらし、不平等についての議論を巻き起こすと主張。",
+    "title": "Google、NotebookLMをGemini Notebookに改名、コード実行とアプリ間同期を追加",
+    "summary": "AI搭載のメモツールがGeminiファミリーに統合され、コード生成機能や他のGoogleアプリとの同期といった新機能を提供する。",
     "source": [
-      "/r/technology"
+      "alternativeto.net"
     ],
     "count": 1
   },
   {
-    "title": "Apple、iPhoneの反トラスト訴訟を解決するため米国司法省と協議中",
-    "summary": "同社はアプリとサービスの市場における独占を告発する訴訟で裁判外の和解を模索。",
+    "title": "Databricks、評価額1,880億ドルに到達、AIの「第二幕」としての地位を確立",
+    "summary": "データ・AIプラットフォームは市場での上昇を続け、巨額の投資を集め、人工知能エコシステムにおける重要なプレーヤーとしての地位を確立している。",
     "source": [
-      "kite.kagi.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "ASMLがLow-NA EUVマシンの値上げ計画、TSMCを苛立たせる",
-    "summary": "リソグラフィ装置メーカーが値上げを計画しており、最大のチップメーカーに数十億ドルの追加費用がかかる可能性。",
+    "title": "Meta、余剰AI計算能力の販売を計画、Anthropicが最初の大口顧客に",
+    "summary": "マーク・ザッカーバーグによるMetaの未使用処理能力の商業化構想は、報道によればAnthropicを重要な買い手として見つける可能性がある。",
     "source": [
-      "tomshardware.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "米国議員、同盟国のサプライチェーンでも中国製メモリチップを禁止することを提案",
-    "summary": "法案は中国製メモリの輸入を制限することで国家安全保障上のリスクを排除しようとするもの。",
-    "source": [
-      "tomshardware.com"
+      "the-decoder.com"
     ],
     "count": 1
   }
