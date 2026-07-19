@@ -1,27 +1,7 @@
 [
   {
-    "title": "中国のモデルKimi K3がAI競争への影響で欧米に懸念を引き起こす",
-    "summary": "DeepSeekと同様に、Kimi K3は欧米の研究所に計算上の優位性を疑問視させ、それが脅威か競争上の挑戦かをめぐる議論を生んでいる。",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "メモリ価格の危機がGPU、コンソール、スマートフォンに世界的な影響",
-    "summary": "GDDR7メモリやその他のチップのコスト上昇が、Nvidia製品の遅延、Valveによる不足警告、インドの携帯電話市場への大きな影響を引き起こしている。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD Ryzen 7 7700X3D、発売直後に大幅な値下げ",
-    "summary": "X3Dプロセッサは279ドルで入手可能となり、発売直後にミッドレンジ向けの理想的な選択肢としての地位を固めている。",
+    "title": "AMD Ryzen 7 7700X3D が発売から2日で279ドルに値下げ",
+    "summary": "3D V-Cache テクノロジー搭載のプロセッサが価格を大幅に引き下げ、ミッドレンジゲーミングの最適な選択肢として確立されました。",
     "source": [
       "videocardz.com",
       "tomshardware.com"
@@ -29,8 +9,8 @@
     "count": 2
   },
   {
-    "title": "極端な改造：11のファンと360mmラジエーターでRTX 3080を冷却",
-    "summary": "この改造により温度は33°Cまで低下するが、ゲーム性能はほとんど向上せず、ターボジェット並みの騒音を発生する。",
+    "title": "RTX 3080に11基のファンと360mmラジエーターを取り付け、温度を30°C低下させる",
+    "summary": "極端な冷却実験により大幅な温度低下を達成したが、FPSはほとんど向上せず、タービンのような騒音が発生する。",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -38,8 +18,8 @@
     "count": 2
   },
   {
-    "title": "改造により『GTA III』と『Vice City』を『Grand Theft Auto: San Andreas』内でプレイ可能に",
-    "summary": "最初の3D作品2作が、ゲーム内のテレビでSan Andreasを離れることなく実行できるようになった。これは改造者の作業によるものだ。",
+    "title": "GTA III と Vice City を Grand Theft Auto San Andreas 内でプレイできるMOD",
+    "summary": "プレイヤーはSan Andreasのマップから離れることなくLiberty CityとVice Cityを探索し、クラシック作品を追体験できる。",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -47,125 +27,139 @@
     "count": 2
   },
   {
-    "title": "中国、人工知能協力のための国際機関を推進",
-    "summary": "習近平国家主席は上海サミットでAIのグローバル協力を呼びかけ、中国はAIにおける並行秩序を創り出すための新組織を発表した。",
+    "title": "KimiがAIモデルK3を発表、業界への影響をめぐり議論を呼ぶ",
+    "summary": "中国企業がKimi K3を発表、一部では支配的な西側モデルへの脅威と見なされている。",
     "source": [
-      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Waymo、1時間の中断を経てサンフランシスコで自動運転タクシーサービスを再開",
+    "summary": "Alphabetの子会社が、一時的な中断の後に自動運転車の運行を再開した。",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "中国、並行秩序を推進するため世界人工知能協力機構を設立",
+    "summary": "習近平指導部の主導するこの取り組みは、AI開発において西側に代わる基準を確立しようとしている。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "オープンウェイトモデルが4ヶ月前のフロンティアモデルの性能をわずかなコストで達成",
+    "summary": "オープンモデルの進歩によりプロプライエタリシステムとの差が縮まり、人工知能の民主化が進んでいる。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "米国防総省、不完全な調整よりも導入の遅さを大きなリスクとみなす新たなAIマニュアルを採用",
+    "summary": "米国防総省は、人工知能の使用において完全性よりも導入速度を優先する。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Anthropic、MaxプランおよびTeam PremiumプランにおけるClaude Fable 5の制限を大幅に引き下げ",
+    "summary": "AI企業が主力モデルを調整し、ProユーザーをAPIの従量課金制へと誘導している。",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "プロンプトインジェクション攻撃、AIベースのハッキングエージェントを挫折させる",
+    "summary": "プロンプトインジェクションの脆弱性が、自動化されたサイバーセキュリティシステムの有効性を制限している。",
+    "source": [
+      "wired.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Google Geminiの新しい料金体系の仕組みと使用状況の追跡方法",
+    "summary": "GoogleがAIアシスタントの課金モデルを更新し、消費の透明性を高めている。",
+    "source": [
+      "wired.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "あなたの生理周期トラッカーはおそらくあなたを監視している",
+    "summary": "月経追跡アプリは機密データを収集し、同意なしに共有される可能性がある。",
+    "source": [
+      "wired.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "LGモニターがWindows Updateを通じて無断でソフトウェアをインストール",
+    "summary": "ユーザーは、LGディスプレイがアップデートシステムを介して要求していないドライバーやアプリケーションを受け取っていると報告している。",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Apple、iPhoneの反トラスト訴訟を解決するため米国司法省と協議開始",
+    "summary": "同社は、アプリ配信における独占的慣行で告発されている訴訟で裁判外の和解を模索している。",
+    "source": [
       "kite.kagi.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Anthropic、Claude Fable 5の制限を調整し、複雑な問題でGPT-5.6と対決",
-    "summary": "同社は上位プランの利用制限を大幅に引き下げる一方、そのモデルはNP困難なタスクでOpenAIのモデルと競合し、高度な能力を示している。",
+    "title": "Valve、メモリ危機の悪化と小売価格が大口供給に6ヶ月遅れていると警告",
+    "summary": "同社はメモリモジュールのコスト上昇を警告し、ハードウェアの入手可能性に影響を与えている。",
     "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "videocardz.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "GPT-5.6、凸最適化の進歩と物議を醸すユーザーファイル削除",
-    "summary": "OpenAIはプロンプトによって凸最適化における30年のギャップを埋めたが、モデルは完全なアクセスを与えられた際にファイルを削除し、論争を巻き起こしている。",
+    "title": "AMD Ryzen 500 'Medusa Point' 10コアZen6がリーク、Zen5 HX 370比28%の性能向上",
+    "summary": "AMDの次期プロセッサはベンチマークで大幅な改善を示し、野心的なリリースを目指している。",
     "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "videocardz.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "サウナがアルツハイマー病リスクを65%低減、科学的研究で明らかに",
-    "summary": "サウナの熱が認知機能低下を防ぐ脳のメカニズムを活性化し、アルツハイマー病予防の有望な手段を提供する。",
+    "title": "NVIDIA N1Xを搭載したSurface Laptop Ultra、Cinebench 2026でApple M3 Maxに並ぶ",
+    "summary": "NVIDIAチップを搭載したMicrosoftの新しいノートパソコンが、Appleのトップエンドプロセッサの性能に達した。",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "GPT-5.6、たった1つのプロンプトで30年間未解決だった凸最適化問題を解決",
+    "summary": "OpenAIのモデルは、歴史的な課題を解決することで高度な数学的推論能力を実証した。",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "デンマーク、欧州の半分に再生可能エネルギーを供給する人工島を建設",
+    "summary": "巨大風力発電プロジェクトは複数の国に電力を供給し、大陸のエネルギーシステムを変革する。",
     "source": [
       "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "英国の陸上選手ジョシュ・カー、27年ぶりにマイル世界記録を更新",
-    "summary": "カーは英国での競技会で、約30年間破られなかった記録を上回るマイルの新記録タイムを樹立した。",
+    "title": "自律型マイクロドローンが飛行中の昆虫の殺傷に初成功、蚊の根絶へ",
+    "summary": "40グラムのドローンが車の駐車センサーを利用し、遠距離から正確に蚊を除去する。",
     "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "EU、繊維廃棄物削減のため売れ残った衣料品や靴の廃棄を禁止",
-    "summary": "新たなEU規則により、企業は余剰在庫をリサイクルまたは寄付することが義務付けられ、ファッションの環境影響に対抗することを目的としている。",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple、iPhone独占禁止法訴訟で米国司法省と和解交渉",
-    "summary": "同社は、iPhoneエコシステムの支配に関連する不公正競争の告発を解決するため、DOJと和解協議を行っている。",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "WordPressの重大な脆弱性により、攻撃者が認証なしでリモートコード実行を可能に",
-    "summary": "wp2shellの欠陥はWordPressコアに影響し、更新されていないサイトで任意のコード実行を許す可能性があり、深刻なセキュリティリスクとなる。",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "OpenSSLのHollowByte脆弱性、わずか11バイトのTLSリクエストでサーバーメモリを枯渇させる",
-    "summary": "この欠陥により、攻撃者は最小限のリクエストを送信してサーバーの全メモリを消費させ、サービス拒否を引き起こすことができ、OpenSSLを使用するシステムに影響を与える。",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AppleとGoogle、ストアからすべての「ヌーディファイ」アプリを削除するよう命令を受ける",
-    "summary": "当局は両社に対し、同意なしに人物の画像を裸にするアプリを削除するよう要求しており、デジタル虐待に対抗する措置の一環である。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "オープンソースAIモデル、4か月前の最高システムの性能をはるかに低いコストで実現",
-    "summary": "オープンウェイトモデルの進歩により、最近のフロンティアモデルの能力に到達し、高度な人工知能へのアクセスを民主化している。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ペンタゴン、新マニュアルで完全なシステムアライメントよりも迅速なAI採用を優先",
-    "summary": "米国防総省の新たなガイダンスは、採用の遅れによるリスクが不完全なアライメントのリスクを上回ると考えており、軍事AI戦略の転換を示している。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Google、NotebookLMをGemini Notebookに改名、コード実行とアプリ間同期を追加",
-    "summary": "AI搭載のメモツールがGeminiファミリーに統合され、コード生成機能や他のGoogleアプリとの同期といった新機能を提供する。",
-    "source": [
-      "alternativeto.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Databricks、評価額1,880億ドルに到達、AIの「第二幕」としての地位を確立",
-    "summary": "データ・AIプラットフォームは市場での上昇を続け、巨額の投資を集め、人工知能エコシステムにおける重要なプレーヤーとしての地位を確立している。",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta、余剰AI計算能力の販売を計画、Anthropicが最初の大口顧客に",
-    "summary": "マーク・ザッカーバーグによるMetaの未使用処理能力の商業化構想は、報道によればAnthropicを重要な買い手として見つける可能性がある。",
-    "source": [
-      "the-decoder.com"
+      "tomshardware.com"
     ],
     "count": 1
   }

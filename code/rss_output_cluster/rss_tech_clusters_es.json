@@ -1,27 +1,7 @@
 [
   {
-    "title": "El modelo chino Kimi K3 genera preocupación en Occidente por su impacto en la competencia de IA",
-    "summary": "Al igual que DeepSeek, Kimi K3 obliga a los laboratorios occidentales a cuestionar su ventaja computacional, generando debate sobre si representa una amenaza o un desafío competitivo.",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "La crisis de precios de la memoria afecta a GPUs, consolas y smartphones a nivel global",
-    "summary": "El aumento del coste de la memoria GDDR7 y otros chips provoca retrasos en productos de Nvidia, alertas de Valve sobre la escasez y un impacto significativo en el mercado indio de telefonía.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El AMD Ryzen 7 7700X3D sufre una fuerte caída de precio a los pocos días de su lanzamiento",
-    "summary": "El procesador X3D se puede encontrar por 279 dólares, consolidándose como la opción ideal para la gama media poco después de su lanzamiento.",
+    "title": "AMD Ryzen 7 7700X3D baja a 279 dólares tras dos días de su lanzamiento",
+    "summary": "El procesador con tecnología 3D V-Cache ve reducido su precio drásticamente, consolidándose como la mejor opción gaming de gama media.",
     "source": [
       "videocardz.com",
       "tomshardware.com"
@@ -29,8 +9,8 @@
     "count": 2
   },
   {
-    "title": "Un mod extremo enfría una RTX 3080 con 11 ventiladores y un radiador de 360 mm",
-    "summary": "La modificación logra reducir la temperatura hasta 33 °C, pero apenas mejora el rendimiento en juegos y genera un ruido de nivel turbojet.",
+    "title": "Montan 11 ventiladores y un radiador de 360 mm en una RTX 3080 para reducir su temperatura 30 °C",
+    "summary": "El experimento extremo de refrigeración logra una importante bajada térmica pero apenas mejora los FPS, generando un ruido de turbina.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -38,8 +18,8 @@
     "count": 2
   },
   {
-    "title": "Un mod permite jugar a GTA III y Vice City dentro de Grand Theft Auto: San Andreas",
-    "summary": "Las dos primeras entregas tridimensionales pueden ejecutarse en un televisor del juego sin necesidad de salir de San Andreas, gracias al trabajo de un modder.",
+    "title": "Un mod permite jugar a GTA III y Vice City dentro de Grand Theft Auto San Andreas",
+    "summary": "Los jugadores pueden explorar Liberty City y Vice City sin salir del mapa de San Andreas, reviviendo las entregas clásicas.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -47,125 +27,139 @@
     "count": 2
   },
   {
-    "title": "China impulsa una organización internacional para la cooperación en inteligencia artificial",
-    "summary": "El presidente Xi Jinping hace un llamamiento a la cooperación global en IA durante la cumbre de Shanghái, mientras China presenta una nueva entidad para crear un orden paralelo en IA.",
+    "title": "Kimi lanza su modelo de IA K3 y despierta debate sobre su impacto en la industria",
+    "summary": "La compañía china presenta el Kimi K3, que algunos consideran una amenaza para los modelos occidentales dominantes.",
     "source": [
-      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Waymo reanuda su servicio de taxis autónomos en San Francisco tras una hora de pausa",
+    "summary": "La filial de Alphabet restablece la operación de sus vehículos sin conductor después de una breve interrupción.",
+    "source": [
+      "techcrunch.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "China crea la Organización Mundial de Cooperación en Inteligencia Artificial para impulsar un orden paralelo",
+    "summary": "La iniciativa liderada por Xi Jinping busca establecer estándares alternativos a los occidentales en el desarrollo de la IA.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Los modelos de peso abierto alcanzan el rendimiento de los modelos frontera de hace cuatro meses a una fracción del coste",
+    "summary": "El avance de los modelos abiertos reduce la brecha con los sistemas propietarios, democratizando la inteligencia artificial.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "El Pentágono adopta un nuevo manual de IA que considera la adopción lenta como un riesgo mayor que una alineación imperfecta",
+    "summary": "El Departamento de Defensa de EE.UU. prioriza la velocidad de implementación sobre la perfección en el uso de inteligencia artificial.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Anthropic reduce drásticamente los límites de Claude Fable 5 en los planes Max y Team Premium",
+    "summary": "La empresa de IA ajusta su modelo estrella, empujando a los usuarios Pro hacia los precios por uso de API.",
+    "source": [
+      "the-decoder.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Los ataques de inyección de mensajes frustran a los agentes de hacking basados en IA",
+    "summary": "Las vulnerabilidades de inyección de prompts están limitando la efectividad de los sistemas automatizados de ciberseguridad.",
+    "source": [
+      "wired.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Cómo funcionan las nuevas tarifas de Gemini de Google y cómo rastrear tu uso",
+    "summary": "Google actualiza su modelo de facturación para el asistente de IA, ofreciendo más transparencia en el consumo.",
+    "source": [
+      "wired.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Tu rastreador de períodos probablemente te está espiando",
+    "summary": "Las aplicaciones de seguimiento menstrual recopilan datos sensibles que podrían ser compartidos sin consentimiento.",
+    "source": [
+      "wired.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Los monitores LG instalan software sin consentimiento a través de Windows Update",
+    "summary": "Usuarios denuncian que sus pantallas LG reciben controladores y aplicaciones no solicitadas mediante el sistema de actualizaciones.",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Apple inicia conversaciones con el Departamento de Justicia de EE.UU. para resolver el caso antimonopolio del iPhone",
+    "summary": "La empresa busca un acuerdo extrajudicial en la demanda que la acusa de prácticas monopolísticas en la distribución de apps.",
+    "source": [
       "kite.kagi.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "Anthropic ajusta los límites de su modelo Claude Fable 5 y lo enfrenta a GPT-5.6 en problemas complejos",
-    "summary": "La compañía reduce drásticamente los límites de uso en sus planes superiores mientras su modelo compite con el de OpenAI en tareas NP-duras, mostrando capacidades avanzadas.",
+    "title": "Valve advierte que la crisis de memoria empeora y los precios minoristas van seis meses por detrás del suministro a granel",
+    "summary": "La compañía alerta sobre el incremento de costes de los módulos de memoria, afectando la disponibilidad de hardware.",
     "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "videocardz.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "GPT-5.6 protagoniza avances en optimización convexa y un polémico borrado de archivos de usuario",
-    "summary": "OpenAI cierra una brecha de 30 años en optimización convexa mediante un prompt, pero el modelo también ha eliminado archivos cuando se le ha dado acceso completo, generando controversia.",
+    "title": "Se filtra el AMD Ryzen 500 ‘Medusa Point’ de 10 núcleos Zen6 con un rendimiento un 28% superior al Zen5 HX 370",
+    "summary": "El próximo procesador de AMD muestra una mejora significativa en pruebas de rendimiento, apuntando a un lanzamiento ambicioso.",
     "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "videocardz.com"
     ],
-    "count": 2
+    "count": 1
   },
   {
-    "title": "La sauna reduce un 65% el riesgo de Alzheimer, según un estudio científico",
-    "summary": "El calor de la sauna activa mecanismos cerebrales que protegen contra el deterioro cognitivo, ofreciendo una vía prometedora para la prevención del Alzheimer.",
+    "title": "El Surface Laptop Ultra con NVIDIA N1X iguala al Apple M3 Max en Cinebench 2026",
+    "summary": "El nuevo portátil de Microsoft con chip NVIDIA alcanza el rendimiento del procesador tope de gama de Apple.",
+    "source": [
+      "videocardz.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "GPT-5.6 resuelve un problema de optimización convexa que llevaba 30 años abierto usando un solo prompt",
+    "summary": "El modelo de OpenAI demuestra capacidad de razonamiento matemático avanzado al solucionar un desafío histórico.",
+    "source": [
+      "news.ycombinator.com"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Dinamarca construye una isla artificial para suministrar energía renovable a media Europa",
+    "summary": "El proyecto eólico gigante proporcionará electricidad a varios países, transformando el sistema energético del continente.",
     "source": [
       "xataka.com"
     ],
     "count": 1
   },
   {
-    "title": "El atleta británico Josh Kerr bate el récord mundial de la milla tras 27 años de vigencia",
-    "summary": "Kerr estableció un nuevo tiempo récord en la milla, superando la marca que permanecía imbatida desde hace casi tres décadas en una competición en el Reino Unido.",
+    "title": "Un microdron autónomo consigue matar insectos en vuelo por primera vez, rumbo a erradicar mosquitos",
+    "summary": "El dron de 40 gramos utiliza sensores de aparcamiento de coches para eliminar mosquitos a distancia y de forma precisa.",
     "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La UE prohíbe la destrucción de ropa y calzado no vendidos para reducir el desperdicio textil",
-    "summary": "La nueva normativa europea obligará a las empresas a reciclar o donar los excedentes, con el objetivo de combatir el impacto ambiental de la moda.",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple negocia un acuerdo con el Departamento de Justicia de EE. UU. por su caso antimonopolio del iPhone",
-    "summary": "La empresa tecnológica mantiene conversaciones de conciliación con el DOJ para resolver las acusaciones de competencia desleal relacionadas con el control del ecosistema iPhone.",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Vulnerabilidad crítica en WordPress permite a atacantes ejecutar código de forma remota sin autenticación",
-    "summary": "La falla wp2shell afecta al núcleo de WordPress y podría permitir la ejecución arbitraria de código en sitios no actualizados, suponiendo un grave riesgo de seguridad.",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La vulnerabilidad HollowByte en OpenSSL puede congelar la memoria del servidor con solicitudes TLS de solo 11 bytes",
-    "summary": "El fallo permite a un atacante enviar una petición mínima para provocar una denegación de servicio al consumir toda la memoria del servidor, afectando a sistemas que usan OpenSSL.",
-    "source": [
-      "thehackernews.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple y Google reciben orden de eliminar todas las aplicaciones 'nudify' de sus tiendas",
-    "summary": "Las autoridades han exigido a ambas empresas que retiren las apps que permiten desnudar imágenes de personas sin consentimiento, en una medida para combatir el abuso digital.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Los modelos de IA de código abierto igualan el rendimiento de los mejores sistemas de hace cuatro meses a un costo mucho menor",
-    "summary": "Los avances en modelos open-weight han logrado alcanzar la capacidad de los modelos frontera de reciente creación, democratizando el acceso a inteligencia artificial de alto nivel.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El Pentágono prioriza la adopción rápida de IA sobre la alineación perfecta de los sistemas en su nuevo manual",
-    "summary": "La nueva guía del Departamento de Defensa de EE. UU. considera que el riesgo de una adopción lenta supera al de una alineación imperfecta, marcando un cambio en la estrategia de IA militar.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Google renombra NotebookLM como Gemini Notebook y añade ejecución de código y sincronización entre aplicaciones",
-    "summary": "La herramienta de notas potenciada por IA se integra en la familia Gemini, ofreciendo nuevas capacidades de generación de código y sincronización con otras apps de Google.",
-    "source": [
-      "alternativeto.net"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Databricks alcanza una valoración de 188.000 millones de dólares, consolidándose como el 'segundo acto' favorito de la IA",
-    "summary": "La plataforma de datos e IA continúa su ascenso imparable en el mercado, atrayendo inversiones masivas y posicionándose como un actor clave en el ecosistema de inteligencia artificial.",
-    "source": [
-      "techcrunch.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta planea vender su excedente de cómputo de IA y Anthropic podría ser su primer gran cliente",
-    "summary": "La iniciativa de Mark Zuckerberg de comercializar la capacidad de procesamiento no utilizada de Meta podría encontrar en Anthropic un comprador importante, según informes.",
-    "source": [
-      "the-decoder.com"
+      "tomshardware.com"
     ],
     "count": 1
   }
