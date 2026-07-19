@@ -1,170 +1,48 @@
 [
   {
-    "title": "Chinese open-source models Kimi K3 and Qwen 3.8 challenge Western AI leaders",
-    "summary": "China launches advanced language models that surprise with their performance, competing with systems like Claude and ChatGPT, while other sectors prepare for the impact of AI.",
+    "title": "Alibaba launches Qwen 3.8, an open-source AI model that rivals ChatGPT and Claude",
+    "summary": "The Chinese Qwen 3.8 model is available as open source and has surprised with its performance, competing with Western leaders.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Moonshot AI suspends new subscriptions for Kimi K3 due to extremely high demand for the model",
+    "summary": "The Kimi K3 language model has generated massive demand, forcing the company to suspend new subscriptions, and has shown superior performance in frontend code tests.",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The new 10-core AMD Medusa Point APU surpasses all x86 mobile chips in single-core performance on Geekbench",
+    "summary": "Leaks show that the Zen6 processor achieves a score 28% higher than the Zen5 HX 370.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A $5 ESP32 dongle blocks 537,000 domains as ads using only 50KB of RAM",
+    "summary": "The firmware responds to blocked DNS queries in 10 milliseconds, offering an ultra-cheap ad blocking solution.",
     "source": [
       "/r/technology",
-      "kite.kagi.com",
-      "news.ycombinator.com",
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Jensen Huang's signed leather jacket auctioned for almost one million dollars",
-    "summary": "The iconic jacket of Nvidia's CEO reaches $960,000 in a charity auction, far above its initial valuation.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD Ryzen 7 7700X3D drops to $279 just days after launch",
-    "summary": "The mid-range X3D processor receives a quick discount, making it a very attractive option for the mid-range segment.",
+    "title": "Samsung eliminates 739 jobs in New Jersey as it moves its headquarters to Texas while its chip division posts record profits",
+    "summary": "The company reduces its consumer electronics workforce in the US ahead of moving its headquarters to Texas.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
-  },
-  {
-    "title": "Eleven fans and liquid cooling for an RTX 3080: the mod that lowers 33 °C but barely adds FPS",
-    "summary": "An enthusiast subjects his graphics card to extreme modification, managing to drastically reduce temperature with a minimal performance increase.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "From the 2004 DARPA race to Waymo's autonomous taxis: the evolution of self-driving vehicles",
-    "summary": "Autonomous cars have come a long way from the early competitions in the desert to the current services resuming activity in San Francisco.",
-    "source": [
-      "techcrunch.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Protests erupt across the United States against the expansion of artificial intelligence data centers",
-    "summary": "More than 120 demonstrations in 37 states denounce the use of eminent domain and the environmental impact of new data centers.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Flock vehicle surveillance cameras spark controversy over police abuses and citizen attacks",
-    "summary": "License plate recognition devices are vandalized, while officers lose their jobs for using them to harass, and they are expanded into urban surveillance networks.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Facebook and Instagram suffer a massive global outage leaving accounts inaccessible",
-    "summary": "A technical failure prevents access to Meta's platforms for several hours, affecting millions of users.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Google DeepMind argues that video generators already contain the world models that computer vision sought",
-    "summary": "The company defends that video models can predict physics and interactions, surpassing traditional vision systems.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta warns that current human-oriented infrastructure may have only 20 months before being rebuilt for AI agents",
-    "summary": "The company points out the urgency of adapting digital infrastructure to the rise of autonomous artificial intelligence agents.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "India fines HP $14.4 million for rigging public tenders and fixing prices",
-    "summary": "The investigation found that HP rigged government tenders and agreed on ink and toner prices with other companies.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "WhatsApp blocks sex workers' accounts in the Netherlands, leaving them without income",
-    "summary": "The messaging platform's decision affects sex workers who relied on the app to contact clients.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Lawsuit accuses ChatGPT of inducing a woman in Alabama to suicide with false divine prophecies",
-    "summary": "The victim's family claims that OpenAI's chatbot convinced her to end her life to fulfill an alleged religious purpose.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "France and Germany announce intention to develop European rival to Palantir analytics software",
-    "summary": "Both countries seek to strengthen their technological sovereignty with a local alternative to the U.S. data intelligence platform.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Netflix acquires Ben Affleck's artificial intelligence startup for $587 million",
-    "summary": "The streaming platform buys InterPositive, an AI company founded by the actor, to boost content creation.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Artificial intelligence algorithm assigns harsher living conditions to Black inmates in Ontario prisons",
-    "summary": "The classification system used in Canadian prisons systematically discriminates against inmates of African descent, according to an investigation.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Spotify removes 75 million AI-generated songs and doesn't stop there",
-    "summary": "The music streaming platform continues its fight against synthetic content to protect copyright and artistic quality.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "The AI frenzy cools and tech stocks suffer sharp declines",
-    "summary": "The stock market reflects growing skepticism toward AI promises, causing steep drops in valuations of sector companies.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Peter Thiel details his controversial 'Antichrist' theory and criticizes tech and climate regulators",
-    "summary": "The billionaire investor outlines his ideas on how overregulation is stifling innovation and human progress.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "FCC accepted gifts worth over $63,000 from Paramount while evaluating its deals",
-    "summary": "The regulatory commission chairman received tickets and other gifts from CBS/Paramount at critical times for merger approval.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
   }
 ]

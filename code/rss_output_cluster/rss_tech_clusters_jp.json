@@ -1,170 +1,48 @@
 [
   {
-    "title": "中国のオープンソースモデル「Kimi K3」と「Qwen 3.8」が、西洋のAIリーダーに挑戦",
-    "summary": "中国は高度な言語モデルを発表し、その性能で驚きを示し、ClaudeやChatGPTなどのシステムと競合している。一方、他のセクターはAIの影響に備えている。",
+    "title": "アリババ、ChatGPTやClaudeと競合するオープンソースAIモデル「Qwen 3.8」を発表",
+    "summary": "中国のQwen 3.8はオープンに利用可能で、その高性能で西側のリーダーと競合している。",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Moonshot AI、Kimi K3の需要急増で新規購読を停止",
+    "summary": "言語モデルKimi K3は需要が殺到し、新規購読が停止された。また、フロントエンドコードのテストでは高いパフォーマンスを発揮した。",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "新しい10コアAMD APU Medusa Point、Geekbenchでシングルコア性能がすべてのモバイルx86チップを上回る",
+    "summary": "リーク情報によると、Zen6プロセッサはZen5 HX 370を28%上回るスコアを獲得した。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "5ドルのESP32ドングル、わずか50KBのRAMで広告などの537,000ドメインをブロック",
+    "summary": "ファームウェアはブロックされたDNSクエリに10ミリ秒で応答し、超低価格の広告ブロックソリューションを提供する。",
     "source": [
       "/r/technology",
-      "kite.kagi.com",
-      "news.ycombinator.com",
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "ジェンセン・フアンがサインしたレザージャケットが約100万ドルで競売に",
-    "summary": "Nvidia CEOの象徴的なジャケットがチャリティオークションで96万ドルに達し、当初の評価額をはるかに上回った。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD Ryzen 7 7700X3D、発売から数日で価格が279ドルに値下げ",
-    "summary": "ミッドレンジのX3Dプロセッサが迅速な値下げを受け、ミッドレンジセグメントで非常に魅力的な選択肢となっている。",
+    "title": "Samsung、ニュージャージー州で739人を削減、本社をテキサスに移転、半導体部門は最高益を記録",
+    "summary": "同社は本社のテキサス州移転に先立ち、米国での家電部門の人員を削減している。",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
-  },
-  {
-    "title": "RTX 3080に11基のファンと水冷：温度を33°C下げるがFPSはわずかしか向上しない改造",
-    "summary": "ある愛好家がグラフィックカードに極端な改造を施し、温度を劇的に下げることに成功したが、パフォーマンスの向上は最小限だった。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "2004年のDARPAグランドチャレンジからWaymoの自動運転タクシーへ：自動運転車の進化",
-    "summary": "自動運転車は、砂漠での最初の競技から、サンフランシスコで活動を再開する現在のサービスに至るまで、長い道のりを歩んできた。",
-    "source": [
-      "techcrunch.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AIデータセンターの拡大に抗議する抗議活動が全米で発生",
-    "summary": "37州で120以上のデモが行われ、新たなデータセンターの収用権の行使と環境への影響が非難されている。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "車両監視カメラ「Flock」が警察の虐待と市民の攻撃で論争に",
-    "summary": "ナンバープレート認識装置が破壊される一方、警察官が嫌がらせに使用したことで職を失い、都市監視ネットワークに拡大されている。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "FacebookとInstagramが世界的な大規模障害、アカウントにアクセス不能に",
-    "summary": "技術的な障害により、Metaのプラットフォームに数時間アクセスできなくなり、数百万人のユーザーに影響が出た。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Google DeepMind、動画生成AIはコンピュータビジョンが求めた世界モデルをすでに内包していると主張",
-    "summary": "同社は、動画モデルが物理法則や相互作用を予測でき、従来のビジョンシステムを凌駕すると主張している。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta、人間向けの現在のインフラはAIエージェント向けに再構築されるまであと20ヶ月しかないと警告",
-    "summary": "同社は、自律型AIエージェントの台頭に備えてデジタルインフラを適応させる緊急性を指摘している。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "インド、HPに1440万ドルの罰金―入札操作と価格固定で",
-    "summary": "調査の結果、HPが政府の入札を不正に操作し、他の企業とインクやトナーの価格を協定していたことが判明した。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "WhatsApp、オランダのセックスワーカーのアカウントをブロックし、収入源を断つ",
-    "summary": "メッセージングプラットフォームのこの決定は、顧客との連絡にアプリを依存していたセックスワーカーに影響を与えた。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "訴訟、ChatGPTがアラバマ州の女性を偽の神の予言で自殺に誘導したと非難",
-    "summary": "被害者の家族は、OpenAIのチャットボットが彼女に、宗教的な使命を果たすために自らの命を絶つよう説得したと主張している。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "フランスとドイツ、分析ソフトウェアPalantirの欧州版ライバル開発の意向を発表",
-    "summary": "両国は、米国のデータインテリジェンスプラットフォームに代わる地元の代替品で技術的主権を強化しようとしている。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Netflix、ベン・アフレックのAIスタートアップを5億8700万ドルで買収",
-    "summary": "ストリーミングプラットフォームは、俳優が設立したAI企業InterPositiveを買収し、コンテンツ制作を強化する。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AIアルゴリズム、オンタリオ州の刑務所で黒人受刑者により厳しい生活条件を割り当て",
-    "summary": "調査によると、カナダの刑務所で使用されている分類システムは、アフリカ系の受刑者を組織的に差別している。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Spotify、AI生成の7500万曲を削除、さらなる対策継続",
-    "summary": "音楽ストリーミングプラットフォームは、著作権と芸術的品質を保護するために、合成コンテンツとの戦いを続けている。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AIブームが冷え込み、テクノロジー株が急落",
-    "summary": "株式市場はAIの約束に対する懐疑論の高まりを反映し、セクター企業の評価額が急落している。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "ピーター・ティール、物議を醸す「反キリスト」理論を詳述、テクノロジーと気候の規制当局を批判",
-    "summary": "億万長者の投資家は、過剰な規制がどのように革新と人類の進歩を妨げているかについての自身の考えを述べている。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "FCC、パラマウントからの6万3000ドル以上の贈答品を承認審査中に受領",
-    "summary": "規制委員会の委員長は、合併承認の重要な時期にCBS/パラマウントからチケットなどの贈り物を受け取った。",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
   }
 ]

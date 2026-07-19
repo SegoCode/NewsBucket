@@ -1,170 +1,48 @@
 [
   {
-    "title": "Los modelos chinos Kimi K3 y Qwen 3.8 de código abierto desafían a los líderes occidentales en inteligencia artificial",
-    "summary": "China lanza modelos de lenguaje avanzados que sorprenden por su rendimiento, compitiendo con sistemas como Claude y ChatGPT, mientras otros sectores se preparan para el impacto de la IA.",
+    "title": "Alibaba lanza Qwen 3.8, un modelo de IA de código abierto que rivaliza con ChatGPT y Claude",
+    "summary": "El modelo chino Qwen 3.8 está disponible en abierto y ha sorprendido por su rendimiento, compitiendo con los líderes occidentales.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Moonshot AI suspende nuevas suscripciones de Kimi K3 por la altísima demanda del modelo",
+    "summary": "El modelo de lenguaje Kimi K3 ha generado una demanda masiva, obligando a la empresa a suspender nuevas suscripciones, y ha mostrado un rendimiento superior en pruebas de código frontend.",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El nuevo APU AMD Medusa Point de 10 núcleos supera en rendimiento single-core a todos los chips x86 móviles en Geekbench",
+    "summary": "Las filtraciones muestran que el procesador Zen6 obtiene una puntuación un 28% superior al Zen5 HX 370.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Un dongle ESP32 de 5 dólares bloquea 537.000 dominios como anuncios usando solo 50KB de RAM",
+    "summary": "El firmware responde consultas DNS bloqueadas en 10 milisegundos, ofreciendo una solución ultrabaratade bloqueo de anuncios.",
     "source": [
       "/r/technology",
-      "kite.kagi.com",
-      "news.ycombinator.com",
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "La chaqueta de cuero firmada por Jensen Huang se subasta por casi un millón de dólares",
-    "summary": "La emblemática chaqueta del CEO de Nvidia alcanza 960.000 dólares en una subasta benéfica, muy por encima de su tasación inicial.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "El AMD Ryzen 7 7700X3D baja su precio a 279 dólares días después de su lanzamiento",
-    "summary": "El procesador X3D de gama media recibe un rápido descuento, lo que lo convierte en una opción muy atractiva para el segmento mid-range.",
+    "title": "Samsung elimina 739 empleos en Nueva Jersey al trasladar su sede a Texas mientras su división de chips bate récords de ganancias",
+    "summary": "La empresa reduce su plantilla de electrónica de consumo en EE.UU. previo a la mudanza de su sede a Texas.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
-  },
-  {
-    "title": "Once ventiladores y refrigeración líquida para una RTX 3080: la modificación que baja 33 °C pero apenas suma FPS",
-    "summary": "Un entusiasta somete su tarjeta gráfica a una extrema modificación logrando reducir la temperatura drásticamente con un incremento mínimo de rendimiento.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "De la carrera DARPA de 2004 a los taxis autónomos de Waymo: la evolución de los vehículos sin conductor",
-    "summary": "Los coches autónomos han recorrido un largo camino desde las primeras competiciones en el desierto hasta los servicios actuales que retoman su actividad en San Francisco.",
-    "source": [
-      "techcrunch.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Estallan protestas en todo Estados Unidos contra la expansión de centros de datos de inteligencia artificial",
-    "summary": "Más de 120 manifestaciones en 37 estados denuncian el uso de dominio eminente y el impacto ambiental de los nuevos centros de datos.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Las cámaras Flock de vigilancia vehicular generan polémica por abusos policiales y ataques ciudadanos",
-    "summary": "Los dispositivos de reconocimiento de matrículas son vandalizados, mientras agentes pierden su empleo por usarlos para acosar y se amplían a redes de vigilancia urbana.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Facebook e Instagram sufren una caída masiva a nivel mundial que deja las cuentas inaccesibles",
-    "summary": "Un fallo técnico impide el acceso a las plataformas de Meta durante varias horas, afectando a millones de usuarios.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Google Deepmind sostiene que los generadores de vídeo ya contienen los modelos del mundo que la visión artificial buscaba",
-    "summary": "La compañía defiende que los modelos de vídeo pueden predecir la física y las interacciones, superando a los sistemas tradicionales de visión.",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Meta advierte que la infraestructura actual para humanos podría tener solo 20 meses antes de ser reconstruida para agentes de IA",
-    "summary": "La empresa señala la urgencia de adaptar la infraestructura digital al auge de los agentes autónomos de inteligencia artificial.",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "India impone una multa de 14,4 millones de dólares a HP por manipular licitaciones públicas y fijar precios",
-    "summary": "La investigación encontró que HP amañó concursos gubernamentales y acordó precios de tinta y tóner con otras empresas.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "WhatsApp bloquea las cuentas de trabajadoras sexuales en los Países Bajos, dejándolas sin ingresos",
-    "summary": "La decisión de la plataforma de mensajería afecta a profesionales del sexo que dependían de la aplicación para contactar con clientes.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Demanda judicial acusa a ChatGPT de inducir al suicidio a una mujer en Alabama con falsas profecías divinas",
-    "summary": "La familia de la víctima sostiene que el chatbot de OpenAI la convenció de acabar con su vida para cumplir un supuesto designio religioso.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Francia y Alemania anuncian su intención de desarrollar un rival europeo del software de análisis Palantir",
-    "summary": "Ambos países buscan fortalecer su soberanía tecnológica con una alternativa local a la plataforma estadounidense de inteligencia de datos.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Netflix adquiere la startup de inteligencia artificial de Ben Affleck por 587 millones de dólares",
-    "summary": "La plataforma de streaming compra InterPositive, una empresa de IA fundada por el actor, para impulsar la creación de contenido.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Un algoritmo de inteligencia artificial asigna condiciones de vida más duras a presos negros en cárceles de Ontario",
-    "summary": "El sistema de clasificación utilizado en prisiones canadienses discrimina sistemáticamente a los reclusos afrodescendientes, según una investigación.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Spotify elimina 75 millones de canciones generadas por inteligencia artificial y no se detiene ahí",
-    "summary": "La plataforma de música en streaming continúa su lucha contra el contenido sintético para proteger los derechos de autor y la calidad artística.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "El furor por la inteligencia artificial se enfría y las acciones tecnológicas sufren fuertes caídas",
-    "summary": "El mercado bursátil refleja un escepticismo creciente hacia las promesas de la IA, provocando desplomes en las valoraciones de empresas del sector.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Peter Thiel detalla su controvertida teoría del 'Anticristo' y critica a los reguladores tecnológicos y climáticos",
-    "summary": "El multimillonario inversor expone sus ideas sobre cómo la regulación excesiva está frenando la innovación y el progreso humano.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
-  },
-  {
-    "title": "La FCC aceptó regalos valorados en más de 63.000 dólares de Paramount mientras evaluaba sus acuerdos",
-    "summary": "El presidente de la comisión reguladora recibió entradas y otros obsequios de CBS/Paramount en momentos críticos para la aprobación de fusiones.",
-    "source": [
-      "/r/technology"
-    ],
-    "count": 1
   }
 ]
