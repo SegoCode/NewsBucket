@@ -208,7 +208,8 @@
                                         .pop();
                                     if (!level) return [];
                                     const pick = n => (typeof n === 'string' ? n : n?.[level])?.replace(/<[^>]+>/g, ' ').trim();
-                                    return [{ en: pick(p.enName), jp: pick(p.name) }];
+                                    const en = pick(p.enName), jp = pick(p.name);
+                                    return en && jp ? [{ en, jp }] : [];
                                 }),
                             };
                             if (topic.value === 'japan') load();
