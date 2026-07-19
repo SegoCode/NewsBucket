@@ -1,7 +1,36 @@
 [
   {
-    "title": "AMD Ryzen 7 7700X3D が発売から2日で279ドルに値下げ",
-    "summary": "3D V-Cache テクノロジー搭載のプロセッサが価格を大幅に引き下げ、ミッドレンジゲーミングの最適な選択肢として確立されました。",
+    "title": "メモリ市場は価格危機に見舞われる：SKハイニックスCEOは異常な高値と指摘、NvidiaはGDDR7のコストでRTX 50 Superを延期、Valveは状況悪化を警告",
+    "summary": "半導体メモリの価格は異常に高い水準にあり、新しいGPUの発表やストレージのサプライチェーンに影響を与えている。",
+    "source": [
+      "/r/technology",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "人工知能は高まる懐疑論に直面：X線チャットボットは危険なほど自信過剰、熱狂がしぼみテクノロジー株が下落",
+    "summary": "さまざまな報告がAIへの過剰な熱意を疑問視し、技術的な限界、株価下落、そして世界の意思決定における悪影響を指摘している。",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "『GTA III』と『バイスシティ』を『GTA：サンアンドレアス』内でプレイできるMOD、PCとゲーム内テレビに対応",
+    "summary": "Modコミュニティは、サンアンドレアスのエンジン内でグランド・セフト・オートのクラシックタイトルを実行することに成功し、象徴的な都市を復活させた。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD Ryzen 7 7700X3Dが発売から2日で279ドルに急落、ミッドレンジの王者に。",
+    "summary": "AMDのX3Dプロセッサは急速な値下がりを経験し、ミッドレンジ市場で非常に競争力のあるものとなっている。",
     "source": [
       "videocardz.com",
       "tomshardware.com"
@@ -9,8 +38,17 @@
     "count": 2
   },
   {
-    "title": "RTX 3080に11基のファンと360mmラジエーターを取り付け、温度を30°C低下させる",
-    "summary": "極端な冷却実験により大幅な温度低下を達成したが、FPSはほとんど向上せず、タービンのような騒音が発生する。",
+    "title": "フロッピーディスクに敬意を表し、ゲーム開発コンテストがゲームサイズを1.44MBに制限。",
+    "summary": "韓国の団体が、参加者が3.5インチフロッピーディスク1枚に収まる完全なゲームを作成しなければならないコンテストを開催。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "11個のファンとAIOをRTX 3080に取り付けるMOD、温度を33°Cまで低下させるもFPSはわずか4向上。",
+    "summary": "複数のファンと液体冷却システムによるGPUの極端な冷却は温度を劇的に下げるが、性能向上はわずかで、騒音は耳障りである。",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -18,17 +56,8 @@
     "count": 2
   },
   {
-    "title": "GTA III と Vice City を Grand Theft Auto San Andreas 内でプレイできるMOD",
-    "summary": "プレイヤーはSan Andreasのマップから離れることなくLiberty CityとVice Cityを探索し、クラシック作品を追体験できる。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "KimiがAIモデルK3を発表、業界への影響をめぐり議論を呼ぶ",
-    "summary": "中国企業がKimi K3を発表、一部では支配的な西側モデルへの脅威と見なされている。",
+    "title": "中国の人工知能モデル「Kimi」、その可能性とリスクについて議論を呼ぶ。",
+    "summary": "TechCrunchとHacker Newsの記事が、AIアシスタントKimiの技術情勢への影響と意味合いを分析している。",
     "source": [
       "techcrunch.com",
       "news.ycombinator.com"
@@ -36,128 +65,105 @@
     "count": 2
   },
   {
-    "title": "Waymo、1時間の中断を経てサンフランシスコで自動運転タクシーサービスを再開",
-    "summary": "Alphabetの子会社が、一時的な中断の後に自動運転車の運行を再開した。",
+    "title": "米中、人工知能に対する管理戦略を強化：新たな規制、機関、軍事的アプローチ。",
+    "summary": "ワシントンと北京の両方が、制限、多国間機関、防衛ドクトリンを通じてAI開発を主導する措置を講じている。",
+    "source": [
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "人工知能データセンターへの抗議、全米に拡大。",
+    "summary": "37州でのデモが、巨大なAIインフラによる環境・社会への影響に抗議。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Spotify、AI生成の7500万曲を削除、今後も継続。",
+    "summary": "ストリーミングプラットフォームが、不正コンテンツに対抗するため、ボットが作成した膨大な数のトラックを削除。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "サンフランシスコ、AppleとGoogleにAIによる「ヌード化」アプリのストアからの削除を要求。",
+    "summary": "市はIT大手に対し、AIを使用して同意のない性的画像を作成するアプリを削除するよう要請。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Netflix、ベン・アフレックのAIスタートアップを5億8700万ドルで買収。",
+    "summary": "ストリーミング企業は、俳優が設立したInterPositiveを買収し、制作にAIを統合する。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "AI、オンタリオ州の黒人受刑者に過酷な収監条件を割り当て。",
+    "summary": "カナダの刑務所で使用されるAIシステムが受刑者を人種差別していると報告書が明らかに。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "FCC委員長、Paramountから6万3000ドル相当の贈り物を受領、同社は承認が必要な時期に",
+    "summary": "ブレンダン・カー氏は重要な規制プロセス中にCBS/Paramountからチケットやその他の贈り物を受け取った。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "ICE、持つべきではなかったMedicaidデータをPalantir社と共有。",
+    "summary": "米移民局が機密の医療情報をデータ分析会社に転送。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "オーストラリアのAIブームの実態は違う：データセンターへの支出が経済を歪める。",
+    "summary": "AIインフラへの投資は経済の他の部分の弱さを隠し、GDPへの貢献はわずか。",
+    "source": [
+      "/r/technology"
+    ],
+    "count": 1
+  },
+  {
+    "title": "Waymo、1時間の停止後サンフランシスコで自動運転サービスを再開。",
+    "summary": "Alphabet傘下の企業は、短い中断の後にドライバーレスタクシーの運行を再開。",
     "source": [
       "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "中国、並行秩序を推進するため世界人工知能協力機構を設立",
-    "summary": "習近平指導部の主導するこの取り組みは、AI開発において西側に代わる基準を確立しようとしている。",
+    "title": "今年米国で販売終了となったすべての電気自動車。",
+    "summary": "TechCrunchのまとめが、米国市場で製造または販売が終了したEVモデルを列挙。",
     "source": [
-      "the-decoder.com"
+      "techcrunch.com"
     ],
     "count": 1
   },
   {
-    "title": "オープンウェイトモデルが4ヶ月前のフロンティアモデルの性能をわずかなコストで達成",
-    "summary": "オープンモデルの進歩によりプロプライエタリシステムとの差が縮まり、人工知能の民主化が進んでいる。",
+    "title": "Apple MusicとApple One、ライセンス費用を理由にサブスクリプション料金を値上げ。",
+    "summary": "音楽プラットフォームとサービスパッケージが月額料金を引き上げ。",
     "source": [
-      "the-decoder.com"
+      "alternativeto.net"
     ],
     "count": 1
   },
   {
-    "title": "米国防総省、不完全な調整よりも導入の遅さを大きなリスクとみなす新たなAIマニュアルを採用",
-    "summary": "米国防総省は、人工知能の使用において完全性よりも導入速度を優先する。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Anthropic、MaxプランおよびTeam PremiumプランにおけるClaude Fable 5の制限を大幅に引き下げ",
-    "summary": "AI企業が主力モデルを調整し、ProユーザーをAPIの従量課金制へと誘導している。",
-    "source": [
-      "the-decoder.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "プロンプトインジェクション攻撃、AIベースのハッキングエージェントを挫折させる",
-    "summary": "プロンプトインジェクションの脆弱性が、自動化されたサイバーセキュリティシステムの有効性を制限している。",
-    "source": [
-      "wired.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Google Geminiの新しい料金体系の仕組みと使用状況の追跡方法",
-    "summary": "GoogleがAIアシスタントの課金モデルを更新し、消費の透明性を高めている。",
-    "source": [
-      "wired.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "あなたの生理周期トラッカーはおそらくあなたを監視している",
-    "summary": "月経追跡アプリは機密データを収集し、同意なしに共有される可能性がある。",
-    "source": [
-      "wired.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "LGモニターがWindows Updateを通じて無断でソフトウェアをインストール",
-    "summary": "ユーザーは、LGディスプレイがアップデートシステムを介して要求していないドライバーやアプリケーションを受け取っていると報告している。",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Apple、iPhoneの反トラスト訴訟を解決するため米国司法省と協議開始",
-    "summary": "同社は、アプリ配信における独占的慣行で告発されている訴訟で裁判外の和解を模索している。",
-    "source": [
-      "kite.kagi.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "Valve、メモリ危機の悪化と小売価格が大口供給に6ヶ月遅れていると警告",
-    "summary": "同社はメモリモジュールのコスト上昇を警告し、ハードウェアの入手可能性に影響を与えている。",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "AMD Ryzen 500 'Medusa Point' 10コアZen6がリーク、Zen5 HX 370比28%の性能向上",
-    "summary": "AMDの次期プロセッサはベンチマークで大幅な改善を示し、野心的なリリースを目指している。",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "NVIDIA N1Xを搭載したSurface Laptop Ultra、Cinebench 2026でApple M3 Maxに並ぶ",
-    "summary": "NVIDIAチップを搭載したMicrosoftの新しいノートパソコンが、Appleのトップエンドプロセッサの性能に達した。",
-    "source": [
-      "videocardz.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "GPT-5.6、たった1つのプロンプトで30年間未解決だった凸最適化問題を解決",
-    "summary": "OpenAIのモデルは、歴史的な課題を解決することで高度な数学的推論能力を実証した。",
-    "source": [
-      "news.ycombinator.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "デンマーク、欧州の半分に再生可能エネルギーを供給する人工島を建設",
-    "summary": "巨大風力発電プロジェクトは複数の国に電力を供給し、大陸のエネルギーシステムを変革する。",
-    "source": [
-      "xataka.com"
-    ],
-    "count": 1
-  },
-  {
-    "title": "自律型マイクロドローンが飛行中の昆虫の殺傷に初成功、蚊の根絶へ",
-    "summary": "40グラムのドローンが車の駐車センサーを利用し、遠距離から正確に蚊を除去する。",
+    "title": "Nvidiaのジェンスン・フアンCEOの革ジャン、100万ドル近くで落札。",
+    "summary": "半導体企業トップの象徴的な衣類がチャリティーオークションで推定価格をはるかに上回る価格で落札された。",
     "source": [
       "tomshardware.com"
     ],
