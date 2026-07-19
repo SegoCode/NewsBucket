@@ -108,7 +108,7 @@
             } catch {}
             if (topic.value === 'japan') {
                 if (jma?.alerts.length) items.unshift(...jma.alerts.map(a => ({
-                    title: `${lang.value === 'jp' ? '気象警報' : 'Weather alert'}: ${lang.value === 'jp' ? a.jp : sentenceCase(a.en)}`,
+                    title: `${lang.value === 'jp' ? '気象警報' : 'Weather alert'}: ${(lang.value === 'jp' ? a.jp : sentenceCase(a.en)).replace(/\s*alert$|\s*アラート$/i, '')}`,
                     source: ['JMA', jma.prefecture],
                     cls: 'quake-high',
                     url: `https://www.jma.go.jp/bosai/#lang=${lang.value === 'jp' ? 'jp' : 'en'}&pattern=default&area_type=japan&area_code=010000`,
