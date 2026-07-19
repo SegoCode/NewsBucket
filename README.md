@@ -16,7 +16,7 @@ NewsBucket fetches RSS feeds from sources you configure, groups articles coverin
 
 - **Any feed, any topic.** Drop a `.txt` file with RSS URLs into `code/rss_input/` and the pipeline picks it up automatically. One file equals one output category.
 
-- **LLM-powered clustering.** Articles are grouped by topic. The prompt enforces exactly 20 clusters, ordered by how many different outlets covered the story.
+- **LLM-powered clustering.** Articles are grouped by topic. Only stories covered by at least 2 different outlets make the cut, ordered by how many outlets covered the story.
 
 - **Multi-language output.** Clusters are generated in one language, then translated to others. Swap the prompts in `code/prompts/` to change source and target languages.
 
