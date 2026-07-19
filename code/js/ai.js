@@ -75,12 +75,18 @@ for (const file of files) {
 		const ok =
 			clusters.length > 0 &&
 			clusters.every(
-				(c) => c && Array.isArray(c.source) && c.count === c.source.length,
+				(c) =>
+					c &&
+					Array.isArray(c.source) &&
+					c.count === c.source.length &&
+					c.count >= 2,
 			);
 		if (ok) break;
-		const why = clusters.length === 0 ? "empty" : "count mismatch";
+		const why = clusters.length === 0 ? "empty" : "invalid cluster";
 		if (!attempt) console.warn(`  ↻ retry 1/1 (${why})`);
 	}
+
+	clusters = clusters.filter((c) => c && c.count >= 2);
 
 	const outFile = path.join(
 		OUTPUT_DIR,
