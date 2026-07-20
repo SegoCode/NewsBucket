@@ -1,57 +1,107 @@
 [
   {
-    "title": "Samsung、Lenovo、ASUS、Dell、MSIのノートPC向けに1,600ニトのOLEDパネルを確認",
-    "summary": "同社は、複数のメーカーのプレミアムノートPC向けにDisplayHDR True Black 1400認証を取得し、新たな輝度基準を確立。",
+    "title": "中国のオープンモデルKimi K3、AIを革新し、米国との緊張を引き起こす",
+    "summary": "Moonshot社の人工知能の成功により、米国の業界と政府は警戒を強め、拒否権を検討する一方、中国企業は株式上場を計画している。",
     "source": [
-      "videocardz.com",
       "tomshardware.com",
-      "/r/hardware"
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "kite.kagi.com",
+      "xataka.com"
     ],
-    "count": 3
+    "count": 6
   },
   {
-    "title": "Hugging Faceプラットフォーム、自律型AIエージェントによるセキュリティ侵害を受ける",
-    "summary": "同社は、内部データと認証情報への不正アクセスを確認。自社の人工知能で攻撃に対抗しながら。",
+    "title": "Hugging Face、自律型AIエージェントによるセキュリティ侵害を受ける",
+    "summary": "内部データセットと認証情報が侵害され、AIモデルプラットフォームは別のAIを使って防御せざるを得なくなった。",
     "source": [
+      "alternativeto.net",
       "techcrunch.com",
       "the-decoder.com",
       "thehackernews.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "中国のスタートアップMoonshot、Muskも絶賛するモデルKimi K3で注目を集め、サブスクリプションを一時停止しIPOを目指す",
-    "summary": "オープンモデルKimi K3の成功がGPUの大規模な需要を生み、新規サブスクリプションの一時停止を余儀なくされ、香港での上場計画を加速。",
-    "source": [
-      "xataka.com",
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "電力会社、AIデータセンターの送電線のために私有地を収用可能に",
-    "summary": "報告書によると、公益事業会社は、土地所有者が売却を拒否した場合に、データセンターのインフラを建設するために強制収用の法律を利用できる。",
-    "source": [
-      "tomshardware.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Xiaomi、自動車工場にフルタイムの人型ロボットを配備",
-    "summary": "Xiaomiの人型ロボットが車両製造工場で自律的に作業を開始。同社の産業オートメーションにおける重要な進歩を示す。",
-    "source": [
-      "xataka.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AppleのOpenAIに対する訴訟、スタートアップのハードウェア計画を頓挫させる恐れ",
-    "summary": "AppleがJony Iveを除外してOpenAIに対する訴訟を提起。この訴訟はAI企業のハードウェアプロジェクトに影響を与える可能性がある。",
+    "title": "活発なエクスプロイトキャンペーンがWordPressの数百万のウェブサイトを危険にさらす",
+    "summary": "修正されたばかりの脆弱性が大規模に攻撃されており、エクスプロイトブローカーは人気CMSのセキュリティ欠陥に50万ドルを支払っている。",
     "source": [
       "techcrunch.com",
+      "thehackernews.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ValveのSteam Machine、価格上昇とDIYプロジェクトで再び注目を集める",
+    "summary": "Valveはハードウェアの値上げを準備し、盗難品を交換、そして愛好家がDbrandのキャンセルされたアクセサリーを救出した。",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Microsoft、AzureでAMD Heliosアクセラレーターを採用し、NVIDIA依存を弱める",
+    "summary": "MicrosoftクラウドへのAMD MI455Xチップの大規模展開は、AIハードウェア市場における戦略的転換を示している。",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "サムスン、Lenovo、Asus、Dell、MSI向けに1,600ニトのOLEDパネルを発表",
+    "summary": "VESA DisplayHDR True Black 1400認証を取得した新しいタンデムOLEDパネルは、ノートPCに大幅な輝度向上をもたらす。",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "モッダーがRTX 50のGDDR7メモリ温度テレメトリーを解放",
+    "summary": "新しいツールにより、Blackwellグラフィックスカードの各VRAMモジュールの温度監視が可能になり、NVIDIAがデフォルトでブロックしていた情報にアクセスできる。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "スペインがサッカーW杯で2度目の優勝、Vodafoneはネットワークを「Campeones」と改名して祝福",
+    "summary": "スペイン代表の勝利は国内に大きな衝撃を与え、通信事業者はタイトルを記念して一時的なキャンペーンを実施した。",
+    "source": [
+      "xataka.com",
+      "bandaancha.eu"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Hyprlandが設定にLuaを採用、新しいレイアウトオプションを導入",
+    "summary": "Waylandコンポジターのバージョン0.55および0.56は、人気のスクリプト言語を採用することで、システムのカスタマイズに根本的な変更をもたらす。",
+    "source": [
+      "news.ycombinator.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AIデータセンターの高いエネルギー消費が解決策と新しい送電線の模索を引き起こす",
+    "summary": "AIへの電力供給の必要性は、地域住民の反対や送電網の制限と衝突する一方、NVIDIAは高温対応の液体冷却を開発している。",
+    "source": [
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "台湾でのスパイ行為とTSMCの米国拡大の間で、地政学的緊張が半導体業界を揺るがす",
+    "summary": "TSMCの元幹部が中国への秘密漏洩で起訴される一方、同社はサプライチェーン確保のためアリゾナへの数十億ドル規模の投資を加速している。",
+    "source": [
+      "tomshardware.com",
       "kite.kagi.com"
     ],
     "count": 2

@@ -1,57 +1,107 @@
 [
   {
-    "title": "Samsung confirma paneles OLED de 1.600 nits para portátiles de Lenovo, ASUS, Dell y MSI",
-    "summary": "La compañía establece un nuevo estándar de brillo con la certificación DisplayHDR True Black 1400 para portátiles premium de varios fabricantes.",
+    "title": "El modelo abierto chino Kimi K3 revoluciona la IA y desata tensiones con Estados Unidos",
+    "summary": "El éxito de la inteligencia artificial de Moonshot provoca la alarma en la industria y el gobierno de EE. UU., que baraja un veto, mientras la compañía china planea su salida a Bolsa.",
     "source": [
-      "videocardz.com",
       "tomshardware.com",
-      "/r/hardware"
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "kite.kagi.com",
+      "xataka.com"
     ],
-    "count": 3
+    "count": 6
   },
   {
-    "title": "La plataforma Hugging Face sufre una brecha de seguridad provocada por un agente de IA autónomo",
-    "summary": "La empresa confirmó el acceso no autorizado a datos internos y credenciales, mientras combatía el ataque con su propia inteligencia artificial.",
+    "title": "Hugging Face sufre una brecha de seguridad ejecutada por un agente de IA autónomo",
+    "summary": "El ataque comprometió datasets internos y credenciales, forzando a la plataforma de modelos de IA a defenderse utilizando otra inteligencia artificial.",
     "source": [
+      "alternativeto.net",
       "techcrunch.com",
       "the-decoder.com",
       "thehackernews.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "La startup china Moonshot acapara atención con su modelo Kimi K3, elogiado por Musk, mientras pausa suscripciones y busca OPV",
-    "summary": "El éxito del modelo abierto Kimi K3 genera una demanda masiva de GPU, obliga a pausar nuevas suscripciones y acelera los planes de salida a bolsa en Hong Kong.",
-    "source": [
-      "xataka.com",
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Compañías eléctricas podrán expropiar terrenos privados para líneas de transmisión de centros de datos de IA",
-    "summary": "Un informe revela que las empresas de servicios públicos pueden usar la ley de expropiación forzosa cuando los propietarios se niegan a vender sus terrenos, para construir infraestructura de centros de datos.",
-    "source": [
-      "tomshardware.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Xiaomi despliega un robot humanoide a tiempo completo en su fábrica de coches",
-    "summary": "El robot humanoide de Xiaomi ya trabaja de forma autónoma en la planta de fabricación de vehículos, lo que marca un avance significativo en la automatización industrial de la compañía.",
-    "source": [
-      "xataka.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La demanda de Apple contra OpenAI amenaza con descarrilar los planes de hardware de la startup",
-    "summary": "Apple presenta una demanda contra OpenAI excluyendo a Jony Ive, en un caso que podría afectar los proyectos de hardware de la empresa de inteligencia artificial.",
+    "title": "Una campaña activa de exploits pone en riesgo a millones de sitios web con WordPress",
+    "summary": "Las vulnerabilidades recién parcheadas son atacadas masivamente, y los brokers de exploits ofrecen medio millón de dólares por fallos de seguridad en el popular CMS.",
     "source": [
       "techcrunch.com",
+      "thehackernews.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La Steam Machine de Valve regresa a la actualidad con subidas de precio y proyectos DIY",
+    "summary": "Valve prepara un incremento de precio de su hardware, reemplaza una unidad robada y un aficionado rescata un accesorio cancelado de Dbrand.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Microsoft adopta los aceleradores de AMD Helios en Azure, debilitando su dependencia de Nvidia",
+    "summary": "El despliegue de los chips AMD MI455X a gran escala en la nube de Microsoft señala un cambio estratégico en el mercado de hardware para inteligencia artificial.",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Samsung lanza paneles OLED de 1.600 nits para portátiles de Lenovo, Asus, Dell y MSI",
+    "summary": "Los nuevos paneles tandem OLED con certificación VESA DisplayHDR True Black 1400 ofrecen un salto significativo en brillo para ordenadores portátiles.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Modders logran desbloquear la telemetría de temperatura de las memorias GDDR7 en las RTX 50",
+    "summary": "Nuevas herramientas permiten monitorizar la temperatura de cada módulo de VRAM en las gráficas Blackwell, información que Nvidia había bloqueado por defecto.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "España gana su segundo Mundial de fútbol y Vodafone celebra renombrando su red 'Campeones'",
+    "summary": "La victoria de la selección española provoca un impacto sísmico en el país y una campaña temporal de la operadora para conmemorar el título.",
+    "source": [
+      "xataka.com",
+      "bandaancha.eu"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Hyprland migra a Lua para su configuración y estrena nuevas opciones de diseño",
+    "summary": "Las versiones 0.55 y 0.56 del compositor para Wayland introducen un cambio fundamental en la personalización del sistema al adoptar el popular lenguaje de scripting.",
+    "source": [
+      "news.ycombinator.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El alto consumo energético de los centros de datos de IA desata la búsqueda de soluciones y nuevas líneas de transmisión",
+    "summary": "La necesidad de alimentar la inteligencia artificial choca con la resistencia vecinal y los límites de la red, mientras NVIDIA desarrolla refrigeración líquida de alta temperatura.",
+    "source": [
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La tensión geopolítica sacude la industria del chip entre el espionaje en Taiwán y la expansión de TSMC en EE.UU.",
+    "summary": "Un exdirectivo de TSMC es procesado por robo de secretos para China, mientras la compañía acelera su inversión multimillonaria en Arizona para asegurar la cadena de suministro.",
+    "source": [
+      "tomshardware.com",
       "kite.kagi.com"
     ],
     "count": 2

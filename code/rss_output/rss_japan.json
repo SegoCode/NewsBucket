@@ -1,15 +1,113 @@
 {
-  "fetchedAt": "2026-07-20T13:56:06.765Z",
-  "totalItems": 180,
-  "totalErrors": 0,
+  "fetchedAt": "2026-07-20T19:39:13.347Z",
+  "totalItems": 155,
+  "totalErrors": 1,
   "items": [
     {
-      "id": "https://mainichi.jp/articles/20260720/k00/00m/030/107000c",
-      "title": "タイパ時代　「息つく余裕」の早期実現が命運　バーナム英新首相",
+      "id": "http://www3.nhk.or.jp/news/html/20260720/k10015180931000.html",
+      "title": "米 9日連続イラン攻撃 イラン外相「世界はイランの強さ認識」",
+      "description": "アメリカ軍は、イランに対して今月11日以降、9日連続となる攻撃を行いました。一方、イランの革命防衛隊はヨルダンとクウェートに展開するアメリカ軍の航空機やレーダー施設などを攻撃したと主張しました。",
+      "content": "アメリカ軍は、イランに対して今月11日以降、9日連続となる攻撃を行いました。一方、イランの革命防衛隊はヨルダンとクウェートに展開するアメリカ軍の航空機やレーダー施設などを攻撃したと主張しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015180931000.html",
+      "publishedAt": "2026-07-20T19:28:51.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "www3.nhk.or.jp",
+        "url": "http://www3.nhk.or.jp/news/"
+      }
+    },
+    {
+      "id": "http://www3.nhk.or.jp/news/html/20260720/k10015181251000.html",
+      "title": "英労働党のバーナム党首 イギリスの新首相に就任 国王が任命",
+      "description": "イギリスの与党・労働党のバーナム党首は20日、チャールズ国王に任命され、首相に就任しました。",
+      "content": "イギリスの与党・労働党のバーナム党首は20日、チャールズ国王に任命され、首相に就任しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181251000.html",
+      "publishedAt": "2026-07-20T19:23:28.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "www3.nhk.or.jp",
+        "url": "http://www3.nhk.or.jp/news/"
+      }
+    },
+    {
+      "id": "http://www.asahi.com/articles/ASV7N63Q1V7NUHBI028M.html?ref=rss",
+      "title": "ハマスが新指導者を選出　ガザ停戦交渉主導のハイヤ氏に、暗殺未遂も",
       "description": "",
       "content": "",
-      "url": "https://mainichi.jp/articles/20260720/k00/00m/030/107000c",
-      "publishedAt": "2026-07-20T13:47:11.000Z",
+      "url": "http://asahi.com/articles/ASV7N63Q1V7NUHBI028M.html?ref=rss",
+      "publishedAt": "2026-07-20T18:47:53.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "asahi.com",
+        "url": "http://www.asahi.com/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGN1748X0X10C26A7000000/",
+      "title": "メキシコ料理の米チポトレ、本場へ「逆進出」　首都攻略にも自信",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGN1748X0X10C26A7000000",
+      "publishedAt": "2026-07-20T17:55:08.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOSG203290Q6A720C2000000/",
+      "title": "ニューヨークの政府庁舎で煙と炎　FBIが男1人拘束、移民当局に反発か",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOSG203290Q6A720C2000000",
+      "publishedAt": "2026-07-20T17:39:57.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOFL202OU0Q6A720C2000000/",
+      "title": "ロンドン株20日　反落　新首相の経済政策を見極め、持ち高調整売り",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOFL202OU0Q6A720C2000000",
+      "publishedAt": "2026-07-20T17:18:02.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "http://www.asahi.com/articles/ASV7L46THV7LULFA006M.html?ref=rss",
+      "title": "トヨタ社長「国内生産や供給網の水準を維持」　トランプ関税でも堅調",
+      "description": "",
+      "content": "",
+      "url": "http://asahi.com/articles/ASV7L46THV7LULFA006M.html?ref=rss",
+      "publishedAt": "2026-07-20T17:01:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "asahi.com",
+        "url": "http://www.asahi.com/"
+      }
+    },
+    {
+      "id": "https://mainichi.jp/articles/20260720/k00/00m/020/102000c",
+      "title": "「稼ぐ場所は現場にある」　トヨタ・近社長が目指す強いカイゼン",
+      "description": "",
+      "content": "",
+      "url": "https://mainichi.jp/articles/20260720/k00/00m/020/102000c",
+      "publishedAt": "2026-07-20T17:00:14.000Z",
       "author": null,
       "categories": [],
       "source": {
@@ -18,8 +116,596 @@
       }
     },
     {
+      "id": "https://www.nikkei.com/article/DGXZQOUA09AIN0Z00C26A7000000/",
+      "title": "統廃合検討のクールジャパン機構、回収率低迷6割　総花投資ツケ重く",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUA09AIN0Z00C26A7000000",
+      "publishedAt": "2026-07-20T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUF085C40Y6A700C2000000/",
+      "title": "京都銀行など地域金融、成長投資に軸足　新興発掘の目利き力生かす",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUF085C40Y6A700C2000000",
+      "publishedAt": "2026-07-20T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUC1658Y0W6A710C2000000/",
+      "title": "自動運転のT2、50億円調達　商船三井など出資で海運連携の物流網",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUC1658Y0W6A710C2000000",
+      "publishedAt": "2026-07-20T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUF092NM0Z00C26A7000000/",
+      "title": "士業の京都進出相次ぐ、会計「ビッグ4」そろう　経営支援の需要増で",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUF092NM0Z00C26A7000000",
+      "publishedAt": "2026-07-20T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUD1920T0Z10C26A5000000/",
+      "title": "迫る水門「大更新時代」、築50年超が半数　河川氾濫防止へ国が本腰",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUD1920T0Z10C26A5000000",
+      "publishedAt": "2026-07-20T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGM201JV0Q6A720C2000000/",
+      "title": "ホンダ、中国挽回へ「延命措置」　広州汽車との合弁10年延長",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGM201JV0Q6A720C2000000",
+      "publishedAt": "2026-07-20T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOCB111330R10C26A7000000/",
+      "title": "巨大企業偏重の経済に警戒を（The Economist）",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOCB111330R10C26A7000000",
+      "publishedAt": "2026-07-20T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQODH200X70Q6A720C2000000/",
+      "title": "「うまさ」が「すごさ」を上回ったスペインのW杯制覇（水沼貴史）",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQODH200X70Q6A720C2000000",
+      "publishedAt": "2026-07-20T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUC190TI0Z10C26A6000000/",
+      "title": "航空会社「破綻か買収されるか」　深刻な燃料危機、大合併の足音",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUC190TI0Z10C26A6000000",
+      "publishedAt": "2026-07-20T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOFD2007P0Q6A720C2000000/",
+      "title": "トヨタ近社長「現場が稼ぐ場」　愛知新工場はAI・ロボで効率化追求",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOFD2007P0Q6A720C2000000",
+      "publishedAt": "2026-07-20T17:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOFL202OS0Q6A720C2000000/",
+      "title": "欧州国債概況20日　独10年債利回りが上昇　原油高で売り　英金利も上昇",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOFL202OS0Q6A720C2000000",
+      "publishedAt": "2026-07-20T16:38:04.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "http://www.asahi.com/articles/ASV7N5F57V7NUHBI026M.html?ref=rss",
+      "title": "親イラン組織のフーシ、サウジ海上封鎖を宣言　紅海輸送にもリスク",
+      "description": "",
+      "content": "",
+      "url": "http://asahi.com/articles/ASV7N5F57V7NUHBI026M.html?ref=rss",
+      "publishedAt": "2026-07-20T16:25:11.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "asahi.com",
+        "url": "http://www.asahi.com/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOSG202VO0Q6A720C2000000/",
+      "title": "米国で流行の寄生虫感染症、レタスから検出は偽陽性　原因なお不明",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOSG202VO0Q6A720C2000000",
+      "publishedAt": "2026-07-20T16:21:07.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "http://www.asahi.com/articles/ASV7M7520V7MUHBI001M.html?ref=rss",
+      "title": "米軍、新たに兵士1人の死亡を発表　イランのドローン不発弾処理で",
+      "description": "",
+      "content": "",
+      "url": "http://asahi.com/articles/ASV7M7520V7MUHBI001M.html?ref=rss",
+      "publishedAt": "2026-07-20T16:20:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "asahi.com",
+        "url": "http://www.asahi.com/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOFL202OQ0Q6A720C2000000/",
+      "title": "ロンドン外為20日　ユーロ、対ドルで下落　中東警戒で　円相場は162円台半ば",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOFL202OQ0Q6A720C2000000",
+      "publishedAt": "2026-07-20T15:53:55.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOKC202YS0Q6A720C2000000/",
+      "title": "山下美夢有6位、西郷真央は15位に浮上　女子ゴルフ世界ランキング",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOKC202YS0Q6A720C2000000",
+      "publishedAt": "2026-07-20T15:49:55.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "http://www3.nhk.or.jp/news/html/20260720/k10015181411000.html",
+      "title": "小泉防衛相「中国とロシアが日本のEEZで実戦演習」明らかに",
+      "description": "小泉防衛大臣は日本時間の20日夜、訪問先のイギリスで行った講演で「今、中国とロシアの海軍艦艇が日本の周辺海域で共同航行作戦を実施している。両国はこの週末にかけて、日本のEEZ＝排他的経済水域内で実戦演習を行った」と明らかにしました。",
+      "content": "小泉防衛大臣は日本時間の20日夜、訪問先のイギリスで行った講演で「今、中国とロシアの海軍艦艇が日本の周辺海域で共同航行作戦を実施している。両国はこの週末にかけて、日本のEEZ＝排他的経済水域内で実戦演習を行った」と明らかにしました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181411000.html",
+      "publishedAt": "2026-07-20T15:43:54.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "www3.nhk.or.jp",
+        "url": "http://www3.nhk.or.jp/news/"
+      }
+    },
+    {
+      "id": "http://www3.nhk.or.jp/news/html/20260721/k10015181421000.html",
+      "title": "小泉防衛相 日英伊の次期戦闘機開発は安保協力の新モデルに",
+      "description": "小泉防衛大臣は、訪問先のイギリスで講演し、日本とイギリス、イタリアの3か国で進めている次期戦闘機の共同開発について、地域を越えた安全保障協力の新たなモデルとなるとして、計画の重要性を強調しました。",
+      "content": "小泉防衛大臣は、訪問先のイギリスで講演し、日本とイギリス、イタリアの3か国で進めている次期戦闘機の共同開発について、地域を越えた安全保障協力の新たなモデルとなるとして、計画の重要性を強調しました。",
+      "url": "http://www3.nhk.or.jp/news/html/20260721/k10015181421000.html",
+      "publishedAt": "2026-07-20T15:38:46.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "www3.nhk.or.jp",
+        "url": "http://www3.nhk.or.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/world/20260721-GYT1T00001/",
+      "title": "イエメンのフーシ、サウジ船舶対象に「海上封鎖」…ホルムズ海峡に代わる原油輸送路に打撃か",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/world/20260721-GYT1T00001",
+      "publishedAt": "2026-07-20T15:34:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOKC202X00Q6A720C2000000/",
+      "title": "ベルギー・サッカー協会、ガルシア監督と契約延長せず",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOKC202X00Q6A720C2000000",
+      "publishedAt": "2026-07-20T15:30:28.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://news.yahoo.co.jp/pickup/6588692?source=rss",
+      "title": "FIFAランキング W杯終え大幅変更",
+      "description": "",
+      "content": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588692?source=rss",
+      "publishedAt": "2026-07-20T15:23:16.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGM202DJ0Q6A720C2000000/",
+      "title": "台湾当局、機密情報の複製罪でTSMC元社員を起訴　中国で利用画策か",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGM202DJ0Q6A720C2000000",
+      "publishedAt": "2026-07-20T15:22:55.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "http://www.asahi.com/articles/ASV7N52LHV7NUTFK004M.html?ref=rss",
+      "title": "中ロが日本のEEZ内で実弾射撃訓練　小泉防衛相が明らかに",
+      "description": "",
+      "content": "",
+      "url": "http://asahi.com/articles/ASV7N52LHV7NUTFK004M.html?ref=rss",
+      "publishedAt": "2026-07-20T15:20:43.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "asahi.com",
+        "url": "http://www.asahi.com/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUA2021V0Q6A720C2000000/",
+      "title": "小泉防衛相、防衛産業巡る新戦略策定を表明　生産基盤を強化",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUA2021V0Q6A720C2000000",
+      "publishedAt": "2026-07-20T15:11:44.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://news.yahoo.co.jp/pickup/6588691?source=rss",
+      "title": "「カグラバチ」来週連載再開へ",
+      "description": "",
+      "content": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588691?source=rss",
+      "publishedAt": "2026-07-20T15:11:08.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOKC202U20Q6A720C2000000/",
+      "title": "サッカー世界ランキング、日本17位に浮上　1位はスペイン",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOKC202U20Q6A720C2000000",
+      "publishedAt": "2026-07-20T15:00:50.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUD1821I0Y6A710C2000000/",
+      "title": "危険運転致死傷罪に速度超過・飲酒の数値基準　21日に改正法施行",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUD1821I0Y6A710C2000000",
+      "publishedAt": "2026-07-20T15:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://news.yahoo.co.jp/pickup/6588690?source=rss",
+      "title": "イラン攻撃で米兵死亡 19歳と25歳",
+      "description": "",
+      "content": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588690?source=rss",
+      "publishedAt": "2026-07-20T14:55:37.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00245/",
+      "title": "［深層ＮＥＷＳ］トランプ氏のＷ杯介入、「どこかでブレーキかけないと大変なことになる」…木崎伸也氏",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00245",
+      "publishedAt": "2026-07-20T14:46:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "http://www.asahi.com/articles/ASV7N4T0RV7NUCVL01MM.html?ref=rss",
+      "title": "許家元九段が2敗守る　名人挑戦をかけ、芝野虎丸棋聖と直接対決へ",
+      "description": "",
+      "content": "",
+      "url": "http://asahi.com/articles/ASV7N4T0RV7NUCVL01MM.html?ref=rss",
+      "publishedAt": "2026-07-20T14:42:41.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "asahi.com",
+        "url": "http://www.asahi.com/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOFL202R40Q6A720C2000000/",
+      "title": "NYダウ、一進一退で始まる　半導体関連に買い直し",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOFL202R40Q6A720C2000000",
+      "publishedAt": "2026-07-20T14:40:59.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOCB202QK0Q6A720C2000000/",
+      "title": "米イラン「10日間の攻撃停止を」　仲介国が提案、ロイター報道",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOCB202QK0Q6A720C2000000",
+      "publishedAt": "2026-07-20T14:37:11.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://mainichi.jp/articles/20260720/k00/00m/030/182000c",
+      "title": "中露軍が日本のEEZ内で実戦演習　小泉防衛相、講演で明かす",
+      "description": "",
+      "content": "",
+      "url": "https://mainichi.jp/articles/20260720/k00/00m/030/182000c",
+      "publishedAt": "2026-07-20T14:32:28.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "mainichi.jp",
+        "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/politics/20260720-GYT1T00334/",
+      "title": "中露両軍、日本のＥＥＺ内で実弾用い実戦演習…小泉防衛相「中露の軍事連携は強化されている」と警鐘",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/politics/20260720-GYT1T00334",
+      "publishedAt": "2026-07-20T14:22:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQODH2029T0Q6A720C2000000/",
+      "title": "寺地拳四朗「原点に戻り」3階級制覇　巧みに空間支配、隙を与えず",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQODH2029T0Q6A720C2000000",
+      "publishedAt": "2026-07-20T14:18:57.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://news.yahoo.co.jp/pickup/6588686?source=rss",
+      "title": "中露 日本のEEZ内で実弾演習",
+      "description": "",
+      "content": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588686?source=rss",
+      "publishedAt": "2026-07-20T14:12:12.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
+      }
+    },
+    {
+      "id": "https://mainichi.jp/articles/20260720/k00/00m/030/179000c",
+      "title": "イエメン・フーシ派、サウジアラビアへの「海上封鎖」を宣言",
+      "description": "",
+      "content": "",
+      "url": "https://mainichi.jp/articles/20260720/k00/00m/030/179000c",
+      "publishedAt": "2026-07-20T14:04:57.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "mainichi.jp",
+        "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
+      }
+    },
+    {
+      "id": "https://news.yahoo.co.jp/pickup/6588685?source=rss",
+      "title": "市長産休入り 妊娠後も多忙な日々",
+      "description": "",
+      "content": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588685?source=rss",
+      "publishedAt": "2026-07-20T14:03:56.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGR202GF0Q6A720C2000000/",
+      "title": "親イラン武装組織フーシ、サウジの「海上封鎖」を宣言　紅海を念頭に",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGR202GF0Q6A720C2000000",
+      "publishedAt": "2026-07-20T14:02:09.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/politics/20260720-GYT1T00304/",
+      "title": "小泉防衛相、日英伊の戦闘機開発「未来築く戦略的パートナーシップ」…英国の航空機見本市で実物大レプリカ搭乗",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/politics/20260720-GYT1T00304",
+      "publishedAt": "2026-07-20T14:01:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://news.yahoo.co.jp/pickup/6588684?source=rss",
+      "title": "ハマス 新最高指導者にハイヤ氏",
+      "description": "",
+      "content": "",
+      "url": "https://news.yahoo.co.jp/pickup/6588684?source=rss",
+      "publishedAt": "2026-07-20T13:53:56.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGR2002B0Q6A720C2000000/",
+      "title": "EU、アリババに制裁金1000億円　ネット通販での違法商品流通で",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGR2002B0Q6A720C2000000",
+      "publishedAt": "2026-07-20T13:50:53.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
       "id": "http://www3.nhk.or.jp/news/html/20260720/k10015181031000.html",
-      "title": "あす埼玉 熊谷で40度「酷暑日」予想 熱中症に厳重警戒を",
+      "title": "東京 熱中症疑い142人搬送 21日は埼玉 熊谷40度「酷暑日」予想",
       "description": "20日は東日本から西日本を中心に広い範囲で気温が上がり、山梨県では39度を超えるなど内陸部を中心に危険な暑さになりました。21日は埼玉県では40度と命に関わる危険な暑さが予想されるなど、20日よりもさらに気温が上がるところがある見込みです。熱中症に厳重に警戒し、より一層、対策を心がけてください。",
       "content": "20日は東日本から西日本を中心に広い範囲で気温が上がり、山梨県では39度を超えるなど内陸部を中心に危険な暑さになりました。21日は埼玉県では40度と命に関わる危険な暑さが予想されるなど、20日よりもさらに気温が上がるところがある見込みです。熱中症に厳重に警戒し、より一層、対策を心がけてください。",
       "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181031000.html",
@@ -32,31 +718,17 @@
       }
     },
     {
-      "id": "https://news.yahoo.co.jp/pickup/6588683?source=rss",
-      "title": "市長が産休入り 準備の日々に密着",
+      "id": "https://www.yomiuri.co.jp/world/20260720-GYT1T00233/",
+      "title": "米軍が９日連続で軍事攻撃、イランもヨルダンやクウェート攻撃…仲介国が１０日間の停戦をイランに提案報道",
       "description": "",
       "content": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588683?source=rss",
-      "publishedAt": "2026-07-20T13:41:47.000Z",
+      "url": "https://yomiuri.co.jp/world/20260720-GYT1T00233",
+      "publishedAt": "2026-07-20T13:40:00.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "news.yahoo.co.jp",
-        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
-      }
-    },
-    {
-      "id": "https://news.yahoo.co.jp/pickup/6588682?source=rss",
-      "title": "智弁学園も敗退 近畿で波乱相次ぐ",
-      "description": "",
-      "content": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588682?source=rss",
-      "publishedAt": "2026-07-20T13:40:01.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "news.yahoo.co.jp",
-        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
@@ -74,17 +746,17 @@
       }
     },
     {
-      "id": "https://old.reddit.com/r/japan/comments/1v1loj8/world_cup_2026/",
-      "title": "World Cup 2026",
-      "description": "Now that we've seen how everything played out, what's one opinion you had at the\nstart of the tournament that completely changed by the time the final whistle\nblew? #WorldCup2026 #AsianFan submitted by /u/Ina-asiaaa [link] [comments]",
-      "content": "Now that we've seen how everything played out, what's one opinion you had at the\nstart of the tournament that completely changed by the time the final whistle\nblew?\n\n#WorldCup2026\n\n#AsianFan\n\nsubmitted by /u/Ina-asiaaa [https://old.reddit.com/user/Ina-asiaaa]\n[link] [https://old.reddit.com/r/japan/comments/1v1loj8/world_cup_2026/]\n[comments] [https://old.reddit.com/r/japan/comments/1v1loj8/world_cup_2026/]",
-      "url": "https://old.reddit.com/r/japan/comments/1v1loj8/world_cup_2026",
-      "publishedAt": "2026-07-20T13:32:29.000Z",
-      "author": "/u/Ina-asiaaa",
+      "id": "https://www.yomiuri.co.jp/medical/20260720-GYT1T00204/",
+      "title": "今年のはしか感染５００人超、訪日外国人がウイルス持ち込みか…コロナ教訓に進めた医療情報デジタル化に期待",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/medical/20260720-GYT1T00204",
+      "publishedAt": "2026-07-20T13:36:00.000Z",
+      "author": null,
       "categories": [],
       "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
@@ -102,6 +774,20 @@
       }
     },
     {
+      "id": "https://www.yomiuri.co.jp/economy/20260720-GYT1T00241/",
+      "title": "中国の対日レアアース磁石輸出２・２％減、米国やドイツなど世界全体は大幅増…日中関係の悪化が影響か",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/economy/20260720-GYT1T00241",
+      "publishedAt": "2026-07-20T13:21:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
       "id": "https://mainichi.jp/articles/20260720/k00/00m/030/164000c",
       "title": "インドで「ゴキブリ人民党」の抗議活動拡大　教育相の辞任求め",
       "description": "",
@@ -116,17 +802,59 @@
       }
     },
     {
-      "id": "http://www3.nhk.or.jp/news/html/20260720/k10015181251000.html",
-      "title": "英労働党のバーナム党首 イギリスの新首相に就任 国王が任命",
-      "description": "イギリスの与党・労働党のバーナム党首は20日、チャールズ国王に任命され、首相に就任しました。",
-      "content": "イギリスの与党・労働党のバーナム党首は20日、チャールズ国王に任命され、首相に就任しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181251000.html",
-      "publishedAt": "2026-07-20T13:12:16.000Z",
+      "id": "https://www.nikkei.com/article/DGXZQOKC202HW0Q6A720C2000000/",
+      "title": "ボクシング寺地拳四朗3階級制覇　増田陸が新王者、岩田翔吉は初防衛",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOKC202HW0Q6A720C2000000",
+      "publishedAt": "2026-07-20T13:18:50.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "www3.nhk.or.jp",
-        "url": "http://www3.nhk.or.jp/news/"
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00273/",
+      "title": "開催国の健闘が熱狂支えるも、米選手処分問題など「大会の品格」や商業主義拡大で物議醸す…大会総括",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00273",
+      "publishedAt": "2026-07-20T13:17:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOKC202HS0Q6A720C2000000/",
+      "title": "女子テニスで遺伝子検査　WTA、性別確認の新規則",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOKC202HS0Q6A720C2000000",
+      "publishedAt": "2026-07-20T13:14:47.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOKC201AG0Q6A720C2000000/",
+      "title": "ロッテ角中勝也、現役引退を表明　独立リーグ出身初の首位打者",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOKC201AG0Q6A720C2000000",
+      "publishedAt": "2026-07-20T13:14:27.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -141,34 +869,6 @@
       "source": {
         "name": "mainichi.jp",
         "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUA200MM0Q6A720C2000000/",
-      "title": "20日の高市首相の動静",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUA200MM0Q6A720C2000000",
-      "publishedAt": "2026-07-20T13:08:51.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://news.yahoo.co.jp/pickup/6588680?source=rss",
-      "title": "港の岸壁で倒れていた男性 死亡",
-      "description": "",
-      "content": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588680?source=rss",
-      "publishedAt": "2026-07-20T13:08:47.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "news.yahoo.co.jp",
-        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
       }
     },
     {
@@ -200,17 +900,17 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOKC201EL0Q6A720C2000000/",
-      "title": "20日のプロ野球　結果と戦評",
+      "id": "https://www.yomiuri.co.jp/sports/npb/20260720-GYT1T00269/",
+      "title": "笹原操希の３点二塁打で巨人が逆転勝ち、井上温大は自己最多９勝目…ＤｅＮＡは阪神を完封し４連勝",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQOKC201EL0Q6A720C2000000",
-      "publishedAt": "2026-07-20T12:56:47.000Z",
+      "url": "https://yomiuri.co.jp/sports/npb/20260720-GYT1T00269",
+      "publishedAt": "2026-07-20T12:56:00.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
@@ -228,31 +928,17 @@
       }
     },
     {
-      "id": "https://news.yahoo.co.jp/pickup/6588679?source=rss",
-      "title": "42都府県に熱中症警戒アラート",
+      "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00265/",
+      "title": "たくましさ増した日本代表、優れた組織力に創造性と自信が加われば「頂点」までの距離は縮まる",
       "description": "",
       "content": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588679?source=rss",
-      "publishedAt": "2026-07-20T12:43:06.000Z",
+      "url": "https://yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00265",
+      "publishedAt": "2026-07-20T12:45:00.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "news.yahoo.co.jp",
-        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUA202C30Q6A720C2000000/",
-      "title": "高市首相、バーナム首相就任に祝意　Xに「日英関係更に深化」と投稿",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUA202C30Q6A720C2000000",
-      "publishedAt": "2026-07-20T12:43:02.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
@@ -284,20 +970,6 @@
       }
     },
     {
-      "id": "https://news.yahoo.co.jp/pickup/6588677?source=rss",
-      "title": "消費減税 自民要職経験者が慎重論",
-      "description": "",
-      "content": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588677?source=rss",
-      "publishedAt": "2026-07-20T12:34:59.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "news.yahoo.co.jp",
-        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
-      }
-    },
-    {
       "id": "https://mainichi.jp/articles/20260720/k00/00m/020/151000c",
       "title": "EU、アリエクスプレスに制裁金1000億円　違法商品対策に不備",
       "description": "",
@@ -312,6 +984,20 @@
       }
     },
     {
+      "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00209/",
+      "title": "スペインを支えたヤマルの献身プレー…大会１ゴールも１９歳の潜在能力見せつける",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00209",
+      "publishedAt": "2026-07-20T12:30:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
       "id": "https://mainichi.jp/articles/20260720/k00/00m/030/116000c",
       "title": "台湾で旧日本軍兵士ら戦没者の遺骨調査始まる　半世紀ぶり",
       "description": "",
@@ -323,20 +1009,6 @@
       "source": {
         "name": "mainichi.jp",
         "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOGR201HP0Q6A720C2000000/",
-      "title": "バーナム英首相就任「過去40年で最大の変革を」　大きな政府路線に",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGR201HP0Q6A720C2000000",
-      "publishedAt": "2026-07-20T12:27:26.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -368,6 +1040,20 @@
       }
     },
     {
+      "id": "https://www.yomiuri.co.jp/national/20260717-GYT1T00304/",
+      "title": "帰宅後に寝たきりの祖母を介護…何もかも忘れさせてくれたサッカー、だから今「自分の好き」を大切に",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/national/20260717-GYT1T00304",
+      "publishedAt": "2026-07-20T12:25:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
       "id": "https://news.yahoo.co.jp/pickup/6588676?source=rss",
       "title": "D・ジョンソン来日 男性ファン涙",
       "description": "",
@@ -379,6 +1065,90 @@
       "source": {
         "name": "news.yahoo.co.jp",
         "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/sports/npb/20260720-GYT1T00254/",
+      "title": "西武が古賀悠斗の３ランなどで楽天に競り勝つ、ソフトバンクは周東佑京の９回決勝犠飛で４連勝",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/sports/npb/20260720-GYT1T00254",
+      "publishedAt": "2026-07-20T12:18:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00251/",
+      "title": "スペインが圧倒的強さで復権果たす…年代別代表で実績の指揮官迎え、ヤマルやククレリャが躍動",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00251",
+      "publishedAt": "2026-07-20T12:15:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00258/",
+      "title": "Ｗ杯最優秀ＧＫはスペインのシモン、８試合でわずか１失点の堅守の要に",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00258",
+      "publishedAt": "2026-07-20T12:08:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/world/20260720-GYT1T00247/",
+      "title": "英新首相にアンディ・バーナム氏就任、この１０年で７人目…短命政権が続く中「結果を出す政治」訴え",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/world/20260720-GYT1T00247",
+      "publishedAt": "2026-07-20T12:02:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00168/",
+      "title": "明確なプレースタイルの確立でヤマルら若いタレントがスペインの将来をけん引する…リカルド・ロドリゲス氏が解説",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00168",
+      "publishedAt": "2026-07-20T12:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/life/horoscope/20260715-SYT8T8176216/",
+      "title": "７月２１日の運勢　しし座は勉強してきたことが役に立ったり、認められたりしそう　かに座は過去のトラウマや抱えていた問題から抜け出せそう",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/life/horoscope/20260715-SYT8T8176216",
+      "publishedAt": "2026-07-20T12:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
@@ -424,101 +1194,45 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOUC165JL0W6A210C2000000/",
-      "title": "住友化学、全固体電池の新部材量産　EV向けに製造費抑え安全性向上",
+      "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00243/",
+      "title": "エムバペが史上初の２大会連続得点王…１大会２けた得点は１９７０年のミュラー以来",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUC165JL0W6A210C2000000",
-      "publishedAt": "2026-07-20T11:42:28.000Z",
+      "url": "https://yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00243",
+      "publishedAt": "2026-07-20T11:45:00.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOUD173MF0X10C26A7000000/",
-      "title": "市街地クマ対策チーム設置　環境省、22日初会合",
+      "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00235/",
+      "title": "決勝点のトレス「あの得点は自分のものじゃない」…連係の妙で代表チームの理想形示したスペイン",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUD173MF0X10C26A7000000",
-      "publishedAt": "2026-07-20T11:39:04.000Z",
+      "url": "https://yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00235",
+      "publishedAt": "2026-07-20T11:36:00.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOGM201Z30Q6A720C2000000/",
-      "title": "中国海警局、フィリピン軍兵士を棒で殴打　係争中の南シナ海岩礁で",
+      "id": "https://www.yomiuri.co.jp/national/20260720-GYT1T00213/",
+      "title": "２１日以降４０度以上の「酷暑日」の恐れ、関東甲信と東海梅雨明け…東京など各地で猛暑日・熱中症とみられる死者も",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGM201Z30Q6A720C2000000",
-      "publishedAt": "2026-07-20T11:37:25.000Z",
+      "url": "https://yomiuri.co.jp/national/20260720-GYT1T00213",
+      "publishedAt": "2026-07-20T11:28:00.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUD201HJ0Q6A720C2000000/",
-      "title": "栃木の山崩れ、遺体で発見の2人は住人夫婦　住宅が倒壊",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUD201HJ0Q6A720C2000000",
-      "publishedAt": "2026-07-20T11:37:10.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUD201DF0Q6A720C2000000/",
-      "title": "兵庫・姫路の男性刺殺事件、新たに男2人を逮捕　殺害依頼疑い",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUD201DF0Q6A720C2000000",
-      "publishedAt": "2026-07-20T11:30:39.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOGR146260U6A710C2000000/",
-      "title": "バーナム英首相、「失われた18年」に挑む　若者年10万人流出",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGR146260U6A710C2000000",
-      "publishedAt": "2026-07-20T11:30:15.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUD062BL0W6A700C2000000/",
-      "title": "関東甲信・東海で梅雨明け　東京都心は今年初の「猛暑日」に",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUD062BL0W6A700C2000000",
-      "publishedAt": "2026-07-20T11:26:38.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
@@ -533,20 +1247,6 @@
       "source": {
         "name": "mainichi.jp",
         "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
-      }
-    },
-    {
-      "id": "http://www.asahi.com/articles/ASV7N2S5PV7NUHBI008M.html?ref=rss",
-      "title": "英国新首相にバーナム氏、国政復帰1カ月で　政権運営は未知数な点も",
-      "description": "",
-      "content": "",
-      "url": "http://asahi.com/articles/ASV7N2S5PV7NUHBI008M.html?ref=rss",
-      "publishedAt": "2026-07-20T11:25:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "asahi.com",
-        "url": "http://www.asahi.com/"
       }
     },
     {
@@ -578,17 +1278,17 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOGM201P50Q6A720C2000000/",
-      "title": "日本とシンガポール、個人情報保護で協力　覚書に調印",
+      "id": "https://www.yomiuri.co.jp/koushitsu/20260720-GYT1T00229/",
+      "title": "紀子さま、難病「視神経脊髄炎」患者支援のチャリティーコンサート鑑賞…笑顔で拍手送る",
       "description": "",
       "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGM201P50Q6A720C2000000",
-      "publishedAt": "2026-07-20T11:02:33.000Z",
+      "url": "https://yomiuri.co.jp/koushitsu/20260720-GYT1T00229",
+      "publishedAt": "2026-07-20T11:13:00.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
@@ -676,34 +1376,6 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOUC201AE0Q6A720C2000000/",
-      "title": "簿外債務とは　会計上の負債、経済実態とズレ",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUC201AE0Q6A720C2000000",
-      "publishedAt": "2026-07-20T10:41:55.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "http://www.asahi.com/articles/ASV7N3F7ZV7NUHBI01BM.html?ref=rss",
-      "title": "ホルムズ海峡封鎖は事前に計画、イラン外相「最高指導部が標的なら」",
-      "description": "",
-      "content": "",
-      "url": "http://asahi.com/articles/ASV7N3F7ZV7NUHBI01BM.html?ref=rss",
-      "publishedAt": "2026-07-20T10:40:46.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "asahi.com",
-        "url": "http://www.asahi.com/"
-      }
-    },
-    {
       "id": "https://mainichi.jp/articles/20260720/k00/00m/030/118000c",
       "title": "中国・王毅外相、ASEAN会議出席へ　日中の接触、可能性低く",
       "description": "",
@@ -732,76 +1404,6 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOKC2020F0Q6A720C2000000/",
-      "title": "2横綱2大関が総崩れ、安青錦は勝ち越し　大相撲名古屋場所9日目",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOKC2020F0Q6A720C2000000",
-      "publishedAt": "2026-07-20T10:33:44.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUF201220Q6A720C2000000/",
-      "title": "オリックス九里亜蓮、連敗中のチームを救う7回無失点　タフさ健在",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUF201220Q6A720C2000000",
-      "publishedAt": "2026-07-20T10:32:48.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "http://www.asahi.com/articles/ASV7N31QBV7NUHBI010M.html?ref=rss",
-      "title": "Tシャツにジーンズ姿の「北部の王」　英国の新首相、バーナム氏とは",
-      "description": "",
-      "content": "",
-      "url": "http://asahi.com/articles/ASV7N31QBV7NUHBI010M.html?ref=rss",
-      "publishedAt": "2026-07-20T10:30:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "asahi.com",
-        "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOGM201HQ0Q6A720C2000000/",
-      "title": "中国のレアアース磁石対日輸出、6月も低水準続く",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGM201HQ0Q6A720C2000000",
-      "publishedAt": "2026-07-20T10:27:46.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "http://www3.nhk.or.jp/news/html/20260720/k10015180931000.html",
-      "title": "米 9日連続イラン攻撃 イラン外相「世界はイランの強さ認識」",
-      "description": "アメリカ軍は、イランに対して今月11日以降、9日連続となる攻撃を行いました。一方、イランの革命防衛隊はヨルダンとクウェートに展開するアメリカ軍の航空機やレーダー施設などを攻撃したと主張しました。",
-      "content": "アメリカ軍は、イランに対して今月11日以降、9日連続となる攻撃を行いました。一方、イランの革命防衛隊はヨルダンとクウェートに展開するアメリカ軍の航空機やレーダー施設などを攻撃したと主張しました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015180931000.html",
-      "publishedAt": "2026-07-20T10:21:24.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "www3.nhk.or.jp",
-        "url": "http://www3.nhk.or.jp/news/"
-      }
-    },
-    {
       "id": "http://www.asahi.com/articles/ASV7N3440V7NUTIL00BM.html?ref=rss",
       "title": "紀子さまが難病支援コンサート鑑賞　「心動かされる時間」、時折涙も",
       "description": "",
@@ -816,31 +1418,17 @@
       }
     },
     {
-      "id": "https://www.yomiuri.co.jp/national/20260720-GYT1T00164/",
+      "id": "https://www.yomiuri.co.jp/world/20260720-GYT1T00164/",
       "title": "十万人以上犠牲「輸送船の墓場」、バシー海峡に面した台湾南部の海岸で旧日本兵遺骨の発掘調査開始…半世紀ぶり",
       "description": "",
       "content": "",
-      "url": "https://yomiuri.co.jp/national/20260720-GYT1T00164",
+      "url": "https://yomiuri.co.jp/world/20260720-GYT1T00164",
       "publishedAt": "2026-07-20T10:05:00.000Z",
       "author": null,
       "categories": [],
       "source": {
         "name": "yomiuri.co.jp",
         "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOGR2002B0Q6A720C2000000/",
-      "title": "EU、アリババに制裁金1000億円　ネット通販での違法商品流通で",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGR2002B0Q6A720C2000000",
-      "publishedAt": "2026-07-20T10:04:14.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -872,34 +1460,6 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOGM201JP0Q6A720C2000000/",
-      "title": "中国・アリババ、最新AIモデル公開へ　「米先端に次ぐ性能」主張",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGM201JP0Q6A720C2000000",
-      "publishedAt": "2026-07-20T09:47:37.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://mainichi.jp/articles/20260718/k00/00m/040/162000c",
-      "title": "不満続出のジャングリアは今　プロ野球優勝並みの経済効果も",
-      "description": "",
-      "content": "",
-      "url": "https://mainichi.jp/articles/20260718/k00/00m/040/162000c",
-      "publishedAt": "2026-07-20T09:43:53.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "mainichi.jp",
-        "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
-      }
-    },
-    {
       "id": "https://mainichi.jp/articles/20260711/k00/00m/050/095000c",
       "title": "センバツ準Vの智弁学園、奈良大会で敗退　高校野球",
       "description": "",
@@ -928,34 +1488,6 @@
       }
     },
     {
-      "id": "http://www3.nhk.or.jp/news/html/20260720/k10015181271000.html",
-      "title": "新名神高速6人死亡事故4か月 遺族「父親を返してほしい」",
-      "description": "ことし3月、三重県の新名神高速道路で大型トラックの運転手がスマートフォンの画面を脇見して車両3台に追突し、6人が死亡した事故で、単身赴任先から帰省する途中に巻き込まれて亡くなった男性の遺族が初めて取材に応じ、事故に対する憤りの気持ちを涙ながらに語りました。",
-      "content": "ことし3月、三重県の新名神高速道路で大型トラックの運転手がスマートフォンの画面を脇見して車両3台に追突し、6人が死亡した事故で、単身赴任先から帰省する途中に巻き込まれて亡くなった男性の遺族が初めて取材に応じ、事故に対する憤りの気持ちを涙ながらに語りました。",
-      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181271000.html",
-      "publishedAt": "2026-07-20T09:36:20.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "www3.nhk.or.jp",
-        "url": "http://www3.nhk.or.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOKC201TS0Q6A720C2000000/",
-      "title": "沖縄尚学・白樺学園など夏の甲子園へ　日南学園は8年ぶり",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOKC201TS0Q6A720C2000000",
-      "publishedAt": "2026-07-20T09:34:42.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
       "id": "https://www.yomiuri.co.jp/national/20260720-GYT1T00161/",
       "title": "足利市の大雨による土砂崩れ、倒壊家屋から見つかった遺体は住民夫妻と判明…２人とも元市職員",
       "description": "",
@@ -967,76 +1499,6 @@
       "source": {
         "name": "yomiuri.co.jp",
         "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZMSX000S01_Q6A720C2000000/",
-      "title": "大相撲名古屋場所中入り後取組・10日目",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZMSX000S01_Q6A720C2000000",
-      "publishedAt": "2026-07-20T09:30:16.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZMSK3ISU02_Q6A720C2000000/",
-      "title": "大相撲名古屋場所星取表・9日目の結果",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZMSK3ISU02_Q6A720C2000000",
-      "publishedAt": "2026-07-20T09:29:49.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZMSK3ISU01_Q6A720C2000000/",
-      "title": "大相撲名古屋場所中入り後勝負・9日目",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZMSK3ISU01_Q6A720C2000000",
-      "publishedAt": "2026-07-20T09:29:28.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://mainichi.jp/articles/20260720/k00/00m/040/108000c",
-      "title": "紀子さま、難病患者支援のコンサートを鑑賞　感極まる場面も",
-      "description": "",
-      "content": "",
-      "url": "https://mainichi.jp/articles/20260720/k00/00m/040/108000c",
-      "publishedAt": "2026-07-20T09:24:37.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "mainichi.jp",
-        "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUA093FF0Z00C26A7000000/",
-      "title": "政府、国際標準化の司令塔創設へ　海外市場開拓へ投資と両輪",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUA093FF0Z00C26A7000000",
-      "publishedAt": "2026-07-20T09:21:12.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -1054,20 +1516,6 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOGM2019N0Q6A720C2000000/",
-      "title": "中国外相、フィリピンでASEAN会議に出席へ　南シナ海問題など協議",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOGM2019N0Q6A720C2000000",
-      "publishedAt": "2026-07-20T09:09:16.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
       "id": "https://www.yomiuri.co.jp/world/20260720-GYT1T00157/",
       "title": "フィリピン海軍兵士、中国海警局の乗組員に木の棒で殴られ負傷…比が実効支配する南沙諸島アユンギン礁で",
       "description": "",
@@ -1079,34 +1527,6 @@
       "source": {
         "name": "yomiuri.co.jp",
         "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUA142NA0U6A710C2000000/",
-      "title": "マイナ保険証9443万人、スマホ搭載は800万人　「紙」は7月末終了",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUA142NA0U6A710C2000000",
-      "publishedAt": "2026-07-20T09:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQODH200DC0Q6A720C2000000/",
-      "title": "スペインの俊英ヤマル、本領はお預けも随所に見せ場",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQODH200DC0Q6A720C2000000",
-      "publishedAt": "2026-07-20T09:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -1124,20 +1544,6 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOUA201F40Q6A720C2000000/",
-      "title": "合流巡り新党など4案検討　中道代表、大同団結目指す",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUA201F40Q6A720C2000000",
-      "publishedAt": "2026-07-20T08:33:19.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
       "id": "http://www.asahi.com/articles/ASV7N22JQV7NUTQP02JM.html?ref=rss",
       "title": "「物語」の続き見せたメッシの涙　チームへの愛、準備重ねた覚悟",
       "description": "",
@@ -1149,20 +1555,6 @@
       "source": {
         "name": "asahi.com",
         "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOKC201IP0Q6A720C2000000/",
-      "title": "MF荒木遼太郎、ベルギー1部に移籍　パリ五輪代表",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOKC201IP0Q6A720C2000000",
-      "publishedAt": "2026-07-20T08:28:02.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -1222,20 +1614,6 @@
       }
     },
     {
-      "id": "https://www.nikkei.com/article/DGXZQOUF135200T10C26A7000000/",
-      "title": "エスペック、AI半導体の検査精度1000倍に　低電流で故障予測",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUF135200T10C26A7000000",
-      "publishedAt": "2026-07-20T08:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
       "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00145/",
       "title": "ラフプレーで自らの首絞めたアルゼンチン、後半の退場者に試合後は乱闘騒ぎで後味の悪さ残す",
       "description": "",
@@ -1289,20 +1667,6 @@
       "source": {
         "name": "asahi.com",
         "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOKC201AG0Q6A720C2000000/",
-      "title": "ロッテ角中勝也、現役引退を表明　独立リーグ出身初の首位打者",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOKC201AG0Q6A720C2000000",
-      "publishedAt": "2026-07-20T07:17:49.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -1376,20 +1740,6 @@
       }
     },
     {
-      "id": "https://news.yahoo.co.jp/pickup/6588631?source=rss",
-      "title": "トランプ氏 また表彰台にとどまる",
-      "description": "",
-      "content": "",
-      "url": "https://news.yahoo.co.jp/pickup/6588631?source=rss",
-      "publishedAt": "2026-07-20T06:19:05.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "news.yahoo.co.jp",
-        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
-      }
-    },
-    {
       "id": "https://www.yomiuri.co.jp/world/20260720-GYT1T00138/",
       "title": "プーチン氏が北朝鮮の崔善姫外相と会談、ウクライナ派兵に改めて謝意…正恩氏訪露も議論か",
       "description": "",
@@ -1429,20 +1779,6 @@
       "source": {
         "name": "yomiuri.co.jp",
         "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1v1cv4p/japan_will_raise_the_caps_on_outofpocket_medical/",
-      "title": "Japan will raise the caps on out-of-pocket medical expenses as part of changes in its high-cost medical care benefit system.The ceilings on monthly out-of-pocket medical expenses will be raised next month and again in August 2027.",
-      "description": "submitted by /u/fuzzy_emojic [link] [comments]",
-      "content": "submitted by /u/fuzzy_emojic [https://old.reddit.com/user/fuzzy_emojic]\n[link]\n[https://www.japantimes.co.jp/news/2026/07/19/japan/science-health/medical-expenses-cap-raise/]\n[comments]\n[https://old.reddit.com/r/japan/comments/1v1cv4p/japan_will_raise_the_caps_on_outofpocket_medical/]",
-      "url": "https://old.reddit.com/r/japan/comments/1v1cv4p/japan_will_raise_the_caps_on_outofpocket_medical",
-      "publishedAt": "2026-07-20T05:51:27.000Z",
-      "author": "/u/fuzzy_emojic",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
       }
     },
     {
@@ -1600,20 +1936,6 @@
       }
     },
     {
-      "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260719-GYT1T00264/",
-      "title": "「スペインのサッカーは衝撃的、全員で同じ絵を描き全員で動く」…高校サッカー界の名将が分析",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/sports/soccer/worldcup/20260719-GYT1T00264",
-      "publishedAt": "2026-07-20T04:01:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
       "id": "http://www.asahi.com/articles/ASV7J6DHFV7JUTFL00MM.html?ref=rss",
       "title": "「いかのおすし」で子どもを守って　夏休みは連れ去りや事故に注意",
       "description": "",
@@ -1642,118 +1964,6 @@
       }
     },
     {
-      "id": "https://www.yomiuri.co.jp/sports/koshien/summer/20260720-GYT1T00120/",
-      "title": "宮崎・日南学園が８年ぶり１０度目の夏の甲子園、１１―０で小林西破る",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/sports/koshien/summer/20260720-GYT1T00120",
-      "publishedAt": "2026-07-20T03:54:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/national/20260719-GYT1T00228/",
-      "title": "遊覧船からブルーインパルス、鳴門海峡で特別クルーズ",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/national/20260719-GYT1T00228",
-      "publishedAt": "2026-07-20T03:46:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/national/20260719-GYT1T00226/",
-      "title": "曲技飛行隊「ブルーインパルス」、徳島上空を１０年ぶり展示飛行…小松島市の市制７５周年記念で",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/national/20260719-GYT1T00226",
-      "publishedAt": "2026-07-20T03:43:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260719-GYT1T00268/",
-      "title": "フランスを世界トップクラスの強豪へ導いたデシャン監督の信条…フランス出身の元Ｊ監督が分析",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/sports/soccer/worldcup/20260719-GYT1T00268",
-      "publishedAt": "2026-07-20T03:35:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/sports/mlb/20260720-GYT1T00107/",
-      "title": "メジャー挑戦の佐々木麟太郎へ、大谷翔平の父・徹さんも期待「後悔のないよう長くプレーできる選手に」",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/sports/mlb/20260720-GYT1T00107",
-      "publishedAt": "2026-07-20T03:28:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "http://www3.nhk.or.jp/news/html/20260720/k10015181181000.html",
-      "title": "マンション転落 巻き込まれ死亡の女性は食事後帰宅途中 名古屋",
-      "description": "19日、名古屋市中心部の歩道で20代の女性がマンションから転落した男性に巻き込まれて死亡した事故で、女性は当時、友人と食事を終えて帰宅する途中だったことが警察への取材でわかりました。男性はマンションの住民ではないということで、警察は転落したいきさつを詳しく調べています。",
-      "content": "19日、名古屋市中心部の歩道で20代の女性がマンションから転落した男性に巻き込まれて死亡した事故で、女性は当時、友人と食事を終えて帰宅する途中だったことが警察への取材でわかりました。男性はマンションの住民ではないということで、警察は転落したいきさつを詳しく調べています。",
-      "url": "http://www3.nhk.or.jp/news/html/20260720/k10015181181000.html",
-      "publishedAt": "2026-07-20T03:25:26.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "www3.nhk.or.jp",
-        "url": "http://www3.nhk.or.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/politics/20260719-GYT1T00309/",
-      "title": "終盤国会の与野党対立で「海洋基本法改正案」提出見送りへ…高市内閣「戦略１７分野」の一つ",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/politics/20260719-GYT1T00309",
-      "publishedAt": "2026-07-20T03:18:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/economy/20260719-GYT1T00310/",
-      "title": "１年後の物価「上がる」は過去最高の９０％、景況感は１年ぶりの悪化…日銀意識調査",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/economy/20260719-GYT1T00310",
-      "publishedAt": "2026-07-20T03:05:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
       "id": "http://www.asahi.com/articles/ASV7J1633V7JPITB009M.html?ref=rss",
       "title": "帯状疱疹ワクチン、自己負担額は同じ県でも3倍差　金額どう決まる？",
       "description": "",
@@ -1765,62 +1975,6 @@
       "source": {
         "name": "asahi.com",
         "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/economy/20260719-GYT1T00313/",
-      "title": "障害者の雇用義務化５０年、雇用率達成に加え働きがい向上へ「適正や個性に合わせれば成長につながる」",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/economy/20260719-GYT1T00313",
-      "publishedAt": "2026-07-20T02:49:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/national/20260720-GYT1T00115/",
-      "title": "関東甲信と東海が梅雨明け…平年より１日遅く、昨年に比べ東海は２３日・関東甲信は２２日遅く",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/national/20260720-GYT1T00115",
-      "publishedAt": "2026-07-20T02:28:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/national/20260720-GYT1T00109/",
-      "title": "長野・飯田市のロックフェス会場の飲食店でボンベから噴き出したガスに火、女性従業員が全身にやけど",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/national/20260720-GYT1T00109",
-      "publishedAt": "2026-07-20T02:23:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/medical/20260720-GYT1T00035/",
-      "title": "父親の「産後うつ」対策不十分…父にもチェック、産科医療機関の３％にとどまる…リスクは男女同程度",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/medical/20260720-GYT1T00035",
-      "publishedAt": "2026-07-20T02:13:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
@@ -1838,104 +1992,6 @@
       }
     },
     {
-      "id": "https://www.yomiuri.co.jp/culture/tv/20260715-GYT1T00248/",
-      "title": "ドラマ「一次元の挿し木」で陰のある主人公演じる山田涼介、アイドル封印し妖艶さで魅せる",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/culture/tv/20260715-GYT1T00248",
-      "publishedAt": "2026-07-20T02:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00112/",
-      "title": "涙のブエノスアイレス、祈り届かずも「アルゼンチンは最後まで頑張った」…メッシの写真掲げる人も",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00112",
-      "publishedAt": "2026-07-20T01:56:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/national/20260720-GYT1T00092/",
-      "title": "夏の地表温度は６０度超えも…熱中症多発の鳥取砂丘で飲料水販売開始「砂丘には必ず飲み物持参で」",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/national/20260720-GYT1T00092",
-      "publishedAt": "2026-07-20T01:34:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00104/",
-      "title": "フランス・エムバペが２大会連続のＷ杯得点王…アルゼンチン・メッシは決勝で不発",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/sports/soccer/worldcup/20260720-GYT1T00104",
-      "publishedAt": "2026-07-20T01:30:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/national/20260720-GYT1T00095/",
-      "title": "酷暑の夏「海水浴離れ」、全国で海水浴場１割減…人手不足や物価高も追い打ち「運営もう無理」",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/national/20260720-GYT1T00095",
-      "publishedAt": "2026-07-20T01:24:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/national/20260720-GYT1T00102/",
-      "title": "奈良県香芝市の西名阪道で車２台が正面衝突、軽乗用車の男性２人死亡…どちらかの車が逆走か",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/national/20260720-GYT1T00102",
-      "publishedAt": "2026-07-20T01:11:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/national/20260720-GYT1T00090/",
-      "title": "４５人で担いだ夏祭りの屋台がバランスを崩し倒れ、１０～５０歳代の男性４人が下敷きに",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/national/20260720-GYT1T00090",
-      "publishedAt": "2026-07-20T01:05:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
       "id": "http://www.asahi.com/articles/ASV7K2GB0V7KTTHB001M.html?ref=rss",
       "title": "核のごみ文献調査中、玄海町長選が21日告示　出馬予定2人の姿勢は",
       "description": "",
@@ -1947,48 +2003,6 @@
       "source": {
         "name": "asahi.com",
         "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/politics/20260719-GYT1T00306/",
-      "title": "不法残留の外国人摘発強化、入管職員２００人超を異例の緊急増員…今月末にも閣議決定へ",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/politics/20260719-GYT1T00306",
-      "publishedAt": "2026-07-20T00:44:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/politics/20260719-GYT1T00311/",
-      "title": "旧安倍派、死去から４年でも再結集見えず…「５人衆」に不満・他グループによる「草刈り場」の様相も",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/politics/20260719-GYT1T00311",
-      "publishedAt": "2026-07-20T00:35:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/world/20260720-GYT1T00032/",
-      "title": "インド、初の民間ロケット軌道投入に成功…「米中に次ぎ世界３番目に民間による軌道投入成功の国」に",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/world/20260720-GYT1T00032",
-      "publishedAt": "2026-07-20T00:29:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
@@ -2048,20 +2062,6 @@
       }
     },
     {
-      "id": "http://www.asahi.com/articles/ASV7K3Q3LV7KPLFA00FM.html?ref=rss",
-      "title": "全東信は「昭和のなごり」　専門家が指摘するカード会社の責任とは",
-      "description": "",
-      "content": "",
-      "url": "http://asahi.com/articles/ASV7K3Q3LV7KPLFA00FM.html?ref=rss",
-      "publishedAt": "2026-07-19T22:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "asahi.com",
-        "url": "http://www.asahi.com/"
-      }
-    },
-    {
       "id": "http://www.asahi.com/articles/ASV7621JKV76UPQJ002M.html?ref=rss",
       "title": "統廃合・民営化で揺らぐ図書館　「民主主義の砦」の価値と使命を守れ",
       "description": "",
@@ -2073,34 +2073,6 @@
       "source": {
         "name": "asahi.com",
         "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "http://www.asahi.com/articles/ASV7J2G3VV7JUCVL01FM.html?ref=rss",
-      "title": "小津安二郎「東京物語」別の題名になったかも?　別脚本の仮題が判明",
-      "description": "",
-      "content": "",
-      "url": "http://asahi.com/articles/ASV7J2G3VV7JUCVL01FM.html?ref=rss",
-      "publishedAt": "2026-07-19T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "asahi.com",
-        "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1v0rmhm/woman_in_20s_dies_after_man_falls_from_building/",
-      "title": "Woman in 20s dies after man falls from building in central Japan",
-      "description": "A woman in her 20s died early Sunday after a man apparently fell from a 12-story\napartment building and landed on her in Nagoya, central Japan, police said.\nHoura Inaba, 23, and the man were taken to a hospital after the incident in the\ncity's Sakae district, a busy area with many stores and entertainment\nfacilities, at around 1 a.m. Shinsei Taguchi, 29, remains unconscious and in\ncritical condition. A female acquaintance of the victim called emergency\nservices, saying a man had fallen onto her friend while they were walking\ntogether, according to the police. The site is in an area crowded with office\nand apartment buildings along the Nagoya Expressway's downtown loop, about 500\nmeters northeast of Yabacho Station on the municipal subway's Meijo Line.\nSimilar fatal incidents have occurred in major urban areas in Japan. In August\n2024, a 17-year-old high school girl jumped from a commercial building near JR\nYokohama Station, southwest of Tokyo, killing a 32-year-old woman walking below.\nIn October 2020, a 17-year-old high school boy is believed to have jumped from a\ncommercial complex in Osaka, fatally striking a 19-year-old female university\nstudent on the street. submitted by /u/SkyInJapan [link] [comments]",
-      "content": "A woman in her 20s died early Sunday after a man apparently fell from a 12-story\napartment building and landed on her in Nagoya, central Japan, police said.\n\nHoura Inaba, 23, and the man were taken to a hospital after the incident in the\ncity's Sakae district, a busy area with many stores and entertainment\nfacilities, at around 1 a.m. Shinsei Taguchi, 29, remains unconscious and in\ncritical condition.\n\nA female acquaintance of the victim called emergency services, saying a man had\nfallen onto her friend while they were walking together, according to the\npolice.\n\nThe site is in an area crowded with office and apartment buildings along the\nNagoya Expressway's downtown loop, about 500 meters northeast of Yabacho Station\non the municipal subway's Meijo Line.\n\nSimilar fatal incidents have occurred in major urban areas in Japan. In August\n2024, a 17-year-old high school girl jumped from a commercial building near JR\nYokohama Station, southwest of Tokyo, killing a 32-year-old woman walking below.\n\nIn October 2020, a 17-year-old high school boy is believed to have jumped from a\ncommercial complex in Osaka, fatally striking a 19-year-old female university\nstudent on the street.\n\nsubmitted by /u/SkyInJapan [https://old.reddit.com/user/SkyInJapan]\n[link] [https://mainichi.jp/english/articles/20260719/p2g/00m/0na/024000c]\n[comments]\n[https://old.reddit.com/r/japan/comments/1v0rmhm/woman_in_20s_dies_after_man_falls_from_building/]",
-      "url": "https://old.reddit.com/r/japan/comments/1v0rmhm/woman_in_20s_dies_after_man_falls_from_building",
-      "publishedAt": "2026-07-19T14:11:32.000Z",
-      "author": "/u/SkyInJapan",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
       }
     },
     {
@@ -2118,48 +2090,6 @@
       }
     },
     {
-      "id": "http://www.asahi.com/articles/ASV7M42FLV7MUZPS00JM.html?ref=rss",
-      "title": "改正皇室典範「国民の理解得られぬ」60%　内閣支持率53%に下落",
-      "description": "",
-      "content": "",
-      "url": "http://asahi.com/articles/ASV7M42FLV7MUZPS00JM.html?ref=rss",
-      "publishedAt": "2026-07-19T12:50:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "asahi.com",
-        "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1v0nb8k/takaichi_cabinet_approval_rate_falls_to_41/",
-      "title": "Takaichi Cabinet Approval Rate falls to 41%, Disapproval at 44% - Mainichi Shimbun Poll",
-      "description": "submitted by /u/terriblew6 [link] [comments]",
-      "content": "submitted by /u/terriblew6 [https://old.reddit.com/user/terriblew6]\n[link] [https://mainichi.jp/articles/20260719/k00/00m/010/192000c] [comments]\n[https://old.reddit.com/r/japan/comments/1v0nb8k/takaichi_cabinet_approval_rate_falls_to_41/]",
-      "url": "https://old.reddit.com/r/japan/comments/1v0nb8k/takaichi_cabinet_approval_rate_falls_to_41",
-      "publishedAt": "2026-07-19T10:45:30.000Z",
-      "author": "/u/terriblew6",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1v0gkl2/where_does_this_level_of_craftsmanship_slot/",
-      "title": "Where does this level of craftsmanship slot within Japanese home building?",
-      "description": "Watched a video of a sort of modular Japanese house being built, seems like a\nlot of care and attention are being put into it. Something you will very rarely\nsee in the US. How typical is this level of care being put into home building?\nsubmitted by /u/BlackJackT [link] [comments]",
-      "content": "Watched a video of a sort of modular Japanese house being built, seems like a\nlot of care and attention are being put into it. Something you will very rarely\nsee in the US.\n\nHow typical is this level of care being put into home building?\n\nsubmitted by /u/BlackJackT [https://old.reddit.com/user/BlackJackT]\n[link] [https://m.youtube.com/watch?v=vRn8Ck2xiqo] [comments]\n[https://old.reddit.com/r/japan/comments/1v0gkl2/where_does_this_level_of_craftsmanship_slot/]",
-      "url": "https://old.reddit.com/r/japan/comments/1v0gkl2/where_does_this_level_of_craftsmanship_slot",
-      "publishedAt": "2026-07-19T04:17:29.000Z",
-      "author": "/u/BlackJackT",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
       "id": "http://www.asahi.com/articles/ASV7L21P9V7LONFB00WM.html?ref=rss",
       "title": "鳥羽水族館の人気者ダイオウグソクムシ、展示休止に　最後の個体死ぬ",
       "description": "",
@@ -2174,34 +2104,6 @@
       }
     },
     {
-      "id": "https://old.reddit.com/r/japan/comments/1v08ijt/exnurse_arrested_in_japan_for_alleged_murder_by/",
-      "title": "Ex-nurse arrested in Japan for alleged murder by mixing feces into IV drip",
-      "description": "submitted by /u/Jonnyboo234 [link] [comments]",
-      "content": "submitted by /u/Jonnyboo234 [https://old.reddit.com/user/Jonnyboo234]\n[link] [https://www3.nhk.or.jp/nhkworld/en/news/20260717_08/] [comments]\n[https://old.reddit.com/r/japan/comments/1v08ijt/exnurse_arrested_in_japan_for_alleged_murder_by/]",
-      "url": "https://old.reddit.com/r/japan/comments/1v08ijt/exnurse_arrested_in_japan_for_alleged_murder_by",
-      "publishedAt": "2026-07-18T21:53:59.000Z",
-      "author": "/u/Jonnyboo234",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1v00bj6/100yen_balanced_breakfasts_a_hit_at_university_in/",
-      "title": "100-yen balanced breakfasts a hit at university in central Japan city amid price hikes",
-      "description": "The 100-yen (about 60 cents) breakfasts served at a public university in this\ncentral Japan city are attracting attention, with more than 150 students lining\nup before the student cafeteria opens every morning. As food prices keep rising,\nstudents at Tsuru University in the city of Tsuru, Yamanashi Prefecture, say\nthey \"are grateful to get a well-balanced meal for 100 yen, which is easy on the\nwallet.\" Just before 8 a.m. on July 3, in light rain, a line more than 50 meters\nlong had formed at the entrance to the cafeteria on the first floor of the\nuniversity's main building. The students in line were there for one thing: a\nbreakfast set meal priced at 100 yen. That day's meal consisted of a hamburger\nsteak, a salad, miso soup and rice. Students came one after another to pick up\ntheir meals and place a 100-yen coin on a designated tray. Aoi Ichikawa, who\nstarted at the university in April and is from the city of Toyama, was eating\nbreakfast with six friends while chatting about their course selections. She\nexplained that the six of them began eating together after running into each\nother at the cafeteria, although none of them were in the same department or the\nsame club. Ichikawa, who lives alone, said happily, \"When I don't come here, I\njust have leftovers from the day before for breakfast. It's great to have such a\nvariety of dishes.\" Rion Kinjo, who also started at the university in April and\nis from the city of Uruma, Okinawa Prefecture, was having breakfast with\nteammates from the ice hockey club. Smiling, she said, \"I manage my living\nexpenses with income from my part-time job, but food prices have gone up and\nit's tough. I wouldn't make fried food or hamburger steak just for myself, so\nI'm happy I can eat it for 100 yen.\" On that day, the 160 breakfast sets\nprepared sold out in about 30 minutes. Another 20 servings of curry were then\nprepared. Miharu Fujiwara, 45, one of the cooks, said, \"I have a college-age\nchild too. I prepare breakfasts that give parents peace of mind.\" The menu\nchanges daily, with set meals served on Mondays, Wednesdays and Fridays, and\nrice bowls, curry and similar dishes on Tuesdays and Thursdays. Because of its\nconvenient location just an hour and a half from central Tokyo and its\nrelatively low rent, Tsuru University attracts students from all over Japan. Of\nits roughly 3,500 students, 80% to 90% live alone near the university, and many\ncook for themselves. Wanting students \"to be able to eat a balanced meal without\nworrying about their budget,\" the university began offering 100-yen breakfasts\nin the 2015 academic year. About 50 meals were initially prepared per day, but\nthat has now risen to an average of 150 to 160, according to the university.\nTsuyoshi Ueno, head of the university's student support division, pointed out,\n\"Some students skip breakfast, so these 100-yen meals may also be contributing\nto their health and academic performance.\" He also described an unexpected\nbenefit, adding, \"Students who were unaccustomed to living alone and felt\nisolated have also found it to be an opportunity to make friends.\" Even as the\ncost of ingredients and other expenses continue to rise because of inflation,\nUeno said, \"Students appreciate the affordable breakfasts, so we want to\ncontinue offering them without raising the price.\" submitted by /u/SkyInJapan\n[link] [comments]",
-      "content": "The 100-yen (about 60 cents) breakfasts served at a public university in this\ncentral Japan city are attracting attention, with more than 150 students lining\nup before the student cafeteria opens every morning.\n\nAs food prices keep rising, students at Tsuru University in the city of Tsuru,\nYamanashi Prefecture, say they \"are grateful to get a well-balanced meal for 100\nyen, which is easy on the wallet.\"\n\nJust before 8 a.m. on July 3, in light rain, a line more than 50 meters long had\nformed at the entrance to the cafeteria on the first floor of the university's\nmain building. The students in line were there for one thing: a breakfast set\nmeal priced at 100 yen. That day's meal consisted of a hamburger steak, a salad,\nmiso soup and rice. Students came one after another to pick up their meals and\nplace a 100-yen coin on a designated tray.\n\nAoi Ichikawa, who started at the university in April and is from the city of\nToyama, was eating breakfast with six friends while chatting about their course\nselections. She explained that the six of them began eating together after\nrunning into each other at the cafeteria, although none of them were in the same\ndepartment or the same club. Ichikawa, who lives alone, said happily, \"When I\ndon't come here, I just have leftovers from the day before for breakfast. It's\ngreat to have such a variety of dishes.\"\n\nRion Kinjo, who also started at the university in April and is from the city of\nUruma, Okinawa Prefecture, was having breakfast with teammates from the ice\nhockey club. Smiling, she said, \"I manage my living expenses with income from my\npart-time job, but food prices have gone up and it's tough. I wouldn't make\nfried food or hamburger steak just for myself, so I'm happy I can eat it for 100\nyen.\"\n\nOn that day, the 160 breakfast sets prepared sold out in about 30 minutes.\nAnother 20 servings of curry were then prepared. Miharu Fujiwara, 45, one of the\ncooks, said, \"I have a college-age child too. I prepare breakfasts that give\nparents peace of mind.\" The menu changes daily, with set meals served on\nMondays, Wednesdays and Fridays, and rice bowls, curry and similar dishes on\nTuesdays and Thursdays.\n\nBecause of its convenient location just an hour and a half from central Tokyo\nand its relatively low rent, Tsuru University attracts students from all over\nJapan. Of its roughly 3,500 students, 80% to 90% live alone near the university,\nand many cook for themselves.\n\nWanting students \"to be able to eat a balanced meal without worrying about their\nbudget,\" the university began offering 100-yen breakfasts in the 2015 academic\nyear. About 50 meals were initially prepared per day, but that has now risen to\nan average of 150 to 160, according to the university.\n\nTsuyoshi Ueno, head of the university's student support division, pointed out,\n\"Some students skip breakfast, so these 100-yen meals may also be contributing\nto their health and academic performance.\" He also described an unexpected\nbenefit, adding, \"Students who were unaccustomed to living alone and felt\nisolated have also found it to be an opportunity to make friends.\"\n\nEven as the cost of ingredients and other expenses continue to rise because of\ninflation, Ueno said, \"Students appreciate the affordable breakfasts, so we want\nto continue offering them without raising the price.\"\n\nsubmitted by /u/SkyInJapan [https://old.reddit.com/user/SkyInJapan]\n[link] [https://mainichi.jp/english/articles/20260716/p2a/00m/0li/006000c]\n[comments]\n[https://old.reddit.com/r/japan/comments/1v00bj6/100yen_balanced_breakfasts_a_hit_at_university_in/]",
-      "url": "https://old.reddit.com/r/japan/comments/1v00bj6/100yen_balanced_breakfasts_a_hit_at_university_in",
-      "publishedAt": "2026-07-18T16:26:31.000Z",
-      "author": "/u/SkyInJapan",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
       "id": "http://www.asahi.com/articles/ASV7F24QYV7FUTFL00SM.html?ref=rss",
       "title": "暗記ものは息吐く後半がいい？　音読やシャドーイングに効果がある訳",
       "description": "",
@@ -2213,48 +2115,6 @@
       "source": {
         "name": "asahi.com",
         "url": "http://www.asahi.com/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1uzfvlm/this_country_wants_parents_to_stop_abducting/",
-      "title": "This country wants parents to stop abducting their own children",
-      "description": "Hello, I am Anastasiya Minkova, the mother featured in this article. I am\ncurrently working with the organization mentioned in the article to advocate for\nchildren’s rights, welfare, and safety. I am also building a support network and\ncommunity for parents and children affected by parental child abduction and\nfamily separation. My goal is to help both parents and children heal from the\ntrauma and to ensure that no one has to face this journey alone. If you or\nsomeone you know has experienced a similar situation, please don’t hesitate to\nreach out. The emotional impact of these situations can be devastating. Many\nparents experience severe trauma, and some even consider ending their lives. I\nwant to help prevent that by connecting people with support, hope, and a\ncommunity that understands. According to estimates by Kizuna Child-Parent\nReunion, around 150,000 children become newly affected by parental child\nabduction or custody-related family separation in Japan each year, while\napproximately 3 million children are estimated to be living with the effects of\nthese situations at any given time. This issue affects both Japanese and\ninternational families and deserves far greater public awareness and discussion.\nFor more information about how these estimates were calculated:\nhttps://www.kizuna-cpr.org/counting-the-children I hope this article will\nencourage meaningful conversations about this important issue and contribute to\npositive change for children and families in Japan. Thank you. Note: please\naccess this article instead of there is a paywall\nhttps://www.ndtv.com/world-news/heres-why-parents-kidnap-their-own-children-in-japan-11770240\nsubmitted by /u/SandwichFluffy915 [link] [comments]",
-      "content": "Hello, I am Anastasiya Minkova, the mother featured in this article.\n\nI am currently working with the organization mentioned in the article to\nadvocate for children’s rights, welfare, and safety.\n\nI am also building a support network and community for parents and children\naffected by parental child abduction and family separation. My goal is to help\nboth parents and children heal from the trauma and to ensure that no one has to\nface this journey alone. If you or someone you know has experienced a similar\nsituation, please don’t hesitate to reach out.\n\nThe emotional impact of these situations can be devastating. Many parents\nexperience severe trauma, and some even consider ending their lives. I want to\nhelp prevent that by connecting people with support, hope, and a community that\nunderstands.\n\nAccording to estimates by Kizuna Child-Parent Reunion, around 150,000 children\nbecome newly affected by parental child abduction or custody-related family\nseparation in Japan each year, while approximately 3 million children are\nestimated to be living with the effects of these situations at any given time.\n\nThis issue affects both Japanese and international families and deserves far\ngreater public awareness and discussion.\nFor more information about how these estimates were calculated:\nhttps://www.kizuna-cpr.org/counting-the-children\n[https://www.kizuna-cpr.org/counting-the-children]\n\nI hope this article will encourage meaningful conversations about this important\nissue and contribute to positive change for children and families in Japan.\n\nThank you.\n\nNote: please access this article instead of there is a paywall\nhttps://www.ndtv.com/world-news/heres-why-parents-kidnap-their-own-children-in-japan-11770240\n[https://www.ndtv.com/world-news/heres-why-parents-kidnap-their-own-children-in-japan-11770240]\n\nsubmitted by /u/SandwichFluffy915\n[https://old.reddit.com/user/SandwichFluffy915]\n[link]\n[https://edition.cnn.com/2026/07/11/asia/japan-law-parental-child-abduction-intl-hnk-dst]\n[comments]\n[https://old.reddit.com/r/japan/comments/1uzfvlm/this_country_wants_parents_to_stop_abducting/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uzfvlm/this_country_wants_parents_to_stop_abducting",
-      "publishedAt": "2026-07-17T23:37:50.000Z",
-      "author": "/u/SandwichFluffy915",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1uz3zev/japan_enacts_flag_desecration_law_amid_varying/",
-      "title": "Japan enacts flag desecration law amid varying views around world",
-      "description": "Japan's enactment of a new law banning desecration of the national flag has\nreignited debate over the balance between protecting national symbols and\nfreedom of expression, with laws and public attitudes varying widely around the\nworld. Concerns have been raised that the legislation could strengthen\nright-wing ideology in Japan, and some social media users have accused Prime\nMinister Sanae Takaichi of \"trying to create an atmosphere of Japan supremacism\nand extreme nationalism.\" In Germany, there are penalties for not only\ndesecrating the national flag, but also for offensive acts against the national\nanthem and other symbols. Violators can face up to three years in prison or a\nfine, with the maximum sentence rising to five years if the act was intended to\nundermine the country's constitutional principles. Germany's flag was used with\nrestraint following the country's division after World War II, particularly in\nWest Germany. While its use became more widespread after Germany hosted the\nWorld Cup in 2006, it has come to be associated with anti-immigration right-wing\nmovements in recent years by some, who see it as \"exclusionary and negative,\"\naccording to local media. France's blue, white and red tricolor flag -- seen as\na symbol of unity alongside the national ideals of \"liberty, equality,\nfraternity\" -- is also protected by law. It is illegal to destroy the flag in\npublic or use it in a manner deemed degrading or disrespectful. While Iran has\nno explicit law to punish flag desecration, there have been moves to toughen\npenalties following anti-government protests late last year. Damaging the\nnational flag, which bears the word \"Allah,\" is viewed as blasphemy against\nIslam. However, the leadership, seeking to foster national unity amid a war with\nthe United States, has generally avoided harsh crackdowns. In China, offenses\nrelated to damaging the flag include penalties of up to three years in prison.\nThe country promotes patriotic education, with a flag-raising ceremony for its\n\"Five-star Red Flag\" held around sunrise at Beijing's Tiananmen Square every\nday. In 2017, a man who slashed 66 flags displayed at a residential complex in\nTianjin received a two-year prison sentence, while another person in Qinghai\nProvince was subjected to administrative detention for using the national flag\nas a curtain. In the United States, an immigrant society with diverse\nbackgrounds, its \"stars and stripes\" national flag has played an important role\nin national integration. Flag burning emerged as a form of protest during the\nanti-Vietnam War movement, and in 1989 the U.S. Supreme Court ruled that such\nacts are protected as \"freedom of expression\" under the First Amendment of the\nU.S. Constitution. However, U.S. President Donald Trump signed an executive\norder last August demanding the Justice Department prosecute acts such as flag\nburning and other forms of desecration. Meanwhile, some lawmakers in South Korea\nhave moved to establish a \"flag day.\" Damaging the national flag with the intent\nto insult the state is punishable by up to five years in prison. Critics say the\nlaw infringes on freedom of expression. submitted by /u/SkyInJapan [link]\n[comments]",
-      "content": "Japan's enactment of a new law banning desecration of the national flag has\nreignited debate over the balance between protecting national symbols and\nfreedom of expression, with laws and public attitudes varying widely around the\nworld.\n\nConcerns have been raised that the legislation could strengthen right-wing\nideology in Japan, and some social media users have accused Prime Minister Sanae\nTakaichi of \"trying to create an atmosphere of Japan supremacism and extreme\nnationalism.\"\n\nIn Germany, there are penalties for not only desecrating the national flag, but\nalso for offensive acts against the national anthem and other symbols. Violators\ncan face up to three years in prison or a fine, with the maximum sentence rising\nto five years if the act was intended to undermine the country's constitutional\nprinciples.\n\nGermany's flag was used with restraint following the country's division after\nWorld War II, particularly in West Germany. While its use became more widespread\nafter Germany hosted the World Cup in 2006, it has come to be associated with\nanti-immigration right-wing movements in recent years by some, who see it as\n\"exclusionary and negative,\" according to local media.\n\nFrance's blue, white and red tricolor flag -- seen as a symbol of unity\nalongside the national ideals of \"liberty, equality, fraternity\" -- is also\nprotected by law. It is illegal to destroy the flag in public or use it in a\nmanner deemed degrading or disrespectful.\n\nWhile Iran has no explicit law to punish flag desecration, there have been moves\nto toughen penalties following anti-government protests late last year. Damaging\nthe national flag, which bears the word \"Allah,\" is viewed as blasphemy against\nIslam. However, the leadership, seeking to foster national unity amid a war with\nthe United States, has generally avoided harsh crackdowns.\n\nIn China, offenses related to damaging the flag include penalties of up to three\nyears in prison. The country promotes patriotic education, with a flag-raising\nceremony for its \"Five-star Red Flag\" held around sunrise at Beijing's Tiananmen\nSquare every day.\n\nIn 2017, a man who slashed 66 flags displayed at a residential complex in\nTianjin received a two-year prison sentence, while another person in Qinghai\nProvince was subjected to administrative detention for using the national flag\nas a curtain.\n\nIn the United States, an immigrant society with diverse backgrounds, its \"stars\nand stripes\" national flag has played an important role in national integration.\nFlag burning emerged as a form of protest during the anti-Vietnam War movement,\nand in 1989 the U.S. Supreme Court ruled that such acts are protected as\n\"freedom of expression\" under the First Amendment of the U.S. Constitution.\n\nHowever, U.S. President Donald Trump signed an executive order last August\ndemanding the Justice Department prosecute acts such as flag burning and other\nforms of desecration.\n\nMeanwhile, some lawmakers in South Korea have moved to establish a \"flag day.\"\nDamaging the national flag with the intent to insult the state is punishable by\nup to five years in prison. Critics say the law infringes on freedom of\nexpression.\n\nsubmitted by /u/SkyInJapan [https://old.reddit.com/user/SkyInJapan]\n[link] [https://mainichi.jp/english/articles/20260717/p2g/00m/0na/028000c]\n[comments]\n[https://old.reddit.com/r/japan/comments/1uz3zev/japan_enacts_flag_desecration_law_amid_varying/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uz3zev/japan_enacts_flag_desecration_law_amid_varying",
-      "publishedAt": "2026-07-17T16:05:18.000Z",
-      "author": "/u/SkyInJapan",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1uz3a06/japan_post_truck_catches_fire_in_hokkaido_4600/",
-      "title": "Japan Post truck catches fire in Hokkaido, 4600 pieces of mail burnt",
-      "description": "submitted by /u/frozenpandaman [link] [comments]",
-      "content": "submitted by /u/frozenpandaman [https://old.reddit.com/user/frozenpandaman]\n[link] [https://www.asahi.com/articles/ASV7J123RV7JIIPE010M.html] [comments]\n[https://old.reddit.com/r/japan/comments/1uz3a06/japan_post_truck_catches_fire_in_hokkaido_4600/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uz3a06/japan_post_truck_catches_fire_in_hokkaido_4600",
-      "publishedAt": "2026-07-17T15:39:46.000Z",
-      "author": "/u/frozenpandaman",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
       }
     },
     {
@@ -2300,62 +2160,6 @@
       }
     },
     {
-      "id": "https://old.reddit.com/r/japan/comments/1uyt617/japan_maglev_project_faces_calls_to_clarify/",
-      "title": "Japan maglev project faces calls to clarify timeline after decade of delays",
-      "description": "submitted by /u/Jonnyboo234 [link] [comments]",
-      "content": "submitted by /u/Jonnyboo234 [https://old.reddit.com/user/Jonnyboo234]\n[link]\n[https://asia.nikkei.com/business/transportation/japan-maglev-project-faces-calls-to-clarify-timeline-after-decade-of-delays]\n[comments]\n[https://old.reddit.com/r/japan/comments/1uyt617/japan_maglev_project_faces_calls_to_clarify/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uyt617/japan_maglev_project_faces_calls_to_clarify",
-      "publishedAt": "2026-07-17T07:53:35.000Z",
-      "author": "/u/Jonnyboo234",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1uyirbu/deer_population_in_japans_nara_park_hits_record/",
-      "title": "Deer population in Japan's Nara Park hits record high amid overfeeding",
-      "description": "The deer population in Nara Park, a tourist spot in western Japan, hit a fresh\nrecord high of 1,687, a preservation group said Thursday, with the birth rate\nincreasing on the back of the animals being fed food other than sugar-free deer\ncrackers. According to the Nara Deer Preservation Foundation, more people are\ngiving vegetables and leftovers to the deer, which have also been spotted in\nprivate vegetable gardens outside the park, damaging the harvest. The figure\nincreased by 222 from a year before when the previous record-high was logged,\naccording to the group that has surveyed the deer population every year since\n1953. At the vast park, visitors are allowed to feed the roaming animals,\ndesignated as a national treasure, with digestive and sugar-free crackers sold\nin nearby shops. The latest survey was conducted for two days through Thursday,\nwith about 40 people joining the visual count. The breakdown was 411 males, 990\nfemales and 286 fawns. In the year through late June, 198 deer died, including\n72 fawns, mainly in traffic accidents. Nobuyuki Yamazaki, the foundation's\nsecretary general, called for people to drive slower in the park area, saying,\n\"Fawns often dash out as they follow their mothers.\" submitted by /u/SkyInJapan\n[link] [comments]",
-      "content": "The deer population in Nara Park, a tourist spot in western Japan, hit a fresh\nrecord high of 1,687, a preservation group said Thursday, with the birth rate\nincreasing on the back of the animals being fed food other than sugar-free deer\ncrackers.\n\nAccording to the Nara Deer Preservation Foundation, more people are giving\nvegetables and leftovers to the deer, which have also been spotted in private\nvegetable gardens outside the park, damaging the harvest.\n\nThe figure increased by 222 from a year before when the previous record-high was\nlogged, according to the group that has surveyed the deer population every year\nsince 1953.\n\nAt the vast park, visitors are allowed to feed the roaming animals, designated\nas a national treasure, with digestive and sugar-free crackers sold in nearby\nshops.\n\nThe latest survey was conducted for two days through Thursday, with about 40\npeople joining the visual count.\n\nThe breakdown was 411 males, 990 females and 286 fawns. In the year through late\nJune, 198 deer died, including 72 fawns, mainly in traffic accidents.\n\nNobuyuki Yamazaki, the foundation's secretary general, called for people to\ndrive slower in the park area, saying, \"Fawns often dash out as they follow\ntheir mothers.\"\n\nsubmitted by /u/SkyInJapan [https://old.reddit.com/user/SkyInJapan]\n[link] [https://mainichi.jp/english/articles/20260717/p2g/00m/0na/002000c]\n[comments]\n[https://old.reddit.com/r/japan/comments/1uyirbu/deer_population_in_japans_nara_park_hits_record/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uyirbu/deer_population_in_japans_nara_park_hits_record",
-      "publishedAt": "2026-07-16T23:19:20.000Z",
-      "author": "/u/SkyInJapan",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1uy3jhe/takaichi_cabinets_approval_rating_slips_below_50/",
-      "title": "Takaichi Cabinet’s approval rating slips below 50% for first time, poll finds",
-      "description": "submitted by /u/Beginning-Passion676 [link] [comments]",
-      "content": "submitted by /u/Beginning-Passion676\n[https://old.reddit.com/user/Beginning-Passion676]\n[link]\n[https://www.japantimes.co.jp/news/2026/07/16/japan/politics/japan-pm-approval-rating-below-50/]\n[comments]\n[https://old.reddit.com/r/japan/comments/1uy3jhe/takaichi_cabinets_approval_rating_slips_below_50/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uy3jhe/takaichi_cabinets_approval_rating_slips_below_50",
-      "publishedAt": "2026-07-16T13:53:36.000Z",
-      "author": "/u/Beginning-Passion676",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1uy0kdb/saudi_arabia_to_launch_tokyo_flights_in_november/",
-      "title": "Saudi Arabia to launch Tokyo flights in November",
-      "description": "submitted by /u/ProofDistinct2554 [link] [comments]",
-      "content": "submitted by /u/ProofDistinct2554\n[https://old.reddit.com/user/ProofDistinct2554]\n[link] [https://www.arabnews.com/node/2651124/saudi-arabia] [comments]\n[https://old.reddit.com/r/japan/comments/1uy0kdb/saudi_arabia_to_launch_tokyo_flights_in_november/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uy0kdb/saudi_arabia_to_launch_tokyo_flights_in_november",
-      "publishedAt": "2026-07-16T11:48:50.000Z",
-      "author": "/u/ProofDistinct2554",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
       "id": "http://www.asahi.com/articles/ASV7J02XCV7JUTFL00DM.html?ref=rss",
       "title": "利根川進さん死去　医学の大きな謎を解いた「どう攻めるかの大局観」",
       "description": "",
@@ -2368,161 +2172,12 @@
         "name": "asahi.com",
         "url": "http://www.asahi.com/"
       }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1uxkn4b/police_tossed_cigarette_caused_osaka_inferno_that/",
-      "title": "Police: Tossed cigarette caused Osaka inferno that killed 2",
-      "description": "submitted by /u/Turbulent-Tea-2172 [link] [comments]",
-      "content": "submitted by /u/Turbulent-Tea-2172\n[https://old.reddit.com/user/Turbulent-Tea-2172]\n[link] [https://www.asahi.com/ajw/articles/16728843] [comments]\n[https://old.reddit.com/r/japan/comments/1uxkn4b/police_tossed_cigarette_caused_osaka_inferno_that/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uxkn4b/police_tossed_cigarette_caused_osaka_inferno_that",
-      "publishedAt": "2026-07-15T22:31:09.000Z",
-      "author": "/u/Turbulent-Tea-2172",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1uxkmsu/nyu_tokyo_governor_ink_pact_for_potential_japan/",
-      "title": "NYU, Tokyo governor ink pact for potential Japan campus",
-      "description": "submitted by /u/Turbulent-Tea-2172 [link] [comments]",
-      "content": "submitted by /u/Turbulent-Tea-2172\n[https://old.reddit.com/user/Turbulent-Tea-2172]\n[link] [https://www.asahi.com/ajw/articles/16729149] [comments]\n[https://old.reddit.com/r/japan/comments/1uxkmsu/nyu_tokyo_governor_ink_pact_for_potential_japan/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uxkmsu/nyu_tokyo_governor_ink_pact_for_potential_japan",
-      "publishedAt": "2026-07-15T22:30:47.000Z",
-      "author": "/u/Turbulent-Tea-2172",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1uxkm58/ldp_and_jip_decide_on_kyoto_route_for_hokuriku/",
-      "title": "LDP and JIP decide on Kyoto route for Hokuriku Shinkansen line extension",
-      "description": "submitted by /u/Turbulent-Tea-2172 [link] [comments]",
-      "content": "submitted by /u/Turbulent-Tea-2172\n[https://old.reddit.com/user/Turbulent-Tea-2172]\n[link]\n[https://www.japantimes.co.jp/news/2026/07/15/japan/society/hokuriku-shinkansen-katsuragawa/]\n[comments]\n[https://old.reddit.com/r/japan/comments/1uxkm58/ldp_and_jip_decide_on_kyoto_route_for_hokuriku/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uxkm58/ldp_and_jip_decide_on_kyoto_route_for_hokuriku",
-      "publishedAt": "2026-07-15T22:30:05.000Z",
-      "author": "/u/Turbulent-Tea-2172",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1uxklen/organizers_reschedule_summer_events_to_dodge/",
-      "title": "Organizers reschedule summer events to dodge extreme heat and heavy rain",
-      "description": "submitted by /u/Turbulent-Tea-2172 [link] [comments]",
-      "content": "submitted by /u/Turbulent-Tea-2172\n[https://old.reddit.com/user/Turbulent-Tea-2172]\n[link]\n[https://www.japantimes.co.jp/news/2026/07/15/japan/society/summer-festivals-fireworks-dates-change/]\n[comments]\n[https://old.reddit.com/r/japan/comments/1uxklen/organizers_reschedule_summer_events_to_dodge/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uxklen/organizers_reschedule_summer_events_to_dodge",
-      "publishedAt": "2026-07-15T22:29:18.000Z",
-      "author": "/u/Turbulent-Tea-2172",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1uxbkvj/hokuriku_shinkansen_extension_route_to_pass/",
-      "title": "Hokuriku Shinkansen extension route to pass through new station in Kyoto",
-      "description": "A panel of the ruling parties that has been reviewing an extension plan for the\nHokuriku Shinkansen Line beyond Tsuruga in central Japan to Osaka decided\nWednesday on a route that passes through Kyoto, with a new station to be built\nnear JR Katsuragawa Station in Kyoto, about 5 kilometers west of JR Kyoto\nStation. submitted by /u/SkyInJapan [link] [comments]",
-      "content": "A panel of the ruling parties that has been reviewing an extension plan for the\nHokuriku Shinkansen Line beyond Tsuruga in central Japan to Osaka decided\nWednesday on a route that passes through Kyoto, with a new station to be built\nnear JR Katsuragawa Station in Kyoto, about 5 kilometers west of JR Kyoto\nStation.\n\nsubmitted by /u/SkyInJapan [https://old.reddit.com/user/SkyInJapan]\n[link] [https://mainichi.jp/english/articles/20260715/p2g/00m/0bu/050000c]\n[comments]\n[https://old.reddit.com/r/japan/comments/1uxbkvj/hokuriku_shinkansen_extension_route_to_pass/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uxbkvj/hokuriku_shinkansen_extension_route_to_pass",
-      "publishedAt": "2026-07-15T16:53:01.000Z",
-      "author": "/u/SkyInJapan",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1uxbert/foreign_visitors_to_japan_dip_2_in_1sthalf_2026/",
-      "title": "Foreign visitors to Japan dip 2% in 1st-half 2026 as Chinese travelers drop",
-      "description": "Please be respectful in your comments… The number of foreign visitors to Japan\nfell 2.0 percent from a year earlier to 21.1 million in the first six months of\n2026, government data showed Wednesday, with travelers from China more than\nhalving amid soured bilateral ties between the Asian neighbors. The number of\ntravelers from China plunged 56.4 percent from a year earlier to 2.06 million,\nwhile visitors from South Korea, Taiwan, and the United States all rose in the\nfirst half, data released by the Japan National Tourism Organization showed.\nFollowing remarks last November by Japanese Prime Minister Sanae Takaichi on\nJapan's potential involvement in a Taiwan contingency, China urged its citizens\nto refrain from traveling to Japan. Beijing claims the self-ruled island as part\nof its territory and aims to bring it under its control, by force if necessary.\nThe total number of foreign visitors in June alone stood at 3.15 million, down\n6.8 percent from a year earlier, according to the organization. submitted by\n/u/SkyInJapan [link] [comments]",
-      "content": "Please be respectful in your comments…\n\nThe number of foreign visitors to Japan fell 2.0 percent from a year earlier to\n21.1 million in the first six months of 2026, government data showed Wednesday,\nwith travelers from China more than halving amid soured bilateral ties between\nthe Asian neighbors.\n\nThe number of travelers from China plunged 56.4 percent from a year earlier to\n2.06 million, while visitors from South Korea, Taiwan, and the United States all\nrose in the first half, data released by the Japan National Tourism Organization\nshowed.\n\nFollowing remarks last November by Japanese Prime Minister Sanae Takaichi on\nJapan's potential involvement in a Taiwan contingency, China urged its citizens\nto refrain from traveling to Japan. Beijing claims the self-ruled island as part\nof its territory and aims to bring it under its control, by force if necessary.\n\nThe total number of foreign visitors in June alone stood at 3.15 million, down\n6.8 percent from a year earlier, according to the organization.\n\nsubmitted by /u/SkyInJapan [https://old.reddit.com/user/SkyInJapan]\n[link] [https://mainichi.jp/english/articles/20260715/p2g/00m/0li/056000c]\n[comments]\n[https://old.reddit.com/r/japan/comments/1uxbert/foreign_visitors_to_japan_dip_2_in_1sthalf_2026/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uxbert/foreign_visitors_to_japan_dip_2_in_1sthalf_2026",
-      "publishedAt": "2026-07-15T16:46:59.000Z",
-      "author": "/u/SkyInJapan",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1ux636e/man_held_for_allegedly_planning_indiscriminate/",
-      "title": "Man held for allegedly planning indiscriminate killing in Tokyo",
-      "description": "submitted by /u/Beginning-Passion676 [link] [comments]",
-      "content": "submitted by /u/Beginning-Passion676\n[https://old.reddit.com/user/Beginning-Passion676]\n[link]\n[https://www.japantimes.co.jp/news/2026/07/15/japan/crime-legal/toyama-indiscriminate-killing-plan-arrest/]\n[comments]\n[https://old.reddit.com/r/japan/comments/1ux636e/man_held_for_allegedly_planning_indiscriminate/]",
-      "url": "https://old.reddit.com/r/japan/comments/1ux636e/man_held_for_allegedly_planning_indiscriminate",
-      "publishedAt": "2026-07-15T13:36:35.000Z",
-      "author": "/u/Beginning-Passion676",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1ux5kpa/japan_logs_record_compensation_payouts_for/",
-      "title": "Japan logs record compensation payouts for work-related death and illnesses",
-      "description": "submitted by /u/frozenpandaman [link] [comments]",
-      "content": "submitted by /u/frozenpandaman [https://old.reddit.com/user/frozenpandaman]\n[link]\n[https://www.japantimes.co.jp/news/2026/07/15/japan/science-health/japan-karoshi-overwork-record/]\n[comments]\n[https://old.reddit.com/r/japan/comments/1ux5kpa/japan_logs_record_compensation_payouts_for/]",
-      "url": "https://old.reddit.com/r/japan/comments/1ux5kpa/japan_logs_record_compensation_payouts_for",
-      "publishedAt": "2026-07-15T13:16:04.000Z",
-      "author": "/u/frozenpandaman",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1uwzakp/japan_will_now_pay_you_to_catch_beetles_that_are/",
-      "title": "Japan Will Now Pay You To Catch Beetles That Are Destroying Cherry Blossoms",
-      "description": "Municipalities in Japan are offering monetary rewards for help in eradicating\nthe red-necked longhorn beetle (Aromia bungii), an invasive species that\nseriously threatens trees in the rose family, including cherry, peach, and plum.\nAccording to local governments, the key is finding the beetle early before\ninfestations spread. NHK reported that affected areas had been confirmed in a\ntotal of 20 municipalities across Tokyo by the end of March, eight more than in\nthe previous fiscal year. submitted by /u/TokyoWeekender [link] [comments]",
-      "content": "Municipalities in Japan are offering monetary rewards for help in eradicating\nthe red-necked longhorn beetle (Aromia bungii), an invasive species that\nseriously threatens trees in the rose family, including cherry, peach, and plum.\nAccording to local governments, the key is finding the beetle early before\ninfestations spread. NHK reported that affected areas had been confirmed in a\ntotal of 20 municipalities across Tokyo by the end of March, eight more than in\nthe previous fiscal year.\n\nsubmitted by /u/TokyoWeekender [https://old.reddit.com/user/TokyoWeekender]\n[link]\n[https://www.tokyoweekender.com/japan-life/news-and-opinion/japan-pays-you-to-catch-beetles-cherry-blossoms/]\n[comments]\n[https://old.reddit.com/r/japan/comments/1uwzakp/japan_will_now_pay_you_to_catch_beetles_that_are/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uwzakp/japan_will_now_pay_you_to_catch_beetles_that_are",
-      "publishedAt": "2026-07-15T07:56:47.000Z",
-      "author": "/u/TokyoWeekender",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/1uwvha7/pilot_for_japan_airline_ana_jailed_20_months_for/",
-      "title": "Pilot for Japan airline ANA jailed 20 months for groping flight attendant",
-      "description": "submitted by /u/Jonnyboo234 [link] [comments]",
-      "content": "submitted by /u/Jonnyboo234 [https://old.reddit.com/user/Jonnyboo234]\n[link]\n[https://www.straitstimes.com/asia/east-asia/pilot-for-japan-airline-ana-jailed-20-months-for-groping-flight-attendant]\n[comments]\n[https://old.reddit.com/r/japan/comments/1uwvha7/pilot_for_japan_airline_ana_jailed_20_months_for/]",
-      "url": "https://old.reddit.com/r/japan/comments/1uwvha7/pilot_for_japan_airline_ana_jailed_20_months_for",
-      "publishedAt": "2026-07-15T04:29:04.000Z",
-      "author": "/u/Jonnyboo234",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
-    },
-    {
-      "id": "https://old.reddit.com/r/japan/comments/199s3o2/the_japan_subreddit_directory_basic_questions/",
-      "title": "THE JAPAN SUBREDDIT DIRECTORY / BASIC QUESTIONS THREAD (Winter/Spring 2024)",
-      "description": "Welcome to /r/japan, a subreddit for articles, interesting links and general\ndiscussion related to Japan. In order to cut down on repeat/low-quality\nsubmissions and ensure that users can get relevant advice for their inquiries,\nwe strongly recommend (and in some cases require) posting to the following subs\nin the j-reddit ecosystem: ALL TOURISM QUESTIONS GO HERE: /r/japantraveltips\n(all questions) or /r/japantravel (itinerary reviews) LIFE IN JAPAN FOR\nRESIDENTS: r/japanlife ALL MOVING TO JAPAN/STUDY ABROAD/WORKING HOLIDAY\nINQUIRIES GO HERE: r/movingtojapan (submissions here will be removed/redirected)\nPHOTOS OF JAPAN: /r/japanpics VIDEOS OF/ABOUT JAPAN: /r/japanvids\nFINANCE/INVESTING FOR RESIDENTS: /r/japanfinance TRANSLATION INQUIRIES:\nr/translator QUESTIONS ABOUT JAPANESE/LEARNING JAPANESE: r/LearnJapanese ENGLISH\nTEACHING: r/teachinginjapan / /r/jetprogramme CITY/REGION-SPECIFIC SUBREDDITS:\n/r/sapporo, /r/tohokujapan, /r/saitama, /r/chiba, r/tokyo, /r/yokohama,\n/r/nagoya, /r/kyoto, r/osaka, /r/hiroshima, /r/fukuoka, /r/okinawa NEWS\nDISCUSSION: /r/japannews SPORTS-RELATED: /r/sumo, /r/npb, /r/jleague,\n/r/bleague, /r/judo, /r/kendo (wrestling: /r/njpw, /r/ajpw,\n/r/puroresurevolution, /r/noahghc, /r/stardomjoshi) CULTURE: /r/japanesemusic,\n/r/japanart, /r/japanesestreetwear, /r/anime, /r/manga, /r/ukiyoe,\nr/japaneseunderground, /r/japanesearchitecture If you want to post things like:\nA basic identification question (who/what/where is this\nthing/person/place/food/etc?) A question that could be asked in its entirety in\na post title (where can I buy X?) A question you probably could have just\nGoogled but want a minor amount of karma for Any question where the first thing\nyou'd write is \"this is probably dumb but\" Then you are welcome to post your\ninquiries in this thread. Questions we don't allow, here or elsewhere: Anything\nrelated to using proxy shippers/personal shoppers (we are not technical support,\nwe are not going to stand in line for your only-in-Tokyo sneakers) How to pirate\nJapanese content \"What does Japan think about X?\" (Answer: Japan is not a\nmonolith and very few of the users in this sub are Japanese, try\n/r/askajapanese) \"Is X like it is in anime?\" (Answer: Anime is not real life)\nThank you and happy questioning! submitted by /u/AutoModerator [link] [comments]",
-      "content": "Welcome to /r/japan [https://www.reddit.com/r/japan], a subreddit for articles,\ninteresting links and general discussion related to Japan.\n\nIn order to cut down on repeat/low-quality submissions and ensure that users can\nget relevant advice for their inquiries, we strongly recommend (and in some\ncases require) posting to the following subs in the j-reddit ecosystem:\n\nALL TOURISM QUESTIONS GO HERE: /r/japantraveltips\n[https://www.reddit.com/r/japantraveltips] (all questions) or /r/japantravel\n[/r/japantravel] (itinerary reviews)\n\nLIFE IN JAPAN FOR RESIDENTS: r/japanlife [https://www.reddit.com/r/japanlife]\n\nALL MOVING TO JAPAN/STUDY ABROAD/WORKING HOLIDAY INQUIRIES GO HERE:\nr/movingtojapan [https://www.reddit.com/r/movingtojapan] (submissions here will\nbe removed/redirected)\n\nPHOTOS OF JAPAN: /r/japanpics [https://www.reddit.com/r/japanpics]\n\nVIDEOS OF/ABOUT JAPAN: /r/japanvids [https://www.reddit.com/r/japanvids]\n\nFINANCE/INVESTING FOR RESIDENTS: /r/japanfinance\n[https://www.reddit.com/r/japanfinance]\n\nTRANSLATION INQUIRIES: r/translator [https://www.reddit.com/r/translator]\n\nQUESTIONS ABOUT JAPANESE/LEARNING JAPANESE: r/LearnJapanese\n[https://www.reddit.com/r/LearnJapanese]\n\nENGLISH TEACHING: r/teachinginjapan [https://www.reddit.com/r/teachinginjapan] /\n/r/jetprogramme [https://www.reddit.com/r/jetprogramme]\n\nCITY/REGION-SPECIFIC SUBREDDITS: /r/sapporo [https://www.reddit.com/r/sapporo],\n/r/tohokujapan [https://www.reddit.com/r/tohokujapan], /r/saitama\n[https://www.reddit.com/r/saitama], /r/chiba [https://www.reddit.com/r/chiba],\nr/tokyo [https://www.reddit.com/r/tokyo], /r/yokohama\n[https://www.reddit.com/r/yokohama], /r/nagoya\n[https://www.reddit.com/r/nagoya], /r/kyoto [https://www.reddit.com/r/kyoto],\nr/osaka [https://www.reddit.com/r/osaka], /r/hiroshima\n[https://www.reddit.com/r/hiroshima], /r/fukuoka\n[https://www.reddit.com/r/fukuoka], /r/okinawa\n[https://www.reddit.com/r/okinawa]\n\nNEWS DISCUSSION: /r/japannews [https://www.reddit.com/r/japannews]\n\nSPORTS-RELATED: /r/sumo [https://www.reddit.com/r/sumo], /r/npb\n[https://www.reddit.com/r/npb], /r/jleague [https://www.reddit.com/r/jleague],\n/r/bleague [/r/bleague], /r/judo [https://www.reddit.com/r/judo], /r/kendo\n[https://www.reddit.com/r/kendo] (wrestling: /r/njpw\n[https://www.reddit.com/r/njpw], /r/ajpw [https://www.reddit.com/r/ajpw],\n/r/puroresurevolution [https://www.reddit.com/r/puroresurevolution], /r/noahghc\n[https://www.reddit.com/r/noahghc], /r/stardomjoshi\n[https://www.reddit.com/r/stardomjoshi])\n\nCULTURE: /r/japanesemusic [https://www.reddit.com/r/japanesemusic], /r/japanart\n[https://www.reddit.com/r/japanart], /r/japanesestreetwear\n[https://www.reddit.com/r/japanesestreetwear], /r/anime\n[https://www.reddit.com/r/anime], /r/manga [https://www.reddit.com/r/manga],\n/r/ukiyoe [https://www.reddit.com/u/ukiyoe], r/japaneseunderground\n[https://www.reddit.com/r/japaneseunderground], /r/japanesearchitecture\n[/r/japanesearchitecture]\n\nIf you want to post things like:\n\n * A basic identification question (who/what/where is this\n   thing/person/place/food/etc?)\n * A question that could be asked in its entirety in a post title (where can I\n   buy X?)\n * A question you probably could have just Googled but want a minor amount of\n   karma for\n * Any question where the first thing you'd write is \"this is probably dumb but\"\n\nThen you are welcome to post your inquiries in this thread.\n\nQuestions we don't allow, here or elsewhere:\n\n * Anything related to using proxy shippers/personal shoppers (we are not\n   technical support, we are not going to stand in line for your only-in-Tokyo\n   sneakers)\n * How to pirate Japanese content\n * \"What does Japan think about X?\" (Answer: Japan is not a monolith and very\n   few of the users in this sub are Japanese, try /r/askajapanese\n   [/r/askajapanese])\n * \"Is X like it is in anime?\" (Answer: Anime is not real life)\n\nThank you and happy questioning!\n\nsubmitted by /u/AutoModerator [https://old.reddit.com/user/AutoModerator]\n[link]\n[https://old.reddit.com/r/japan/comments/199s3o2/the_japan_subreddit_directory_basic_questions/]\n[comments]\n[https://old.reddit.com/r/japan/comments/199s3o2/the_japan_subreddit_directory_basic_questions/]",
-      "url": "https://old.reddit.com/r/japan/comments/199s3o2/the_japan_subreddit_directory_basic_questions",
-      "publishedAt": "2024-01-18T15:02:12.000Z",
-      "author": "/u/AutoModerator",
-      "categories": [],
-      "source": {
-        "name": "/r/japan",
-        "url": "https://old.reddit.com/r/japan/"
-      }
     }
   ],
-  "errors": []
+  "errors": [
+    {
+      "url": "https://old.reddit.com/r/japan/.rss",
+      "error": "Status code 404"
+    }
+  ]
 }

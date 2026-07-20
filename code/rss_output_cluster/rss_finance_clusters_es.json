@@ -1,80 +1,65 @@
 [
   {
-    "title": "El petróleo supera los 90 dólares por la escalada de tensión en Oriente Medio",
-    "summary": "Los ataques iraníes a petroleros y la amenaza hutí de bloquear el Mar Rojo disparan el crudo y avivan la incertidumbre en los mercados.",
+    "title": "Wall Street cierra mixto con el Nasdaq al alza impulsado por semiconductores y el Dow Jones a la baja",
+    "summary": "Los índices estadounidenses mostraron resultados dispares en una jornada marcada por la temporada de resultados corporativos y las tensiones geopolíticas en Oriente Medio, con el sector tecnológico liderando las ganancias.",
     "source": [
-      "ft.com",
+      "investing.com",
       "handelsblatt.com",
-      "finance.yahoo.com",
       "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Wall Street abre al alza apoyado en la recuperación de los semiconductores y la temporada de resultados",
-    "summary": "Los principales índices estadounidenses suben en una jornada con optimismo por las tecnológicas y las esperanzas de paz en Oriente Medio.",
-    "source": [
-      "bolsamania.com",
-      "investing.com",
-      "nasdaq.com",
-      "finance.yahoo.com",
-      "/r/stocks"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Las acciones de semiconductores repuntan lideradas por AMD, Micron y Nvidia gracias a la demanda de IA",
-    "summary": "El sector de chips se recupera en bolsa tras las recientes caídas impulsado por las perspectivas de la inteligencia artificial y la fabricación de memorias.",
-    "source": [
-      "finance.yahoo.com",
-      "investing.com",
-      "nasdaq.com",
-      "/r/stocks"
+      "nikkei.com"
     ],
     "count": 4
   },
   {
-    "title": "Andy Burnham se convierte en primer ministro británico con un programa de grandes reformas",
-    "summary": "El líder laborista promete el mayor cambio en cuatro décadas, incluida la prohibición permanente de nuevas licencias de petróleo en el Mar del Norte.",
+    "title": "Un juez estadounidense suspende temporalmente la fusión de Warner Bros y Paramount",
+    "summary": "Un tribunal de EE.UU. ha ordenado la paralización provisional de la adquisición de Warner Bros por parte de Paramount-Skydance hasta el 3 de agosto.",
+    "source": [
+      "investing.com",
+      "bolsamania.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Los hutíes anuncian un bloqueo naval contra Arabia Saudí en el mar Rojo",
+    "summary": "La milicia respaldada por Irán declaró una prohibición marítima contra el reino saudí, elevando la tensión regional y generando temores sobre el suministro energético.",
     "source": [
       "bolsamania.com",
       "nikkei.com",
-      "ft.com"
+      "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "El bitcoin se recupera hasta los 63.800 dólares en medio de señales mixtas en el mercado cripto",
-    "summary": "Los ETF de bitcoin vuelven a flujo positivo mientras las criptomonedas digieren el foco geopolítico en Irán y la evolución de la inteligencia artificial.",
+    "title": "El Ibex 35 cierra prácticamente plano ante la incertidumbre por Oriente Medio",
+    "summary": "El selectivo español se mantuvo sin apenas cambios, afectado por la escalada de tensiones en Oriente Medio y a la espera de resultados empresariales.",
     "source": [
-      "finance.yahoo.com",
       "bolsamania.com",
       "expansion.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Alibaba lanza un nuevo modelo de inteligencia artificial que solo es superado por Anthropic",
-    "summary": "El gigante chino presenta su sistema de IA más avanzado y afirma que sus capacidades solo están por detrás del líder estadounidense.",
+    "title": "El petróleo supera los 90 dólares y la gasolina en EE.UU. vuelve a los 4 dólares por galón por el conflicto iraní",
+    "summary": "Los precios del crudo y los combustibles se dispararon en respuesta a los ataques iraníes contra petroleros y la intensificación de la guerra en Oriente Medio.",
+    "source": [
+      "ft.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El bitcoin sube hasta cerca de los 64.000 dólares en medio de perspectivas mixtas",
+    "summary": "La criptomoneda líder se situó en 63.859 dólares, en un contexto de opiniones divididas sobre su evolución para el resto de 2026.",
     "source": [
       "finance.yahoo.com",
-      "nikkei.com"
+      "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "La Unión Europea impone una multa de 550 millones de euros a Alibaba por productos falsificados",
-    "summary": "La sanción de Bruselas a AliExpress asciende a 100.000 millones de yenes y busca frenar la venta de mercancía ilegal en la plataforma.",
-    "source": [
-      "bolsamania.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Morgan Stanley capitaliza el auge de la inteligencia artificial con acuerdos de deuda millonarios",
-    "summary": "El banco de inversión se beneficia de la fiebre de la IA estructurando financiación para empresas tecnológicas de rápido crecimiento.",
+    "title": "Morgan Stanley aprovecha el auge de la inteligencia artificial para cerrar acuerdos de deuda millonarios",
+    "summary": "El banco de inversión está capitalizando la demanda de infraestructura de IA mediante la estructuración de financiamiento de deuda para empresas tecnológicas.",
     "source": [
       "expansion.com",
       "ft.com"
@@ -82,11 +67,11 @@
     "count": 2
   },
   {
-    "title": "El euríbor sube y la firma de hipotecas en España rompe su racha alcista de dos años",
-    "summary": "El indicador hipotecario arranca la semana al alza mientras se modera el mercado de la vivienda tras casi dos años de incrementos.",
+    "title": "Los rendimientos de los bonos europeos suben por el alza del petróleo y las expectativas de mayor gasto público",
+    "summary": "El rendimiento del bono alemán a 10 años y los gilts británicos se incrementaron ante la presión del encarecimiento del crudo y la previsión de un aumento del gasto fiscal en el Reino Unido.",
     "source": [
-      "expansion.com",
-      "bolsamania.com"
+      "ft.com",
+      "nikkei.com"
     ],
     "count": 2
   }
