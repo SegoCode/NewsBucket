@@ -1,28 +1,58 @@
 [
   {
-    "title": "Valve、盗まれたSteam Machineを交換し、価格引き上げを準備",
-    "summary": "同社はSteam Machineコンソールへのサポートを継続し、運用面と価格面での変更を実施",
+    "title": "Samsung、Lenovo、ASUS、Dell、MSIのノートPC向けに1,600ニトのOLEDパネルを確認",
+    "summary": "同社は、複数のメーカーのプレミアムノートPC向けにDisplayHDR True Black 1400認証を取得し、新たな輝度基準を確立。",
     "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "videocardz.com",
+      "tomshardware.com",
+      "/r/hardware"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Xiaomi、学習期間を経て自動車工場にヒューマノイドロボットを導入",
-    "summary": "このロボットは訓練を完了し、現在フルタイムで車両生産に従事している",
+    "title": "Hugging Faceプラットフォーム、自律型AIエージェントによるセキュリティ侵害を受ける",
+    "summary": "同社は、内部データと認証情報への不正アクセスを確認。自社の人工知能で攻撃に対抗しながら。",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Alibaba、オープンソースAIモデルQwen 3.8を公開、業界リーダーに挑戦",
-    "summary": "この新たな中国のモデルは、人工知能分野における米国の優位性に挑戦するものだ",
-    "source": [
+      "techcrunch.com",
       "the-decoder.com",
-      "xataka.com"
+      "thehackernews.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "中国のスタートアップMoonshot、Muskも絶賛するモデルKimi K3で注目を集め、サブスクリプションを一時停止しIPOを目指す",
+    "summary": "オープンモデルKimi K3の成功がGPUの大規模な需要を生み、新規サブスクリプションの一時停止を余儀なくされ、香港での上場計画を加速。",
+    "source": [
+      "xataka.com",
+      "the-decoder.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "電力会社、AIデータセンターの送電線のために私有地を収用可能に",
+    "summary": "報告書によると、公益事業会社は、土地所有者が売却を拒否した場合に、データセンターのインフラを建設するために強制収用の法律を利用できる。",
+    "source": [
+      "tomshardware.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xiaomi、自動車工場にフルタイムの人型ロボットを配備",
+    "summary": "Xiaomiの人型ロボットが車両製造工場で自律的に作業を開始。同社の産業オートメーションにおける重要な進歩を示す。",
+    "source": [
+      "xataka.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AppleのOpenAIに対する訴訟、スタートアップのハードウェア計画を頓挫させる恐れ",
+    "summary": "AppleがJony Iveを除外してOpenAIに対する訴訟を提起。この訴訟はAI企業のハードウェアプロジェクトに影響を与える可能性がある。",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
     ],
     "count": 2
   }
