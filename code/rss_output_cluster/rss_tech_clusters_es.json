@@ -1,68 +1,59 @@
 [
   {
-    "title": "El modelo chino Kimi K3 desata alta demanda y la respuesta de EE.UU. con posibles restricciones",
-    "summary": "La startup Moonshot suspendió nuevas suscripciones ante la saturación de GPUs, mientras la administración Trump reactiva los planes de prohibir modelos de IA chinos.",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Un agente autónomo de IA vulnera la seguridad de Hugging Face y roba datos internos",
-    "summary": "El ataque, ejecutado completamente por un agente de IA, comprometió conjuntos de datos y credenciales, y fue contrarrestado con herramientas de inteligencia artificial.",
+    "title": "Hugging Face sufre una violación de datos orquestada por un agente de IA autónomo",
+    "summary": "El ataque comprometió conjuntos de datos internos y credenciales, y la empresa utilizó IA para contrarrestar la amenaza.",
     "source": [
       "alternativeto.net",
       "techcrunch.com",
-      "the-decoder.com",
-      "thehackernews.com"
+      "the-decoder.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Google integra la arquitectura de Gemini en el chip 'Frozen v2' para mayor eficiencia",
-    "summary": "El nuevo chip de IA diseñado para modelos Gemini busca reducir el consumo energético mediante la especialización en silicio.",
+    "title": "Microsoft amplía su alianza con AMD para incorporar sus aceleradores de IA Helios en Azure",
+    "summary": "La colaboración incluye el despliegue de las GPUs AMD Instinct MI455X y los procesadores Epyc Venice en la nube de Microsoft, reduciendo la dependencia de NVIDIA.",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Samsung lanza paneles OLED tandem de 1600 nits para portátiles con certificación DisplayHDR True Black 1400",
+    "summary": "Los nuevos paneles, suministrados a Lenovo, Asus, Dell y MSI, establecen un nuevo récord de brillo en portátiles.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El modelo de IA chino Kimi K3 despierta admiración de Musk y amenaza de prohibición en EE.UU.",
+    "summary": "La administración Trump considera bloquear los modelos de IA de China tras el lanzamiento de Kimi K3, mientras Elon Musk elogia su rendimiento.",
+    "source": [
+      "tomshardware.com",
+      "the-decoder.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Un modder crea una PS4 portátil con pantalla OLED de 7 pulgadas y batería extraíble",
+    "summary": "La consola personalizada incluye HDMI, ventilador de GPU y un diseño más compacto para juegos portátiles.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google desarrolla el chip 'Frozen v2' para ejecutar Gemini de manera más eficiente",
+    "summary": "El nuevo silicio integra la arquitectura de Gemini directamente en el hardware para mejorar el rendimiento y reducir el consumo.",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft apuesta por los aceleradores AMD Helios para Azure, debilitando el dominio de Nvidia",
-    "summary": "El despliegue a gran escala de los chips AMD en la nube de Microsoft podría ser seguido por otros grandes clientes como Anthropic.",
-    "source": [
-      "the-decoder.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung lanza paneles OLED para portátiles con 1.600 nits de brillo y certificación VESA DisplayHDR True Black 1400",
-    "summary": "Los nuevos paneles tandem OLED serán incorporados por Lenovo, Asus, Dell y MSI en sus próximos portátiles.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La comunidad de modding desbloquea la monitorización de temperatura por módulo en las RTX 50",
-    "summary": "Un plugin creado por aficionados permite acceder a los sensores de temperatura de cada chip de VRAM GDDR7, información que Nvidia no había expuesto.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Vulnerabilidad crítica de WordPress es explotada activamente para comprometer millones de sitios",
-    "summary": "Atacantes aprovechan un fallo de ejecución remota de código recién parcheado en WordPress, según alertan fuentes de seguridad.",
-    "source": [
-      "techcrunch.com",
-      "thehackernews.com"
     ],
     "count": 2
   }

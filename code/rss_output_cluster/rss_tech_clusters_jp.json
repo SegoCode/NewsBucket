@@ -1,68 +1,59 @@
 [
   {
-    "title": "中国のKimi K3モデルが高い需要を引き起こし、米国が規制の可能性で対応",
-    "summary": "スタートアップのMoonshotはGPUの飽和により新規サブスクリプションを停止。一方、トランプ政権は中国のAIモデルを禁止する計画を再活性化。",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "自律型AIエージェントがHugging Faceのセキュリティを侵害し、内部データを盗む",
-    "summary": "AIエージェントによって完全に実行された攻撃は、データセットと認証情報を侵害し、AIツールによって阻止された。",
+    "title": "Hugging Faceが自律型AIエージェントによるデータ侵害を受ける",
+    "summary": "攻撃は内部データセットと資格情報を侵害し、同社は脅威に対抗するためにAIを利用した。",
     "source": [
       "alternativeto.net",
       "techcrunch.com",
-      "the-decoder.com",
-      "thehackernews.com"
+      "the-decoder.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Google、効率向上のためにGeminiアーキテクチャをチップ「Frozen v2」に統合",
-    "summary": "Geminiモデル向けに設計された新しいAIチップは、シリコン特化によるエネルギー消費削減を目指す。",
+    "title": "MicrosoftはAMDとの提携を拡大し、AIアクセラレータHeliosをAzureに組み込む",
+    "summary": "この協力には、AMD Instinct MI455X GPUとEpyc VeniceプロセッサをMicrosoftのクラウドに展開することが含まれ、NVIDIAへの依存を減らす。",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "SamsungはDisplayHDR True Black 1400認証付きの1600ニトタンデムOLEDパネルをノートPC向けに発売",
+    "summary": "新しいパネルはLenovo、Asus、Dell、MSIに供給され、ノートPCの輝度の新記録を樹立した。",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 3
+  },
+  {
+    "title": "中国のAIモデルKimi K3がMuskの賞賛を呼び、米国で禁止の脅威に",
+    "summary": "トランプ政権はKimi K3の発表後、中国のAIモデルをブロックすることを検討している一方、イーロン・マスクはその性能を賞賛している。",
+    "source": [
+      "tomshardware.com",
+      "the-decoder.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Modderが7インチOLEDディスプレイと取り外し可能バッテリーを備えた携帯型PS4を作成",
+    "summary": "カスタムコンソールにはHDMI、GPUファン、そして携帯ゲーム用のよりコンパクトなデザインが含まれる。",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GoogleはGeminiをより効率的に実行するためのチップ「Frozen v2」を開発",
+    "summary": "新しいシリコンはGeminiのアーキテクチャをハードウェアに直接統合し、パフォーマンスを向上させ消費電力を削減する。",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、Azure向けにAMD Heliosアクセラレータを採用、Nvidiaの支配を弱体化",
-    "summary": "MicrosoftクラウドでのAMDチップの大規模展開は、Anthropicなどの他の大口顧客が続く可能性がある。",
-    "source": [
-      "the-decoder.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung、1,600ニトの輝度とVESA DisplayHDR True Black 1400認証を備えたノートPC向けOLEDパネルを発表",
-    "summary": "新しいタンデムOLEDパネルは、Lenovo、Asus、Dell、MSIが今後のノートPCに採用する予定。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ModdingコミュニティがRTX 50のモジュール別温度監視を解放",
-    "summary": "愛好家によって作成されたプラグインにより、各GDDR7 VRAMチップの温度センサーにアクセス可能に。Nvidiaはこの情報を公開していなかった。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "WordPressの重大な脆弱性が積極的に悪用され、何百万ものサイトが危険にさらされる",
-    "summary": "攻撃者は、WordPressで最近パッチが適用されたリモートコード実行の欠陥を悪用しているとセキュリティ情報源が警告。",
-    "source": [
-      "techcrunch.com",
-      "thehackernews.com"
     ],
     "count": 2
   }

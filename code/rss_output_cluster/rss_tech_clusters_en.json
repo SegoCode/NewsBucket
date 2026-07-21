@@ -1,68 +1,59 @@
 [
   {
-    "title": "Chinese model Kimi K3 sparks high demand and US response with possible restrictions",
-    "summary": "The startup Moonshot suspended new subscriptions due to GPU saturation, while the Trump administration revives plans to ban Chinese AI models.",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Autonomous AI agent breaches Hugging Face security and steals internal data",
-    "summary": "The attack, executed entirely by an AI agent, compromised datasets and credentials, and was countered with artificial intelligence tools.",
+    "title": "Hugging Face suffers a data breach orchestrated by an autonomous AI agent",
+    "summary": "The attack compromised internal datasets and credentials, and the company used AI to counter the threat.",
     "source": [
       "alternativeto.net",
       "techcrunch.com",
-      "the-decoder.com",
-      "thehackernews.com"
+      "the-decoder.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Google integrates Gemini architecture into 'Frozen v2' chip for greater efficiency",
-    "summary": "The new AI chip designed for Gemini models aims to reduce energy consumption through silicon specialization.",
+    "title": "Microsoft expands its alliance with AMD to incorporate its Helios AI accelerators into Azure",
+    "summary": "The collaboration includes the deployment of AMD Instinct MI455X GPUs and Epyc Venice processors in Microsoft's cloud, reducing dependence on NVIDIA.",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Samsung launches 1600-nit tandem OLED panels for laptops with DisplayHDR True Black 1400 certification",
+    "summary": "The new panels, supplied to Lenovo, Asus, Dell, and MSI, set a new brightness record for laptops.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Chinese AI model Kimi K3 arouses admiration from Musk and threat of ban in US",
+    "summary": "The Trump administration is considering blocking Chinese AI models after the launch of Kimi K3, while Elon Musk praises its performance.",
+    "source": [
+      "tomshardware.com",
+      "the-decoder.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "A modder creates a portable PS4 with a 7-inch OLED screen and removable battery",
+    "summary": "The customized console includes HDMI, GPU fan, and a more compact design for portable gaming.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google develops the 'Frozen v2' chip to run Gemini more efficiently",
+    "summary": "The new silicon integrates Gemini's architecture directly into hardware to improve performance and reduce consumption.",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft bets on AMD Helios accelerators for Azure, weakening Nvidia's dominance",
-    "summary": "The large-scale deployment of AMD chips in Microsoft's cloud could be followed by other big clients like Anthropic.",
-    "source": [
-      "the-decoder.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung launches OLED panels for laptops with 1,600 nits brightness and VESA DisplayHDR True Black 1400 certification",
-    "summary": "The new tandem OLED panels will be incorporated by Lenovo, Asus, Dell and MSI in their upcoming laptops.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Modding community unlocks per-module temperature monitoring on RTX 50 series",
-    "summary": "A plugin created by enthusiasts allows access to temperature sensors of each GDDR7 VRAM chip, information that Nvidia had not exposed.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Critical WordPress vulnerability actively exploited to compromise millions of sites",
-    "summary": "Attackers exploit a recently patched remote code execution flaw in WordPress, according to security sources.",
-    "source": [
-      "techcrunch.com",
-      "thehackernews.com"
     ],
     "count": 2
   }

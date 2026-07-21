@@ -1,75 +1,95 @@
 [
   {
-    "title": "中東情勢の緊迫化で原油が90ドル超、ガソリンは4ドル台に再浮上",
-    "summary": "フーシ派が紅海封鎖を脅かし、イランによる石油タンカー攻撃で原油価格が上昇、燃料費が急騰している。",
+    "title": "ウォール街、地政学的緊張とハイテク株安で下落終了",
+    "summary": "中東での緊張激化と半導体セクターの弱い見通しを受け、主要米株価指数は小幅に反落した。",
     "source": [
-      "ft.com",
-      "handelsblatt.com",
       "bolsamania.com",
-      "nikkei.com"
+      "handelsblatt.com",
+      "nasdaq.com",
+      "/r/stocks"
     ],
     "count": 4
   },
   {
-    "title": "米イラン紛争激化でウォール街下落",
-    "summary": "ニューヨークの主要株価指数は、中東での軍事衝突拡大を懸念して値を下げて終了。",
+    "title": "ロンドン証券取引所、来年24時間連続取引の実施を計画",
+    "summary": "ほぼ連続取引のプロジェクトは、ロンドン市場の競争力を他の世界的な取引所に対して高めることを目指す。",
     "source": [
-      "nikkei.com",
-      "bolsamania.com",
-      "handelsblatt.com"
+      "handelsblatt.com",
+      "expansion.com",
+      "ft.com"
     ],
     "count": 3
   },
   {
-    "title": "中東情勢とFRB見通しで金・銀が上昇",
-    "summary": "金は4000ドルを超え、銀も上昇。リスク回避の動きとFRBの利下げ観測が背景。",
-    "source": [
-      "investing.com",
-      "finance.yahoo.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ロンドン証券取引所、2027年から夜間取引を計画",
-    "summary": "新たな取引プラットフォームは海外投資家を呼び込み、夜間時間帯の他金融市場との競争を目指す。",
-    "source": [
-      "investing.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "米判事、ワーナー・ブラザースとパラマウントの合併を差し止め",
-    "summary": "1100億ドル規模のパラマウント買収は、独占禁止法上の問題を審査する間、保留となる。",
+    "title": "アジア株、中東緊張緩和期待で大幅上昇して終了",
+    "summary": "アジア太平洋市場はハイテクセクター主導で反発し、サムスン電子が6%上昇。",
     "source": [
       "bolsamania.com",
-      "ft.com"
+      "handelsblatt.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "イランによる紅海でのタンカー攻撃で原油が90ドルに急騰",
+    "summary": "軍事的緊張の高まりとフーシ派による封鎖の脅威が、世界的な供給途絶懸念から原油価格を押し上げている。",
+    "source": [
+      "ft.com",
+      "handelsblatt.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "欧州株、中東紛争の不確実性で方向感なく取引",
+    "summary": "ドイツDAXは横ばいで寄り付き、スペインIbex35は慎重な動き。投資家は地政学的影響を見極めている。",
+    "source": [
+      "handelsblatt.com",
+      "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "モルガン・スタンレー、AIブームを債務契約で活用",
-    "summary": "投資銀行は、人工知能関連企業との重要な資金調達取引を成立させた。",
+    "title": "Ibex35は小幅高でスタートし、19,200ポイント近辺で推移",
+    "summary": "スペインの代表的な株価指数は安定して取引され、原油価格と企業業績の動向に注目している。",
     "source": [
-      "expansion.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ビットコインとイーサリアム、見通しの相違でまちまちの値動き",
-    "summary": "仮想通貨は週末の変動の後、2026年後半の見通しをめぐって意見が分かれ、まちまちのシグナルを示している。",
-    "source": [
-      "finance.yahoo.com",
+      "bolsamania.com",
       "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "Ibex 35、中東の不透明感でほぼ横ばいで終了",
-    "summary": "スペインの株価指数は19,200ポイント前後で推移。企業決算と紛争の行方を待つ。",
+    "title": "コンパス・グループ、第3四半期の有機的収入増加を報告、見通し据え置き",
+    "summary": "好調な業績にもかかわらず、同社株は取引時間中に下落した。",
     "source": [
-      "bolsamania.com",
+      "investing.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "スウォッチ・グループ、上半期増益、下半期の好調を見込む",
+    "summary": "良好な業績数字にもかかわらず、スイスの時計メーカーの株価は下落した。",
+    "source": [
+      "investing.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米裁判官、パラマウントとワーナー・ブラザースの1100億ドル合併を差し止め",
+    "summary": "規制当局が合意を審査する中、反トラスト法上の懸念から取引は停止された。",
+    "source": [
+      "nasdaq.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ビットコイン、暗号資産市場のまちまちの流れの中で63,800ドル近辺で取引",
+    "summary": "主要な暗号資産は小幅な値動きを示し、投資家は2026年下半期の見通しを慎重に見極めている。",
+    "source": [
+      "finance.yahoo.com",
       "expansion.com"
     ],
     "count": 2
