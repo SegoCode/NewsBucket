@@ -1,95 +1,77 @@
 [
   {
-    "title": "Google desarrolla chips de IA personalizados para Gemini, incluido el procesador Frozen v2",
-    "summary": "La compañía trabaja en varios chips diseñados específicamente para optimizar el rendimiento de su modelo de lenguaje Gemini, con el objetivo de lograr hasta 10 veces más tokens por vatio.",
+    "title": "Google lanza tres nuevos modelos Gemini: Flash 3.6, Flash-Lite 3.5 y Flash Cyber 3.5",
+    "summary": "Los nuevos modelos de IA se centran en velocidad y ciberseguridad, mientras el modelo 3.5 Pro continúa sin fecha de lanzamiento.",
     "source": [
-      "tomshardware",
       "techcrunch",
       "the-decoder",
-      "kite.kagi"
+      "news.ycombinator",
+      "thehackernews"
     ],
     "count": 4
   },
   {
-    "title": "El lanzamiento del modelo chino Kimi K3 causa alarma en Silicon Valley y reactiva los planes de Trump para prohibir la IA china",
-    "summary": "El modelo de frontera desarrollado por Moonshot desata una oleada de solicitudes que obliga a pausar las inscripciones, mientras la administración estadounidense considera nuevas restricciones.",
+    "title": "Alibaba lanza Qwen-Image-3.0, un generador de imágenes capaz de crear infografías con texto legible",
+    "summary": "El modelo de IA soporta hasta 4.500 tokens de entrada y puede generar imágenes complejas con texto pequeño legible en una sola pasada.",
     "source": [
-      "xataka",
-      "tomshardware",
-      "kite.kagi"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Estados Unidos considera una prohibición progresiva de los modelos de IA chinos de peso abierto ante el avance de China",
-    "summary": "Mientras China gana terreno con su estrategia de pesos abiertos, OpenAI muestra su preocupación y la administración Trump prepara sanciones para frenar la adopción de estos modelos.",
-    "source": [
-      "techcrunch",
-      "news.ycombinator",
-      "the-decoder"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Alibaba lanza Qwen-Image-3.0, su nuevo modelo de generación de imágenes con soporte para 4.500 tokens",
-    "summary": "El modelo de IA de Alibaba permite generar imágenes complejas con un alto nivel de detalle y conocimiento profundo.",
-    "source": [
+      "the-decoder",
       "alternativeto",
       "news.ycombinator"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Juez detiene temporalmente la fusión de Paramount y Warner Bros. por preocupaciones antimonopolio",
-    "summary": "Un tribunal federal suspende durante dos semanas la megafusión de 81.000 millones de dólares, tras las advertencias de varios estados sobre la reducción de la competencia.",
+    "title": "Anthropic alcanza un acuerdo de 1.500 millones de dólares en demanda por derechos de autor",
+    "summary": "La startup pagará esa cantidad para resolver la demanda colectiva por usar libros protegidos en el entrenamiento de sus modelos de IA.",
     "source": [
-      "/r/technology",
+      "xataka",
+      "tomshardware",
       "techcrunch"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Adobe incorpora inteligencia artificial en sus aplicaciones de cámara para analizar y criticar fotos",
-    "summary": "La compañía prueba funciones de IA en Project Indigo y añade una herramienta que evalúa la calidad de las imágenes en tiempo real.",
-    "source": [
-      "kite.kagi",
-      "techcrunch"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hugging Face sufre una brecha de seguridad orquestada por un agente de IA autónomo",
-    "summary": "La plataforma de modelos de IA confirma que un sistema autónomo de inteligencia artificial llevó a cabo el ataque de principio a fin.",
-    "source": [
-      "kite.kagi",
-      "alternativeto"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Un modder crea una consola PlayStation 4 portátil con pantalla OLED y diseño compacto",
-    "summary": "Un entusiasta construye una versión portátil de la PS4 con batería extraíble, pantalla OLED de 7 pulgadas y un ventilador de GTX 750.",
-    "source": [
-      "hardzone",
-      "videocardz"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Aumenta la explotación activa de vulnerabilidades de WordPress que afecta a millones de sitios web",
-    "summary": "Los atacantes aprovechan fallos de seguridad recién parcheados para tomar el control de sitios web, mientras se intensifica el escaneo masivo.",
-    "source": [
-      "thehackernews",
-      "techcrunch"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Entusiasta acopla un enorme disipador de aluminio a una RTX 4060 para refrigeración pasiva",
-    "summary": "Un modder instala un bloque de aluminio de 2,5 kg en la tarjeta gráfica, logrando un funcionamiento sin ventiladores con disipación por convección.",
+    "title": "Nvidia presenta DLSS 5 con tres modos de inteligencia artificial y control por objeto",
+    "summary": "La nueva versión del escalado por IA permite cambiar entre modelos en tiempo real y ofrece soporte para una sola GPU.",
     "source": [
       "tomshardware",
       "videocardz"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia detalla su CPU Vera con 88 núcleos Olympus para centros de datos de IA",
+    "summary": "La CPU muestra 176 hilos, memoria LPDDR5X de 1,2 TB/s y su rendimiento en benchmarks SPEC CPU 2026.",
+    "source": [
+      "videocardz",
+      "tomshardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El modelo chino Kimi K3 de Moonshot AI sacude la industria con precio inferior al de sus competidores estadounidenses",
+    "summary": "El modelo abierto de 2,8 billones de parámetros reaviva el debate sobre el control de la IA china y su impacto en la competitividad de EE.UU.",
+    "source": [
+      "tomshardware",
+      "xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple se asocia con Klarna para ofrecer un programa de arrendamiento con opción a compra de dispositivos",
+    "summary": "El programa estará disponible a partir del 28 de julio e incluye iPhones, iPads y Macs con pagos mensuales.",
+    "source": [
+      "techcrunch",
+      "videocardz"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google desarrolla el chip 'Frozen v2' para Gemini que multiplicaría por hasta diez la eficiencia energética",
+    "summary": "El nuevo procesador estaría diseñado específicamente para la arquitectura Gemini y proyecta entre 6 y 10 veces más tokens por vatio que las TPU actuales.",
+    "source": [
+      "hardzone",
+      "tomshardware"
     ],
     "count": 2
   }

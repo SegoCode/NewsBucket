@@ -1,95 +1,77 @@
 [
   {
-    "title": "Google develops custom AI chips for Gemini, including the Frozen v2 processor",
-    "summary": "The company is working on several chips specifically designed to optimize the performance of its Gemini language model, with the goal of achieving up to 10 times more tokens per watt.",
+    "title": "Google launches three new Gemini models: Flash 3.6, Flash-Lite 3.5 and Flash Cyber 3.5",
+    "summary": "The new AI models focus on speed and cybersecurity, while the 3.5 Pro model continues without a release date.",
     "source": [
-      "tomshardware",
       "techcrunch",
       "the-decoder",
-      "kite.kagi"
+      "news.ycombinator",
+      "thehackernews"
     ],
     "count": 4
   },
   {
-    "title": "The launch of the Chinese Kimi K3 model causes alarm in Silicon Valley and reactivates Trump's plans to ban Chinese AI",
-    "summary": "The frontier model developed by Moonshot unleashes a wave of requests that forces a pause in registrations, while the US administration considers new restrictions.",
+    "title": "Alibaba launches Qwen-Image-3.0, an image generator capable of creating infographics with readable text",
+    "summary": "The AI model supports up to 4,500 input tokens and can generate complex images with small readable text in a single pass.",
     "source": [
-      "xataka",
-      "tomshardware",
-      "kite.kagi"
-    ],
-    "count": 3
-  },
-  {
-    "title": "United States considers a progressive ban on Chinese open-weight AI models amid China's advance",
-    "summary": "While China gains ground with its open-weight strategy, OpenAI expresses its concern and the Trump administration prepares sanctions to curb the adoption of these models.",
-    "source": [
-      "techcrunch",
-      "news.ycombinator",
-      "the-decoder"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Alibaba launches Qwen-Image-3.0, its new image generation model with support for 4,500 tokens",
-    "summary": "Alibaba's AI model allows generating complex images with a high level of detail and deep knowledge.",
-    "source": [
+      "the-decoder",
       "alternativeto",
       "news.ycombinator"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Judge temporarily halts Paramount and Warner Bros. merger over antitrust concerns",
-    "summary": "A federal court suspends the $81 billion megamerger for two weeks, following warnings from several states about reduced competition.",
+    "title": "Anthropic reaches $1.5 billion settlement in copyright lawsuit",
+    "summary": "The startup will pay that amount to resolve the class action lawsuit for using copyrighted books in training its AI models.",
     "source": [
-      "/r/technology",
+      "xataka",
+      "tomshardware",
       "techcrunch"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Adobe incorporates artificial intelligence into its camera applications to analyze and critique photos",
-    "summary": "The company tests AI features in Project Indigo and adds a tool that evaluates image quality in real time.",
-    "source": [
-      "kite.kagi",
-      "techcrunch"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hugging Face suffers a security breach orchestrated by an autonomous AI agent",
-    "summary": "The AI model platform confirms that an autonomous artificial intelligence system carried out the attack from start to finish.",
-    "source": [
-      "kite.kagi",
-      "alternativeto"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A modder creates a portable PlayStation 4 console with OLED screen and compact design",
-    "summary": "An enthusiast builds a portable version of the PS4 with a removable battery, 7-inch OLED screen, and a GTX 750 fan.",
-    "source": [
-      "hardzone",
-      "videocardz"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Active exploitation of WordPress vulnerabilities increases, affecting millions of websites",
-    "summary": "Attackers exploit recently patched security flaws to take control of websites, while mass scanning intensifies.",
-    "source": [
-      "thehackernews",
-      "techcrunch"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Enthusiast attaches a huge aluminum heatsink to an RTX 4060 for passive cooling",
-    "summary": "A modder installs a 2.5 kg aluminum block on the graphics card, achieving fanless operation with convection dissipation.",
+    "title": "Nvidia introduces DLSS 5 with three AI modes and per-object control",
+    "summary": "The new version of AI upscaling allows switching between models in real time and offers support for a single GPU.",
     "source": [
       "tomshardware",
       "videocardz"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia details its Vera CPU with 88 Olympus cores for AI data centers",
+    "summary": "The CPU shows 176 threads, 1.2 TB/s LPDDR5X memory, and its performance in SPEC CPU 2026 benchmarks.",
+    "source": [
+      "videocardz",
+      "tomshardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Chinese model Kimi K3 from Moonshot AI shakes up the industry with lower price than its US competitors",
+    "summary": "The 2.8 billion parameter open model rekindles the debate over Chinese AI control and its impact on US competitiveness.",
+    "source": [
+      "tomshardware",
+      "xataka"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple partners with Klarna to offer a lease-to-own program for devices",
+    "summary": "The program will be available from July 28 and includes iPhones, iPads, and Macs with monthly payments.",
+    "source": [
+      "techcrunch",
+      "videocardz"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google develops 'Frozen v2' chip for Gemini that could multiply energy efficiency by up to ten",
+    "summary": "The new processor would be specifically designed for the Gemini architecture and projects between 6 and 10 times more tokens per watt than current TPUs.",
+    "source": [
+      "hardzone",
+      "tomshardware"
     ],
     "count": 2
   }
