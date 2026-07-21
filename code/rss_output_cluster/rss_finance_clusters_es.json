@@ -1,9 +1,9 @@
 [
   {
-    "title": "Wall Street cierra mixto con el Nasdaq al alza impulsado por semiconductores y el Dow Jones a la baja",
-    "summary": "Los índices estadounidenses mostraron resultados dispares en una jornada marcada por la temporada de resultados corporativos y las tensiones geopolíticas en Oriente Medio, con el sector tecnológico liderando las ganancias.",
+    "title": "El petróleo supera los 90 dólares y la gasolina vuelve a 4 dólares por las tensiones en Oriente Medio",
+    "summary": "Los hutíes amenazan con bloquear el mar Rojo y los ataques iraníes a petroleros elevan el precio del crudo, lo que dispara el costo de los combustibles.",
     "source": [
-      "investing.com",
+      "ft.com",
       "handelsblatt.com",
       "bolsamania.com",
       "nikkei.com"
@@ -11,55 +11,45 @@
     "count": 4
   },
   {
-    "title": "Un juez estadounidense suspende temporalmente la fusión de Warner Bros y Paramount",
-    "summary": "Un tribunal de EE.UU. ha ordenado la paralización provisional de la adquisición de Warner Bros por parte de Paramount-Skydance hasta el 3 de agosto.",
+    "title": "Wall Street cae ante la escalada del conflicto entre EE.UU. e Irán",
+    "summary": "Los principales índices neoyorquinos cierran a la baja mientras los inversores temen una escalada militar en Oriente Medio.",
     "source": [
-      "investing.com",
-      "bolsamania.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Los hutíes anuncian un bloqueo naval contra Arabia Saudí en el mar Rojo",
-    "summary": "La milicia respaldada por Irán declaró una prohibición marítima contra el reino saudí, elevando la tensión regional y generando temores sobre el suministro energético.",
-    "source": [
-      "bolsamania.com",
       "nikkei.com",
+      "bolsamania.com",
       "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "El Ibex 35 cierra prácticamente plano ante la incertidumbre por Oriente Medio",
-    "summary": "El selectivo español se mantuvo sin apenas cambios, afectado por la escalada de tensiones en Oriente Medio y a la espera de resultados empresariales.",
+    "title": "El oro y la plata escalan por las tensiones en Oriente Medio y las perspectivas de la Fed",
+    "summary": "El oro supera los 4.000 dólares y la plata sube ante la aversión al riesgo y las expectativas de recortes de tipos de la Reserva Federal.",
+    "source": [
+      "investing.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La Bolsa de Londres planea operaciones nocturnas a partir de 2027",
+    "summary": "La nueva plataforma de negociación busca atraer inversores internacionales y competir con otras plazas financieras en horario nocturno.",
+    "source": [
+      "investing.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Juez estadounidense suspende la fusión de Warner Bros y Paramount",
+    "summary": "La adquisición de Paramount por valor de 110.000 millones de dólares queda en suspenso mientras se revisan las implicaciones antimonopolio.",
     "source": [
       "bolsamania.com",
-      "expansion.com"
+      "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "El petróleo supera los 90 dólares y la gasolina en EE.UU. vuelve a los 4 dólares por galón por el conflicto iraní",
-    "summary": "Los precios del crudo y los combustibles se dispararon en respuesta a los ataques iraníes contra petroleros y la intensificación de la guerra en Oriente Medio.",
-    "source": [
-      "ft.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El bitcoin sube hasta cerca de los 64.000 dólares en medio de perspectivas mixtas",
-    "summary": "La criptomoneda líder se situó en 63.859 dólares, en un contexto de opiniones divididas sobre su evolución para el resto de 2026.",
-    "source": [
-      "finance.yahoo.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Morgan Stanley aprovecha el auge de la inteligencia artificial para cerrar acuerdos de deuda millonarios",
-    "summary": "El banco de inversión está capitalizando la demanda de infraestructura de IA mediante la estructuración de financiamiento de deuda para empresas tecnológicas.",
+    "title": "Morgan Stanley capitaliza el boom de la IA con acuerdos de deuda",
+    "summary": "El banco de inversión cierra importantes operaciones de financiación vinculadas a empresas de inteligencia artificial.",
     "source": [
       "expansion.com",
       "ft.com"
@@ -67,11 +57,20 @@
     "count": 2
   },
   {
-    "title": "Los rendimientos de los bonos europeos suben por el alza del petróleo y las expectativas de mayor gasto público",
-    "summary": "El rendimiento del bono alemán a 10 años y los gilts británicos se incrementaron ante la presión del encarecimiento del crudo y la previsión de un aumento del gasto fiscal en el Reino Unido.",
+    "title": "El bitcoin y el ethereum cotizan mixtos por perspectivas encontradas",
+    "summary": "Las criptomonedas muestran señales mixtas tras un fin de semana volátil con opiniones enfrentadas sobre la segunda mitad de 2026.",
     "source": [
-      "ft.com",
-      "nikkei.com"
+      "finance.yahoo.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El Ibex 35 cierra casi plano por la incertidumbre en Oriente Medio",
+    "summary": "El selectivo español se mantiene en torno a los 19.200 puntos a la espera de resultados empresariales y la evolución del conflicto.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
     ],
     "count": 2
   }

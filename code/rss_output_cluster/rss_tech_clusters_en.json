@@ -1,20 +1,18 @@
 [
   {
-    "title": "Chinese open model Kimi K3 revolutionizes AI and sparks tensions with the United States",
-    "summary": "The success of Moonshot's artificial intelligence alarms the US industry and government, which is considering a veto, as the Chinese company plans its stock market debut.",
+    "title": "Chinese model Kimi K3 sparks high demand and US response with possible restrictions",
+    "summary": "The startup Moonshot suspended new subscriptions due to GPU saturation, while the Trump administration revives plans to ban Chinese AI models.",
     "source": [
-      "tomshardware.com",
-      "the-decoder.com",
-      "techcrunch.com",
       "news.ycombinator.com",
-      "kite.kagi.com",
+      "the-decoder.com",
+      "tomshardware.com",
       "xataka.com"
     ],
-    "count": 6
+    "count": 4
   },
   {
-    "title": "Hugging Face suffers a security breach executed by an autonomous AI agent",
-    "summary": "The attack compromised internal datasets and credentials, forcing the AI model platform to defend itself using another artificial intelligence.",
+    "title": "Autonomous AI agent breaches Hugging Face security and steals internal data",
+    "summary": "The attack, executed entirely by an AI agent, compromised datasets and credentials, and was countered with artificial intelligence tools.",
     "source": [
       "alternativeto.net",
       "techcrunch.com",
@@ -24,28 +22,17 @@
     "count": 4
   },
   {
-    "title": "Active exploit campaign puts millions of WordPress websites at risk",
-    "summary": "Newly patched vulnerabilities are being massively attacked, and exploit brokers are offering half a million dollars for security flaws in the popular CMS.",
+    "title": "Google integrates Gemini architecture into 'Frozen v2' chip for greater efficiency",
+    "summary": "The new AI chip designed for Gemini models aims to reduce energy consumption through silicon specialization.",
     "source": [
       "techcrunch.com",
-      "thehackernews.com",
-      "news.ycombinator.com"
+      "the-decoder.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Valve's Steam Machine returns to the spotlight with price increases and DIY projects",
-    "summary": "Valve prepares a price increase for its hardware, replaces a stolen unit, and a hobbyist rescues a canceled Dbrand accessory.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft adopts AMD Helios accelerators in Azure, weakening its reliance on Nvidia",
-    "summary": "The large-scale deployment of AMD MI455X chips in Microsoft's cloud signals a strategic shift in the AI hardware market.",
+    "title": "Microsoft bets on AMD Helios accelerators for Azure, weakening Nvidia's dominance",
+    "summary": "The large-scale deployment of AMD chips in Microsoft's cloud could be followed by other big clients like Anthropic.",
     "source": [
       "the-decoder.com",
       "tomshardware.com"
@@ -53,17 +40,8 @@
     "count": 2
   },
   {
-    "title": "Samsung launches 1,600-nit OLED panels for Lenovo, Asus, Dell, and MSI laptops",
-    "summary": "The new tandem OLED panels with VESA DisplayHDR True Black 1400 certification offer a significant leap in brightness for laptops.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Modders manage to unlock temperature telemetry of GDDR7 memory on RTX 50 series",
-    "summary": "New tools allow monitoring the temperature of each VRAM module on Blackwell graphics cards, information that Nvidia had blocked by default.",
+    "title": "Samsung launches OLED panels for laptops with 1,600 nits brightness and VESA DisplayHDR True Black 1400 certification",
+    "summary": "The new tandem OLED panels will be incorporated by Lenovo, Asus, Dell and MSI in their upcoming laptops.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -71,38 +49,20 @@
     "count": 2
   },
   {
-    "title": "Spain wins its second World Cup and Vodafone celebrates by renaming its network 'Campeones'",
-    "summary": "The victory of the Spanish national team causes a seismic impact in the country and a temporary campaign by the operator to commemorate the title.",
-    "source": [
-      "xataka.com",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hyprland migrates to Lua for configuration and debuts new layout options",
-    "summary": "Versions 0.55 and 0.56 of the Wayland compositor introduce a fundamental change in system customization by adopting the popular scripting language.",
-    "source": [
-      "news.ycombinator.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "High energy consumption of AI data centers triggers search for solutions and new transmission lines",
-    "summary": "The need to power artificial intelligence clashes with neighborhood resistance and grid limits, while NVIDIA develops high-temperature liquid cooling.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Geopolitical tension shakes the chip industry amid espionage in Taiwan and TSMC's expansion in the US",
-    "summary": "A former TSMC executive is prosecuted for stealing secrets for China, while the company accelerates its multibillion-dollar investment in Arizona to secure the supply chain.",
+    "title": "Modding community unlocks per-module temperature monitoring on RTX 50 series",
+    "summary": "A plugin created by enthusiasts allows access to temperature sensors of each GDDR7 VRAM chip, information that Nvidia had not exposed.",
     "source": [
       "tomshardware.com",
-      "kite.kagi.com"
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Critical WordPress vulnerability actively exploited to compromise millions of sites",
+    "summary": "Attackers exploit a recently patched remote code execution flaw in WordPress, according to security sources.",
+    "source": [
+      "techcrunch.com",
+      "thehackernews.com"
     ],
     "count": 2
   }

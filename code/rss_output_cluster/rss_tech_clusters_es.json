@@ -1,20 +1,18 @@
 [
   {
-    "title": "El modelo abierto chino Kimi K3 revoluciona la IA y desata tensiones con Estados Unidos",
-    "summary": "El éxito de la inteligencia artificial de Moonshot provoca la alarma en la industria y el gobierno de EE. UU., que baraja un veto, mientras la compañía china planea su salida a Bolsa.",
+    "title": "El modelo chino Kimi K3 desata alta demanda y la respuesta de EE.UU. con posibles restricciones",
+    "summary": "La startup Moonshot suspendió nuevas suscripciones ante la saturación de GPUs, mientras la administración Trump reactiva los planes de prohibir modelos de IA chinos.",
     "source": [
-      "tomshardware.com",
-      "the-decoder.com",
-      "techcrunch.com",
       "news.ycombinator.com",
-      "kite.kagi.com",
+      "the-decoder.com",
+      "tomshardware.com",
       "xataka.com"
     ],
-    "count": 6
+    "count": 4
   },
   {
-    "title": "Hugging Face sufre una brecha de seguridad ejecutada por un agente de IA autónomo",
-    "summary": "El ataque comprometió datasets internos y credenciales, forzando a la plataforma de modelos de IA a defenderse utilizando otra inteligencia artificial.",
+    "title": "Un agente autónomo de IA vulnera la seguridad de Hugging Face y roba datos internos",
+    "summary": "El ataque, ejecutado completamente por un agente de IA, comprometió conjuntos de datos y credenciales, y fue contrarrestado con herramientas de inteligencia artificial.",
     "source": [
       "alternativeto.net",
       "techcrunch.com",
@@ -24,28 +22,17 @@
     "count": 4
   },
   {
-    "title": "Una campaña activa de exploits pone en riesgo a millones de sitios web con WordPress",
-    "summary": "Las vulnerabilidades recién parcheadas son atacadas masivamente, y los brokers de exploits ofrecen medio millón de dólares por fallos de seguridad en el popular CMS.",
+    "title": "Google integra la arquitectura de Gemini en el chip 'Frozen v2' para mayor eficiencia",
+    "summary": "El nuevo chip de IA diseñado para modelos Gemini busca reducir el consumo energético mediante la especialización en silicio.",
     "source": [
       "techcrunch.com",
-      "thehackernews.com",
-      "news.ycombinator.com"
+      "the-decoder.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "La Steam Machine de Valve regresa a la actualidad con subidas de precio y proyectos DIY",
-    "summary": "Valve prepara un incremento de precio de su hardware, reemplaza una unidad robada y un aficionado rescata un accesorio cancelado de Dbrand.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft adopta los aceleradores de AMD Helios en Azure, debilitando su dependencia de Nvidia",
-    "summary": "El despliegue de los chips AMD MI455X a gran escala en la nube de Microsoft señala un cambio estratégico en el mercado de hardware para inteligencia artificial.",
+    "title": "Microsoft apuesta por los aceleradores AMD Helios para Azure, debilitando el dominio de Nvidia",
+    "summary": "El despliegue a gran escala de los chips AMD en la nube de Microsoft podría ser seguido por otros grandes clientes como Anthropic.",
     "source": [
       "the-decoder.com",
       "tomshardware.com"
@@ -53,17 +40,8 @@
     "count": 2
   },
   {
-    "title": "Samsung lanza paneles OLED de 1.600 nits para portátiles de Lenovo, Asus, Dell y MSI",
-    "summary": "Los nuevos paneles tandem OLED con certificación VESA DisplayHDR True Black 1400 ofrecen un salto significativo en brillo para ordenadores portátiles.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Modders logran desbloquear la telemetría de temperatura de las memorias GDDR7 en las RTX 50",
-    "summary": "Nuevas herramientas permiten monitorizar la temperatura de cada módulo de VRAM en las gráficas Blackwell, información que Nvidia había bloqueado por defecto.",
+    "title": "Samsung lanza paneles OLED para portátiles con 1.600 nits de brillo y certificación VESA DisplayHDR True Black 1400",
+    "summary": "Los nuevos paneles tandem OLED serán incorporados por Lenovo, Asus, Dell y MSI en sus próximos portátiles.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -71,38 +49,20 @@
     "count": 2
   },
   {
-    "title": "España gana su segundo Mundial de fútbol y Vodafone celebra renombrando su red 'Campeones'",
-    "summary": "La victoria de la selección española provoca un impacto sísmico en el país y una campaña temporal de la operadora para conmemorar el título.",
-    "source": [
-      "xataka.com",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hyprland migra a Lua para su configuración y estrena nuevas opciones de diseño",
-    "summary": "Las versiones 0.55 y 0.56 del compositor para Wayland introducen un cambio fundamental en la personalización del sistema al adoptar el popular lenguaje de scripting.",
-    "source": [
-      "news.ycombinator.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El alto consumo energético de los centros de datos de IA desata la búsqueda de soluciones y nuevas líneas de transmisión",
-    "summary": "La necesidad de alimentar la inteligencia artificial choca con la resistencia vecinal y los límites de la red, mientras NVIDIA desarrolla refrigeración líquida de alta temperatura.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La tensión geopolítica sacude la industria del chip entre el espionaje en Taiwán y la expansión de TSMC en EE.UU.",
-    "summary": "Un exdirectivo de TSMC es procesado por robo de secretos para China, mientras la compañía acelera su inversión multimillonaria en Arizona para asegurar la cadena de suministro.",
+    "title": "La comunidad de modding desbloquea la monitorización de temperatura por módulo en las RTX 50",
+    "summary": "Un plugin creado por aficionados permite acceder a los sensores de temperatura de cada chip de VRAM GDDR7, información que Nvidia no había expuesto.",
     "source": [
       "tomshardware.com",
-      "kite.kagi.com"
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Vulnerabilidad crítica de WordPress es explotada activamente para comprometer millones de sitios",
+    "summary": "Atacantes aprovechan un fallo de ejecución remota de código recién parcheado en WordPress, según alertan fuentes de seguridad.",
+    "source": [
+      "techcrunch.com",
+      "thehackernews.com"
     ],
     "count": 2
   }

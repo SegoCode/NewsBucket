@@ -1,20 +1,18 @@
 [
   {
-    "title": "中国のオープンモデルKimi K3、AIを革新し、米国との緊張を引き起こす",
-    "summary": "Moonshot社の人工知能の成功により、米国の業界と政府は警戒を強め、拒否権を検討する一方、中国企業は株式上場を計画している。",
+    "title": "中国のKimi K3モデルが高い需要を引き起こし、米国が規制の可能性で対応",
+    "summary": "スタートアップのMoonshotはGPUの飽和により新規サブスクリプションを停止。一方、トランプ政権は中国のAIモデルを禁止する計画を再活性化。",
     "source": [
-      "tomshardware.com",
-      "the-decoder.com",
-      "techcrunch.com",
       "news.ycombinator.com",
-      "kite.kagi.com",
+      "the-decoder.com",
+      "tomshardware.com",
       "xataka.com"
     ],
-    "count": 6
+    "count": 4
   },
   {
-    "title": "Hugging Face、自律型AIエージェントによるセキュリティ侵害を受ける",
-    "summary": "内部データセットと認証情報が侵害され、AIモデルプラットフォームは別のAIを使って防御せざるを得なくなった。",
+    "title": "自律型AIエージェントがHugging Faceのセキュリティを侵害し、内部データを盗む",
+    "summary": "AIエージェントによって完全に実行された攻撃は、データセットと認証情報を侵害し、AIツールによって阻止された。",
     "source": [
       "alternativeto.net",
       "techcrunch.com",
@@ -24,28 +22,17 @@
     "count": 4
   },
   {
-    "title": "活発なエクスプロイトキャンペーンがWordPressの数百万のウェブサイトを危険にさらす",
-    "summary": "修正されたばかりの脆弱性が大規模に攻撃されており、エクスプロイトブローカーは人気CMSのセキュリティ欠陥に50万ドルを支払っている。",
+    "title": "Google、効率向上のためにGeminiアーキテクチャをチップ「Frozen v2」に統合",
+    "summary": "Geminiモデル向けに設計された新しいAIチップは、シリコン特化によるエネルギー消費削減を目指す。",
     "source": [
       "techcrunch.com",
-      "thehackernews.com",
-      "news.ycombinator.com"
+      "the-decoder.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "ValveのSteam Machine、価格上昇とDIYプロジェクトで再び注目を集める",
-    "summary": "Valveはハードウェアの値上げを準備し、盗難品を交換、そして愛好家がDbrandのキャンセルされたアクセサリーを救出した。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft、AzureでAMD Heliosアクセラレーターを採用し、NVIDIA依存を弱める",
-    "summary": "MicrosoftクラウドへのAMD MI455Xチップの大規模展開は、AIハードウェア市場における戦略的転換を示している。",
+    "title": "Microsoft、Azure向けにAMD Heliosアクセラレータを採用、Nvidiaの支配を弱体化",
+    "summary": "MicrosoftクラウドでのAMDチップの大規模展開は、Anthropicなどの他の大口顧客が続く可能性がある。",
     "source": [
       "the-decoder.com",
       "tomshardware.com"
@@ -53,17 +40,8 @@
     "count": 2
   },
   {
-    "title": "サムスン、Lenovo、Asus、Dell、MSI向けに1,600ニトのOLEDパネルを発表",
-    "summary": "VESA DisplayHDR True Black 1400認証を取得した新しいタンデムOLEDパネルは、ノートPCに大幅な輝度向上をもたらす。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "モッダーがRTX 50のGDDR7メモリ温度テレメトリーを解放",
-    "summary": "新しいツールにより、Blackwellグラフィックスカードの各VRAMモジュールの温度監視が可能になり、NVIDIAがデフォルトでブロックしていた情報にアクセスできる。",
+    "title": "Samsung、1,600ニトの輝度とVESA DisplayHDR True Black 1400認証を備えたノートPC向けOLEDパネルを発表",
+    "summary": "新しいタンデムOLEDパネルは、Lenovo、Asus、Dell、MSIが今後のノートPCに採用する予定。",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -71,38 +49,20 @@
     "count": 2
   },
   {
-    "title": "スペインがサッカーW杯で2度目の優勝、Vodafoneはネットワークを「Campeones」と改名して祝福",
-    "summary": "スペイン代表の勝利は国内に大きな衝撃を与え、通信事業者はタイトルを記念して一時的なキャンペーンを実施した。",
-    "source": [
-      "xataka.com",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hyprlandが設定にLuaを採用、新しいレイアウトオプションを導入",
-    "summary": "Waylandコンポジターのバージョン0.55および0.56は、人気のスクリプト言語を採用することで、システムのカスタマイズに根本的な変更をもたらす。",
-    "source": [
-      "news.ycombinator.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AIデータセンターの高いエネルギー消費が解決策と新しい送電線の模索を引き起こす",
-    "summary": "AIへの電力供給の必要性は、地域住民の反対や送電網の制限と衝突する一方、NVIDIAは高温対応の液体冷却を開発している。",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "台湾でのスパイ行為とTSMCの米国拡大の間で、地政学的緊張が半導体業界を揺るがす",
-    "summary": "TSMCの元幹部が中国への秘密漏洩で起訴される一方、同社はサプライチェーン確保のためアリゾナへの数十億ドル規模の投資を加速している。",
+    "title": "ModdingコミュニティがRTX 50のモジュール別温度監視を解放",
+    "summary": "愛好家によって作成されたプラグインにより、各GDDR7 VRAMチップの温度センサーにアクセス可能に。Nvidiaはこの情報を公開していなかった。",
     "source": [
       "tomshardware.com",
-      "kite.kagi.com"
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "WordPressの重大な脆弱性が積極的に悪用され、何百万ものサイトが危険にさらされる",
+    "summary": "攻撃者は、WordPressで最近パッチが適用されたリモートコード実行の欠陥を悪用しているとセキュリティ情報源が警告。",
+    "source": [
+      "techcrunch.com",
+      "thehackernews.com"
     ],
     "count": 2
   }

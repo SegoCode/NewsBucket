@@ -1,9 +1,9 @@
 [
   {
-    "title": "Wall Street closes mixed with Nasdaq up driven by semiconductors and Dow Jones down",
-    "summary": "U.S. indices showed mixed results in a session marked by corporate earnings season and geopolitical tensions in the Middle East, with the technology sector leading gains.",
+    "title": "Oil surpasses $90 and gas returns to $4 due to tensions in the Middle East",
+    "summary": "Houthis threaten to block the Red Sea and Iranian attacks on oil tankers raise the price of crude, which skyrockets the cost of fuels.",
     "source": [
-      "investing.com",
+      "ft.com",
       "handelsblatt.com",
       "bolsamania.com",
       "nikkei.com"
@@ -11,55 +11,45 @@
     "count": 4
   },
   {
-    "title": "A U.S. judge temporarily suspends the merger of Warner Bros and Paramount",
-    "summary": "A U.S. court has ordered a temporary halt to the acquisition of Warner Bros by Paramount-Skydance until August 3.",
+    "title": "Wall Street falls amid escalation of US-Iran conflict",
+    "summary": "The main New York indices close lower as investors fear a military escalation in the Middle East.",
     "source": [
-      "investing.com",
-      "bolsamania.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Houthis announce a naval blockade against Saudi Arabia in the Red Sea",
-    "summary": "The Iran-backed militia declared a maritime ban against the Saudi kingdom, raising regional tensions and generating fears about energy supply.",
-    "source": [
-      "bolsamania.com",
       "nikkei.com",
+      "bolsamania.com",
       "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "The Ibex 35 closes practically flat amid uncertainty over the Middle East",
-    "summary": "The Spanish benchmark remained virtually unchanged, affected by the escalation of tensions in the Middle East and awaiting corporate results.",
+    "title": "Gold and silver climb on Middle East tensions and Fed outlook",
+    "summary": "Gold surpasses $4,000 and silver rises amid risk aversion and expectations of Federal Reserve rate cuts.",
+    "source": [
+      "investing.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "London Stock Exchange plans night trading from 2027",
+    "summary": "The new trading platform aims to attract international investors and compete with other financial centers during night hours.",
+    "source": [
+      "investing.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "US judge suspends Warner Bros and Paramount merger",
+    "summary": "The $110 billion acquisition of Paramount remains on hold while antitrust implications are reviewed.",
     "source": [
       "bolsamania.com",
-      "expansion.com"
+      "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Oil surpasses $90 and gasoline in the U.S. returns to $4 per gallon due to the Iran conflict",
-    "summary": "Crude oil and fuel prices soared in response to Iranian attacks on tankers and the intensification of the war in the Middle East.",
-    "source": [
-      "ft.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Bitcoin rises to near $64,000 amid mixed outlook",
-    "summary": "The leading cryptocurrency stood at $63,859, in a context of divided opinions about its evolution for the remainder of 2026.",
-    "source": [
-      "finance.yahoo.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Morgan Stanley leverages the AI boom to close million-dollar debt deals",
-    "summary": "The investment bank is capitalizing on the demand for AI infrastructure by structuring debt financing for technology companies.",
+    "title": "Morgan Stanley capitalizes on AI boom with debt deals",
+    "summary": "The investment bank closes major financing operations linked to artificial intelligence companies.",
     "source": [
       "expansion.com",
       "ft.com"
@@ -67,11 +57,20 @@
     "count": 2
   },
   {
-    "title": "European bond yields rise on higher oil prices and expectations of increased public spending",
-    "summary": "The yield on the German 10-year bond and British gilts increased due to the pressure from rising crude prices and the forecast of an increase in fiscal spending in the United Kingdom.",
+    "title": "Bitcoin and Ethereum trade mixed due to conflicting outlooks",
+    "summary": "Cryptocurrencies show mixed signals after a volatile weekend with conflicting opinions on the second half of 2026.",
     "source": [
-      "ft.com",
-      "nikkei.com"
+      "finance.yahoo.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Ibex 35 closes nearly flat due to uncertainty in the Middle East",
+    "summary": "The Spanish index remains around 19,200 points awaiting corporate results and developments in the conflict.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
     ],
     "count": 2
   }
