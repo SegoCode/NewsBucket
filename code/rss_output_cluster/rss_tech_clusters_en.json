@@ -1,59 +1,95 @@
 [
   {
-    "title": "Hugging Face suffers a data breach orchestrated by an autonomous AI agent",
-    "summary": "The attack compromised internal datasets and credentials, and the company used AI to counter the threat.",
+    "title": "Google develops custom AI chips for Gemini, including the Frozen v2 processor",
+    "summary": "The company is working on several chips specifically designed to optimize the performance of its Gemini language model, with the goal of achieving up to 10 times more tokens per watt.",
     "source": [
-      "alternativeto.net",
-      "techcrunch.com",
-      "the-decoder.com"
+      "tomshardware",
+      "techcrunch",
+      "the-decoder",
+      "kite.kagi"
+    ],
+    "count": 4
+  },
+  {
+    "title": "The launch of the Chinese Kimi K3 model causes alarm in Silicon Valley and reactivates Trump's plans to ban Chinese AI",
+    "summary": "The frontier model developed by Moonshot unleashes a wave of requests that forces a pause in registrations, while the US administration considers new restrictions.",
+    "source": [
+      "xataka",
+      "tomshardware",
+      "kite.kagi"
     ],
     "count": 3
   },
   {
-    "title": "Microsoft expands its alliance with AMD to incorporate its Helios AI accelerators into Azure",
-    "summary": "The collaboration includes the deployment of AMD Instinct MI455X GPUs and Epyc Venice processors in Microsoft's cloud, reducing dependence on NVIDIA.",
+    "title": "United States considers a progressive ban on Chinese open-weight AI models amid China's advance",
+    "summary": "While China gains ground with its open-weight strategy, OpenAI expresses its concern and the Trump administration prepares sanctions to curb the adoption of these models.",
     "source": [
-      "/r/hardware",
-      "tomshardware.com",
-      "the-decoder.com"
+      "techcrunch",
+      "news.ycombinator",
+      "the-decoder"
     ],
     "count": 3
   },
   {
-    "title": "Samsung launches 1600-nit tandem OLED panels for laptops with DisplayHDR True Black 1400 certification",
-    "summary": "The new panels, supplied to Lenovo, Asus, Dell, and MSI, set a new brightness record for laptops.",
+    "title": "Alibaba launches Qwen-Image-3.0, its new image generation model with support for 4,500 tokens",
+    "summary": "Alibaba's AI model allows generating complex images with a high level of detail and deep knowledge.",
     "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Chinese AI model Kimi K3 arouses admiration from Musk and threat of ban in US",
-    "summary": "The Trump administration is considering blocking Chinese AI models after the launch of Kimi K3, while Elon Musk praises its performance.",
-    "source": [
-      "tomshardware.com",
-      "the-decoder.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "A modder creates a portable PS4 with a 7-inch OLED screen and removable battery",
-    "summary": "The customized console includes HDMI, GPU fan, and a more compact design for portable gaming.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "alternativeto",
+      "news.ycombinator"
     ],
     "count": 2
   },
   {
-    "title": "Google develops the 'Frozen v2' chip to run Gemini more efficiently",
-    "summary": "The new silicon integrates Gemini's architecture directly into hardware to improve performance and reduce consumption.",
+    "title": "Judge temporarily halts Paramount and Warner Bros. merger over antitrust concerns",
+    "summary": "A federal court suspends the $81 billion megamerger for two weeks, following warnings from several states about reduced competition.",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com"
+      "/r/technology",
+      "techcrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Adobe incorporates artificial intelligence into its camera applications to analyze and critique photos",
+    "summary": "The company tests AI features in Project Indigo and adds a tool that evaluates image quality in real time.",
+    "source": [
+      "kite.kagi",
+      "techcrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Hugging Face suffers a security breach orchestrated by an autonomous AI agent",
+    "summary": "The AI model platform confirms that an autonomous artificial intelligence system carried out the attack from start to finish.",
+    "source": [
+      "kite.kagi",
+      "alternativeto"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A modder creates a portable PlayStation 4 console with OLED screen and compact design",
+    "summary": "An enthusiast builds a portable version of the PS4 with a removable battery, 7-inch OLED screen, and a GTX 750 fan.",
+    "source": [
+      "hardzone",
+      "videocardz"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Active exploitation of WordPress vulnerabilities increases, affecting millions of websites",
+    "summary": "Attackers exploit recently patched security flaws to take control of websites, while mass scanning intensifies.",
+    "source": [
+      "thehackernews",
+      "techcrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Enthusiast attaches a huge aluminum heatsink to an RTX 4060 for passive cooling",
+    "summary": "A modder installs a 2.5 kg aluminum block on the graphics card, achieving fanless operation with convection dissipation.",
+    "source": [
+      "tomshardware",
+      "videocardz"
     ],
     "count": 2
   }

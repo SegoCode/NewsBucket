@@ -1,59 +1,95 @@
 [
   {
-    "title": "Hugging Faceが自律型AIエージェントによるデータ侵害を受ける",
-    "summary": "攻撃は内部データセットと資格情報を侵害し、同社は脅威に対抗するためにAIを利用した。",
+    "title": "GoogleがGemini向けにカスタムAIチップを開発、Frozen v2プロセッサを含む",
+    "summary": "Googleは、言語モデルGeminiの性能を最適化するために特別に設計された複数のチップを開発しており、ワットあたりのトークンを最大10倍向上させることを目指している。",
     "source": [
-      "alternativeto.net",
-      "techcrunch.com",
-      "the-decoder.com"
+      "tomshardware",
+      "techcrunch",
+      "the-decoder",
+      "kite.kagi"
+    ],
+    "count": 4
+  },
+  {
+    "title": "中国のモデルKimi K3のリリースがシリコンバレーに警鐘を鳴らし、トランプ大統領の中国AI禁止計画を再燃させる",
+    "summary": "Moonshotが開発したフロンティアモデルは、申し込みが殺到したため受付を一時停止せざるを得なくなり、一方で米国政府は新たな規制を検討している。",
+    "source": [
+      "xataka",
+      "tomshardware",
+      "kite.kagi"
     ],
     "count": 3
   },
   {
-    "title": "MicrosoftはAMDとの提携を拡大し、AIアクセラレータHeliosをAzureに組み込む",
-    "summary": "この協力には、AMD Instinct MI455X GPUとEpyc VeniceプロセッサをMicrosoftのクラウドに展開することが含まれ、NVIDIAへの依存を減らす。",
+    "title": "アメリカは中国の進出に対抗し、中国製オープンウェイトAIモデルの段階的禁止を検討",
+    "summary": "中国がオープンウェイト戦略で勢力を拡大する中、OpenAIは懸念を示し、トランプ政権はこれらのモデルの採用を抑制するための制裁を準備している。",
     "source": [
-      "/r/hardware",
-      "tomshardware.com",
-      "the-decoder.com"
+      "techcrunch",
+      "news.ycombinator",
+      "the-decoder"
     ],
     "count": 3
   },
   {
-    "title": "SamsungはDisplayHDR True Black 1400認証付きの1600ニトタンデムOLEDパネルをノートPC向けに発売",
-    "summary": "新しいパネルはLenovo、Asus、Dell、MSIに供給され、ノートPCの輝度の新記録を樹立した。",
+    "title": "アリババ、4,500トークンをサポートする新画像生成モデルQwen-Image-3.0をリリース",
+    "summary": "アリババのAIモデルは、高い詳細度と深い知識を備えた複雑な画像を生成することができる。",
     "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 3
-  },
-  {
-    "title": "中国のAIモデルKimi K3がMuskの賞賛を呼び、米国で禁止の脅威に",
-    "summary": "トランプ政権はKimi K3の発表後、中国のAIモデルをブロックすることを検討している一方、イーロン・マスクはその性能を賞賛している。",
-    "source": [
-      "tomshardware.com",
-      "the-decoder.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Modderが7インチOLEDディスプレイと取り外し可能バッテリーを備えた携帯型PS4を作成",
-    "summary": "カスタムコンソールにはHDMI、GPUファン、そして携帯ゲーム用のよりコンパクトなデザインが含まれる。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "alternativeto",
+      "news.ycombinator"
     ],
     "count": 2
   },
   {
-    "title": "GoogleはGeminiをより効率的に実行するためのチップ「Frozen v2」を開発",
-    "summary": "新しいシリコンはGeminiのアーキテクチャをハードウェアに直接統合し、パフォーマンスを向上させ消費電力を削減する。",
+    "title": "独占禁止法上の懸念から、裁判官がパラマウントとワーナー・ブラザースの合併を一時停止",
+    "summary": "連邦裁判所は、競争の減少を警告する複数の州の指摘を受け、810億ドルの大型合併を2週間停止する。",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com"
+      "/r/technology",
+      "techcrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Adobe、カメラアプリにAIを搭載し写真を分析・批評",
+    "summary": "AdobeはProject IndigoでAI機能をテストし、画像の品質をリアルタイムで評価するツールを追加する。",
+    "source": [
+      "kite.kagi",
+      "techcrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Hugging Face、自律型AIエージェントによるセキュリティ侵害を受ける",
+    "summary": "AIモデルプラットフォームは、自律型AIシステムが攻撃を最初から最後まで実行したことを確認した。",
+    "source": [
+      "kite.kagi",
+      "alternativeto"
+    ],
+    "count": 2
+  },
+  {
+    "title": "改造者が有機ELディスプレイとコンパクトなデザインの携帯型PlayStation 4を製作",
+    "summary": "愛好家が、取り外し可能なバッテリー、7インチ有機ELディスプレイ、GTX 750のファンを搭載したPS4の携帯版を製作した。",
+    "source": [
+      "hardzone",
+      "videocardz"
+    ],
+    "count": 2
+  },
+  {
+    "title": "何百万ものウェブサイトに影響を与えるWordPressの脆弱性の活発な悪用が増加",
+    "summary": "攻撃者はパッチ適用されたばかりのセキュリティ上の欠陥を悪用してウェブサイトを乗っ取り、大規模なスキャンが激化している。",
+    "source": [
+      "thehackernews",
+      "techcrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "愛好家がRTX 4060に巨大なアルミニウムヒートシンクを取り付けパッシブ冷却を実現",
+    "summary": "改造者がグラフィックカードに2.5kgのアルミニウムブロックを取り付け、対流放熱によるファンレス動作を実現した。",
+    "source": [
+      "tomshardware",
+      "videocardz"
     ],
     "count": 2
   }

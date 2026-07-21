@@ -1,59 +1,95 @@
 [
   {
-    "title": "Hugging Face sufre una violación de datos orquestada por un agente de IA autónomo",
-    "summary": "El ataque comprometió conjuntos de datos internos y credenciales, y la empresa utilizó IA para contrarrestar la amenaza.",
+    "title": "Google desarrolla chips de IA personalizados para Gemini, incluido el procesador Frozen v2",
+    "summary": "La compañía trabaja en varios chips diseñados específicamente para optimizar el rendimiento de su modelo de lenguaje Gemini, con el objetivo de lograr hasta 10 veces más tokens por vatio.",
     "source": [
-      "alternativeto.net",
-      "techcrunch.com",
-      "the-decoder.com"
+      "tomshardware",
+      "techcrunch",
+      "the-decoder",
+      "kite.kagi"
+    ],
+    "count": 4
+  },
+  {
+    "title": "El lanzamiento del modelo chino Kimi K3 causa alarma en Silicon Valley y reactiva los planes de Trump para prohibir la IA china",
+    "summary": "El modelo de frontera desarrollado por Moonshot desata una oleada de solicitudes que obliga a pausar las inscripciones, mientras la administración estadounidense considera nuevas restricciones.",
+    "source": [
+      "xataka",
+      "tomshardware",
+      "kite.kagi"
     ],
     "count": 3
   },
   {
-    "title": "Microsoft amplía su alianza con AMD para incorporar sus aceleradores de IA Helios en Azure",
-    "summary": "La colaboración incluye el despliegue de las GPUs AMD Instinct MI455X y los procesadores Epyc Venice en la nube de Microsoft, reduciendo la dependencia de NVIDIA.",
+    "title": "Estados Unidos considera una prohibición progresiva de los modelos de IA chinos de peso abierto ante el avance de China",
+    "summary": "Mientras China gana terreno con su estrategia de pesos abiertos, OpenAI muestra su preocupación y la administración Trump prepara sanciones para frenar la adopción de estos modelos.",
     "source": [
-      "/r/hardware",
-      "tomshardware.com",
-      "the-decoder.com"
+      "techcrunch",
+      "news.ycombinator",
+      "the-decoder"
     ],
     "count": 3
   },
   {
-    "title": "Samsung lanza paneles OLED tandem de 1600 nits para portátiles con certificación DisplayHDR True Black 1400",
-    "summary": "Los nuevos paneles, suministrados a Lenovo, Asus, Dell y MSI, establecen un nuevo récord de brillo en portátiles.",
+    "title": "Alibaba lanza Qwen-Image-3.0, su nuevo modelo de generación de imágenes con soporte para 4.500 tokens",
+    "summary": "El modelo de IA de Alibaba permite generar imágenes complejas con un alto nivel de detalle y conocimiento profundo.",
     "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El modelo de IA chino Kimi K3 despierta admiración de Musk y amenaza de prohibición en EE.UU.",
-    "summary": "La administración Trump considera bloquear los modelos de IA de China tras el lanzamiento de Kimi K3, mientras Elon Musk elogia su rendimiento.",
-    "source": [
-      "tomshardware.com",
-      "the-decoder.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Un modder crea una PS4 portátil con pantalla OLED de 7 pulgadas y batería extraíble",
-    "summary": "La consola personalizada incluye HDMI, ventilador de GPU y un diseño más compacto para juegos portátiles.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "alternativeto",
+      "news.ycombinator"
     ],
     "count": 2
   },
   {
-    "title": "Google desarrolla el chip 'Frozen v2' para ejecutar Gemini de manera más eficiente",
-    "summary": "El nuevo silicio integra la arquitectura de Gemini directamente en el hardware para mejorar el rendimiento y reducir el consumo.",
+    "title": "Juez detiene temporalmente la fusión de Paramount y Warner Bros. por preocupaciones antimonopolio",
+    "summary": "Un tribunal federal suspende durante dos semanas la megafusión de 81.000 millones de dólares, tras las advertencias de varios estados sobre la reducción de la competencia.",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com"
+      "/r/technology",
+      "techcrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Adobe incorpora inteligencia artificial en sus aplicaciones de cámara para analizar y criticar fotos",
+    "summary": "La compañía prueba funciones de IA en Project Indigo y añade una herramienta que evalúa la calidad de las imágenes en tiempo real.",
+    "source": [
+      "kite.kagi",
+      "techcrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Hugging Face sufre una brecha de seguridad orquestada por un agente de IA autónomo",
+    "summary": "La plataforma de modelos de IA confirma que un sistema autónomo de inteligencia artificial llevó a cabo el ataque de principio a fin.",
+    "source": [
+      "kite.kagi",
+      "alternativeto"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Un modder crea una consola PlayStation 4 portátil con pantalla OLED y diseño compacto",
+    "summary": "Un entusiasta construye una versión portátil de la PS4 con batería extraíble, pantalla OLED de 7 pulgadas y un ventilador de GTX 750.",
+    "source": [
+      "hardzone",
+      "videocardz"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Aumenta la explotación activa de vulnerabilidades de WordPress que afecta a millones de sitios web",
+    "summary": "Los atacantes aprovechan fallos de seguridad recién parcheados para tomar el control de sitios web, mientras se intensifica el escaneo masivo.",
+    "source": [
+      "thehackernews",
+      "techcrunch"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Entusiasta acopla un enorme disipador de aluminio a una RTX 4060 para refrigeración pasiva",
+    "summary": "Un modder instala un bloque de aluminio de 2,5 kg en la tarjeta gráfica, logrando un funcionamiento sin ventiladores con disipación por convección.",
+    "source": [
+      "tomshardware",
+      "videocardz"
     ],
     "count": 2
   }
