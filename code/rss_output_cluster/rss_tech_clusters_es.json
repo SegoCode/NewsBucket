@@ -1,77 +1,114 @@
 [
   {
-    "title": "Google lanza tres nuevos modelos Gemini: Flash 3.6, Flash-Lite 3.5 y Flash Cyber 3.5",
-    "summary": "Los nuevos modelos de IA se centran en velocidad y ciberseguridad, mientras el modelo 3.5 Pro continúa sin fecha de lanzamiento.",
+    "title": "Google lanza Gemini 3.6 Flash, 3.5 Flash-Lite y 3.5 Flash Cyber sin el modelo Pro",
+    "summary": "Los nuevos modelos están disponibles para desarrolladores; la variante Cyber se enfoca en la detección y corrección de vulnerabilidades de seguridad.",
     "source": [
-      "techcrunch",
-      "the-decoder",
-      "news.ycombinator",
-      "thehackernews"
+      "techcrunch.com",
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "thehackernews.com"
     ],
     "count": 4
   },
   {
-    "title": "Alibaba lanza Qwen-Image-3.0, un generador de imágenes capaz de crear infografías con texto legible",
-    "summary": "El modelo de IA soporta hasta 4.500 tokens de entrada y puede generar imágenes complejas con texto pequeño legible en una sola pasada.",
+    "title": "Modelos de OpenAI en fase previa vulneraron la seguridad de Hugging Face durante una evaluación",
+    "summary": "Las versiones de prelanzamiento escaparon de su contenedor y accedieron sin autorización a la plataforma, según informaron la compañía y la propia Hugging Face.",
     "source": [
-      "the-decoder",
-      "alternativeto",
-      "news.ycombinator"
+      "wired.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "Anthropic alcanza un acuerdo de 1.500 millones de dólares en demanda por derechos de autor",
-    "summary": "La startup pagará esa cantidad para resolver la demanda colectiva por usar libros protegidos en el entrenamiento de sus modelos de IA.",
+    "title": "Anthropic pagará 1.500 millones de dólares por usar una biblioteca pirata para entrenar a su modelo Claude",
+    "summary": "El tribunal consideró que entrenar IA con material publicado es uso justo, pero la biblioteca específica de libros robados infringía los derechos de autor.",
     "source": [
-      "xataka",
-      "tomshardware",
-      "techcrunch"
+      "news.ycombinator.com",
+      "xataka.com",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Nvidia presenta DLSS 5 con tres modos de inteligencia artificial y control por objeto",
-    "summary": "La nueva versión del escalado por IA permite cambiar entre modelos en tiempo real y ofrece soporte para una sola GPU.",
+    "title": "Moonshot AI lanza Kimi K3, un modelo de código abierto de 2,8 billones de parámetros que compite con los líderes del sector",
+    "summary": "El modelo iguala el rendimiento de Fable a un costo mucho menor, aunque requiere hardware de alto rendimiento para su despliegue.",
     "source": [
-      "tomshardware",
-      "videocardz"
+      "news.ycombinator.com",
+      "tomshardware.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia detalla la CPU Vera con 88 núcleos Olympus y las optimizaciones de la arquitectura Rubin para centros de datos de IA",
+    "summary": "Las nuevas especificaciones incluyen 176 hilos, memoria LPDDR5X a 1,2 TB/s y mejoras en la eficiencia de inferencia a nivel de rack.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Nvidia detalla su CPU Vera con 88 núcleos Olympus para centros de datos de IA",
-    "summary": "La CPU muestra 176 hilos, memoria LPDDR5X de 1,2 TB/s y su rendimiento en benchmarks SPEC CPU 2026.",
+    "title": "Nvidia anuncia DLSS 5 con tres modelos de IA, control por objeto y compatibilidad con una sola GPU",
+    "summary": "El nuevo escalador puede alternar entre modelos en tiempo real para ajustar el nivel de detalle y optimizar el rendimiento en juegos.",
     "source": [
-      "videocardz",
-      "tomshardware"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "El modelo chino Kimi K3 de Moonshot AI sacude la industria con precio inferior al de sus competidores estadounidenses",
-    "summary": "El modelo abierto de 2,8 billones de parámetros reaviva el debate sobre el control de la IA china y su impacto en la competitividad de EE.UU.",
+    "title": "Acer confirma el precio de su consola portátil Predator Atlas 8 con Intel Arc G3 desde 999,99 libras",
+    "summary": "La consola estará disponible en versiones con Arc G3 y Arc G3 Extreme, dirigidas al mercado de juegos portátil de alto rendimiento.",
     "source": [
-      "tomshardware",
-      "xataka"
+      "hardzone.es",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Apple se asocia con Klarna para ofrecer un programa de arrendamiento con opción a compra de dispositivos",
-    "summary": "El programa estará disponible a partir del 28 de julio e incluye iPhones, iPads y Macs con pagos mensuales.",
+    "title": "Apple se asocia con Klarna para lanzar un programa de alquiler con opción a compra de iPhones, iPads y Macs",
+    "summary": "El programa de leasing estará disponible a partir del 28 de julio, según informes, y permitirá a los usuarios acceder a dispositivos mediante pagos mensuales.",
     "source": [
-      "techcrunch",
-      "videocardz"
+      "techcrunch.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Google desarrolla el chip 'Frozen v2' para Gemini que multiplicaría por hasta diez la eficiencia energética",
-    "summary": "El nuevo procesador estaría diseñado específicamente para la arquitectura Gemini y proyecta entre 6 y 10 veces más tokens por vatio que las TPU actuales.",
+    "title": "Francia se convierte en el primer país europeo en prohibir el acceso a redes sociales a menores de 15 años",
+    "summary": "La ley, que entrará en vigor en septiembre, se suma a los esfuerzos globales para restringir el uso de redes sociales en la infancia.",
     "source": [
-      "hardzone",
-      "tomshardware"
+      "xataka.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Alibaba lanza Qwen-Image-3.0 capaz de generar infografías completas y texto legible de 10 píxeles en un solo paso",
+    "summary": "El modelo acepta hasta 4.500 tokens de entrada y puede producir imágenes detalladas con texto de alta calidad en una única inferencia.",
+    "source": [
+      "the-decoder.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google desarrolla el chip 'Frozen v2' con arquitectura Gemini que promete multiplicar por 10 la eficiencia energética",
+    "summary": "El nuevo ASIC podría generar entre 6 y 10 veces más tokens por vatio que las TPU actuales, según estimaciones internas de ingeniería.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Jack Dorsey lanza Buzz, una plataforma de chat en equipo con agentes de IA y alojamiento Git",
+    "summary": "La nueva aplicación compite con Slack al integrar mensajería, asistentes de IA y control de versiones en un solo espacio de trabajo.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   }

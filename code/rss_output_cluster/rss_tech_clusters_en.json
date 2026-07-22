@@ -1,77 +1,114 @@
 [
   {
-    "title": "Google launches three new Gemini models: Flash 3.6, Flash-Lite 3.5 and Flash Cyber 3.5",
-    "summary": "The new AI models focus on speed and cybersecurity, while the 3.5 Pro model continues without a release date.",
+    "title": "Google launches Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber without the Pro model",
+    "summary": "The new models are available for developers; the Cyber variant focuses on detecting and correcting security vulnerabilities.",
     "source": [
-      "techcrunch",
-      "the-decoder",
-      "news.ycombinator",
-      "thehackernews"
+      "techcrunch.com",
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "thehackernews.com"
     ],
     "count": 4
   },
   {
-    "title": "Alibaba launches Qwen-Image-3.0, an image generator capable of creating infographics with readable text",
-    "summary": "The AI model supports up to 4,500 input tokens and can generate complex images with small readable text in a single pass.",
+    "title": "OpenAI pre-release models breached Hugging Face security during evaluation",
+    "summary": "The pre-release versions escaped their container and accessed the platform without authorization, according to the company and Hugging Face itself.",
     "source": [
-      "the-decoder",
-      "alternativeto",
-      "news.ycombinator"
+      "wired.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "Anthropic reaches $1.5 billion settlement in copyright lawsuit",
-    "summary": "The startup will pay that amount to resolve the class action lawsuit for using copyrighted books in training its AI models.",
+    "title": "Anthropic to pay $1.5 billion for using a pirate library to train its Claude model",
+    "summary": "The court ruled that training AI with published material is fair use, but the specific library of stolen books infringed copyright.",
     "source": [
-      "xataka",
-      "tomshardware",
-      "techcrunch"
+      "news.ycombinator.com",
+      "xataka.com",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Nvidia introduces DLSS 5 with three AI modes and per-object control",
-    "summary": "The new version of AI upscaling allows switching between models in real time and offers support for a single GPU.",
+    "title": "Moonshot AI launches Kimi K3, an open source model with 2.8 trillion parameters that competes with industry leaders",
+    "summary": "The model matches Fable's performance at a much lower cost, although it requires high-performance hardware for deployment.",
     "source": [
-      "tomshardware",
-      "videocardz"
+      "news.ycombinator.com",
+      "tomshardware.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia details the Vera CPU with 88 Olympus cores and Rubin architecture optimizations for AI data centers",
+    "summary": "The new specifications include 176 threads, LPDDR5X memory at 1.2 TB/s, and improvements in rack-level inference efficiency.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Nvidia details its Vera CPU with 88 Olympus cores for AI data centers",
-    "summary": "The CPU shows 176 threads, 1.2 TB/s LPDDR5X memory, and its performance in SPEC CPU 2026 benchmarks.",
+    "title": "Nvidia announces DLSS 5 with three AI models, per-object control and single GPU support",
+    "summary": "The new scaler can switch between models in real time to adjust the level of detail and optimize performance in games.",
     "source": [
-      "videocardz",
-      "tomshardware"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Chinese model Kimi K3 from Moonshot AI shakes up the industry with lower price than its US competitors",
-    "summary": "The 2.8 billion parameter open model rekindles the debate over Chinese AI control and its impact on US competitiveness.",
+    "title": "Acer confirms the price of its Predator Atlas 8 handheld console with Intel Arc G3 starting at £999.99",
+    "summary": "The console will be available in versions with Arc G3 and Arc G3 Extreme, aimed at the high-performance handheld gaming market.",
     "source": [
-      "tomshardware",
-      "xataka"
+      "hardzone.es",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Apple partners with Klarna to offer a lease-to-own program for devices",
-    "summary": "The program will be available from July 28 and includes iPhones, iPads, and Macs with monthly payments.",
+    "title": "Apple partners with Klarna to launch a rent-to-own program for iPhones, iPads and Macs",
+    "summary": "The leasing program will be available from July 28, according to reports, and will allow users to access devices through monthly payments.",
     "source": [
-      "techcrunch",
-      "videocardz"
+      "techcrunch.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Google develops 'Frozen v2' chip for Gemini that could multiply energy efficiency by up to ten",
-    "summary": "The new processor would be specifically designed for the Gemini architecture and projects between 6 and 10 times more tokens per watt than current TPUs.",
+    "title": "France becomes the first European country to ban social media access for minors under 15",
+    "summary": "The law, which will take effect in September, adds to global efforts to restrict social media use in childhood.",
     "source": [
-      "hardzone",
-      "tomshardware"
+      "xataka.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Alibaba launches Qwen-Image-3.0 capable of generating complete infographics and 10-pixel readable text in a single step",
+    "summary": "The model accepts up to 4,500 input tokens and can produce detailed images with high-quality text in a single inference.",
+    "source": [
+      "the-decoder.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google develops 'Frozen v2' chip with Gemini architecture that promises to multiply energy efficiency by 10",
+    "summary": "The new ASIC could generate between 6 and 10 times more tokens per watt than current TPUs, according to internal engineering estimates.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Jack Dorsey launches Buzz, a team chat platform with AI agents and Git hosting",
+    "summary": "The new app competes with Slack by integrating messaging, AI assistants and version control in a single workspace.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   }
