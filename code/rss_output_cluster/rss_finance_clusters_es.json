@@ -1,96 +1,137 @@
 [
   {
-    "title": "Las bolsas europeas cotizan mixtas en una jornada clave de resultados empresariales",
-    "summary": "El DAX alemán supera la barrera de los 25.000 puntos, mientras que el IBEX 35 cotiza plano alrededor de los 19.300 enteros a la espera de la oleada de informes trimestrales.",
+    "title": "La inteligencia artificial continúa transformando las estrategias empresariales y de inversión",
+    "summary": "El auge de la IA impulsa a empresas tecnológicas y gestoras de activos, mientras algunos analistas advierten de un posible exceso de confianza y ven un giro hacia la industria tradicional.",
     "source": [
-      "handelsblatt.com",
+      "finance.yahoo.com",
+      "investing.com",
       "bolsamania.com",
       "expansion.com",
-      "nasdaq.com"
+      "handelsblatt.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Los precios del petróleo suben por las tensiones en Oriente Medio y los cortes de suministro",
+    "summary": "El crudo supera los 95 dólares ante la escalada del conflicto con Irán, los ataques hutíes en el mar Rojo y la interrupción de oleoductos, mientras la AIE advierte del riesgo para el suministro energético.",
+    "source": [
+      "nikkei.com",
+      "ft.com",
+      "bolsamania.com",
+      "expansion.com"
     ],
     "count": 4
   },
   {
-    "title": "El petróleo sube a máximos de seis semanas por la escalada del conflicto en Oriente Medio",
-    "summary": "El crudo se fortalece ante las amenazas hutíes a petroleros saudíes, la suspensión de flujos desde Kazajistán y la advertencia de la AIE sobre la oferta iraní, con Goldman Sachs elevando su pronóstico a 120 dólares.",
-    "source": [
-      "ft.com",
-      "expansion.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Japón amenaza con una intervención 'audaz' mientras el yen se desploma a los 163 yenes por dólar",
-    "summary": "La moneda japonesa sigue su tendencia bajista a pesar de las advertencias de Tokio, avivando los rumores de una posible acción coordinada en el mercado de divisas.",
+    "title": "Wall Street cierra mixto en una jornada marcada por el alza del petróleo y la espera de resultados de Alphabet y Tesla",
+    "summary": "Los índices estadounidenses oscilan entre pérdidas y ganancias; el Dow Jones sube ligeramente mientras el Nasdaq y el S&P 500 ceden, con el crudo en máximos y la atención puesta en las tecnológicas.",
     "source": [
       "bolsamania.com",
-      "ft.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "La deuda soberana europea se tensa por el riesgo político en Francia y el repunte de la inflación",
-    "summary": "Los rendimientos de los bonos suben ante la incertidumbre fiscal francesa y las presiones inflacionarias del petróleo, mientras los grandes inversores temen sufrir pérdidas significativas.",
-    "source": [
-      "expansion.com",
-      "ft.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Airbus anuncia un programa de recompra de 5.000 millones de euros y fija su objetivo de beneficio para 2029",
-    "summary": "Las acciones de Airbus se disparan un 7% tras confirmar el plan de recompra y situar su objetivo de EBIT ajustado para 2029 entre 12.000 y 13.000 millones de euros.",
-    "source": [
-      "investing.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Norsk Hydro registra un fuerte crecimiento de sus ganancias en el segundo trimestre",
-    "summary": "La compañía noruega de aluminio ve cómo sus acciones suben tras publicar un espectacular aumento de sus beneficios trimestrales, impulsado por ganancias extraordinarias y mayores ingresos.",
-    "source": [
-      "investing.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DSV Panalpina cae en bolsa tras reportar un descenso de sus ganancias trimestrales",
-    "summary": "La empresa de logística danesa reduce sus perspectivas de beneficio para el ejercicio 2026, lo que desencadena una ola de ventas en el mercado.",
-    "source": [
-      "investing.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las acciones de Super Micro Computer se disparan por la fiebre inversora en inteligencia artificial",
-    "summary": "El fabricante de servidores se revaloriza con fuerza en el Nasdaq, atrayendo a inversores minoristas ansiosos por subirse a la ola de la IA.",
-    "source": [
-      "investing.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El presidente surcoreano pide la regulación de los fondos apalancados mientras la bolsa sube",
-    "summary": "El mercado de Seúl extiende su rally impulsado por el sector tecnológico, mientras el gobierno busca endurecer las normas sobre los fondos de inversión apalancados.",
-    "source": [
-      "/r/stocks",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Crece el escepticismo hacia la burbuja de la IA y los inversores rotan hacia sectores industriales",
-    "summary": "El respaldo multimillonario a las grandes tecnológicas enfrenta críticas y un escrutinio más riguroso, mientras los gestores de fondos redirigen su capital hacia empresas industriales tradicionales.",
-    "source": [
-      "expansion.com",
+      "finance.yahoo.com",
+      "nasdaq.com",
       "handelsblatt.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Las bolsas europeas suben impulsadas por el sector energético y los resultados empresariales",
+    "summary": "El Ibex 35 supera los 19.600 puntos y el Dax cierra por encima de 25.000, con destacados avances de Naturgy, Mapfre y Repsol, en una jornada positiva para la región.",
+    "source": [
+      "investing.com",
+      "handelsblatt.com",
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Aumentan las tensiones diplomáticas entre Estados Unidos y China en tecnología y diplomacia",
+    "summary": "El CEO de Nvidia sugiere usar modelos chinos de IA, el Senado veta vehículos chinos, y los cancilleres discuten la visita de Xi mientras Rubio refuerza alianzas en Asia.",
+    "source": [
+      "finance.yahoo.com",
+      "investing.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD invertirá hasta 5.000 millones de dólares en la startup de inteligencia artificial Anthropic",
+    "summary": "La inversión refuerza la alianza tecnológica para el desarrollo de chips de IA, y Anthropic planea adquirir hasta 2 GW de capacidad de cómputo.",
+    "source": [
+      "investing.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia recibe una advertencia de TSMC mientras el mercado anticipa un repunte",
+    "summary": "Taiwan Semiconductor Manufacturing advierte sobre las perspectivas de Nvidia, aunque los analistas ven posible una recuperación hacia niveles máximos.",
+    "source": [
+      "nasdaq.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Directivos de varias empresas venden acciones por valor de millones de dólares",
+    "summary": "Ejecutivos de Best Buy, CoreWeave y otros sectores reducen sus participaciones, en movimientos que reflejan ajustes de cartera personales.",
+    "source": [
+      "investing.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "JPMorgan reporta un crecimiento de beneficios pero sus acciones no lo reflejan",
+    "summary": "El banco supera estimaciones de ganancias en el segundo trimestre, pero el mercado recibe los resultados con cautela y la acción se queda rezagada.",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El capital privado se queda atrás mientras el auge de las OPV impulsa a los bancos de Wall Street",
+    "summary": "Las salidas a bolsa y las fusiones benefician a la banca de inversión tradicional, mientras los fondos de private equity pierden terreno.",
+    "source": [
+      "expansion.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Samsung lanza un nuevo teléfono plegable y planea invertir 180.000 millones de yenes en inteligencia artificial",
+    "summary": "La compañía surcoreana sube los precios por el alza de los chips y estudia una inversión en la startup francesa Mistral AI.",
+    "source": [
+      "investing.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El oro desciende desde niveles elevados pero sigue siendo recomendado como activo refugio",
+    "summary": "El metal precioso cae tras alcanzar máximos, aunque los analistas lo consideran una buena opción de diversificación en carteras.",
+    "source": [
+      "finance.yahoo.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Europa avanza en la regulación de criptomonedas con MiCA y la primera autorización de stablecoins en España",
+    "summary": "El Banco de España autoriza a Criptan a operar con stablecoins reguladas, en el marco de la nueva normativa europea MiCA que genera debate en el sector.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El mercado espera con atención los resultados trimestrales de Alphabet y Tesla",
+    "summary": "Los inversores se preparan para las cuentas de las dos grandes tecnológicas, que marcarán la pauta para el sector en el segundo semestre.",
+    "source": [
+      "investing.com",
+      "finance.yahoo.com"
     ],
     "count": 2
   }

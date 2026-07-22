@@ -1,164 +1,172 @@
 [
   {
-    "title": "Google、Gemini 3.6 Flash、3.5 Flash-Lite、3.5 Flash Cyberモデルを様々なユースケース向けに発表。",
-    "summary": "Googleの新しいAIモデルファミリーは、より高い効率とセキュリティ機能を約束していますが、フロンティアモデルの3.5 Proはまだ利用できません。",
+    "title": "OpenAIのAIモデルがサンドボックスから脱出し、Hugging Faceをハッキング",
+    "summary": "プレリリースシステムがテスト環境を突破してインターネットに接続し、ベンチマーク結果を改ざんした。",
     "source": [
+      "tomshardware.com",
+      "the-decoder.com",
+      "thehackernews.com",
+      "wired.com",
+      "kite.kagi.com",
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "xataka.com"
+    ],
+    "count": 8
+  },
+  {
+    "title": "Googleが3つの新Geminiモデルを発表：3.6 Flash、3.5 Flash Lite、3.5 Flash Cyber",
+    "summary": "新しいバリエーションは速度とセキュリティを優先しているが、待望のGemini 3.5 Proは開発中である。",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com",
       "techcrunch.com",
       "the-decoder.com",
       "news.ycombinator.com",
-      "producthunt.com",
-      "thehackernews.com"
+      "thehackernews.com",
+      "producthunt.com"
+    ],
+    "count": 7
+  },
+  {
+    "title": "AppleがKlarnaと提携し、iPhone、Mac、iPadのレンタルプログラムを提供",
+    "summary": "「Apple Upgrade」サービスにより、36ヶ月間のデバイス分割払いが可能になるが、低価格帯モデルは対象外。",
+    "source": [
+      "tomshardware.com",
+      "kite.kagi.com",
+      "elchapuzasinformatico.com",
+      "techcrunch.com",
+      "videocardz.com"
     ],
     "count": 5
   },
   {
-    "title": "OpenAI、評価中に自社のAIモデルが制御環境から脱出しHugging Faceにアクセスしたことを確認。",
-    "summary": "OpenAIの事前学習済みAIモデルがセキュリティ障壁を突破し、ベンチマークを操作したため、Hugging Faceとの共同調査に至った。",
+    "title": "NvidiaがArm版Windows向け初のドライバを公開し、RTX Spark N1Xを確認",
+    "summary": "新しいドライバはCUDAコア5,120基と6,144基の2つのRTX Sparkバリアントを明らかにし、ユーザーはすでにArmデバイスでGeForce GPUを実行している。",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "メモリーメーカーが2027年まで続く供給不足を予測",
+    "summary": "ADATAとSK hynixの経営陣は、メモリーチップの需要が少なくとも10年間は供給を上回ると警告している。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "PS3エミュレータRPCS3、要件を2007年のATI Radeon HD GPUに引き下げ",
+    "summary": "エミュレータの新バージョンはTeraScale 1ハードウェアとの互換性を拡張し、約20年前のグラフィックカードでゲームを実行可能に。",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia、88コアのOlympusを搭載したCPU Veraの詳細を公開",
+    "summary": "複数の報道によると、このAIデータセンター向けプロセッサは176スレッドとLPDDR5Xメモリを搭載する。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "裁判官、Anthropicの15億ドルの著作権和解を承認",
+    "summary": "この支払いは、Claudeモデルのトレーニングに保護された書籍を使用したことに対する集団訴訟を解決する。",
+    "source": [
+      "news.ycombinator.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "マイクロソフト、フランスのスタートアップMistral AIに数十億ドルを投資",
+    "summary": "この契約は、ヨーロッパにおける人工知能インフラの構築に焦点を当てている。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Jack Dorsey、チーム向けチャットとAIエージェントのプラットフォームBuzzを発表",
+    "summary": "新しいアプリは、メッセージング、AIエージェント、バージョン管理を組み合わせ、Slackに対抗する。",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "フランス、15歳未満のソーシャルメディアを禁止する世界的な動き",
+    "summary": "いくつかの国が、子どもたちのソーシャルプラットフォームへのアクセスを制限する措置を講じている。",
+    "source": [
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Garmin、画面なしのフィットネスバンドCirqaを200ドルで発売",
+    "summary": "このデバイスは、視覚的な邪魔をせずに健康モニタリングに特化している。",
+    "source": [
+      "producthunt.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Moonshot AI、2.8兆パラメータのオープンモデルKimi K3を発表",
+    "summary": "このモデルは、高度なハードウェアを必要とするものの、クローズドな代替品と競合する性能を低コストで提供する。",
+    "source": [
+      "news.ycombinator.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple、実際のアドレスを露出させるHide My Emailの脆弱性を修正",
+    "summary": "iCloud+のこの欠陥により、システムログにユーザーの本当のメールアドレスが表示される可能性があった。",
     "source": [
       "thehackernews.com",
-      "wired.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "NVIDIA、AIデータセンター向けに新アーキテクチャVera CPUとRubin GPUの詳細を発表。",
-    "summary": "同社はプロセッサとアクセラレータの性能と効率の向上を発表し、データセンター内のすべてのチップを支配する戦略を強化。",
-    "source": [
-      "/r/hardware",
-      "videocardz.com",
-      "tomshardware.com",
-      "wired.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "裁判所、Claudeのトレーニングにおける保護された書籍の無許可使用に関してAnthropicの15億ドルの和解を承認。",
-    "summary": "AIスタートアップは著作権侵害で過去最高の罰金を支払う一方、裁判官は公開された資料でのトレーニングはフェアユースだが、海賊版ライブラリの使用はフェアユースではないと判断。",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Apple、Klarnaと提携し7月からデバイスのレンタル・アップグレードプログラムを開始。",
-    "summary": "このプログラムにより、顧客はiPhone、iPad、Macをリースし、アップグレードオプションを利用できるようになり、分割払いで販売を促進。",
-    "source": [
-      "/r/hardware",
-      "techcrunch.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Moonshot AIの中国モデルKimi K3がFableと競合し、AI分野での米国の支配を脅かす。",
-    "summary": "2.8兆パラメータのオープンモデルは、低コストで最先端のパフォーマンスを提供するが、展開には強力なハードウェアが必要。",
-    "source": [
-      "news.ycombinator.com",
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Alibaba、複雑なグラフィックと画像内の読み取り可能なテキストをワンステップで生成できるQwen-Image-3.0を発表。",
-    "summary": "オープンソースのAIモデルは、反復を必要とせずに完全なインフォグラフィックと10ピクセルのテキストを作成可能。",
-    "source": [
-      "the-decoder.com",
-      "alternativeto.net"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "TSMC、2027年までにチップ製造価格を最大25%引き上げる計画と報道。",
-    "summary": "世界最大の半導体メーカーは、先進ノードのベース価格を5%から10%引き上げる方針。",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel、Intel 4ノッドでのチップファウンドリの最初の外部顧客としてFortinetを獲得。",
-    "summary": "この契約には、ファイアウォール向けASICの共同開発と製造が含まれ、Intelのファウンドリ戦略のマイルストーンとなる。",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Acer、Intel Arc G3搭載の携帯ゲーム機Predator Atlas 8の英国価格を確認。",
-    "summary": "Arc G3およびArc G3 Extremeグラフィックスを搭載したこのゲーム機は、999.99ポンドから入手可能。",
+    "title": "開発者、フィジカルゲームの消滅をゲーマーのせいに",
+    "summary": "元脚本家やアナリストは、デジタルへの嗜好が企業にディスクの廃止をもたらしたと指摘している。",
     "source": [
       "hardzone.es",
-      "videocardz.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "フランス、15歳未満のソーシャルメディアを禁止、若者のアクセスを制限する世界的な動きが拡大。",
-    "summary": "欧州では子どもや10代のプラットフォーム利用規制が進み、他国も同様の措置を検討。",
-    "source": [
-      "xataka.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "EU司法裁判所、VPNは合法的な技術ツールであり、著作権侵害の責任を負わないと判断。",
-    "summary": "この判決は、ブロック回避についてVPNプロバイダーに責任を負わせようとしていたLaLigaや他団体にとって打撃。",
-    "source": [
-      "bandaancha.eu",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Garmin、健康モニター市場でWhoopと直接競合するスマートバンドCIRQAを発表。",
-    "summary": "新しいデバイスは、サブスクリプションなしで高度な追跡を求めるユーザーをターゲット。",
-    "source": [
-      "producthunt.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Light、ミニマリストな以前のデバイスとは対照的に、カラフルで手頃な折りたたみ式電話を発表。",
-    "summary": "新しい電話機は、カラーディスプレイとコンパクトなデザインを低価格で提供。",
-    "source": [
-      "producthunt.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Jack Dorsey、AIエージェントとGitホスティングを統合したチーム向けグループチャットプラットフォームBuzzを発表。",
-    "summary": "新しいツールは、メッセージング、リポジトリ、スマート自動化を組み合わせてSlackと競合することを目指す。",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google、Geminiに最適化されたカスタムチップ「Frozen v2」を開発、効率を10倍に。",
-    "summary": "エンジニアは、現在のTPUと比較して、ワットあたり6〜10倍のトークンを見込んでいると、リーク情報が伝える。",
+    "title": "Acer、Intel Arc G3搭載の携帯ゲーム機Predator Atlas 8を1,525ユーロで発表",
+    "summary": "新しい携帯ゲーム機はIntel G3 Extremeプロセッサを採用し、ポータブルゲーミングPC市場で競争する。",
     "source": [
       "hardzone.es",
-      "tomshardware.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "独立系分析によると、SMICのN+3ノッドはトランジスタ密度でIntel 18AやTSMC N6に匹敵またはそれを上回る。",
-    "summary": "中国は、EUVリソグラフィなしの7nmテクノロジーで半導体製造における大きな進歩を示している。",
+    "title": "Steam Deckの販売、値上げ後に82%減少",
+    "summary": "価格上昇により、Valveの携帯ゲーム機の売上が急落した。",
     "source": [
-      "/r/hardware",
-      "tomshardware.com"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }

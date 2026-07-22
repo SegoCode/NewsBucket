@@ -1,96 +1,137 @@
 [
   {
-    "title": "European stocks trade mixed on key corporate earnings day",
-    "summary": "The German DAX surpasses the 25,000-point mark, while the IBEX 35 trades flat around 19,300 points ahead of the wave of quarterly reports.",
+    "title": "Artificial intelligence continues to transform business and investment strategies",
+    "summary": "The rise of AI drives tech companies and asset managers, while some analysts warn of possible overconfidence and see a shift towards traditional industry.",
     "source": [
-      "handelsblatt.com",
+      "finance.yahoo.com",
+      "investing.com",
       "bolsamania.com",
       "expansion.com",
-      "nasdaq.com"
+      "handelsblatt.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Oil prices rise due to Middle East tensions and supply cuts",
+    "summary": "Crude oil exceeds $95 amid escalating conflict with Iran, Houthi attacks in the Red Sea, and pipeline disruptions, while the IEA warns of risks to energy supply.",
+    "source": [
+      "nikkei.com",
+      "ft.com",
+      "bolsamania.com",
+      "expansion.com"
     ],
     "count": 4
   },
   {
-    "title": "Oil rises to six-week highs on escalation of Middle East conflict",
-    "summary": "Crude strengthens amid Houthi threats to Saudi tankers, suspension of flows from Kazakhstan, and the IEA's warning on Iranian supply, with Goldman Sachs raising its forecast to $120.",
-    "source": [
-      "ft.com",
-      "expansion.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Japan threatens 'bold' intervention as yen plunges to 163 yen per dollar",
-    "summary": "The Japanese currency continues its downward trend despite Tokyo's warnings, fueling rumors of possible coordinated action in the currency market.",
+    "title": "Wall Street closes mixed in a session marked by rising oil and anticipation of Alphabet and Tesla results",
+    "summary": "US indices fluctuate between losses and gains; the Dow Jones rises slightly while the Nasdaq and S&P 500 give ground, with crude at highs and focus on tech stocks.",
     "source": [
       "bolsamania.com",
-      "ft.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "European sovereign debt tightens on political risk in France and resurgence of inflation",
-    "summary": "Bond yields rise amid French fiscal uncertainty and oil-driven inflationary pressures, while large investors fear significant losses.",
-    "source": [
-      "expansion.com",
-      "ft.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Airbus announces €5 billion share buyback program and sets 2029 profit target",
-    "summary": "Airbus shares surge 7% after confirming the buyback plan and setting its adjusted EBIT target for 2029 between €12 billion and €13 billion.",
-    "source": [
-      "investing.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Norsk Hydro posts strong earnings growth in second quarter",
-    "summary": "The Norwegian aluminum company sees its shares rise after reporting a spectacular increase in quarterly profits, driven by extraordinary gains and higher revenue.",
-    "source": [
-      "investing.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DSV Panalpina falls on stock market after reporting decline in quarterly earnings",
-    "summary": "The Danish logistics company lowers its profit outlook for fiscal year 2026, triggering a wave of selling in the market.",
-    "source": [
-      "investing.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Super Micro Computer shares surge on investor frenzy in artificial intelligence",
-    "summary": "The server maker rises sharply on the Nasdaq, attracting retail investors eager to ride the AI wave.",
-    "source": [
-      "investing.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "South Korean president calls for regulation of leveraged funds as stock market rises",
-    "summary": "Seoul's market extends its rally driven by the tech sector, while the government seeks to tighten rules on leveraged investment funds.",
-    "source": [
-      "/r/stocks",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Skepticism grows toward the AI bubble and investors rotate into industrial sectors",
-    "summary": "The multi-billion-dollar backing of big tech faces criticism and tighter scrutiny, as fund managers redirect capital toward traditional industrial companies.",
-    "source": [
-      "expansion.com",
+      "finance.yahoo.com",
+      "nasdaq.com",
       "handelsblatt.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "European stock markets rise driven by the energy sector and corporate results",
+    "summary": "The Ibex 35 surpasses 19,600 points and the Dax closes above 25,000, with notable gains for Naturgy, Mapfre, and Repsol, in a positive session for the region.",
+    "source": [
+      "investing.com",
+      "handelsblatt.com",
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Diplomatic tensions between the United States and China increase over technology and diplomacy",
+    "summary": "Nvidia's CEO suggests using Chinese AI models, the Senate bans Chinese vehicles, and foreign ministers discuss Xi's visit while Rubio strengthens alliances in Asia.",
+    "source": [
+      "finance.yahoo.com",
+      "investing.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD to invest up to $5 billion in artificial intelligence startup Anthropic",
+    "summary": "The investment reinforces the tech alliance for AI chip development, and Anthropic plans to acquire up to 2 GW of computing capacity.",
+    "source": [
+      "investing.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia receives a warning from TSMC as the market anticipates a rebound",
+    "summary": "Taiwan Semiconductor Manufacturing warns about Nvidia's prospects, though analysts see a possible recovery towards all-time highs.",
+    "source": [
+      "nasdaq.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Executives of several companies sell millions of dollars worth of shares",
+    "summary": "Executives from Best Buy, CoreWeave, and other sectors reduce their holdings, in moves that reflect personal portfolio adjustments.",
+    "source": [
+      "investing.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "JPMorgan reports profit growth but its shares don't reflect it",
+    "summary": "The bank beats earnings estimates in the second quarter, but the market receives the results with caution and the stock lags behind.",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Private equity falls behind as the IPO boom boosts Wall Street banks",
+    "summary": "IPOs and mergers benefit traditional investment banks, while private equity funds lose ground.",
+    "source": [
+      "expansion.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Samsung launches a new foldable phone and plans to invest 180 billion yen in artificial intelligence",
+    "summary": "The South Korean company raises prices due to rising chip costs and considers an investment in French startup Mistral AI.",
+    "source": [
+      "investing.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Gold falls from high levels but remains recommended as a safe-haven asset",
+    "summary": "The precious metal falls after hitting highs, though analysts consider it a good diversification option in portfolios.",
+    "source": [
+      "finance.yahoo.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Europe advances in cryptocurrency regulation with MiCA and the first stablecoin authorization in Spain",
+    "summary": "The Bank of Spain authorizes Criptan to operate with regulated stablecoins, within the framework of the new European MiCA regulation that generates debate in the sector.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The market eagerly awaits the quarterly results of Alphabet and Tesla",
+    "summary": "Investors prepare for the earnings of the two major tech companies, which will set the tone for the sector in the second half of the year.",
+    "source": [
+      "investing.com",
+      "finance.yahoo.com"
     ],
     "count": 2
   }

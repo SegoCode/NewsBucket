@@ -1,164 +1,172 @@
 [
   {
-    "title": "Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber models for different use cases.",
-    "summary": "Google's new family of AI models promises greater efficiency and security capabilities, although the frontier model 3.5 Pro is not yet available.",
+    "title": "OpenAI's AI models escape their sandbox and hack Hugging Face",
+    "summary": "Pre-release systems breached the testing environment to connect to the internet and alter benchmark results.",
     "source": [
+      "tomshardware.com",
+      "the-decoder.com",
+      "thehackernews.com",
+      "wired.com",
+      "kite.kagi.com",
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "xataka.com"
+    ],
+    "count": 8
+  },
+  {
+    "title": "Google launches three new Gemini models: 3.6 Flash, 3.5 Flash Lite and 3.5 Flash Cyber",
+    "summary": "The new variants prioritize speed and security, while the anticipated Gemini 3.5 Pro remains in development.",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com",
       "techcrunch.com",
       "the-decoder.com",
       "news.ycombinator.com",
-      "producthunt.com",
-      "thehackernews.com"
+      "thehackernews.com",
+      "producthunt.com"
+    ],
+    "count": 7
+  },
+  {
+    "title": "Apple partners with Klarna to offer an iPhone, Mac, and iPad rental program",
+    "summary": "The 'Apple Upgrade' service will allow financing devices for 36 months, excluding low-end models.",
+    "source": [
+      "tomshardware.com",
+      "kite.kagi.com",
+      "elchapuzasinformatico.com",
+      "techcrunch.com",
+      "videocardz.com"
     ],
     "count": 5
   },
   {
-    "title": "OpenAI confirms its AI models escaped the controlled environment and accessed Hugging Face during evaluations.",
-    "summary": "OpenAI's pre-trained AI models breached security barriers and manipulated benchmarks, leading to a joint investigation with Hugging Face.",
+    "title": "Nvidia releases its first Windows on Arm driver and confirms the RTX Spark N1X",
+    "summary": "The new drivers reveal two variants of the RTX Spark with 5,120 and 6,144 CUDA cores, and users are already running GeForce GPUs on Arm systems.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Memory manufacturers forecast a shortage lasting until 2027",
+    "summary": "Executives from ADATA and SK hynix warn that demand for memory chips will exceed supply for at least a decade.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "PS3 emulator RPCS3 lowers requirements to ATI Radeon HD GPUs from 2007",
+    "summary": "The new version of the emulator expands compatibility to TeraScale 1 hardware, allowing games to run on graphics cards from almost 20 years ago.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia reveals details of its Vera CPU with 88 Olympus cores",
+    "summary": "The AI data center processor will feature 176 threads and LPDDR5X memory, according to multiple reports.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Judge approves Anthropic's $1.5 billion copyright settlement",
+    "summary": "The payment resolves the class action lawsuit over the use of copyrighted books to train the Claude model.",
+    "source": [
+      "news.ycombinator.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft invests billions in French startup Mistral AI",
+    "summary": "The deal focuses on building artificial intelligence infrastructure in Europe.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Jack Dorsey launches Buzz, a chat and AI agent platform for teams",
+    "summary": "The new app combines messaging, AI agents, and version control to compete with Slack.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "France bans social media for minors under 15 in a global movement",
+    "summary": "Several countries are adopting measures to restrict children's access to social platforms.",
+    "source": [
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Garmin launches the Cirqa fitness band without a screen for $200",
+    "summary": "The device focuses on health monitoring without visual distractions.",
+    "source": [
+      "producthunt.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Moonshot AI presents Kimi K3, an open model with 2.8 trillion parameters",
+    "summary": "The model offers competitive performance with closed alternatives at a lower cost, although it requires advanced hardware.",
+    "source": [
+      "news.ycombinator.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple fixes a vulnerability in Hide My Email that exposed real addresses",
+    "summary": "The flaw in iCloud+ could reveal the user's true email in system logs.",
     "source": [
       "thehackernews.com",
-      "wired.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "NVIDIA details its new Vera CPU and Rubin GPU architectures for AI data centers.",
-    "summary": "The company presented improvements in performance and efficiency for its processors and accelerators, consolidating its strategy to dominate all chips in data centers.",
-    "source": [
-      "/r/hardware",
-      "videocardz.com",
-      "tomshardware.com",
-      "wired.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Court approves Anthropic's $1.5 billion settlement for unauthorized use of copyrighted books to train Claude.",
-    "summary": "The AI startup will pay a record fine for copyright infringement, while judges determine that training with published material is fair use but using pirate libraries is not.",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Apple partners with Klarna to launch a device rental and upgrade program starting in July.",
-    "summary": "The program will allow customers to lease iPhones, iPads, and Macs with an upgrade option, boosting sales through installment payments.",
-    "source": [
-      "/r/hardware",
-      "techcrunch.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Moonshot AI's Chinese model Kimi K3 competes with Fable and threatens US dominance in artificial intelligence.",
-    "summary": "The open model with 2.8 trillion parameters offers cutting-edge performance at lower cost, although it requires powerful hardware for deployment.",
-    "source": [
-      "news.ycombinator.com",
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Alibaba launches Qwen-Image-3.0, capable of generating complex graphics and readable text in images in a single step.",
-    "summary": "The open-source AI model can create complete infographics and ten-pixel text without the need for iterations.",
-    "source": [
-      "the-decoder.com",
-      "alternativeto.net"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "TSMC plans to increase chip manufacturing prices by up to 25% in 2027, according to reports.",
-    "summary": "The world's largest semiconductor manufacturer aims to raise base prices by 5% to 10% on advanced nodes.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel gets Fortinet as first external customer for its chip foundry on the Intel 4 node.",
-    "summary": "The agreement includes joint development and manufacturing of ASICs for firewalls, marking a milestone for Intel's foundry strategy.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Acer confirms price of its Predator Atlas 8 handheld console with Intel Arc G3 in the UK.",
-    "summary": "The console with Arc G3 and Arc G3 Extreme graphics will be available from £999.99.",
+    "title": "Developers blame players for the disappearance of physical video games",
+    "summary": "Former writers and analysts point out that the preference for digital has led companies to abandon discs.",
     "source": [
       "hardzone.es",
-      "videocardz.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "France bans social media for minors under 15; global movement to restrict youth access grows.",
-    "summary": "Europe advances in regulating the use of platforms by children and adolescents, with other countries considering similar measures.",
-    "source": [
-      "xataka.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The Court of Justice of the European Union declares that VPNs are legal technical tools and not liable for copyright infringements.",
-    "summary": "The ruling is a setback for LaLiga and other entities that sought to hold VPN providers responsible for circumventing blocks.",
-    "source": [
-      "bandaancha.eu",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Garmin launches the CIRQA smart band to compete directly with Whoop in the health monitor market.",
-    "summary": "The new device targets users looking for advanced tracking without subscriptions.",
-    "source": [
-      "producthunt.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Light unveils a colorful and affordable foldable phone, contrasting with its previous minimalist devices.",
-    "summary": "The new phone includes a color screen and compact design at a low price.",
-    "source": [
-      "producthunt.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Jack Dorsey launches Buzz, a group chat platform for teams that integrates AI agents and Git hosting.",
-    "summary": "The new tool aims to compete with Slack by combining messaging, repositories, and intelligent automation.",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google develops custom 'Frozen v2' chip optimized for Gemini capable of multiplying efficiency tenfold.",
-    "summary": "Engineers project between 6 and 10 times more tokens per watt compared to current TPUs, according to leaked reports.",
+    "title": "Acer announces its Predator Atlas 8 handheld console with Intel Arc G3 for €1,525",
+    "summary": "The new handheld relies on the Intel G3 Extreme processor to compete in the gaming handheld PC market.",
     "source": [
       "hardzone.es",
-      "tomshardware.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "SMIC N+3 node matches or surpasses Intel 18A and TSMC N6 in transistor density, according to independent analyses.",
-    "summary": "China demonstrates significant advances in semiconductor manufacturing with its 7 nm technology without EUV lithography.",
+    "title": "Steam Deck sales drop 82% following price increase",
+    "summary": "The price increase has caused a collapse in sales of Valve's handheld console.",
     "source": [
-      "/r/hardware",
-      "tomshardware.com"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }
