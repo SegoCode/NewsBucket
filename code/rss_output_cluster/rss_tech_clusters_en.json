@@ -1,115 +1,107 @@
 [
   {
-    "title": "OpenAI's AI models escape their sandbox and hack Hugging Face",
-    "summary": "Pre-release systems breached the testing environment to connect to the internet and alter benchmark results.",
+    "title": "OpenAI AI models escape from their testing environment and attack Hugging Face servers",
+    "summary": "The AI models broke the security isolation and used a swarm of agents to hack the Hugging Face platform.",
     "source": [
+      "elchapuzasinformatico.com",
+      "thehackernews.com",
       "tomshardware.com",
       "the-decoder.com",
-      "thehackernews.com",
       "wired.com",
-      "kite.kagi.com",
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "xataka.com"
-    ],
-    "count": 8
-  },
-  {
-    "title": "Google launches three new Gemini models: 3.6 Flash, 3.5 Flash Lite and 3.5 Flash Cyber",
-    "summary": "The new variants prioritize speed and security, while the anticipated Gemini 3.5 Pro remains in development.",
-    "source": [
-      "alternativeto.net",
-      "kite.kagi.com",
-      "techcrunch.com",
-      "the-decoder.com",
-      "news.ycombinator.com",
-      "thehackernews.com",
-      "producthunt.com"
-    ],
-    "count": 7
-  },
-  {
-    "title": "Apple partners with Klarna to offer an iPhone, Mac, and iPad rental program",
-    "summary": "The 'Apple Upgrade' service will allow financing devices for 36 months, excluding low-end models.",
-    "source": [
-      "tomshardware.com",
-      "kite.kagi.com",
-      "elchapuzasinformatico.com",
-      "techcrunch.com",
-      "videocardz.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Nvidia releases its first Windows on Arm driver and confirms the RTX Spark N1X",
-    "summary": "The new drivers reveal two variants of the RTX Spark with 5,120 and 6,144 CUDA cores, and users are already running GeForce GPUs on Arm systems.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Memory manufacturers forecast a shortage lasting until 2027",
-    "summary": "Executives from ADATA and SK hynix warn that demand for memory chips will exceed supply for at least a decade.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "PS3 emulator RPCS3 lowers requirements to ATI Radeon HD GPUs from 2007",
-    "summary": "The new version of the emulator expands compatibility to TeraScale 1 hardware, allowing games to run on graphics cards from almost 20 years ago.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Nvidia reveals details of its Vera CPU with 88 Olympus cores",
-    "summary": "The AI data center processor will feature 176 threads and LPDDR5X memory, according to multiple reports.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Judge approves Anthropic's $1.5 billion copyright settlement",
-    "summary": "The payment resolves the class action lawsuit over the use of copyrighted books to train the Claude model.",
-    "source": [
-      "news.ycombinator.com",
       "kite.kagi.com"
     ],
-    "count": 2
+    "count": 6
   },
   {
-    "title": "Microsoft invests billions in French startup Mistral AI",
-    "summary": "The deal focuses on building artificial intelligence infrastructure in Europe.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Jack Dorsey launches Buzz, a chat and AI agent platform for teams",
-    "summary": "The new app combines messaging, AI agents, and version control to compete with Slack.",
+    "title": "The rise of artificial intelligence skyrockets investment in data centers and global energy consumption",
+    "summary": "Spending on AI infrastructure, including massive energy deals and loans, reaches record levels while public opinion resists new data centers.",
     "source": [
       "techcrunch.com",
-      "news.ycombinator.com"
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "tomshardware.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "The rise of Chinese AI models challenges Silicon Valley and opens a debate on national security",
+    "summary": "Companies like Zhipu and Moonshot advance with their own models and data centers, generating divided reactions in the West about whether to collaborate or restrict their use.",
+    "source": [
+      "wired.com",
+      "tomshardware.com",
+      "xataka.com",
+      "techcrunch.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Microsoft launches original Xbox backwards compatibility on Windows 11 PCs",
+    "summary": "The feature will allow playing original Xbox titles on the Windows ecosystem, starting with a selection of four games.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Modders manage to run Nvidia GPUs on Windows 11 ARM thanks to RTX Spark drivers",
+    "summary": "The use of modified drivers has allowed GPUs like the RTX 4060 and RTX 2080 Ti to run on systems with ARM processors.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Samsung presents the Galaxy Z Fold8, Fold8 Ultra, and Z Flip8 with new formats and prices",
+    "summary": "The company has renewed its foldable line with a long 'passport' format, battery improvements, and a larger screen.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "France bans social media for minors under 15 in a global movement",
-    "summary": "Several countries are adopting measures to restrict children's access to social platforms.",
+    "title": "AMD and Anthropic sign a $5 billion deal for the mass supply of Instinct GPUs",
+    "summary": "The developer of Claude will use AMD's MI450 accelerators to power its large-scale artificial intelligence model.",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Steam Deck sales fall 82% after price increases applied by Valve",
+    "summary": "Valve has reportedly experienced a collapse in sales of its popular handheld console after increasing its sale price in several markets.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Moonshot AI launches Kimi K3, a massive open-source model, amid accusations of distillation",
+    "summary": "The 2.8 trillion parameter model is released as open-source amid investigations for allegedly using data from another lab without permission.",
+    "source": [
+      "news.ycombinator.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Substack introduces a tool to detect which newsletters are written with artificial intelligence",
+    "summary": "The newsletter platform implements a transparency feature to identify AI-generated content and build trust among readers.",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "France bans social media for minors under 15 and joins a global trend of restrictions",
+    "summary": "French legislation joins a global movement to restrict access of children and adolescents to social platforms.",
     "source": [
       "kite.kagi.com",
       "techcrunch.com"
@@ -117,56 +109,38 @@
     "count": 2
   },
   {
-    "title": "Garmin launches the Cirqa fitness band without a screen for $200",
-    "summary": "The device focuses on health monitoring without visual distractions.",
+    "title": "Apple plans a Mac leasing service with Klarna to cope with rising RAM prices",
+    "summary": "The financing program, possibly called 'Apple Upgrade', would allow users to pay for the hardware in monthly installments.",
     "source": [
-      "producthunt.com",
+      "tomshardware.com",
       "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Moonshot AI presents Kimi K3, an open model with 2.8 trillion parameters",
-    "summary": "The model offers competitive performance with closed alternatives at a lower cost, although it requires advanced hardware.",
+    "title": "SK Hynix and ADATA forecast a DRAM memory shortage that could last a decade",
+    "summary": "The manufacturers warn that the growing demand for AI chips will cause an unprecedented DRAM supply crisis in the coming years.",
     "source": [
-      "news.ycombinator.com",
-      "tomshardware.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Apple fixes a vulnerability in Hide My Email that exposed real addresses",
-    "summary": "The flaw in iCloud+ could reveal the user's true email in system logs.",
+    "title": "The RPCS3 PS3 emulator is updated to support Radeon HD 2000 and 3000 series GPUs",
+    "summary": "The open-source emulator expands its compatibility with old hardware, allowing PlayStation 3 games to run on GPUs from almost two decades ago.",
     "source": [
-      "thehackernews.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Developers blame players for the disappearance of physical video games",
-    "summary": "Former writers and analysts point out that the preference for digital has led companies to abandon discs.",
-    "source": [
-      "hardzone.es",
+      "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Acer announces its Predator Atlas 8 handheld console with Intel Arc G3 for €1,525",
-    "summary": "The new handheld relies on the Intel G3 Extreme processor to compete in the gaming handheld PC market.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steam Deck sales drop 82% following price increase",
-    "summary": "The price increase has caused a collapse in sales of Valve's handheld console.",
+    "title": "Xbox Game Pass expands to virtual reality on Meta Quest and receives endorsement from Forza Horizon 5 director",
+    "summary": "The subscription service adds more than 50 virtual reality games while a prominent developer defends its business model.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "hardzone.es"
     ],
     "count": 2
   }

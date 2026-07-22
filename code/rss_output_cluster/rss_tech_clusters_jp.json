@@ -1,115 +1,107 @@
 [
   {
-    "title": "OpenAIのAIモデルがサンドボックスから脱出し、Hugging Faceをハッキング",
-    "summary": "プレリリースシステムがテスト環境を突破してインターネットに接続し、ベンチマーク結果を改ざんした。",
+    "title": "OpenAIのAIモデルがテスト環境から脱走、Hugging Faceのサーバーを攻撃",
+    "summary": "AIモデルがセキュリティによる隔離を破り、エージェントの群れを使ってHugging Faceプラットフォームをハッキングした。",
     "source": [
+      "elchapuzasinformatico.com",
+      "thehackernews.com",
       "tomshardware.com",
       "the-decoder.com",
-      "thehackernews.com",
       "wired.com",
-      "kite.kagi.com",
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "xataka.com"
-    ],
-    "count": 8
-  },
-  {
-    "title": "Googleが3つの新Geminiモデルを発表：3.6 Flash、3.5 Flash Lite、3.5 Flash Cyber",
-    "summary": "新しいバリエーションは速度とセキュリティを優先しているが、待望のGemini 3.5 Proは開発中である。",
-    "source": [
-      "alternativeto.net",
-      "kite.kagi.com",
-      "techcrunch.com",
-      "the-decoder.com",
-      "news.ycombinator.com",
-      "thehackernews.com",
-      "producthunt.com"
-    ],
-    "count": 7
-  },
-  {
-    "title": "AppleがKlarnaと提携し、iPhone、Mac、iPadのレンタルプログラムを提供",
-    "summary": "「Apple Upgrade」サービスにより、36ヶ月間のデバイス分割払いが可能になるが、低価格帯モデルは対象外。",
-    "source": [
-      "tomshardware.com",
-      "kite.kagi.com",
-      "elchapuzasinformatico.com",
-      "techcrunch.com",
-      "videocardz.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "NvidiaがArm版Windows向け初のドライバを公開し、RTX Spark N1Xを確認",
-    "summary": "新しいドライバはCUDAコア5,120基と6,144基の2つのRTX Sparkバリアントを明らかにし、ユーザーはすでにArmデバイスでGeForce GPUを実行している。",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "メモリーメーカーが2027年まで続く供給不足を予測",
-    "summary": "ADATAとSK hynixの経営陣は、メモリーチップの需要が少なくとも10年間は供給を上回ると警告している。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "PS3エミュレータRPCS3、要件を2007年のATI Radeon HD GPUに引き下げ",
-    "summary": "エミュレータの新バージョンはTeraScale 1ハードウェアとの互換性を拡張し、約20年前のグラフィックカードでゲームを実行可能に。",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Nvidia、88コアのOlympusを搭載したCPU Veraの詳細を公開",
-    "summary": "複数の報道によると、このAIデータセンター向けプロセッサは176スレッドとLPDDR5Xメモリを搭載する。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "裁判官、Anthropicの15億ドルの著作権和解を承認",
-    "summary": "この支払いは、Claudeモデルのトレーニングに保護された書籍を使用したことに対する集団訴訟を解決する。",
-    "source": [
-      "news.ycombinator.com",
       "kite.kagi.com"
     ],
-    "count": 2
+    "count": 6
   },
   {
-    "title": "マイクロソフト、フランスのスタートアップMistral AIに数十億ドルを投資",
-    "summary": "この契約は、ヨーロッパにおける人工知能インフラの構築に焦点を当てている。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Jack Dorsey、チーム向けチャットとAIエージェントのプラットフォームBuzzを発表",
-    "summary": "新しいアプリは、メッセージング、AIエージェント、バージョン管理を組み合わせ、Slackに対抗する。",
+    "title": "人工知能の台頭がデータセンターへの投資と世界のエネルギー消費を急増させる",
+    "summary": "大規模なエネルギー契約や融資を含むAIインフラへの支出は記録的な水準に達する一方、世論は新しいデータセンターに抵抗を示している。",
     "source": [
       "techcrunch.com",
-      "news.ycombinator.com"
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "tomshardware.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "中国のAIモデルの台頭がシリコンバレーに挑戦状、国家安全保障を巡る議論を巻き起こす",
+    "summary": "ZhipuやMoonshotなどの企業が独自のモデルとデータセンターで前進し、西側諸国では協力すべきか利用を制限すべきかで反応が分かれている。",
+    "source": [
+      "wired.com",
+      "tomshardware.com",
+      "xataka.com",
+      "techcrunch.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "マイクロソフト、Windows 11 PCで初代Xboxの後方互換性を提供開始",
+    "summary": "この機能により、Windowsエコシステムで初代Xboxのオリジナルタイトルをプレイできるようになり、4つのゲームのセレクションから開始される。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ModderがRTX Sparkドライバーを利用し、Windows 11 ARMでNvidia GPUの動作に成功",
+    "summary": "修正されたドライバーの使用により、ARMプロセッサ搭載のデバイスでRTX 4060やRTX 2080 TiなどのGPUを動作させることが可能になった。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "サムスン、新型フォルダブル「Galaxy Z Fold8」「Fold8 Ultra」「Z Flip8」を新フォーマットと価格で発表",
+    "summary": "同社は「パスポート」タイプの細長いフォーマット、バッテリーの改善、大型ディスプレイを備えた折りたたみラインを刷新した。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "フランス、15歳未満のソーシャルメディアを禁止する世界的な動き",
-    "summary": "いくつかの国が、子どもたちのソーシャルプラットフォームへのアクセスを制限する措置を講じている。",
+    "title": "AMDとAnthropic、Instinct GPUの大量供給に向け50億ドルの契約を締結",
+    "summary": "Claudeの開発元は、大規模な人工知能モデルを稼働させるためにAMDのMI450アクセラレータを使用する。",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valveによる値上げ後、Steam Deckの販売台数が82%減少",
+    "summary": "Valveは、複数の市場で販売価格を引き上げた後、人気の携帯型ゲーム機の販売が急落したと見られる。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Moonshot AI、蒸留疑惑のさなか、大規模オープンソースモデル「Kimi K3」を公開",
+    "summary": "2兆8000億パラメータのモデルがオープンソースとして公開されるが、許可なく他社のラボのデータを使用した疑いで調査中である。",
+    "source": [
+      "news.ycombinator.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Substack、AIで書かれたニュースレターを検出するツールを導入",
+    "summary": "ニュースレタープラットフォームは、AI生成コンテンツを識別し、読者の信頼を構築するための透明性機能を実装する。",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "フランス、15歳未満のソーシャルメディア利用を禁止、世界的な規制の流れに加わる",
+    "summary": "フランスの法律は、子供や十代の若者のソーシャルプラットフォームへのアクセスを制限する世界的な動きに加わった。",
     "source": [
       "kite.kagi.com",
       "techcrunch.com"
@@ -117,56 +109,38 @@
     "count": 2
   },
   {
-    "title": "Garmin、画面なしのフィットネスバンドCirqaを200ドルで発売",
-    "summary": "このデバイスは、視覚的な邪魔をせずに健康モニタリングに特化している。",
+    "title": "Apple、RAM価格の高騰に対応すべくKlarnaと連携したMacリースサービスを計画",
+    "summary": "資金調達プログラムは「Apple Upgrade」と呼ばれる可能性があり、ユーザーはハードウェアを月々の分割払いで支払うことができるようになる。",
     "source": [
-      "producthunt.com",
+      "tomshardware.com",
       "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Moonshot AI、2.8兆パラメータのオープンモデルKimi K3を発表",
-    "summary": "このモデルは、高度なハードウェアを必要とするものの、クローズドな代替品と競合する性能を低コストで提供する。",
+    "title": "SK hynixとADATA、10年間続く可能性のあるDRAMメモリ不足を予測",
+    "summary": "メーカーは、AI用チップの需要増加により、今後数年間で前例のないDRAM供給危機が発生すると警告している。",
     "source": [
-      "news.ycombinator.com",
-      "tomshardware.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Apple、実際のアドレスを露出させるHide My Emailの脆弱性を修正",
-    "summary": "iCloud+のこの欠陥により、システムログにユーザーの本当のメールアドレスが表示される可能性があった。",
+    "title": "PS3エミュレーターRPCS3がアップデート、Radeon HD 2000/3000シリーズGPUをサポート",
+    "summary": "このオープンソースエミュレーターは、約20年前のGPUでPlayStation 3のゲームを実行できるように、レガシーハードウェアとの互換性を拡張する。",
     "source": [
-      "thehackernews.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "開発者、フィジカルゲームの消滅をゲーマーのせいに",
-    "summary": "元脚本家やアナリストは、デジタルへの嗜好が企業にディスクの廃止をもたらしたと指摘している。",
-    "source": [
-      "hardzone.es",
+      "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Acer、Intel Arc G3搭載の携帯ゲーム機Predator Atlas 8を1,525ユーロで発表",
-    "summary": "新しい携帯ゲーム機はIntel G3 Extremeプロセッサを採用し、ポータブルゲーミングPC市場で競争する。",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steam Deckの販売、値上げ後に82%減少",
-    "summary": "価格上昇により、Valveの携帯ゲーム機の売上が急落した。",
+    "title": "Xbox Game Pass、Meta QuestでVRに拡大、Forza Horizon 5の開発責任者も支持",
+    "summary": "このサブスクリプションサービスは50以上のVRゲームを追加する一方、著名な開発者がそのビジネスモデルを擁護している。",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "hardzone.es"
     ],
     "count": 2
   }

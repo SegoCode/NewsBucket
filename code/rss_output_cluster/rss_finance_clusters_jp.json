@@ -1,98 +1,45 @@
 [
   {
-    "title": "人工知能は企業戦略と投資戦略を変革し続けている",
-    "summary": "AIの台頭がテクノロジー企業や資産運用会社を後押しする一方、一部のアナリストは過信のリスクを警告し、伝統産業へのシフトを予想している。",
-    "source": [
-      "finance.yahoo.com",
-      "investing.com",
-      "bolsamania.com",
-      "expansion.com",
-      "handelsblatt.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "中東緊張と供給途絶で原油価格上昇",
-    "summary": "イランとの紛争激化、紅海でのフーシ派攻撃、パイプラインの停止を受け原油は95ドルを突破。IEAはエネルギー供給のリスクを警告している。",
-    "source": [
-      "nikkei.com",
-      "ft.com",
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "ウォール街はまちまちの終了、原油高とアルファベット・テスラの決算待ちで",
-    "summary": "米国株は値上がりと値下がりが交錯。ダウは小幅高、ナスダックとS&P500は下落。原油高が続き、テクノロジー株に注目。",
+    "title": "ウォール街はまちまち、ダウは上昇、ナスダックは小幅安、スーパー・マイクロ・コンピュータが21％上昇",
+    "summary": "低ボラティリティの一日、ダウは小幅上昇、ナスダックは下落。スーパー・マイクロ・コンピュータとコンステレーション・エナジーの大幅上昇が目立った。",
     "source": [
       "bolsamania.com",
-      "finance.yahoo.com",
-      "nasdaq.com",
-      "handelsblatt.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "欧州株式市場、エネルギーセクターと企業決算に支えられ上昇",
-    "summary": "Ibex 35は19,600ポイントを超え、DAXは25,000超えで終了。Naturgy、Mapfre、Repsolが顕著な上昇。欧州にとってポジティブな一日。",
-    "source": [
-      "investing.com",
       "handelsblatt.com",
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "米中、技術と外交での緊張が高まる",
-    "summary": "Nvidia CEOが中国のAIモデル使用を示唆、米上院が中国車を禁止、外相らが習近平訪問を協議する中、ルビオ氏がアジアでの同盟強化。",
-    "source": [
-      "finance.yahoo.com",
-      "investing.com",
       "nikkei.com"
     ],
     "count": 3
   },
   {
-    "title": "AMD、AIスタートアップAnthropicに最大50億ドルを投資へ",
-    "summary": "この投資はAIチップ開発のための技術提携を強化し、Anthropicは最大2GWの計算能力を取得する計画。",
+    "title": "原油が95ドルを突破、欧州ガスはトランプ氏のイランへの脅威で上昇、ゴールドマンは120ドルを予想",
+    "summary": "地政学的緊張の高まりを受け、原油とガスが急騰。米大統領はイランのインフラ破壊を誓い、ゴールドマン・サックスは更なる上昇を予測。",
     "source": [
-      "investing.com",
-      "finance.yahoo.com"
+      "nikkei.com",
+      "ft.com",
+      "expansion.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Ibex35は0.99％上昇、好決算に支えられ19,600ポイントに接近",
+    "summary": "スペインの株価指標は上昇して終了。ナトゥルギーとセルネックスが上昇率トップ。企業決算が好感された。",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIA、TSMCから警告を受けるも市場は反発を予想",
-    "summary": "台湾積体電路製造がNVIDIAの見通しに警告を発する一方、アナリストは最高値水準への回復の可能性を予想。",
+    "title": "ネスレ、ペリエの水事業の株式をプラチナム・エクイティに売却へ",
+    "summary": "この取引は間もなく成立する可能性があり、同事業の評価額は約50億ユーロ。同社のポートフォリオ最適化戦略に沿ったもの。",
     "source": [
-      "nasdaq.com",
-      "bolsamania.com"
+      "bolsamania.com",
+      "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "複数企業の経営陣が数百万ドル相当の自社株を売却",
-    "summary": "Best BuyやCoreWeaveなどの幹部が保有株を減らす。個人的なポートフォリオ調整を反映した動き。",
-    "source": [
-      "investing.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "JPモルガン、利益成長を報告も株価に反映されず",
-    "summary": "同行は第2四半期の利益予想を上回ったが、市場は慎重に受け止め、株価は伸び悩んでいる。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "プライベートエクイティは遅れをとる一方、IPOブームがウォール街の銀行を押し上げ",
-    "summary": "新規公開株やM&Aは伝統的な投資銀行を潤す一方、プライベートエクイティファンドは地盤を失いつつある。",
+    "title": "ウォール街の銀行、IPOブームで恩恵、プライベートエクイティは後退",
+    "summary": "新規株式公開や企業合併の増加が投資銀行の収益を押し上げ、プライベートエクイティファンドは取り残されている。",
     "source": [
       "expansion.com",
       "ft.com"
@@ -100,38 +47,20 @@
     "count": 2
   },
   {
-    "title": "サムスン、新型折りたたみスマホを発売、AIに1800億円投資へ",
-    "summary": "韓国企業はチップ価格上昇で値上げ、フランスのスタートアップMistral AIへの投資を検討。",
+    "title": "ドイツDAX指数、エアバスの7％上昇に支えられ2週間ぶりの高値",
+    "summary": "ドイツの株価指数は上昇して終了。エアバスが好材料を受けて7％以上急伸し、指数をけん引。",
     "source": [
-      "investing.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "金は高値圏から下落も引き続き安全資産として推奨",
-    "summary": "貴金属は最高値後に下落したが、アナリストはポートフォリオの分散先として有効と見ている。",
-    "source": [
-      "finance.yahoo.com",
+      "nikkei.com",
       "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "欧州、MiCAによる暗号資産規制が進展、スペインで初のステーブルコイン承認",
-    "summary": "スペイン中央銀行がCriptanに規制対象ステーブルコインの運用を許可。新たな欧州規制MiCAが業界で議論を呼ぶ。",
+    "title": "円が1ドル＝163円まで下落、日本政府が介入を警告",
+    "summary": "円安が進行し、東京は減価を食い止めるための断固たる措置を取る構えを示している。",
     "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "市場はアルファベットとテスラの四半期決算を注目",
-    "summary": "投資家は2大テクノロジー企業の決算に備える。これらの結果が下半期のセクターの方向性を決める。",
-    "source": [
-      "investing.com",
-      "finance.yahoo.com"
+      "ft.com",
+      "nikkei.com"
     ],
     "count": 2
   }

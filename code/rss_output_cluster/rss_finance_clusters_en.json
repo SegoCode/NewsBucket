@@ -1,98 +1,45 @@
 [
   {
-    "title": "Artificial intelligence continues to transform business and investment strategies",
-    "summary": "The rise of AI drives tech companies and asset managers, while some analysts warn of possible overconfidence and see a shift towards traditional industry.",
-    "source": [
-      "finance.yahoo.com",
-      "investing.com",
-      "bolsamania.com",
-      "expansion.com",
-      "handelsblatt.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Oil prices rise due to Middle East tensions and supply cuts",
-    "summary": "Crude oil exceeds $95 amid escalating conflict with Iran, Houthi attacks in the Red Sea, and pipeline disruptions, while the IEA warns of risks to energy supply.",
-    "source": [
-      "nikkei.com",
-      "ft.com",
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Wall Street closes mixed in a session marked by rising oil and anticipation of Alphabet and Tesla results",
-    "summary": "US indices fluctuate between losses and gains; the Dow Jones rises slightly while the Nasdaq and S&P 500 give ground, with crude at highs and focus on tech stocks.",
+    "title": "Wall Street closes mixed with Dow up and slight Nasdaq declines; Super Micro Computer rises 21%",
+    "summary": "In a low-volatility session, the Dow Jones rose marginally while the Nasdaq lost ground, highlighting the strong advance of Super Micro Computer and Constellation Energy.",
     "source": [
       "bolsamania.com",
-      "finance.yahoo.com",
-      "nasdaq.com",
-      "handelsblatt.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "European stock markets rise driven by the energy sector and corporate results",
-    "summary": "The Ibex 35 surpasses 19,600 points and the Dax closes above 25,000, with notable gains for Naturgy, Mapfre, and Repsol, in a positive session for the region.",
-    "source": [
-      "investing.com",
       "handelsblatt.com",
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Diplomatic tensions between the United States and China increase over technology and diplomacy",
-    "summary": "Nvidia's CEO suggests using Chinese AI models, the Senate bans Chinese vehicles, and foreign ministers discuss Xi's visit while Rubio strengthens alliances in Asia.",
-    "source": [
-      "finance.yahoo.com",
-      "investing.com",
       "nikkei.com"
     ],
     "count": 3
   },
   {
-    "title": "AMD to invest up to $5 billion in artificial intelligence startup Anthropic",
-    "summary": "The investment reinforces the tech alliance for AI chip development, and Anthropic plans to acquire up to 2 GW of computing capacity.",
+    "title": "Oil exceeds $95 and European gas rises due to Trump's threats to Iran; Goldman expects it to reach $120",
+    "summary": "Crude oil and gas surge amid rising geopolitical tensions, as the US president promises to destroy Iranian infrastructure and Goldman Sachs forecasts further increases.",
     "source": [
-      "investing.com",
-      "finance.yahoo.com"
+      "nikkei.com",
+      "ft.com",
+      "expansion.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Ibex 35 rises 0.99% and approaches 19,600 points boosted by results",
+    "summary": "The Spanish benchmark closed higher, with Naturgy and Cellnex as the most bullish stocks, encouraged by the corporate results presented.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "Nvidia receives a warning from TSMC as the market anticipates a rebound",
-    "summary": "Taiwan Semiconductor Manufacturing warns about Nvidia's prospects, though analysts see a possible recovery towards all-time highs.",
+    "title": "Nestlé finalizes sale of a stake in its Perrier water business to Platinum Equity",
+    "summary": "The deal, which could close soon, values the unit at around €5 billion, aligned with the company's strategy to optimize its portfolio.",
     "source": [
-      "nasdaq.com",
-      "bolsamania.com"
+      "bolsamania.com",
+      "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Executives of several companies sell millions of dollars worth of shares",
-    "summary": "Executives from Best Buy, CoreWeave, and other sectors reduce their holdings, in moves that reflect personal portfolio adjustments.",
-    "source": [
-      "investing.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "JPMorgan reports profit growth but its shares don't reflect it",
-    "summary": "The bank beats earnings estimates in the second quarter, but the market receives the results with caution and the stock lags behind.",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Private equity falls behind as the IPO boom boosts Wall Street banks",
-    "summary": "IPOs and mergers benefit traditional investment banks, while private equity funds lose ground.",
+    "title": "Wall Street banks benefit from the IPO boom while private capital loses ground",
+    "summary": "The increase in listings and mergers boosts investment banking revenues, leaving private equity funds behind.",
     "source": [
       "expansion.com",
       "ft.com"
@@ -100,38 +47,20 @@
     "count": 2
   },
   {
-    "title": "Samsung launches a new foldable phone and plans to invest 180 billion yen in artificial intelligence",
-    "summary": "The South Korean company raises prices due to rising chip costs and considers an investment in French startup Mistral AI.",
+    "title": "German DAX hits two-week highs boosted by Airbus's 7% rise",
+    "summary": "The German index closed higher, led by Airbus, which soared more than 7% after favorable news.",
     "source": [
-      "investing.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Gold falls from high levels but remains recommended as a safe-haven asset",
-    "summary": "The precious metal falls after hitting highs, though analysts consider it a good diversification option in portfolios.",
-    "source": [
-      "finance.yahoo.com",
+      "nikkei.com",
       "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "Europe advances in cryptocurrency regulation with MiCA and the first stablecoin authorization in Spain",
-    "summary": "The Bank of Spain authorizes Criptan to operate with regulated stablecoins, within the framework of the new European MiCA regulation that generates debate in the sector.",
+    "title": "Yen falls to 163 per dollar and Japanese government warns of intervention",
+    "summary": "The Japanese currency continues to weaken, prompting Tokyo to threaten to take decisive steps to stop the depreciation.",
     "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The market eagerly awaits the quarterly results of Alphabet and Tesla",
-    "summary": "Investors prepare for the earnings of the two major tech companies, which will set the tone for the sector in the second half of the year.",
-    "source": [
-      "investing.com",
-      "finance.yahoo.com"
+      "ft.com",
+      "nikkei.com"
     ],
     "count": 2
   }
