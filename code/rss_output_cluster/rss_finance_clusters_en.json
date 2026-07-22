@@ -1,7 +1,38 @@
 [
   {
-    "title": "Trump threatens to attack Iranian nuclear facilities and oil surges amid war tension",
-    "summary": "The Pentagon estimates the cost of a military operation at 6 trillion yen while Goldman Sachs forecasts crude at $120 if tensions persist.",
+    "title": "European stocks trade mixed on key corporate earnings day",
+    "summary": "The German DAX surpasses the 25,000-point mark, while the IBEX 35 trades flat around 19,300 points ahead of the wave of quarterly reports.",
+    "source": [
+      "handelsblatt.com",
+      "bolsamania.com",
+      "expansion.com",
+      "nasdaq.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Oil rises to six-week highs on escalation of Middle East conflict",
+    "summary": "Crude strengthens amid Houthi threats to Saudi tankers, suspension of flows from Kazakhstan, and the IEA's warning on Iranian supply, with Goldman Sachs raising its forecast to $120.",
+    "source": [
+      "ft.com",
+      "expansion.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Japan threatens 'bold' intervention as yen plunges to 163 yen per dollar",
+    "summary": "The Japanese currency continues its downward trend despite Tokyo's warnings, fueling rumors of possible coordinated action in the currency market.",
+    "source": [
+      "bolsamania.com",
+      "ft.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "European sovereign debt tightens on political risk in France and resurgence of inflation",
+    "summary": "Bond yields rise amid French fiscal uncertainty and oil-driven inflationary pressures, while large investors fear significant losses.",
     "source": [
       "expansion.com",
       "ft.com",
@@ -10,122 +41,56 @@
     "count": 3
   },
   {
-    "title": "Europe reinforces supply of critical minerals amid shortage of rare earths and germanium",
-    "summary": "Rising prices boost mining projects in Spain and European self-sufficiency in strategic materials for technology and energy.",
+    "title": "Airbus announces €5 billion share buyback program and sets 2029 profit target",
+    "summary": "Airbus shares surge 7% after confirming the buyback plan and setting its adjusted EBIT target for 2029 between €12 billion and €13 billion.",
     "source": [
-      "expansion.com",
-      "handelsblatt.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Wall Street closes higher driven by semiconductors and strong corporate results",
-    "summary": "The Dow Jones rises 385 points, the S&P 500 gains 0.89%, and the Nasdaq 1.29% in a session of broad gains.",
-    "source": [
-      "bolsamania.com",
-      "handelsblatt.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AI investment diversifies into infrastructure and industrial applications",
-    "summary": "AI demand fuels investment in power grids and a return to traditional industry, while doubts grow about the sustainability of the tech bubble.",
-    "source": [
-      "expansion.com",
-      "ft.com",
-      "handelsblatt.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Halliburton reports 15.8% increase in second-quarter earnings",
-    "summary": "The oilfield services company posted a profit of $534 million in the period.",
-    "source": [
-      "bolsamania.com",
+      "investing.com",
       "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "London Stock Exchange plans to operate nearly 24 hours a day starting next year",
-    "summary": "The project aims to extend trading hours to attract liquidity and compete with other global markets.",
+    "title": "Norsk Hydro posts strong earnings growth in second quarter",
+    "summary": "The Norwegian aluminum company sees its shares rise after reporting a spectacular increase in quarterly profits, driven by extraordinary gains and higher revenue.",
     "source": [
-      "expansion.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ECB keeps rates at 2.25% and banks tighten credit conditions",
-    "summary": "The European Central Bank leaves rates unchanged as a survey reveals a tightening of lending standards for companies.",
-    "source": [
-      "expansion.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Developed market debt to hit record $75.8 trillion, says Fitch",
-    "summary": "Rising sovereign debt and fiscal pressures put France and other developed countries on alert.",
-    "source": [
-      "expansion.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Traditional valuation indicators lose effectiveness in current market",
-    "summary": "Experts debate whether classic metrics remain reliable in an environment of low interest rates and high tech capitalization.",
-    "source": [
-      "expansion.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nikkei rises driven by semiconductor gains and recovery of Asian stock markets",
-    "summary": "Tech stocks lead gains in Asia, with the Japanese index benefiting from the strong performance of US chips.",
-    "source": [
-      "handelsblatt.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Danaher plunges more than 11% after reporting quarterly results",
-    "summary": "Shares of the life sciences company fall sharply after the release of its second-quarter earnings.",
-    "source": [
-      "bolsamania.com",
+      "investing.com",
       "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "Ibex 35 recovers 19,300 points supported by the banking sector",
-    "summary": "Spanish banks lead the index gains, with CaixaBank among the stocks breaking through technical resistances.",
+    "title": "DSV Panalpina falls on stock market after reporting decline in quarterly earnings",
+    "summary": "The Danish logistics company lowers its profit outlook for fiscal year 2026, triggering a wave of selling in the market.",
     "source": [
-      "bolsamania.com",
-      "expansion.com"
+      "investing.com",
+      "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "Chinese market faces challenges as state funds shift toward tech stocks",
-    "summary": "Public investment in China moves to the technology sector amid economic difficulties and regulatory changes.",
+    "title": "Super Micro Computer shares surge on investor frenzy in artificial intelligence",
+    "summary": "The server maker rises sharply on the Nasdaq, attracting retail investors eager to ride the AI wave.",
     "source": [
-      "nasdaq.com",
+      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "South Korean president calls for regulation of leveraged funds as stock market rises",
+    "summary": "Seoul's market extends its rally driven by the tech sector, while the government seeks to tighten rules on leveraged investment funds.",
+    "source": [
+      "/r/stocks",
       "nikkei.com"
     ],
     "count": 2
   },
   {
-    "title": "Investors fear bets on Japanese bonds become new 'widow-maker' trap",
-    "summary": "Pressure on Japanese government debt increases due to rising oil and a weak yen, pushing bond yields higher.",
+    "title": "Skepticism grows toward the AI bubble and investors rotate into industrial sectors",
+    "summary": "The multi-billion-dollar backing of big tech faces criticism and tighter scrutiny, as fund managers redirect capital toward traditional industrial companies.",
     "source": [
-      "ft.com",
-      "nikkei.com"
+      "expansion.com",
+      "handelsblatt.com"
     ],
     "count": 2
   }

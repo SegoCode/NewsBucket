@@ -1,7 +1,38 @@
 [
   {
-    "title": "Trump amenaza con atacar instalaciones nucleares iraníes y el petróleo se dispara ante la tensión bélica",
-    "summary": "El Pentágono estima el coste de una operación militar en 6 billones de yenes mientras Goldman Sachs prevé el crudo en 120 dólares si las tensiones persisten.",
+    "title": "Las bolsas europeas cotizan mixtas en una jornada clave de resultados empresariales",
+    "summary": "El DAX alemán supera la barrera de los 25.000 puntos, mientras que el IBEX 35 cotiza plano alrededor de los 19.300 enteros a la espera de la oleada de informes trimestrales.",
+    "source": [
+      "handelsblatt.com",
+      "bolsamania.com",
+      "expansion.com",
+      "nasdaq.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "El petróleo sube a máximos de seis semanas por la escalada del conflicto en Oriente Medio",
+    "summary": "El crudo se fortalece ante las amenazas hutíes a petroleros saudíes, la suspensión de flujos desde Kazajistán y la advertencia de la AIE sobre la oferta iraní, con Goldman Sachs elevando su pronóstico a 120 dólares.",
+    "source": [
+      "ft.com",
+      "expansion.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Japón amenaza con una intervención 'audaz' mientras el yen se desploma a los 163 yenes por dólar",
+    "summary": "La moneda japonesa sigue su tendencia bajista a pesar de las advertencias de Tokio, avivando los rumores de una posible acción coordinada en el mercado de divisas.",
+    "source": [
+      "bolsamania.com",
+      "ft.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La deuda soberana europea se tensa por el riesgo político en Francia y el repunte de la inflación",
+    "summary": "Los rendimientos de los bonos suben ante la incertidumbre fiscal francesa y las presiones inflacionarias del petróleo, mientras los grandes inversores temen sufrir pérdidas significativas.",
     "source": [
       "expansion.com",
       "ft.com",
@@ -10,122 +41,56 @@
     "count": 3
   },
   {
-    "title": "Europa refuerza el suministro de minerales críticos ante la escasez de tierras raras y germanio",
-    "summary": "El alza de precios impulsa proyectos mineros en España y la autosuficiencia europea en materiales estratégicos para la tecnología y la energía.",
+    "title": "Airbus anuncia un programa de recompra de 5.000 millones de euros y fija su objetivo de beneficio para 2029",
+    "summary": "Las acciones de Airbus se disparan un 7% tras confirmar el plan de recompra y situar su objetivo de EBIT ajustado para 2029 entre 12.000 y 13.000 millones de euros.",
     "source": [
-      "expansion.com",
-      "handelsblatt.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Wall Street cierra al alza impulsado por semiconductores y buenos resultados empresariales",
-    "summary": "El Dow Jones sube 385 puntos, el S&P 500 avanza un 0,89% y el Nasdaq un 1,29% en una jornada de ganancias generalizadas.",
-    "source": [
-      "bolsamania.com",
-      "handelsblatt.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "La inversión en inteligencia artificial se diversifica hacia infraestructuras y aplicaciones industriales",
-    "summary": "La demanda de IA impulsa la inversión en redes eléctricas y la vuelta a la industria tradicional, mientras crecen las dudas sobre la sostenibilidad de la burbuja tecnológica.",
-    "source": [
-      "expansion.com",
-      "ft.com",
-      "handelsblatt.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Halliburton reporta un incremento del 15,8% en sus ganancias del segundo trimestre",
-    "summary": "La empresa de servicios petroleros obtuvo un beneficio de 534 millones de dólares en el período.",
-    "source": [
-      "bolsamania.com",
+      "investing.com",
       "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "La Bolsa de Londres planea operar casi las 24 horas del día a partir del próximo año",
-    "summary": "El proyecto busca ampliar el horario de negociación para atraer liquidez y competir con otros mercados globales.",
+    "title": "Norsk Hydro registra un fuerte crecimiento de sus ganancias en el segundo trimestre",
+    "summary": "La compañía noruega de aluminio ve cómo sus acciones suben tras publicar un espectacular aumento de sus beneficios trimestrales, impulsado por ganancias extraordinarias y mayores ingresos.",
     "source": [
-      "expansion.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El BCE mantiene los tipos en el 2,25% y los bancos endurecen las condiciones de crédito",
-    "summary": "El Banco Central Europeo deja las tasas sin cambios mientras una encuesta revela un endurecimiento de los estándares crediticios para empresas.",
-    "source": [
-      "expansion.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La deuda de los mercados desarrollados alcanzará un récord de 75,8 billones de dólares según Fitch",
-    "summary": "El aumento de la deuda soberana y las presiones fiscales ponen en alerta a Francia y otros países desarrollados.",
-    "source": [
-      "expansion.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Los indicadores de valoración tradicionales pierden efectividad en el mercado actual",
-    "summary": "Expertos debaten si las métricas clásicas siguen siendo fiables en un entorno de bajas tasas de interés y alta capitalización tecnológica.",
-    "source": [
-      "expansion.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El Nikkei sube impulsado por el alza de los semiconductores y la recuperación de las bolsas asiáticas",
-    "summary": "Las acciones tecnológicas lideran las ganancias en Asia, con el índice japonés beneficiándose del buen desempeño de los chips estadounidenses.",
-    "source": [
-      "handelsblatt.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Danaher se desploma más del 11% tras publicar sus resultados trimestrales",
-    "summary": "Las acciones de la compañía de ciencias biológicas caen fuertemente después de la presentación de sus ganancias del segundo trimestre.",
-    "source": [
-      "bolsamania.com",
+      "investing.com",
       "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "El Ibex 35 recupera los 19.300 puntos apoyado en el sector bancario",
-    "summary": "Los bancos españoles lideran las subidas del índice, con CaixaBank entre los valores que superan resistencias técnicas.",
+    "title": "DSV Panalpina cae en bolsa tras reportar un descenso de sus ganancias trimestrales",
+    "summary": "La empresa de logística danesa reduce sus perspectivas de beneficio para el ejercicio 2026, lo que desencadena una ola de ventas en el mercado.",
     "source": [
-      "bolsamania.com",
-      "expansion.com"
+      "investing.com",
+      "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "El mercado chino enfrenta desafíos mientras el dinero estatal se reorienta hacia los valores tecnológicos",
-    "summary": "La inversión pública en China se desplaza al sector tecnológico en medio de las dificultades económicas y los cambios regulatorios.",
+    "title": "Las acciones de Super Micro Computer se disparan por la fiebre inversora en inteligencia artificial",
+    "summary": "El fabricante de servidores se revaloriza con fuerza en el Nasdaq, atrayendo a inversores minoristas ansiosos por subirse a la ola de la IA.",
     "source": [
-      "nasdaq.com",
+      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El presidente surcoreano pide la regulación de los fondos apalancados mientras la bolsa sube",
+    "summary": "El mercado de Seúl extiende su rally impulsado por el sector tecnológico, mientras el gobierno busca endurecer las normas sobre los fondos de inversión apalancados.",
+    "source": [
+      "/r/stocks",
       "nikkei.com"
     ],
     "count": 2
   },
   {
-    "title": "Inversores temen que las apuestas en bonos japoneses se conviertan en una nueva trampa para 'widow-makers'",
-    "summary": "La presión sobre la deuda pública nipona aumenta por el alza del petróleo y la debilidad del yen, elevando los rendimientos de los bonos.",
+    "title": "Crece el escepticismo hacia la burbuja de la IA y los inversores rotan hacia sectores industriales",
+    "summary": "El respaldo multimillonario a las grandes tecnológicas enfrenta críticas y un escrutinio más riguroso, mientras los gestores de fondos redirigen su capital hacia empresas industriales tradicionales.",
     "source": [
-      "ft.com",
-      "nikkei.com"
+      "expansion.com",
+      "handelsblatt.com"
     ],
     "count": 2
   }
