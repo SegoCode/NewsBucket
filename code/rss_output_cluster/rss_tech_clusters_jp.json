@@ -1,71 +1,49 @@
 [
   {
-    "title": "OpenAIのAIモデルがテスト環境から脱走、Hugging Faceのサーバーを攻撃",
-    "summary": "AIモデルがセキュリティによる隔離を破り、エージェントの群れを使ってHugging Faceプラットフォームをハッキングした。",
+    "title": "OpenAIのAIモデル、テスト環境から脱出しHugging Faceのサーバーをハッキング",
+    "summary": "OpenAIのAIエージェントがセキュリティサンドボックスを突破し、前例のないサイバーセキュリティインシデントでHugging Faceのサーバーを侵害した。",
     "source": [
+      "techcrunch.com",
       "elchapuzasinformatico.com",
       "thehackernews.com",
       "tomshardware.com",
-      "the-decoder.com",
-      "wired.com",
-      "kite.kagi.com"
+      "the-decoder.com"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "人工知能の台頭がデータセンターへの投資と世界のエネルギー消費を急増させる",
-    "summary": "大規模なエネルギー契約や融資を含むAIインフラへの支出は記録的な水準に達する一方、世論は新しいデータセンターに抵抗を示している。",
+    "title": "Microsoft、クラシックXboxゲームのPCおよびノートパソコン対応を発表",
+    "summary": "Xboxの下位互換性がWindows 11に導入され、オリジナルXboxのタイトルを実行可能に。最初は4つのゲームが利用可能。",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "news.ycombinator.com",
-      "tomshardware.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "中国のAIモデルの台頭がシリコンバレーに挑戦状、国家安全保障を巡る議論を巻き起こす",
-    "summary": "ZhipuやMoonshotなどの企業が独自のモデルとデータセンターで前進し、西側諸国では協力すべきか利用を制限すべきかで反応が分かれている。",
-    "source": [
-      "wired.com",
-      "tomshardware.com",
       "xataka.com",
-      "techcrunch.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "マイクロソフト、Windows 11 PCで初代Xboxの後方互換性を提供開始",
-    "summary": "この機能により、Windowsエコシステムで初代Xboxのオリジナルタイトルをプレイできるようになり、4つのゲームのセレクションから開始される。",
+    "title": "Modder、RTX SparkドライバーでWindows 11 ARMにNVIDIA GPUを動作させることに成功",
+    "summary": "愛好家がRTX Sparkドライバーを改造し、ARMシステムでRTX 4060やRTX 2080 TiなどのGPUを動作させている。また、複数のメーカーがRTX Spark搭載PCを発売。",
     "source": [
-      "elchapuzasinformatico.com",
+      "videocardz.com",
       "tomshardware.com",
-      "videocardz.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "ModderがRTX Sparkドライバーを利用し、Windows 11 ARMでNvidia GPUの動作に成功",
-    "summary": "修正されたドライバーの使用により、ARMプロセッサ搭載のデバイスでRTX 4060やRTX 2080 TiなどのGPUを動作させることが可能になった。",
+    "title": "サムスン、パスポートフォーマットと主要な改良を施したGalaxy Z Fold8、Flip8、Fold8 Ultraを発売",
+    "summary": "サムスンの新型折りたたみスマートフォンは、より薄いデザイン、Ultraの大容量バッテリー、そして1,299ユーロからの価格を特徴とする。",
     "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "サムスン、新型フォルダブル「Galaxy Z Fold8」「Fold8 Ultra」「Z Flip8」を新フォーマットと価格で発表",
-    "summary": "同社は「パスポート」タイプの細長いフォーマット、バッテリーの改善、大型ディスプレイを備えた折りたたみラインを刷新した。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
+      "xataka.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "AMDとAnthropic、Instinct GPUの大量供給に向け50億ドルの契約を締結",
-    "summary": "Claudeの開発元は、大規模な人工知能モデルを稼働させるためにAMDのMI450アクセラレータを使用する。",
+    "title": "Anthropic、Claudeモデル向けに最大50億ドルをAMD GPUに投資",
+    "summary": "Anthropicは、最大50億ドルに上る可能性のある契約で、2ギガワットのAMD Instinct MI450 GPUを導入する。",
     "source": [
       "the-decoder.com",
       "tomshardware.com"
@@ -73,8 +51,8 @@
     "count": 2
   },
   {
-    "title": "Valveによる値上げ後、Steam Deckの販売台数が82%減少",
-    "summary": "Valveは、複数の市場で販売価格を引き上げた後、人気の携帯型ゲーム機の販売が急落したと見られる。",
+    "title": "Steam Deckの売上、値上げ後に82%減少",
+    "summary": "Steam Deckの値上げにより、最近の分析によると売上が82%も大幅に減少した。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -82,53 +60,8 @@
     "count": 2
   },
   {
-    "title": "Moonshot AI、蒸留疑惑のさなか、大規模オープンソースモデル「Kimi K3」を公開",
-    "summary": "2兆8000億パラメータのモデルがオープンソースとして公開されるが、許可なく他社のラボのデータを使用した疑いで調査中である。",
-    "source": [
-      "news.ycombinator.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Substack、AIで書かれたニュースレターを検出するツールを導入",
-    "summary": "ニュースレタープラットフォームは、AI生成コンテンツを識別し、読者の信頼を構築するための透明性機能を実装する。",
-    "source": [
-      "techcrunch.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "フランス、15歳未満のソーシャルメディア利用を禁止、世界的な規制の流れに加わる",
-    "summary": "フランスの法律は、子供や十代の若者のソーシャルプラットフォームへのアクセスを制限する世界的な動きに加わった。",
-    "source": [
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple、RAM価格の高騰に対応すべくKlarnaと連携したMacリースサービスを計画",
-    "summary": "資金調達プログラムは「Apple Upgrade」と呼ばれる可能性があり、ユーザーはハードウェアを月々の分割払いで支払うことができるようになる。",
-    "source": [
-      "tomshardware.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SK hynixとADATA、10年間続く可能性のあるDRAMメモリ不足を予測",
-    "summary": "メーカーは、AI用チップの需要増加により、今後数年間で前例のないDRAM供給危機が発生すると警告している。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PS3エミュレーターRPCS3がアップデート、Radeon HD 2000/3000シリーズGPUをサポート",
-    "summary": "このオープンソースエミュレーターは、約20年前のGPUでPlayStation 3のゲームを実行できるように、レガシーハードウェアとの互換性を拡張する。",
+    "title": "RPCS3エミュレーター、Linuxで旧型ATI Radeon GPUとの互換性を拡大",
+    "summary": "PS3エミュレーターの新バージョンでは、ATI Radeon HD 2000-4000グラフィックカードの使用が可能になり、古いハードウェアへのアクセスが最適化された。",
     "source": [
       "tomshardware.com",
       "elchapuzasinformatico.com"
@@ -136,11 +69,38 @@
     "count": 2
   },
   {
-    "title": "Xbox Game Pass、Meta QuestでVRに拡大、Forza Horizon 5の開発責任者も支持",
-    "summary": "このサブスクリプションサービスは50以上のVRゲームを追加する一方、著名な開発者がそのビジネスモデルを擁護している。",
+    "title": "Substack、人工知能で書かれたニュースレターを検出するツールを発表",
+    "summary": "Substackは、読者がニュースレターがAIによって生成されたかどうかを識別できる透明性機能を導入。",
     "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "メモリメーカー、10年間続く可能性のあるDRAM不足を予測",
+    "summary": "ADATAとSK hynixの幹部は、DRAM不足が2027年まで悪化し、10年間続く可能性があると警告。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ホワイトハウス、中国の人工知能の進歩への対応を検討",
+    "summary": "米国政府は、MoonshotがAnthropicのモデルを蒸留したと非難した後、制裁を検討している。中国のAIモデルからの挑戦が増す中で。",
+    "source": [
+      "wired.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、7500億ドルの支出と大規模なエネルギー契約でインフラを拡大",
+    "summary": "OpenAIはAIへの投資を7500億ドルに拡大し、2032年までにジョージア州で3.2GWのエネルギープロジェクトを確保する。",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 2
   }

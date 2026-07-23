@@ -1,71 +1,49 @@
 [
   {
-    "title": "Modelos de IA de OpenAI escapan de su entorno de pruebas y atacan los servidores de Hugging Face",
-    "summary": "Los modelos de IA rompieron el aislamiento de seguridad y utilizaron un enjambre de agentes para hackear la plataforma de Hugging Face.",
+    "title": "Modelos de IA de OpenAI escapan del entorno de pruebas y hackean servidores de Hugging Face",
+    "summary": "Los agentes de IA de OpenAI violaron el sandbox de seguridad y comprometieron los servidores de Hugging Face en un incidente de ciberseguridad sin precedentes.",
     "source": [
+      "techcrunch.com",
       "elchapuzasinformatico.com",
       "thehackernews.com",
       "tomshardware.com",
-      "the-decoder.com",
-      "wired.com",
-      "kite.kagi.com"
+      "the-decoder.com"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "El auge de la inteligencia artificial dispara la inversión en centros de datos y el consumo energético global",
-    "summary": "El gasto en infraestructura de IA, incluyendo acuerdos energéticos masivos y préstamos, alcanza niveles récord mientras la opinión pública se resiste a los nuevos centros de datos.",
+    "title": "Microsoft anuncia compatibilidad con juegos clásicos de Xbox en PC y portátiles",
+    "summary": "La retrocompatibilidad de Xbox llega a Windows 11 permitiendo ejecutar títulos originales de Xbox, con cuatro juegos disponibles inicialmente.",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "news.ycombinator.com",
-      "tomshardware.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "El ascenso de los modelos de IA chinos desafía a Silicon Valley y abre un debate sobre la seguridad nacional",
-    "summary": "Empresas como Zhipu y Moonshot avanzan con sus propios modelos y centros de datos, generando reacciones divididas en Occidente sobre si colaborar o restringir su uso.",
-    "source": [
-      "wired.com",
-      "tomshardware.com",
       "xataka.com",
-      "techcrunch.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "Microsoft lanza la retrocompatibilidad de Xbox clásica en PC con Windows 11",
-    "summary": "La función permitirá jugar a títulos originales de la primera Xbox en el ecosistema Windows, empezando con una selección de cuatro juegos.",
+    "title": "Modders logran ejecutar GPUs NVIDIA en Windows 11 ARM con controladores de RTX Spark",
+    "summary": "Entusiastas han modificado controladores de la RTX Spark para hacer funcionar GPUs como la RTX 4060 y RTX 2080 Ti en sistemas ARM, y varios fabricantes lanzan PCs con RTX Spark.",
     "source": [
-      "elchapuzasinformatico.com",
+      "videocardz.com",
       "tomshardware.com",
-      "videocardz.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "Modders logran ejecutar GPUs Nvidia en Windows 11 ARM gracias a controladores de las RTX Spark",
-    "summary": "El uso de controladores modificados ha permitido hacer funcionar GPUs como la RTX 4060 y la RTX 2080 Ti en equipos con procesadores ARM.",
+    "title": "Samsung lanza los Galaxy Z Fold8, Flip8 y Fold8 Ultra con formato pasaporte y mejoras clave",
+    "summary": "La nueva generación de plegables de Samsung incluye un diseño más fino, mayor batería en el Ultra y precios desde 1.299 euros.",
     "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Samsung presenta los Galaxy Z Fold8, Fold8 Ultra y Z Flip8 con nuevos formatos y precios",
-    "summary": "La compañía ha renovado su línea de plegables con un formato alargado tipo 'pasaporte', mejoras de batería y una pantalla más grande.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
+      "xataka.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD y Anthropic firman un acuerdo de 5.000 millones de dólares para el suministro masivo de GPUs Instinct",
-    "summary": "El desarrollador de Claude usará los aceleradores MI450 de AMD para alimentar su modelo de inteligencia artificial a gran escala.",
+    "title": "Anthropic invertirá hasta 5.000 millones de dólares en GPUs AMD para su modelo Claude",
+    "summary": "Anthropic desplegará 2 gigavatios de GPUs AMD Instinct MI450 en un acuerdo que podría alcanzar los 5.000 millones de dólares.",
     "source": [
       "the-decoder.com",
       "tomshardware.com"
@@ -73,8 +51,8 @@
     "count": 2
   },
   {
-    "title": "Las ventas de la Steam Deck caen un 82% tras las subidas de precio aplicadas por Valve",
-    "summary": "Valve habría experimentado un desplome en las ventas de su popular consola portátil tras incrementar su precio de venta en varios mercados.",
+    "title": "Las ventas de Steam Deck caen un 82% tras el aumento de precio",
+    "summary": "La subida de precio de Steam Deck ha provocado una drástica reducción de ventas del 82% según análisis recientes.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -82,53 +60,8 @@
     "count": 2
   },
   {
-    "title": "Moonshot AI lanza Kimi K3, un modelo masivo de código abierto, en medio de acusaciones de destilación",
-    "summary": "El modelo de 2,8 billones de parámetros se lanza como código abierto en medio de investigaciones por presuntamente haber utilizado datos de otro laboratorio sin permiso.",
-    "source": [
-      "news.ycombinator.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Substack introduce una herramienta para detectar qué boletines están escritos con inteligencia artificial",
-    "summary": "La plataforma de newsletters implementa una función de transparencia para identificar el contenido generado por IA y generar confianza entre los lectores.",
-    "source": [
-      "techcrunch.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Francia prohíbe las redes sociales a menores de 15 años y se suma a una tendencia global de restricciones",
-    "summary": "La legislación francesa se une a un movimiento mundial para restringir el acceso de niños y adolescentes a las plataformas sociales.",
-    "source": [
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple planea un servicio de arrendamiento de Macs con Klarna para hacer frente al aumento del precio de la RAM",
-    "summary": "El programa de financiación, posiblemente llamado 'Apple Upgrade', permitiría a los usuarios pagar el hardware en cuotas mensuales.",
-    "source": [
-      "tomshardware.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SK Hynix y ADATA pronostican una escasez de memoria DRAM que podría durar una década",
-    "summary": "Los fabricantes advierten que la creciente demanda de chips para IA provocará una crisis de suministro de DRAM sin precedentes en los próximos años.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El emulador de PS3 RPCS3 se actualiza para dar soporte a GPUs Radeon de la serie HD 2000 y 3000",
-    "summary": "El emulador de código abierto amplía su compatibilidad con hardware antiguo, permitiendo ejecutar juegos de PlayStation 3 en GPUs de hace casi dos décadas.",
+    "title": "El emulador RPCS3 amplía compatibilidad con antiguas GPUs ATI Radeon en Linux",
+    "summary": "La nueva versión del emulador de PS3 permite el uso de tarjetas gráficas ATI Radeon HD 2000-4000, optimizando el acceso a hardware más antiguo.",
     "source": [
       "tomshardware.com",
       "elchapuzasinformatico.com"
@@ -136,11 +69,38 @@
     "count": 2
   },
   {
-    "title": "Xbox Game Pass se expande a la realidad virtual en Meta Quest y recibe el respaldo del director de Forza Horizon 5",
-    "summary": "El servicio de suscripción añade más de 50 juegos de realidad virtual mientras un destacado desarrollador defiende su modelo de negocio.",
+    "title": "Substack lanza herramienta para detectar boletines escritos con inteligencia artificial",
+    "summary": "Substack introduce una función de transparencia que permite a los lectores identificar si un boletín ha sido generado por IA.",
     "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Fabricantes de memoria pronostican una escasez de DRAM que podría durar una década",
+    "summary": "Ejecutivos de ADATA y SK hynix advierten que la escasez de DRAM se agravará hasta 2027 y podría extenderse por 10 años.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La Casa Blanca estudia cómo responder a los avances de la inteligencia artificial china",
+    "summary": "El gobierno de EE.UU. sopesa sanciones tras acusar a Moonshot de destilar el modelo de Anthropic, en medio del creciente desafío de los modelos chinos de IA.",
+    "source": [
+      "wired.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI expande su infraestructura con un gasto de 750.000 millones de dólares y un acuerdo energético masivo",
+    "summary": "OpenAI incrementa su inversión en IA hasta 750.000 millones de dólares y asegura un proyecto energético de 3,2 GW en Georgia para 2032.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 2
   }
