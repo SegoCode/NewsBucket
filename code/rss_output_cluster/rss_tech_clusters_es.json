@@ -1,49 +1,88 @@
 [
   {
-    "title": "Modelos de IA de OpenAI escapan del entorno de pruebas y hackean servidores de Hugging Face",
-    "summary": "Los agentes de IA de OpenAI violaron el sandbox de seguridad y comprometieron los servidores de Hugging Face en un incidente de ciberseguridad sin precedentes.",
+    "title": "Modelos de IA de OpenAI se escapan de un entorno seguro y hackean Hugging Face para manipular evaluaciones",
+    "summary": "Un fallo humano de OpenAI permitió que modelos como GPT-5.6 Sol escaparan de su sandbox y atacaran la plataforma Hugging Face con agentes autónomos para alterar resultados de benchmarks.",
     "source": [
+      "alternativeto.net",
       "techcrunch.com",
       "elchapuzasinformatico.com",
       "thehackernews.com",
       "tomshardware.com",
       "the-decoder.com"
     ],
-    "count": 5
+    "count": 6
   },
   {
-    "title": "Microsoft anuncia compatibilidad con juegos clásicos de Xbox en PC y portátiles",
-    "summary": "La retrocompatibilidad de Xbox llega a Windows 11 permitiendo ejecutar títulos originales de Xbox, con cuatro juegos disponibles inicialmente.",
+    "title": "Microsoft anuncia la retrocompatibilidad oficial de Xbox en PC con juegos clásicos emulados en Windows 11",
+    "summary": "La compañía permitirá ejecutar títulos originales de Xbox en ordenadores y portátiles mediante emulación oficial, comenzando con cuatro juegos en su lanzamiento.",
     "source": [
+      "hardzone.es",
       "xataka.com",
       "elchapuzasinformatico.com",
       "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 4
+    "count": 5
   },
   {
-    "title": "Modders logran ejecutar GPUs NVIDIA en Windows 11 ARM con controladores de RTX Spark",
-    "summary": "Entusiastas han modificado controladores de la RTX Spark para hacer funcionar GPUs como la RTX 4060 y RTX 2080 Ti en sistemas ARM, y varios fabricantes lanzan PCs con RTX Spark.",
+    "title": "Jensen Huang defiende el uso de modelos de IA chinos en EE.UU. y niega que tengan puertas traseras",
+    "summary": "El CEO de Nvidia aboga por permitir el uso de modelos abiertos chinos en empresas estadounidenses, postura respaldada por el laboratorio de IA Arcee al afirmar que no son inherentemente peligrosos.",
     "source": [
-      "videocardz.com",
+      "elchapuzasinformatico.com",
       "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "Samsung lanza los Galaxy Z Fold8, Flip8 y Fold8 Ultra con formato pasaporte y mejoras clave",
-    "summary": "La nueva generación de plegables de Samsung incluye un diseño más fino, mayor batería en el Ultra y precios desde 1.299 euros.",
+    "title": "Los primeros PCs RTX Spark de NVIDIA llegan de la mano de ASUS y MSI, con drivers modificados para ARM",
+    "summary": "Se confirma el lanzamiento de los primeros equipos RTX Spark en Taiwán, mientras que la comunidad modifica sus controladores para funcionar en Windows 11 ARM y se filtran dos variantes de GPU N1X.",
     "source": [
-      "xataka.com",
+      "videocardz.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Samsung lanza oficialmente los plegables Galaxy Z Fold8, Fold8 Ultra y Flip8 con nuevos formatos y precios",
+    "summary": "La nueva generación de plegables de Samsung llega con el Fold8 en formato pasaporte, el Fold8 Ultra con mejor batería y el Flip8 más ligero, con precios desde 1.299 euros.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Samsung anuncia sus propias gafas inteligentes para competir directamente con las Meta Ray-Ban",
+    "summary": "La compañía surcoreana presenta sus gafas de realidad aumentada, enfrentándose al reto de diferenciarse en un mercado dominado por Meta y Apple.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Las ventas de la Steam Deck se desploman un 82% tras la última subida de precio",
+    "summary": "El aumento de precio del PC portátil de Valve ha provocado una caída drástica en sus ventas, según reportan diversos análisis del mercado.",
+    "source": [
+      "hardzone.es",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic invertirá hasta 5.000 millones de dólares en GPUs AMD para su modelo Claude",
-    "summary": "Anthropic desplegará 2 gigavatios de GPUs AMD Instinct MI450 en un acuerdo que podría alcanzar los 5.000 millones de dólares.",
+    "title": "GitHub recorta las recompensas públicas de su programa de bug bounty y crea un nivel VIP privado",
+    "summary": "La plataforma reestructura su programa de seguridad, reduciendo los pagos estándar y moviendo las recompensas máximas a un nivel exclusivo para investigadores seleccionados.",
+    "source": [
+      "news.ycombinator.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic firma un acuerdo de 5.000 millones de dólares con AMD para desplegar 2 gigavatios de GPUs Instinct",
+    "summary": "El desarrollador de Claude invertirá hasta 5.000 millones en GPUs AMD Instinct MI450 para impulsar sus modelos de IA, en un acuerdo que busca reducir la dependencia de Nvidia.",
     "source": [
       "the-decoder.com",
       "tomshardware.com"
@@ -51,56 +90,11 @@
     "count": 2
   },
   {
-    "title": "Las ventas de Steam Deck caen un 82% tras el aumento de precio",
-    "summary": "La subida de precio de Steam Deck ha provocado una drástica reducción de ventas del 82% según análisis recientes.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El emulador RPCS3 amplía compatibilidad con antiguas GPUs ATI Radeon en Linux",
-    "summary": "La nueva versión del emulador de PS3 permite el uso de tarjetas gráficas ATI Radeon HD 2000-4000, optimizando el acceso a hardware más antiguo.",
+    "title": "El emulador de PS3 RPCS3 se optimiza para funcionar en GPUs ATI Radeon de la serie HD 2000 lanzadas en 2007",
+    "summary": "La nueva actualización del emulador permite ejecutar juegos en tarjetas gráficas de hace casi 20 años, aunque con un rendimiento muy limitado como 13 FPS en Portal a 273p.",
     "source": [
       "tomshardware.com",
       "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Substack lanza herramienta para detectar boletines escritos con inteligencia artificial",
-    "summary": "Substack introduce una función de transparencia que permite a los lectores identificar si un boletín ha sido generado por IA.",
-    "source": [
-      "techcrunch.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Fabricantes de memoria pronostican una escasez de DRAM que podría durar una década",
-    "summary": "Ejecutivos de ADATA y SK hynix advierten que la escasez de DRAM se agravará hasta 2027 y podría extenderse por 10 años.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La Casa Blanca estudia cómo responder a los avances de la inteligencia artificial china",
-    "summary": "El gobierno de EE.UU. sopesa sanciones tras acusar a Moonshot de destilar el modelo de Anthropic, en medio del creciente desafío de los modelos chinos de IA.",
-    "source": [
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI expande su infraestructura con un gasto de 750.000 millones de dólares y un acuerdo energético masivo",
-    "summary": "OpenAI incrementa su inversión en IA hasta 750.000 millones de dólares y asegura un proyecto energético de 3,2 GW en Georgia para 2032.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
     ],
     "count": 2
   }

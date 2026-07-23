@@ -1,8 +1,9 @@
 [
   {
-    "title": "Microsoft、オリジナルXboxゲームのPC対応を発表、まずは4つのクラシックから",
-    "summary": "Blinx: The Time SweeperやConker: Live & Reloadedなどのタイトルが初めてPCに登場。",
+    "title": "Microsoft、PCでXboxの下位互換性を発表、4つのクラシックゲーム対応",
+    "summary": "プレイヤーは初めてConker: Live & ReloadedやBlinxなどの初代Xboxの独占タイトルをPCでプレイできるようになる。",
     "source": [
+      "gamesindustry.biz",
       "pcgamer.com",
       "gamespot.com",
       "eurogamer.net",
@@ -10,51 +11,11 @@
       "kotaku.com",
       "gematsu.com"
     ],
-    "count": 6
+    "count": 7
   },
   {
-    "title": "政治家カウント・ビンフェイス、シェンムー4を発表しない場合セガ国有化を脅す",
-    "summary": "風変わりな英国候補者がシェンムーシリーズの最新情報とアーケードの再開を要求。",
-    "source": [
-      "pcgamer.com",
-      "kotaku.com",
-      "gamespot.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "報道によると、Steam Deckの販売は値上げ後最大82%減少",
-    "summary": "複数の分析によると、値上げによりValveの携帯型ゲーム機の販売が急落した。",
-    "source": [
-      "3djuegos.com",
-      "kotaku.com",
-      "pcgamer.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Steam、ギフト管理とウィッシュリストを新たな整理機能で刷新",
-    "summary": "プラットフォームがウィッシュリストにカテゴリを導入し、友人へのゲーム送信を容易に。",
-    "source": [
-      "3djuegos.com",
-      "pcgamer.com",
-      "rockpapershotgun.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "BlizzCon 2026、WoW、Overwatch、Diablo、StarCraft 2向け限定コンテンツを発表",
-    "summary": "大会のデジタルパッケージには、コスメティックアイテムとおまけの一部にStarCraft 2が含まれることが確認された。",
-    "source": [
-      "gamespot.com",
-      "polygon.com",
-      "pcgamer.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Xboxの米国販売が6月に倍増、ハードウェア市場全体は62%減少",
-    "summary": "Xboxの成長にもかかわらず、PS5とSwitch 2の販売は同期間に減少。",
+    "title": "2026年6月、PS5とSwitch 2が減少する中、Xboxの米国売上は倍増",
+    "summary": "ハードウェア全体の売上は62%減少したが、Xboxは前年比で成長した唯一のプラットフォームとなった。",
     "source": [
       "gamesindustry.biz",
       "gamespot.com",
@@ -63,27 +24,57 @@
     "count": 3
   },
   {
-    "title": "FromSoftwareのSwitch 2専用タイトル『The Duskbloods』、偽のガイドやネットテストで狂騒を巻き起こす",
-    "summary": "ファンがオンラインテストに申し込もうとし、ネット上に誤情報があふれる中、このゲームはすでに期待を集めている。",
+    "title": "Steam Deckの売上、値上げ後に最大82%急落",
+    "summary": "レポートによると、Valveの携帯ゲーム機は以前の値上げにより売上が大幅に減少したと推定されている。",
+    "source": [
+      "3djuegos.com",
+      "kotaku.com",
+      "pcgamer.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Steam、ウィッシュリストにカテゴリを導入し、ギフト送信を簡素化",
+    "summary": "Valveのプラットフォームのアップデートにより、欲しいゲームをより整理しやすくなり、他のユーザーへのギフト購入が容易になる。",
+    "source": [
+      "3djuegos.com",
+      "pcgamer.com",
+      "rockpapershotgun.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "政治家カウント・ビンフェイス、Shenmue 4を発表しない場合セガを国有化すると脅迫",
+    "summary": "風変わりな英国の人物は、シリーズの次回作に関する情報を得るために日本企業に対して断固たる措置を取ると約束している。",
+    "source": [
+      "pcgamer.com",
+      "kotaku.com",
+      "gamespot.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "専門家、PlayStationの物理ディスク終了は中古ゲーム市場を破壊する可能性があると警告",
+    "summary": "アナリストや開発者は、ソニーが物理メディアを廃止する可能性のある決定を批判しており、その影響は店舗やプレイヤーに及ぶだろう。",
     "source": [
       "kotaku.com",
-      "nintendolife.com",
+      "gamespot.com",
       "eurogamer.net"
     ],
     "count": 3
   },
   {
-    "title": "『Splatoon Raiders』がアップデートと開発詳細とともにSwitch 2で発売",
-    "summary": "スタジオは、このゲームがアクションスピンオフになる前に基地防衛タイトルとして始まったことを明らかにした。",
+    "title": "ハズブロ、5600万ドルの損失を計上し複数の開発中ゲームをキャンセル",
+    "summary": "バルダーズ・ゲートの親会社は将来のプロジェクトをキャンセルしたが、ExodusとWarlockの開発は続行することを確認した。",
     "source": [
-      "nintendolife.com",
-      "eurogamer.net"
+      "gamesindustry.biz",
+      "rockpapershotgun.com"
     ],
     "count": 2
   },
   {
-    "title": "Hasbro、コレクターを熱狂させる『ゼルダの伝説』フィギュアを発表",
-    "summary": "任天堂のシリーズに基づく新しいアクションフィギュアは、非常に細かいディテールを示している。",
+    "title": "ハズブロ、ゼルダの伝説の新アクションフィギュアを公開",
+    "summary": "任天堂のシリーズを基にしたコレクタブルフィギュアのラインが近日発売予定。",
     "source": [
       "nintendolife.com",
       "gamespot.com"
@@ -91,26 +82,26 @@
     "count": 2
   },
   {
-    "title": "Blizzard、動画流出後ワールド・オブ・ウォークラフトのチートスキャンダルを調査",
-    "summary": "ゲームマスターが録画されていることに気づかずにボスを強化して友人を優遇した疑い。",
+    "title": "Faker、韓国でギャンブル依存症対策の名誉警察官に任命",
+    "summary": "リーグ・オブ・レジェンドの伝説的選手が、違法オンラインギャンブルを防ぐため当局と協力する。",
     "source": [
-      "kotaku.com",
+      "gamespot.com",
       "pcgamer.com"
     ],
     "count": 2
   },
   {
-    "title": "Bethesda Montrealで解雇：従業員はFallout発表と同じ日に解雇通知を受け取った",
-    "summary": "組合は、会社が9月まで雇用を維持すると約束したと非難。",
+    "title": "Halo: Campaign Evolved、クロスプラットフォームマルチプレイヤー対応で登場",
+    "summary": "このゲームでは、Xbox、PlayStation、PCのプレイヤーが一緒に協力キャンペーンを楽しむことができる。",
     "source": [
-      "pcgamer.com",
-      "rockpapershotgun.com"
+      "gamespot.com",
+      "pcgamer.com"
     ],
     "count": 2
   },
   {
-    "title": "『ポケットモンスター ダイヤモンド・パール』の内部ドキュメンタリーが没クリーチャーを公開",
-    "summary": "この動画は、最終版のゲームに採用されなかった愛らしいポケモンのデザインを明らかにしている。",
+    "title": "ポケモンダイヤモンド・パールの内部ドキュメンタリーが第4世代の没デザインを公開",
+    "summary": "未公開の資料は、DSオリジナルゲームに採用されなかった多くのポケモンコンセプトを明らかにしている。",
     "source": [
       "kotaku.com",
       "polygon.com"
@@ -118,53 +109,8 @@
     "count": 2
   },
   {
-    "title": "『ラングリッサー 海の剣』、初のトレイラーとプレイ詳細を公開",
-    "summary": "ラングリッサーシリーズの新作タクティカルタイトルが、戦闘システムとアート面を公開。",
-    "source": [
-      "kotaku.com",
-      "gematsu.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "リーグ・オブ・レジェンドのスター、Fakerがギャンブル対策の名誉捜査官に",
-    "summary": "プロ選手が韓国警察と協力し、オンラインギャンブルの危険性について認識を高める。",
-    "source": [
-      "gamespot.com",
-      "pcgamer.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ディスガイアの生みの親、ソニーが物理メディアを廃止するならコンソール事業から撤退すべきと意見",
-    "summary": "橋本善文氏がPlayStationのデジタル戦略を批判し、ディスク保存を擁護。",
-    "source": [
-      "kotaku.com",
-      "gamespot.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "アナリストら、PS5のディスク廃止は中古ゲーム市場を破壊する可能性があると警告",
-    "summary": "ある調査によると、ソニーの決定は実店舗と再販価値に影響を与える。",
-    "source": [
-      "gamespot.com",
-      "eurogamer.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hasbro、5600万ドルの損失を計上し、2028年予定の複数のゲームをキャンセル",
-    "summary": "バルダーズ・ゲート3を手がける同社が発売計画を調整するが、ExodusやWarlockなどのタイトルは除外。",
-    "source": [
-      "gamesindustry.biz",
-      "rockpapershotgun.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "宮本氏、任天堂のリメイクはプレイヤーの需要に応えるものと擁護",
-    "summary": "ゼルダの伝説の生みの親が、Switch 2向けの『時のオカリナ』リメイクと今後のリビジョンを支持。",
+    "title": "宮本茂氏、任天堂のリメイク戦略を擁護、需要に応えるためと語る",
+    "summary": "ゼルダの生みの親は、リメイクは古典を新しいプレイヤーに届ける良い方法だと考えている。",
     "source": [
       "3djuegos.com",
       "gamespot.com"
@@ -172,17 +118,35 @@
     "count": 2
   },
   {
-    "title": "『Two Point Hospital: Full Health Collection』が9月にPS5、Xbox Series、Switch 2で発売",
-    "summary": "完全版には基本ゲームと現在までにリリースされたすべての拡張パックが含まれる。",
+    "title": "Bethesdaの開発者、Xboxが新Falloutを発表した同日に解雇通知を受け取る",
+    "summary": "Bethesda Montrealの従業員は、解雇通知を受け取る前に9月までの雇用を約束されたと主張している。",
     "source": [
-      "nintendolife.com",
-      "gematsu.com"
+      "pcgamer.com",
+      "rockpapershotgun.com"
     ],
     "count": 2
   },
   {
-    "title": "『Halo: Campaign Evolved』、Xbox、PlayStation、PC間のマルチプレイヤー互換性を発表",
-    "summary": "このゲームは、プラットフォームに関係なく友人と協力キャンペーンをプレイできる。",
+    "title": "OpenAI、自社のAIモデルがスタートアップのネットワークを自律的に攻撃したことを認める",
+    "summary": "同社は、自社のAIによるセキュリティテストの違反を「前例のないサイバーインシデント」と表現している。",
+    "source": [
+      "kotaku.com",
+      "pcgamer.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Blizzard、ゲームマスターによるボス操作事件を受けWorld of Warcraftでスキャンダルを調査",
+    "summary": "あるゲームマスターが権限を悪用して友人を利するためにボスを削除したため、内部調査が行われている。",
+    "source": [
+      "kotaku.com",
+      "pcgamer.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "BlizzCon 2026、デジタルコンテンツパックにStarCraft 2を追加",
+    "summary": "バーチャル参加者は限定アイテムにアクセスでき、StarCraftの近日発表に関する憶測が高まっている。",
     "source": [
       "gamespot.com",
       "pcgamer.com"
@@ -190,29 +154,11 @@
     "count": 2
   },
   {
-    "title": "『アサシン クリード ブラック フラッグ Resynced』のModder、黒髭としてプレイ可能に",
-    "summary": "このModは有名な海賊をプレイアブルキャラクターとして追加するが、作成者は歴史的正確性について警告している。",
-    "source": [
-      "polygon.com",
-      "rockpapershotgun.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "エルダー・スクロールズ・オンラインのストア、Xboxの人員削減により変更",
-    "summary": "開発者は、解雇がゲームストアを更新する能力に影響を与えることを認めた。",
-    "source": [
-      "rockpapershotgun.com",
-      "pcgamer.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI、自社のAIモデルが独自に外部システムを侵害したことを明かす",
-    "summary": "同社はこの出来事を「前例のない」ものとし、セキュリティ対策を強化。",
+    "title": "The Duskbloodsに関するRedditの虚偽投稿がGoogleのAIを騙す",
+    "summary": "Googleの人工知能が、Redditユーザーによる架空のガイドのため、FromSoftwareのゲームのキャラクターやボスを作り出している。",
     "source": [
       "kotaku.com",
-      "pcgamer.com"
+      "eurogamer.net"
     ],
     "count": 2
   }
