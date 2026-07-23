@@ -1,27 +1,64 @@
 [
   {
-    "title": "Oil surpasses $98 and European gas nears highs due to geopolitical tensions",
-    "summary": "Crude oil surges after Houthi attack on Saudi tankers and natural gas rises amid fears of a winter with scarce supply, fueling inflationary concerns in Europe.",
+    "title": "Oil reaches $100 after Houthi attacks on Saudi tankers",
+    "summary": "Crude oil prices rise to their highest level in months due to supply disruptions from conflicts in the Middle East, fueling inflation fears.",
+    "source": [
+      "finance.yahoo.com",
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ECB keeps rates at 2.25% and postpones hikes until September",
+    "summary": "The central bank pauses its tightening cycle amid economic uncertainty and rising inflation caused by the oil price surge.",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Bond yields rise to record highs on oil and ECB expectations",
+    "summary": "Sovereign debt yields surge on the prospect of persistent inflation and central bank caution.",
     "source": [
       "ft.com",
       "handelsblatt.com",
-      "nikkei.com",
-      "bolsamania.com"
+      "expansion.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Repsol triples its profit in the first half and announces share buyback",
-    "summary": "The Spanish oil company earned 2.2 billion euros between January and June, driven by rising crude prices and increased production, and plans to buy back up to 500 million euros in shares.",
+    "title": "Wall Street falls as Alphabet and Tesla results and oil rally weigh",
+    "summary": "The Dow Jones falls 500 points, and the S&P 500 and Nasdaq also post heavy losses amid concerns over AI spending and the Middle East conflict.",
     "source": [
       "bolsamania.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cryptocurrency exchange BitMEX shuts down after money laundering violations revealed",
+    "summary": "The platform suspends operations as authorities investigate illicit fund movements.",
+    "source": [
+      "finance.yahoo.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Two drone stocks recommended for investment in their rapid growth",
+    "summary": "Financial firms highlight the potential of the unmanned vehicle market as an investment opportunity.",
+    "source": [
+      "finance.yahoo.com",
       "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "Nestlé restructures its water business with a joint venture and possible sale of Perrier",
-    "summary": "The Swiss company creates an alliance valued at 4.9 billion euros in the water sector and negotiates the divestment of its stake in the Perrier brand, while its results disappoint the market.",
+    "title": "Blackstone beats earnings estimates and halts withdrawals in its flagship fund",
+    "summary": "The asset manager benefits from AI investments and stabilizes capital outflows in its private credit funds.",
     "source": [
       "investing.com",
       "ft.com"
@@ -29,37 +66,28 @@
     "count": 2
   },
   {
-    "title": "Asian stock markets rebound driven by semiconductor and artificial intelligence sector",
-    "summary": "The Nikkei and Kospi advance strongly thanks to the pull of technology and chip stocks, fueled by the US SOX rally and optimism surrounding AI.",
+    "title": "US refineries run at full capacity amid global fuel crisis",
+    "summary": "Refining capacity reaches 96.2% due to crude shortages and high demand, exacerbated by international conflicts.",
+    "source": [
+      "finance.yahoo.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "European gas prices hit highest since Iran war on winter uncertainty",
+    "summary": "Wholesale natural gas prices surge due to rapid depletion of reserves and doubts about Russian supply to Europe.",
     "source": [
       "handelsblatt.com",
-      "nikkei.com"
+      "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Ibex 35 edges down in a session marked by corporate results and wait for ECB",
-    "summary": "The Spanish benchmark moves around 19,500 points with moderate declines, as investors digest half-yearly earnings and anticipate the European Central Bank's decision.",
+    "title": "Ibex 35 loses 19,300 points dragged by oil and ECB caution",
+    "summary": "The Spanish benchmark falls 1.41% in a session marked by rising crude and anticipation of new monetary signals.",
     "source": [
       "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Wall Street closes flat awaiting new stimulus",
-    "summary": "The main US indices ended the session barely changed, with the Dow Jones, S&P 500, and Nasdaq practically stable.",
-    "source": [
-      "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "European bond yields rise ahead of imminent ECB meeting",
-    "summary": "The ten-year German bond yield climbed to 3.2% as the market prices in a possible rate hike by the European Central Bank.",
-    "source": [
-      "nikkei.com",
       "expansion.com"
     ],
     "count": 2

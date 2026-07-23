@@ -1,27 +1,64 @@
 [
   {
-    "title": "El petróleo supera los 98 dólares y el gas europeo se acerca a máximos por tensiones geopolíticas",
-    "summary": "El crudo se dispara tras el ataque hutí a petroleros saudíes y el gas natural sube ante el temor a un invierno con escaso suministro, lo que aviva la preocupación inflacionista en Europa.",
+    "title": "El petróleo alcanza los 100 dólares tras los ataques hutíes a petroleros saudíes",
+    "summary": "El precio del crudo sube a su nivel más alto en meses debido a las interrupciones en el suministro por los conflictos en Oriente Medio, lo que aviva los temores inflacionarios.",
+    "source": [
+      "finance.yahoo.com",
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El BCE mantiene los tipos en el 2,25% y pospone subidas hasta septiembre",
+    "summary": "La entidad monetaria pausa el ciclo de ajuste ante la incertidumbre económica y el repunte de la inflación provocado por la escalada del petróleo.",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La rentabilidad de los bonos sube a niveles máximos por el petróleo y la expectativa del BCE",
+    "summary": "El rendimiento de la deuda soberana se dispara ante la perspectiva de una inflación persistente y la cautela del banco central.",
     "source": [
       "ft.com",
       "handelsblatt.com",
-      "nikkei.com",
-      "bolsamania.com"
+      "expansion.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Repsol triplica su beneficio en el primer semestre y anuncia recompra de acciones",
-    "summary": "La petrolera española ganó 2.200 millones de euros entre enero y junio, impulsada por la subida del crudo y el aumento de la producción, y prevé recomprar hasta 500 millones en acciones.",
+    "title": "Wall Street cae lastrado por los resultados de Alphabet y Tesla y el alza del petróleo",
+    "summary": "El Dow Jones baja 500 puntos y el S&P 500 y el Nasdaq también registran fuertes pérdidas en medio de la preocupación por el gasto en IA y el conflicto en Oriente Medio.",
     "source": [
       "bolsamania.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El exchange de criptomonedas BitMEX cierra tras revelarse violaciones de lavado",
+    "summary": "La plataforma suspende operaciones mientras las autoridades investigan movimientos ilícitos de fondos.",
+    "source": [
+      "finance.yahoo.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Recomiendan dos acciones del sector de drones para invertir en su rápido crecimiento",
+    "summary": "Las firmas financieras destacan el potencial del mercado de vehículos no tripulados como oportunidad de inversión.",
+    "source": [
+      "finance.yahoo.com",
       "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "Nestlé reestructura su negocio de agua con una empresa conjunta y la posible venta de Perrier",
-    "summary": "La compañía suiza crea una alianza valorada en 4.900 millones de euros en el sector del agua y negocia la desinversión de su participación en la marca Perrier, mientras sus resultados decepcionan al mercado.",
+    "title": "Blackstone supera previsiones de ganancias y frena las retiradas en su fondo estrella",
+    "summary": "La gestora de activos se beneficia de las inversiones en IA y logra estabilizar las salidas de capital en sus fondos de crédito privado.",
     "source": [
       "investing.com",
       "ft.com"
@@ -29,37 +66,28 @@
     "count": 2
   },
   {
-    "title": "Las bolsas asiáticas repuntan impulsadas por el sector de semiconductores y la inteligencia artificial",
-    "summary": "El Nikkei y el Kospi avanzan con fuerza gracias al tirón de los valores tecnológicos y de chips, contagiados por el rally del SOX estadounidense y el optimismo en torno a la IA.",
+    "title": "Las refinerías de EE.UU. operan a toda máquina ante la crisis de combustible global",
+    "summary": "La capacidad de refinamiento alcanza el 96,2% por la escasez de crudo y la alta demanda, agravada por los conflictos internacionales.",
+    "source": [
+      "finance.yahoo.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El precio del gas en Europa toca máximos de la guerra de Irán por la incertidumbre invernal",
+    "summary": "Los precios mayoristas del gas natural se disparan por el rápido agotamiento de las reservas y las dudas sobre el suministro ruso a Europa.",
     "source": [
       "handelsblatt.com",
-      "nikkei.com"
+      "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "El Ibex 35 cede ligeramente en una sesión marcada por los resultados empresariales y la espera del BCE",
-    "summary": "El selectivo español se mueve en torno a los 19.500 puntos con descensos moderados, mientras los inversores asimilan las cuentas semestrales y anticipan la decisión del Banco Central Europeo.",
+    "title": "El Ibex 35 pierde los 19.300 puntos arrastrado por el petróleo y la cautela del BCE",
+    "summary": "El selectivo español cae un 1,41% en una jornada marcada por el alza del crudo y la espera de nuevas señales monetarias.",
     "source": [
       "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Wall Street cierra plano a la espera de nuevos estímulos",
-    "summary": "Los principales índices estadounidenses terminaron la sesión sin cambios apenas, con el Dow Jones, el S&P 500 y el Nasdaq prácticamente estables.",
-    "source": [
-      "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Los rendimientos de los bonos europeos suben ante la inminente reunión del BCE",
-    "summary": "La rentabilidad del bono alemán a diez años escaló al 3,2 % mientras el mercado descuenta una posible subida de tipos por parte del Banco Central Europeo.",
-    "source": [
-      "nikkei.com",
       "expansion.com"
     ],
     "count": 2

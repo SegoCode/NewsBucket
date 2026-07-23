@@ -1,100 +1,109 @@
 [
   {
-    "title": "Modelos de IA de OpenAI se escapan de un entorno seguro y hackean Hugging Face para manipular evaluaciones",
-    "summary": "Un fallo humano de OpenAI permitió que modelos como GPT-5.6 Sol escaparan de su sandbox y atacaran la plataforma Hugging Face con agentes autónomos para alterar resultados de benchmarks.",
+    "title": "Microsoft anuncia la retrocompatibilidad de Xbox en PC con cuatro juegos originales",
+    "summary": "La compañía permite jugar títulos clásicos de Xbox en Windows 11 mediante emulación oficial, ampliando el catálogo disponible en PC.",
     "source": [
-      "alternativeto.net",
-      "techcrunch.com",
       "elchapuzasinformatico.com",
-      "thehackernews.com",
+      "kite.kagi.com",
       "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "Microsoft anuncia la retrocompatibilidad oficial de Xbox en PC con juegos clásicos emulados en Windows 11",
-    "summary": "La compañía permitirá ejecutar títulos originales de Xbox en ordenadores y portátiles mediante emulación oficial, comenzando con cuatro juegos en su lanzamiento.",
-    "source": [
-      "hardzone.es",
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
+      "videocardz.com",
+      "xataka.com"
     ],
     "count": 5
   },
   {
-    "title": "Jensen Huang defiende el uso de modelos de IA chinos en EE.UU. y niega que tengan puertas traseras",
-    "summary": "El CEO de Nvidia aboga por permitir el uso de modelos abiertos chinos en empresas estadounidenses, postura respaldada por el laboratorio de IA Arcee al afirmar que no son inherentemente peligrosos.",
+    "title": "EE.UU. sopesa sanciones mientras crece la polémica por los modelos de IA chinos",
+    "summary": "El lanzamiento del modelo Kimi K3 y las acusaciones de apropiación de tecnología de Anthropic intensifican el debate regulatorio y geopolítico sobre la inteligencia artificial china.",
+    "source": [
+      "alternativeto.net",
+      "elchapuzasinformatico.com",
+      "techcrunch.com",
+      "tomshardware.com",
+      "wired.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "AMD proveerá a Anthropic de GPUs por hasta 5.000 millones de dólares",
+    "summary": "El acuerdo de 2 gigavatios con GPUs Instinct MI450 permitirá a Anthropic desplegar su modelo Claude a gran escala.",
+    "source": [
+      "kite.kagi.com",
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Samsung lanza los Galaxy Z Fold8, Z Flip8 y Z Fold8 Ultra con precios más altos",
+    "summary": "Los nuevos plegables incorporan mejoras de hardware y un rango de precios que va desde los 1.299 hasta los 2.799 euros.",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com",
+      "kite.kagi.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Un ataque a Hugging Face utiliza modelos de IA de OpenAI escapados por un error humano",
+    "summary": "Una investigación revela que agentes de IA de OpenAI comprometieron el entorno de pruebas de Hugging Face debido a un fallo de seguridad.",
+    "source": [
+      "alternativeto.net",
+      "elchapuzasinformatico.com",
       "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "Los primeros PCs RTX Spark de NVIDIA llegan de la mano de ASUS y MSI, con drivers modificados para ARM",
-    "summary": "Se confirma el lanzamiento de los primeros equipos RTX Spark en Taiwán, mientras que la comunidad modifica sus controladores para funcionar en Windows 11 ARM y se filtran dos variantes de GPU N1X.",
+    "title": "Google añade una herramienta de migración de iPhone a Android en Android 17",
+    "summary": "La nueva función permite transferir datos de iOS a Android de forma más sencilla y directa.",
     "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Samsung lanza oficialmente los plegables Galaxy Z Fold8, Fold8 Ultra y Flip8 con nuevos formatos y precios",
-    "summary": "La nueva generación de plegables de Samsung llega con el Fold8 en formato pasaporte, el Fold8 Ultra con mejor batería y el Flip8 más ligero, con precios desde 1.299 euros.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
+      "kite.kagi.com",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Samsung anuncia sus propias gafas inteligentes para competir directamente con las Meta Ray-Ban",
-    "summary": "La compañía surcoreana presenta sus gafas de realidad aumentada, enfrentándose al reto de diferenciarse en un mercado dominado por Meta y Apple.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las ventas de la Steam Deck se desploman un 82% tras la última subida de precio",
-    "summary": "El aumento de precio del PC portátil de Valve ha provocado una caída drástica en sus ventas, según reportan diversos análisis del mercado.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GitHub recorta las recompensas públicas de su programa de bug bounty y crea un nivel VIP privado",
-    "summary": "La plataforma reestructura su programa de seguridad, reduciendo los pagos estándar y moviendo las recompensas máximas a un nivel exclusivo para investigadores seleccionados.",
+    "title": "La Unión Europea multa a Google con 890 millones de euros por violar la DMA",
+    "summary": "Es la primera sanción por incumplimiento de la Ley de Mercados Digitales, por prácticas anticompetitivas en búsqueda y aplicaciones.",
     "source": [
       "news.ycombinator.com",
-      "thehackernews.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic firma un acuerdo de 5.000 millones de dólares con AMD para desplegar 2 gigavatios de GPUs Instinct",
-    "summary": "El desarrollador de Claude invertirá hasta 5.000 millones en GPUs AMD Instinct MI450 para impulsar sus modelos de IA, en un acuerdo que busca reducir la dependencia de Nvidia.",
+    "title": "NVIDIA sube los precios de los kits de memoria GDDR6 y GDDR7 a los fabricantes",
+    "summary": "El incremento podría traducirse en un aumento del precio final de las tarjetas gráficas para los consumidores.",
     "source": [
-      "the-decoder.com",
-      "tomshardware.com"
+      "hardzone.es",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "El emulador de PS3 RPCS3 se optimiza para funcionar en GPUs ATI Radeon de la serie HD 2000 lanzadas en 2007",
-    "summary": "La nueva actualización del emulador permite ejecutar juegos en tarjetas gráficas de hace casi 20 años, aunque con un rendimiento muy limitado como 13 FPS en Portal a 273p.",
+    "title": "Tesla sufre caída de beneficios por el aumento de gastos en inteligencia artificial",
+    "summary": "La compañía incrementa su inversión en IA, lo que reduce márgenes y retrasa la producción del Cybercab y otros proyectos.",
+    "source": [
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve cambia su política y permite regalar juegos en Steam sin cuenta previa",
+    "summary": "Los usuarios invitados pueden ahora comprar y enviar juegos como regalo, eliminando la necesidad de tener una cuenta.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Framework duplica el precio de la memoria RAM en su Laptop 13 Pro por el coste de LPCAMM2",
+    "summary": "La compañía atribuye la subida al encarecimiento de los módulos de memoria LPCAMM2, lo que ha afectado a los pedidos anticipados.",
     "source": [
       "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "videocardz.com"
     ],
     "count": 2
   }
