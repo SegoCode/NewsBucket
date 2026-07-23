@@ -1,109 +1,140 @@
 [
   {
-    "title": "Microsoft、PCでのXbox後方互換性を4つのオリジナルゲームで発表",
-    "summary": "同社は、公式エミュレーションによりWindows 11でXboxのクラシックタイトルをプレイできるようにし、PCで利用可能なカタログを拡大しています。",
+    "title": "米国、中国のAIにどう対処するか議論、封鎖を避ける圧力高まる",
+    "summary": "スタートアップ創業者やNVIDIA CEOが中国のオープンモデルへのアクセス維持を要請、ホワイトハウスは戦略を検討中",
     "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com",
-      "tomshardware.com",
-      "videocardz.com",
-      "xataka.com"
+      "wired.com",
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 5
+    "count": 3
   },
   {
-    "title": "米国、中国のAIモデルをめぐる論争の高まりの中で制裁を検討",
-    "summary": "Kimi K3モデルのリリースとAnthropicの技術流用疑惑が、中国の人工知能をめぐる規制および地政学的な議論を激化させている。",
+    "title": "NVIDIAがメモリ価格を引き上げ、GeForce RTX GPUが高価に",
+    "summary": "グラフィックメモリキットの値上げが将来のコンシューマー向けグラフィックカードの価格に影響",
     "source": [
-      "alternativeto.net",
       "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google、セルフィービデオでのログインとブロックされたアカウントの復元を可能に",
+    "summary": "新しい生体認証機能は、Googleアカウントへのアクセスと復旧の代替手段を提供",
+    "source": [
       "techcrunch.com",
-      "tomshardware.com",
-      "wired.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "AMD、最大50億ドル相当のGPUをAnthropicに供給へ",
-    "summary": "Instinct MI450 GPUによる2ギガワットの契約により、AnthropicはClaudeモデルを大規模に展開できるようになる。",
-    "source": [
-      "kite.kagi.com",
-      "the-decoder.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Samsung、Galaxy Z Fold8、Z Flip8、Z Fold8 Ultraを値上げして発売",
-    "summary": "新しい折りたたみ式モデルはハードウェアの改良が施され、価格帯は1,299ユーロから2,799ユーロとなっている。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Hugging Faceへの攻撃、人為的ミスで流出したOpenAIのAIモデルを悪用",
-    "summary": "調査によると、OpenAIのAIエージェントがセキュリティ上の欠陥によりHugging Faceのテスト環境を侵害したことが明らかになった。",
-    "source": [
       "alternativeto.net",
-      "elchapuzasinformatico.com",
-      "techcrunch.com"
+      "thehackernews.com"
     ],
     "count": 3
   },
   {
-    "title": "Google、Android 17にiPhoneからAndroidへの移行ツールを追加",
-    "summary": "新機能により、iOSからAndroidへのデータ転送がより簡単かつ直接的に行えるようになる。",
-    "source": [
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "EU、DMA違反でGoogleに8億9000万ユーロの制裁金",
-    "summary": "デジタル市場法（DMA）違反に対する最初の制裁であり、検索およびアプリにおける反競争的行為が理由である。",
+    "title": "Geekbench 7が実際のCPUテスト、AIベンチマーク、CUDAサポートで刷新",
+    "summary": "人気ベンチマークの新バージョンには、メディアワークロード、ゲーム、人工知能テストが含まれる",
     "source": [
       "news.ycombinator.com",
-      "xataka.com"
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "IntelとAMD、中国との契約でサーバーCPU価格を40％引き上げ",
+    "summary": "メーカーは中国顧客と長期契約を結び、最終価格を確定せずに購入量を保証",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIA、GDDR6およびGDDR7メモリキットのメーカー向け価格を値上げ",
-    "summary": "この値上げは、消費者向けグラフィックカードの最終価格の上昇につながる可能性がある。",
+    "title": "Framework、LPCAMM2モジュールの高コストによりLaptop 13 Proのメモリ価格を倍増",
+    "summary": "同社はサプライヤーの値上げに対応するため、予約注文のメモリ構成を変更",
     "source": [
-      "hardzone.es",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Tesla、AI支出増加により利益減少",
-    "summary": "同社はAIへの投資を増やしており、これが利益率を低下させ、Cybercabやその他のプロジェクトの生産を遅らせている。",
+    "title": "PlayStation 6コントローラーが磁気ジョイスティックを採用し「ドリフト」を解消",
+    "summary": "ソニーはアナログスティックにTMRセンサーを採用し、摩耗による意図しないドリフトを解決",
     "source": [
-      "kite.kagi.com",
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、広告付き1時間セッションの無料Xbox Cloud Gamingをテスト",
+    "summary": "ゲームストリーミングサービスは広告と引き換えに無料アクセスを提供、60分セッションに制限",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta、終末を歌う楽曲を使った楽観的なAI広告を公開",
+    "summary": "この広告キャンペーンはMetaの人工知能を宣伝する一方、楽曲の選択で論争を巻き起こす",
+    "source": [
+      "wired.com",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Valve、ポリシー変更：Steamでアカウントなしでゲームをギフト可能に",
-    "summary": "ゲストユーザーはアカウントを必要とせずにゲームを購入してギフトとして送信できるようになった。",
+    "title": "大手ハイテク企業、AI投資で1.65兆ドルの隠れ債務を蓄積",
+    "summary": "報告書は主要ハイテク企業が人工知能への支出に関連する巨額の負債を隠していることを明らかに",
     "source": [
-      "hardzone.es",
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google Geminiが10億ユーザーに迫り、CEOはより大規模なベースモデルを発表",
+    "summary": "Googleの人工知能アシスタントがユーザー数で記録を達成、同社は次世代モデルを準備",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD、最大1,152MBのL3キャッシュと256コアを備えたEPYC Venice-Xプロセッサを発表",
+    "summary": "Zen 6ベースのEPYC 9006シリーズは、ハイパフォーマンスコンピューティングでIntel XeonやNvidia Veraに対して大きな性能向上を約束",
+    "source": [
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Framework、LPCAMM2のコストによりLaptop 13 ProのRAM価格を2倍に",
-    "summary": "同社は、値上げの原因をLPCAMM2メモリモジュールのコスト上昇によるものとしており、これが予約注文に影響を与えている。",
+    "title": "サムスン、Galaxy Z Fold8、Z Flip、Galaxy Watchを発表、価格上昇と世代間改善",
+    "summary": "韓国企業が新しい折りたたみ端末とスマートウォッチを発表、予約注文特典と大幅な仕様変更を提供",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "xataka.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Steam、アカウント不要でゲームをギフトとして購入可能に",
+    "summary": "Valveの新ポリシーにより、ログイン不要で友人にゲームを送ることが可能に",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xboxの後方互換性がPCに登場、XeFuエミュレーターでオリジナルゲームを実行",
+    "summary": "MicrosoftはXbox 360エミュレーション技術を使用してPCで初代Xboxタイトルをプレイ可能に、要件と機能を公開",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
     ],
     "count": 2
   }
