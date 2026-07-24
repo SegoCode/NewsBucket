@@ -1,59 +1,62 @@
 [
   {
-    "title": "フーシ派の攻撃とイランとの緊張激化により原油が100ドルを突破、世界的なエネルギー危機を引き起こす",
-    "summary": "原油が5月以来初めて100ドルに達し、フーシ派によるサウジ船籍の船舶への攻撃とイランとの紛争激化を受け、金融市場で大規模な売りが発生し、世界的に国債利回りが上昇している。",
+    "title": "世界的な市場はAI支出と原油高騰への懸念で下落",
+    "summary": "米国とアジアの株式市場は、アルファベットとテスラの決算、及び原油価格の急騰を受けて大幅な損失を記録。",
     "source": [
+      "bolsamania.com",
+      "expansion.com",
+      "handelsblatt.com",
+      "investing.com",
+      "nasdaq.com",
+      "nikkei.com",
+      "/r/stocks"
+    ],
+    "count": 7
+  },
+  {
+    "title": "中東の地政学的緊張の中で原油が100ドルを突破",
+    "summary": "米国のイラン攻撃の脅威とフーシ派のサウジ船舶攻撃を受け、原油は100ドルに達し、債券の大量売却を引き起こす。",
+    "source": [
+      "expansion.com",
       "ft.com",
       "handelsblatt.com",
       "nikkei.com",
-      "bolsamania.com",
-      "expansion.com",
-      "finance.yahoo.com"
+      "/r/stocks"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "ECBは金利を2.25%に維持、9月の利上げを示唆",
-    "summary": "欧州中央銀行（ECB）は金利を据え置いたが、継続するエネルギー危機により9月の利上げが可能性が高いと警告した。",
+    "title": "ECBは金利を2.25%に据え置き、9月の利上げを示唆",
+    "summary": "欧州中央銀行は利上げを一時停止するが、次回会合で0.25ポイントの引き上げの可能性を示唆。",
     "source": [
       "expansion.com",
-      "nikkei.com",
-      "handelsblatt.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ECB、新ユーロ紙幣のデザイン選定で一般意見公募を開始",
-    "summary": "市民はベートーヴェン、セルバンテス、鳥などのモチーフについて意見を述べることができ、最終決定は数ヶ月後に行われる。",
-    "source": [
       "handelsblatt.com",
-      "expansion.com",
-      "bolsamania.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "テクノロジー株の急落でウォール街は大幅安で終了",
-    "summary": "ダウ平均は600ポイント超下落、S&P500とナスダックも木曜日の取引で大幅に下落した。",
-    "source": [
-      "handelsblatt.com",
-      "bolsamania.com",
       "nikkei.com"
     ],
     "count": 3
   },
   {
-    "title": "EU、ロシアに対する新たな制裁で水産物とガスの禁止を除外",
-    "summary": "第21次制裁パッケージは水産物の輸入を除外し、ロシアのガス供給を免除する。",
+    "title": "ECB、新ユーロ紙幣のデザイン選定のためのパブリックコンサルテーションを開始",
+    "summary": "提案には鳥や作曲家からヨーロッパの文化的景観まで含まれている。",
     "source": [
-      "nikkei.com",
-      "ft.com"
+      "bolsamania.com",
+      "expansion.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "アリアンツ、HSBCのシンガポール生命保険事業を21億ドルで買収",
+    "summary": "ドイツの保険会社がHSBCのアジア事業を買収し、地域でのプレゼンスを強化。",
+    "source": [
+      "handelsblatt.com",
+      "investing.com"
     ],
     "count": 2
   },
   {
     "title": "S&P500の上昇に賭ける戦略",
-    "summary": "ExpansionとFinancial TimesがS&P500に対して強気になるための戦略を提供している。",
+    "summary": "2つの記事が、米国株のインデックスで強気のポジションを取る方法を説明。",
     "source": [
       "expansion.com",
       "ft.com"
@@ -61,11 +64,29 @@
     "count": 2
   },
   {
-    "title": "経営難のプライベートクレジットファンドがセカンダリー投資家に好機",
-    "summary": "投資家はセカンダリー市場でこれらの資産を割引価格で取得し、魅力的なリターンを得ることができる。",
+    "title": "困難にあるプライベートクレジットファンド、セカンダリー投資家にチャンスをもたらす",
+    "summary": "プライベートクレジットのストレスがセカンダリー市場での投資機会を開く。",
     "source": [
       "expansion.com",
       "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ブラックストーン、AIのおかげで利益が61%急増、主力ファンドの流出を抑制",
+    "summary": "プライベートエクイティ運用会社はAIに牽引された記録的な業績を報告し、引き出しの減速を発表。",
+    "source": [
+      "bolsamania.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "円は1ドル163円に下落、39年以上ぶりの安値",
+    "summary": "日本円は対ドルで163円まで下落し、アジア市場に影響を与えている。",
+    "source": [
+      "nikkei.com",
+      "/r/stocks"
     ],
     "count": 2
   }

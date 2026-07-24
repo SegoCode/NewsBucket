@@ -1,27 +1,37 @@
 [
   {
-    "title": "United States debates how to address Chinese artificial intelligence as pressure grows not to block it",
-    "summary": "Startup founders and NVIDIA CEO call for maintaining access to Chinese open models, while the White House evaluates its strategy.",
+    "title": "AMD presents its Helios system with the Instinct MI455X accelerator to compete with Nvidia in data centers",
+    "summary": "The new rack system integrates the MI455X accelerator with 432 GB of HBM4 and partners with Cerebras for low-latency AI inference.",
     "source": [
-      "wired.com",
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "NVIDIA raises memory prices and GeForce RTX GPUs will be more expensive",
-    "summary": "The increase in graphics memory kits will affect prices of future consumer graphics cards.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
+      "techcrunch.com",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Google allows logging in with a selfie video and recovering blocked accounts",
-    "summary": "The new biometric verification function offers an alternative to access and recover Google accounts.",
+    "title": "Leading AI companies accumulate hidden debt of $1.65 trillion",
+    "summary": "Alphabet, Amazon, Meta, Microsoft, and Oracle reportedly have undisclosed liabilities that raise questions about the sustainability of artificial intelligence spending.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI launches ChatGPT Health amid lawsuit over dangerous medical advice",
+    "summary": "The ChatGPT health service is rolling out globally while a court evaluates a damages lawsuit and a study indicates the model worsens without payment.",
+    "source": [
+      "/r/technology",
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google allows logging in with a selfie video to verify identity",
+    "summary": "The company adds the option of biometric verification via selfie to access accounts and regain access.",
     "source": [
       "techcrunch.com",
       "alternativeto.net",
@@ -30,54 +40,37 @@
     "count": 3
   },
   {
-    "title": "Geekbench 7 is updated with real CPU tests, AI benchmarks and CUDA support",
-    "summary": "The new version of the popular benchmark includes media workloads, games and artificial intelligence tests.",
+    "title": "Microsoft introduces Xbox backward compatibility on PC with four classic games",
+    "summary": "Original Xbox titles can be played on PC via an Xbox 360 emulator, according to early tests.",
     "source": [
-      "news.ycombinator.com",
-      "tomshardware.com",
+      "alternativeto.net",
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia raises prices on its GDDR7 and GDDR6 memory kits, making GeForce GPUs more expensive",
+    "summary": "The increase in memory cost will affect the final prices of graphics cards, according to several manufacturers' reports.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Intel and AMD raise server CPU prices by 40% in agreements with China",
-    "summary": "The manufacturers sign long-term contracts with Chinese customers that guarantee purchase volumes without setting definitive prices.",
+    "title": "Patreon lays off 20% of its workforce as part of a restructuring",
+    "summary": "The subscription platform announces a staff adjustment affecting 80 employees, justified as a necessary move for sustainability.",
     "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Framework doubles the price of memory in its Laptop 13 Pro laptops due to the high cost of LPCAMM2 modules",
-    "summary": "The company modifies memory configurations of pre-orders to face supplier price increases.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PlayStation 6 controller will incorporate magnetic joysticks to eliminate 'drifting'",
-    "summary": "Sony will adopt TMR sensors in analog sticks to solve the wear that causes involuntary drifts.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft tests free Xbox Cloud Gaming with ads and one-hour sessions",
-    "summary": "The streaming gaming service offers free access in exchange for advertising, limited to 60-minute sessions.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta launches an optimistic AI ad with a song about the end of the world",
-    "summary": "The advertising campaign seeks to promote Meta's artificial intelligence while generating controversy over the musical choice.",
+    "title": "Meta publishes optimistic AI ad with a song about the end of the world",
+    "summary": "The company launches an advertising campaign using the song 'It's the End of the World as We Know It' to promote its artificial intelligence.",
     "source": [
       "wired.com",
       "techcrunch.com"
@@ -85,26 +78,44 @@
     "count": 2
   },
   {
-    "title": "Big tech companies accumulate a hidden debt of 1.65 trillion dollars in AI investments",
-    "summary": "A report reveals that major technology companies hide a huge liability linked to spending on artificial intelligence.",
+    "title": "Microsoft tests free Xbox Cloud Gaming with ads and one-hour sessions",
+    "summary": "The ad-supported free version of Microsoft's cloud gaming service takes its first steps in a testing phase.",
     "source": [
-      "news.ycombinator.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony plans to incorporate magnetic anti-drift sticks in the PlayStation 6 controller",
+    "summary": "Future console controllers would use TMR sensors to avoid the joystick drift problem, according to leaks.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve makes it easier to gift games on Steam by allowing purchases without a guest account",
+    "summary": "Users can purchase games as gifts for others without needing a Steam account, simplifying the process.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Augmental launches MouthPad, a buccal trackpad controlled with the tongue via Bluetooth",
+    "summary": "The device allows controlling smartphones, tablets, and PCs through tongue movements, offering an accessibility alternative.",
+    "source": [
+      "xataka.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Google Gemini approaches one billion users and its CEO announces larger base models",
-    "summary": "Google's artificial intelligence assistant reaches a record number of users while the company prepares the next generation of models.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD presents EPYC Venice-X processors with up to 1,152 MB of L3 cache and 256 cores",
-    "summary": "The Zen 6-based EPYC 9006 series promises big performance leaps against Intel Xeon and Nvidia Vera in high-performance computing.",
+    "title": "Geekbench 7 launches with new CPU, AI, and media tests, and a Ryzen 7 7700 baseline",
+    "summary": "The new version of the benchmark introduces physics, photo editing, and AV1 tests, as well as CUDA compatibility and a new reference point.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -112,29 +123,47 @@
     "count": 2
   },
   {
-    "title": "Samsung launches Galaxy Z Fold8, Z Flip and Galaxy Watch with higher prices and generational improvements",
-    "summary": "The South Korean company presents its new foldable devices and smartwatches, with pre-sale offers and significant specification changes.",
+    "title": "AMD introduces the EPYC Venice family with Zen 6 cores and 3D V-Cache versions",
+    "summary": "The new server processors offer up to 256 cores, 1,152 MB of L3 cache, and frequencies above 5 GHz to compete in high-performance computing.",
     "source": [
-      "xataka.com",
-      "kite.kagi.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Steam now allows buying games as gifts without needing an account",
-    "summary": "Valve's new policy simplifies sending games to friends by removing the login requirement.",
+    "title": "AMD launches Ryzen AI Embedded X100 (Strix Halo) APUs for robotics and physical AI",
+    "summary": "The new chips combine up to 16 Zen 5 cores with RDNA 3.5 GPU to compete with Intel Panther Lake in embedded systems.",
     "source": [
       "videocardz.com",
-      "hardzone.es"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Xbox backward compatibility comes to PC with original games running via the XeFu emulator",
-    "summary": "Microsoft allows playing original Xbox titles on PC using Xbox 360 emulation technology, revealing requirements and features.",
+    "title": "Intel and AMD sign long-term agreements with Chinese customers as CPU prices rise more than 40%",
+    "summary": "Chip manufacturers guarantee purchase volumes with Chinese customers for one year amid price escalation and geopolitical tension.",
     "source": [
-      "videocardz.com",
-      "hardzone.es"
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Growing public opposition to AI data centers with protests in 42 US states",
+    "summary": "Residents of several communities mobilize against the construction of AI infrastructure, denouncing its impact on the land and lack of control.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Tech entrepreneurs ask not to block Chinese AI models and Jensen Huang advocates using them",
+    "summary": "Startup founders and Nvidia's CEO defend access to Chinese open-weight models, while the US government debates restrictions.",
+    "source": [
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   }

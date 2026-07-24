@@ -1,27 +1,37 @@
 [
   {
-    "title": "Estados Unidos debate cómo abordar la inteligencia artificial china mientras crece la presión para no bloquearla",
-    "summary": "Fundadores de startups y el CEO de NVIDIA piden mantener el acceso a los modelos abiertos chinos, mientras la Casa Blanca evalúa su estrategia.",
+    "title": "AMD presenta su sistema Helios con el acelerador Instinct MI455X para competir con Nvidia en centros de datos",
+    "summary": "El nuevo sistema rack integra el acelerador MI455X con 432 GB de HBM4 y se asocia con Cerebras para inferencia de IA de baja latencia.",
     "source": [
-      "wired.com",
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "NVIDIA sube el precio de las memorias y las GPU GeForce RTX serán más caras",
-    "summary": "El aumento en los kits de memoria gráfica afectará a los precios de las futuras tarjetas gráficas para consumidores.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
+      "techcrunch.com",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Google permite iniciar sesión con un vídeo selfie y restablecer cuentas bloqueadas",
-    "summary": "La nueva función de verificación biométrica ofrece una alternativa para acceder y recuperar cuentas de Google.",
+    "title": "Las principales empresas de IA acumulan una deuda oculta de 1,65 billones de dólares",
+    "summary": "Alphabet, Amazon, Meta, Microsoft y Oracle tendrían un pasivo no declarado que genera dudas sobre la sostenibilidad del gasto en inteligencia artificial.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI lanza ChatGPT Health en medio de una demanda por recomendaciones médicas peligrosas",
+    "summary": "El servicio de salud de ChatGPT se despliega globalmente mientras un tribunal evalúa una demanda por daños y un estudio señala que el modelo empeora sin pago.",
+    "source": [
+      "/r/technology",
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google permite iniciar sesión con un vídeo selfie para verificar la identidad",
+    "summary": "La compañía añade la opción de verificación biométrica mediante selfie para acceder a las cuentas y recuperar el acceso.",
     "source": [
       "techcrunch.com",
       "alternativeto.net",
@@ -30,54 +40,37 @@
     "count": 3
   },
   {
-    "title": "Geekbench 7 se renueva con pruebas de CPU reales, benchmarks de IA y soporte CUDA",
-    "summary": "La nueva versión del popular benchmark incluye cargas de trabajo de medios, juegos y pruebas de inteligencia artificial.",
+    "title": "Microsoft introduce la retrocompatibilidad de Xbox en PC con cuatro juegos clásicos",
+    "summary": "Los títulos originales de Xbox se podrán jugar en PC mediante un emulador de Xbox 360, según las primeras pruebas.",
     "source": [
-      "news.ycombinator.com",
-      "tomshardware.com",
+      "alternativeto.net",
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia sube el precio de sus kits de memoria GDDR7 y GDDR6, encareciendo las GPU GeForce",
+    "summary": "El aumento del costo de la memoria afectará a los precios finales de las tarjetas gráficas, según reportan varios fabricantes.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Intel y AMD elevan un 40% los precios de las CPU para servidores en acuerdos con China",
-    "summary": "Los fabricantes firman contratos a largo plazo con clientes chinos que garantizan volúmenes de compra sin fijar precios definitivos.",
+    "title": "Patreon despide al 20% de su plantilla como parte de una reestructuración",
+    "summary": "La plataforma de suscripciones anuncia un ajuste de personal que afecta a 80 empleados, justificado como un movimiento necesario para la sostenibilidad.",
     "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "techcrunch.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Framework duplica el precio de la memoria en sus portátiles Laptop 13 Pro por el alto coste de los módulos LPCAMM2",
-    "summary": "La empresa modifica las configuraciones de memoria de los pedidos anticipados para afrontar los aumentos de precios de los proveedores.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El mando de PlayStation 6 incorporará joysticks magnéticos para eliminar el 'drifting'",
-    "summary": "Sony adoptará sensores TMR en los sticks analógicos para solucionar el desgaste que provoca derivas involuntarias.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft prueba Xbox Cloud Gaming gratuito con anuncios y sesiones de una hora",
-    "summary": "El servicio de juego en streaming ofrece acceso sin coste a cambio de publicidad, limitado a sesiones de 60 minutos.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta lanza un anuncio optimista sobre IA con una canción que habla del fin del mundo",
-    "summary": "La campaña publicitaria busca promover la inteligencia artificial de Meta mientras genera controversia por la elección musical.",
+    "title": "Meta publica un anuncio optimista sobre IA con una canción sobre el fin del mundo",
+    "summary": "La compañía lanza una campaña publicitaria que utiliza la canción 'It's the End of the World as We Know It' para promover su inteligencia artificial.",
     "source": [
       "wired.com",
       "techcrunch.com"
@@ -85,26 +78,44 @@
     "count": 2
   },
   {
-    "title": "Las grandes tecnológicas acumulan una deuda oculta de 1,65 billones de dólares en inversiones de IA",
-    "summary": "Un informe revela que las principales empresas de tecnología esconden un enorme pasivo vinculado al gasto en inteligencia artificial.",
+    "title": "Microsoft prueba Xbox Cloud Gaming gratuito con anuncios y sesiones de una hora",
+    "summary": "La versión gratuita con publicidad del servicio de juego en la nube de Microsoft da sus primeros pasos en fase de prueba.",
     "source": [
-      "news.ycombinator.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony planea incorporar sticks magnéticos antideriva en el mando de PlayStation 6",
+    "summary": "Los futuros mandos de la consola usarían sensores TMR para evitar el problema de deriva de los joysticks, según filtraciones.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve facilita regalar juegos en Steam permitiendo compras sin cuenta de invitado",
+    "summary": "Los usuarios podrán adquirir juegos como regalo para otros sin necesidad de tener una cuenta de Steam, simplificando el proceso.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Augmental lanza MouthPad, un trackpad bucal que se controla con la lengua mediante Bluetooth",
+    "summary": "El dispositivo permite manejar smartphones, tablets y PC mediante movimientos de la lengua, ofreciendo una alternativa de accesibilidad.",
+    "source": [
+      "xataka.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Google Gemini se acerca a los mil millones de usuarios y su CEO anuncia modelos base más grandes",
-    "summary": "El asistente de inteligencia artificial de Google alcanza una cifra récord de usuarios mientras la compañía prepara la próxima generación de modelos.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD presenta los procesadores EPYC Venice-X con hasta 1.152 MB de caché L3 y 256 núcleos",
-    "summary": "La serie EPYC 9006 basada en Zen 6 promete grandes saltos de rendimiento frente a Intel Xeon y Nvidia Vera en cómputo de alto rendimiento.",
+    "title": "Geekbench 7 se lanza con nuevas pruebas de CPU, IA y medios, y una línea base Ryzen 7 7700",
+    "summary": "La nueva versión del benchmark introduce test de física, edición de fotos y AV1, además de compatibilidad con CUDA y un nuevo punto de referencia.",
     "source": [
       "tomshardware.com",
       "videocardz.com"
@@ -112,29 +123,47 @@
     "count": 2
   },
   {
-    "title": "Samsung lanza los Galaxy Z Fold8, Z Flip y Galaxy Watch con precios más altos y mejoras generacionales",
-    "summary": "La compañía surcoreana presenta sus nuevos dispositivos plegables y relojes inteligentes, con ofertas de preventa y cambios significativos en las especificaciones.",
+    "title": "AMD presenta la familia EPYC Venice con núcleos Zen 6 y versiones con 3D V-Cache",
+    "summary": "Los nuevos procesadores para servidores ofrecen hasta 256 núcleos, 1.152 MB de L3 y frecuencias superiores a 5 GHz para competir en computación de alto rendimiento.",
     "source": [
-      "xataka.com",
-      "kite.kagi.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Steam permite ahora comprar juegos como regalo sin necesidad de tener cuenta",
-    "summary": "La nueva política de Valve facilita el envío de juegos a amigos eliminando el requisito de iniciar sesión.",
+    "title": "AMD lanza los APU Ryzen AI Embedded X100 (Strix Halo) para robótica e IA física",
+    "summary": "Los nuevos chips combinan hasta 16 núcleos Zen 5 con GPU RDNA 3.5 para competir con Intel Panther Lake en sistemas embebidos.",
     "source": [
       "videocardz.com",
-      "hardzone.es"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "La retrocompatibilidad de Xbox llega a PC con juegos originales ejecutándose mediante el emulador XeFu",
-    "summary": "Microsoft permite jugar títulos de la primera Xbox en PC utilizando la tecnología de emulación de Xbox 360, revelando requisitos y funciones.",
+    "title": "Intel y AMD firman acuerdos a largo plazo con clientes chinos mientras los precios de CPU suben más del 40%",
+    "summary": "Los fabricantes de chips garantizan volúmenes de compra con clientes chinos durante un año en medio de la escalada de precios y la tensión geopolítica.",
     "source": [
-      "videocardz.com",
-      "hardzone.es"
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Crece la oposición ciudadana a los centros de datos de IA con protestas en 42 estados de EE. UU.",
+    "summary": "Los vecinos de varias comunidades se movilizan contra la construcción de infraestructuras para IA, denunciando su impacto en el territorio y la falta de control.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Empresarios tecnológicos piden no bloquear los modelos de IA chinos y Jensen Huang aboga por usarlos",
+    "summary": "Fundadores de startups y el CEO de Nvidia defienden el acceso a los modelos de peso abierto chinos, mientras el gobierno estadounidense debate restricciones.",
+    "source": [
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   }
