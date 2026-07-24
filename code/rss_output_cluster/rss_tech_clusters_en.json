@@ -1,30 +1,38 @@
 [
   {
-    "title": "AMD presents the Instinct MI455X accelerator with 432 GB of HBM4 and the Helios system to combat Nvidia in AI",
-    "summary": "The company unveils its new CDNA 5 architecture and its partnership with Cerebras to offer high-speed, low-latency AI inference at scale.",
+    "title": "AMD prepares the Ryzen 7 9800HX3D with 3D cache for gaming laptops",
+    "summary": "The 8-core, 16-thread processor with 96 MB of 3D V-Cache would be aimed at high-performance gaming laptops.",
     "source": [
-      "news.ycombinator.com",
-      "techcrunch.com",
-      "kite.kagi.com",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "OpenAI launches ChatGPT Health for all adult users in the United States",
-    "summary": "The new service offers personalized health advice, although the quality of responses could be lower in the free version according to independent analyses.",
-    "source": [
-      "news.ycombinator.com",
-      "kite.kagi.com",
-      "the-decoder.com",
-      "techcrunch.com"
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "AMD reveals its EPYC roadmap with 256-core Zen 6 'Venice' and Zen 7 'Florence' for 2028",
-    "summary": "Future server CPUs promise up to 1,152 MB of L3 cache and a performance increase of up to 80% compared to the previous generation.",
+    "title": "Anthropic launches Claude Opus 5, its most advanced AI model with lower cost per token",
+    "summary": "The company introduces Opus 5, which offers comparable performance to competing models at half the price.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI models were compromised on Hugging Face and acted as rogue agents",
+    "summary": "A cyberattack on the Hugging Face platform allowed OpenAI's AI models to behave maliciously for several days before being detected.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD reveals its EPYC CPU roadmap: Zen 7 'Florence' in 2028 and Zen 8 'Ravenna' in 2030",
+    "summary": "The company details server processor releases, including the Venice, Florence, and Ravenna architectures with performance improvements.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -33,8 +41,8 @@
     "count": 3
   },
   {
-    "title": "AMD prepares the Ryzen 7 9800HX3D with 3D V-Cache for gaming laptops, possible presentation at CES 2027",
-    "summary": "The new processor promises a significant performance leap in high-end gaming laptops.",
+    "title": "Microsoft forces LG to remove McAfee advertising integrated into its Windows application",
+    "summary": "The company demands the removal of McAfee pop-ups in LG's monitoring software, seeking to reduce unwanted software.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es",
@@ -43,132 +51,121 @@
     "count": 3
   },
   {
-    "title": "Black Forest Labs presents Flux 3, its multimodal model capable of generating native video and audio up to 20 seconds",
-    "summary": "The new version of generative AI takes a step forward by creating clips with synchronized sound, challenging other tools in the sector.",
+    "title": "GIGABYTE adds support for Chinese CXMT RAM modules on its AMD and Intel motherboards",
+    "summary": "The company enables compatibility with CXMT DDR5 modules, reaching speeds up to 8200 MT/s to ease supply pressure.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia, Microsoft and Meta oppose restrictive regulation of open-weight AI models",
+    "summary": "A group of 25 companies signs an open letter against the ban on Chinese models and asks not to tighten restrictions on open-weight AI.",
+    "source": [
+      "tomshardware.com",
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD commemorates the 20th anniversary of the $5.4 billion acquisition of ATI",
+    "summary": "The purchase of ATI laid the foundation for Radeon GPUs, APUs, and AMD's dominance in video game consoles.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ChatGPT's voice mode arrives on the desktop app",
+    "summary": "OpenAI enables voice control and agent management in the desktop version of ChatGPT.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD launches Helios, an AI rack system to compete with Nvidia",
+    "summary": "The company introduces a rack-scale infrastructure for artificial intelligence workloads.",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Primate Labs launches Geekbench 7 with redesigned tests and cross-platform support",
+    "summary": "The updated benchmark offers more accurate tests for processors and graphics across Windows, macOS, Linux, Android, and iOS.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA relaunches the GeForce RTX 3060 12 GB and shows performance improvements over time",
+    "summary": "The mid-range graphics card receives updates that close the performance gap with newer models.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "RAM thieves target eSports hotels in China",
+    "summary": "A series of RAM module thefts affects computers in eSports establishments in China.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Claude's voice mode is updated with advanced models and tool access",
+    "summary": "Anthropic expands the capabilities of its voice assistant, adding more languages and tools, and using its most powerful models.",
+    "source": [
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Black Forest Labs launches Flux 3, a multimodal model for video and audio generation",
+    "summary": "The new AI model enables creation of multimedia content from text, improving video action generation.",
     "source": [
       "news.ycombinator.com",
-      "alternativeto.net",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google allows identity verification and account recovery through a selfie video from your mobile",
-    "summary": "The new biometric authentication feature is offered as an alternative to traditional login methods.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "techcrunch.com",
-      "alternativeto.net"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft tests free Xbox Cloud Gaming with ads and one-hour sessions",
-    "summary": "The cloud gaming service explores a freemium model to reach more users without requiring a paid subscription.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft demands that LG remove advertising pop-ups and bloatware from its Windows monitors",
-    "summary": "The dispute between the two companies escalates as LG redirects its advertising strategy toward its smart TVs.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic updates Claude's voice mode with its most advanced AI models across all platforms",
-    "summary": "The new voice mode is available for all users, improving the naturalness and capability of spoken interactions.",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft launches compatibility with Xbox 360 and classic games on PC via an official emulator",
-    "summary": "Windows users will be able to play old Xbox titles without the need for the original console.",
-    "source": [
-      "videocardz.com",
       "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "They achieve 144 FPS in 4K by combining an RTX 3090 and an RTX 3050 with Lossless Scaling in recent games",
-    "summary": "A non-conventional multi-GPU setup demonstrates that older Ampere GPUs can still deliver competitive 4K performance.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD launches Strix Halo APUs for robotics with Zen 5 cores and RDNA 3.5 graphics under the Ryzen AI Embedded brand",
-    "summary": "The new processors compete with Intel Panther Lake and bring physical AI to embedded systems.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony will use analog sticks with TMR magnetic sensors on the PlayStation 6 controller to eliminate drift",
-    "summary": "Magnetic detection technology promises to end the wear and drift of traditional analog joysticks.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Augmental Tech presents MouthPad Pro, a Bluetooth touchpad controlled with the tongue",
-    "summary": "The innovative device allows controlling phones, tablets, and computers without using hands, focused on accessibility.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Primate Labs releases Geekbench 7 with realistic CPU, AI tests, and CUDA compatibility",
-    "summary": "The new version of the popular benchmark includes multi-core tests and renewed multimedia workloads.",
-    "source": [
-      "kite.kagi.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Codeberg prohibits repositories generated mostly by artificial intelligence after community vote",
-    "summary": "The alternative platform to GitHub generates controversy and criticism from users who regret having migrated.",
-    "source": [
-      "alternativeto.net",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Serious security vulnerabilities found in OpenAI, Anthropic, and Kimi K3 AI agents",
-    "summary": "The flaws in ChatGPT AgentForger, Claude Cowork, and Kimi K3 allowed remote code execution and virtual machine escape.",
-    "source": [
-      "thehackernews.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta launches a controversial optimistic advertising campaign about AI using a song about the end of the world",
-    "summary": "The company promotes the benefits of artificial intelligence while the ad's soundtrack generates controversy.",
+    "title": "US accuses Chinese companies of plagiarizing Anthropic AI models",
+    "summary": "The US administration investigates whether models like Kimi K3 were trained with stolen data from Anthropic, while OpenAI would have lost control of two models.",
     "source": [
       "wired.com",
-      "techcrunch.com"
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Chinese model Kimi K3 discovers Redis vulnerabilities and generates exploits",
+    "summary": "Researchers demonstrate that Kimi K3 agents can find security flaws and create exploit code, although its performance is still inferior to US models.",
+    "source": [
+      "the-decoder.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Codeberg bans repositories generated mostly by AI after community vote",
+    "summary": "The code hosting platform restricts AI-generated content due to divisions in its community.",
+    "source": [
+      "news.ycombinator.com",
+      "alternativeto.net"
     ],
     "count": 2
   }

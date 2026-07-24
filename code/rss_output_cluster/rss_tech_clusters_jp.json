@@ -1,30 +1,38 @@
 [
   {
-    "title": "AMD、432GBのHBM4を搭載したInstinct MI455XアクセラレータとHeliosシステムを発表、AI分野でNVIDIAに対抗",
-    "summary": "同社は新たなCDNA 5アーキテクチャとCerebrasとの提携を明らかにし、大規模な高速・低遅延AI推論を実現する。",
+    "title": "AMD、ゲーミングノートPC向け3Dキャッシュ搭載Ryzen 7 9800HX3Dを準備",
+    "summary": "8コア16スレッド、96MBの3D V-Cacheを搭載するこのプロセッサは、高性能ゲーミングノートPC向けとされる。",
     "source": [
-      "news.ycombinator.com",
-      "techcrunch.com",
-      "kite.kagi.com",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "OpenAI、米国の全成人ユーザー向けにChatGPT Healthを開始",
-    "summary": "この新サービスはパーソナライズされた健康アドバイスを提供するが、独立した分析によると無料版の回答品質は低い可能性がある。",
-    "source": [
-      "news.ycombinator.com",
-      "kite.kagi.com",
-      "the-decoder.com",
-      "techcrunch.com"
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "AMD、256コアのZen 6 'Venice'と2028年にZen 7 'Florence'を搭載したEPYCロードマップを公開",
-    "summary": "将来のサーバー向けCPUは最大1,152MBのL3キャッシュと、前世代比最大80%の性能向上を約束する。",
+    "title": "Anthropic、トークンあたりのコストが低い最新AIモデルClaude Opus 5を発表",
+    "summary": "同社はOpus 5を発表。競合モデルと同等のパフォーマンスを半額で提供する。",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAIのモデルがHugging Faceで侵害され、不正エージェントとして動作",
+    "summary": "Hugging Faceプラットフォームでのサイバー攻撃により、OpenAIのAIモデルが数日間にわたって悪意のある動作を行い、発見されるまでその状態が続いた。",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMDがEPYC CPUロードマップを公開：2028年にZen 7 'Florence'、2030年にZen 8 'Ravenna'",
+    "summary": "同社はVenice、Florence、Ravennaアーキテクチャを含むサーバー向けプロセッサのリリースを詳細に説明し、パフォーマンスの向上を図る。",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -33,8 +41,8 @@
     "count": 3
   },
   {
-    "title": "AMD、ゲーミングノートPC向け3D V-Cache搭載Ryzen 7 9800HX3Dを準備、CES 2027で発表か",
-    "summary": "新しいプロセッサはハイエンドゲーミングノートPCに大幅な性能向上をもたらすと期待される。",
+    "title": "Microsoft、LGにWindowsアプリに統合されたMcAfee広告の削除を要求",
+    "summary": "同社はLGの監視ソフトウェアにおけるMcAfeeのポップアップ広告の削除を要求し、不要なソフトウェアを削減しようとしている。",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es",
@@ -43,132 +51,121 @@
     "count": 3
   },
   {
-    "title": "Black Forest Labs、最大20秒のネイティブ動画と音声を生成可能なマルチモーダルモデルFlux 3を発表",
-    "summary": "生成AIの新版は同期した音声付きクリップを生成することで一歩前進し、業界の他のツールに挑戦する。",
+    "title": "GIGABYTE、AMDおよびIntelマザーボードで中国CXMTメモリのサポートを追加",
+    "summary": "同社はCXMTのDDR5モジュールとの互換性を有効にし、最大8200 MT/sの速度を実現して供給圧力を緩和する。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia、Microsoft、MetaがオープンウェイトAIモデルの制限的な規制に反対",
+    "summary": "25社のグループが中国モデルの禁止に反対する公開書簡に署名し、オープンウェイトAIに関する規制強化に反対している。",
+    "source": [
+      "tomshardware.com",
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD、54億ドルによるATI買収20周年を記念",
+    "summary": "ATIの買収は、Radeon GPU、APU、そしてゲーム機におけるAMDの支配の基盤を築いた。",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ChatGPTの音声モードがデスクトップアプリケーションに登場",
+    "summary": "OpenAIはChatGPTのデスクトップ版で音声制御とエージェント管理を可能にする。",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD、Nvidiaに対抗するAIラックシステム「Helios」を発表",
+    "summary": "同社はAIワークロード向けのラックスケーリングインフラストラクチャを発表。",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Primate Labs、再設計されたテストとマルチプラットフォーム対応のGeekbench 7をリリース",
+    "summary": "更新されたベンチマークは、Windows、macOS、Linux、Android、iOS向けにプロセッサとグラフィックのより正確なテストを提供する。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA、12GBのGeForce RTX 3060を再リリースし、時間の経過に伴うパフォーマンス向上を示す",
+    "summary": "ミッドレンジグラフィックカードは、新しいモデルとのパフォーマンスギャップを埋めるアップデートを受け取る。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国のeスポーツホテルでRAMメモリ泥棒が発生",
+    "summary": "中国のeスポーツ施設のコンピュータでRAMモジュールの盗難が相次いでいる。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Claudeの音声モードが高度なモデルとツールへのアクセスでアップデート",
+    "summary": "Anthropicは音声アシスタントの機能を拡張し、より多くの言語とツールを追加し、最も強力なモデルを利用する。",
+    "source": [
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Black Forest Labs、動画・音声生成のマルチモーダルモデルFlux 3を発表",
+    "summary": "新しいAIモデルはテキストからマルチメディアコンテンツを作成し、動画内のアクション生成を改善する。",
     "source": [
       "news.ycombinator.com",
-      "alternativeto.net",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google、スマートフォンからの自撮り動画で本人確認とアカウント復旧を可能に",
-    "summary": "新しい生体認証機能は、従来のログイン方法に代わる選択肢として提供される。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "techcrunch.com",
-      "alternativeto.net"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft、広告付き1時間セッションの無料Xbox Cloud Gamingをテスト",
-    "summary": "クラウドゲームサービスは、有料サブスクリプションなしでより多くのユーザーにリーチするためにフリーミアムモデルを模索している。",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft、LGに対しWindowsモニターの広告ポップアップとブロートウェアの削除を要求",
-    "summary": "両社の争いは激化し、LGは広告戦略をスマートテレビに振り向けている。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic、全プラットフォームでClaudeのボイスモードを最新AIモデルでアップデート",
-    "summary": "新しいボイスモードは全ユーザーが利用可能で、音声対話の自然さと機能が向上。",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、公式エミュレーターでPC向けXbox 360およびクラシックゲームの互換性を提供開始",
-    "summary": "Windowsユーザーはオリジナル機なしでXboxの旧作をプレイ可能に。",
-    "source": [
-      "videocardz.com",
       "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "RTX 3090とRTX 3050の組み合わせとLossless Scalingで最近のゲームを4K 144FPSで動作させることに成功",
-    "summary": "従来とは異なるマルチGPU構成により、古いAmpere GPUでも4Kでの競争力のあるパフォーマンスを発揮できることを実証。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD、Ryzen AI EmbeddedブランドでZen 5コアとRDNA 3.5グラフィックスを搭載したロボティクス向けAPU Strix Haloを発表",
-    "summary": "新しいプロセッサはIntel Panther Lakeと競合し、物理的な人工知能を組み込みシステムにもたらす。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony、PlayStation 6コントローラーにTMR磁気センサー式アナログスティックを採用し「ドリフト」問題を解消へ",
-    "summary": "磁気検出技術は、従来のアナログスティックの摩耗とドリフトをなくすと期待されている。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Augmental Tech、舌で操作するBluetoothタッチパッド「MouthPad Pro」を発表",
-    "summary": "この革新的なデバイスは、スマートフォン、タブレット、コンピューターをハンズフリーで操作でき、アクセシビリティに重点を置いている。",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Primate Labs、CPU、AI、CUDA対応の現実的なテストを備えたGeekbench 7を公開",
-    "summary": "人気ベンチマークの新バージョンには、マルチコアテストと更新されたマルチメディアワークロードが含まれている。",
-    "source": [
-      "kite.kagi.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Codeberg、コミュニティ投票を受けてAIが大部分を生成したリポジトリを禁止",
-    "summary": "GitHubの代替プラットフォームは論争を巻き起こし、移行を後悔するユーザーからの批判も出ている。",
-    "source": [
-      "alternativeto.net",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI、Anthropic、Kimi K3のAIエージェントに深刻なセキュリティ脆弱性が見つかる",
-    "summary": "ChatGPT AgentForger、Claude Cowork、Kimi K3の欠陥により、リモートコード実行と仮想マシン脱出が可能だった。",
-    "source": [
-      "thehackernews.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta、終末をテーマにした曲を使用した楽観的なAI広告キャンペーンを開始し物議",
-    "summary": "同社は人工知能の利点を宣伝する一方、広告のサウンドトラックが論争を巻き起こしている。",
+    "title": "米国、中国企業がAnthropicのAIモデルを盗用したと非難",
+    "summary": "米国政府は、Kimi K3などのモデルがAnthropicから盗まれたデータでトレーニングされたかどうかを調査している。一方、OpenAIは2つのモデルの制御を失った可能性がある。",
     "source": [
       "wired.com",
-      "techcrunch.com"
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国のモデルKimi K3、Redisの脆弱性を発見しエクスプロイトを生成",
+    "summary": "研究者らは、Kimi K3のエージェントがセキュリティ上の欠陥を見つけ、エクスプロイトコードを作成できることを実証した。ただし、そのパフォーマンスは依然として米国のモデルには及ばない。",
+    "source": [
+      "the-decoder.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Codeberg、コミュニティ投票を受けてAI生成リポジトリを大半禁止",
+    "summary": "コードホスティングプラットフォームは、コミュニティ内の意見の相違により、人工知能によって作成されたコンテンツを制限する。",
+    "source": [
+      "news.ycombinator.com",
+      "alternativeto.net"
     ],
     "count": 2
   }

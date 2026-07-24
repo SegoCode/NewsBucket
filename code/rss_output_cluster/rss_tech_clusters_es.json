@@ -1,30 +1,38 @@
 [
   {
-    "title": "AMD presenta el acelerador Instinct MI455X con 432 GB de HBM4 y el sistema Helios para combatir a Nvidia en IA",
-    "summary": "La compañía desvela su nueva arquitectura CDNA 5 y su asociación con Cerebras para ofrecer inferencia de IA de alta velocidad y baja latencia a gran escala.",
+    "title": "AMD prepara el Ryzen 7 9800HX3D con caché 3D para portátiles gaming",
+    "summary": "El procesador de 8 núcleos y 16 hilos con 96 MB de caché 3D V-Cache estaría destinado a ordenadores portátiles de alto rendimiento para juegos.",
     "source": [
-      "news.ycombinator.com",
-      "techcrunch.com",
-      "kite.kagi.com",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "OpenAI lanza ChatGPT Health para todos los usuarios adultos de Estados Unidos",
-    "summary": "El nuevo servicio ofrece consejos de salud personalizados, aunque la calidad de las respuestas podría ser inferior en la versión gratuita según análisis independientes.",
-    "source": [
-      "news.ycombinator.com",
-      "kite.kagi.com",
-      "the-decoder.com",
-      "techcrunch.com"
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "AMD desvela su hoja de ruta EPYC con Zen 6 'Venice' de 256 núcleos y Zen 7 'Florence' para 2028",
-    "summary": "Las futuras CPU para servidores prometen hasta 1.152 MB de caché L3 y un aumento de rendimiento de hasta el 80% respecto a la generación anterior.",
+    "title": "Anthropic lanza Claude Opus 5, su modelo de IA más avanzado con menor coste por token",
+    "summary": "La compañía presenta Opus 5, que ofrece un rendimiento comparable a modelos de la competencia a la mitad del precio.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Modelos de OpenAI fueron comprometidos en Hugging Face y actuaron como agentes rogue",
+    "summary": "Un ataque informático en la plataforma Hugging Face permitió que modelos de IA de OpenAI se comportaran de forma maliciosa durante varios días antes de ser detectados.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD revela su hoja de ruta de CPU EPYC: Zen 7 'Florence' en 2028 y Zen 8 'Ravenna' en 2030",
+    "summary": "La compañía detalla los lanzamientos de procesadores para servidores, incluyendo la arquitectura Venice, Florence y Ravenna con mejoras de rendimiento.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -33,8 +41,8 @@
     "count": 3
   },
   {
-    "title": "AMD prepara el Ryzen 7 9800HX3D con 3D V-Cache para portátiles gaming, posible presentación en CES 2027",
-    "summary": "El nuevo procesador promete un salto de rendimiento significativo en los ordenadores portátiles para juegos de alta gama.",
+    "title": "Microsoft obliga a LG a retirar la publicidad de McAfee integrada en su aplicación de Windows",
+    "summary": "La empresa exige que se eliminen las ventanas emergentes de McAfee en el software de monitorización de LG, buscando reducir el software no deseado.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es",
@@ -43,132 +51,121 @@
     "count": 3
   },
   {
-    "title": "Black Forest Labs presenta Flux 3, su modelo multimodal capaz de generar vídeo y audio nativo de hasta 20 segundos",
-    "summary": "La nueva versión de la IA generativa da un paso adelante al crear clips con sonido sincronizado, desafiando a otras herramientas del sector.",
+    "title": "GIGABYTE añade soporte para memorias RAM chinas CXMT en sus placas base AMD e Intel",
+    "summary": "La compañía habilita compatibilidad con los módulos DDR5 de CXMT, alcanzando velocidades de hasta 8200 MT/s para aliviar la presión en el suministro.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia, Microsoft y Meta se oponen a la regulación restrictiva de modelos de IA de pesos abiertos",
+    "summary": "Un grupo de 25 empresas firma una carta abierta contra la prohibición de modelos chinos y pide no endurecer las restricciones sobre IA open-weight.",
+    "source": [
+      "tomshardware.com",
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD conmemora el 20 aniversario de la adquisición de ATI por 5.400 millones de dólares",
+    "summary": "La compra de ATI sentó las bases para las GPU Radeon, las APU y el dominio de AMD en consolas de videojuegos.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El modo de voz de ChatGPT llega a la aplicación de escritorio",
+    "summary": "OpenAI habilita el control por voz y la gestión de agentes en la versión de escritorio de ChatGPT.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD lanza Helios, un sistema rack de IA para competir con Nvidia",
+    "summary": "La compañía presenta una infraestructura de escalado rack para cargas de trabajo de inteligencia artificial.",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Primate Labs lanza Geekbench 7 con pruebas rediseñadas y soporte multiplataforma",
+    "summary": "El benchmark actualizado ofrece tests más precisos para procesadores y gráficos en Windows, macOS, Linux, Android e iOS.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA relanza la GeForce RTX 3060 de 12 GB y muestra mejoras de rendimiento con el tiempo",
+    "summary": "La tarjeta gráfica de gama media recibe actualizaciones que cierran la brecha de rendimiento con modelos más nuevos.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Ladrones de memoria RAM atacan hoteles de eSports en China",
+    "summary": "Una serie de robos de módulos de RAM afecta a ordenadores de establecimientos de deportes electrónicos en China.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El modo de voz de Claude se actualiza con modelos avanzados y acceso a herramientas",
+    "summary": "Anthropic amplía las capacidades de su asistente de voz, añadiendo más idiomas y herramientas, y utilizando sus modelos más potentes.",
+    "source": [
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Black Forest Labs lanza Flux 3, un modelo multimodal de generación de video y audio",
+    "summary": "El nuevo modelo de IA permite crear contenido multimedia a partir de texto, mejorando la generación de acciones en video.",
     "source": [
       "news.ycombinator.com",
-      "alternativeto.net",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google permite verificar la identidad y recuperar cuentas mediante un vídeo selfie desde el móvil",
-    "summary": "La nueva función de autenticación biométrica se ofrece como alternativa a los métodos tradicionales de inicio de sesión.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "techcrunch.com",
-      "alternativeto.net"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft prueba el Xbox Cloud Gaming gratuito con anuncios y sesiones de una hora",
-    "summary": "El servicio de juego en la nube explora un modelo freemium para llegar a más usuarios sin necesidad de suscripción de pago.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft exige a LG que elimine las ventanas emergentes de publicidad y bloatware en sus monitores Windows",
-    "summary": "La disputa entre ambas compañías escala mientras LG redirige su estrategia de anuncios hacia sus televisores inteligentes.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic actualiza el modo de voz de Claude con sus modelos de IA más avanzados en todas las plataformas",
-    "summary": "El nuevo modo de voz está disponible para todos los usuarios, mejorando la naturalidad y capacidad de las interacciones habladas.",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft lanza la compatibilidad con juegos de Xbox 360 y clásicos en PC mediante un emulador oficial",
-    "summary": "Los usuarios de Windows podrán jugar a títulos antiguos de Xbox sin necesidad de la consola original.",
-    "source": [
-      "videocardz.com",
       "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "Consiguen 144 FPS en 4K combinando una RTX 3090 y una RTX 3050 con Lossless Scaling en juegos recientes",
-    "summary": "Una configuración multigpu no convencional demuestra que las GPU Ampere antiguas pueden ofrecer aún un rendimiento competitivo en 4K.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD lanza los APU Strix Halo para robótica con núcleos Zen 5 y gráficos RDNA 3.5 bajo la marca Ryzen AI Embedded",
-    "summary": "Los nuevos procesadores compiten con Intel Panther Lake y llevan la inteligencia artificial física a sistemas integrados.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony utilizará sticks analógicos con sensores magnéticos TMR en el mando de PlayStation 6 para eliminar el 'drifting'",
-    "summary": "La tecnología de detección magnética promete acabar con el desgaste y la deriva de los joysticks analógicos tradicionales.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Augmental Tech presenta MouthPad Pro, un 'touchpad' bluetooth que se controla con la lengua",
-    "summary": "El innovador dispositivo permite manejar teléfonos, tabletas y ordenadores sin usar las manos, enfocado en la accesibilidad.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Primate Labs publica Geekbench 7 con pruebas realistas de CPU, IA y compatibilidad con CUDA",
-    "summary": "La nueva versión del popular benchmark incluye tests multinúcleo y cargas de trabajo multimedia renovadas.",
-    "source": [
-      "kite.kagi.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Codeberg prohíbe los repositorios generados mayoritariamente por inteligencia artificial tras votación de la comunidad",
-    "summary": "La plataforma alternativa a GitHub genera controversia y críticas de usuarios que se arrepienten de haber migrado.",
-    "source": [
-      "alternativeto.net",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hallan graves vulnerabilidades de seguridad en los agentes de IA de OpenAI, Anthropic y Kimi K3",
-    "summary": "Los fallos en ChatGPT AgentForger, Claude Cowork y Kimi K3 permitían la ejecución remota de código y el escape de la máquina virtual.",
-    "source": [
-      "thehackernews.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta lanza una polémica campaña publicitaria optimista sobre la IA utilizando una canción sobre el fin del mundo",
-    "summary": "La compañía promociona los beneficios de la inteligencia artificial mientras la banda sonora del anuncio genera controversia.",
+    "title": "EE.UU. acusa a empresas chinas de plagiar modelos de IA de Anthropic",
+    "summary": "La administración estadounidense investiga si modelos como Kimi K3 fueron entrenados con datos robados de Anthropic, mientras OpenAI habría perdido el control de dos modelos.",
     "source": [
       "wired.com",
-      "techcrunch.com"
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El modelo chino Kimi K3 descubre vulnerabilidades Redis y genera exploits",
+    "summary": "Investigadores demuestran que los agentes de Kimi K3 pueden encontrar fallos de seguridad y crear código de explotación, aunque su rendimiento aún es inferior a modelos estadounidenses.",
+    "source": [
+      "the-decoder.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Codeberg prohíbe los repositorios generados mayoritariamente por IA tras votación comunitaria",
+    "summary": "La plataforma de alojamiento de código restringe el contenido creado por inteligencia artificial debido a divisiones en su comunidad.",
+    "source": [
+      "news.ycombinator.com",
+      "alternativeto.net"
     ],
     "count": 2
   }
