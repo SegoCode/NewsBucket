@@ -1,39 +1,50 @@
 [
   {
-    "title": "Google、アカウント復旧のためにビデオ自撮り認証を導入",
-    "summary": "同社は、ログインやロックされたアカウントの復旧の代替方法として、ビデオ自撮りをユーザーに許可する。",
+    "title": "AMD、432GBのHBM4を搭載したInstinct MI455XアクセラレータとHeliosシステムを発表、AI分野でNVIDIAに対抗",
+    "summary": "同社は新たなCDNA 5アーキテクチャとCerebrasとの提携を明らかにし、大規模な高速・低遅延AI推論を実現する。",
     "source": [
-      "elchapuzasinformatico.com",
+      "news.ycombinator.com",
       "techcrunch.com",
-      "alternativeto.net",
-      "thehackernews.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "AMD、AI競争に向けアクセラレータInstinct MI455XとシステムHeliosを発表",
-    "summary": "AMDは、HBM4メモリを搭載した新しいAIアクセラレータInstinct MI455XとラックHeliosを、CDNA 5アーキテクチャとともに発表し、Nvidiaに対抗する。",
-    "source": [
-      "techcrunch.com",
-      "/r/hardware",
+      "kite.kagi.com",
       "videocardz.com",
       "tomshardware.com"
     ],
+    "count": 5
+  },
+  {
+    "title": "OpenAI、米国の全成人ユーザー向けにChatGPT Healthを開始",
+    "summary": "この新サービスはパーソナライズされた健康アドバイスを提供するが、独立した分析によると無料版の回答品質は低い可能性がある。",
+    "source": [
+      "news.ycombinator.com",
+      "kite.kagi.com",
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
     "count": 4
   },
   {
-    "title": "Microsoft、広告付き1時間セッションの無料Xbox Cloud Gamingを開始",
-    "summary": "ユーザーは、広告を視聴する代わりにサブスクリプションなしでクラウドゲームをプレイできるが、セッションは1時間に制限される。",
+    "title": "AMD、256コアのZen 6 'Venice'と2028年にZen 7 'Florence'を搭載したEPYCロードマップを公開",
+    "summary": "将来のサーバー向けCPUは最大1,152MBのL3キャッシュと、前世代比最大80%の性能向上を約束する。",
     "source": [
-      "hardzone.es",
       "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Black Forest Labs、マルチモーダル動画・音声生成モデルFlux 3を発表",
-    "summary": "Flux 3は、ネイティブオーディオ付きで最大20秒のクリップを生成し、同社初のネイティブ対応モデルとなる。",
+    "title": "AMD、ゲーミングノートPC向け3D V-Cache搭載Ryzen 7 9800HX3Dを準備、CES 2027で発表か",
+    "summary": "新しいプロセッサはハイエンドゲーミングノートPCに大幅な性能向上をもたらすと期待される。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Black Forest Labs、最大20秒のネイティブ動画と音声を生成可能なマルチモーダルモデルFlux 3を発表",
+    "summary": "生成AIの新版は同期した音声付きクリップを生成することで一歩前進し、業界の他のツールに挑戦する。",
     "source": [
       "news.ycombinator.com",
       "alternativeto.net",
@@ -42,101 +53,38 @@
     "count": 3
   },
   {
-    "title": "AMD、ロボット向けStrix HaloアーキテクチャのX100チップを発表",
-    "summary": "AMD X100プロセッサは、Zen 5コアとRDNA 3.5を統合し、ロボット向けAIアプリケーションでIntel Panther Lakeと競合する。",
-    "source": [
-      "/r/hardware",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD、最大256コア、1,152MBの3D V-Cacheを搭載したEPYC Veniceプロセッサを発表",
-    "summary": "Zen 6ベースのEPYC 9006およびEPYC 9996 Veniceシリーズは、最大256コア、1,152MBのL3キャッシュ、5GHz超の周波数を提供する。",
-    "source": [
-      "/r/hardware",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "NVIDIA、GDDR7およびGDDR6メモリキットの価格を引き上げ、GPUコストが上昇",
-    "summary": "グラフィックカードメーカーは、NVIDIAがGeForce RTX GPU向けメモリモジュールに値上げを適用した後、価格上昇を見込んでいる。",
+    "title": "Google、スマートフォンからの自撮り動画で本人確認とアカウント復旧を可能に",
+    "summary": "新しい生体認証機能は、従来のログイン方法に代わる選択肢として提供される。",
     "source": [
       "elchapuzasinformatico.com",
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Microsoft、広告付き1時間セッションの無料Xbox Cloud Gamingをテスト",
+    "summary": "クラウドゲームサービスは、有料サブスクリプションなしでより多くのユーザーにリーチするためにフリーミアムモデルを模索している。",
+    "source": [
       "hardzone.es",
+      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "欧州連合、DMA違反2件でGoogleに8億9000万ユーロの制裁金",
-    "summary": "欧州委員会は、Googleがデジタル市場法に違反したとして、8億9000万ユーロの制裁金を科した。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Geekbench 7、CPU実テストとAIベンチマークを含む最大のアップデートを導入",
-    "summary": "新バージョンでは、実際のアプリケーションに基づくCPUテスト、新しいマルチメディアワークロード、AIベンチマーク、CUDAサポートが含まれる。",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung、新型Galaxy Z Fold8、Watch8、Watch Ultraを発表",
-    "summary": "Samsungは、Galaxy Z Fold8 Ultra、Galaxy Watch8、Watch Ultraを含む新しい折りたたみデバイスとスマートウォッチを発売する。",
-    "source": [
-      "/r/hardware",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony、2028年に物理ディスクを廃止すると確認、反対する従業員を検閲",
-    "summary": "God of Warの元開発者は、Sonyが2028年の物理ディスク廃止について考えを変えないと主張し、同社はソーシャルメディアで従業員にルールを課している。",
+    "title": "Microsoft、LGに対しWindowsモニターの広告ポップアップとブロートウェアの削除を要求",
+    "summary": "両社の争いは激化し、LGは広告戦略をスマートテレビに振り向けている。",
     "source": [
       "hardzone.es",
+      "videocardz.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "PlayStation 6のコントローラーはドリフトを排除するためTMR磁気スティックを採用",
-    "summary": "Sonyは、PS6のジョイスティックにTMRセンサーを採用し、現在のコントローラーのドリフト問題を解決する。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Augmental MouthPad、舌でデバイスを操作できるBluetooth口内トラックパッド",
-    "summary": "このデバイスは口蓋に装着し、舌でスマートフォン、タブレット、PCを操作するトラックパッドとして機能する。",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta、世界の終わりを歌う楽曲を使った楽観的なAI広告を公開",
-    "summary": "Metaの広告キャンペーンはAIに対して楽観的なトーンを示すが、人類の絶滅を歌う楽曲を使用し、論争を巻き起こしている。",
-    "source": [
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI、米国でChatGPT Healthを展開、無料医療アドバイスは質低下",
-    "summary": "ChatGPT Healthは米国の全ユーザー向けに提供開始されるが、無料版はサブスクリプションを促進するために医療アドバイスの質を低下させている。",
+    "title": "Anthropic、全プラットフォームでClaudeのボイスモードを最新AIモデルでアップデート",
+    "summary": "新しいボイスモードは全ユーザーが利用可能で、音声対話の自然さと機能が向上。",
     "source": [
       "the-decoder.com",
       "techcrunch.com"
@@ -144,17 +92,17 @@
     "count": 2
   },
   {
-    "title": "Microsoft、LGにモニターアプリ内のMcAfeeポップアップ削除を強制",
-    "summary": "Microsoftは、LGにモニターアプリケーション内のMcAfeeのポップアップを削除させることで、Windows 11のブロートウェアに対抗する。",
+    "title": "Microsoft、公式エミュレーターでPC向けXbox 360およびクラシックゲームの互換性を提供開始",
+    "summary": "Windowsユーザーはオリジナル機なしでXboxの旧作をプレイ可能に。",
     "source": [
       "videocardz.com",
-      "/r/hardware"
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "RTX 3090とRTX 3050をLossless Scalingで組み合わせ、4Kゲームで144FPSを達成",
-    "summary": "Lossless Scaling技術を使用することで、2つのAmpere GPUが4Kゲームでパフォーマンスを2倍にし、144FPSを達成する。",
+    "title": "RTX 3090とRTX 3050の組み合わせとLossless Scalingで最近のゲームを4K 144FPSで動作させることに成功",
+    "summary": "従来とは異なるマルチGPU構成により、古いAmpere GPUでも4Kでの競争力のあるパフォーマンスを発揮できることを実証。",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com"
@@ -162,38 +110,65 @@
     "count": 2
   },
   {
-    "title": "Microsoft、Xboxの下位互換性をPCに導入、4つのクラシックゲームを提供",
-    "summary": "オリジナルXboxの最初のゲームが、Xbox 360エミュレータXeFuを使用したエミュレーションにより、PCで利用可能になった。",
+    "title": "AMD、Ryzen AI EmbeddedブランドでZen 5コアとRDNA 3.5グラフィックスを搭載したロボティクス向けAPU Strix Haloを発表",
+    "summary": "新しいプロセッサはIntel Panther Lakeと競合し、物理的な人工知能を組み込みシステムにもたらす。",
     "source": [
-      "alternativeto.net",
-      "videocardz.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "IntelとAMD、価格が40%以上上昇する中、中国顧客とCPU契約を締結",
-    "summary": "価格上昇に対応するため、中国の顧客はIntelおよびAMDと長期契約を結び、価格を固定せずに購入数量を保証する。",
+    "title": "Sony、PlayStation 6コントローラーにTMR磁気センサー式アナログスティックを採用し「ドリフト」問題を解消へ",
+    "summary": "磁気検出技術は、従来のアナログスティックの摩耗とドリフトをなくすと期待されている。",
     "source": [
-      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Augmental Tech、舌で操作するBluetoothタッチパッド「MouthPad Pro」を発表",
+    "summary": "この革新的なデバイスは、スマートフォン、タブレット、コンピューターをハンズフリーで操作でき、アクセシビリティに重点を置いている。",
+    "source": [
+      "xataka.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Framework、LPCAMM2メモリの価格を2倍にし、Laptop 13 Proの容量を削減",
-    "summary": "LPCAMM2モジュールのコスト上昇により、Frameworkは価格を2倍にし、一部の先行注文でRAMを削減せざるを得なくなった。",
+    "title": "Primate Labs、CPU、AI、CUDA対応の現実的なテストを備えたGeekbench 7を公開",
+    "summary": "人気ベンチマークの新バージョンには、マルチコアテストと更新されたマルチメディアワークロードが含まれている。",
     "source": [
-      "/r/hardware",
-      "videocardz.com"
+      "kite.kagi.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Steam、アカウント不要でゲストがギフトとしてゲームを購入できるように",
-    "summary": "Valveは、Steamアカウントを持っていなくても誰でもゲームをギフトとして購入できるように、Steamのギフトポリシーを変更した。",
+    "title": "Codeberg、コミュニティ投票を受けてAIが大部分を生成したリポジトリを禁止",
+    "summary": "GitHubの代替プラットフォームは論争を巻き起こし、移行を後悔するユーザーからの批判も出ている。",
     "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、Anthropic、Kimi K3のAIエージェントに深刻なセキュリティ脆弱性が見つかる",
+    "summary": "ChatGPT AgentForger、Claude Cowork、Kimi K3の欠陥により、リモートコード実行と仮想マシン脱出が可能だった。",
+    "source": [
+      "thehackernews.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta、終末をテーマにした曲を使用した楽観的なAI広告キャンペーンを開始し物議",
+    "summary": "同社は人工知能の利点を宣伝する一方、広告のサウンドトラックが論争を巻き起こしている。",
+    "source": [
+      "wired.com",
+      "techcrunch.com"
     ],
     "count": 2
   }

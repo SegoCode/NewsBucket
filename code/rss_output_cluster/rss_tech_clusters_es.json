@@ -1,39 +1,50 @@
 [
   {
-    "title": "Google implementa verificación por vídeo selfie para recuperar cuentas",
-    "summary": "La compañía permite a los usuarios usar un selfie en vídeo como método alternativo para iniciar sesión o recuperar cuentas bloqueadas.",
+    "title": "AMD presenta el acelerador Instinct MI455X con 432 GB de HBM4 y el sistema Helios para combatir a Nvidia en IA",
+    "summary": "La compañía desvela su nueva arquitectura CDNA 5 y su asociación con Cerebras para ofrecer inferencia de IA de alta velocidad y baja latencia a gran escala.",
     "source": [
-      "elchapuzasinformatico.com",
+      "news.ycombinator.com",
       "techcrunch.com",
-      "alternativeto.net",
-      "thehackernews.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "AMD presenta el acelerador Instinct MI455X y el sistema Helios para competir en IA",
-    "summary": "AMD lanza su nuevo acelerador AI Instinct MI455X con memoria HBM4 y el rack Helios, junto con la arquitectura CDNA 5, para hacer frente a Nvidia.",
-    "source": [
-      "techcrunch.com",
-      "/r/hardware",
+      "kite.kagi.com",
       "videocardz.com",
       "tomshardware.com"
     ],
+    "count": 5
+  },
+  {
+    "title": "OpenAI lanza ChatGPT Health para todos los usuarios adultos de Estados Unidos",
+    "summary": "El nuevo servicio ofrece consejos de salud personalizados, aunque la calidad de las respuestas podría ser inferior en la versión gratuita según análisis independientes.",
+    "source": [
+      "news.ycombinator.com",
+      "kite.kagi.com",
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
     "count": 4
   },
   {
-    "title": "Microsoft lanza Xbox Cloud Gaming gratuito con publicidad y sesiones de una hora",
-    "summary": "Los usuarios pueden jugar en la nube sin suscripción a cambio de ver anuncios, con sesiones limitadas a una hora.",
+    "title": "AMD desvela su hoja de ruta EPYC con Zen 6 'Venice' de 256 núcleos y Zen 7 'Florence' para 2028",
+    "summary": "Las futuras CPU para servidores prometen hasta 1.152 MB de caché L3 y un aumento de rendimiento de hasta el 80% respecto a la generación anterior.",
     "source": [
-      "hardzone.es",
       "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Black Forest Labs presenta Flux 3, su modelo multimodal de generación de vídeo y audio",
-    "summary": "Flux 3 genera clips de hasta 20 segundos con audio nativo, siendo el primer modelo de Black Forest Labs en ofrecer esta capacidad de forma nativa.",
+    "title": "AMD prepara el Ryzen 7 9800HX3D con 3D V-Cache para portátiles gaming, posible presentación en CES 2027",
+    "summary": "El nuevo procesador promete un salto de rendimiento significativo en los ordenadores portátiles para juegos de alta gama.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Black Forest Labs presenta Flux 3, su modelo multimodal capaz de generar vídeo y audio nativo de hasta 20 segundos",
+    "summary": "La nueva versión de la IA generativa da un paso adelante al crear clips con sonido sincronizado, desafiando a otras herramientas del sector.",
     "source": [
       "news.ycombinator.com",
       "alternativeto.net",
@@ -42,101 +53,38 @@
     "count": 3
   },
   {
-    "title": "AMD presenta los chips X100 con arquitectura Strix Halo para robots y sistemas de IA física",
-    "summary": "Los procesadores AMD X100 integran núcleos Zen 5 y RDNA 3.5 para aplicaciones de IA en robots, compitiendo con Intel Panther Lake.",
-    "source": [
-      "/r/hardware",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD anuncia los procesadores EPYC Venice con hasta 256 núcleos y 1.152 MB de caché 3D V-Cache",
-    "summary": "La serie EPYC 9006 y EPYC 9996 Venice, basada en Zen 6, ofrece hasta 256 núcleos, 1.152 MB de L3 y frecuencias superiores a 5 GHz.",
-    "source": [
-      "/r/hardware",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "NVIDIA incrementa el precio de los kits de memoria GDDR7 y GDDR6, elevando el coste de las GPU",
-    "summary": "Los fabricantes de tarjetas gráficas prevén subidas de precio tras el aumento que NVIDIA aplica a los módulos de memoria para sus GPU GeForce RTX.",
+    "title": "Google permite verificar la identidad y recuperar cuentas mediante un vídeo selfie desde el móvil",
+    "summary": "La nueva función de autenticación biométrica se ofrece como alternativa a los métodos tradicionales de inicio de sesión.",
     "source": [
       "elchapuzasinformatico.com",
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Microsoft prueba el Xbox Cloud Gaming gratuito con anuncios y sesiones de una hora",
+    "summary": "El servicio de juego en la nube explora un modelo freemium para llegar a más usuarios sin necesidad de suscripción de pago.",
+    "source": [
       "hardzone.es",
+      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "La Unión Europea multa a Google con 890 millones de euros por dos infracciones de la DMA",
-    "summary": "La Comisión Europea sanciona a Google por incumplir la Ley de Mercados Digitales, en una multa que asciende a 890 millones de euros.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Geekbench 7 introduce la mayor actualización con tests de CPU reales y benchmarks de IA",
-    "summary": "La nueva versión incluye pruebas de CPU basadas en aplicaciones reales, nuevos workloads multimedia, benchmarks de inteligencia artificial y soporte para CUDA.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung presenta los Galaxy Z Fold8, Watch8 y Watch Ultra en su nueva generación",
-    "summary": "Samsung lanza sus nuevos dispositivos plegables y relojes inteligentes, incluyendo el Galaxy Z Fold8 Ultra y los Galaxy Watch8 y Watch Ultra.",
-    "source": [
-      "/r/hardware",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony confirma que eliminará los discos físicos en 2028 y censura a empleados que critiquen la decisión",
-    "summary": "Exdesarrolladora de God of War afirma que Sony no cambiará de opinión sobre eliminar los discos físicos en 2028, mientras la empresa impone normas a sus empleados en redes sociales.",
+    "title": "Microsoft exige a LG que elimine las ventanas emergentes de publicidad y bloatware en sus monitores Windows",
+    "summary": "La disputa entre ambas compañías escala mientras LG redirige su estrategia de anuncios hacia sus televisores inteligentes.",
     "source": [
       "hardzone.es",
+      "videocardz.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "El mando de PlayStation 6 usará sticks magnéticos TMR para eliminar el drifting",
-    "summary": "Sony adoptará sensores TMR en los joysticks de la PS6 para acabar con el problema de deriva de los mandos actuales.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Augmental MouthPad permite controlar dispositivos con la lengua mediante un trackpad bucal Bluetooth",
-    "summary": "El dispositivo se coloca en el paladar y funciona como un trackpad para controlar smartphones, tablets y PC con la lengua.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta lanza un anuncio de IA optimista con una canción sobre el fin del mundo",
-    "summary": "La campaña publicitaria de Meta muestra un tono optimista sobre la IA pero utiliza una canción que habla de la extinción humana, generando controversia.",
-    "source": [
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI despliega ChatGPT Health en EE.UU. mientras el consejo médico gratuito empeora",
-    "summary": "La plataforma de salud ChatGPT Health se lanza para todos los usuarios en EE.UU., mientras que la versión gratuita reduce la calidad del consejo sanitario para incentivar la suscripción.",
+    "title": "Anthropic actualiza el modo de voz de Claude con sus modelos de IA más avanzados en todas las plataformas",
+    "summary": "El nuevo modo de voz está disponible para todos los usuarios, mejorando la naturalidad y capacidad de las interacciones habladas.",
     "source": [
       "the-decoder.com",
       "techcrunch.com"
@@ -144,17 +92,17 @@
     "count": 2
   },
   {
-    "title": "Microsoft obliga a LG a eliminar las ventanas emergentes de McAfee en su app de monitor",
-    "summary": "Microsoft actúa contra el bloatware en Windows 11 forzando a LG a retirar los pop-ups de McAfee en su aplicación para monitores.",
+    "title": "Microsoft lanza la compatibilidad con juegos de Xbox 360 y clásicos en PC mediante un emulador oficial",
+    "summary": "Los usuarios de Windows podrán jugar a títulos antiguos de Xbox sin necesidad de la consola original.",
     "source": [
       "videocardz.com",
-      "/r/hardware"
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "Combinan RTX 3090 y RTX 3050 con Lossless Scaling para alcanzar 144 FPS a 4K en juegos",
-    "summary": "Usando la técnica de escalado Lossless Scaling, dos GPUs Ampere logran duplicar el rendimiento en juegos a 4K, alcanzando 144 FPS.",
+    "title": "Consiguen 144 FPS en 4K combinando una RTX 3090 y una RTX 3050 con Lossless Scaling en juegos recientes",
+    "summary": "Una configuración multigpu no convencional demuestra que las GPU Ampere antiguas pueden ofrecer aún un rendimiento competitivo en 4K.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com"
@@ -162,38 +110,65 @@
     "count": 2
   },
   {
-    "title": "Microsoft introduce retrocompatibilidad de Xbox en PC con cuatro juegos clásicos",
-    "summary": "Los primeros juegos originales de Xbox ya están disponibles en PC mediante emulación, usando el emulador XeFu de Xbox 360.",
+    "title": "AMD lanza los APU Strix Halo para robótica con núcleos Zen 5 y gráficos RDNA 3.5 bajo la marca Ryzen AI Embedded",
+    "summary": "Los nuevos procesadores compiten con Intel Panther Lake y llevan la inteligencia artificial física a sistemas integrados.",
     "source": [
-      "alternativeto.net",
-      "videocardz.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel y AMD cierran acuerdos de CPU con clientes chinos mientras los precios suben más del 40%",
-    "summary": "Para hacer frente al aumento de precios, clientes chinos firman acuerdos a largo plazo con Intel y AMD que garantizan volúmenes de compra sin fijar precios.",
+    "title": "Sony utilizará sticks analógicos con sensores magnéticos TMR en el mando de PlayStation 6 para eliminar el 'drifting'",
+    "summary": "La tecnología de detección magnética promete acabar con el desgaste y la deriva de los joysticks analógicos tradicionales.",
     "source": [
-      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Augmental Tech presenta MouthPad Pro, un 'touchpad' bluetooth que se controla con la lengua",
+    "summary": "El innovador dispositivo permite manejar teléfonos, tabletas y ordenadores sin usar las manos, enfocado en la accesibilidad.",
+    "source": [
+      "xataka.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Framework duplica el precio de la memoria LPCAMM2 y recorta capacidad en el Laptop 13 Pro",
-    "summary": "El aumento del coste de los módulos LPCAMM2 obliga a Framework a duplicar los precios y reducir la RAM en algunos pedidos previos.",
+    "title": "Primate Labs publica Geekbench 7 con pruebas realistas de CPU, IA y compatibilidad con CUDA",
+    "summary": "La nueva versión del popular benchmark incluye tests multinúcleo y cargas de trabajo multimedia renovadas.",
     "source": [
-      "/r/hardware",
-      "videocardz.com"
+      "kite.kagi.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Steam permite a los invitados comprar juegos como regalo sin necesidad de tener cuenta",
-    "summary": "Valve cambia la política de regalos en Steam para que cualquier persona pueda comprar un juego como obsequio aunque no tenga una cuenta de Steam.",
+    "title": "Codeberg prohíbe los repositorios generados mayoritariamente por inteligencia artificial tras votación de la comunidad",
+    "summary": "La plataforma alternativa a GitHub genera controversia y críticas de usuarios que se arrepienten de haber migrado.",
     "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Hallan graves vulnerabilidades de seguridad en los agentes de IA de OpenAI, Anthropic y Kimi K3",
+    "summary": "Los fallos en ChatGPT AgentForger, Claude Cowork y Kimi K3 permitían la ejecución remota de código y el escape de la máquina virtual.",
+    "source": [
+      "thehackernews.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta lanza una polémica campaña publicitaria optimista sobre la IA utilizando una canción sobre el fin del mundo",
+    "summary": "La compañía promociona los beneficios de la inteligencia artificial mientras la banda sonora del anuncio genera controversia.",
+    "source": [
+      "wired.com",
+      "techcrunch.com"
     ],
     "count": 2
   }

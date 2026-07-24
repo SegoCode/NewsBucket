@@ -1,39 +1,65 @@
 [
   {
-    "title": "Global markets react with volatility to Trump's tariffs and tensions in Iran",
-    "summary": "Uncertainty over the trade war and the conflict in the Middle East leads to mixed movements in the stock markets of Asia, Europe and the United States.",
+    "title": "Bitcoin falls below $66,000 and cryptocurrencies drop amid geopolitical tension",
+    "summary": "Uncertainty over Iran and widespread risk aversion drag down digital asset prices, with Ethereum also in the red.",
     "source": [
-      "handelsblatt.com",
       "bolsamania.com",
-      "nikkei.com",
-      "nasdaq.com",
-      "ft.com"
+      "expansion.com",
+      "finance.yahoo.com"
     ],
-    "count": 5
+    "count": 3
   },
   {
-    "title": "Oil exceeds $100 driven by geopolitical escalation in the Middle East",
-    "summary": "Houthi attacks on Saudi ships and the US response send oil soaring and trigger a massive sell-off in global bonds.",
+    "title": "Wall Street points to a moderate opening higher after tech rout and oil respite",
+    "summary": "Futures for US indices anticipate a mild rebound as investors digest Middle East tensions and new tariffs.",
+    "source": [
+      "investing.com",
+      "nasdaq.com",
+      "bolsamania.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "The 'Magnificent Seven' suffer a negative turning point and the tech sector crashes due to AI fears and war escalation",
+    "summary": "Intel exemplifies the artificial intelligence dilemma in its results, while tension with Iran intensifies selling pressure on big tech.",
+    "source": [
+      "expansion.com",
+      "handelsblatt.com",
+      "bolsamania.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Oil reaches $100 and triggers a bond sell-off and declines in Asian stock markets",
+    "summary": "Crude hits the $100 barrier, unleashing a sell-off in global debt markets and dragging down Asian markets due to fears of inflation and escalation in the Middle East.",
     "source": [
       "ft.com",
-      "handelsblatt.com",
-      "expansion.com",
-      "nikkei.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Heavy selling in the technology sector drags down global stock markets",
-    "summary": "Fear of a sector slowdown hits major tech companies and chipmakers, with declines on Wall Street and in Europe.",
-    "source": [
       "expansion.com",
       "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "The Ibex 35 rises 1% and recovers 19,450 points driven by Acerinox and Sabadell, while Mapfre falls due to its purchase in the US",
+    "summary": "The Spanish selective benefits from corporate earnings and Sabadell's share buyback, in a session marked by the imposition of new US tariffs.",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "The European Central Bank unveils new designs for euro banknotes",
-    "summary": "Future banknotes will feature motifs such as Beethoven, Cervantes and a bird, according to the proposals revealed by the ECB.",
+    "title": "Commerzbank gives in and agrees to negotiate its acquisition by UniCredit",
+    "summary": "After weeks of resistance, the German bank opens dialogue with the Italian institution to explore a possible merger, according to press reports.",
+    "source": [
+      "handelsblatt.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The ECB presents the new designs of euro banknotes with Beethoven, Cervantes, and a bird",
+    "summary": "The future banknotes will incorporate cultural and natural motifs in a redesign that seeks to modernize the image of the single currency.",
     "source": [
       "handelsblatt.com",
       "expansion.com"
@@ -41,17 +67,26 @@
     "count": 2
   },
   {
-    "title": "Banco Sabadell posts profit of 971 million in first half and announces share buyback",
-    "summary": "Despite the year-on-year decline in net profit, the bank launches a buyback program worth 331 million euros.",
+    "title": "The Central Bank of Russia cuts interest rates for the tenth consecutive time to shore up the economy",
+    "summary": "The Russian monetary authority continues its easing cycle amid economic slowdown and low inflation.",
     "source": [
-      "bolsamania.com",
-      "nasdaq.com"
+      "nikkei.com",
+      "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "Securitas shares fall despite second-quarter net profit beating expectations",
-    "summary": "Investors show disappointment with the future outlook of the Swedish security company.",
+    "title": "The ECB anticipates a rate hike in September and raises its inflation forecast for 2027",
+    "summary": "The Governing Council keeps rates at 2.25% but prepares a hawkish adjustment for September and increases its price projections.",
+    "source": [
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Berkshire Hathaway: its cash pile generates more annual income than most S&P 500 companies",
+    "summary": "Two analyses highlight the financial strength of Warren Buffett's conglomerate and the succession challenge, with a strong balance sheet.",
     "source": [
       "investing.com",
       "nasdaq.com"
@@ -59,8 +94,26 @@
     "count": 2
   },
   {
-    "title": "SpaceX records stock performance below that of most IPOs since 2009",
-    "summary": "Elon Musk's space company faces negative forecasts that place it behind competitors such as Planet Labs.",
+    "title": "Executive movements: notable buys and sells at Artiva, StoneX, and CoreWeave, and Vickers' picks",
+    "summary": "Insider transaction reports reveal significant trades, while the Vickers tool highlights stocks with the highest insider activity.",
+    "source": [
+      "investing.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "S&P Global upgrades Mapfre's rating to 'A' but the market punishes its US purchase with 5% drop",
+    "summary": "The insurer sees its financial strength recognized by the agency, while investors react negatively to the acquisition in the US market.",
+    "source": [
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SpaceX: a potential of $1.6 trillion but a stock performance below the average of IPOs",
+    "summary": "Elon Musk's space company shows enormous potential in the space sector, although its stock price since the IPO has been worse than most IPOs since 2009.",
     "source": [
       "nasdaq.com",
       "handelsblatt.com"
@@ -68,20 +121,20 @@
     "count": 2
   },
   {
-    "title": "Ibex 35 rises 0.75% and recovers the 19,400-point level",
-    "summary": "The Spanish index relies on corporate results and closes the session at 19,409 points.",
+    "title": "Selection of stocks to watch ahead of the next earnings season on Wall Street",
+    "summary": "Analysts highlight several companies with potential for movement on technicals and key earnings releases.",
     "source": [
-      "bolsamania.com",
-      "expansion.com"
+      "investing.com",
+      "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "ECB keeps interest rates at 2.25% and anticipates a hike in September",
-    "summary": "The monetary authority indicates that inflation remains a concern, while the market adjusts its expectations.",
+    "title": "European stock markets rise driven by corporate earnings and UK activity rebound",
+    "summary": "The FTSE 100 hits a three-month high and the German DAX seeks 25,000 points, boosted by corporate profits and positive economic data.",
     "source": [
-      "handelsblatt.com",
-      "expansion.com"
+      "investing.com",
+      "handelsblatt.com"
     ],
     "count": 2
   }

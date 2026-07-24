@@ -1,39 +1,50 @@
 [
   {
-    "title": "Google implements video selfie verification to recover accounts",
-    "summary": "The company allows users to use a video selfie as an alternative method to log in or recover blocked accounts.",
+    "title": "AMD presents the Instinct MI455X accelerator with 432 GB of HBM4 and the Helios system to combat Nvidia in AI",
+    "summary": "The company unveils its new CDNA 5 architecture and its partnership with Cerebras to offer high-speed, low-latency AI inference at scale.",
     "source": [
-      "elchapuzasinformatico.com",
+      "news.ycombinator.com",
       "techcrunch.com",
-      "alternativeto.net",
-      "thehackernews.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "AMD introduces Instinct MI455X accelerator and Helios system to compete in AI",
-    "summary": "AMD launches its new AI accelerator Instinct MI455X with HBM4 memory and the Helios rack, along with the CDNA 5 architecture, to take on Nvidia.",
-    "source": [
-      "techcrunch.com",
-      "/r/hardware",
+      "kite.kagi.com",
       "videocardz.com",
       "tomshardware.com"
     ],
+    "count": 5
+  },
+  {
+    "title": "OpenAI launches ChatGPT Health for all adult users in the United States",
+    "summary": "The new service offers personalized health advice, although the quality of responses could be lower in the free version according to independent analyses.",
+    "source": [
+      "news.ycombinator.com",
+      "kite.kagi.com",
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
     "count": 4
   },
   {
-    "title": "Microsoft launches free Xbox Cloud Gaming with ads and one-hour sessions",
-    "summary": "Users can play in the cloud without a subscription in exchange for watching ads, with sessions limited to one hour.",
+    "title": "AMD reveals its EPYC roadmap with 256-core Zen 6 'Venice' and Zen 7 'Florence' for 2028",
+    "summary": "Future server CPUs promise up to 1,152 MB of L3 cache and a performance increase of up to 80% compared to the previous generation.",
     "source": [
-      "hardzone.es",
       "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Black Forest Labs presents Flux 3, its multimodal video and audio generation model",
-    "summary": "Flux 3 generates clips of up to 20 seconds with native audio, being the first model from Black Forest Labs to offer this capability natively.",
+    "title": "AMD prepares the Ryzen 7 9800HX3D with 3D V-Cache for gaming laptops, possible presentation at CES 2027",
+    "summary": "The new processor promises a significant performance leap in high-end gaming laptops.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Black Forest Labs presents Flux 3, its multimodal model capable of generating native video and audio up to 20 seconds",
+    "summary": "The new version of generative AI takes a step forward by creating clips with synchronized sound, challenging other tools in the sector.",
     "source": [
       "news.ycombinator.com",
       "alternativeto.net",
@@ -42,101 +53,38 @@
     "count": 3
   },
   {
-    "title": "AMD introduces X100 chips with Strix Halo architecture for robots and physical AI systems",
-    "summary": "AMD X100 processors integrate Zen 5 cores and RDNA 3.5 for AI applications in robots, competing with Intel Panther Lake.",
-    "source": [
-      "/r/hardware",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD announces EPYC Venice processors with up to 256 cores and 1,152 MB of 3D V-Cache",
-    "summary": "The EPYC 9006 and EPYC 9996 Venice series, based on Zen 6, offers up to 256 cores, 1,152 MB of L3 cache, and frequencies above 5 GHz.",
-    "source": [
-      "/r/hardware",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "NVIDIA increases price of GDDR7 and GDDR6 memory kits, raising GPU costs",
-    "summary": "Graphics card manufacturers expect price increases after NVIDIA raises prices on memory modules for its GeForce RTX GPUs.",
+    "title": "Google allows identity verification and account recovery through a selfie video from your mobile",
+    "summary": "The new biometric authentication feature is offered as an alternative to traditional login methods.",
     "source": [
       "elchapuzasinformatico.com",
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Microsoft tests free Xbox Cloud Gaming with ads and one-hour sessions",
+    "summary": "The cloud gaming service explores a freemium model to reach more users without requiring a paid subscription.",
+    "source": [
       "hardzone.es",
+      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "European Union fines Google €890 million for two DMA violations",
-    "summary": "The European Commission sanctions Google for violating the Digital Markets Act, with a fine totaling €890 million.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Geekbench 7 introduces the biggest update with real CPU tests and AI benchmarks",
-    "summary": "The new version includes CPU tests based on real applications, new multimedia workloads, artificial intelligence benchmarks, and CUDA support.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung presents Galaxy Z Fold8, Watch8, and Watch Ultra in its new generation",
-    "summary": "Samsung launches its new foldable devices and smartwatches, including the Galaxy Z Fold8 Ultra and the Galaxy Watch8 and Watch Ultra.",
-    "source": [
-      "/r/hardware",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony confirms it will eliminate physical discs in 2028 and censors employees who criticize the decision",
-    "summary": "Former God of War developer states Sony will not change its mind about eliminating physical discs in 2028, while the company imposes rules on its employees on social media.",
+    "title": "Microsoft demands that LG remove advertising pop-ups and bloatware from its Windows monitors",
+    "summary": "The dispute between the two companies escalates as LG redirects its advertising strategy toward its smart TVs.",
     "source": [
       "hardzone.es",
+      "videocardz.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "PlayStation 6 controller will use TMR magnetic sticks to eliminate drifting",
-    "summary": "Sony will adopt TMR sensors in the PS6 joysticks to end the drift problem of current controllers.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Augmental MouthPad allows controlling devices with the tongue via a Bluetooth oral trackpad",
-    "summary": "The device sits on the palate and works as a trackpad to control smartphones, tablets, and PCs with the tongue.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta launches optimistic AI ad with a song about the end of the world",
-    "summary": "Meta's advertising campaign shows an optimistic tone about AI but uses a song that talks about human extinction, generating controversy.",
-    "source": [
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI deploys ChatGPT Health in the US while free medical advice worsens",
-    "summary": "The ChatGPT Health platform launches for all users in the US, while the free version reduces the quality of health advice to incentivize subscription.",
+    "title": "Anthropic updates Claude's voice mode with its most advanced AI models across all platforms",
+    "summary": "The new voice mode is available for all users, improving the naturalness and capability of spoken interactions.",
     "source": [
       "the-decoder.com",
       "techcrunch.com"
@@ -144,17 +92,17 @@
     "count": 2
   },
   {
-    "title": "Microsoft forces LG to remove McAfee pop-ups in its monitor app",
-    "summary": "Microsoft acts against bloatware in Windows 11 by forcing LG to remove McAfee pop-ups in its monitor application.",
+    "title": "Microsoft launches compatibility with Xbox 360 and classic games on PC via an official emulator",
+    "summary": "Windows users will be able to play old Xbox titles without the need for the original console.",
     "source": [
       "videocardz.com",
-      "/r/hardware"
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "RTX 3090 and RTX 3050 combined with Lossless Scaling to achieve 144 FPS at 4K in games",
-    "summary": "Using the Lossless Scaling technique, two Ampere GPUs manage to double performance in games at 4K, reaching 144 FPS.",
+    "title": "They achieve 144 FPS in 4K by combining an RTX 3090 and an RTX 3050 with Lossless Scaling in recent games",
+    "summary": "A non-conventional multi-GPU setup demonstrates that older Ampere GPUs can still deliver competitive 4K performance.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com"
@@ -162,38 +110,65 @@
     "count": 2
   },
   {
-    "title": "Microsoft introduces Xbox backward compatibility on PC with four classic games",
-    "summary": "The first original Xbox games are now available on PC via emulation, using the XeFu Xbox 360 emulator.",
+    "title": "AMD launches Strix Halo APUs for robotics with Zen 5 cores and RDNA 3.5 graphics under the Ryzen AI Embedded brand",
+    "summary": "The new processors compete with Intel Panther Lake and bring physical AI to embedded systems.",
     "source": [
-      "alternativeto.net",
-      "videocardz.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel and AMD sign CPU deals with Chinese customers as prices rise more than 40%",
-    "summary": "To cope with rising prices, Chinese customers sign long-term agreements with Intel and AMD that guarantee purchase volumes without setting prices.",
+    "title": "Sony will use analog sticks with TMR magnetic sensors on the PlayStation 6 controller to eliminate drift",
+    "summary": "Magnetic detection technology promises to end the wear and drift of traditional analog joysticks.",
     "source": [
-      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Augmental Tech presents MouthPad Pro, a Bluetooth touchpad controlled with the tongue",
+    "summary": "The innovative device allows controlling phones, tablets, and computers without using hands, focused on accessibility.",
+    "source": [
+      "xataka.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Framework doubles LPCAMM2 memory price and cuts capacity in Laptop 13 Pro",
-    "summary": "The increased cost of LPCAMM2 modules forces Framework to double prices and reduce RAM in some pre-orders.",
+    "title": "Primate Labs releases Geekbench 7 with realistic CPU, AI tests, and CUDA compatibility",
+    "summary": "The new version of the popular benchmark includes multi-core tests and renewed multimedia workloads.",
     "source": [
-      "/r/hardware",
-      "videocardz.com"
+      "kite.kagi.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Steam allows guests to buy games as gifts without needing an account",
-    "summary": "Valve changes the gift policy on Steam so that anyone can purchase a game as a gift even if they don't have a Steam account.",
+    "title": "Codeberg prohibits repositories generated mostly by artificial intelligence after community vote",
+    "summary": "The alternative platform to GitHub generates controversy and criticism from users who regret having migrated.",
     "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Serious security vulnerabilities found in OpenAI, Anthropic, and Kimi K3 AI agents",
+    "summary": "The flaws in ChatGPT AgentForger, Claude Cowork, and Kimi K3 allowed remote code execution and virtual machine escape.",
+    "source": [
+      "thehackernews.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta launches a controversial optimistic advertising campaign about AI using a song about the end of the world",
+    "summary": "The company promotes the benefits of artificial intelligence while the ad's soundtrack generates controversy.",
+    "source": [
+      "wired.com",
+      "techcrunch.com"
     ],
     "count": 2
   }
