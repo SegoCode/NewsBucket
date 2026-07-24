@@ -89,7 +89,7 @@
             const tier = c => c.startsWith('quake') ? 0 : c === 'high' ? 1 : c === 'medium' ? 2 : 3;
             const items = data.map(item => {
                 const count = item.count || item.source.length;
-                return { ...item, cls: item.cls || (count > 4 ? 'high' : count >= 3 ? 'medium' : 'low') };
+                return { ...item, cls: item.cls || (count >= 4 ? 'high' : count >= 3 ? 'medium' : 'low') };
             });
             items.sort((a, b) => tier(a.cls) - tier(b.cls));
             feed.innerHTML = items.map(item => `
