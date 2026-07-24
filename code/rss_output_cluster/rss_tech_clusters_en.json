@@ -1,94 +1,115 @@
 [
   {
-    "title": "AMD presents its Helios system with the Instinct MI455X accelerator to compete with Nvidia in data centers",
-    "summary": "The new rack system integrates the MI455X accelerator with 432 GB of HBM4 and partners with Cerebras for low-latency AI inference.",
+    "title": "Google implements video selfie verification to recover accounts",
+    "summary": "The company allows users to use a video selfie as an alternative method to log in or recover blocked accounts.",
     "source": [
-      "techcrunch.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Leading AI companies accumulate hidden debt of $1.65 trillion",
-    "summary": "Alphabet, Amazon, Meta, Microsoft, and Oracle reportedly have undisclosed liabilities that raise questions about the sustainability of artificial intelligence spending.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI launches ChatGPT Health amid lawsuit over dangerous medical advice",
-    "summary": "The ChatGPT health service is rolling out globally while a court evaluates a damages lawsuit and a study indicates the model worsens without payment.",
-    "source": [
-      "/r/technology",
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google allows logging in with a selfie video to verify identity",
-    "summary": "The company adds the option of biometric verification via selfie to access accounts and regain access.",
-    "source": [
+      "elchapuzasinformatico.com",
       "techcrunch.com",
       "alternativeto.net",
       "thehackernews.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Microsoft introduces Xbox backward compatibility on PC with four classic games",
-    "summary": "Original Xbox titles can be played on PC via an Xbox 360 emulator, according to early tests.",
-    "source": [
-      "alternativeto.net",
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Nvidia raises prices on its GDDR7 and GDDR6 memory kits, making GeForce GPUs more expensive",
-    "summary": "The increase in memory cost will affect the final prices of graphics cards, according to several manufacturers' reports.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Patreon lays off 20% of its workforce as part of a restructuring",
-    "summary": "The subscription platform announces a staff adjustment affecting 80 employees, justified as a necessary move for sustainability.",
+    "title": "AMD introduces Instinct MI455X accelerator and Helios system to compete in AI",
+    "summary": "AMD launches its new AI accelerator Instinct MI455X with HBM4 memory and the Helios rack, along with the CDNA 5 architecture, to take on Nvidia.",
     "source": [
       "techcrunch.com",
-      "/r/technology"
+      "/r/hardware",
+      "videocardz.com",
+      "tomshardware.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "Meta publishes optimistic AI ad with a song about the end of the world",
-    "summary": "The company launches an advertising campaign using the song 'It's the End of the World as We Know It' to promote its artificial intelligence.",
+    "title": "Microsoft launches free Xbox Cloud Gaming with ads and one-hour sessions",
+    "summary": "Users can play in the cloud without a subscription in exchange for watching ads, with sessions limited to one hour.",
     "source": [
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft tests free Xbox Cloud Gaming with ads and one-hour sessions",
-    "summary": "The ad-supported free version of Microsoft's cloud gaming service takes its first steps in a testing phase.",
-    "source": [
+      "hardzone.es",
       "elchapuzasinformatico.com",
       "videocardz.com"
     ],
+    "count": 3
+  },
+  {
+    "title": "Black Forest Labs presents Flux 3, its multimodal video and audio generation model",
+    "summary": "Flux 3 generates clips of up to 20 seconds with native audio, being the first model from Black Forest Labs to offer this capability natively.",
+    "source": [
+      "news.ycombinator.com",
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD introduces X100 chips with Strix Halo architecture for robots and physical AI systems",
+    "summary": "AMD X100 processors integrate Zen 5 cores and RDNA 3.5 for AI applications in robots, competing with Intel Panther Lake.",
+    "source": [
+      "/r/hardware",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD announces EPYC Venice processors with up to 256 cores and 1,152 MB of 3D V-Cache",
+    "summary": "The EPYC 9006 and EPYC 9996 Venice series, based on Zen 6, offers up to 256 cores, 1,152 MB of L3 cache, and frequencies above 5 GHz.",
+    "source": [
+      "/r/hardware",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "NVIDIA increases price of GDDR7 and GDDR6 memory kits, raising GPU costs",
+    "summary": "Graphics card manufacturers expect price increases after NVIDIA raises prices on memory modules for its GeForce RTX GPUs.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "European Union fines Google €890 million for two DMA violations",
+    "summary": "The European Commission sanctions Google for violating the Digital Markets Act, with a fine totaling €890 million.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
     "count": 2
   },
   {
-    "title": "Sony plans to incorporate magnetic anti-drift sticks in the PlayStation 6 controller",
-    "summary": "Future console controllers would use TMR sensors to avoid the joystick drift problem, according to leaks.",
+    "title": "Geekbench 7 introduces the biggest update with real CPU tests and AI benchmarks",
+    "summary": "The new version includes CPU tests based on real applications, new multimedia workloads, artificial intelligence benchmarks, and CUDA support.",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Samsung presents Galaxy Z Fold8, Watch8, and Watch Ultra in its new generation",
+    "summary": "Samsung launches its new foldable devices and smartwatches, including the Galaxy Z Fold8 Ultra and the Galaxy Watch8 and Watch Ultra.",
+    "source": [
+      "/r/hardware",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony confirms it will eliminate physical discs in 2028 and censors employees who criticize the decision",
+    "summary": "Former God of War developer states Sony will not change its mind about eliminating physical discs in 2028, while the company imposes rules on its employees on social media.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "PlayStation 6 controller will use TMR magnetic sticks to eliminate drifting",
+    "summary": "Sony will adopt TMR sensors in the PS6 joysticks to end the drift problem of current controllers.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es"
@@ -96,17 +117,8 @@
     "count": 2
   },
   {
-    "title": "Valve makes it easier to gift games on Steam by allowing purchases without a guest account",
-    "summary": "Users can purchase games as gifts for others without needing a Steam account, simplifying the process.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Augmental launches MouthPad, a buccal trackpad controlled with the tongue via Bluetooth",
-    "summary": "The device allows controlling smartphones, tablets, and PCs through tongue movements, offering an accessibility alternative.",
+    "title": "Augmental MouthPad allows controlling devices with the tongue via a Bluetooth oral trackpad",
+    "summary": "The device sits on the palate and works as a trackpad to control smartphones, tablets, and PCs with the tongue.",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com"
@@ -114,35 +126,53 @@
     "count": 2
   },
   {
-    "title": "Geekbench 7 launches with new CPU, AI, and media tests, and a Ryzen 7 7700 baseline",
-    "summary": "The new version of the benchmark introduces physics, photo editing, and AV1 tests, as well as CUDA compatibility and a new reference point.",
+    "title": "Meta launches optimistic AI ad with a song about the end of the world",
+    "summary": "Meta's advertising campaign shows an optimistic tone about AI but uses a song that talks about human extinction, generating controversy.",
     "source": [
-      "tomshardware.com",
+      "wired.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI deploys ChatGPT Health in the US while free medical advice worsens",
+    "summary": "The ChatGPT Health platform launches for all users in the US, while the free version reduces the quality of health advice to incentivize subscription.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft forces LG to remove McAfee pop-ups in its monitor app",
+    "summary": "Microsoft acts against bloatware in Windows 11 by forcing LG to remove McAfee pop-ups in its monitor application.",
+    "source": [
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "RTX 3090 and RTX 3050 combined with Lossless Scaling to achieve 144 FPS at 4K in games",
+    "summary": "Using the Lossless Scaling technique, two Ampere GPUs manage to double performance in games at 4K, reaching 144 FPS.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft introduces Xbox backward compatibility on PC with four classic games",
+    "summary": "The first original Xbox games are now available on PC via emulation, using the XeFu Xbox 360 emulator.",
+    "source": [
+      "alternativeto.net",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD introduces the EPYC Venice family with Zen 6 cores and 3D V-Cache versions",
-    "summary": "The new server processors offer up to 256 cores, 1,152 MB of L3 cache, and frequencies above 5 GHz to compete in high-performance computing.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD launches Ryzen AI Embedded X100 (Strix Halo) APUs for robotics and physical AI",
-    "summary": "The new chips combine up to 16 Zen 5 cores with RDNA 3.5 GPU to compete with Intel Panther Lake in embedded systems.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel and AMD sign long-term agreements with Chinese customers as CPU prices rise more than 40%",
-    "summary": "Chip manufacturers guarantee purchase volumes with Chinese customers for one year amid price escalation and geopolitical tension.",
+    "title": "Intel and AMD sign CPU deals with Chinese customers as prices rise more than 40%",
+    "summary": "To cope with rising prices, Chinese customers sign long-term agreements with Intel and AMD that guarantee purchase volumes without setting prices.",
     "source": [
       "tomshardware.com",
       "elchapuzasinformatico.com"
@@ -150,20 +180,20 @@
     "count": 2
   },
   {
-    "title": "Growing public opposition to AI data centers with protests in 42 US states",
-    "summary": "Residents of several communities mobilize against the construction of AI infrastructure, denouncing its impact on the land and lack of control.",
+    "title": "Framework doubles LPCAMM2 memory price and cuts capacity in Laptop 13 Pro",
+    "summary": "The increased cost of LPCAMM2 modules forces Framework to double prices and reduce RAM in some pre-orders.",
     "source": [
-      "/r/technology",
-      "tomshardware.com"
+      "/r/hardware",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Tech entrepreneurs ask not to block Chinese AI models and Jensen Huang advocates using them",
-    "summary": "Startup founders and Nvidia's CEO defend access to Chinese open-weight models, while the US government debates restrictions.",
+    "title": "Steam allows guests to buy games as gifts without needing an account",
+    "summary": "Valve changes the gift policy on Steam so that anyone can purchase a game as a gift even if they don't have a Steam account.",
     "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com"
+      "hardzone.es",
+      "videocardz.com"
     ],
     "count": 2
   }

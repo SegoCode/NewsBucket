@@ -1,94 +1,115 @@
 [
   {
-    "title": "AMDがNvidiaに対抗するデータセンター向けアクセラレータInstinct MI455Xを搭載したHeliosシステムを発表",
-    "summary": "新しいラックシステムは432GBのHBM4を搭載したMI455Xアクセラレータを統合し、低遅延AI推論のためにCerebrasと提携。",
+    "title": "Google、アカウント復旧のためにビデオ自撮り認証を導入",
+    "summary": "同社は、ログインやロックされたアカウントの復旧の代替方法として、ビデオ自撮りをユーザーに許可する。",
     "source": [
-      "techcrunch.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "主要AI企業が1.65兆ドルの隠れ債務を抱える",
-    "summary": "Alphabet、Amazon、Meta、Microsoft、Oracleは未申告の負債を抱え、AI支出の持続可能性に疑問を投げかけている。",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI、危険な医療アドバイスをめぐる訴訟の中でChatGPT Healthを開始",
-    "summary": "ChatGPTの健康サービスが世界的に展開される一方、裁判所が損害賠償訴訟を審理し、支払いなしではモデルが悪化するという研究結果も。",
-    "source": [
-      "/r/technology",
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google、身元確認にセルフィー動画でのログインを許可",
-    "summary": "同社はアカウントへのアクセスとアクセス回復のために、セルフィーによる生体認証オプションを追加。",
-    "source": [
+      "elchapuzasinformatico.com",
       "techcrunch.com",
       "alternativeto.net",
       "thehackernews.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Microsoft、4つのクラシックゲームでPC向けXbox互換性を導入",
-    "summary": "初期テストによると、Xbox 360エミュレーターを使用してPCでオリジナルのXboxタイトルをプレイ可能に。",
-    "source": [
-      "alternativeto.net",
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Nvidia、GDDR7およびGDDR6メモリキットの価格を引き上げ、GeForce GPUが高価に",
-    "summary": "メモリコストの上昇はグラフィックカードの最終価格に影響を与えると、複数のメーカーが報告。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Patreon、リストラの一環として従業員の20%を解雇",
-    "summary": "サブスクリプションプラットフォームは80人の従業員に影響する人員調整を発表、持続可能性のために必要な措置と説明。",
+    "title": "AMD、AI競争に向けアクセラレータInstinct MI455XとシステムHeliosを発表",
+    "summary": "AMDは、HBM4メモリを搭載した新しいAIアクセラレータInstinct MI455XとラックHeliosを、CDNA 5アーキテクチャとともに発表し、Nvidiaに対抗する。",
     "source": [
       "techcrunch.com",
-      "/r/technology"
+      "/r/hardware",
+      "videocardz.com",
+      "tomshardware.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "Meta、終末を歌う楽曲を用いた楽観的なAI広告を公開",
-    "summary": "同社はAIを宣伝するために「It's the End of the World as We Know It」を使用した広告キャンペーンを開始。",
+    "title": "Microsoft、広告付き1時間セッションの無料Xbox Cloud Gamingを開始",
+    "summary": "ユーザーは、広告を視聴する代わりにサブスクリプションなしでクラウドゲームをプレイできるが、セッションは1時間に制限される。",
     "source": [
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、広告付き1時間セッションの無料Xbox Cloud Gamingをテスト",
-    "summary": "Microsoftのクラウドゲームサービスの広告付き無料版が試験段階に入る。",
-    "source": [
+      "hardzone.es",
       "elchapuzasinformatico.com",
       "videocardz.com"
     ],
+    "count": 3
+  },
+  {
+    "title": "Black Forest Labs、マルチモーダル動画・音声生成モデルFlux 3を発表",
+    "summary": "Flux 3は、ネイティブオーディオ付きで最大20秒のクリップを生成し、同社初のネイティブ対応モデルとなる。",
+    "source": [
+      "news.ycombinator.com",
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD、ロボット向けStrix HaloアーキテクチャのX100チップを発表",
+    "summary": "AMD X100プロセッサは、Zen 5コアとRDNA 3.5を統合し、ロボット向けAIアプリケーションでIntel Panther Lakeと競合する。",
+    "source": [
+      "/r/hardware",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD、最大256コア、1,152MBの3D V-Cacheを搭載したEPYC Veniceプロセッサを発表",
+    "summary": "Zen 6ベースのEPYC 9006およびEPYC 9996 Veniceシリーズは、最大256コア、1,152MBのL3キャッシュ、5GHz超の周波数を提供する。",
+    "source": [
+      "/r/hardware",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "NVIDIA、GDDR7およびGDDR6メモリキットの価格を引き上げ、GPUコストが上昇",
+    "summary": "グラフィックカードメーカーは、NVIDIAがGeForce RTX GPU向けメモリモジュールに値上げを適用した後、価格上昇を見込んでいる。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "欧州連合、DMA違反2件でGoogleに8億9000万ユーロの制裁金",
+    "summary": "欧州委員会は、Googleがデジタル市場法に違反したとして、8億9000万ユーロの制裁金を科した。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
     "count": 2
   },
   {
-    "title": "Sony、PlayStation 6コントローラーにドリフト防止磁気スティックを採用へ",
-    "summary": "リーク情報によると、将来のコンソールコントローラーはジョイスティックのドリフト問題を回避するためにTMRセンサーを使用する可能性。",
+    "title": "Geekbench 7、CPU実テストとAIベンチマークを含む最大のアップデートを導入",
+    "summary": "新バージョンでは、実際のアプリケーションに基づくCPUテスト、新しいマルチメディアワークロード、AIベンチマーク、CUDAサポートが含まれる。",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Samsung、新型Galaxy Z Fold8、Watch8、Watch Ultraを発表",
+    "summary": "Samsungは、Galaxy Z Fold8 Ultra、Galaxy Watch8、Watch Ultraを含む新しい折りたたみデバイスとスマートウォッチを発売する。",
+    "source": [
+      "/r/hardware",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony、2028年に物理ディスクを廃止すると確認、反対する従業員を検閲",
+    "summary": "God of Warの元開発者は、Sonyが2028年の物理ディスク廃止について考えを変えないと主張し、同社はソーシャルメディアで従業員にルールを課している。",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "PlayStation 6のコントローラーはドリフトを排除するためTMR磁気スティックを採用",
+    "summary": "Sonyは、PS6のジョイスティックにTMRセンサーを採用し、現在のコントローラーのドリフト問題を解決する。",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es"
@@ -96,17 +117,8 @@
     "count": 2
   },
   {
-    "title": "Valve、ゲストアカウントなしでの購入を許可しSteamでのギフト購入を容易に",
-    "summary": "ユーザーはSteamアカウントを持たなくても他の人にゲームをギフトとして購入できるようになり、プロセスが簡素化。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Augmental、舌で操作するBluetooth口腔内トラックパッドMouthPadを発売",
-    "summary": "このデバイスは舌の動きでスマートフォン、タブレット、PCを操作でき、アクセシビリティの代替手段を提供。",
+    "title": "Augmental MouthPad、舌でデバイスを操作できるBluetooth口内トラックパッド",
+    "summary": "このデバイスは口蓋に装着し、舌でスマートフォン、タブレット、PCを操作するトラックパッドとして機能する。",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com"
@@ -114,35 +126,53 @@
     "count": 2
   },
   {
-    "title": "Geekbench 7、CPU、AI、メディアの新テストとRyzen 7 7700ベースラインでリリース",
-    "summary": "ベンチマークの新バージョンは物理演算、写真編集、AV1テストを導入し、CUDA互換性と新しいリファレンスポイントも追加。",
+    "title": "Meta、世界の終わりを歌う楽曲を使った楽観的なAI広告を公開",
+    "summary": "Metaの広告キャンペーンはAIに対して楽観的なトーンを示すが、人類の絶滅を歌う楽曲を使用し、論争を巻き起こしている。",
     "source": [
-      "tomshardware.com",
+      "wired.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、米国でChatGPT Healthを展開、無料医療アドバイスは質低下",
+    "summary": "ChatGPT Healthは米国の全ユーザー向けに提供開始されるが、無料版はサブスクリプションを促進するために医療アドバイスの質を低下させている。",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、LGにモニターアプリ内のMcAfeeポップアップ削除を強制",
+    "summary": "Microsoftは、LGにモニターアプリケーション内のMcAfeeのポップアップを削除させることで、Windows 11のブロートウェアに対抗する。",
+    "source": [
+      "videocardz.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "RTX 3090とRTX 3050をLossless Scalingで組み合わせ、4Kゲームで144FPSを達成",
+    "summary": "Lossless Scaling技術を使用することで、2つのAmpere GPUが4Kゲームでパフォーマンスを2倍にし、144FPSを達成する。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、Xboxの下位互換性をPCに導入、4つのクラシックゲームを提供",
+    "summary": "オリジナルXboxの最初のゲームが、Xbox 360エミュレータXeFuを使用したエミュレーションにより、PCで利用可能になった。",
+    "source": [
+      "alternativeto.net",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD、Zen 6コアと3D V-Cache搭載のEPYC Veniceファミリを発表",
-    "summary": "新しいサーバープロセッサは最大256コア、1,152MBのL3キャッシュ、5GHz超の周波数を提供し、ハイパフォーマンスコンピューティングで競争。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD、ロボティクスおよび物理AI向けAPU Ryzen AI Embedded X100（Strix Halo）を発売",
-    "summary": "新しいチップは最大16のZen 5コアとRDNA 3.5 GPUを組み合わせ、組み込みシステムでIntel Panther Lakeに対抗。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "IntelとAMD、CPU価格が40%以上上昇する中、中国顧客との長期契約を締結",
-    "summary": "チップメーカーは価格高騰と地政学的緊張の中で、中国顧客との1年間の購入量を保証。",
+    "title": "IntelとAMD、価格が40%以上上昇する中、中国顧客とCPU契約を締結",
+    "summary": "価格上昇に対応するため、中国の顧客はIntelおよびAMDと長期契約を結び、価格を固定せずに購入数量を保証する。",
     "source": [
       "tomshardware.com",
       "elchapuzasinformatico.com"
@@ -150,20 +180,20 @@
     "count": 2
   },
   {
-    "title": "米国42州で抗議活動、AIデータセンターへの市民の反対が拡大",
-    "summary": "複数のコミュニティの住民がAIインフラ建設に反対し、地域への影響と規制の欠如を非難して抗議。",
+    "title": "Framework、LPCAMM2メモリの価格を2倍にし、Laptop 13 Proの容量を削減",
+    "summary": "LPCAMM2モジュールのコスト上昇により、Frameworkは価格を2倍にし、一部の先行注文でRAMを削減せざるを得なくなった。",
     "source": [
-      "/r/technology",
-      "tomshardware.com"
+      "/r/hardware",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "テクノロジー起業家が中国のAIモデルをブロックしないよう要請、Jensen Huangも使用を主張",
-    "summary": "スタートアップ創業者とNvidia CEOが中国のオープンウェイトモデルへのアクセスを擁護する一方、米国政府は規制を検討。",
+    "title": "Steam、アカウント不要でゲストがギフトとしてゲームを購入できるように",
+    "summary": "Valveは、Steamアカウントを持っていなくても誰でもゲームをギフトとして購入できるように、Steamのギフトポリシーを変更した。",
     "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com"
+      "hardzone.es",
+      "videocardz.com"
     ],
     "count": 2
   }
