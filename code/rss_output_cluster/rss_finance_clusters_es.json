@@ -1,102 +1,83 @@
 [
   {
-    "title": "El petróleo supera los 100 dólares y luego retrocede por posible ataque masivo de Trump",
-    "summary": "El crudo se disparó por el conflicto en Irán, pero Trump sopesa un ataque masivo, lo que hace caer el precio; las subidas semanales superan el 10% y provocan una venta masiva de bonos.",
+    "title": "Wall Street cierra mixto: el Dow Jones sube un 0,55% mientras el Nasdaq cae por preocupaciones tecnológicas y esperanzas de diálogo con Irán",
+    "summary": "Los índices bursátiles estadounidenses se movieron en direcciones opuestas; el Dow Jones avanzó ante la expectativa de negociaciones entre Estados Unidos e Irán, mientras el Nasdaq retrocedió debido a la cautela en el sector tecnológico.",
     "source": [
+      "nikkei.com",
       "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Trump amenaza con aranceles a la Unión Europea por la multa a Google",
+    "summary": "El presidente de Estados Unidos anuncia una investigación comercial contra la UE por considerar 'ilegal' la sanción impuesta al gigante tecnológico Google.",
+    "source": [
+      "investing.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Kevin Warsh promete un cambio de régimen en la Reserva Federal que podría sacudir Wall Street",
+    "summary": "El candidato a presidir la Fed advierte sobre una transformación profunda en la política monetaria, lo que genera incertidumbre en los mercados financieros.",
+    "source": [
+      "nasdaq.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El petróleo cae por debajo de los 100 dólares ante la posible reanudación de las negociaciones entre EE.UU. e Irán",
+    "summary": "El crudo se abarata por la expectativa de un diálogo diplomático que reduzca las tensiones geopolíticas en Oriente Medio, mientras el oro sube.",
+    "source": [
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El petróleo alcanza los 100 dólares y provoca una venta masiva de bonos globales",
+    "summary": "La escalada del precio del crudo desencadena un desplome en los mercados de deuda y presiona a las bolsas asiáticas por el temor a una inflación persistente.",
+    "source": [
       "ft.com",
-      "expansion.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Las bolsas europeas cierran al alza y el Dax supera los 25.000 puntos impulsado por SAP",
-    "summary": "Los índices europeos avanzan con el Dax alemán superando la barrera de los 25.000 puntos gracias al fuerte repunte de SAP; Londres y Suiza también cierran en positivo.",
-    "source": [
-      "handelsblatt.com",
-      "nasdaq.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El Ibex 35 sube un 1,9% en la semana y se acerca a los 19.600 puntos",
-    "summary": "El índice español acumula una ganancia semanal del 1,9% impulsado por los resultados empresariales y a pesar de los aranceles.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
+      "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "American Express y Honeywell lideran las caídas del Dow Jones",
-    "summary": "Las acciones de American Express y Honeywell son los valores más bajistas del Dow Jones en la jornada.",
-    "source": [
-      "bolsamania.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las acciones de SanDisk se desploman y lideran las caídas en el Nasdaq y el S&P 500",
-    "summary": "SanDisk registra fuertes descensos, situándose entre los peores valores de los principales índices estadounidenses.",
-    "source": [
-      "bolsamania.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Digital Realty Trust se dispara más de un 13% y es el valor más alcista del S&P 500",
-    "summary": "Las acciones del operador de centros de datos suben con fuerza, liderando las ganancias del índice.",
-    "source": [
-      "bolsamania.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Mapfre cae un 4,7% en Bolsa tras ser penalizada por su compra en Estados Unidos",
-    "summary": "El mercado castiga a la aseguradora por la adquisición en EE.UU., convirtiéndola en el peor valor del Ibex 35.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sabadell sube un 3,4% en Bolsa por la recompra de acciones y las previsiones",
-    "summary": "Las acciones del banco se revalorizan tras anunciar un programa de recompra y mejorar sus perspectivas.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX enfrenta incertidumbre por posible nacionalización y bajo rendimiento bursátil",
-    "summary": "Las acciones de SpaceX caen por debajo del promedio de las OPI estadounidenses desde 2009, mientras surgen dudas sobre una posible nacionalización bajo Trump.",
-    "source": [
-      "handelsblatt.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Wall Street se encamina a pérdidas semanales por el conflicto en Irán, la inteligencia artificial y los aranceles",
-    "summary": "Las acciones estadounidenses caen en la semana debido a tensiones geopolíticas, incertidumbre tecnológica y políticas comerciales.",
-    "source": [
-      "handelsblatt.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel cae en Bolsa y es uno de los valores más destacados en los informes del mercado",
-    "summary": "Las acciones de Intel registran pérdidas, siendo mencionadas tanto en análisis específicos como en actualizaciones generales del mercado.",
+    "title": "Verizon recorta su beneficio un 23% pero eleva sus previsiones y sus acciones suben en bolsa",
+    "summary": "La compañía de telecomunicaciones presenta resultados trimestrales peores de lo esperado, pero mejora sus perspectivas para el año, lo que impulsa el valor.",
     "source": [
       "nasdaq.com",
-      "finance.yahoo.com"
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sabadell sube un 3,4% en bolsa impulsado por la recompra de acciones y sus previsiones",
+    "summary": "El banco español lidera las ganancias del Ibex 35 tras anunciar un programa de recompra de títulos y mejorar sus expectativas de negocio.",
+    "source": [
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Mapfre cae un 4,7% en bolsa tras ser castigada por su adquisición en EE.UU.",
+    "summary": "La aseguradora española sufre el mayor descenso del Ibex 35 después de que el mercado penalizara su expansión en el mercado estadounidense.",
+    "source": [
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El Ibex 35 cierra la semana cerca de los 19.600 puntos con una subida del 1,9%",
+    "summary": "El principal índice bursátil español acumula una ganancia semanal del 1,9% apoyado en los resultados empresariales y la tregua en las tensiones arancelarias.",
+    "source": [
+      "expansion.com",
+      "bolsamania.com"
     ],
     "count": 2
   }

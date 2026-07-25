@@ -1,102 +1,83 @@
 [
   {
-    "title": "Oil surpasses $100 and then retreats due to possible massive attack by Trump",
-    "summary": "Crude oil surged due to the conflict in Iran, but Trump is considering a massive attack, causing the price to fall; weekly gains exceed 10% and trigger a massive bond sell-off.",
+    "title": "Wall Street closes mixed: Dow Jones rises 0.55% while Nasdaq falls on tech concerns and hopes for dialogue with Iran",
+    "summary": "US stock indexes moved in opposite directions; the Dow Jones advanced on expectations of negotiations between the US and Iran, while the Nasdaq retreated due to caution in the technology sector.",
     "source": [
+      "nikkei.com",
       "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Trump threatens tariffs on the European Union over Google fine",
+    "summary": "The President of the United States announces a trade investigation against the EU for considering the penalty imposed on the tech giant Google 'illegal'.",
+    "source": [
+      "investing.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Kevin Warsh promises a regime change at the Federal Reserve that could shake Wall Street",
+    "summary": "The candidate to lead the Fed warns of a profound transformation in monetary policy, generating uncertainty in financial markets.",
+    "source": [
+      "nasdaq.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Oil falls below $100 on possible resumption of talks between US and Iran",
+    "summary": "Crude oil cheapens on expectations of diplomatic dialogue that reduces geopolitical tensions in the Middle East, while gold rises.",
+    "source": [
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Oil reaches $100 and triggers massive sell-off in global bonds",
+    "summary": "The rise in crude oil prices triggers a collapse in debt markets and pressures Asian stock exchanges due to fears of persistent inflation.",
+    "source": [
       "ft.com",
-      "expansion.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "European stock markets close higher and Dax surpasses 25,000 points driven by SAP",
-    "summary": "European indices advance with the German Dax breaking through the 25,000 mark thanks to the strong rebound of SAP; London and Switzerland also close in positive territory.",
-    "source": [
-      "handelsblatt.com",
-      "nasdaq.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Ibex 35 rises 1.9% in the week and approaches 19,600 points",
-    "summary": "The Spanish index accumulates a weekly gain of 1.9% driven by corporate earnings and despite tariffs.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
+      "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "American Express and Honeywell lead the Dow Jones declines",
-    "summary": "American Express and Honeywell shares are the biggest losers in the Dow Jones in the session.",
-    "source": [
-      "bolsamania.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SanDisk shares plunge and lead declines on the Nasdaq and S&P 500",
-    "summary": "SanDisk posts sharp declines, positioning itself among the worst performers of the main US indices.",
-    "source": [
-      "bolsamania.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Digital Realty Trust soars more than 13% and is the biggest gainer in the S&P 500",
-    "summary": "Shares of the data center operator rise strongly, leading the index's gains.",
-    "source": [
-      "bolsamania.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Mapfre falls 4.7% on the stock market after being penalized for its purchase in the United States",
-    "summary": "The market punishes the insurer for the acquisition in the US, making it the worst performer on the Ibex 35.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sabadell rises 3.4% on the stock market due to share buyback and forecasts",
-    "summary": "The bank's shares gain value after announcing a buyback program and improving its outlook.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceX faces uncertainty due to possible nationalization and poor stock performance",
-    "summary": "SpaceX shares fall below the average of US IPOs since 2009, as doubts arise about possible nationalization under Trump.",
-    "source": [
-      "handelsblatt.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Wall Street heads for weekly losses due to the Iran conflict, artificial intelligence, and tariffs",
-    "summary": "US stocks fall in the week due to geopolitical tensions, technological uncertainty, and trade policies.",
-    "source": [
-      "handelsblatt.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel falls on the stock market and is one of the most prominent stocks in market reports",
-    "summary": "Intel shares post losses, being mentioned in both specific analyses and general market updates.",
+    "title": "Verizon cuts profit by 23% but raises forecasts and its shares rise on the stock market",
+    "summary": "The telecommunications company reports worse-than-expected quarterly results, but improves its outlook for the year, boosting the stock price.",
     "source": [
       "nasdaq.com",
-      "finance.yahoo.com"
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sabadell rises 3.4% on the stock market driven by share buyback and its forecasts",
+    "summary": "The Spanish bank leads the gains of the Ibex 35 after announcing a share buyback program and improving its business expectations.",
+    "source": [
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Mapfre falls 4.7% on the stock market after being penalized for its acquisition in the US",
+    "summary": "The Spanish insurer suffers the biggest drop in the Ibex 35 after the market punished its expansion in the US market.",
+    "source": [
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "The Ibex 35 closes the week near 19,600 points with a rise of 1.9%",
+    "summary": "The main Spanish stock index accumulates a weekly gain of 1.9% supported by corporate earnings and the truce in tariff tensions.",
+    "source": [
+      "expansion.com",
+      "bolsamania.com"
     ],
     "count": 2
   }

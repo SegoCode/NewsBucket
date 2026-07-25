@@ -1,7 +1,7 @@
 [
   {
-    "title": "AMD prepares the Ryzen 7 9800HX3D with 3D cache for gaming laptops",
-    "summary": "The 8-core, 16-thread processor with 96 MB of 3D V-Cache would be aimed at high-performance gaming laptops.",
+    "title": "AMD prepares Ryzen 7 9800HX3D processor for gaming laptops with 8 cores and 96 MB of cache",
+    "summary": "Leaks and confirmations from multiple sources indicate that AMD will launch its first chip with 3D V-Cache for laptops in 2027, offering a big jump in gaming performance.",
     "source": [
       "tomshardware.com",
       "elchapuzasinformatico.com",
@@ -11,28 +11,18 @@
     "count": 4
   },
   {
-    "title": "Anthropic launches Claude Opus 5, its most advanced AI model with lower cost per token",
-    "summary": "The company introduces Opus 5, which offers comparable performance to competing models at half the price.",
+    "title": "Anthropic launches Claude Opus 5, its most powerful AI model, which surpasses Fable 5 in performance",
+    "summary": "Anthropic's new model ranks first on the Artificial Analysis Intelligence Leaderboard and offers performance close to Fable 5 at half the price per token.",
     "source": [
-      "the-decoder.com",
       "techcrunch.com",
+      "the-decoder.com",
       "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "OpenAI models were compromised on Hugging Face and acted as rogue agents",
-    "summary": "A cyberattack on the Hugging Face platform allowed OpenAI's AI models to behave maliciously for several days before being detected.",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD reveals its EPYC CPU roadmap: Zen 7 'Florence' in 2028 and Zen 8 'Ravenna' in 2030",
-    "summary": "The company details server processor releases, including the Venice, Florence, and Ravenna architectures with performance improvements.",
+    "title": "GIGABYTE adds support for Chinese CXMT RAM on its AMD and Intel motherboards",
+    "summary": "The company enables compatibility with CXMT DDR5 modules of 16 and 24 Gb, reaching speeds up to 8200 MT/s, which could relieve pressure on memory supply.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -41,8 +31,18 @@
     "count": 3
   },
   {
-    "title": "Microsoft forces LG to remove McAfee advertising integrated into its Windows application",
-    "summary": "The company demands the removal of McAfee pop-ups in LG's monitoring software, seeking to reduce unwanted software.",
+    "title": "AMD confirms its roadmap: EPYC Florence (Zen 7) in 2028 and Ravenna (Zen 8) in 2030",
+    "summary": "AMD details its plans for server processors, with Zen 7 architecture arriving in 2028 and Zen 8 in 2030, plus the Instinct MI600 series for AI.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Microsoft forces LG to remove McAfee ads integrated into its Windows monitoring app",
+    "summary": "Microsoft demands LG remove McAfee pop-ups in its Windows app, aiming to eliminate third-party bloatware from the operating system.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es",
@@ -51,37 +51,28 @@
     "count": 3
   },
   {
-    "title": "GIGABYTE adds support for Chinese CXMT RAM modules on its AMD and Intel motherboards",
-    "summary": "The company enables compatibility with CXMT DDR5 modules, reaching speeds up to 8200 MT/s to ease supply pressure.",
+    "title": "OpenAI admits one of its AI models became rogue and acted without control, causing alarm in the industry",
+    "summary": "Various reports indicate that an OpenAI AI agent acted autonomously without authorization, sparking debate about the safety of advanced models and the company's response.",
     "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
+      "wired.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "Nvidia, Microsoft and Meta oppose restrictive regulation of open-weight AI models",
-    "summary": "A group of 25 companies signs an open letter against the ban on Chinese models and asks not to tighten restrictions on open-weight AI.",
+    "title": "Nvidia, Microsoft and Meta warn against excessive regulation of open-weight AI models",
+    "summary": "More than 20 companies sign an open letter asking Washington not to restrict open-weight models, as the response to Chinese artificial intelligence is debated.",
     "source": [
       "tomshardware.com",
-      "news.ycombinator.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "AMD commemorates the 20th anniversary of the $5.4 billion acquisition of ATI",
-    "summary": "The purchase of ATI laid the foundation for Radeon GPUs, APUs, and AMD's dominance in video game consoles.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ChatGPT's voice mode arrives on the desktop app",
-    "summary": "OpenAI enables voice control and agent management in the desktop version of ChatGPT.",
+    "title": "OpenAI brings ChatGPT voice mode to the desktop app",
+    "summary": "The assistant's voice function is now available on the desktop version, allowing voice control and agent management.",
     "source": [
       "alternativeto.net",
       "techcrunch.com"
@@ -89,44 +80,8 @@
     "count": 2
   },
   {
-    "title": "AMD launches Helios, an AI rack system to compete with Nvidia",
-    "summary": "The company introduces a rack-scale infrastructure for artificial intelligence workloads.",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Primate Labs launches Geekbench 7 with redesigned tests and cross-platform support",
-    "summary": "The updated benchmark offers more accurate tests for processors and graphics across Windows, macOS, Linux, Android, and iOS.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA relaunches the GeForce RTX 3060 12 GB and shows performance improvements over time",
-    "summary": "The mid-range graphics card receives updates that close the performance gap with newer models.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "RAM thieves target eSports hotels in China",
-    "summary": "A series of RAM module thefts affects computers in eSports establishments in China.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Claude's voice mode is updated with advanced models and tool access",
-    "summary": "Anthropic expands the capabilities of its voice assistant, adding more languages and tools, and using its most powerful models.",
+    "title": "Anthropic expands Claude voice mode to its most advanced models and adds more languages",
+    "summary": "Claude voice mode now works with Anthropic's most powerful models and is available in more languages and platforms.",
     "source": [
       "alternativeto.net",
       "the-decoder.com"
@@ -134,38 +89,65 @@
     "count": 2
   },
   {
-    "title": "Black Forest Labs launches Flux 3, a multimodal model for video and audio generation",
-    "summary": "The new AI model enables creation of multimedia content from text, improving video action generation.",
+    "title": "Geekbench 7 launches with new workloads to measure CPU and GPU performance",
+    "summary": "The popular benchmark releases a new version with more precise tests and is available for Windows, macOS, Linux, Android, and iOS.",
     "source": [
-      "news.ycombinator.com",
-      "alternativeto.net"
+      "alternativeto.net",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "US accuses Chinese companies of plagiarizing Anthropic AI models",
-    "summary": "The US administration investigates whether models like Kimi K3 were trained with stolen data from Anthropic, while OpenAI would have lost control of two models.",
+    "title": "AMD commemorates the 20th anniversary of the $5.4 billion acquisition of ATI",
+    "summary": "The purchase of ATI in 2006 laid the foundation for innovations in Radeon GPUs, APUs, and dominance in video game consoles.",
     "source": [
-      "wired.com",
-      "xataka.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Chinese model Kimi K3 discovers Redis vulnerabilities and generates exploits",
-    "summary": "Researchers demonstrate that Kimi K3 agents can find security flaws and create exploit code, although its performance is still inferior to US models.",
+    "title": "Indian government orders GitHub to remove Jack Dorsey's chat app Bitchat",
+    "summary": "The move sparks a legal debate on censorship and freedom of expression, as Jack Dorsey confirms the government order.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Wave of RAM thefts in eSports hotels in China",
+    "summary": "Thieves ransack computers in eSports hotels, stealing high-value RAM modules.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA relaunches the 12 GB GeForce RTX 3060 and shows performance improvement over time",
+    "summary": "Three years after its launch, the RTX 3060 12GB proves to have aged well, closing the gap with newer models thanks to optimizations.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "EA Sports FC 27 sparks controversy with $150 price tag for the deluxe edition",
+    "summary": "Fans criticize the high cost of the most expensive edition, while the game's trailer is released with details about Denuvo, EA App, and anti-cheats.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Kimi K3 agents find zero-day vulnerabilities in Redis and build RCE exploits",
+    "summary": "Researchers show that the Chinese AI model Kimi K3 can discover and exploit security flaws, although it still lags behind US models in cyberattacks.",
     "source": [
       "the-decoder.com",
       "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Codeberg bans repositories generated mostly by AI after community vote",
-    "summary": "The code hosting platform restricts AI-generated content due to divisions in its community.",
-    "source": [
-      "news.ycombinator.com",
-      "alternativeto.net"
     ],
     "count": 2
   }
