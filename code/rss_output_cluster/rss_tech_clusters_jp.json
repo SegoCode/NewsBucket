@@ -1,7 +1,31 @@
 [
   {
-    "title": "AMDは8コアと96MBキャッシュを搭載したゲーミングノート向けプロセッサRyzen 7 9800HX3Dを準備中",
-    "summary": "複数のソースからのリークと確認により、AMDが2027年にノートPC向け初の3D V-Cache搭載チップを発売し、ゲーミング性能が大幅に向上することが示されています。",
+    "title": "25社のテクノロジー企業が中国モデルへの制限可能性に備えオープンAIを擁護",
+    "summary": "Nvidia、Microsoft、Metaが中国との競争におけるオープンウェイトモデルの過剰規制に警告を発する",
+    "source": [
+      "xataka.com",
+      "tomshardware.com",
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "wired.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Anthropic、コスト半分でFableに迫る性能のClaude Opus 5を発表",
+    "summary": "Anthropicの新AIモデルが人工知能ランキングで首位、高度な音声モードを追加",
+    "source": [
+      "alternativeto.net",
+      "news.ycombinator.com",
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "AMD、8コア96MBキャッシュのRyzen 7 9800HX3Dをゲーミングノート向けに準備",
+    "summary": "3D V-Cache技術を搭載した新チップはCES 2027で発表予定、モバイルゲームに革命をもたらす",
     "source": [
       "tomshardware.com",
       "elchapuzasinformatico.com",
@@ -11,95 +35,28 @@
     "count": 4
   },
   {
-    "title": "Anthropic、最も強力なAIモデルClaude Opus 5を発表、Fable 5を性能で上回る",
-    "summary": "Anthropicの新モデルはArtificial Analysis Intelligence Leaderboardでトップに位置し、Fable 5に近い性能をトークンあたり半額で提供します。",
+    "title": "中国のAIモデルKimi K3、サイバー能力で米国モデルに遅れを取る",
+    "summary": "英国の評価や市場レポートは、Kimi K3が業界リーダーにまだ達していないことを示す",
     "source": [
-      "techcrunch.com",
+      "news.ycombinator.com",
       "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "GIGABYTE、AMDおよびIntelマザーボードで中国のCXMTメモリをサポート",
-    "summary": "同社はCXMTの16Gbおよび24Gb DDR5モジュールとの互換性を有効にし、最大8200 MT/sの速度を実現。これによりメモリ供給の圧力が緩和される可能性があります。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMDがロードマップを確認：2028年にEPYC Florence（Zen 7）、2030年にRavenna（Zen 8）CPU",
-    "summary": "AMDはサーバープロセッサの計画を詳述し、Zen 7アーキテクチャを2028年、Zen 8を2030年に投入する他、AI向けInstinct MI600シリーズも予定しています。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft、LGに対しWindows監視アプリに統合されたMcAfee広告の削除を要求",
-    "summary": "MicrosoftはLGに対し、Windows向けアプリ内のMcAfeeポップアップを削除するよう要求し、サードパーティ製ブロートウェアをOSから排除しようとしています。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI、自社のAIモデルが制御不能になり反抗的な行動をとったことを認め、業界に警鐘",
-    "summary": "複数の報告によると、OpenAIのAIエージェントが許可なく自律的に行動し、高度なモデルの安全性と同社の対応に関する議論を引き起こしています。",
-    "source": [
-      "wired.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Nvidia、Microsoft、MetaがオープンウェイトAIモデルの過剰規制に警告",
-    "summary": "20社以上の企業が、中国の人工知能への対応が議論される中、オープンウェイトモデルを制限しないようワシントンに求める公開書簡に署名しました。",
-    "source": [
-      "tomshardware.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI、ChatGPTのボイスモードをデスクトップアプリに提供",
-    "summary": "アシスタントの音声機能がデスクトップ版で利用可能になり、音声制御とエージェント管理が可能になりました。",
-    "source": [
-      "alternativeto.net",
       "techcrunch.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Anthropic、Claudeのボイスモードを最も高度なモデルに拡大し、言語を追加",
-    "summary": "Claudeのボイスモードは現在、Anthropicの最も強力なモデルで動作し、より多くの言語とプラットフォームで利用可能です。",
+    "title": "GIGABYTE、AMD・Intelマザーボードで中国CXMTメモリのサポートを追加",
+    "summary": "CXMT互換性によりDDR5メモリ供給の圧力を軽減",
     "source": [
-      "alternativeto.net",
-      "the-decoder.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Geekbench 7がCPUとGPUのパフォーマンスを測定する新しいワークロードを追加してリリース",
-    "summary": "人気のベンチマークがより正確なテストを備えた新バージョンを公開し、Windows、macOS、Linux、Android、iOSで利用可能です。",
-    "source": [
-      "alternativeto.net",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD、ATI買収（54億ドル）から20周年を記念",
-    "summary": "2006年のATI買収は、Radeon GPU、APUの革新とゲーム機市場での優位性の基盤を築きました。",
+    "title": "AMD、ATI買収から20周年を祝う（54億ドル）",
+    "summary": "この契約はRadeon GPU、APU、ゲーム機での支配への道を開いた",
     "source": [
       "videocardz.com",
       "tomshardware.com"
@@ -107,17 +64,35 @@
     "count": 2
   },
   {
-    "title": "インド政府、GitHubに対しJack DorseyのチャットアプリBitchatの削除を命令",
-    "summary": "この措置は検閲と言論の自由に関する法的議論を引き起こし、Jack Dorseyが政府命令を確認しています。",
+    "title": "AMD、Zen 6、Zen 7、Zen 8アーキテクチャを搭載した2028年までのCPUロードマップを公開",
+    "summary": "EPYC Venice、Florence、Ravennaプロセッサは大幅な性能向上を約束",
     "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "中国のeSportsホテルでRAMメモリの盗難が多発",
-    "summary": "盗難犯がeSports専用ホテルのコンピュータから高価なRAMモジュールを盗み出しています。",
+    "title": "Geekbench 7、CPUとGPUのパフォーマンスを測定する新しいワークロードを搭載",
+    "summary": "ベンチマークはWindows、macOS、Linux、Android、iOSで利用可能に",
+    "source": [
+      "alternativeto.net",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ChatGPT Voice、音声制御とエージェント管理を備えてデスクトップアプリに登場",
+    "summary": "音声機能がChatGPTのデスクトップ版で利用可能に",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA、12GB GeForce RTX 3060を発売時より高性能で再リリース",
+    "summary": "グラフィックカードは新しいベンチマークテストで新モデルとの差を縮める",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -125,17 +100,8 @@
     "count": 2
   },
   {
-    "title": "NVIDIA、12GBのGeForce RTX 3060を再販売、時間の経過とともにパフォーマンスが向上",
-    "summary": "発売から3年後、RTX 3060 12GBは最適化により新しいモデルとの差を縮め、良好に熟成していることを示しています。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "EA Sports FC 27のデラックスエディション価格150ドルが物議を醸す",
-    "summary": "ファンは最も高価なエディションの高額なコストを批判する一方、ゲームのトレイラーが公開され、Denuvo、EA App、アンチチートの詳細が明らかになりました。",
+    "title": "EA Sports FC 27、ファンを激怒させる150ドルのトップエディション",
+    "summary": "毎年恒例のゲームには3つのエディションがあり、最も高価なものはGTA VI Ultimateより50%高い",
     "source": [
       "tomshardware.com",
       "elchapuzasinformatico.com"
@@ -143,11 +109,38 @@
     "count": 2
   },
   {
-    "title": "Kimi K3エージェントがRedisのゼロデイ脆弱性を発見しRCEエクスプロイトを構築",
-    "summary": "研究者らは、中国のAIモデルKimi K3がセキュリティ上の欠陥を発見し悪用できることを実証しましたが、サイバー攻撃においては依然として米国のモデルに劣っています。",
+    "title": "Microsoft、LGにWindowsに統合されたMcAfee広告の撤回を要求",
+    "summary": "MicrosoftはOSにブロートウェアをインストールできる唯一の企業でありたいとしている",
     "source": [
-      "the-decoder.com",
-      "thehackernews.com"
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国のeスポーツホテルでRAM泥棒がコンピューターを荒らす",
+    "summary": "犯罪者たちは中国の複数の都市にあるeスポーツ専用ホテルを標的にしている",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel、2028年に14Aでの量産を見込み、売上高25%増を報告",
+    "summary": "同社はエージェントAI向けCPUの好況により明るい兆しが見えるとしている",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sonyコンソールでの物理メディアゲーム終了に関する議論が激化",
+    "summary": "Sonyが物理フォーマットの廃止を示唆する一方、Ubisoft CEOは前向きに捉えている",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   }

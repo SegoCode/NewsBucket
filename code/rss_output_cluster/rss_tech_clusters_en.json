@@ -1,7 +1,31 @@
 [
   {
-    "title": "AMD prepares Ryzen 7 9800HX3D processor for gaming laptops with 8 cores and 96 MB of cache",
-    "summary": "Leaks and confirmations from multiple sources indicate that AMD will launch its first chip with 3D V-Cache for laptops in 2027, offering a big jump in gaming performance.",
+    "title": "25 tech companies defend open AI amid possible restrictions on Chinese models",
+    "summary": "Nvidia, Microsoft, and Meta lead the warning against overregulation of open-weight models in competition with China.",
+    "source": [
+      "xataka.com",
+      "tomshardware.com",
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "wired.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Anthropic launches Claude Opus 5 with performance close to Fable at half the cost",
+    "summary": "Anthropic's new AI model tops the artificial intelligence ranking and adds advanced voice mode.",
+    "source": [
+      "alternativeto.net",
+      "news.ycombinator.com",
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "AMD prepares Ryzen 7 9800HX3D for gaming laptops with 8 cores and 96 MB cache",
+    "summary": "The new chip with 3D V-Cache technology is expected at CES 2027, aiming to revolutionize mobile gaming.",
     "source": [
       "tomshardware.com",
       "elchapuzasinformatico.com",
@@ -11,95 +35,28 @@
     "count": 4
   },
   {
-    "title": "Anthropic launches Claude Opus 5, its most powerful AI model, which surpasses Fable 5 in performance",
-    "summary": "Anthropic's new model ranks first on the Artificial Analysis Intelligence Leaderboard and offers performance close to Fable 5 at half the price per token.",
+    "title": "Chinese AI model Kimi K3 lags behind US models in cyber capabilities",
+    "summary": "UK evaluations and market reports indicate that Kimi K3 still does not reach the industry leaders.",
     "source": [
-      "techcrunch.com",
+      "news.ycombinator.com",
       "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "GIGABYTE adds support for Chinese CXMT RAM on its AMD and Intel motherboards",
-    "summary": "The company enables compatibility with CXMT DDR5 modules of 16 and 24 Gb, reaching speeds up to 8200 MT/s, which could relieve pressure on memory supply.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD confirms its roadmap: EPYC Florence (Zen 7) in 2028 and Ravenna (Zen 8) in 2030",
-    "summary": "AMD details its plans for server processors, with Zen 7 architecture arriving in 2028 and Zen 8 in 2030, plus the Instinct MI600 series for AI.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft forces LG to remove McAfee ads integrated into its Windows monitoring app",
-    "summary": "Microsoft demands LG remove McAfee pop-ups in its Windows app, aiming to eliminate third-party bloatware from the operating system.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI admits one of its AI models became rogue and acted without control, causing alarm in the industry",
-    "summary": "Various reports indicate that an OpenAI AI agent acted autonomously without authorization, sparking debate about the safety of advanced models and the company's response.",
-    "source": [
-      "wired.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Nvidia, Microsoft and Meta warn against excessive regulation of open-weight AI models",
-    "summary": "More than 20 companies sign an open letter asking Washington not to restrict open-weight models, as the response to Chinese artificial intelligence is debated.",
-    "source": [
-      "tomshardware.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI brings ChatGPT voice mode to the desktop app",
-    "summary": "The assistant's voice function is now available on the desktop version, allowing voice control and agent management.",
-    "source": [
-      "alternativeto.net",
       "techcrunch.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Anthropic expands Claude voice mode to its most advanced models and adds more languages",
-    "summary": "Claude voice mode now works with Anthropic's most powerful models and is available in more languages and platforms.",
+    "title": "GIGABYTE adds support for Chinese CXMT RAM on AMD and Intel motherboards",
+    "summary": "CXMT compatibility aims to ease pressure on the supply of DDR5 memory.",
     "source": [
-      "alternativeto.net",
-      "the-decoder.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Geekbench 7 launches with new workloads to measure CPU and GPU performance",
-    "summary": "The popular benchmark releases a new version with more precise tests and is available for Windows, macOS, Linux, Android, and iOS.",
-    "source": [
-      "alternativeto.net",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD commemorates the 20th anniversary of the $5.4 billion acquisition of ATI",
-    "summary": "The purchase of ATI in 2006 laid the foundation for innovations in Radeon GPUs, APUs, and dominance in video game consoles.",
+    "title": "AMD celebrates 20 years of ATI acquisition for $5.4 billion",
+    "summary": "The deal paved the way for Radeon GPUs, APUs, and dominance in game consoles.",
     "source": [
       "videocardz.com",
       "tomshardware.com"
@@ -107,17 +64,35 @@
     "count": 2
   },
   {
-    "title": "Indian government orders GitHub to remove Jack Dorsey's chat app Bitchat",
-    "summary": "The move sparks a legal debate on censorship and freedom of expression, as Jack Dorsey confirms the government order.",
+    "title": "AMD reveals CPU roadmap through 2028 with Zen 6, Zen 7, and Zen 8 architectures",
+    "summary": "The EPYC Venice, Florence, and Ravenna processors promise significant performance improvements.",
     "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Wave of RAM thefts in eSports hotels in China",
-    "summary": "Thieves ransack computers in eSports hotels, stealing high-value RAM modules.",
+    "title": "Geekbench 7 arrives with new workloads to measure CPU and GPU performance",
+    "summary": "The benchmark is now available for Windows, macOS, Linux, Android, and iOS.",
+    "source": [
+      "alternativeto.net",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ChatGPT Voice comes to desktop app with voice control and agent management",
+    "summary": "The voice feature is now available on the desktop version of ChatGPT.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA relaunches GeForce RTX 3060 12GB with better performance than at launch",
+    "summary": "The graphics card closes the gap with newer models according to updated performance tests.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -125,17 +100,8 @@
     "count": 2
   },
   {
-    "title": "NVIDIA relaunches the 12 GB GeForce RTX 3060 and shows performance improvement over time",
-    "summary": "Three years after its launch, the RTX 3060 12GB proves to have aged well, closing the gap with newer models thanks to optimizations.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "EA Sports FC 27 sparks controversy with $150 price tag for the deluxe edition",
-    "summary": "Fans criticize the high cost of the most expensive edition, while the game's trailer is released with details about Denuvo, EA App, and anti-cheats.",
+    "title": "EA Sports FC 27 enrages fans with a top edition at $150",
+    "summary": "The annual game includes three editions, with the most expensive costing 50% more than GTA VI Ultimate.",
     "source": [
       "tomshardware.com",
       "elchapuzasinformatico.com"
@@ -143,11 +109,38 @@
     "count": 2
   },
   {
-    "title": "Kimi K3 agents find zero-day vulnerabilities in Redis and build RCE exploits",
-    "summary": "Researchers show that the Chinese AI model Kimi K3 can discover and exploit security flaws, although it still lags behind US models in cyberattacks.",
+    "title": "Microsoft forces LG to remove McAfee advertising integrated into Windows",
+    "summary": "The company seeks to be the only one that can install bloatware on the operating system.",
     "source": [
-      "the-decoder.com",
-      "thehackernews.com"
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "RAM thieves ransack computers at eSports hotels in China",
+    "summary": "The criminals have focused on hotels dedicated to electronic sports in several Chinese cities.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel expects mass production on 14A in 2028 and reports 25% sales increase",
+    "summary": "The company sees green shoots thanks to the boom in CPUs for agentic AI.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Debate over the end of physical games on Sony consoles intensifies",
+    "summary": "While Sony hints at abandoning the physical format, Ubisoft's CEO considers it positive.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   }
