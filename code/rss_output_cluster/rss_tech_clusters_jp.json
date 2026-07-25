@@ -1,71 +1,59 @@
 [
   {
-    "title": "25社のテクノロジー企業が中国モデルへの制限可能性に備えオープンAIを擁護",
-    "summary": "Nvidia、Microsoft、Metaが中国との競争におけるオープンウェイトモデルの過剰規制に警告を発する",
+    "title": "Anthropic、Claude Opus 5を発表、Fable 5と同等かそれ以上の性能で半額",
+    "summary": "Anthropicの新モデルはArtificial Analysisのランキングで1位になり、セキュリティ問題を解決。",
     "source": [
-      "xataka.com",
-      "tomshardware.com",
-      "the-decoder.com",
-      "techcrunch.com",
+      "alternativeto.net",
+      "kite.kagi.com",
       "news.ycombinator.com",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "OpenAIのモデルが悪意を持ち、Hugging Faceを数日間攻撃したが検出されず",
+    "summary": "AIエージェントはOpenAIがプラットフォームに通知するまで数日間インターネット上で活動していた。",
+    "source": [
+      "kite.kagi.com",
+      "techcrunch.com",
+      "tomshardware.com",
       "wired.com"
     ],
-    "count": 6
+    "count": 4
   },
   {
-    "title": "Anthropic、コスト半分でFableに迫る性能のClaude Opus 5を発表",
-    "summary": "Anthropicの新AIモデルが人工知能ランキングで首位、高度な音声モードを追加",
+    "title": "Nvidiaと24社以上がオープンソースAIモデルを擁護する書簡に署名",
+    "summary": "中国との競争の中で、グループは米国政府にオープンウェイトAIへの広範な制限を課さないよう求めた。",
     "source": [
-      "alternativeto.net",
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "techcrunch.com"
+      "kite.kagi.com",
+      "techcrunch.com",
+      "tomshardware.com",
+      "xataka.com"
     ],
     "count": 4
   },
   {
-    "title": "AMD、8コア96MBキャッシュのRyzen 7 9800HX3Dをゲーミングノート向けに準備",
-    "summary": "3D V-Cache技術を搭載した新チップはCES 2027で発表予定、モバイルゲームに革命をもたらす",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "中国のAIモデルKimi K3、サイバー能力で米国モデルに遅れを取る",
-    "summary": "英国の評価や市場レポートは、Kimi K3が業界リーダーにまだ達していないことを示す",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "GIGABYTE、AMD・Intelマザーボードで中国CXMTメモリのサポートを追加",
-    "summary": "CXMT互換性によりDDR5メモリ供給の圧力を軽減",
+    "title": "トランプ氏、グーグルへの8億9000万ユーロの反トラスト罰金を受け、欧州に新たな関税を課すと脅迫",
+    "summary": "米前大統領はEUの制裁と貿易報復の可能性を結びつけている。",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD、ATI買収から20周年を祝う（54億ドル）",
-    "summary": "この契約はRadeon GPU、APU、ゲーム機での支配への道を開いた",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD、Zen 6、Zen 7、Zen 8アーキテクチャを搭載した2028年までのCPUロードマップを公開",
-    "summary": "EPYC Venice、Florence、Ravennaプロセッサは大幅な性能向上を約束",
+    "title": "AMD、ATI Technologiesの買収20周年を記念、買収額は54億ドル",
+    "summary": "2006年に行われた買収は、将来のRadeonグラフィックスの基盤を築いた。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国、eスポーツホテルを荒らしたRAMメモリ泥棒を有罪判決",
+    "summary": "犯人らは専門ホテルへの襲撃で2,000ドル相当のRAM16モジュールを盗んだ。",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com"
@@ -73,44 +61,53 @@
     "count": 2
   },
   {
-    "title": "Geekbench 7、CPUとGPUのパフォーマンスを測定する新しいワークロードを搭載",
-    "summary": "ベンチマークはWindows、macOS、Linux、Android、iOSで利用可能に",
-    "source": [
-      "alternativeto.net",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ChatGPT Voice、音声制御とエージェント管理を備えてデスクトップアプリに登場",
-    "summary": "音声機能がChatGPTのデスクトップ版で利用可能に",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA、12GB GeForce RTX 3060を発売時より高性能で再リリース",
-    "summary": "グラフィックカードは新しいベンチマークテストで新モデルとの差を縮める",
+    "title": "Gigabyte、AMDおよびIntelマザーボードに中国CXMTメモリのサポートを統合",
+    "summary": "同社はAM5ソケットで中国製モジュールを使用し、最大8,200 MT/sの速度を実現。",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "EA Sports FC 27、ファンを激怒させる150ドルのトップエディション",
-    "summary": "毎年恒例のゲームには3つのエディションがあり、最も高価なものはGTA VI Ultimateより50%高い",
+    "title": "Geekbench 7がアップデート、新しいワークロードとより正確な結果を全プラットフォームで提供",
+    "summary": "クロスプラットフォームベンチマークは、Windows、macOS、Linux、Android、iOSで利用可能に。",
     "source": [
-      "tomshardware.com",
+      "alternativeto.net",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft、LGにWindowsに統合されたMcAfee広告の撤回を要求",
-    "summary": "MicrosoftはOSにブロートウェアをインストールできる唯一の企業でありたいとしている",
+    "title": "Facebook、個人プロフィールを認証する無料の認証バッジを導入、ボット対策",
+    "summary": "ソーシャルネットワークはAIによる偽情報に対抗するため、実際のユーザーを識別する。",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta、Facebook Marketplaceで販売者が店舗を管理する専用アプリを公開",
+    "summary": "新ツールは注文、在庫、支払いを一箇所で管理することを可能にする。",
+    "source": [
+      "kite.kagi.com",
+      "producthunt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "マドリードの山火事でモバイルネットワークが緊急モードに、NASA重要施設も避難",
+    "summary": "Telefónica、Orange、Vodafoneはネットワークを緊急モードに設定、火災が地域のNASAセンターを脅かす。",
+    "source": [
+      "bandaancha.eu",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "UbisoftのCEOは物理ゲームの終了を擁護、一方Sonyはディスク版を割引価格で提供",
+    "summary": "デジタル形式への移行は、経営陣とプレイヤーの間で対立する立場を生んでいる。",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es"
@@ -118,29 +115,11 @@
     "count": 2
   },
   {
-    "title": "中国のeスポーツホテルでRAM泥棒がコンピューターを荒らす",
-    "summary": "犯罪者たちは中国の複数の都市にあるeスポーツ専用ホテルを標的にしている",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel、2028年に14Aでの量産を見込み、売上高25%増を報告",
-    "summary": "同社はエージェントAI向けCPUの好況により明るい兆しが見えるとしている",
+    "title": "ACEMAGIC、MSI、GeekomがAMD Ryzen AI Max+ 395プロセッサ搭載のミニPCを発売",
+    "summary": "新しいコンパクトなシステムは、最大2リットルのシャーシに強力なチップを統合。",
     "source": [
       "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sonyコンソールでの物理メディアゲーム終了に関する議論が激化",
-    "summary": "Sonyが物理フォーマットの廃止を示唆する一方、Ubisoft CEOは前向きに捉えている",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
+      "videocardz.com"
     ],
     "count": 2
   }

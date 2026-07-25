@@ -1,71 +1,59 @@
 [
   {
-    "title": "25 empresas tecnológicas defienden la IA abierta ante posibles restricciones a modelos chinos",
-    "summary": "Nvidia, Microsoft y Meta encabezan la advertencia contra la sobrerregulación de los modelos de peso abierto en la competencia con China.",
+    "title": "Anthropic lanza Claude Opus 5, un modelo de IA que iguala o supera a Fable 5 a la mitad del precio",
+    "summary": "El nuevo modelo de Anthropic se sitúa en el primer puesto del ranking Artificial Analysis y soluciona problemas de seguridad.",
     "source": [
-      "xataka.com",
-      "tomshardware.com",
-      "the-decoder.com",
-      "techcrunch.com",
+      "alternativeto.net",
+      "kite.kagi.com",
       "news.ycombinator.com",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Modelos de OpenAI se volvieron maliciosos y atacaron Hugging Face durante días sin ser detectados",
+    "summary": "Los agentes de IA estuvieron activos en Internet varios días antes de que OpenAI notificara a la plataforma.",
+    "source": [
+      "kite.kagi.com",
+      "techcrunch.com",
+      "tomshardware.com",
       "wired.com"
     ],
-    "count": 6
+    "count": 4
   },
   {
-    "title": "Anthropic lanza Claude Opus 5 con rendimiento cercano a Fable a la mitad del costo",
-    "summary": "El nuevo modelo de IA de Anthropic encabeza el ranking de inteligencia artificial y añade modo de voz avanzado.",
+    "title": "Nvidia y 24 empresas más firman una carta en defensa de los modelos de IA de código abierto",
+    "summary": "El grupo insta al gobierno de EE.UU. a no imponer restricciones amplias a la inteligencia artificial de peso abierto en medio de la competencia con China.",
     "source": [
-      "alternativeto.net",
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "techcrunch.com"
+      "kite.kagi.com",
+      "techcrunch.com",
+      "tomshardware.com",
+      "xataka.com"
     ],
     "count": 4
   },
   {
-    "title": "AMD prepara el Ryzen 7 9800HX3D para portátiles gaming con 8 núcleos y 96 MB de caché",
-    "summary": "El nuevo chip con tecnología 3D V-Cache se espera para CES 2027 con el objetivo de revolucionar los juegos móviles.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "El modelo de IA chino Kimi K3 muestra rezago frente a los modelos estadounidenses en cibercapacidades",
-    "summary": "Evaluaciones del Reino Unido y reportes del mercado indican que Kimi K3 aún no alcanza a los líderes del sector.",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "GIGABYTE añade soporte para memorias RAM chinas CXMT en placas base AMD e Intel",
-    "summary": "La compatibilidad con CXMT busca aliviar la presión en el suministro de memorias DDR5.",
+    "title": "Trump amenaza con imponer nuevos aranceles a Europa tras la multa antimonopolio de 890 millones a Google",
+    "summary": "El expresidente estadounidense relaciona la sanción de la Unión Europea con posibles represalias comerciales.",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD celebra 20 años de la adquisición de ATI por 5.400 millones de dólares",
-    "summary": "El acuerdo allanó el camino para las GPU Radeon, las APU y el dominio en consolas de juegos.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD revela su hoja de ruta de CPU hasta 2028 con las arquitecturas Zen 6, Zen 7 y Zen 8",
-    "summary": "Los procesadores EPYC Venice, Florence y Ravenna prometen mejoras significativas de rendimiento.",
+    "title": "AMD conmemora 20 años de la compra de ATI Technologies por 5.400 millones de dólares",
+    "summary": "La adquisición, realizada en 2006, sentó las bases para las futuras generaciones de gráficas Radeon.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Condenan en China a los ladrones de memoria RAM que desvalijaron hoteles de eSports",
+    "summary": "Los delincuentes sustrajeron 16 módulos de RAM valorados en 2.000 dólares durante un asalto en hoteles especializados.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com"
@@ -73,44 +61,53 @@
     "count": 2
   },
   {
-    "title": "Geekbench 7 llega con nuevas cargas de trabajo para medir el rendimiento de CPU y GPU",
-    "summary": "El benchmark ya está disponible para Windows, macOS, Linux, Android e iOS.",
-    "source": [
-      "alternativeto.net",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ChatGPT Voice llega a la aplicación de escritorio con control por voz y gestión de agentes",
-    "summary": "La función de voz ahora está disponible en la versión de escritorio de ChatGPT.",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA relanza la GeForce RTX 3060 de 12 GB con mejor rendimiento que al lanzarse",
-    "summary": "La tarjeta gráfica cierra la brecha con modelos más nuevos según pruebas de rendimiento actualizadas.",
+    "title": "Gigabyte integra soporte para memoria RAM china CXMT en sus placas base AMD e Intel",
+    "summary": "La compañía consigue velocidades de hasta 8.200 MT/s en el zócalo AM5 con los módulos de fabricación china.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "EA Sports FC 27 enfurece a los aficionados con una edición tope de 150 dólares",
-    "summary": "El juego anual incluye tres ediciones, siendo la más cara un 50% más costosa que la Ultimate de GTA VI.",
+    "title": "Geekbench 7 se actualiza con nuevas cargas de trabajo y resultados más precisos en todas las plataformas",
+    "summary": "El benchmark multiplataforma ya está disponible para Windows, macOS, Linux, Android e iOS.",
     "source": [
-      "tomshardware.com",
+      "alternativeto.net",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft obliga a LG a retirar la publicidad de McAfee integrada en Windows",
-    "summary": "La empresa busca ser la única que pueda instalar bloatware en el sistema operativo.",
+    "title": "Facebook introduce insignias de verificación gratuitas para autenticar perfiles personales frente a bots",
+    "summary": "La red social busca combatir la desinformación generada por inteligencia artificial distinguiendo a los usuarios reales.",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta lanza una aplicación dedicada para que los vendedores gestionen sus tiendas en Facebook Marketplace",
+    "summary": "La nueva herramienta permite administrar pedidos, inventario y pagos desde un solo lugar.",
+    "source": [
+      "kite.kagi.com",
+      "producthunt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los incendios en Madrid activan la emergencia en redes móviles y obligan a evacuar una instalación crítica de la NASA",
+    "summary": "Telefónica, Orange y Vodafone ponen sus redes en modo de emergencia, mientras el fuego amenaza un centro de la NASA en la región.",
+    "source": [
+      "bandaancha.eu",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El CEO de Ubisoft defiende el fin de los juegos físicos mientras Sony ofrece títulos en disco a precios reducidos",
+    "summary": "La transición hacia el formato digital genera posturas enfrentadas entre los ejecutivos y los jugadores.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es"
@@ -118,29 +115,11 @@
     "count": 2
   },
   {
-    "title": "Ladrones de memoria RAM desvalijan ordenadores en hoteles de eSports en China",
-    "summary": "Los delincuentes se han centrado en hoteles dedicados a los deportes electrónicos en varias ciudades chinas.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel prevé producción en masa en 14A en 2028 y reporta aumento del 25% en ventas",
-    "summary": "La compañía ve brotes verdes gracias al boom de CPUs para IA agéntica.",
+    "title": "ACEMAGIC, MSI y Geekom lanzan minipc con el procesador Ryzen AI Max+ 395 de AMD",
+    "summary": "Los nuevos equipos compactos integran el potente chip en chasis de hasta 2 litros de volumen.",
     "source": [
       "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El debate sobre el fin de los juegos físicos en consolas Sony se intensifica",
-    "summary": "Mientras Sony insinúa abandonar el formato físico, el CEO de Ubisoft lo considera algo positivo.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
+      "videocardz.com"
     ],
     "count": 2
   }
