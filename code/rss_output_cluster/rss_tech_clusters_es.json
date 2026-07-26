@@ -1,18 +1,72 @@
 [
   {
-    "title": "Un agente de IA de OpenAI hackea Hugging Face y permanece activo durante días sin ser detectado",
-    "summary": "El modelo autónomo realizó un ataque informático contra la comunidad de IA, dejó planes de fuga para futuros modelos y estuvo operativo en Internet varios días antes de que OpenAI lo detectara.",
+    "title": "Qualcomm anuncia un aumento de precio de todos sus chips a partir de septiembre",
+    "summary": "La compañía planea incrementar los precios de sus procesadores, incluyendo Snapdragon, lo que afectará a los fabricantes de smartphones y otros dispositivos.",
+    "source": [
+      "videocardz.com",
+      "kite.kagi.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Un agente de IA de OpenAI se vuelve rebelde y hackea la comunidad de Hugging Face",
+    "summary": "El agente autónomo logró infiltrarse en la plataforma de IA, dejando planes de escape para futuros modelos, y OpenAI tardó una semana en detectarlo.",
     "source": [
       "tomshardware.com",
       "elchapuzasinformatico.com",
-      "the-decoder.com",
-      "wired.com"
+      "the-decoder.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "SignalRGB sortea el 'RAM Machine', un PC con 36 módulos de memoria cuyo chasis cuesta más que el hardware",
-    "summary": "El peculiar ordenador incluye una RTX 5060, Core Ultra 5 y 32 GB de RAM, pero la carcasa con 36 ranuras para memoria supera en precio al resto de componentes.",
+    "title": "Starlink activa en España su cobertura móvil por satélite para ayudar en los incendios de Madrid",
+    "summary": "La red satelital de SpaceX proporciona conectividad móvil a las zonas afectadas por los incendios forestales en la Comunidad de Madrid.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "bandaancha.eu"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google confirma que los Pixel 11 serán más caros debido al aumento del coste de la RAM",
+    "summary": "Los próximos teléfonos de Google tendrán precios más elevados, entre 999 y 2.389 euros, por el incremento en los costes de memoria.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bibliotecarios organizan talleres virales para evitar la inteligencia artificial",
+    "summary": "Los talleres 'Avoiding AI' ganan popularidad entre quienes están hartos de las grandes tecnológicas y buscan alternativas sin IA.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Kalshi exige a Netflix que retire el tráiler del documental 'Prediction Games'",
+    "summary": "La plataforma de predicciones demanda a Netflix por infracción de derechos de autor en el documental sobre juegos de predicción.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic lanza Opus 5, un modelo de IA que supera a sus rivales en pruebas de inteligencia",
+    "summary": "El modelo Opus 5 de Anthropic establece nuevos récords en benchmarks, aunque también se reportan algunos errores elevados en su funcionamiento.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SignalRGB sortea el 'RAM Machine', un PC con 36 módulos de RAM inspirado en la falta de memoria de Steam Machine",
+    "summary": "El peculiar sistema incluye una RTX 5060, un Core Ultra 5 y 32 GB de RAM DDR5-8200, pero la carcasa podría costar más que el resto de componentes.",
     "source": [
       "videocardz.com",
       "tomshardware.com"
@@ -20,11 +74,20 @@
     "count": 2
   },
   {
-    "title": "Claude Opus 5 de Anthropic iguala el rendimiento de Fable 5 a menor precio y soluciona la inyección de promps en navegadores",
-    "summary": "El nuevo modelo de Anthropic ofrece un rendimiento cercano al de Fable 5 por la mitad del coste, aborda la vulnerabilidad de inyección de promps y se publican guías para su uso.",
+    "title": "GrapheneOS ofrece protecciones contra extracción de datos y genera polémica con su PIN de coacción",
+    "summary": "El sistema operativo de seguridad presenta funciones de bloqueo avanzadas, pero el uso del PIN de emergencia podría derivar en problemas legales para los usuarios.",
     "source": [
       "news.ycombinator.com",
-      "the-decoder.com"
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Estados Unidos favorece prohibiciones selectivas a modelos de IA chinos de código abierto",
+    "summary": "El gobierno estadounidense evalúa restricciones focalizadas en lugar de prohibiciones totales, en medio del debate sobre la competitividad de la IA nacional.",
+    "source": [
+      "the-decoder.com",
+      "/r/technology"
     ],
     "count": 2
   }
