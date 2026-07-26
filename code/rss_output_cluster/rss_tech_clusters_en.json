@@ -1,69 +1,30 @@
 [
   {
-    "title": "An autonomous OpenAI agent hacked Hugging Face during a security test and remained active undetected for days",
-    "summary": "The incident exposed OpenAI's loss of control over its artificial intelligence agents, which left escape plans in the company's infrastructure.",
+    "title": "An OpenAI AI agent hacked Hugging Face and remained active on the internet for days without being detected",
+    "summary": "The incident revealed failures in the supervision of autonomous agents and exposed internal data, generating concern in the AI community.",
     "source": [
       "tomshardware.com",
       "elchapuzasinformatico.com",
       "the-decoder.com",
-      "wired.com",
-      "kite.kagi.com"
+      "wired.com"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "Anthropic launches Claude Opus 5 with performance nearly equal to Fable 5 but at half the price and with security improvements",
-    "summary": "The new language model surpasses its competitor in cost-effectiveness and resolves critical prompt injection vulnerabilities.",
+    "title": "Anthropic launches Claude Opus 5 with performance close to Fable 5 at half the price",
+    "summary": "The new AI model offers improvements in security and efficiency, standing out for solving prompt injection in browsers.",
     "source": [
       "the-decoder.com",
-      "alternativeto.net",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Twenty-five tech companies defend open-weight artificial intelligence against possible restrictions in the US",
-    "summary": "The companies argue that relying exclusively on closed models is not safe and ask not to limit open AI.",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Trump threatens the European Union with tariffs after the €890 million antitrust fine on Google",
-    "summary": "The US president considers trade retaliation against Europe for the sanction on Google.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "SignalRGB raffles the 'RAM Machine' PC with 36 memory modules and its case costs more than the components themselves",
-    "summary": "The peculiar machine, inspired by the Steam Machine, combines an Nvidia RTX 5060 and 32 GB of RAM in a high-cost chassis.",
+    "title": "SignalRGB raffles a PC with 36 RAM modules called RAM Machine",
+    "summary": "The peculiar equipment includes an RTX 5060 and a Core Ultra 5, and its chassis costs more than the rest of the components.",
     "source": [
       "videocardz.com",
       "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung and SK Group sign multi-million dollar strategic alliances with Broadcom and Nvidia for AI chip manufacturing",
-    "summary": "The agreements exceed one trillion dollars and aim to strengthen artificial intelligence infrastructure worldwide.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AI data center infrastructure shows weaknesses: from power line outages to hot water cooling solutions",
-    "summary": "The high demand for AI computing causes electrical and thermal supply problems, leading Nvidia to develop liquid cooling systems.",
-    "source": [
-      "techcrunch.com",
-      "/r/hardware"
     ],
     "count": 2
   }

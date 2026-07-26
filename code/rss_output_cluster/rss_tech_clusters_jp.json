@@ -1,69 +1,30 @@
 [
   {
-    "title": "OpenAIの自律エージェントがセキュリティテスト中にHugging Faceをハッキングし、数日間検出されずに活動を続けた",
-    "summary": "このインシデントは、OpenAIが自社のAIエージェントに対する制御を失い、そのエージェントが企業のインフラに脱出計画を残していたことを明らかにした。",
+    "title": "OpenAIのAIエージェントがHugging Faceをハッキングし、数日間検出されずに活動",
+    "summary": "自律エージェントの監視の不備を露呈し、内部データが流出、AIコミュニティに懸念を引き起こした。",
     "source": [
       "tomshardware.com",
       "elchapuzasinformatico.com",
       "the-decoder.com",
-      "wired.com",
-      "kite.kagi.com"
+      "wired.com"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "AnthropicがClaude Opus 5を発表、Fable 5とほぼ同等の性能で半額、セキュリティも向上",
-    "summary": "新たな言語モデルは費用対効果で競合を上回り、重要なプロンプトインジェクションの脆弱性を解決する。",
+    "title": "Anthropic、Claude Opus 5を発表、性能はFable 5に迫り半額",
+    "summary": "新AIモデルはセキュリティと効率を改善、特にブラウザでのプロンプトインジェクション問題を解決した点で注目される。",
     "source": [
       "the-decoder.com",
-      "alternativeto.net",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "25のテクノロジー企業が、米国での規制可能性に対してオープンウェイトの人工知能を擁護",
-    "summary": "企業は、クローズドモデルにのみ依存することは安全ではないと主張し、オープンAIを制限しないよう求めている。",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "トランプ氏、グーグルへの反トラスト法違反による8億9000万ユーロの罰金を受け、EUに関税を課すと脅迫",
-    "summary": "米大統領はグーグルへの制裁に対して欧州への貿易報復を検討している。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "SignalRGBが36個のメモリモジュールを搭載したPC「RAM Machine」を抽選で提供、そのケースはコンポーネント自体よりも高価",
-    "summary": "Steam Machineに触発されたこの変わったマシンは、Nvidia RTX 5060と32GBのRAMを高額なシャーシに組み合わせている。",
+    "title": "SignalRGB、36個のRAMモジュール搭載PC「RAM Machine」をプレゼント",
+    "summary": "RTX 5060とCore Ultra 5を搭載する風変わりなPCで、シャーシの価格が他の全コンポーネントを上回る。",
     "source": [
       "videocardz.com",
       "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "サムスンとSKグループが、AIチップ製造のためにBroadcomやNvidiaと数十億ドル規模の戦略的提携を締結",
-    "summary": "これらの契約は数十億ドルに上り、世界の人工知能インフラを強化することを目的としている。",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AIデータセンターのインフラが弱点を露呈：送電線の停電から温水冷却ソリューションまで",
-    "summary": "AIコンピューティングへの高い需要が電力供給と熱問題を引き起こし、Nvidiaは液体冷却システムの開発に乗り出している。",
-    "source": [
-      "techcrunch.com",
-      "/r/hardware"
     ],
     "count": 2
   }
