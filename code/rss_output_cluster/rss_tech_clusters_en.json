@@ -1,26 +1,48 @@
 [
   {
-    "title": "Chinese DRAM memory CXMT does not turn out to be the expected economical alternative and its prices follow those of major manufacturers",
-    "summary": "CXMT modules enter the market with prices matching or exceeding those of Samsung and other leaders, contradicting expectations that they would ease the market.",
+    "title": "Apple delays its smart glasses until 2027 to prioritize privacy",
+    "summary": "The company seeks to compete with Meta's Ray-Ban and avoid the privacy issues that have affected other devices.",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com",
-      "tomshardware.com"
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Nvidia would endorse $250 billion for OpenAI to build a data center in Ohio",
+    "summary": "The plan includes a possible $350 billion deal to finance chips on campus, according to the WSJ.",
+    "source": [
+      "tomshardware.com",
+      "xataka.com",
+      "kite.kagi.com"
     ],
     "count": 3
   },
   {
-    "title": "Minecraft Java Edition increases memory requirements to 16 GB for the first time in 17 years",
-    "summary": "Microsoft now recommends 16 GB of RAM and a more modern CPU for the Java edition, ahead of the transition to Vulkan.",
+    "title": "Minecraft Java Edition increases its RAM requirements to 16 GB ahead of the transition to Vulkan",
+    "summary": "After 17 years, the game raises the recommended memory for the first time, affecting players with old equipment.",
     "source": [
-      "videocardz.com",
-      "tomshardware.com"
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Microsoft tests an intelligent download client for Xbox and PC that chooses the fastest server",
-    "summary": "The new feature aims to optimize game download speeds by automatically connecting to the optimal server.",
+    "title": "Chinese chip maker CXMT revalues more than 460% on its debut on the Shanghai stock exchange",
+    "summary": "The company will focus its investment on DRAM production and not HBM, according to its IPO application.",
+    "source": [
+      "tomshardware.com",
+      "news.ycombinator.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "NVIDIA presents its Vera CPU to design future processors and accelerates chip development",
+    "summary": "Initial tests show up to 1.5 times higher performance in automation and design tasks.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -28,11 +50,29 @@
     "count": 2
   },
   {
-    "title": "Chinese manufacturers launch laptops with GeForce RTX 3050 in 2026 to reduce costs",
-    "summary": "Several Chinese brands present models with the RTX 3050 GPU, seeking to offer more affordable options in the laptop market.",
+    "title": "A user installs spikes and a taser on his Steam Deck to prevent his family from draining the battery",
+    "summary": "The homemade security system includes a Raspberry Pi, camera and speaker to scare away 'battery thieves'.",
     "source": [
-      "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Hugging Face CEO demands 'radical transparency' from OpenAI after its recent security breach",
+    "summary": "Clement Delangue asks OpenAI to reveal all the details of the hack it suffered to avoid future incidents.",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD confirms that Zen 7 will be the last generation compatible with the AM5 socket before AM6",
+    "summary": "The manufacturer will split Zen 7 into three EPYC families for servers, with launch planned for 2028.",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 2
   }

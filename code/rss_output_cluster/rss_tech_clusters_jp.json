@@ -1,26 +1,48 @@
 [
   {
-    "title": "中国のDRAMメモリCXMT、期待された低価格の代替品にならず、価格は大手メーカーに追随",
-    "summary": "CXMTのモジュールは、サムスンや他のリーダーと同等かそれ以上の価格で市場に参入し、市場を緩和するという期待に反している。",
+    "title": "Appleはプライバシーを優先し、スマートグラスを2027年まで延期",
+    "summary": "同社はMetaのRay-Banと競争し、他のデバイスに影響を与えたプライバシーの問題を回避することを目指している。",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com",
-      "tomshardware.com"
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "NvidiaはOpenAIがオハイオにデータセンターを建設するために2500億ドルを保証する見込み",
+    "summary": "計画にはWSJによると、キャンパス内のチップに資金を提供するための3500億ドルの契約が含まれている可能性がある。",
+    "source": [
+      "tomshardware.com",
+      "xataka.com",
+      "kite.kagi.com"
     ],
     "count": 3
   },
   {
-    "title": "Minecraft Java Edition、17年ぶりにメモリ要件を16GBに引き上げ",
-    "summary": "マイクロソフトは現在、Vulkan移行に向けて、Java Editionに16GBのRAMとより最新のCPUを推奨している。",
+    "title": "Minecraft Java EditionがVulkan移行に備えRAM要件を16GBに引き上げ",
+    "summary": "17年を経て、ゲームは初めて推奨メモリを引き上げ、古い機器のプレイヤーに影響を与える。",
     "source": [
-      "videocardz.com",
-      "tomshardware.com"
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Microsoft、XboxとPC向けに最速のサーバーを選択するスマートダウンロードクライアントをテスト",
-    "summary": "この新機能は、最適なサーバーに自動接続することでゲームのダウンロード速度を最適化することを目指している。",
+    "title": "中国のチップメーカーCXMTが上海株式市場デビューで460％以上急騰",
+    "summary": "同社は上場申請によると、HBMではなくDRAM生産に投資を集中する。",
+    "source": [
+      "tomshardware.com",
+      "news.ycombinator.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "NVIDIAが将来のプロセッサ設計向けCPU Veraを発表、チップ開発を加速",
+    "summary": "初期テストでは、自動化および設計タスクで最大1.5倍のパフォーマンス向上を示している。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -28,11 +50,29 @@
     "count": 2
   },
   {
-    "title": "中国メーカー、コスト削減のため2026年にGeForce RTX 3050搭載ノートPCを発売",
-    "summary": "複数の中国ブランドがRTX 3050 GPU搭載モデルを発表し、ノートPC市場でより手頃なオプションを提供しようとしている。",
+    "title": "ユーザーがSteam Deckにスパイクとテーザー銃を設置、家族のバッテリー消費を防止",
+    "summary": "自作のセキュリティシステムにはRaspberry Pi、カメラ、スピーカーが含まれており、「バッテリー泥棒」を追い払う。",
     "source": [
-      "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Hugging FaceのCEO、最近のセキュリティ侵害を受けOpenAIに「徹底的な透明性」を要求",
+    "summary": "Clement Delangue氏はOpenAIに対して、将来のインシデントを防ぐために、受けたハッキングの詳細をすべて開示するよう求めている。",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMDはZen 7がAM6以前でAM5ソケットと互換性のある最後の世代であることを確認",
+    "summary": "同社はZen 7をサーバー向けに3つのEPYCファミリーに分割し、2028年に発売を予定している。",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 2
   }

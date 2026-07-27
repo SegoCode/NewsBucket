@@ -1,26 +1,48 @@
 [
   {
-    "title": "La memoria DRAM china CXMT no resulta ser la alternativa económica esperada y sus precios siguen a los grandes fabricantes",
-    "summary": "Los módulos de CXMT entran al mercado con precios que igualan o superan a los de Samsung y otros líderes, contradiciendo las expectativas de que aliviarían el mercado.",
+    "title": "Apple retrasa sus gafas inteligentes hasta 2027 para priorizar la privacidad",
+    "summary": "La compañía busca competir con las Ray-Ban de Meta y evitar los problemas de privacidad que han afectado a otros dispositivos.",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com",
-      "tomshardware.com"
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Nvidia avalaría 250.000 millones de dólares para que OpenAI construya un centro de datos en Ohio",
+    "summary": "El plan incluye un posible acuerdo de 350.000 millones para financiar chips en el campus, según el WSJ.",
+    "source": [
+      "tomshardware.com",
+      "xataka.com",
+      "kite.kagi.com"
     ],
     "count": 3
   },
   {
-    "title": "Minecraft Java Edition aumenta requisitos de memoria a 16 GB por primera vez en 17 años",
-    "summary": "Microsoft recomienda ahora 16 GB de RAM y una CPU más moderna para la edición Java, de cara a la transición a Vulkan.",
+    "title": "Minecraft Java Edition aumenta sus requisitos de RAM a 16 GB de cara a la transición a Vulkan",
+    "summary": "Tras 17 años, el juego eleva la memoria recomendada por primera vez, afectando a los jugadores con equipos antiguos.",
     "source": [
-      "videocardz.com",
-      "tomshardware.com"
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Microsoft prueba un cliente inteligente de descarga para Xbox y PC que elige el servidor más rápido",
-    "summary": "La nueva función busca optimizar las velocidades de descarga de juegos conectando automáticamente al servidor óptimo.",
+    "title": "El fabricante chino de chips CXMT se revaloriza más de un 460% en su debut en la bolsa de Shanghái",
+    "summary": "La empresa centrará su inversión en producción de DRAM y no en HBM, según su solicitud de salida a bolsa.",
+    "source": [
+      "tomshardware.com",
+      "news.ycombinator.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "NVIDIA presenta su CPU Vera para diseñar futuros procesadores y acelera el desarrollo de chips",
+    "summary": "Las primeras pruebas muestran un rendimiento hasta 1,5 veces superior en tareas de automatización y diseño.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -28,11 +50,29 @@
     "count": 2
   },
   {
-    "title": "Fabricantes chinos lanzan portátiles con GeForce RTX 3050 en 2026 para abaratar costes",
-    "summary": "Varias marcas chinas presentan modelos con la GPU RTX 3050, buscando ofrecer opciones más económicas en el mercado de portátiles.",
+    "title": "Un usuario instala pinchos y un táser en su Steam Deck para evitar que su familia agote la batería",
+    "summary": "El sistema de seguridad casero incluye una Raspberry Pi, cámara y altavoz para ahuyentar a los 'ladrones de batería'.",
     "source": [
-      "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El CEO de Hugging Face exige 'transparencia radical' a OpenAI tras su reciente brecha de seguridad",
+    "summary": "Clement Delangue pide a OpenAI que revele todos los detalles del hackeo sufrido para evitar futuros incidentes.",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD confirma que Zen 7 será la última generación compatible con el socket AM5 antes de AM6",
+    "summary": "El fabricante dividirá Zen 7 en tres familias EPYC para servidores, con lanzamiento previsto para 2028.",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 2
   }
