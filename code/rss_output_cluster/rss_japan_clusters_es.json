@@ -1,90 +1,135 @@
 [
   {
-    "title": "El gobierno de Japón decide reducir el impuesto al consumo al 1% para alimentos y prepara el proyecto de ley",
-    "summary": "El primer ministro Sanae Takaichi impulsa la medida para aliviar la carga fiscal, aunque persisten discrepancias en el comité nacional y con la oposición.",
+    "title": "Japón decide reducir el impuesto al consumo al 1% para alimentos y prepara el proyecto de ley",
+    "summary": "El gobierno y el partido gobernante acuerdan reducir temporalmente el impuesto al consumo en alimentos al 1% para aliviar la presión inflacionaria, aunque el consejo nacional no logra consenso y el primer ministro Takichi ordena acelerar la presentación del proyecto de ley.",
     "source": [
-      "mainichi.jp",
       "news.yahoo.co.jp",
-      "asahi.com",
+      "yomiuri.co.jp",
       "nikkei.com",
+      "asahi.com",
       "www3.nhk.or.jp",
-      "yomiuri.co.jp"
+      "mainichi.jp",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "NewsBucket-005",
+      "NewsBucket-006"
     ],
-    "count": 6
+    "count": 12
   },
   {
     "title": "Fallece el célebre escritor japonés Keigo Higashino a los 68 años",
-    "summary": "Autor de exitosas novelas de misterio como 'La devoción del sospechoso X', su muerte provoca una avalancha de homenajes de colegas, actores y editores en Japón y Taiwán.",
+    "summary": "Autor de exitosas novelas como 'La devoción del sospechoso X' y 'Viaje bajo el sol de medianoche', su muerte provoca homenajes de actores, editores y lectores en todo el mundo.",
     "source": [
+      "asahi.com",
       "mainichi.jp",
       "news.yahoo.co.jp",
-      "asahi.com",
       "www3.nhk.or.jp",
-      "yomiuri.co.jp"
+      "yomiuri.co.jp",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "NewsBucket-005"
     ],
-    "count": 5
+    "count": 10
   },
   {
     "title": "Japón avanza en la protección de la voz contra usos no consentidos, incluyendo deepfakes sexuales",
-    "summary": "Un comité del Ministerio de Justicia presenta directrices que califican como delito la generación de voces sintéticas sin permiso, abarcando la pornografía falsa.",
+    "summary": "Un comité del Ministerio de Justicia propone reconocer la voz como un derecho de imagen y permitir demandas por daños, incluidos los deepfakes sexuales, marcando un paso importante en la regulación de la IA.",
     "source": [
       "www3.nhk.or.jp",
       "mainichi.jp",
-      "nikkei.com",
-      "asahi.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Incendio en una vivienda en Imari (Saga) causa la muerte de cuatro personas, dos de ellas niños",
-    "summary": "El fuego se inició en la planta baja y se propagó rápidamente, consumiendo el hogar donde vivía una familia.",
-    "source": [
       "asahi.com",
-      "nikkei.com",
-      "yomiuri.co.jp"
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
-    "count": 3
+    "count": 7
   },
   {
-    "title": "El estado japonés condenado a indemnizar por el caso Matsuhashi tras 41 años de litigio",
-    "summary": "El tribunal reconoce que la policía ocultó pruebas y forzó confesiones, considerando ilegal la detención y el proceso judicial.",
+    "title": "Japón pospone la decisión sobre el salario mínimo, que rondaría los 1.100 yenes por hora",
+    "summary": "El consejo asesor del Ministerio de Trabajo no logra un consenso sobre el incremento anual del salario mínimo y aplaza la decisión, mientras sindicatos y empresarios mantienen posturas divergentes.",
     "source": [
       "mainichi.jp",
       "asahi.com",
-      "yomiuri.co.jp"
+      "nikkei.com"
     ],
     "count": 3
   },
   {
-    "title": "La Guardia Costera japonesa registra un instituto de Doshisha por el accidente de un helicóptero en Okinawa",
-    "summary": "El allanamiento se realiza tras una denuncia penal de la familia de una víctima del accidente de un helicóptero de las Fuerzas de Autodefensa en la base de Futenma.",
+    "title": "Japón refuerza su inteligencia para contrarrestar la interferencia extranjera",
+    "summary": "El gobernante PLD propone una ley para sancionar la interferencia extranjera y el primer ministro Takichi anuncia la creación de una agencia nacional de inteligencia, buscando fortalecer la seguridad nacional.",
     "source": [
+      "mainichi.jp",
       "news.yahoo.co.jp",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El primer ministro Takichi dice no tener arrepentimientos al cerrar la sesión extraordinaria del Parlamento",
+    "summary": "En una conferencia de prensa, Takichi defendió su gestión y afirmó no tener puntos de arrepentimiento, mientras enfrenta una caída en su popularidad y críticas de la oposición.",
+    "source": [
+      "nikkei.com",
+      "asahi.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Tribunal condena a indemnizar por el caso Matsuhashi tras 41 años de litigio",
+    "summary": "La corte de apelaciones de Fukuoka ordenó al gobierno y a la prefectura de Kumamoto pagar una compensación por detenciones ilegales y confesiones forzadas, calificando de ilegales las acciones policiales.",
+    "source": [
+      "mainichi.jp",
+      "asahi.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Escándalo de sobornos en la asamblea de Fukuoka: un diputado admite haber pagado 5 millones de yenes",
+    "summary": "El diputado prefectural Eto confiesa haber entregado 5 millones de yenes a otro miembro, mientras el exvicepresidente de la asamblea también testifica sobre la entrega de dinero en efectivo, generando presión dentro del PLD.",
+    "source": [
+      "yomiuri.co.jp",
+      "nikkei.com",
+      "mainichi.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Incendio en una casa en Saga causa la muerte de cuatro personas, incluidos dos niños",
+    "summary": "Un incendio destruyó una vivienda en la ciudad de Imari, prefectura de Saga, cobrando la vida de cuatro miembros de una misma familia, entre ellos dos menores de edad.",
+    "source": [
+      "asahi.com",
+      "nikkei.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Shinichiro Hattori y Kanta Yanagi avanzan a la final del torneo Ryuo de shogi",
+    "summary": "Hattori (7-dan) y Yanagi (5-dan) ganan sus respectivas semifinales del torneo Ryuo y se enfrentarán en la serie de tres partidos para determinar el retador del título.",
+    "source": [
+      "yomiuri.co.jp",
       "asahi.com"
     ],
     "count": 2
   },
   {
-    "title": "El salario mínimo nacional en Japón podría fijarse en torno a los 1.100 yenes por hora",
-    "summary": "El comité asesor del Ministerio de Salud continúa las negociaciones sin llegar a un acuerdo, posponiendo la decisión a la próxima sesión.",
+    "title": "Japón sopesa participar en reunión sobre el estrecho de Ormuz en medio de tensiones regionales",
+    "summary": "El ministro de Defensa japonés considera asistir a una reunión sobre la seguridad en el estrecho, mientras se revela que un comandante estadounidense recomendó detener los ataques aéreos contra posiciones iraníes.",
     "source": [
-      "mainichi.jp",
+      "nikkei.com",
       "asahi.com"
     ],
     "count": 2
   },
   {
-    "title": "El Partido Liberal Democrático propone una ley para castigar la interferencia extranjera en Japón",
-    "summary": "La iniciativa busca fortalecer la capacidad de inteligencia nacional y establecer sanciones penales contra la injerencia de potencias extranjeras.",
-    "source": [
-      "mainichi.jp",
-      "news.yahoo.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las semifinales del torneo Ryuo de shogi definen a los aspirantes al título",
-    "summary": "En partidas de alto nivel, los maestros de shogi compiten por un lugar en la final, con análisis detallados de las estrategias.",
+    "title": "Desciende la popularidad del gobierno de Takichi y del PLD, crece la preocupación interna",
+    "summary": "Las últimas encuestas muestran una caída en los índices de aprobación del gabinete y del partido gobernante, lo que genera alarma entre los legisladores del PLD que temen perder apoyo popular.",
     "source": [
       "asahi.com",
       "yomiuri.co.jp"
@@ -92,46 +137,37 @@
     "count": 2
   },
   {
-    "title": "El primer ministro Takaichi ofrece una rueda de prensa tras la clausura de la Dieta Especial",
-    "summary": "El mandatario declaró que no tiene 'puntos de autocrítica' y reiteró su compromiso con las políticas económicas y de seguridad.",
+    "title": "Takichi defiende su política fiscal en el comité de presupuesto del Parlamento",
+    "summary": "Durante el debate en el comité de presupuesto, el primer ministro Takichi subrayó la importancia de mantener la confianza del mercado en la política fiscal y controlar el crecimiento de la deuda.",
     "source": [
-      "asahi.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La aprobación del primer ministro Takaichi cae abruptamente, según encuestas",
-    "summary": "Analistas políticos cuestionan la estrategia de comunicación del gobierno, mientras el primer ministro admite su desconcierto ante las causas del descenso.",
-    "source": [
-      "asahi.com",
+      "yomiuri.co.jp",
       "nikkei.com"
     ],
     "count": 2
   },
   {
-    "title": "Japón presiona a Apple y Google para flexibilizar las normas de sus tiendas de aplicaciones",
-    "summary": "La Comisión de Comercio Justo confirma que las empresas tecnológicas han acordado permitir a los desarrolladores usar sistemas de pago alternativos.",
+    "title": "Universidad de Hokkaido se disculpa oficialmente por recolectar restos ainu sin consentimiento",
+    "summary": "La Universidad de Hokkaido ofrece una disculpa directa por el estudio de restos de indígenas ainu sin permiso, prometiendo mejorar su manejo de los derechos de los pueblos originarios.",
     "source": [
-      "mainichi.jp",
+      "news.yahoo.co.jp",
+      "mainichi.jp"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Guardia Costera allana escuela internacional Doshisha vinculada a accidente en base de Futenma",
+    "summary": "La Guardia Costera japonesa registra la escuela secundaria internacional Doshisha en relación con la muerte de un trabajador en un accidente de helicóptero en la base aérea de Futenma, tras una querella familiar.",
+    "source": [
+      "news.yahoo.co.jp",
       "asahi.com"
     ],
     "count": 2
   },
   {
-    "title": "Taiwán condecora al político japonés Hirofumi Furuya por fortalecer las relaciones bilaterales",
-    "summary": "El presidente de Taiwán entrega la medalla al presidente de la Asociación Parlamentaria de Amistad Japón-Taiwán en reconocimiento a su labor.",
+    "title": "Gobernador de Osaka busca realizar referéndum sobre la metrópolis el mismo día que las elecciones unificadas",
+    "summary": "El gobernador Yoshimura defiende la legalidad de celebrar la consulta popular sobre el plan Osaka Metrópolis simultáneamente con las elecciones locales unificadas, enfrentando críticas de la oposición por considerar que eludiría el debate.",
     "source": [
-      "nikkei.com",
-      "asahi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Japón y Estados Unidos abordan la situación en el Estrecho de Ormuz desde diferentes frentes",
-    "summary": "El ministro de Defensa de Japón contempla asistir a una reunión internacional sobre la seguridad en la zona, mientras que un comandante estadounidense recomienda poner fin a los bombardeos ante su limitada efectividad.",
-    "source": [
-      "nikkei.com",
+      "yomiuri.co.jp",
       "asahi.com"
     ],
     "count": 2

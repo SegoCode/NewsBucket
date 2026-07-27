@@ -1,53 +1,97 @@
 [
   {
-    "title": "原油急落、米イラン攻撃休止で世界市場上昇",
-    "summary": "ホルムズ海峡の停戦により原油価格が急落し、ウォール街、欧州、アジアの株式市場が最高値を更新、日本は外交対応を検討。",
+    "title": "米国とイランの攻撃休止で原油急落",
+    "summary": "米国とイランがホルムズ海峡での攻撃停止に合意し、供給懸念が和らいだことで、原油価格は1週間ぶりの安値に下落。",
     "source": [
+      "finance.yahoo.com",
       "ft.com",
       "handelsblatt.com",
-      "bolsamania.com",
-      "finance.yahoo.com",
-      "expansion.com",
-      "nikkei.com"
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "NewsBucket-005",
+      "NewsBucket-006"
     ],
-    "count": 6
+    "count": 9
   },
   {
-    "title": "ビットコイン、6万5000ドル台で安定、仮想通貨市場は原油安を無視",
-    "summary": "投資家はドル安回避のためビットコインに逃避、StrategyやCircleなどの企業が戦略的な動きを見せ、永久先物がウォール街の関心を集めている。",
+    "title": "ビットコイン、原油安を無視して65,000ドル台で固まる",
+    "summary": "主要暗号通貨は65,000ドル以上を維持し、原油急落の影響を受けず、イランと米国の休止後の比較的静かな一日に。",
     "source": [
-      "investing.com",
-      "finance.yahoo.com",
       "bolsamania.com",
+      "finance.yahoo.com",
       "expansion.com",
-      "handelsblatt.com"
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "NewsBucket-005"
+    ],
+    "count": 8
+  },
+  {
+    "title": "スペースX株、ロックアップ期間終了懸念で史上最安値に急落",
+    "summary": "スペースXの株価は、投資家のロックアップ期間終了への懸念から48%下落。ETFがポジションを積み上げ、欧州の競合スタートアップが出現する中で。",
+    "source": [
+      "finance.yahoo.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
     "count": 5
   },
   {
-    "title": "スペースX株48％下落、ETFはポジション積み増し、欧州新興企業が宇宙競争に参入",
-    "summary": "スペースXの株価急落やイーロン・マスク氏の課題にもかかわらず、宇宙セクターへの投資家の関心は継続、欧州の新興企業は20億ドルの評価額を目指す。",
+    "title": "米国株まちまち、イランと米国の停戦と原油安で",
+    "summary": "米国株式市場はまちまち。投資家はイラン紛争の休止と原油価格の急落を消化し、ダウ平均とS&P500は小幅高、ナスダックはハイテク株の下落に圧迫された。",
     "source": [
+      "handelsblatt.de",
       "nasdaq.com",
-      "ft.com",
-      "expansion.com",
-      "handelsblatt.com"
+      "finance.yahoo.com",
+      "bolsamania.com"
     ],
     "count": 4
   },
   {
-    "title": "中国半導体メーカーCXMT、上海上場初日に466％急騰",
-    "summary": "半導体大手の新規株式公開（IPO）により、中国で最も価値のある企業の一つとなり、地政学的緊張の中で中国半導体産業の台頭を示す。",
+    "title": "DAX指数、原油安に後押しされ3週間ぶりの高値で終了",
+    "summary": "ドイツ株価指数は1.30%上昇し、3週間ぶりの高値を記録。ハイテク株がけん引し、イランと米国の停戦に安心感が広がる中での動き。",
     "source": [
       "investing.com",
+      "handelsblatt.de"
+    ],
+    "count": 2
+  },
+  {
+    "title": "IBEX35、原油急落に後押しされ年初来高値に上昇",
+    "summary": "スペイン株価指数は0.80%上昇し、日中新高値を更新。原油安が運輸などのセクターに恩恵をもたらす一方、エネルギー企業には打撃となっている。",
+    "source": [
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国半導体大手CXMT、上場初日に466%急騰",
+    "summary": "半導体企業CXMTは、アジアで今年最大級の新規株式公開（IPO）を果たし、上場初日に約470%の値上がりを記録。",
+    "source": [
       "ft.com",
       "handelsblatt.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "AI主導の決算週を控えハイテク株上昇",
-    "summary": "データセンターインフラへの旺盛な需要が、四半期決算発表を前にエヌビディアやインテルなどの銘柄を押し上げている。",
+    "title": "インドネシア中央銀行総裁が辞任、政府は冷静さ呼びかけ",
+    "summary": "インドネシア中央銀行総裁の予想外の辞任が市場に不確実性をもたらす中、当局は投資家の鎮静化に努めている。",
+    "source": [
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple、最も価値のある企業の座を奪還、史上最高値更新",
+    "summary": "Apple株は史上最高値を更新し、エヌビディアを時価総額で上回る。第3四半期決算発表を目前に控えて。",
     "source": [
       "finance.yahoo.com",
       "nasdaq.com"
@@ -55,38 +99,38 @@
     "count": 2
   },
   {
-    "title": "ポルシェ、リストラ加速、2035年までに9000人削減へ",
-    "summary": "ドイツの自動車メーカーは、電気自動車への移行に対応し収益性を向上させるため、調整計画を強化している。",
+    "title": "量子コンピューティング株、D-WaveとAT&Tの提携で上昇",
+    "summary": "D-WaveがAT&Tとの契約拡大を受けて量子コンピューティングセクターで上昇をリード。投資家は上場した同セクター4社の見通しを分析している。",
     "source": [
-      "investing.com",
-      "finance.yahoo.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "クラッカーバレル、デビッド・デノ氏を新CEOに任命",
-    "summary": "経営トップの交代でレストランチェーンの立て直しを図るが、このニュースで株価は当初下落。",
-    "source": [
-      "investing.com",
+      "finance.yahoo.com",
       "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "ファナティクス、BGCグループの株式資産を取得し予測市場を創設",
-    "summary": "スポーツ用品会社がBGCの清算機関と取引所を買収、賭けや金融市場に事業拡大。",
+    "title": "エンタープライズ・プロダクツ・パートナーズ、次回決算で株価急伸の可能性",
+    "summary": "アナリストは、7月30日の決算発表が、強固なファンダメンタルズと成長見通しによりエンタープライズ・プロダクツ・パートナーズの株価を押し上げると予想。",
     "source": [
-      "nasdaq.com",
-      "finance.yahoo.com"
+      "finance.yahoo.com",
+      "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "インドネシア中央銀行総裁が辞任、政府は市場に冷静さ求める",
-    "summary": "金融政策トップの突然の辞任が同国経済への信頼を揺るがし、政府が安定を呼びかける。",
+    "title": "Visa株を今日買うことで将来の経済的安全は確保できるか？",
+    "summary": "長期的な投資としてのVisaの可能性を探る分析。電子決済における支配力と持続的な成長力を強調。",
     "source": [
-      "handelsblatt.com",
-      "ft.com"
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intelは最新決算後に買いか？",
+    "summary": "専門家がIntelの最新決算後の見通しを評価。半導体市場における課題と機会を考慮。",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
     ],
     "count": 2
   }

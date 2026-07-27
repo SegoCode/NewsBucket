@@ -1,18 +1,22 @@
 [
   {
     "title": "Apple delays its smart glasses until 2027 to prioritize privacy",
-    "summary": "The company seeks to compete with Meta's Ray-Ban and avoid the privacy issues that have affected other devices.",
+    "summary": "Apple postpones the launch of its smart glasses to ensure user privacy against competitors like Meta, according to industry sources.",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com",
       "techcrunch.com",
-      "kite.kagi.com"
+      "kite.kagi.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
-    "count": 4
+    "count": 8
   },
   {
-    "title": "Nvidia would endorse $250 billion for OpenAI to build a data center in Ohio",
-    "summary": "The plan includes a possible $350 billion deal to finance chips on campus, according to the WSJ.",
+    "title": "Nvidia would back $250 billion for OpenAI to install a data center in Ohio",
+    "summary": "Nvidia would be willing to guarantee the lease of SoftBank's campus and provide chip financing, according to the Wall Street Journal.",
     "source": [
       "tomshardware.com",
       "xataka.com",
@@ -21,58 +25,96 @@
     "count": 3
   },
   {
-    "title": "Minecraft Java Edition increases its RAM requirements to 16 GB ahead of the transition to Vulkan",
-    "summary": "After 17 years, the game raises the recommended memory for the first time, affecting players with old equipment.",
+    "title": "Chinese memory manufacturer CXMT rises more than 460% on its debut on the Shanghai Stock Exchange",
+    "summary": "The Chinese semiconductor company debuted on the stock market with a rise of over 460% and already competes in price with Samsung in DDR5 server memory.",
     "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "videocardz.com"
+      "tomshardware.com",
+      "kite.kagi.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "Chinese chip maker CXMT revalues more than 460% on its debut on the Shanghai stock exchange",
-    "summary": "The company will focus its investment on DRAM production and not HBM, according to its IPO application.",
+    "title": "Minecraft Java Edition increases its RAM requirements to 16 GB after 17 years",
+    "summary": "The game updates hardware specifications for the first time in 17 years ahead of the transition to Vulkan.",
     "source": [
-      "tomshardware.com",
       "news.ycombinator.com",
-      "kite.kagi.com"
+      "elchapuzasinformatico.com",
+      "hardzone.es"
     ],
     "count": 3
   },
   {
-    "title": "NVIDIA presents its Vera CPU to design future processors and accelerates chip development",
-    "summary": "Initial tests show up to 1.5 times higher performance in automation and design tasks.",
+    "title": "AMD confirmed that Zen 7 will be the last generation of the AM5 socket before moving to AM6 and DDR6",
+    "summary": "AMD plans to split Zen 7 into three EPYC families for AI and mark the end of the AM5 socket before the arrival of AM6 and DDR6.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A user installs spikes and a taser on his Steam Deck to prevent his family from draining the battery",
-    "summary": "The homemade security system includes a Raspberry Pi, camera and speaker to scare away 'battery thieves'.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hugging Face CEO demands 'radical transparency' from OpenAI after its recent security breach",
-    "summary": "Clement Delangue asks OpenAI to reveal all the details of the hack it suffered to avoid future incidents.",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD confirms that Zen 7 will be the last generation compatible with the AM5 socket before AM6",
-    "summary": "The manufacturer will split Zen 7 into three EPYC families for servers, with launch planned for 2028.",
-    "source": [
       "tomshardware.com",
       "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "The debate over the end of physical discs on PlayStation and Xbox intensifies",
+    "summary": "Statements from a former Rockstar executive and actions by Sony and Xbox fuel the debate around the disappearance of physical format in video games.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Forest fires in central Spain activate Starlink aid and paid work leave",
+    "summary": "The fire ravages central Spain, smoke reaches the south of the country, and measures such as Starlink satellite service and paid work leave are activated.",
+    "source": [
+      "bandaancha.eu",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Rare Nintendo Famicombox console discovered in a hotel in Japan",
+    "summary": "The commercial variant, found in a Japanese love hotel, can run 15 games at once and is highly sought after by collectors.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "User installs security system with spikes and Taser on his Steam Deck to prevent battery theft",
+    "summary": "The owner used a Raspberry Pi, a camera, and a taser to prevent his family from draining the device's battery.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia's Vera CPU shows 50% higher performance in automation and chip design tasks",
+    "summary": "Nvidia will use its own Vera CPU design in future graphics and central processors to improve performance in automation tasks.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Hugging Face CEO demands full transparency after OpenAI hack",
+    "summary": "The head of Hugging Face asks OpenAI to reveal all details of the cyberattack suffered to improve security across the industry.",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Graphics card prices rise in China due to memory costs and RTX 50 exceed MSRP by 38%",
+    "summary": "The increase in memory costs and distributor adjustments drive up prices of new graphics cards in China and globally.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   }

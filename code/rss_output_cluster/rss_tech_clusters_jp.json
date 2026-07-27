@@ -1,18 +1,22 @@
 [
   {
-    "title": "Appleはプライバシーを優先し、スマートグラスを2027年まで延期",
-    "summary": "同社はMetaのRay-Banと競争し、他のデバイスに影響を与えたプライバシーの問題を回避することを目指している。",
+    "title": "Apple、プライバシーを優先しスマートグラスを2027年まで延期",
+    "summary": "競合Metaに対抗するため、ユーザーのプライバシーを確保する目的でスマートグラスの発売を延期したと業界筋が報道。",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com",
       "techcrunch.com",
-      "kite.kagi.com"
+      "kite.kagi.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
-    "count": 4
+    "count": 8
   },
   {
-    "title": "NvidiaはOpenAIがオハイオにデータセンターを建設するために2500億ドルを保証する見込み",
-    "summary": "計画にはWSJによると、キャンパス内のチップに資金を提供するための3500億ドルの契約が含まれている可能性がある。",
+    "title": "NvidiaはOpenAIがオハイオ州にデータセンターを設置するため2500億ドルを保証へ",
+    "summary": "Nvidiaはソフトバンクのキャンパスのリース保証とチップ向け資金提供に応じる見込み、WSJ報道。",
     "source": [
       "tomshardware.com",
       "xataka.com",
@@ -21,58 +25,96 @@
     "count": 3
   },
   {
-    "title": "Minecraft Java EditionがVulkan移行に備えRAM要件を16GBに引き上げ",
-    "summary": "17年を経て、ゲームは初めて推奨メモリを引き上げ、古い機器のプレイヤーに影響を与える。",
+    "title": "中国メモリメーカーCXMTが上海証券取引所デビューで460%以上上昇",
+    "summary": "中国の半導体企業が上場初日に460%超の上昇を記録、サーバー向けDDR5メモリでSamsungと価格競争。",
     "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "videocardz.com"
+      "tomshardware.com",
+      "kite.kagi.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "中国のチップメーカーCXMTが上海株式市場デビューで460％以上急騰",
-    "summary": "同社は上場申請によると、HBMではなくDRAM生産に投資を集中する。",
+    "title": "Minecraft Java Editionが17年ぶりにRAM要件を16GBに引き上げ",
+    "summary": "Vulkan移行に伴い17年ぶりにハードウェア仕様を更新。",
     "source": [
-      "tomshardware.com",
       "news.ycombinator.com",
-      "kite.kagi.com"
+      "elchapuzasinformatico.com",
+      "hardzone.es"
     ],
     "count": 3
   },
   {
-    "title": "NVIDIAが将来のプロセッサ設計向けCPU Veraを発表、チップ開発を加速",
-    "summary": "初期テストでは、自動化および設計タスクで最大1.5倍のパフォーマンス向上を示している。",
+    "title": "AMDはZen 7がAM5ソケット最後の世代、AM6とDDR6に移行と確認",
+    "summary": "AMDはZen 7をAI向けに3つのEPYCファミリーに分割、AM6/DDR6移行前にAM5ソケット終了を示唆。",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ユーザーがSteam Deckにスパイクとテーザー銃を設置、家族のバッテリー消費を防止",
-    "summary": "自作のセキュリティシステムにはRaspberry Pi、カメラ、スピーカーが含まれており、「バッテリー泥棒」を追い払う。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hugging FaceのCEO、最近のセキュリティ侵害を受けOpenAIに「徹底的な透明性」を要求",
-    "summary": "Clement Delangue氏はOpenAIに対して、将来のインシデントを防ぐために、受けたハッキングの詳細をすべて開示するよう求めている。",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMDはZen 7がAM6以前でAM5ソケットと互換性のある最後の世代であることを確認",
-    "summary": "同社はZen 7をサーバー向けに3つのEPYCファミリーに分割し、2028年に発売を予定している。",
-    "source": [
       "tomshardware.com",
       "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "PlayStationとXboxにおける物理ディスク終了の議論が激化",
+    "summary": "Rockstar元幹部の発言やSony・Xboxの動きがゲームの物理フォーマット消滅論議を活発化。",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "スペイン中部の森林火災、Starlink支援と有給労働許可を発動",
+    "summary": "火災がスペイン中部を壊滅、煙は南部に到達、Starlink衛星サービスや有給労働許可などの措置が発動。",
+    "source": [
+      "bandaancha.eu",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "日本のホテルでレアなNintendoファミコンボックスを発見",
+    "summary": "日本のラブホテルで見つかった業務用バリエーション、15タイトル同時実行可能でコレクター垂涎。",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ユーザーがSteam Deckにスパイクとテーザー銃のセキュリティシステムを設置、バッテリー盗難防止",
+    "summary": "所有者はRaspberry Pi、カメラ、テーザー銃を使い家族によるバッテリー消耗を防止。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NvidiaのVera CPU、自動化・チップ設計タスクで50%高い性能を実証",
+    "summary": "Nvidiaは将来のGPU・CPUに自社設計Vera CPUを採用、自動化タスクの性能向上を図る。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Hugging Face CEO、OpenAIハッキング受け完全な透明性を要求",
+    "summary": "Hugging Face責任者がOpenAIに対して被害サイバー攻撃の全詳細開示を求め、業界全体のセキュリティ向上を要請。",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "メモリ価格高騰で中国のグラフィックカード価格上昇、RTX 50は希望小売価格を38%超過",
+    "summary": "メモリコスト上昇と流通業者の調整により、中国および全世界で新グラフィックカード価格が高騰。",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   }

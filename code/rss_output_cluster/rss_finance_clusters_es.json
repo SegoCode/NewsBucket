@@ -1,53 +1,97 @@
 [
   {
-    "title": "El crudo se desploma y los mercados globales suben tras la pausa en los ataques entre EE. UU. e Irán",
-    "summary": "La tregua en el estrecho de Ormuz provoca una fuerte caída del petróleo e impulsa a las bolsas de Wall Street, Europa y Asia a nuevos máximos, mientras Japón evalúa su respuesta diplomática.",
+    "title": "El petróleo se desploma tras la pausa en los ataques entre EE. UU. e Irán",
+    "summary": "Los precios del crudo caen a mínimos de una semana después de que Estados Unidos e Irán acordaran detener los ataques en el estrecho de Ormuz, aliviando los temores de suministro.",
     "source": [
+      "finance.yahoo.com",
       "ft.com",
       "handelsblatt.com",
-      "bolsamania.com",
-      "finance.yahoo.com",
-      "expansion.com",
-      "nikkei.com"
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "NewsBucket-005",
+      "NewsBucket-006"
     ],
-    "count": 6
+    "count": 9
   },
   {
-    "title": "El bitcoin se consolida sobre los 65.000 dólares mientras el mercado criptográfico ignora la caída del crudo",
-    "summary": "Inversores acuden al bitcoin como refugio ante la devaluación del dólar, mientras empresas como Strategy y Circle realizan movimientos estratégicos y los futuros perpetuos atraen la atención de Wall Street.",
+    "title": "Bitcoin se consolida sobre los 65.000 dólares ignorando la caída del crudo",
+    "summary": "La criptomoneda líder se mantiene por encima de los 65.000 dólares, sin dejarse afectar por el desplome del petróleo, en una jornada de relativa calma tras la pausa entre Irán y EE. UU.",
     "source": [
-      "investing.com",
-      "finance.yahoo.com",
       "bolsamania.com",
+      "finance.yahoo.com",
       "expansion.com",
-      "handelsblatt.com"
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "NewsBucket-005"
+    ],
+    "count": 8
+  },
+  {
+    "title": "Las acciones de SpaceX se desploman a mínimos históricos ante preocupaciones por el bloqueo de acciones",
+    "summary": "El precio de las acciones de SpaceX cae un 48% en medio de temores por el fin del período de bloqueo para los inversores, mientras los ETF acumulan posiciones y surge una startup europea competidora.",
+    "source": [
+      "finance.yahoo.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
     "count": 5
   },
   {
-    "title": "Las acciones de SpaceX caen un 48% mientras los ETF acumulan posiciones y una startup europea compite por el espacio",
-    "summary": "El interés inversor por el sector espacial se mantiene pese al desplome de la cotización de SpaceX y los desafíos de Elon Musk, con nuevos actores europeos buscando una valoración de 2.000 millones.",
+    "title": "Wall Street cotiza mixto por la tregua entre Irán y EE. UU. y la caída del petróleo",
+    "summary": "Las bolsas estadounidenses registraron movimientos dispares mientras los inversores asimilaban la pausa en el conflicto iraní y el desplome de los precios del crudo, con el Dow Jones y el S&P 500 mostrando ganancias moderadas y el Nasdaq presionado por la caída de los valores tecnológicos.",
     "source": [
+      "handelsblatt.de",
       "nasdaq.com",
-      "ft.com",
-      "expansion.com",
-      "handelsblatt.com"
+      "finance.yahoo.com",
+      "bolsamania.com"
     ],
     "count": 4
   },
   {
-    "title": "El fabricante chino de chips CXMT se dispara un 466% en su debut bursátil en Shanghái",
-    "summary": "La OPI del gigante de semiconductores lo convierte en una de las empresas más valiosas de China, destacando el auge de la industria local de chips en medio de tensiones geopolíticas.",
+    "title": "El DAX cierra en un máximo de tres semanas impulsado por la caída del petróleo",
+    "summary": "El índice alemán sube un 1,30% y alcanza su nivel más alto en tres semanas, liderado por los valores tecnológicos, en un contexto de alivio por la tregua entre Irán y EE. UU.",
     "source": [
       "investing.com",
+      "handelsblatt.de"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El Ibex 35 sube a máximos anuales impulsado por el desplome del petróleo",
+    "summary": "El índice español avanza un 0,80% y toca nuevos máximos intradía, mientras la caída del crudo beneficia a sectores como el transporte y perjudica a empresas energéticas.",
+    "source": [
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El gigante chino de chips CXMT se dispara un 466% en su debut bursátil",
+    "summary": "La empresa de semiconductores CXMT protagoniza una de las mayores ofertas públicas iniciales del año en Asia, con una revalorización cercana al 470% en su primer día de cotización.",
+    "source": [
       "ft.com",
       "handelsblatt.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Las acciones tecnológicas suben ante la expectativa de una semana clave de resultados impulsados por la IA",
-    "summary": "La fuerte demanda de infraestructura para centros de datos impulsa a valores como Nvidia, Intel y otras firmas antes de sus informes trimestrales.",
+    "title": "El gobernador del banco central de Indonesia dimite y el Gobierno pide calma",
+    "summary": "La inesperada renuncia del jefe del banco central indonesio provoca incertidumbre en los mercados, mientras las autoridades intentan tranquilizar a los inversores.",
+    "source": [
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple recupera el título de empresa más valiosa y marca un nuevo récord histórico",
+    "summary": "Las acciones de Apple alcanzan un máximo histórico y superan a Nvidia en capitalización bursátil, en vísperas de la presentación de resultados del tercer trimestre fiscal.",
     "source": [
       "finance.yahoo.com",
       "nasdaq.com"
@@ -55,38 +99,38 @@
     "count": 2
   },
   {
-    "title": "Porsche acelera su reestructuración y prevé recortar 9.000 empleos hasta 2035",
-    "summary": "El fabricante automovilístico alemán intensifica su plan de ajuste para adaptarse a la transición hacia el vehículo eléctrico y mejorar su rentabilidad.",
+    "title": "Las acciones de computación cuántica suben tras el acuerdo de D-Wave con AT&T",
+    "summary": "D-Wave lidera las ganancias en el sector de computación cuántica después de que AT&T expandiera su acuerdo, mientras los inversores analizan las perspectivas de cuatro empresas del sector que salieron a bolsa.",
     "source": [
-      "investing.com",
-      "finance.yahoo.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Cracker Barrel nombra a David Deno como nuevo consejero delegado",
-    "summary": "El cambio en la cúpula directiva busca relanzar la cadena de restaurantes, aunque la noticia provoca una caída inicial en sus acciones.",
-    "source": [
-      "investing.com",
+      "finance.yahoo.com",
       "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "Fanatics adquiere los activos bursátiles de BGC Group para crear un mercado de predicción",
-    "summary": "La empresa de artículos deportivos expande su negocio hacia las apuestas y los mercados financieros con la compra de la cámara de compensación y la bolsa de BGC.",
+    "title": "Las próximas ganancias de Enterprise Products Partners podrían disparar sus acciones",
+    "summary": "Los analistas anticipan que el informe de resultados del 30 de julio impulse el precio de Enterprise Products Partners, gracias a sus sólidos fundamentos y perspectivas de crecimiento.",
     "source": [
-      "nasdaq.com",
-      "finance.yahoo.com"
+      "finance.yahoo.com",
+      "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "El gobernador del banco central de Indonesia dimite y el gobierno pide calma a los mercados",
-    "summary": "La renuncia inesperada del máximo responsable monetario sacude la confianza en la economía del país y provoca un llamamiento a la estabilidad por parte del ejecutivo.",
+    "title": "¿Podría comprar acciones de Visa hoy asegurar su futuro financiero?",
+    "summary": "Un análisis explora el potencial de Visa como inversión a largo plazo, destacando su dominio en pagos electrónicos y su capacidad de crecimiento sostenido.",
     "source": [
-      "handelsblatt.com",
-      "ft.com"
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "¿Es Intel una compra tras su último informe de resultados?",
+    "summary": "Los expertos evalúan las perspectivas de Intel después de sus últimas ganancias, considerando los desafíos y oportunidades en el mercado de semiconductores.",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
     ],
     "count": 2
   }

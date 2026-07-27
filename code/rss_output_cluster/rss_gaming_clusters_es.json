@@ -1,80 +1,113 @@
 [
   {
-    "title": "STALKER 2 lanza su primera gran expansión 'Cost of Hope' el 20 de agosto",
-    "summary": "El DLC incluye decenas de horas de contenido adicional y una actualización gratuita 2.0, confirmada por cinco medios especializados.",
+    "title": "STALKER 2: Heart of Chornobyl lanzará su primera expansión 'Cost of Hope' el 20 de agosto",
+    "summary": "La expansión principal, junto con la actualización gratuita 2.0, llegará en agosto, ofreciendo docenas de horas de contenido adicional.",
     "source": [
       "3djuegos.com",
       "gematsu.com",
       "rockpapershotgun.com",
       "pcgamer.com",
-      "gamespot.com"
+      "gamespot.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "NewsBucket-005"
     ],
-    "count": 5
+    "count": 10
   },
   {
-    "title": "Malware en 'Meccha Chameleon' permite a atacantes tomar el control de los PC de los jugadores",
-    "summary": "El juego de Steam fue víctima de un ataque a través de mapas de usuario y su servidor de Discord fue comprometido; los desarrolladores lanzaron parches de seguridad.",
+    "title": "Malware en Meccha Chameleon permite a atacantes tomar el control de los PC",
+    "summary": "Los mapas creados por usuarios y el servidor del juego fueron infectados, comprometiendo la seguridad de los jugadores antes de que se lanzaran parches.",
     "source": [
-      "polygon.com",
       "eurogamer.net",
       "pcgamer.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 6
+  },
+  {
+    "title": "The Pokémon Company usará reconocimiento facial en tiendas para combatir la reventa de cartas",
+    "summary": "La compañía implementará escáneres faciales en tiendas japonesas para verificar la identidad de los compradores y evitar la reventa.",
+    "source": [
+      "polygon.com",
+      "pcgamer.com",
+      "gamespot.com",
+      "kotaku.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Marvel Tōkon: Fighting Souls enfrenta problemas técnicos en PC y Arc System Works se disculpa",
+    "summary": "La beta abierta del juego de lucha sufrió graves problemas de rendimiento, lo que llevó al estudio a emitir disculpas públicas.",
+    "source": [
+      "pcgamer.com",
+      "eurogamer.net",
+      "rockpapershotgun.com",
       "kite.kagi.com"
     ],
     "count": 4
   },
   {
-    "title": "La red de Xbox sufre una caída masiva que impide jugar títulos digitales y físicos",
-    "summary": "El fallo, que duró varias horas, afectó a todos los servicios online de la consola, de forma similar al apagón de PlayStation de la semana anterior.",
+    "title": "Square Enix insinúa más remakes de Final Fantasy y posible nuevo director para la saga",
+    "summary": "El productor de Final Fantasy habla sobre los obstáculos para futuros remakes y se especula sobre el director de la próxima entrega principal.",
     "source": [
+      "polygon.com",
+      "gamespot.com",
       "kotaku.com",
-      "eurogamer.net",
-      "gamespot.com"
+      "eurogamer.net"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Jugadores de PlayStation convocan un apagón de una semana en protesta por el fin de los discos físicos",
-    "summary": "La iniciativa, que pide apagar las PS5 durante una semana, surge tras los rumores de que Sony eliminará la unidad de disco en su próxima consola.",
+    "title": "Capcom planea lanzar un Resident Evil cada año y apuesta por los remakes",
+    "summary": "La estrategia de Capcom incluye remakes de la saga para mantener el interés entre los lanzamientos principales, como Pragmata.",
     "source": [
-      "kotaku.com",
       "eurogamer.net",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Cyan Worlds muestra el prototipo de una secuela cancelada de Myst",
-    "summary": "El proyecto 'Project Anglerfish' nunca llegó a producirse pero ahora se han revelado sus primeras imágenes y detalles.",
-    "source": [
-      "rockpapershotgun.com",
-      "eurogamer.net",
-      "kotaku.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Capcom confirma su objetivo de lanzar un Resident Evil cada año con remakes como pilar fundamental",
-    "summary": "La estrategia permitirá mantener la franquicia activa mientras se desarrollan otros títulos como Pragmata, según Kotaku, PC Gamer y 3DJuegos.",
-    "source": [
       "3djuegos.com",
       "pcgamer.com",
       "kotaku.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "El rendimiento en PC de 'Marvel Tōkon: Fighting Souls' provoca disculpas oficiales de Arc System Works",
-    "summary": "La beta abierta del juego de lucha presentó graves problemas técnicos que afectaron a los jugadores de PC.",
+    "title": "Los servidores de Xbox sufren una caída global que bloquea el acceso a juegos digitales y físicos",
+    "summary": "La interrupción del servicio Xbox Network afectó a millones de jugadores, impidiéndoles jugar títulos tanto digitales como físicos.",
     "source": [
-      "rockpapershotgun.com",
+      "polygon.com",
+      "kotaku.com",
       "eurogamer.net",
+      "gamespot.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Fans de PlayStation convocan un 'apagón' de una semana en protesta por el posible fin de los discos físicos",
+    "summary": "La comunidad organiza un boicot apagando sus consolas para mostrar su rechazo a la estrategia digital de Sony, tras los rumores de que PlayStation dejará de fabricar discos.",
+    "source": [
+      "3djuegos.com",
+      "kotaku.com",
+      "eurogamer.net",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Miyamoto opina que a los jugadores ya no les importan las especificaciones técnicas de las consolas",
+    "summary": "El veterano diseñador de Nintendo cree que la compañía debe centrarse en ofrecer una jugabilidad única en lugar de competir en potencia bruta.",
+    "source": [
+      "eurogamer.net",
+      "kotaku.com",
       "kite.kagi.com"
     ],
     "count": 3
   },
   {
-    "title": "El remake de Halo lidera las ventas en Japón y esconde un final secreto sobre el futuro de la saga",
-    "summary": "La versión remasterizada del clásico alcanzó el primer puesto en la lista semanal japonesa y contiene un mensaje críptico.",
+    "title": "El remake de Halo encabeza los lanzamientos en Japón y contiene un final secreto sobre el futuro de la franquicia",
+    "summary": "Halo: Campaign Evolved lidera las ventas japonesas, mientras que un final oculto en el juego insinúa lo que está por venir en la serie.",
     "source": [
       "gematsu.com",
       "kite.kagi.com",
@@ -83,26 +116,45 @@
     "count": 3
   },
   {
-    "title": "Square Enix deja entrever el director del próximo Final Fantasy principal",
-    "summary": "Medios como Polygon y Kotaku especulan sobre quién dirigirá la nueva entrega, mientras los aficionados respaldan al responsable de FF7 Remake.",
+    "title": "Cyan Worlds muestra un prototipo cancelado de Myst y un tráiler de una secuela que nunca se lanzará",
+    "summary": "Los desarrolladores de Myst revelan material de un proyecto abandonado y un teaser de un nuevo juego que no verá la luz.",
     "source": [
-      "polygon.com",
+      "rockpapershotgun.com",
+      "eurogamer.net",
+      "kotaku.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Splatoon Raiders arrasa en Metacritic y en las listas de ventas del Reino Unido",
+    "summary": "El juego recibe altas calificaciones de los usuarios y desbanca a Assassin's Creed Shadows en los charts británicos.",
+    "source": [
+      "kotaku.com",
+      "nintendolife.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Baldur's Gate 3: un mod de cámara en tercera persona divide a la comunidad de PC",
+    "summary": "Los jugadores discuten si el mod mejora la experiencia o atenta contra la visión original de Larian Studios.",
+    "source": [
+      "eurogamer.net",
       "kotaku.com"
     ],
     "count": 2
   },
   {
-    "title": "Square Enix estudia expandir los remakes de Final Fantasy a cuatro o cinco entregas",
-    "summary": "Gamespot y Eurogamer reportan que la compañía planea versiones más ambiciosas de juegos clásicos, superando a la trilogía de FF7.",
+    "title": "Un viejo juego de Steam se vuelve viral al permitir jugar a Undertale en multijugador online",
+    "summary": "El título 'Crashphalt' se convierte en un éxito inesperado al ser usado por los fans para jugar a Undertale en línea.",
     "source": [
-      "gamespot.com",
-      "eurogamer.net"
+      "kotaku.com",
+      "rockpapershotgun.com"
     ],
     "count": 2
   },
   {
-    "title": "Final Fantasy XIV recibirá dos grandes actualizaciones en su sistema de viviendas",
-    "summary": "Los cambios buscan equiparar el juego con World of Warcraft, según PC Gamer y Kite Kagi.",
+    "title": "Final Fantasy 14 planea dos grandes reformas en su sistema de viviendas",
+    "summary": "Square Enix anuncia cambios importantes para mejorar el sistema de casas, una de las peticiones más solicitadas por los jugadores.",
     "source": [
       "pcgamer.com",
       "kite.kagi.com"
@@ -110,8 +162,8 @@
     "count": 2
   },
   {
-    "title": "El actor de la película de Zelda rompe el silencio sobre su papel y su experiencia con Breath of the Wild",
-    "summary": "El intérprete de Link comparte sus recuerdos jugando al título de Nintendo y habla sobre los desafíos del rodaje.",
+    "title": "El actor de la película de Zelda habla sobre su papel y su experiencia con Breath of the Wild",
+    "summary": "El intérprete de Link comparte sus recuerdos del juego y cómo influyeron en su actuación para la película.",
     "source": [
       "nintendolife.com",
       "kite.kagi.com"
@@ -119,11 +171,11 @@
     "count": 2
   },
   {
-    "title": "Miyamoto opina que los jugadores ya no se interesan por las especificaciones técnicas de las consolas",
-    "summary": "El creativo de Nintendo cree que la experiencia de juego es ahora más importante que los datos de hardware, según Kotaku y Kite Kagi.",
+    "title": "Dan Houser, cofundador de Rockstar, defiende la venta de juegos en disco físico",
+    "summary": "El escritor de GTA y Red Dead Redemption insta a las compañías a ofrecer discos si los jugadores los quieren, en medio del debate sobre el futuro digital.",
     "source": [
-      "kotaku.com",
-      "kite.kagi.com"
+      "eurogamer.net",
+      "kotaku.com"
     ],
     "count": 2
   }

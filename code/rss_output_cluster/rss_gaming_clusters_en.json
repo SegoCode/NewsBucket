@@ -1,80 +1,113 @@
 [
   {
-    "title": "STALKER 2 launches its first major expansion 'Cost of Hope' on August 20",
-    "summary": "The DLC includes dozens of hours of additional content and a free update 2.0, confirmed by five specialized media outlets.",
+    "title": "STALKER 2: Heart of Chornobyl to launch its first expansion 'Cost of Hope' on August 20",
+    "summary": "The main expansion, along with free update 2.0, will arrive in August, offering dozens of hours of additional content.",
     "source": [
       "3djuegos.com",
       "gematsu.com",
       "rockpapershotgun.com",
       "pcgamer.com",
-      "gamespot.com"
+      "gamespot.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "NewsBucket-005"
     ],
-    "count": 5
+    "count": 10
   },
   {
-    "title": "Malware in 'Meccha Chameleon' allows attackers to take control of players' PCs",
-    "summary": "The Steam game fell victim to an attack through user maps and its Discord server was compromised; developers released security patches.",
+    "title": "Malware in Meccha Chameleon allows attackers to take control of PCs",
+    "summary": "User-created maps and the game server were infected, compromising players' security before patches were released.",
     "source": [
-      "polygon.com",
       "eurogamer.net",
       "pcgamer.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 6
+  },
+  {
+    "title": "The Pokémon Company to use facial recognition in stores to combat card reselling",
+    "summary": "The company will implement facial scanners in Japanese stores to verify buyers' identities and prevent resale.",
+    "source": [
+      "polygon.com",
+      "pcgamer.com",
+      "gamespot.com",
+      "kotaku.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Marvel Tōkon: Fighting Souls faces technical issues on PC and Arc System Works apologizes",
+    "summary": "The open beta of the fighting game suffered severe performance issues, leading the studio to issue a public apology.",
+    "source": [
+      "pcgamer.com",
+      "eurogamer.net",
+      "rockpapershotgun.com",
       "kite.kagi.com"
     ],
     "count": 4
   },
   {
-    "title": "Xbox network suffers massive outage preventing playing digital and physical titles",
-    "summary": "The failure, which lasted several hours, affected all online services of the console, similar to the PlayStation outage the previous week.",
+    "title": "Square Enix hints at more Final Fantasy remakes and possible new director for the saga",
+    "summary": "The Final Fantasy producer discusses obstacles to future remakes and speculation about the director of the next main entry.",
     "source": [
+      "polygon.com",
+      "gamespot.com",
       "kotaku.com",
-      "eurogamer.net",
-      "gamespot.com"
+      "eurogamer.net"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "PlayStation players call for a week-long blackout in protest of the end of physical discs",
-    "summary": "The initiative, which asks to turn off PS5s for a week, arises after rumors that Sony will remove the disc drive in its next console.",
+    "title": "Capcom plans to release a Resident Evil each year and bets on remakes",
+    "summary": "Capcom's strategy includes remakes of the saga to maintain interest between major releases, such as Pragmata.",
     "source": [
-      "kotaku.com",
       "eurogamer.net",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Cyan Worlds shows prototype of a canceled Myst sequel",
-    "summary": "The project 'Project Anglerfish' never came to be but now its first images and details have been revealed.",
-    "source": [
-      "rockpapershotgun.com",
-      "eurogamer.net",
-      "kotaku.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Capcom confirms its goal of releasing a Resident Evil every year with remakes as a fundamental pillar",
-    "summary": "The strategy will keep the franchise active while other titles like Pragmata are developed, according to Kotaku, PC Gamer and 3DJuegos.",
-    "source": [
       "3djuegos.com",
       "pcgamer.com",
       "kotaku.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "PC performance of 'Marvel Tōkon: Fighting Souls' prompts official apologies from Arc System Works",
-    "summary": "The open beta of the fighting game presented serious technical issues that affected PC players.",
+    "title": "Xbox servers suffer a global outage that blocks access to digital and physical games",
+    "summary": "The Xbox Network service interruption affected millions of players, preventing them from playing both digital and physical titles.",
     "source": [
-      "rockpapershotgun.com",
+      "polygon.com",
+      "kotaku.com",
       "eurogamer.net",
+      "gamespot.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "PlayStation fans call for a week-long 'blackout' in protest against the possible end of physical discs",
+    "summary": "The community organizes a boycott by turning off their consoles to show their rejection of Sony's digital strategy, after rumors that PlayStation will stop manufacturing discs.",
+    "source": [
+      "3djuegos.com",
+      "kotaku.com",
+      "eurogamer.net",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Miyamoto believes that players no longer care about console technical specifications",
+    "summary": "The veteran Nintendo designer believes the company should focus on offering unique gameplay instead of competing in raw power.",
+    "source": [
+      "eurogamer.net",
+      "kotaku.com",
       "kite.kagi.com"
     ],
     "count": 3
   },
   {
-    "title": "Halo remake leads sales in Japan and hides a secret ending about the future of the saga",
-    "summary": "The remastered version of the classic reached first place on the Japanese weekly chart and contains a cryptic message.",
+    "title": "The Halo remake tops releases in Japan and contains a secret ending about the franchise's future",
+    "summary": "Halo: Campaign Evolved leads Japanese sales, while a hidden ending in the game hints at what's to come in the series.",
     "source": [
       "gematsu.com",
       "kite.kagi.com",
@@ -83,26 +116,45 @@
     "count": 3
   },
   {
-    "title": "Square Enix hints at the director of the next main Final Fantasy",
-    "summary": "Media outlets like Polygon and Kotaku speculate on who will direct the new installment, while fans support the person behind FF7 Remake.",
+    "title": "Cyan Worlds shows a canceled Myst prototype and a trailer for a sequel that will never be released",
+    "summary": "The developers of Myst reveal material from an abandoned project and a teaser for a new game that will not see the light of day.",
     "source": [
-      "polygon.com",
+      "rockpapershotgun.com",
+      "eurogamer.net",
+      "kotaku.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Splatoon Raiders dominates Metacritic and UK sales charts",
+    "summary": "The game receives high user ratings and dethrones Assassin's Creed Shadows on the British charts.",
+    "source": [
+      "kotaku.com",
+      "nintendolife.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Baldur's Gate 3: a third-person camera mod divides the PC community",
+    "summary": "Players debate whether the mod improves the experience or goes against Larian Studios' original vision.",
+    "source": [
+      "eurogamer.net",
       "kotaku.com"
     ],
     "count": 2
   },
   {
-    "title": "Square Enix considers expanding Final Fantasy remakes to four or five installments",
-    "summary": "Gamespot and Eurogamer report that the company plans more ambitious versions of classic games, surpassing the FF7 trilogy.",
+    "title": "An old Steam game goes viral by allowing players to play Undertale in online multiplayer",
+    "summary": "The title 'Crashphalt' becomes an unexpected success as it is used by fans to play Undertale online.",
     "source": [
-      "gamespot.com",
-      "eurogamer.net"
+      "kotaku.com",
+      "rockpapershotgun.com"
     ],
     "count": 2
   },
   {
-    "title": "Final Fantasy XIV will receive two major updates to its housing system",
-    "summary": "The changes aim to bring the game on par with World of Warcraft, according to PC Gamer and Kite Kagi.",
+    "title": "Final Fantasy 14 plans two major reforms to its housing system",
+    "summary": "Square Enix announces major changes to improve the housing system, one of the most requested features by players.",
     "source": [
       "pcgamer.com",
       "kite.kagi.com"
@@ -110,8 +162,8 @@
     "count": 2
   },
   {
-    "title": "The actor from the Zelda movie breaks silence over his role and his experience with Breath of the Wild",
-    "summary": "The actor playing Link shares his memories of playing the Nintendo title and talks about the challenges of filming.",
+    "title": "The actor from the Zelda movie talks about his role and his experience with Breath of the Wild",
+    "summary": "The actor playing Link shares his memories of the game and how they influenced his performance for the movie.",
     "source": [
       "nintendolife.com",
       "kite.kagi.com"
@@ -119,11 +171,11 @@
     "count": 2
   },
   {
-    "title": "Miyamoto thinks players are no longer interested in technical specifications of consoles",
-    "summary": "The Nintendo creative believes that the gaming experience is now more important than hardware specs, according to Kotaku and Kite Kagi.",
+    "title": "Dan Houser, co-founder of Rockstar, defends the sale of games on physical disc",
+    "summary": "The writer of GTA and Red Dead Redemption urges companies to offer discs if gamers want them, amid the debate about the digital future.",
     "source": [
-      "kotaku.com",
-      "kite.kagi.com"
+      "eurogamer.net",
+      "kotaku.com"
     ],
     "count": 2
   }

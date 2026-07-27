@@ -1,80 +1,113 @@
 [
   {
-    "title": "STALKER 2、初の大型拡張パック『Cost of Hope』を8月20日に発売",
-    "summary": "このDLCには何十時間もの追加コンテンツと無料アップデート2.0が含まれており、5つの専門メディアが確認しています。",
+    "title": "STALKER 2: Heart of Chornobyl 初の拡張パック『Cost of Hope』を8月20日にリリース",
+    "summary": "メイン拡張パックは無料アップデート2.0と共に8月に提供され、数十時間に及ぶ追加コンテンツを提供する。",
     "source": [
       "3djuegos.com",
       "gematsu.com",
       "rockpapershotgun.com",
       "pcgamer.com",
-      "gamespot.com"
+      "gamespot.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "NewsBucket-005"
     ],
-    "count": 5
+    "count": 10
   },
   {
-    "title": "「Meccha Chameleon」にマルウェア、攻撃者がプレイヤーのPCを乗っ取る可能性",
-    "summary": "Steamのゲームがユーザー作成マップを通じて攻撃を受け、Discordサーバーも侵害されました。開発者はセキュリティパッチをリリースしました。",
+    "title": "『Meccha Chameleon』のマルウェアにより攻撃者がPCを制御可能に",
+    "summary": "ユーザー作成のマップとゲームサーバーが感染し、パッチがリリースされる前にプレイヤーのセキュリティが危険にさらされた。",
     "source": [
-      "polygon.com",
       "eurogamer.net",
       "pcgamer.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 6
+  },
+  {
+    "title": "ポケモン社、店舗での顔認識を導入しカード転売を防止",
+    "summary": "同社は日本の店舗に顔認識スキャナーを導入し、購入者の身元確認と転売防止を図る。",
+    "source": [
+      "polygon.com",
+      "pcgamer.com",
+      "gamespot.com",
+      "kotaku.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "『Marvel Tōkon: Fighting Souls』がPCで技術的問題に直面、Arc System Worksが謝罪",
+    "summary": "格闘ゲームのオープンベータ版が深刻なパフォーマンス問題に見舞われ、スタジオが公に謝罪する事態となった。",
+    "source": [
+      "pcgamer.com",
+      "eurogamer.net",
+      "rockpapershotgun.com",
       "kite.kagi.com"
     ],
     "count": 4
   },
   {
-    "title": "Xboxネットワークが大規模障害、デジタル版とパッケージ版の両方がプレイ不可に",
-    "summary": "この障害は数時間続き、先週のPlayStation障害と同様に、コンソールの全オンラインサービスに影響を与えました。",
+    "title": "スクウェア・エニックス、さらなるファイナルファンタジーリメイクと新ディレクターの可能性を示唆",
+    "summary": "ファイナルファンタジーのプロデューサーが今後のリメイクにおける課題について語り、次期メインタイトルのディレクターに関する憶測が広がっている。",
     "source": [
+      "polygon.com",
+      "gamespot.com",
       "kotaku.com",
-      "eurogamer.net",
-      "gamespot.com"
+      "eurogamer.net"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "PlayStationユーザーが物理ディスク廃止に抗議、1週間の電源オフを呼びかけ",
-    "summary": "PS5を1週間オフにするよう求めるこの取り組みは、ソニーが次世代機でディスクドライブを廃止するという噂を受けて生まれました。",
+    "title": "カプコン、毎年『バイオハザード』をリリースする計画でリメイクに注力",
+    "summary": "カプコンの戦略には、『Pragmata』のようなメインリリースの間も関心を維持するためにシリーズのリメイクが含まれている。",
     "source": [
-      "kotaku.com",
       "eurogamer.net",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Cyan Worlds、『Myst』の続編として中止されたプロトタイプを公開",
-    "summary": "『Project Anglerfish』は製品化されることはありませんでしたが、最初の画像と詳細が明らかになりました。",
-    "source": [
-      "rockpapershotgun.com",
-      "eurogamer.net",
-      "kotaku.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "カプコン、リメイクを柱に『バイオハザード』を毎年リリースする目標を確認",
-    "summary": "この戦略により、『Pragmata』などの他のタイトルを開発しながらフランチャイズを活発に維持できると、Kotaku、PC Gamer、3DJuegosが報じています。",
-    "source": [
       "3djuegos.com",
       "pcgamer.com",
       "kotaku.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "『Marvel Tōkon: Fighting Souls』のPC版パフォーマンス問題でArc System Worksが公式謝罪",
-    "summary": "この格闘ゲームのオープンベータ版では、PCプレイヤーに影響を与える深刻な技術的問題が発生しました。",
+    "title": "Xboxサーバーが世界規模でダウン、デジタル版・物理版ゲームへのアクセスが不可能に",
+    "summary": "Xbox Networkサービスの障害により数百万人のプレイヤーが影響を受け、デジタル版と物理版の両方のタイトルをプレイできなくなった。",
     "source": [
-      "rockpapershotgun.com",
+      "polygon.com",
+      "kotaku.com",
       "eurogamer.net",
+      "gamespot.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "PlayStationファンが物理ディスク終了の可能性に抗議して1週間の『停電』を呼びかけ",
+    "summary": "コミュニティは、PlayStationがディスク製造を終了するという噂を受け、ソニーのデジタル戦略への反対を示すためにコンソールの電源を切るボイコットを実施する。",
+    "source": [
+      "3djuegos.com",
+      "kotaku.com",
+      "eurogamer.net",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "宮本茂氏、ゲーマーはもはやコンソールのスペックを気にしていないと語る",
+    "summary": "任天堂のベテランデザイナーは、同社が生の性能で競うのではなく、独自のゲームプレイを提供することに注力すべきだと考えている。",
+    "source": [
+      "eurogamer.net",
+      "kotaku.com",
       "kite.kagi.com"
     ],
     "count": 3
   },
   {
-    "title": "『Halo』リメイクが日本で販売首位、シリーズの未来を示唆する秘密のエンディングが存在",
-    "summary": "クラシックのリマスター版が日本の週間チャートで首位を獲得し、謎めいたメッセージが含まれています。",
+    "title": "『Halo』リメイクが日本での発売をリード、フランチャイズの未来をほのめかすシークレットエンディングを収録",
+    "summary": "『Halo: Campaign Evolved』が日本の売上をリードし、ゲーム内の隠されたエンディングがシリーズの今後を示唆している。",
     "source": [
       "gematsu.com",
       "kite.kagi.com",
@@ -83,26 +116,45 @@
     "count": 3
   },
   {
-    "title": "スクウェア・エニックス、次期メイン『ファイナルファンタジー』のディレクターを示唆",
-    "summary": "PolygonやKotakuなどのメディアが新作の監督について憶測を巡らせる一方、ファンはFF7リメイクの担当者を支持しています。",
+    "title": "Cyan Worlds、開発中止となった『Myst』のプロトタイプと、リリースされない続編のトレイラーを公開",
+    "summary": "『Myst』の開発元が、中止されたプロジェクトの資料と、お披露目されることのない新作ゲームのティーザーを公開した。",
     "source": [
-      "polygon.com",
+      "rockpapershotgun.com",
+      "eurogamer.net",
+      "kotaku.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Splatoon RaidersがMetacriticと英国販売チャートで大健闘",
+    "summary": "このゲームはユーザーから高い評価を受け、英国チャートで『Assassin's Creed Shadows』を打ち負かした。",
+    "source": [
+      "kotaku.com",
+      "nintendolife.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "『Baldur's Gate 3』：サードパーソンカメラMODがPCコミュニティを二分",
+    "summary": "プレイヤーたちは、このMODが体験を向上させるのか、それともLarian Studiosの本来のビジョンに反するのかについて議論している。",
+    "source": [
+      "eurogamer.net",
       "kotaku.com"
     ],
     "count": 2
   },
   {
-    "title": "スクウェア・エニックス、『ファイナルファンタジー』リメイクを4～5作品に拡大する検討",
-    "summary": "GamespotとEurogamerは、同社がFF7の3部作を超える、クラシックゲームのより野心的なバージョンを計画していると報じています。",
+    "title": "Steamの古いゲームが『Undertale』をオンラインマルチプレイでプレイ可能にし話題に",
+    "summary": "『Crashphalt』というタイトルが、ファンによってオンラインで『Undertale』をプレイするために使用され、予想外の成功を収めた。",
     "source": [
-      "gamespot.com",
-      "eurogamer.net"
+      "kotaku.com",
+      "rockpapershotgun.com"
     ],
     "count": 2
   },
   {
-    "title": "『ファイナルファンタジーXIV』、ハウジングシステムに2つの大型アップデート",
-    "summary": "PC GamerとKite Kagiによると、これらの変更は『World of Warcraft』に匹敵することを目指しています。",
+    "title": "『ファイナルファンタジー14』、ハウジングシステムに2つの大規模な改革を計画",
+    "summary": "スクウェア・エニックスは、プレイヤーから最も要望の多かったハウジングシステムを改善するための重要な変更を発表した。",
     "source": [
       "pcgamer.com",
       "kite.kagi.com"
@@ -110,8 +162,8 @@
     "count": 2
   },
   {
-    "title": "『ゼルダ』映画の俳優が自身の役柄と『ブレス オブ ザ ワイルド』の経験について沈黙を破る",
-    "summary": "リンク役の俳優が、任天堂のタイトルをプレイした思い出を語り、撮影の課題について話します。",
+    "title": "『ゼルダ』映画の俳優が自身の役柄と『ブレス オブ ザ ワイルド』の体験について語る",
+    "summary": "リンク役の俳優が、ゲームでの思い出とそれが映画での演技にどのように影響したかを共有している。",
     "source": [
       "nintendolife.com",
       "kite.kagi.com"
@@ -119,11 +171,11 @@
     "count": 2
   },
   {
-    "title": "宮本茂氏、プレイヤーはもはやコンソールのスペックに関心がないとの見解",
-    "summary": "任天堂のクリエイターは、ハードウェアの仕様よりもゲーム体験が重要だと述べており、KotakuとKite Kagiが伝えています。",
+    "title": "Rockstar共同設立者のDan Houser、ゲームのパッケージ販売を擁護",
+    "summary": "『GTA』と『レッド・デッド・リデンプション』のライターは、デジタル化の未来をめぐる議論の中で、プレイヤーが望むのであれば企業はディスクを提供すべきだと主張している。",
     "source": [
-      "kotaku.com",
-      "kite.kagi.com"
+      "eurogamer.net",
+      "kotaku.com"
     ],
     "count": 2
   }
