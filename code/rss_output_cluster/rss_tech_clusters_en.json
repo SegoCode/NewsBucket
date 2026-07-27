@@ -1,22 +1,27 @@
 [
   {
-    "title": "Apple delays its smart glasses until 2027 to prioritize privacy",
-    "summary": "Apple postpones the launch of its smart glasses to ensure user privacy against competitors like Meta, according to industry sources.",
+    "title": "Chinese memory manufacturer CXMT soars 466% in Shanghai stock market debut",
+    "summary": "The Chinese DRAM company debuted on the stock exchange with a record rise, allocating funds to memory production.",
     "source": [
-      "xataka.com",
       "elchapuzasinformatico.com",
-      "techcrunch.com",
-      "kite.kagi.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
+      "tomshardware.com",
+      "kite.kagi.com"
     ],
-    "count": 8
+    "count": 3
   },
   {
-    "title": "Nvidia would back $250 billion for OpenAI to install a data center in Ohio",
-    "summary": "Nvidia would be willing to guarantee the lease of SoftBank's campus and provide chip financing, according to the Wall Street Journal.",
+    "title": "Microsoft launches its own cybersecurity model MAI-Cyber-1 along with an agentic system",
+    "summary": "The AI model strengthens Microsoft's security, although it still resorts to OpenAI for the most demanding tasks.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia considers backing $250 billion for OpenAI's data center in Ohio",
+    "summary": "A potential deal would allow OpenAI to lease SoftBank's 10-gigawatt campus with financial backing from Nvidia.",
     "source": [
       "tomshardware.com",
       "xataka.com",
@@ -25,48 +30,66 @@
     "count": 3
   },
   {
-    "title": "Chinese memory manufacturer CXMT rises more than 460% on its debut on the Shanghai Stock Exchange",
-    "summary": "The Chinese semiconductor company debuted on the stock market with a rise of over 460% and already competes in price with Samsung in DDR5 server memory.",
+    "title": "A gamer builds a Steam Deck with spikes, taser, and Raspberry Pi to prevent family from using it",
+    "summary": "The security system includes 3D spikes, a stun gun, and a Raspberry Pi with an alarm to protect the device's battery.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Minecraft Java Edition increases RAM requirements for the first time in 17 years to 16 GB",
+    "summary": "The game raises recommended memory from 4 to 16 GB ahead of the transition to Vulkan, affecting players with older hardware.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD confirms Zen 7 will be the last generation for AM5 socket and Zen 8 will require AM6 and DDR6",
+    "summary": "AMD's roadmap predicts that Zen 7 processors will complete the life of AM5, while Zen 8 will jump to AM6 and DDR6, with three EPYC families for 2028.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple delays its smart glasses until late 2027 to solve privacy issues",
+    "summary": "The company seeks to differentiate itself from Meta's Ray-Ban by guaranteeing privacy, delaying the launch to overcome technical challenges.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Chinese AI Moonshot releases open weights of its Kimi-K3 model and competes with OpenAI",
+    "summary": "The open model Kimi-K3 offers performance nearly equal to frontier models at up to three times lower computational cost.",
     "source": [
       "tomshardware.com",
-      "kite.kagi.com",
-      "elchapuzasinformatico.com"
+      "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Minecraft Java Edition increases its RAM requirements to 16 GB after 17 years",
-    "summary": "The game updates hardware specifications for the first time in 17 years ahead of the transition to Vulkan.",
+    "title": "Xbox online services suffer global outage days after PlayStation disruption",
+    "summary": "The Xbox service outage affected users worldwide, reigniting debate about reliance on digital games.",
     "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com",
-      "hardzone.es"
+      "xataka.com",
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "AMD confirmed that Zen 7 will be the last generation of the AM5 socket before moving to AM6 and DDR6",
-    "summary": "AMD plans to split Zen 7 into three EPYC families for AI and mark the end of the AM5 socket before the arrival of AM6 and DDR6.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "The debate over the end of physical discs on PlayStation and Xbox intensifies",
-    "summary": "Statements from a former Rockstar executive and actions by Sony and Xbox fuel the debate around the disappearance of physical format in video games.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Forest fires in central Spain activate Starlink aid and paid work leave",
-    "summary": "The fire ravages central Spain, smoke reaches the south of the country, and measures such as Starlink satellite service and paid work leave are activated.",
+    "title": "Forest fires in central Spain mobilize Starlink and trigger emergency labor measures",
+    "summary": "Smoke from fires in Madrid, Ávila, and Toledo crosses the peninsula, Starlink offers free internet, and the government grants four days of paid leave.",
     "source": [
       "bandaancha.eu",
       "xataka.com"
@@ -74,26 +97,17 @@
     "count": 2
   },
   {
-    "title": "Rare Nintendo Famicombox console discovered in a hotel in Japan",
-    "summary": "The commercial variant, found in a Japanese love hotel, can run 15 games at once and is highly sought after by collectors.",
+    "title": "European payment system Wero advances with Decathlon and Lidl joining",
+    "summary": "Wero, the alternative to Visa and Mastercard promoted by European banks, gains ground as it is adopted by large retail chains.",
     "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "User installs security system with spikes and Taser on his Steam Deck to prevent battery theft",
-    "summary": "The owner used a Raspberry Pi, a camera, and a taser to prevent his family from draining the device's battery.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nvidia's Vera CPU shows 50% higher performance in automation and chip design tasks",
-    "summary": "Nvidia will use its own Vera CPU design in future graphics and central processors to improve performance in automation tasks.",
+    "title": "MSI and Colorful raise RTX 50 prices in China by up to 38% above recommended price",
+    "summary": "The rise in memory and component costs forces manufacturers to increase prices of their RTX 50 series graphics cards.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -101,20 +115,11 @@
     "count": 2
   },
   {
-    "title": "Hugging Face CEO demands full transparency after OpenAI hack",
-    "summary": "The head of Hugging Face asks OpenAI to reveal all details of the cyberattack suffered to improve security across the industry.",
+    "title": "NVIDIA uses its own Vera CPU to design future chips with up to 50% better performance",
+    "summary": "Initial tests of the Vera CPU show significant improvements in automation and semiconductor design, paving the way for new generations.",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Graphics card prices rise in China due to memory costs and RTX 50 exceed MSRP by 38%",
-    "summary": "The increase in memory costs and distributor adjustments drive up prices of new graphics cards in China and globally.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }

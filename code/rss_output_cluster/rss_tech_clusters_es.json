@@ -1,22 +1,27 @@
 [
   {
-    "title": "Apple retrasa sus gafas inteligentes hasta 2027 para priorizar la privacidad",
-    "summary": "Apple pospone el lanzamiento de sus gafas inteligentes para garantizar la privacidad de los usuarios frente a competidores como Meta, según fuentes del sector.",
+    "title": "El fabricante chino de memoria CXMT se revaloriza un 466% en su estreno bursátil en Shanghái",
+    "summary": "La compañía china de DRAM debutó en bolsa con una subida récord, destinando los fondos a la producción de memorias.",
     "source": [
-      "xataka.com",
       "elchapuzasinformatico.com",
-      "techcrunch.com",
-      "kite.kagi.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
+      "tomshardware.com",
+      "kite.kagi.com"
     ],
-    "count": 8
+    "count": 3
   },
   {
-    "title": "Nvidia avalaría 250.000 millones de dólares para que OpenAI instale un centro de datos en Ohio",
-    "summary": "Nvidia estaría dispuesta a garantizar el arrendamiento del campus de SoftBank y aportar financiación para chips, según el Wall Street Journal.",
+    "title": "Microsoft lanza su propio modelo de ciberseguridad MAI-Cyber-1 junto con un sistema agéntico",
+    "summary": "El modelo de inteligencia artificial refuerza la seguridad de Microsoft, aunque sigue recurriendo a OpenAI para las tareas más exigentes.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia sopesa avalar 250.000 millones de dólares para el centro de datos de OpenAI en Ohio",
+    "summary": "Un posible acuerdo permitiría a OpenAI alquilar el campus de SoftBank de 10 gigavatios con el respaldo financiero de Nvidia.",
     "source": [
       "tomshardware.com",
       "xataka.com",
@@ -25,48 +30,66 @@
     "count": 3
   },
   {
-    "title": "El fabricante chino de memoria CXMT sube más de 460% en su debut en la Bolsa de Shanghái",
-    "summary": "La empresa de semiconductores china debutó en bolsa con una subida superior al 460% y ya compite en precios con Samsung en memorias DDR5 para servidores.",
+    "title": "Un jugador construye un Steam Deck con pinchos, táser y Raspberry Pi para evitar que su familia lo use",
+    "summary": "El sistema de seguridad incluye pinchos 3D, una pistola eléctrica y una Raspberry Pi con alarma para proteger la batería del dispositivo.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Minecraft Java Edition aumenta sus requisitos de RAM por primera vez en 17 años hasta 16 GB",
+    "summary": "El juego incrementa la memoria recomendada de 4 a 16 GB de cara a la transición a Vulkan, afectando a los jugadores con hardware antiguo.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD confirma que Zen 7 será la última generación del socket AM5 y que Zen 8 requerirá AM6 y DDR6",
+    "summary": "La hoja de ruta de AMD prevé que los procesadores Zen 7 completen la vida de AM5, mientras que Zen 8 dará el salto a AM6 y DDR6, con tres familias EPYC para 2028.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple retrasa sus gafas inteligentes hasta finales de 2027 para solucionar los problemas de privacidad",
+    "summary": "La compañía busca diferenciarse de las Ray-Ban de Meta garantizando la privacidad, retrasando el lanzamiento para superar los desafíos técnicos.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La IA china Moonshot publica los pesos abiertos de su modelo Kimi-K3 y compite con OpenAI",
+    "summary": "El modelo abierto Kimi-K3 ofrece un rendimiento casi igual al de los modelos de frontera con un coste computacional hasta tres veces menor.",
     "source": [
       "tomshardware.com",
-      "kite.kagi.com",
-      "elchapuzasinformatico.com"
+      "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Minecraft Java Edition aumenta sus requisitos de RAM a 16 GB después de 17 años",
-    "summary": "El juego actualiza por primera vez en 17 años las especificaciones de hardware de cara a la transición a Vulkan.",
+    "title": "Los servicios en línea de Xbox sufren una caída global días después de la interrupción de PlayStation",
+    "summary": "La caída del servicio de Xbox afectó a usuarios de todo el mundo, reavivando el debate sobre la dependencia de los juegos digitales.",
     "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com",
-      "hardzone.es"
+      "xataka.com",
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "AMD confirmó que Zen 7 será la última generación del socket AM5 antes de pasar a AM6 y DDR6",
-    "summary": "AMD planea dividir Zen 7 en tres familias EPYC para IA y marcar el fin del socket AM5 antes de la llegada de AM6 y DDR6.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "El debate sobre el fin de los discos físicos en PlayStation y Xbox se intensifica",
-    "summary": "Las declaraciones de un exdirectivo de Rockstar y las acciones de Sony y Xbox avivan el debate sobre la desaparición del formato físico en los videojuegos.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Los incendios forestales en el centro de España activan ayuda de Starlink y permisos laborales retribuidos",
-    "summary": "El fuego arrasa el centro de España, el humo alcanza el sur del país y se activan medidas como el servicio satelital de Starlink y permisos laborales retribuidos.",
+    "title": "Los incendios forestales en el centro de España movilizan a Starlink y activan medidas laborales de emergencia",
+    "summary": "El humo de los incendios en Madrid, Ávila y Toledo cruza la península, Starlink ofrece internet gratuito y el Gobierno concede cuatro días de permiso retribuido.",
     "source": [
       "bandaancha.eu",
       "xataka.com"
@@ -74,26 +97,17 @@
     "count": 2
   },
   {
-    "title": "Descubren una rara consola Nintendo Famicombox en un hotel de Japón",
-    "summary": "La variante comercial, hallada en un hotel del amor japonés, puede ejecutar 15 juegos a la vez y es muy buscada por coleccionistas.",
+    "title": "El sistema de pago europeo Wero avanza con la adhesión de Decathlon y Lidl",
+    "summary": "Wero, la alternativa a Visa y Mastercard impulsada por bancos europeos, gana terreno al ser adoptada por grandes cadenas comerciales.",
     "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Un usuario instala un sistema de seguridad con pinchos y Taser en su Steam Deck para evitar robos de batería",
-    "summary": "El propietario utilizó un Raspberry Pi, una cámara y un taser para evitar que su familia agotara la batería del dispositivo portátil.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La CPU Vera de Nvidia muestra un rendimiento un 50% superior en tareas de automatización y diseño de chips",
-    "summary": "Nvidia empleará su propio diseño de CPU Vera en futuros procesadores gráficos y centrales para mejorar el rendimiento en tareas de automatización.",
+    "title": "MSI y Colorful suben los precios de las RTX 50 en China hasta un 38% sobre el precio recomendado",
+    "summary": "El alza en los costes de memoria y componentes obliga a los fabricantes a incrementar los precios de sus tarjetas gráficas de la serie RTX 50.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -101,20 +115,11 @@
     "count": 2
   },
   {
-    "title": "El CEO de Hugging Face pide transparencia absoluta tras el hackeo a OpenAI",
-    "summary": "El responsable de Hugging Face solicita a OpenAI que revele todos los detalles del ciberataque sufrido para mejorar la seguridad en toda la industria.",
+    "title": "NVIDIA utiliza su propia CPU Vera para diseñar futuros chips con un rendimiento hasta un 50% superior",
+    "summary": "Las primeras pruebas de la CPU Vera muestran mejoras significativas en automatización y diseño de semiconductores, allanando el camino para nuevas generaciones.",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Los precios de las tarjetas gráficas suben en China por el coste de la memoria y los RTX 50 superan el PVP en un 38%",
-    "summary": "El aumento del coste de las memorias y los ajustes de distribuidores disparan los precios de las nuevas tarjetas gráficas en China y a nivel global.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }

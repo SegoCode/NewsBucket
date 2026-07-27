@@ -1,79 +1,34 @@
 [
   {
-    "title": "米国とイランの攻撃休止で原油急落",
-    "summary": "米国とイランがホルムズ海峡での攻撃停止に合意し、供給懸念が和らいだことで、原油価格は1週間ぶりの安値に下落。",
+    "title": "イランと米国の停戦：原油下落、金上昇、株式市場まちまち",
+    "summary": "攻撃の一時停止の発表により、原油は急落、貴金属は上昇、主要株式市場はまちまちの展開となっている。",
     "source": [
+      "bolsamania.com",
+      "expansion.com",
       "finance.yahoo.com",
       "ft.com",
       "handelsblatt.com",
+      "investing.com",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
       "NewsBucket-004",
-      "NewsBucket-005",
-      "NewsBucket-006"
+      "nikkei.com"
     ],
-    "count": 9
+    "count": 11
   },
   {
-    "title": "ビットコイン、原油安を無視して65,000ドル台で固まる",
-    "summary": "主要暗号通貨は65,000ドル以上を維持し、原油急落の影響を受けず、イランと米国の休止後の比較的静かな一日に。",
+    "title": "サンディスク株、ウォール街で11%以上急落",
+    "summary": "同半導体メーカーは株価急落により、ナスダックとS&P500指数で下落を主導している。",
     "source": [
       "bolsamania.com",
-      "finance.yahoo.com",
-      "expansion.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
-      "NewsBucket-005"
-    ],
-    "count": 8
-  },
-  {
-    "title": "スペースX株、ロックアップ期間終了懸念で史上最安値に急落",
-    "summary": "スペースXの株価は、投資家のロックアップ期間終了への懸念から48%下落。ETFがポジションを積み上げ、欧州の競合スタートアップが出現する中で。",
-    "source": [
-      "finance.yahoo.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 5
-  },
-  {
-    "title": "米国株まちまち、イランと米国の停戦と原油安で",
-    "summary": "米国株式市場はまちまち。投資家はイラン紛争の休止と原油価格の急落を消化し、ダウ平均とS&P500は小幅高、ナスダックはハイテク株の下落に圧迫された。",
-    "source": [
-      "handelsblatt.de",
-      "nasdaq.com",
-      "finance.yahoo.com",
-      "bolsamania.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "DAX指数、原油安に後押しされ3週間ぶりの高値で終了",
-    "summary": "ドイツ株価指数は1.30%上昇し、3週間ぶりの高値を記録。ハイテク株がけん引し、イランと米国の停戦に安心感が広がる中での動き。",
-    "source": [
-      "investing.com",
-      "handelsblatt.de"
+      "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "IBEX35、原油急落に後押しされ年初来高値に上昇",
-    "summary": "スペイン株価指数は0.80%上昇し、日中新高値を更新。原油安が運輸などのセクターに恩恵をもたらす一方、エネルギー企業には打撃となっている。",
-    "source": [
-      "expansion.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国半導体大手CXMT、上場初日に466%急騰",
-    "summary": "半導体企業CXMTは、アジアで今年最大級の新規株式公開（IPO）を果たし、上場初日に約470%の値上がりを記録。",
+    "title": "中国半導体メーカーCXMT、上場初日で460%超の上昇",
+    "summary": "同社は、業界の需要に支えられ、今年最大の株式市場デビューを果たしている。",
     "source": [
       "ft.com",
       "handelsblatt.com"
@@ -81,8 +36,8 @@
     "count": 2
   },
   {
-    "title": "インドネシア中央銀行総裁が辞任、政府は冷静さ呼びかけ",
-    "summary": "インドネシア中央銀行総裁の予想外の辞任が市場に不確実性をもたらす中、当局は投資家の鎮静化に努めている。",
+    "title": "インドネシア中銀総裁が辞任を表明",
+    "summary": "インドネシア中銀総裁の辞任は不透明感を強めており、政府は冷静な対応を呼びかけている。",
     "source": [
       "ft.com",
       "handelsblatt.com"
@@ -90,47 +45,11 @@
     "count": 2
   },
   {
-    "title": "Apple、最も価値のある企業の座を奪還、史上最高値更新",
-    "summary": "Apple株は史上最高値を更新し、エヌビディアを時価総額で上回る。第3四半期決算発表を目前に控えて。",
+    "title": "ビットコイン、月曜日に66,000ドルを突破",
+    "summary": "主要暗号通貨は回復し、66,000ドルを上回って推移、市場環境は良好。",
     "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "量子コンピューティング株、D-WaveとAT&Tの提携で上昇",
-    "summary": "D-WaveがAT&Tとの契約拡大を受けて量子コンピューティングセクターで上昇をリード。投資家は上場した同セクター4社の見通しを分析している。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "エンタープライズ・プロダクツ・パートナーズ、次回決算で株価急伸の可能性",
-    "summary": "アナリストは、7月30日の決算発表が、強固なファンダメンタルズと成長見通しによりエンタープライズ・プロダクツ・パートナーズの株価を押し上げると予想。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Visa株を今日買うことで将来の経済的安全は確保できるか？",
-    "summary": "長期的な投資としてのVisaの可能性を探る分析。電子決済における支配力と持続的な成長力を強調。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intelは最新決算後に買いか？",
-    "summary": "専門家がIntelの最新決算後の見通しを評価。半導体市場における課題と機会を考慮。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
+      "expansion.com",
+      "finance.yahoo.com"
     ],
     "count": 2
   }

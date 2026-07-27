@@ -1,22 +1,27 @@
 [
   {
-    "title": "Apple、プライバシーを優先しスマートグラスを2027年まで延期",
-    "summary": "競合Metaに対抗するため、ユーザーのプライバシーを確保する目的でスマートグラスの発売を延期したと業界筋が報道。",
+    "title": "中国のメモリメーカーCXMT、上海での株式市場デビューで466%の急騰",
+    "summary": "中国のDRAM企業が株式市場に記録的な上昇でデビューし、資金をメモリ生産に充てる。",
     "source": [
-      "xataka.com",
       "elchapuzasinformatico.com",
-      "techcrunch.com",
-      "kite.kagi.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
+      "tomshardware.com",
+      "kite.kagi.com"
     ],
-    "count": 8
+    "count": 3
   },
   {
-    "title": "NvidiaはOpenAIがオハイオ州にデータセンターを設置するため2500億ドルを保証へ",
-    "summary": "Nvidiaはソフトバンクのキャンパスのリース保証とチップ向け資金提供に応じる見込み、WSJ報道。",
+    "title": "マイクロソフト、独自のサイバーセキュリティモデルMAI-Cyber-1とエージェントシステムを発表",
+    "summary": "このAIモデルはマイクロソフトのセキュリティを強化するが、最も要求の厳しいタスクでは引き続きOpenAIに依存している。",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia、オハイオ州のOpenAIデータセンターに2500億ドルの保証を検討",
+    "summary": "この可能性のある契約により、OpenAIはNvidiaの財務的支援を受けてソフトバンクの10ギガワットキャンパスを賃借できるようになる。",
     "source": [
       "tomshardware.com",
       "xataka.com",
@@ -25,48 +30,66 @@
     "count": 3
   },
   {
-    "title": "中国メモリメーカーCXMTが上海証券取引所デビューで460%以上上昇",
-    "summary": "中国の半導体企業が上場初日に460%超の上昇を記録、サーバー向けDDR5メモリでSamsungと価格競争。",
+    "title": "家族が使えないように、トゲ・テーザー銃・Raspberry Piを搭載したSteam Deckを自作したゲーマー",
+    "summary": "セキュリティシステムには3Dプリントのトゲ、スタンガン、アラーム付きRaspberry Piが含まれており、デバイスのバッテリーを保護する。",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Minecraft Java Edition、17年ぶりにRAM要件を16GBに引き上げ",
+    "summary": "Vulkanへの移行に伴い、推奨メモリが4GBから16GBに増加し、古いハードウェアを使用するプレイヤーに影響を与える。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD、Zen 7がAM5ソケットの最終世代でZen 8はAM6とDDR6を必要とすることを確認",
+    "summary": "AMDのロードマップでは、Zen 7プロセッサがAM5の寿命を締めくくり、Zen 8はAM6とDDR6に移行し、2028年までに3つのEPYCファミリーが登場する予定。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple、プライバシー問題解決のためスマートグラスを2027年末まで延期",
+    "summary": "同社はプライバシーを保証することでMetaのRay-Banとの差別化を図り、技術的な課題を克服するために発売を延期している。",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "中国のAI企業Moonshot、モデルKimi-K3のオープンウェイトを公開、OpenAIに対抗",
+    "summary": "オープンモデルKimi-K3は、フロンティアモデルとほぼ同等のパフォーマンスを、最大3分の1の計算コストで提供する。",
     "source": [
       "tomshardware.com",
-      "kite.kagi.com",
-      "elchapuzasinformatico.com"
+      "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Minecraft Java Editionが17年ぶりにRAM要件を16GBに引き上げ",
-    "summary": "Vulkan移行に伴い17年ぶりにハードウェア仕様を更新。",
+    "title": "XboxのオンラインサービスがPlayStationの障害から数日後に世界的な停止に見舞われる",
+    "summary": "Xboxサービスの停止は世界中のユーザーに影響を与え、デジタルゲームへの依存に関する議論を再燃させた。",
     "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com",
-      "hardzone.es"
+      "xataka.com",
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "AMDはZen 7がAM5ソケット最後の世代、AM6とDDR6に移行と確認",
-    "summary": "AMDはZen 7をAI向けに3つのEPYCファミリーに分割、AM6/DDR6移行前にAM5ソケット終了を示唆。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "PlayStationとXboxにおける物理ディスク終了の議論が激化",
-    "summary": "Rockstar元幹部の発言やSony・Xboxの動きがゲームの物理フォーマット消滅論議を活発化。",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "スペイン中部の森林火災、Starlink支援と有給労働許可を発動",
-    "summary": "火災がスペイン中部を壊滅、煙は南部に到達、Starlink衛星サービスや有給労働許可などの措置が発動。",
+    "title": "スペイン中部の山林火災、Starlinkを動員し緊急労働措置を発動",
+    "summary": "マドリード、アビラ、トレドの火災による煙が半島を横断し、Starlinkが無料インターネットを提供、政府は4日間の有給休暇を認める。",
     "source": [
       "bandaancha.eu",
       "xataka.com"
@@ -74,26 +97,17 @@
     "count": 2
   },
   {
-    "title": "日本のホテルでレアなNintendoファミコンボックスを発見",
-    "summary": "日本のラブホテルで見つかった業務用バリエーション、15タイトル同時実行可能でコレクター垂涎。",
+    "title": "欧州決済システムWero、デカトロンとリドルの加盟で前進",
+    "summary": "欧州の銀行が推進するVisaやMastercardの代替案であるWeroが、大手小売チェーンに採用されて勢いを増している。",
     "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "ユーザーがSteam Deckにスパイクとテーザー銃のセキュリティシステムを設置、バッテリー盗難防止",
-    "summary": "所有者はRaspberry Pi、カメラ、テーザー銃を使い家族によるバッテリー消耗を防止。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NvidiaのVera CPU、自動化・チップ設計タスクで50%高い性能を実証",
-    "summary": "Nvidiaは将来のGPU・CPUに自社設計Vera CPUを採用、自動化タスクの性能向上を図る。",
+    "title": "MSIとColorful、中国でRTX 50の価格を推奨価格の最大38%値上げ",
+    "summary": "メモリとコンポーネントのコスト上昇により、メーカーはRTX 50シリーズグラフィックカードの価格を引き上げざるを得なくなっている。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -101,20 +115,11 @@
     "count": 2
   },
   {
-    "title": "Hugging Face CEO、OpenAIハッキング受け完全な透明性を要求",
-    "summary": "Hugging Face責任者がOpenAIに対して被害サイバー攻撃の全詳細開示を求め、業界全体のセキュリティ向上を要請。",
+    "title": "NVIDIA、自社CPU Veraを使用して将来のチップを設計、最大50%の性能向上",
+    "summary": "Vera CPUの初期テストでは、自動化と半導体設計において大幅な改善が見られ、次世代への道を開いている。",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "メモリ価格高騰で中国のグラフィックカード価格上昇、RTX 50は希望小売価格を38%超過",
-    "summary": "メモリコスト上昇と流通業者の調整により、中国および全世界で新グラフィックカード価格が高騰。",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }
