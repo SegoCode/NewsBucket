@@ -8,6 +8,8 @@ import { jsonrepair } from "jsonrepair";
 const API_URL = "https://opencode.ai/zen/v1/chat/completions";
 const INPUT_DIR = "rss_output";
 const OUTPUT_DIR = "rss_output_cluster";
+const RED_MIN = 4;
+const CARRY_SOURCE = "NewsBucket-";
 
 const PROMPT = fs.readFileSync("prompts/cluster.md", "utf-8");
 
@@ -17,12 +19,36 @@ const cutoff = Date.now() - 24 * 60 * 60 * 1000;
 console.log(`→ Clustering ${files.length} file(s)...`);
 
 for (const file of files) {
+	const outFile = path.join(
+		OUTPUT_DIR,
+		`${path.basename(file, ".json")}_clusters_es.json`,
+	);
+	const prev = fs.existsSync(outFile)
+		? JSON.parse(fs.readFileSync(outFile, "utf-8"))
+		: [];
+	// Synthetic outlets keep previously red stories eligible for one additional run.
+	const carry = prev.filter(
+		(c) =>
+			c?.count >= RED_MIN &&
+			Array.isArray(c.source) &&
+			!c.source.some((source) => source.startsWith(CARRY_SOURCE)),
+	);
+	const carryItems = carry.flatMap((c) =>
+		Array.from({ length: c.count }, (_, i) => ({
+			title: c.title,
+			source: `${CARRY_SOURCE}${String(i + 1).padStart(3, "0")}`,
+		})),
+	);
+
 	const data = JSON.parse(fs.readFileSync(path.join(INPUT_DIR, file), "utf-8"));
-	const news = data.items
-		.filter((i) => new Date(i.publishedAt).getTime() >= cutoff)
-		.map((i) => ({ title: i.title, source: i.source?.name || "?" }));
+	const news = [
+		...data.items
+			.filter((i) => new Date(i.publishedAt).getTime() >= cutoff)
+			.map((i) => ({ title: i.title, source: i.source?.name || "?" })),
+		...carryItems,
+	];
 	console.log(
-		`→ ${file}: ${news.length} noticias en las últimas 24h (de ${data.items.length} totales)`,
+		`→ ${file}: ${news.length - carryItems.length} noticias + ${carry.length} carry rojas (${carryItems.length} items) (de ${data.items.length} totales)`,
 	);
 	console.log("→ Sent, streaming...");
 	if (process.env.GITHUB_ACTIONS) console.log("  Generating...");
@@ -88,10 +114,6 @@ for (const file of files) {
 
 	clusters = clusters.filter((c) => c && c.count >= 2);
 
-	const outFile = path.join(
-		OUTPUT_DIR,
-		`${path.basename(file, ".json")}_clusters_es.json`,
-	);
 	fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 	fs.writeFileSync(outFile, JSON.stringify(clusters, null, 2));
 	console.log(`✓ ${path.basename(file, ".json")}: ${clusters.length} clusters`);
