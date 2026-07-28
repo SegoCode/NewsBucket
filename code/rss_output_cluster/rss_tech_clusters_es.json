@@ -1,155 +1,204 @@
 [
   {
-    "title": "Microsoft presenta MAI-Cyber-1-Flash, su primer modelo de IA para ciberseguridad, a la mitad del costo de los competidores",
-    "summary": "El modelo se integra en el sistema agéntico MDASH y aunque depende de OpenAI para tareas complejas, promete mejorar la defensa digital.",
+    "title": "Microsoft lanza su primer modelo de IA para ciberseguridad, MAI-Cyber-1-Flash, con rendimiento superior y menor costo",
+    "summary": "El sistema alcanza una precisión del 95,95% en detección de amenazas con la mitad del costo operativo de modelos similares.",
     "source": [
+      "thehackernews.com",
       "alternativeto.net",
       "the-decoder.com",
       "techcrunch.com",
-      "news.ycombinator.com"
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 8
+  },
+  {
+    "title": "Una caída de los servidores de Xbox de 16 horas impide jugar incluso a títulos físicos",
+    "summary": "La interrupción, causada por un problema de licencias, afectó a tres generaciones de consolas y reavivó el debate sobre el futuro digital de los videojuegos.",
+    "source": [
+      "tomshardware.com",
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "kite.kagi.com",
+      "videocardz.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "ASRock y Sapphire presentan la Radeon RX 9050 con configuraciones de 4 GB y 8 GB de VRAM",
+    "summary": "La nueva tarjeta gráfica de gama de entrada de AMD basada en RDNA 4 llega con opciones de 4 GB y 8 GB y un consumo de solo 100 W.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "China comienza la producción en masa de máquinas de litografía DUV propias para la fabricación de chips",
+    "summary": "Las nuevas máquinas de litografía ultravioleta serán entregadas a los principales fabricantes de chips chinos como SMIC, CXMT y Hua Hong a partir de 2026.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 4
+  },
+  {
+    "title": "MSI y Colorful aumentan hasta un 59% los precios de las NVIDIA RTX 50 en China",
+    "summary": "El incremento en los precios de las tarjetas gráficas de la gama RTX 50 en China sugiere que próximamente podrían llegar subidas a otros mercados.",
+    "source": [
+      "hardzone.es",
+      "/r/hardware",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Moonshot AI publica el modelo de código abierto Kimi K3 con rendimiento cercano a los modelos fronterizos",
+    "summary": "El modelo de inteligencia artificial chino Kimi K3 ofrece un rendimiento casi equiparable a los mejores de OpenAI y Anthropic con un costo computacional significativamente menor.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "news.ycombinator.com",
+      "the-decoder.com",
+      "tomshardware.com"
     ],
     "count": 4
   },
   {
     "title": "Los chats compartidos de Claude quedan expuestos en los resultados de búsqueda de Google y Bing",
-    "summary": "La privacidad de las conversaciones con la IA se vio comprometida al aparecer en los buscadores.",
+    "summary": "Una falla de privacidad permitió que conversaciones privadas de usuarios aparecieran en motores de búsqueda, reavivando preocupaciones sobre la confidencialidad de los datos en servicios de IA.",
     "source": [
+      "xataka.com",
       "techcrunch.com",
-      "wired.com",
-      "the-decoder.com"
+      "wired.com"
     ],
     "count": 3
   },
   {
-    "title": "Nvidia avalaría 250.000 millones de dólares para que OpenAI tenga su propio centro de datos en Ohio",
-    "summary": "La garantía permitiría a la empresa de IA alquilar el campus de SoftBank de 10 gigavatios, con Nvidia como principal suministrador de chips.",
+    "title": "Amazon solicita autorización para desplegar 5.105 satélites móviles para competir con Starlink",
+    "summary": "La red satelital de Amazon, denominada Leo, ofrecerá cobertura 5G desde el espacio con una constelación de más de 5.000 satélites.",
     "source": [
-      "tomshardware.com",
-      "xataka.com",
-      "kite.kagi.com"
+      "bandaancha.eu",
+      "kite.kagi.com",
+      "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "El fabricante chino de memoria CXMT se dispara un 466% en su debut en la bolsa de Shanghái",
-    "summary": "La compañía centrará la inversión en ampliar la producción de DRAM, sin planes inmediatos para fabricar HBM.",
+    "title": "El CEO de Anthropic aclara su postura sobre los modelos de peso abierto y expresa su preocupación por la IA china",
+    "summary": "Dario Amodei afirma que no se opone a los modelos abiertos, pero advierte sobre los riesgos de que la inteligencia artificial avance en China sin controles.",
     "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "MSI y Colorful incrementan los precios de las RTX 50 en China hasta un 59% por cambios en la distribución",
-    "summary": "El aumento podría extenderse a otros mercados y refleja la presión alcista en los costes de las GPU.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Minecraft Java Edition sube la memoria RAM recomendada a 16 GB tras 17 años sin cambios",
-    "summary": "El popular juego se prepara para la transición a Vulkan y advierte a los jugadores sobre los nuevos requisitos.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD anuncia que Zen 7 será la última CPU con socket AM5 y divide las EPYC en tres series para IA",
-    "summary": "Las nuevas familias Florence, Ferrara y Fidenza llegarán en 2028 con un enfoque específico en inteligencia artificial.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Moonshot AI publica los pesos abiertos de Kimi K3, un modelo que compite con los líderes del sector",
-    "summary": "El modelo de código abierto ofrece un rendimiento casi equiparable a los modelos frontera pero es mucho más fácil de ejecutar.",
-    "source": [
-      "news.ycombinator.com",
       "the-decoder.com",
-      "tomshardware.com"
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "Un jugador construye un Steam Deck con pinchos, táser y Raspberry Pi para evitar que su familia use la batería",
-    "summary": "El sistema disuasorio incluye cámara, altavoz y alarma que se activan al tocar la consola.",
+    "title": "Vulnerabilidad zero-day en Artifactory permitió explotar modelos de OpenAI antes de la brecha de Hugging Face",
+    "summary": "El incidente subraya la importancia de una corrección rápida y plantea cuestiones sobre la seguridad y el control de los modelos de IA.",
     "source": [
-      "hardzone.es",
-      "tomshardware.com",
-      "videocardz.com"
+      "thehackernews.com",
+      "news.ycombinator.com",
+      "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "NVIDIA emplea su propia CPU Vera para desarrollar futuros procesadores y tarjetas gráficas",
-    "summary": "Las pruebas iniciales muestran un rendimiento mejorado en tareas de automatización y diseño de chips.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple retrasa sus gafas inteligentes hasta 2027 para garantizar la privacidad frente a las Ray-Ban de Meta",
-    "summary": "La compañía busca diferenciarse sin comprometer la protección de datos de los usuarios.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Xbox sufre una caída global de sus servicios online días después del apagón de PlayStation",
-    "summary": "El incidente subraya la vulnerabilidad de las plataformas digitales frente a fallos técnicos.",
-    "source": [
-      "xataka.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony promociona vinilos mientras avanza en el fin de los discos físicos para PS5",
-    "summary": "Los jugadores critican la decisión, pero un exdirector de Rockstar Games considera que perder el formato físico no es un gran problema.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Un centro de datos de IA en Míchigan es demandado por el ruido constante que genera, similar a una aspiradora",
-    "summary": "La empresa ha sido multada y ofrece comprar las viviendas de los vecinos afectados por el estruendo.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA funda la Open Secure AI Alliance con 37 miembros, pero sin OpenAI, Google ni Anthropic",
-    "summary": "La alianza de código abierto busca reforzar la seguridad de la IA tras la brecha sufrida por OpenAI.",
+    "title": "Nvidia forma la alianza Open Secure AI con 37 miembros tras un fallo de seguridad en un agente de OpenAI",
+    "summary": "La alianza, que no incluye a OpenAI, Google ni Anthropic, busca mejorar la seguridad en inteligencia artificial mediante estándares abiertos.",
     "source": [
       "tomshardware.com",
+      "kite.kagi.com",
       "thehackernews.com"
     ],
+    "count": 3
+  },
+  {
+    "title": "Las reseñas del Framework Laptop 13 Pro destacan una mejora significativa en la batería pero un precio más elevado",
+    "summary": "El portátil modular ofrece un mejor rendimiento energético y sigue siendo reparable, aunque su costo ha aumentado considerablemente.",
+    "source": [
+      "/r/hardware",
+      "kite.kagi.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Un mod añade DLSS y Frame Generation a Mirror's Edge 17 años después de su lanzamiento",
+    "summary": "La comunidad de modding ha añadido soporte para tecnologías de reescalado por IA al clásico juego de parkour en primera persona.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
     "count": 2
   },
   {
-    "title": "Los incendios forestales en el centro de España extienden humo a media península y movilizan ayudas",
-    "summary": "Starlink ofrece internet satelital gratuito, mientras Trabajo concede permisos retribuidos y las operadoras lanzan un servicio de emergencia.",
+    "title": "Los poseedores de Xbox reciben versiones para PC de 13 juegos de Ubisoft sin coste adicional",
+    "summary": "Los títulos de Assassin's Creed, Far Cry y otros están disponibles de forma gratuita para quienes ya los poseen en Xbox.",
     "source": [
-      "xataka.com",
-      "bandaancha.eu"
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El Snapdragon 8 Elite Gen 6 Pro integrará reescalado por IA y generación de fotogramas en juegos",
+    "summary": "La nueva función AI Frame Fusion combina técnicas de inteligencia artificial para mejorar la calidad gráfica y aumentar los FPS en dispositivos móviles.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El Intel Core 2 Duo cumple 20 años como el procesador que marcó el fin de la era Pentium 4",
+    "summary": "El lanzamiento del Core 2 Duo en 2006 devolvió el liderazgo a Intel y sentó las bases para los procesadores modernos.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El Microsoft Surface Laptop con 8 GB de RAM se bloquea con multitarea básica según múltiples informes",
+    "summary": "Varios análisis muestran que el modelo de 1.000 euros con 8 GB de RAM sufre congelaciones al realizar tareas cotidianas, lo que sugiere una memoria insuficiente.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Elon Musk lanza X Money, el servicio de banca en EE.UU. con un 6% TAE para suscriptores Premium de X",
+    "summary": "La plataforma de servicios financieros de X ofrece cuentas remuneradas con un alto interés anual para usuarios de pago.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple lanza actualizaciones de seguridad para macOS Tahoe 26.6 y otros sistemas operativos",
+    "summary": "Las nuevas versiones corrigen vulnerabilidades críticas en todos los dispositivos Apple, incluyendo macOS y iOS.",
+    "source": [
+      "news.ycombinator.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Detienen en Taiwán a un empleado de Nvidia por presunto contrabando de chips a China",
+    "summary": "La investigación por falsificación de documentos comerciales se enmarca en un creciente escrutinio sobre la exportación de tecnología a China.",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
     ],
     "count": 2
   }

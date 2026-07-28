@@ -1,98 +1,138 @@
 [
   {
-    "title": "Microsoft presents MAI-Cyber-1-Flash, its first AI model for cybersecurity, at half the cost of competitors",
-    "summary": "The model integrates into the MDASH agentic system and although it depends on OpenAI for complex tasks, it promises to improve digital defense.",
+    "title": "Microsoft launches its first AI model for cybersecurity, MAI-Cyber-1-Flash, with superior performance and lower cost",
+    "summary": "The system achieves 95.95% accuracy in threat detection with half the operating cost of similar models.",
     "source": [
+      "thehackernews.com",
       "alternativeto.net",
       "the-decoder.com",
       "techcrunch.com",
-      "news.ycombinator.com"
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 8
+  },
+  {
+    "title": "A 16-hour Xbox server outage prevents playing even physical titles",
+    "summary": "The outage, caused by a licensing issue, affected three generations of consoles and reignited the debate on the digital future of video games.",
+    "source": [
+      "tomshardware.com",
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "kite.kagi.com",
+      "videocardz.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "ASRock and Sapphire introduce the Radeon RX 9050 with 4GB and 8GB VRAM configurations",
+    "summary": "AMD's new entry-level graphics card based on RDNA 4 comes with 4GB and 8GB options and a power consumption of only 100W.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 4
   },
   {
-    "title": "Claude's shared chats are exposed in Google and Bing search results",
-    "summary": "The privacy of AI conversations was compromised when they appeared in search engines.",
+    "title": "China begins mass production of its own DUV lithography machines for chip manufacturing",
+    "summary": "The new ultraviolet lithography machines will be delivered to major Chinese chipmakers like SMIC, CXMT, and Hua Hong starting in 2026.",
     "source": [
-      "techcrunch.com",
-      "wired.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Nvidia would guarantee $250 billion for OpenAI to have its own data center in Ohio",
-    "summary": "The guarantee would allow the AI company to lease SoftBank's 10 gigawatt campus, with Nvidia as the main chip supplier.",
-    "source": [
-      "tomshardware.com",
       "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Chinese memory manufacturer CXMT skyrockets 466% on its Shanghai stock exchange debut",
-    "summary": "The company will focus investment on expanding DRAM production, with no immediate plans to manufacture HBM.",
-    "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
-      "kite.kagi.com"
+      "/r/hardware"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "MSI and Colorful increase RTX 50 prices in China by up to 59% due to distribution changes",
-    "summary": "The increase could spread to other markets and reflects upward pressure on GPU costs.",
+    "title": "MSI and Colorful increase NVIDIA RTX 50 prices by up to 59% in China",
+    "summary": "The price increase for RTX 50 series graphics cards in China suggests that similar hikes could soon reach other markets.",
     "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Minecraft Java Edition raises recommended RAM to 16 GB after 17 years without changes",
-    "summary": "The popular game prepares for the transition to Vulkan and warns players about the new requirements.",
-    "source": [
-      "elchapuzasinformatico.com",
       "hardzone.es",
-      "videocardz.com"
+      "/r/hardware",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "AMD announces that Zen 7 will be the last CPU with AM5 socket and splits EPYC into three series for AI",
-    "summary": "The new families Florence, Ferrara, and Fidenza will arrive in 2028 with a specific focus on artificial intelligence.",
+    "title": "Moonshot AI releases open-source model Kimi K3 with performance close to frontier models",
+    "summary": "The Chinese AI model Kimi K3 offers performance nearly on par with the best from OpenAI and Anthropic at a significantly lower computational cost.",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Moonshot AI releases open weights of Kimi K3, a model that competes with industry leaders",
-    "summary": "The open source model offers performance almost comparable to frontier models but is much easier to run.",
-    "source": [
       "news.ycombinator.com",
       "the-decoder.com",
       "tomshardware.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "A player builds a Steam Deck with spikes, taser, and Raspberry Pi to prevent his family from using the battery",
-    "summary": "The deterrent system includes a camera, speaker, and alarm that activate when the console is touched.",
+    "title": "Claude shared chats exposed in Google and Bing search results",
+    "summary": "A privacy flaw allowed private user conversations to appear in search engines, reigniting concerns about data confidentiality in AI services.",
     "source": [
-      "hardzone.es",
-      "tomshardware.com",
-      "videocardz.com"
+      "xataka.com",
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 3
   },
   {
-    "title": "NVIDIA uses its own Vera CPU to develop future processors and graphics cards",
-    "summary": "Initial tests show improved performance in automation tasks and chip design.",
+    "title": "Amazon requests authorization to deploy 5,105 mobile satellites to compete with Starlink",
+    "summary": "Amazon's satellite network, called Leo, will offer 5G coverage from space with a constellation of more than 5,000 satellites.",
+    "source": [
+      "bandaancha.eu",
+      "kite.kagi.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic CEO clarifies his stance on open-weight models and expresses concern about Chinese AI",
+    "summary": "Dario Amodei states he is not opposed to open models but warns about the risks of AI advancing in China without controls.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Zero-day vulnerability in Artifactory allowed exploitation of OpenAI models before Hugging Face breach",
+    "summary": "The incident underscores the importance of rapid patching and raises questions about the security and control of AI models.",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia forms Open Secure AI alliance with 37 members after security flaw in an OpenAI agent",
+    "summary": "The alliance, which does not include OpenAI, Google, or Anthropic, aims to improve AI security through open standards.",
+    "source": [
+      "tomshardware.com",
+      "kite.kagi.com",
+      "thehackernews.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Framework Laptop 13 Pro reviews highlight significant battery improvement but higher price",
+    "summary": "The modular laptop offers better energy performance and remains repairable, although its cost has increased considerably.",
+    "source": [
+      "/r/hardware",
+      "kite.kagi.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Mod adds DLSS and Frame Generation to Mirror's Edge 17 years after release",
+    "summary": "The modding community has added support for AI upscaling technologies to the classic first-person parkour game.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -100,56 +140,65 @@
     "count": 2
   },
   {
-    "title": "Apple delays its smart glasses until 2027 to ensure privacy compared to Meta's Ray-Ban",
-    "summary": "The company seeks to differentiate itself without compromising user data protection.",
+    "title": "Xbox owners receive PC versions of 13 Ubisoft games at no extra cost",
+    "summary": "Titles like Assassin's Creed, Far Cry, and others are available for free to those who already own them on Xbox.",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Xbox suffers a global outage of its online services days after PlayStation's blackout",
-    "summary": "The incident highlights the vulnerability of digital platforms to technical failures.",
-    "source": [
-      "xataka.com",
+      "hardzone.es",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Sony promotes vinyl records while advancing the end of physical discs for PS5",
-    "summary": "Players criticize the decision, but a former Rockstar Games director considers that losing the physical format is not a big problem.",
+    "title": "Snapdragon 8 Elite Gen 6 Pro will integrate AI upscaling and frame generation in games",
+    "summary": "The new AI Frame Fusion feature combines AI techniques to improve graphics quality and increase FPS on mobile devices.",
     "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "An AI data center in Michigan is sued for the constant noise it generates, similar to a vacuum cleaner",
-    "summary": "The company has been fined and offers to buy the homes of neighbors affected by the noise.",
+    "title": "Intel Core 2 Duo turns 20 as the processor that marked the end of the Pentium 4 era",
+    "summary": "The launch of the Core 2 Duo in 2006 returned leadership to Intel and laid the foundations for modern processors.",
     "source": [
-      "xataka.com",
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIA founds the Open Secure AI Alliance with 37 members, but without OpenAI, Google or Anthropic",
-    "summary": "The open source alliance seeks to strengthen AI security after the breach suffered by OpenAI.",
+    "title": "Microsoft Surface Laptop with 8GB RAM freezes with basic multitasking according to multiple reports",
+    "summary": "Several reviews show that the 1,000 euro model with 8GB RAM suffers freezes during everyday tasks, suggesting insufficient memory.",
     "source": [
-      "tomshardware.com",
-      "thehackernews.com"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Forest fires in central Spain spread smoke to half the peninsula and mobilize aid",
-    "summary": "Starlink offers free satellite internet, while the Ministry of Labor grants paid leave and operators launch an emergency service.",
+    "title": "Elon Musk launches X Money, the banking service in the US with 6% APY for X Premium subscribers",
+    "summary": "X's financial services platform offers high-yield savings accounts with high annual interest for paying users.",
     "source": [
-      "xataka.com",
-      "bandaancha.eu"
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple releases security updates for macOS Tahoe 26.6 and other operating systems",
+    "summary": "The new versions fix critical vulnerabilities in all Apple devices, including macOS and iOS.",
+    "source": [
+      "news.ycombinator.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia employee arrested in Taiwan for alleged chip smuggling to China",
+    "summary": "The investigation for falsification of commercial documents is part of increasing scrutiny on technology exports to China.",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
     ],
     "count": 2
   }
