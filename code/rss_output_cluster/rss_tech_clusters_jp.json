@@ -1,27 +1,28 @@
 [
   {
-    "title": "中国のメモリメーカーCXMT、上海での株式市場デビューで466%の急騰",
-    "summary": "中国のDRAM企業が株式市場に記録的な上昇でデビューし、資金をメモリ生産に充てる。",
+    "title": "Microsoft、サイバーセキュリティ向け初のAIモデル「MAI-Cyber-1-Flash」を発表、競合他社の半分のコスト",
+    "summary": "このモデルはエージェントシステムMDASHに統合され、複雑なタスクではOpenAIに依存するものの、デジタル防御の向上が期待される。",
     "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "マイクロソフト、独自のサイバーセキュリティモデルMAI-Cyber-1とエージェントシステムを発表",
-    "summary": "このAIモデルはマイクロソフトのセキュリティを強化するが、最も要求の厳しいタスクでは引き続きOpenAIに依存している。",
-    "source": [
+      "alternativeto.net",
       "the-decoder.com",
       "techcrunch.com",
       "news.ycombinator.com"
     ],
+    "count": 4
+  },
+  {
+    "title": "Claudeの共有チャットがGoogleとBingの検索結果に露出",
+    "summary": "AIとの会話のプライバシーが検索エンジンに表示されることで侵害された。",
+    "source": [
+      "techcrunch.com",
+      "wired.com",
+      "the-decoder.com"
+    ],
     "count": 3
   },
   {
-    "title": "Nvidia、オハイオ州のOpenAIデータセンターに2500億ドルの保証を検討",
-    "summary": "この可能性のある契約により、OpenAIはNvidiaの財務的支援を受けてソフトバンクの10ギガワットキャンパスを賃借できるようになる。",
+    "title": "Nvidia、OpenAIがオハイオ州に自社データセンターを持てるよう2500億ドルの保証を提供へ",
+    "summary": "この保証により、AI企業はソフトバンクの10ギガワットキャンパスをリースでき、Nvidiaが主要チップ供給元となる。",
     "source": [
       "tomshardware.com",
       "xataka.com",
@@ -30,18 +31,28 @@
     "count": 3
   },
   {
-    "title": "家族が使えないように、トゲ・テーザー銃・Raspberry Piを搭載したSteam Deckを自作したゲーマー",
-    "summary": "セキュリティシステムには3Dプリントのトゲ、スタンガン、アラーム付きRaspberry Piが含まれており、デバイスのバッテリーを保護する。",
+    "title": "中国メモリメーカーCXMT、上海株式市場デビューで466%急騰",
+    "summary": "同社はDRAM生産拡大に投資を集中し、HBM製造の当面の計画はない。",
     "source": [
-      "hardzone.es",
+      "elchapuzasinformatico.com",
       "tomshardware.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "MSIとColorful、流通変更により中国でRTX 50の価格を最大59%引き上げ",
+    "summary": "この値上げは他の市場にも拡大する可能性があり、GPUコストの上昇圧力を反映している。",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Minecraft Java Edition、17年ぶりにRAM要件を16GBに引き上げ",
-    "summary": "Vulkanへの移行に伴い、推奨メモリが4GBから16GBに増加し、古いハードウェアを使用するプレイヤーに影響を与える。",
+    "title": "Minecraft Java Edition、17年ぶりに推奨RAMを16GBに引き上げ",
+    "summary": "人気ゲームはVulkanへの移行に備え、新たな要件についてプレイヤーに警告している。",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es",
@@ -50,8 +61,8 @@
     "count": 3
   },
   {
-    "title": "AMD、Zen 7がAM5ソケットの最終世代でZen 8はAM6とDDR6を必要とすることを確認",
-    "summary": "AMDのロードマップでは、Zen 7プロセッサがAM5の寿命を締めくくり、Zen 8はAM6とDDR6に移行し、2028年までに3つのEPYCファミリーが登場する予定。",
+    "title": "AMD、Zen 7がAM5ソケット最後のCPUになると発表、EPYCをAI向けに3シリーズに分割",
+    "summary": "新しいFlorence、Ferrara、Fidenzaファミリーは2028年に登場し、人工知能に特化する。",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -60,27 +71,46 @@
     "count": 3
   },
   {
-    "title": "Apple、プライバシー問題解決のためスマートグラスを2027年末まで延期",
-    "summary": "同社はプライバシーを保証することでMetaのRay-Banとの差別化を図り、技術的な課題を克服するために発売を延期している。",
+    "title": "Moonshot AI、業界リーダーと競合するモデルKimi K3のオープンウェイトを公開",
+    "summary": "このオープンソースモデルは、フロンティアモデルにほぼ匹敵するパフォーマンスを提供しながら、実行がはるかに容易。",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "techcrunch.com"
+      "news.ycombinator.com",
+      "the-decoder.com",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "中国のAI企業Moonshot、モデルKimi-K3のオープンウェイトを公開、OpenAIに対抗",
-    "summary": "オープンモデルKimi-K3は、フロンティアモデルとほぼ同等のパフォーマンスを、最大3分の1の計算コストで提供する。",
+    "title": "ゲーマーがトゲ、テーザー、Raspberry Piを使ってSteam Deckを構築、家族がバッテリーを使用するのを防止",
+    "summary": "抑止システムにはカメラ、スピーカー、アラームが含まれ、コンソールに触れると作動する。",
     "source": [
+      "hardzone.es",
       "tomshardware.com",
-      "news.ycombinator.com"
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "NVIDIA、将来のプロセッサーとグラフィックスカード開発に自社CPU Veraを採用",
+    "summary": "初期テストでは、自動化およびチップ設計タスクにおいてパフォーマンスの向上が見られる。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "XboxのオンラインサービスがPlayStationの障害から数日後に世界的な停止に見舞われる",
-    "summary": "Xboxサービスの停止は世界中のユーザーに影響を与え、デジタルゲームへの依存に関する議論を再燃させた。",
+    "title": "Apple、MetaのRay-Banに対抗するためスマートグラスを2027年まで延期、プライバシーを確保",
+    "summary": "同社はユーザーデータ保護を損なうことなく差別化を図る。",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xbox、PlayStationの停止から数日後にオンラインサービスが世界的にダウン",
+    "summary": "このインシデントは、技術的障害に対するデジタルプラットフォームの脆弱性を浮き彫りにしている。",
     "source": [
       "xataka.com",
       "videocardz.com"
@@ -88,38 +118,38 @@
     "count": 2
   },
   {
-    "title": "スペイン中部の山林火災、Starlinkを動員し緊急労働措置を発動",
-    "summary": "マドリード、アビラ、トレドの火災による煙が半島を横断し、Starlinkが無料インターネットを提供、政府は4日間の有給休暇を認める。",
+    "title": "Sony、PS5の物理ディスク終了を進める一方でレコードを宣伝",
+    "summary": "プレイヤーはこの決定を批判するが、Rockstar Gamesの元ディレクターは物理フォーマットを失うことは大きな問題ではないと考えている。",
     "source": [
-      "bandaancha.eu",
-      "xataka.com"
+      "hardzone.es",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "欧州決済システムWero、デカトロンとリドルの加盟で前進",
-    "summary": "欧州の銀行が推進するVisaやMastercardの代替案であるWeroが、大手小売チェーンに採用されて勢いを増している。",
+    "title": "ミシガン州のAIデータセンター、掃除機のような継続的な騒音で訴えられる",
+    "summary": "同社は罰金を科され、騒音の影響を受けた近隣住民の住宅を購入する提案をしている。",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
+      "xataka.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "MSIとColorful、中国でRTX 50の価格を推奨価格の最大38%値上げ",
-    "summary": "メモリとコンポーネントのコスト上昇により、メーカーはRTX 50シリーズグラフィックカードの価格を引き上げざるを得なくなっている。",
+    "title": "NVIDIA、37社でOpen Secure AI Allianceを設立、OpenAI、Google、Anthropicは参加せず",
+    "summary": "このオープンソースアライアンスは、OpenAIが被った情報漏洩を受けてAIセキュリティの強化を目指す。",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "tomshardware.com",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIA、自社CPU Veraを使用して将来のチップを設計、最大50%の性能向上",
-    "summary": "Vera CPUの初期テストでは、自動化と半導体設計において大幅な改善が見られ、次世代への道を開いている。",
+    "title": "スペイン中心部の山火事、半島全体に煙を広げ支援を動員",
+    "summary": "Starlinkは無料の衛星インターネットを提供し、労働省は有給休暇を認め、通信事業者は緊急サービスを開始。",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "xataka.com",
+      "bandaancha.eu"
     ],
     "count": 2
   }

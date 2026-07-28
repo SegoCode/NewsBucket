@@ -1,55 +1,96 @@
 [
   {
-    "title": "イランと米国の停戦：原油下落、金上昇、株式市場まちまち",
-    "summary": "攻撃の一時停止の発表により、原油は急落、貴金属は上昇、主要株式市場はまちまちの展開となっている。",
+    "title": "原油急落、金急騰、米国とイランの軍事休戦後",
+    "summary": "銀、円、一部アジア株もペルシャ湾休戦の恩恵、原油価格は数カ月ぶりの大幅下落。",
+    "source": [
+      "investing.com",
+      "nikkei.com",
+      "bolsamania.com",
+      "ft.com",
+      "finance.yahoo.com",
+      "handelsblatt.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "半導体株とハイテク株が全世界で急落、AI投資過剰懸念",
+    "summary": "エヌビディア、SKハイニックスなどチップメーカーがウォール街と東京市場で下落主導、AI投資収益性と中国競争への懸念で指数を押し下げ。",
+    "source": [
+      "investing.com",
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ウォール街はまちまち、ハイテク決算と原油下落に警戒",
+    "summary": "ダウとS&P500は小幅上昇、ナスダックは下落。大型企業決算や原油安への期待が交錯。",
     "source": [
       "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AppleがNvidiaを抜き、再び世界で最も価値のある企業に",
+    "summary": "iPhoneメーカーは半導体セクターの危機でエヌビディア株急落を捉え、時価総額首位を奪還。",
+    "source": [
+      "nikkei.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "J&J、タルク訴訟解決へ90億ドル支払いで合意",
+    "summary": "製薬大手、ベビーパウダー関連の卵巣がんや中皮腫の数千件の訴訟を解決する合意に達す。",
+    "source": [
+      "nikkei.com",
+      "investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "市場はFRB次回会合での金利据え置きを予想",
+    "summary": "原油高やインフレ圧力にもかかわらず、大半のアナリストは7月FOMCでの利上げを否定。",
+    "source": [
       "expansion.com",
-      "finance.yahoo.com",
-      "ft.com",
-      "handelsblatt.com",
-      "investing.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
       "nikkei.com"
     ],
-    "count": 11
+    "count": 2
   },
   {
-    "title": "サンディスク株、ウォール街で11%以上急落",
-    "summary": "同半導体メーカーは株価急落により、ナスダックとS&P500指数で下落を主導している。",
+    "title": "インドネシア中央銀行総裁が突然辞任",
+    "summary": "ペリー・ワルジヨ氏が金融市場の変動の中で辞任、政府は落ち着きを呼び掛け秩序ある移行を保証。",
+    "source": [
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国半導体メーカーCXMT、新規上場初日に466%急騰",
+    "summary": "今年のアジア最大のIPOとなり、初日の時価総額は330億ドル超え。",
+    "source": [
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ビットコインが6万6000ドル突破、上昇トレンド継続",
+    "summary": "世界最大の暗号通貨、市場の楽観ムードと地政学的緊張緩和で上昇。",
+    "source": [
+      "finance.yahoo.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "スペイン株価指数Ibex35、原油急落で史上最高値",
+    "summary": "原油安が企業コストを下げインフレ懸念を緩和、スペイン株価指数が記録更新。",
     "source": [
       "bolsamania.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国半導体メーカーCXMT、上場初日で460%超の上昇",
-    "summary": "同社は、業界の需要に支えられ、今年最大の株式市場デビューを果たしている。",
-    "source": [
-      "ft.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "インドネシア中銀総裁が辞任を表明",
-    "summary": "インドネシア中銀総裁の辞任は不透明感を強めており、政府は冷静な対応を呼びかけている。",
-    "source": [
-      "ft.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ビットコイン、月曜日に66,000ドルを突破",
-    "summary": "主要暗号通貨は回復し、66,000ドルを上回って推移、市場環境は良好。",
-    "source": [
-      "expansion.com",
-      "finance.yahoo.com"
+      "expansion.com"
     ],
     "count": 2
   }

@@ -1,27 +1,28 @@
 [
   {
-    "title": "Chinese memory manufacturer CXMT soars 466% in Shanghai stock market debut",
-    "summary": "The Chinese DRAM company debuted on the stock exchange with a record rise, allocating funds to memory production.",
+    "title": "Microsoft presents MAI-Cyber-1-Flash, its first AI model for cybersecurity, at half the cost of competitors",
+    "summary": "The model integrates into the MDASH agentic system and although it depends on OpenAI for complex tasks, it promises to improve digital defense.",
     "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft launches its own cybersecurity model MAI-Cyber-1 along with an agentic system",
-    "summary": "The AI model strengthens Microsoft's security, although it still resorts to OpenAI for the most demanding tasks.",
-    "source": [
+      "alternativeto.net",
       "the-decoder.com",
       "techcrunch.com",
       "news.ycombinator.com"
     ],
+    "count": 4
+  },
+  {
+    "title": "Claude's shared chats are exposed in Google and Bing search results",
+    "summary": "The privacy of AI conversations was compromised when they appeared in search engines.",
+    "source": [
+      "techcrunch.com",
+      "wired.com",
+      "the-decoder.com"
+    ],
     "count": 3
   },
   {
-    "title": "Nvidia considers backing $250 billion for OpenAI's data center in Ohio",
-    "summary": "A potential deal would allow OpenAI to lease SoftBank's 10-gigawatt campus with financial backing from Nvidia.",
+    "title": "Nvidia would guarantee $250 billion for OpenAI to have its own data center in Ohio",
+    "summary": "The guarantee would allow the AI company to lease SoftBank's 10 gigawatt campus, with Nvidia as the main chip supplier.",
     "source": [
       "tomshardware.com",
       "xataka.com",
@@ -30,18 +31,28 @@
     "count": 3
   },
   {
-    "title": "A gamer builds a Steam Deck with spikes, taser, and Raspberry Pi to prevent family from using it",
-    "summary": "The security system includes 3D spikes, a stun gun, and a Raspberry Pi with an alarm to protect the device's battery.",
+    "title": "Chinese memory manufacturer CXMT skyrockets 466% on its Shanghai stock exchange debut",
+    "summary": "The company will focus investment on expanding DRAM production, with no immediate plans to manufacture HBM.",
     "source": [
-      "hardzone.es",
+      "elchapuzasinformatico.com",
       "tomshardware.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "MSI and Colorful increase RTX 50 prices in China by up to 59% due to distribution changes",
+    "summary": "The increase could spread to other markets and reflects upward pressure on GPU costs.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Minecraft Java Edition increases RAM requirements for the first time in 17 years to 16 GB",
-    "summary": "The game raises recommended memory from 4 to 16 GB ahead of the transition to Vulkan, affecting players with older hardware.",
+    "title": "Minecraft Java Edition raises recommended RAM to 16 GB after 17 years without changes",
+    "summary": "The popular game prepares for the transition to Vulkan and warns players about the new requirements.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es",
@@ -50,8 +61,8 @@
     "count": 3
   },
   {
-    "title": "AMD confirms Zen 7 will be the last generation for AM5 socket and Zen 8 will require AM6 and DDR6",
-    "summary": "AMD's roadmap predicts that Zen 7 processors will complete the life of AM5, while Zen 8 will jump to AM6 and DDR6, with three EPYC families for 2028.",
+    "title": "AMD announces that Zen 7 will be the last CPU with AM5 socket and splits EPYC into three series for AI",
+    "summary": "The new families Florence, Ferrara, and Fidenza will arrive in 2028 with a specific focus on artificial intelligence.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -60,27 +71,46 @@
     "count": 3
   },
   {
-    "title": "Apple delays its smart glasses until late 2027 to solve privacy issues",
-    "summary": "The company seeks to differentiate itself from Meta's Ray-Ban by guaranteeing privacy, delaying the launch to overcome technical challenges.",
+    "title": "Moonshot AI releases open weights of Kimi K3, a model that competes with industry leaders",
+    "summary": "The open source model offers performance almost comparable to frontier models but is much easier to run.",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "techcrunch.com"
+      "news.ycombinator.com",
+      "the-decoder.com",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Chinese AI Moonshot releases open weights of its Kimi-K3 model and competes with OpenAI",
-    "summary": "The open model Kimi-K3 offers performance nearly equal to frontier models at up to three times lower computational cost.",
+    "title": "A player builds a Steam Deck with spikes, taser, and Raspberry Pi to prevent his family from using the battery",
+    "summary": "The deterrent system includes a camera, speaker, and alarm that activate when the console is touched.",
     "source": [
+      "hardzone.es",
       "tomshardware.com",
-      "news.ycombinator.com"
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "NVIDIA uses its own Vera CPU to develop future processors and graphics cards",
+    "summary": "Initial tests show improved performance in automation tasks and chip design.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Xbox online services suffer global outage days after PlayStation disruption",
-    "summary": "The Xbox service outage affected users worldwide, reigniting debate about reliance on digital games.",
+    "title": "Apple delays its smart glasses until 2027 to ensure privacy compared to Meta's Ray-Ban",
+    "summary": "The company seeks to differentiate itself without compromising user data protection.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xbox suffers a global outage of its online services days after PlayStation's blackout",
+    "summary": "The incident highlights the vulnerability of digital platforms to technical failures.",
     "source": [
       "xataka.com",
       "videocardz.com"
@@ -88,38 +118,38 @@
     "count": 2
   },
   {
-    "title": "Forest fires in central Spain mobilize Starlink and trigger emergency labor measures",
-    "summary": "Smoke from fires in Madrid, Ávila, and Toledo crosses the peninsula, Starlink offers free internet, and the government grants four days of paid leave.",
+    "title": "Sony promotes vinyl records while advancing the end of physical discs for PS5",
+    "summary": "Players criticize the decision, but a former Rockstar Games director considers that losing the physical format is not a big problem.",
     "source": [
-      "bandaancha.eu",
-      "xataka.com"
+      "hardzone.es",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "European payment system Wero advances with Decathlon and Lidl joining",
-    "summary": "Wero, the alternative to Visa and Mastercard promoted by European banks, gains ground as it is adopted by large retail chains.",
+    "title": "An AI data center in Michigan is sued for the constant noise it generates, similar to a vacuum cleaner",
+    "summary": "The company has been fined and offers to buy the homes of neighbors affected by the noise.",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
+      "xataka.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "MSI and Colorful raise RTX 50 prices in China by up to 38% above recommended price",
-    "summary": "The rise in memory and component costs forces manufacturers to increase prices of their RTX 50 series graphics cards.",
+    "title": "NVIDIA founds the Open Secure AI Alliance with 37 members, but without OpenAI, Google or Anthropic",
+    "summary": "The open source alliance seeks to strengthen AI security after the breach suffered by OpenAI.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "tomshardware.com",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIA uses its own Vera CPU to design future chips with up to 50% better performance",
-    "summary": "Initial tests of the Vera CPU show significant improvements in automation and semiconductor design, paving the way for new generations.",
+    "title": "Forest fires in central Spain spread smoke to half the peninsula and mobilize aid",
+    "summary": "Starlink offers free satellite internet, while the Ministry of Labor grants paid leave and operators launch an emergency service.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "xataka.com",
+      "bandaancha.eu"
     ],
     "count": 2
   }

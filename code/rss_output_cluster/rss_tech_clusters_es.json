@@ -1,27 +1,28 @@
 [
   {
-    "title": "El fabricante chino de memoria CXMT se revaloriza un 466% en su estreno bursátil en Shanghái",
-    "summary": "La compañía china de DRAM debutó en bolsa con una subida récord, destinando los fondos a la producción de memorias.",
+    "title": "Microsoft presenta MAI-Cyber-1-Flash, su primer modelo de IA para ciberseguridad, a la mitad del costo de los competidores",
+    "summary": "El modelo se integra en el sistema agéntico MDASH y aunque depende de OpenAI para tareas complejas, promete mejorar la defensa digital.",
     "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft lanza su propio modelo de ciberseguridad MAI-Cyber-1 junto con un sistema agéntico",
-    "summary": "El modelo de inteligencia artificial refuerza la seguridad de Microsoft, aunque sigue recurriendo a OpenAI para las tareas más exigentes.",
-    "source": [
+      "alternativeto.net",
       "the-decoder.com",
       "techcrunch.com",
       "news.ycombinator.com"
     ],
+    "count": 4
+  },
+  {
+    "title": "Los chats compartidos de Claude quedan expuestos en los resultados de búsqueda de Google y Bing",
+    "summary": "La privacidad de las conversaciones con la IA se vio comprometida al aparecer en los buscadores.",
+    "source": [
+      "techcrunch.com",
+      "wired.com",
+      "the-decoder.com"
+    ],
     "count": 3
   },
   {
-    "title": "Nvidia sopesa avalar 250.000 millones de dólares para el centro de datos de OpenAI en Ohio",
-    "summary": "Un posible acuerdo permitiría a OpenAI alquilar el campus de SoftBank de 10 gigavatios con el respaldo financiero de Nvidia.",
+    "title": "Nvidia avalaría 250.000 millones de dólares para que OpenAI tenga su propio centro de datos en Ohio",
+    "summary": "La garantía permitiría a la empresa de IA alquilar el campus de SoftBank de 10 gigavatios, con Nvidia como principal suministrador de chips.",
     "source": [
       "tomshardware.com",
       "xataka.com",
@@ -30,18 +31,28 @@
     "count": 3
   },
   {
-    "title": "Un jugador construye un Steam Deck con pinchos, táser y Raspberry Pi para evitar que su familia lo use",
-    "summary": "El sistema de seguridad incluye pinchos 3D, una pistola eléctrica y una Raspberry Pi con alarma para proteger la batería del dispositivo.",
+    "title": "El fabricante chino de memoria CXMT se dispara un 466% en su debut en la bolsa de Shanghái",
+    "summary": "La compañía centrará la inversión en ampliar la producción de DRAM, sin planes inmediatos para fabricar HBM.",
     "source": [
-      "hardzone.es",
+      "elchapuzasinformatico.com",
       "tomshardware.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "MSI y Colorful incrementan los precios de las RTX 50 en China hasta un 59% por cambios en la distribución",
+    "summary": "El aumento podría extenderse a otros mercados y refleja la presión alcista en los costes de las GPU.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Minecraft Java Edition aumenta sus requisitos de RAM por primera vez en 17 años hasta 16 GB",
-    "summary": "El juego incrementa la memoria recomendada de 4 a 16 GB de cara a la transición a Vulkan, afectando a los jugadores con hardware antiguo.",
+    "title": "Minecraft Java Edition sube la memoria RAM recomendada a 16 GB tras 17 años sin cambios",
+    "summary": "El popular juego se prepara para la transición a Vulkan y advierte a los jugadores sobre los nuevos requisitos.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es",
@@ -50,8 +61,8 @@
     "count": 3
   },
   {
-    "title": "AMD confirma que Zen 7 será la última generación del socket AM5 y que Zen 8 requerirá AM6 y DDR6",
-    "summary": "La hoja de ruta de AMD prevé que los procesadores Zen 7 completen la vida de AM5, mientras que Zen 8 dará el salto a AM6 y DDR6, con tres familias EPYC para 2028.",
+    "title": "AMD anuncia que Zen 7 será la última CPU con socket AM5 y divide las EPYC en tres series para IA",
+    "summary": "Las nuevas familias Florence, Ferrara y Fidenza llegarán en 2028 con un enfoque específico en inteligencia artificial.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -60,27 +71,46 @@
     "count": 3
   },
   {
-    "title": "Apple retrasa sus gafas inteligentes hasta finales de 2027 para solucionar los problemas de privacidad",
-    "summary": "La compañía busca diferenciarse de las Ray-Ban de Meta garantizando la privacidad, retrasando el lanzamiento para superar los desafíos técnicos.",
+    "title": "Moonshot AI publica los pesos abiertos de Kimi K3, un modelo que compite con los líderes del sector",
+    "summary": "El modelo de código abierto ofrece un rendimiento casi equiparable a los modelos frontera pero es mucho más fácil de ejecutar.",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "techcrunch.com"
+      "news.ycombinator.com",
+      "the-decoder.com",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "La IA china Moonshot publica los pesos abiertos de su modelo Kimi-K3 y compite con OpenAI",
-    "summary": "El modelo abierto Kimi-K3 ofrece un rendimiento casi igual al de los modelos de frontera con un coste computacional hasta tres veces menor.",
+    "title": "Un jugador construye un Steam Deck con pinchos, táser y Raspberry Pi para evitar que su familia use la batería",
+    "summary": "El sistema disuasorio incluye cámara, altavoz y alarma que se activan al tocar la consola.",
     "source": [
+      "hardzone.es",
       "tomshardware.com",
-      "news.ycombinator.com"
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "NVIDIA emplea su propia CPU Vera para desarrollar futuros procesadores y tarjetas gráficas",
+    "summary": "Las pruebas iniciales muestran un rendimiento mejorado en tareas de automatización y diseño de chips.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Los servicios en línea de Xbox sufren una caída global días después de la interrupción de PlayStation",
-    "summary": "La caída del servicio de Xbox afectó a usuarios de todo el mundo, reavivando el debate sobre la dependencia de los juegos digitales.",
+    "title": "Apple retrasa sus gafas inteligentes hasta 2027 para garantizar la privacidad frente a las Ray-Ban de Meta",
+    "summary": "La compañía busca diferenciarse sin comprometer la protección de datos de los usuarios.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xbox sufre una caída global de sus servicios online días después del apagón de PlayStation",
+    "summary": "El incidente subraya la vulnerabilidad de las plataformas digitales frente a fallos técnicos.",
     "source": [
       "xataka.com",
       "videocardz.com"
@@ -88,38 +118,38 @@
     "count": 2
   },
   {
-    "title": "Los incendios forestales en el centro de España movilizan a Starlink y activan medidas laborales de emergencia",
-    "summary": "El humo de los incendios en Madrid, Ávila y Toledo cruza la península, Starlink ofrece internet gratuito y el Gobierno concede cuatro días de permiso retribuido.",
+    "title": "Sony promociona vinilos mientras avanza en el fin de los discos físicos para PS5",
+    "summary": "Los jugadores critican la decisión, pero un exdirector de Rockstar Games considera que perder el formato físico no es un gran problema.",
     "source": [
-      "bandaancha.eu",
-      "xataka.com"
+      "hardzone.es",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "El sistema de pago europeo Wero avanza con la adhesión de Decathlon y Lidl",
-    "summary": "Wero, la alternativa a Visa y Mastercard impulsada por bancos europeos, gana terreno al ser adoptada por grandes cadenas comerciales.",
+    "title": "Un centro de datos de IA en Míchigan es demandado por el ruido constante que genera, similar a una aspiradora",
+    "summary": "La empresa ha sido multada y ofrece comprar las viviendas de los vecinos afectados por el estruendo.",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
+      "xataka.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "MSI y Colorful suben los precios de las RTX 50 en China hasta un 38% sobre el precio recomendado",
-    "summary": "El alza en los costes de memoria y componentes obliga a los fabricantes a incrementar los precios de sus tarjetas gráficas de la serie RTX 50.",
+    "title": "NVIDIA funda la Open Secure AI Alliance con 37 miembros, pero sin OpenAI, Google ni Anthropic",
+    "summary": "La alianza de código abierto busca reforzar la seguridad de la IA tras la brecha sufrida por OpenAI.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "tomshardware.com",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIA utiliza su propia CPU Vera para diseñar futuros chips con un rendimiento hasta un 50% superior",
-    "summary": "Las primeras pruebas de la CPU Vera muestran mejoras significativas en automatización y diseño de semiconductores, allanando el camino para nuevas generaciones.",
+    "title": "Los incendios forestales en el centro de España extienden humo a media península y movilizan ayudas",
+    "summary": "Starlink ofrece internet satelital gratuito, mientras Trabajo concede permisos retribuidos y las operadoras lanzan un servicio de emergencia.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "xataka.com",
+      "bandaancha.eu"
     ],
     "count": 2
   }

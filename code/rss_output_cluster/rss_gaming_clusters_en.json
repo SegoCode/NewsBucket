@@ -1,165 +1,180 @@
 [
   {
-    "title": "Pokémon Company to use facial recognition in stores to combat card resale",
-    "summary": "The company implements facial scanners in Japanese stores to verify age and limit purchases of card packs, as a measure against speculators.",
-    "source": [
-      "polygon.com",
-      "pcgamer.com",
-      "gamespot.com",
-      "kotaku.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 8
-  },
-  {
-    "title": "PlayStation fans call for a week-long blackout in protest of the possible end of physical discs",
-    "summary": "The community plans to not turn on their consoles for a week in August as a sign of rejection of Sony's strategy to eliminate the physical format.",
-    "source": [
-      "3djuegos.com",
-      "kotaku.com",
-      "eurogamer.net",
-      "kite.kagi.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 8
-  },
-  {
-    "title": "Xbox servers suffer a global outage blocking access to digital and physical games",
-    "summary": "The interruption of the Xbox Network service prevented users from playing both digital and physical titles, generating criticism about digital dependence.",
-    "source": [
-      "kotaku.com",
-      "eurogamer.net",
-      "gamespot.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 7
-  },
-  {
-    "title": "Square Enix hints at more Final Fantasy remakes and possible new director for the saga",
-    "summary": "The company suggests it plans to expand the franchise's remakes with more ambitious installments and possible changes in creative direction.",
-    "source": [
-      "gamespot.com",
-      "kotaku.com",
-      "eurogamer.net",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 7
-  },
-  {
-    "title": "Marvel Tōkon: Fighting Souls faces technical issues on PC and Arc System Works apologizes",
-    "summary": "The fighting game suffered serious performance issues during the open beta on PC, leading the studio to offer a public apology.",
-    "source": [
-      "pcgamer.com",
-      "eurogamer.net",
-      "rockpapershotgun.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 7
-  },
-  {
-    "title": "Capcom plans to release a Resident Evil each year and bets on remakes",
-    "summary": "The company's strategy includes annual re-releases of the survival horror saga, using remakes as a pillar to maintain constant interest.",
-    "source": [
-      "3djuegos.com",
-      "pcgamer.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 6
-  },
-  {
     "title": "STALKER 2: Heart of Chornobyl receives its first major expansion 'Cost of Hope' in August",
-    "summary": "Update 2.0 and the story DLC will arrive on August 20, adding dozens of hours of content and technical improvements to the game.",
+    "summary": "The expansion includes 'dozens of hours' of additional content and will be released alongside a free update that improves the game's engine.",
     "source": [
-      "polygon.com",
       "3djuegos.com",
       "gematsu.com",
       "rockpapershotgun.com",
       "pcgamer.com",
-      "gamespot.com"
+      "gamespot.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "NewsBucket-005",
+      "NewsBucket-006"
     ],
-    "count": 6
+    "count": 11
   },
   {
-    "title": "Cyan Worlds shows discarded prototype of a new Myst and confirms that another game in the saga is in development",
-    "summary": "The studio reveals images of a canceled project called 'Project Anglerfish', while working on a different installment of the Myst series.",
+    "title": "Cyan Worlds shows canceled prototype of a new Myst and confirms another game in the series is in development",
+    "summary": "The studio released a teaser for 'Project Anglerfish' that will never be released, but assures they are working on a new Myst title.",
     "source": [
+      "pcgamer.com",
       "gamesindustry.biz",
       "rockpapershotgun.com",
       "eurogamer.net",
-      "kotaku.com"
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 8
+  },
+  {
+    "title": "Square Enix warns that remakes of Final Fantasy VI, VIII or IX could be longer than the FFVII trilogy",
+    "summary": "Developers state that adapting these classics would require at least four or five installments, surpassing the length of the FFVII project.",
+    "source": [
+      "nintendolife.com",
+      "eurogamer.net",
+      "3djuegos.com",
+      "gamespot.com"
     ],
     "count": 4
   },
   {
-    "title": "Halo remake leads Japanese releases of the week with an enhanced version",
-    "summary": "Halo: Campaign Evolved tops the new releases in Japan, while reviews highlight the visual quality of water in the remake.",
+    "title": "PlayStation fans plan a one-week 'blackout' to protest against the end of physical discs",
+    "summary": "The community organizes a boycott by turning off PS5s for a week to pressure Sony not to remove the disc drive in future consoles.",
     "source": [
+      "3djuegos.com",
+      "kotaku.com",
+      "eurogamer.net",
+      "kite.kagi.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Marvel Tokon: Fighting Souls concludes its open beta with Blade and Magik as favorites and criticism for PC performance",
+    "summary": "The fighting game from Arc System Works had a mixed beta: great reception for the characters, but complaints about performance issues on PC that led to apologies from the developer.",
+    "source": [
+      "polygon.com",
+      "pcgamer.com",
+      "eurogamer.net",
+      "rockpapershotgun.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Halo: Campaign Evolved now available for Xbox, sparks cultural controversy and praise for its graphics",
+    "summary": "The Halo remake for Xbox tops the week's Japanese releases, while fans debate changes in narrative and visual quality, especially the water.",
+    "source": [
+      "polygon.com",
       "kotaku.com",
       "gematsu.com",
       "kite.kagi.com"
     ],
+    "count": 4
+  },
+  {
+    "title": "Xbox Network suffers a global outage that prevents playing digital and physical games",
+    "summary": "Microsoft's service was offline for hours, affecting all players and generating criticism about the all-digital future.",
+    "source": [
+      "kotaku.com",
+      "eurogamer.net",
+      "gamespot.com"
+    ],
     "count": 3
   },
   {
-    "title": "The Elder Scrolls III: Morrowind can now be played in a web browser",
-    "summary": "Thanks to a fan-made port, Bethesda's classic RPG runs directly in the browser without the need for additional downloads.",
+    "title": "A forgotten Steam game goes viral after being used to play Undertale in online multiplayer",
+    "summary": "The developer is shocked to discover that their old game 'Crashphalt' now serves as the base for an Undertale multiplayer mod, with a 1,700% increase in players.",
     "source": [
-      "polygon.com",
+      "pcgamer.com",
+      "kotaku.com",
+      "rockpapershotgun.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Former Dragon Age director calls EA a 'hedge fund with a video game hobby' and believes the series is dead",
+    "summary": "Mark Darrah strongly criticizes EA and suggests that Dragon Age will not have more games after The Veilguard, although the problem is not that title.",
+    "source": [
+      "kotaku.com",
+      "pcgamer.com",
+      "3djuegos.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Rockstar co-founder and Dan Houser defend physical discs in the debate about PlayStation's digital future",
+    "summary": "Key industry figures, including Rockstar co-founder and GTA writer, urge companies to continue offering games in physical format if players demand it.",
+    "source": [
+      "eurogamer.net",
+      "kotaku.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Pokémon Company will use facial recognition to combat card reselling",
+    "summary": "The company plans to implement facial scanners to prevent resellers from hoarding products, according to press reports.",
+    "source": [
+      "pcgamer.com",
+      "gamespot.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GTA 6 physical codes in Japan will expire and be region-locked",
+    "summary": "Rockstar confirms that physical copies of Grand Theft Auto 6 in Japan will include temporary download codes and regional restrictions, generating confusion among players.",
+    "source": [
+      "kotaku.com",
       "eurogamer.net"
     ],
     "count": 2
   },
   {
-    "title": "Splatoon Raiders becomes one of the highest-rated user games on Metacritic",
-    "summary": "The shooter climbs to the top 10 of best user-reviewed games, dethroning Assassin's Creed in the UK charts.",
+    "title": "Microsoft gives away 13 Ubisoft games on PC to those who own them on Xbox",
+    "summary": "Xbox users can claim Ubisoft titles for PC at no additional cost, taking advantage of a new platform benefit.",
+    "source": [
+      "pcgamer.com",
+      "3djuegos.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Shigeru Miyamoto: 'We don't start by asking what's trending' and defends the primacy of gameplay over hardware",
+    "summary": "The iconic Nintendo designer states that the company focuses on offering unique experiences rather than following trends or competing on technical specifications.",
+    "source": [
+      "3djuegos.com",
+      "eurogamer.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "User maps in Meccha Chameleon contain malware and official Discord server hacked",
+    "summary": "The Steam bestseller game suffers a security crisis with malicious maps that infect players and an attack on its Discord community.",
+    "source": [
+      "gamespot.com",
+      "eurogamer.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Jay and Silent Bob's Joint Venture announced, a farm simulator with marijuana cultivation",
+    "summary": "Kevin Smith's famous characters star in a new agricultural simulation video game with an adult and comedic tone, where cannabis is planted and sold.",
+    "source": [
+      "pcgamer.com",
+      "gematsu.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Marvel reduces to four movies in three years and reveals its schedule for phases 7 and 8",
+    "summary": "The studio announces a decrease in production to prioritize quality, while detailing upcoming releases that include X-Men, Ghost Rider, and Black Panther 3.",
     "source": [
       "kotaku.com",
-      "nintendolife.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Rockstar and Take-Two executives defend the sale of games in physical format",
-    "summary": "Dan Houser and Rockstar's co-founder speak in favor of companies continuing to offer discs if players demand them.",
-    "source": [
-      "eurogamer.net",
-      "kotaku.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The actor from the Zelda movie shares his memories of Breath of the Wild and talks about his role as Link",
-    "summary": "The performer of the hero of Hyrule reflects on his experience on set and the memories that the video game brings him.",
-    "source": [
-      "nintendolife.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Shigeru Miyamoto believes that players no longer care so much about technical specifications of consoles",
-    "summary": "The Nintendo creative opines that the company focuses on offering unique gameplay instead of competing in raw power.",
-    "source": [
-      "eurogamer.net",
-      "kotaku.com"
+      "polygon.com"
     ],
     "count": 2
   }
