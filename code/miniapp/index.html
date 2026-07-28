@@ -89,10 +89,10 @@
             const tier = c => c.startsWith('quake') ? 0 : c === 'high' ? 1 : c === 'medium' ? 2 : 3;
             const items = data.map(item => {
                 const count = item.count || item.source.length;
-                // Collapse synthetic carry sources to their highest marker for display.
-                const carry = item.source.filter(s => s.startsWith('NewsBucket-')).sort().pop();
+                // Collapse synthetic carry sources to a single "NewsBucket" label.
+                const hasCarry = item.source.some(s => s.startsWith('NewsBucket-'));
                 const source = item.source.filter(s => !s.startsWith('NewsBucket-'));
-                if (carry) source.push(carry);
+                if (hasCarry) source.push('NewsBucket');
                 return { ...item, source, cls: item.cls || (count >= 4 ? 'high' : count >= 3 ? 'medium' : 'low') };
             });
             items.sort((a, b) => tier(a.cls) - tier(b.cls));
