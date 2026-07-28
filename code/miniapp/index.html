@@ -78,6 +78,21 @@
         const LIVE_EN = ytLive('f0lYkdA-Gtw');
         const tg = window.Telegram?.WebApp;
         const sentenceCase = s => s && s[0].toUpperCase() + s.slice(1).toLowerCase();
+        // Level 1 → name only; Level 2+ → "name, Level N" / "name, レベルN" (no brackets).
+        const formatAlertName = (s, lang) => {
+            if (!s) return '';
+            const text = s.normalize('NFKC');
+            const m = text.match(/\[(?:レベル|Level)\s*(\d+)[^\]]*\]/i);
+            const raw = text
+                .replace(/\[(?:レベル|Level)\s*\d+[^\]]*\]/gi, '')
+                .replace(/\s*alert$|\s*アラート$/i, '')
+                .replace(/\s+/g, ' ')
+                .trim();
+            const name = lang === 'jp' ? raw : sentenceCase(raw);
+            const n = m ? +m[1] : 0;
+            if (n <= 1) return name;
+            return lang === 'jp' ? `${name}, レベル${n}` : `${name}, Level ${n}`;
+        };
         let jma = null;
         try {
             const saved = JSON.parse(localStorage.getItem('nb') || '{}');
@@ -112,7 +127,7 @@
             } catch {}
             if (topic.value === 'japan') {
                 if (jma?.alerts.length) items.unshift(...jma.alerts.map(a => ({
-                    title: `${lang.value === 'jp' ? '気象警報' : 'Weather alert'}: ${(lang.value === 'jp' ? a.jp : sentenceCase(a.en)).replace(/\s*alert$|\s*アラート$/i, '')}`,
+                    title: `${lang.value === 'jp' ? '気象警報' : 'Weather alert'}: ${formatAlertName(lang.value === 'jp' ? a.jp : a.en, lang.value === 'jp' ? 'jp' : 'en')}`,
                     source: ['JMA', jma.prefecture],
                     cls: 'quake-high',
                     url: `https://www.jma.go.jp/bosai/#lang=${lang.value === 'jp' ? 'jp' : 'en'}&pattern=default&area_type=japan&area_code=010000`,
