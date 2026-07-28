@@ -26,18 +26,20 @@ for (const file of files) {
 	const prev = fs.existsSync(outFile)
 		? JSON.parse(fs.readFileSync(outFile, "utf-8"))
 		: [];
-	// Synthetic outlets keep previously red stories eligible for one additional run.
+	// Carry degrades by real outlets only: markers never count towards the next run.
 	const carry = prev.filter(
 		(c) =>
 			c?.count >= RED_MIN &&
 			Array.isArray(c.source) &&
-			!c.source.some((source) => source.startsWith(CARRY_SOURCE)),
+			c.source.some((source) => !source.startsWith(CARRY_SOURCE)),
 	);
 	const carryItems = carry.flatMap((c) =>
-		Array.from({ length: c.count }, (_, i) => ({
-			title: c.title,
-			source: `${CARRY_SOURCE}${String(i + 1).padStart(3, "0")}`,
-		})),
+		c.source
+			.filter((source) => !source.startsWith(CARRY_SOURCE))
+			.map((_, i) => ({
+				title: c.title,
+				source: `${CARRY_SOURCE}${String(i + 1).padStart(3, "0")}`,
+			})),
 	);
 
 	const data = JSON.parse(fs.readFileSync(path.join(INPUT_DIR, file), "utf-8"));
