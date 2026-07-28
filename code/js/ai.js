@@ -38,7 +38,7 @@ for (const file of files) {
 			.filter((source) => !source.startsWith(CARRY_SOURCE))
 			.map((_, i) => ({
 				title: c.title,
-				source: `${CARRY_SOURCE}${String(i + 1).padStart(3, "0")}`,
+				source: `${CARRY_SOURCE}${i + 1}`,
 			})),
 	);
 
