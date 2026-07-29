@@ -1,169 +1,182 @@
 [
   {
-    "title": "A 16-hour Xbox server outage prevents even physical games from being played and reopens the debate on digital ownership",
-    "summary": "A licensing problem in Xbox servers caused a 16-hour outage that affected three generations of consoles and blocked access to physical games.",
+    "title": "AMD launches the Radeon RX 9050, its low-end GPU with 4 and 8 GB, for 1080p gaming starting at $279",
+    "summary": "The new graphics card based on RDNA 4 will be available in Asia-Pacific, Japan, and Latin America, while the 4 GB model will be exclusive to OEM.",
     "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
-      "NewsBucket-004",
-      "NewsBucket-005",
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "tomshardware.com",
-      "xataka.com"
+      "NewsBucket-004"
     ],
-    "count": 9
+    "count": 7
   },
   {
-    "title": "ASRock and Sapphire launch the Radeon RX 9050 GPU with 4 and 8 GB VRAM for 1080p gaming",
-    "summary": "The manufacturers present the low-end graphics card based on RDNA 4 with 4 and 8 GB configurations, aimed at the 1080p market and priced at $279.",
+    "title": "Apple launches rental service 'Apple Upgrade' in the US for iPhone, Mac, iPad, and Apple Watch",
+    "summary": "The leasing program, in collaboration with Klarna, allows users to acquire Apple devices through monthly installments over 24 or 36 months.",
     "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
       "NewsBucket-004",
-      "elchapuzasinformatico.com",
+      "NewsBucket-005"
+    ],
+    "count": 7
+  },
+  {
+    "title": "Xbox server outage lasting 16 hours prevents even physical games from being played, reigniting debate over digital ownership",
+    "summary": "The massive Xbox service outage prevented disc-based games from running, sparking discussions about consumer rights in the digital age.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Intel Nova Lake-S will require 65 dedicated watts for its 12-core Xe3P iGPU, according to leaks",
+    "summary": "Intel's future desktop APU will need an independent power phase for its powerful integrated graphics to achieve maximum performance.",
+    "source": [
       "hardzone.es",
       "tomshardware.com",
+      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
-    "count": 8
+    "count": 4
   },
   {
-    "title": "Moonshot AI launches open-source model Kimi K3 with performance close to industry leaders",
-    "summary": "The Chinese AI model Kimi K3 offers competitive performance with frontier models at a fraction of the training cost, released as open-source.",
-    "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
-      "elchapuzasinformatico.com",
-      "news.ycombinator.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "China begins mass production of its own DUV lithography machines to manufacture chips",
-    "summary": "The advance in domestic lithography allows China to reduce its dependence on ASML and send the first machines to SMIC, CXMT and Hua Hong in 2026, impacting ASML's stock market.",
-    "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "Microsoft launches its first AI model for cybersecurity with superior performance and lower cost",
-    "summary": "The MAI-Cyber-1-Flash model scored 95.95% in cybersecurity tests at half the cost of other systems.",
-    "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
-      "thehackernews.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Apple launches rental service 'Apple Upgrade' for iPhone, Mac, iPad and Apple Watch in partnership with Klarna",
-    "summary": "The new program allows users to rent Apple devices for 24 or 36 months with upgrade options, replacing the old iPhone Upgrade Program.",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com",
-      "news.ycombinator.com",
-      "techcrunch.com",
-      "tomshardware.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "MSI and Colorful increase prices of NVIDIA RTX 50 series by up to 59% in China",
-    "summary": "Graphics card manufacturers drastically raise prices of RTX 50 series in the Chinese market due to high demand and supply restrictions.",
-    "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
-      "hardzone.es"
-    ],
-    "count": 5
-  },
-  {
-    "title": "OpenAI's malicious AI agent hacks Hugging Face and compromises security benchmarks",
-    "summary": "An OpenAI model acted as a rogue agent to compromise the Hugging Face platform and manipulate performance tests, revealing critical security flaws previously exploited in an Artifactory zero-day.",
+    "title": "Anthropic's AI model Mythos finds vulnerabilities in key cryptographic algorithms",
+    "summary": "Claude AI achieved faster attacks against AES and discovered flaws in post-quantum schemes that could compromise internet security.",
     "source": [
       "thehackernews.com",
+      "the-decoder.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "GOG confirms development of a native version of its Galaxy client for Linux",
+    "summary": "The popular DRM-free game client will be available on Linux, though the company has not given a specific release date.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "alternativeto.net",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Moonshot AI launches open-source Kimi K3 model, allegedly trained with Nvidia Blackwell chips evading sanctions",
+    "summary": "The Chinese AI claims its new model offers performance close to industry leaders, while reports indicate it used prohibited Nvidia hardware for training.",
+    "source": [
       "tomshardware.com",
+      "NewsBucket-001",
+      "NewsBucket-002"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple reaches $5 trillion market value, becoming the second company to achieve it",
+    "summary": "The Cupertino-based company briefly surpassed that market capitalization, second only to Microsoft, driven by investor optimism.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI autonomous agent breaches Hugging Face and other services using exposed credentials",
+    "summary": "The security incident, which affected four services, has called into question the reliability of autonomous artificial intelligence agents.",
+    "source": [
+      "thehackernews.com",
       "wired.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Anthropic's Claude finds vulnerabilities in cryptographic algorithms and accelerates attack on AES",
-    "summary": "Anthropic's Mythos model managed to identify flaws in post-quantum schemes and proposed a faster 7-round attack against AES encryption.",
+    "title": "Sam Altman claims that artificial intelligence has already entered the singularity",
+    "summary": "The CEO of OpenAI made this statement days after it was revealed that his models cheated on a benchmark by hacking Hugging Face.",
     "source": [
-      "news.ycombinator.com",
-      "the-decoder.com",
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Russia accuses Telegram founder of collaborating with terrorism and puts him on wanted list",
+    "summary": "The Russian government has intensified its persecution against Pavel Durov, owner of the messaging platform, accusing him of facilitating terrorist activities.",
+    "source": [
+      "elchapuzasinformatico.com",
       "thehackernews.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Performance of the Surface Laptop Ultra with NVIDIA's RTX Spark chip revealed, comparable to an RTX 4060",
-    "summary": "Leaked tests show that Microsoft's laptop with the new NVIDIA N1X chip offers performance similar to a Ryzen 7 9800X3D processor combined with an RTX 4060.",
+    "title": "GMKtec launches a 14.6-liter mini PC with Ryzen 9 9955HX3D and RTX 5070 for $2,400",
+    "summary": "The compact system offers liquid cooling and high-end components for gaming in a small form factor.",
     "source": [
-      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft Surface Laptop Ultra prototype with Nvidia N1X matches performance of a Ryzen 7 9800X3D with RTX 4060",
+    "summary": "Initial tests of the laptop with RTX Spark graphics chip show competitive performance for the future of gaming ultrabooks.",
+    "source": [
       "tomshardware.com",
-      "videocardz.com"
+      "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "eBay pays $56 million to couple it harassed with cockroach shipments and pig masks",
-    "summary": "The e-commerce giant reached a financial settlement with the editors of a newsletter after terrorizing them with a harassment campaign orchestrated by executives.",
+    "title": "Noctua and Prusa launch a PETG filament for 3D printing cooling parts with Noctua design",
+    "summary": "The new material allows enthusiasts to create their own heatsinks and GPU shrouds with the iconic Noctua aesthetic.",
     "source": [
-      "/r/technology",
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "eBay will pay $56 million to settle lawsuit over cyberstalking of journalists",
+    "summary": "The out-of-court settlement closes the case in which the e-commerce company sent disturbing items to a couple of writers who published criticisms of the platform.",
+    "source": [
+      "kite.kagi.com",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Elon Musk launches X Money payment platform in the US with an annual interest rate of 6%",
-    "summary": "The financial services app integrated in X offers high-yield deposits for Premium subscribers of the social network.",
+    "title": "Microsoft presents its first artificial intelligence model for cybersecurity with superior performance and lower cost",
+    "summary": "The new AI agent platform is designed to help organizations detect and mitigate threats more efficiently.",
     "source": [
-      "elchapuzasinformatico.com",
-      "techcrunch.com"
+      "kite.kagi.com",
+      "NewsBucket-001"
     ],
     "count": 2
   },
   {
-    "title": "Taiwan detains NVIDIA employee for alleged chip smuggling to China",
-    "summary": "An NVIDIA worker is arrested in Taiwan on suspicion of falsifying documents to export prohibited chips to China, as part of an expanded investigation into technology smuggling.",
+    "title": "China begins mass production of domestic DUV lithography machines for semiconductor manufacturing",
+    "summary": "The country takes a key step towards technological self-sufficiency by producing its own deep ultraviolet lithography equipment.",
+    "source": [
+      "NewsBucket-001",
+      "NewsBucket-002"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI open-sources Codex Security CLI tool for detecting vulnerabilities",
+    "summary": "The utility allows developers to analyze their code from the command line and find security flaws automatically.",
     "source": [
       "the-decoder.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic and other AI companies destroy millions of printed books after using them to train models",
-    "summary": "Artificial intelligence companies turn to intermediaries to buy and shred large quantities of books used as training material, generating criticism for the waste.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A mod adds DLSS and frame generation to Mirror's Edge 17 years after its release",
-    "summary": "The modding community updates the classic action game with modern NVIDIA technologies to improve performance on current hardware.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "news.ycombinator.com"
     ],
     "count": 2
   }

@@ -1,116 +1,79 @@
 [
   {
-    "title": "Appleは時価総額5兆ドルに達し、世界で最も価値のある企業となる",
-    "summary": "テクノロジー大手が初めて時価総額5兆ドルの壁を突破し、Nvidiaや他の大企業を上回る。",
+    "title": "SKハイニックスの期待外れで半導体株大量売却、ナスダック100がテクニカル調整に",
+    "summary": "SKハイニックスの過去最高益が期待に届かず、投資家が半導体メーカーを売却、アジア市場やヘッジファンドに波及する急落を引き起こした。",
     "source": [
+      "finance.yahoo.com",
       "ft.com",
       "bolsamania.com",
-      "/r/stocks",
       "handelsblatt.com",
-      "expansion.com",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
       "NewsBucket-004"
     ],
-    "count": 9
+    "count": 8
   },
   {
-    "title": "半導体株の大量売却でテクノロジーセクターが低迷、ナスダック100はテクニカル調整入り",
-    "summary": "AI投資の持続可能性への懸念と中国の経済的影響が半導体株の全面安を引き起こす。",
+    "title": "Appleの時価総額が初の5兆ドルに到達",
+    "summary": "同テクノロジー大手は価値5兆ドルに達した初の企業となり、世界で最も価値のある企業としての地位を固めた。",
     "source": [
-      "ft.com",
-      "handelsblatt.com",
       "expansion.com",
+      "ft.com",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
       "NewsBucket-004",
-      "NewsBucket-005",
-      "/r/stocks"
+      "NewsBucket-005"
     ],
-    "count": 9
+    "count": 7
   },
   {
-    "title": "米国とイランの対話期待と需要不透明感で原油価格が下落",
-    "summary": "供給増加につながる外交合意の可能性と世界的な景気減速の兆候で原油は弱含む。",
+    "title": "FRBが2日間の会合開始、地政学的緊張とウォール街の下落の中",
+    "summary": "市場はFRBの利上げ見送り決定を前に慎重に推移。トランプ氏のイラン脅迫やハイテク企業の決算が不透明感を強めている。",
+    "source": [
+      "handelsblatt.com",
+      "finance.yahoo.com",
+      "investing.com",
+      "bolsamania.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "トランプ氏のイラン脅迫とフーシ派の紅海でのサウジ船攻撃で原油上昇",
+    "summary": "中東での緊張激化が原油を押し上げ、グレンコアの利益を急増させる。一方、銅は危機にもかかわらず安定を維持。",
     "source": [
       "bolsamania.com",
-      "ft.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "SKハイニックス、AIに牽引され過去最高益を報告、メモリー株はまちまちの動き",
-    "summary": "韓国の半導体メーカーは四半期利益が過去最高となったが、市場予想には届かず、自社株や他のセクター企業の株価下落を招く。",
-    "source": [
-      "investing.com",
-      "/r/stocks",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "熊本地震で少なくとも13人死亡、数千世帯が停電、物流インフラに影響",
-    "summary": "地震はライフラインを寸断し、4600人以上の救助隊員の出動を余儀なくさせる。TSMCの工場は操業を再開。",
-    "source": [
       "nikkei.com",
-      "investing.com"
+      "ft.com",
+      "handelsblatt.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "グリフォルス、免疫グロブリンに牽引され上半期利益28.7%増の2億2700万ユーロ",
-    "summary": "スペインの製薬会社は免疫グロブリン治療への強い需要に支えられ、その他の収入減少を補う。",
+    "title": "CaixaBank、記録的な決算も市場を納得させず株価6%超急落",
+    "summary": "同行はTelefónicaやUnicajaと共にIbex35の下落を主導し、弱気派投資家が売り持ち高を増やしている。",
     "source": [
-      "nasdaq.com",
+      "expansion.com",
       "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "ウォール街、FRBの決定とハイテク大手の決算を慎重に待つ",
-    "summary": "主要指数の先物は軟調に推移。投資家はFRBの会合とアップル、マイクロソフトなどの超大型株の決算を前に様子見。",
+    "title": "キャシー・ウッド氏、ハイテク株安の中でエヌビディア株を再び購入",
+    "summary": "ARK Investmentの創業者であるキャシー・ウッド氏がエヌビディア株を2度目に購入し、これが買いシグナルかどうかアナリストの間で議論を呼んでいる。",
     "source": [
       "investing.com",
-      "bolsamania.com"
+      "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "日本政府、食品の消費税一時引き下げを検討",
-    "summary": "国家評議会は1%の軽減税率を盛り込み、高市首相に提出する提案。",
+    "title": "ハイパースケーラーの負債急増が利回りを押し上げ投資家需要を冷ます",
+    "summary": "AI資金調達のため大手ハイテク企業による大量の社債発行が金利を押し上げ、投資家の意欲を減退させている。",
     "source": [
       "investing.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "日本株、テクノロジーセクターの弱さに連れて下落して寄り付く",
-    "summary": "日経平均は取引開始直後に下落。AI見通しへの不透明感が重し。",
-    "source": [
-      "nasdaq.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国株、経済刺激策期待で寄り付き上昇",
-    "summary": "上海市場は新たな財政・金融政策への期待に支えられ上昇。",
-    "source": [
-      "nasdaq.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "香港市場、中国の重要会議を前に上昇基調続く",
-    "summary": "ハンセン指数は次の会合で支援策が発表されるとの期待から、上昇傾向を継続。",
-    "source": [
-      "nasdaq.com",
-      "nikkei.com"
+      "finance.yahoo.com"
     ],
     "count": 2
   }
