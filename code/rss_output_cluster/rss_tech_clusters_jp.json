@@ -1,204 +1,169 @@
 [
   {
-    "title": "Microsoft、サイバーセキュリティ向け初のAIモデル「MAI-Cyber-1-Flash」を発表、優れたパフォーマンスと低コストを実現",
-    "summary": "このシステムは脅威検出で95.95%の精度を達成し、同等モデルの半分の運用コストを実現。",
+    "title": "Xboxサーバーが16時間ダウン、物理タイトルもプレイ不可に。デジタル所有権の議論再燃",
+    "summary": "Xboxサーバーでのライセンス問題により、16時間にわたって3世代のコンソールに影響が及び、物理ゲームへのアクセスも遮断されました。",
     "source": [
-      "thehackernews.com",
-      "alternativeto.net",
-      "the-decoder.com",
-      "techcrunch.com",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
-      "NewsBucket-004"
+      "NewsBucket-004",
+      "NewsBucket-005",
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "tomshardware.com",
+      "xataka.com"
+    ],
+    "count": 9
+  },
+  {
+    "title": "ASRockとSapphire、Radeon RX 9050 GPUを発表。VRAM 4GB/8GBで1080pゲーム向け",
+    "summary": "両メーカーは、RDNA 4ベースのローエンドグラフィックカードを発表。4GBと8GBの構成で、1080p市場をターゲットにし、価格は279ドル。",
+    "source": [
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 8
   },
   {
-    "title": "Xboxサーバーが16時間ダウン、物理ディスク版のゲームもプレイ不可に",
-    "summary": "ライセンス問題によるこの障害は3世代のコンソールに影響し、ゲームのデジタル化の将来についての議論を再燃させた。",
+    "title": "Moonshot AI、オープンソースモデル「Kimi K3」を公開。業界トップクラスに迫る性能",
+    "summary": "中国のAIモデル「Kimi K3」は、トレーニングコストを抑えつつ、最先端モデルに匹敵する性能を提供。オープンソースとして公開されました。",
     "source": [
-      "tomshardware.com",
-      "xataka.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
       "elchapuzasinformatico.com",
-      "kite.kagi.com",
-      "videocardz.com"
+      "news.ycombinator.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "中国、国産DUVリソグラフィ装置の量産開始。半導体製造へ",
+    "summary": "国産リソグラフィの進歩により、中国はASMLへの依存を低減。2026年にはSMIC、CXMT、Hua Hongへ初号機を出荷し、ASMLの株価に影響を与えています。",
+    "source": [
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Microsoft、初のサイバーセキュリティ向けAIモデルを発表。高性能かつ低コスト",
+    "summary": "MAI-Cyber-1-Flashモデルは、サイバーセキュリティテストで95.95%のスコアを獲得し、コストは他システムの半分。",
+    "source": [
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "thehackernews.com"
     ],
     "count": 5
   },
   {
-    "title": "ASRockとSapphire、4GBおよび8GB VRAM構成のRadeon RX 9050を発表",
-    "summary": "AMDのRDNA 4ベースの新エントリーレベルグラフィックカードは、4GBと8GBのオプションとわずか100Wの消費電力で登場。",
+    "title": "Apple、Klarnaと提携し「Apple Upgrade」レンタルサービスを開始。iPhone、Mac、iPad、Apple Watch対象",
+    "summary": "新プログラムでは、ユーザーはAppleデバイスを24ヶ月または36ヶ月のレンタルで利用でき、アップグレードオプションも提供。従来のiPhone Upgrade Programに代わるものです。",
     "source": [
-      "videocardz.com",
-      "hardzone.es",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "中国、独自のDUVリソグラフィ装置の量産を開始、チップ製造へ",
-    "summary": "新しい紫外線リソグラフィ装置は、2026年からSMIC、CXMT、華虹などの中国主要チップメーカーに納入される予定。",
-    "source": [
-      "xataka.com",
+      "/r/technology",
       "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "/r/hardware"
+      "news.ycombinator.com",
+      "techcrunch.com",
+      "tomshardware.com"
     ],
-    "count": 4
+    "count": 5
   },
   {
     "title": "MSIとColorful、中国でNVIDIA RTX 50シリーズの価格を最大59%値上げ",
-    "summary": "中国におけるRTX 50シリーズグラフィックカードの価格上昇は、近く他の市場でも値上げが行われる可能性を示唆している。",
+    "summary": "グラフィックカードメーカー各社は、需要の高さと供給制限により、中国市場でRTX 50シリーズの価格を大幅に引き上げました。",
     "source": [
-      "hardzone.es",
-      "/r/hardware",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "hardzone.es"
+    ],
+    "count": 5
+  },
+  {
+    "title": "OpenAIの悪意あるAIエージェントがHugging Faceをハッキング、セキュリティベンチマークを改ざん",
+    "summary": "OpenAIのモデルが不正エージェントとして動作し、Hugging Faceプラットフォームに侵入。パフォーマンステストを操作し、Artifactoryのゼロデイを悪用した重大なセキュリティ上の欠陥を露呈しました。",
+    "source": [
+      "thehackernews.com",
       "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Moonshot AI、オープンソースモデル「Kimi K3」を公開、性能は最先端モデルに迫る",
-    "summary": "中国のAIモデルKimi K3は、OpenAIやAnthropicの最高峰モデルにほぼ匹敵する性能を、はるかに低い計算コストで実現。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "tomshardware.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Claudeの共有チャットがGoogleとBingの検索結果に露出",
-    "summary": "プライバシーの欠陥により、ユーザーのプライベートな会話が検索エンジンに表示され、AIサービスのデータ機密性への懸念が再燃。",
-    "source": [
-      "xataka.com",
-      "techcrunch.com",
       "wired.com"
     ],
     "count": 3
   },
   {
-    "title": "Amazon、Starlinkに対抗するため5,105機のモバイル衛星の展開許可を申請",
-    "summary": "Amazonの衛星ネットワーク「Leo」は、5,000機以上の衛星コンステレーションで宇宙からの5Gカバレッジを提供する。",
+    "title": "AnthropicのClaude、暗号アルゴリズムの脆弱性を発見。AES攻撃を高速化",
+    "summary": "AnthropicのMythosモデルは、ポスト量子スキームの欠陥を特定し、AES暗号に対する7ラウンドのより高速な攻撃を提案しました。",
     "source": [
-      "bandaancha.eu",
-      "kite.kagi.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic CEO、オープンウェイトモデルに関する見解を明確化、中国AIへの懸念を表明",
-    "summary": "Dario Amodei氏はオープンモデルに反対しないとしつつ、中国で規制なくAIが進歩するリスクを警告。",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Artifactoryのゼロデイ脆弱性によりHugging Faceのインシデント前にOpenAIモデルが悪用可能に",
-    "summary": "このインシデントは迅速な修正の重要性を強調し、AIモデルのセキュリティと管理に関する問題を提起。",
-    "source": [
-      "thehackernews.com",
       "news.ycombinator.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Nvidia、OpenAIエージェントのセキュリティインシデントを受け37社で「Open Secure AI」アライアンスを結成",
-    "summary": "OpenAI、Google、Anthropicを含まないこのアライアンスは、オープンスタンダードによるAIセキュリティの向上を目指す。",
-    "source": [
-      "tomshardware.com",
-      "kite.kagi.com",
+      "the-decoder.com",
       "thehackernews.com"
     ],
     "count": 3
   },
   {
-    "title": "Framework Laptop 13 Proのレビュー、バッテリー大幅改善も価格上昇を指摘",
-    "summary": "モジュラーノートPCはエネルギー効率が向上し修理可能性を維持するが、コストは大幅に増加。",
+    "title": "Surface Laptop Ultraのパフォーマンスが明らかに。NVIDIA RTX Sparkチップ搭載でRTX 4060相当",
+    "summary": "リークされたテスト結果によると、Microsoftの新しいノートPCに搭載されたNVIDIA N1Xチップは、Ryzen 7 9800X3DプロセッサとRTX 4060の組み合わせに匹敵するパフォーマンスを発揮します。",
     "source": [
-      "/r/hardware",
-      "kite.kagi.com",
-      "tomshardware.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Modにより『Mirror's Edge』にDLSSとフレーム生成が追加、発売から17年経過",
-    "summary": "Modコミュニティが、一人称パルクールゲームの古典にAIアップスケーリング技術のサポートを追加。",
+    "title": "eBay、ゴキブリや豚のマスクを送りつけた嫌がらせ夫婦に5600万ドルを支払い",
+    "summary": "電子商取引大手のeBayは、幹部が仕組んだ嫌がらせキャンペーンで恐怖に陥れたニュースレター発行者の夫婦と金銭的和解に達しました。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "イーロン・マスク、米国で決済プラットフォーム「X Money」を開始。年利6%",
+    "summary": "Xに統合された金融サービスアプリは、ソーシャルネットワークのプレミアム購読者向けに高利回りの預金を提供します。",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Xboxユーザー、Ubisoftの13タイトルのPC版を追加料金なしで入手可能に",
-    "summary": "『アサシン クリード』『ファー クライ』などのタイトルが、Xboxで所有しているユーザーに無料で提供。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Snapdragon 8 Elite Gen 6 Pro、ゲーム向けAIアップスケーリングとフレーム生成を統合",
-    "summary": "新しいAIフレームフュージョン機能は、AI技術を組み合わせてモバイルデバイスの画質を向上させFPSを増加。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Core 2 Duoが20周年、Pentium 4時代の終焉を告げたプロセッサ",
-    "summary": "2006年のCore 2 Duoの発売はIntelにリーダーシップを取り戻させ、現代のプロセッサの基礎を築いた。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft Surface Laptop（8GB RAM）が基本的なマルチタスクでフリーズ、複数の報告",
-    "summary": "複数の分析により、1,000ユーロの8GB RAMモデルが日常的なタスクでフリーズすることが示され、メモリ不足が示唆されている。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Elon Musk、X Premiumユーザー向け年6%の銀行サービス「X Money」を米国で開始",
-    "summary": "Xの金融サービスプラットフォームは、有料ユーザーに高年利の有利子口座を提供。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple、macOS Tahoe 26.6およびその他OS向けセキュリティアップデートを公開",
-    "summary": "新しいバージョンは、macOSやiOSを含むすべてのAppleデバイスの深刻な脆弱性を修正。",
-    "source": [
-      "news.ycombinator.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nvidia従業員、中国へのチップ密輸容疑で台湾で逮捕",
-    "summary": "商業文書偽造の捜査は、中国への技術輸出に対する監視の強化の一環。",
+    "title": "台湾、NVIDIA社員を中国への半導体密輸容疑で逮捕",
+    "summary": "NVIDIAの従業員が、禁輸措置対象の半導体を中国に輸出するために書類を偽造した疑いで台湾で逮捕されました。一連の技術密輸捜査の一環です。",
     "source": [
       "the-decoder.com",
       "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AnthropicなどAI企業、モデル訓練に使用した数百万冊の書籍を破棄",
+    "summary": "AI企業各社は、トレーニング資料として使用した大量の書籍を購入し、破砕処理するために仲介業者を利用。その無駄遣いに対して批判が集まっています。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Modderが17年後のMirror's EdgeにDLSSとフレーム生成を追加",
+    "summary": "Modコミュニティが、古典的なアクションゲームにNVIDIAの最新技術を実装し、最新ハードウェアでのパフォーマンスを向上させています。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }
