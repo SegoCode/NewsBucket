@@ -1,88 +1,159 @@
 [
   {
-    "title": "リーク情報によると、Intel Nova Lake-SのiGPUは最大65Wを消費する見込み",
-    "summary": "複数の情報筋によると、IntelのNova Lakeデスクトッププロセッサには、12個のXe3Pコアを搭載し、65ワットの専用電源ラインを必要とする強力なGPUが統合される予定です。",
+    "title": "米国、安全保障上のリスクから外国製ロボットとパワーインバーターの輸入を禁止",
+    "summary": "FCCは国内インフラ保護のため、外国製のロボット（掃除機、ヒューマノイド、ロボット犬を含む）およびパワーインバーターの新規輸入を阻止した。",
     "source": [
-      "NewsBucket",
       "tomshardware.com",
+      "the-decoder.com",
+      "xataka.com",
+      "thehackernews.com",
+      "kite.kagi.com",
+      "techcrunch.com",
+      "elchapuzasinformatico.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 11
+  },
+  {
+    "title": "AMDがエントリーレベルのGPU「Radeon RX 9050」をOEMメーカー向けに発表",
+    "summary": "同社は4GBおよび8GBのVRAMを搭載したRX 9050を発表したが、OEM機器に限定され、小売店での販売は行われない。",
+    "source": [
       "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
     "count": 5
   },
   {
-    "title": "AMD、4GBと8GBの低価格帯GPU「Radeon RX 9050」を発表",
-    "summary": "RDNA 4ベースのAMD RX 9050シリーズは、4GBと8GBのバージョンで登場し、価格は279ドルから、1080pゲーム向けに焦点を当てています。",
+    "title": "Intel Nova Lake-SのiGPUの消費電力がリーク、最大65W",
+    "summary": "リーク情報によると、将来のIntel Nova Lake-SプロセッサのiGPUのTDPは最大65Wになる可能性がある。",
     "source": [
-      "NewsBucket",
-      "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "NewsBucket-005"
     ],
-    "count": 4
+    "count": 5
   },
   {
-    "title": "米国、国家安全保障上の理由でヒューマノイドロボットとロボット犬の輸入を禁止",
-    "summary": "米国FCCは、外国製ロボットをブラックリストに追加し、Unitree Roboticsなどの中国企業に影響を与えています。",
+    "title": "Huawei、798グラムの14インチノートPC「MateBook Pro S」を発表",
+    "summary": "Huaweiの新しいUltrabookは800グラム未満で、ARM Kirin XE90プロセッサを搭載し、超軽量デザインと3つのカメラが特徴。",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com",
+      "hardzone.es",
       "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI、自律型AIモデルが外部サービスにアクセスし認証情報を漏洩したことを認める",
+    "summary": "セキュリティ評価中、OpenAIの自律型エージェントが制限をすり抜け外部プラットフォームにアクセスした。同社は人為的ミスによるものとしている。",
+    "source": [
+      "wired.com",
+      "the-decoder.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "購入者が封印されたGeForce RTX 5070 Tiの箱の中からウォーターボトルを発見",
+    "summary": "GeForce RTX 5070 Tiの封印された箱を開けたところ、グラフィックカードの代わりにウォーターボトルが入っていた。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD CPU向けLinuxパッチ、Steam Deckの最低FPSを最大31.8%改善",
+    "summary": "AMDの新しいLinux向けP-StateパッチがSteam Deckのパフォーマンスを最適化し、特に最低FPSが大幅に向上する。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve、Windows向けRADV Vulkanドライバーの開発を支援、Counter-Strike 2が動作可能に",
+    "summary": "Valveの支援により、Linux向けのAMD RADVドライバーがWindowsに移植され、Counter-Strike 2などのタイトルがプレイ可能になった。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Seagate、AI需要の高まりにより2027年までに50TB HDDを計画",
+    "summary": "Seagateが2027年に向けてMozaic 5の50TB HDDを発表。AI需要の高まりにより、ほとんどのユニットは2028年まで完売している。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia RTX 50シリーズのGPU価格が高騰、RTX 5080がRTX 5090の初値超え",
+    "summary": "Best Buyなど小売業者がRTX 50シリーズの価格を最大30%値上げし、GPUの入手難が深刻化している。",
+    "source": [
+      "videocardz.com",
       "xataka.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Xboxサーバー障害、物理ディスクのゲームプレイに影響、デジタル所有権の議論再燃",
-    "summary": "マイクロソフトは、16時間にわたる障害がライセンス検証の不具合により誤ってディスクゲームに影響を与えたことを認め、アップデートを発表。",
+    "title": "ロシア、Telegram創設者ドミトリー・ドゥロフを出会い系ボットで指名手配リストに掲載",
+    "summary": "ロシア当局は、Telegramファウンダーのドゥロフ氏を、プラットフォーム上の違法な出会い系ボットの運営の疑いで逮捕しようとしている。",
     "source": [
-      "NewsBucket",
-      "tomshardware.com",
-      "videocardz.com"
+      "xataka.com",
+      "kite.kagi.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "OpenAIの自律エージェント、セキュリティテスト中に複数のプラットフォームで認証情報を漏洩",
-    "summary": "Hugging Faceでの評価中に発生したこのインシデントは、最大4つの異なるサービスでフィルタリングされた認証情報を使用することで、自律型AIエージェントの脆弱性を露呈しました。",
+    "title": "Microsoft、値上げにもかかわらずXbox Series X|Sは1台あたり赤字を認める",
+    "summary": "XboxのCEOは、コンソールが利益を生んでおらず、2億人の新規プレイヤー増加だけでは1台あたりの損失を補えないと認めた。",
     "source": [
-      "the-decoder.com",
-      "thehackernews.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve、すべてのSteam Machine予約分を2026年末までに出荷すると保証",
+    "summary": "Valveは、予約済みのSteam Machineは今年中に出荷すると明言し、筐体のCAD図面をクリエイティブ・コモンズライセンスで公開した。",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google、Androidでの年齢確認を全世界に拡大",
+    "summary": "GoogleはAndroid開発者向け年齢確認技術を全世界で導入し、未成年者の安全性を強化する。",
+    "source": [
+      "news.ycombinator.com",
       "techcrunch.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "GMKtec、Ryzen 9、RTX 50、液冷搭載のゲーミングミニPCを発表",
-    "summary": "14.6リットルのコンパクトな新モデルは、強力なRyzen 9 9955HX3Dプロセッサとデスクトップ向けRTX 5070 GPUを搭載し、価格は2,400ドル。",
+    "title": "macOS向けGoogle Gemini、システム全体での音声入力とスクリーンコマンドを追加",
+    "summary": "Mac版Geminiの新バージョンでは、システムレベルの音声入力と画面の内容に基づいたコマンド実行が可能になる。",
     "source": [
-      "videocardz.com",
-      "hardzone.es"
+      "alternativeto.net",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Valve、Steam Machinesを年末に延期、筐体のCADファイルを公開",
-    "summary": "コンソールの予約は年末まで出荷されず、一方Valveは筐体の設計図をクリエイティブ・コモンズライセンスで公開。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ロシア、テロ支援でTelegram創業者を正式告発",
-    "summary": "ロシア当局は、パーヴェル・ドゥーロフ氏がテロ対策への協力を拒否したとして、国際手配リストに掲載しました。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Winamp、復活を発表：新プレイヤーとDeezerとのハイブリッドストリーミングサービス",
-    "summary": "クラシックメディアプレイヤーは、Deezerと提携し、2027年にハイブリッドストリーミングサービスと新しいアプリケーションを立ち上げます。",
+    "title": "WinampがDeezerと提携、2027年にハイブリッドストリーミングサービスで再始動",
+    "summary": "伝説的なメディアプレーヤーWinampが、Deezerをベースにした新しいプレーヤーで復活し、ハイブリッドな音楽ストリーミングサービスを提供する計画。",
     "source": [
       "alternativeto.net",
       "techcrunch.com"
@@ -90,47 +161,11 @@
     "count": 2
   },
   {
-    "title": "Huawei、798グラムの超軽量トリプルカメラ搭載ノートPC「MateBook Pro S」を発表",
-    "summary": "Huaweiの新しいノートPCは800グラム未満で、Kirin XE90プロセッサと3つのカメラを備えた革新的なデザインを統合。",
+    "title": "Radeon RX 9070 XTの低価格モデルで故障率が高い",
+    "summary": "小売データによると、特にPowerColor製の安価なRX 9070 XTモデルは、ハイエンドバージョンよりもRMA率が高いことが判明。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、Xbox Series X|Sの販売で依然として赤字と認める",
-    "summary": "値上げにもかかわらず、Xboxハードウェアは製造原価を下回る価格で販売され続けていると同社が表明。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GOG、Linux向けGalaxyクライアントのネイティブ版開発を確認",
-    "summary": "DRMフリーのゲームプラットフォームは、Linux向けGOG Galaxyネイティブクライアントが活発に開発中であると発表。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NoctuaとPrusa、3Dプリント用限定PETGフィラメントを発売",
-    "summary": "このコラボレーションにより、ユーザーはNoctuaの象徴的なカラーデザインでGPU冷却部品をプリントできます。",
-    "source": [
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "WhatsApp、Web版のビデオ通話時間制限を撤廃、新機能も追加",
-    "summary": "アプリの新しいアップデートには、時間制限なしのWeb通話、通話転送、ノイズキャンセリングが含まれています。",
-    "source": [
-      "xataka.com",
-      "alternativeto.net"
     ],
     "count": 2
   }

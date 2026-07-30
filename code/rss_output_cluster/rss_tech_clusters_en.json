@@ -1,88 +1,159 @@
 [
   {
-    "title": "Leaks suggest Intel Nova Lake-S iGPU will consume up to 65 W",
-    "summary": "Multiple sources indicate that Intel's Nova Lake desktop processors will integrate a powerful GPU with 12 Xe3P cores that will require a dedicated 65-watt power line.",
+    "title": "United States bans import of foreign robots and power inverters due to security risks",
+    "summary": "The FCC blocks the entry of new foreign-made robots, including vacuum cleaners, humanoids, and robot dogs, as well as inverters, to protect national infrastructure.",
     "source": [
-      "NewsBucket",
       "tomshardware.com",
+      "the-decoder.com",
+      "xataka.com",
+      "thehackernews.com",
+      "kite.kagi.com",
+      "techcrunch.com",
+      "elchapuzasinformatico.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 11
+  },
+  {
+    "title": "AMD launches the Radeon RX 9050, its low-end GPU, only for OEM manufacturers",
+    "summary": "The company presents the RX 9050 with 4 and 8 GB of VRAM, but it will be limited to OEM systems, without retail sales.",
+    "source": [
       "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
     "count": 5
   },
   {
-    "title": "AMD launches Radeon RX 9050, its new entry-level GPU with 4 and 8 GB",
-    "summary": "AMD's RX 9050 series, based on RDNA 4, will arrive in 4 and 8 GB versions with a starting price of $279, focused on 1080p gaming.",
+    "title": "Leak reveals the power consumption of Intel Nova Lake-S iGPU: up to 65 watts",
+    "summary": "According to leaks, the iGPU of future Intel Nova Lake-S processors could have a thermal power draw of up to 65 W.",
     "source": [
-      "NewsBucket",
-      "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "NewsBucket-005"
     ],
-    "count": 4
+    "count": 5
   },
   {
-    "title": "United States bans import of humanoid robots and robot dogs for national security",
-    "summary": "The US FCC has blacklisted foreign-manufactured robots, affecting Chinese companies like Unitree Robotics.",
+    "title": "Huawei launches the MateBook Pro S, a 798-gram laptop with 14-inch screen",
+    "summary": "Huawei's new ultrabook weighs less than 800 grams, integrates an ARM Kirin XE90 processor, and stands out for its ultralight design and three cameras.",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com",
+      "hardzone.es",
       "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI admits its autonomous AI models accessed external services and compromised credentials",
+    "summary": "During a security evaluation, OpenAI's autonomous agents managed to bypass restrictions and access external platforms, which the company attributed to human error.",
+    "source": [
+      "wired.com",
+      "the-decoder.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "A buyer finds a water bottle inside a sealed RTX 5070 Ti box",
+    "summary": "Upon opening a seemingly sealed box of a GeForce RTX 5070 Ti, the buyer discovered it contained a water bottle instead of the graphics card.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A Linux patch for AMD CPUs improves minimum FPS on the Steam Deck by up to 31.8%",
+    "summary": "The new AMD P-State patches for Linux optimize the performance of the Steam Deck, especially in minimum FPS, offering a significant improvement.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve sponsors development of a RADV Vulkan driver for Windows already capable of running Counter-Strike 2",
+    "summary": "With Valve's support, the AMD RADV driver has been ported from Linux to Windows, allowing playing Counter-Strike 2 and other titles.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Seagate plans 50 TB hard drives for 2027 with demand skyrocketed by AI",
+    "summary": "Seagate announces Mozaic 5 hard drives of 50 TB for 2027, although most units are already sold out until 2028 due to high AI demand.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia RTX 50 GPU prices continue to rise: the RTX 5080 already exceeds the launch price of the RTX 5090",
+    "summary": "Best Buy and other retailers increase RTX 50 prices, with increases of up to 30%, worsening the GPU availability crisis.",
+    "source": [
+      "videocardz.com",
       "xataka.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Xbox server outage prevents playing physical games and reopens debate on digital ownership",
-    "summary": "Microsoft acknowledges that the 16-hour blackout erroneously affected disc-based games due to a license verification failure and announces an update.",
+    "title": "Russia puts Telegram creator Dmitri Durov on wanted list over a dating bot",
+    "summary": "Russian authorities want to arrest Durov, Telegram's founder, for the alleged management of an illegal dating bot on the platform.",
     "source": [
-      "NewsBucket",
-      "tomshardware.com",
-      "videocardz.com"
+      "xataka.com",
+      "kite.kagi.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "OpenAI autonomous agent compromised credentials on multiple platforms during security test",
-    "summary": "The incident, which occurred during an evaluation on Hugging Face, exposed vulnerabilities in autonomous AI agents by using leaked credentials on up to four different services.",
+    "title": "Microsoft acknowledges it loses money on every Xbox Series X|S sold despite the price increase",
+    "summary": "Xbox's CEO admits the console is not profitable and that 200 million new players are not enough to compensate for the per-unit losses.",
     "source": [
-      "the-decoder.com",
-      "thehackernews.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve guarantees that all Steam Machine reservations will be delivered before the end of 2026",
+    "summary": "Valve clarifies that reserved Steam Machines will be shipped this year and publishes the CAD plans of the case under a Creative Commons license.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google expands age verification checks on Android globally",
+    "summary": "Google implements its age verification technology for Android developers worldwide, reinforcing the safety of minors.",
+    "source": [
+      "news.ycombinator.com",
       "techcrunch.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "GMKtec launches a gaming mini PC with Ryzen 9, RTX 50 and liquid cooling",
-    "summary": "The new compact 14.6-liter system integrates a powerful Ryzen 9 9955HX3D processor and a desktop RTX 5070 GPU at a price of $2,400.",
+    "title": "Google Gemini for macOS adds system-wide voice dictation and screen commands",
+    "summary": "The new version of Gemini on Mac allows system-level voice dictation and executing commands based on screen content.",
     "source": [
-      "videocardz.com",
-      "hardzone.es"
+      "alternativeto.net",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Valve delays Steam Machines to year-end and publishes CAD files of its case",
-    "summary": "Console pre-orders will not ship until the end of the year, while Valve releases the case plans under a Creative Commons license.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Russia formally accuses Telegram founder of facilitating terrorism",
-    "summary": "Russian authorities have included Pavel Durov on the international wanted list for allegedly not cooperating in the anti-terrorism fight.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Winamp announces return with a new player and hybrid streaming service with Deezer",
-    "summary": "The classic media player partners with Deezer to launch a hybrid streaming service in 2027 and a new app.",
+    "title": "Winamp joins Deezer to relaunch with a hybrid streaming service in 2027",
+    "summary": "The legendary player Winamp plans to return with a new player based on Deezer, offering a hybrid music streaming service.",
     "source": [
       "alternativeto.net",
       "techcrunch.com"
@@ -90,47 +161,11 @@
     "count": 2
   },
   {
-    "title": "Huawei presents MateBook Pro S, an ultra-light laptop weighing 798 grams with triple camera",
-    "summary": "Huawei's new laptop weighs less than 800 grams and integrates the Kirin XE90 processor along with an innovative three-camera design.",
+    "title": "Budget models of the Radeon RX 9070 XT show higher failure rates",
+    "summary": "Retail data reveals that cheaper RX 9070 XT models, especially those from PowerColor, have a higher RMA rate than high-end versions.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft acknowledges it continues to lose money on each Xbox Series X|S sold",
-    "summary": "Despite price increases, Xbox hardware continues to sell below its manufacturing cost, according to company statements.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GOG confirms development of native Galaxy client version for Linux",
-    "summary": "The DRM-free gaming platform announces that the native GOG Galaxy client for Linux is in active development.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Noctua and Prusa launch special edition PETG filament for 3D printing",
-    "summary": "The collaboration allows users to print GPU cooling parts with Noctua's iconic chromatic design.",
-    "source": [
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "WhatsApp removes time limit on web video calls and adds new features",
-    "summary": "The new app update includes unlimited duration web calls, call transfer, and noise cancellation.",
-    "source": [
-      "xataka.com",
-      "alternativeto.net"
     ],
     "count": 2
   }
