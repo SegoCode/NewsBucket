@@ -1,116 +1,79 @@
 [
   {
-    "title": "AMD launches the Radeon RX 9050, its low-end GPU with 4 and 8 GB, for 1080p gaming starting at $279",
-    "summary": "The new graphics card based on RDNA 4 will be available in Asia-Pacific, Japan, and Latin America, while the 4 GB model will be exclusive to OEM.",
+    "title": "Leaks suggest Intel Nova Lake-S iGPU will consume up to 65 W",
+    "summary": "Multiple sources indicate that Intel's Nova Lake desktop processors will integrate a powerful GPU with 12 Xe3P cores that will require a dedicated 65-watt power line.",
     "source": [
-      "elchapuzasinformatico.com",
+      "NewsBucket",
+      "tomshardware.com",
       "hardzone.es",
       "videocardz.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
+      "elchapuzasinformatico.com"
     ],
-    "count": 7
+    "count": 5
   },
   {
-    "title": "Apple launches rental service 'Apple Upgrade' in the US for iPhone, Mac, iPad, and Apple Watch",
-    "summary": "The leasing program, in collaboration with Klarna, allows users to acquire Apple devices through monthly installments over 24 or 36 months.",
+    "title": "AMD launches Radeon RX 9050, its new entry-level GPU with 4 and 8 GB",
+    "summary": "AMD's RX 9050 series, based on RDNA 4, will arrive in 4 and 8 GB versions with a starting price of $279, focused on 1080p gaming.",
     "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
-      "NewsBucket-005"
-    ],
-    "count": 7
-  },
-  {
-    "title": "Xbox server outage lasting 16 hours prevents even physical games from being played, reigniting debate over digital ownership",
-    "summary": "The massive Xbox service outage prevented disc-based games from running, sparking discussions about consumer rights in the digital age.",
-    "source": [
+      "NewsBucket",
+      "hardzone.es",
       "videocardz.com",
-      "hardzone.es",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 6
-  },
-  {
-    "title": "Intel Nova Lake-S will require 65 dedicated watts for its 12-core Xe3P iGPU, according to leaks",
-    "summary": "Intel's future desktop APU will need an independent power phase for its powerful integrated graphics to achieve maximum performance.",
-    "source": [
-      "hardzone.es",
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 4
   },
   {
-    "title": "Anthropic's AI model Mythos finds vulnerabilities in key cryptographic algorithms",
-    "summary": "Claude AI achieved faster attacks against AES and discovered flaws in post-quantum schemes that could compromise internet security.",
+    "title": "United States bans import of humanoid robots and robot dogs for national security",
+    "summary": "The US FCC has blacklisted foreign-manufactured robots, affecting Chinese companies like Unitree Robotics.",
     "source": [
-      "thehackernews.com",
-      "the-decoder.com",
-      "kite.kagi.com"
+      "techcrunch.com",
+      "kite.kagi.com",
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "GOG confirms development of a native version of its Galaxy client for Linux",
-    "summary": "The popular DRM-free game client will be available on Linux, though the company has not given a specific release date.",
+    "title": "Xbox server outage prevents playing physical games and reopens debate on digital ownership",
+    "summary": "Microsoft acknowledges that the 16-hour blackout erroneously affected disc-based games due to a license verification failure and announces an update.",
     "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net",
+      "NewsBucket",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Moonshot AI launches open-source Kimi K3 model, allegedly trained with Nvidia Blackwell chips evading sanctions",
-    "summary": "The Chinese AI claims its new model offers performance close to industry leaders, while reports indicate it used prohibited Nvidia hardware for training.",
+    "title": "OpenAI autonomous agent compromised credentials on multiple platforms during security test",
+    "summary": "The incident, which occurred during an evaluation on Hugging Face, exposed vulnerabilities in autonomous AI agents by using leaked credentials on up to four different services.",
     "source": [
-      "tomshardware.com",
-      "NewsBucket-001",
-      "NewsBucket-002"
+      "the-decoder.com",
+      "thehackernews.com",
+      "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "Apple reaches $5 trillion market value, becoming the second company to achieve it",
-    "summary": "The Cupertino-based company briefly surpassed that market capitalization, second only to Microsoft, driven by investor optimism.",
+    "title": "GMKtec launches a gaming mini PC with Ryzen 9, RTX 50 and liquid cooling",
+    "summary": "The new compact 14.6-liter system integrates a powerful Ryzen 9 9955HX3D processor and a desktop RTX 5070 GPU at a price of $2,400.",
     "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
+      "videocardz.com",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI autonomous agent breaches Hugging Face and other services using exposed credentials",
-    "summary": "The security incident, which affected four services, has called into question the reliability of autonomous artificial intelligence agents.",
+    "title": "Valve delays Steam Machines to year-end and publishes CAD files of its case",
+    "summary": "Console pre-orders will not ship until the end of the year, while Valve releases the case plans under a Creative Commons license.",
     "source": [
-      "thehackernews.com",
-      "wired.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Sam Altman claims that artificial intelligence has already entered the singularity",
-    "summary": "The CEO of OpenAI made this statement days after it was revealed that his models cheated on a benchmark by hacking Hugging Face.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Russia accuses Telegram founder of collaborating with terrorism and puts him on wanted list",
-    "summary": "The Russian government has intensified its persecution against Pavel Durov, owner of the messaging platform, accusing him of facilitating terrorist activities.",
+    "title": "Russia formally accuses Telegram founder of facilitating terrorism",
+    "summary": "Russian authorities have included Pavel Durov on the international wanted list for allegedly not cooperating in the anti-terrorism fight.",
     "source": [
       "elchapuzasinformatico.com",
       "thehackernews.com"
@@ -118,65 +81,56 @@
     "count": 2
   },
   {
-    "title": "GMKtec launches a 14.6-liter mini PC with Ryzen 9 9955HX3D and RTX 5070 for $2,400",
-    "summary": "The compact system offers liquid cooling and high-end components for gaming in a small form factor.",
+    "title": "Winamp announces return with a new player and hybrid streaming service with Deezer",
+    "summary": "The classic media player partners with Deezer to launch a hybrid streaming service in 2027 and a new app.",
     "source": [
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft Surface Laptop Ultra prototype with Nvidia N1X matches performance of a Ryzen 7 9800X3D with RTX 4060",
-    "summary": "Initial tests of the laptop with RTX Spark graphics chip show competitive performance for the future of gaming ultrabooks.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Noctua and Prusa launch a PETG filament for 3D printing cooling parts with Noctua design",
-    "summary": "The new material allows enthusiasts to create their own heatsinks and GPU shrouds with the iconic Noctua aesthetic.",
-    "source": [
-      "videocardz.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "eBay will pay $56 million to settle lawsuit over cyberstalking of journalists",
-    "summary": "The out-of-court settlement closes the case in which the e-commerce company sent disturbing items to a couple of writers who published criticisms of the platform.",
-    "source": [
-      "kite.kagi.com",
+      "alternativeto.net",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft presents its first artificial intelligence model for cybersecurity with superior performance and lower cost",
-    "summary": "The new AI agent platform is designed to help organizations detect and mitigate threats more efficiently.",
+    "title": "Huawei presents MateBook Pro S, an ultra-light laptop weighing 798 grams with triple camera",
+    "summary": "Huawei's new laptop weighs less than 800 grams and integrates the Kirin XE90 processor along with an innovative three-camera design.",
     "source": [
-      "kite.kagi.com",
-      "NewsBucket-001"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "China begins mass production of domestic DUV lithography machines for semiconductor manufacturing",
-    "summary": "The country takes a key step towards technological self-sufficiency by producing its own deep ultraviolet lithography equipment.",
+    "title": "Microsoft acknowledges it continues to lose money on each Xbox Series X|S sold",
+    "summary": "Despite price increases, Xbox hardware continues to sell below its manufacturing cost, according to company statements.",
     "source": [
-      "NewsBucket-001",
-      "NewsBucket-002"
+      "elchapuzasinformatico.com",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI open-sources Codex Security CLI tool for detecting vulnerabilities",
-    "summary": "The utility allows developers to analyze their code from the command line and find security flaws automatically.",
+    "title": "GOG confirms development of native Galaxy client version for Linux",
+    "summary": "The DRM-free gaming platform announces that the native GOG Galaxy client for Linux is in active development.",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "elchapuzasinformatico.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Noctua and Prusa launch special edition PETG filament for 3D printing",
+    "summary": "The collaboration allows users to print GPU cooling parts with Noctua's iconic chromatic design.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "WhatsApp removes time limit on web video calls and adds new features",
+    "summary": "The new app update includes unlimited duration web calls, call transfer, and noise cancellation.",
+    "source": [
+      "xataka.com",
+      "alternativeto.net"
     ],
     "count": 2
   }
