@@ -1,82 +1,99 @@
 [
   {
-    "title": "Fed holds rates at 3.5% and core inflation falls in line with expectations",
-    "summary": "The Federal Reserve decided not to move interest rates, while the market reacts with moderate optimism to PCE data and tech results.",
+    "title": "Fed holds rates at 3.5% as markets question Warsh's communication and funding costs hit 19-year highs",
+    "summary": "The U.S. central bank leaves rates unchanged, core inflation eases in line with expectations, and investors view the Fed chair's new communication strategy as counterproductive.",
     "source": [
-      "handelsblatt.com",
-      "expansion.com",
       "ft.com",
-      "finance.yahoo.com",
-      "investing.com",
-      "bolsamania.com",
+      "expansion.com",
+      "handelsblatt.com",
+      "nikkei.com",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
       "NewsBucket-004",
-      "NewsBucket-005"
+      "NewsBucket-005",
+      "NewsBucket-006"
     ],
-    "count": 11
+    "count": 10
   },
   {
-    "title": "Microsoft surges on cloud record while Meta plunges on weak quarterly results",
-    "summary": "Big tech earnings show a divergence: strong Azure revenues boost Microsoft, while Meta's outlook sinks its stock.",
+    "title": "Microsoft surges 17% in stock market and Meta plunges 8% after quarterly results",
+    "summary": "The market rewards Microsoft's cloud strength and recovery in AI investment, while punishing Meta's weak results.",
     "source": [
-      "finance.yahoo.com",
+      "nikkei.com",
+      "expansion.com",
+      "bolsamania.com",
+      "handelsblatt.com",
       "NewsBucket-001",
       "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
-      "handelsblatt.com",
-      "investing.com"
+      "NewsBucket-003"
     ],
     "count": 7
   },
   {
-    "title": "Disappointing SK Hynix results trigger massive sell-off in semiconductor sector",
-    "summary": "The weak quarterly report from the South Korean chipmaker causes a widespread plunge in global tech stocks.",
-    "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
-      "NewsBucket-005"
-    ],
-    "count": 5
-  },
-  {
     "title": "Bank of England holds interest rates at 3.75% for fifth consecutive meeting",
-    "summary": "The Bank of England maintains its restrictive stance amid persistent inflation and uncertainty in the energy market.",
+    "summary": "The British institution leaves its benchmark rate unchanged amid uncertainty over the energy shock.",
     "source": [
       "handelsblatt.com",
       "ft.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Yen surges up to 3% on Japan's intervention and Bessent's support",
+    "summary": "Tokyo buys yen and the currency touches 157 per dollar, while the U.S. Treasury secretary considers the yen to be deeply undervalued.",
+    "source": [
+      "investing.com",
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Amazon beats forecasts with record profits while Apple disappoints due to supply problems",
+    "summary": "Cloud drives Amazon's results, while the semiconductor shortage slows Apple and weighs on its share price.",
+    "source": [
+      "investing.com",
       "nikkei.com",
       "bolsamania.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Fed Chairman Kevin Warsh's communication strategy draws criticism and confusion in markets",
-    "summary": "Investors consider Warsh's communication to be counterproductive, fueling uncertainty over inflation and rates.",
+    "title": "KOSPI rebounds more than 16% with Samsung and SK Hynix as South Korean investors suffer from AI",
+    "summary": "The South Korean stock market recovers after the Wall Street rally and analysts back SK Hynix, although retail investors are still hurting from the bursting of the AI bubble.",
     "source": [
-      "handelsblatt.com",
+      "investing.com",
       "expansion.com",
       "ft.com"
     ],
     "count": 3
   },
   {
-    "title": "Oil prices rise on Middle East tensions and Shell reports record profits",
-    "summary": "Crude oil surges after Trump's threat to Iran, while Shell capitalizes on the disruption of Iranian supply, achieving historic profits.",
+    "title": "KKR raises profit 40% while Blue Owl struggles in private credit fundraising",
+    "summary": "U.S. alternative asset managers post contrasting results: KKR books record capital gains and Blue Owl records its slowest fundraising in three years.",
     "source": [
-      "ft.com",
-      "NewsBucket-001",
-      "NewsBucket-002"
+      "nikkei.com",
+      "ft.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Adidas suffers its biggest stock slump despite the World Cup boost",
-    "summary": "The sharp rise in marketing spending and weak outlook sank Adidas shares, overshadowing the World Cup momentum.",
+    "title": "Deutsche Bank moves from excessive enthusiasm to an overcorrection",
+    "summary": "The German bank suffers a sharp stock market adjustment after the market had raised expectations too much.",
+    "source": [
+      "expansion.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Adidas plunges in stock market due to increased marketing spending during the World Cup",
+    "summary": "Football's appeal does not offset the rise in commercial costs and the market punishes the sports brand.",
     "source": [
       "bolsamania.com",
       "expansion.com"
@@ -84,56 +101,11 @@
     "count": 2
   },
   {
-    "title": "BP announces 700 job cuts amid forecast of crude oversupply",
-    "summary": "The British oil company implements a simplification and cost reduction plan amid the weakening global oil market.",
+    "title": "A hedge fund linked to a former OpenAI researcher widens losses on AI stock slump",
+    "summary": "Citadel has acquired positions in the fund, which has suffered a major setback from the collapse of AI technology stocks.",
     "source": [
-      "ft.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Ferrari reports record profit of 876 million in the half-year and raises financial targets",
-    "summary": "The Italian luxury carmaker achieved historic profits and confirmed that orders for its new Luce model meet expectations.",
-    "source": [
-      "investing.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hedge funds intensify bearish bets on US-backed critical minerals companies",
-    "summary": "Growing skepticism over the profitability of the strategic minerals sector attracts short positions from hedge funds.",
-    "source": [
-      "expansion.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The bursting of the AI bubble causes massive losses for hedge funds and retail investors",
-    "summary": "The sharp decline in artificial intelligence stocks triggers margin calls for hedge funds and significant losses for Korean investors.",
-    "source": [
-      "ft.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Central banks sharply cut gold purchases in early 2026, but global demand remains stable",
-    "summary": "Official gold purchases by central banks fell, although physical demand for the precious metal continues to be supported by other sectors.",
-    "source": [
-      "ft.com",
+      "nikkei.com",
       "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "CaixaBank posts record results, reorganizes wealth management, and suffers 7% stock drop",
-    "summary": "Despite reporting record half-year profits, CaixaBank's stock plunged after announcing a reorganization in its Wealth Management leadership.",
-    "source": [
-      "expansion.com",
-      "bolsamania.com"
     ],
     "count": 2
   }

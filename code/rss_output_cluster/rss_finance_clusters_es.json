@@ -1,82 +1,99 @@
 [
   {
-    "title": "La Fed mantiene los tipos en el 3,5 % y la inflación subyacente cae en línea con lo esperado",
-    "summary": "La Reserva Federal decidió no mover las tasas de interés, mientras el mercado reacciona con optimismo moderado a los datos de PCE y los resultados tecnológicos.",
+    "title": "La Fed mantiene los tipos en el 3,5 % mientras los mercados cuestionan la comunicación de Warsh y los costes de financiación tocan máximos de 19 años",
+    "summary": "El banco central estadounidense deja la tasa sin cambios, la inflación subyacente cede en línea con lo esperado y los inversores ven contraproducente la nueva estrategia de comunicación del presidente de la Fed.",
     "source": [
-      "handelsblatt.com",
-      "expansion.com",
       "ft.com",
-      "finance.yahoo.com",
-      "investing.com",
-      "bolsamania.com",
+      "expansion.com",
+      "handelsblatt.com",
+      "nikkei.com",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
       "NewsBucket-004",
-      "NewsBucket-005"
+      "NewsBucket-005",
+      "NewsBucket-006"
     ],
-    "count": 11
+    "count": 10
   },
   {
-    "title": "Microsoft se dispara por su récord en la nube mientras Meta se desploma por débiles resultados trimestrales",
-    "summary": "Las ganancias de las grandes tecnológicas marcan una divergencia: los sólidos ingresos de Azure impulsan a Microsoft al alza, mientras que las perspectivas de Meta hunden su acción en bolsa.",
+    "title": "Microsoft se dispara un 17% en Bolsa y Meta se desploma un 8% tras sus resultados trimestrales",
+    "summary": "El mercado premia la fortaleza de la nube y la recuperación de la inversión en IA de Microsoft, mientras castiga los débiles resultados de Meta.",
     "source": [
-      "finance.yahoo.com",
+      "nikkei.com",
+      "expansion.com",
+      "bolsamania.com",
+      "handelsblatt.com",
       "NewsBucket-001",
       "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
-      "handelsblatt.com",
-      "investing.com"
+      "NewsBucket-003"
     ],
     "count": 7
   },
   {
-    "title": "Los decepcionantes resultados de SK Hynix desatan una ola de ventas masiva en el sector de semiconductores",
-    "summary": "El débil informe trimestral del fabricante surcoreano de chips provoca un desplome generalizado en las acciones tecnológicas globales.",
-    "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
-      "NewsBucket-005"
-    ],
-    "count": 5
-  },
-  {
     "title": "El Banco de Inglaterra mantiene los tipos de interés en el 3,75 % por quinta reunión consecutiva",
-    "summary": "El Banco de Inglaterra mantiene su postura restrictiva ante la persistente inflación y la incertidumbre en el mercado energético.",
+    "summary": "La entidad británica deja sin cambios su tasa de referencia en medio de la incertidumbre por el shock energético.",
     "source": [
       "handelsblatt.com",
       "ft.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 6
+  },
+  {
+    "title": "El yen se dispara hasta un 3% por la intervención de Japón y el respaldo de Bessent",
+    "summary": "Tokio compra yenes y la divisa toca los 157 por dólar, mientras el secretario del Tesoro de EE UU considera que el yen está muy infravalorado.",
+    "source": [
+      "investing.com",
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Amazon supera previsiones con beneficios récord mientras Apple decepciona por los problemas de suministro",
+    "summary": "La nube impulsa los resultados de Amazon, mientras la escasez de semiconductores frena a Apple y lastra su cotización.",
+    "source": [
+      "investing.com",
       "nikkei.com",
       "bolsamania.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "La estrategia comunicativa del presidente de la Fed, Kevin Warsh, genera críticas y confusión en los mercados",
-    "summary": "Inversores consideran que la comunicación de Warsh está siendo contraproducente, avivando la incertidumbre sobre la inflación y las tasas.",
+    "title": "El Kospi rebota más de un 16% con Samsung y SK Hynix mientras los inversores surcoreanos sufren por la IA",
+    "summary": "La bolsa surcoreana se recupera tras el rally de Wall Street y los analistas respaldan a SK Hynix, aunque los particulares siguen golpeados por el estallido de la burbuja de IA.",
     "source": [
-      "handelsblatt.com",
+      "investing.com",
       "expansion.com",
       "ft.com"
     ],
     "count": 3
   },
   {
-    "title": "Los precios del petróleo suben por las tensiones en Oriente Medio y Shell reporta ganancias récord",
-    "summary": "El crudo se dispara tras la amenaza de Trump a Irán, mientras Shell capitaliza la disrupción del suministro iraní obteniendo beneficios históricos.",
+    "title": "KKR eleva su beneficio un 40% mientras Blue Owl sufre en la captación de crédito privado",
+    "summary": "Las gestoras alternativas estadounidenses presentan resultados opuestos: KKR cobra plusvalías récord y Blue Owl registra su captación más lenta en tres años.",
     "source": [
-      "ft.com",
-      "NewsBucket-001",
-      "NewsBucket-002"
+      "nikkei.com",
+      "ft.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Adidas sufre su mayor desplome en bolsa a pesar del tirón del Mundial de fútbol",
-    "summary": "El fuerte aumento del gasto en marketing y las débiles perspectivas hundieron la acción de Adidas, opacando el impulso del Mundial.",
+    "title": "Deutsche Bank pasa del exceso de entusiasmo a una corrección excesiva",
+    "summary": "El banco alemán sufre un brusco ajuste en Bolsa después de que el mercado hubiera elevado demasiado sus expectativas.",
+    "source": [
+      "expansion.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Adidas se desploma en Bolsa por el aumento del gasto en marketing durante el Mundial",
+    "summary": "El tirón del fútbol no compensa la subida de costes comerciales y el mercado castiga a la marca deportiva.",
     "source": [
       "bolsamania.com",
       "expansion.com"
@@ -84,56 +101,11 @@
     "count": 2
   },
   {
-    "title": "BP anuncia el recorte de 700 empleos ante la previsión de un exceso de oferta de crudo",
-    "summary": "La petrolera británica implementa un plan de simplificación y reducción de costos ante el debilitamiento del mercado global de petróleo.",
+    "title": "Un hedge fund vinculado a un exinvestigador de OpenAI amplía pérdidas por la caída de las acciones de IA",
+    "summary": "Citadel ha adquirido posiciones del fondo, que sufre un fuerte revés por el desplome de las tecnológicas de inteligencia artificial.",
     "source": [
-      "ft.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Ferrari reporta un beneficio récord de 876 millones en el semestre y eleva sus objetivos financieros",
-    "summary": "La firma italiana de autos de lujo obtuvo ganancias históricas y confirmó que los pedidos de su nuevo modelo Luce cumplen con las expectativas.",
-    "source": [
-      "investing.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Los fondos de cobertura intensifican sus apuestas bajistas en empresas de minerales críticos respaldadas por EE. UU.",
-    "summary": "El creciente escepticismo sobre la rentabilidad del sector de minerales estratégicos atrae posiciones cortas por parte de los hedge funds.",
-    "source": [
-      "expansion.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El estallido de la burbuja de la IA provoca pérdidas masivas en fondos de cobertura e inversores minoristas",
-    "summary": "La fuerte caída de las acciones de inteligencia artificial genera llamadas de margen a hedge funds y pérdidas significativas a inversores coreanos.",
-    "source": [
-      "ft.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Los bancos centrales reducen drásticamente sus compras de oro a principios de 2026, pero la demanda global se mantiene estable",
-    "summary": "Las compras oficiales de oro por parte de los bancos centrales cayeron, aunque la demanda física del metal precioso continúa sostenida por otros sectores.",
-    "source": [
-      "ft.com",
+      "nikkei.com",
       "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "CaixaBank presenta resultados récord, reorganiza su banca patrimonial y sufre una caída del 7 % en bolsa",
-    "summary": "A pesar de reportar ganancias récord en el semestre, la acción de CaixaBank se desplomó tras anunciar una reorganización en su directiva de Wealth Management.",
-    "source": [
-      "expansion.com",
-      "bolsamania.com"
     ],
     "count": 2
   }

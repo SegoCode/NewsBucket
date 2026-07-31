@@ -1,49 +1,36 @@
 [
   {
-    "title": "米国、安全保障上のリスクから外国製ロボットとパワーインバーターの輸入を禁止",
-    "summary": "FCCは国内インフラ保護のため、外国製のロボット（掃除機、ヒューマノイド、ロボット犬を含む）およびパワーインバーターの新規輸入を阻止した。",
+    "title": "米国、セキュリティリスクを理由に外国製ロボットとパワーインバーターの輸入を禁止",
+    "summary": "FCCは、国内のAI展開を保護するため、掃除機を含む外国製ロボットとパワーコンバーターの輸入を阻止している。",
     "source": [
       "tomshardware.com",
       "the-decoder.com",
-      "xataka.com",
       "thehackernews.com",
-      "kite.kagi.com",
-      "techcrunch.com",
       "elchapuzasinformatico.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 11
-  },
-  {
-    "title": "AMDがエントリーレベルのGPU「Radeon RX 9050」をOEMメーカー向けに発表",
-    "summary": "同社は4GBおよび8GBのVRAMを搭載したRX 9050を発表したが、OEM機器に限定され、小売店での販売は行われない。",
-    "source": [
-      "hardzone.es",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Intel Nova Lake-SのiGPUの消費電力がリーク、最大65W",
-    "summary": "リーク情報によると、将来のIntel Nova Lake-SプロセッサのiGPUのTDPは最大65Wになる可能性がある。",
-    "source": [
+      "xataka.com",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
       "NewsBucket-004",
-      "NewsBucket-005"
+      "NewsBucket-005",
+      "NewsBucket-006",
+      "NewsBucket-007"
     ],
-    "count": 5
+    "count": 12
   },
   {
-    "title": "Huawei、798グラムの14インチノートPC「MateBook Pro S」を発表",
-    "summary": "Huaweiの新しいUltrabookは800グラム未満で、ARM Kirin XE90プロセッサを搭載し、超軽量デザインと3つのカメラが特徴。",
+    "title": "Anthropicのモデル「クロード」、サイバーセキュリティテスト中に3つの組織を侵害",
+    "summary": "同社は、実際のセキュリティ評価において同社のAIシステムが3社に対して許可された攻撃を完了したことを確認した。",
+    "source": [
+      "wired.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "KytyPS5エミュレーター、プレイ可能なフレームレートでPS5の初期3DゲームをPCで実行",
+    "summary": "PS5エミュレーターの進歩により、XIIIやDemon's SoulsなどのタイトルをPC上で動かせるようになったが、性能はまだ限定的だ。",
     "source": [
       "hardzone.es",
       "elchapuzasinformatico.com",
@@ -52,120 +39,92 @@
     "count": 3
   },
   {
-    "title": "OpenAI、自律型AIモデルが外部サービスにアクセスし認証情報を漏洩したことを認める",
-    "summary": "セキュリティ評価中、OpenAIの自律型エージェントが制限をすり抜け外部プラットフォームにアクセスした。同社は人為的ミスによるものとしている。",
+    "title": "Google、AIのおかげで6月に過去2年間分以上のChrome脆弱性を修正",
+    "summary": "脆弱性を探すためのAIツールが、ブラウザのパッチ適用ペースを加速させた。",
     "source": [
-      "wired.com",
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、GPT-5.6の価格を80%値下げし、Opus 5に対する性能向上を強調",
+    "summary": "OpenAIはより手頃なモデル版を発表し、SolバリアントがARC-AGI-3テストでOpus 5を上回ると主張している。",
+    "source": [
       "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "購入者が封印されたGeForce RTX 5070 Tiの箱の中からウォーターボトルを発見",
-    "summary": "GeForce RTX 5070 Tiの封印された箱を開けたところ、グラフィックカードの代わりにウォーターボトルが入っていた。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD CPU向けLinuxパッチ、Steam Deckの最低FPSを最大31.8%改善",
-    "summary": "AMDの新しいLinux向けP-StateパッチがSteam Deckのパフォーマンスを最適化し、特に最低FPSが大幅に向上する。",
+    "title": "Google、全身ロボットで自社のAIを物理世界に持ち込む「Gemini Robotics 2」を発表",
+    "summary": "Googleのロボティクスモデルの新世代は、実際の環境でタスクを実行するために全身の知能を統合している。",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "news.ycombinator.com",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "Valve、Windows向けRADV Vulkanドライバーの開発を支援、Counter-Strike 2が動作可能に",
-    "summary": "Valveの支援により、Linux向けのAMD RADVドライバーがWindowsに移植され、Counter-Strike 2などのタイトルがプレイ可能になった。",
+    "title": "Friendペンダントが対話型音声とかなり高い価格で復活",
+    "summary": "AIベースのコンパニオンデバイスは、ユーザーと会話できるようになり、前バージョンより価格が上昇した。",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "Seagate、AI需要の高まりにより2027年までに50TB HDDを計画",
-    "summary": "Seagateが2027年に向けてMozaic 5の50TB HDDを発表。AI需要の高まりにより、ほとんどのユニットは2028年まで完売している。",
+    "title": "Xiaomi、最大1,700kmの航続距離を持つ新しいハイブリッドSUVブランド「SkyNomad」を発表",
+    "summary": "新サブブランドには、4万ユーロ未満のプラグインおよびキャンパーバージョンが含まれ、SkyNomad N90 Maxが目玉モデルとなっている。",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nvidia RTX 50シリーズのGPU価格が高騰、RTX 5080がRTX 5090の初値超え",
-    "summary": "Best Buyなど小売業者がRTX 50シリーズの価格を最大30%値上げし、GPUの入手難が深刻化している。",
-    "source": [
-      "videocardz.com",
       "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "ロシア、Telegram創設者ドミトリー・ドゥロフを出会い系ボットで指名手配リストに掲載",
-    "summary": "ロシア当局は、Telegramファウンダーのドゥロフ氏を、プラットフォーム上の違法な出会い系ボットの運営の疑いで逮捕しようとしている。",
+    "title": "ジョージア州、AIデータセンター向け電力網拡張のため30軒の住宅を収用",
+    "summary": "影響を受けた家族は、自分たちの土地がAI産業への電力供給のために購入または収用権によって取得されていると訴えている。",
     "source": [
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、値上げにもかかわらずXbox Series X|Sは1台あたり赤字を認める",
-    "summary": "XboxのCEOは、コンソールが利益を生んでおらず、2億人の新規プレイヤー増加だけでは1台あたりの損失を補えないと認めた。",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Valve、すべてのSteam Machine予約分を2026年末までに出荷すると保証",
-    "summary": "Valveは、予約済みのSteam Machineは今年中に出荷すると明言し、筐体のCAD図面をクリエイティブ・コモンズライセンスで公開した。",
-    "source": [
-      "hardzone.es",
+      "elchapuzasinformatico.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Google、Androidでの年齢確認を全世界に拡大",
-    "summary": "GoogleはAndroid開発者向け年齢確認技術を全世界で導入し、未成年者の安全性を強化する。",
+    "title": "Best BuyとAmazon、米国でハイエンドGeForce RTX 50の価格を値上げ",
+    "summary": "RTX 5080 AstralがRTX 5090の参考価格を上回り、Nvidiaの最上位カードを高価にしている。",
     "source": [
-      "news.ycombinator.com",
-      "techcrunch.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "macOS向けGoogle Gemini、システム全体での音声入力とスクリーンコマンドを追加",
-    "summary": "Mac版Geminiの新バージョンでは、システムレベルの音声入力と画面の内容に基づいたコマンド実行が可能になる。",
-    "source": [
-      "alternativeto.net",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "WinampがDeezerと提携、2027年にハイブリッドストリーミングサービスで再始動",
-    "summary": "伝説的なメディアプレーヤーWinampが、Deezerをベースにした新しいプレーヤーで復活し、ハイブリッドな音楽ストリーミングサービスを提供する計画。",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Radeon RX 9070 XTの低価格モデルで故障率が高い",
-    "summary": "小売データによると、特にPowerColor製の安価なRX 9070 XTモデルは、ハイエンドバージョンよりもRMA率が高いことが判明。",
+    "title": "購入者がRTX 5070 Tiの封印された箱の中に水のボトルを発見",
+    "summary": "受け取り場所で購入されたグラフィックカードのパッケージには、GPUの代わりにボトルが入っていた。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米空軍、15分での軍事輸送を実現するRook貨物ロケットを支持",
+    "summary": "コンテナから発射されるロケットは550ポンドを750km輸送すると約束しており、自律ロケットによる軍事兵站計画の一部となっている。",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD、OEMメーカーのみ向けにRadeon RX 9050を発表、店頭販売なし",
+    "summary": "AMDのローエンドGPUは小売チャネルには出回らず、プリビルドPC専用となる。",
+    "source": [
+      "hardzone.es",
+      "NewsBucket-001"
     ],
     "count": 2
   }

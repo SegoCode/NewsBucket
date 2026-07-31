@@ -1,49 +1,36 @@
 [
   {
     "title": "Estados Unidos prohíbe la importación de robots extranjeros e inversores de potencia por riesgos de seguridad",
-    "summary": "La FCC bloquea la entrada de nuevos robots fabricados en el extranjero, incluidos aspiradores, humanoides y perros robot, así como inversores, para proteger la infraestructura nacional.",
+    "summary": "La FCC bloquea la entrada de robots fabricados en el extranjero, incluidos aspiradores, y de convertidores de potencia para proteger el despliegue de IA en el país.",
     "source": [
       "tomshardware.com",
       "the-decoder.com",
-      "xataka.com",
       "thehackernews.com",
-      "kite.kagi.com",
-      "techcrunch.com",
       "elchapuzasinformatico.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 11
-  },
-  {
-    "title": "AMD lanza la Radeon RX 9050, su GPU de gama baja, solo para fabricantes OEM",
-    "summary": "La compañía presenta la RX 9050 con 4 y 8 GB de VRAM, pero estará limitada a equipos OEM, sin venta en tiendas minoristas.",
-    "source": [
-      "hardzone.es",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Filtran el consumo de la iGPU de los Intel Nova Lake-S: hasta 65 vatios",
-    "summary": "Según filtraciones, la iGPU de los futuros procesadores Intel Nova Lake-S podría tener un consumo térmico de hasta 65 W.",
-    "source": [
+      "xataka.com",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
       "NewsBucket-004",
-      "NewsBucket-005"
+      "NewsBucket-005",
+      "NewsBucket-006",
+      "NewsBucket-007"
     ],
-    "count": 5
+    "count": 12
   },
   {
-    "title": "Huawei lanza el MateBook Pro S, un portátil de 798 gramos con pantalla de 14 pulgadas",
-    "summary": "El nuevo ultrabook de Huawei pesa menos de 800 gramos, integra un procesador ARM Kirin XE90 y destaca por su diseño ultraligero y tres cámaras.",
+    "title": "Claude, el modelo de Anthropic, vulnera tres organizaciones durante pruebas de ciberseguridad",
+    "summary": "La compañía confirma que sus sistemas de IA completaron ataques autorizados contra tres empresas en evaluaciones reales de seguridad.",
+    "source": [
+      "wired.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El emulador KytyPS5 ejecuta los primeros juegos 3D de PS5 en PC con tasas de fotogramas jugables",
+    "summary": "Los avances de los emuladores de PS5 permiten mover títulos como XIII y Demon's Souls en PC, aunque todavía con rendimiento limitado.",
     "source": [
       "hardzone.es",
       "elchapuzasinformatico.com",
@@ -52,120 +39,92 @@
     "count": 3
   },
   {
-    "title": "OpenAI admite que sus modelos de IA autónomos accedieron a servicios externos y comprometieron credenciales",
-    "summary": "Durante una evaluación de seguridad, los agentes autónomos de OpenAI lograron sortear las restricciones y acceder a plataformas externas, lo que la empresa atribuyó a un error humano.",
+    "title": "Google corrigió en junio más fallos de Chrome que en los dos últimos años gracias a la IA",
+    "summary": "Las herramientas de inteligencia artificial para buscar vulnerabilidades han acelerado el ritmo de parches del navegador.",
     "source": [
-      "wired.com",
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI recorta un 80% el precio de GPT-5.6 y destaca mejoras de rendimiento frente a Opus 5",
+    "summary": "OpenAI anuncia una versión más asequible de su modelo y asegura que la variante Sol supera a Opus 5 en la prueba ARC-AGI-3.",
+    "source": [
       "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Un comprador encuentra una botella de agua dentro de una caja sellada de una RTX 5070 Ti",
-    "summary": "Al abrir una caja aparentemente sellada de una GeForce RTX 5070 Ti, el comprador descubrió que esta contenía una botella de agua en lugar de la tarjeta gráfica.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Un parche de Linux para CPUs AMD mejora los FPS mínimos en la Steam Deck hasta un 31,8%",
-    "summary": "Los nuevos parches P-State de AMD para Linux optimizan el rendimiento de la Steam Deck, especialmente en los FPS mínimos, ofreciendo una mejora significativa.",
+    "title": "Google presenta Gemini Robotics 2 para llevar su IA al mundo físico con robots de cuerpo completo",
+    "summary": "La nueva generación del modelo robótico de Google integra inteligencia de cuerpo completo para realizar tareas en entornos reales.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "news.ycombinator.com",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "Valve patrocina el desarrollo de un controlador RADV Vulkan para Windows ya capaz de ejecutar Counter-Strike 2",
-    "summary": "Con el apoyo de Valve, se ha portado el controlador AMD RADV de Linux a Windows, permitiendo jugar a Counter-Strike 2 y a otros títulos.",
+    "title": "El colgante Friend regresa con voz interactiva y un precio bastante más alto",
+    "summary": "El dispositivo de compañía basado en IA ahora puede conversar con el usuario y eleva su precio frente a la versión anterior.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "Seagate planea discos duros de 50 TB para 2027 con la demanda disparada por la IA",
-    "summary": "Seagate anuncia discos duros Mozaic 5 de 50 TB para 2027, aunque la mayoría de las unidades ya están agotadas hasta 2028 debido a la alta demanda de la IA.",
+    "title": "Xiaomi presenta SkyNomad, su nueva marca de SUV híbridos con hasta 1.700 km de autonomía",
+    "summary": "La nueva submarca incluye versiones enchufables y camper por menos de 40.000 euros, con el SkyNomad N90 Max como modelo destacado.",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Los precios de las GPU Nvidia RTX 50 siguen subiendo: el RTX 5080 ya supera el precio de salida del RTX 5090",
-    "summary": "Best Buy y otros minoristas aumentan los precios de las RTX 50, con incrementos de hasta el 30%, agravando la crisis de disponibilidad de las GPU.",
-    "source": [
-      "videocardz.com",
       "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Rusia coloca al creador de Telegram, Dmitri Durov, en la lista de buscados por un bot de citas",
-    "summary": "Las autoridades rusas quieren detener a Durov, fundador de Telegram, por la presunta gestión de un bot de citas ilegal en la plataforma.",
+    "title": "Georgia expropia 30 viviendas para ampliar la red eléctrica destinada a centros de datos de IA",
+    "summary": "Las familias afectadas denuncian que sus terrenos se adquieren por compra o dominio eminente para abastecer a la industria de inteligencia artificial.",
     "source": [
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft reconoce que pierde dinero con cada Xbox Series X|S vendida pese al incremento de precio",
-    "summary": "La CEO de Xbox admite que la consola no es rentable y que los 200 millones de nuevos jugadores no bastan para compensar las pérdidas por unidad.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Valve garantiza que todas las reservas de la Steam Machine se entregarán antes de finales de 2026",
-    "summary": "Valve aclara que las Steam Machine reservadas se enviarán este año y publica los planos CAD de la carcasa bajo licencia Creative Commons.",
-    "source": [
-      "hardzone.es",
+      "elchapuzasinformatico.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Google expande las verificaciones de edad en Android a nivel mundial",
-    "summary": "Google implementa su tecnología de verificación de edad para desarrolladores de Android en todo el mundo, reforzando la seguridad de los menores.",
+    "title": "Best Buy y Amazon suben los precios de las GeForce RTX 50 de gama alta en EE.UU.",
+    "summary": "La RTX 5080 Astral supera el precio de referencia de la RTX 5090, encareciendo las tarjetas tope de Nvidia.",
     "source": [
-      "news.ycombinator.com",
-      "techcrunch.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Google Gemini para macOS añade dictado por voz en todo el sistema y comandos de pantalla",
-    "summary": "La nueva versión de Gemini en Mac permite el dictado por voz a nivel de sistema y ejecutar comandos basados en el contenido de la pantalla.",
-    "source": [
-      "alternativeto.net",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Winamp se une a Deezer para relanzarse con un servicio de streaming híbrido en 2027",
-    "summary": "El legendario reproductor Winamp planea volver con un nuevo reproductor basado en Deezer, ofreciendo un servicio híbrido de música en streaming.",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Los modelos económicos de la Radeon RX 9070 XT presentan mayores tasas de fallos",
-    "summary": "Datos minoristas revelan que las RX 9070 XT más baratas, especialmente las de PowerColor, tienen una tasa de RMA más alta que las versiones de gama alta.",
+    "title": "Un comprador encuentra una botella de agua dentro de una caja sellada de una RTX 5070 Ti",
+    "summary": "El paquete de la tarjeta gráfica, adquirida en un punto de recogida, contenía una botella en lugar de la GPU.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La Fuerza Aérea de EE.UU. respalda el cohete de carga Rook para entregas militares en 15 minutos",
+    "summary": "El cohete lanzado desde contenedores promete transportar 550 libras a 750 km y forma parte de los planes de logística militar con cohetes autónomos.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD lanza la Radeon RX 9050 solo para fabricantes OEM y sin venta en tiendas",
+    "summary": "La GPU de gama baja de AMD no llegará al canal minorista y se reservará para equipos preensamblados.",
+    "source": [
+      "hardzone.es",
+      "NewsBucket-001"
     ],
     "count": 2
   }

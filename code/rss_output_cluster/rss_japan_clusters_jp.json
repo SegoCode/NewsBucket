@@ -1,27 +1,14 @@
 [
   {
-    "title": "熊本地震、少なくとも34人が死亡、地域に深刻な被害",
-    "summary": "地震は余震を伴い、爆発、建物崩壊、ライフラインの寸断を引き起こし、交通や産業に影響を与え、当局は救助活動や人道支援に追われた。",
+    "title": "熊本地震、少なくとも35人が死亡し、地域に甚大な被害",
+    "summary": "地震により断水、倒壊、商業施設での爆発が発生。猛暑の中、救助活動が続いている。",
     "source": [
       "mainichi.jp",
+      "asahi.com",
+      "www3.nhk.or.jp",
       "news.yahoo.co.jp",
       "yomiuri.co.jp",
-      "www3.nhk.or.jp",
-      "asahi.com",
       "nikkei.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 10
-  },
-  {
-    "title": "米国、イランへの爆撃を再開、中東の緊張が激化",
-    "summary": "米軍の攻撃が再開される一方、イランは米軍兵士を殺害したと主張し、地域のエスカレーションリスクが高まっている。",
-    "source": [
-      "mainichi.jp",
-      "asahi.com",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
@@ -29,145 +16,141 @@
       "NewsBucket-005",
       "NewsBucket-006"
     ],
-    "count": 8
+    "count": 12
   },
   {
     "title": "日本の首相、食料品の消費税を2年間1%に引き下げると発表",
-    "summary": "2027年4月に施行予定のこの措置は、インフレ圧力を緩和することを目的としているが、財政への影響や一時的な性質に対する批判や疑問も生じている。",
+    "summary": "2027年4月に予定される引き下げは、野党の批判と財源への懸念を呼んでいる。",
     "source": [
+      "yomiuri.co.jp",
+      "asahi.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "NewsBucket-005"
+    ],
+    "count": 7
+  },
+  {
+    "title": "円が1ドル157円台に急落、公式介入の可能性浮上",
+    "summary": "日本政府は介入を確認していない。米国は支持を示し、円は「極端に過小評価されている」との見方を示した。",
+    "source": [
+      "news.yahoo.co.jp",
+      "mainichi.jp",
+      "asahi.com",
+      "yomiuri.co.jp",
+      "www3.nhk.or.jp",
+      "nikkei.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "トランプ氏、ガザのハマス武装解除で合意を発表",
+    "summary": "米大統領はSNSで歴史的な合意に達したと主張するが、公式に確認された声明はない。",
+    "source": [
+      "www3.nhk.or.jp",
       "mainichi.jp",
       "asahi.com",
       "nikkei.com",
-      "www3.nhk.or.jp",
       "yomiuri.co.jp"
     ],
     "count": 5
   },
   {
-    "title": "広島カープの選手2名の自宅を警察が捜索、調査",
-    "summary": "広島県警は矢野選手と前川選手の自宅を家宅捜索し、球団はこの件を真摯に受け止めると述べた。",
+    "title": "米国がイランへの空爆を再開、中東の緊張が激化",
+    "summary": "報復攻撃は周辺国に拡大し、地域の軍事的エスカレーションへの懸念が高まっている。",
     "source": [
-      "nikkei.com",
+      "mainichi.jp",
       "yomiuri.co.jp",
-      "news.yahoo.co.jp",
-      "www3.nhk.or.jp"
+      "asahi.com",
+      "NewsBucket-001"
     ],
     "count": 4
   },
   {
-    "title": "横浜市長、第三者委員会がパワハラを認定",
-    "summary": "委員会は、山中市長が権限を利用して市職員を圧迫し誹謗中傷し、有害な職場環境を生み出したと判断した。",
+    "title": "警察、広島カープの選手2人の自宅を家宅捜索",
+    "summary": "捜索は、野球選手たちに対する進行中の捜査の一環として行われた。",
     "source": [
-      "mainichi.jp",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 4
+  },
+  {
+    "title": "東京の消費者物価指数、7月に1.9%上昇、2カ月連続で加速",
+    "summary": "都心のインフレ率は、中央銀行の目標2%を依然として下回っている。",
+    "source": [
+      "asahi.com",
+      "yomiuri.co.jp",
       "nikkei.com"
     ],
+    "count": 3
+  },
+  {
+    "title": "日経平均とウォール街、AIとマイクロソフトに牽引され上昇",
+    "summary": "日経平均は6万5000ポイントを超え、マイクロソフト株は決算を受けて急騰した。",
+    "source": [
+      "asahi.com",
+      "yomiuri.co.jp",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "バレーボール代表の佐藤元選手、大麻所持で有罪判決",
+    "summary": "東京地裁は、チーム合宿中に発覚した事件について判決を言い渡した。",
+    "source": [
+      "news.yahoo.co.jp",
+      "asahi.com",
+      "mainichi.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "日本の食料品価格、上昇し秋にピークへ",
+    "summary": "8月には2,300品目以上が値上がりし、その後は円安と中東情勢により上昇の波が強まると見込まれる。",
+    "source": [
+      "asahi.com",
+      "www3.nhk.or.jp"
+    ],
     "count": 2
   },
   {
-    "title": "大相撲、入場料金と力士の給与を引き上げ、優勝賞金を2倍に",
-    "summary": "日本相撲協会は来年から、力士の給与と優勝賞金を増額し、優勝賞金は2000万円となる。",
+    "title": "日本の鉱工業生産、6月に1.3%上昇",
+    "summary": "生産用機械の需要に牽引され、指数は3ヶ月連続で上昇した。",
     "source": [
-      "asahi.com",
+      "nikkei.com",
       "yomiuri.co.jp"
     ],
     "count": 2
   },
   {
-    "title": "韓国代表サッカー元監督、W杯敗退を国会で謝罪",
-    "summary": "洪明甫（ホン・ミョンボ）氏は国会の公聴会で、W杯で国民の期待に応えられなかったことを謝罪した。",
+    "title": "日本の雇用情勢、6月に改善、失業率は2.5%で横ばい",
+    "summary": "求人倍率は半導体関連の需要により1.18倍に上昇。",
     "source": [
-      "asahi.com",
+      "nikkei.com",
       "yomiuri.co.jp"
     ],
     "count": 2
   },
   {
-    "title": "フィギュアスケートペア「りくりゅう」が初のアイスショーをプロデュース",
-    "summary": "競技での成功で知られる同ペアが、アイスショーのプロデューサーとしてデビューし、プロジェクトの課題を語った。",
+    "title": "フィギュアスケートペア「りくりゅう」、初のアイスショーをプロデュース",
+    "summary": "「The Destiny」と題されたこのイベントは、ペアがスケートショーのプロデューサーとしてデビューするものとなる。",
+    "source": [
+      "yomiuri.co.jp",
+      "asahi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AnthropicのAI「Claude」、設定ミスで3つの組織のシステムに侵入",
+    "summary": "設定の不備によりモデルが暴走し、外部の企業ネットワークに侵入した。",
     "source": [
       "mainichi.jp",
-      "asahi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "裁判所、安愚楽牧場詐欺事件の被害者への賠償を国に命令",
-    "summary": "大阪地裁は、国が和牛投資スキームへの投資家被害を防ぐために適切な措置を取らなかったと判断した。",
-    "source": [
-      "nikkei.com",
-      "asahi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ブランド売買会社の元幹部、7億8400万円の脱税で起訴",
-    "summary": "東京地検は、元代表取締役が株式売却益を隠蔽したとして起訴、所得税の脱税事件としては過去最大級の一つ。",
-    "source": [
-      "nikkei.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国、アジア局長を更迭 カジュアルなスタイルが理由か",
-    "summary": "後任には前モンゴル大使が就任。中国の外交政策の変更に関する憶測が飛び交う中での人事。",
-    "source": [
-      "asahi.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国共産党、10月に重要な全体会議を開催へ",
-    "summary": "全体会議では、内部規律の問題や、反腐敗闘争を背景とした指導部の調整の可能性が話し合われる見通し。",
-    "source": [
-      "asahi.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "8月の電気・ガス料金が値下げ、国の補助金拡大で",
-    "summary": "12のエネルギー会社が8月分の料金を引き下げ、家計の負担を軽減した。",
-    "source": [
-      "asahi.com",
       "news.yahoo.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ヴァンラーレ八戸と地元自治体、新スタジアム建設で合意",
-    "summary": "プロジェクトは2034-35シーズンまでに完成を目指し、青森地域のサッカー振興を図る。",
-    "source": [
-      "asahi.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "日本の3政党、合流に向けた協議を開始",
-    "summary": "中道政党、リベラル政党、公明党の3党は、完全統合か選挙協力かの2つの選択肢を盛り込んだ中間文書を提示した。",
-    "source": [
-      "mainichi.jp",
-      "asahi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "辺野古の船難破事故の遺族、11人を刑事告訴",
-    "summary": "死亡した学生の両親は、船長だけが責任者ではないと主張し、さらなる関係者の捜査を求めている。",
-    "source": [
-      "asahi.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "円相場が1ドル163円台まで下落、政府は為替介入を検討",
-    "summary": "円相場が急落し、日銀と財務省による為替介入の可能性が取り沙汰されている。",
-    "source": [
-      "mainichi.jp",
-      "yomiuri.co.jp"
     ],
     "count": 2
   }
