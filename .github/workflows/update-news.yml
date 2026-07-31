@@ -3,7 +3,8 @@ name: Update news
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *'
+    # 9:00 AM JST (00:00 UTC) every day
+    - cron: '0 0 * * *'
 
 jobs:
   update-news:
