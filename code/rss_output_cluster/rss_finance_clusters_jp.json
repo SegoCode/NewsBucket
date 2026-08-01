@@ -1,39 +1,9 @@
 [
   {
-    "title": "FRBは政策金利を3.5%に据え置き、市場はワーシュ氏のコミュニケーションに疑問、資金調達コストは19年ぶりの高水準",
-    "summary": "米中央銀行は金利を据え置き、コアインフレは予想通り鈍化した。投資家はFRB議長の新たなコミュニケーション戦略を逆効果とみている。",
-    "source": [
-      "ft.com",
-      "expansion.com",
-      "handelsblatt.com",
-      "nikkei.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
-      "NewsBucket-005",
-      "NewsBucket-006"
-    ],
-    "count": 10
-  },
-  {
-    "title": "マイクロソフト株が17%急騰、メタ株は8%急落、四半期決算を受けて",
-    "summary": "市場はマイクロソフトのクラウドの好調さとAI投資の回復を評価する一方、メタの低調な業績を嫌気した。",
+    "title": "FRBは政策金利を3.5%に据え置き、ウォーシュ氏の発言が批判を呼ぶ",
+    "summary": "FOMC議長は会合の頻度を減らすことを提案する一方、3人のメンバーがインフレを悪化させないよう利上げを主張している。",
     "source": [
       "nikkei.com",
-      "expansion.com",
-      "bolsamania.com",
-      "handelsblatt.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003"
-    ],
-    "count": 7
-  },
-  {
-    "title": "イングランド銀行（BOE）は5会合連続で政策金利を3.75%に維持",
-    "summary": "英中銀はエネルギーショックによる不確実性の中、政策金利を据え置いた。",
-    "source": [
       "handelsblatt.com",
       "ft.com",
       "NewsBucket-001",
@@ -41,70 +11,148 @@
       "NewsBucket-003",
       "NewsBucket-004"
     ],
-    "count": 6
+    "count": 7
   },
   {
-    "title": "円が3%まで急騰、日本の介入とベッセント氏の支援で",
-    "summary": "東京が円を買い入れ、円相場は1ドル=157円まで上昇。米財務長官は円が大きく過小評価されているとの見方を示した。",
+    "title": "Appleは弱い見通しで最大10%下落し、株式市場のリーダーシップを失う",
+    "summary": "半導体不足と期待外れの販売見通しにより、アップル株と時価総額が急落している。",
     "source": [
       "investing.com",
       "nikkei.com",
-      "ft.com"
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "マイクロソフトは株式市場で17%上昇、メタは四半期決算後に8%下落",
+    "summary": "両テクノロジー企業の決算は投資家の間で真逆の反応を生んでいる。",
+    "source": [
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 4
+  },
+  {
+    "title": "日本政府と日銀が円を支えるため再度為替市場に介入",
+    "summary": "日米当局が協調介入を実施し、円相場は1ドル=157円台まで上昇、アジア市場は動揺している。",
+    "source": [
+      "ft.com",
+      "nikkei.com",
+      "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "アマゾンは過去最高益で予想を上回る、アップルは供給問題で失望",
-    "summary": "クラウド事業がアマゾンの業績を押し上げる一方、半導体不足がアップルを直撃し、株価の重荷となっている。",
+    "title": "イングランド銀行は5回連続で政策金利を3.75%に据え置き",
+    "summary": "英中銀は利上げを休止し、量的引き締めプログラムを継続している。",
+    "source": [
+      "ft.com",
+      "NewsBucket-001",
+      "NewsBucket-002"
+    ],
+    "count": 3
+  },
+  {
+    "title": "シタデルがAIファンド「シチュエーショナル・アウェアネス」を救済し、テクノロジー株の暴落を食い止める",
+    "summary": "シタデルのオペレーションは、3兆ドル規模の人工知能セクターにおける大規模な売りを食い止めるのに貢献した。",
     "source": [
       "investing.com",
+      "ft.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ウォール街は上昇して終了も、ナスダックは2カ月連続の下落",
+    "summary": "米国株は上昇して取引を終えたが、ナスダックは7月の月間下落を主導し、2カ月連続のマイナスとなった。",
+    "source": [
+      "nikkei.com",
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "市場は人工知能の評価が適正かどうかを議論",
+    "summary": "テクノロジー株と半導体メーカーの変動により、投資家は楽観とバブルへの懸念の間で割れている。",
+    "source": [
+      "expansion.com",
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "日銀は引き締め姿勢のトーンで金利を据え置き、将来の利上げを示唆",
+    "summary": "日銀は金融政策を据え置いたが、今後の会合で引き締めを示唆するシグナルを送った。",
+    "source": [
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "BPが北海の石油・ガス事業を売却へ",
+    "summary": "英石油大手BPはポートフォリオを再編し、北海の資産の買い手を探している。",
+    "source": [
+      "nasdaq.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "シェブロンとエクソン、原油高で利益を拡大",
+    "summary": "米国の大手石油各社は原油高の恩恵を受ける一方、トランプ氏は価格介入を脅かしている。",
+    "source": [
+      "ft.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "トランプ氏、ウクライナへのパトリオットミサイル生産許可を否定",
+    "summary": "米大統領は自身の発言を訂正し、ウクライナ国内でのパトリオットシステム製造は不透明なままとなっている。",
+    "source": [
       "nikkei.com",
       "bolsamania.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "韓国KOSPIが16%超反発、サムスンとSKハイニックスが牽引、韓国の投資家はAI株で苦戦",
-    "summary": "韓国株式市場はウォール街の上昇を受けて回復し、アナリストはSKハイニックスを支持。しかし個人投資家はAIバブルの崩壊で打撃を受けたままだ。",
-    "source": [
-      "investing.com",
-      "expansion.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "KKRは利益40%増、ブルーオウルはプライベートクレジットの資金調達で苦戦",
-    "summary": "米オルタナティブ運用会社の決算は対照的だ。KKRは過去最高のキャピタルゲインを得る一方、ブルーオウルの資金調達額は3年ぶりの低水準となった。",
-    "source": [
-      "nikkei.com",
-      "ft.com"
-    ],
     "count": 2
   },
   {
-    "title": "ドイツ銀行、過剰な熱狂から過度な調整へ",
-    "summary": "市場が期待を過度に膨らませた後、ドイツ銀行は株価で急激な調整に見舞われている。",
+    "title": "Ibex 35は最高値を更新、7月は15社が記録を達成",
+    "summary": "スペイン株式市場は13カ月連続の上昇基調を維持し、19,900ポイントに迫っている。",
     "source": [
       "expansion.com",
-      "ft.com"
+      "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "アディダス株急落、ワールドカップ中のマーケティング費用増加で",
-    "summary": "サッカーの追い風は販売費用の増加を補えず、市場は同スポーツブランドを売り込んだ。",
+    "title": "アマゾンはフリーキャッシュフローの急減にもかかわらず株式市場で15%上昇",
+    "summary": "決算が予想を上回り、フリーキャッシュフローの260億ドル減少を補っている。",
     "source": [
-      "bolsamania.com",
-      "expansion.com"
+      "nasdaq.com",
+      "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI元研究者が関与するヘッジファンド、AI株安で損失拡大",
-    "summary": "シタデルは同ファンドのポジションを取得した。同ファンドはAIテクノロジー株の暴落で大きな打撃を受けている。",
+    "title": "ニューヨークがKalshiを提訴、裁判所が予測市場での取引でジョージ・サントスに制裁",
+    "summary": "米当局は政治賭博・予測市場プラットフォームへの監視を強化している。",
     "source": [
       "nikkei.com",
+      "investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "韓国株式市場が力強く上昇、アジア市場は人工知能で反発",
+    "summary": "KOSPIは18%急騰、円への介入とテクノロジー企業の好決算がアジア市場を押し上げている。",
+    "source": [
+      "ft.com",
       "handelsblatt.com"
     ],
     "count": 2

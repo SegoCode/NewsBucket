@@ -1,39 +1,9 @@
 [
   {
-    "title": "La Fed mantiene los tipos en el 3,5 % mientras los mercados cuestionan la comunicación de Warsh y los costes de financiación tocan máximos de 19 años",
-    "summary": "El banco central estadounidense deja la tasa sin cambios, la inflación subyacente cede en línea con lo esperado y los inversores ven contraproducente la nueva estrategia de comunicación del presidente de la Fed.",
-    "source": [
-      "ft.com",
-      "expansion.com",
-      "handelsblatt.com",
-      "nikkei.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
-      "NewsBucket-005",
-      "NewsBucket-006"
-    ],
-    "count": 10
-  },
-  {
-    "title": "Microsoft se dispara un 17% en Bolsa y Meta se desploma un 8% tras sus resultados trimestrales",
-    "summary": "El mercado premia la fortaleza de la nube y la recuperación de la inversión en IA de Microsoft, mientras castiga los débiles resultados de Meta.",
+    "title": "La Fed mantiene los tipos en el 3,5 % y la comunicación de Warsh genera críticas",
+    "summary": "El presidente del FOMC propone reducir la frecuencia de las reuniones, mientras tres miembros abogan por subir las tasas para no agravar la inflación.",
     "source": [
       "nikkei.com",
-      "expansion.com",
-      "bolsamania.com",
-      "handelsblatt.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003"
-    ],
-    "count": 7
-  },
-  {
-    "title": "El Banco de Inglaterra mantiene los tipos de interés en el 3,75 % por quinta reunión consecutiva",
-    "summary": "La entidad británica deja sin cambios su tasa de referencia en medio de la incertidumbre por el shock energético.",
-    "source": [
       "handelsblatt.com",
       "ft.com",
       "NewsBucket-001",
@@ -41,70 +11,148 @@
       "NewsBucket-003",
       "NewsBucket-004"
     ],
-    "count": 6
+    "count": 7
   },
   {
-    "title": "El yen se dispara hasta un 3% por la intervención de Japón y el respaldo de Bessent",
-    "summary": "Tokio compra yenes y la divisa toca los 157 por dólar, mientras el secretario del Tesoro de EE UU considera que el yen está muy infravalorado.",
+    "title": "Apple se desploma hasta un 10% por débiles previsiones y pierde el liderazgo bursátil",
+    "summary": "La escasez de semiconductores y unas perspectivas de ventas decepcionantes provocan una fuerte caída de las acciones y de la capitalización de Apple.",
     "source": [
       "investing.com",
       "nikkei.com",
-      "ft.com"
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Microsoft sube un 17% en Bolsa y Meta se desploma un 8% tras sus resultados trimestrales",
+    "summary": "Las cuentas de las dos tecnológicas generan reacciones opuestas entre los inversores.",
+    "source": [
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Gobierno y Banco de Japón intervienen de nuevo en el mercado de divisas para sostener el yen",
+    "summary": "Las autoridades niponas y estadounidenses realizan una intervención coordinada que impulsa al yen hasta la zona de 157 unidades por dólar y agita los mercados asiáticos.",
+    "source": [
+      "ft.com",
+      "nikkei.com",
+      "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "Amazon supera previsiones con beneficios récord mientras Apple decepciona por los problemas de suministro",
-    "summary": "La nube impulsa los resultados de Amazon, mientras la escasez de semiconductores frena a Apple y lastra su cotización.",
+    "title": "El Banco de Inglaterra mantiene los tipos en el 3,75 % por quinta reunión consecutiva",
+    "summary": "La entidad británica deja en pausa las subidas de tipos y continúa con su programa de ajuste cuantitativo.",
+    "source": [
+      "ft.com",
+      "NewsBucket-001",
+      "NewsBucket-002"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Citadel rescata al fondo de IA Situational Awareness y frena el desplome tecnológico",
+    "summary": "La operación de Citadel ayudó a contener una venta masiva en el sector de inteligencia artificial valorada en tres billones de dólares.",
     "source": [
       "investing.com",
+      "ft.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Wall Street cierra en positivo pero el Nasdaq encadena dos meses de pérdidas",
+    "summary": "Los índices estadounidenses terminan la sesión con ganancias, mientras el Nasdaq lidera las caídas mensuales de julio.",
+    "source": [
+      "nikkei.com",
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Los mercados debaten si la inteligencia artificial está correctamente valorada",
+    "summary": "La volatilidad de las tecnológicas y de los fabricantes de chips mantiene a los inversores divididos entre el optimismo y el temor a una burbuja.",
+    "source": [
+      "expansion.com",
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El Banco de Japón mantiene los tipos con un tono restrictivo y sugiere futuras subidas",
+    "summary": "La entidad nipona deja estable su política monetaria, pero envía una señal de endurecimiento para las próximas reuniones.",
+    "source": [
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "BP pone a la venta su negocio de petróleo y gas en el Mar del Norte",
+    "summary": "La petrolera británica reestructura su cartera y busca comprador para sus activos en el Mar del Norte.",
+    "source": [
+      "nasdaq.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Chevron y Exxon elevan sus beneficios gracias al encarecimiento del crudo",
+    "summary": "Las grandes petroleras estadounidenses se benefician de la subida del petróleo, mientras Trump amenaza con intervenir los precios.",
+    "source": [
+      "ft.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Trump niega haber autorizado a Ucrania a producir misiles Patriot",
+    "summary": "El presidente de EE.UU. corrige sus declaraciones y deja en el aire la fabricación de sistemas Patriot en territorio ucraniano.",
+    "source": [
       "nikkei.com",
       "bolsamania.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "El Kospi rebota más de un 16% con Samsung y SK Hynix mientras los inversores surcoreanos sufren por la IA",
-    "summary": "La bolsa surcoreana se recupera tras el rally de Wall Street y los analistas respaldan a SK Hynix, aunque los particulares siguen golpeados por el estallido de la burbuja de IA.",
-    "source": [
-      "investing.com",
-      "expansion.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "KKR eleva su beneficio un 40% mientras Blue Owl sufre en la captación de crédito privado",
-    "summary": "Las gestoras alternativas estadounidenses presentan resultados opuestos: KKR cobra plusvalías récord y Blue Owl registra su captación más lenta en tres años.",
-    "source": [
-      "nikkei.com",
-      "ft.com"
-    ],
     "count": 2
   },
   {
-    "title": "Deutsche Bank pasa del exceso de entusiasmo a una corrección excesiva",
-    "summary": "El banco alemán sufre un brusco ajuste en Bolsa después de que el mercado hubiera elevado demasiado sus expectativas.",
+    "title": "El Ibex 35 sigue en máximos y quince compañías marcan récords en julio",
+    "summary": "La bolsa española mantiene una racha alcista de trece meses y se acerca a los 19.900 puntos.",
     "source": [
       "expansion.com",
-      "ft.com"
+      "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "Adidas se desploma en Bolsa por el aumento del gasto en marketing durante el Mundial",
-    "summary": "El tirón del fútbol no compensa la subida de costes comerciales y el mercado castiga a la marca deportiva.",
+    "title": "Amazon sube un 15% en Bolsa pese al desplome de su flujo de caja libre",
+    "summary": "Los resultados superan las expectativas y compensan la caída de 26.000 millones de dólares en el flujo de caja libre.",
     "source": [
-      "bolsamania.com",
-      "expansion.com"
+      "nasdaq.com",
+      "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "Un hedge fund vinculado a un exinvestigador de OpenAI amplía pérdidas por la caída de las acciones de IA",
-    "summary": "Citadel ha adquirido posiciones del fondo, que sufre un fuerte revés por el desplome de las tecnológicas de inteligencia artificial.",
+    "title": "Nueva York demanda a Kalshi y un tribunal sanciona a George Santos por operaciones en mercados de predicción",
+    "summary": "Las autoridades de EE.UU. refuerzan la supervisión de las plataformas de apuestas políticas y de predicción.",
     "source": [
       "nikkei.com",
+      "investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La bolsa surcoreana sube con fuerza y los mercados asiáticos repuntan por la inteligencia artificial",
+    "summary": "El Kospi se dispara un 18%, mientras la intervención sobre el yen y los resultados tecnológicos impulsan a las bolsas de Asia.",
+    "source": [
+      "ft.com",
       "handelsblatt.com"
     ],
     "count": 2

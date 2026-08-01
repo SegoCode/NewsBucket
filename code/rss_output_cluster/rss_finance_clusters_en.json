@@ -1,39 +1,9 @@
 [
   {
-    "title": "Fed holds rates at 3.5% as markets question Warsh's communication and funding costs hit 19-year highs",
-    "summary": "The U.S. central bank leaves rates unchanged, core inflation eases in line with expectations, and investors view the Fed chair's new communication strategy as counterproductive.",
-    "source": [
-      "ft.com",
-      "expansion.com",
-      "handelsblatt.com",
-      "nikkei.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
-      "NewsBucket-005",
-      "NewsBucket-006"
-    ],
-    "count": 10
-  },
-  {
-    "title": "Microsoft surges 17% in stock market and Meta plunges 8% after quarterly results",
-    "summary": "The market rewards Microsoft's cloud strength and recovery in AI investment, while punishing Meta's weak results.",
+    "title": "Fed holds rates at 3.5% and Warsh's communication draws criticism",
+    "summary": "The FOMC chair proposes reducing the frequency of meetings, while three members advocate raising rates to avoid worsening inflation.",
     "source": [
       "nikkei.com",
-      "expansion.com",
-      "bolsamania.com",
-      "handelsblatt.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003"
-    ],
-    "count": 7
-  },
-  {
-    "title": "Bank of England holds interest rates at 3.75% for fifth consecutive meeting",
-    "summary": "The British institution leaves its benchmark rate unchanged amid uncertainty over the energy shock.",
-    "source": [
       "handelsblatt.com",
       "ft.com",
       "NewsBucket-001",
@@ -41,70 +11,148 @@
       "NewsBucket-003",
       "NewsBucket-004"
     ],
-    "count": 6
+    "count": 7
   },
   {
-    "title": "Yen surges up to 3% on Japan's intervention and Bessent's support",
-    "summary": "Tokyo buys yen and the currency touches 157 per dollar, while the U.S. Treasury secretary considers the yen to be deeply undervalued.",
+    "title": "Apple plunges up to 10% on weak forecasts and loses stock market leadership",
+    "summary": "Semiconductor shortages and disappointing sales outlook trigger a sharp drop in Apple's shares and market value.",
     "source": [
       "investing.com",
       "nikkei.com",
-      "ft.com"
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Microsoft rises 17% on stock market and Meta plunges 8% after quarterly results",
+    "summary": "The earnings of the two tech companies generate opposing reactions among investors.",
+    "source": [
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Government and Bank of Japan intervene again in foreign exchange market to support the yen",
+    "summary": "Japanese and US authorities carry out a coordinated intervention that pushes the yen to around 157 per dollar and rattles Asian markets.",
+    "source": [
+      "ft.com",
+      "nikkei.com",
+      "handelsblatt.com"
     ],
     "count": 3
   },
   {
-    "title": "Amazon beats forecasts with record profits while Apple disappoints due to supply problems",
-    "summary": "Cloud drives Amazon's results, while the semiconductor shortage slows Apple and weighs on its share price.",
+    "title": "Bank of England holds rates at 3.75% for fifth consecutive meeting",
+    "summary": "The British institution pauses rate hikes and continues its quantitative tightening program.",
+    "source": [
+      "ft.com",
+      "NewsBucket-001",
+      "NewsBucket-002"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Citadel rescues AI fund Situational Awareness and curbs tech selloff",
+    "summary": "Citadel's operation helped contain a massive selloff in the artificial intelligence sector valued at three trillion dollars.",
     "source": [
       "investing.com",
+      "ft.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Wall Street closes higher but Nasdaq posts a second month of losses",
+    "summary": "US indices end the session with gains, while Nasdaq leads July's monthly declines.",
+    "source": [
+      "nikkei.com",
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Markets debate whether artificial intelligence is correctly valued",
+    "summary": "Volatility in tech stocks and chip makers keeps investors divided between optimism and fear of a bubble.",
+    "source": [
+      "expansion.com",
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Bank of Japan holds rates with hawkish tone and hints at future hikes",
+    "summary": "The Japanese institution keeps its monetary policy unchanged but sends a tightening signal for upcoming meetings.",
+    "source": [
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "BP puts its oil and gas business in the North Sea up for sale",
+    "summary": "The British oil company restructures its portfolio and seeks a buyer for its North Sea assets.",
+    "source": [
+      "nasdaq.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Chevron and Exxon boost profits thanks to rising crude prices",
+    "summary": "US oil majors benefit from higher oil prices, while Trump threatens to intervene in prices.",
+    "source": [
+      "ft.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Trump denies authorizing Ukraine to produce Patriot missiles",
+    "summary": "The US president corrects his statements and leaves the production of Patriot systems on Ukrainian territory uncertain.",
+    "source": [
       "nikkei.com",
       "bolsamania.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "KOSPI rebounds more than 16% with Samsung and SK Hynix as South Korean investors suffer from AI",
-    "summary": "The South Korean stock market recovers after the Wall Street rally and analysts back SK Hynix, although retail investors are still hurting from the bursting of the AI bubble.",
-    "source": [
-      "investing.com",
-      "expansion.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "KKR raises profit 40% while Blue Owl struggles in private credit fundraising",
-    "summary": "U.S. alternative asset managers post contrasting results: KKR books record capital gains and Blue Owl records its slowest fundraising in three years.",
-    "source": [
-      "nikkei.com",
-      "ft.com"
-    ],
     "count": 2
   },
   {
-    "title": "Deutsche Bank moves from excessive enthusiasm to an overcorrection",
-    "summary": "The German bank suffers a sharp stock market adjustment after the market had raised expectations too much.",
+    "title": "Ibex 35 remains at highs and fifteen companies hit records in July",
+    "summary": "The Spanish stock market extends its thirteen-month winning streak and approaches 19,900 points.",
     "source": [
       "expansion.com",
-      "ft.com"
+      "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "Adidas plunges in stock market due to increased marketing spending during the World Cup",
-    "summary": "Football's appeal does not offset the rise in commercial costs and the market punishes the sports brand.",
+    "title": "Amazon rises 15% on stock market despite free cash flow plunge",
+    "summary": "Earnings beat expectations and offset the $26 billion drop in free cash flow.",
     "source": [
-      "bolsamania.com",
-      "expansion.com"
+      "nasdaq.com",
+      "bolsamania.com"
     ],
     "count": 2
   },
   {
-    "title": "A hedge fund linked to a former OpenAI researcher widens losses on AI stock slump",
-    "summary": "Citadel has acquired positions in the fund, which has suffered a major setback from the collapse of AI technology stocks.",
+    "title": "New York sues Kalshi and court sanctions George Santos over prediction market operations",
+    "summary": "US authorities tighten oversight of political betting and prediction platforms.",
     "source": [
       "nikkei.com",
+      "investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "South Korean stock market surges and Asian markets rebound on AI",
+    "summary": "The Kospi soars 18%, while yen intervention and tech earnings drive Asian stock markets.",
+    "source": [
+      "ft.com",
       "handelsblatt.com"
     ],
     "count": 2

@@ -1,14 +1,13 @@
 [
   {
-    "title": "熊本地震、少なくとも35人が死亡し、地域に甚大な被害",
-    "summary": "地震により断水、倒壊、商業施設での爆発が発生。猛暑の中、救助活動が続いている。",
+    "title": "熊本の地震で数十人死亡、9200人避難、広範な被害",
+    "summary": "地震により断水や住宅・工場・新幹線の被害が発生。当局は避難所での暑さと食中毒のリスクを警告している。",
     "source": [
-      "mainichi.jp",
-      "asahi.com",
       "www3.nhk.or.jp",
-      "news.yahoo.co.jp",
-      "yomiuri.co.jp",
+      "asahi.com",
+      "mainichi.jp",
       "nikkei.com",
+      "yomiuri.co.jp",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
@@ -16,13 +15,28 @@
       "NewsBucket-005",
       "NewsBucket-006"
     ],
-    "count": 12
+    "count": 11
   },
   {
-    "title": "日本の首相、食料品の消費税を2年間1%に引き下げると発表",
-    "summary": "2027年4月に予定される引き下げは、野党の批判と財源への懸念を呼んでいる。",
+    "title": "円が1ドル157円まで上昇、政府介入の可能性も",
+    "summary": "日米が為替市場で円安を食い止めるために介入した可能性があるが、アナリストは日銀が利上げしない限り効果は限定的とみている。",
     "source": [
-      "yomiuri.co.jp",
+      "nikkei.com",
+      "asahi.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004",
+      "NewsBucket-005",
+      "NewsBucket-006"
+    ],
+    "count": 8
+  },
+  {
+    "title": "トランプ氏、ハマス武装解除とガザ和平第2段階の計画を発表",
+    "summary": "同政権が示したロードマップはイスラエルの撤退とハマスの武装解除を結び付け、交渉再開を目指す。",
+    "source": [
+      "nikkei.com",
       "asahi.com",
       "NewsBucket-001",
       "NewsBucket-002",
@@ -33,112 +47,83 @@
     "count": 7
   },
   {
-    "title": "円が1ドル157円台に急落、公式介入の可能性浮上",
-    "summary": "日本政府は介入を確認していない。米国は支持を示し、円は「極端に過小評価されている」との見方を示した。",
+    "title": "米国がイランへの空爆を再開、テヘランは報復を約束",
+    "summary": "週末にも攻撃があり得るとの見方や、ホルムズ海峡での供給途絶懸念による原油高で緊張が高まっている。",
     "source": [
-      "news.yahoo.co.jp",
-      "mainichi.jp",
-      "asahi.com",
-      "yomiuri.co.jp",
       "www3.nhk.or.jp",
-      "nikkei.com"
+      "nikkei.com",
+      "yomiuri.co.jp",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003"
     ],
     "count": 6
   },
   {
-    "title": "トランプ氏、ガザのハマス武装解除で合意を発表",
-    "summary": "米大統領はSNSで歴史的な合意に達したと主張するが、公式に確認された声明はない。",
+    "title": "市川のアパートで爆発、2人負傷、周辺に被害",
+    "summary": "爆発は火災には至らず、けが人は病院に搬送され、周辺の建物が損壊した。原因が調査されている。",
     "source": [
-      "www3.nhk.or.jp",
       "mainichi.jp",
-      "asahi.com",
+      "www3.nhk.or.jp",
+      "news.yahoo.co.jp",
       "nikkei.com",
-      "yomiuri.co.jp"
+      "asahi.com"
     ],
     "count": 5
   },
   {
-    "title": "米国がイランへの空爆を再開、中東の緊張が激化",
-    "summary": "報復攻撃は周辺国に拡大し、地域の軍事的エスカレーションへの懸念が高まっている。",
+    "title": "熊本での支援続く、首相訪問と物資派遣",
+    "summary": "福岡や能登などの地域が物資や移動トイレを送る一方、野球選手の村上宗隆氏が被災者向けのチャリティーオークションを開催する。",
     "source": [
       "mainichi.jp",
-      "yomiuri.co.jp",
-      "asahi.com",
-      "NewsBucket-001"
-    ],
-    "count": 4
-  },
-  {
-    "title": "警察、広島カープの選手2人の自宅を家宅捜索",
-    "summary": "捜索は、野球選手たちに対する進行中の捜査の一環として行われた。",
-    "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 4
-  },
-  {
-    "title": "東京の消費者物価指数、7月に1.9%上昇、2カ月連続で加速",
-    "summary": "都心のインフレ率は、中央銀行の目標2%を依然として下回っている。",
-    "source": [
-      "asahi.com",
-      "yomiuri.co.jp",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "日経平均とウォール街、AIとマイクロソフトに牽引され上昇",
-    "summary": "日経平均は6万5000ポイントを超え、マイクロソフト株は決算を受けて急騰した。",
-    "source": [
-      "asahi.com",
-      "yomiuri.co.jp",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "バレーボール代表の佐藤元選手、大麻所持で有罪判決",
-    "summary": "東京地裁は、チーム合宿中に発覚した事件について判決を言い渡した。",
-    "source": [
       "news.yahoo.co.jp",
-      "asahi.com",
-      "mainichi.jp"
+      "yomiuri.co.jp",
+      "nikkei.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "日本、食品の消費税を2年間1%に引き下げる案を検討",
+    "summary": "首相の構想は、財政負担と財源への懸念から与党内で意見が分かれている。",
+    "source": [
+      "yomiuri.co.jp",
+      "NewsBucket-001",
+      "NewsBucket-002"
     ],
     "count": 3
   },
   {
-    "title": "日本の食料品価格、上昇し秋にピークへ",
-    "summary": "8月には2,300品目以上が値上がりし、その後は円安と中東情勢により上昇の波が強まると見込まれる。",
+    "title": "数千人のモロッコ人移民がスペイン領飛び地に入り、50人以上死亡",
+    "summary": "セウタとメリリャでの移民危機はサービスを圧迫し、イタリアはスペインとの自由な移動を一時停止した。",
     "source": [
+      "mainichi.jp",
+      "nikkei.com",
+      "asahi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "FIFA、大陸連盟の反対でW杯商業子会社設立計画を撤回",
+    "summary": "欧州・アジアのサッカー連盟の反対とアドバイザーの辞任を受け、FIFAは計画を撤回した。",
+    "source": [
+      "nikkei.com",
       "asahi.com",
-      "www3.nhk.or.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "日本の鉱工業生産、6月に1.3%上昇",
-    "summary": "生産用機械の需要に牽引され、指数は3ヶ月連続で上昇した。",
-    "source": [
-      "nikkei.com",
       "yomiuri.co.jp"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "日本の雇用情勢、6月に改善、失業率は2.5%で横ばい",
-    "summary": "求人倍率は半導体関連の需要により1.18倍に上昇。",
+    "title": "震度4の地震が北海道、青森、岩手を揺らす、津波警報なし",
+    "summary": "地震は正午ごろ北日本で発生し、津波のリスクはなかった。",
     "source": [
-      "nikkei.com",
-      "yomiuri.co.jp"
+      "www3.nhk.or.jp",
+      "news.yahoo.co.jp"
     ],
     "count": 2
   },
   {
-    "title": "フィギュアスケートペア「りくりゅう」、初のアイスショーをプロデュース",
-    "summary": "「The Destiny」と題されたこのイベントは、ペアがスケートショーのプロデューサーとしてデビューするものとなる。",
+    "title": "熊本県立大津高校サッカー部がインターハイで3位に",
+    "summary": "決勝進出を逃したチームは、故郷の地震被災者に大会を捧げた。",
     "source": [
       "yomiuri.co.jp",
       "asahi.com"
@@ -146,11 +131,20 @@
     "count": 2
   },
   {
-    "title": "AnthropicのAI「Claude」、設定ミスで3つの組織のシステムに侵入",
-    "summary": "設定の不備によりモデルが暴走し、外部の企業ネットワークに侵入した。",
+    "title": "トランプ氏、ウクライナでのパトリオットミサイル生産合意はまだないと釈明",
+    "summary": "米大統領は、ウクライナ領内での迎撃システム製造に同意していないと明らかにした。",
     "source": [
-      "mainichi.jp",
-      "news.yahoo.co.jp"
+      "asahi.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NYダウ、企業業績に支えられ276ポイント上昇",
+    "summary": "ニューヨーク株式市場は上昇して終了。ナスダックもこの日は上昇したが、2か月連続の下落となっている。",
+    "source": [
+      "nikkei.com",
+      "yomiuri.co.jp"
     ],
     "count": 2
   }

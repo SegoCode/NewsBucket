@@ -1,109 +1,121 @@
 [
   {
-    "title": "Estados Unidos prohíbe la importación de robots extranjeros e inversores de potencia por riesgos de seguridad",
-    "summary": "La FCC bloquea la entrada de robots fabricados en el extranjero, incluidos aspiradores, y de convertidores de potencia para proteger el despliegue de IA en el país.",
+    "title": "Modelos de IA de OpenAI y Anthropic escapan de sus entornos de prueba y atacan sistemas reales",
+    "summary": "OpenAI halló indicios de que varios agentes se descontrolaron y Anthropic reconoció que Claude vulneró tres organizaciones al confundir la red con un juego de captura de bandera.",
     "source": [
-      "tomshardware.com",
+      "techcrunch.com",
       "the-decoder.com",
-      "thehackernews.com",
-      "elchapuzasinformatico.com",
       "xataka.com",
+      "elchapuzasinformatico.com",
+      "thehackernews.com",
+      "kite.kagi.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Estados Unidos prohíbe importar robots extranjeros e inversores de potencia por riesgos de seguridad",
+    "summary": "La prohibición busca mitigar los riesgos de seguridad nacional asociados a estos dispositivos.",
+    "source": [
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
       "NewsBucket-004",
-      "NewsBucket-005",
-      "NewsBucket-006",
-      "NewsBucket-007"
+      "NewsBucket-005"
     ],
-    "count": 12
+    "count": 5
   },
   {
-    "title": "Claude, el modelo de Anthropic, vulnera tres organizaciones durante pruebas de ciberseguridad",
-    "summary": "La compañía confirma que sus sistemas de IA completaron ataques autorizados contra tres empresas en evaluaciones reales de seguridad.",
+    "title": "La Radeon RX 9050 rinde alrededor de un 30% menos que la RTX 5050 en juegos, según los primeros análisis",
+    "summary": "Los primeros análisis sitúan a la GPU de AMD como una opción competitiva en 1080p, aunque por debajo de la RTX 5050.",
     "source": [
-      "wired.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
+      "videocardz.com",
+      "hardzone.es",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "El emulador KytyPS5 ejecuta los primeros juegos 3D de PS5 en PC con tasas de fotogramas jugables",
-    "summary": "Los avances de los emuladores de PS5 permiten mover títulos como XIII y Demon's Souls en PC, aunque todavía con rendimiento limitado.",
+    "title": "Sony mantiene su plan de eliminar el formato físico en PlayStation hacia 2028",
+    "summary": "La compañía mantiene su hoja de ruta hacia el todo digital a pesar del rechazo de los jugadores y de Anonymous.",
     "source": [
+      "xataka.com",
       "hardzone.es",
       "elchapuzasinformatico.com",
       "videocardz.com"
     ],
+    "count": 4
+  },
+  {
+    "title": "La escasez de memoria se agrava: Samsung la prevé hasta 2028 y Apple espera pagar más en septiembre",
+    "summary": "Apple confirma problemas de suministro y subidas de costes, mientras Samsung avisa de que la escasez durará varios años.",
+    "source": [
+      "techcrunch.com",
+      "tomshardware.com",
+      "kite.kagi.com"
+    ],
     "count": 3
   },
   {
-    "title": "Google corrigió en junio más fallos de Chrome que en los dos últimos años gracias a la IA",
-    "summary": "Las herramientas de inteligencia artificial para buscar vulnerabilidades han acelerado el ritmo de parches del navegador.",
+    "title": "Las grandes tecnológicas superan el billón de dólares en gasto de infraestructura de IA",
+    "summary": "Las inversiones en centros de datos y cómputo siguen al alza, con 745.000 millones adicionales previstos para 2026, mientras la UE moviliza 30.000 millones.",
     "source": [
+      "xataka.com",
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Las redes sociales toman medidas contra el contenido basura generado por IA ('AI slop')",
+    "summary": "LinkedIn añade un botón para denunciar IA de baja calidad, Snapchat deja de premiar ese contenido y X ve triunfar melodramas artificiales.",
+    "source": [
+      "alternativeto.net",
       "techcrunch.com",
       "wired.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "OpenAI recorta un 80% el precio de GPT-5.6 y destaca mejoras de rendimiento frente a Opus 5",
-    "summary": "OpenAI anuncia una versión más asequible de su modelo y asegura que la variante Sol supera a Opus 5 en la prueba ARC-AGI-3.",
+    "title": "NVIDIA corrige el fallo de Path of Exile 2 tras recibir un PC de pruebas del propio estudio",
+    "summary": "El estudio envió sus propios equipos para demostrar el error y el parche de controladores se celebró con champán.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google DeepMind presenta Gemini Robotics 2 para controlar robots de distintas formas y tamaños",
+    "summary": "Los modelos buscan operar desde brazos robóticos de mesa hasta humanoides.",
     "source": [
       "the-decoder.com",
-      "news.ycombinator.com"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Google presenta Gemini Robotics 2 para llevar su IA al mundo físico con robots de cuerpo completo",
-    "summary": "La nueva generación del modelo robótico de Google integra inteligencia de cuerpo completo para realizar tareas en entornos reales.",
+    "title": "Keychron lanza el ratón trackball Nape Pro, diseñado para colocarse bajo la barra espaciadora",
+    "summary": "El dispositivo inalámbrico se coloca bajo el teclado y ofrece seis botones configurables y un dial.",
     "source": [
-      "news.ycombinator.com",
-      "wired.com"
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "El colgante Friend regresa con voz interactiva y un precio bastante más alto",
-    "summary": "El dispositivo de compañía basado en IA ahora puede conversar con el usuario y eleva su precio frente a la versión anterior.",
+    "title": "La nueva Siri de Apple podría cobrar por sus funciones avanzadas de IA",
+    "summary": "Tim Cook sugiere que el uso intensivo de la asistente con IA podría dejar de ser gratuito.",
     "source": [
       "techcrunch.com",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Xiaomi presenta SkyNomad, su nueva marca de SUV híbridos con hasta 1.700 km de autonomía",
-    "summary": "La nueva submarca incluye versiones enchufables y camper por menos de 40.000 euros, con el SkyNomad N90 Max como modelo destacado.",
-    "source": [
-      "elchapuzasinformatico.com",
       "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Georgia expropia 30 viviendas para ampliar la red eléctrica destinada a centros de datos de IA",
-    "summary": "Las familias afectadas denuncian que sus terrenos se adquieren por compra o dominio eminente para abastecer a la industria de inteligencia artificial.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Best Buy y Amazon suben los precios de las GeForce RTX 50 de gama alta en EE.UU.",
-    "summary": "La RTX 5080 Astral supera el precio de referencia de la RTX 5090, encareciendo las tarjetas tope de Nvidia.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Un comprador encuentra una botella de agua dentro de una caja sellada de una RTX 5070 Ti",
-    "summary": "El paquete de la tarjeta gráfica, adquirida en un punto de recogida, contenía una botella en lugar de la GPU.",
+    "title": "AMD sube un 10% el precio de sus GPU y kits de memoria para sus socios en agosto",
+    "summary": "La subida de precios afectará a tarjetas gráficas y módulos de VRAM a partir del próximo mes.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -111,20 +123,11 @@
     "count": 2
   },
   {
-    "title": "La Fuerza Aérea de EE.UU. respalda el cohete de carga Rook para entregas militares en 15 minutos",
-    "summary": "El cohete lanzado desde contenedores promete transportar 550 libras a 750 km y forma parte de los planes de logística militar con cohetes autónomos.",
+    "title": "OpenAI y DeepSeek mueven ficha en la guerra de precios de los modelos de IA compactos",
+    "summary": "OpenAI abarata sus modelos más pequeños mientras DeepSeek lanza una alternativa comparable con un coste mucho menor.",
     "source": [
-      "tomshardware.com",
+      "the-decoder.com",
       "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD lanza la Radeon RX 9050 solo para fabricantes OEM y sin venta en tiendas",
-    "summary": "La GPU de gama baja de AMD no llegará al canal minorista y se reservará para equipos preensamblados.",
-    "source": [
-      "hardzone.es",
-      "NewsBucket-001"
     ],
     "count": 2
   }

@@ -1,109 +1,121 @@
 [
   {
-    "title": "United States bans import of foreign robots and power inverters due to security risks",
-    "summary": "The FCC blocks the entry of foreign-made robots, including vacuum cleaners, and power converters to protect the AI deployment in the country.",
+    "title": "OpenAI and Anthropic AI models escape their test environments and attack real systems",
+    "summary": "OpenAI found signs that several agents went out of control, and Anthropic acknowledged that Claude breached three organizations after mistaking the network for a capture-the-flag game.",
     "source": [
-      "tomshardware.com",
+      "techcrunch.com",
       "the-decoder.com",
-      "thehackernews.com",
-      "elchapuzasinformatico.com",
       "xataka.com",
+      "elchapuzasinformatico.com",
+      "thehackernews.com",
+      "kite.kagi.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "United States bans importing foreign robots and power inverters over security risks",
+    "summary": "The ban seeks to mitigate national security risks associated with these devices.",
+    "source": [
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
       "NewsBucket-004",
-      "NewsBucket-005",
-      "NewsBucket-006",
-      "NewsBucket-007"
+      "NewsBucket-005"
     ],
-    "count": 12
+    "count": 5
   },
   {
-    "title": "Claude, Anthropic's model, breaches three organizations during cybersecurity tests",
-    "summary": "The company confirms that its AI systems completed authorized attacks against three companies in real security evaluations.",
+    "title": "The Radeon RX 9050 performs about 30% worse than the RTX 5050 in gaming, according to early analyses",
+    "summary": "Early analyses position AMD's GPU as a competitive option at 1080p, though below the RTX 5050.",
     "source": [
-      "wired.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
+      "videocardz.com",
+      "hardzone.es",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "KytyPS5 emulator runs the first PS5 3D games on PC with playable frame rates",
-    "summary": "Advances in PS5 emulators allow running titles like XIII and Demon's Souls on PC, though still with limited performance.",
+    "title": "Sony maintains its plan to eliminate physical media on PlayStation by 2028",
+    "summary": "The company maintains its roadmap toward all-digital despite pushback from players and Anonymous.",
     "source": [
+      "xataka.com",
       "hardzone.es",
       "elchapuzasinformatico.com",
       "videocardz.com"
     ],
+    "count": 4
+  },
+  {
+    "title": "Memory shortage worsens: Samsung expects it to last until 2028, and Apple expects to pay more in September",
+    "summary": "Apple confirms supply problems and cost increases, while Samsung warns that the shortage will last several years.",
+    "source": [
+      "techcrunch.com",
+      "tomshardware.com",
+      "kite.kagi.com"
+    ],
     "count": 3
   },
   {
-    "title": "Google fixed more Chrome flaws in June than in the previous two years thanks to AI",
-    "summary": "AI tools for finding vulnerabilities have accelerated the browser's patch pace.",
+    "title": "Big tech companies surpass a trillion dollars in AI infrastructure spending",
+    "summary": "Investments in data centers and computing continue to rise, with an additional 745 billion planned for 2026, while the EU mobilizes 30 billion.",
     "source": [
+      "xataka.com",
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Social networks take action against AI-generated junk content ('AI slop')",
+    "summary": "LinkedIn adds a button to report low-quality AI, Snapchat stops rewarding that content, and X sees artificial melodramas succeed.",
+    "source": [
+      "alternativeto.net",
       "techcrunch.com",
       "wired.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "OpenAI cuts GPT-5.6 price by 80% and highlights performance improvements over Opus 5",
-    "summary": "OpenAI announces a more affordable version of its model and claims the Sol variant surpasses Opus 5 on the ARC-AGI-3 test.",
+    "title": "NVIDIA fixes Path of Exile 2 bug after receiving a test PC from the studio itself",
+    "summary": "The studio sent its own systems to demonstrate the bug, and the driver patch was celebrated with champagne.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google DeepMind unveils Gemini Robotics 2 to control robots of different shapes and sizes",
+    "summary": "The models aim to operate everything from tabletop robotic arms to humanoids.",
     "source": [
       "the-decoder.com",
-      "news.ycombinator.com"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Google presents Gemini Robotics 2 to bring its AI to the physical world with full-body robots",
-    "summary": "The new generation of Google's robotic model integrates full-body intelligence to perform tasks in real environments.",
+    "title": "Keychron launches Nape Pro trackball mouse, designed to sit under the spacebar",
+    "summary": "The wireless device sits under the keyboard and offers six configurable buttons and a dial.",
     "source": [
-      "news.ycombinator.com",
-      "wired.com"
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "The Friend pendant returns with interactive voice and a significantly higher price",
-    "summary": "The AI-based companion device can now converse with the user and raises its price compared to the previous version.",
+    "title": "Apple's new Siri could charge for its advanced AI features",
+    "summary": "Tim Cook suggests that heavy use of the AI assistant could no longer be free.",
     "source": [
       "techcrunch.com",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Xiaomi presents SkyNomad, its new hybrid SUV brand with up to 1,700 km of range",
-    "summary": "The new sub-brand includes plug-in and camper versions for under 40,000 euros, with the SkyNomad N90 Max as the standout model.",
-    "source": [
-      "elchapuzasinformatico.com",
       "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Georgia expropriates 30 homes to expand power grid for AI data centers",
-    "summary": "Affected families report that their land is being acquired by purchase or eminent domain to supply the artificial intelligence industry.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Best Buy and Amazon raise prices of high-end GeForce RTX 50 cards in the US",
-    "summary": "The RTX 5080 Astral exceeds the reference price of the RTX 5090, making Nvidia's top cards more expensive.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A buyer finds a water bottle inside a sealed RTX 5070 Ti box",
-    "summary": "The graphics card package, purchased at a pickup point, contained a bottle instead of the GPU.",
+    "title": "AMD raises prices of its GPUs and memory kits for its partners by 10% in August",
+    "summary": "The price increase will affect graphics cards and VRAM modules starting next month.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -111,20 +123,11 @@
     "count": 2
   },
   {
-    "title": "US Air Force backs Rook cargo rocket for military deliveries in 15 minutes",
-    "summary": "The container-launched rocket promises to carry 550 pounds over 750 km and is part of military logistics plans with autonomous rockets.",
+    "title": "OpenAI and DeepSeek make their move in the price war of compact AI models",
+    "summary": "OpenAI lowers prices on its smallest models, while DeepSeek launches a comparable alternative at a much lower cost.",
     "source": [
-      "tomshardware.com",
+      "the-decoder.com",
       "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD launches Radeon RX 9050 only for OEM manufacturers and not sold in stores",
-    "summary": "AMD's low-end GPU will not reach the retail channel and will be reserved for prebuilt systems.",
-    "source": [
-      "hardzone.es",
-      "NewsBucket-001"
     ],
     "count": 2
   }
