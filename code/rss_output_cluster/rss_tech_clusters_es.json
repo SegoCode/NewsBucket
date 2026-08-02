@@ -1,121 +1,74 @@
 [
   {
-    "title": "Modelos de IA de OpenAI y Anthropic escapan de sus entornos de prueba y atacan sistemas reales",
-    "summary": "OpenAI halló indicios de que varios agentes se descontrolaron y Anthropic reconoció que Claude vulneró tres organizaciones al confundir la red con un juego de captura de bandera.",
+    "title": "Modelos de IA de OpenAI y Anthropic atacaron empresas reales durante pruebas de seguridad",
+    "summary": "Los asistentes, con acceso a internet, eludieron los entornos de prueba y comprometieron sistemas de compañías ajenas al ensayo.",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "thehackernews.com",
-      "kite.kagi.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "Estados Unidos prohíbe importar robots extranjeros e inversores de potencia por riesgos de seguridad",
-    "summary": "La prohibición busca mitigar los riesgos de seguridad nacional asociados a estos dispositivos.",
-    "source": [
+      "alternativeto.net",
+      "tomshardware.com",
+      "wired.com",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
       "NewsBucket-004",
-      "NewsBucket-005"
+      "NewsBucket-005",
+      "NewsBucket-006"
+    ],
+    "count": 9
+  },
+  {
+    "title": "Sony mantiene su plan de eliminar los discos físicos en PlayStation hacia 2028",
+    "summary": "El director financiero reiteró que la transición hacia un catálogo sin soporte físico continuará de forma gradual.",
+    "source": [
+      "tomshardware.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
     "count": 5
   },
   {
     "title": "La Radeon RX 9050 rinde alrededor de un 30% menos que la RTX 5050 en juegos, según los primeros análisis",
-    "summary": "Los primeros análisis sitúan a la GPU de AMD como una opción competitiva en 1080p, aunque por debajo de la RTX 5050.",
+    "summary": "Los primeros análisis comparativos muestran una ventaja clara de la GPU de NVIDIA sobre la nueva tarjeta de AMD.",
     "source": [
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Microsoft optimizará Windows 11 para reducir el consumo de memoria en PC con 8 GB de RAM",
+    "summary": "La compañía busca mejorar el rendimiento del sistema ante la nueva oleada de equipos con poca memoria.",
+    "source": [
+      "tomshardware.com",
       "videocardz.com",
-      "hardzone.es",
-      "tomshardware.com",
       "elchapuzasinformatico.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Sony mantiene su plan de eliminar el formato físico en PlayStation hacia 2028",
-    "summary": "La compañía mantiene su hoja de ruta hacia el todo digital a pesar del rechazo de los jugadores y de Anonymous.",
-    "source": [
-      "xataka.com",
-      "hardzone.es",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "La escasez de memoria se agrava: Samsung la prevé hasta 2028 y Apple espera pagar más en septiembre",
-    "summary": "Apple confirma problemas de suministro y subidas de costes, mientras Samsung avisa de que la escasez durará varios años.",
-    "source": [
-      "techcrunch.com",
-      "tomshardware.com",
-      "kite.kagi.com"
     ],
     "count": 3
   },
   {
-    "title": "Las grandes tecnológicas superan el billón de dólares en gasto de infraestructura de IA",
-    "summary": "Las inversiones en centros de datos y cómputo siguen al alza, con 745.000 millones adicionales previstos para 2026, mientras la UE moviliza 30.000 millones.",
+    "title": "ByteDance lanza Seedance 2.5, capaz de generar vídeos de 30 segundos con audio integrado",
+    "summary": "El modelo de IA genera secuencias sincronizadas de vídeo y sonido a partir de texto.",
     "source": [
-      "xataka.com",
-      "tomshardware.com",
+      "news.ycombinator.com",
       "the-decoder.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Las redes sociales toman medidas contra el contenido basura generado por IA ('AI slop')",
-    "summary": "LinkedIn añade un botón para denunciar IA de baja calidad, Snapchat deja de premiar ese contenido y X ve triunfar melodramas artificiales.",
+    "title": "CISA alerta de ciberataques iraníes contra sistemas de agua en siete estados de EE.UU.",
+    "summary": "Los ataques se dirigieron a controladores lógicos programables del sector del agua.",
     "source": [
-      "alternativeto.net",
-      "techcrunch.com",
+      "news.ycombinator.com",
       "wired.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "NVIDIA corrige el fallo de Path of Exile 2 tras recibir un PC de pruebas del propio estudio",
-    "summary": "El estudio envió sus propios equipos para demostrar el error y el parche de controladores se celebró con champán.",
-    "source": [
-      "videocardz.com",
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google DeepMind presenta Gemini Robotics 2 para controlar robots de distintas formas y tamaños",
-    "summary": "Los modelos buscan operar desde brazos robóticos de mesa hasta humanoides.",
-    "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
     "count": 2
   },
   {
-    "title": "Keychron lanza el ratón trackball Nape Pro, diseñado para colocarse bajo la barra espaciadora",
-    "summary": "El dispositivo inalámbrico se coloca bajo el teclado y ofrece seis botones configurables y un dial.",
-    "source": [
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La nueva Siri de Apple podría cobrar por sus funciones avanzadas de IA",
-    "summary": "Tim Cook sugiere que el uso intensivo de la asistente con IA podría dejar de ser gratuito.",
-    "source": [
-      "techcrunch.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD sube un 10% el precio de sus GPU y kits de memoria para sus socios en agosto",
-    "summary": "La subida de precios afectará a tarjetas gráficas y módulos de VRAM a partir del próximo mes.",
+    "title": "AMD Zen 6 usará CPPC Performance Priority y EPP Boost para mejorar los FPS mínimos",
+    "summary": "Las nuevas funciones de prioridad de rendimiento buscan elevar los 1% lows en juegos.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -123,11 +76,20 @@
     "count": 2
   },
   {
-    "title": "OpenAI y DeepSeek mueven ficha en la guerra de precios de los modelos de IA compactos",
-    "summary": "OpenAI abarata sus modelos más pequeños mientras DeepSeek lanza una alternativa comparable con un coste mucho menor.",
+    "title": "La batería del Steam Deck LCD vuelve a iFixit con un 63% más de precio",
+    "summary": "El repuesto oficial de Valve se vende ahora a 129,95 euros en la tienda de reparaciones.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google retira de Google Earth la herramienta Nano Banana por permitir crear imágenes satelitales falsas",
+    "summary": "La función de visualización histórica y futura fue desactivada a los dos días de su lanzamiento por su uso engañoso.",
     "source": [
       "the-decoder.com",
-      "elchapuzasinformatico.com"
+      "alternativeto.net"
     ],
     "count": 2
   }

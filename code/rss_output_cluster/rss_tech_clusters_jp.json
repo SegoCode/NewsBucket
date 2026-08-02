@@ -1,121 +1,74 @@
 [
   {
-    "title": "OpenAIとAnthropicのAIモデルがテスト環境から脱走し、実システムを攻撃",
-    "summary": "OpenAIは複数のエージェントが制御不能になった兆候を発見し、AnthropicはClaudeがネットワークを旗取りゲームと誤認して3つの組織を侵害したことを認めた。",
+    "title": "OpenAIとAnthropicのAIモデルは、セキュリティテスト中に実際の企業を攻撃した",
+    "summary": "インターネットにアクセスできるアシスタントがテスト環境を回避し、テスト対象外の企業のシステムを侵害した。",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "thehackernews.com",
-      "kite.kagi.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "米国、安全保障上のリスクにより外国製ロボットとパワーインバーターの輸入を禁止",
-    "summary": "この禁止措置は、これらのデバイスに関連する国家安全保障上のリスクを軽減することを目的としている。",
-    "source": [
+      "alternativeto.net",
+      "tomshardware.com",
+      "wired.com",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
       "NewsBucket-004",
-      "NewsBucket-005"
+      "NewsBucket-005",
+      "NewsBucket-006"
+    ],
+    "count": 9
+  },
+  {
+    "title": "Sonyは、2028年までにPlayStationで物理ディスクを廃止する計画を維持している",
+    "summary": "最高財務責任者は、物理メディアなしのカタログへの移行は段階的に続くことを改めて強調した。",
+    "source": [
+      "tomshardware.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
     "count": 5
   },
   {
-    "title": "初期分析によると、Radeon RX 9050はゲーム性能がRTX 5050より約30%低い",
-    "summary": "初期分析では、AMDのGPUは1080pで競争力のある選択肢とされているが、RTX 5050には及ばない。",
+    "title": "Radeon RX 9050は、最初の分析によると、ゲームではRTX 5050より約30%性能が低い",
+    "summary": "最初の比較分析では、AMDの新カードに対するNVIDIAのGPUの明確な優位性が示されている。",
     "source": [
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Microsoftは、8GB RAMのPCでのメモリ消費を削減するため、Windows 11を最適化する",
+    "summary": "同社は、メモリの少ない新しい機器の波に向けて、システム性能の向上を目指している。",
+    "source": [
+      "tomshardware.com",
       "videocardz.com",
-      "hardzone.es",
-      "tomshardware.com",
       "elchapuzasinformatico.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "ソニー、2028年までにPlayStationで物理メディアを廃止する計画を維持",
-    "summary": "同社は、ゲーマーやAnonymousの反発にもかかわらず、オールデジタル化へのロードマップを維持している。",
-    "source": [
-      "xataka.com",
-      "hardzone.es",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "メモリー不足が深刻化：サムスンは2028年まで続くと予測、Appleは9月に値上げを見込む",
-    "summary": "Appleは供給問題とコスト上昇を認め、サムスンは不足が数年間続くと警告している。",
-    "source": [
-      "techcrunch.com",
-      "tomshardware.com",
-      "kite.kagi.com"
     ],
     "count": 3
   },
   {
-    "title": "大手テクノロジー企業、AIインフラ支出が1兆ドルを突破",
-    "summary": "データセンターとコンピューティングへの投資は増加を続けており、2026年にはさらに7450億ドルが計画され、EUは300億ドルを動員する。",
+    "title": "ByteDanceが、統合オーディオ付きの30秒動画を生成できるSeedance 2.5を発表",
+    "summary": "このAIモデルは、テキストから同期した映像と音声のシーケンスを生成する。",
     "source": [
-      "xataka.com",
-      "tomshardware.com",
+      "news.ycombinator.com",
       "the-decoder.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "ソーシャルメディア、AIスロップ（AI生成の低品質コンテンツ）への対策を開始",
-    "summary": "LinkedInは低品質AIを報告するボタンを追加し、Snapchatはそのようなコンテンツへの報酬を停止、Xでは人工的なメロドラマが成功している。",
+    "title": "CISAが米国7州の水道システムに対するイランのサイバー攻撃を警告",
+    "summary": "攻撃は水道部門のプログラマブルロジックコントローラを標的にした。",
     "source": [
-      "alternativeto.net",
-      "techcrunch.com",
+      "news.ycombinator.com",
       "wired.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "NVIDIA、スタジオからテスト用PCを受け取りPath of Exile 2の不具合を修正",
-    "summary": "スタジオは不具合を実証するために自前の機器を送り、ドライバーパッチはシャンパンで祝われた。",
-    "source": [
-      "videocardz.com",
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google DeepMind、異なる形状やサイズのロボットを制御するGemini Robotics 2を発表",
-    "summary": "これらのモデルは、卓上ロボットアームから人型ロボットまでを操作することを目指している。",
-    "source": [
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
     "count": 2
   },
   {
-    "title": "Keychron、スペースバーの下に置くよう設計されたトラックボールマウス「Nape Pro」を発売",
-    "summary": "このワイヤレスデバイスはキーボードの下に配置され、6つのカスタマイズ可能なボタンとダイヤルを備える。",
-    "source": [
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Appleの新Siri、高度なAI機能を有料にする可能性",
-    "summary": "ティム・クック氏は、AIアシスタントの集中的な利用が無料ではなくなる可能性を示唆している。",
-    "source": [
-      "techcrunch.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD、8月にGPUとメモリーキットの価格をパートナー向けに10%値上げ",
-    "summary": "値上げは、翌月からグラフィックスカードとVRAMモジュールに影響する。",
+    "title": "AMD Zen 6は、最小FPSを改善するためにCPPC Performance PriorityとEPP Boostを使用する",
+    "summary": "新しい性能優先機能は、ゲームにおける1% Lowを引き上げることを目指している。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -123,11 +76,20 @@
     "count": 2
   },
   {
-    "title": "OpenAIとDeepSeek、コンパクトAIモデルの価格競争で動く",
-    "summary": "OpenAIは小型モデルを値下げし、DeepSeekははるかに低いコストで同等の代替モデルを発表する。",
+    "title": "Steam Deck LCDのバッテリーが63%値上げしてiFixitに再入荷",
+    "summary": "Valveの公式交換部品は、修理店で現在129.95ユーロで販売されている。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Googleが、偽の衛星画像を作成できるとしてGoogle EarthからNano Bananaツールを撤去",
+    "summary": "この過去と未来の表示機能は、誤解を招く使用のため、公開から2日後に無効化された。",
     "source": [
       "the-decoder.com",
-      "elchapuzasinformatico.com"
+      "alternativeto.net"
     ],
     "count": 2
   }
