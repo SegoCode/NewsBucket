@@ -24,7 +24,7 @@ NewsBucket fetches RSS feeds from sources you configure, groups articles coverin
 
 - **Multi-language output.** Clusters are generated in one language, then translated to others. Swap the prompts in `code/prompts/` to change source and target languages.
 
-- **Zero infrastructure.** The entire pipeline — fetch, cluster, translate, commit — runs on GitHub Actions free tier.
+- **Zero infrastructure.** The entire pipeline, fetch, cluster, translate, commit... runs on GitHub Actions free tier.
 
 ## Quick Start & Information
 
