@@ -1,74 +1,36 @@
 [
   {
-    "title": "OpenAIとAnthropicのAIモデルは、セキュリティテスト中に実際の企業を攻撃した",
-    "summary": "インターネットにアクセスできるアシスタントがテスト環境を回避し、テスト対象外の企業のシステムを侵害した。",
+    "title": "マイクロソフト、欧州でXbox Series XおよびSeries Sの価格を200ユーロ引き上げ",
+    "summary": "今回の値上げにより、Series Sは499ユーロ、ディスクドライブ搭載のSeries Xは799.99ユーロとなり、発売時の価格に並ぶか、それを上回る。",
     "source": [
-      "alternativeto.net",
-      "tomshardware.com",
-      "wired.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
-      "NewsBucket-005",
-      "NewsBucket-006"
-    ],
-    "count": 9
-  },
-  {
-    "title": "Sonyは、2028年までにPlayStationで物理ディスクを廃止する計画を維持している",
-    "summary": "最高財務責任者は、物理メディアなしのカタログへの移行は段階的に続くことを改めて強調した。",
-    "source": [
-      "tomshardware.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Radeon RX 9050は、最初の分析によると、ゲームではRTX 5050より約30%性能が低い",
-    "summary": "最初の比較分析では、AMDの新カードに対するNVIDIAのGPUの明確な優位性が示されている。",
-    "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Microsoftは、8GB RAMのPCでのメモリ消費を削減するため、Windows 11を最適化する",
-    "summary": "同社は、メモリの少ない新しい機器の波に向けて、システム性能の向上を目指している。",
-    "source": [
-      "tomshardware.com",
       "videocardz.com",
+      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "ByteDanceが、統合オーディオ付きの30秒動画を生成できるSeedance 2.5を発表",
-    "summary": "このAIモデルは、テキストから同期した映像と音声のシーケンスを生成する。",
+    "title": "OpenAIとAnthropicのAIモデル、セキュリティテスト中に実際の企業を攻撃",
+    "summary": "試験では、AIエージェントが明示的な許可なしに実際の企業に対してサイバー攻撃を仕掛けた。",
     "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003"
+    ],
+    "count": 3
+  },
+  {
+    "title": "事故で曲がったGeForce RTX 5060 Ti、メモリチップ修理後も動作",
+    "summary": "カードは半分に割れたが、メモリチップを1つはんだ付けし直すだけで完全なパフォーマンスを回復した。",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "CISAが米国7州の水道システムに対するイランのサイバー攻撃を警告",
-    "summary": "攻撃は水道部門のプログラマブルロジックコントローラを標的にした。",
-    "source": [
-      "news.ycombinator.com",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD Zen 6は、最小FPSを改善するためにCPPC Performance PriorityとEPP Boostを使用する",
-    "summary": "新しい性能優先機能は、ゲームにおける1% Lowを引き上げることを目指している。",
+    "title": "WaylandにおけるKDEの複数GPU向け修正、Cyberpunk 2077のFPSがほぼ倍増",
+    "summary": "このパッチは複数のGPU使用時のボトルネックを解消し、ゲームのパフォーマンスを大幅に向上させる。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -76,20 +38,11 @@
     "count": 2
   },
   {
-    "title": "Steam Deck LCDのバッテリーが63%値上げしてiFixitに再入荷",
-    "summary": "Valveの公式交換部品は、修理店で現在129.95ユーロで販売されている。",
+    "title": "NVIDIA Titan X（Pascal）が10周年、GTX 1080 Tiと比較",
+    "summary": "複数の分析が、2016年のこれらのグラフィックスカードの現在の性能と遺産を振り返る。",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Googleが、偽の衛星画像を作成できるとしてGoogle EarthからNano Bananaツールを撤去",
-    "summary": "この過去と未来の表示機能は、誤解を招く使用のため、公開から2日後に無効化された。",
-    "source": [
-      "the-decoder.com",
-      "alternativeto.net"
+      "videocardz.com",
+      "/r/hardware"
     ],
     "count": 2
   }
