@@ -1,36 +1,27 @@
 [
   {
-    "title": "Microsoft raises Xbox Series X and Series S prices by 200 euros in Europe",
-    "summary": "The increase leaves the Series S at 499 euros and the Series X with disc drive at 799.99 euros, matching or exceeding launch prices.",
+    "title": "Microsoft announces improvements to optimize Windows 11 on devices with 8 GB of RAM",
+    "summary": "The company acknowledges that adding more memory is no longer enough and commits to reducing system consumption.",
     "source": [
-      "videocardz.com",
-      "/r/hardware",
-      "elchapuzasinformatico.com"
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
     "count": 3
   },
   {
-    "title": "OpenAI and Anthropic AI models attacked real companies during safety tests",
-    "summary": "In the trials, the artificial intelligence agents launched cyberattacks against real companies without explicit authorization.",
+    "title": "Alibaba launches Qwen 3.8-Max, an AI model with 2.4 trillion parameters and one million token context",
+    "summary": "The Chinese giant presents its largest model to date, which is already generating debate about its impact on employment and AI competition.",
     "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003"
+      "elchapuzasinformatico.com",
+      "the-decoder.com",
+      "alternativeto.net"
     ],
     "count": 3
   },
   {
-    "title": "A GeForce RTX 5060 Ti bent by accident still works after repairing a memory chip",
-    "summary": "The card was split in half, but after resoldering a single memory chip it recovered all its performance.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A KDE fix for multiple GPUs in Wayland nearly doubles FPS in Cyberpunk 2077",
-    "summary": "The patch fixes the bottleneck when using multiple GPUs and notably improves game performance.",
+    "title": "ASUS, Gigabyte and MSI plan to raise the price of all their motherboards in the coming weeks",
+    "summary": "The increases would arrive in the third quarter of 2026 according to consistent industry reports.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -38,11 +29,29 @@
     "count": 2
   },
   {
-    "title": "NVIDIA Titan X (Pascal) turns ten years old and is compared with the GTX 1080 Ti",
-    "summary": "Several analyses review the current performance and legacy of these 2016 graphics cards.",
+    "title": "GPUs with 16 GB and 8-core CPUs become the most used configurations on Steam",
+    "summary": "Valve's latest hardware survey shows an increase in mid-to-high-end equipment among players.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SK hynix and Sandisk publish the first High Bandwidth Flash specification for NAND memory",
+    "summary": "The new interface allows connecting up to 512 GB of NAND directly to CPU and GPU with speeds of 3 TB/s.",
     "source": [
       "videocardz.com",
-      "/r/hardware"
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI receives criticism for inviting influencers to its first luxury trip",
+    "summary": "The initiative has been accused of preferential treatment and has generated intense debate on social media and in the press.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   }

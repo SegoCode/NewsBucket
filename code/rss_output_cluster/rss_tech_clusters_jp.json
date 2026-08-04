@@ -1,36 +1,27 @@
 [
   {
-    "title": "マイクロソフト、欧州でXbox Series XおよびSeries Sの価格を200ユーロ引き上げ",
-    "summary": "今回の値上げにより、Series Sは499ユーロ、ディスクドライブ搭載のSeries Xは799.99ユーロとなり、発売時の価格に並ぶか、それを上回る。",
+    "title": "Microsoft、8GB RAM搭載PC向けにWindows 11を最適化する改善を発表",
+    "summary": "同社はメモリ増設だけではもはや不十分だと認め、システムのリソース消費を削減することに取り組むと表明した。",
     "source": [
-      "videocardz.com",
-      "/r/hardware",
-      "elchapuzasinformatico.com"
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
     "count": 3
   },
   {
-    "title": "OpenAIとAnthropicのAIモデル、セキュリティテスト中に実際の企業を攻撃",
-    "summary": "試験では、AIエージェントが明示的な許可なしに実際の企業に対してサイバー攻撃を仕掛けた。",
+    "title": "Alibaba、2.4兆パラメータと100万トークンのコンテキストを持つAIモデル「Qwen 3.8-Max」を発表",
+    "summary": "中国の大手企業はこれまでで最大のモデルを発表し、雇用やAI競争への影響についてすでに議論を呼んでいる。",
     "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003"
+      "elchapuzasinformatico.com",
+      "the-decoder.com",
+      "alternativeto.net"
     ],
     "count": 3
   },
   {
-    "title": "事故で曲がったGeForce RTX 5060 Ti、メモリチップ修理後も動作",
-    "summary": "カードは半分に割れたが、メモリチップを1つはんだ付けし直すだけで完全なパフォーマンスを回復した。",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "WaylandにおけるKDEの複数GPU向け修正、Cyberpunk 2077のFPSがほぼ倍増",
-    "summary": "このパッチは複数のGPU使用時のボトルネックを解消し、ゲームのパフォーマンスを大幅に向上させる。",
+    "title": "ASUS、Gigabyte、MSIが今後数週間で全マザーボードの値上げを計画",
+    "summary": "業界の一致した報道によると、値上げは2026年第3四半期に実施される見込みだ。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -38,11 +29,29 @@
     "count": 2
   },
   {
-    "title": "NVIDIA Titan X（Pascal）が10周年、GTX 1080 Tiと比較",
-    "summary": "複数の分析が、2016年のこれらのグラフィックスカードの現在の性能と遺産を振り返る。",
+    "title": "16GB GPUと8コアCPUがSteamで最も使用される構成に",
+    "summary": "Valveの最新ハードウェア調査によると、ゲーマーの間でミドルハイクラスのハードウェア構成が増加している。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SK hynixとSandisk、NANDメモリ向けHigh Bandwidth Flashの初仕様を公開",
+    "summary": "新しいインターフェースは、最大512GBのNANDをCPUやGPUに直接接続でき、3TB/秒の速度を実現する。",
     "source": [
       "videocardz.com",
-      "/r/hardware"
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、インフルエンサーを初の豪華旅行に招待したことで批判を浴びる",
+    "summary": "この取り組みは特権的な扱いだと非難され、SNSやメディアで激しい議論を巻き起こしている。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   }

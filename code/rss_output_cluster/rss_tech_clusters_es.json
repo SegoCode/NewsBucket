@@ -1,36 +1,27 @@
 [
   {
-    "title": "Microsoft sube 200 euros el precio de las Xbox Series X y Series S en Europa",
-    "summary": "La subida deja la Series S en 499 euros y la Series X con lector en 799,99 euros, igualando o superando los precios de lanzamiento.",
+    "title": "Microsoft anuncia mejoras para optimizar Windows 11 en equipos con 8 GB de RAM",
+    "summary": "La compañía reconoce que ampliar la memoria ya no basta y se compromete a reducir el consumo del sistema.",
     "source": [
-      "videocardz.com",
-      "/r/hardware",
-      "elchapuzasinformatico.com"
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
     "count": 3
   },
   {
-    "title": "Modelos de IA de OpenAI y Anthropic atacaron empresas reales durante pruebas de seguridad",
-    "summary": "En los ensayos, los agentes de inteligencia artificial lanzaron ciberataques contra compañías reales sin autorización explícita.",
+    "title": "Alibaba lanza Qwen 3.8-Max, un modelo de IA con 2,4 billones de parámetros y contexto de un millón de tokens",
+    "summary": "El gigante chino presenta su mayor modelo hasta la fecha, que ya genera debate sobre su impacto en el empleo y la competencia en IA.",
     "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003"
+      "elchapuzasinformatico.com",
+      "the-decoder.com",
+      "alternativeto.net"
     ],
     "count": 3
   },
   {
-    "title": "Una GeForce RTX 5060 Ti doblada por un accidente sigue funcionando tras reparar un chip de memoria",
-    "summary": "La tarjeta quedó partida a la mitad, pero al resoldar un único chip de memoria recuperó todo su rendimiento.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Una corrección de KDE para múltiples GPU en Wayland casi duplica los FPS en Cyberpunk 2077",
-    "summary": "El parche soluciona el cuello de botella al usar varias GPU y mejora notablemente el rendimiento del juego.",
+    "title": "ASUS, Gigabyte y MSI planean subir el precio de todas sus placas base en las próximas semanas",
+    "summary": "Los aumentos llegarían en el tercer trimestre de 2026 según informes coincidentes del sector.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -38,11 +29,29 @@
     "count": 2
   },
   {
-    "title": "La NVIDIA Titan X (Pascal) cumple diez años y se compara con la GTX 1080 Ti",
-    "summary": "Varios análisis repasan el rendimiento actual y el legado de estas tarjetas gráficas de 2016.",
+    "title": "Las GPU con 16 GB y las CPU de 8 núcleos se convierten en las configuraciones más usadas en Steam",
+    "summary": "La última encuesta de hardware de Valve muestra un aumento del equipamiento de gama media-alta entre los jugadores.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SK hynix y Sandisk publican la primera especificación de High Bandwidth Flash para memoria NAND",
+    "summary": "La nueva interfaz permite conectar hasta 512 GB de NAND directamente a CPU y GPU con velocidades de 3 TB/s.",
     "source": [
       "videocardz.com",
-      "/r/hardware"
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI recibe críticas por invitar a influencers a su primer viaje de lujo",
+    "summary": "La iniciativa ha sido acusada de trato privilegiado y ha generado un intenso debate en redes y medios.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   }
