@@ -9,7 +9,10 @@ const OUTPUT_DIR = "rss_output";
 
 const parser = new RssParser({
 	timeout: 10000,
-	headers: { "User-Agent": "NewsWired/1.0" },
+	headers: {
+		"User-Agent":
+			"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+	},
 });
 
 const delay = (ms) => new Promise((r) => setTimeout(r, ms));
