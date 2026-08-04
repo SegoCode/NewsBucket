@@ -12,7 +12,7 @@
 [![Top language](https://img.shields.io/github/languages/top/segocode/NewsBucket?style=flat-square)](https://github.com/segocode/NewsBucket)
 [![Repository size](https://img.shields.io/github/repo-size/segocode/NewsBucket?style=flat-square&label=repo%20size)](https://github.com/segocode/NewsBucket)
 [![Commit activity per year](https://img.shields.io/github/commit-activity/y/segocode/NewsBucket?style=flat-square&label=commits)](https://github.com/segocode/NewsBucket/graphs/commit-activity)
-[![Licencia: PolyForm Noncommercial + GNU AGPL-3.0](https://img.shields.io/badge/License-PolyForm%20Noncommercial%20%2B%20GNU%20AGPL--3.0-blue?style=flat-square)](https://github.com/segocode/NewsBucket/blob/main/LICENSE)
+[![License: PolyForm Noncommercial + GNU AGPL-3.0](https://img.shields.io/badge/License-PolyForm%20Noncommercial%20%2B%20GNU%20AGPL--3.0-blue?style=flat-square)](https://github.com/segocode/NewsBucket/blob/main/LICENSE)
 [![Bitcoin BTC](https://img.shields.io/badge/buy_me_a_coffee-BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white)](https://github.com/SegoCode/SegoCode/discussions/2)
 
 NewsBucket fetches RSS feeds from sources you configure, groups articles covering the same story using an LLM, and publishes the result as JSON in this repository. Each cluster gets a title and summary, then translates into your target languages. Everything runs on GitHub Actions.
