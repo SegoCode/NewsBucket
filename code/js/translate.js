@@ -5,6 +5,7 @@ import { EventSourceParserStream } from "eventsource-parser/stream";
 import { jsonrepair } from "jsonrepair";
 
 const API_URL = "https://opencode.ai/zen/v1/chat/completions";
+const MODEL = "deepseek-v4-flash-free";
 const DIR = "rss_output_cluster";
 
 const LANGS = [
@@ -39,7 +40,7 @@ for (const file of files) {
 					Authorization: `Bearer ${process.env.OPENCODE_API_KEY}`,
 				},
 				body: JSON.stringify({
-					model: "deepseek-v4-flash-free",
+					model: MODEL,
 					messages: [
 						{ role: "system", content: prompt },
 						{ role: "user", content: JSON.stringify(clusters) },
