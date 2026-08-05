@@ -32,12 +32,14 @@ The headline must be informative and self-contained. It should clearly and concr
 - Controversy over the cat mayor
 - Updates on space exploration
 - Local political news
+- Tuna prices react to market pressures
 
 **Good examples:**
 - Astronomers confirm liquid water and breathable atmosphere on exoplanet Proxima B
 - Cat mayor Whiskers reelected for third consecutive term in landslide victory
 - Telescopes detect habitable conditions on Proxima B according to ESA report
 - Feline mayor promises free tuna and mandatory nap time for all citizens
+- Tuna futures surge 19% after Whiskers mandates free tuna rations for every citizen
 
 **CRITICAL EXECUTION RULES**:
 - count IS the number of DIFFERENT outlets, NOT the number of articles
