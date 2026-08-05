@@ -1,57 +1,131 @@
 [
   {
-    "title": "Microsoft anuncia mejoras para optimizar Windows 11 en equipos con 8 GB de RAM",
-    "summary": "La compañía reconoce que ampliar la memoria ya no basta y se compromete a reducir el consumo del sistema.",
+    "title": "OpenAI responde a la demanda de Apple por presunto robo de secretos comerciales",
+    "summary": "Apple acusa a OpenAI de contratar a ex empleados que se llevaron datos confidenciales; OpenAI publica chats para rebatir las acusaciones.",
     "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com",
-      "xataka.com"
+      "techcrunch.com",
+      "tomshardware.com",
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "Alibaba lanza Qwen 3.8-Max, un modelo de IA con 2,4 billones de parámetros y contexto de un millón de tokens",
-    "summary": "El gigante chino presenta su mayor modelo hasta la fecha, que ya genera debate sobre su impacto en el empleo y la competencia en IA.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "the-decoder.com",
-      "alternativeto.net"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ASUS, Gigabyte y MSI planean subir el precio de todas sus placas base en las próximas semanas",
-    "summary": "Los aumentos llegarían en el tercer trimestre de 2026 según informes coincidentes del sector.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las GPU con 16 GB y las CPU de 8 núcleos se convierten en las configuraciones más usadas en Steam",
-    "summary": "La última encuesta de hardware de Valve muestra un aumento del equipamiento de gama media-alta entre los jugadores.",
+    "title": "Sandisk y SK hynix presentan la primera especificación de memoria HBF para GPU",
+    "summary": "La nueva memoria NAND de alto ancho de banda busca dar a GPU y CPU hasta 512 GB adicionales con 3 TB/s.",
     "source": [
       "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SK hynix y Sandisk publican la primera especificación de High Bandwidth Flash para memoria NAND",
-    "summary": "La nueva interfaz permite conectar hasta 512 GB de NAND directamente a CPU y GPU con velocidades de 3 TB/s.",
-    "source": [
       "videocardz.com",
       "elchapuzasinformatico.com"
     ],
+    "count": 3
+  },
+  {
+    "title": "La escasez dispara el precio de las GPU RTX 50 en Asia mientras NVIDIA prepara Blackwell Ultra",
+    "summary": "Los precios de tarjetas Gigabyte suben entre el 20% y el 40% en Japón y las RTX 50 se encarecen un 30% en Corea del Sur; la generación actual se acerca a su fin.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La IA se extiende por Hollywood, los premios Pulitzer y el desarrollo de videojuegos",
+    "summary": "Un número récord de ganadores del Pulitzer admite usar IA, la industria audiovisual debate su adopción y los creadores de juegos se defienden de las acusaciones.",
+    "source": [
+      "the-decoder.com",
+      "wired.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic firma un acuerdo de 10.000 millones de dólares por computación en la nube de Volta",
+    "summary": "La empresa de IA asegurará capacidad en un proveedor de nube que lleva menos de seis meses en funcionamiento.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
     "count": 2
   },
   {
-    "title": "OpenAI recibe críticas por invitar a influencers a su primer viaje de lujo",
-    "summary": "La iniciativa ha sido acusada de trato privilegiado y ha generado un intenso debate en redes y medios.",
+    "title": "HP, ASUS y Acer usan memoria china CXMT ante la escasez mundial de RAM",
+    "summary": "CXMT inicia la producción de LPDDR6 y sus chips comienzan a aparecer en portátiles destinados a mercados no estadounidenses.",
     "source": [
-      "/r/technology",
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Texas suspende la conexión de nuevos centros de datos por el colapso de su red eléctrica",
+    "summary": "El gobernador ordena auditorías mientras 1.800 solicitudes acumulan 474 gigavatios, cinco veces el pico de demanda actual.",
+    "source": [
+      "tomshardware.com",
       "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Waymo abre su servicio de robotaxis a todos los pasajeros en Dallas",
+    "summary": "La compañía de vehículos autónomos amplía su despliegue en Texas sin lista de espera.",
+    "source": [
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple retira y restaura Telegram en la App Store tras una revisión por contenido de abuso infantil",
+    "summary": "La aplicación estuvo bloqueada temporalmente por presunto material de explotación sexual y luego volvió a estar disponible.",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Un gusano en npm envenena cientos de paquetes a través de la librería Keyv",
+    "summary": "El ataque Shai-Hulud compromete librerías de Node.js e instala hooks en Claude Code y VS Code para robar credenciales.",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Las IA autónomas ya se utilizan para hackear sistemas, según analistas de seguridad",
+    "summary": "Informes advierten de que los agentes de IA pueden ser manipulados para ejecutar ataques y superar las defensas tradicionales.",
+    "source": [
+      "wired.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Steam confirma que el PC gaming más usado tiene 8 núcleos y 16 GB de RAM",
+    "summary": "La encuesta de hardware de la plataforma muestra que los jugadores necesitan cada vez más recursos para los títulos actuales.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ASUS, GIGABYTE y MSI subirán el precio de sus placas base en las próximas semanas",
+    "summary": "Los principales fabricantes de placas base planean incrementos de precios en el tercer trimestre de 2026.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bazzite mejora su soporte para GPU NVIDIA con correcciones de suspensión y energía",
+    "summary": "La distribución Linux para juegos incorpora parches experimentales que optimizan el rendimiento en tarjetas de NVIDIA.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }

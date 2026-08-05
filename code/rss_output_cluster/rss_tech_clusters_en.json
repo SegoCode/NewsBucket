@@ -1,57 +1,131 @@
 [
   {
-    "title": "Microsoft announces improvements to optimize Windows 11 on devices with 8 GB of RAM",
-    "summary": "The company acknowledges that adding more memory is no longer enough and commits to reducing system consumption.",
+    "title": "OpenAI responds to Apple's lawsuit over alleged trade secret theft",
+    "summary": "Apple accuses OpenAI of hiring former employees who took confidential data; OpenAI publishes chats to rebut the accusations.",
     "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com",
-      "xataka.com"
+      "techcrunch.com",
+      "tomshardware.com",
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "Alibaba launches Qwen 3.8-Max, an AI model with 2.4 trillion parameters and one million token context",
-    "summary": "The Chinese giant presents its largest model to date, which is already generating debate about its impact on employment and AI competition.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "the-decoder.com",
-      "alternativeto.net"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ASUS, Gigabyte and MSI plan to raise the price of all their motherboards in the coming weeks",
-    "summary": "The increases would arrive in the third quarter of 2026 according to consistent industry reports.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GPUs with 16 GB and 8-core CPUs become the most used configurations on Steam",
-    "summary": "Valve's latest hardware survey shows an increase in mid-to-high-end equipment among players.",
+    "title": "Sandisk and SK hynix present the first HBF memory specification for GPUs",
+    "summary": "The new high-bandwidth NAND memory aims to give GPUs and CPUs up to 512 GB additional with 3 TB/s.",
     "source": [
       "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SK hynix and Sandisk publish the first High Bandwidth Flash specification for NAND memory",
-    "summary": "The new interface allows connecting up to 512 GB of NAND directly to CPU and GPU with speeds of 3 TB/s.",
-    "source": [
       "videocardz.com",
       "elchapuzasinformatico.com"
     ],
+    "count": 3
+  },
+  {
+    "title": "Shortage drives up RTX 50 GPU prices in Asia as NVIDIA prepares Blackwell Ultra",
+    "summary": "Gigabyte card prices rise between 20% and 40% in Japan and RTX 50s become 30% more expensive in South Korea; the current generation is nearing its end.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AI spreads across Hollywood, the Pulitzer Prizes, and video game development",
+    "summary": "A record number of Pulitzer winners admit to using AI, the audiovisual industry debates its adoption, and game creators defend themselves against accusations.",
+    "source": [
+      "the-decoder.com",
+      "wired.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic signs a $10 billion deal for Volta cloud computing",
+    "summary": "The AI company will secure capacity at a cloud provider that has been operational for less than six months.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
     "count": 2
   },
   {
-    "title": "OpenAI receives criticism for inviting influencers to its first luxury trip",
-    "summary": "The initiative has been accused of preferential treatment and has generated intense debate on social media and in the press.",
+    "title": "HP, ASUS, and Acer use Chinese CXMT memory amid global RAM shortage",
+    "summary": "CXMT starts production of LPDDR6 and its chips begin to appear in laptops destined for non-US markets.",
     "source": [
-      "/r/technology",
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Texas suspends connection of new data centers due to collapse of its power grid",
+    "summary": "The governor orders audits while 1,800 requests accumulate 474 gigawatts, five times the current peak demand.",
+    "source": [
+      "tomshardware.com",
       "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Waymo opens its robotaxi service to all passengers in Dallas",
+    "summary": "The autonomous vehicle company expands its deployment in Texas without a waiting list.",
+    "source": [
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple removes and restores Telegram on the App Store after review for child abuse content",
+    "summary": "The app was temporarily blocked for alleged sexual exploitation material and then became available again.",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A worm in npm poisons hundreds of packages through the Keyv library",
+    "summary": "The Shai-Hulud attack compromises Node.js libraries and installs hooks in Claude Code and VS Code to steal credentials.",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Autonomous AIs are already being used to hack systems, according to security analysts",
+    "summary": "Reports warn that AI agents can be manipulated to execute attacks and overcome traditional defenses.",
+    "source": [
+      "wired.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Steam confirms that the most used gaming PC has 8 cores and 16 GB of RAM",
+    "summary": "The platform's hardware survey shows that players increasingly need more resources for current titles.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ASUS, GIGABYTE, and MSI will raise the price of their motherboards in the coming weeks",
+    "summary": "The main motherboard manufacturers plan price increases in the third quarter of 2026.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bazzite improves its support for NVIDIA GPUs with suspend and power fixes",
+    "summary": "The Linux gaming distribution incorporates experimental patches that optimize performance on NVIDIA cards.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }
