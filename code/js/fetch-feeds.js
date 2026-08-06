@@ -118,4 +118,5 @@ if (
 	fileURLToPath(import.meta.url) === path.resolve(process.argv[1])
 ) {
 	await fetchFeeds();
+	process.exit(0);
 }
