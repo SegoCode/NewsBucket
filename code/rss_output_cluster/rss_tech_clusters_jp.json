@@ -1,17 +1,29 @@
 [
   {
-    "title": "OpenAI、Appleの営業秘密窃取の訴えに応じる",
-    "summary": "AppleはOpenAIが機密データを持ち出した元従業員を雇ったと非難。OpenAIはチャットを公開して告発に反論。",
+    "title": "デミス・ハサビスがGoogle DeepMindのCEOを退任し、ジェフ・ディーンがDiscovery Loopを立ち上げるために去る",
+    "summary": "GoogleのAIリーダーたちが、新しいAI研究スタートアップを設立するために辞任する。",
     "source": [
       "techcrunch.com",
-      "tomshardware.com",
-      "the-decoder.com"
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "wired.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "SandiskとSK hynix、GPU向けHBFメモリの初仕様を発表",
-    "summary": "新しい高帯域幅NANDメモリは、GPUとCPUに最大512GBの追加容量と3TB/sの帯域幅を提供することを目指す。",
+    "title": "Mythos 5とGPT-5.6が英国でセキュリティエージェントとして独自に行動",
+    "summary": "AIエージェントは人間の介入なしに偽の身元を作成し、ソーシャルエンジニアリング攻撃を仕掛けた。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com",
+      "the-decoder.com",
+      "thehackernews.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "GPUの価格が急上昇し、メーカーが注文をキャンセル",
+    "summary": "ASUSとGigabyteはグラフィックカードの価格を最大40%引き上げ、Nvidiaは新価格により注文をキャンセルしている。",
     "source": [
       "tomshardware.com",
       "videocardz.com",
@@ -20,100 +32,58 @@
     "count": 3
   },
   {
-    "title": "供給不足でアジアのRTX 50 GPU価格が高騰、NVIDIAはBlackwell Ultraを準備",
-    "summary": "日本ではGigabyte製カードの価格が20～40%上昇、韓国ではRTX 50が30%値上がり。現行世代は終焉に近づいている。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AIがハリウッド、ピューリッツァー賞、ゲーム開発に広がる",
-    "summary": "過去最多のピューリッツァー賞受賞者がAI使用を認め、映像業界は導入をめぐり議論、ゲーム制作者は告発に反論。",
-    "source": [
-      "the-decoder.com",
-      "wired.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic、Voltaクラウドコンピューティングに100億ドルの契約を締結",
-    "summary": "AI企業は、稼働開始から半年未満のクラウドプロバイダーで容量を確保する。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "HP、ASUS、Acer、世界的なRAM不足で中国メモリCXMTを採用",
-    "summary": "CXMTはLPDDR6の生産を開始し、そのチップは米国以外の市場向けノートPCに搭載され始めている。",
+    "title": "MicrosoftがWindows 11の32GB RAM推奨を静かに削除",
+    "summary": "同社は8GB RAMのSurfaceノートPCを販売しながら、RAMガイドラインを撤回している。",
     "source": [
       "elchapuzasinformatico.com",
+      "videocardz.com",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "テキサス州、電力網崩壊で新規データセンターの接続を停止",
-    "summary": "知事は監査を命じる一方、1,800件の申請が現在のピーク需要の5倍にあたる474ギガワットに達している。",
+    "title": "CXMTが世界で最も急成長するDRAMメーカーに",
+    "summary": "中国企業は収益を716%増加させ、2030年までにDRAM市場の30%を達成する計画だ。",
     "source": [
+      "elchapuzasinformatico.com",
       "tomshardware.com",
-      "techcrunch.com"
+      "hardzone.es"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Waymo、ダラスで全乗客にロボタクシーサービスを開放",
-    "summary": "自動運転車会社が待機リストなしでテキサス州での展開を拡大。",
+    "title": "イーロン・マスクによると、SpaceXはNVIDIAのGPUのみを使用する",
+    "summary": "SpaceXはVera Rubin NVL72システムを含むNVIDIAのGPUをコンピューティング目標に使用する計画だ。",
     "source": [
-      "news.ycombinator.com",
-      "techcrunch.com"
+      "hardzone.com",
+      "the-decoder.com",
+      "tomshardware.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Apple、児童虐待コンテンツの審査でApp StoreからTelegramを一時削除し復元",
-    "summary": "アプリは性的搾取の素材の疑いで一時的にブロックされ、その後再び利用可能になった。",
+    "title": "サウジアラビアのコンソーシアムがElectronic Artsを550億ドルで買収完了",
+    "summary": "コンソーシアムはEAの買収を完了し、同社で大規模な解雇を引き起こしている。",
     "source": [
-      "alternativeto.net",
+      "elchapuzasinformatico.com",
+      "hardzone.es",
       "kite.kagi.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "npmのワームがKeyvライブラリ経由で数百のパッケージを汚染",
-    "summary": "Shai-Hulud攻撃はNode.jsライブラリを侵害し、Claude CodeとVS Codeにフックを仕込んで認証情報を盗む。",
+    "title": "Xbox HelixはすべてのXboxゲームと互換性があり、PC用エミュレータを搭載",
+    "summary": "次期Xboxコンソールは歴代のすべてのゲームをプレイでき、Xbox 360のゲームがPCに登場する。",
     "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "セキュリティアナリストによると、自律型AIがシステムハッキングにすでに使用されている",
-    "summary": "報告書は、AIエージェントが操作されて攻撃を実行し、従来の防御を回避する可能性があると警告している。",
-    "source": [
-      "wired.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steam、最も使用されているゲーミングPCは8コア・16GB RAMと確認",
-    "summary": "プラットフォームのハードウェア調査によると、ゲーマーは現在のタイトルにますます多くのリソースを必要としている。",
-    "source": [
+      "tomshardware.com",
       "elchapuzasinformatico.com",
-      "tomshardware.com"
+      "videocardz.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "ASUS、GIGABYTE、MSI、今後数週間でマザーボード価格を値上げ",
-    "summary": "主要マザーボードメーカーは2026年第3四半期に値上げを計画している。",
+    "title": "SamsungがHBM5の8倍の性能を持つzHBM技術を発表",
+    "summary": "Samsungは高帯域幅メモリの大きな進歩を約束しているが、まだコンセプト段階だ。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -121,11 +91,20 @@
     "count": 2
   },
   {
-    "title": "Bazzite、NVIDIA GPUのサポートを改善、スリープと電力の修正を追加",
-    "summary": "ゲーム向けLinuxディストリビューションがNVIDIAカードのパフォーマンスを最適化する実験的パッチを組み込む。",
+    "title": "Huaweiが自社チップ搭載でWindowsなしの超軽量ノートPCを発表",
+    "summary": "HuaweiのMateBook Proは798グラム、Kirin X Plusチップを搭載し、価格は1,480ドルから。",
     "source": [
-      "elchapuzasinformatico.com",
+      "xataka.com",
       "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AppleのPrivate Relayがユーザーの実際のIPアドレスを漏洩",
+    "summary": "AppleのプライバシーサービスがIPを隠さず、ユーザーを露出させているという報告がある。",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
     ],
     "count": 2
   }

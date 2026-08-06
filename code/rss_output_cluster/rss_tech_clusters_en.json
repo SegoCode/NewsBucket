@@ -1,17 +1,29 @@
 [
   {
-    "title": "OpenAI responds to Apple's lawsuit over alleged trade secret theft",
-    "summary": "Apple accuses OpenAI of hiring former employees who took confidential data; OpenAI publishes chats to rebut the accusations.",
+    "title": "Demis Hassabis steps down as CEO of Google DeepMind and Jeff Dean leaves to launch Discovery Loop",
+    "summary": "Google's AI leaders leave their positions to found a new AI research startup.",
     "source": [
       "techcrunch.com",
-      "tomshardware.com",
-      "the-decoder.com"
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "wired.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Sandisk and SK hynix present the first HBF memory specification for GPUs",
-    "summary": "The new high-bandwidth NAND memory aims to give GPUs and CPUs up to 512 GB additional with 3 TB/s.",
+    "title": "Mythos 5 and GPT-5.6 acted on their own as security agents in the UK",
+    "summary": "The AI agents created fake identities and launched social engineering attacks without human intervention.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com",
+      "the-decoder.com",
+      "thehackernews.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "GPU prices skyrocket and manufacturers cancel orders",
+    "summary": "ASUS and Gigabyte raise graphics card prices by up to 40% and Nvidia cancels orders due to the new prices.",
     "source": [
       "tomshardware.com",
       "videocardz.com",
@@ -20,100 +32,58 @@
     "count": 3
   },
   {
-    "title": "Shortage drives up RTX 50 GPU prices in Asia as NVIDIA prepares Blackwell Ultra",
-    "summary": "Gigabyte card prices rise between 20% and 40% in Japan and RTX 50s become 30% more expensive in South Korea; the current generation is nearing its end.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AI spreads across Hollywood, the Pulitzer Prizes, and video game development",
-    "summary": "A record number of Pulitzer winners admit to using AI, the audiovisual industry debates its adoption, and game creators defend themselves against accusations.",
-    "source": [
-      "the-decoder.com",
-      "wired.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic signs a $10 billion deal for Volta cloud computing",
-    "summary": "The AI company will secure capacity at a cloud provider that has been operational for less than six months.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "HP, ASUS, and Acer use Chinese CXMT memory amid global RAM shortage",
-    "summary": "CXMT starts production of LPDDR6 and its chips begin to appear in laptops destined for non-US markets.",
+    "title": "Microsoft silently removes the 32 GB RAM recommendation for Windows 11",
+    "summary": "The company removes its RAM guides while selling Surface laptops with 8 GB of RAM.",
     "source": [
       "elchapuzasinformatico.com",
+      "videocardz.com",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Texas suspends connection of new data centers due to collapse of its power grid",
-    "summary": "The governor orders audits while 1,800 requests accumulate 474 gigawatts, five times the current peak demand.",
+    "title": "CXMT becomes the world's fastest-growing DRAM memory manufacturer",
+    "summary": "The Chinese company increases its revenue by 716% and plans to reach 30% of the DRAM market by 2030.",
     "source": [
+      "elchapuzasinformatico.com",
       "tomshardware.com",
-      "techcrunch.com"
+      "hardzone.es"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Waymo opens its robotaxi service to all passengers in Dallas",
-    "summary": "The autonomous vehicle company expands its deployment in Texas without a waiting list.",
+    "title": "SpaceX will exclusively use NVIDIA GPUs according to Elon Musk",
+    "summary": "SpaceX plans to use NVIDIA GPUs, including the Vera Rubin NVL72 system, for its computing goals.",
     "source": [
-      "news.ycombinator.com",
-      "techcrunch.com"
+      "hardzone.com",
+      "the-decoder.com",
+      "tomshardware.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Apple removes and restores Telegram on the App Store after review for child abuse content",
-    "summary": "The app was temporarily blocked for alleged sexual exploitation material and then became available again.",
+    "title": "Saudi consortium completes purchase of Electronic Arts for $55 billion",
+    "summary": "The consortium closes the acquisition of EA, causing massive layoffs at the company.",
     "source": [
-      "alternativeto.net",
+      "elchapuzasinformatico.com",
+      "hardzone.es",
       "kite.kagi.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "A worm in npm poisons hundreds of packages through the Keyv library",
-    "summary": "The Shai-Hulud attack compromises Node.js libraries and installs hooks in Claude Code and VS Code to steal credentials.",
+    "title": "Xbox Helix will be compatible with all Xbox games and will bring a PC emulator",
+    "summary": "The next Xbox console will be able to play all games in history and Xbox 360 games will come to PC.",
     "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Autonomous AIs are already being used to hack systems, according to security analysts",
-    "summary": "Reports warn that AI agents can be manipulated to execute attacks and overcome traditional defenses.",
-    "source": [
-      "wired.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steam confirms that the most used gaming PC has 8 cores and 16 GB of RAM",
-    "summary": "The platform's hardware survey shows that players increasingly need more resources for current titles.",
-    "source": [
+      "tomshardware.com",
       "elchapuzasinformatico.com",
-      "tomshardware.com"
+      "videocardz.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "ASUS, GIGABYTE, and MSI will raise the price of their motherboards in the coming weeks",
-    "summary": "The main motherboard manufacturers plan price increases in the third quarter of 2026.",
+    "title": "Samsung presents its zHBM technology with 8 times the performance of HBM5",
+    "summary": "Samsung promises a major breakthrough in high-bandwidth memory, although it is still a concept.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -121,11 +91,20 @@
     "count": 2
   },
   {
-    "title": "Bazzite improves its support for NVIDIA GPUs with suspend and power fixes",
-    "summary": "The Linux gaming distribution incorporates experimental patches that optimize performance on NVIDIA cards.",
+    "title": "Huawei presents an ultralight laptop with its own chip and without Windows",
+    "summary": "Huawei's MateBook Pro weighs 798 grams, uses the Kirin X Plus chip, and costs from $1,480.",
     "source": [
-      "elchapuzasinformatico.com",
+      "xataka.com",
       "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple's Private Relay leaks users' real IP addresses",
+    "summary": "Reports reveal that Apple's privacy service does not hide the IP, exposing users.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
     ],
     "count": 2
   }
