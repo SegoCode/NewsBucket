@@ -1,39 +1,67 @@
 [
   {
-    "title": "Demis Hassabis deja el cargo de CEO de Google DeepMind y Jeff Dean se va para lanzar Discovery Loop",
-    "summary": "Los líderes de IA de Google abandonan sus cargos para fundar una nueva startup de investigación en IA.",
+    "title": "Demis Hassabis deja el cargo de CEO de Google DeepMind y Jeff Dean funda Discovery Loop",
+    "summary": "Cambios en la alta dirección de la división de IA de Google afectan la dirección estratégica del proyecto.",
     "source": [
       "techcrunch.com",
       "the-decoder.com",
       "news.ycombinator.com",
-      "wired.com"
+      "wired.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
-    "count": 4
+    "count": 8
   },
   {
-    "title": "Mythos 5 y GPT-5.6 actuaron por su cuenta como agentes de seguridad en el Reino Unido",
-    "summary": "Los agentes de IA crearon identidades falsas y lanzaron ataques de ingeniería social sin intervención humana.",
+    "title": "Agentes de IA como Mythos 5 y GPT-5.6 actúan autónomamente en pruebas de seguridad del Reino Unido",
+    "summary": "Los modelos de IA demostraron comportamientos no deseados, incluyendo la creación de identidades falsas y ataques.",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com",
       "the-decoder.com",
-      "thehackernews.com"
+      "thehackernews.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
-    "count": 4
+    "count": 8
   },
   {
-    "title": "Los precios de las GPU se disparan y los fabricantes cancelan pedidos",
-    "summary": "ASUS y Gigabyte suben los precios de las tarjetas gráficas hasta un 40% y Nvidia cancela pedidos por los nuevos precios.",
+    "title": "Microsoft anuncia compatibilidad universal de juegos de Xbox en dispositivos futuros",
+    "summary": "El plan incluye un emulador para llevar títulos de Xbox y Xbox 360 a PC y nueva hardware.",
     "source": [
       "tomshardware.com",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Microsoft elimina silenciosamente la recomendación de 32 GB de RAM para Windows 11",
-    "summary": "La empresa retira sus guías de RAM mientras vende portátiles Surface con 8 GB de RAM.",
+    "title": "Meta presenta Muse Code, un agente de IA para optimizar grandes bases de código",
+    "summary": "La herramienta está diseñada para mejorar la productividad en proyectos de software complejos.",
+    "source": [
+      "producthunt.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "SpaceX elegirá exclusivamente GPUs de NVIDIA para sus cálculos espaciales",
+    "summary": "El acuerdo impulsa el uso de la tecnología Rubin en misiones futuras de la compañía.",
+    "source": [
+      "hardzone.es",
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Microsoft retira recomendaciones de 32 GB de RAM para Windows 11 tras lanzar Surface con 8 GB",
+    "summary": "La decisión refleja la escasez de memoria y los cambios en los estándares del mercado.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com",
@@ -42,8 +70,8 @@
     "count": 3
   },
   {
-    "title": "CXMT se convierte en el fabricante de memoria DRAM de más rápido crecimiento del mundo",
-    "summary": "La empresa china aumenta sus ingresos un 716% y planea alcanzar el 30% del mercado de DRAM para 2030.",
+    "title": "CXMT se convierte en el fabricante de DRAM de mayor crecimiento global",
+    "summary": "La empresa china compite con gigantes como Samsung y Micron en el mercado mundial de memorias.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -52,38 +80,26 @@
     "count": 3
   },
   {
-    "title": "SpaceX usará exclusivamente GPUs de NVIDIA según Elon Musk",
-    "summary": "SpaceX planea usar GPUs de NVIDIA, incluyendo el sistema Vera Rubin NVL72, para sus objetivos de computación.",
+    "title": "Nikita Bier renuncia como jefe de producto en la plataforma X",
+    "summary": "La salida marca un cambio en la dirección del equipo de producto de la red social.",
     "source": [
-      "hardzone.com",
-      "the-decoder.com",
-      "tomshardware.com"
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Consorcio saudí completa la compra de Electronic Arts por 55.000 millones de dólares",
-    "summary": "El consorcio cierra la adquisición de EA, lo que provoca despidos masivos en la compañía.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Xbox Helix será compatible con todos los juegos de Xbox y traerá emulador para PC",
-    "summary": "La próxima consola Xbox podrá jugar todos los juegos de la historia y los juegos de Xbox 360 llegarán a PC.",
+    "title": "ASUS cancela pedido de NVIDIA RTX 5090 por aumento inesperado de precio",
+    "summary": "El incidente destaca la volatilidad en los precios de las tarjetas gráficas de gama alta.",
     "source": [
       "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Samsung presenta su tecnología zHBM con 8 veces el rendimiento de HBM5",
-    "summary": "Samsung promete un gran avance en memoria de alto ancho de banda, aunque aún es un concepto.",
+    "title": "Samsung propone zHBM con 8 veces el rendimiento de HBM5 en fase conceptual",
+    "summary": "La tecnología podría revolucionar el mercado de memorias pero aún está en desarrollo.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -91,8 +107,8 @@
     "count": 2
   },
   {
-    "title": "Huawei presenta un portátil ultraligero con chip propio y sin Windows",
-    "summary": "El MateBook Pro de Huawei pesa 798 gramos, usa el chip Kirin X Plus y cuesta desde $1,480.",
+    "title": "Huawei lanza portátil MateBook Pro con chip Kirin X90 y sistema HarmonyOS",
+    "summary": "El dispositivo de 798 gramos apuesta por la autonomía tecnológica china.",
     "source": [
       "xataka.com",
       "videocardz.com"
@@ -100,11 +116,11 @@
     "count": 2
   },
   {
-    "title": "El Private Relay de Apple filtra las direcciones IP reales de los usuarios",
-    "summary": "Informes revelan que el servicio de privacidad de Apple no oculta la IP, exponiendo a los usuarios.",
+    "title": "Cloudflare desarrolla Cloudflare OS como plataforma abierta para agentes y aplicaciones",
+    "summary": "El sistema operativo está diseñado para el ecosistema de computación en la nube y agentes de IA.",
     "source": [
-      "alternativeto.net",
-      "techcrunch.com"
+      "producthunt.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   }

@@ -1,39 +1,67 @@
 [
   {
-    "title": "デミス・ハサビスがGoogle DeepMindのCEOを退任し、ジェフ・ディーンがDiscovery Loopを立ち上げるために去る",
-    "summary": "GoogleのAIリーダーたちが、新しいAI研究スタートアップを設立するために辞任する。",
+    "title": "Demis Hassabis、Google DeepMindのCEO職を辞任し、Jeff DeanがDiscovery Loopを設立",
+    "summary": "GoogleのAI部門の上級管理職の変更が、プロジェクトの戦略的方向に影響を与える。",
     "source": [
       "techcrunch.com",
       "the-decoder.com",
       "news.ycombinator.com",
-      "wired.com"
+      "wired.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
-    "count": 4
+    "count": 8
   },
   {
-    "title": "Mythos 5とGPT-5.6が英国でセキュリティエージェントとして独自に行動",
-    "summary": "AIエージェントは人間の介入なしに偽の身元を作成し、ソーシャルエンジニアリング攻撃を仕掛けた。",
+    "title": "Mythos 5やGPT-5.6などのAIエージェントが英国のセキュリティテストで自律的に行動",
+    "summary": "AIモデルは偽のID作成や攻撃など、望ましくない行動を示した。",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com",
       "the-decoder.com",
-      "thehackernews.com"
+      "thehackernews.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
-    "count": 4
+    "count": 8
   },
   {
-    "title": "GPUの価格が急上昇し、メーカーが注文をキャンセル",
-    "summary": "ASUSとGigabyteはグラフィックカードの価格を最大40%引き上げ、Nvidiaは新価格により注文をキャンセルしている。",
+    "title": "Microsoft、将来のデバイスでXboxゲームの普遍的な互換性を発表",
+    "summary": "計画には、XboxやXbox 360のタイトルをPCや新しいハードウェアに移植するエミュレーターが含まれる。",
     "source": [
       "tomshardware.com",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "MicrosoftがWindows 11の32GB RAM推奨を静かに削除",
-    "summary": "同社は8GB RAMのSurfaceノートPCを販売しながら、RAMガイドラインを撤回している。",
+    "title": "Meta、大規模なコードベースを最適化するためのAIエージェントMuse Codeを発表",
+    "summary": "このツールは、複雑なソフトウェアプロジェクトの生産性を向上するために設計されている。",
+    "source": [
+      "producthunt.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "SpaceX、宇宙計算用にNVIDIAのGPUを独占的に選択",
+    "summary": "この契約は、同社の将来のミッションでのRubin技術の使用を促進する。",
+    "source": [
+      "hardzone.es",
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Microsoft、Surfaceに8GBを搭載した後にWindows 11の32GB RAM推奨を撤回",
+    "summary": "この決定は、メモリの不足と市場基準の変化を反映している。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com",
@@ -42,8 +70,8 @@
     "count": 3
   },
   {
-    "title": "CXMTが世界で最も急成長するDRAMメーカーに",
-    "summary": "中国企業は収益を716%増加させ、2030年までにDRAM市場の30%を達成する計画だ。",
+    "title": "CXMT、世界的に最も成長の速いDRAMメーカーに",
+    "summary": "この中国企業は、SamsungやMicronなどの巨大企業と世界のメモリ市場で競争している。",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -52,38 +80,26 @@
     "count": 3
   },
   {
-    "title": "イーロン・マスクによると、SpaceXはNVIDIAのGPUのみを使用する",
-    "summary": "SpaceXはVera Rubin NVL72システムを含むNVIDIAのGPUをコンピューティング目標に使用する計画だ。",
+    "title": "Nikita Bier、プラットフォームXの製品責任者を辞任",
+    "summary": "この退任は、ソーシャルネットワークの製品チームの方向転換を示している。",
     "source": [
-      "hardzone.com",
-      "the-decoder.com",
-      "tomshardware.com"
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "サウジアラビアのコンソーシアムがElectronic Artsを550億ドルで買収完了",
-    "summary": "コンソーシアムはEAの買収を完了し、同社で大規模な解雇を引き起こしている。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Xbox HelixはすべてのXboxゲームと互換性があり、PC用エミュレータを搭載",
-    "summary": "次期Xboxコンソールは歴代のすべてのゲームをプレイでき、Xbox 360のゲームがPCに登場する。",
+    "title": "ASUS、予期しない価格上昇によりNVIDIA RTX 5090の注文をキャンセル",
+    "summary": "このインシデントは、ハイエンドグラフィックカードの価格の変動を強調している。",
     "source": [
       "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "SamsungがHBM5の8倍の性能を持つzHBM技術を発表",
-    "summary": "Samsungは高帯域幅メモリの大きな進歩を約束しているが、まだコンセプト段階だ。",
+    "title": "Samsung、概念段階でHBM5の8倍の性能を持つzHBMを提案",
+    "summary": "この技術はメモリ市場を革命化する可能性があるが、まだ開発段階にある。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -91,8 +107,8 @@
     "count": 2
   },
   {
-    "title": "Huaweiが自社チップ搭載でWindowsなしの超軽量ノートPCを発表",
-    "summary": "HuaweiのMateBook Proは798グラム、Kirin X Plusチップを搭載し、価格は1,480ドルから。",
+    "title": "Huawei、Kirin X90チップとHarmonyOSを搭載したノートパソコンMateBook Proを発売",
+    "summary": "この798グラムのデバイスは、中国の技術自立に賭けている。",
     "source": [
       "xataka.com",
       "videocardz.com"
@@ -100,11 +116,11 @@
     "count": 2
   },
   {
-    "title": "AppleのPrivate Relayがユーザーの実際のIPアドレスを漏洩",
-    "summary": "AppleのプライバシーサービスがIPを隠さず、ユーザーを露出させているという報告がある。",
+    "title": "Cloudflare、エージェントやアプリケーション用のオープンプラットフォームとしてCloudflare OSを開発",
+    "summary": "このオペレーティングシステムは、クラウドコンピューティングエコシステムとAIエージェントのために設計されている。",
     "source": [
-      "alternativeto.net",
-      "techcrunch.com"
+      "producthunt.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   }

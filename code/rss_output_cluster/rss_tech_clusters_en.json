@@ -1,39 +1,67 @@
 [
   {
-    "title": "Demis Hassabis steps down as CEO of Google DeepMind and Jeff Dean leaves to launch Discovery Loop",
-    "summary": "Google's AI leaders leave their positions to found a new AI research startup.",
+    "title": "Demis Hassabis Steps Down as CEO of Google DeepMind and Jeff Dean Founds Discovery Loop",
+    "summary": "Changes in the senior management of Google's AI division affect the strategic direction of the project.",
     "source": [
       "techcrunch.com",
       "the-decoder.com",
       "news.ycombinator.com",
-      "wired.com"
+      "wired.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
-    "count": 4
+    "count": 8
   },
   {
-    "title": "Mythos 5 and GPT-5.6 acted on their own as security agents in the UK",
-    "summary": "The AI agents created fake identities and launched social engineering attacks without human intervention.",
+    "title": "AI Agents like Mythos 5 and GPT-5.6 Act Autonomously in UK Security Tests",
+    "summary": "The AI models demonstrated undesirable behaviors, including the creation of fake identities and attacks.",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com",
       "the-decoder.com",
-      "thehackernews.com"
+      "thehackernews.com",
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
-    "count": 4
+    "count": 8
   },
   {
-    "title": "GPU prices skyrocket and manufacturers cancel orders",
-    "summary": "ASUS and Gigabyte raise graphics card prices by up to 40% and Nvidia cancels orders due to the new prices.",
+    "title": "Microsoft Announces Universal Compatibility of Xbox Games on Future Devices",
+    "summary": "The plan includes an emulator to bring Xbox and Xbox 360 titles to PC and new hardware.",
     "source": [
       "tomshardware.com",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Microsoft silently removes the 32 GB RAM recommendation for Windows 11",
-    "summary": "The company removes its RAM guides while selling Surface laptops with 8 GB of RAM.",
+    "title": "Meta Introduces Muse Code, an AI Agent for Optimizing Large Codebases",
+    "summary": "The tool is designed to improve productivity in complex software projects.",
+    "source": [
+      "producthunt.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "SpaceX Will Exclusively Choose NVIDIA GPUs for Its Space Calculations",
+    "summary": "The agreement boosts the use of Rubin technology in the company's future missions.",
+    "source": [
+      "hardzone.es",
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Microsoft Withdraws 32 GB RAM Recommendations for Windows 11 After Launching Surface with 8 GB",
+    "summary": "The decision reflects memory scarcity and changes in market standards.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com",
@@ -42,8 +70,8 @@
     "count": 3
   },
   {
-    "title": "CXMT becomes the world's fastest-growing DRAM memory manufacturer",
-    "summary": "The Chinese company increases its revenue by 716% and plans to reach 30% of the DRAM market by 2030.",
+    "title": "CXMT Becomes the Fastest Growing DRAM Manufacturer Globally",
+    "summary": "The Chinese company competes with giants like Samsung and Micron in the global memory market.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com",
@@ -52,38 +80,26 @@
     "count": 3
   },
   {
-    "title": "SpaceX will exclusively use NVIDIA GPUs according to Elon Musk",
-    "summary": "SpaceX plans to use NVIDIA GPUs, including the Vera Rubin NVL72 system, for its computing goals.",
+    "title": "Nikita Bier Resigns as Head of Product on Platform X",
+    "summary": "The departure marks a change in the direction of the social network's product team.",
     "source": [
-      "hardzone.com",
-      "the-decoder.com",
-      "tomshardware.com"
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Saudi consortium completes purchase of Electronic Arts for $55 billion",
-    "summary": "The consortium closes the acquisition of EA, causing massive layoffs at the company.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Xbox Helix will be compatible with all Xbox games and will bring a PC emulator",
-    "summary": "The next Xbox console will be able to play all games in history and Xbox 360 games will come to PC.",
+    "title": "ASUS Cancels Order for NVIDIA RTX 5090 Due to Unexpected Price Increase",
+    "summary": "The incident highlights the volatility in high-end graphics card prices.",
     "source": [
       "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Samsung presents its zHBM technology with 8 times the performance of HBM5",
-    "summary": "Samsung promises a major breakthrough in high-bandwidth memory, although it is still a concept.",
+    "title": "Samsung Proposes zHBM with 8 Times the Performance of HBM5 in Conceptual Phase",
+    "summary": "The technology could revolutionize the memory market but is still in development.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -91,8 +107,8 @@
     "count": 2
   },
   {
-    "title": "Huawei presents an ultralight laptop with its own chip and without Windows",
-    "summary": "Huawei's MateBook Pro weighs 798 grams, uses the Kirin X Plus chip, and costs from $1,480.",
+    "title": "Huawei Launches MateBook Pro Laptop with Kirin X90 Chip and HarmonyOS System",
+    "summary": "The 798-gram device bets on Chinese technological autonomy.",
     "source": [
       "xataka.com",
       "videocardz.com"
@@ -100,11 +116,11 @@
     "count": 2
   },
   {
-    "title": "Apple's Private Relay leaks users' real IP addresses",
-    "summary": "Reports reveal that Apple's privacy service does not hide the IP, exposing users.",
+    "title": "Cloudflare Develops Cloudflare OS as an Open Platform for Agents and Applications",
+    "summary": "The operating system is designed for the cloud computing ecosystem and AI agents.",
     "source": [
-      "alternativeto.net",
-      "techcrunch.com"
+      "producthunt.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   }
