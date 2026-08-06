@@ -1,16 +1,20 @@
 import assert from "node:assert/strict";
-import fs from "node:fs";
 import test from "node:test";
 import {
 	buildFeedOutput,
 	mapFeedItems,
 	parseFeedUrls,
+	runFetchFeedsCli,
 	sourceName,
 } from "../js/fetch-feeds.js";
 
-test("CLI exits explicitly after all feeds finish", () => {
-	const source = fs.readFileSync("js/fetch-feeds.js", "utf-8");
-	assert.match(source, /await fetchFeeds\(\);\s+process\.exit\(0\);/);
+test("CLI exits successfully after all feeds finish", async () => {
+	const calls = [];
+	await runFetchFeedsCli({
+		fetch: async () => calls.push("fetch complete"),
+		exit: (code) => calls.push(`exit ${code}`),
+	});
+	assert.deepEqual(calls, ["fetch complete", "exit 0"]);
 });
 
 test("parses feed URLs ignoring comments and blank lines", () => {
