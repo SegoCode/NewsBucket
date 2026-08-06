@@ -1,8 +1,24 @@
 {
-  "fetchedAt": "2026-08-06T07:10:07.473Z",
-  "totalItems": 333,
+  "fetchedAt": "2026-08-06T07:22:46.764Z",
+  "totalItems": 334,
   "totalErrors": 3,
   "items": [
+    {
+      "id": "https://elchapuzasinformatico.com/?p=663376",
+      "title": "Microsoft advierte: hackers rusos están accediendo a las redes Wi-Fi de hoteles para estafar y meter malware a los clientes que accedan a ellas",
+      "description": "Los grupos de hackers que realizan ciberataques suelen enfocarse en un objetivo\nen concreto, sea una empresa o una institución en particular. Lo habitual es que\nintenten ir a por grandes empresas donde una brecha de seguridad les puede dar\nacceso a documentos internos y material muy valioso por el que pueden pedir un\nrescate. La entrada Microsoft advierte: hackers rusos están accediendo a las\nredes Wi-Fi de hoteles para estafar y meter malware a los clientes que accedan a\nellas aparece primero en El Chapuzas Informático.",
+      "content": "Los grupos de hackers que realizan ciberataques suelen enfocarse en un objetivo\nen concreto, sea una empresa o una institución en particular. Lo habitual es que\nintenten ir a por grandes empresas donde una brecha de seguridad les puede dar\nacceso a documentos internos y material muy valioso por el que pueden pedir un\nrescate.\n\nLa entrada Microsoft advierte: hackers rusos están accediendo a las redes Wi-Fi\nde hoteles para estafar y meter malware a los clientes que accedan a ellas\n[https://elchapuzasinformatico.com/2026/08/microsoft-hackers-rusos-wi-fi-hoteles/]\naparece primero en El Chapuzas Informático [https://elchapuzasinformatico.com].",
+      "url": "https://elchapuzasinformatico.com/2026/08/microsoft-hackers-rusos-wi-fi-hoteles",
+      "publishedAt": "2026-08-06T07:12:17.000Z",
+      "author": "Borja Colomer",
+      "categories": [
+        "Software"
+      ],
+      "source": {
+        "name": "elchapuzasinformatico.com",
+        "url": "https://elchapuzasinformatico.com/"
+      }
+    },
     {
       "id": "https://hardzone.es/noticias/juegos/diablo-iv-switch-2-septiembre-gamescom-2026/",
       "title": "Diablo IV apunta a Nintendo Switch 2 en septiembre: llegaría por 69,99 euros y se anunciaría en Gamescom 2026",
@@ -106,20 +122,6 @@
       }
     },
     {
-      "id": "https://github.com/asamassekou10/ship-safe",
-      "title": "Ship Safe, an open source security scanner for coding agents",
-      "description": "Comments",
-      "content": "Comments [https://news.ycombinator.com/item?id=49192277]",
-      "url": "https://github.com/asamassekou10/ship-safe",
-      "publishedAt": "2026-08-06T04:02:28.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "news.ycombinator.com",
-        "url": "https://news.ycombinator.com/"
-      }
-    },
-    {
       "id": "https://github.com/pradipta/wallfacer",
       "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
       "description": "Comments",
@@ -162,26 +164,26 @@
       }
     },
     {
-      "id": "https://www.producthunt.com/products/meta",
-      "title": "Muse Code",
-      "description": "Discussion | Link",
-      "content": "Meta’s terminal agent for long-horizon coding\n\nDiscussion\n[https://www.producthunt.com/products/meta?utm_campaign=producthunt-atom-posts-feed&utm_medium=rss-feed&utm_source=producthunt-atom-posts-feed]\n| Link [https://www.producthunt.com/r/p/1216156?app_id=339]",
-      "url": "https://producthunt.com/products/meta",
-      "publishedAt": "2026-08-06T02:35:53.000Z",
-      "author": "Zac Zuo",
-      "categories": [],
-      "source": {
-        "name": "producthunt.com",
-        "url": "https://www.producthunt.com"
-      }
-    },
-    {
       "id": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
       "title": "Nashville uses eminent domain to block data center near zoo",
       "description": "Comments",
       "content": "Comments [https://news.ycombinator.com/item?id=49191624]",
       "url": "https://costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
       "publishedAt": "2026-08-06T02:15:14.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "news.ycombinator.com",
+        "url": "https://news.ycombinator.com/"
+      }
+    },
+    {
+      "id": "https://www.realtor.com/news/real-estate-news/virginia-data-center-electric-infrastructure-spanberger/",
+      "title": "Virginia Orders Data Centers to Pay for Dedicated New Electric Infrastructure",
+      "description": "Comments",
+      "content": "Comments [https://news.ycombinator.com/item?id=49191455]",
+      "url": "https://realtor.com/news/real-estate-news/virginia-data-center-electric-infrastructure-spanberger",
+      "publishedAt": "2026-08-06T01:50:18.000Z",
       "author": null,
       "categories": [],
       "source": {
@@ -204,6 +206,20 @@
       "source": {
         "name": "wired.com",
         "url": "https://www.wired.com"
+      }
+    },
+    {
+      "id": "https://www.producthunt.com/products/meta",
+      "title": "Muse Code by Meta",
+      "description": "Discussion | Link",
+      "content": "Meta's autonomous coding agent for developers\n\nDiscussion\n[https://www.producthunt.com/products/meta?utm_campaign=producthunt-atom-posts-feed&utm_medium=rss-feed&utm_source=producthunt-atom-posts-feed]\n| Link [https://www.producthunt.com/r/p/1216110?app_id=339]",
+      "url": "https://producthunt.com/products/meta",
+      "publishedAt": "2026-08-05T23:47:15.000Z",
+      "author": "Justin Jincaid",
+      "categories": [],
+      "source": {
+        "name": "producthunt.com",
+        "url": "https://www.producthunt.com"
       }
     },
     {
@@ -1416,20 +1432,6 @@
       }
     },
     {
-      "id": "https://www.producthunt.com/products/cloudflare",
-      "title": "Cloudflare OS",
-      "description": "Discussion | Link",
-      "content": "an open platform for agents, apps, and work\n\nDiscussion\n[https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-atom-posts-feed&utm_medium=rss-feed&utm_source=producthunt-atom-posts-feed]\n| Link [https://www.producthunt.com/r/p/1215788?app_id=339]",
-      "url": "https://producthunt.com/products/cloudflare",
-      "publishedAt": "2026-08-05T14:48:40.000Z",
-      "author": "Justin Jincaid",
-      "categories": [],
-      "source": {
-        "name": "producthunt.com",
-        "url": "https://www.producthunt.com"
-      }
-    },
-    {
       "id": "qHvQYeyZZEGckGJvrsS4K3",
       "title": " $4,429 order for a ROG Astral RTX 5090 cancelled by Nvidia due to a 'late' price increase, with Asus blamed — marketplace buyer refunded after immediate $500 increase, with top-spec GPU now almost 2.5x higher than MSRP ",
       "description": "Nvidia cancelled a Redditor's Asus ROG Astral RTX 5090 BTF GPU order, originally\npriced at $4,429, because of a $500 price rise, with Nvidia blaming Asus for the\nconfusion.",
@@ -2621,22 +2623,6 @@
       }
     },
     {
-      "id": "https://elchapuzasinformatico.com/?p=663236",
-      "title": "Un economista dice que la IA no destruirá la mayoría de empleos por ser muy cara, pero la realidad es que hay despidos masivos en 2026 por IA",
-      "description": "Para muchas personas, la incertidumbre en el mundo laboral es algo que les pesa\nmucho en su día a día y culpan a la inteligencia artificial de lo sucedido. Esto\ntiene toda la lógica si tenemos en cuenta que la industria entera está\ninvirtiendo más dinero que nunca en este sector y no tiene pinta La entrada Un\neconomista dice que la IA no destruirá la mayoría de empleos por ser muy cara,\npero la realidad es que hay despidos masivos en 2026 por IA aparece primero en\nEl Chapuzas Informático.",
-      "content": "Para muchas personas, la incertidumbre en el mundo laboral es algo que les pesa\nmucho en su día a día y culpan a la inteligencia artificial de lo sucedido. Esto\ntiene toda la lógica si tenemos en cuenta que la industria entera está\ninvirtiendo más dinero que nunca en este sector y no tiene pinta\n\nLa entrada Un economista dice que la IA no destruirá la mayoría de empleos por\nser muy cara, pero la realidad es que hay despidos masivos en 2026 por IA\n[https://elchapuzasinformatico.com/2026/08/ia-destruir-empleos-coste/] aparece\nprimero en El Chapuzas Informático [https://elchapuzasinformatico.com].",
-      "url": "https://elchapuzasinformatico.com/2026/08/ia-destruir-empleos-coste",
-      "publishedAt": "2026-08-05T06:29:06.000Z",
-      "author": "Borja Colomer",
-      "categories": [
-        "Inteligencia Artificial"
-      ],
-      "source": {
-        "name": "elchapuzasinformatico.com",
-        "url": "https://elchapuzasinformatico.com/"
-      }
-    },
-    {
       "id": "https://kite.kagi.com/tech/2026080516/whatsapp-adds-all-mentions-and-poll-controls",
       "title": "WhatsApp adds @all mentions and poll controls",
       "description": "WhatsApp announced updates for group chats that add an @all mention, expanded\npoll controls and a faster way to create a new group from an existing one. The\n@all mention lets a user notify everyone in a group chat at once, while the poll\nchanges let creators set an end time, hide voter names and edit a poll question\nfor up to 15 minutes after posting. The company said @all targets important,\ntime-sensitive messages such as school or office closures, event deadlines and\nlast-minute plan changes. WhatsApp also added a \"Create a similar group\" option\nin group details, allowing users to start a separate chat based on an existing\ngroup's members instead of adding participants one by one. Highlights: Admin\nlimit: In groups with more than 32 members, WhatsApp restricts @all mentions to\nadmins. Muted chats: @all notifications can appear even when a group chat is\nmuted, but users can turn off @all alerts in notification settings. Side chats:\nWhatsApp described the new group-creation tool as useful for splitting off\nsurprise-party planning, event logistics or topic-specific discussions without\nfilling the main chat. Recent additions: MacRumors and Yahoo said the changes\nfollow earlier WhatsApp group features this year, including group message\nhistory, member tags and event reminders. Alert everyone in your group chat\nabout important, time-sensitive messages. No more tagging people one by one or\nhoping your message gets noticed in a busy group chat. - WhatsApp Perspectives:\nAndroid Authority: Android Authority said poll deadlines can prevent late votes\nfrom changing a decision after a cutoff. (Android Authority) Giga: Giga said\n@all could be misused and cited the admin-only rule in larger groups and the\nsettings toggle as spam controls. (Giga) Sources: WhatsApp just solved some of\nthe most annoying group chat problems - androidauthority.com WhatsApp launches\nthree new features to upgrade group chats - 9to5mac.com WhatsApp updates group\nchats with new features including ‘@all’ tag - 9to5google.com WhatsApp launches\nthree new features to improve group chats - mobilesyrup.com WhatsApp Rolls Out\nKey Features to Fix and Boost Busy Group Chats - androidheadlines.com WhatsApp\nAdds '@ all' Mentions and Poll Upgrades to Group Chats - macrumors.com WhatsApp\nAdds @all Mentions, Side Chats, and Poll Upgrades to Group Chats - ghacks.net\nWhatsApp group chats now support @all, side chats and better polls -\nbetanews.com WhatsApp Update: Rolls out @all mentions, poll upgrades for group\nchats - firstpost.com WhatsApp 群組聊天加入 @all 提及功能　投票功能同步升級 - yahoo.com WhatsApp\nvous aide à remettre de l’ordre dans vos conversations de groupe - frandroid.com\nWhatsApp: Gruppenchats erhalten neue Funktionen - macerkopf.de واتساب يطلق مزايا\nجديدة للدردشات الجماعية - omannews.gov.om WhatsApp Rilis 3 Fitur Baru untuk Grup\nChat, Ada Polling Rahasia - mediaindonesia.com WhatsApp: Wer im Gruppenchat\nlange auf Antworten wartet, muss diese Option kennen - giga.de",
@@ -3107,6 +3093,20 @@
       "source": {
         "name": "videocardz.com",
         "url": "http://videocardz.com"
+      }
+    },
+    {
+      "id": "https://www.producthunt.com/products/cloudflare",
+      "title": "Cloudflare Wallets",
+      "description": "Discussion | Link",
+      "content": "the programmable wallet for the agentic Internet\n\nDiscussion\n[https://www.producthunt.com/products/cloudflare?utm_campaign=producthunt-atom-posts-feed&utm_medium=rss-feed&utm_source=producthunt-atom-posts-feed]\n| Link [https://www.producthunt.com/r/p/1214908?app_id=339]",
+      "url": "https://producthunt.com/products/cloudflare",
+      "publishedAt": "2026-08-04T15:40:39.000Z",
+      "author": "Justin Jincaid",
+      "categories": [],
+      "source": {
+        "name": "producthunt.com",
+        "url": "https://www.producthunt.com"
       }
     },
     {
@@ -4338,6 +4338,20 @@
       }
     },
     {
+      "id": "https://www.producthunt.com/products/speakoflow",
+      "title": "SpeakoFlow",
+      "description": "Discussion | Link",
+      "content": "Free, open-source voice dictation and AI assistant, offline\n\nDiscussion\n[https://www.producthunt.com/products/speakoflow?utm_campaign=producthunt-atom-posts-feed&utm_medium=rss-feed&utm_source=producthunt-atom-posts-feed]\n| Link [https://www.producthunt.com/r/p/1213586?app_id=339]",
+      "url": "https://producthunt.com/products/speakoflow",
+      "publishedAt": "2026-08-03T08:34:16.000Z",
+      "author": "Abhishek Barali",
+      "categories": [],
+      "source": {
+        "name": "producthunt.com",
+        "url": "https://www.producthunt.com"
+      }
+    },
+    {
       "id": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
       "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
       "description": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human\nidentification software that could allow data files to be altered before\nanalysis software loads them. The vendor's July 31 security bulletin says nearly\nundetectable changes to .fsa and .hid outputs could occur if laboratory controls\nare circumvented. Thermo Fisher tracks the issue as CVE-2026-17583 and rates it",
@@ -4756,6 +4770,20 @@
       }
     },
     {
+      "id": "https://www.producthunt.com/products/space-ocr",
+      "title": "space ocr",
+      "description": "Discussion | Link",
+      "content": "OCR that checks its own answers, as an app or an API\n\nDiscussion\n[https://www.producthunt.com/products/space-ocr?utm_campaign=producthunt-atom-posts-feed&utm_medium=rss-feed&utm_source=producthunt-atom-posts-feed]\n| Link [https://www.producthunt.com/r/p/1211314?app_id=339]",
+      "url": "https://producthunt.com/products/space-ocr",
+      "publishedAt": "2026-07-31T06:50:04.000Z",
+      "author": "Yongha Hwang",
+      "categories": [],
+      "source": {
+        "name": "producthunt.com",
+        "url": "https://www.producthunt.com"
+      }
+    },
+    {
       "id": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
       "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
       "description": "Anthropic on Thursday became the latest artificial intelligence (AI) company to\nreveal that three of its models, including Claude Opus 4.7, Mythos 5, and an\nunnamed research model, had breached three unnamed organizations during\ncybersecurity testing without its knowledge. The AI firm said the earliest\nincidents date back to April 2026, adding it made the discoveries after\nlaunching a \"",
@@ -4896,6 +4924,20 @@
       }
     },
     {
+      "id": "https://www.producthunt.com/products/dashi-metrics",
+      "title": "Dashi Metrics",
+      "description": "Discussion | Link",
+      "content": "Visualize your revenue on a 3D globe\n\nDiscussion\n[https://www.producthunt.com/products/dashi-metrics?utm_campaign=producthunt-atom-posts-feed&utm_medium=rss-feed&utm_source=producthunt-atom-posts-feed]\n| Link [https://www.producthunt.com/r/p/1210501?app_id=339]",
+      "url": "https://producthunt.com/products/dashi-metrics",
+      "publishedAt": "2026-07-30T08:30:05.000Z",
+      "author": "Ammar Rayess",
+      "categories": [],
+      "source": {
+        "name": "producthunt.com",
+        "url": "https://www.producthunt.com"
+      }
+    },
+    {
       "id": "https://www.producthunt.com/products/growthbook",
       "title": "GrowthBook 5.0",
       "description": "Discussion | Link",
@@ -4917,20 +4959,6 @@
       "url": "https://producthunt.com/products/capacity",
       "publishedAt": "2026-07-28T13:54:05.000Z",
       "author": "Baptiste Studer",
-      "categories": [],
-      "source": {
-        "name": "producthunt.com",
-        "url": "https://www.producthunt.com"
-      }
-    },
-    {
-      "id": "https://www.producthunt.com/products/scrolltoll-2",
-      "title": "ScrollToll",
-      "description": "Discussion | Link",
-      "content": "Counts every Reel you watch, then locks the app.\n\nDiscussion\n[https://www.producthunt.com/products/scrolltoll-2?utm_campaign=producthunt-atom-posts-feed&utm_medium=rss-feed&utm_source=producthunt-atom-posts-feed]\n| Link [https://www.producthunt.com/r/p/1206082?app_id=339]",
-      "url": "https://producthunt.com/products/scrolltoll-2",
-      "publishedAt": "2026-07-25T08:22:01.000Z",
-      "author": "Chandan Gepala",
       "categories": [],
       "source": {
         "name": "producthunt.com",
@@ -5008,13 +5036,13 @@
       }
     },
     {
-      "id": "https://www.producthunt.com/products/fileflippers",
-      "title": "FileFlippers",
+      "id": "https://www.producthunt.com/products/atlaso",
+      "title": "Atlaso",
       "description": "Discussion | Link",
-      "content": "Send big files and get paid on download\n\nDiscussion\n[https://www.producthunt.com/products/fileflippers?utm_campaign=producthunt-atom-posts-feed&utm_medium=rss-feed&utm_source=producthunt-atom-posts-feed]\n| Link [https://www.producthunt.com/r/p/1201599?app_id=339]",
-      "url": "https://producthunt.com/products/fileflippers",
-      "publishedAt": "2026-07-20T15:33:31.000Z",
-      "author": "Adam Wilkes",
+      "content": "One memory for every AI you use\n\nDiscussion\n[https://www.producthunt.com/products/atlaso?utm_campaign=producthunt-atom-posts-feed&utm_medium=rss-feed&utm_source=producthunt-atom-posts-feed]\n| Link [https://www.producthunt.com/r/p/1200155?app_id=339]",
+      "url": "https://producthunt.com/products/atlaso",
+      "publishedAt": "2026-07-18T22:04:00.000Z",
+      "author": "Ashish Khandelwal",
       "categories": [],
       "source": {
         "name": "producthunt.com",
@@ -5057,20 +5085,6 @@
       "url": "https://producthunt.com/products/rippling",
       "publishedAt": "2026-07-14T17:17:32.000Z",
       "author": "Garry Tan",
-      "categories": [],
-      "source": {
-        "name": "producthunt.com",
-        "url": "https://www.producthunt.com"
-      }
-    },
-    {
-      "id": "https://www.producthunt.com/products/tixio-io",
-      "title": "Tixio 3.0",
-      "description": "Discussion | Link",
-      "content": "Start meetings from chat\n\nDiscussion\n[https://www.producthunt.com/products/tixio-io?utm_campaign=producthunt-atom-posts-feed&utm_medium=rss-feed&utm_source=producthunt-atom-posts-feed]\n| Link [https://www.producthunt.com/r/p/1151363?app_id=339]",
-      "url": "https://producthunt.com/products/tixio-io",
-      "publishedAt": "2026-05-20T05:32:18.000Z",
-      "author": "Umana Rafiq",
       "categories": [],
       "source": {
         "name": "producthunt.com",
