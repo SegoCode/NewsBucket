@@ -6,7 +6,7 @@ import { isValidClusters, isValidTranslation } from "./cluster-validation.js";
 import { requestOpenCodeJson } from "./opencode-client.js";
 
 const OUTPUT_DIR = "rss_output_cluster";
-const MAX_ATTEMPTS = 2;
+const MAX_ATTEMPTS = 4;
 
 const LANGUAGES = [
 	{ code: "en", prompt: fs.readFileSync("prompts/translate_en.md", "utf-8") },
