@@ -34,10 +34,7 @@ test("sends the configured model and API key to OpenCode", async () => {
 
 	assert.equal(capturedUrl, "https://opencode.ai/zen/v1/chat/completions");
 	assert.equal(capturedOptions.headers.Authorization, "Bearer test-key");
-	assert.equal(
-		JSON.parse(capturedOptions.body).model,
-		"mimo-v2.5-free",
-	);
+	assert.equal(JSON.parse(capturedOptions.body).model, "mimo-v2.5-free");
 });
 
 test("retries when fetch throws a terminated body error", async () => {
