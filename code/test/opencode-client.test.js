@@ -153,10 +153,14 @@ test("fails after repeated deterministic validation errors", async () => {
 	const retries = [];
 
 	await assert.rejects(
-		request(async () => {
-			calls++;
-			return sseResponse(["[]"]);
-		}, isValidClusters, (attempt) => retries.push(attempt)),
+		request(
+			async () => {
+				calls++;
+				return sseResponse(["[]"]);
+			},
+			isValidClusters,
+			(attempt) => retries.push(attempt),
+		),
 		/deterministic validation failed \(possible hallucination\)/,
 	);
 
