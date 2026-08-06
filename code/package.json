@@ -5,10 +5,11 @@
 	"type": "module",
 	"scripts": {
 		"feeds": "node js/fetch-feeds.js",
+		"validate-feeds": "node js/validate-feeds.js",
 		"cluster": "node js/cluster-news.js",
 		"translate": "node js/translate-clusters.js",
-		"validate": "node js/validate-output.js",
-		"pipeline": "pnpm run feeds && pnpm run cluster && pnpm run translate && pnpm run validate",
+		"validate-clusters": "node js/validate-clusters.js",
+		"pipeline": "pnpm run feeds && pnpm run validate-feeds && pnpm run cluster && pnpm run translate && pnpm run validate-clusters",
 		"test": "node --test test/*.test.js",
 		"format": "biome format --write .",
 		"lint": "biome lint .",

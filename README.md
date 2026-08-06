@@ -45,10 +45,11 @@ OPENCODE_API_KEY=your-key
 Then run the pipeline:
 
 ```
-pnpm run feeds      # fetch RSS feeds → rss_output/
-pnpm run cluster    # cluster articles → rss_output_cluster/
-pnpm run translate  # translate clusters
-pnpm run validate   # validate all language outputs
+pnpm run feeds              # fetch RSS feeds → rss_output/
+pnpm run validate-feeds     # validate RSS output
+pnpm run cluster            # cluster articles → rss_output_cluster/
+pnpm run translate          # translate clusters
+pnpm run validate-clusters  # validate all language outputs
 ```
 
 Or run the complete pipeline with `pnpm run pipeline`.

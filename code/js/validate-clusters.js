@@ -6,13 +6,13 @@ import { isValidClusters, isValidTranslation } from "./cluster-validation.js";
 const OUTPUT_DIR = "rss_output_cluster";
 const TARGET_LANGUAGES = ["en", "jp"];
 
-export const isValidOutputSet = (spanish, translations) =>
+export const isValidClusterOutput = (spanish, translations) =>
 	isValidClusters(spanish) &&
 	TARGET_LANGUAGES.every((language) =>
 		isValidTranslation(translations[language], spanish),
 	);
 
-const validateOutputFiles = () => {
+const validateClusterFiles = () => {
 	const files = fs
 		.readdirSync(OUTPUT_DIR)
 		.filter((file) => file.endsWith("_clusters_es.json"));
@@ -34,19 +34,19 @@ const validateOutputFiles = () => {
 			]),
 		);
 
-		if (!isValidOutputSet(spanish, translations))
+		if (!isValidClusterOutput(spanish, translations))
 			throw new Error(
 				`${base}: output languages do not match Spanish clusters`,
 			);
 		console.log(`✓ ${base}: ${spanish.length} clusters × 3 languages`);
 	}
 
-	console.log("✓ Output validation complete");
+	console.log("✓ Cluster validation complete");
 };
 
 if (
 	process.argv[1] &&
 	fileURLToPath(import.meta.url) === path.resolve(process.argv[1])
 ) {
-	validateOutputFiles();
+	validateClusterFiles();
 }

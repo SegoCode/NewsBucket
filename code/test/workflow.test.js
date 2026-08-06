@@ -10,16 +10,16 @@ const workflow = fs.readFileSync(
 );
 
 test("GitHub Actions only invokes existing pnpm scripts", () => {
-	const workflowScripts = [...workflow.matchAll(/run: pnpm(?: run)? (\w+)/g)]
+	const workflowScripts = [...workflow.matchAll(/run: pnpm(?: run)? ([\w-]+)/g)]
 		.map((match) => match[1])
 		.filter((script) => script !== "install");
 
 	assert.deepEqual(workflowScripts, [
-		"test",
 		"feeds",
+		"validate-feeds",
 		"cluster",
 		"translate",
-		"validate",
+		"validate-clusters",
 	]);
 	for (const script of workflowScripts) {
 		assert.equal(typeof packageJson.scripts[script], "string");
@@ -27,12 +27,31 @@ test("GitHub Actions only invokes existing pnpm scripts", () => {
 });
 
 test("pipeline scripts point to existing JavaScript entrypoints", () => {
-	for (const script of ["feeds", "cluster", "translate", "validate"]) {
+	for (const script of [
+		"feeds",
+		"validate-feeds",
+		"cluster",
+		"translate",
+		"validate-clusters",
+	]) {
 		const [, entrypoint] = packageJson.scripts[script].split(" ");
 		assert.equal(fs.existsSync(path.resolve(entrypoint)), true, entrypoint);
 	}
 	assert.equal(
 		packageJson.scripts.pipeline,
-		"pnpm run feeds && pnpm run cluster && pnpm run translate && pnpm run validate",
+		"pnpm run feeds && pnpm run validate-feeds && pnpm run cluster && pnpm run translate && pnpm run validate-clusters",
 	);
+});
+
+test("workflow publishes RSS before generating clusters from that exact commit", () => {
+	assert.match(workflow, /fetch-rss:/);
+	assert.match(workflow, /generate-news:\n {4}needs: fetch-rss/);
+	assert.match(workflow, /commit_sha: \$\{\{ steps\.commit\.outputs\.sha \}\}/);
+	assert.match(
+		workflow,
+		/ref: \$\{\{ needs\.fetch-rss\.outputs\.commit_sha \}\}/,
+	);
+	assert.match(workflow, /git add code\/rss_output\//);
+	assert.match(workflow, /git add code\/rss_output_cluster\//);
+	assert.doesNotMatch(workflow, /pnpm(?: run)? test/);
 });
