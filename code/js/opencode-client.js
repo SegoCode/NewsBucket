@@ -3,6 +3,7 @@ import { jsonrepair } from "jsonrepair";
 
 const API_URL = "https://opencode.ai/zen/v1/chat/completions";
 const MODEL = "mimo-v2.5-free";
+const MAX_ATTEMPTS = 4;
 
 const readJsonStream = async (response) => {
 	if (!response.body) throw new Error("response has no body");
@@ -28,7 +29,7 @@ export const requestOpenCodeJson = async ({
 	messages,
 	validate = () => true,
 	context,
-	maxAttempts = 2,
+	maxAttempts = MAX_ATTEMPTS,
 	onRetry = () => {},
 }) => {
 	let lastError;
