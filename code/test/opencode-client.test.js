@@ -12,14 +12,15 @@ import {
 	validTranslation,
 } from "./test-fixtures.js";
 
-const request = (fetchImpl, validate = () => true) =>
+const request = (fetchImpl, validate = () => true, onRetry = () => {}) =>
 	requestOpenCodeJson({
 		fetchImpl,
 		apiKey: "test-key",
 		messages: [],
 		context: "test/request",
 		validate,
-		maxAttempts: 2,
+		maxAttempts: 4,
+		onRetry,
 	});
 
 test("sends the configured model and API key to OpenCode", async () => {
@@ -141,24 +142,26 @@ test("fails after the configured attempts without returning invalid data", async
 			calls++;
 			throw new TypeError("terminated");
 		}),
-		/failed after 2 attempts: terminated/,
+		/failed after 4 attempts: terminated/,
 	);
 
-	assert.equal(calls, 2);
+	assert.equal(calls, 4);
 });
 
 test("fails after repeated deterministic validation errors", async () => {
 	let calls = 0;
+	const retries = [];
 
 	await assert.rejects(
 		request(async () => {
 			calls++;
 			return sseResponse(["[]"]);
-		}, isValidClusters),
+		}, isValidClusters, (attempt) => retries.push(attempt)),
 		/deterministic validation failed \(possible hallucination\)/,
 	);
 
-	assert.equal(calls, 2);
+	assert.equal(calls, 4);
+	assert.deepEqual(retries, [1, 2, 3]);
 });
 
 test("retries HTTP failures", async () => {
