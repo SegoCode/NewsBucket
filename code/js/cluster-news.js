@@ -69,7 +69,7 @@ const clusterFiles = async () => {
 			cutoff,
 		});
 		console.log(
-			`→ ${file}: ${prepared.news.length - prepared.carryItems} noticias + ${prepared.carryClusters} carry rojas (${prepared.carryItems} items) (de ${data.items.length} totales)`,
+			`→ ${file}: ${prepared.news.length - prepared.carryItems} news + ${prepared.carryClusters} red carry clusters (${prepared.carryItems} items) (of ${data.items.length} total)`,
 		);
 		console.log("→ Sent, streaming...");
 		if (process.env.GITHUB_ACTIONS) console.log("  Generating...");
