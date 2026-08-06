@@ -10,7 +10,7 @@ const INPUT_DIR = "rss_output";
 const OUTPUT_DIR = "rss_output_cluster";
 const RED_MIN = 4;
 const CARRY_SOURCE = "NewsBucket-";
-const MAX_ATTEMPTS = 2;
+const MAX_ATTEMPTS = 4;
 
 const PROMPT = fs.readFileSync("prompts/cluster.md", "utf-8");
 
