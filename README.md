@@ -45,12 +45,13 @@ OPENCODE_API_KEY=your-key
 Then run the pipeline:
 
 ```
-pnpm start      # fetch RSS feeds → rss_output/
-pnpm ai         # cluster articles → rss_output_cluster/
-pnpm translate  # translate clusters
+pnpm run feeds      # fetch RSS feeds → rss_output/
+pnpm run cluster    # cluster articles → rss_output_cluster/
+pnpm run translate  # translate clusters
+pnpm run validate   # validate all language outputs
 ```
 
-Or fetch and cluster in one step: `pnpm all`.
+Or run the complete pipeline with `pnpm run pipeline`.
 
 ### Run on GitHub Actions
 

@@ -4,10 +4,12 @@
 	"description": "RSS/Atom feed reader",
 	"type": "module",
 	"scripts": {
-		"start": "node js/fetch.js",
-		"ai": "node js/ai.js",
-		"all": "node js/fetch.js && node js/ai.js",
-		"translate": "node js/translate.js",
+		"feeds": "node js/fetch-feeds.js",
+		"cluster": "node js/cluster-news.js",
+		"translate": "node js/translate-clusters.js",
+		"validate": "node js/validate-output.js",
+		"pipeline": "pnpm run feeds && pnpm run cluster && pnpm run translate && pnpm run validate",
+		"test": "node --test test/*.test.js",
 		"format": "biome format --write .",
 		"lint": "biome lint .",
 		"check": "biome check --write ."

@@ -30,21 +30,29 @@ jobs:
         run: pnpm install
         working-directory: ./code
 
+      - name: Run tests
+        run: pnpm test
+        working-directory: ./code
+
       - name: Fetch RSS feeds
-        run: pnpm start
+        run: pnpm run feeds
         working-directory: ./code
 
       - name: Cluster with AI
-        run: pnpm ai
+        run: pnpm run cluster
         working-directory: ./code
         env:
           OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
 
       - name: Translate clusters
-        run: pnpm translate
+        run: pnpm run translate
         working-directory: ./code
         env:
           OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
+
+      - name: Validate output
+        run: pnpm run validate
+        working-directory: ./code
 
       - name: Commit and push changes
         run: |
