@@ -2,7 +2,7 @@ import { EventSourceParserStream } from "eventsource-parser/stream";
 import { jsonrepair } from "jsonrepair";
 
 const API_URL = "https://opencode.ai/zen/v1/chat/completions";
-const MODEL = "opencode/mimo-v2.5-free";
+const MODEL = "mimo-v2.5-free";
 
 const readJsonStream = async (response) => {
 	if (!response.body) throw new Error("response has no body");
