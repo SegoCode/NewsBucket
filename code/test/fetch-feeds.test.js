@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import fs from "node:fs";
 import test from "node:test";
 import {
 	buildFeedOutput,
@@ -6,6 +7,11 @@ import {
 	parseFeedUrls,
 	sourceName,
 } from "../js/fetch-feeds.js";
+
+test("CLI exits explicitly after all feeds finish", () => {
+	const source = fs.readFileSync("js/fetch-feeds.js", "utf-8");
+	assert.match(source, /await fetchFeeds\(\);\s+process\.exit\(0\);/);
+});
 
 test("parses feed URLs ignoring comments and blank lines", () => {
 	assert.deepEqual(
