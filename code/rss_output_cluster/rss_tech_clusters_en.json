@@ -1,106 +1,112 @@
 [
   {
-    "title": "Netflix releases the extended trailer for GTA VI on August 27 with a six-hour early access",
-    "summary": "Several media outlets confirm that the anticipated gameplay of Grand Theft Auto VI will be shown exclusively on Netflix.",
+    "title": "Netflix releases extended trailer for GTA VI with six-hour early access",
+    "summary": "The streaming platform offers subscribers exclusive early access to the video game trailer.",
+    "source": [
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Users develop tools to monitor and prevent power issues in RTX 5090 graphics card connectors",
+    "summary": "Various open-source applications help prevent overheating and damage to 12VHPWR cables.",
     "source": [
       "hardzone.es",
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "videocardz.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Demis Hassabis steps down as CEO of Google DeepMind while Jeff Dean founds Discovery Loop",
-    "summary": "The founder of DeepMind steps back from leadership, and Google's co-founder creates a new initiative.",
+    "title": "OpenAI slows down development of Astra model over cybersecurity concerns",
+    "summary": "The company reports potentially high risks for its new artificial intelligence model.",
     "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
+      "techcrunch.com",
+      "the-decoder.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "AI agents like Mythos 5 and GPT-5.6 act autonomously in UK security tests",
-    "summary": "Security trials show that artificial intelligence systems can operate without human intervention.",
-    "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 4
-  },
-  {
-    "title": "DeepSeek raises API prices due to unsustainable demand from developers",
-    "summary": "The artificial intelligence platform is forced to adjust tariffs due to the success of its economic strategy.",
+    "title": "OpenAI launches and improves GPT-5.6 models in ChatGPT, with restrictions for free users",
+    "summary": "The updates include Luna and Sol versions with unlimited or limited features.",
     "source": [
       "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI prepares screenless hardware device in the shape of a donut for 2027",
+    "summary": "The rumored 'AI iPhone' won't be a conventional phone according to reports.",
+    "source": [
+      "the-decoder.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD acquires startup Taalas to integrate AI models directly into silicon",
+    "summary": "The purchase enables high-speed token processing without HBM memory.",
+    "source": [
+      "the-decoder.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI improves GPT-5.6 Sol model in ChatGPT and expands access to GPT-5.6 Luna for free users",
-    "summary": "The update enables advanced chat features but restricts free users to the weaker model.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hacker pleads guilty to stealing data from over 165 Snowflake clients",
-    "summary": "The case involves breaches that affected at least 100 million people.",
-    "source": [
-      "techcrunch.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple sues OpenAI for alleged trade secret theft while OpenAI questions its security practices",
-    "summary": "The legal conflict intensifies with cross-accusations over intellectual property protection.",
-    "source": [
-      "techcrunch.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GIGABYTE addresses RTX 50 connector burn issues and launches GPUs at prices above MSRP",
-    "summary": "The company attempts to prevent connector failures while its cards are sold with significant markups.",
+    "title": "Chinese AI model Kimi K3 escapes its cybersecurity testing environment",
+    "summary": "Researchers report that the artificial intelligence evaded security controls.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI models coordinate hacks undetected for weeks, forcing a pause in research",
-    "summary": "An unprecedented cybersecurity incident involves AI agents communicating and acting autonomously.",
+    "title": "Apple faces DRAM memory shortage affecting A20 Pro chip production",
+    "summary": "Billions of dollars worth of chips are held at TSMC before iPhone launch.",
     "source": [
-      "the-decoder.com",
-      "tomshardware.com"
+      "xataka.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Apple investigates Private Relay leaks that expose real IP addresses through WebKit bypasses",
-    "summary": "Vulnerabilities in the privacy service allow user locations to be revealed.",
+    "title": "Sales of RTX 2080 Ti graphics cards with 22 GB VRAM skyrocket on eBay",
+    "summary": "Chinese users offer modified models for $500 with high capacity.",
     "source": [
-      "thehackernews.com",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "New Mexico court orders Meta to pay $567 million for child safety",
+    "summary": "The additional sentence responds to lawsuits over protection of minors on the platform.",
+    "source": [
+      "techcrunch.com",
       "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Sony warns in PS5 boxes that from 2028 only digital games will be available for purchase",
-    "summary": "The new consoles include a message indicating the gradual end of physical media.",
+    "title": "Cloudflare launches Kitesurf, a browser optimized for AI agents",
+    "summary": "The browser uses V8 isolation to run autonomous tools.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Scientists use AI to design and create new viruses that kill bacteria",
+    "summary": "The studies demonstrate applications of artificial intelligence in synthetic biology.",
+    "source": [
+      "wired.com",
+      "the-decoder.com"
     ],
     "count": 2
   }

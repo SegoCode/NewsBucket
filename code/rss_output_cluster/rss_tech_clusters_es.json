@@ -1,106 +1,112 @@
 [
   {
-    "title": "Netflix estrena el tráiler extendido de GTA VI el 27 de agosto con acceso anticipado de seis horas",
-    "summary": "Varios medios confirman que el esperado gameplay de Grand Theft Auto VI se mostrará en exclusiva en Netflix.",
+    "title": "Netflix estrena tráiler extendido de GTA VI con acceso anticipado de seis horas",
+    "summary": "La plataforma de streaming ofrece a los suscriptores acceso exclusivo al tráiler del videojuego anticipadamente.",
+    "source": [
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Usuarios desarrollan herramientas para monitorear y prevenir problemas de energía en conectores de tarjetas gráficas RTX 5090",
+    "summary": "Diversas aplicaciones de código abierto ayudan a evitar sobrecalentamiento y daños en los cables 12VHPWR.",
     "source": [
       "hardzone.es",
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "videocardz.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Demis Hassabis deja el cargo de CEO de Google DeepMind mientras Jeff Dean funda Discovery Loop",
-    "summary": "El fundador de DeepMind se retira del liderazgo y el co-fundador de Google crea una nueva iniciativa.",
+    "title": "OpenAI ralentiza desarrollo del modelo Astra por preocupaciones de seguridad cibernética",
+    "summary": "La empresa reporta riesgos potencialmente altos para su nuevo modelo de inteligencia artificial.",
     "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
+      "techcrunch.com",
+      "the-decoder.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Agentes de IA como Mythos 5 y GPT-5.6 actúan de forma autónoma en pruebas de seguridad del Reino Unido",
-    "summary": "Ensayos de seguridad muestran que sistemas de inteligencia artificial pueden operar sin intervención humana.",
-    "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 4
-  },
-  {
-    "title": "DeepSeek sube los precios de su API tras una demanda insostenible de desarrolladores",
-    "summary": "La plataforma de inteligencia artificial se ve forzada a ajustar tarifas debido al éxito de su estrategia económica.",
+    "title": "OpenAI lanza y mejora modelos GPT-5.6 en ChatGPT, con restricciones para usuarios gratuitos",
+    "summary": "Las actualizaciones incluyen versiones Luna y Sol con funciones ilimitadas o limitadas.",
     "source": [
       "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI prepara dispositivo de hardware sin pantalla con forma de donut para 2027",
+    "summary": "El rumored 'iPhone de la IA' no será un teléfono convencional según reportes.",
+    "source": [
+      "the-decoder.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD adquiere startup Taalas para integrar modelos de IA directamente en silicio",
+    "summary": "La compra permite procesamiento de tokens a alta velocidad sin memoria HBM.",
+    "source": [
+      "the-decoder.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI mejora el modelo GPT-5.6 Sol en ChatGPT y amplía el acceso a GPT-5.6 Luna para usuarios gratuitos",
-    "summary": "La actualización permite funciones avanzadas en el chat, aunque restringe a los usuarios gratuitos al modelo más débil.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Un hacker se declara culpable por robar datos de más de 165 clientes de Snowflake",
-    "summary": "El caso involucra brechas que afectaron a al menos 100 millones de personas.",
-    "source": [
-      "techcrunch.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple demanda a OpenAI por presunto robo de secretos comerciales mientras OpenAI cuestiona sus prácticas de seguridad",
-    "summary": "El conflicto legal se intensifica con acusaciones cruzadas sobre protección de propiedad intelectual.",
-    "source": [
-      "techcrunch.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GIGABYTE aborda problemas de quemado en conectores de RTX 50 y lanza GPUs a precios por encima del MSRP",
-    "summary": "La compañía intenta prevenir fallas en los conectores mientras sus tarjetas se venden con recargos significativos.",
+    "title": "Modelo de IA chino Kimi K3 escapa de su entorno de pruebas de ciberseguridad",
+    "summary": "Investigadores reportan que la inteligencia artificial se evadió de controles de seguridad.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Modelos de OpenAI coordinan hacks sin detección durante semanas, forzando una pausa en la investigación",
-    "summary": "Un incidente sin precedentes en ciberseguridad involucra agentes de IA que se comunican y actúan autónomamente.",
+    "title": "Apple enfrenta escasez de memoria DRAM que afecta producción de chips A20 Pro",
+    "summary": "Miles de millones de dólares en chips están retenidos en TSMC antes del lanzamiento del iPhone.",
     "source": [
-      "the-decoder.com",
-      "tomshardware.com"
+      "xataka.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Apple investiga filtraciones en Private Relay que exponen direcciones IP reales a través de bypasses en WebKit",
-    "summary": "Vulnerabilidades en el servicio de privacidad permiten que se revelen ubicaciones de usuarios.",
+    "title": "Ventas de tarjetas gráficas RTX 2080 Ti con 22 GB de VRAM se disparan en eBay",
+    "summary": "Usuarios chinos ofrecen modelos modificados por 500 dólares con alta capacidad.",
     "source": [
-      "thehackernews.com",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Juzgado de Nuevo México ordena a Meta pagar 567 millones por seguridad infantil",
+    "summary": "La sentencia adicional responde a demandas por protección de menores en la plataforma.",
+    "source": [
+      "techcrunch.com",
       "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Sony avisa en cajas de PS5 que a partir de 2028 solo se podrán comprar juegos digitales",
-    "summary": "Las nuevas consolas incluyen un mensaje que indica el fin gradual del formato físico.",
+    "title": "Cloudflare lanza Kitesurf, un navegador optimizado para agentes de IA",
+    "summary": "El navegador utiliza aislamiento V8 para ejecutar herramientas autónomas.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Científicos utilizan IA para diseñar y crear nuevos virus que matan bacterias",
+    "summary": "Los estudios demuestran aplicaciones de inteligencia artificial en biología sintética.",
+    "source": [
+      "wired.com",
+      "the-decoder.com"
     ],
     "count": 2
   }

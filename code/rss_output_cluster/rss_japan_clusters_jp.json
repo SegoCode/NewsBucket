@@ -1,26 +1,11 @@
 [
   {
-    "title": "広島は原爆投下から81周年を記念し、核兵器の廃絶を呼びかける",
-    "summary": " various media report on the commemoration events and peace speeches on the anniversary of the nuclear attack.",
+    "title": "青森山田が遊学館に勝ち、高校野球の甲子園大会で進出",
+    "summary": "日本の高校野球全国大会が、記念すべき勝利と多数の学校の参加で進んでいく。",
     "source": [
-      "asahi.com",
-      "yomiuri.co.jp",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004",
-      "NewsBucket-005",
-      "NewsBucket-006"
-    ],
-    "count": 8
-  },
-  {
-    "title": "ベースボール甲子園大会は、注目の勝利や記録などの節目を迎えながら進展",
-    "summary": "青少年の野球選手権は、最初のラウンドで興奮するゲームと注目すべき成果を示している",
-    "source": [
+      "news.yahoo.co.jp",
       "www3.nhk.or.jp",
       "mainichi.jp",
-      "asahi.com",
       "yomiuri.co.jp",
       "NewsBucket-001",
       "NewsBucket-002",
@@ -30,23 +15,22 @@
     "count": 8
   },
   {
-    "title": "熊本地震で38人が死亡し、広範な被害が発生、緊急対応が進行中",
-    "summary": "当局は、地域の地震後に死亡者と避難所にいる数千人を報告している",
+    "title": "熊本地震で広範囲の被害と38人死亡、緊急対応が進行中",
+    "summary": "この地震は重大な破壊を引き起こし、悪条件のもとで救援作業が続いている。",
     "source": [
+      "mainichi.jp",
       "www3.nhk.or.jp",
       "asahi.com",
       "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
+      "NewsBucket-002"
     ],
-    "count": 6
+    "count": 5
   },
   {
-    "title": "女優で元宝塚スターの寿美花代、94歳で逝去",
-    "summary": "著名な日本のパフォーマーがミュージカル劇場での長きにわたるキャリアの後に亡くなる",
+    "title": "日本為替介入を実施し、6.2兆円の過去最高額で通貨安定化を図る",
+    "summary": "この介入は、投機的な動きによる為替市場のボラティリティを相殺することを狙っている。",
     "source": [
-      "yomiuri.co.jp",
+      "nikkei.com",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
@@ -55,22 +39,10 @@
     "count": 5
   },
   {
-    "title": "少年ジャンプ誌の発行部数が100万部を下回る",
-    "summary": "日本で最も人気の高い漫画出版が過去最大の売り上げ減少に直面している",
+    "title": "台風13号が沖縄に強風と豪雨で脅威",
+    "summary": "台風の通過に伴い、地域に深刻な被害の可能性があるとして警報が発令されている。",
     "source": [
-      "asahi.com",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 5
-  },
-  {
-    "title": "日本は2027年から2年間、食品消費税を1%に減税",
-    "summary": "政府は家庭の経済的負担を軽減するために一時的な減税を発表",
-    "source": [
-      "asahi.com",
+      "www3.nhk.or.jp",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003"
@@ -78,53 +50,32 @@
     "count": 4
   },
   {
-    "title": "台風13号が沖縄に強風と豪雨をもたらすと脅威",
-    "summary": "日本の南の島々が深刻な警報と共に台風の影響に備えている",
+    "title": "日本の消費支出が6月に3.3%下落、7か月連続の減少",
+    "summary": "支出の減少は、国内で悪化する経済傾向の継続を反映している。",
     "source": [
-      "www3.nhk.or.jp",
-      "mainichi.jp",
-      "asahi.com",
-      "NewsBucket-001"
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
     ],
     "count": 4
   },
   {
-    "title": "日本は通貨安定のため6.2兆円の過去最大の為替介入を実施",
-    "summary": "金融当局が円の下落を抑制するために前例のない措置を適用",
+    "title": "トランプ大統領、Fed総裁のクリストファー・クックの更迭を検討中、と報道",
+    "summary": "ホワイトハウスは、連邦準備制度の高官の更迭を検討する意向を通知した。",
     "source": [
-      "mainichi.jp",
+      "www3.nhk.or.jp",
       "news.yahoo.co.jp",
-      "nikkei.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 4
-  },
-  {
-    "title": "日本の消費支出が6月に3.3%減少、7か月連続の減少",
-    "summary": "家計支出が気候やインフレなどの要因により減少している",
-    "source": [
-      "www3.nhk.or.jp",
-      "mainichi.jp",
-      "nikkei.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 4
-  },
-  {
-    "title": "トランプ大統領が出生による市民権と出産旅行を制限する大統領令に署名",
-    "summary": "米国大統領が国内での出生を通じた移民を制限する措置を取る",
-    "source": [
-      "www3.nhk.or.jp",
       "nikkei.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "イエメンでのフーシ派の攻撃で数十人が死亡し、地域的な緊張が高まる",
-    "summary": "フーシ派とサウジアラビアが支援する勢力の間の衝突が地域でエスカレートしている",
+    "title": "広島が原子爆弾投下81周年を記念し、核兵器廃絶を呼びかける",
+    "summary": "式典や追悼イベントは、核兵器のない世界の緊急性を強調している。",
     "source": [
-      "asahi.com",
-      "yomiuri.co.jp"
+      "NewsBucket-001",
+      "NewsBucket-002"
     ],
     "count": 2
   }

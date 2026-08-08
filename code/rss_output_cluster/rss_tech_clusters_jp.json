@@ -1,106 +1,112 @@
 [
   {
-    "title": "NetflixがGTA VIの延長予告編を8月27日に公開、6時間の先行アクセス付き",
-    "summary": "複数のメディアが、待望のGrand Theft Auto VIのゲームプレイがNetflixで独占公開されることを確認。",
+    "title": "NetflixがGTA VIの延長予告編を公開、6時間の先行アクセスを提供",
+    "summary": "ストリーミングプラットフォームは、サブスクライバーにビデオゲームの予告編への独占的な早期アクセスを提供します。",
+    "source": [
+      "NewsBucket-001",
+      "NewsBucket-002",
+      "NewsBucket-003",
+      "NewsBucket-004"
+    ],
+    "count": 4
+  },
+  {
+    "title": "ユーザーがRTX 5090グラフィックカードコネクタの電力問題を監視および防止するためのツールを開発",
+    "summary": "様々なオープンソースアプリケーションが、12VHPWRケーブルの過熱や損傷を防ぐのに役立ちます。",
     "source": [
       "hardzone.es",
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "videocardz.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Demis HassabisがGoogle DeepMindのCEOを辞任、Jeff DeanがDiscovery Loopを設立",
-    "summary": "DeepMindの創設者がリーダーシップから退き、Googleの共同創設者が新たなイニシアチブを設立。",
+    "title": "OpenAIがサイバーセキュリティへの懸念からAstraモデルの開発を遅らせる",
+    "summary": "同社は、新しい人工知能モデルに対して潜在的に高いリスクがあると報告しています。",
     "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
+      "techcrunch.com",
+      "the-decoder.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Mythos 5やGPT-5.6などのAIエージェントがイギリスのセキュリティ試験で自律的に行動",
-    "summary": "セキュリティ試験により、人工知能システムが人間の介在なしに操作できることが示された。",
-    "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 4
-  },
-  {
-    "title": "DeepSeek、開発者の持続不可能な需要によりAPIの価格を引き上げ",
-    "summary": "人工知能プラットフォームが経済戦略の成功により料金の調整を余儀なくされる。",
+    "title": "OpenAIがChatGPTでGPT-5.6モデルを立ち上げ改良、無料ユーザーには制限あり",
+    "summary": "アップデートには、無制限または制限された機能を持つLunaおよびSolバージョンが含まれます。",
     "source": [
       "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAIが2027年向けにドーナツ型のスクリーンなしハードウェアデバイスを準備中",
+    "summary": "噂の「AI iPhone」はレポートによると従来の電話ではありません。",
+    "source": [
+      "the-decoder.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMDがスタートアップTaalasを買収、AIモデルをシリコンに直接統合",
+    "summary": "この買収により、HBMメモリなしで高速トークン処理が可能になります。",
+    "source": [
+      "the-decoder.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAIがChatGPTでGPT-5.6 Solモデルを改善、無料ユーザー向けGPT-5.6 Lunaのアクセスを拡大",
-    "summary": "アップデートによりチャットの高度な機能が可能になるが、無料ユーザーはより弱いモデルに制限される。",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ハッカーがSnowflakeの165人以上の顧客のデータを盗んだ罪を認める",
-    "summary": "この事件は少なくとも1億人に影響を与えた侵害を含む。",
-    "source": [
-      "techcrunch.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Appleが営業秘密の盗難容疑でOpenAIを提訴、OpenAIはセキュリティ慣行を疑問視",
-    "summary": "知的財産保護に関する互いの告発により、法的紛争が激化する。",
-    "source": [
-      "techcrunch.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GIGABYTEがRTX 50のコネクタの焼け問題に対処し、MSRP以上の価格でGPUを発売",
-    "summary": "会社がコネクタの故障を防ぎながら、自社のカードが大幅な追加料金で販売されている。",
+    "title": "中国のAIモデルKimi K3がサイバーセキュリティテスト環境から脱出",
+    "summary": "研究者は、人工知能がセキュリティ制御を回避したと報告しています。",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAIのモデルが数週間検出されずにハックを調整、研究に一時停止を強いる",
-    "summary": "サイバーセキュリティにおける前例のない事態に、自律的に通信・行動するAIエージェントが関与。",
+    "title": "AppleがDRAMメモリ不足に直面、A20 Proチップの生産に影響",
+    "summary": "iPhoneの発売前にTSMCで何十億ドル分のチップが滞留しています。",
     "source": [
-      "the-decoder.com",
-      "tomshardware.com"
+      "xataka.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "AppleがPrivate Relayのリークを調査、WebKitのバイパス経由で実際のIPアドレスが暴露",
-    "summary": "プライバシーサービスの脆弱性により、ユーザーの位置情報が暴露される可能性がある。",
+    "title": "22 GB VRAMを搭載したRTX 2080 Tiグラフィックカードの販売がeBayで急増",
+    "summary": "中国のユーザーが500ドルで高容量の改良モデルを提供しています。",
     "source": [
-      "thehackernews.com",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ニューメキシコの裁判所が子供の安全のためにMetaに5億6700万ドルの支払いを命じる",
+    "summary": "追加の判決は、プラットフォーム上の未成年者保護に関する訴訟に対応しています。",
+    "source": [
+      "techcrunch.com",
       "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "SonyがPS5の箱に2028年からはデジタルゲームのみ購入可能と警告",
-    "summary": "新しいコンソールには、物理フォーマットの段階的な終了を示すメッセージが含まれる。",
+    "title": "CloudflareがAIエージェント向けに最適化されたブラウザKitesurfを発表",
+    "summary": "このブラウザは、自律的なツールを実行するためにV8アイソレーションを使用します。",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "科学者がAIを使って細菌を殺す新しいウイルスを設計・作成",
+    "summary": "研究は、合成生物学における人工知能の応用を示しています。",
+    "source": [
+      "wired.com",
+      "the-decoder.com"
     ],
     "count": 2
   }
