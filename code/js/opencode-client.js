@@ -2,7 +2,7 @@ import { EventSourceParserStream } from "eventsource-parser/stream";
 import { jsonrepair } from "jsonrepair";
 
 const API_URL = "https://opencode.ai/zen/v1/chat/completions";
-const MODEL = "mimo-v2.5-free";
+const MODEL = "deepseek-v4-flash-free";
 const MAX_ATTEMPTS = 4;
 
 const readJsonStream = async (response) => {
