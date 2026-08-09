@@ -1,81 +1,69 @@
 [
   {
-    "title": "Aomori Yamada vence a Yuugakukan y avanza en el Torneo Koshien de béisbol escolar",
-    "summary": "El Torneo Nacional de Béisbol Escolar Japonés avanza con victorias memorables y la participación de múltiples escuelas.",
+    "title": "El Torneo Koshien de béisbol escolar avanza con victorias clave y participación internacional",
+    "summary": "Equipos japoneses como Aomori Yamada avanzan en el torneo nacional, cubierto por múltiples medios.",
     "source": [
-      "news.yahoo.co.jp",
-      "www3.nhk.or.jp",
       "mainichi.jp",
       "yomiuri.co.jp",
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 8
-  },
-  {
-    "title": "Terremoto de Kumamoto deja daños extensos y 38 muertos, con respuesta de emergencia en curso",
-    "summary": "El sismo ha causado destrucción significativa y las labores de rescate continúan bajo condiciones adversas.",
-    "source": [
-      "mainichi.jp",
-      "www3.nhk.or.jp",
       "asahi.com",
       "NewsBucket-001",
-      "NewsBucket-002"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Japón realiza intervención cambiaria récord de 6.2 billones de yenes para estabilizar la moneda",
-    "summary": "La intervención busca contrarrestar la volatilidad en los mercados de divisas tras movimientos especulativos.",
-    "source": [
-      "nikkei.com",
-      "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003",
       "NewsBucket-004"
     ],
-    "count": 5
+    "count": 7
   },
   {
-    "title": "Tifón 13 amenaza Okinawa con vientos fuertes y lluvias torrenciales",
-    "summary": "Se emiten alertas por el paso del tifón con potencial de daños severos en la región.",
+    "title": "Terremoto en Kumamoto deja daños extensos y múltiples víctimas, con investigaciones en curso",
+    "summary": "Las autoridades reportan muertes y daños estructurales, mientras se analizan nuevos sismos en la región.",
     "source": [
+      "yomiuri.co.jp",
+      "asahi.com",
       "www3.nhk.or.jp",
       "NewsBucket-001",
       "NewsBucket-002",
       "NewsBucket-003"
     ],
-    "count": 4
+    "count": 6
   },
   {
-    "title": "Gasto de consumo japonés cae un 3.3% en junio, séptimo mes consecutivo de disminución",
-    "summary": "La reducción en el gasto refleja la continuidad de tendencias económicas adversas en el país.",
+    "title": "Ceremonias de paz y eventos conmemorativos en Nagasaki por el 81 aniversario del bombardeo atómico",
+    "summary": "Múltiples actos, misas y marchas se realizan en Nagasaki para honrar a las víctimas y promover la abolición de armas nucleares.",
     "source": [
-      "NewsBucket-001",
-      "NewsBucket-002",
-      "NewsBucket-003",
-      "NewsBucket-004"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Trump considera destituir al gobernador de la Fed, Christopher Cook, según reportes",
-    "summary": "La Casa Blanca ha notificado su intención de revisar la remoción del oficial de la Reserva Federal.",
-    "source": [
-      "www3.nhk.or.jp",
       "news.yahoo.co.jp",
+      "mainichi.jp",
+      "asahi.com",
+      "yomiuri.co.jp",
       "nikkei.com"
     ],
-    "count": 3
+    "count": 5
   },
   {
-    "title": "Hiroshima conmemora 81 años del bombardeo atómico con llamados a abolir armas nucleares",
-    "summary": "Ceremonias y eventos recordatorios destacan la urgencia de un mundo libre de armas nucleares.",
+    "title": "Negociaciones entre Irán y Omán para reabrir el Estrecho de Ormuz bajo condiciones específicas",
+    "summary": "Irán y Omán discuten la normalización del tráfico marítimo, con implicaciones para el comercio global de petróleo.",
     "source": [
-      "NewsBucket-001",
-      "NewsBucket-002"
+      "mainichi.jp",
+      "yomiuri.co.jp",
+      "asahi.com",
+      "nikkei.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "El auge de la inteligencia artificial genera debates en Japón sobre su impacto en educación y trabajo",
+    "summary": "Diversos sectores cuestionan el uso de IA, desde la enseñanza hasta la consultoría empresarial, generando discusiones sobre su influencia.",
+    "source": [
+      "asahi.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Tifón 13 amenaza Okinawa con vientos fuertes y lluvias, generando alertas en la región",
+    "summary": "Las autoridades advierten sobre los efectos prolongados del tifón mientras se monitorea la situación.",
+    "source": [
+      "www3.nhk.or.jp",
+      "NewsBucket-001"
     ],
     "count": 2
   }
