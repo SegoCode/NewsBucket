@@ -4,6 +4,9 @@ import { jsonrepair } from "jsonrepair";
 const API_URL = "https://opencode.ai/zen/v1/chat/completions";
 const MODEL = "deepseek-v4-flash-free";
 const MAX_ATTEMPTS = 4;
+const FINAL_RETRY_DELAY = 60_000;
+const delay = (milliseconds) =>
+	new Promise((resolve) => setTimeout(resolve, milliseconds));
 
 const readJsonStream = async (response) => {
 	if (!response.body) throw new Error("response has no body");
@@ -31,6 +34,7 @@ export const requestOpenCodeJson = async ({
 	context,
 	maxAttempts = MAX_ATTEMPTS,
 	onRetry = () => {},
+	wait = delay,
 }) => {
 	let lastError;
 
@@ -63,7 +67,11 @@ export const requestOpenCodeJson = async ({
 			return result;
 		} catch (error) {
 			lastError = error;
-			if (attempt + 1 < maxAttempts) onRetry(attempt + 1, error);
+			if (attempt + 1 < maxAttempts) {
+				const retryNumber = attempt + 1;
+				onRetry(retryNumber, error);
+				if (retryNumber === 2) await wait(FINAL_RETRY_DELAY);
+			}
 		}
 	}
 
