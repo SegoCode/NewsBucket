@@ -22,6 +22,7 @@ test("GitHub Actions only invokes existing pnpm scripts", () => {
 		"cluster",
 		"validate-clusters",
 		"translate",
+		"validate-clusters",
 	]);
 	for (const script of workflowScripts) {
 		assert.equal(typeof packageJson.scripts[script], "string");
@@ -46,28 +47,22 @@ test("pipeline scripts point to existing JavaScript entrypoints", () => {
 	);
 });
 
-test("workflow checkpoints each external call sequentially in one file", () => {
+test("workflow clusters each category before one resilient translation job", () => {
 	assert.doesNotMatch(workflow, /uses: \.\/\.github\/workflows\//);
 	const chain = [
 		["perplexity", "fetch-rss"],
 		["cluster-tech", "perplexity"],
-		["translate-tech-en", "cluster-tech"],
-		["translate-tech-jp", "translate-tech-en"],
-		["cluster-finance", "translate-tech-jp"],
-		["translate-finance-en", "cluster-finance"],
-		["translate-finance-jp", "translate-finance-en"],
-		["cluster-gaming", "translate-finance-jp"],
-		["translate-gaming-en", "cluster-gaming"],
-		["translate-gaming-jp", "translate-gaming-en"],
-		["cluster-japan", "translate-gaming-jp"],
-		["translate-japan-en", "cluster-japan"],
-		["translate-japan-jp", "translate-japan-en"],
-		["validate-all", "translate-japan-jp"],
+		["cluster-finance", "cluster-tech"],
+		["cluster-gaming", "cluster-finance"],
+		["cluster-japan", "cluster-gaming"],
+		["translate", "cluster-japan"],
 	];
 	for (const [job, dependency] of chain) {
 		assert.match(
 			workflow,
-			new RegExp(`  ${job}:\\n    name: [^\\n]+\\n    needs: ${dependency}\\n`),
+			new RegExp(
+				`  ${job}:\\n    name: [^\\n]+\\n    needs: ${dependency}\\n    if: \\$\\{\\{ !cancelled\\(\\) \\}\\}\\n`,
+			),
 		);
 	}
 
@@ -78,25 +73,22 @@ test("workflow checkpoints each external call sequentially in one file", () => {
 	].map((match) => match[1]);
 	assert.deepEqual(clusterCheckpoints, [
 		"code/rss_output_cluster/rss_tech_clusters_es.json",
-		"code/rss_output_cluster/rss_tech_clusters_en.json",
-		"code/rss_output_cluster/rss_tech_clusters_jp.json",
 		"code/rss_output_cluster/rss_finance_clusters_es.json",
-		"code/rss_output_cluster/rss_finance_clusters_en.json",
-		"code/rss_output_cluster/rss_finance_clusters_jp.json",
 		"code/rss_output_cluster/rss_gaming_clusters_es.json",
-		"code/rss_output_cluster/rss_gaming_clusters_en.json",
-		"code/rss_output_cluster/rss_gaming_clusters_jp.json",
 		"code/rss_output_cluster/rss_japan_clusters_es.json",
-		"code/rss_output_cluster/rss_japan_clusters_en.json",
-		"code/rss_output_cluster/rss_japan_clusters_jp.json",
 	]);
 	assert.match(workflow, /git add -- "\$OUTPUT_PATH"/);
 	assert.match(workflow, /git pull --rebase origin main/);
 	assert.match(workflow, /run: pnpm run perplexity/);
+	assert.match(workflow, /continue-on-error: true/);
 	assert.match(workflow, /run: pnpm run cluster -- "\$CATEGORY"/);
-	assert.match(
-		workflow,
-		/run: pnpm run translate -- "\$CATEGORY" "\$LANGUAGE"/,
-	);
+	assert.match(workflow, /run: pnpm run translate\n/);
+	assert.doesNotMatch(workflow, /translate-(?:tech|finance|gaming|japan)-/);
+	assert.doesNotMatch(workflow, /name: \d+/);
+	assert.doesNotMatch(workflow, /Commit checkpoint/);
+	assert.match(workflow, /name: Commit\n/);
+	assert.match(workflow, /uses: actions\/checkout@v7/);
+	assert.match(workflow, /uses: actions\/setup-node@v7/);
+	assert.match(workflow, /uses: pnpm\/action-setup@v6/);
 	assert.doesNotMatch(workflow, /pnpm(?: run)? test/);
 });
