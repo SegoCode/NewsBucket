@@ -1,38 +1,130 @@
 [
   {
-    "title": "Claude Code implements messaging between sessions to optimize workflows",
-    "summary": "Anthropic allows Claude Code sessions to communicate with each other and share context automatically.",
+    "title": "Cyberattack on Ceva Logistics exposes data of Steam hardware buyers",
+    "summary": "The breach at the shipping company affects banks, retailers, and gamers, and Valve warns of possible fraudulent messages to European customers.",
+    "source": [
+      "techcrunch.com",
+      "tomshardware.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Meta returns to open AI models and criticizes its 'closed' rivals",
+    "summary": "Zuckerberg announces the release of its most powerful model and plans to auction computing capacity to compete with China.",
     "source": [
       "news.ycombinator.com",
-      "alternativeto.net",
-      "the-decoder.com"
+      "the-decoder.com",
+      "/r/technology"
     ],
     "count": 3
   },
   {
-    "title": "NVIDIA RTX Spark N1X outperforms AMD and Intel processors in performance tests",
-    "summary": "Leaked results on Geekbench show that the chip rivals Apple M4 Max.",
+    "title": "Rejection of 'AI slop' begins to have real effects",
+    "summary": "Pressure against low-quality automated content is changing platform strategies and consumer habits.",
     "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "/r/technology",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "Amazon faces opposition over data center projects that could increase climate pollution",
-    "summary": "The company uses old rules to evade community participation in the construction of massive facilities.",
+    "title": "Intel Core Ultra 200 processors drop to historic low prices",
+    "summary": "The Core Ultra 5 250K Plus falls to $154 and the Core Ultra 7 270K Plus to $265 in retail deals.",
     "source": [
-      "techcrunch.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cooler Master launches a protector to prevent RTX 5090 GPUs from melting",
+    "summary": "The GPU Shield, available in China for $50, includes a three-year warranty against melting of the 12V-2×6 connector.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Windows 11 weather app criticized for consuming over 1.2 GB of RAM and showing ads",
+    "summary": "Users report that the built-in weather app is a web wrapper full of ads that abuses system memory.",
+    "source": [
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Open-source interactive maps available for the total solar eclipse on August 12th",
-    "summary": "These tools provide cultural and scientific information for observing the astronomical event.",
+    "title": "AI data center bans exceed 500 across the United States",
+    "summary": "New York and Texas join the local blocking of new facilities due to growing public and political opposition.",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
+      "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GeForce NOW vulnerability allows access to the full Windows desktop",
+    "summary": "A user exploits a file exchange in the cloud service to run local AI models with 48 GB of VRAM without restrictions.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Over 70% of Americans oppose AI data centers and protests increase",
+    "summary": "Nearly 40 people have been arrested this year at demonstrations against the construction of AI factories in the country.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Counter-Strike: Global Offensive 2019 source code leaked",
+    "summary": "Valve investigates the leak of the March 2019 CS:GO code, which could pose a risk to the game's security.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD FSR 4.1 improves image quality on Radeon RX 7000 at the cost of up to 18% performance",
+    "summary": "Tests show that the new upscaling reduces frame rate compared to FSR 3.1 and shows that 8 GB of VRAM is insufficient for gaming.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "PS4 and PS5 streaming comes to Steam Deck and Steam Machine with Asobi Remote Play",
+    "summary": "The cloud gaming feature of PlayStation consoles is now available on Valve devices thanks to the Asobi app.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic enables Claude Code's automatic mode by default",
+    "summary": "The company changes the configuration of its coding agent to execute actions automatically, sparking debate among developers.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Amazon pushes a 7.65 GW gas plant in Texas to power AI data centers",
+    "summary": "The facility, with 35 turbines, could emit 33 million tons of CO₂ per year and become the largest source of pollution in the U.S.",
+    "source": [
+      "kite.kagi.com",
+      "/r/technology"
     ],
     "count": 2
   }
