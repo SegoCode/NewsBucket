@@ -12,7 +12,7 @@ concurrency:
 
 jobs:
   fetch-rss:
-    name: 01 Fetch RSS
+    name: Fetch RSS
     runs-on: ubuntu-latest
     permissions: &write-permissions
       contents: write
@@ -23,20 +23,20 @@ jobs:
     steps:
       - &checkout
         name: Checkout main
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: main
           fetch-depth: 0
 
       - &setup-pnpm
         name: Setup pnpm
-        uses: pnpm/action-setup@v4
+        uses: pnpm/action-setup@v6
         with:
           version: latest
 
       - &setup-node
         name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: '22'
           cache: pnpm
@@ -56,7 +56,7 @@ jobs:
         working-directory: ./code
 
       - &commit
-        name: Commit checkpoint
+        name: Commit
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
@@ -70,8 +70,9 @@ jobs:
           fi
 
   perplexity:
-    name: 02 Enrich tech with Perplexity
+    name: Perplexity
     needs: fetch-rss
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     permissions: *write-permissions
     env:
@@ -85,8 +86,14 @@ jobs:
       - *install
 
       - name: Fetch Perplexity
+        id: perplexity
+        continue-on-error: true
         run: pnpm run perplexity
         working-directory: ./code
+
+      - name: Report unavailable connector
+        if: steps.perplexity.outcome == 'failure'
+        run: echo "::warning::Perplexity is unavailable; continuing without it"
 
       - name: Validate enriched RSS output
         run: pnpm run validate-feeds
@@ -95,15 +102,16 @@ jobs:
       - *commit
 
   cluster-tech:
-    name: 03 Tech - cluster ES
+    name: Cluster tech
     needs: perplexity
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     permissions: *write-permissions
     env:
       CATEGORY: tech
       LANGUAGE: es
       OUTPUT_PATH: code/rss_output_cluster/rss_tech_clusters_es.json
-      COMMIT_MESSAGE: Update tech clusters es
+      COMMIT_MESSAGE: Update tech clusters
 
     steps:
       - *checkout
@@ -112,76 +120,30 @@ jobs:
       - *install
 
       - &cluster
-        name: Generate Spanish clusters
+        name: Generate clusters
         run: pnpm run cluster -- "$CATEGORY"
         working-directory: ./code
         env:
           OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
 
-      - &validate-checkpoint
-        name: Validate checkpoint
+      - &validate-cluster
+        name: Validate clusters
         run: pnpm run validate-clusters -- "$CATEGORY" "$LANGUAGE"
         working-directory: ./code
 
       - *commit
 
-  translate-tech-en:
-    name: 04 Tech - translate EN
-    needs: cluster-tech
-    runs-on: ubuntu-latest
-    permissions: *write-permissions
-    env:
-      CATEGORY: tech
-      LANGUAGE: en
-      OUTPUT_PATH: code/rss_output_cluster/rss_tech_clusters_en.json
-      COMMIT_MESSAGE: Update tech clusters en
-
-    steps:
-      - *checkout
-      - *setup-pnpm
-      - *setup-node
-      - *install
-
-      - &translate
-        name: Translate clusters
-        run: pnpm run translate -- "$CATEGORY" "$LANGUAGE"
-        working-directory: ./code
-        env:
-          OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
-
-      - *validate-checkpoint
-      - *commit
-
-  translate-tech-jp:
-    name: 05 Tech - translate JP
-    needs: translate-tech-en
-    runs-on: ubuntu-latest
-    permissions: *write-permissions
-    env:
-      CATEGORY: tech
-      LANGUAGE: jp
-      OUTPUT_PATH: code/rss_output_cluster/rss_tech_clusters_jp.json
-      COMMIT_MESSAGE: Update tech clusters jp
-
-    steps:
-      - *checkout
-      - *setup-pnpm
-      - *setup-node
-      - *install
-      - *translate
-      - *validate-checkpoint
-      - *commit
-
   cluster-finance:
-    name: 06 Finance - cluster ES
-    needs: translate-tech-jp
+    name: Cluster finance
+    needs: cluster-tech
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     permissions: *write-permissions
     env:
       CATEGORY: finance
       LANGUAGE: es
       OUTPUT_PATH: code/rss_output_cluster/rss_finance_clusters_es.json
-      COMMIT_MESSAGE: Update finance clusters es
+      COMMIT_MESSAGE: Update finance clusters
 
     steps:
       - *checkout
@@ -189,59 +151,20 @@ jobs:
       - *setup-node
       - *install
       - *cluster
-      - *validate-checkpoint
-      - *commit
-
-  translate-finance-en:
-    name: 07 Finance - translate EN
-    needs: cluster-finance
-    runs-on: ubuntu-latest
-    permissions: *write-permissions
-    env:
-      CATEGORY: finance
-      LANGUAGE: en
-      OUTPUT_PATH: code/rss_output_cluster/rss_finance_clusters_en.json
-      COMMIT_MESSAGE: Update finance clusters en
-
-    steps:
-      - *checkout
-      - *setup-pnpm
-      - *setup-node
-      - *install
-      - *translate
-      - *validate-checkpoint
-      - *commit
-
-  translate-finance-jp:
-    name: 08 Finance - translate JP
-    needs: translate-finance-en
-    runs-on: ubuntu-latest
-    permissions: *write-permissions
-    env:
-      CATEGORY: finance
-      LANGUAGE: jp
-      OUTPUT_PATH: code/rss_output_cluster/rss_finance_clusters_jp.json
-      COMMIT_MESSAGE: Update finance clusters jp
-
-    steps:
-      - *checkout
-      - *setup-pnpm
-      - *setup-node
-      - *install
-      - *translate
-      - *validate-checkpoint
+      - *validate-cluster
       - *commit
 
   cluster-gaming:
-    name: 09 Gaming - cluster ES
-    needs: translate-finance-jp
+    name: Cluster gaming
+    needs: cluster-finance
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     permissions: *write-permissions
     env:
       CATEGORY: gaming
       LANGUAGE: es
       OUTPUT_PATH: code/rss_output_cluster/rss_gaming_clusters_es.json
-      COMMIT_MESSAGE: Update gaming clusters es
+      COMMIT_MESSAGE: Update gaming clusters
 
     steps:
       - *checkout
@@ -249,59 +172,20 @@ jobs:
       - *setup-node
       - *install
       - *cluster
-      - *validate-checkpoint
-      - *commit
-
-  translate-gaming-en:
-    name: 10 Gaming - translate EN
-    needs: cluster-gaming
-    runs-on: ubuntu-latest
-    permissions: *write-permissions
-    env:
-      CATEGORY: gaming
-      LANGUAGE: en
-      OUTPUT_PATH: code/rss_output_cluster/rss_gaming_clusters_en.json
-      COMMIT_MESSAGE: Update gaming clusters en
-
-    steps:
-      - *checkout
-      - *setup-pnpm
-      - *setup-node
-      - *install
-      - *translate
-      - *validate-checkpoint
-      - *commit
-
-  translate-gaming-jp:
-    name: 11 Gaming - translate JP
-    needs: translate-gaming-en
-    runs-on: ubuntu-latest
-    permissions: *write-permissions
-    env:
-      CATEGORY: gaming
-      LANGUAGE: jp
-      OUTPUT_PATH: code/rss_output_cluster/rss_gaming_clusters_jp.json
-      COMMIT_MESSAGE: Update gaming clusters jp
-
-    steps:
-      - *checkout
-      - *setup-pnpm
-      - *setup-node
-      - *install
-      - *translate
-      - *validate-checkpoint
+      - *validate-cluster
       - *commit
 
   cluster-japan:
-    name: 12 Japan - cluster ES
-    needs: translate-gaming-jp
+    name: Cluster japan
+    needs: cluster-gaming
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     permissions: *write-permissions
     env:
       CATEGORY: japan
       LANGUAGE: es
       OUTPUT_PATH: code/rss_output_cluster/rss_japan_clusters_es.json
-      COMMIT_MESSAGE: Update japan clusters es
+      COMMIT_MESSAGE: Update japan clusters
 
     steps:
       - *checkout
@@ -309,62 +193,44 @@ jobs:
       - *setup-node
       - *install
       - *cluster
-      - *validate-checkpoint
+      - *validate-cluster
       - *commit
 
-  translate-japan-en:
-    name: 13 Japan - translate EN
+  translate:
+    name: Translate clusters
     needs: cluster-japan
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     permissions: *write-permissions
     env:
-      CATEGORY: japan
-      LANGUAGE: en
-      OUTPUT_PATH: code/rss_output_cluster/rss_japan_clusters_en.json
-      COMMIT_MESSAGE: Update japan clusters en
+      OUTPUT_PATH: code/rss_output_cluster/
+      COMMIT_MESSAGE: Update cluster translations
 
     steps:
       - *checkout
       - *setup-pnpm
       - *setup-node
       - *install
-      - *translate
-      - *validate-checkpoint
-      - *commit
 
-  translate-japan-jp:
-    name: 14 Japan - translate JP
-    needs: translate-japan-en
-    runs-on: ubuntu-latest
-    permissions: *write-permissions
-    env:
-      CATEGORY: japan
-      LANGUAGE: jp
-      OUTPUT_PATH: code/rss_output_cluster/rss_japan_clusters_jp.json
-      COMMIT_MESSAGE: Update japan clusters jp
-
-    steps:
-      - *checkout
-      - *setup-pnpm
-      - *setup-node
-      - *install
-      - *translate
-      - *validate-checkpoint
-      - *commit
-
-  validate-all:
-    name: 15 Validate published output
-    needs: translate-japan-jp
-    runs-on: ubuntu-latest
-
-    steps:
-      - *checkout
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-
-      - name: Validate all cluster translations
-        run: node js/validate-clusters.js
+      - name: Translate all categories
+        id: translate
+        continue-on-error: true
+        run: pnpm run translate
         working-directory: ./code
+        env:
+          OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
+
+      - *commit
+
+      - name: Validate all translations
+        id: validate
+        if: ${{ !cancelled() }}
+        continue-on-error: true
+        run: pnpm run validate-clusters
+        working-directory: ./code
+
+      - name: Report translation failures
+        if: ${{ !cancelled() && (steps.translate.outcome == 'failure' || steps.validate.outcome == 'failure') }}
+        run: |
+          echo "Translation or validation failed; successful files were committed"
+          exit 1
