@@ -3,8 +3,8 @@ name: Update news
 on:
   workflow_dispatch:
   schedule:
-    # 9:00 AM JST (00:00 UTC) every day
-    - cron: '0 0 * * *'
+    # Every 6 hours at 00:00, 06:00, 12:00 and 18:00 UTC
+    - cron: '0 */6 * * *'
 
 concurrency:
   group: update-news-main
@@ -12,29 +12,38 @@ concurrency:
 
 jobs:
   fetch-rss:
+    name: 01 Fetch RSS
     runs-on: ubuntu-latest
-    permissions:
+    permissions: &write-permissions
       contents: write
-    outputs:
-      commit_sha: ${{ steps.commit.outputs.sha }}
+    env:
+      OUTPUT_PATH: code/rss_output/
+      COMMIT_MESSAGE: Update RSS feeds
 
     steps:
-      - name: Checkout repository
+      - &checkout
+        name: Checkout main
         uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 0
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '22'
-
-      - name: Setup pnpm
+      - &setup-pnpm
+        name: Setup pnpm
         uses: pnpm/action-setup@v4
         with:
           version: latest
 
-      - name: Install dependencies
+      - &setup-node
+        name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: pnpm
+          cache-dependency-path: code/pnpm-lock.yaml
+
+      - &install
+        name: Install dependencies
         run: pnpm install
         working-directory: ./code
 
@@ -46,70 +55,316 @@ jobs:
         run: pnpm run validate-feeds
         working-directory: ./code
 
-      - name: Commit RSS output
-        id: commit
+      - &commit
+        name: Commit checkpoint
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add code/rss_output/
+          git add -- "$OUTPUT_PATH"
           if ! git diff --staged --quiet; then
-            git commit -m "Update RSS feeds $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "$COMMIT_MESSAGE $(date -u +'%Y-%m-%d %H:%M UTC')"
             git pull --rebase origin main
             git push origin HEAD:main
+          else
+            echo "No changes to commit"
           fi
-          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
-  generate-news:
+  perplexity:
+    name: 02 Enrich tech with Perplexity
     needs: fetch-rss
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    permissions: *write-permissions
+    env:
+      OUTPUT_PATH: code/rss_output/rss_tech.json
+      COMMIT_MESSAGE: Update Perplexity feed
 
     steps:
-      - name: Checkout RSS commit
-        uses: actions/checkout@v4
-        with:
-          ref: ${{ needs.fetch-rss.outputs.commit_sha }}
-          fetch-depth: 0
+      - *checkout
+      - *setup-pnpm
+      - *setup-node
+      - *install
+
+      - name: Fetch Perplexity
+        run: pnpm run perplexity
+        working-directory: ./code
+
+      - name: Validate enriched RSS output
+        run: pnpm run validate-feeds
+        working-directory: ./code
+
+      - *commit
+
+  cluster-tech:
+    name: 03 Tech - cluster ES
+    needs: perplexity
+    runs-on: ubuntu-latest
+    permissions: *write-permissions
+    env:
+      CATEGORY: tech
+      LANGUAGE: es
+      OUTPUT_PATH: code/rss_output_cluster/rss_tech_clusters_es.json
+      COMMIT_MESSAGE: Update tech clusters es
+
+    steps:
+      - *checkout
+      - *setup-pnpm
+      - *setup-node
+      - *install
+
+      - &cluster
+        name: Generate Spanish clusters
+        run: pnpm run cluster -- "$CATEGORY"
+        working-directory: ./code
+        env:
+          OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
+
+      - &validate-checkpoint
+        name: Validate checkpoint
+        run: pnpm run validate-clusters -- "$CATEGORY" "$LANGUAGE"
+        working-directory: ./code
+
+      - *commit
+
+  translate-tech-en:
+    name: 04 Tech - translate EN
+    needs: cluster-tech
+    runs-on: ubuntu-latest
+    permissions: *write-permissions
+    env:
+      CATEGORY: tech
+      LANGUAGE: en
+      OUTPUT_PATH: code/rss_output_cluster/rss_tech_clusters_en.json
+      COMMIT_MESSAGE: Update tech clusters en
+
+    steps:
+      - *checkout
+      - *setup-pnpm
+      - *setup-node
+      - *install
+
+      - &translate
+        name: Translate clusters
+        run: pnpm run translate -- "$CATEGORY" "$LANGUAGE"
+        working-directory: ./code
+        env:
+          OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
+
+      - *validate-checkpoint
+      - *commit
+
+  translate-tech-jp:
+    name: 05 Tech - translate JP
+    needs: translate-tech-en
+    runs-on: ubuntu-latest
+    permissions: *write-permissions
+    env:
+      CATEGORY: tech
+      LANGUAGE: jp
+      OUTPUT_PATH: code/rss_output_cluster/rss_tech_clusters_jp.json
+      COMMIT_MESSAGE: Update tech clusters jp
+
+    steps:
+      - *checkout
+      - *setup-pnpm
+      - *setup-node
+      - *install
+      - *translate
+      - *validate-checkpoint
+      - *commit
+
+  cluster-finance:
+    name: 06 Finance - cluster ES
+    needs: translate-tech-jp
+    runs-on: ubuntu-latest
+    permissions: *write-permissions
+    env:
+      CATEGORY: finance
+      LANGUAGE: es
+      OUTPUT_PATH: code/rss_output_cluster/rss_finance_clusters_es.json
+      COMMIT_MESSAGE: Update finance clusters es
+
+    steps:
+      - *checkout
+      - *setup-pnpm
+      - *setup-node
+      - *install
+      - *cluster
+      - *validate-checkpoint
+      - *commit
+
+  translate-finance-en:
+    name: 07 Finance - translate EN
+    needs: cluster-finance
+    runs-on: ubuntu-latest
+    permissions: *write-permissions
+    env:
+      CATEGORY: finance
+      LANGUAGE: en
+      OUTPUT_PATH: code/rss_output_cluster/rss_finance_clusters_en.json
+      COMMIT_MESSAGE: Update finance clusters en
+
+    steps:
+      - *checkout
+      - *setup-pnpm
+      - *setup-node
+      - *install
+      - *translate
+      - *validate-checkpoint
+      - *commit
+
+  translate-finance-jp:
+    name: 08 Finance - translate JP
+    needs: translate-finance-en
+    runs-on: ubuntu-latest
+    permissions: *write-permissions
+    env:
+      CATEGORY: finance
+      LANGUAGE: jp
+      OUTPUT_PATH: code/rss_output_cluster/rss_finance_clusters_jp.json
+      COMMIT_MESSAGE: Update finance clusters jp
+
+    steps:
+      - *checkout
+      - *setup-pnpm
+      - *setup-node
+      - *install
+      - *translate
+      - *validate-checkpoint
+      - *commit
+
+  cluster-gaming:
+    name: 09 Gaming - cluster ES
+    needs: translate-finance-jp
+    runs-on: ubuntu-latest
+    permissions: *write-permissions
+    env:
+      CATEGORY: gaming
+      LANGUAGE: es
+      OUTPUT_PATH: code/rss_output_cluster/rss_gaming_clusters_es.json
+      COMMIT_MESSAGE: Update gaming clusters es
+
+    steps:
+      - *checkout
+      - *setup-pnpm
+      - *setup-node
+      - *install
+      - *cluster
+      - *validate-checkpoint
+      - *commit
+
+  translate-gaming-en:
+    name: 10 Gaming - translate EN
+    needs: cluster-gaming
+    runs-on: ubuntu-latest
+    permissions: *write-permissions
+    env:
+      CATEGORY: gaming
+      LANGUAGE: en
+      OUTPUT_PATH: code/rss_output_cluster/rss_gaming_clusters_en.json
+      COMMIT_MESSAGE: Update gaming clusters en
+
+    steps:
+      - *checkout
+      - *setup-pnpm
+      - *setup-node
+      - *install
+      - *translate
+      - *validate-checkpoint
+      - *commit
+
+  translate-gaming-jp:
+    name: 11 Gaming - translate JP
+    needs: translate-gaming-en
+    runs-on: ubuntu-latest
+    permissions: *write-permissions
+    env:
+      CATEGORY: gaming
+      LANGUAGE: jp
+      OUTPUT_PATH: code/rss_output_cluster/rss_gaming_clusters_jp.json
+      COMMIT_MESSAGE: Update gaming clusters jp
+
+    steps:
+      - *checkout
+      - *setup-pnpm
+      - *setup-node
+      - *install
+      - *translate
+      - *validate-checkpoint
+      - *commit
+
+  cluster-japan:
+    name: 12 Japan - cluster ES
+    needs: translate-gaming-jp
+    runs-on: ubuntu-latest
+    permissions: *write-permissions
+    env:
+      CATEGORY: japan
+      LANGUAGE: es
+      OUTPUT_PATH: code/rss_output_cluster/rss_japan_clusters_es.json
+      COMMIT_MESSAGE: Update japan clusters es
+
+    steps:
+      - *checkout
+      - *setup-pnpm
+      - *setup-node
+      - *install
+      - *cluster
+      - *validate-checkpoint
+      - *commit
+
+  translate-japan-en:
+    name: 13 Japan - translate EN
+    needs: cluster-japan
+    runs-on: ubuntu-latest
+    permissions: *write-permissions
+    env:
+      CATEGORY: japan
+      LANGUAGE: en
+      OUTPUT_PATH: code/rss_output_cluster/rss_japan_clusters_en.json
+      COMMIT_MESSAGE: Update japan clusters en
+
+    steps:
+      - *checkout
+      - *setup-pnpm
+      - *setup-node
+      - *install
+      - *translate
+      - *validate-checkpoint
+      - *commit
+
+  translate-japan-jp:
+    name: 14 Japan - translate JP
+    needs: translate-japan-en
+    runs-on: ubuntu-latest
+    permissions: *write-permissions
+    env:
+      CATEGORY: japan
+      LANGUAGE: jp
+      OUTPUT_PATH: code/rss_output_cluster/rss_japan_clusters_jp.json
+      COMMIT_MESSAGE: Update japan clusters jp
+
+    steps:
+      - *checkout
+      - *setup-pnpm
+      - *setup-node
+      - *install
+      - *translate
+      - *validate-checkpoint
+      - *commit
+
+  validate-all:
+    name: 15 Validate published output
+    needs: translate-japan-jp
+    runs-on: ubuntu-latest
+
+    steps:
+      - *checkout
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '22'
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: latest
-
-      - name: Install dependencies
-        run: pnpm install
+      - name: Validate all cluster translations
+        run: node js/validate-clusters.js
         working-directory: ./code
-
-      - name: Cluster with AI
-        run: pnpm run cluster
-        working-directory: ./code
-        env:
-          OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
-
-      - name: Translate clusters
-        run: pnpm run translate
-        working-directory: ./code
-        env:
-          OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
-
-      - name: Validate cluster translations
-        run: pnpm run validate-clusters
-        working-directory: ./code
-
-      - name: Commit cluster output
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add code/rss_output_cluster/
-          if ! git diff --staged --quiet; then
-            git commit -m "Update news clusters $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git fetch origin main
-            git rebase origin/main
-            git push origin HEAD:main
-          fi
