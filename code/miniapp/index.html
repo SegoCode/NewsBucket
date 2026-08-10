@@ -87,7 +87,7 @@
         const JMA = 'https://www.jma.go.jp/bosai/';
         const LIVE_ID = 'Anr15FA9OCI';
         const LIVE_EN_ID = 'f0lYkdA-Gtw';
-        const SECOND_LIVE_ID = 'xxoBkkxpuec';
+        const SECOND_LIVE_ID = 'HXGANE2pRrA';
         const tg = window.Telegram?.WebApp;
         const sentenceCase = s => s && s[0].toUpperCase() + s.slice(1).toLowerCase();
         // Level 1 → name only; Level 2+ → "name, Level N" / "name, レベルN" (no brackets).
@@ -186,7 +186,7 @@
         let livePlayerReady = false;
         let secondLivePlayerReady = false;
         const playerVars = {
-            autoplay: 0,
+            autoplay: 1,
             controls: 0,
             modestbranding: 1,
             rel: 0,
@@ -195,14 +195,29 @@
             enablejsapi: 1,
             origin: window.location.origin,
         };
+        const playLive = (player, videoId, volume) => {
+            player.loadVideoById(videoId);
+            player.setVolume(volume);
+            player.unMute();
+            player.playVideo();
+            setTimeout(() => {
+                if (live.hidden) return;
+                player.setVolume(volume);
+                player.unMute();
+                player.playVideo();
+            }, 500);
+            setTimeout(() => {
+                if (live.hidden || player.getPlayerState() === YT.PlayerState.PLAYING) return;
+                player.mute();
+                player.playVideo();
+            }, 1500);
+        };
         const startLivePlayers = () => {
             if (livePlayerReady) {
-                livePlayer.loadVideoById(liveEn ? LIVE_EN_ID : LIVE_ID);
-                livePlayer.setVolume(100);
+                playLive(livePlayer, liveEn ? LIVE_EN_ID : LIVE_ID, 100);
             }
             if (secondLivePlayerReady) {
-                secondLivePlayer.loadVideoById(SECOND_LIVE_ID);
-                secondLivePlayer.setVolume(50);
+                playLive(secondLivePlayer, SECOND_LIVE_ID, 50);
             }
         };
         const initLivePlayers = () => {
@@ -214,7 +229,7 @@
                     onReady: event => {
                         livePlayerReady = true;
                         event.target.setVolume(100);
-                        if (!live.hidden) startLivePlayers();
+                        if (!live.hidden) playLive(event.target, liveEn ? LIVE_EN_ID : LIVE_ID, 100);
                     },
                 },
             });
@@ -225,13 +240,14 @@
                     onReady: event => {
                         secondLivePlayerReady = true;
                         event.target.setVolume(50);
-                        if (!live.hidden) startLivePlayers();
+                        if (!live.hidden) playLive(event.target, SECOND_LIVE_ID, 50);
                     },
                 },
             });
         };
-        window.onYouTubeIframeAPIReady = initLivePlayers;
-        if (window.YT?.Player) initLivePlayers();
+        window.onYouTubeIframeAPIReady = () => {
+            if (!live.hidden) initLivePlayers();
+        };
         const setLive = on => {
             liveEn = false;
             live.hidden = !on;
@@ -250,8 +266,7 @@
         const swapLang = () => {
             liveEn = !liveEn;
             if (livePlayerReady) {
-                livePlayer.loadVideoById(liveEn ? LIVE_EN_ID : LIVE_ID);
-                livePlayer.setVolume(100);
+                playLive(livePlayer, liveEn ? LIVE_EN_ID : LIVE_ID, 100);
             }
             tg.SecondaryButton.setText(liveEn ? 'Switch to Japanese' : 'Switch to English');
         };
