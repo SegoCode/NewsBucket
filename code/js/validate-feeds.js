@@ -93,14 +93,17 @@ export const isValidFeedOutput = (output) => {
 	);
 };
 
-const validateFeedFiles = () => {
+export const validateFeedFiles = ({
+	inputDir = INPUT_DIR,
+	outputDir = OUTPUT_DIR,
+} = {}) => {
 	const expectedFiles = fs
-		.readdirSync(INPUT_DIR)
+		.readdirSync(inputDir)
 		.filter((file) => file.endsWith(".txt"))
 		.map((file) => `${path.basename(file, ".txt")}.json`)
 		.sort();
 	const outputFiles = fs
-		.readdirSync(OUTPUT_DIR)
+		.readdirSync(outputDir)
 		.filter((file) => file.endsWith(".json"))
 		.sort();
 
@@ -109,7 +112,7 @@ const validateFeedFiles = () => {
 
 	for (const file of expectedFiles) {
 		const output = JSON.parse(
-			fs.readFileSync(path.join(OUTPUT_DIR, file), "utf-8"),
+			fs.readFileSync(path.join(outputDir, file), "utf-8"),
 		);
 		if (!isValidFeedOutput(output))
 			throw new Error(`${file}: invalid RSS output`);
