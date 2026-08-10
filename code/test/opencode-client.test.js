@@ -21,6 +21,18 @@ const request = (fetchImpl, validate = () => true, onRetry = () => {}) =>
 		validate,
 		maxAttempts: 4,
 		onRetry,
+		wait: async () => {},
+	});
+
+const requestWithWait = (fetchImpl, validate, wait) =>
+	requestOpenCodeJson({
+		fetchImpl,
+		apiKey: "test-key",
+		messages: [],
+		context: "test/request",
+		validate,
+		maxAttempts: 4,
+		wait,
 	});
 
 test("sends the configured model and API key to OpenCode", async () => {
@@ -169,6 +181,23 @@ test("fails after repeated deterministic validation errors", async () => {
 
 	assert.equal(calls, 4);
 	assert.deepEqual(retries, [1, 2, 3]);
+});
+
+test("waits before the final retry", async () => {
+	let calls = 0;
+	const events = [];
+	const result = await requestWithWait(
+		async () => {
+			calls++;
+			return sseResponse([calls === 4 ? JSON.stringify(validClusters) : "[]"]);
+		},
+		(value) => Array.isArray(value) && value.length > 0,
+		(milliseconds) => events.push(`wait ${milliseconds}`),
+	);
+
+	assert.deepEqual(result, validClusters);
+	assert.equal(calls, 4);
+	assert.deepEqual(events, ["wait 60000"]);
 });
 
 test("retries HTTP failures", async () => {
