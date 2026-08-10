@@ -1,38 +1,130 @@
 [
   {
-    "title": "Claude Code implementa mensajería entre sesiones para optimizar flujos de trabajo",
-    "summary": "Anthropic permite que las sesiones de Claude Code se comuniquen entre sí y compartan contexto automáticamente.",
+    "title": "El ciberataque a Ceva Logistics expone datos de compradores de hardware de Steam",
+    "summary": "La brecha en la naviera afecta a bancos, minoristas y jugadores, y Valve advierte de posibles mensajes fraudulentos a clientes europeos.",
+    "source": [
+      "techcrunch.com",
+      "tomshardware.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Meta vuelve a los modelos de IA abiertos y critica a sus rivales 'cerrados'",
+    "summary": "Zuckerberg anuncia la liberación de su modelo más potente y planea vender capacidad de cómputo por subasta para competir con China.",
     "source": [
       "news.ycombinator.com",
-      "alternativeto.net",
-      "the-decoder.com"
+      "the-decoder.com",
+      "/r/technology"
     ],
     "count": 3
   },
   {
-    "title": "NVIDIA RTX Spark N1X supera a procesadores de AMD y Intel en pruebas de rendimiento",
-    "summary": "Los resultados filtrados en Geekbench muestran que el chip rivaliza con Apple M4 Max.",
+    "title": "El rechazo a la 'basura de IA' empieza a tener efectos reales",
+    "summary": "La presión contra el contenido automatizado de baja calidad está cambiando las estrategias de las plataformas y los hábitos de consumo.",
     "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "/r/technology",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "Amazon enfrenta oposición por proyectos de centros de datos que podrían aumentar la contaminación climática",
-    "summary": "La compañía utiliza reglas antiguas para eludir la participación comunitaria en construcción de instalaciones masivas.",
+    "title": "Los procesadores Intel Core Ultra 200 bajan a precios mínimos históricos",
+    "summary": "El Core Ultra 5 250K Plus cae a 154 dólares y el Core Ultra 7 270K Plus a 265 dólares en ofertas minoristas.",
     "source": [
-      "techcrunch.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cooler Master lanza un protector para evitar que las GPU RTX 5090 se derritan",
+    "summary": "El GPU Shield, disponible en China por 50 dólares, incluye garantía de tres años contra el derretimiento del conector 12V-2×6.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Critican a la app del tiempo de Windows 11 por consumir más de 1,2 GB de RAM y mostrar anuncios",
+    "summary": "Usuarios denuncian que la aplicación meteorológica integrada es un envoltorio web lleno de publicidad que abusa de la memoria del sistema.",
+    "source": [
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Mapas interactivos de código abierto disponibles para el eclipse solar total del 12 de agosto",
-    "summary": "Estas herramientas ofrecen información cultural y científica para observar el evento astronómico.",
+    "title": "Las prohibiciones a centros de datos de IA superan las 500 en todo Estados Unidos",
+    "summary": "Nueva York y Texas se suman al bloqueo local de nuevas instalaciones por la creciente oposición pública y política.",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
+      "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Una vulnerabilidad en GeForce NOW permite acceder al escritorio completo de Windows",
+    "summary": "Un usuario explota un intercambio de archivos en el servicio de nube para ejecutar modelos de IA locales con 48 GB de VRAM sin restricciones.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Más del 70% de los estadounidenses se opone a los centros de datos de IA y aumentan las protestas",
+    "summary": "Casi 40 personas han sido arrestadas este año en manifestaciones contra la construcción de fábricas de IA en el país.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Se filtra el código fuente de Counter-Strike: Global Offensive de 2019",
+    "summary": "Valve investiga la filtración del código de CS:GO de marzo de 2019, que podría suponer un riesgo para la seguridad del juego.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD FSR 4.1 mejora la calidad de imagen en Radeon RX 7000 a costa de hasta un 18% de rendimiento",
+    "summary": "Las pruebas muestran que el nuevo escalado reduce la velocidad de fotogramas frente a FSR 3.1 y evidencia que 8 GB de VRAM se quedan cortos para gaming.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El streaming de PS4 y PS5 llega a Steam Deck y Steam Machine con Asobi Remote Play",
+    "summary": "La función de juego en la nube de las consolas PlayStation ya está disponible en los dispositivos de Valve gracias a la aplicación Asobi.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic activa por defecto el modo automático de Claude Code",
+    "summary": "La compañía cambia la configuración de su agente de programación para que ejecute acciones automáticamente, generando debate entre los desarrolladores.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Amazon impulsa una planta de gas de 7,65 GW en Texas para alimentar centros de datos de IA",
+    "summary": "La instalación, con 35 turbinas, podría emitir 33 millones de toneladas de CO₂ al año y convertirse en la mayor fuente de contaminación de EE.UU.",
+    "source": [
+      "kite.kagi.com",
+      "/r/technology"
     ],
     "count": 2
   }
