@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>NewsBucket</title>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
     <script src="https://www.youtube.com/iframe_api"></script>
@@ -47,15 +48,14 @@
         #live {
             position: fixed;
             inset: 0;
-            display: grid;
             grid-template-rows: repeat(2, minmax(0, 1fr));
             gap: 2px;
             background: #000;
             z-index: 9999;
         }
-        #live[hidden] { display: none; }
-        .live-player { min-height: 0; background: #000; }
-        .live-player iframe { display: block; width: 100%; height: 100%; border: 0; }
+        #live:not([hidden]) { display: grid; }
+        .live-player { position: relative; min-width: 0; min-height: 0; overflow: hidden; background: #000; }
+        .live-player > iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
     </style>
 </head>
 <body>
@@ -77,8 +77,8 @@
         <div id="status">Loading…</div>
     </main>
     <div id="live" hidden>
-        <section id="liveFrame" class="live-player" aria-label="Live News"></section>
-        <section id="liveSecondFrame" class="live-player" aria-label="Second Live News"></section>
+        <section class="live-player" aria-label="Live News"><div id="liveFrame"></div></section>
+        <section class="live-player" aria-label="Second Live News"><div id="liveSecondFrame"></div></section>
     </div>
     <!-- ==================== JS ==================== -->
     <script>
@@ -183,8 +183,10 @@
         let liveEn = false;
         let livePlayer;
         let secondLivePlayer;
+        let livePlayerReady = false;
+        let secondLivePlayerReady = false;
         const playerVars = {
-            autoplay: 1,
+            autoplay: 0,
             controls: 0,
             modestbranding: 1,
             rel: 0,
@@ -193,6 +195,16 @@
             enablejsapi: 1,
             origin: window.location.origin,
         };
+        const startLivePlayers = () => {
+            if (livePlayerReady) {
+                livePlayer.loadVideoById(liveEn ? LIVE_EN_ID : LIVE_ID);
+                livePlayer.setVolume(100);
+            }
+            if (secondLivePlayerReady) {
+                secondLivePlayer.loadVideoById(SECOND_LIVE_ID);
+                secondLivePlayer.setVolume(50);
+            }
+        };
         const initLivePlayers = () => {
             if (livePlayer || !window.YT?.Player) return;
             livePlayer = new YT.Player('liveFrame', {
@@ -200,8 +212,9 @@
                 playerVars,
                 events: {
                     onReady: event => {
+                        livePlayerReady = true;
                         event.target.setVolume(100);
-                        if (!live.hidden) event.target.playVideo();
+                        if (!live.hidden) startLivePlayers();
                     },
                 },
             });
@@ -210,8 +223,9 @@
                 playerVars,
                 events: {
                     onReady: event => {
+                        secondLivePlayerReady = true;
                         event.target.setVolume(50);
-                        if (!live.hidden) event.target.playVideo();
+                        if (!live.hidden) startLivePlayers();
                     },
                 },
             });
@@ -223,13 +237,10 @@
             live.hidden = !on;
             initLivePlayers();
             if (on) {
-                livePlayer?.loadVideoById(LIVE_ID);
-                livePlayer?.setVolume(100);
-                secondLivePlayer?.loadVideoById(SECOND_LIVE_ID);
-                secondLivePlayer?.setVolume(50);
+                startLivePlayers();
             } else {
-                livePlayer?.stopVideo();
-                secondLivePlayer?.stopVideo();
+                if (livePlayerReady) livePlayer.stopVideo();
+                if (secondLivePlayerReady) secondLivePlayer.stopVideo();
             }
             tg.MainButton.setText(on ? 'Back to NewsBucket' : '🔴 Live News');
             tg.SecondaryButton?.setText('Switch to English');
@@ -238,8 +249,10 @@
         };
         const swapLang = () => {
             liveEn = !liveEn;
-            livePlayer?.loadVideoById(liveEn ? LIVE_EN_ID : LIVE_ID);
-            livePlayer?.setVolume(100);
+            if (livePlayerReady) {
+                livePlayer.loadVideoById(liveEn ? LIVE_EN_ID : LIVE_ID);
+                livePlayer.setVolume(100);
+            }
             tg.SecondaryButton.setText(liveEn ? 'Switch to Japanese' : 'Switch to English');
         };
         const syncLive = () => tg && (topic.value === 'japan' ? tg.MainButton.show() : tg.MainButton.hide());
