@@ -32,13 +32,26 @@ export const translateClusters = async ({ clusters, languages, generate }) => {
 	return translations;
 };
 
-const translateFiles = async () => {
-	const files = fs
+export const translateFiles = async ({ category, language } = {}) => {
+	if (Boolean(category) !== Boolean(language))
+		throw new Error("Category and language must be provided together");
+
+	const sourceFiles = fs
 		.readdirSync(OUTPUT_DIR)
 		.filter((file) => file.endsWith("_clusters_es.json"));
+	const files = category
+		? sourceFiles.filter((file) => file === `rss_${category}_clusters_es.json`)
+		: sourceFiles;
+	const languages = language
+		? LANGUAGES.filter(({ code }) => code === language)
+		: LANGUAGES;
+	if (category && files.length === 0)
+		throw new Error(`Unknown cluster category: ${category}`);
+	if (language && languages.length === 0)
+		throw new Error(`Unsupported translation language: ${language}`);
 
 	console.log(
-		`→ Translating ${files.length} file(s) × ${LANGUAGES.length} language(s)...`,
+		`→ Translating ${files.length} file(s) × ${languages.length} language(s)...`,
 	);
 
 	for (const file of files) {
@@ -47,7 +60,7 @@ const translateFiles = async () => {
 		);
 		const translations = await translateClusters({
 			clusters,
-			languages: LANGUAGES,
+			languages,
 			generate: async ({ code, prompt, clusters: sourceClusters }) => {
 				console.log(`→ ${file} → ${code}`);
 				if (process.env.GITHUB_ACTIONS) console.log("  Generating...");
@@ -88,5 +101,8 @@ if (
 	process.argv[1] &&
 	fileURLToPath(import.meta.url) === path.resolve(process.argv[1])
 ) {
-	await translateFiles();
+	const [category, language] = process.argv
+		.slice(2)
+		.filter((arg) => arg !== "--");
+	await translateFiles({ category, language });
 }
