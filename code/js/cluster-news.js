@@ -8,46 +8,27 @@ import { requestOpenCodeJson } from "./opencode-client.js";
 
 const INPUT_DIR = "rss_output";
 const OUTPUT_DIR = "rss_output_cluster";
-const RED_MIN = 4;
-const CARRY_SOURCE = "NewsBucket-";
 const MAX_ATTEMPTS = 4;
 
 const PROMPT = fs.readFileSync("prompts/cluster.md", "utf-8");
 
-export const prepareNewsForClustering = ({
-	items,
-	previousClusters,
-	cutoff,
-}) => {
-	// Carry degrades by real outlets only: markers never count towards the next run.
-	const carry = previousClusters.filter(
-		(c) =>
-			c?.count >= RED_MIN &&
-			Array.isArray(c.source) &&
-			c.source.some((source) => !source.startsWith(CARRY_SOURCE)),
-	);
-	const carryItems = carry.flatMap((c) =>
-		c.source
-			.filter((source) => !source.startsWith(CARRY_SOURCE))
-			.map((_, i) => ({
-				title: c.title,
-				source: `${CARRY_SOURCE}${String(i + 1).padStart(3, "0")}`,
-			})),
-	);
+export const prepareNewsForClustering = ({ items, cutoff }) =>
+	items
+		.filter((item) => new Date(item.publishedAt).getTime() >= cutoff)
+		.map((item) => ({
+			title: item.title,
+			source: item.source?.name || "?",
+		}));
 
-	const news = [
-		...items
-			.filter((i) => new Date(i.publishedAt).getTime() >= cutoff)
-			.map((i) => ({ title: i.title, source: i.source?.name || "?" })),
-		...carryItems,
-	];
-	return { news, carryClusters: carry.length, carryItems: carryItems.length };
-};
-
-const clusterFiles = async () => {
-	const files = fs
+export const clusterFiles = async ({ category } = {}) => {
+	const inputFiles = fs
 		.readdirSync(INPUT_DIR)
 		.filter((file) => file.endsWith(".json"));
+	const files = category
+		? inputFiles.filter((file) => file === `rss_${category}.json`)
+		: inputFiles;
+	if (category && files.length === 0)
+		throw new Error(`Unknown cluster category: ${category}`);
 	const cutoff = Date.now() - 24 * 60 * 60 * 1000;
 
 	console.log(`→ Clustering ${files.length} file(s)...`);
@@ -57,24 +38,20 @@ const clusterFiles = async () => {
 			OUTPUT_DIR,
 			`${path.basename(file, ".json")}_clusters_es.json`,
 		);
-		const previousClusters = fs.existsSync(outFile)
-			? JSON.parse(fs.readFileSync(outFile, "utf-8"))
-			: [];
 		const data = JSON.parse(
 			fs.readFileSync(path.join(INPUT_DIR, file), "utf-8"),
 		);
-		const prepared = prepareNewsForClustering({
+		const news = prepareNewsForClustering({
 			items: data.items,
-			previousClusters,
 			cutoff,
 		});
 		console.log(
-			`→ ${file}: ${prepared.news.length - prepared.carryItems} news + ${prepared.carryClusters} red carry clusters (${prepared.carryItems} items) (of ${data.items.length} total)`,
+			`→ ${file}: ${news.length} news (of ${data.items.length} total)`,
 		);
 		console.log("→ Sent, streaming...");
 		if (process.env.GITHUB_ACTIONS) console.log("  Generating...");
 
-		const availableSources = prepared.news.map((item) => item.source);
+		const availableSources = news.map((item) => item.source);
 		const clusters = await requestOpenCodeJson({
 			context: file,
 			maxAttempts: MAX_ATTEMPTS,
@@ -82,7 +59,7 @@ const clusterFiles = async () => {
 				{ role: "system", content: PROMPT },
 				{
 					role: "user",
-					content: `Cluster these news:\n${encode(prepared.news)}`,
+					content: `Cluster these news:\n${encode(news)}`,
 				},
 			],
 			validate: (candidate) => isValidClusters(candidate, availableSources),
@@ -106,5 +83,6 @@ if (
 	process.argv[1] &&
 	fileURLToPath(import.meta.url) === path.resolve(process.argv[1])
 ) {
-	await clusterFiles();
+	const [category] = process.argv.slice(2).filter((arg) => arg !== "--");
+	await clusterFiles({ category });
 }
