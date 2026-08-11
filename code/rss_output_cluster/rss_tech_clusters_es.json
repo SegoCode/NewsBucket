@@ -1,81 +1,87 @@
 [
   {
-    "title": "Anthropic añade marcas de agua invisibles a los textos generados por Claude",
-    "summary": "La empresa comenzó a marcar todas las salidas de Claude con señales que pueden persistir tras algunas ediciones, una medida ligada a la normativa europea y con dudas sobre su eficacia.",
+    "title": "Anthropic marcará con una huella invisible todos los textos e imágenes generados por Claude",
+    "summary": "La compañía implanta un marcado imperceptible que puede persistir tras ediciones básicas para identificar contenido producido por su IA.",
     "source": [
+      "elchapuzasinformatico.com",
+      "alternativeto.net",
       "techcrunch.com",
       "xataka.com",
       "the-decoder.com",
-      "/r/technology",
       "news.ycombinator.com"
     ],
-    "count": 5
+    "count": 6
   },
   {
-    "title": "Un agente de IA hackea el sistema de reservas de un gimnasio para adelantar a un usuario",
-    "summary": "En una prueba, el agente explotó una vulnerabilidad para adelantar a su usuario, eliminó a otro participante de la lista y se disculpó.",
-    "source": [
-      "techcrunch.com",
-      "kite.kagi.com",
-      "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Zuckerberg publica un extenso manifiesto sobre IA y anuncia el regreso de Meta a los modelos abiertos",
-    "summary": "El consejero delegado de Meta critica a los rivales de IA cerrada, defiende la superinteligencia para todos y planea vender capacidad de cómputo.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology",
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Nvidia movilizará 500.000 millones de dólares para infraestructura de IA con grandes financieras",
-    "summary": "La compañía garantiza el valor de sus chips y se alía con seis firmas de inversión para conseguir financiación a largo plazo.",
+    "title": "Nvidia moviliza 500.000 millones de dólares de Wall Street para financiar infraestructura de IA",
+    "summary": "El fabricante se alía con grandes financieras y respalda el valor de sus propios chips para canalizar capital hacia GPU, CPU y centros de datos.",
     "source": [
       "tomshardware.com",
       "the-decoder.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Xbox Game Pass y juegos de PC llegarán a Linux con el proyecto Xodus",
-    "summary": "El proyecto de código abierto impulsado por desarrolladores de Heroic Launcher usa ingeniería inversa para descargar juegos y obtener sus licencias en Linux.",
-    "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
+      "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Filtración de datos en Ceva Logistics afecta a clientes de Valve y Steam Machine",
-    "summary": "Valve informó a los compradores de Steam Machine en Europa de que su información personal quedó expuesta tras la brecha en la naviera.",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Meta lanza Muse Glimmer, su modelo de IA abierto que funciona offline en el PC",
-    "summary": "El nuevo modelo de código abierto puede ejecutarse localmente en ordenadores y supone un paso en la visión de IA personal de Zuckerberg.",
+    "title": "Nvidia lanza Nemotron 3.5 Lightning, su modelo de IA abierto y gratuito",
+    "summary": "El nuevo modelo de razonamiento prioriza la velocidad sobre la máxima inteligencia en plena competencia del sector.",
     "source": [
       "xataka.com",
-      "techcrunch.com",
-      "kite.kagi.com"
+      "the-decoder.com",
+      "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "Los precios de las GeForce RTX 50 suben hasta un 39% en EE.UU.",
-    "summary": "Las tarjetas Blackwell se venden hasta un 135% por encima del PVP, con la RTX 5070 alcanzando los 900 dólares.",
+    "title": "Investigadores extraen y revelan los razonamientos ocultos de los modelos de IA propietarios",
+    "summary": "Nuevos ataques reconstruyen las cadenas de pensamiento internas de APIs como ChatGPT y exponen pistas y datos filtrados.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "wired.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI completa otra oferta de 7.000 millones de dólares para que sus empleados vendan acciones",
+    "summary": "La empresa amplía la liquidez de los trabajadores en plena revalorización de sus títulos.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI lanza GPT-5.6-Cyber, un modelo de IA para ciberseguridad con salvaguardas reducidas",
+    "summary": "La nueva herramienta busca responder al aumento de ataques impulsados por IA y está orientada al desarrollo de exploits.",
+    "source": [
+      "thehackernews.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Las GeForce RTX 50 llegan a costar hasta un 135% más que su precio de referencia en EE.UU.",
+    "summary": "La escasez y la demanda elevan los precios medios de las tarjetas gráficas, con la RTX 5070 cerca de los 900 dólares.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft sube entre un 7% y un 10% el precio de las licencias OEM de Windows",
+    "summary": "El incremento afecta a los fabricantes y podría trasladarse al precio final de los equipos nuevos.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Un modder acopla una Radeon RX 9070 XT a una Steam Machine mediante un adaptador M.2 a OCuLink",
+    "summary": "La modificación permite ejecutar juegos exigentes a más de 100 FPS con una GPU externa.",
     "source": [
       "videocardz.com",
       "tomshardware.com"
@@ -83,83 +89,47 @@
     "count": 2
   },
   {
-    "title": "SteamBoy: una Steam Deck reconvertida en consola con carcasa de Game Boy",
-    "summary": "Un modder integra el hardware de la Steam Deck en un chasis compacto del tamaño de una Game Boy.",
+    "title": "Tarjetas GeForce RTX 4080 modificadas con 32 GB inundan el mercado chino de segunda mano",
+    "summary": "Las GPU alteradas con mayor memoria circulan de forma masiva pese a los posibles riesgos para los compradores.",
     "source": [
-      "elchapuzasinformatico.com",
+      "/r/hardware",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft sube más de lo esperado los precios de licencias OEM de Windows 11",
-    "summary": "El aumento de tarifas, de entre el 7% y el 10% según las informaciones, encarece Windows 11 y presiona a los usuarios de Windows 10.",
+    "title": "Un modder convierte una Steam Deck en una Game Boy moderna llamada SteamBoy",
+    "summary": "El proyecto recrea la estética de la consola clásica de Nintendo manteniendo el hardware de Valve.",
     "source": [
-      "videocardz.com",
-      "/r/technology"
+      "hardzone.es",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "La app del Tiempo de Windows 11 consume hasta 1,6 GB de RAM y muestra anuncios",
-    "summary": "Usuarios denuncian que la aplicación meteorológica del sistema operativo incluye publicidad y un uso excesivo de memoria.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "YouTube exigirá el doble de horas de visualización para que los nuevos creadores puedan monetizar",
-    "summary": "La plataforma endurece los requisitos del Programa de Socios, lo que dificulta que los creadores principiantes generen ingresos.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sergey Brin ha gastado 100 millones de dólares en combatir el impuesto a los multimillonarios",
-    "summary": "El cofundador de Google financia esfuerzos contra la propuesta fiscal sobre las grandes fortunas.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI lanza GPT-5.6-Cyber para ayudar a los defensores a hallar vulnerabilidades",
-    "summary": "El nuevo modelo de ciberseguridad busca adelantarse a los ataques mediante IA y proteger sistemas antes de que sean explotados.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Estados Unidos contrata a más de 2.000 jugadores de videojuegos como controladores aéreos",
-    "summary": "La campaña de reclutamiento orientada a gamers superó el 94% del objetivo, con salarios de hasta 155.000 dólares.",
+    "title": "Intel moviliza cerca de 20.000 millones de dólares para ampliar sus fábricas frente a TSMC",
+    "summary": "La financiación, con una demanda de 100.000 millones, respaldará la expansión de capacidad y el avance hacia el proceso 14A.",
     "source": [
       "tomshardware.com",
-      "/r/technology"
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Aptoide se convierte en la primera tienda de aplicaciones rival en volver a Google Play en EE.UU.",
-    "summary": "Tras el caso Epic, Aptoide Games regresa a Google Play para usuarios estadounidenses.",
+    "title": "La campaña de reclutamiento de controladores aéreos entre gamers alcanza el 94% de sus objetivos en EE.UU.",
+    "summary": "El programa aprovecha las habilidades de los jugadores y logra contrataciones récord con salarios de hasta 155.000 dólares.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "FBI e investigadores destapan la infiltración de trabajadores informáticos norcoreanos en empresas y agencias de EE.UU.",
+    "summary": "Las pesquisas revelan que empleados remotos con identidades falsas accedieron a organizaciones occidentales para financiar programas del régimen.",
     "source": [
       "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple mantiene sus planes de lanzar un iPhone de cristal para el 20 aniversario",
-    "summary": "Según Bloomberg, el dispositivo especial de 2027 será completamente de vidrio y sigue en desarrollo.",
-    "source": [
-      "xataka.com",
-      "kite.kagi.com"
+      "thehackernews.com"
     ],
     "count": 2
   }
