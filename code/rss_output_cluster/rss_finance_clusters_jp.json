@@ -1,83 +1,54 @@
 [
   {
-    "title": "Nvidiaと大手銀行、AIインフラ向け5000億ドルのプログラムを創設",
-    "summary": "この提携は、人工知能データセンター建設のための外部資金を呼び込むことになる。",
+    "title": "米国とイランの緊張が市場を緊迫させ、原油と金を押し上げる",
+    "summary": "外交的な駆け引きが進展しないことで原油や貴金属が急騰し、米国のインフレ統計を待つ中、株式市場はまちまちの展開となっている。",
+    "source": [
+      "investing.com",
+      "finance.yahoo.com",
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "欧州株式市場でIbexは最高値圏に迫り、Daxは横ばいで終了",
+    "summary": "マドリードでは銀行株、Amadeus、Repsolが上昇を主導し、フランクフルトは変わらず。投資家は週のリスクを考慮している。",
+    "source": [
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SanDiskはウォール街を二分、トレーダーは1,200ドルを底値と見る",
+    "summary": "アナリストは目標株価を巡って意見が一致しないが、一部の投資家はCitadelが1,200ドルの水準を支えているとみている。",
     "source": [
       "nasdaq.com",
-      "nikkei.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "銅が歴史的最高値を更新、チリが国営鉱山会社を救済",
-    "summary": "金属の高騰が鉱山各社を後押しし、サンティアゴはコデルコに異例の救済措置を講じる。",
-    "source": [
-      "expansion.com",
-      "investing.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "原油がイランとの緊張で反発、アジア株に重し",
-    "summary": "外交的膠着状態を受け原油は82ドルを突破、インド株はホルムズ海峡への懸念で下落。",
-    "source": [
-      "handelsblatt.com",
-      "investing.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "アジア株はテクノロジー主導で上昇、シンガポールは最高値を更新",
-    "summary": "AI需要、シンガポールのGDP改善、金利懸念の緩和が地域市場を活気づけている。",
-    "source": [
-      "investing.com",
-      "handelsblatt.com",
-      "nikkei.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ウォール街はほぼ横ばいで終了、ダウは原油で60ポイント下落",
-    "summary": "米国株式市場はインフレ指標を待つ一方、原油が債券と一部ハイテク株を圧迫している。",
-    "source": [
-      "handelsblatt.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "円は1ドル159円に下落、日本の介入効果が薄れる",
-    "summary": "米国金利の上昇と協調支援の失効により、円は回復分の一部を失っている。",
-    "source": [
-      "ft.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "インテル、AIチップ向けに150億ドルの増資を発表",
-    "summary": "株式発行により、同社の人工知能用半導体への投資を賄う。",
-    "source": [
-      "nikkei.com",
       "/r/stocks"
     ],
     "count": 2
   },
   {
-    "title": "バークシャー株が最高値圏、新CEOグレッグ・アベルが違いを見せる",
-    "summary": "投資家は、アベル氏がついに複合企業の巨額の現金準備を動かしたことを歓迎している。",
+    "title": "原子力セクターが新たな賭けを引き寄せる一方、NuScaleには疑問符",
+    "summary": "Macquarieはセクターの見直しで原子力関連3銘柄を組み入れ、ある投資家はNuScaleを買わない理由を説明する。",
     "source": [
-      "nikkei.com",
-      "handelsblatt.com"
+      "investing.com",
+      "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "レボリュート、新規ライセンスで欧州の銀行事業を拡大",
-    "summary": "このフィンテック企業はより多くの国で認可を取得し、ドイツとフランス市場での成長に備えている。",
+    "title": "ビットコインは6万5,000ドル台を維持、Strategyは含み損を拡大",
+    "summary": "暗号資産は再び6万5,000ドルを上回ったが、Michael Saylorの平均取得価格7万5,482ドルの投資は約100億ドルの損失に達している。",
+    "source": [
+      "nasdaq.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ドイツと英国、暗号資産への規制包囲網を強化",
+    "summary": "ドイツは税番号を提供しない場合に最大5万ユーロの罰金を科し、英国の議員らは銀行が暗号資産企業を妨げていると非難している。",
     "source": [
       "handelsblatt.com",
       "ft.com"
@@ -85,11 +56,11 @@
     "count": 2
   },
   {
-    "title": "金と銀が上昇、アナリストはさらなる値上がり余地を指摘",
-    "summary": "金は6月以来の高値で寄り付き、地政学要因と金利要因が上昇相場を長期化させる可能性がある。",
+    "title": "銅が記録を更新、チリは国営鉱山会社に猶予を与える",
+    "summary": "金属の高騰は、チリ政府による国営鉱山会社への前例のない救済措置と重なる。",
     "source": [
-      "finance.yahoo.com",
-      "expansion.com"
+      "expansion.com",
+      "ft.com"
     ],
     "count": 2
   }
