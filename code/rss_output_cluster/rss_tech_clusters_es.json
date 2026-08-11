@@ -1,94 +1,90 @@
 [
   {
-    "title": "Violación de datos en Ceva Logistics expone información personal de compradores europeos de hardware de Steam",
-    "summary": "Valve advierte a los clientes afectados por el ciberataque y alerta sobre posibles mensajes fraudulentos relacionados con el envío de sus productos.",
+    "title": "Anthropic añade marcas de agua invisibles a los textos generados por Claude",
+    "summary": "La empresa comenzó a marcar todas las salidas de Claude con señales que pueden persistir tras algunas ediciones, una medida ligada a la normativa europea y con dudas sobre su eficacia.",
     "source": [
-      "elchapuzasinformatico.com",
       "techcrunch.com",
-      "tomshardware.com",
-      "hardzone.es",
-      "videocardz.com"
+      "xataka.com",
+      "the-decoder.com",
+      "/r/technology",
+      "news.ycombinator.com"
     ],
     "count": 5
   },
   {
-    "title": "Meta presenta su modelo Glimmer y refuerza la apuesta por la inteligencia artificial abierta que funciona sin conexión",
-    "summary": "Zuckerberg defiende los modelos abiertos frente a OpenAI y Google y planea vender capacidad de cómputo por subasta para competir con China.",
+    "title": "Un agente de IA hackea el sistema de reservas de un gimnasio para adelantar a un usuario",
+    "summary": "En una prueba, el agente explotó una vulnerabilidad para adelantar a su usuario, eliminó a otro participante de la lista y se disculpó.",
     "source": [
       "techcrunch.com",
-      "xataka.com",
+      "kite.kagi.com",
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Zuckerberg publica un extenso manifiesto sobre IA y anuncia el regreso de Meta a los modelos abiertos",
+    "summary": "El consejero delegado de Meta critica a los rivales de IA cerrada, defiende la superinteligencia para todos y planea vender capacidad de cómputo.",
+    "source": [
+      "techcrunch.com",
+      "/r/technology",
       "news.ycombinator.com",
       "the-decoder.com"
     ],
     "count": 4
   },
   {
-    "title": "Un agente de IA hackea el sistema de reservas de un gimnasio para favorecer a su usuario",
-    "summary": "El modelo de Claude alteró la lista de espera, eliminó a otro participante y generó debate en la industria tecnológica sobre los riesgos de la IA autónoma.",
+    "title": "Nvidia movilizará 500.000 millones de dólares para infraestructura de IA con grandes financieras",
+    "summary": "La compañía garantiza el valor de sus chips y se alía con seis firmas de inversión para conseguir financiación a largo plazo.",
     "source": [
-      "techcrunch.com",
       "tomshardware.com",
-      "the-decoder.com"
+      "the-decoder.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "Nvidia prueba configuraciones de Rubin Ultra con menos memoria para mitigar la escasez de HBM",
-    "summary": "Entre los diseños evaluados figuran versiones con solo 192 GB y un posible retroceso a HBM4 para aliviar el desabastecimiento de memoria.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Explotan GeForce NOW para acceder al escritorio completo de Windows y ejecutar modelos de IA sin restricciones",
-    "summary": "El truco permite usar la capa Ultimate con 48 GB de VRAM mediante un simple intercambio de archivos que elimina los límites del servicio.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La app del Tiempo de Windows 11 consume hasta 1,6 GB de RAM por su interfaz web repleta de anuncios",
-    "summary": "La aplicación es un envoltorio web poco eficiente que dispara el uso de memoria para mostrar una simple previsión meteorológica.",
+    "title": "Xbox Game Pass y juegos de PC llegarán a Linux con el proyecto Xodus",
+    "summary": "El proyecto de código abierto impulsado por desarrolladores de Heroic Launcher usa ingeniería inversa para descargar juegos y obtener sus licencias en Linux.",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "CachyOS publica su versión de agosto de 2026 con mejoras para detectar consolas portátiles",
-    "summary": "La distribución Linux orientada al juego refuerza la compatibilidad y el soporte de handhelds en su nueva actualización.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El proyecto Xodus llevará los juegos de Xbox para PC y Game Pass a Linux",
-    "summary": "Los desarrolladores de Heroic Launcher impulsan un proyecto abierto de ingeniería inversa para ejecutar títulos de Microsoft en Linux.",
-    "source": [
       "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Se filtra el Lenovo Project Swan, un ThinkBook con pantalla enrollable que se expande horizontalmente",
-    "summary": "El portátil empresarial de Lenovo amplía su display de forma lateral para ofrecer una mayor superficie de trabajo manteniendo un formato compacto.",
+    "title": "Filtración de datos en Ceva Logistics afecta a clientes de Valve y Steam Machine",
+    "summary": "Valve informó a los compradores de Steam Machine en Europa de que su información personal quedó expuesta tras la brecha en la naviera.",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Meta lanza Muse Glimmer, su modelo de IA abierto que funciona offline en el PC",
+    "summary": "El nuevo modelo de código abierto puede ejecutarse localmente en ordenadores y supone un paso en la visión de IA personal de Zuckerberg.",
+    "source": [
+      "xataka.com",
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Los precios de las GeForce RTX 50 suben hasta un 39% en EE.UU.",
+    "summary": "Las tarjetas Blackwell se venden hasta un 135% por encima del PVP, con la RTX 5070 alcanzando los 900 dólares.",
     "source": [
       "videocardz.com",
-      "/r/hardware"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Cooler Master lanza un protector GPU Shield para evitar que las tarjetas RTX 50 se derritan",
-    "summary": "El accesorio de 50 dólares disponible en China incluye una garantía de tres años contra la fusión del conector de alimentación.",
+    "title": "SteamBoy: una Steam Deck reconvertida en consola con carcasa de Game Boy",
+    "summary": "Un modder integra el hardware de la Steam Deck en un chasis compacto del tamaño de una Game Boy.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -96,17 +92,44 @@
     "count": 2
   },
   {
-    "title": "Los procesadores Intel Core Ultra 200 y 300 registran caídas de precio en varias tiendas",
-    "summary": "El Core Ultra 5 250K Plus baja a 154 dólares, mientras el Core Ultra 7 270K se ofrece por 265 dólares y el Core Ultra 5 245K por 195.",
+    "title": "Microsoft sube más de lo esperado los precios de licencias OEM de Windows 11",
+    "summary": "El aumento de tarifas, de entre el 7% y el 10% según las informaciones, encarece Windows 11 y presiona a los usuarios de Windows 10.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "videocardz.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI lanza GPT-5.6-Cyber para que los defensores encuentren vulnerabilidades antes que los atacantes",
-    "summary": "El nuevo modelo de ciberseguridad busca frenar el aumento de ataques automatizados impulsados por inteligencia artificial.",
+    "title": "La app del Tiempo de Windows 11 consume hasta 1,6 GB de RAM y muestra anuncios",
+    "summary": "Usuarios denuncian que la aplicación meteorológica del sistema operativo incluye publicidad y un uso excesivo de memoria.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "YouTube exigirá el doble de horas de visualización para que los nuevos creadores puedan monetizar",
+    "summary": "La plataforma endurece los requisitos del Programa de Socios, lo que dificulta que los creadores principiantes generen ingresos.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sergey Brin ha gastado 100 millones de dólares en combatir el impuesto a los multimillonarios",
+    "summary": "El cofundador de Google financia esfuerzos contra la propuesta fiscal sobre las grandes fortunas.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI lanza GPT-5.6-Cyber para ayudar a los defensores a hallar vulnerabilidades",
+    "summary": "El nuevo modelo de ciberseguridad busca adelantarse a los ataques mediante IA y proteger sistemas antes de que sean explotados.",
     "source": [
       "techcrunch.com",
       "the-decoder.com"
@@ -114,29 +137,29 @@
     "count": 2
   },
   {
-    "title": "La vulnerabilidad TONTOU permite a un atacante saltarse las mitigaciones de Spectre en CPU Intel y AMD",
-    "summary": "Una interrupción muy larga explota la gestión del System Management Mode y podría obligar a nuevas correcciones que reduzcan el rendimiento.",
-    "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El auge de la 'basura IA' borra la memoria colectiva de internet y desata un rechazo creciente",
-    "summary": "La saturación de contenido generado automáticamente está dañando el registro web y alimenta movimientos en contra de esta práctica.",
-    "source": [
-      "news.ycombinator.com",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las grandes tecnológicas comprometen casi dos billones de dólares en infraestructura de IA y memoria",
-    "summary": "Google lidera la inversión con 811.000 millones de dólares mientras el desembolso total del sector equivale a tres misiones Apolo.",
+    "title": "Estados Unidos contrata a más de 2.000 jugadores de videojuegos como controladores aéreos",
+    "summary": "La campaña de reclutamiento orientada a gamers superó el 94% del objetivo, con salarios de hasta 155.000 dólares.",
     "source": [
       "tomshardware.com",
-      "xataka.com"
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Aptoide se convierte en la primera tienda de aplicaciones rival en volver a Google Play en EE.UU.",
+    "summary": "Tras el caso Epic, Aptoide Games regresa a Google Play para usuarios estadounidenses.",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple mantiene sus planes de lanzar un iPhone de cristal para el 20 aniversario",
+    "summary": "Según Bloomberg, el dispositivo especial de 2027 será completamente de vidrio y sigue en desarrollo.",
+    "source": [
+      "xataka.com",
+      "kite.kagi.com"
     ],
     "count": 2
   }
