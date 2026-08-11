@@ -1,7 +1,7 @@
 [
   {
-    "title": "Valve、物流パートナーへのサイバー攻撃でSteam MachineとSteam Controllerの購入者に警告",
-    "summary": "欧州のユーザーの個人情報が流出した可能性があり、同社は詐欺メッセージの可能性について警告している。",
+    "title": "Valve、サイバー攻撃後のデータ漏洩の可能性をSteam MachineとSteam Controllerの購入者に警告",
+    "summary": "物流パートナーであるCEVA Logisticsへの攻撃により、Steamハードウェアの欧州ユーザーの個人情報が流出した可能性があり、同社は不審なメッセージに注意するよう求めている。",
     "source": [
       "gamesindustry.biz",
       "pcgamer.com",
@@ -12,19 +12,19 @@
     "count": 5
   },
   {
-    "title": "Battlefield 6のプレイヤーがモード削除により470時間プレイ後にSteamで返金を獲得",
-    "summary": "スタジオがファンに人気のモードを削除し、復活の最善策を模索すると約束した後、Valveは返金を受け付けた。",
+    "title": "Big Walkが100万本を突破、Untitled Goose Gameを超える大ヒットに",
+    "summary": "House Houseの協力プレイゲームが1週間足らずで売上マイルストーンを達成し、業界を驚かせている。",
     "source": [
-      "kotaku.com",
       "pcgamer.com",
-      "3djuegos.com",
-      "gamespot.com"
+      "nintendolife.com",
+      "kotaku.com",
+      "gematsu.com"
     ],
     "count": 4
   },
   {
-    "title": "Marvel Tōkon PC版の最初のパッチがパフォーマンスを改善し、問題修正を約束",
-    "summary": "アークシステムワークスは解決策に取り組む一方、Steamプレイヤーは性能の悪さから独自の対策に頼っている。",
+    "title": "Marvel Tōkon、PC版に初のパッチが配信され、深刻なパフォーマンス問題を修正",
+    "summary": "Arc System Worksは、フレームレート低下や技術的な不具合が発生していたSteam版の修正を開始。プレイヤーはさらなる修正を期待している。",
     "source": [
       "kotaku.com",
       "polygon.com",
@@ -34,19 +34,30 @@
     "count": 4
   },
   {
-    "title": "No Man's Skyが10周年を迎え、ショーン・マレーが進化と未来を振り返る",
-    "summary": "ゲームは新要素で周年を祝う一方、ファンは惑星の1%しか探索していない。",
+    "title": "『Aliens: Fireteam Elite』のクラウド版がNintendo Switchから消え、プレイ不能に",
+    "summary": "ゲームを購入した人々は明確な返金なしにアクセスを失い、デジタルゲームの将来をめぐる議論が再燃している。",
     "source": [
-      "3djuegos.com",
       "nintendolife.com",
-      "eurogamer.net",
-      "pcgamer.com"
+      "kotaku.com",
+      "3djuegos.com",
+      "gamespot.com"
     ],
     "count": 4
   },
   {
-    "title": "アサシン クリードの生みの親による『1666: Amsterdam』が8月25日に早期アクセス開始",
-    "summary": "ウィッチゲームはアイデアに対して好意的な印象を受ける一方、発売日が近いことが懸念されている。",
+    "title": "モード削除によりBattlefield 6で470時間プレイしたプレイヤーがSteamで返金に成功",
+    "summary": "Valveは人気モードが削除された後、109ドルの返金を認めた。開発者は復活方法を模索している。",
+    "source": [
+      "kotaku.com",
+      "pcgamer.com",
+      "3djuegos.com",
+      "gamespot.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "『アサシン クリード』生みの親の魔女ゲーム『1666: Amsterdam』、8月25日に早期アクセスへ",
+    "summary": "初期の感想は、野心的なセミオープンワールドと独創的なアイデアを評価する一方、まだ磨き上げが必要だと指摘している。",
     "source": [
       "3djuegos.com",
       "pcgamer.com",
@@ -56,8 +67,19 @@
     "count": 4
   },
   {
-    "title": "『Halloween: The Game』が薬物使用の描写によりオーストラリアとニュージーランドで禁止に",
-    "summary": "薬物使用を助長するとしてレーティングが拒否される一方、極端な暴力は許可されている。",
+    "title": "『No Man's Sky』10周年を新たなサプライズと有望な未来で祝う",
+    "summary": "ショーン・マレーがゲームの進化を振り返り、Hello Gamesは冒険が続くと宣言。プレイヤーが探索したのは惑星のわずか1%に過ぎない。",
+    "source": [
+      "3djuegos.com",
+      "nintendolife.com",
+      "eurogamer.net",
+      "pcgamer.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "『Halloween: The Game』、薬物使用の描写でオーストラリアとニュージーランドで禁止に",
+    "summary": "この決定は、露骨な暴力と比較した薬物描写による検閲の議論を再燃させ、GTA 6の一部ファンは同様の制限を懸念している。",
     "source": [
       "pcgamer.com",
       "gamesindustry.biz",
@@ -66,18 +88,38 @@
     "count": 3
   },
   {
-    "title": "Switch向けAlienゲームが消え、購入者がプレイできなくなる",
-    "summary": "購入者はデジタル版へのアクセスを失い、パッケージ版の重要性に関する議論が再燃する。",
+    "title": "流出メールによると、BlizzardはXboxスタジオの中で最高の業績を誇る",
+    "summary": "『Diablo 4』と『Overwatch』の成功により、BlizzardはMicrosoftのスタジオ群の中で最強の企業となっている。",
     "source": [
-      "kotaku.com",
-      "3djuegos.com",
-      "gamespot.com"
+      "gamespot.com",
+      "gamesindustry.biz",
+      "eurogamer.net"
     ],
     "count": 3
   },
   {
-    "title": "『Art of Rally』開発者によるオフロードゲーム『Over the Hill』が10月14日に発売",
-    "summary": "PC版は10月、PS5、Xbox Series、Switch 2版は2027年に発売予定。",
+    "title": "『The Division Resurgence』Steamで配信開始、マイクロトランザクションとUIの悪さに厳しい批判",
+    "summary": "モバイル向けに作られたThe Divisionの無料スピンオフは、そのビジネスモデルと使い勝手の悪さでPCプレイヤーを困惑させている。",
+    "source": [
+      "kotaku.com",
+      "eurogamer.net",
+      "3djuegos.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "『Marvel's Spider-Man 2』の「Brand New Day」が売上を押し上げ、スパイダーマン5への道を開く",
+    "summary": "『Marvel's Spider-Man 2』の新コンテンツは商業的に顕著な後押しとなり、ソニーは次の作品を既に考えているが、すぐには実現しない見込み。",
+    "source": [
+      "kotaku.com",
+      "gamespot.com",
+      "3djuegos.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "『Art of Rally』開発者のオフロードゲーム『Over the Hill』、10月14日に発売へ",
+    "summary": "Steamで100万以上のウィッシュリストを獲得した本作は、まずPCでリリースされ、2027年にコンソール版が登場する。",
     "source": [
       "pcgamer.com",
       "gematsu.com",
@@ -86,58 +128,17 @@
     "count": 3
   },
   {
-    "title": "流出メールによると、BlizzardはXboxスタジオの中で最も好調",
-    "summary": "Diablo 4とOverwatchが、2026会計年度のMicrosoft内でのBlizzardの業績を牽引している。",
+    "title": "Take-Two、GTA 6の新詳細を発表：予約数は非公表、オンラインモードは時間がかかり、プロモーションにはNetflixも参加",
+    "summary": "Take-TwoのCEOは、誤解を避けるために予約注文数を非公開にすることを擁護し、マルチプレイヤーはまだ待つ必要があり、Rockstarは新しい方法を模索していると述べた。",
     "source": [
       "gamespot.com",
-      "gamesindustry.biz",
       "eurogamer.net"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Take-Two CEOがGTA 6について語る：予約、ディスク、オンライン、Netflix",
-    "summary": "同幹部は予約数の公表はしないとし、オンラインモードには時間がかかり、Netflixとの協業は新しいことに挑戦する一環だと述べた。",
-    "source": [
-      "gamespot.com",
-      "eurogamer.net",
-      "3djuegos.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "『The Division Resurgence』がSteamに登場、マイクロトランザクションとUIに厳しい批判",
-    "summary": "Ubisoftの無料スピンオフはプレイヤーを混乱させ、否定的な評価が積み重なっている。",
-    "source": [
-      "kotaku.com",
-      "eurogamer.net",
-      "3djuegos.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Xbox、オーストラリアでR18+ゲームに年齢確認を義務化",
-    "summary": "この措置は8月末にコンソールとPCで適用され、既に購入済みのゲームには影響しない。",
-    "source": [
-      "gamesindustry.biz",
-      "eurogamer.net",
-      "pcgamer.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "『Spider-Man: Brand New Day』がMarvel's Spider-Man 2の売上を押し上げ、続編を準備",
-    "summary": "新コンテンツがフランチャイズを活性化し、Sonyはすでに次のステップを考えている。",
-    "source": [
-      "kotaku.com",
-      "gamespot.com",
-      "3djuegos.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "id Softwareの開発者らがMicrosoftと業界の大規模解雇を批判",
-    "summary": "Xboxは芸術もゲームも理解しておらず、人員削減は業界を弱体化させると述べている。",
+    "title": "id Softwareの開発者がMicrosoftの解雇と「アートを理解していない」ことを批判",
+    "summary": "この発言は、大規模な人員削減と企業の感性の欠如が業界とゲームへの配慮を弱めていると主張している。",
     "source": [
       "pcgamer.com",
       "eurogamer.net"
@@ -145,17 +146,8 @@
     "count": 2
   },
   {
-    "title": "AtlusはPersona 1と2のリメイクは避けられないと考えている",
-    "summary": "シリーズ責任者は、遅かれ早かれ最も忘れられた作品に取り組まざるを得ないと述べた。",
-    "source": [
-      "kotaku.com",
-      "pcgamer.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ショーン・マレー氏、『Light No Fire』は進行中でNo Man's Skyのようになると語る",
-    "summary": "Hello Gamesの創業者は発表を変えた理由を説明し、発売から10年後もゲームの開発を続ける計画だと述べた。",
+    "title": "Sean Murray氏、『Light No Fire』はかなり進行しており長期的なサポートを受けると予告",
+    "summary": "『No Man's Sky』の生みの親が、より大きな発表について考えを変えた理由と、Hello Gamesの次回作に期待すべきことを説明。",
     "source": [
       "pcgamer.com",
       "eurogamer.net"
@@ -163,8 +155,17 @@
     "count": 2
   },
   {
-    "title": "50 Centが『Payday』を基にしたテレビシリーズをプロデュース",
-    "summary": "ラッパーで俳優の50 Centが、映像化プロジェクトにエグゼクティブプロデューサーとして参加する。",
+    "title": "Overwatchがバトルパスを改訂、過去のパスを恒久的に復活",
+    "summary": "プレイヤーは不要なスキンを交換したり、来月から過去のシーズンの報酬にアクセスできるようになる。",
+    "source": [
+      "gamespot.com",
+      "pcgamer.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "50 CentがPaydayのテレビまたは映画プロジェクトをプロデュースへ",
+    "summary": "ラッパーの50 Centが、強盗フランチャイズの映像化にエグゼクティブプロデューサーとして参加する。",
     "source": [
       "pcgamer.com",
       "kotaku.com"
@@ -172,35 +173,8 @@
     "count": 2
   },
   {
-    "title": "『Big Walk』が発売1週間足らずで販売本数100万本を突破",
-    "summary": "絶賛されたインディーゲームが即座に商業的成功を収めた。",
-    "source": [
-      "kotaku.com",
-      "gematsu.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GameStop、初期の拒否にもかかわらずeBay買収を検討、560億ドル規模",
-    "summary": "ライアン・コーエン氏は、同社が売りに出されておらず資金調達もないにもかかわらず、この取引を主張している。",
-    "source": [
-      "gamespot.com",
-      "kotaku.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "『Overwatch』が旧バトルパスを復活、スキンの交換も可能に",
-    "summary": "Blizzardは過去のパスの恒久的な復活と、不要なコスメティックを交換するシステムを発表した。",
-    "source": [
-      "gamespot.com",
-      "pcgamer.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Square Enix、会計年度初めに利益88%増を報告",
-    "summary": "好調な業績は同社とFinal Fantasy XIVに一息つかせるものとなった。",
+    "title": "スクウェア・エニックス、会計年度初頭に利益88%増を記録",
+    "summary": "堅調な財務結果により『ファイナルファンタジーXIV』への依存度が軽減され、同社にとって好調な時期を示している。",
     "source": [
       "pcgamer.com",
       "nintendolife.com"
@@ -208,11 +182,38 @@
     "count": 2
   },
   {
-    "title": "Bethesda、Switch 2版『Oblivion』はリメイクではなくリマスターと明言",
-    "summary": "BethesdaはSwitch 2版がリマスターであると説明し、このゲームは日本の今週の発売予定に含まれている。",
+    "title": "Persona責任者、『ペルソナ1』『ペルソナ2』のリメイクは「やらなければならない」と語る",
+    "summary": "同幹部は、シリーズ初期作品が最も忘れられていることを認め、将来的にリメイクしたいと述べている。",
     "source": [
-      "nintendolife.com",
-      "gematsu.com"
+      "kotaku.com",
+      "pcgamer.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ファングループが『Metroid Prime』の完全な2Dデメイクを制作",
+    "summary": "3年間密かに開発されたこのプロジェクトは、クラシックな美観で冒険を再解釈しており、すでにプレイ可能だ。",
+    "source": [
+      "pcgamer.com",
+      "nintendolife.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xbox、8月末からオーストラリアで18禁ゲームに年齢確認を必須化",
+    "summary": "この新しい措置はコンソールとPCの両方で適用され、ユーザーがすでに所有しているゲームには影響しない。",
+    "source": [
+      "gamesindustry.biz",
+      "eurogamer.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GameStopとRyan Cohen氏、売却予定のない企業の買収を見送る可能性を検討",
+    "summary": "eBayの拒否と資金不足により、GameStopは560億ドルの買収を再検討している。",
+    "source": [
+      "gamespot.com",
+      "kotaku.com"
     ],
     "count": 2
   }
