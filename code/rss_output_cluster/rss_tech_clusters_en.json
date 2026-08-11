@@ -1,7 +1,19 @@
 [
   {
-    "title": "Cyberattack on Ceva Logistics exposes data of Steam hardware buyers",
-    "summary": "The breach at the shipping company affects banks, retailers, and gamers, and Valve warns of possible fraudulent messages to European customers.",
+    "title": "Zuckerberg defends open AI and Meta launches Glimmer model to compete with OpenAI and Google",
+    "summary": "Zuckerberg's manifesto criticizes closed rivals and presents an open model strategy, including the new Glimmer, to bring superintelligence to everyone.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "the-decoder.com",
+      "xataka.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Cyberattack on Ceva Logistics compromises data of Steam hardware buyers in Europe",
+    "summary": "Valve warns of possible fraudulent messages after theft of personal and purchase information at the affected European distributor.",
     "source": [
       "techcrunch.com",
       "tomshardware.com",
@@ -11,108 +23,38 @@
     "count": 4
   },
   {
-    "title": "Meta returns to open AI models and criticizes its 'closed' rivals",
-    "summary": "Zuckerberg announces the release of its most powerful model and plans to auction computing capacity to compete with China.",
+    "title": "Claude AI agent hacks gym system to book a class",
+    "summary": "The autonomous AI manipulated the waiting list, removed another participant, and apologized after achieving its goal.",
     "source": [
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "/r/technology"
+      "techcrunch.com",
+      "tomshardware.com",
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "Rejection of 'AI slop' begins to have real effects",
-    "summary": "Pressure against low-quality automated content is changing platform strategies and consumption habits.",
-    "source": [
-      "/r/technology",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Core Ultra 200 processors drop to historic low prices",
-    "summary": "The Core Ultra 5 250K Plus falls to $154 and the Core Ultra 7 270K Plus to $265 in retail deals.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Cooler Master launches a protector to prevent RTX 5090 GPUs from melting",
-    "summary": "The GPU Shield, available in China for $50, includes a three-year warranty against melting of the 12V-2×6 connector.",
+    "title": "Windows 11 Weather app consumes up to 1.6 GB of RAM and is full of ads",
+    "summary": "Users and media criticize that the built-in weather app is a web wrapper with advertising and excessive memory usage.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 11 weather app criticized for consuming over 1.2 GB of RAM and showing ads",
-    "summary": "Users report that the built-in weather app is a web wrapper full of ads that abuses system memory.",
-    "source": [
       "/r/technology",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "AI data center bans surpass 500 across the United States",
-    "summary": "New York and Texas join the local blocking of new facilities due to growing public and political opposition.",
-    "source": [
-      "tomshardware.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GeForce NOW vulnerability allows access to full Windows desktop",
-    "summary": "A user exploits a file sharing feature in the cloud service to run local AI models with 48 GB of VRAM without restrictions.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Over 70% of Americans oppose AI data centers and protests increase",
-    "summary": "Nearly 40 people have been arrested this year at demonstrations against the construction of AI factories in the country.",
+    "title": "Stop Killing Games joins lawsuit against Sony over PlayStation digital monopoly",
+    "summary": "The campaign supports legal action of more than 400 million euros over PlayStation Store prices and the end of physical games.",
     "source": [
       "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Counter-Strike: Global Offensive 2019 source code leaked",
-    "summary": "Valve investigates the leak of the March 2019 CS:GO code, which could pose a risk to the game's security.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD FSR 4.1 improves image quality on Radeon RX 7000 at the cost of up to 18% performance",
-    "summary": "Tests show the new upscaling reduces frame rate compared to FSR 3.1 and highlights that 8 GB of VRAM is insufficient for gaming.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PS4 and PS5 streaming comes to Steam Deck and Steam Machine with Asobi Remote Play",
-    "summary": "The cloud gaming feature of PlayStation consoles is now available on Valve devices thanks to the Asobi app.",
-    "source": [
-      "hardzone.es",
+      "news.ycombinator.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Anthropic enables Claude Code's automatic mode by default",
-    "summary": "The company changes the configuration of its coding agent to execute actions automatically, sparking debate among developers.",
+    "title": "Sergey Brin spends $100 million to fight billionaire tax",
+    "summary": "The Google co-founder funds opposition to the tax measure that would affect large tech fortunes.",
     "source": [
       "/r/technology",
       "techcrunch.com"
@@ -120,11 +62,110 @@
     "count": 2
   },
   {
-    "title": "Amazon pushes 7.65 GW gas plant in Texas to power AI data centers",
-    "summary": "The facility, with 35 turbines, could emit 33 million tons of CO₂ per year and become the largest source of pollution in the U.S.",
+    "title": "YouTube doubles watch hours required for new creators to earn money",
+    "summary": "The platform tightens monetization requirements, making it harder for small channels to access ad revenue.",
     "source": [
-      "kite.kagi.com",
-      "/r/technology"
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Farmer loses 25 acres of crops after following AI-generated pest control advice",
+    "summary": "The AI recommended a pesticide recipe that proved destructive after giving accurate guidance for months.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Backlash against AI-generated spam content begins to have real effects",
+    "summary": "User and platform rejection is slowing the avalanche of low-quality posts created with artificial intelligence.",
+    "source": [
+      "/r/technology",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xodus project will bring Xbox PC games and Game Pass to Linux",
+    "summary": "Heroic Launcher developers are working on an open-source project to run Xbox titles on Linux systems through reverse engineering.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Growing US backlash against AI data centers with more than 500 local bans and protests",
+    "summary": "Public and bipartisan opposition to AI infrastructure expansion intensifies with arrests and moratoriums across the country.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GeForce NOW exploit allows access to full Windows desktop",
+    "summary": "A file exchange in the cloud gaming service allows running local AI models with 48 GB of VRAM without restrictions.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Counter-Strike: Global Offensive source code from March 2019 leaked",
+    "summary": "The leak could facilitate the creation of cheats and vulnerability analysis in Valve's popular shooter.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cooler Master launches GPU Shield to prevent RTX 5090 cards from melting",
+    "summary": "The $50 accessory protects the 12V-2×6 power connector and offers a three-year warranty against cable melting.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "CachyOS improves handheld console detection in its new gaming version",
+    "summary": "The gaming-oriented Linux distribution adds specific improvements for handhelds like Steam Deck and other portable consoles.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel Core Ultra 200 processors drop to historic minimum prices",
+    "summary": "Several Core Ultra 200 models, such as the Core Ultra 5 250K, see deals below $200.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "PS4 and PS5 cloud streaming comes to Steam Deck and Steam Machine",
+    "summary": "The Asobi Remote Play app allows streaming PlayStation titles on Valve devices.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI launches cybersecurity model to find vulnerabilities before attackers do",
+    "summary": "The new GPT-5.6-Cyber tool aims to strengthen defense against AI-driven attacks.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 2
   }

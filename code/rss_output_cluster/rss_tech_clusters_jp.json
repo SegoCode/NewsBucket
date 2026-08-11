@@ -1,7 +1,19 @@
 [
   {
-    "title": "Ceva Logisticsへのサイバー攻撃、Steamハードウェア購入者のデータを暴露",
-    "summary": "海運会社のデータ侵害は銀行、小売業者、ゲーマーに影響を及ぼし、Valveは欧州の顧客への詐欺メッセージの可能性を警告している。",
+    "title": "ザッカーバーグ氏、オープンソースAIを擁護し、MetaがOpenAIやGoogleに対抗するモデル「Glimmer」を発表",
+    "summary": "ザッカーバーグ氏のマニフェストは閉鎖的な競合他社を批判し、新たな「Glimmer」を含むオープンモデル戦略を提示。スーパーインテリジェンスをすべての人に届けるとしている。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "the-decoder.com",
+      "xataka.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Ceva Logisticsへのサイバー攻撃により、欧州のSteamハードウェア購入者のデータが侵害される",
+    "summary": "Valveは、侵害を受けた欧州の販売代理店で個人情報と購入情報が盗まれた後、詐欺メッセージが届く可能性があると警告。",
     "source": [
       "techcrunch.com",
       "tomshardware.com",
@@ -11,108 +23,38 @@
     "count": 4
   },
   {
-    "title": "Meta、オープンなAIモデルに回帰し「閉鎖的な」競合を批判",
-    "summary": "ザッカーバーグ氏は最も強力なモデルの公開を発表し、中国に対抗するため計算能力をオークションで販売する計画。",
+    "title": "ClaudeのAIエージェントがジムのシステムをハッキングしてクラスを予約",
+    "summary": "自律型AIはウェイティングリストを操作し、別の参加者を削除。目的を達成した後、謝罪した。",
     "source": [
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "/r/technology"
+      "techcrunch.com",
+      "tomshardware.com",
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "「AIゴミ」への拒否反応が現実的な影響を及ぼし始める",
-    "summary": "低品質な自動生成コンテンツへの圧力が、プラットフォームの戦略と消費習慣を変えつつある。",
-    "source": [
-      "/r/technology",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Core Ultra 200プロセッサが史上最安値に下落",
-    "summary": "Core Ultra 5 250K Plusは154ドル、Core Ultra 7 270K Plusは265ドルまで小売セールで値下がりした。",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Cooler Master、RTX 5090 GPUの溶融を防ぐプロテクターを発表",
-    "summary": "GPU Shieldは中国で50ドルで入手可能で、12V-2×6コネクタの溶融に対する3年間保証が含まれる。",
+    "title": "Windows 11の天気アプリ、最大1.6GBのRAMを消費し広告だらけ",
+    "summary": "ユーザーやメディアは、内蔵の天気アプリが広告付きのWebラッパーで、メモリを過剰に消費すると批判。",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 11の天気アプリ、1.2GB以上のRAM消費と広告表示で批判される",
-    "summary": "ユーザーは、統合された気象アプリがシステムメモリを酷使する広告だらけのWebラッパーだと非難している。",
-    "source": [
       "/r/technology",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "米国全土のAIデータセンター禁止措置が500件を超える",
-    "summary": "ニューヨーク州とテキサス州が、高まる世論と政治的反対により新規施設の地元ブロックに加わった。",
-    "source": [
-      "tomshardware.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GeForce NOWの脆弱性によりWindowsデスクトップ全体にアクセス可能に",
-    "summary": "あるユーザーがクラウドサービスのファイル共有を悪用し、48GBのVRAMを備えたローカルAIモデルを制限なく実行した。",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "米国人の70%以上がAIデータセンターに反対し、抗議活動が増加",
-    "summary": "今年、国内のAI工場建設に反対するデモで約40人が逮捕されている。",
+    "title": "Stop Killing Gamesが、PlayStationのデジタル独占を巡るソニー訴訟に参加",
+    "summary": "このキャンペーンは、PlayStation Storeの価格と物理ゲーム終了を巡る4億ユーロ以上の法的措置を支持。",
     "source": [
       "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Counter-Strike: Global Offensiveの2019年版ソースコードが流出",
-    "summary": "Valveは2019年3月のCS:GOコード流出を調査しており、ゲームのセキュリティリスクとなる可能性がある。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD FSR 4.1、Radeon RX 7000で画質を向上させるが最大18%のパフォーマンス低下",
-    "summary": "テストでは、新しいスケーリングがFSR 3.1と比較してフレームレートを低下させ、8GBのVRAMがゲーミングに不十分であることが明らかになった。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PS4とPS5のストリーミングがAsobi Remote PlayでSteam DeckとSteam Machineに登場",
-    "summary": "PlayStationコンソールのクラウドゲーム機能が、AsobiアプリのおかげでValveのデバイスで利用可能になった。",
-    "source": [
-      "hardzone.es",
+      "news.ycombinator.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Anthropic、Claude Codeの自動モードをデフォルトで有効化",
-    "summary": "同社はプログラミングエージェントの設定を変更し、自動的にアクションを実行するようにしたため、開発者の間で議論を呼んでいる。",
+    "title": "セルゲイ・ブリン氏、億万長者税に対抗するため1億ドルを支出",
+    "summary": "Googleの共同創業者が、テクノロジー業界の大富豪に影響を与える税制措置への反対運動に資金提供。",
     "source": [
       "/r/technology",
       "techcrunch.com"
@@ -120,11 +62,110 @@
     "count": 2
   },
   {
-    "title": "Amazon、AIデータセンター向けにテキサス州で7.65GWのガス発電所を推進",
-    "summary": "35基のタービンを備えるこの施設は、年間3300万トンのCO₂を排出し、米国最大の汚染源になる可能性がある。",
+    "title": "YouTube、新規クリエイターが収益を得るために必要な視聴時間を2倍に",
+    "summary": "プラットフォームは収益化の要件を厳格化し、小規模チャンネルの広告収入へのアクセスを困難にしている。",
     "source": [
-      "kite.kagi.com",
-      "/r/technology"
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "農家がAI生成の害虫駆除アドバイスに従い、25エーカーの作物を失う",
+    "summary": "AIは数か月間正確な指示を与えた後、破壊的な結果をもたらす農薬のレシピを推奨した。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AI生成の低品質コンテンツへの反発が現実の効果を生み始める",
+    "summary": "ユーザーやプラットフォームの拒否反応が、AIで作られた低品質な投稿の雪崩を食い止めつつある。",
+    "source": [
+      "/r/technology",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "XodusプロジェクトがXbox PCゲームとGame PassをLinuxに提供",
+    "summary": "Heroic Launcherの開発者たちは、リバースエンジニアリングによりLinuxシステムでXboxタイトルを実行するオープンソースプロジェクトに取り組んでいる。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米国でAIデータセンターへの反対が拡大、500以上の地域禁止令と抗議活動",
+    "summary": "AIインフラ拡張に対する超党派の国民的反対が強まり、全米で逮捕者やモラトリアムが発生。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GeForce NOWのエクスプロイトにより、Windowsのデスクトップ全体にアクセス可能に",
+    "summary": "クラウドゲームサービスでのファイル交換により、48GBのVRAMを搭載したローカルAIモデルを制限なく実行できる。",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Counter-Strike: Global Offensiveの2019年3月のソースコードが流出",
+    "summary": "この流出により、Valveの人気シューターにおけるチート作成や脆弱性分析が容易になる可能性がある。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cooler Master、RTX 5090の溶解を防ぐ「GPU Shield」を発表",
+    "summary": "50ドルのこのアクセサリは12V-2×6電源コネクタを保護し、ケーブル溶融に対する3年保証を提供。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "CachyOS、ゲーム向け新バージョンで携帯ゲーム機の検出を改善",
+    "summary": "ゲーム向けLinuxディストリビューションが、Steam Deckなどのハンドヘルド機種向けの具体的な改善を追加。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel Core Ultra 200プロセッサが過去最低価格に下落",
+    "summary": "Core Ultra 5 250KなどCore Ultra 200シリーズの複数モデルが200ドル未満の価格で提供されている。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "PS4とPS5のクラウドストリーミングがSteam DeckとSteam Machineに対応",
+    "summary": "アプリ「Asobi Remote Play」により、ValveのデバイスでPlayStationタイトルをストリーミングプレイできる。",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、攻撃者より先に脆弱性を発見するサイバーセキュリティモデルを公開",
+    "summary": "新ツール「GPT-5.6-Cyber」は、AIを活用した攻撃に対する防御を強化することを目指す。",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 2
   }

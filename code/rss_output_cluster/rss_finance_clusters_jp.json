@@ -1,29 +1,35 @@
 [
   {
-    "title": "世界の株式市場は史上最高値付近で大きな変動なく推移",
-    "summary": "ウォール街、欧州、アジアの株価指数は安定を維持。投資家はインフレ統計を待ち、地政学リスクを評価している。",
+    "title": "インテル、AIチップの資金調達のため150億ドルの増資を発表",
+    "summary": "同社は株式市場の上昇を受けて、半導体投資計画を推進するため市場に頼る。",
     "source": [
-      "handelsblatt.com",
       "investing.com",
-      "nasdaq.com",
-      "expansion.com",
-      "nikkei.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "金は2カ月ぶり高値に上昇、銀は上昇基調を維持",
-    "summary": "利上げ幅縮小への期待と中央銀行の購入が貴金属需要を押し上げている。",
-    "source": [
       "nikkei.com",
-      "finance.yahoo.com",
-      "expansion.com"
+      "/r/stocks"
     ],
     "count": 3
   },
   {
-    "title": "介入効果が薄れ、円は1ドル159円まで下落",
-    "summary": "円相場は協調介入前の水準に戻る。市場は日銀の対応を待っている。",
+    "title": "米イラン対話の停滞で原油は82ドルに上昇",
+    "summary": "交渉しないというテヘランの脅しとトランプ氏の補償要求が、湾岸の緊張を維持している。",
+    "source": [
+      "nikkei.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "アジア市場はまちまち：台湾は保ち合い、シンガポールは失速、マレーシアは下落",
+    "summary": "域内の株式市場は、米国の金利への懸念が和らいだことやイラン情勢への注目に反応している。",
+    "source": [
+      "nasdaq.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "介入効果が薄れ円は1ドル159円に下落、日銀への圧力が高まる",
+    "summary": "円安が、日銀による金融引き締めの可能性に関する議論を再燃させている。",
     "source": [
       "nikkei.com",
       "ft.com"
@@ -31,17 +37,26 @@
     "count": 2
   },
   {
-    "title": "イラン、ホルムズ海峡再開を米国への新たな要求に条件付け、原油は80ドル超",
-    "summary": "テヘランはワシントンに対する姿勢を強硬化し、供給途絶への懸念から原油価格が上昇している。",
+    "title": "ウォール街はほぼ横ばいで終了、ダウはマイナス、10年債利回りは4.70%",
+    "summary": "原油高とインフレへの警戒が米株式市場の重しとなっている。",
     "source": [
       "nikkei.com",
-      "ft.com"
+      "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "Revolut、サービス拡大のため欧州の新たな銀行免許を取得",
-    "summary": "このフィンテック企業は新たな銀行認可を受け、EUでの拡大を続けている。",
+    "title": "欧州株式市場は大きな変化なく終了、Ibexは高値圏、Daxは方向感なく",
+    "summary": "企業決算が、イランをめぐる緊張が欧州株式に与える影響を打ち消している。",
+    "source": [
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Revolut、フランスで新たな銀行免許を取得し欧州展開を拡大",
+    "summary": "このネオバンクは、フランスの規制当局の承認を受けて欧州での存在感を強化している。",
     "source": [
       "handelsblatt.com",
       "ft.com"
@@ -49,8 +64,17 @@
     "count": 2
   },
   {
-    "title": "英国、金取引保護のためトークン化された金の規制を推進",
-    "summary": "英当局はデジタルゴールドの枠組みを準備。ロンドンは貴金属取引での主導権維持を目指す。",
+    "title": "金は6月以来の高値で寄り付き、銀は上昇続く",
+    "summary": "貴金属はドル安と地政学リスクを背景に上昇している。",
+    "source": [
+      "finance.yahoo.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "英国、金塊取引保護のためトークン化された金の規制を提案",
+    "summary": "ロンドンのシティは、新たな規制枠組みで金市場をデジタル資産に適応させようとしている。",
     "source": [
       "expansion.com",
       "ft.com"
@@ -58,29 +82,20 @@
     "count": 2
   },
   {
-    "title": "8月10日の役員による売買報告書が公表",
-    "summary": "取締役や上級幹部の取引公表が投資家の注目を集めている。",
+    "title": "バークシャー・ハサウェイ、グレッグ・アベル氏が現金の山を動かし最高値圏に接近",
+    "summary": "新CEOはバフェット氏が躊躇していた分野に投資しており、投資家はその戦略を評価している。",
     "source": [
-      "nasdaq.com",
-      "finance.yahoo.com"
+      "nikkei.com",
+      "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "SpaceX、初のロックアップ満了を迎え個人投資家が株式を売却",
-    "summary": "株式ロックアップの解除は暴落を引き起こさず、個人投資家は初めて株式を売却した。",
+    "title": "エヌビディアと大手金融6社、AIデータセンター向けに80兆円を調達",
+    "summary": "この契約は、AIインフラ構築のため5000億ドルを動員する。",
     "source": [
-      "investing.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "CrowdStrike、Exxon Mobilなどが月曜日の株式市場の動きで注目",
-    "summary": "市場アップデートはENB、CVX、EXPE、ORLY、XOM、STRLなどの主要な変動を示している。",
-    "source": [
-      "investing.com",
-      "finance.yahoo.com"
+      "nikkei.com",
+      "ft.com"
     ],
     "count": 2
   }
