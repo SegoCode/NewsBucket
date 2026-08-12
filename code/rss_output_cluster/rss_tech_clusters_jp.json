@@ -1,69 +1,86 @@
 [
   {
-    "title": "Anthropic、Claudeが生成したすべてのテキストと画像に不可視のフィンガープリントを付与へ",
-    "summary": "同社は、基本的な編集後も残る可能性がある知覚不能なマーキングを導入し、自社AIが生成したコンテンツを識別できるようにする。",
+    "title": "Nvidia、GeForce RTX向けに最適化された無料AIモデル「Nemotron 3.5 Lightning」を発表",
+    "summary": "オープンウェイトモデルは最大の知能よりも速度を優先し、ローカルAIを最大4倍高速化する。",
     "source": [
+      "news.ycombinator.com",
       "elchapuzasinformatico.com",
-      "alternativeto.net",
-      "techcrunch.com",
       "xataka.com",
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "NVIDIA、AIインフラ資金調達のためウォール街から5000億ドルを動員",
-    "summary": "同社は大手金融機関と提携し、GPU、CPU、データセンターへ資本を振り向けるべく、自社チップの価値を裏付けている。",
-    "source": [
-      "tomshardware.com",
-      "the-decoder.com",
-      "elchapuzasinformatico.com",
-      "news.ycombinator.com"
+      "the-decoder.com"
     ],
     "count": 4
   },
   {
-    "title": "NVIDIA、オープンで無料のAIモデル「Nemotron 3.5 Lightning」をリリース",
-    "summary": "この新しい推論モデルは、業界の競争が激化する中、最高の知能よりも速度を重視している。",
+    "title": "Anthropic、Claudeのテキストと画像に不可視の透かしを導入",
+    "summary": "この透かしは、コンテンツをコピー、貼り付け、編集した後も残るように設計されている。",
     "source": [
-      "xataka.com",
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "elchapuzasinformatico.com",
+      "alternativeto.net",
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "研究者らがプロプライエタリAIモデルの隠れた推論を抽出し公開",
-    "summary": "新たな攻撃により、ChatGPTなどのAPIの内部思考連鎖が再構築され、手がかりや漏洩データが露呈する。",
+    "title": "米国、ゲーマー2,000人以上を航空管制官として採用",
+    "summary": "採用キャンペーンは記録的な速さで目標の94%を達成。給与は最大15万5,000ドル。",
     "source": [
-      "the-decoder.com",
       "news.ycombinator.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia、ウォール街の支援で5,000億ドルのAIインフラ資金を動員へ",
+    "summary": "同社は自社チップの価値を保証し、大規模AIプロジェクトへの資金調達を可能にする。",
+    "source": [
+      "tomshardware.com",
+      "the-decoder.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "DRAM・HBMメモリ価格の高騰がテック業界を緊張させる",
+    "summary": "2027年分の在庫はすでに完売。iPhone 18 Proのコストは38%上昇し、SK hynixは生産を拡大。",
+    "source": [
+      "xataka.com",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "研究者らがプロプライエタリAIモデルの隠れた推論を抽出することに成功",
+    "summary": "この手法により、ChatGPTなどのAPIで内部メッセージや漏洩したパスワードを含む思考の痕跡が明らかになる。",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com",
       "wired.com"
     ],
     "count": 3
   },
   {
-    "title": "OpenAI、従業員の株式売却のため新たに70億ドルのオファーを完了",
-    "summary": "同社は自社株が上昇する中、従業員の流動性を拡大している。",
+    "title": "OpenAI、Codex対応のChatGPT Linuxデスクトップアプリをリリース",
+    "summary": "公式クライアントにより、Linux OSユーザーもアシスタントを利用できるようになる。",
     "source": [
-      "the-decoder.com",
+      "alternativeto.net",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI、セーフガードを縮小したサイバーセキュリティ向けAIモデル「GPT-5.6-Cyber」をリリース",
-    "summary": "この新ツールは、AIを活用した攻撃の増加に対応することを目的とし、エクスプロイト開発に特化している。",
+    "title": "SpaceXAI、iPhoneとMac向け自律タスク実行AIエージェントアプリ「Grok Bot」を発表",
+    "summary": "新アプリにより、AppleユーザーはAIアシスタントに自律タスクを委任できる。",
     "source": [
-      "thehackernews.com",
-      "techcrunch.com"
+      "alternativeto.net",
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "GeForce RTX 50、米国で参考価格より最大135%高額に",
-    "summary": "品不足と需要によりグラフィックカードの平均価格が上昇し、RTX 5070は約900ドルに達している。",
+    "title": "Microsoft、Windows OEMライセンス価格を7%〜10%値上げ",
+    "summary": "複数メディアが報じたこの調整により、OEMメーカーのライセンス費用が高くなる。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -71,17 +88,8 @@
     "count": 2
   },
   {
-    "title": "Microsoft、WindowsのOEMライセンス価格を7%～10%値上げ",
-    "summary": "この値上げはメーカーに影響し、新型PCの最終価格に転嫁される可能性がある。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "改造者がM.2-OCuLinkアダプタでRadeon RX 9070 XTをSteam Machineに接続",
-    "summary": "この改造により、外付けGPUで要求の高いゲームを100FPS超で実行できる。",
+    "title": "ModderがSteam MachineにeGPU「Radeon RX 9070 XT」を追加",
+    "summary": "M.2-to-OCuLinkアダプタのおかげで、システムは『Crimson Desert』を高品質設定で100FPS超えを達成。",
     "source": [
       "videocardz.com",
       "tomshardware.com"
@@ -89,17 +97,8 @@
     "count": 2
   },
   {
-    "title": "32GBに改造されたGeForce RTX 4080が中国の中古市場に氾濫",
-    "summary": "メモリを増設した改造GPUは、購入者に潜在的なリスクがあるにもかかわらず、大量に出回っている。",
-    "source": [
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "改造者がSteam Deckを「SteamBoy」というモダンなゲームボーイに変換",
-    "summary": "このプロジェクトは、Valveのハードウェアを維持しながら、任天堂のクラシックコンソールの美観を再現している。",
+    "title": "Steam Deckを現代のゲームボーイに変えるMOD「SteamBoy」",
+    "summary": "このプロジェクトは、ゲームボーイのクラシックな筐体とValve製コンソールのオリジナルハードウェアを組み合わせたもの。",
     "source": [
       "hardzone.es",
       "elchapuzasinformatico.com"
@@ -107,8 +106,17 @@
     "count": 2
   },
   {
-    "title": "Intel、TSMCに対抗するため工場拡大に約200億ドルを動員",
-    "summary": "1000億ドルの需要があるこの資金調達は、生産能力の拡大と14Aプロセスへの前進を支援する。",
+    "title": "GeForce RTX 50シリーズ、米国市場で公式価格を最大135%上回る",
+    "summary": "RTX 5070は平均900ドルに達し、推奨価格を大幅に上回る。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel、工場拡張とTSMCとの競争のため197億ドルを調達",
+    "summary": "同社は14Aプロセスを準備し、先端チップパッケージングを拡大する。",
     "source": [
       "tomshardware.com",
       "elchapuzasinformatico.com"
@@ -116,20 +124,29 @@
     "count": 2
   },
   {
-    "title": "ゲーマーを対象にした航空管制官の採用キャンペーン、米国で目標の94%に到達",
-    "summary": "このプログラムはゲーマーのスキルを活用し、最大15万5000ドルの給与で記録的な採用を達成している。",
+    "title": "FBIと専門家、米国企業に潜入する北朝鮮のリモートワーカーを警告",
+    "summary": "おとり捜査で仮想通貨企業に北朝鮮の容疑者3人を雇用。別の事例では政府機関にも到達していた。",
     "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
+      "techcrunch.com",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "FBIと研究者ら、北朝鮮のIT労働者が米国の企業や政府機関に潜入していた実態を暴露",
-    "summary": "調査により、偽の身元を持つリモート従業員が、政権のプログラムに資金を提供するため西側の組織にアクセスしていたことが明らかになった。",
+    "title": "Kalshi、CFTCの緊急命令とFlightAwareの訴訟に直面",
+    "summary": "予測プラットフォームは、フライトキャンセル市場を守りながらニューヨークでの業務を継続する必要がある。",
     "source": [
-      "techcrunch.com",
-      "thehackernews.com"
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Zoomの脆弱性により、参加者が通話中の他のデバイスを乗っ取れる可能性",
+    "summary": "注釈と画面共有の欠陥により、Zoomユーザーは他のユーザーに乗っ取られる恐れがある。",
+    "source": [
+      "thehackernews.com",
+      "wired.com"
     ],
     "count": 2
   }
