@@ -1,130 +1,152 @@
 [
   {
-    "title": "El ciberataque a Ceva Logistics expone datos de compradores de hardware de Steam",
-    "summary": "La brecha en la naviera afecta a bancos, minoristas y jugadores, y Valve advierte de posibles mensajes fraudulentos a clientes europeos.",
+    "title": "Nvidia lanza Nemotron 3.5 Lightning, su modelo de IA gratuito y optimizado para GeForce RTX",
+    "summary": "El modelo open-weight prioriza la velocidad sobre la inteligencia máxima y acelera la IA local hasta cuatro veces.",
     "source": [
-      "techcrunch.com",
-      "tomshardware.com",
-      "hardzone.es",
-      "videocardz.com"
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com",
+      "xataka.com",
+      "the-decoder.com"
     ],
     "count": 4
   },
   {
-    "title": "Meta vuelve a los modelos de IA abiertos y critica a sus rivales 'cerrados'",
-    "summary": "Zuckerberg anuncia la liberación de su modelo más potente y planea vender capacidad de cómputo por subasta para competir con China.",
+    "title": "Anthropic incorpora marcas de agua invisibles en los textos e imágenes de Claude",
+    "summary": "La huella está diseñada para persistir incluso después de copiar, pegar o editar el contenido.",
     "source": [
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "/r/technology"
+      "elchapuzasinformatico.com",
+      "alternativeto.net",
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "El rechazo a la 'basura de IA' empieza a tener efectos reales",
-    "summary": "La presión contra el contenido automatizado de baja calidad está cambiando las estrategias de las plataformas y los hábitos de consumo.",
+    "title": "Estados Unidos contrata a más de 2.000 jugadores de videojuegos como controladores aéreos",
+    "summary": "La campaña de reclutamiento logró el 94% de su objetivo en tiempo récord, con salarios de hasta 155.000 dólares.",
     "source": [
-      "/r/technology",
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia movilizará 500.000 millones de dólares en fondos de infraestructura de IA con ayuda de Wall Street",
+    "summary": "La compañía garantizará el valor de sus propios chips para desbloquear la financiación de grandes proyectos de IA.",
+    "source": [
+      "tomshardware.com",
+      "the-decoder.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La subida de precios de la memoria DRAM y HBM tensa la industria tecnológica",
+    "summary": "Las existencias de 2027 ya están vendidas, el coste del iPhone 18 Pro aumenta un 38% y SK hynix amplía producción.",
+    "source": [
+      "xataka.com",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Investigadores consiguen extraer el razonamiento oculto de modelos de IA propietarios",
+    "summary": "Las técnicas revelan trazas de pensamiento en APIs como ChatGPT, incluidos mensajes internos y contraseñas filtradas.",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com",
       "wired.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Los procesadores Intel Core Ultra 200 bajan a precios mínimos históricos",
-    "summary": "El Core Ultra 5 250K Plus cae a 154 dólares y el Core Ultra 7 270K Plus a 265 dólares en ofertas minoristas.",
+    "title": "OpenAI lanza la aplicación de escritorio de ChatGPT para Linux con soporte de Codex",
+    "summary": "El cliente oficial amplía la disponibilidad del asistente a los usuarios del sistema operativo Linux.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Cooler Master lanza un protector para evitar que las GPU RTX 5090 se derritan",
-    "summary": "El GPU Shield, disponible en China por 50 dólares, incluye garantía de tres años contra el derretimiento del conector 12V-2×6.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Critican a la app del tiempo de Windows 11 por consumir más de 1,2 GB de RAM y mostrar anuncios",
-    "summary": "Usuarios denuncian que la aplicación meteorológica integrada es un envoltorio web lleno de publicidad que abusa de la memoria del sistema.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las prohibiciones a centros de datos de IA superan las 500 en todo Estados Unidos",
-    "summary": "Nueva York y Texas se suman al bloqueo local de nuevas instalaciones por la creciente oposición pública y política.",
-    "source": [
-      "tomshardware.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Una vulnerabilidad en GeForce NOW permite acceder al escritorio completo de Windows",
-    "summary": "Un usuario explota un intercambio de archivos en el servicio de nube para ejecutar modelos de IA locales con 48 GB de VRAM sin restricciones.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Más del 70% de los estadounidenses se opone a los centros de datos de IA y aumentan las protestas",
-    "summary": "Casi 40 personas han sido arrestadas este año en manifestaciones contra la construcción de fábricas de IA en el país.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Se filtra el código fuente de Counter-Strike: Global Offensive de 2019",
-    "summary": "Valve investiga la filtración del código de CS:GO de marzo de 2019, que podría suponer un riesgo para la seguridad del juego.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD FSR 4.1 mejora la calidad de imagen en Radeon RX 7000 a costa de hasta un 18% de rendimiento",
-    "summary": "Las pruebas muestran que el nuevo escalado reduce la velocidad de fotogramas frente a FSR 3.1 y evidencia que 8 GB de VRAM se quedan cortos para gaming.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El streaming de PS4 y PS5 llega a Steam Deck y Steam Machine con Asobi Remote Play",
-    "summary": "La función de juego en la nube de las consolas PlayStation ya está disponible en los dispositivos de Valve gracias a la aplicación Asobi.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic activa por defecto el modo automático de Claude Code",
-    "summary": "La compañía cambia la configuración de su agente de programación para que ejecute acciones automáticamente, generando debate entre los desarrolladores.",
-    "source": [
-      "/r/technology",
+      "alternativeto.net",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Amazon impulsa una planta de gas de 7,65 GW en Texas para alimentar centros de datos de IA",
-    "summary": "La instalación, con 35 turbinas, podría emitir 33 millones de toneladas de CO₂ al año y convertirse en la mayor fuente de contaminación de EE.UU.",
+    "title": "SpaceXAI presenta Grok Bot, una app de agente de IA para tareas autónomas en iPhone y Mac",
+    "summary": "La nueva aplicación permite a los usuarios de Apple delegar tareas autónomas al asistente de IA.",
     "source": [
-      "kite.kagi.com",
-      "/r/technology"
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft sube el precio de las licencias OEM de Windows entre un 7% y un 10%",
+    "summary": "El ajuste, reportado por varios medios, encarece las licencias para los fabricantes de equipo original.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Un modder añade una eGPU Radeon RX 9070 XT a una Steam Machine",
+    "summary": "Gracias a un adaptador M.2 a OCuLink, el sistema consigue más de 100 FPS en Crimson Desert en calidad alta.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SteamBoy, el mod que convierte una Steam Deck en una Game Boy moderna",
+    "summary": "El proyecto combina la carcasa clásica de Game Boy con el hardware original de la consola de Valve.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Las GeForce RTX 50 superan hasta un 135% su precio oficial en el mercado de EE.UU.",
+    "summary": "La RTX 5070 alcanza de media los 900 dólares, muy por encima del precio recomendado.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel recauda 19.700 millones de dólares para la expansión de sus fábricas y competir con TSMC",
+    "summary": "La compañía prepara su proceso de producción 14A y amplía el empaquetado avanzado de chips.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "FBI y expertos alertan de trabajadores remotos norcoreanos infiltrados en empresas de EE.UU.",
+    "summary": "Una operación encubierta contrató a tres sospechosos norcoreanos en una criptoempresa ficticia y otro caso llegó a una agencia gubernamental.",
+    "source": [
+      "techcrunch.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Kalshi afronta una orden de emergencia de la CFTC y una demanda de FlightAware",
+    "summary": "La plataforma de predicciones deberá seguir operando en Nueva York mientras defiende sus mercados de cancelación de vuelos.",
+    "source": [
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Una vulnerabilidad de Zoom permite a un participante tomar el control de otros dispositivos en la llamada",
+    "summary": "Los fallos de anotación y de compartir pantalla exponen a los clientes de Zoom a que otro usuario los secuestre.",
+    "source": [
+      "thehackernews.com",
+      "wired.com"
     ],
     "count": 2
   }

@@ -1,38 +1,152 @@
 [
   {
-    "title": "Claude Code implements messaging between sessions to optimize workflows",
-    "summary": "Anthropic allows Claude Code sessions to communicate with each other and share context automatically.",
+    "title": "Nvidia launches Nemotron 3.5 Lightning, its free AI model optimized for GeForce RTX",
+    "summary": "The open-weight model prioritizes speed over maximum intelligence and accelerates local AI by up to four times.",
     "source": [
       "news.ycombinator.com",
+      "elchapuzasinformatico.com",
+      "xataka.com",
+      "the-decoder.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Anthropic adds invisible watermarks to Claude's texts and images",
+    "summary": "The watermark is designed to persist even after copying, pasting, or editing the content.",
+    "source": [
+      "elchapuzasinformatico.com",
       "alternativeto.net",
       "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "NVIDIA RTX Spark N1X outperforms AMD and Intel processors in performance tests",
-    "summary": "Leaked results on Geekbench show that the chip rivals Apple M4 Max.",
+    "title": "United States hires more than 2,000 video game players as air traffic controllers",
+    "summary": "The recruitment campaign achieved 94% of its goal in record time, with salaries up to $155,000.",
     "source": [
-      "videocardz.com",
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia to mobilize $500 billion in AI infrastructure funds with Wall Street's help",
+    "summary": "The company will guarantee the value of its own chips to unlock financing for large AI projects.",
+    "source": [
+      "tomshardware.com",
+      "the-decoder.com",
       "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "The rise in DRAM and HBM memory prices strains the tech industry",
+    "summary": "2027 stock is already sold out, the iPhone 18 Pro's cost increases by 38%, and SK hynix expands production.",
+    "source": [
+      "xataka.com",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Researchers manage to extract hidden reasoning from proprietary AI models",
+    "summary": "The techniques reveal traces of thought in APIs like ChatGPT, including internal messages and leaked passwords.",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com",
+      "wired.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI launches ChatGPT desktop app for Linux with Codex support",
+    "summary": "The official client extends the assistant's availability to Linux operating system users.",
+    "source": [
+      "alternativeto.net",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Amazon faces opposition over data center projects that could increase climate pollution",
-    "summary": "The company uses old rules to evade community participation in the construction of massive facilities.",
+    "title": "SpaceXAI presents Grok Bot, an AI agent app for autonomous tasks on iPhone and Mac",
+    "summary": "The new app allows Apple users to delegate autonomous tasks to the AI assistant.",
     "source": [
-      "techcrunch.com",
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft raises Windows OEM license prices by between 7% and 10%",
+    "summary": "The adjustment, reported by several outlets, makes licenses more expensive for original equipment manufacturers.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A modder adds a Radeon RX 9070 XT eGPU to a Steam Machine",
+    "summary": "Thanks to an M.2 to OCuLink adapter, the system achieves more than 100 FPS in Crimson Desert at high quality.",
+    "source": [
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Open-source interactive maps available for the total solar eclipse on August 12th",
-    "summary": "These tools provide cultural and scientific information for observing the astronomical event.",
+    "title": "SteamBoy, the mod that turns a Steam Deck into a modern Game Boy",
+    "summary": "The project combines the classic Game Boy shell with the original hardware of Valve's console.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GeForce RTX 50 GPUs exceed their official price by up to 135% in the US market",
+    "summary": "The RTX 5070 averages $900, well above the recommended price.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel raises $19.7 billion to expand its factories and compete with TSMC",
+    "summary": "The company is preparing its 14A production process and expanding advanced chip packaging.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "FBI and experts warn of North Korean remote workers infiltrated into US companies",
+    "summary": "An undercover operation hired three North Korean suspects at a fictitious crypto company, and another case reached a government agency.",
+    "source": [
+      "techcrunch.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Kalshi faces an emergency order from the CFTC and a lawsuit from FlightAware",
+    "summary": "The prediction platform will have to continue operating in New York while defending its flight cancellation markets.",
     "source": [
       "news.ycombinator.com",
-      "xataka.com"
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A Zoom vulnerability allows a participant to take control of other devices on the call",
+    "summary": "Annotation and screen-sharing flaws expose Zoom clients to being hijacked by another user.",
+    "source": [
+      "thehackernews.com",
+      "wired.com"
     ],
     "count": 2
   }
