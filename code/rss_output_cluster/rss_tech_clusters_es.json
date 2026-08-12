@@ -1,69 +1,86 @@
 [
   {
-    "title": "Anthropic marcará con una huella invisible todos los textos e imágenes generados por Claude",
-    "summary": "La compañía implanta un marcado imperceptible que puede persistir tras ediciones básicas para identificar contenido producido por su IA.",
+    "title": "Nvidia lanza Nemotron 3.5 Lightning, su modelo de IA gratuito y optimizado para GeForce RTX",
+    "summary": "El modelo open-weight prioriza la velocidad sobre la inteligencia máxima y acelera la IA local hasta cuatro veces.",
     "source": [
+      "news.ycombinator.com",
       "elchapuzasinformatico.com",
-      "alternativeto.net",
-      "techcrunch.com",
       "xataka.com",
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "Nvidia moviliza 500.000 millones de dólares de Wall Street para financiar infraestructura de IA",
-    "summary": "El fabricante se alía con grandes financieras y respalda el valor de sus propios chips para canalizar capital hacia GPU, CPU y centros de datos.",
-    "source": [
-      "tomshardware.com",
-      "the-decoder.com",
-      "elchapuzasinformatico.com",
-      "news.ycombinator.com"
+      "the-decoder.com"
     ],
     "count": 4
   },
   {
-    "title": "Nvidia lanza Nemotron 3.5 Lightning, su modelo de IA abierto y gratuito",
-    "summary": "El nuevo modelo de razonamiento prioriza la velocidad sobre la máxima inteligencia en plena competencia del sector.",
+    "title": "Anthropic incorpora marcas de agua invisibles en los textos e imágenes de Claude",
+    "summary": "La huella está diseñada para persistir incluso después de copiar, pegar o editar el contenido.",
     "source": [
-      "xataka.com",
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "elchapuzasinformatico.com",
+      "alternativeto.net",
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "Investigadores extraen y revelan los razonamientos ocultos de los modelos de IA propietarios",
-    "summary": "Nuevos ataques reconstruyen las cadenas de pensamiento internas de APIs como ChatGPT y exponen pistas y datos filtrados.",
+    "title": "Estados Unidos contrata a más de 2.000 jugadores de videojuegos como controladores aéreos",
+    "summary": "La campaña de reclutamiento logró el 94% de su objetivo en tiempo récord, con salarios de hasta 155.000 dólares.",
     "source": [
-      "the-decoder.com",
       "news.ycombinator.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia movilizará 500.000 millones de dólares en fondos de infraestructura de IA con ayuda de Wall Street",
+    "summary": "La compañía garantizará el valor de sus propios chips para desbloquear la financiación de grandes proyectos de IA.",
+    "source": [
+      "tomshardware.com",
+      "the-decoder.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La subida de precios de la memoria DRAM y HBM tensa la industria tecnológica",
+    "summary": "Las existencias de 2027 ya están vendidas, el coste del iPhone 18 Pro aumenta un 38% y SK hynix amplía producción.",
+    "source": [
+      "xataka.com",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Investigadores consiguen extraer el razonamiento oculto de modelos de IA propietarios",
+    "summary": "Las técnicas revelan trazas de pensamiento en APIs como ChatGPT, incluidos mensajes internos y contraseñas filtradas.",
+    "source": [
+      "news.ycombinator.com",
+      "the-decoder.com",
       "wired.com"
     ],
     "count": 3
   },
   {
-    "title": "OpenAI completa otra oferta de 7.000 millones de dólares para que sus empleados vendan acciones",
-    "summary": "La empresa amplía la liquidez de los trabajadores en plena revalorización de sus títulos.",
+    "title": "OpenAI lanza la aplicación de escritorio de ChatGPT para Linux con soporte de Codex",
+    "summary": "El cliente oficial amplía la disponibilidad del asistente a los usuarios del sistema operativo Linux.",
     "source": [
-      "the-decoder.com",
+      "alternativeto.net",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI lanza GPT-5.6-Cyber, un modelo de IA para ciberseguridad con salvaguardas reducidas",
-    "summary": "La nueva herramienta busca responder al aumento de ataques impulsados por IA y está orientada al desarrollo de exploits.",
+    "title": "SpaceXAI presenta Grok Bot, una app de agente de IA para tareas autónomas en iPhone y Mac",
+    "summary": "La nueva aplicación permite a los usuarios de Apple delegar tareas autónomas al asistente de IA.",
     "source": [
-      "thehackernews.com",
-      "techcrunch.com"
+      "alternativeto.net",
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Las GeForce RTX 50 llegan a costar hasta un 135% más que su precio de referencia en EE.UU.",
-    "summary": "La escasez y la demanda elevan los precios medios de las tarjetas gráficas, con la RTX 5070 cerca de los 900 dólares.",
+    "title": "Microsoft sube el precio de las licencias OEM de Windows entre un 7% y un 10%",
+    "summary": "El ajuste, reportado por varios medios, encarece las licencias para los fabricantes de equipo original.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -71,17 +88,8 @@
     "count": 2
   },
   {
-    "title": "Microsoft sube entre un 7% y un 10% el precio de las licencias OEM de Windows",
-    "summary": "El incremento afecta a los fabricantes y podría trasladarse al precio final de los equipos nuevos.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Un modder acopla una Radeon RX 9070 XT a una Steam Machine mediante un adaptador M.2 a OCuLink",
-    "summary": "La modificación permite ejecutar juegos exigentes a más de 100 FPS con una GPU externa.",
+    "title": "Un modder añade una eGPU Radeon RX 9070 XT a una Steam Machine",
+    "summary": "Gracias a un adaptador M.2 a OCuLink, el sistema consigue más de 100 FPS en Crimson Desert en calidad alta.",
     "source": [
       "videocardz.com",
       "tomshardware.com"
@@ -89,17 +97,8 @@
     "count": 2
   },
   {
-    "title": "Tarjetas GeForce RTX 4080 modificadas con 32 GB inundan el mercado chino de segunda mano",
-    "summary": "Las GPU alteradas con mayor memoria circulan de forma masiva pese a los posibles riesgos para los compradores.",
-    "source": [
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Un modder convierte una Steam Deck en una Game Boy moderna llamada SteamBoy",
-    "summary": "El proyecto recrea la estética de la consola clásica de Nintendo manteniendo el hardware de Valve.",
+    "title": "SteamBoy, el mod que convierte una Steam Deck en una Game Boy moderna",
+    "summary": "El proyecto combina la carcasa clásica de Game Boy con el hardware original de la consola de Valve.",
     "source": [
       "hardzone.es",
       "elchapuzasinformatico.com"
@@ -107,8 +106,17 @@
     "count": 2
   },
   {
-    "title": "Intel moviliza cerca de 20.000 millones de dólares para ampliar sus fábricas frente a TSMC",
-    "summary": "La financiación, con una demanda de 100.000 millones, respaldará la expansión de capacidad y el avance hacia el proceso 14A.",
+    "title": "Las GeForce RTX 50 superan hasta un 135% su precio oficial en el mercado de EE.UU.",
+    "summary": "La RTX 5070 alcanza de media los 900 dólares, muy por encima del precio recomendado.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel recauda 19.700 millones de dólares para la expansión de sus fábricas y competir con TSMC",
+    "summary": "La compañía prepara su proceso de producción 14A y amplía el empaquetado avanzado de chips.",
     "source": [
       "tomshardware.com",
       "elchapuzasinformatico.com"
@@ -116,20 +124,29 @@
     "count": 2
   },
   {
-    "title": "La campaña de reclutamiento de controladores aéreos entre gamers alcanza el 94% de sus objetivos en EE.UU.",
-    "summary": "El programa aprovecha las habilidades de los jugadores y logra contrataciones récord con salarios de hasta 155.000 dólares.",
+    "title": "FBI y expertos alertan de trabajadores remotos norcoreanos infiltrados en empresas de EE.UU.",
+    "summary": "Una operación encubierta contrató a tres sospechosos norcoreanos en una criptoempresa ficticia y otro caso llegó a una agencia gubernamental.",
     "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
+      "techcrunch.com",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "FBI e investigadores destapan la infiltración de trabajadores informáticos norcoreanos en empresas y agencias de EE.UU.",
-    "summary": "Las pesquisas revelan que empleados remotos con identidades falsas accedieron a organizaciones occidentales para financiar programas del régimen.",
+    "title": "Kalshi afronta una orden de emergencia de la CFTC y una demanda de FlightAware",
+    "summary": "La plataforma de predicciones deberá seguir operando en Nueva York mientras defiende sus mercados de cancelación de vuelos.",
     "source": [
-      "techcrunch.com",
-      "thehackernews.com"
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Una vulnerabilidad de Zoom permite a un participante tomar el control de otros dispositivos en la llamada",
+    "summary": "Los fallos de anotación y de compartir pantalla exponen a los clientes de Zoom a que otro usuario los secuestre.",
+    "source": [
+      "thehackernews.com",
+      "wired.com"
     ],
     "count": 2
   }
