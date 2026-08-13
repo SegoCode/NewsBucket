@@ -1,140 +1,66 @@
 [
   {
-    "title": "Nvidia lanza Nemotron 3.5 Lightning, su modelo de IA gratuito y optimizado para GeForce RTX",
-    "summary": "El modelo open-weight prioriza la velocidad sobre la inteligencia máxima y acelera la IA local hasta cuatro veces.",
+    "title": "Google presenta el Pixel 11, el Pixel Watch 5 y el Pixel Tag en su evento Made by Google",
+    "summary": "La nueva generación de dispositivos de Google incluye varios modelos con mejoras en cámara, salud y localización, además de funciones Gemini.",
     "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com",
+      "techcrunch.com",
+      "kite.kagi.com",
+      "wired.com",
       "xataka.com",
-      "the-decoder.com"
+      "news.ycombinator.com"
     ],
-    "count": 4
+    "count": 5
   },
   {
-    "title": "Anthropic incorpora marcas de agua invisibles en los textos e imágenes de Claude",
-    "summary": "La huella está diseñada para persistir incluso después de copiar, pegar o editar el contenido.",
+    "title": "Anthropic aplicará marcas de agua digitales a los contenidos generados por Claude",
+    "summary": "La compañía detalla su cumplimiento de la Ley de IA de la UE, mientras usuarios denuncian que la medida revelará su uso de la herramienta.",
     "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Estados Unidos contrata a más de 2.000 jugadores de videojuegos como controladores aéreos",
-    "summary": "La campaña de reclutamiento logró el 94% de su objetivo en tiempo récord, con salarios de hasta 155.000 dólares.",
-    "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com",
+      "/r/technology",
+      "techcrunch.com",
       "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Nvidia movilizará 500.000 millones de dólares en fondos de infraestructura de IA con ayuda de Wall Street",
-    "summary": "La compañía garantizará el valor de sus propios chips para desbloquear la financiación de grandes proyectos de IA.",
+    "title": "Nvidia sube el precio del RTX PRO 6000 Blackwell a 16.000 dólares",
+    "summary": "El aumento casi duplica el MSRP original de la GPU profesional, que ya había iniciado pedidos por debajo de 8.000 dólares.",
     "source": [
+      "/r/technology",
       "tomshardware.com",
-      "the-decoder.com",
-      "elchapuzasinformatico.com"
+      "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "La subida de precios de la memoria DRAM y HBM tensa la industria tecnológica",
-    "summary": "Las existencias de 2027 ya están vendidas, el coste del iPhone 18 Pro aumenta un 38% y SK hynix amplía producción.",
+    "title": "Amazon entrenará sus modelos de IA con el contenido de Twitch por defecto",
+    "summary": "La opción para impedirlo está oculta, según los creadores, lo que ha provocado críticas en la plataforma.",
     "source": [
-      "xataka.com",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Investigadores consiguen extraer el razonamiento oculto de modelos de IA propietarios",
-    "summary": "Las técnicas revelan trazas de pensamiento en APIs como ChatGPT, incluidos mensajes internos y contraseñas filtradas.",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "wired.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI lanza la aplicación de escritorio de ChatGPT para Linux con soporte de Codex",
-    "summary": "El cliente oficial amplía la disponibilidad del asistente a los usuarios del sistema operativo Linux.",
-    "source": [
-      "alternativeto.net",
+      "/r/technology",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "SpaceXAI presenta Grok Bot, una app de agente de IA para tareas autónomas en iPhone y Mac",
-    "summary": "La nueva aplicación permite a los usuarios de Apple delegar tareas autónomas al asistente de IA.",
+    "title": "Librerías sospechan que empresas de IA compran y destruyen libros raros",
+    "summary": "Pedidos masivos y anónimos de miles de ejemplares en Europa alimentan el temor de que se usen para entrenar modelos.",
     "source": [
-      "alternativeto.net",
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "uBlock Origin deja de filtrar los anuncios de Facebook",
+    "summary": "El bloqueador reconoce que la red social dificulta tanto el bloqueo que ha abandonado el filtro.",
+    "source": [
+      "/r/technology",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft sube el precio de las licencias OEM de Windows entre un 7% y un 10%",
-    "summary": "El ajuste, reportado por varios medios, encarece las licencias para los fabricantes de equipo original.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Un modder añade una eGPU Radeon RX 9070 XT a una Steam Machine",
-    "summary": "Gracias a un adaptador M.2 a OCuLink, el sistema consigue más de 100 FPS en Crimson Desert en calidad alta.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SteamBoy, el mod que convierte una Steam Deck en una Game Boy moderna",
-    "summary": "El proyecto combina la carcasa clásica de Game Boy con el hardware original de la consola de Valve.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las GeForce RTX 50 superan hasta un 135% su precio oficial en el mercado de EE.UU.",
-    "summary": "La RTX 5070 alcanza de media los 900 dólares, muy por encima del precio recomendado.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel recauda 19.700 millones de dólares para la expansión de sus fábricas y competir con TSMC",
-    "summary": "La compañía prepara su proceso de producción 14A y amplía el empaquetado avanzado de chips.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "FBI y expertos alertan de trabajadores remotos norcoreanos infiltrados en empresas de EE.UU.",
-    "summary": "Una operación encubierta contrató a tres sospechosos norcoreanos en una criptoempresa ficticia y otro caso llegó a una agencia gubernamental.",
-    "source": [
-      "techcrunch.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Kalshi afronta una orden de emergencia de la CFTC y una demanda de FlightAware",
-    "summary": "La plataforma de predicciones deberá seguir operando en Nueva York mientras defiende sus mercados de cancelación de vuelos.",
+    "title": "Lovable recauda 400 millones de dólares y alcanza una valoración de 13.300 millones",
+    "summary": "La startup de desarrollo de software con IA cierra una nueva ronda que dispara su valoración.",
     "source": [
       "news.ycombinator.com",
       "techcrunch.com"
@@ -142,11 +68,101 @@
     "count": 2
   },
   {
-    "title": "Una vulnerabilidad de Zoom permite a un participante tomar el control de otros dispositivos en la llamada",
-    "summary": "Los fallos de anotación y de compartir pantalla exponen a los clientes de Zoom a que otro usuario los secuestre.",
+    "title": "Grok 4.6 iguala al mejor modelo de OpenAI y reduce su precio",
+    "summary": "El nuevo modelo de xAI/SpaceXAI ofrece un rendimiento puntero a un coste menor.",
     "source": [
-      "thehackernews.com",
-      "wired.com"
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "YMTC entra por primera vez en el top 3 mundial de memoria NAND",
+    "summary": "La compañía china alcanza un 14% de cuota de mercado impulsada por la demanda de servidores de IA.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AOC anuncia una subida de precios en sus monitores",
+    "summary": "El fabricante aplicará incrementos generalizados a partir de este mes, empezando por China.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Las primeras PS5 sufren sobrecalentamiento por el metal líquido del disipador",
+    "summary": "El material líquido puede dañar la superficie del disipador y provocar problemas térmicos en consolas originales.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel prepara su regreso al negocio de la memoria con una nueva arquitectura",
+    "summary": "El CEO Lip-Bu Tan estudia innovar en memoria tras el fin de Optane y ha fichado al ex CEO de SK hynix.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Filtran que los Intel Nova Lake mantendrán la caché L3 completa pese a recortar núcleos E",
+    "summary": "Las nuevas predicciones elevan la caché de las futuras CPU de Intel frente a los cálculos anteriores.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD sube hasta un 40% el precio de la Radeon RX 9070 XT",
+    "summary": "El incremento afectará a las GPU Radeon RX 9000 en el tercer trimestre, sobre todo en China.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Razer presenta el Naga V3 Pro con 23 botones y 280 horas de batería",
+    "summary": "El nuevo ratón para juegos MMO alcanza 50.000 DPI y ofrece una gran autonomía.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Unsloth Desktop permite entrenar modelos de IA localmente en todas las plataformas",
+    "summary": "La herramienta de escritorio facilita el ajuste de modelos de lenguaje sin depender de servicios en la nube.",
+    "source": [
+      "alternativeto.net",
+      "producthunt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Un pasajero suplanta la red Wi-Fi de Delta en pleno vuelo tras la DEF CON 34",
+    "summary": "El asistente a la conferencia de hacking usó una herramienta de pentest y la tripulación avisó a seguridad de la aerolínea.",
+    "source": [
+      "news.ycombinator.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los promotores de centros de datos demandan a los municipios que imponen moratorias",
+    "summary": "Las restricciones locales, como la planteada en Chicago, llevan a los desarrolladores a los tribunales por exceso de autoridad.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   }
