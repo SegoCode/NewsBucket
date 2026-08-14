@@ -1,66 +1,90 @@
 [
   {
-    "title": "Google presenta el Pixel 11, el Pixel Watch 5 y el Pixel Tag en su evento Made by Google",
-    "summary": "La nueva generación de dispositivos de Google incluye varios modelos con mejoras en cámara, salud y localización, además de funciones Gemini.",
+    "title": "OpenAI encara una reorganización interna entre salidas, cambios ejecutivos y revisión de seguridad",
+    "summary": "La compañía ficha a un nuevo CRO mientras la rotación de directivos y equipos de seguridad se vuelve habitual.",
     "source": [
       "techcrunch.com",
-      "kite.kagi.com",
       "wired.com",
-      "xataka.com",
-      "news.ycombinator.com"
+      "xataka.com"
     ],
-    "count": 5
+    "count": 3
   },
   {
-    "title": "Anthropic aplicará marcas de agua digitales a los contenidos generados por Claude",
-    "summary": "La compañía detalla su cumplimiento de la Ley de IA de la UE, mientras usuarios denuncian que la medida revelará su uso de la herramienta.",
+    "title": "Google presenta los Pixel 11 con Tensor G6 y el Pixel Watch 5 con más funciones de salud",
+    "summary": "Los nuevos móviles ofrecen zoom de hasta 120x, 256 GB de almacenamiento y el reloj amplía sus herramientas de bienestar.",
     "source": [
-      "/r/technology",
+      "elchapuzasinformatico.com",
+      "producthunt.com",
+      "xataka.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "NVIDIA lanza una app nativa de GeForce NOW para Linux con menor latencia",
+    "summary": "El servicio de juego en la nube sale de la beta en Linux e incorpora Frame Generation con mejor latencia.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Qualcomm presenta Snapdragon C para portátiles Windows económicos y promete un 67% más de rendimiento que el Intel N250",
+    "summary": "El nuevo SoC está pensado para portátiles de 300 dólares con Windows 11 y mejoras de CPU frente a la competencia.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Keychron lanza un macro pad de 100 teclas con interruptores Apex y RGB por tecla",
+    "summary": "El periférico de 10x10 permite personalizar accesos rápidos e iluminación para tareas repetitivas.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "CXMT supera a Tencent como la empresa china más valiosa y avanza en la fabricación de DDR5",
+    "summary": "El fabricante de memoria, valorado en 524.000 millones de dólares, reduce la brecha tecnológica en la producción de DDR5.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los portátiles Googlebook de ASUS y Acer aparecen con procesadores Intel Core Ultra",
+    "summary": "Los nuevos equipos apuntan a Core Ultra 5 y Core Ultra 7, con pantallas OLED y configuraciones de gama media-alta.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Grok 4.6 iguala a GPT-5.6 Sol con menos pasos y a menor coste",
+    "summary": "El modelo de xAI requiere la mitad de pasos que Claude Opus 5 y se ofrece más barato que Claude Fable 5.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia anuncia un plan de 500.000 millones de dólares para renovar su infraestructura de IA",
+    "summary": "La empresa quiere impulsar el recambio de GPU envejecidas y cambiar el modelo de financiación circular del sector.",
+    "source": [
       "techcrunch.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Nvidia sube el precio del RTX PRO 6000 Blackwell a 16.000 dólares",
-    "summary": "El aumento casi duplica el MSRP original de la GPU profesional, que ya había iniciado pedidos por debajo de 8.000 dólares.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Amazon entrenará sus modelos de IA con el contenido de Twitch por defecto",
-    "summary": "La opción para impedirlo está oculta, según los creadores, lo que ha provocado críticas en la plataforma.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Librerías sospechan que empresas de IA compran y destruyen libros raros",
-    "summary": "Pedidos masivos y anónimos de miles de ejemplares en Europa alimentan el temor de que se usen para entrenar modelos.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "uBlock Origin deja de filtrar los anuncios de Facebook",
-    "summary": "El bloqueador reconoce que la red social dificulta tanto el bloqueo que ha abandonado el filtro.",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lovable recauda 400 millones de dólares y alcanza una valoración de 13.300 millones",
-    "summary": "La startup de desarrollo de software con IA cierra una nueva ronda que dispara su valoración.",
+    "title": "OpenAI presenta el modo Ultrafast, que hace trabajar a GPT-5.6 Sol 14 veces más rápido",
+    "summary": "La nueva modalidad multiplica la velocidad del modelo insignia de OpenAI para acelerar sus respuestas.",
     "source": [
       "news.ycombinator.com",
       "techcrunch.com"
@@ -68,100 +92,28 @@
     "count": 2
   },
   {
-    "title": "Grok 4.6 iguala al mejor modelo de OpenAI y reduce su precio",
-    "summary": "El nuevo modelo de xAI/SpaceXAI ofrece un rendimiento puntero a un coste menor.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "YMTC entra por primera vez en el top 3 mundial de memoria NAND",
-    "summary": "La compañía china alcanza un 14% de cuota de mercado impulsada por la demanda de servidores de IA.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AOC anuncia una subida de precios en sus monitores",
-    "summary": "El fabricante aplicará incrementos generalizados a partir de este mes, empezando por China.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las primeras PS5 sufren sobrecalentamiento por el metal líquido del disipador",
-    "summary": "El material líquido puede dañar la superficie del disipador y provocar problemas térmicos en consolas originales.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel prepara su regreso al negocio de la memoria con una nueva arquitectura",
-    "summary": "El CEO Lip-Bu Tan estudia innovar en memoria tras el fin de Optane y ha fichado al ex CEO de SK hynix.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Filtran que los Intel Nova Lake mantendrán la caché L3 completa pese a recortar núcleos E",
-    "summary": "Las nuevas predicciones elevan la caché de las futuras CPU de Intel frente a los cálculos anteriores.",
-    "source": [
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD sube hasta un 40% el precio de la Radeon RX 9070 XT",
-    "summary": "El incremento afectará a las GPU Radeon RX 9000 en el tercer trimestre, sobre todo en China.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Razer presenta el Naga V3 Pro con 23 botones y 280 horas de batería",
-    "summary": "El nuevo ratón para juegos MMO alcanza 50.000 DPI y ofrece una gran autonomía.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Unsloth Desktop permite entrenar modelos de IA localmente en todas las plataformas",
-    "summary": "La herramienta de escritorio facilita el ajuste de modelos de lenguaje sin depender de servicios en la nube.",
-    "source": [
-      "alternativeto.net",
-      "producthunt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Un pasajero suplanta la red Wi-Fi de Delta en pleno vuelo tras la DEF CON 34",
-    "summary": "El asistente a la conferencia de hacking usó una herramienta de pentest y la tripulación avisó a seguridad de la aerolínea.",
+    "title": "Google lanza Gemini 3.7 Flash con mejoras en código y un 50% menos de precio que su predecesor",
+    "summary": "El nuevo modelo de Google refuerza su rendimiento en programación y reduce costes para los desarrolladores.",
     "source": [
       "news.ycombinator.com",
-      "tomshardware.com"
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Los promotores de centros de datos demandan a los municipios que imponen moratorias",
-    "summary": "Las restricciones locales, como la planteada en Chicago, llevan a los desarrolladores a los tribunales por exceso de autoridad.",
+    "title": "DeepSeek lanza su modelo V4 Pro, libera su software de agentes y sube los precios de la API",
+    "summary": "La compañía china también publica DeepSeek Harness en versión de desarrollador para crear agentes de IA.",
     "source": [
-      "/r/technology",
+      "news.ycombinator.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "PBS demanda a Iron Mountain para recuperar el acceso a 50 TB de archivos históricos",
+    "summary": "La cadena pública perdió 70 años de material televisivo cuando su proveedor de almacenamiento en la nube quebró.",
+    "source": [
+      "news.ycombinator.com",
       "tomshardware.com"
     ],
     "count": 2
