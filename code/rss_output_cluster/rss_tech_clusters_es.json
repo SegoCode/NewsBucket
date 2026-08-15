@@ -1,54 +1,17 @@
 [
   {
-    "title": "OpenAI encara una reorganización interna entre salidas, cambios ejecutivos y revisión de seguridad",
-    "summary": "La compañía ficha a un nuevo CRO mientras la rotación de directivos y equipos de seguridad se vuelve habitual.",
+    "title": "GLM-5.3 de Zhipu AI destaca en programación y ciberseguridad",
+    "summary": "El nuevo modelo de código abierto de Zhipu AI mejora sus capacidades de programación y muestra habilidades emergentes en ciberseguridad.",
     "source": [
-      "techcrunch.com",
-      "wired.com",
-      "xataka.com"
+      "xataka.com",
+      "the-decoder.com",
+      "news.ycombinator.com"
     ],
     "count": 3
   },
   {
-    "title": "Google presenta los Pixel 11 con Tensor G6 y el Pixel Watch 5 con más funciones de salud",
-    "summary": "Los nuevos móviles ofrecen zoom de hasta 120x, 256 GB de almacenamiento y el reloj amplía sus herramientas de bienestar.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "producthunt.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "NVIDIA lanza una app nativa de GeForce NOW para Linux con menor latencia",
-    "summary": "El servicio de juego en la nube sale de la beta en Linux e incorpora Frame Generation con mejor latencia.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Qualcomm presenta Snapdragon C para portátiles Windows económicos y promete un 67% más de rendimiento que el Intel N250",
-    "summary": "El nuevo SoC está pensado para portátiles de 300 dólares con Windows 11 y mejoras de CPU frente a la competencia.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Keychron lanza un macro pad de 100 teclas con interruptores Apex y RGB por tecla",
-    "summary": "El periférico de 10x10 permite personalizar accesos rápidos e iluminación para tareas repetitivas.",
-    "source": [
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "CXMT supera a Tencent como la empresa china más valiosa y avanza en la fabricación de DDR5",
-    "summary": "El fabricante de memoria, valorado en 524.000 millones de dólares, reduce la brecha tecnológica en la producción de DDR5.",
+    "title": "AMD podría recurrir a Intel Foundry para fabricar CPU y GPU",
+    "summary": "Informes sugieren que AMD está cerca de cerrar un acuerdo con Intel para la fabricación de sus procesadores y aceleradores, ante la subida de precios de RAM y la necesidad de capacidad.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com"
@@ -56,8 +19,26 @@
     "count": 2
   },
   {
-    "title": "Los portátiles Googlebook de ASUS y Acer aparecen con procesadores Intel Core Ultra",
-    "summary": "Los nuevos equipos apuntan a Core Ultra 5 y Core Ultra 7, con pantallas OLED y configuraciones de gama media-alta.",
+    "title": "NVIDIA Jetson Orin NX encontrado en misil de crucero ruso S-71M",
+    "summary": "Ucrania afirma haber descubierto un chip NVIDIA Jetson en el misil ruso S-71 'Monochrome', lo que sugiere el uso de tecnología de IA en armamento.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Gigabyte revive el chipset B450 con nuevas placas base AM4",
+    "summary": "Gigabyte lanza nuevas placas base con el antiguo chipset B450 para ofrecer soluciones DDR4 económicas ante el alto precio de la memoria RAM.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La AORUS GeForce RTX 5090 INFINITY llega a Europa por 6.194 euros",
+    "summary": "La nueva tarjeta gráfica de gama alta de Gigabyte se lanza en Europa con un precio cercano a los 6.200 euros, siendo una de las más caras del mercado.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -65,56 +46,20 @@
     "count": 2
   },
   {
-    "title": "Grok 4.6 iguala a GPT-5.6 Sol con menos pasos y a menor coste",
-    "summary": "El modelo de xAI requiere la mitad de pasos que Claude Opus 5 y se ofrece más barato que Claude Fable 5.",
+    "title": "Intel prepara Nova Lake y mantiene Raptor Lake como parte clave de su cartera",
+    "summary": "Intel confirma que los procesadores Raptor Lake seguirán siendo importantes y anticipa el lanzamiento de Nova Lake, con expectativas sobre su rendimiento y compatibilidad con DDR4.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google lanza Gemini 3.7 Flash para competir con OpenAI y Anthropic",
+    "summary": "Google presenta su nuevo modelo Gemini 3.7 Flash con rendimiento premium a bajo coste, buscando rivalizar con las ofertas de OpenAI y Anthropic.",
     "source": [
       "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nvidia anuncia un plan de 500.000 millones de dólares para renovar su infraestructura de IA",
-    "summary": "La empresa quiere impulsar el recambio de GPU envejecidas y cambiar el modelo de financiación circular del sector.",
-    "source": [
-      "techcrunch.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI presenta el modo Ultrafast, que hace trabajar a GPT-5.6 Sol 14 veces más rápido",
-    "summary": "La nueva modalidad multiplica la velocidad del modelo insignia de OpenAI para acelerar sus respuestas.",
-    "source": [
-      "news.ycombinator.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google lanza Gemini 3.7 Flash con mejoras en código y un 50% menos de precio que su predecesor",
-    "summary": "El nuevo modelo de Google refuerza su rendimiento en programación y reduce costes para los desarrolladores.",
-    "source": [
-      "news.ycombinator.com",
       "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DeepSeek lanza su modelo V4 Pro, libera su software de agentes y sube los precios de la API",
-    "summary": "La compañía china también publica DeepSeek Harness en versión de desarrollador para crear agentes de IA.",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PBS demanda a Iron Mountain para recuperar el acceso a 50 TB de archivos históricos",
-    "summary": "La cadena pública perdió 70 años de material televisivo cuando su proveedor de almacenamiento en la nube quebró.",
-    "source": [
-      "news.ycombinator.com",
-      "tomshardware.com"
     ],
     "count": 2
   }
