@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { prepareNewsForClustering } from "./cluster-news.js";
+import { prepareNewsForClustering } from "../cluster-news.js";
 
 const HOUR = 60 * 60 * 1000;
 const NOW = Date.parse("2026-08-06T12:00:00.000Z");
