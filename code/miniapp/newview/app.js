@@ -68,6 +68,46 @@ if (tg) {
             if (jma && topic.value === 'japan') load();
         } catch {}
     };
+    const requestLocation = ({ force } = {}) => {
+        tg?.HapticFeedback.selectionChanged();
+        if (native?.initData) {
+            tg.LocationManager?.init(() => {
+                const lm = tg.LocationManager;
+                lm.getLocation(coords => {
+                    if (!coords) {
+                        setPlace({ geo: lm.isAccessGranted === false ? 'rejected' : 'unknown' });
+                        return;
+                    }
+                    precise = true;
+                    setPlace({
+                        source: 'Telegram',
+                        lat: coords.latitude,
+                        lon: coords.longitude,
+                        geo: 'approved',
+                    });
+                    applyWeather(coords);
+                });
+            });
+            return;
+        }
+        if (!navigator.geolocation) return;
+        navigator.geolocation.getCurrentPosition(
+            ({ coords }) => {
+                precise = true;
+                setPlace({
+                    source: 'Browser',
+                    lat: coords.latitude,
+                    lon: coords.longitude,
+                    geo: 'approved',
+                });
+                applyWeather(coords);
+            },
+            err => {
+                if (err?.code === 1) setPlace({ geo: 'rejected' });
+            },
+            { maximumAge: force ? 0 : 300_000, timeout: 8_000 },
+        );
+    };
     fetch('https://ip.guide/')
         .then(r => r.json())
         .then(data => {
@@ -82,34 +122,8 @@ if (tg) {
             if (!native?.initData && !precise) applyWeather(data.location);
         })
         .catch(() => {});
-    if (native?.initData) {
-        tg.LocationManager?.init(() => {
-            tg.LocationManager.getLocation(coords => {
-                if (!coords) return;
-                precise = true;
-                setPlace({
-                    source: 'Telegram',
-                    lat: coords.latitude,
-                    lon: coords.longitude,
-                });
-                applyWeather(coords);
-            });
-        });
-    } else {
-        navigator.geolocation?.getCurrentPosition(
-            ({ coords }) => {
-                precise = true;
-                setPlace({
-                    source: 'Browser',
-                    lat: coords.latitude,
-                    lon: coords.longitude,
-                });
-                applyWeather(coords);
-            },
-            () => {},
-            { maximumAge: 300_000, timeout: 8_000 },
-        );
-    }
+    requestLocation();
+    document.getElementById('diag-ask').onclick = () => requestLocation({ force: true });
     tg.MainButton.setText('LIVE NEWS');
     tg.MainButton.onClick(() => setLive(live.hidden));
     tg.SecondaryButton?.onClick(swapLang);
