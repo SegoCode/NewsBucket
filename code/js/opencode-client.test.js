@@ -49,7 +49,7 @@ test("sends the configured model and API key to OpenCode", async () => {
 	assert.equal(capturedOptions.headers.Authorization, "Bearer test-key");
 	assert.equal(
 		JSON.parse(capturedOptions.body).model,
-		"deepseek-v4-flash-free",
+		"nemotron-3-ultra-free",
 	);
 });
 
