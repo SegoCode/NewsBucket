@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>NewsBucket</title>
+    <link rel="stylesheet" href="../style.css">
+    <style>
+        #harness {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px 10px;
+            margin-bottom: 12px;
+            font-size: .78em;
+        }
+        #harness a { color: var(--tg-theme-link-color, #3390ec); }
+        #harness a[aria-current="page"] { font-weight: 600; color: inherit; text-decoration: none; }
+        #checks {
+            font: .75em/1.4 ui-monospace, monospace;
+            color: var(--tg-theme-hint-color, #888);
+            white-space: pre;
+            margin-bottom: 12px;
+        }
+    </style>
+</head>
+<body>
+    <nav id="harness"></nav>
+    <pre id="checks"></pre>
+    <div class="row">
+        <select id="topic">
+            <option value="status">Status</option>
+            <option value="finance">Finance</option>
+            <option value="gaming">Gaming</option>
+            <option value="japan">Japan</option>
+            <option value="tech">Tech</option>
+        </select>
+        <select id="lang">
+            <option value="en">English</option>
+            <option value="es">Español</option>
+            <option value="jp">日本語</option>
+        </select>
+    </div>
+    <main id="feed">
+        <div id="status">Loading…</div>
+    </main>
+    <section id="diag" hidden>
+        <hr>
+        <dl>
+            <dt>Location</dt>
+            <dd id="diag-place">—</dd>
+            <dt>Address</dt>
+            <dd id="diag-ip">—</dd>
+            <dt>GitHub</dt>
+            <dd id="diag-gh">—</dd>
+            <dt>Cloudflare</dt>
+            <dd id="diag-cf">—</dd>
+            <dt>JMA</dt>
+            <dd id="diag-jma">—</dd>
+        </dl>
+    </section>
+    <div id="live" hidden>
+        <section class="live-player" aria-label="Live News"><div id="liveFrame"></div></section>
+        <section class="live-player" aria-label="Second Live News"><div id="liveSecondFrame"></div></section>
+    </div>
+    <footer id="chrome" hidden>
+        <div class="chrome-row">
+            <button type="button" id="BackButton" hidden>BACK</button>
+            <button type="button" id="SecondaryButton" hidden>SWITCH TO ENGLISH</button>
+        </div>
+        <button type="button" id="MainButton">LIVE NEWS</button>
+    </footer>
+    <script type="module">
+        const here = new URLSearchParams(location.search).get('s') || 'feed';
+        const scenes = [
+            'loading', 'empty', 'feed', 'feed-es', 'feed-click', 'lang',
+            'status-ok', 'status-running', 'status-fail', 'status-empty',
+            'diag', 'diag-gps', 'diag-ip-gps', 'diag-none',
+            'quakes', 'weather', 'weather-ip', 'geo-wins', 'weather-osaka', 'japan-jp', 'japan-us', 'mix',
+            'live', 'live-open', 'live-en',
+        ];
+        document.getElementById('harness').innerHTML = scenes.map(s =>
+            `<a href="?s=${s}"${s === here ? ' aria-current="page"' : ''}>${s}</a>`
+        ).join('');
+    </script>
+    <script type="module" src="mock.js"></script>
+    <script type="module" src="../app.js"></script>
+    <script type="module" src="check.js"></script>
+</body>
+</html>
