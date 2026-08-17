@@ -2,6 +2,7 @@ import { JMA } from './jma-weather.js';
 
 const CF = 'https://www.cloudflare.com/cdn-cgi/trace';
 const GH = 'https://api.github.com';
+const RAW = 'https://raw.githubusercontent.com/SegoCode/NewsBucket/main/code/prompts/cluster.md';
 
 const env = {
     source: '',
@@ -10,6 +11,7 @@ const env = {
     country: '',
     lat: null,
     lon: null,
+    geo: 'unknown',
 };
 
 let onPlace;
@@ -33,7 +35,7 @@ const ping = async (url, cors) => {
             signal: AbortSignal.timeout(4000),
         });
         const ms = Math.round(performance.now() - t);
-        return { ok: !cors || res.ok, limited: res.status === 403, ms };
+        return { ok: !cors || res.ok, limited: res.status === 403 || res.status === 429, ms };
     } catch {
         return { ok: false, ms: Math.round(performance.now() - t) };
     }
@@ -61,21 +63,30 @@ export const createDiag = el => {
     const $ = id => el.querySelector('#' + id);
     let timer;
     const paintMeta = () => {
+        const geo = env.geo || 'unknown';
+        $('diag-geo').textContent = geo;
+        $('diag-geo').className = geo === 'approved' ? 'ok' : geo === 'rejected' ? 'high' : '';
         $('diag-place').textContent = place();
         $('diag-ip').textContent = env.ip || '—';
     };
     let gh;
+    let raw;
     const paint = async () => {
         paintMeta();
         const once = !gh;
-        const [cf, github, jma] = await Promise.all([
+        const [cf, github, rawHit, jma] = await Promise.all([
             ping(CF, false),
             once ? ping(GH, true) : gh,
+            once ? ping(RAW, true) : raw,
             ping(JMA + 'common/const/area.json', true),
         ]);
-        if (once) gh = github;
+        if (once) {
+            gh = github;
+            raw = rawHit;
+        }
         if (el.hidden) return;
         mark($('diag-gh'), gh);
+        mark($('diag-raw'), raw);
         mark($('diag-cf'), cf);
         mark($('diag-jma'), jma);
     };
