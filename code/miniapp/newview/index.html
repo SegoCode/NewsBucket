@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>NewsBucket</title>
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="row">
+        <select id="topic">
+            <option value="status">Status</option>
+            <option value="finance">Finance</option>
+            <option value="gaming">Gaming</option>
+            <option value="japan">Japan</option>
+            <option value="tech">Tech</option>
+        </select>
+        <select id="lang">
+            <option value="en">English</option>
+            <option value="es">Español</option>
+            <option value="jp">日本語</option>
+        </select>
+    </div>
+    <main id="feed">
+        <div id="status">Loading…</div>
+    </main>
+    <section id="diag" hidden>
+        <hr>
+        <dl>
+            <dt>Location</dt>
+            <dd id="diag-place">—</dd>
+            <dt>Address</dt>
+            <dd id="diag-ip">—</dd>
+            <dt>GitHub</dt>
+            <dd id="diag-gh">—</dd>
+            <dt>Cloudflare</dt>
+            <dd id="diag-cf">—</dd>
+            <dt>JMA</dt>
+            <dd id="diag-jma">—</dd>
+        </dl>
+    </section>
+    <div id="live" hidden>
+        <section class="live-player" aria-label="Live News"><div id="liveFrame"></div></section>
+        <section class="live-player" aria-label="Second Live News"><div id="liveSecondFrame"></div></section>
+    </div>
+    <footer id="chrome" hidden>
+        <div class="chrome-row">
+            <button type="button" id="BackButton" hidden>BACK</button>
+            <button type="button" id="SecondaryButton" hidden>SWITCH TO ENGLISH</button>
+        </div>
+        <button type="button" id="MainButton">LIVE NEWS</button>
+    </footer>
+    <script type="module" src="app.js"></script>
+</body>
+</html>
