@@ -26,25 +26,40 @@ const COUNT = {
     'feed-es': 3,
     'feed-click': 3,
     lang: 3,
+    'feed-count': 2,
     'status-ok': 5,
     'status-running': 5,
     'status-fail': 5,
     'status-empty': 0,
+    'status-mixed': 5,
     diag: 5,
     'diag-gps': 5,
     'diag-ip-gps': 5,
     'diag-none': 5,
+    'diag-denied': 5,
+    'diag-ask': 5,
+    'diag-raw': 5,
     quakes: 2,
+    'quake-mag': 1,
+    'quake-age': 1,
+    'quake-blink': 2,
+    'quake-drop': 1,
+    'quake-combo': 2,
     weather: 3,
+    'weather-l2': 1,
+    'weather-jp': 3,
     'weather-ip': 3,
     'geo-wins': 3,
     'weather-osaka': 1,
     'japan-jp': 6,
     'japan-us': 3,
+    'japan-es': 6,
     mix: 6,
     live: 0,
     'live-open': 0,
     'live-en': 0,
+    'live-back': 0,
+    'live-topic': 0,
 };
 
 const ready = async () => {
@@ -65,14 +80,31 @@ const ready = async () => {
         if (scenario === 'diag-ip-gps') {
             await wait(() => $('#diag-place').textContent.includes('Browser') && $('#diag-place').textContent.includes('34.690'));
         }
+        if (scenario === 'diag-denied') await wait(() => $('#diag-geo').textContent === 'rejected');
+        if (scenario === 'diag-ask') {
+            await wait(() => $('#diag-geo').textContent === 'rejected');
+            $('#diag-ask').click();
+            await wait(() => $('#diag-geo').textContent === 'approved');
+        }
+        if (scenario === 'diag-raw') await wait(() => $('#diag-raw').textContent.includes('rate limit'));
     }
-    if (scenario === 'live-open' || scenario === 'live-en') {
+    if (scenario === 'live-open' || scenario === 'live-en' || scenario === 'live-back') {
         $('#MainButton').click();
         await wait(() => !$('#live').hidden);
     }
     if (scenario === 'live-en') {
         $('#SecondaryButton').click();
         await wait(() => $('#SecondaryButton').textContent.includes('JAPANESE'));
+    }
+    if (scenario === 'live-back') {
+        $('#BackButton').click();
+        await wait(() => $('#live').hidden);
+    }
+    if (scenario === 'live-topic') {
+        await wait(() => !$('#chrome').hidden);
+        $('#topic').value = 'finance';
+        $('#topic').dispatchEvent(new Event('change'));
+        await wait(() => articles().length >= 3 && $('#chrome').hidden);
     }
 };
 
@@ -82,7 +114,7 @@ const run = () => {
         ok(!articles().length, 'no articles');
         return;
     }
-    if (scenario === 'empty' || scenario === 'status-empty') {
+    if (scenario === 'empty' || scenario === 'status-empty' || scenario === 'feed-down') {
         ok($('#status')?.textContent === 'No news', 'No news');
         if (scenario === 'status-empty') ok(!$('#diag').hidden, 'diag on');
         return;
@@ -127,6 +159,12 @@ const run = () => {
         ok(classes().every(c => c === 'running'), 'all running');
         return;
     }
+    if (scenario === 'feed-count') {
+        ok(articles().length === 2, '2 articles');
+        ok(classes().join() === 'high,low', 'count from sources');
+        ok(titles().join() === 'Four sources,Two sources', 'titles');
+        return;
+    }
     if (scenario === 'status-fail') {
         const fail = articles().find(a => a.className === 'high');
         ok(fail, 'one high');
@@ -135,38 +173,90 @@ const run = () => {
         ok(classes().filter(c => c === 'ok').length === 4, 'rest ok');
         return;
     }
+    if (scenario === 'status-mixed') {
+        ok(classes().join() === 'high,running,running,ok,ok', 'fail then running then ok');
+        ok(titles()[0] === 'Japan digest', 'fail first');
+        ok(sources()[0].includes('Compile translations'), 'step');
+        return;
+    }
     if (scenario.startsWith('diag')) {
         ok(!$('#diag').hidden, 'diag visible');
         ok($('#diag-gh').textContent.includes('rate limit'), 'gh 403');
         ok($('#diag-cf').textContent.includes('ok'), 'cf ok');
         ok($('#diag-jma').textContent.includes('down'), 'jma down');
+        if (scenario === 'diag-raw') ok($('#diag-raw').textContent.includes('rate limit'), 'raw 429');
+        else ok($('#diag-raw').textContent.includes('ok'), 'raw 200');
         if (scenario === 'diag') {
             ok($('#diag-ip').textContent === '203.0.113.10', 'ip');
             ok($('#diag-place').textContent.includes('IP') && $('#diag-place').textContent.includes('Tokyo'), 'place IP');
+            ok($('#diag-geo').textContent === 'unknown', 'unknown');
         }
         if (scenario === 'diag-gps') {
             ok($('#diag-place').textContent.includes('35.680') && $('#diag-place').textContent.includes('Browser'), 'gps');
             ok($('#diag-ip').textContent === '198.51.100.8', 'late ip kept');
             ok(!$('#diag-place').textContent.includes('Dallas'), 'late ip did not replace gps');
+            ok($('#diag-geo').textContent === 'approved', 'approved');
         }
         if (scenario === 'diag-ip-gps') {
             ok($('#diag-place').textContent.includes('34.690') && $('#diag-place').textContent.includes('Browser'), 'late gps wins');
             ok($('#diag-ip').textContent === '203.0.113.10', 'early ip kept');
             ok(!$('#diag-place').textContent.includes('Tokyo'), 'gps replaced ip location');
+            ok($('#diag-geo').textContent === 'approved', 'approved');
         }
         if (scenario === 'diag-none') {
             ok($('#diag-place').textContent === '—', 'no place');
             ok($('#diag-ip').textContent === '—', 'no ip');
+            ok($('#diag-geo').textContent === 'unknown', 'unknown');
+        }
+        if (scenario === 'diag-denied') {
+            ok($('#diag-geo').textContent === 'rejected', 'rejected');
+            ok($('#diag-geo').className === 'high', 'rejected color');
+        }
+        if (scenario === 'diag-ask') {
+            ok($('#diag-geo').textContent === 'approved', 'ask grants');
+            ok($('#diag-place').textContent.includes('Browser'), 'gps after ask');
         }
         return;
     }
     if (scenario === 'quakes') {
-        ok(classes()[0] === 'quake-high quake-recent', 'recent <1h');
+        ok(classes()[0] === 'quake-high quake-recent', 'recent <2h');
         ok(classes()[1] === 'quake-high', 'older <24h');
         ok(titles()[0].startsWith('M6.2') && titles()[0].includes('Tokyo Bay'), 'M6.2');
         ok(titles()[1].startsWith('M5.4'), 'M5.4');
         ok(titles().every(t => !t.includes('Weather alert')), 'no weather');
         ok(articles()[0].getAttribute('onclick')?.includes('geo:'), 'geo url');
+        return;
+    }
+    if (scenario === 'quake-mag') {
+        ok(articles().length === 1, 'only M≥4.5');
+        ok(titles()[0].startsWith('M4.5') && titles()[0].includes('Floor'), 'floor kept');
+        ok(!titles().some(t => t.includes('Below') || t.startsWith('M4.4')), 'M4.4 dropped');
+        return;
+    }
+    if (scenario === 'quake-age') {
+        ok(articles().length === 1, 'only <48h');
+        ok(titles()[0].includes('Inside'), '47h kept');
+        ok(!titles().some(t => t.includes('Outside')), '48h dropped');
+        return;
+    }
+    if (scenario === 'quake-blink') {
+        ok(classes()[0] === 'quake-high quake-recent', '1h blinks');
+        ok(titles()[0].includes('Fresh'), 'fresh first');
+        ok(classes()[1] === 'quake-high', '2h still');
+        ok(titles()[1].includes('Stale'), 'stale second');
+        return;
+    }
+    if (scenario === 'quake-combo') {
+        ok(articles().length === 2, '2 kept');
+        ok(titles()[0].startsWith('M6.0') && classes()[0] === 'quake-high quake-recent', 'hot blinks');
+        ok(titles()[1].startsWith('M4.5') && classes()[1] === 'quake-high', 'edge still');
+        ok(!titles().some(t => t.includes('Weak') || t.includes('Old')), 'weak/old dropped');
+        return;
+    }
+    if (scenario === 'quake-drop') {
+        ok(articles().length === 1, 'only complete');
+        ok(titles()[0].includes('Kept'), 'kept');
+        ok(!titles().some(t => t.includes('No mag') || t.includes('No cod')), 'incomplete dropped');
         return;
     }
     if (scenario === 'weather' || scenario === 'weather-ip') {
@@ -175,13 +265,30 @@ const run = () => {
         ok(titles()[2].includes('Storm') && titles()[2].includes('Level 5'), 'storm L5');
         ok(sources()[0].includes('Tokyo'), 'Tokyo');
         ok(!titles().some(t => t.startsWith('M')), 'no quake');
+        ok(classes()[0].includes('quake-recent'), 'L3 blinks');
+        ok(!classes()[1].includes('quake-recent'), 'L1 still');
+        ok(classes()[2].includes('quake-recent'), 'L5 blinks');
         if (scenario === 'weather-ip') ok(articles().length === 3, 'ip-only weather');
+        return;
+    }
+    if (scenario === 'weather-l2') {
+        ok(articles().length === 1, '1 alert');
+        ok(titles()[0].includes('Wind') && titles()[0].includes('Level 2'), 'L2 title');
+        ok(!classes()[0].includes('quake-recent'), 'L2 still');
+        return;
+    }
+    if (scenario === 'weather-jp') {
+        ok(titles()[0].includes('大雨') && titles()[0].includes('レベル3'), '雨');
+        ok(titles()[1] === '気象警報: 洪水', '洪水');
+        ok(titles()[2].includes('暴風') && titles()[2].includes('レベル5'), '暴風');
+        ok(classes()[0].includes('quake-recent') && !classes()[1].includes('quake-recent') && classes()[2].includes('quake-recent'), 'jp blink');
         return;
     }
     if (scenario === 'weather-osaka') {
         ok(articles().length === 1, '1 alert');
         ok(titles()[0].includes('Storm') && titles()[0].includes('Level 5'), 'storm');
         ok(sources()[0].includes('Osaka'), 'Osaka');
+        ok(classes()[0].includes('quake-recent'), 'L5 blinks');
         return;
     }
     if (scenario === 'japan-jp') {
@@ -190,6 +297,12 @@ const run = () => {
         ok(titles()[3] === '気象警報: 洪水', '洪水');
         ok(titles()[4].includes('暴風') && titles()[4].includes('レベル5'), '暴風');
         ok(titles()[5] === '国会が法案を可決', 'news jp');
+        return;
+    }
+    if (scenario === 'japan-es') {
+        ok(titles()[0].includes('Tokyo Bay') && titles()[1].includes('Osaka Bay'), 'quakes en');
+        ok(titles()[2].includes('Heavy rain') && titles()[4].includes('Storm'), 'weather en');
+        ok(titles()[5] === 'La Dieta aprueba el proyecto', 'news es');
         return;
     }
     if (scenario === 'japan-us') {
@@ -228,6 +341,19 @@ const run = () => {
     if (scenario === 'live-en') {
         ok(!$('#live').hidden, 'overlay');
         ok($('#SecondaryButton').textContent === 'SWITCH TO JAPANESE', 'swap jp');
+        return;
+    }
+    if (scenario === 'live-back') {
+        ok($('#live').hidden, 'closed');
+        ok(!$('#MainButton').hidden && $('#MainButton').textContent === 'LIVE NEWS', 'LIVE NEWS');
+        ok($('#BackButton').hidden, 'back off');
+        return;
+    }
+    if (scenario === 'live-topic') {
+        ok($('#topic').value === 'finance', 'left japan');
+        ok($('#chrome').hidden, 'chrome off');
+        ok(titles()[0] === 'Four outlets on rates', 'finance feed');
+        ok($('#live').hidden, 'live off');
     }
 };
 
