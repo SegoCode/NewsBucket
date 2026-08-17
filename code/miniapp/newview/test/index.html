@@ -45,13 +45,18 @@
     </main>
     <section id="diag" hidden>
         <hr>
+        <button type="button" id="diag-ask">REQUEST LOCATION</button>
         <dl>
+            <dt>Permission</dt>
+            <dd id="diag-geo">unknown</dd>
             <dt>Location</dt>
             <dd id="diag-place">—</dd>
             <dt>Address</dt>
             <dd id="diag-ip">—</dd>
             <dt>GitHub</dt>
             <dd id="diag-gh">—</dd>
+            <dt>Raw</dt>
+            <dd id="diag-raw">—</dd>
             <dt>Cloudflare</dt>
             <dd id="diag-cf">—</dd>
             <dt>JMA</dt>
@@ -72,11 +77,13 @@
     <script type="module">
         const here = new URLSearchParams(location.search).get('s') || 'feed';
         const scenes = [
-            'loading', 'empty', 'feed', 'feed-es', 'feed-click', 'lang',
-            'status-ok', 'status-running', 'status-fail', 'status-empty',
-            'diag', 'diag-gps', 'diag-ip-gps', 'diag-none',
-            'quakes', 'weather', 'weather-ip', 'geo-wins', 'weather-osaka', 'japan-jp', 'japan-us', 'mix',
-            'live', 'live-open', 'live-en',
+            'loading', 'empty', 'feed', 'feed-es', 'feed-click', 'lang', 'feed-down', 'feed-count',
+            'status-ok', 'status-running', 'status-fail', 'status-empty', 'status-mixed',
+            'diag', 'diag-gps', 'diag-ip-gps', 'diag-none', 'diag-denied', 'diag-ask', 'diag-raw',
+            'quakes', 'quake-mag', 'quake-age', 'quake-blink', 'quake-drop', 'quake-combo',
+            'weather', 'weather-ip', 'weather-l2', 'weather-jp', 'geo-wins', 'weather-osaka',
+            'japan-jp', 'japan-us', 'japan-es', 'mix',
+            'live', 'live-open', 'live-en', 'live-back', 'live-topic',
         ];
         document.getElementById('harness').innerHTML = scenes.map(s =>
             `<a href="?s=${s}"${s === here ? ' aria-current="page"' : ''}>${s}</a>`
