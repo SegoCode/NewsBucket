@@ -1,86 +1,16 @@
 [
   {
-    "title": "Nvidia、GeForce RTX向けに最適化された無料AIモデル「Nemotron 3.5 Lightning」を発表",
-    "summary": "オープンウェイトモデルは最大の知能よりも速度を優先し、ローカルAIを最大4倍高速化する。",
+    "title": "StripeがAIスタートアップのOpenRouterを70億ドル以上で買収",
+    "summary": "決済プラットフォームのStripeが、AIモデルのゲートウェイであるOpenRouterを70億ドル以上の取引で買収。",
     "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com",
-      "xataka.com",
-      "the-decoder.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Anthropic、Claudeのテキストと画像に不可視の透かしを導入",
-    "summary": "この透かしは、コンテンツをコピー、貼り付け、編集した後も残るように設計されている。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "米国、ゲーマー2,000人以上を航空管制官として採用",
-    "summary": "採用キャンペーンは記録的な速さで目標の94%を達成。給与は最大15万5,000ドル。",
-    "source": [
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Nvidia、ウォール街の支援で5,000億ドルのAIインフラ資金を動員へ",
-    "summary": "同社は自社チップの価値を保証し、大規模AIプロジェクトへの資金調達を可能にする。",
-    "source": [
-      "tomshardware.com",
-      "the-decoder.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "DRAM・HBMメモリ価格の高騰がテック業界を緊張させる",
-    "summary": "2027年分の在庫はすでに完売。iPhone 18 Proのコストは38%上昇し、SK hynixは生産を拡大。",
-    "source": [
-      "xataka.com",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "研究者らがプロプライエタリAIモデルの隠れた推論を抽出することに成功",
-    "summary": "この手法により、ChatGPTなどのAPIで内部メッセージや漏洩したパスワードを含む思考の痕跡が明らかになる。",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "wired.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI、Codex対応のChatGPT Linuxデスクトップアプリをリリース",
-    "summary": "公式クライアントにより、Linux OSユーザーもアシスタントを利用できるようになる。",
-    "source": [
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SpaceXAI、iPhoneとMac向け自律タスク実行AIエージェントアプリ「Grok Bot」を発表",
-    "summary": "新アプリにより、AppleユーザーはAIアシスタントに自律タスクを委任できる。",
-    "source": [
-      "alternativeto.net",
+      "techcrunch.com",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft、Windows OEMライセンス価格を7%〜10%値上げ",
-    "summary": "複数メディアが報じたこの調整により、OEMメーカーのライセンス費用が高くなる。",
+    "title": "Steam Deck LCD用交換バッテリーが125%値上がりし180ドルに",
+    "summary": "Steam Deck LCD版の公式バッテリー価格が179.95ユーロ（180ドル）に急騰、前価格の2倍以上に。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -88,65 +18,20 @@
     "count": 2
   },
   {
-    "title": "ModderがSteam MachineにeGPU「Radeon RX 9070 XT」を追加",
-    "summary": "M.2-to-OCuLinkアダプタのおかげで、システムは『Crimson Desert』を高品質設定で100FPS超えを達成。",
+    "title": "AMDがRadeon RX 9050のレビューを禁止、2022年のRX 6650 XTより性能が低いことがリーク",
+    "summary": "AMDがレビュー用サンプルの提供を拒否、独立したレビューで新エントリーGPUが3年前のカードより遅いことが確認される。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "メーカーが警告、エントリークラスGPUの不足が2026年下半期にさらに悪化",
+    "summary": "ZOTAC、Inno3D、Manliが基本GPUの供給が今後数ヶ月でさらに悪化すると警告。",
     "source": [
       "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Steam Deckを現代のゲームボーイに変えるMOD「SteamBoy」",
-    "summary": "このプロジェクトは、ゲームボーイのクラシックな筐体とValve製コンソールのオリジナルハードウェアを組み合わせたもの。",
-    "source": [
-      "hardzone.es",
       "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GeForce RTX 50シリーズ、米国市場で公式価格を最大135%上回る",
-    "summary": "RTX 5070は平均900ドルに達し、推奨価格を大幅に上回る。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel、工場拡張とTSMCとの競争のため197億ドルを調達",
-    "summary": "同社は14Aプロセスを準備し、先端チップパッケージングを拡大する。",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "FBIと専門家、米国企業に潜入する北朝鮮のリモートワーカーを警告",
-    "summary": "おとり捜査で仮想通貨企業に北朝鮮の容疑者3人を雇用。別の事例では政府機関にも到達していた。",
-    "source": [
-      "techcrunch.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Kalshi、CFTCの緊急命令とFlightAwareの訴訟に直面",
-    "summary": "予測プラットフォームは、フライトキャンセル市場を守りながらニューヨークでの業務を継続する必要がある。",
-    "source": [
-      "news.ycombinator.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Zoomの脆弱性により、参加者が通話中の他のデバイスを乗っ取れる可能性",
-    "summary": "注釈と画面共有の欠陥により、Zoomユーザーは他のユーザーに乗っ取られる恐れがある。",
-    "source": [
-      "thehackernews.com",
-      "wired.com"
     ],
     "count": 2
   }
