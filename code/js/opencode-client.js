@@ -2,7 +2,7 @@ import { EventSourceParserStream } from "eventsource-parser/stream";
 import { jsonrepair } from "jsonrepair";
 
 const API_URL = "https://opencode.ai/zen/v1/chat/completions";
-const MODEL = "deepseek-v4-flash-free";
+const MODEL = "nemotron-3-ultra-free";
 const MAX_ATTEMPTS = 4;
 const FINAL_RETRY_DELAY = 60_000;
 const delay = (milliseconds) =>
