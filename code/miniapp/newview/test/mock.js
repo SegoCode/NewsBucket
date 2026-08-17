@@ -15,17 +15,33 @@ const SCENES = {
     'diag-gps': { t: 'status', l: 'en' },
     'diag-ip-gps': { t: 'status', l: 'en' },
     'diag-none': { t: 'status', l: 'en' },
+    'diag-denied': { t: 'status', l: 'en' },
+    'diag-ask': { t: 'status', l: 'en' },
+    'diag-raw': { t: 'status', l: 'en' },
     quakes: { t: 'japan', l: 'en' },
+    'quake-mag': { t: 'japan', l: 'en' },
+    'quake-age': { t: 'japan', l: 'en' },
+    'quake-blink': { t: 'japan', l: 'en' },
+    'quake-drop': { t: 'japan', l: 'en' },
+    'quake-combo': { t: 'japan', l: 'en' },
     weather: { t: 'japan', l: 'en' },
+    'weather-l2': { t: 'japan', l: 'en' },
+    'weather-jp': { t: 'japan', l: 'jp' },
     'weather-ip': { t: 'japan', l: 'en' },
     'geo-wins': { t: 'japan', l: 'en' },
     'weather-osaka': { t: 'japan', l: 'en' },
     'japan-jp': { t: 'japan', l: 'jp' },
     'japan-us': { t: 'japan', l: 'en' },
+    'japan-es': { t: 'japan', l: 'es' },
     mix: { t: 'japan', l: 'en' },
     live: { t: 'japan', l: 'en' },
     'live-open': { t: 'japan', l: 'en' },
     'live-en': { t: 'japan', l: 'en' },
+    'live-back': { t: 'japan', l: 'en' },
+    'live-topic': { t: 'japan', l: 'en' },
+    'feed-down': { t: 'finance', l: 'en' },
+    'feed-count': { t: 'tech', l: 'en' },
+    'status-mixed': { t: 'status', l: 'en' },
 };
 
 const scene = SCENES[scenario] || SCENES.feed;
@@ -40,11 +56,16 @@ const LOCATION = {
     'geo-wins': { ip: 'osaka', gps: 'tokyo', gpsDelay: 20 },
     mix: { ip: 'tokyo', gps: 'tokyo' },
     'japan-jp': { ip: 'tokyo', gps: 'tokyo' },
+    'japan-es': { ip: 'tokyo', gps: 'tokyo' },
     'weather-osaka': { ip: 'osaka', gps: 'osaka' },
+    'weather-l2': { ip: 'tokyo', gps: 'tokyo' },
+    'weather-jp': { ip: 'tokyo', gps: 'tokyo' },
     diag: { ip: 'tokyo' },
     'diag-gps': { ip: 'us', ipDelay: 80, gps: 'tokyo', gpsDelay: 20 },
     'diag-ip-gps': { ip: 'tokyo', gps: 'osaka', gpsDelay: 80 },
     'diag-none': { ipFail: true },
+    'diag-denied': { ip: 'tokyo', denied: true },
+    'diag-ask': { ip: 'tokyo', gps: 'tokyo', denyOnce: true },
     'status-ok': { ip: 'tokyo' },
     'status-running': { ip: 'tokyo' },
     'status-fail': { ip: 'tokyo' },
@@ -78,13 +99,32 @@ const JAPAN_NEWS = {
 };
 
 const iso = ago => new Date(Date.now() - ago).toISOString();
-const quakes = () => [
-    { eid: '1', mag: '6.1', cod: '+35.6+139.7/', at: iso(25 * 60e3), ctt: '1', anm: '東京湾', en_anm: 'old dup' },
-    { eid: '1', mag: '6.2', cod: '+35.6+139.7/', at: iso(20 * 60e3), ctt: '2', anm: '東京湾', en_anm: 'Tokyo Bay' },
-    { eid: '2', mag: '5.4', cod: '+34.4+135.2/', at: iso(5 * 3600e3), ctt: '3', anm: '大阪湾', en_anm: 'Osaka Bay' },
-    { eid: '3', mag: '4.8', cod: '+35.0+139.0/', at: iso(10 * 60e3), ctt: '4', anm: '千葉', en_anm: 'Chiba' },
-    { eid: '4', mag: '5.5', cod: '+38.0+142.0/', at: iso(2 * 864e5), ctt: '5', anm: '三陸沖', en_anm: 'Sanriku' },
-];
+const q = (eid, mag, ago, en) => ({
+    eid, mag, cod: '+35.0+139.0/', at: iso(ago), ctt: eid, anm: en, en_anm: en,
+});
+const quakes = () => {
+    if (scenario === 'quake-mag') return [q('1', '4.5', 60e3, 'Floor'), q('2', '4.4', 60e3, 'Below')];
+    if (scenario === 'quake-age') return [q('1', '5.0', 47 * 3600e3, 'Inside'), q('2', '5.0', 2 * 864e5, 'Outside')];
+    if (scenario === 'quake-blink') return [q('1', '5.0', 3600e3, 'Fresh'), q('2', '5.0', 2 * 3600e3, 'Stale')];
+    if (scenario === 'quake-combo') return [
+        q('1', '6.0', 3600e3, 'Hot'),
+        q('2', '4.5', 47 * 3600e3, 'Edge'),
+        q('3', '4.4', 60e3, 'Weak'),
+        q('4', '5.0', 2 * 864e5, 'Old'),
+    ];
+    if (scenario === 'quake-drop') return [
+        q('1', '5.0', 60e3, 'Kept'),
+        { eid: '2', mag: '', cod: '+35.0+139.0/', at: iso(60e3), ctt: '2', anm: '無', en_anm: 'No mag' },
+        { eid: '3', mag: '5.0', at: iso(60e3), ctt: '3', anm: '無', en_anm: 'No cod' },
+    ];
+    return [
+        { eid: '1', mag: '6.1', cod: '+35.6+139.7/', at: iso(25 * 60e3), ctt: '1', anm: '東京湾', en_anm: 'old dup' },
+        { eid: '1', mag: '6.2', cod: '+35.6+139.7/', at: iso(20 * 60e3), ctt: '2', anm: '東京湾', en_anm: 'Tokyo Bay' },
+        { eid: '2', mag: '5.4', cod: '+34.4+135.2/', at: iso(5 * 3600e3), ctt: '3', anm: '大阪湾', en_anm: 'Osaka Bay' },
+        { eid: '3', mag: '4.4', cod: '+35.0+139.0/', at: iso(10 * 60e3), ctt: '4', anm: '千葉', en_anm: 'Chiba' },
+        { eid: '4', mag: '5.5', cod: '+38.0+142.0/', at: iso(2 * 864e5), ctt: '5', anm: '三陸沖', en_anm: 'Sanriku' },
+    ];
+};
 
 const RUN = {
     id: 1,
@@ -119,6 +159,15 @@ const jobs = () => {
     if (scenario === 'status-running') return { jobs: [] };
     if (scenario === 'status-fail') {
         return { jobs: NAMES.map(n => job(n, n === 'Translate clusters' ? 'fail' : 'ok')) };
+    }
+    if (scenario === 'status-mixed') {
+        return { jobs: [
+            job(NAMES[0], 'ok'),
+            job(NAMES[1], 'running'),
+            job(NAMES[2], 'ok'),
+            job(NAMES[3], 'fail'),
+            job(NAMES[4], 'running'),
+        ] };
     }
     return { jobs: NAMES.map((n, i) => job(n, 'ok', TIMES[i])) };
 };
@@ -183,12 +232,19 @@ const COORDS = {
     osaka: { latitude: 34.69, longitude: 135.5 },
 };
 
+let geoAsks = 0;
 Object.defineProperty(navigator, 'geolocation', {
     configurable: true,
     value: {
         getCurrentPosition(ok, err) {
+            geoAsks++;
+            const wait = LOCATION.gpsDelay ?? 20;
+            if (LOCATION.denied || (LOCATION.denyOnce && geoAsks === 1)) {
+                setTimeout(() => err?.({ code: 1 }), wait);
+                return;
+            }
             const coords = COORDS[LOCATION.gps];
-            setTimeout(() => coords ? ok({ coords }) : err?.(), LOCATION.gpsDelay ?? 20);
+            setTimeout(() => coords ? ok({ coords }) : err?.(), wait);
         },
     },
 });
@@ -202,9 +258,9 @@ const json = (data, status = 200) =>
 const text = (body, status = 200) =>
     Promise.resolve(new Response(body, { status }));
 
-const withQuakes = scenario === 'quakes' || scenario === 'mix' || scenario === 'japan-jp' || scenario === 'japan-us';
-const noJapanNews = scenario === 'quakes' || scenario === 'weather' || scenario === 'weather-ip' || scenario === 'weather-osaka'
-    || scenario === 'geo-wins' || scenario === 'live' || scenario === 'live-open' || scenario === 'live-en';
+const withQuakes = scenario.startsWith('quake') || scenario.startsWith('japan') || scenario === 'mix';
+const noJapanNews = scenario.startsWith('quake') || scenario.startsWith('weather') || scenario === 'geo-wins'
+    || scenario.startsWith('live');
 
 window.fetch = (input, init) => {
     const url = typeof input === 'string' ? input : input.url;
@@ -217,6 +273,13 @@ window.fetch = (input, init) => {
         if (cluster[1] === 'japan') {
             if (noJapanNews) return json([]);
             return json(JAPAN_NEWS[lang] || JAPAN_NEWS.en);
+        }
+        if (scenario === 'feed-down') return text('', 404);
+        if (scenario === 'feed-count') {
+            return json([
+                { title: 'Four sources', source: ['a.com', 'b.com', 'c.com', 'd.com'] },
+                { title: 'Two sources', source: ['a.com', 'b.com'] },
+            ]);
         }
         const items = CLUSTERS[lang] || CLUSTERS.en;
         if (scenario === 'feed-click') {
@@ -237,6 +300,9 @@ window.fetch = (input, init) => {
             : json({});
     }
     if (url.includes('cloudflare.com/cdn-cgi/trace')) return text('fl=1');
+    if (url.includes('prompts/cluster.md')) {
+        return scenario === 'diag-raw' ? text('', 429) : text('# cluster', 200);
+    }
     if (url.includes('ip.guide')) {
         if (LOCATION.ipFail) return Promise.reject(new Error('down'));
         const response = json(IP[LOCATION.ip] || IP.us);
@@ -258,8 +324,26 @@ window.fetch = (input, init) => {
         if (scenario.startsWith('diag')) return Promise.reject(new Error('down'));
         return json(AREA);
     }
-    if (url.includes('panel/const/setting.json')) return json(SETTING);
-    if (url.includes('www.jma.go.jp/bosai/')) return json(WARN);
+    if (url.includes('panel/const/setting.json')) {
+        if (scenario === 'weather-l2') {
+            return json({
+                lines: [[], ['rain']],
+                panels: {
+                    rain: {
+                        url: ['warn'],
+                        enName: { 3: 'Wind [Level 2] alert' },
+                        name: { 3: '風 [レベル2] アラート' },
+                    },
+                },
+                urls: { warn: 'forecast/warn.json' },
+            });
+        }
+        return json(SETTING);
+    }
+    if (url.includes('www.jma.go.jp/bosai/')) {
+        if (scenario === 'weather-l2') return json({ rain: { x: { 130010: '3' } } });
+        return json(WARN);
+    }
 
     return Promise.reject(new Error('unmocked ' + url));
 };
