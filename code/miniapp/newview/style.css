@@ -124,7 +124,8 @@ article[onclick] {
     display: none;
 }
 
-#chrome button {
+#chrome button,
+#diag button {
     flex: 1;
     padding: 12px 14px;
     font: inherit;
@@ -146,7 +147,8 @@ article[onclick] {
 }
 
 #BackButton,
-#SecondaryButton {
+#SecondaryButton,
+#diag button {
     background: var(--tg-theme-secondary-bg-color, #f1f1f1);
 }
 
@@ -182,6 +184,11 @@ article[onclick] {
     border: 0;
     border-top: 1px solid var(--tg-theme-hint-color, #ddd);
     margin: 10px 0;
+}
+
+#diag button {
+    width: 100%;
+    margin-bottom: 8px;
 }
 
 #diag dl {
