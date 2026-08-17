@@ -18,12 +18,15 @@ const formatAlertName = (s, lang) => {
 };
 
 export const weatherItems = (jma, lang) =>
-    jma.alerts.map(a => ({
-        title: `${lang === 'jp' ? '気象警報' : 'Weather alert'}: ${formatAlertName(lang === 'jp' ? a.jp : a.en, lang === 'jp' ? 'jp' : 'en')}`,
-        source: ['JMA', jma.prefecture],
-        cls: 'quake-high',
-        url: `https://www.jma.go.jp/bosai/#lang=${lang === 'jp' ? 'jp' : 'en'}&pattern=default&area_type=japan&area_code=010000`,
-    }));
+    jma.alerts.map(a => {
+        const title = `${lang === 'jp' ? '気象警報' : 'Weather alert'}: ${formatAlertName(lang === 'jp' ? a.jp : a.en, lang === 'jp' ? 'jp' : 'en')}`;
+        return {
+            title,
+            source: ['JMA', jma.prefecture],
+            cls: 'quake-high' + (/[3-9]|\d{2,}/.test(title) ? ' quake-recent' : ''),
+            url: `https://www.jma.go.jp/bosai/#lang=${lang === 'jp' ? 'jp' : 'en'}&pattern=default&area_type=japan&area_code=010000`,
+        };
+    });
 
 export const fetchWeatherAlerts = async coords => {
     const place = await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${coords.latitude}&longitude=${coords.longitude}&localityLanguage=en`).then(r => r.json());
