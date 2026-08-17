@@ -11,7 +11,7 @@
 		"translate": "node js/translate-clusters.js",
 		"validate-clusters": "node js/validate-clusters.js",
 		"pipeline": "pnpm run feeds && pnpm run validate-feeds && pnpm run cluster && pnpm run translate && pnpm run validate-clusters",
-		"test": "node --test js/*.test.js",
+		"test": "node --test js/test/*.test.js",
 		"format": "biome format --write .",
 		"lint": "biome lint .",
 		"check": "biome check --write ."
