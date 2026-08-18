@@ -30,15 +30,23 @@ export const weatherItems = (jma, lang) =>
 
 export const fetchWeatherAlerts = async coords => {
     const place = await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${coords.latitude}&longitude=${coords.longitude}&localityLanguage=en`).then(r => r.json());
+    const city = place.city || place.locality || place.principalSubdivision || '';
+    const country = place.countryName || place.countryCode || '';
+    const named = { city, country, prefecture: '', alerts: [] };
     const pref = place.countryCode === 'JP' && place.principalSubdivisionCode?.split('-')[1];
-    if (!pref) return null;
+    if (!pref) return named;
     const prefecture = place.principalSubdivision;
-    const [areas, cfg] = await Promise.all([
-        fetch(`${JMA}common/const/area.json`).then(r => r.json()),
-        fetch(`${JMA}panel/const/setting.json`).then(r => r.json()),
-    ]);
+    let areas, cfg;
+    try {
+        [areas, cfg] = await Promise.all([
+            fetch(`${JMA}common/const/area.json`).then(r => r.json()),
+            fetch(`${JMA}panel/const/setting.json`).then(r => r.json()),
+        ]);
+    } catch {
+        return named;
+    }
     const offices = Object.entries(areas.offices).filter(([code]) => code.startsWith(pref));
-    if (!offices.length) return null;
+    if (!offices.length) return named;
     const c10 = offices.flatMap(([, o]) => o.children || []);
     const c15 = c10.flatMap(c => areas.class10s[c]?.children || []);
     const codes = new Set([...c10, ...c15,
@@ -49,6 +57,7 @@ export const fetchWeatherAlerts = async coords => {
         urlKeys.map(async key => [key, await fetch(JMA + cfg.urls[key]).then(r => r.json())])
     ));
     return {
+        ...named,
         prefecture,
         alerts: panels.flatMap(([key, p]) => {
             const level = p.url
