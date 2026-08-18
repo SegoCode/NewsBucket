@@ -178,7 +178,9 @@ article[onclick] {
 }
 
 .live-player {
-    position: relative;
+    container-type: size;
+    display: grid;
+    place-items: center;
     min-width: 0;
     min-height: 0;
     overflow: hidden;
@@ -186,13 +188,8 @@ article[onclick] {
 }
 
 .live-player iframe {
-    position: absolute;
-    top: 0;
-    left: 50%;
-    height: 100%;
-    width: auto;
-    aspect-ratio: 16 / 9;
-    transform: translateX(-50%);
+    width: min(100cqw, calc(100cqh * 16 / 9));
+    height: min(100cqh, calc(100cqw * 9 / 16));
     border: 0;
 }
 
