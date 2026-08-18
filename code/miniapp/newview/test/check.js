@@ -56,6 +56,7 @@ const COUNT = {
     'weather-jp': 3,
     'weather-ip': 3,
     'geo-wins': 3,
+    'geo-refresh': 3,
     'weather-osaka': 1,
     'japan-jp': 6,
     'japan-us': 3,
@@ -353,6 +354,13 @@ const run = () => {
             ok(articles().length === 3 && sources().every(s => s.includes('Tokyo')), 'stale Osaka result discarded');
         });
     }
+    if (scenario === 'geo-refresh') {
+        ok(articles().length === 3 && sources().every(s => s.includes('Tokyo')), 'IP weather shown first');
+        return sleep(400).then(() => {
+            ok(articles().length === 0, 'precise location clears stale IP weather');
+            ok($('#status')?.textContent === 'No news', 'Nagoya empty state rendered');
+        });
+    }
     if (scenario === 'mix') {
         ok(articles().length === 6, '6 items');
         ok(titles()[0].startsWith('M6.2') && titles()[1].startsWith('M5.4'), 'quakes first');
@@ -372,6 +380,12 @@ const run = () => {
         ok($('#MainButton').hidden, 'main off');
         ok(!$('#BackButton').hidden, 'back on');
         ok($('#SecondaryButton').textContent === 'SWITCH TO ENGLISH', 'swap en');
+        const live = $('#live').getBoundingClientRect();
+        const chrome = $('#chrome').getBoundingClientRect();
+        const pad = parseFloat(getComputedStyle($('#live')).paddingBottom);
+        ok(Math.abs(live.bottom - pad - chrome.top) < 1, 'live meets chrome');
+        ok(getComputedStyle(document.body).overflow === 'hidden', 'scroll locked');
+        ok(getComputedStyle($('.live-player')).backgroundColor === 'rgb(0, 0, 0)', 'player opaque');
         return;
     }
     if (scenario === 'live-en') {
