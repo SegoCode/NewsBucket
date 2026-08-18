@@ -386,6 +386,13 @@ const run = () => {
         ok(Math.abs(live.bottom - pad - chrome.top) < 1, 'live meets chrome');
         ok(getComputedStyle(document.body).overflow === 'hidden', 'scroll locked');
         ok(getComputedStyle($('.live-player')).backgroundColor === 'rgb(0, 0, 0)', 'player opaque');
+        const slot = $('.live-player');
+        const fake = slot.appendChild(document.createElement('iframe'));
+        const ir = fake.getBoundingClientRect();
+        const sr = slot.getBoundingClientRect();
+        ok(ir.width <= sr.width + 1 && ir.height <= sr.height + 1, 'iframe fits slot');
+        ok(Math.abs((ir.left + ir.right) / 2 - (sr.left + sr.right) / 2) < 2, 'iframe centered x');
+        ok(Math.abs((ir.top + ir.bottom) / 2 - (sr.top + sr.bottom) / 2) < 2, 'iframe centered y');
         return;
     }
     if (scenario === 'live-en') {
