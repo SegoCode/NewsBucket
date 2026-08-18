@@ -9,7 +9,7 @@ export const createLive = ({ tg, live, topic }) => {
     let livePlayerReady = false;
     let secondLivePlayerReady = false;
     const playerVars = {
-        autoplay: 1,
+        autoplay: 0,
         controls: 0,
         modestbranding: 1,
         rel: 0,
@@ -23,17 +23,6 @@ export const createLive = ({ tg, live, topic }) => {
         player.setVolume(volume);
         player.unMute();
         player.playVideo();
-        setTimeout(() => {
-            if (live.hidden) return;
-            player.setVolume(volume);
-            player.unMute();
-            player.playVideo();
-        }, 500);
-        setTimeout(() => {
-            if (live.hidden || player.getPlayerState() === YT.PlayerState.PLAYING) return;
-            player.mute();
-            player.playVideo();
-        }, 1500);
     };
     const startLivePlayers = () => {
         if (livePlayerReady) {
@@ -52,6 +41,7 @@ export const createLive = ({ tg, live, topic }) => {
                 onReady: event => {
                     livePlayerReady = true;
                     event.target.setVolume(100);
+                    event.target.mute();
                     if (!live.hidden) playLive(event.target, liveEn ? LIVE_EN_ID : LIVE_ID, 100);
                 },
             },
@@ -63,14 +53,14 @@ export const createLive = ({ tg, live, topic }) => {
                 onReady: event => {
                     secondLivePlayerReady = true;
                     event.target.setVolume(50);
+                    event.target.mute();
                     if (!live.hidden) playLive(event.target, SECOND_LIVE_ID, 50);
                 },
             },
         });
     };
-    window.onYouTubeIframeAPIReady = () => {
-        if (!live.hidden) initLivePlayers();
-    };
+    window.onYouTubeIframeAPIReady = initLivePlayers;
+    if (window.YT?.Player) initLivePlayers();
     const setLive = on => {
         liveEn = false;
         live.hidden = !on;
