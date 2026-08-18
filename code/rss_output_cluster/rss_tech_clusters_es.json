@@ -1,34 +1,65 @@
 [
   {
-    "title": "Stripe adquiere la startup de IA OpenRouter por más de 7.000 millones de dólares",
-    "summary": "La plataforma de pagos Stripe compra OpenRouter, un gateway de modelos de IA, en un acuerdo valorado en más de 7.000 millones de dólares.",
+    "title": "Anthropic alcanza 65.000 millones de dólares en ingresos anualizados y lanza marcas de agua invisibles en Claude",
+    "summary": "La startup de IA reporta un crecimiento explosivo de ingresos mientras implementa marcas de agua en sus salidas para combatir el uso indebido, aunque críticos cuestionan la privacidad.",
     "source": [
       "techcrunch.com",
-      "news.ycombinator.com"
+      "xataka.com",
+      "the-decoder.com",
+      "kite.kagi.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "La batería de repuesto de Steam Deck LCD sube un 125% hasta los 180 dólares",
-    "summary": "El precio de la batería oficial para la versión LCD de Steam Deck se dispara hasta 179,95 euros (180 dólares), más del doble de su coste anterior.",
+    "title": "Amazon destruye libros raros para entrenar su IA, según investigación con AirTag",
+    "summary": "Un rastreo con AirTag revela que Amazon envía libros escasos a una instalación dedicada a alimentar modelos de inteligencia artificial en lugar de venderlos.",
+    "source": [
+      "xataka.com",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Talleres en China y Japón modifican tarjetas gráficas RTX 3080 y 2080 Ti a 20-22 GB de VRAM para cargas de IA",
+    "summary": "Ante la escasez y alto precio de VRAM, mercados asiáticos ofrecen modificaciones que duplican la memoria de GPUs antiguas convirtiéndolas en alternativas económicas para IA.",
     "source": [
       "elchapuzasinformatico.com",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Geekom distribuye controladores con malware en sus mini PCs y retira el paquete tras ser descubierto",
+    "summary": "La empresa admite haber enviado controladores de red infectados en sus mini PCs AMD y publica guía de eliminación tras la denuncia de investigadores de seguridad.",
+    "source": [
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD prohíbe reseñas de la Radeon RX 9050 y filtran que rinde menos que una RX 6650 XT de 2022",
-    "summary": "AMD vetó el envío de muestras para análisis y una revisión independiente confirma que la nueva GPU de gama de entrada es más lenta que una tarjeta de hace tres años.",
+    "title": "Cámaras Flock y de IA detectan uso de móvil al volante en España y generan debate sobre privacidad en EE. UU.",
+    "summary": "Mientras Cataluña multa a miles de conductores con cámaras inteligentes, en Estados Unidos crece el temor por la expansión de la red de vigilancia Flock sin mejora en resolución de crímenes.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Fabricantes advierten que la escasez de tarjetas gráficas de gama de entrada empeorará en la segunda mitad de 2026",
-    "summary": "ZOTAC, Inno3D y Manli alertan de que el suministro de GPUs básicas se deteriorará aún más en los próximos meses.",
+    "title": "Juez autoriza a Nine PBS recuperar 70 años de archivo televisivo almacenado en servidores de Iron Mountain",
+    "summary": "Un fallo judicial confirma que la emisora pública es propietaria de 50 TB de datos históricos tras el colapso de su proveedor de alojamiento.",
+    "source": [
+      "news.ycombinator.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel confirma que sus procesadores Nova Lake llegarán primero a escritorio con hasta 28 núcleos y AVX-512",
+    "summary": "La próxima generación de CPUs de Intel debutará en sobremesa antes que en portátiles, con configuraciones de 24 y 28 núcleos y soporte AVX-512 habilitado.",
     "source": [
       "videocardz.com",
       "elchapuzasinformatico.com"

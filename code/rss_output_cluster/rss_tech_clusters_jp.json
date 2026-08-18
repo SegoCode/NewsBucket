@@ -1,34 +1,65 @@
 [
   {
-    "title": "StripeがAIスタートアップのOpenRouterを70億ドル以上で買収",
-    "summary": "決済プラットフォームのStripeが、AIモデルのゲートウェイであるOpenRouterを70億ドル以上の取引で買収。",
+    "title": "Anthropic、年率換算収益650億ドルを達成し、Claudeに不可視ウォーターマークを導入",
+    "summary": "AIスタートアップが爆発的な収益成長を報告する一方で、出力にウォーターマークを実装し不正利用に対抗しているが、プライバシーへの懸念を指摘する声も上がっている。",
     "source": [
       "techcrunch.com",
-      "news.ycombinator.com"
+      "xataka.com",
+      "the-decoder.com",
+      "kite.kagi.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "Steam Deck LCD用交換バッテリーが125%値上がりし180ドルに",
-    "summary": "Steam Deck LCD版の公式バッテリー価格が179.95ユーロ（180ドル）に急騰、前価格の2倍以上に。",
+    "title": "AirTagを用いた調査によると、Amazonが希少本を破棄しAI訓練に使用",
+    "summary": "AirTagによる追跡で、Amazonが希少本を販売せずAIモデル訓練用の施設へ送っていることが判明。",
+    "source": [
+      "xataka.com",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "中国と日本の工房がRTX 3080と2080 Tiを20-22GB VRAMに改造しAIワークロード向けに提供",
+    "summary": "VRAM不足と高騰を受け、アジア市場では古いGPUのメモリを倍増させ、AI向けの低コストな代替品として提供している。",
     "source": [
       "elchapuzasinformatico.com",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Geekom、マルウェア混入ドライバをミニPCに同梱し発覚後にパッケージを回収",
+    "summary": "同社はAMD搭載ミニPCに感染したネットワークドライバを出荷していたことを認め、セキュリティ研究者の指摘を受け削除ガイドを公開。",
+    "source": [
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "AMDがRadeon RX 9050のレビューを禁止、2022年のRX 6650 XTより性能が低いことがリーク",
-    "summary": "AMDがレビュー用サンプルの提供を拒否、独立したレビューで新エントリーGPUが3年前のカードより遅いことが確認される。",
+    "title": "FlockおよびAIカメラがスペインで運転中のスマホ使用を検知、米国ではプライバシー議論を呼ぶ",
+    "summary": "カタルーニャ州がスマートカメラで数千人の運転手を罰金処分する一方、米国では犯罪解決率の向上なくFlock監視網が拡大することへの懸念が高まっている。",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "メーカーが警告、エントリークラスGPUの不足が2026年下半期にさらに悪化",
-    "summary": "ZOTAC、Inno3D、Manliが基本GPUの供給が今後数ヶ月でさらに悪化すると警告。",
+    "title": "裁判所、Nine PBSにIron Mountainサーバー保管の70年分のテレビアーカイブ返還を認める",
+    "summary": "司法判断により、ホスティングプロバイダーの倒産後、公共放送局が50TBの歴史的データの所有権を持つことが確定。",
+    "source": [
+      "news.ycombinator.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel、Nova Lakeプロセッサをデスクトップ向けに先行投入、最大28コアとAVX-512対応",
+    "summary": "次世代Intel CPUはノートPCより先にデスクトップでデビューし、24コアおよび28コア構成でAVX-512をサポート。",
     "source": [
       "videocardz.com",
       "elchapuzasinformatico.com"
