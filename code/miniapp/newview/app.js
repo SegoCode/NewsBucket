@@ -14,6 +14,7 @@ const native = window.Telegram?.WebApp;
 const tg = native?.initData ? native : createChrome();
 const { setLive, swapLang, syncLive } = createLive({ tg, live, topic });
 const syncDiag = createDiag(document.getElementById('diag'));
+let syncLocation = () => {};
 
 const pickLang = tag => {
     const t = (tag || '').toLowerCase().replace('_', '-');
@@ -33,6 +34,7 @@ const autoLang = () =>
     'en';
 
 let jma = null;
+let loadGen = 0;
 try {
     const saved = JSON.parse(localStorage.getItem('nb') || '{}');
     if (saved.t) topic.value = saved.t;
@@ -43,6 +45,7 @@ try {
 }
 
 async function load() {
+    const gen = ++loadGen;
     feed.innerHTML = '<div id="status">Loading…</div>';
     let items = [];
     try {
@@ -56,6 +59,7 @@ async function load() {
             items.unshift(...await quakeItems(lang.value));
         } catch {}
     }
+    if (gen !== loadGen) return;
     render(items, feed);
     syncDiag(topic.value === 'status');
 }
@@ -64,6 +68,7 @@ function onChange() {
     try { localStorage.setItem('nb', JSON.stringify({ t: topic.value, l: lang.value })); } catch {}
     tg?.HapticFeedback.selectionChanged();
     syncLive();
+    syncLocation();
     load();
 }
 topic.onchange = lang.onchange = onChange;
@@ -77,20 +82,38 @@ if (tg) {
         tg.setBackgroundColor('bg_color');
     } catch {}
     let weatherGen = 0;
+    let weatherKey = '';
     let precise;
     const applyWeather = async coords => {
-        if (!coords) return;
+        if (!Number.isFinite(coords?.latitude) || !Number.isFinite(coords?.longitude)) return;
+        const key = `${coords.latitude.toFixed(2)},${coords.longitude.toFixed(2)}`;
+        if (key === weatherKey) return;
+        weatherKey = key;
         const gen = ++weatherGen;
         try {
             const next = await fetchWeatherAlerts(coords);
             if (gen !== weatherGen) return;
             setPlace({ city: next.city, country: next.country });
             jma = next.alerts.length ? next : null;
-            if (jma && topic.value === 'japan') load();
-        } catch {}
+            if (topic.value === 'japan') load();
+        } catch {
+            if (gen === weatherGen) weatherKey = '';
+        }
+    };
+    const acceptLocation = (source, coords) => {
+        precise = true;
+        setPlace({
+            source,
+            lat: coords.latitude,
+            lon: coords.longitude,
+            geo: 'approved',
+        });
+        applyWeather(coords);
+    };
+    const rejectLocation = err => {
+        if (err?.code === 1) setPlace({ geo: 'rejected' });
     };
     const requestLocation = ({ force } = {}) => {
-        tg?.HapticFeedback.selectionChanged();
         if (native?.initData) {
             tg.LocationManager?.init(() => {
                 const lm = tg.LocationManager;
@@ -99,35 +122,37 @@ if (tg) {
                         setPlace({ geo: lm.isAccessGranted === false ? 'rejected' : 'unknown' });
                         return;
                     }
-                    precise = true;
-                    setPlace({
-                        source: 'Telegram',
-                        lat: coords.latitude,
-                        lon: coords.longitude,
-                        geo: 'approved',
-                    });
-                    applyWeather(coords);
+                    acceptLocation('Telegram', coords);
                 });
             });
             return;
         }
         if (!navigator.geolocation) return;
         navigator.geolocation.getCurrentPosition(
-            ({ coords }) => {
-                precise = true;
-                setPlace({
-                    source: 'Browser',
-                    lat: coords.latitude,
-                    lon: coords.longitude,
-                    geo: 'approved',
-                });
-                applyWeather(coords);
-            },
-            err => {
-                if (err?.code === 1) setPlace({ geo: 'rejected' });
-            },
-            { maximumAge: force ? 0 : 300_000, timeout: 8_000 },
+            ({ coords }) => acceptLocation('Browser', coords),
+            rejectLocation,
+            { enableHighAccuracy: !!force, maximumAge: force ? 0 : 300_000, timeout: 8_000 },
         );
+    };
+    let browserWatch;
+    let telegramPoll;
+    syncLocation = () => {
+        if (topic.value !== 'japan') {
+            if (browserWatch != null) navigator.geolocation?.clearWatch(browserWatch);
+            clearInterval(telegramPoll);
+            browserWatch = telegramPoll = null;
+            return;
+        }
+        if (native?.initData) {
+            requestLocation({ force: true });
+            telegramPoll ||= setInterval(() => requestLocation({ force: true }), 60_000);
+        } else if (navigator.geolocation?.watchPosition && browserWatch == null) {
+            browserWatch = navigator.geolocation.watchPosition(
+                ({ coords }) => acceptLocation('Browser', coords),
+                rejectLocation,
+                { enableHighAccuracy: true, maximumAge: 0, timeout: 15_000 },
+            );
+        }
     };
     fetch('https://ip.guide/')
         .then(r => r.json())
@@ -143,8 +168,12 @@ if (tg) {
             if (!native?.initData && !precise) applyWeather(data.location);
         })
         .catch(() => {});
-    requestLocation();
-    document.getElementById('diag-ask').onclick = () => requestLocation({ force: true });
+    if (!navigator.geolocation?.watchPosition || topic.value !== 'japan') requestLocation();
+    syncLocation();
+    document.getElementById('diag-ask').onclick = () => {
+        tg?.HapticFeedback.selectionChanged();
+        requestLocation({ force: true });
+    };
     tg.MainButton.setText('LIVE NEWS');
     tg.MainButton.onClick(() => setLive(live.hidden));
     tg.SecondaryButton?.onClick(swapLang);
