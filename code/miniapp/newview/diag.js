@@ -18,7 +18,7 @@ let onPlace;
 
 export const setPlace = patch => {
     if (env.source && env.source !== 'IP' && patch.source === 'IP') {
-        const { source, lat, lon, ...rest } = patch;
+        const { source, lat, lon, city, country, ...rest } = patch;
         Object.assign(env, rest);
     } else {
         Object.assign(env, patch);
@@ -44,7 +44,7 @@ const ping = async (url, cors) => {
 const place = () => {
     const named = [env.city, env.country].filter(Boolean).join(', ');
     const gps = env.lat != null && env.lon != null && `${env.lat.toFixed(3)}, ${env.lon.toFixed(3)}`;
-    const where = (env.source !== 'IP' && gps) || named || gps || '—';
+        const where = named || gps || '—';
     return env.source ? `${where} · ${env.source}` : where;
 };
 
@@ -68,6 +68,7 @@ export const createDiag = el => {
         $('diag-geo').className = geo === 'approved' ? 'ok' : geo === 'rejected' ? 'high' : '';
         $('diag-place').textContent = place();
         $('diag-ip').textContent = env.ip || '—';
+        $('diag-ip').title = env.ip || '';
     };
     let gh;
     let raw;
