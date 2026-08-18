@@ -144,11 +144,12 @@ article[onclick] {
 #chrome #BackButton,
 #chrome #SecondaryButton {
     padding: 8.5px 14px;
+    border: 3.5px solid transparent;
     white-space: nowrap;
 }
 
 #chrome #MainButton {
-    border: 3.5px solid #ff3b30;
+    border-color: #ff3b30;
     box-shadow: inset 0 0 0 2px var(--tg-theme-bg-color, #fff);
 }
 
