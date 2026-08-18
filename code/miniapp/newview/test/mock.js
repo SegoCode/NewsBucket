@@ -35,6 +35,7 @@ const SCENES = {
     'weather-jp': { t: 'japan', l: 'jp' },
     'weather-ip': { t: 'japan', l: 'en' },
     'geo-wins': { t: 'japan', l: 'en' },
+    'geo-refresh': { t: 'japan', l: 'en' },
     'weather-osaka': { t: 'japan', l: 'en' },
     'japan-jp': { t: 'japan', l: 'jp' },
     'japan-us': { t: 'japan', l: 'en' },
@@ -78,6 +79,7 @@ const LOCATION = {
     weather: { ip: 'tokyo', gps: 'tokyo' },
     'weather-ip': { ip: 'tokyo' },
     'geo-wins': { ip: 'osaka', gps: 'tokyo', gpsDelay: 20 },
+    'geo-refresh': { ip: 'tokyo', gps: ['tokyo', 'nagoya'], gpsDelays: [20, 300] },
     mix: { ip: 'tokyo', gps: 'tokyo' },
     'japan-jp': { ip: 'tokyo', gps: 'tokyo' },
     'japan-es': { ip: 'tokyo', gps: 'tokyo' },
@@ -248,15 +250,19 @@ const IP = {
 const GEO = {
     tokyo: { countryCode: 'JP', principalSubdivisionCode: 'JP-13', principalSubdivision: 'Tokyo' },
     osaka: { countryCode: 'JP', principalSubdivisionCode: 'JP-27', principalSubdivision: 'Osaka' },
+    nagoya: { countryCode: 'JP', principalSubdivisionCode: 'JP-23', principalSubdivision: 'Nagoya' },
     us: { countryCode: 'US', principalSubdivisionCode: 'US-TX', principalSubdivision: 'Texas' },
 };
 
 const COORDS = {
     tokyo: { latitude: 35.68, longitude: 139.76 },
     osaka: { latitude: 34.69, longitude: 135.5 },
+    nagoya: { latitude: 35.18, longitude: 136.91 },
 };
 
 let geoAsks = 0;
+let watchId = 0;
+const watches = new Map();
 Object.defineProperty(navigator, 'geolocation', {
     configurable: true,
     value: {
@@ -269,6 +275,24 @@ Object.defineProperty(navigator, 'geolocation', {
             }
             const coords = COORDS[LOCATION.gps];
             setTimeout(() => coords ? ok({ coords }) : err?.(), wait);
+        },
+        watchPosition(ok, err) {
+            geoAsks++;
+            const id = ++watchId;
+            const places = (Array.isArray(LOCATION.gps) ? LOCATION.gps : [LOCATION.gps]).filter(Boolean);
+            const timers = places.map((place, i) => setTimeout(
+                () => ok({ coords: COORDS[place] }),
+                LOCATION.gpsDelays?.[i] ?? LOCATION.gpsDelay ?? 20,
+            ));
+            if (!places.length || LOCATION.denied) {
+                timers.push(setTimeout(() => err?.({ code: LOCATION.denied ? 1 : 2 }), LOCATION.gpsDelay ?? 20));
+            }
+            watches.set(id, timers);
+            return id;
+        },
+        clearWatch(id) {
+            watches.get(id)?.forEach(clearTimeout);
+            watches.delete(id);
         },
     },
 });
@@ -284,6 +308,7 @@ const text = (body, status = 200) =>
 
 const withQuakes = scenario.startsWith('quake') || scenario.startsWith('japan') || scenario === 'mix';
 const noJapanNews = scenario.startsWith('quake') || scenario.startsWith('weather') || scenario === 'geo-wins'
+    || scenario === 'geo-refresh'
     || scenario.startsWith('live');
 
 window.fetch = (input, init) => {
@@ -336,7 +361,8 @@ window.fetch = (input, init) => {
     }
     if (url.includes('reverse-geocode-client')) {
         const lat = Number(new URL(url).searchParams.get('latitude'));
-        const place = lat > 35 && lat < 36 ? 'tokyo' : lat > 34 && lat < 35 ? 'osaka' : 'us';
+        const lon = Number(new URL(url).searchParams.get('longitude'));
+        const place = lon > 136 && lon < 137.5 ? 'nagoya' : lat > 35 && lat < 36 ? 'tokyo' : lat > 34 && lat < 35 ? 'osaka' : 'us';
         const response = json(GEO[place]);
         return scenario === 'geo-wins' && place === 'osaka'
             ? new Promise(resolve => setTimeout(() => response.then(resolve), 120))
