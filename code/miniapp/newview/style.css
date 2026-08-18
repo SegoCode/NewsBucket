@@ -140,10 +140,16 @@ article[onclick] {
     color: var(--tg-theme-button-text-color, #fff);
 }
 
+#chrome #MainButton,
+#chrome #BackButton,
+#chrome #SecondaryButton {
+    padding: 8.5px 14px;
+    white-space: nowrap;
+}
+
 #chrome #MainButton {
     border: 3.5px solid #ff3b30;
     box-shadow: inset 0 0 0 2px var(--tg-theme-bg-color, #fff);
-    padding: 8.5px 14px;
 }
 
 #BackButton,
@@ -196,6 +202,13 @@ article[onclick] {
     grid-template-columns: 7.5em 1fr;
     gap: 8px 12px;
     padding: 8px 10px;
+}
+
+#diag-ip {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 #diag .ok {
