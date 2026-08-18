@@ -1,34 +1,65 @@
 [
   {
-    "title": "Stripe acquires AI startup OpenRouter for over $7 billion",
-    "summary": "Payments platform Stripe buys OpenRouter, an AI model gateway, in a deal valued at over $7 billion.",
+    "title": "Anthropic reaches $65 billion in annualized revenue and launches invisible watermarks in Claude",
+    "summary": "The AI startup reports explosive revenue growth while implementing watermarks in its outputs to combat misuse, though critics question privacy.",
     "source": [
       "techcrunch.com",
-      "news.ycombinator.com"
+      "xataka.com",
+      "the-decoder.com",
+      "kite.kagi.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "Steam Deck LCD replacement battery jumps 125% to $180",
-    "summary": "The price of the official battery for the Steam Deck LCD version soars to €179.95 ($180), more than double its previous cost.",
+    "title": "Amazon destroys rare books to train its AI, according to AirTag investigation",
+    "summary": "An AirTag tracking reveals that Amazon sends scarce books to a facility dedicated to feeding AI models instead of selling them.",
+    "source": [
+      "xataka.com",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Workshops in China and Japan modify RTX 3080 and 2080 Ti graphics cards to 20-22 GB VRAM for AI workloads",
+    "summary": "Amid VRAM scarcity and high prices, Asian markets offer modifications that double the memory of older GPUs, turning them into economical alternatives for AI.",
     "source": [
       "elchapuzasinformatico.com",
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Geekom distributes drivers with malware in its mini PCs and withdraws package after being discovered",
+    "summary": "The company admits to shipping infected network drivers in its AMD mini PCs and publishes removal guide after security researchers' report.",
+    "source": [
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD bans Radeon RX 9050 reviews and leaks show it performs worse than a 2022 RX 6650 XT",
-    "summary": "AMD blocked the sending of review samples and an independent review confirms the new entry-level GPU is slower than a card from three years ago.",
+    "title": "Flock and AI cameras detect mobile phone use while driving in Spain and spark privacy debate in US",
+    "summary": "While Catalonia fines thousands of drivers with smart cameras, in the United States fear grows over the expansion of the Flock surveillance network without improvement in crime resolution.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "news.ycombinator.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Manufacturers warn entry-level graphics card shortage will worsen in second half of 2026",
-    "summary": "ZOTAC, Inno3D, and Manli warn that basic GPU supply will deteriorate further in the coming months.",
+    "title": "Judge authorizes Nine PBS to recover 70 years of television archive stored on Iron Mountain servers",
+    "summary": "A court ruling confirms that the public broadcaster owns 50 TB of historical data following the collapse of its hosting provider.",
+    "source": [
+      "news.ycombinator.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel confirms its Nova Lake processors will arrive first on desktop with up to 28 cores and AVX-512",
+    "summary": "Intel's next generation of CPUs will debut on desktop before laptops, with 24 and 28 core configurations and AVX-512 support enabled.",
     "source": [
       "videocardz.com",
       "elchapuzasinformatico.com"
