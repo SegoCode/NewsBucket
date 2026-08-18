@@ -15,12 +15,32 @@ const tg = native?.initData ? native : createChrome();
 const { setLive, swapLang, syncLive } = createLive({ tg, live, topic });
 const syncDiag = createDiag(document.getElementById('diag'));
 
+const pickLang = tag => {
+    const t = (tag || '').toLowerCase().replace('_', '-');
+    if (t.startsWith('es')) return 'es';
+    if (t.startsWith('ja')) return 'jp';
+    return t ? 'en' : '';
+};
+const fromUa = ua => {
+    if (/\bes[-_][a-z]{2}\b/i.test(ua)) return 'es';
+    if (/\bja[-_][a-z]{2}\b/i.test(ua)) return 'jp';
+    return '';
+};
+const autoLang = () =>
+    pickLang(navigator.languages?.[0]) ||
+    pickLang(navigator.language) ||
+    fromUa(navigator.userAgent) ||
+    'en';
+
 let jma = null;
 try {
     const saved = JSON.parse(localStorage.getItem('nb') || '{}');
     if (saved.t) topic.value = saved.t;
     if (saved.l) lang.value = saved.l;
-} catch {}
+    else lang.value = autoLang();
+} catch {
+    lang.value = autoLang();
+}
 
 async function load() {
     feed.innerHTML = '<div id="status">Loading…</div>';
@@ -64,7 +84,8 @@ if (tg) {
         try {
             const next = await fetchWeatherAlerts(coords);
             if (gen !== weatherGen) return;
-            jma = next;
+            setPlace({ city: next.city, country: next.country });
+            jma = next.alerts.length ? next : null;
             if (jma && topic.value === 'japan') load();
         } catch {}
     };
