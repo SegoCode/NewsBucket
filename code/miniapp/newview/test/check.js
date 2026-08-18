@@ -22,10 +22,16 @@ const sources = () => articles().map(a => $('.sources', a).textContent);
 
 const COUNT = {
     empty: 0,
+    fresh: 1,
     feed: 3,
     'feed-es': 3,
     'feed-click': 3,
     lang: 3,
+    'lang-es': 1,
+    'lang-ja': 1,
+    'lang-en': 1,
+    'lang-ua': 1,
+    'lang-keep': 1,
     'feed-count': 2,
     'status-ok': 5,
     'status-running': 5,
@@ -75,10 +81,10 @@ const ready = async () => {
         await wait(() => $('#diag-gh').textContent !== '—');
         if (scenario === 'diag') await wait(() => $('#diag-place').textContent.includes('Tokyo'));
         if (scenario === 'diag-gps') {
-            await wait(() => $('#diag-place').textContent.includes('Browser') && $('#diag-ip').textContent === '198.51.100.8');
+            await wait(() => $('#diag-place').textContent.includes('Browser') && $('#diag-place').textContent.includes('Tokyo') && $('#diag-ip').textContent === '198.51.100.8');
         }
         if (scenario === 'diag-ip-gps') {
-            await wait(() => $('#diag-place').textContent.includes('Browser') && $('#diag-place').textContent.includes('34.690'));
+            await wait(() => $('#diag-place').textContent.includes('Browser') && $('#diag-place').textContent.includes('Osaka'));
         }
         if (scenario === 'diag-denied') await wait(() => $('#diag-geo').textContent === 'rejected');
         if (scenario === 'diag-ask') {
@@ -114,6 +120,10 @@ const run = () => {
         ok(!articles().length, 'no articles');
         return;
     }
+    if (scenario === 'fresh') {
+        ok($('#topic').value === 'japan', 'default japan');
+        return;
+    }
     if (scenario === 'empty' || scenario === 'status-empty' || scenario === 'feed-down') {
         ok($('#status')?.textContent === 'No news', 'No news');
         if (scenario === 'status-empty') ok(!$('#diag').hidden, 'diag on');
@@ -143,6 +153,31 @@ const run = () => {
     if (scenario === 'lang') {
         ok($('#lang').value === 'jp', 'lang jp');
         ok(titles()[0] === '金利を4社が報道', 'jp title');
+        return;
+    }
+    if (scenario === 'lang-es') {
+        ok($('#lang').value === 'es', 'system es');
+        ok(titles()[0] === 'La Dieta aprueba el proyecto', 'es news');
+        return;
+    }
+    if (scenario === 'lang-ja') {
+        ok($('#lang').value === 'jp', 'system ja');
+        ok(titles()[0] === '国会が法案を可決', 'jp news');
+        return;
+    }
+    if (scenario === 'lang-en') {
+        ok($('#lang').value === 'en', 'system en');
+        ok(titles()[0] === 'Diet passes bill', 'en news');
+        return;
+    }
+    if (scenario === 'lang-ua') {
+        ok($('#lang').value === 'es', 'ua es');
+        ok(titles()[0] === 'La Dieta aprueba el proyecto', 'es news');
+        return;
+    }
+    if (scenario === 'lang-keep') {
+        ok($('#lang').value === 'jp', 'saved beats system');
+        ok(titles()[0] === '国会が法案を可決', 'jp news');
         return;
     }
     if (scenario === 'status-ok') {
@@ -192,13 +227,14 @@ const run = () => {
             ok($('#diag-geo').textContent === 'unknown', 'unknown');
         }
         if (scenario === 'diag-gps') {
-            ok($('#diag-place').textContent.includes('35.680') && $('#diag-place').textContent.includes('Browser'), 'gps');
+            ok($('#diag-place').textContent.includes('Tokyo') && $('#diag-place').textContent.includes('Browser'), 'gps place');
+            ok(!$('#diag-place').textContent.includes('35.680'), 'no coords');
             ok($('#diag-ip').textContent === '198.51.100.8', 'late ip kept');
             ok(!$('#diag-place').textContent.includes('Dallas'), 'late ip did not replace gps');
             ok($('#diag-geo').textContent === 'approved', 'approved');
         }
         if (scenario === 'diag-ip-gps') {
-            ok($('#diag-place').textContent.includes('34.690') && $('#diag-place').textContent.includes('Browser'), 'late gps wins');
+            ok($('#diag-place').textContent.includes('Osaka') && $('#diag-place').textContent.includes('Browser'), 'late gps place');
             ok($('#diag-ip').textContent === '203.0.113.10', 'early ip kept');
             ok(!$('#diag-place').textContent.includes('Tokyo'), 'gps replaced ip location');
             ok($('#diag-geo').textContent === 'approved', 'approved');
