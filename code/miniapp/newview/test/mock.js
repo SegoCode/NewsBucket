@@ -3,10 +3,16 @@ const scenario = new URLSearchParams(location.search).get('s') || 'feed';
 const SCENES = {
     loading: { t: 'finance', l: 'en' },
     empty: { t: 'finance', l: 'en' },
+    fresh: { l: 'en' },
     feed: { t: 'finance', l: 'en' },
     'feed-es': { t: 'finance', l: 'es' },
     'feed-click': { t: 'finance', l: 'en' },
     lang: { t: 'finance', l: 'jp' },
+    'lang-es': {},
+    'lang-ja': {},
+    'lang-en': {},
+    'lang-ua': {},
+    'lang-keep': { l: 'jp' },
     'status-ok': { t: 'status', l: 'en' },
     'status-running': { t: 'status', l: 'en' },
     'status-fail': { t: 'status', l: 'en' },
@@ -49,6 +55,24 @@ try {
     localStorage.setItem('nb', JSON.stringify(scene));
     localStorage.removeItem('nb-actions');
 } catch {}
+
+const NAV_LANG = {
+    'lang-es': { languages: ['es-ES'] },
+    'lang-ja': { languages: ['ja-JP'] },
+    'lang-en': { languages: ['en-US'] },
+    'lang-ua': { languages: [], language: '', ua: 'Mozilla/5.0 (Linux; Android 14; es-ES)' },
+    'lang-keep': { languages: ['es-MX'] },
+}[scenario];
+if (NAV_LANG) {
+    Object.defineProperty(navigator, 'languages', { configurable: true, get: () => NAV_LANG.languages || [] });
+    Object.defineProperty(navigator, 'language', {
+        configurable: true,
+        get: () => NAV_LANG.language ?? NAV_LANG.languages?.[0] ?? '',
+    });
+    if (NAV_LANG.ua) {
+        Object.defineProperty(navigator, 'userAgent', { configurable: true, get: () => NAV_LANG.ua });
+    }
+}
 
 const LOCATION = {
     weather: { ip: 'tokyo', gps: 'tokyo' },
