@@ -31,7 +31,7 @@
             <option value="status">Status</option>
             <option value="finance">Finance</option>
             <option value="gaming">Gaming</option>
-            <option value="japan">Japan</option>
+            <option value="japan" selected>Japan</option>
             <option value="tech">Tech</option>
         </select>
         <select id="lang">
@@ -77,7 +77,9 @@
     <script type="module">
         const here = new URLSearchParams(location.search).get('s') || 'feed';
         const scenes = [
-            'loading', 'empty', 'feed', 'feed-es', 'feed-click', 'lang', 'feed-down', 'feed-count',
+            'loading', 'empty', 'fresh', 'feed', 'feed-es', 'feed-click', 'lang',
+            'lang-es', 'lang-ja', 'lang-en', 'lang-ua', 'lang-keep',
+            'feed-down', 'feed-count',
             'status-ok', 'status-running', 'status-fail', 'status-empty', 'status-mixed',
             'diag', 'diag-gps', 'diag-ip-gps', 'diag-none', 'diag-denied', 'diag-ask', 'diag-raw',
             'quakes', 'quake-mag', 'quake-age', 'quake-blink', 'quake-drop', 'quake-combo',
