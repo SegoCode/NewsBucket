@@ -1,68 +1,133 @@
 [
   {
-    "title": "Anthropic alcanza 65.000 millones de dólares en ingresos anualizados y lanza marcas de agua invisibles en Claude",
-    "summary": "La startup de IA reporta un crecimiento explosivo de ingresos mientras implementa marcas de agua en sus salidas para combatir el uso indebido, aunque críticos cuestionan la privacidad.",
+    "title": "OpenAI lanza ChatGPT para adolescentes con controles de seguridad reforzados y frena el desarrollo de modelos por riesgos cibernéticos",
+    "summary": "OpenAI presenta una versión de ChatGPT diseñada para menores con límites de uso y herramientas educativas, mientras admite que los riesgos de ciberseguridad obligan a ralentizar el lanzamiento de nuevos modelos.",
     "source": [
-      "techcrunch.com",
-      "xataka.com",
+      "alternativeto.net",
       "the-decoder.com",
-      "kite.kagi.com"
+      "wired.com",
+      "techcrunch.com"
     ],
     "count": 4
   },
   {
-    "title": "Amazon destruye libros raros para entrenar su IA, según investigación con AirTag",
-    "summary": "Un rastreo con AirTag revela que Amazon envía libros escasos a una instalación dedicada a alimentar modelos de inteligencia artificial en lugar de venderlos.",
-    "source": [
-      "xataka.com",
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Talleres en China y Japón modifican tarjetas gráficas RTX 3080 y 2080 Ti a 20-22 GB de VRAM para cargas de IA",
-    "summary": "Ante la escasez y alto precio de VRAM, mercados asiáticos ofrecen modificaciones que duplican la memoria de GPUs antiguas convirtiéndolas en alternativas económicas para IA.",
+    "title": "Intel prepara Nova Lake y Razor Lake con hasta 28 núcleos y nodo TSMC N2X para competir con AMD Ryzen X3D en portátiles",
+    "summary": "Las futuras CPU de Intel alcanzarán frecuencias base de 3,4 GHz con 24 núcleos y usarán litografía de 2 nm de TSMC, mientras Razor Lake integrará caché 3D para rivalizar con los X3D de AMD.",
     "source": [
       "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 4
+  },
+  {
+    "title": "ASUS y HYDRA lanzan soluciones de monitorización y límites de potencia para el conector 12V-2×6 de las RTX 50 tras reportes de sobrecalentamiento",
+    "summary": "Fabricantes y desarrolladores de herramientas implementan monitorización por pin, apagado automático por sobrecorriente y controles de VRAM desbloqueados para mitigar los riesgos del nuevo conector de alimentación.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com",
       "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Geekom distribuye controladores con malware en sus mini PCs y retira el paquete tras ser descubierto",
-    "summary": "La empresa admite haber enviado controladores de red infectados en sus mini PCs AMD y publica guía de eliminación tras la denuncia de investigadores de seguridad.",
+    "title": "Apple filtra por error sus AirPods con cámara integrada: servirán como ojos de Siri para reconocimiento ambiental",
+    "summary": "Una actualización de macOS y vídeos filtrados revelan que los próximos AirPods incluirán cámaras para que Siri identifique objetos y entornos, descartando temores de uso voyeurista.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "xataka.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Cámaras Flock y de IA detectan uso de móvil al volante en España y generan debate sobre privacidad en EE. UU.",
-    "summary": "Mientras Cataluña multa a miles de conductores con cámaras inteligentes, en Estados Unidos crece el temor por la expansión de la red de vigilancia Flock sin mejora en resolución de crímenes.",
+    "title": "El CEO de Anthropic advierte que la IA centraliza el poder y pide regular empresas como la suya para evitar concentración de chips",
+    "summary": "Dario Amodei afirma que la IA tiende a concentrar poder en quien controla el hardware y propone regulación externa, mientras su empresa multiplica ingresos por siete hasta 65.000 millones anualizados.",
     "source": [
-      "news.ycombinator.com",
+      "the-decoder.com",
       "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Juez autoriza a Nine PBS recuperar 70 años de archivo televisivo almacenado en servidores de Iron Mountain",
-    "summary": "Un fallo judicial confirma que la emisora pública es propietaria de 50 TB de datos históricos tras el colapso de su proveedor de alojamiento.",
+    "title": "Linux 7.2 llega con planificación consciente de caché, mejoras en Btrfs, soporte Apple M3 y HDMI 2.1 completo en Radeon",
+    "summary": "El nuevo kernel optimiza el uso de caché de CPU, acelera el sistema de archivos Btrfs, añade soporte para chips Apple M3 y habilita HDMI 2.1 en tarjetas gráficas AMD Radeon.",
     "source": [
-      "news.ycombinator.com",
-      "tomshardware.com"
+      "alternativeto.net",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel confirma que sus procesadores Nova Lake llegarán primero a escritorio con hasta 28 núcleos y AVX-512",
-    "summary": "La próxima generación de CPUs de Intel debutará en sobremesa antes que en portátiles, con configuraciones de 24 y 28 núcleos y soporte AVX-512 habilitado.",
+    "title": "El Departamento de Justicia investiga a Andreessen Horowitz por asientos en consejos de administración de empresas de IA competidoras",
+    "summary": "La pesquisa examina si los socios de la firma de capital riesgo incumplen deberes fiduciarios al sentarse en juntas directivas de startups rivales de inteligencia artificial.",
     "source": [
-      "videocardz.com",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cursor lanza Origin, una plataforma de alojamiento de código para competir con GitHub aprovechando la frustración de desarrolladores",
+    "summary": "El editor de código asistido por IA presenta su propio servicio de repositorios git con funciones nativas de revisión y colaboración, posicionándose como alternativa directa a GitHub.",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Noctua descarta iluminación RGB, pantallas y colores blancos: sus ingenieros priorizan rendimiento y fiabilidad sobre estética",
+    "summary": "El fabricante austriaco confirma que no seguirá tendencias de mercado como RGB o carcasas blancas, destinando recursos a optimización térmica y acústica de sus ventiladores y disipadores.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "YouTube cambia su contador de visitas: ahora suma una reproducción desde el primer fotograma, inflando métricas públicas",
+    "summary": "La plataforma modificará su metodología para contar visualizaciones al inicio del vídeo en lugar de tras 30 segundos, lo que elevará artificialmente las cifras de audiencia.",
+    "source": [
+      "alternativeto.net",
       "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft permite portátiles con solo 8 GB de RAM en Windows 11 eximiéndolos de requisitos Copilot+, pero los fabricantes suben precios hasta un 500 %",
+    "summary": "La relajación de requisitos de hardware para equipos básicos conlleva encarecimientos drásticos, mientras la versión ligera de Windows 11 omite funciones de IA como Recall.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ASUS presenta el mando ROG Raikiri II Pro con pantalla LCD, joysticks TMR, polling de 8.000 Hz y 79 horas de batería",
+    "summary": "El nuevo controlador para PC incluye pantalla personalizable, sticks de efecto Hall, tasa de sondeo ultraalta y autonomía extendida, posicionándose como opción premium para gaming.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony retrasa PlayStation 6 más allá de 2027: el CEO admite que no pueden sobrevivir al escenario actual sin cambios",
+    "summary": "Hiroki Totoki confirma que la próxima consola no llegará en 2027 como se esperaba, citando presiones económicas y la necesidad de replantear el modelo de negocio.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple reduce comisiones y flexibiliza normas para tiendas alternativas en la UE tras presión regulatoria",
+    "summary": "La compañía ajusta sus tarifas de la App Store y permite enlaces directos a pagos externos en aplicaciones europeas, cumpliendo con la Ley de Mercados Digitales.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   }
