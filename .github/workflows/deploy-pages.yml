@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - code/miniapp/newview/**
+      - code/miniapp/**
       - .github/workflows/deploy-pages.yml
   workflow_dispatch:
 
@@ -20,7 +20,7 @@ concurrency:
 
 jobs:
   deploy:
-    name: Deploy frontend v2
+    name: Deploy frontend
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -36,7 +36,7 @@ jobs:
       - name: Upload frontend
         uses: actions/upload-pages-artifact@v4
         with:
-          path: code/miniapp/newview
+          path: code/miniapp
 
       - name: Deploy Pages
         id: deployment

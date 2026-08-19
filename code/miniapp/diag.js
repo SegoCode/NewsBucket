@@ -1,8 +1,7 @@
 import { JMA } from './jma-weather.js';
 
 const CF = 'https://www.cloudflare.com/cdn-cgi/trace';
-const GH = 'https://api.github.com';
-const RAW = 'https://raw.githubusercontent.com/SegoCode/NewsBucket/main/code/prompts/cluster.md';
+const GITHUB = 'https://raw.githubusercontent.com/SegoCode/NewsBucket/main/code/prompts/cluster.md';
 
 const env = {
     source: '',
@@ -70,24 +69,18 @@ export const createDiag = el => {
         $('diag-ip').textContent = env.ip || '—';
         $('diag-ip').title = env.ip || '';
     };
-    let gh;
-    let raw;
+    let github;
     const paint = async () => {
         paintMeta();
-        const once = !gh;
-        const [cf, github, rawHit, jma] = await Promise.all([
+        const once = !github;
+        const [cf, githubHit, jma] = await Promise.all([
             ping(CF, false),
-            once ? ping(GH, true) : gh,
-            once ? ping(RAW, true) : raw,
+            once ? ping(GITHUB, true) : github,
             ping(JMA + 'common/const/area.json', true),
         ]);
-        if (once) {
-            gh = github;
-            raw = rawHit;
-        }
+        if (once) github = githubHit;
         if (el.hidden) return;
-        mark($('diag-gh'), gh);
-        mark($('diag-raw'), raw);
+        mark($('diag-github'), github);
         mark($('diag-cf'), cf);
         mark($('diag-jma'), jma);
     };

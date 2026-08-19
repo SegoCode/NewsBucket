@@ -12,6 +12,8 @@
 		"validate-clusters": "node js/validate-clusters.js",
 		"pipeline": "pnpm run feeds && pnpm run validate-feeds && pnpm run cluster && pnpm run translate && pnpm run validate-clusters",
 		"test": "node --test js/test/*.test.js",
+		"test:browser": "node miniapp/test/run-browser.js",
+		"test:all": "pnpm run test && pnpm run test:browser",
 		"format": "biome format --write .",
 		"lint": "biome lint .",
 		"check": "biome check --write ."
@@ -26,6 +28,7 @@
 		"rss-parser": "^3.13.0"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "^2.5.0"
+		"@biomejs/biome": "^2.5.0",
+		"playwright": "^1.62.1"
 	}
 }

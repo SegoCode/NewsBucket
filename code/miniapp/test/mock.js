@@ -23,7 +23,7 @@ const SCENES = {
     'diag-none': { t: 'status', l: 'en' },
     'diag-denied': { t: 'status', l: 'en' },
     'diag-ask': { t: 'status', l: 'en' },
-    'diag-raw': { t: 'status', l: 'en' },
+    'diag-github': { t: 'status', l: 'en' },
     quakes: { t: 'japan', l: 'en' },
     'quake-mag': { t: 'japan', l: 'en' },
     'quake-age': { t: 'japan', l: 'en' },
@@ -343,14 +343,9 @@ window.fetch = (input, init) => {
     }
     if (/\/actions\/runs\/\d+\/jobs/.test(url)) return json(jobs());
 
-    if (url === 'https://api.github.com' || url === 'https://api.github.com/') {
-        return scenario.startsWith('diag')
-            ? text('', 403)
-            : json({});
-    }
     if (url.includes('cloudflare.com/cdn-cgi/trace')) return text('fl=1');
     if (url.includes('prompts/cluster.md')) {
-        return scenario === 'diag-raw' ? text('', 429) : text('# cluster', 200);
+        return scenario === 'diag-github' ? text('', 429) : text('# cluster', 200);
     }
     if (url.includes('ip.guide')) {
         if (LOCATION.ipFail) return Promise.reject(new Error('down'));

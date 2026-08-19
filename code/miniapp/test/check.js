@@ -44,7 +44,7 @@ const COUNT = {
     'diag-none': 5,
     'diag-denied': 5,
     'diag-ask': 5,
-    'diag-raw': 5,
+    'diag-github': 5,
     quakes: 2,
     'quake-mag': 1,
     'quake-age': 1,
@@ -79,7 +79,7 @@ const ready = async () => {
     if (n) await wait(() => articles().length >= n);
     if (scenario.startsWith('live')) await wait(() => !$('#chrome').hidden);
     if (scenario.startsWith('diag')) {
-        await wait(() => $('#diag-gh').textContent !== '—');
+        await wait(() => $('#diag-github').textContent !== '—');
         if (scenario === 'diag') await wait(() => $('#diag-place').textContent.includes('Tokyo'));
         if (scenario === 'diag-gps') {
             await wait(() => $('#diag-place').textContent.includes('Browser') && $('#diag-place').textContent.includes('Tokyo') && $('#diag-ip').textContent === '198.51.100.8');
@@ -93,7 +93,7 @@ const ready = async () => {
             $('#diag-ask').click();
             await wait(() => $('#diag-geo').textContent === 'approved');
         }
-        if (scenario === 'diag-raw') await wait(() => $('#diag-raw').textContent.includes('rate limit'));
+        if (scenario === 'diag-github') await wait(() => $('#diag-github').textContent.includes('rate limit'));
     }
     if (scenario === 'live-open' || scenario === 'live-en' || scenario === 'live-back') {
         $('#MainButton').click();
@@ -217,11 +217,10 @@ const run = () => {
     }
     if (scenario.startsWith('diag')) {
         ok(!$('#diag').hidden, 'diag visible');
-        ok($('#diag-gh').textContent.includes('rate limit'), 'gh 403');
         ok($('#diag-cf').textContent.includes('ok'), 'cf ok');
         ok($('#diag-jma').textContent.includes('down'), 'jma down');
-        if (scenario === 'diag-raw') ok($('#diag-raw').textContent.includes('rate limit'), 'raw 429');
-        else ok($('#diag-raw').textContent.includes('ok'), 'raw 200');
+        if (scenario === 'diag-github') ok($('#diag-github').textContent.includes('rate limit'), 'github 429');
+        else ok($('#diag-github').textContent.includes('ok'), 'github 200');
         if (scenario === 'diag') {
             ok($('#diag-ip').textContent === '203.0.113.10', 'ip');
             ok($('#diag-place').textContent.includes('IP') && $('#diag-place').textContent.includes('Tokyo'), 'place IP');

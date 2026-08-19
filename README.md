@@ -50,7 +50,12 @@ pnpm run validate-feeds     # validate RSS output
 pnpm run cluster            # cluster articles → rss_output_cluster/
 pnpm run translate          # translate clusters
 pnpm run validate-clusters  # validate all language outputs
+pnpm run test               # run pipeline unit tests
+pnpm run test:browser       # run the miniapp browser scenes
+pnpm run test:all            # run unit tests and browser scenes
 ```
+
+The browser tests use Playwright and launch Chromium locally. Install the browser once with `pnpm exec playwright install chromium`.
 
 Or run the complete pipeline with `pnpm run pipeline`.
 
