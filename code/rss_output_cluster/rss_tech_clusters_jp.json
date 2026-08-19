@@ -1,68 +1,133 @@
 [
   {
-    "title": "Anthropic、年率換算収益650億ドルを達成し、Claudeに不可視ウォーターマークを導入",
-    "summary": "AIスタートアップが爆発的な収益成長を報告する一方で、出力にウォーターマークを実装し不正利用に対抗しているが、プライバシーへの懸念を指摘する声も上がっている。",
+    "title": "OpenAI、セキュリティ制御を強化したティーン向けChatGPTをリリース、サイバーリスクによりモデル開発を遅延",
+    "summary": "OpenAIは、使用制限と教育ツールを備えた未成年者向けChatGPTバージョンを発表し、サイバーセキュリティリスクが新モデルのリリースを遅らせることを認めた。",
     "source": [
-      "techcrunch.com",
-      "xataka.com",
+      "alternativeto.net",
       "the-decoder.com",
-      "kite.kagi.com"
+      "wired.com",
+      "techcrunch.com"
     ],
     "count": 4
   },
   {
-    "title": "AirTagを用いた調査によると、Amazonが希少本を破棄しAI訓練に使用",
-    "summary": "AirTagによる追跡で、Amazonが希少本を販売せずAIモデル訓練用の施設へ送っていることが判明。",
-    "source": [
-      "xataka.com",
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "中国と日本の工房がRTX 3080と2080 Tiを20-22GB VRAMに改造しAIワークロード向けに提供",
-    "summary": "VRAM不足と高騰を受け、アジア市場では古いGPUのメモリを倍増させ、AI向けの低コストな代替品として提供している。",
+    "title": "Intel、最大28コアとTSMC N2Xノードを採用したNova LakeとRazor Lakeを準備、ノートPCでAMD Ryzen X3Dに対抗",
+    "summary": "Intelの将来のCPUは、24コアでベース周波数3.4GHzに達し、TSMCの2nmリソグラフィを使用し、Razor Lakeは3Dキャッシュを統合してAMDのX3Dと競合する。",
     "source": [
       "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 4
+  },
+  {
+    "title": "ASUSとHYDRA、RTX 50の12V-2×6コネクタ向けに監視と電力制限ソリューションをリリース、過熱報告を受けて",
+    "summary": "メーカーとツール開発者がピン単位の監視、過電流による自動シャットダウン、VRAM制御のロック解除を実装し、新電源コネクタのリスクを軽減。",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com",
       "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Geekom、マルウェア混入ドライバをミニPCに同梱し発覚後にパッケージを回収",
-    "summary": "同社はAMD搭載ミニPCに感染したネットワークドライバを出荷していたことを認め、セキュリティ研究者の指摘を受け削除ガイドを公開。",
+    "title": "Apple、カメラ内蔵AirPodsを誤ってリーク：Siriの「目」として環境認識に活用",
+    "summary": "macOSアップデートとリーク動画により、次期AirPodsにカメラが搭載されSiriが物体や環境を識別可能になることが判明、盗撮懸念は払拭された。",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "xataka.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "FlockおよびAIカメラがスペインで運転中のスマホ使用を検知、米国ではプライバシー議論を呼ぶ",
-    "summary": "カタルーニャ州がスマートカメラで数千人の運転手を罰金処分する一方、米国では犯罪解決率の向上なくFlock監視網が拡大することへの懸念が高まっている。",
+    "title": "Anthropic CEO、AIが権力を集中させると警告、自社のような企業の規制を求めチップ集中を防止",
+    "summary": "Dario Amodei氏はAIがハードウェアを制御する者に権力を集中させる傾向があるとし外部規制を提案、同社は年率換算650億ドルまで売上を7倍に伸ばす。",
     "source": [
-      "news.ycombinator.com",
+      "the-decoder.com",
       "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "裁判所、Nine PBSにIron Mountainサーバー保管の70年分のテレビアーカイブ返還を認める",
-    "summary": "司法判断により、ホスティングプロバイダーの倒産後、公共放送局が50TBの歴史的データの所有権を持つことが確定。",
+    "title": "Linux 7.2リリース、キャッシュ認識スケジューリング、Btrfs改善、Apple M3サポート、RadeonでHDMI 2.1完全対応",
+    "summary": "新カーネルはCPUキャッシュ使用を最適化、Btrfsファイルシステムを高速化、Apple M3チップサポートを追加、AMD Radeon GPUでHDMI 2.1を有効化。",
     "source": [
-      "news.ycombinator.com",
-      "tomshardware.com"
+      "alternativeto.net",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel、Nova Lakeプロセッサをデスクトップ向けに先行投入、最大28コアとAVX-512対応",
-    "summary": "次世代Intel CPUはノートPCより先にデスクトップでデビューし、24コアおよび28コア構成でAVX-512をサポート。",
+    "title": "司法省、Andreessen Horowitzを調査、競合AI企業の取締役会席を巡り",
+    "summary": "調査は、ベンチャーキャピタル企業のパートナーがライバルAIスタートアップの取締役会に席を置くことで信託義務に違反しているかを検証。",
     "source": [
-      "videocardz.com",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cursor、GitHub対抗のコードホスティングプラットフォーム「Origin」をリリース、開発者の不満を活用",
+    "summary": "AI支援コードエディタが、ネイティブなレビューとコラボレーション機能を備えた独自のGitリポジトリサービスを発表、GitHubへの直接的な代替として位置づけ。",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Noctua、RGB照明、画面、白色を拒否：エンジニアが美観より性能と信頼性を優先",
+    "summary": "オーストリアのメーカーは、RGBや白色筐体などの市場トレンドに従わないことを確認、ファンとヒートシンクの熱的・音響的最適化にリソースを集中。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "YouTube、視聴回数カウントを変更：最初のフレームから再生をカウント、公開指標を膨らませる",
+    "summary": "プラットフォームは視聴カウント方法論を変更し、30秒後ではなく動画開始時にカウントするようになり、視聴者数を人為的に押し上げる。",
+    "source": [
+      "alternativeto.net",
       "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、Windows 11で8GB RAMのみのノートPCを許可、Copilot+要件を免除もメーカーは価格を最大500%値上げ",
+    "summary": "基本機種のハードウェア要件緩和により大幅な値上げが発生、一方Windows 11軽量版はRecallなどのAI機能を省略。",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ASUS、ROG Raikiri II Proコントローラー発表：LCD画面、TMRジョイスティック、8000Hzポーリング、79時間バッテリー搭載",
+    "summary": "新PCコントローラーはカスタマイズ可能な画面、ホール効果スティック、超高ポーリングレート、長時間バッテリーを搭載、ゲーミング向けプレミアムオプションとして位置づけ。",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony、PlayStation 6を2027年以降に延期：CEOが現状維持では生存不可能と認める",
+    "summary": "Hiroki Totoki氏が次世代コンソールが予想されていた2027年に発売されないことを確認、経済的圧力とビジネスモデル見直しの必要性を挙げる。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple、規制圧力受けEUで代替ストア向けに手数料引き下げと規則緩和",
+    "summary": "同社はApp Store手数料を調整し、欧州アプリで外部決済への直接リンクを許可、デジタル市場法に準拠。",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   }

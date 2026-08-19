@@ -1,68 +1,133 @@
 [
   {
-    "title": "Anthropic reaches $65 billion in annualized revenue and launches invisible watermarks in Claude",
-    "summary": "The AI startup reports explosive revenue growth while implementing watermarks in its outputs to combat misuse, though critics question privacy.",
+    "title": "OpenAI launches ChatGPT for teens with enhanced safety controls and halts model development due to cyber risks",
+    "summary": "OpenAI unveils a version of ChatGPT designed for minors with usage limits and educational tools, while admitting that cybersecurity risks force a slowdown in the launch of new models.",
     "source": [
-      "techcrunch.com",
-      "xataka.com",
+      "alternativeto.net",
       "the-decoder.com",
-      "kite.kagi.com"
+      "wired.com",
+      "techcrunch.com"
     ],
     "count": 4
   },
   {
-    "title": "Amazon destroys rare books to train its AI, according to AirTag investigation",
-    "summary": "An AirTag tracking reveals that Amazon sends scarce books to a facility dedicated to feeding AI models instead of selling them.",
-    "source": [
-      "xataka.com",
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Workshops in China and Japan modify RTX 3080 and 2080 Ti graphics cards to 20-22 GB VRAM for AI workloads",
-    "summary": "Amid VRAM scarcity and high prices, Asian markets offer modifications that double the memory of older GPUs, turning them into economical alternatives for AI.",
+    "title": "Intel prepares Nova Lake and Razor Lake with up to 28 cores and TSMC N2X node to compete with AMD Ryzen X3D in laptops",
+    "summary": "Intel's future CPUs will reach base frequencies of 3.4 GHz with 24 cores and use TSMC's 2 nm lithography, while Razor Lake will integrate 3D cache to rival AMD's X3D.",
     "source": [
       "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 4
+  },
+  {
+    "title": "ASUS and HYDRA launch monitoring and power limit solutions for the RTX 50's 12V-2×6 connector after overheating reports",
+    "summary": "Manufacturers and tool developers implement per-pin monitoring, automatic overcurrent shutdown, and unlocked VRAM controls to mitigate risks of the new power connector.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com",
       "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Geekom distributes drivers with malware in its mini PCs and withdraws package after being discovered",
-    "summary": "The company admits to shipping infected network drivers in its AMD mini PCs and publishes removal guide after security researchers' report.",
+    "title": "Apple accidentally leaks its AirPods with built-in camera: they will serve as Siri's eyes for environmental recognition",
+    "summary": "A macOS update and leaked videos reveal that the next AirPods will include cameras for Siri to identify objects and environments, dismissing fears of voyeuristic use.",
     "source": [
-      "tomshardware.com",
-      "videocardz.com"
+      "techcrunch.com",
+      "xataka.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Flock and AI cameras detect mobile phone use while driving in Spain and spark privacy debate in US",
-    "summary": "While Catalonia fines thousands of drivers with smart cameras, in the United States fear grows over the expansion of the Flock surveillance network without improvement in crime resolution.",
+    "title": "Anthropic CEO warns that AI centralizes power and calls for regulation of companies like his to avoid chip concentration",
+    "summary": "Dario Amodei states that AI tends to concentrate power in whoever controls the hardware and proposes external regulation, while his company multiplies revenue sevenfold to $65 billion annualized.",
     "source": [
-      "news.ycombinator.com",
+      "the-decoder.com",
       "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Judge authorizes Nine PBS to recover 70 years of television archive stored on Iron Mountain servers",
-    "summary": "A court ruling confirms that the public broadcaster owns 50 TB of historical data following the collapse of its hosting provider.",
+    "title": "Linux 7.2 arrives with cache-aware scheduling, Btrfs improvements, Apple M3 support, and full HDMI 2.1 on Radeon",
+    "summary": "The new kernel optimizes CPU cache usage, accelerates the Btrfs filesystem, adds support for Apple M3 chips, and enables HDMI 2.1 on AMD Radeon graphics cards.",
     "source": [
-      "news.ycombinator.com",
-      "tomshardware.com"
+      "alternativeto.net",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel confirms its Nova Lake processors will arrive first on desktop with up to 28 cores and AVX-512",
-    "summary": "Intel's next generation of CPUs will debut on desktop before laptops, with 24 and 28 core configurations and AVX-512 support enabled.",
+    "title": "Department of Justice investigates Andreessen Horowitz for board seats at competing AI companies",
+    "summary": "The inquiry examines whether the venture capital firm's partners breach fiduciary duties by sitting on the boards of rival AI startups.",
     "source": [
-      "videocardz.com",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cursor launches Origin, a code hosting platform to compete with GitHub by leveraging developer frustration",
+    "summary": "The AI-assisted code editor presents its own git repository service with native review and collaboration features, positioning itself as a direct alternative to GitHub.",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Noctua rejects RGB lighting, screens, and white colors: its engineers prioritize performance and reliability over aesthetics",
+    "summary": "The Austrian manufacturer confirms it will not follow market trends like RGB or white casings, dedicating resources to thermal and acoustic optimization of its fans and heatsinks.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "YouTube changes its view counter: now counts a play from the first frame, inflating public metrics",
+    "summary": "The platform will modify its methodology to count views at the start of the video instead of after 30 seconds, which will artificially inflate audience figures.",
+    "source": [
+      "alternativeto.net",
       "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft allows laptops with only 8 GB RAM in Windows 11 exempting them from Copilot+ requirements, but manufacturers raise prices up to 500%",
+    "summary": "The relaxation of hardware requirements for basic devices leads to drastic price increases, while the lightweight version of Windows 11 omits AI features like Recall.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ASUS unveils ROG Raikiri II Pro controller with LCD screen, TMR joysticks, 8,000 Hz polling, and 79-hour battery",
+    "summary": "The new PC controller includes a customizable screen, Hall effect sticks, ultra-high polling rate, and extended battery life, positioning itself as a premium gaming option.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony delays PlayStation 6 beyond 2027: CEO admits they cannot survive current scenario without changes",
+    "summary": "Hiroki Totoki confirms that the next console will not arrive in 2027 as expected, citing economic pressures and the need to rethink the business model.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple reduces commissions and relaxes rules for alternative stores in the EU after regulatory pressure",
+    "summary": "The company adjusts its App Store fees and allows direct links to external payments in European apps, complying with the Digital Markets Act.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
     "count": 2
   }
