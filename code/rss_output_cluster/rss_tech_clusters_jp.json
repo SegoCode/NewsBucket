@@ -1,85 +1,27 @@
 [
   {
-    "title": "OpenAI、セキュリティ制御を強化したティーン向けChatGPTをリリース、サイバーリスクによりモデル開発を遅延",
-    "summary": "OpenAIは、使用制限と教育ツールを備えた未成年者向けChatGPTバージョンを発表し、サイバーセキュリティリスクが新モデルのリリースを遅らせることを認めた。",
+    "title": "StripeはOpenRouterを買収していないが、「特異点」を引き合いに出してIPOを回避",
+    "summary": "StripeはOpenRouterを買収していないことを明確にし、技術的特異点の概念をIPO延期の正当化理由として利用",
     "source": [
-      "alternativeto.net",
+      "techcrunch.com",
       "the-decoder.com",
-      "wired.com",
-      "techcrunch.com"
+      "news.ycombinator.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Intel、最大28コアとTSMC N2Xノードを採用したNova LakeとRazor Lakeを準備、ノートPCでAMD Ryzen X3Dに対抗",
-    "summary": "Intelの将来のCPUは、24コアでベース周波数3.4GHzに達し、TSMCの2nmリソグラフィを使用し、Razor Lakeは3Dキャッシュを統合してAMDのX3Dと競合する。",
+    "title": "GTA VIのゲームプレイとマップが流出、Rockstarが数年来最大のリークを封じ込めようと奮闘",
+    "summary": "ハッカーがデジタル専用発売への抗議としてGTA 6のゲームプレイと完全なマップを公開、Rockstarが部分的にリークを封じ込めに成功",
     "source": [
-      "elchapuzasinformatico.com",
       "tomshardware.com",
-      "videocardz.com",
+      "elchapuzasinformatico.com",
       "hardzone.es"
     ],
-    "count": 4
-  },
-  {
-    "title": "ASUSとHYDRA、RTX 50の12V-2×6コネクタ向けに監視と電力制限ソリューションをリリース、過熱報告を受けて",
-    "summary": "メーカーとツール開発者がピン単位の監視、過電流による自動シャットダウン、VRAM制御のロック解除を実装し、新電源コネクタのリスクを軽減。",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
     "count": 3
   },
   {
-    "title": "Apple、カメラ内蔵AirPodsを誤ってリーク：Siriの「目」として環境認識に活用",
-    "summary": "macOSアップデートとリーク動画により、次期AirPodsにカメラが搭載されSiriが物体や環境を識別可能になることが判明、盗撮懸念は払拭された。",
-    "source": [
-      "techcrunch.com",
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic CEO、AIが権力を集中させると警告、自社のような企業の規制を求めチップ集中を防止",
-    "summary": "Dario Amodei氏はAIがハードウェアを制御する者に権力を集中させる傾向があるとし外部規制を提案、同社は年率換算650億ドルまで売上を7倍に伸ばす。",
-    "source": [
-      "the-decoder.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Linux 7.2リリース、キャッシュ認識スケジューリング、Btrfs改善、Apple M3サポート、RadeonでHDMI 2.1完全対応",
-    "summary": "新カーネルはCPUキャッシュ使用を最適化、Btrfsファイルシステムを高速化、Apple M3チップサポートを追加、AMD Radeon GPUでHDMI 2.1を有効化。",
-    "source": [
-      "alternativeto.net",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "司法省、Andreessen Horowitzを調査、競合AI企業の取締役会席を巡り",
-    "summary": "調査は、ベンチャーキャピタル企業のパートナーがライバルAIスタートアップの取締役会に席を置くことで信託義務に違反しているかを検証。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Cursor、GitHub対抗のコードホスティングプラットフォーム「Origin」をリリース、開発者の不満を活用",
-    "summary": "AI支援コードエディタが、ネイティブなレビューとコラボレーション機能を備えた独自のGitリポジトリサービスを発表、GitHubへの直接的な代替として位置づけ。",
-    "source": [
-      "techcrunch.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Noctua、RGB照明、画面、白色を拒否：エンジニアが美観より性能と信頼性を優先",
-    "summary": "オーストリアのメーカーは、RGBや白色筐体などの市場トレンドに従わないことを確認、ファンとヒートシンクの熱的・音響的最適化にリソースを集中。",
+    "title": "Seasonic、最高効率の80 PLUS Ruby認証を取得した初のATX電源を発売",
+    "summary": "Seasonic PRIME RX-1600が115Vで80 PLUS Ruby認証を取得、電源ユニットの効率新基準を確立",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -87,35 +29,26 @@
     "count": 2
   },
   {
-    "title": "YouTube、視聴回数カウントを変更：最初のフレームから再生をカウント、公開指標を膨らませる",
-    "summary": "プラットフォームは視聴カウント方法論を変更し、30秒後ではなく動画開始時にカウントするようになり、視聴者数を人為的に押し上げる。",
+    "title": "北京が輸入制限を緩和したことを受け、NvidiaがH200チップの中国への出荷を開始",
+    "summary": "ByteDanceとTencentがH200の初回出荷を受領、ただしライセンス付きチップの大半は電力制約により香港に留まる必要あり",
     "source": [
-      "alternativeto.net",
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国、政府用カスタム版Windows 10を予定より早く撤去するよう命令",
+    "summary": "北京がMicrosoftを見限り、行政向けにカスタマイズされたWindows 10を廃止、国産システムへの移行を加速",
+    "source": [
+      "xataka.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft、Windows 11で8GB RAMのみのノートPCを許可、Copilot+要件を免除もメーカーは価格を最大500%値上げ",
-    "summary": "基本機種のハードウェア要件緩和により大幅な値上げが発生、一方Windows 11軽量版はRecallなどのAI機能を省略。",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ASUS、ROG Raikiri II Proコントローラー発表：LCD画面、TMRジョイスティック、8000Hzポーリング、79時間バッテリー搭載",
-    "summary": "新PCコントローラーはカスタマイズ可能な画面、ホール効果スティック、超高ポーリングレート、長時間バッテリーを搭載、ゲーミング向けプレミアムオプションとして位置づけ。",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony、PlayStation 6を2027年以降に延期：CEOが現状維持では生存不可能と認める",
-    "summary": "Hiroki Totoki氏が次世代コンソールが予想されていた2027年に発売されないことを確認、経済的圧力とビジネスモデル見直しの必要性を挙げる。",
+    "title": "サプライチェーン危機により、DDR4メモリ価格が来四半期に50%上昇の見込み",
+    "summary": "チップ不足とAIサーバーの高需要により、DDR4が大幅値上がりするとメーカーが警告",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es"
@@ -123,11 +56,38 @@
     "count": 2
   },
   {
-    "title": "Apple、規制圧力受けEUで代替ストア向けに手数料引き下げと規則緩和",
-    "summary": "同社はApp Store手数料を調整し、欧州アプリで外部決済への直接リンクを許可、デジタル市場法に準拠。",
+    "title": "Intel Core Ultra 9 4950Kが世界最速のコンシューマーCPUとして登場、新アーキテクチャNova Lakeを示唆",
+    "summary": "Core Ultra 9 4950Kの初期テストと目撃情報が記録的性能とNova Lake-Sへの名称変更の可能性を示唆",
     "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "『The Blood of Dawnwalker』が必要スペックを緩和：4K 60FPSプレイにRTX 5090は不要に",
+    "summary": "Rebel WolvesのRPGが技術仕様を更新、発売時にDLSS、FSR、XeSSの強制サポートを確認",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、言語エージェントを用いた完全なタンパク質設計をあらゆる研究室に開放",
+    "summary": "Claudeが実験室テストで15標的中14に対する機能的タンパク質設計を実証、Anthropicがタンパク質設計スタック全体を公開",
+    "source": [
+      "xataka.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "開発者たちがAIとLinuxコンテナを用いてmacOS向けの旧式ハードウェアドライバを作成",
+    "summary": "あるユーザーがDrobo用ドライバを、別のユーザーがClaudeを使ってWindows専用プリンタをmacOS対応にし、『バイブコーディング』によるドライバ開発の実現可能性を実証",
+    "source": [
+      "news.ycombinator.com",
+      "tomshardware.com"
     ],
     "count": 2
   }
