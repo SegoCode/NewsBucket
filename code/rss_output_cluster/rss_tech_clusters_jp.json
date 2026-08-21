@@ -1,45 +1,26 @@
 [
   {
-    "title": "StripeはOpenRouterを買収していないが、「特異点」を引き合いに出してIPOを回避",
-    "summary": "StripeはOpenRouterを買収していないことを明確にし、技術的特異点の概念をIPO延期の正当化理由として利用",
+    "title": "GTA VIの大規模流出で完全プレイ可能版が判明、Take-Two株価が暴落",
+    "summary": "ハッカーがGTA VIの完全プレイ可能なビルドを流出させ、Take-Twoの時価総額から数十億ドルが失われた。",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Rustのサプライチェーン攻撃で2億4500万ダウンロードのパッケージにマルウェア注入",
+    "summary": "研究者らが人気のRustクレートにコンパイル時に実行される悪意あるコードを発見、数百万のプロジェクトに影響。",
+    "source": [
+      "thehackernews.com",
       "news.ycombinator.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "GTA VIのゲームプレイとマップが流出、Rockstarが数年来最大のリークを封じ込めようと奮闘",
-    "summary": "ハッカーがデジタル専用発売への抗議としてGTA 6のゲームプレイと完全なマップを公開、Rockstarが部分的にリークを封じ込めに成功",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Seasonic、最高効率の80 PLUS Ruby認証を取得した初のATX電源を発売",
-    "summary": "Seasonic PRIME RX-1600が115Vで80 PLUS Ruby認証を取得、電源ユニットの効率新基準を確立",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
     "count": 2
   },
   {
-    "title": "北京が輸入制限を緩和したことを受け、NvidiaがH200チップの中国への出荷を開始",
-    "summary": "ByteDanceとTencentがH200の初回出荷を受領、ただしライセンス付きチップの大半は電力制約により香港に留まる必要あり",
-    "source": [
-      "the-decoder.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国、政府用カスタム版Windows 10を予定より早く撤去するよう命令",
-    "summary": "北京がMicrosoftを見限り、行政向けにカスタマイズされたWindows 10を廃止、国産システムへの移行を加速",
+    "title": "中国、『宇宙タクシー』のエンジン試験に成功しZhuQue-3ロケットを回収、再利用可能な軌道飛行へ前進",
+    "summary": "中国の宇宙計画が5,211秒のエンジン試験とZhuQue-3ロケットの着陸成功で再利用の重要マイルストーンを達成。",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com"
@@ -47,47 +28,56 @@
     "count": 2
   },
   {
-    "title": "サプライチェーン危機により、DDR4メモリ価格が来四半期に50%上昇の見込み",
-    "summary": "チップ不足とAIサーバーの高需要により、DDR4が大幅値上がりするとメーカーが警告",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Core Ultra 9 4950Kが世界最速のコンシューマーCPUとして登場、新アーキテクチャNova Lakeを示唆",
-    "summary": "Core Ultra 9 4950Kの初期テストと目撃情報が記録的性能とNova Lake-Sへの名称変更の可能性を示唆",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "『The Blood of Dawnwalker』が必要スペックを緩和：4K 60FPSプレイにRTX 5090は不要に",
-    "summary": "Rebel WolvesのRPGが技術仕様を更新、発売時にDLSS、FSR、XeSSの強制サポートを確認",
+    "title": "プログラマーが2010年発売のCanon EOS 550D一眼レフでDOOMを動作させることに成功",
+    "summary": "モッダーが16年前のDSLRの限られたハードウェアでクラシックゲームを動作させ、エンジンの極限の移植性を実証。",
     "source": [
       "hardzone.es",
-      "elchapuzasinformatico.com"
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic、言語エージェントを用いた完全なタンパク質設計をあらゆる研究室に開放",
-    "summary": "Claudeが実験室テストで15標的中14に対する機能的タンパク質設計を実証、Anthropicがタンパク質設計スタック全体を公開",
+    "title": "モッダーがWiiリモコンをNintendo Switch 2用の機能的なJoy-Con 2に改造",
+    "summary": "愛好家が新型Joy-Conの電子部品をWiiリモコンの筐体に組み込み、磁気モーション検知を備えたハイブリッドコントローラーを作成。",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
+      "hardzone.es",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "開発者たちがAIとLinuxコンテナを用いてmacOS向けの旧式ハードウェアドライバを作成",
-    "summary": "あるユーザーがDrobo用ドライバを、別のユーザーがClaudeを使ってWindows専用プリンタをmacOS対応にし、『バイブコーディング』によるドライバ開発の実現可能性を実証",
+    "title": "Framework推奨のBIOSアップデートでRyzen 7040搭載Laptop 13のマザーボードが文鎮化",
+    "summary": "公式ファームウェア更新でデバイスが起動不能に、修理費用は20ドルから500ドル以上に。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ValveのVRゴーグル『Steam Frame』の開封・設定動画が公式発表前に流出",
+    "summary": "SteamのARM版クライアントがValveの新型VRヘッドセットのプロモーション素材を誤って公開、その存在が確認される。",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "MetaがmacOS向けネイティブMeta AIアプリをリリース、ブラウザを超えてアシスタントを展開",
+    "summary": "同社がMac専用アプリを展開、Webインターフェースなしで言語モデルにアクセス可能に。",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Linux 7.2がGaruda Linuxなどのディストリビューションに登場、スケジューラ改善とハードウェアサポート強化",
+    "summary": "新カーネル版には控えめなスペックのマシンで性能を向上させるスケジューラが含まれ、Garudaの『Temeraire』エディションにプリインストール。",
     "source": [
       "news.ycombinator.com",
-      "tomshardware.com"
+      "alternativeto.net"
     ],
     "count": 2
   }

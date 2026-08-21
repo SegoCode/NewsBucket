@@ -1,45 +1,26 @@
 [
   {
-    "title": "Stripe didn't buy OpenRouter but invokes 'singularity' to avoid going public",
-    "summary": "Stripe clarifies it didn't acquire OpenRouter and uses the idea of technological singularity as justification to postpone its IPO.",
+    "title": "Massive GTA VI leak reveals fully playable version and causes stock market drop for Take-Two",
+    "summary": "A hacker leaked a complete, playable build of GTA VI, causing billions in market value losses for Take-Two.",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Rust supply chain attack injects malware into packages with 245 million downloads",
+    "summary": "Researchers discover malicious code in popular Rust crates that executes during compilation, affecting millions of projects.",
+    "source": [
+      "thehackernews.com",
       "news.ycombinator.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "Gameplay and map of GTA VI leaked while Rockstar tries to contain biggest leak in years",
-    "summary": "A hacker publishes gameplay and full GTA 6 map in protest over digital-only launch, and Rockstar partially contains the leak.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Seasonic launches first ATX PSU with 80 PLUS Ruby certification, highest energy efficiency",
-    "summary": "The Seasonic PRIME RX-1600 achieves 80 PLUS Ruby certification at 115V, setting a new efficiency standard for power supplies.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
     "count": 2
   },
   {
-    "title": "Nvidia starts shipping H200 chips to China after Beijing eases import restrictions",
-    "summary": "ByteDance and Tencent receive first H200 shipments, though most licensed chips must remain in Hong Kong due to energy limitations.",
-    "source": [
-      "the-decoder.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China orders removal of its custom Windows 10 version for government use ahead of schedule",
-    "summary": "Beijing turns its back on Microsoft and eliminates Windows 10 adapted for its administration, accelerating transition to domestic systems.",
+    "title": "China successfully tests engine of its 'space taxi' and recovers ZhuQue-3 rocket, advancing toward reusable orbital flights",
+    "summary": "Chinese space program achieves key reusability milestones with a 5,211-second engine test and successful landing of ZhuQue-3 rocket.",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com"
@@ -47,47 +28,56 @@
     "count": 2
   },
   {
-    "title": "DDR4 memory to rise 50% in price next quarter due to supply crisis",
-    "summary": "Manufacturers warn of drastic DDR4 price increase due to chip shortage and high demand for AI servers.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Core Ultra 9 4950K appears as world's fastest consumer CPU and points to new Nova Lake architecture",
-    "summary": "First tests and sightings of Core Ultra 9 4950K suggest record performance and possible naming change to Nova Lake-S.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The Blood of Dawnwalker lowers requirements: RTX 5090 not needed to play at 4K 60 FPS",
-    "summary": "Rebel Wolves' RPG updates technical specs and confirms mandatory DLSS, FSR, and XeSS support at launch.",
+    "title": "Programmer manages to run DOOM on a 2010 Canon EOS 550D DSLR camera",
+    "summary": "A modder adapts the classic game to run on the limited hardware of a 16-year-old DSLR, demonstrating the engine's extreme portability.",
     "source": [
       "hardzone.es",
-      "elchapuzasinformatico.com"
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic allows any lab to use language agents to design complete proteins",
-    "summary": "Claude demonstrated designing functional proteins against 14 of 15 targets in lab tests, and now Anthropic opens entire protein design stack.",
+    "title": "Modders convert Wii Remotes into functional Joy-Con 2 controllers for Nintendo Switch 2",
+    "summary": "An enthusiast integrates new Joy-Con electronics into Wii Remote shells, creating hybrid controllers with magnetic motion detection.",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
+      "hardzone.es",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Developers create macOS drivers for obsolete hardware using AI and Linux containers",
-    "summary": "One user programs a driver for their Drobo and another uses Claude to adapt a Windows-only printer, demonstrating viability of 'vibe-coding' drivers on macOS.",
+    "title": "Framework-recommended BIOS update bricks Laptop 13 motherboards with Ryzen 7040",
+    "summary": "An official firmware update blocks device booting, with repair costs ranging from $20 to over $500.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Unboxing and setup videos of Valve's 'Steam Frame' VR glasses leak before official announcement",
+    "summary": "Steam client for ARM accidentally exposes promotional material for Valve's new VR headset, confirming its existence.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta launches native Meta AI app for macOS, expanding its assistant beyond the browser",
+    "summary": "The company deploys a dedicated Mac app allowing access to its language model without relying on the web interface.",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Linux 7.2 release reaches distributions like Garuda Linux with scheduling improvements and hardware support",
+    "summary": "The new kernel version includes a scheduler that improves performance on modest hardware and comes preinstalled in Garuda's 'Temeraire' edition.",
     "source": [
       "news.ycombinator.com",
-      "tomshardware.com"
+      "alternativeto.net"
     ],
     "count": 2
   }
