@@ -1,45 +1,26 @@
 [
   {
-    "title": "Stripe no compró OpenRouter pero invoca la 'singularidad' para evitar salir a bolsa",
-    "summary": "Stripe aclara que no adquirió OpenRouter y usa la idea de la singularidad tecnológica como justificación para posponer su IPO.",
+    "title": "Filtración masiva de GTA VI revela versión jugable completa y causa caída bursátil a Take-Two",
+    "summary": "Un hacker filtró una compilación completa y jugable de GTA VI, provocando pérdidas de miles de millones en valor de mercado para Take-Two.",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Ataque a la cadena de suministro de Rust inyecta malware en paquetes con 245 millones de descargas",
+    "summary": "Investigadores descubren código malicioso en crates populares de Rust que se ejecuta durante la compilación, afectando a millones de proyectos.",
+    "source": [
+      "thehackernews.com",
       "news.ycombinator.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "Filtran gameplay y mapa de GTA VI mientras Rockstar intenta contener la mayor filtración en años",
-    "summary": "Un hacker publica gameplay y el mapa completo de GTA 6 en protesta por el lanzamiento solo digital, y Rockstar logra contener parcialmente la filtración.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Seasonic lanza la primera fuente ATX con certificación 80 PLUS Ruby, la más alta eficiencia energética",
-    "summary": "La Seasonic PRIME RX-1600 alcanza la certificación 80 PLUS Ruby a 115V, estableciendo un nuevo estándar de eficiencia en fuentes de alimentación.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
     "count": 2
   },
   {
-    "title": "Nvidia comienza a enviar chips H200 a China tras flexibilizar Pekín las restricciones de importación",
-    "summary": "ByteDance y Tencent reciben los primeros envíos de H200, aunque la mayoría de chips licenciados deben permanecer en Hong Kong por limitaciones energéticas.",
-    "source": [
-      "the-decoder.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China ordena retirar su versión personalizada de Windows 10 para uso gubernamental antes de lo previsto",
-    "summary": "Pekín da la espalda a Microsoft y elimina el Windows 10 adaptado para su administración, acelerando la transición a sistemas nacionales.",
+    "title": "China prueba con éxito el motor de su 'taxi espacial' y recupera el cohete ZhuQue-3, avanzando hacia vuelos orbitales reutilizables",
+    "summary": "El programa espacial chino logra hitos clave en reutilización con una prueba de motor de 5.211 segundos y el aterrizaje exitoso del cohete ZhuQue-3.",
     "source": [
       "xataka.com",
       "elchapuzasinformatico.com"
@@ -47,47 +28,56 @@
     "count": 2
   },
   {
-    "title": "La memoria DDR4 subirá un 50% de precio en el próximo trimestre por la crisis de suministro",
-    "summary": "Los fabricantes advierten de un encarecimiento drástico de la DDR4 debido a la escasez de chips y la alta demanda de servidores de IA.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Core Ultra 9 4950K aparece como la CPU de consumo más rápida del mundo y apunta a nueva arquitectura Nova Lake",
-    "summary": "Los primeros tests y avistamientos del Core Ultra 9 4950K sugieren un rendimiento récord y un posible cambio de nomenclatura a Nova Lake-S.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "The Blood of Dawnwalker reduce sus requisitos: no hará falta una RTX 5090 para jugar en 4K a 60 FPS",
-    "summary": "El RPG de Rebel Wolves actualiza sus especificaciones técnicas y confirma soporte forzado para DLSS, FSR y XeSS en el lanzamiento.",
+    "title": "Un programador logra ejecutar DOOM en una cámara réflex Canon EOS 550D de 2010",
+    "summary": "Un modder adapta el clásico juego para funcionar en el hardware limitado de una DSLR de 16 años, demostrando la portabilidad extrema del motor.",
     "source": [
       "hardzone.es",
-      "elchapuzasinformatico.com"
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic permite que cualquier laboratorio use agentes de lenguaje para diseñar proteínas completas",
-    "summary": "Claude demostró diseñar proteínas funcionales contra 14 de 15 objetivos en pruebas de laboratorio, y ahora Anthropic abre toda la pila de diseño proteico.",
+    "title": "Modders convierten mandos Wii Remote en Joy-Con 2 funcionales para Nintendo Switch 2",
+    "summary": "Un entusiasta integra la electrónica de los nuevos Joy-Con en carcasas de Wii Remote, creando mandos híbridos con detección de movimiento magnética.",
     "source": [
-      "xataka.com",
-      "the-decoder.com"
+      "hardzone.es",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Desarrolladores crean controladores macOS para hardware obsoleto usando IA y contenedores Linux",
-    "summary": "Un usuario programa un driver para su Drobo y otro usa Claude para adaptar una impresora solo Windows, demostrando la viabilidad de 'vibe-coding' drivers en macOS.",
+    "title": "Actualización de BIOS recomendada por Framework deja inutilizadas placas base de portátiles Laptop 13 con Ryzen 7040",
+    "summary": "Una actualización de firmware oficial bloquea el arranque de los dispositivos, con costes de reparación que oscilan entre 20 y más de 500 dólares.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Se filtran vídeos de unboxing y configuración de las gafas VR 'Steam Frame' de Valve antes de su anuncio oficial",
+    "summary": "El cliente de Steam para ARM expone accidentalmente material promocional del nuevo visor de realidad virtual de Valve, confirmando su existencia.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta lanza aplicación nativa de Meta AI para macOS, expandiendo su asistente más allá del navegador",
+    "summary": "La compañía despliega una app dedicada para Mac que permite acceder a su modelo de lenguaje sin depender de la interfaz web.",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lanzamiento de Linux 7.2 llega a distribuciones como Garuda Linux con mejoras en planificación y soporte de hardware",
+    "summary": "La nueva versión del kernel incluye un planificador que mejora el rendimiento en equipos modestos y llega preinstalada en la edición 'Temeraire' de Garuda.",
     "source": [
       "news.ycombinator.com",
-      "tomshardware.com"
+      "alternativeto.net"
     ],
     "count": 2
   }
