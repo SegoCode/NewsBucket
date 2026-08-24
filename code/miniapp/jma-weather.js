@@ -24,7 +24,7 @@ export const weatherItems = (jma, lang) =>
             title,
             source: ['JMA', jma.prefecture],
             cls: 'quake-high' + (/[3-9]|\d{2,}/.test(title) ? ' quake-recent' : ''),
-            url: `https://www.jma.go.jp/bosai/#lang=${lang === 'jp' ? 'jp' : 'en'}&pattern=default&area_type=japan&area_code=010000`,
+            url: `https://www.jma.go.jp/bosai/#lang=${lang === 'jp' ? 'jp' : 'en'}&pattern=default&area_type=offices&area_code=${a.office || jma.office}`,
         };
     });
 
@@ -47,30 +47,38 @@ export const fetchWeatherAlerts = async coords => {
     }
     const offices = Object.entries(areas.offices).filter(([code]) => code.startsWith(pref));
     if (!offices.length) return named;
-    const c10 = offices.flatMap(([, o]) => o.children || []);
-    const c15 = c10.flatMap(c => areas.class10s[c]?.children || []);
-    const codes = new Set([...c10, ...c15,
-        ...Object.keys(areas.class20s).filter(k => c10.includes(areas.class20s[k].parent) || c15.includes(areas.class20s[k].parent))]);
+    const owner = new Map();
+    for (const [code, o] of offices) {
+        for (const c10 of o.children || []) {
+            owner.set(c10, code);
+            for (const c15 of areas.class10s[c10]?.children || []) owner.set(c15, code);
+        }
+    }
+    for (const [c20, { parent }] of Object.entries(areas.class20s)) {
+        if (owner.has(parent)) owner.set(c20, owner.get(parent));
+    }
+    const codes = new Set(owner.keys());
     const panels = cfg.lines[1].map(key => [key, cfg.panels[key]]);
     const urlKeys = [...new Set(panels.flatMap(([, p]) => p.url))];
     const data = Object.fromEntries(await Promise.all(
         urlKeys.map(async key => [key, await fetch(JMA + cfg.urls[key]).then(r => r.json())])
     ));
+    const alerts = panels.flatMap(([key, p]) => {
+        const hits = p.url
+            .flatMap(u => Object.values(data[u]?.[key] || {}))
+            .flatMap(m => Object.entries(m))
+            .filter(([c]) => codes.has(c));
+        const level = hits.map(([, v]) => v).sort().pop();
+        if (!level) return [];
+        const area = hits.find(([, v]) => v === level)[0];
+        const pick = n => (typeof n === 'string' ? n : n?.[level])?.replace(/<[^>]+>/g, ' ').trim();
+        const en = pick(p.enName), jp = pick(p.name);
+        return en && jp ? [{ en, jp, office: owner.get(area) }] : [];
+    });
     return {
         ...named,
         prefecture,
-        alerts: panels.flatMap(([key, p]) => {
-            const level = p.url
-                .flatMap(u => Object.values(data[u]?.[key] || {}))
-                .flatMap(m => Object.entries(m))
-                .filter(([c]) => codes.has(c))
-                .map(([, v]) => v)
-                .sort()
-                .pop();
-            if (!level) return [];
-            const pick = n => (typeof n === 'string' ? n : n?.[level])?.replace(/<[^>]+>/g, ' ').trim();
-            const en = pick(p.enName), jp = pick(p.name);
-            return en && jp ? [{ en, jp }] : [];
-        }),
+        office: alerts.find(a => a.office)?.office,
+        alerts,
     };
 };
