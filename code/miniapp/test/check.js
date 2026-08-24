@@ -1,3 +1,5 @@
+import { createChrome } from '../chrome.js';
+
 const scenario = new URLSearchParams(location.search).get('s') || 'feed';
 const $ = (s, r = document) => r.querySelector(s);
 const $$ = (s, r = document) => [...r.querySelectorAll(s)];
@@ -14,11 +16,17 @@ const wait = async (fn, ms = 3000) => {
 
 const log = [];
 const ok = (cond, msg) => { log.push(`${cond ? 'ok  ' : 'FAIL'} ${msg}`); };
+let sawEnd = false;
 
 const articles = () => $$('#feed article');
 const titles = () => articles().map(a => $('h2', a).textContent.trim());
 const classes = () => articles().map(a => a.className.trim());
 const sources = () => articles().map(a => $('.sources', a).textContent);
+const href = a => (a.getAttribute('onclick') || '').match(/window\.open\('([^']*)'/)?.[1] || '';
+const mapsQuery = a => {
+    try { return new URL(href(a)).searchParams.get('query') || ''; }
+    catch { return ''; }
+};
 
 const COUNT = {
     empty: 0,
@@ -33,6 +41,12 @@ const COUNT = {
     'lang-ua': 1,
     'lang-keep': 1,
     'feed-count': 2,
+    'topic-switch': 3,
+    'lang-switch': 3,
+    'end-mark': 3,
+    'quake-west': 1,
+    'quake-down': 1,
+    'weather-down': 1,
     'status-ok': 5,
     'status-running': 5,
     'status-fail': 5,
@@ -51,6 +65,7 @@ const COUNT = {
     'quake-blink': 2,
     'quake-drop': 1,
     'quake-combo': 2,
+    'quake-cod': 2,
     weather: 3,
     'weather-l2': 1,
     'weather-jp': 3,
@@ -58,6 +73,7 @@ const COUNT = {
     'geo-wins': 3,
     'geo-refresh': 3,
     'weather-osaka': 1,
+    'weather-hokkaido': 2,
     'japan-jp': 6,
     'japan-us': 3,
     'japan-es': 6,
@@ -67,6 +83,7 @@ const COUNT = {
     'live-en': 0,
     'live-back': 0,
     'live-topic': 0,
+    chrome: 3,
 };
 
 const ready = async () => {
@@ -74,9 +91,32 @@ const ready = async () => {
         await sleep(80);
         return;
     }
+    if (scenario === 'stale-load') {
+        $('#topic').value = 'tech';
+        $('#topic').dispatchEvent(new Event('change'));
+        await wait(() => titles()[0] === 'Foundry wins contract');
+        return;
+    }
     await wait(() => !$('#status') || $('#status').textContent !== 'Loading…');
     const n = COUNT[scenario];
     if (n) await wait(() => articles().length >= n);
+    if (scenario === 'topic-switch') {
+        $('#topic').value = 'tech';
+        $('#topic').dispatchEvent(new Event('change'));
+        await wait(() => titles()[0] === 'Foundry wins contract');
+    }
+    if (scenario === 'lang-switch') {
+        $('#lang').value = 'es';
+        $('#lang').dispatchEvent(new Event('change'));
+        await wait(() => titles()[0] === 'Cuatro medios sobre tipos');
+    }
+    if (scenario === 'end-mark') {
+        sawEnd = await wait(() => $('#feed p')?.textContent === 'END');
+        $('#topic').value = 'status';
+        $('#topic').dispatchEvent(new Event('change'));
+        await wait(() => articles().length >= 5 && !$('#feed p'));
+    }
+    if (scenario === 'weather-down') await sleep(180);
     if (scenario.startsWith('live')) await wait(() => !$('#chrome').hidden);
     if (scenario.startsWith('diag')) {
         await wait(() => $('#diag-github').textContent !== '—');
@@ -201,6 +241,30 @@ const run = () => {
         ok(titles().join() === 'Four sources,Two sources', 'titles');
         return;
     }
+    if (scenario === 'topic-switch') {
+        ok($('#topic').value === 'tech', 'topic tech');
+        ok(titles()[0] === 'Foundry wins contract', 'tech feed');
+        ok(JSON.parse(localStorage.getItem('nb')).t === 'tech', 'saved topic');
+        return;
+    }
+    if (scenario === 'stale-load') {
+        ok(titles()[0] === 'Foundry wins contract', 'second wins');
+        ok(!titles().some(t => t.includes('Four outlets')), 'stale finance dropped');
+        return;
+    }
+    if (scenario === 'lang-switch') {
+        ok($('#lang').value === 'es', 'lang es');
+        ok(titles()[0] === 'Cuatro medios sobre tipos', 'es feed');
+        ok(JSON.parse(localStorage.getItem('nb')).l === 'es', 'saved lang');
+        return;
+    }
+    if (scenario === 'end-mark') {
+        ok(sawEnd, 'end on news');
+        ok($('#topic').value === 'status', 'status');
+        ok(!$('#feed p'), 'no end on status');
+        ok(articles().length === 5, '5 jobs');
+        return;
+    }
     if (scenario === 'status-fail') {
         const fail = articles().find(a => a.className === 'high');
         ok(fail, 'one high');
@@ -260,7 +324,7 @@ const run = () => {
         ok(titles()[0].startsWith('M6.2') && titles()[0].includes('Tokyo Bay'), 'M6.2');
         ok(titles()[1].startsWith('M5.4'), 'M5.4');
         ok(titles().every(t => !t.includes('Weather alert')), 'no weather');
-        ok(articles()[0].getAttribute('onclick')?.includes('geo:'), 'geo url');
+        ok(href(articles()[0]) === 'https://www.google.com/maps/search/?api=1&query=35.6,139.7', 'maps url');
         return;
     }
     if (scenario === 'quake-mag') {
@@ -295,6 +359,31 @@ const run = () => {
         ok(!titles().some(t => t.includes('No mag') || t.includes('No cod')), 'incomplete dropped');
         return;
     }
+    if (scenario === 'quake-cod') {
+        const ibaraki = articles().find(a => $('h2', a).textContent.includes('Ibaraki'));
+        const urakawa = articles().find(a => $('h2', a).textContent.includes('Urakawa'));
+        ok(ibaraki && $('h2', ibaraki).textContent.startsWith('M5.9'), 'compact bulletin wins');
+        ok(!titles().some(t => t.includes('old decimal')), 'older eid dropped');
+        const [lat, lon] = mapsQuery(ibaraki).split(',').map(Number);
+        ok(Math.abs(lat - (35 + 59.9 / 60)) < 1e-3, 'compact lat');
+        ok(Math.abs(lon - (140 + 5.7 / 60)) < 1e-3, 'compact lon');
+        ok(href(ibaraki).startsWith('https://www.google.com/maps/search/?api=1&query='), 'maps url');
+        ok(mapsQuery(urakawa) === '41.8,142.9', 'depth not lon');
+        return;
+    }
+    if (scenario === 'quake-west') {
+        ok(articles().length === 1, '1 quake');
+        ok(titles()[0].includes('Central America'), 'west title');
+        ok(mapsQuery(articles()[0]) === '5,-76.3', 'minus lon');
+        ok(!href(articles()[0]).includes('+'), 'no plus');
+        return;
+    }
+    if (scenario === 'quake-down') {
+        ok(articles().length === 1, '1 news');
+        ok(titles()[0] === 'Diet passes bill', 'news kept');
+        ok(!titles().some(t => t.startsWith('M')), 'no quake');
+        return;
+    }
     if (scenario === 'weather' || scenario === 'weather-ip') {
         ok(titles()[0].includes('Heavy rain') && titles()[0].includes('Level 3'), 'rain L3');
         ok(titles()[1] === 'Weather alert: Flood', 'flood L1');
@@ -305,6 +394,8 @@ const run = () => {
         ok(!classes()[1].includes('quake-recent'), 'L1 still');
         ok(classes()[2].includes('quake-recent'), 'L5 blinks');
         if (scenario === 'weather-ip') ok(articles().length === 3, 'ip-only weather');
+        ok(href(articles()[0]).includes('area_code=130000'), 'tokyo area');
+        ok(!href(articles()[0]).includes('area_code=010000'), 'not nationwide');
         return;
     }
     if (scenario === 'weather-l2') {
@@ -320,11 +411,27 @@ const run = () => {
         ok(classes()[0].includes('quake-recent') && !classes()[1].includes('quake-recent') && classes()[2].includes('quake-recent'), 'jp blink');
         return;
     }
+    if (scenario === 'weather-down') {
+        ok(articles().length === 1, '1 news');
+        ok(titles()[0] === 'Diet passes bill', 'news kept');
+        ok(!titles().some(t => t.includes('Weather')), 'no weather');
+        return;
+    }
+    if (scenario === 'weather-hokkaido') {
+        ok(articles().length === 2, '2 alerts');
+        ok(sources().every(s => s.includes('Hokkaido')), 'Hokkaido');
+        ok(href(articles()[0]).includes('area_code=016000'), 'sapporo office');
+        ok(href(articles()[1]).includes('area_code=014030'), 'tokachi office');
+        ok(articles().every(a => !href(a).includes('area_code=011000') && !href(a).includes('area_code=010000')), 'not first/nationwide');
+        return;
+    }
     if (scenario === 'weather-osaka') {
         ok(articles().length === 1, '1 alert');
         ok(titles()[0].includes('Storm') && titles()[0].includes('Level 5'), 'storm');
         ok(sources()[0].includes('Osaka'), 'Osaka');
         ok(classes()[0].includes('quake-recent'), 'L5 blinks');
+        ok(href(articles()[0]).includes('area_code=270000'), 'osaka area');
+        ok(!href(articles()[0]).includes('area_code=010000'), 'not nationwide');
         return;
     }
     if (scenario === 'japan-jp') {
@@ -410,6 +517,46 @@ const run = () => {
         ok($('#chrome').hidden, 'chrome off');
         ok(titles()[0] === 'Four outlets on rates', 'finance feed');
         ok($('#live').hidden, 'live off');
+        return;
+    }
+    if (scenario === 'chrome') {
+        ok(!window.Telegram?.WebApp?.initData, 'no native initData');
+        const tg = createChrome();
+        tg.ready();
+        tg.expand();
+        tg.disableVerticalSwipes();
+        tg.setHeaderColor('secondary_bg_color');
+        tg.setBackgroundColor('bg_color');
+        const main = $('#MainButton');
+        const secondary = $('#SecondaryButton');
+        const back = $('#BackButton');
+        tg.MainButton.setText('Continue');
+        ok(main.textContent === 'Continue', 'MainButton.setText');
+        tg.MainButton.show();
+        ok(!main.hidden && !$('#chrome').hidden, 'MainButton.show');
+        let clicks = 0;
+        tg.MainButton.onClick(() => { clicks++; });
+        main.click();
+        ok(clicks === 1, 'MainButton.onClick');
+        tg.MainButton.hide();
+        ok(main.hidden && $('#chrome').hidden, 'MainButton.hide');
+        tg.SecondaryButton.setText('Cancel');
+        ok(secondary.textContent === 'Cancel', 'SecondaryButton.setText');
+        tg.SecondaryButton.show();
+        ok(!secondary.hidden && !$('#chrome').hidden, 'SecondaryButton.show');
+        tg.SecondaryButton.hide();
+        ok(secondary.hidden, 'SecondaryButton.hide');
+        tg.BackButton.show();
+        ok(!back.hidden && main.hidden && !$('#chrome').hidden, 'BackButton.show');
+        let backClicks = 0;
+        tg.BackButton.onClick(() => { backClicks++; });
+        back.click();
+        ok(backClicks === 1, 'BackButton.onClick');
+        tg.BackButton.hide();
+        ok(back.hidden && !main.hidden, 'BackButton.hide');
+        tg.HapticFeedback.impactOccurred('heavy');
+        tg.HapticFeedback.selectionChanged();
+        ok(true, 'HapticFeedback');
     }
 };
 
