@@ -55,7 +55,8 @@ h2 {
 
 .sources,
 #status,
-#diag dt {
+#diag dt,
+#feed p {
     color: var(--tg-theme-hint-color, #888);
 }
 
@@ -66,7 +67,8 @@ h2 {
 }
 
 #status,
-#diag dl {
+#diag dl,
+#feed p {
     font-size: .82em;
 }
 
@@ -193,10 +195,25 @@ article[onclick] {
     border: 0;
 }
 
-#diag hr {
+#diag hr,
+#feed p::before,
+#feed p::after {
     border: 0;
     border-top: 1px solid var(--tg-theme-hint-color, #ddd);
     margin: 10px 0;
+}
+
+#feed p {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#feed p::before,
+#feed p::after {
+    content: "";
+    flex: 1;
+    margin: 0;
 }
 
 #diag button {
