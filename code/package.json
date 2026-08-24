@@ -5,7 +5,6 @@
 	"type": "module",
 	"scripts": {
 		"feeds": "node js/fetch-feeds.js",
-		"perplexity": "node js/perplexity.js",
 		"validate-feeds": "node js/validate-feeds.js",
 		"cluster": "node js/cluster-news.js",
 		"translate": "node js/translate-clusters.js",
