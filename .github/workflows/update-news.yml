@@ -69,41 +69,9 @@ jobs:
             echo "No changes to commit"
           fi
 
-  perplexity:
-    name: Perplexity
-    needs: fetch-rss
-    if: ${{ !cancelled() }}
-    runs-on: ubuntu-latest
-    permissions: *write-permissions
-    env:
-      OUTPUT_PATH: code/rss_output/rss_tech.json
-      COMMIT_MESSAGE: Update Perplexity feed
-
-    steps:
-      - *checkout
-      - *setup-pnpm
-      - *setup-node
-      - *install
-
-      - name: Fetch Perplexity
-        id: perplexity
-        continue-on-error: true
-        run: pnpm run perplexity
-        working-directory: ./code
-
-      - name: Report unavailable connector
-        if: steps.perplexity.outcome == 'failure'
-        run: echo "::warning::Perplexity is unavailable; continuing without it"
-
-      - name: Validate enriched RSS output
-        run: pnpm run validate-feeds
-        working-directory: ./code
-
-      - *commit
-
   cluster-tech:
     name: Cluster tech
-    needs: perplexity
+    needs: fetch-rss
     if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     permissions: *write-permissions
