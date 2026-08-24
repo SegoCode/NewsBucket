@@ -77,13 +77,14 @@
         const scenes = [
             'loading', 'empty', 'fresh', 'feed', 'feed-es', 'feed-click', 'lang',
             'lang-es', 'lang-ja', 'lang-en', 'lang-ua', 'lang-keep',
-            'feed-down', 'feed-count',
+            'feed-down', 'feed-count', 'topic-switch', 'stale-load', 'lang-switch', 'end-mark',
             'status-ok', 'status-running', 'status-fail', 'status-empty', 'status-mixed',
             'diag', 'diag-gps', 'diag-ip-gps', 'diag-none', 'diag-denied', 'diag-ask', 'diag-github',
-            'quakes', 'quake-mag', 'quake-age', 'quake-blink', 'quake-drop', 'quake-combo',
-            'weather', 'weather-ip', 'weather-l2', 'weather-jp', 'geo-wins', 'geo-refresh', 'weather-osaka',
+            'quakes', 'quake-mag', 'quake-age', 'quake-blink', 'quake-drop', 'quake-combo', 'quake-cod', 'quake-west', 'quake-down',
+            'weather', 'weather-ip', 'weather-l2', 'weather-jp', 'geo-wins', 'geo-refresh', 'weather-osaka', 'weather-hokkaido', 'weather-down',
             'japan-jp', 'japan-us', 'japan-es', 'mix',
             'live', 'live-open', 'live-en', 'live-back', 'live-topic',
+            'chrome',
         ];
         document.getElementById('harness').innerHTML = scenes.map(s =>
             `<a href="?s=${s}"${s === here ? ' aria-current="page"' : ''}>${s}</a>`
