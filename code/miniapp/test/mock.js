@@ -30,6 +30,7 @@ const SCENES = {
     'quake-blink': { t: 'japan', l: 'en' },
     'quake-drop': { t: 'japan', l: 'en' },
     'quake-combo': { t: 'japan', l: 'en' },
+    'quake-cod': { t: 'japan', l: 'en' },
     weather: { t: 'japan', l: 'en' },
     'weather-l2': { t: 'japan', l: 'en' },
     'weather-jp': { t: 'japan', l: 'jp' },
@@ -46,8 +47,17 @@ const SCENES = {
     'live-en': { t: 'japan', l: 'en' },
     'live-back': { t: 'japan', l: 'en' },
     'live-topic': { t: 'japan', l: 'en' },
+    chrome: { t: 'finance', l: 'en' },
     'feed-down': { t: 'finance', l: 'en' },
     'feed-count': { t: 'tech', l: 'en' },
+    'topic-switch': { t: 'finance', l: 'en' },
+    'stale-load': { t: 'finance', l: 'en' },
+    'lang-switch': { t: 'finance', l: 'en' },
+    'end-mark': { t: 'finance', l: 'en' },
+    'quake-west': { t: 'japan', l: 'en' },
+    'quake-down': { t: 'japan', l: 'en' },
+    'weather-hokkaido': { t: 'japan', l: 'en' },
+    'weather-down': { t: 'japan', l: 'en' },
     'status-mixed': { t: 'status', l: 'en' },
 };
 
@@ -98,6 +108,11 @@ const LOCATION = {
     'status-empty': { ip: 'tokyo' },
     'japan-us': { ip: 'us' },
     quakes: { ip: 'us' },
+    'quake-cod': { ip: 'us' },
+    'quake-west': { ip: 'us' },
+    'quake-down': { ip: 'us' },
+    'weather-hokkaido': { ip: 'hokkaido', gps: 'hokkaido' },
+    'weather-down': { ip: 'tokyo', gps: 'tokyo' },
 }[scenario] || { ip: 'us' };
 
 const CLUSTERS = {
@@ -118,6 +133,12 @@ const CLUSTERS = {
     ],
 };
 
+const TECH = [
+    { title: 'Foundry wins contract', source: ['a.com', 'b.com', 'c.com', 'd.com'], count: 4 },
+    { title: 'Kernel patch lands', source: ['a.com', 'b.com', 'c.com'], count: 3 },
+    { title: 'Browser ships wasm', source: ['a.com', 'b.com'], count: 2 },
+];
+
 const JAPAN_NEWS = {
     en: [{ title: 'Diet passes bill', source: ['nhk.or.jp', 'asahi.com'], count: 2 }],
     es: [{ title: 'La Dieta aprueba el proyecto', source: ['nhk.or.jp', 'asahi.com'], count: 2 }],
@@ -137,6 +158,14 @@ const quakes = () => {
         q('2', '4.5', 47 * 3600e3, 'Edge'),
         q('3', '4.4', 60e3, 'Weak'),
         q('4', '5.0', 2 * 864e5, 'Old'),
+    ];
+    if (scenario === 'quake-west') return [
+        { eid: '1', mag: '7.1', cod: '+05.0-076.3-120000/', at: iso(60e3), ctt: '1', anm: '中米', en_anm: 'Central America' },
+    ];
+    if (scenario === 'quake-cod') return [
+        { eid: 'ibaraki', mag: '5.8', cod: '+36.0+140.1/', at: iso(40 * 60e3), ctt: '1', anm: '茨城県', en_anm: 'old decimal' },
+        { eid: 'ibaraki', mag: '5.9', cod: '+3559.9+14005.7-70000/', at: iso(20 * 60e3), ctt: '2', anm: '茨城県', en_anm: 'Ibaraki' },
+        { eid: 'urakawa', mag: '6.0', cod: '+41.8+142.9-50000/', at: iso(60 * 60e3), ctt: '3', anm: '浦河沖', en_anm: 'Urakawa' },
     ];
     if (scenario === 'quake-drop') return [
         q('1', '5.0', 60e3, 'Kept'),
@@ -200,14 +229,23 @@ const jobs = () => {
 
 const AREA = {
     offices: {
+        '011000': { children: ['011000'] },
+        '016000': { children: ['016010'] },
+        '014030': { children: ['014030'] },
         130000: { children: ['130010'] },
         270000: { children: ['270010'] },
     },
     class10s: {
+        '011000': { children: ['011001'] },
+        '016010': { children: ['016011'] },
+        '014030': { children: ['014031'] },
         130010: { children: ['130011'] },
         270010: { children: ['270011'] },
     },
     class20s: {
+        '0110100': { parent: '011001' },
+        '0161000': { parent: '016011' },
+        '0141000': { parent: '014031' },
         1310100: { parent: '130011' },
         2710000: { parent: '270011' },
     },
@@ -236,15 +274,16 @@ const SETTING = {
 };
 
 const WARN = {
-    rain: { x: { 130010: '5' } },
+    rain: { x: { 130010: '5', '016010': '5' } },
     flood: { x: { 130010: '1' } },
-    storm: { x: { 130010: '8', 270010: '8' } },
+    storm: { x: { 130010: '8', 270010: '8', '014030': '8' } },
 };
 
 const IP = {
     tokyo: { ip: '203.0.113.10', location: { city: 'Tokyo', country: 'Japan', latitude: 35.68, longitude: 139.76 } },
     osaka: { ip: '203.0.113.20', location: { city: 'Osaka', country: 'Japan', latitude: 34.69, longitude: 135.5 } },
     us: { ip: '198.51.100.8', location: { city: 'Dallas', country: 'US', latitude: 32.78, longitude: -96.8 } },
+    hokkaido: { ip: '203.0.113.30', location: { city: 'Sapporo', country: 'Japan', latitude: 43.06, longitude: 141.35 } },
 };
 
 const GEO = {
@@ -252,12 +291,14 @@ const GEO = {
     osaka: { countryCode: 'JP', principalSubdivisionCode: 'JP-27', principalSubdivision: 'Osaka' },
     nagoya: { countryCode: 'JP', principalSubdivisionCode: 'JP-23', principalSubdivision: 'Nagoya' },
     us: { countryCode: 'US', principalSubdivisionCode: 'US-TX', principalSubdivision: 'Texas' },
+    hokkaido: { countryCode: 'JP', principalSubdivisionCode: 'JP-01', principalSubdivision: 'Hokkaido' },
 };
 
 const COORDS = {
     tokyo: { latitude: 35.68, longitude: 139.76 },
     osaka: { latitude: 34.69, longitude: 135.5 },
     nagoya: { latitude: 35.18, longitude: 136.91 },
+    hokkaido: { latitude: 43.06, longitude: 141.35 },
 };
 
 let geoAsks = 0;
@@ -307,7 +348,8 @@ const text = (body, status = 200) =>
     Promise.resolve(new Response(body, { status }));
 
 const withQuakes = scenario.startsWith('quake') || scenario.startsWith('japan') || scenario === 'mix';
-const noJapanNews = scenario.startsWith('quake') || scenario.startsWith('weather') || scenario === 'geo-wins'
+const noJapanNews = ((scenario.startsWith('quake') || scenario.startsWith('weather')) && !scenario.endsWith('-down'))
+    || scenario === 'geo-wins'
     || scenario === 'geo-refresh'
     || scenario.startsWith('live');
 
@@ -324,6 +366,12 @@ window.fetch = (input, init) => {
             return json(JAPAN_NEWS[lang] || JAPAN_NEWS.en);
         }
         if (scenario === 'feed-down') return text('', 404);
+        if ((scenario === 'topic-switch' || scenario === 'stale-load') && cluster[1] === 'tech') {
+            return json(TECH);
+        }
+        if (scenario === 'stale-load' && cluster[1] === 'finance') {
+            return new Promise(resolve => setTimeout(() => json(CLUSTERS.en).then(resolve), 250));
+        }
         if (scenario === 'feed-count') {
             return json([
                 { title: 'Four sources', source: ['a.com', 'b.com', 'c.com', 'd.com'] },
@@ -357,16 +405,19 @@ window.fetch = (input, init) => {
     if (url.includes('reverse-geocode-client')) {
         const lat = Number(new URL(url).searchParams.get('latitude'));
         const lon = Number(new URL(url).searchParams.get('longitude'));
-        const place = lon > 136 && lon < 137.5 ? 'nagoya' : lat > 35 && lat < 36 ? 'tokyo' : lat > 34 && lat < 35 ? 'osaka' : 'us';
+        const place = lat > 42 ? 'hokkaido' : lon > 136 && lon < 137.5 ? 'nagoya' : lat > 35 && lat < 36 ? 'tokyo' : lat > 34 && lat < 35 ? 'osaka' : 'us';
         const response = json(GEO[place]);
         return scenario === 'geo-wins' && place === 'osaka'
             ? new Promise(resolve => setTimeout(() => response.then(resolve), 120))
             : response;
     }
 
-    if (url.includes('quake/data/list.json')) return json(withQuakes ? quakes() : []);
+    if (url.includes('quake/data/list.json')) {
+        if (scenario === 'quake-down') return text('', 500);
+        return json(withQuakes ? quakes() : []);
+    }
     if (url.includes('common/const/area.json')) {
-        if (scenario.startsWith('diag')) return Promise.reject(new Error('down'));
+        if (scenario.startsWith('diag') || scenario === 'weather-down') return Promise.reject(new Error('down'));
         return json(AREA);
     }
     if (url.includes('panel/const/setting.json')) {
