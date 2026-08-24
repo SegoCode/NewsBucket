@@ -17,8 +17,6 @@ test("GitHub Actions only invokes existing pnpm scripts", () => {
 	assert.deepEqual(workflowScripts, [
 		"feeds",
 		"validate-feeds",
-		"perplexity",
-		"validate-feeds",
 		"cluster",
 		"validate-clusters",
 		"translate",
@@ -32,7 +30,6 @@ test("GitHub Actions only invokes existing pnpm scripts", () => {
 test("pipeline scripts point to existing JavaScript entrypoints", () => {
 	for (const script of [
 		"feeds",
-		"perplexity",
 		"validate-feeds",
 		"cluster",
 		"translate",
@@ -50,8 +47,7 @@ test("pipeline scripts point to existing JavaScript entrypoints", () => {
 test("workflow clusters each category before one resilient translation job", () => {
 	assert.doesNotMatch(workflow, /uses: \.\/\.github\/workflows\//);
 	const chain = [
-		["perplexity", "fetch-rss"],
-		["cluster-tech", "perplexity"],
+		["cluster-tech", "fetch-rss"],
 		["cluster-finance", "cluster-tech"],
 		["cluster-gaming", "cluster-finance"],
 		["cluster-japan", "cluster-gaming"],
@@ -79,7 +75,6 @@ test("workflow clusters each category before one resilient translation job", () 
 	]);
 	assert.match(workflow, /git add -- "\$OUTPUT_PATH"/);
 	assert.match(workflow, /git pull --rebase origin main/);
-	assert.match(workflow, /run: pnpm run perplexity/);
 	assert.match(workflow, /continue-on-error: true/);
 	assert.match(workflow, /run: pnpm run cluster -- "\$CATEGORY"/);
 	assert.match(workflow, /run: pnpm run translate\n/);
