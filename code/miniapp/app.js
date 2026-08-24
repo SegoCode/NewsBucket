@@ -47,6 +47,7 @@ try {
 async function load() {
     const gen = ++loadGen;
     feed.innerHTML = '<div id="status">Loading…</div>';
+    syncDiag(topic.value === 'status');
     let items = [];
     try {
         items = topic.value === 'status'
@@ -61,7 +62,9 @@ async function load() {
     }
     if (gen !== loadGen) return;
     render(items, feed);
-    syncDiag(topic.value === 'status');
+    if (topic.value !== 'status' && items.length) {
+        feed.insertAdjacentHTML('beforeend', '<p>END</p>');
+    }
 }
 
 function onChange() {
