@@ -65,12 +65,12 @@
         <section class="live-player" aria-label="Live News"><div id="liveFrame"></div></section>
         <section class="live-player" aria-label="Second Live News"><div id="liveSecondFrame"></div></section>
     </div>
+    <button type="button" id="BackButton" hidden>BACK</button>
     <footer id="chrome" hidden>
         <div class="chrome-row">
-            <button type="button" id="SecondaryButton" hidden>SWITCH TO ENGLISH</button>
-            <button type="button" id="BackButton" hidden>BACK</button>
+            <button type="button" id="SecondaryButton" hidden>LIVE CAMERAS</button>
+            <button type="button" id="MainButton" class="ring">LIVE NEWS</button>
         </div>
-        <button type="button" id="MainButton" class="ring">LIVE NEWS</button>
     </footer>
     <script type="module">
         const here = new URLSearchParams(location.search).get('s') || 'feed';
