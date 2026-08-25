@@ -13,11 +13,11 @@
             margin-bottom: 12px;
             font-size: .78em;
         }
-        #harness a { color: var(--tg-theme-link-color, #3390ec); }
+        #harness a { color: var(--tg-theme-link-color, #2474c1); }
         #harness a[aria-current="page"] { font-weight: 600; color: inherit; text-decoration: none; }
         #checks {
             font: .75em/1.4 ui-monospace, monospace;
-            color: var(--tg-theme-hint-color, #888);
+            color: var(--tg-theme-hint-color, #767676);
             white-space: pre;
             margin-bottom: 12px;
         }
@@ -27,14 +27,14 @@
     <nav id="harness"></nav>
     <pre id="checks"></pre>
     <div class="row">
-        <select id="topic">
+        <select id="topic" aria-label="Topic">
             <option value="status">Status</option>
             <option value="finance">Finance</option>
             <option value="gaming">Gaming</option>
             <option value="japan" selected>Japan</option>
             <option value="tech">Tech</option>
         </select>
-        <select id="lang">
+        <select id="lang" aria-label="Language">
             <option value="en">English</option>
             <option value="es">Español</option>
             <option value="jp">日本語</option>
@@ -67,24 +67,34 @@
     </div>
     <footer id="chrome" hidden>
         <div class="chrome-row">
-            <button type="button" id="BackButton" hidden>BACK</button>
+            <button type="button" id="CamerasButton" hidden>LIVE CAMERAS</button>
             <button type="button" id="SecondaryButton" hidden>SWITCH TO ENGLISH</button>
+            <button type="button" id="BackButton" hidden>BACK</button>
         </div>
-        <button type="button" id="MainButton">LIVE NEWS</button>
+        <button type="button" id="MainButton" class="ring">LIVE NEWS</button>
     </footer>
     <script type="module">
         const here = new URLSearchParams(location.search).get('s') || 'feed';
         const scenes = [
             'loading', 'empty', 'fresh', 'feed', 'feed-es', 'feed-click', 'lang',
-            'lang-es', 'lang-ja', 'lang-en', 'lang-ua', 'lang-keep',
-            'feed-down', 'feed-count', 'topic-switch', 'stale-load', 'lang-switch', 'end-mark',
+            'lang-es', 'lang-ja', 'lang-en', 'lang-ua', 'lang-ua-ja', 'lang-uscore', 'lang-nav',
+            'lang-default', 'lang-bad-nb', 'lang-keep',
+            'feed-down', 'feed-count', 'feed-nosource', 'topic-switch', 'stale-load', 'lang-switch', 'end-mark',
+            'yesterday', 'yesterday-stale', 'yesterday-sha', 'yesterday-lang', 'yesterday-topic',
+            'yesterday-empty', 'yesterday-fail', 'yesterday-one', 'yesterday-jp', 'yesterday-retry',
             'status-ok', 'status-running', 'status-fail', 'status-empty', 'status-mixed',
+            'status-leave', 'status-cache', 'status-post',
             'diag', 'diag-gps', 'diag-ip-gps', 'diag-none', 'diag-denied', 'diag-ask', 'diag-github',
-            'quakes', 'quake-mag', 'quake-age', 'quake-blink', 'quake-drop', 'quake-combo', 'quake-cod', 'quake-west', 'quake-down',
-            'weather', 'weather-ip', 'weather-l2', 'weather-jp', 'geo-wins', 'geo-refresh', 'weather-osaka', 'weather-hokkaido', 'weather-down',
+            'diag-403', 'diag-coords', 'diag-telegram', 'diag-timeout', 'diag-nogeo', 'diag-gps-city',
+            'quakes', 'quake-mag', 'quake-age', 'quake-blink', 'quake-drop', 'quake-combo', 'quake-cod', 'quake-bad-cod', 'quake-west', 'quake-down',
+            'weather', 'weather-ip', 'weather-l2', 'weather-l10', 'weather-jp', 'geo-wins', 'geo-refresh', 'weather-osaka', 'weather-hokkaido', 'weather-down',
+            'weather-c20', 'weather-html', 'weather-city', 'weather-tg', 'weather-level', 'weather-stale',
+            'haptic-tg', 'weather-nolm', 'weather-no-c20', 'weather-panel',
+            'watch-stop',
             'japan-jp', 'japan-us', 'japan-es', 'mix',
-            'live', 'live-open', 'live-en', 'live-back', 'live-topic',
-            'chrome',
+            'live', 'live-open', 'live-yt', 'live-en', 'live-back', 'live-topic', 'live-cameras',
+            'live-next', 'live-cams-news', 'live-reopen', 'cams-cache',
+            'cameras', 'chrome',
         ];
         document.getElementById('harness').innerHTML = scenes.map(s =>
             `<a href="?s=${s}"${s === here ? ' aria-current="page"' : ''}>${s}</a>`
