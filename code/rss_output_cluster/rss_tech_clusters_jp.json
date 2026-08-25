@@ -1,55 +1,127 @@
 [
   {
-    "title": "Nvidia、メモリ不足によりAIサーバーが15%値上がりすると警告",
-    "summary": "Nvidiaの主要顧客は、メモリコストが高騰し続ける中、AIサーバーの価格上昇に直面している。",
+    "title": "Xiaomi、3nmプロセスのSoC「XRING O3」を発表 LPDDR6対応でAnTuTu過去最高スコアを記録",
+    "summary": "新フラッグシップチップはArmv9.3-Aコア、16コアGPU、200 TOPSのNPUを搭載し、AnTuTuで500万点を突破",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "/r/hardware",
+      "news.ycombinator.com",
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Valve、Half-Life、Steam、Steam DeckでPCゲームを変革した30周年を祝う",
+    "summary": "Gabe Newell氏が設立した同社は、ゲームとデジタル配信における30年間の革新を記念",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "DRAM不足でコンポーネントと家電製品の価格が高騰",
+    "summary": "DDR5 RAMやノートPC、自動車などの価格がサプライ危機で最大60%上昇",
+    "source": [
+      "/r/hardware",
+      "techcrunch.com",
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Nintendo、DMCA申請でGitHub上のSwitchエミュレータリポジトリ400件以上を削除",
+    "summary": "日本企業は違法な暗号鍵を使用するエミュレーションプロジェクトを削除し、海賊版対策を強化",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "IBM、Hot Chips 2026でARMとz/Architectureを5.7GHzで実行する初のデュアルISAコアを発表",
+    "summary": "2nm・11コアのメインフレーム向けプロセッサは、同一アーキテクチャでネイティブAI加速を実現",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SK hynix、ハイブリッドボンディング採用のHBM5を前進させ、Nvidia Rubinアーキテクチャ向けにMR-MUFを拡張",
+    "summary": "高帯域幅メモリが775ミクロンの限界に達し、次世代AI GPUに対応",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel、32コアと最大480GB LPDDR5Xを備えたXe3P『Crescent Island』アーキテクチャを詳細発表",
+    "summary": "新データセンター向けGPUは350WのPCIe版を含み、AIとHPCワークロードをターゲット",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel Xeon 7『Diamond Rapids』登場 256 Pコア、1.28GBキャッシュ、18A-Pプロセス採用",
+    "summary": "次世代CPUはAVX 10.2を搭載し、チップレット相互接続にUCIe-Sを採用",
     "source": [
       "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "RTX 5090搭載ゲーミングPCが単体GPUより安価に 2,200ドル割引で",
+    "summary": "64GB DDR5と2TB SSD搭載のHP Omen Max 45Lが4,799ドルで販売、単体GPU価格を下回る",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia、300億ドル超評価のPerplexity AIへの出資交渉でGoogleとOpenAIに対抗",
+    "summary": "GPUメーカーは戦略的出資により、生成検索とAIアシスタント分野での地位強化を狙う",
+    "source": [
+      "elchapuzasinformatico.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Take-Two、MicrosoftとDiscordへの召喚状でGTA 6リークとの法的闘争を激化",
-    "summary": "同社はXのアカウントを凍結し、技術プラットフォームにデータ提供を要求して、待望のゲームに関する情報拡散を阻止しようとしている。",
+    "title": "Raptor 3D-DRAM、32GB容量と100TB/s超の帯域幅を両立",
+    "summary": "新3DスタックメモリがAIとHPCアプリケーション向けに前例のない性能を約束",
     "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
+      "/r/hardware",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Windows 11の更新、RGB照明ソフトウェアとの競合でゲームに不具合",
-    "summary": "MicrosoftはRGB照明制御がクラッシュの原因であることを認め、暫定対策としてアンインストールを推奨している。",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "人型ロボット、中国のオリンピックでウサイン・ボルトの100m記録を更新",
-    "summary": "Tiangong Ultraロボットが9.39秒で走破しクラッシュ、人類の記録を超える歴史的快挙。",
-    "source": [
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "地球の樹木被覆が増加、中国が大規模植林で黄河を緑化",
-    "summary": "2018年の研究で35年前より世界の樹木が増加したことが確認され、中国は大規模な植林で河川流域を変貌させている。",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "mVoltツールでRTX 5090と5080の極限オーバークロックが可能に、工場出荷時の限界を突破",
-    "summary": "愛好家たちがハードウェア改造なしでソフトウェアのみを使用し、RTX 5090で700W、5080で680Wの消費電力を達成。",
+    "title": "Windows 11、GPUとAIモデル向けRAM予約のための統合メモリ制御を導入",
+    "summary": "アップデートでNPU搭載PCとRTX Sparkカードに対応、共有メモリを動的に割り当て可能に",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel Core Ultra 7 270KとCore i7-14700KがAmazon CPU売上トップ10入り、AMDの独占を崩す",
+    "summary": "店舗データによると、2つのIntelプロセッサが数ヶ月ぶりにベストセラー入り",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
     ],
     "count": 2
   }

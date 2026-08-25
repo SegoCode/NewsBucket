@@ -1,55 +1,127 @@
 [
   {
-    "title": "Nvidia warns of 15% price hikes in AI servers due to memory shortage",
-    "summary": "Nvidia's largest customers face price increases in AI servers as memory costs remain skyrocketing.",
+    "title": "Xiaomi unveils its 3 nm XRING O3 SoC with LPDDR6 support and record AnTuTu performance",
+    "summary": "Xiaomi's new flagship chip integrates Armv9.3-A cores, 16-core GPU, 200 TOPS NPU, and surpasses 5 million points in AnTuTu.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "/r/hardware",
+      "news.ycombinator.com",
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Valve celebrates 30 years transforming PC gaming with Half-Life, Steam, and Steam Deck",
+    "summary": "The company founded by Gabe Newell commemorates three decades of innovation in video games and digital distribution.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "DRAM memory shortage drives up prices of components and consumer electronics",
+    "summary": "DDR5 RAM prices and devices like laptops and cars increase up to 60% due to supply crisis.",
+    "source": [
+      "/r/hardware",
+      "techcrunch.com",
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Nintendo removes over 400 Switch emulator repositories on GitHub via DMCA takedowns",
+    "summary": "The Japanese company intensifies its fight against piracy by removing emulation projects that use illegal cryptographic keys.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "IBM presents at Hot Chips 2026 its first dual-ISA core running ARM and z/Architecture at 5.7 GHz",
+    "summary": "The 2 nm, 11-core mainframe processor enables native AI acceleration on the same architecture.",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SK hynix advances HBM5 with hybrid bonding and extends MR-MUF for Nvidia's Rubin architecture",
+    "summary": "High-bandwidth memory reaches the 775-micron limit and prepares for next-generation AI GPUs.",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel details Xe3P 'Crescent Island' architecture with 32 cores and up to 480 GB of LPDDR5X memory",
+    "summary": "The new data center GPU includes 350 W PCIe variants and targets AI and HPC workloads.",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel Xeon 7 'Diamond Rapids' arrives with 256 P-cores, 1.28 GB cache, and 18A-P process",
+    "summary": "The next-generation CPU incorporates AVX 10.2 and uses UCIe-S for chiplet interconnect.",
     "source": [
       "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A gaming PC with RTX 5090 costs less than the graphics card alone thanks to a $2,200 discount",
+    "summary": "The HP Omen Max 45L with 64 GB DDR5 and 2 TB SSD sells for $4,799, below the standalone GPU price.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia negotiates investment in Perplexity AI valued at over $30 billion to compete with Google and OpenAI",
+    "summary": "The GPU maker seeks to strengthen its position in generative search and AI assistants through a strategic stake.",
+    "source": [
+      "elchapuzasinformatico.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Take-Two intensifies legal battle against GTA 6 leaks with subpoenas to Microsoft and Discord",
-    "summary": "The publisher blocks accounts on X and demands data from tech platforms to curb the spread of information about the highly anticipated game.",
+    "title": "Raptor 3D-DRAM combines 32 GB capacity with over 100 TB/s bandwidth",
+    "summary": "The new 3D-stacked memory promises unprecedented performance for AI and high-performance computing applications.",
     "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
+      "/r/hardware",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Windows 11 update causes game crashes due to conflicts with RGB lighting software",
-    "summary": "Microsoft acknowledges that RGB lighting control is behind the crashes and recommends uninstalling it as a temporary fix.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Humanoid robots beat Usain Bolt's 100-meter record at China's Olympics",
-    "summary": "The Tiangong Ultra robot completes the race in 9.39 seconds before crashing, surpassing the human record in a historic event.",
-    "source": [
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Planet gains tree cover as China re-greens Yellow River with massive plantations",
-    "summary": "A 2018 study confirms more global trees than 35 years ago, while China transforms river basins with large-scale reforestation.",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "mVolt tool enables extreme overclocking on RTX 5090 and 5080 surpassing factory limits",
-    "summary": "Enthusiasts achieve 700W power draw on RTX 5090 and 680W on 5080 without hardware modifications, using only software.",
+    "title": "Windows 11 introduces unified memory controls to reserve RAM for GPU and AI models",
+    "summary": "The update prepares the system for upcoming NPU PCs and RTX Spark cards, allowing dynamic shared memory allocation.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel's Core Ultra 7 270K and Core i7-14700K enter Amazon's top 10 best-selling CPUs, breaking AMD's dominance",
+    "summary": "Two Intel processors manage to place among the best-sellers for the first time in months, according to store data.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
     ],
     "count": 2
   }
