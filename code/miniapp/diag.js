@@ -1,29 +1,8 @@
 import { JMA } from './jma-weather.js';
+import { getPlace, watchPlace } from './place.js';
 
 const CF = 'https://www.cloudflare.com/cdn-cgi/trace';
 const GITHUB = 'https://raw.githubusercontent.com/SegoCode/NewsBucket/main/code/prompts/cluster.md';
-
-const env = {
-    source: '',
-    ip: '',
-    city: '',
-    country: '',
-    lat: null,
-    lon: null,
-    geo: 'unknown',
-};
-
-let onPlace;
-
-export const setPlace = patch => {
-    if (env.source && env.source !== 'IP' && patch.source === 'IP') {
-        const { source, lat, lon, city, country, ...rest } = patch;
-        Object.assign(env, rest);
-    } else {
-        Object.assign(env, patch);
-    }
-    onPlace?.();
-};
 
 const ping = async (url, cors) => {
     const t = performance.now();
@@ -41,9 +20,10 @@ const ping = async (url, cors) => {
 };
 
 const place = () => {
+    const env = getPlace();
     const named = [env.city, env.country].filter(Boolean).join(', ');
     const gps = env.lat != null && env.lon != null && `${env.lat.toFixed(3)}, ${env.lon.toFixed(3)}`;
-        const where = named || gps || '—';
+    const where = named || gps || '—';
     return env.source ? `${where} · ${env.source}` : where;
 };
 
@@ -62,6 +42,7 @@ export const createDiag = el => {
     const $ = id => el.querySelector('#' + id);
     let timer;
     const paintMeta = () => {
+        const env = getPlace();
         const geo = env.geo || 'unknown';
         $('diag-geo').textContent = geo;
         $('diag-geo').className = geo === 'approved' ? 'ok' : geo === 'rejected' ? 'high' : '';
@@ -84,9 +65,9 @@ export const createDiag = el => {
         mark($('diag-cf'), cf);
         mark($('diag-jma'), jma);
     };
-    onPlace = () => {
+    watchPlace(() => {
         if (!el.hidden) paintMeta();
-    };
+    });
     return visible => {
         el.hidden = !visible;
         if (!visible) {
