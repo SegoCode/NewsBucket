@@ -127,8 +127,8 @@ if (platform) {
         requestLocation({ force: true });
     };
     tg.MainButton.setText('LIVE NEWS');
-    tg.MainButton.onClick(() => live.hidden ? setLive(true) : setCameras());
-    tg.SecondaryButton?.onClick(swapLang);
+    tg.MainButton.onClick(() => live.hidden ? setLive(true) : swapLang());
+    tg.SecondaryButton?.onClick(setCameras);
     tg.BackButton?.onClick(() => setLive(false));
     syncLive();
 }
