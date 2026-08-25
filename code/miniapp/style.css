@@ -154,11 +154,21 @@ article[onclick] {
 }
 
 #chrome #MainButton,
-#chrome #BackButton,
 #chrome #SecondaryButton {
     padding: 8.5px 14px;
     border: 3.5px solid transparent;
     white-space: nowrap;
+}
+
+#BackButton {
+    position: fixed;
+    top: 8px;
+    left: 10px;
+    z-index: 10001;
+}
+
+#BackButton[hidden] {
+    display: none;
 }
 
 #chrome #MainButton.ring {
