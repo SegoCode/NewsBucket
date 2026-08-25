@@ -20,8 +20,9 @@ const duration = (start, end) => {
     if (!start || !end) return;
     const ms = Date.parse(end) - Date.parse(start);
     if (!Number.isFinite(ms) || ms < 0) return;
-    const m = Math.floor(ms / 60000);
-    const s = Math.round((ms % 60000) / 1000);
+    const total = Math.round(ms / 1000);
+    const m = Math.floor(total / 60);
+    const s = total % 60;
     if (m && s) return `${m}m ${s}s`;
     if (m) return `${m}m`;
     return `${s}s`;
@@ -30,7 +31,7 @@ const duration = (start, end) => {
 const failedStep = job =>
     job?.steps?.find(step =>
         step.conclusion === 'failure' &&
-        !/^(Set up job|Complete job|Post )/i.test(step.name)
+        !/^(?:Set up job|Complete job|Post )/i.test(step.name)
     )?.name;
 
 const CACHE_KEY = 'nb-actions';
@@ -41,9 +42,13 @@ const loadRun = async () => {
         const hit = JSON.parse(localStorage.getItem(CACHE_KEY) || 'null');
         if (hit?.run && Date.now() - hit.at < CACHE_MS) return hit;
     } catch {}
-    const { workflow_runs: [run] = [] } = await fetch(`${API}/workflows/update-news.yml/runs?per_page=1`).then(r => r.json());
+    const runRes = await fetch(`${API}/workflows/update-news.yml/runs?per_page=1`);
+    if (!runRes.ok) return null;
+    const { workflow_runs: [run] = [] } = await runRes.json();
     if (!run) return null;
-    const { jobs = [] } = await fetch(`${API}/runs/${run.id}/jobs`).then(r => r.json());
+    const jobsRes = await fetch(`${API}/runs/${run.id}/jobs`);
+    if (!jobsRes.ok) return null;
+    const { jobs = [] } = await jobsRes.json();
     const hit = { at: Date.now(), run, jobs };
     if (run.status === 'completed') {
         try { localStorage.setItem(CACHE_KEY, JSON.stringify(hit)); } catch {}
