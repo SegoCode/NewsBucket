@@ -29,7 +29,9 @@ export const weatherItems = (jma, lang) =>
     });
 
 export const fetchWeatherAlerts = async coords => {
-    const place = await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${coords.latitude}&longitude=${coords.longitude}&localityLanguage=en`).then(r => r.json());
+    const placeRes = await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${coords.latitude}&longitude=${coords.longitude}&localityLanguage=en`);
+    if (!placeRes.ok) return { city: '', country: '', prefecture: '', alerts: [] };
+    const place = await placeRes.json();
     const city = place.city || place.locality || place.principalSubdivision || '';
     const country = place.countryName || place.countryCode || '';
     const named = { city, country, prefecture: '', alerts: [] };
@@ -39,13 +41,13 @@ export const fetchWeatherAlerts = async coords => {
     let areas, cfg;
     try {
         [areas, cfg] = await Promise.all([
-            fetch(`${JMA}common/const/area.json`).then(r => r.json()),
-            fetch(`${JMA}panel/const/setting.json`).then(r => r.json()),
+            fetch(`${JMA}common/const/area.json`).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }),
+            fetch(`${JMA}panel/const/setting.json`).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }),
         ]);
     } catch {
         return named;
     }
-    const offices = Object.entries(areas.offices).filter(([code]) => code.startsWith(pref));
+    const offices = Object.entries(areas.offices || {}).filter(([code]) => code.startsWith(pref));
     if (!offices.length) return named;
     const owner = new Map();
     for (const [code, o] of offices) {
@@ -54,21 +56,26 @@ export const fetchWeatherAlerts = async coords => {
             for (const c15 of areas.class10s[c10]?.children || []) owner.set(c15, code);
         }
     }
-    for (const [c20, { parent }] of Object.entries(areas.class20s)) {
+    for (const [c20, { parent }] of Object.entries(areas.class20s || {})) {
         if (owner.has(parent)) owner.set(c20, owner.get(parent));
     }
     const codes = new Set(owner.keys());
-    const panels = cfg.lines[1].map(key => [key, cfg.panels[key]]);
+    const panels = (cfg.lines?.[1] || []).map(key => [key, cfg.panels?.[key]]).filter(([, p]) => p?.url);
     const urlKeys = [...new Set(panels.flatMap(([, p]) => p.url))];
-    const data = Object.fromEntries(await Promise.all(
-        urlKeys.map(async key => [key, await fetch(JMA + cfg.urls[key]).then(r => r.json())])
-    ));
+    const data = {};
+    await Promise.all(urlKeys.map(async key => {
+        try {
+            const res = await fetch(JMA + cfg.urls[key]);
+            if (!res.ok) return;
+            data[key] = await res.json();
+        } catch {}
+    }));
     const alerts = panels.flatMap(([key, p]) => {
         const hits = p.url
             .flatMap(u => Object.values(data[u]?.[key] || {}))
             .flatMap(m => Object.entries(m))
             .filter(([c]) => codes.has(c));
-        const level = hits.map(([, v]) => v).sort().pop();
+        const level = hits.map(([, v]) => v).sort((a, b) => Number(a) - Number(b)).pop();
         if (!level) return [];
         const area = hits.find(([, v]) => v === level)[0];
         const pick = n => (typeof n === 'string' ? n : n?.[level])?.replace(/<[^>]+>/g, ' ').trim();
