@@ -32,9 +32,9 @@ const mapsQuery = a => {
 
 const CHROME = {
     closed: { main: 'LIVE NEWS', secondary: null, back: false },
-    news: { main: 'LIVE CAMERAS', secondary: 'SWITCH TO ENGLISH', back: true },
-    newsEn: { main: 'LIVE CAMERAS', secondary: 'SWITCH TO JAPANESE', back: true },
-    cameras: { main: 'LIVE NEWS', secondary: 'NEXT', back: true },
+    news: { main: 'SWITCH TO ENGLISH', secondary: 'LIVE CAMERAS', back: true },
+    newsEn: { main: 'SWITCH TO JAPANESE', secondary: 'LIVE CAMERAS', back: true },
+    cameras: { main: 'NEXT', secondary: 'BACK TO NEWS BUCKET', back: true },
 };
 const readHtmlChrome = () => ({
     main: $('#MainButton').textContent,
@@ -49,6 +49,41 @@ const sameChrome = (got, exp, label) => {
     ok(got.main === exp.main, `${label} main`);
     ok(got.secondary === exp.secondary, `${label} secondary`);
     ok(got.back === exp.back, `${label} back`);
+};
+const htmlChromeApi = {
+    main: () => $('#MainButton').click(),
+    secondary: () => $('#SecondaryButton').click(),
+    back: () => $('#BackButton').click(),
+    read: readHtmlChrome,
+    primaryRight: () => $('#SecondaryButton').hidden
+        || $('#MainButton').getBoundingClientRect().left > $('#SecondaryButton').getBoundingClientRect().left,
+};
+const nativeChromeApi = {
+    main: () => globalThis.Telegram.WebApp.MainButton.click(),
+    secondary: () => globalThis.Telegram.WebApp.SecondaryButton.click(),
+    back: () => globalThis.Telegram.WebApp.BackButton.click(),
+    read: readNativeChrome,
+    primaryRight: () => globalThis.Telegram.WebApp.SecondaryButton.position === 'left',
+};
+const walkLiveChrome = async (api, tag) => {
+    sameChrome(api.read(), CHROME.closed, `${tag} closed`);
+    api.main();
+    if (!await wait(() => !$('#live').hidden, 3000, `${tag} open`)) return;
+    sameChrome(api.read(), CHROME.news, `${tag} news`);
+    ok(api.primaryRight(), `${tag} primary right`);
+    api.main();
+    if (!await wait(() => api.read().main.includes('JAPANESE'), 3000, `${tag} en`)) return;
+    sameChrome(api.read(), CHROME.newsEn, `${tag} en`);
+    api.secondary();
+    if (!await wait(() => api.read().main === 'NEXT', 3000, `${tag} cameras`)) return;
+    sameChrome(api.read(), CHROME.cameras, `${tag} cameras`);
+    ok(api.primaryRight(), `${tag} primary right cameras`);
+    api.secondary();
+    if (!await wait(() => api.read().main.includes('JAPANESE'), 3000, `${tag} news again`)) return;
+    sameChrome(api.read(), CHROME.newsEn, `${tag} news keeps lang`);
+    api.back();
+    if (!await wait(() => $('#live').hidden, 3000, `${tag} back`)) return;
+    sameChrome(api.read(), CHROME.closed, `${tag} closed again`);
 };
 
 const COUNT = {
@@ -248,25 +283,10 @@ const ready = async () => {
     }
     if ((scenario.startsWith('live') && scenario !== 'live-tg') || scenario === 'cams-cache') await wait(() => !$('#chrome').hidden);
     if (scenario === 'live-tg') {
-        const tg = globalThis.Telegram.WebApp;
-        await wait(() => tg.MainButton.isVisible, 3000, 'native main');
-        sameChrome(readNativeChrome(), CHROME.closed, 'tg closed');
-        tg.MainButton.click();
-        await wait(() => !$('#live').hidden, 3000, 'tg open');
-        sameChrome(readNativeChrome(), CHROME.news, 'tg news');
-        tg.SecondaryButton.click();
-        await wait(() => tg.SecondaryButton.text.includes('JAPANESE'), 3000, 'tg en');
-        sameChrome(readNativeChrome(), CHROME.newsEn, 'tg en');
-        tg.MainButton.click();
-        await wait(() => tg.SecondaryButton.text === 'NEXT', 3000, 'tg cameras');
-        sameChrome(readNativeChrome(), CHROME.cameras, 'tg cameras');
-        tg.MainButton.click();
-        await wait(() => tg.MainButton.text === 'LIVE CAMERAS', 3000, 'tg news again');
-        sameChrome(readNativeChrome(), CHROME.newsEn, 'tg news keeps lang');
-        tg.BackButton.click();
-        await wait(() => $('#live').hidden, 3000, 'tg back');
-        sameChrome(readNativeChrome(), CHROME.closed, 'tg closed again');
+        await wait(() => globalThis.Telegram.WebApp.MainButton.isVisible, 3000, 'native main');
+        await walkLiveChrome(nativeChromeApi, 'tg');
     }
+    if (scenario === 'live-web') await walkLiveChrome(htmlChromeApi, 'web');
     if (scenario === 'live-yt') await wait(() => $('#liveFrame')?.dataset.vid);
     if (scenario.startsWith('diag')) {
         await wait(() => $('#diag-github').textContent !== '—');
@@ -302,22 +322,22 @@ const ready = async () => {
         await wait(() => !$('#live').hidden);
     }
     if (scenario === 'live-cameras' || scenario === 'live-next' || scenario === 'live-cams-news' || scenario === 'cams-cache') {
-        $('#MainButton').click();
-        await wait(() => $('#MainButton').textContent === 'LIVE NEWS');
+        $('#SecondaryButton').click();
+        await wait(() => $('#MainButton').textContent === 'NEXT');
         await wait(() => $('#liveFrame').dataset.vid);
     }
     if (scenario === 'live-next') {
         const first = $('#liveFrame').dataset.vid;
-        $('#SecondaryButton').click();
+        $('#MainButton').click();
         await wait(() => $('#liveFrame').dataset.vid && $('#liveFrame').dataset.vid !== first);
     }
     if (scenario === 'live-cams-news') {
-        $('#MainButton').click();
-        await wait(() => $('#MainButton').textContent === 'LIVE CAMERAS');
+        $('#SecondaryButton').click();
+        await wait(() => $('#MainButton').textContent === 'SWITCH TO ENGLISH');
     }
     if (scenario === 'live-en' || scenario === 'live-reopen') {
-        $('#SecondaryButton').click();
-        await wait(() => $('#SecondaryButton').textContent.includes('JAPANESE'));
+        $('#MainButton').click();
+        await wait(() => $('#MainButton').textContent.includes('JAPANESE'));
     }
     if (scenario === 'live-back') {
         $('#BackButton').click();
@@ -327,7 +347,7 @@ const ready = async () => {
         $('#BackButton').click();
         await wait(() => $('#live').hidden);
         $('#MainButton').click();
-        await wait(() => !$('#live').hidden && $('#SecondaryButton').textContent.includes('ENGLISH'));
+        await wait(() => !$('#live').hidden && $('#MainButton').textContent.includes('ENGLISH'));
     }
     if (scenario === 'live-topic') {
         await wait(() => !$('#chrome').hidden);
@@ -882,6 +902,7 @@ const run = () => {
     if (scenario === 'live-open') {
         ok(!$('#live').hidden, 'overlay');
         sameChrome(readHtmlChrome(), CHROME.news, 'html news');
+        ok($('#MainButton').getBoundingClientRect().left > $('#SecondaryButton').getBoundingClientRect().left, 'primary right');
         ok(!$('#MainButton').classList.contains('ring'), 'ring off');
         ok($('#liveFrame').dataset.vid === 'Anr15FA9OCI', 'jp news');
         ok($('#liveSecondFrame').dataset.vid === 'HXGANE2pRrA', 'second');
@@ -950,6 +971,7 @@ const run = () => {
     if (scenario === 'live-tg') {
         ok($('#chrome').hidden, 'html chrome off');
         ok($('#live').hidden, 'closed');
+        ok(globalThis.Telegram.WebApp.SecondaryButton.position === 'left', 'native secondary left');
         return;
     }
     if (scenario === 'live-web') {
