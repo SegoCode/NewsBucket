@@ -484,6 +484,7 @@ if (scenario === 'live-tg' || scenario === 'live-web') {
             isVisible: false,
             isActive: true,
             setText(text) { this.text = text; return this; },
+            setParams(params) { if (params.position) this.position = params.position; return this; },
             onClick(fn) { clicks.add(fn); return this; },
             offClick(fn) { clicks.delete(fn); return this; },
             show() { this.isVisible = true; return this; },
