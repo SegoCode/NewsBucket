@@ -68,19 +68,20 @@ export const createLive = ({ tg, live, topic, place }) => {
     if (window.YT?.Player) initLivePlayers();
     const paintChrome = () => {
         const on = !live.hidden;
+        tg.SecondaryButton?.setParams?.({ position: 'left' });
         if (!on) {
             tg.SecondaryButton?.hide();
             tg.BackButton?.hide();
         } else if (mode === 'cameras') {
-            tg.SecondaryButton?.setText('NEXT');
+            tg.SecondaryButton?.setText('BACK TO NEWS BUCKET');
             tg.SecondaryButton?.show();
             tg.BackButton?.show();
         } else {
-            tg.SecondaryButton?.setText(liveEn ? 'SWITCH TO JAPANESE' : 'SWITCH TO ENGLISH');
+            tg.SecondaryButton?.setText('LIVE CAMERAS');
             tg.SecondaryButton?.show();
             tg.BackButton?.show();
         }
-        tg.MainButton.setText(on ? (mode === 'cameras' ? 'LIVE NEWS' : 'LIVE CAMERAS') : 'LIVE NEWS');
+        tg.MainButton.setText(on ? (mode === 'cameras' ? 'NEXT' : liveEn ? 'SWITCH TO JAPANESE' : 'SWITCH TO ENGLISH') : 'LIVE NEWS');
         const bar = document.getElementById('chrome');
         if (on) document.body.style.setProperty('--chrome-h', `${bar.offsetHeight}px`);
         else document.body.style.removeProperty('--chrome-h');
@@ -130,7 +131,7 @@ export const createLive = ({ tg, live, topic, place }) => {
         }
         liveEn = !liveEn;
         startLivePlayers();
-        tg.SecondaryButton.setText(liveEn ? 'SWITCH TO JAPANESE' : 'SWITCH TO ENGLISH');
+        tg.MainButton.setText(liveEn ? 'SWITCH TO JAPANESE' : 'SWITCH TO ENGLISH');
     };
     const syncLive = () => {
         if (topic.value === 'japan') tg.MainButton.show();
