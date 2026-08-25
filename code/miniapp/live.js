@@ -68,21 +68,19 @@ export const createLive = ({ tg, live, topic, place }) => {
     if (window.YT?.Player) initLivePlayers();
     const paintChrome = () => {
         const on = !live.hidden;
-        tg.MainButton.setText(on ? 'BACK' : 'LIVE NEWS');
         if (!on) {
             tg.SecondaryButton?.hide();
-            tg.CamerasButton?.hide();
+            tg.BackButton?.hide();
         } else if (mode === 'cameras') {
-            tg.CamerasButton?.setText('LIVE NEWS');
             tg.SecondaryButton?.setText('NEXT');
-            tg.CamerasButton?.show();
             tg.SecondaryButton?.show();
+            tg.BackButton?.show();
         } else {
-            tg.CamerasButton?.setText('LIVE CAMERAS');
             tg.SecondaryButton?.setText(liveEn ? 'SWITCH TO JAPANESE' : 'SWITCH TO ENGLISH');
-            tg.CamerasButton?.show();
             tg.SecondaryButton?.show();
+            tg.BackButton?.show();
         }
+        tg.MainButton.setText(on ? (mode === 'cameras' ? 'LIVE NEWS' : 'LIVE CAMERAS') : 'LIVE NEWS');
         const bar = document.getElementById('chrome');
         if (on) document.body.style.setProperty('--chrome-h', `${bar.offsetHeight}px`);
         else document.body.style.removeProperty('--chrome-h');
