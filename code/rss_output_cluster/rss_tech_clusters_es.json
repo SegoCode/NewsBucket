@@ -1,55 +1,127 @@
 [
   {
-    "title": "Nvidia advierte de subidas del 15% en servidores IA por escasez de memoria",
-    "summary": "Los mayores clientes de Nvidia enfrentan aumentos de precio en servidores de IA mientras los costes de memoria siguen disparados.",
+    "title": "Xiaomi presenta su SoC XRING O3 de 3 nm con soporte LPDDR6 y rendimiento récord en AnTuTu",
+    "summary": "El nuevo chip insignia de Xiaomi integra núcleos Armv9.3-A, GPU de 16 núcleos, NPU de 200 TOPS y supera los 5 millones de puntos en AnTuTu.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "/r/hardware",
+      "news.ycombinator.com",
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Valve celebra 30 años transformando el PC gaming con Half-Life, Steam y Steam Deck",
+    "summary": "La compañía fundada por Gabe Newell conmemora tres décadas de innovación en videojuegos y distribución digital.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "La escasez de memoria DRAM dispara los precios de componentes y electrónica de consumo",
+    "summary": "Los precios de la RAM DDR5 y de dispositivos como portátiles y coches aumentan hasta un 60% por la crisis de suministro.",
+    "source": [
+      "/r/hardware",
+      "techcrunch.com",
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Nintendo elimina más de 400 repositorios de emuladores de Switch en GitHub mediante reclamaciones DMCA",
+    "summary": "La compañía japonesa intensifica su lucha contra la piratería retirando proyectos de emulación que utilizan claves criptográficas ilegales.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "IBM presenta en Hot Chips 2026 su primer núcleo dual-ISA que ejecuta ARM y z/Architecture a 5,7 GHz",
+    "summary": "El procesador para mainframes de 2 nm y 11 núcleos permite aceleración de IA nativa en la misma arquitectura.",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SK hynix avanza en HBM5 con hybrid bonding y extiende MR-MUF para la arquitectura Rubin de Nvidia",
+    "summary": "La memoria de alto ancho de banda alcanza el límite de 775 micras y se prepara para las próximas GPU de IA.",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel detalla la arquitectura Xe3P 'Crescent Island' con 32 núcleos y hasta 480 GB de memoria LPDDR5X",
+    "summary": "La nueva GPU para centros de datos incluye variantes PCIe de 350 W y apunta a cargas de trabajo de IA e HPC.",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel Xeon 7 'Diamond Rapids' llega con 256 P-cores, 1,28 GB de caché y proceso 18A-P",
+    "summary": "La CPU de próxima generación incorpora AVX 10.2 y utiliza UCIe-S para interconexión de chiplets.",
     "source": [
       "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Un PC gaming con RTX 5090 cuesta menos que la tarjeta gráfica por separado gracias a un descuento de 2.200 dólares",
+    "summary": "El HP Omen Max 45L con 64 GB de DDR5 y 2 TB SSD se vende por 4.799 dólares, por debajo del precio de la GPU en solitario.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia negocia invertir en Perplexity AI valorada en más de 30.000 millones para competir con Google y OpenAI",
+    "summary": "El fabricante de GPU busca fortalecer su posición en búsqueda generativa y asistentes de IA mediante una participación estratégica.",
+    "source": [
+      "elchapuzasinformatico.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Take-Two intensifica su guerra legal contra filtraciones de GTA 6 con citaciones a Microsoft y Discord",
-    "summary": "La editora bloquea cuentas en X y exige datos a plataformas tecnológicas para frenar la difusión de información sobre el esperado juego.",
+    "title": "Raptor 3D-DRAM combina 32 GB de capacidad con más de 100 TB/s de ancho de banda",
+    "summary": "La nueva memoria apilada en 3D promete un rendimiento sin precedentes para aplicaciones de IA y computación de alto rendimiento.",
     "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
+      "/r/hardware",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Actualización de Windows 11 provoca fallos en juegos por conflictos con software de iluminación RGB",
-    "summary": "Microsoft reconoce que el control de iluminación RGB está detrás de los cuelgues y recomienda desinstalarlo como solución temporal.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Robots humanoides baten el récord de los 100 metros de Usain Bolt en las Olimpiadas de China",
-    "summary": "El robot Tiangong Ultra completa la prueba en 9,39 segundos antes de estrellarse, superando la marca humana en un evento histórico.",
-    "source": [
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El planeta gana cobertura arbórea y China reverdece el Río Amarillo con plantaciones masivas",
-    "summary": "Un estudio de 2018 confirma más árboles globales que hace 35 años, mientras China transforma cuencas fluviales con reforestación a gran escala.",
-    "source": [
-      "news.ycombinator.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La herramienta mVolt permite overclocking extremo en RTX 5090 y 5080 superando límites de fábrica",
-    "summary": "Entusiastas logran consumos de 700W en la RTX 5090 y 680W en la 5080 sin modificaciones de hardware, usando solo software.",
+    "title": "Windows 11 introduce controles unificados de memoria para reservar RAM a GPU y modelos de IA",
+    "summary": "La actualización prepara el sistema para los próximos PC con NPU y tarjetas RTX Spark, permitiendo asignar memoria compartida dinámicamente.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los Core Ultra 7 270K y Core i7-14700K de Intel entran en el top 10 de CPU más vendidas de Amazon rompiendo el dominio de AMD",
+    "summary": "Dos procesadores de Intel logran colocarse entre los más vendidos por primera vez en meses, según datos de la tienda.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
     ],
     "count": 2
   }
