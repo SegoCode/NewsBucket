@@ -16,14 +16,14 @@
 </head>
 <body>
     <div class="row">
-        <select id="topic">
+        <select id="topic" aria-label="Topic">
             <option value="status">Status</option>
             <option value="finance">Finance</option>
             <option value="gaming">Gaming</option>
             <option value="japan" selected>Japan</option>
             <option value="tech">Tech</option>
         </select>
-        <select id="lang">
+        <select id="lang" aria-label="Language">
             <option value="en">English</option>
             <option value="es">Español</option>
             <option value="jp">日本語</option>
@@ -56,10 +56,11 @@
     </div>
     <footer id="chrome" hidden>
         <div class="chrome-row">
-            <button type="button" id="BackButton" hidden>BACK</button>
+            <button type="button" id="CamerasButton" hidden>LIVE CAMERAS</button>
             <button type="button" id="SecondaryButton" hidden>SWITCH TO ENGLISH</button>
+            <button type="button" id="BackButton" hidden>BACK</button>
         </div>
-        <button type="button" id="MainButton">LIVE NEWS</button>
+        <button type="button" id="MainButton" class="ring">LIVE NEWS</button>
     </footer>
     <script type="module" src="app.js"></script>
 </body>
