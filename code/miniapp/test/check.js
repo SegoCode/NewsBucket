@@ -1,16 +1,18 @@
 import { createChrome } from '../chrome.js';
+import { TOKYO, inJapan, nearest, nearestTwo, nextPage, pairAt } from '../cameras.js';
 
 const scenario = new URLSearchParams(location.search).get('s') || 'feed';
 const $ = (s, r = document) => r.querySelector(s);
 const $$ = (s, r = document) => [...r.querySelectorAll(s)];
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
-const wait = async (fn, ms = 3000) => {
+const wait = async (fn, ms = 3000, msg = 'ready') => {
     const t = Date.now();
     while (Date.now() - t < ms) {
         if (fn()) return true;
         await sleep(20);
     }
+    if (msg) ok(false, msg);
     return false;
 };
 
@@ -39,19 +41,47 @@ const COUNT = {
     'lang-ja': 1,
     'lang-en': 1,
     'lang-ua': 1,
+    'lang-ua-ja': 1,
+    'lang-uscore': 1,
+    'lang-nav': 1,
+    'lang-default': 1,
+    'lang-bad-nb': 1,
     'lang-keep': 1,
     'feed-count': 2,
+    'feed-nosource': 2,
     'topic-switch': 3,
     'lang-switch': 3,
     'end-mark': 3,
+    yesterday: 4,
+    'yesterday-stale': 3,
+    'yesterday-sha': 4,
+    'yesterday-lang': 4,
+    'yesterday-topic': 4,
+    'yesterday-fail': 3,
+    'yesterday-one': 3,
+    'yesterday-jp': 4,
+    'yesterday-retry': 3,
     'quake-west': 1,
     'quake-down': 1,
     'weather-down': 1,
+    'weather-c20': 1,
+    'weather-html': 1,
+    'weather-city': 5,
+    'weather-tg': 0,
+    'weather-level': 1,
+    'weather-stale': 3,
+    'weather-nolm': 3,
+    'weather-no-c20': 1,
+    'weather-panel': 1,
     'status-ok': 5,
     'status-running': 5,
     'status-fail': 5,
     'status-empty': 0,
     'status-mixed': 5,
+    'status-leave': 5,
+    'status-cache': 5,
+    'status-post': 5,
+    'watch-stop': 0,
     diag: 5,
     'diag-gps': 5,
     'diag-ip-gps': 5,
@@ -59,15 +89,24 @@ const COUNT = {
     'diag-denied': 5,
     'diag-ask': 5,
     'diag-github': 5,
+    'diag-403': 5,
+    'diag-coords': 5,
+    'diag-telegram': 5,
+    'diag-timeout': 5,
+    'diag-nogeo': 5,
+    'diag-gps-city': 5,
+    'haptic-tg': 3,
     quakes: 2,
     'quake-mag': 1,
     'quake-age': 1,
     'quake-blink': 2,
-    'quake-drop': 1,
+    'quake-drop': 2,
     'quake-combo': 2,
     'quake-cod': 2,
+    'quake-bad-cod': 1,
     weather: 3,
     'weather-l2': 1,
+    'weather-l10': 1,
     'weather-jp': 3,
     'weather-ip': 3,
     'geo-wins': 3,
@@ -80,9 +119,16 @@ const COUNT = {
     mix: 6,
     live: 0,
     'live-open': 0,
+    'live-yt': 0,
     'live-en': 0,
     'live-back': 0,
     'live-topic': 0,
+    'live-cameras': 0,
+    'live-next': 0,
+    'live-cams-news': 0,
+    'live-reopen': 0,
+    'cams-cache': 0,
+    cameras: 3,
     chrome: 3,
 };
 
@@ -111,13 +157,71 @@ const ready = async () => {
         await wait(() => titles()[0] === 'Cuatro medios sobre tipos');
     }
     if (scenario === 'end-mark') {
-        sawEnd = await wait(() => $('#feed p')?.textContent === 'END');
+        sawEnd = await wait(() => $('#feed p')?.textContent === 'YESTERDAY', 3000, '');
         $('#topic').value = 'status';
         $('#topic').dispatchEvent(new Event('change'));
         await wait(() => articles().length >= 5 && !$('#feed p'));
     }
+    if (scenario === 'yesterday-stale') {
+        await wait(() => $('#feed p')?.textContent === 'YESTERDAY');
+        $('#topic').value = 'tech';
+        $('#topic').dispatchEvent(new Event('change'));
+        await wait(() => titles()[0] === 'Foundry wins contract');
+        await sleep(300);
+    }
+    if (scenario === 'yesterday-lang') {
+        await wait(() => $('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates');
+        $('#lang').value = 'es';
+        $('#lang').dispatchEvent(new Event('change'));
+        await wait(() => titles()[0] === 'Cuatro medios sobre tipos'
+            && $('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Tipos de ayer');
+    }
+    if (scenario === 'yesterday-topic') {
+        await wait(() => $('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates');
+        $('#topic').value = 'tech';
+        $('#topic').dispatchEvent(new Event('change'));
+        await wait(() => titles()[0] === 'Foundry wins contract'
+            && $('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday chips');
+    }
+    if (scenario === 'yesterday-fail' || scenario === 'yesterday-one') {
+        await wait(() => $('#feed p')?.textContent === 'YESTERDAY');
+    }
+    if (scenario === 'yesterday-jp') {
+        await wait(() => $('#feed p')?.textContent === '昨日');
+    }
+    if (scenario === 'yesterday-retry') {
+        await wait(() => $('#feed p')?.textContent === 'YESTERDAY' && !$('#feed p')?.nextElementSibling);
+        $('#lang').value = 'es';
+        $('#lang').dispatchEvent(new Event('change'));
+        await wait(() => $('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Tipos de ayer');
+    }
     if (scenario === 'weather-down') await sleep(180);
-    if (scenario.startsWith('live')) await wait(() => !$('#chrome').hidden);
+    if (scenario === 'weather-stale') await sleep(80);
+    if (scenario === 'weather-city') {
+        await wait(() => $('#diag-place').textContent.includes('Shibuya'));
+    }
+    if (scenario === 'weather-tg') await sleep(180);
+    if (scenario === 'status-leave') {
+        $('#topic').value = 'finance';
+        $('#topic').dispatchEvent(new Event('change'));
+        await wait(() => $('#diag').hidden && articles().length >= 3);
+    }
+    if (scenario === 'watch-stop') {
+        await wait(() => !$('#status') || $('#status').textContent !== 'Loading…');
+        $('#topic').value = 'status';
+        $('#topic').dispatchEvent(new Event('change'));
+        await wait(() => !$('#diag').hidden && $('#diag-github').textContent !== '—');
+        await sleep(450);
+    }
+    if (scenario === 'haptic-tg') {
+        window.Telegram.WebApp.haptic.selection = 0;
+        $('#lang').value = 'es';
+        $('#lang').dispatchEvent(new Event('change'));
+        await wait(() => window.Telegram.WebApp.haptic.selection > 0
+            && titles()[0] === 'Cuatro medios sobre tipos');
+    }
+    if (scenario.startsWith('live') || scenario === 'cams-cache') await wait(() => !$('#chrome').hidden);
+    if (scenario === 'live-yt') await wait(() => $('#liveFrame')?.dataset.vid);
     if (scenario.startsWith('diag')) {
         await wait(() => $('#diag-github').textContent !== '—');
         if (scenario === 'diag') await wait(() => $('#diag-place').textContent.includes('Tokyo'));
@@ -133,19 +237,51 @@ const ready = async () => {
             $('#diag-ask').click();
             await wait(() => $('#diag-geo').textContent === 'approved');
         }
-        if (scenario === 'diag-github') await wait(() => $('#diag-github').textContent.includes('rate limit'));
+        if (scenario === 'diag-github' || scenario === 'diag-403') {
+            await wait(() => $('#diag-github').textContent.includes('rate limit'));
+        }
+        if (scenario === 'diag-coords') {
+            await wait(() => $('#diag-place').textContent.includes('35.680'));
+        }
+        if (scenario === 'diag-telegram') {
+            await wait(() => $('#diag-place').textContent.includes('Telegram'));
+        }
+        if (scenario === 'diag-gps-city') {
+            await wait(() => $('#diag-place').textContent.includes('Browser') && $('#diag-place').textContent.includes('Tokyo'));
+        }
     }
-    if (scenario === 'live-open' || scenario === 'live-en' || scenario === 'live-back') {
+    const openLive = ['live-open', 'live-en', 'live-back', 'live-cameras', 'live-next', 'live-cams-news', 'live-reopen', 'cams-cache'];
+    if (openLive.includes(scenario)) {
         $('#MainButton').click();
         await wait(() => !$('#live').hidden);
     }
-    if (scenario === 'live-en') {
+    if (scenario === 'live-cameras' || scenario === 'live-next' || scenario === 'live-cams-news' || scenario === 'cams-cache') {
+        $('#CamerasButton').click();
+        await wait(() => $('#CamerasButton').textContent === 'LIVE NEWS');
+        await wait(() => $('#liveFrame').dataset.vid);
+    }
+    if (scenario === 'live-next') {
+        const first = $('#liveFrame').dataset.vid;
+        $('#SecondaryButton').click();
+        await wait(() => $('#liveFrame').dataset.vid && $('#liveFrame').dataset.vid !== first);
+    }
+    if (scenario === 'live-cams-news') {
+        $('#CamerasButton').click();
+        await wait(() => $('#CamerasButton').textContent === 'LIVE CAMERAS');
+    }
+    if (scenario === 'live-en' || scenario === 'live-reopen') {
         $('#SecondaryButton').click();
         await wait(() => $('#SecondaryButton').textContent.includes('JAPANESE'));
     }
     if (scenario === 'live-back') {
-        $('#BackButton').click();
+        $('#MainButton').click();
         await wait(() => $('#live').hidden);
+    }
+    if (scenario === 'live-reopen') {
+        $('#MainButton').click();
+        await wait(() => $('#live').hidden);
+        $('#MainButton').click();
+        await wait(() => !$('#live').hidden && $('#SecondaryButton').textContent.includes('ENGLISH'));
     }
     if (scenario === 'live-topic') {
         await wait(() => !$('#chrome').hidden);
@@ -216,6 +352,26 @@ const run = () => {
         ok(titles()[0] === 'La Dieta aprueba el proyecto', 'es news');
         return;
     }
+    if (scenario === 'lang-ua-ja') {
+        ok($('#lang').value === 'jp', 'ua ja');
+        ok(titles()[0] === '国会が法案を可決', 'jp news');
+        return;
+    }
+    if (scenario === 'lang-uscore') {
+        ok($('#lang').value === 'es', 'es_MX');
+        ok(titles()[0] === 'La Dieta aprueba el proyecto', 'es news');
+        return;
+    }
+    if (scenario === 'lang-nav') {
+        ok($('#lang').value === 'jp', 'navigator.language ja');
+        ok(titles()[0] === '国会が法案を可決', 'jp news');
+        return;
+    }
+    if (scenario === 'lang-default' || scenario === 'lang-bad-nb') {
+        ok($('#lang').value === 'en', scenario === 'lang-bad-nb' ? 'bad nb → autoLang' : 'default en');
+        ok(titles()[0] === 'Diet passes bill', 'en news');
+        return;
+    }
     if (scenario === 'lang-keep') {
         ok($('#lang').value === 'jp', 'saved beats system');
         ok(titles()[0] === '国会が法案を可決', 'jp news');
@@ -228,17 +384,27 @@ const run = () => {
         ok(sources()[1].includes('3m') && !sources()[1].includes('s'), '3m');
         ok(sources()[2].includes('1m 30s'), '1m 30s');
         ok(articles().every(a => a.getAttribute('onclick')), 'job urls');
+        ok(sources().every(s => /\d/.test(s)), 'stamp');
         return;
     }
     if (scenario === 'status-running') {
         ok(articles().length === 5, '5 jobs');
         ok(classes().every(c => c === 'running'), 'all running');
+        ok(articles().every(a => href(a).includes('/actions/runs/1')), 'run url');
+        ok(sources().every(s => /\d/.test(s)), 'run stamp');
         return;
     }
     if (scenario === 'feed-count') {
         ok(articles().length === 2, '2 articles');
         ok(classes().join() === 'high,low', 'count from sources');
         ok(titles().join() === 'Four sources,Two sources', 'titles');
+        return;
+    }
+    if (scenario === 'feed-nosource') {
+        const orphan = articles().find(a => $('h2', a).textContent === 'Orphan headline');
+        ok(orphan, 'renders without source');
+        ok($('.sources', orphan).textContent === '', 'empty sources');
+        ok(titles().includes('Two sources'), 'sibling kept');
         return;
     }
     if (scenario === 'topic-switch') {
@@ -265,6 +431,61 @@ const run = () => {
         ok(articles().length === 5, '5 jobs');
         return;
     }
+    if (scenario === 'yesterday') {
+        ok(articles().length === 4, '3 today + 1 yesterday');
+        ok(titles().slice(0, 3).join() === 'Four outlets on rates,Three outlets on chips,Two outlets on apps', 'today first');
+        ok($('#feed p')?.textContent === 'YESTERDAY', 'YESTERDAY');
+        ok($('#feed p').nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates', 'yesterday after END');
+        return;
+    }
+    if (scenario === 'yesterday-stale') {
+        ok($('#topic').value === 'tech', 'topic tech');
+        ok(titles()[0] === 'Foundry wins contract', 'tech feed');
+        ok(!titles().some(t => t === 'Yesterday rates'), 'late yesterday dropped');
+        ok(!titles().some(t => t.includes('Four outlets')), 'finance gone');
+        return;
+    }
+    if (scenario === 'yesterday-sha') {
+        ok($('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates', 'commits[1]');
+        ok(!titles().includes('HEAD rates'), 'not commits[0]');
+        return;
+    }
+    if (scenario === 'yesterday-lang') {
+        ok($('#lang').value === 'es', 'lang es');
+        ok($('#feed p')?.textContent === 'AYER', 'AYER');
+        ok($('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Tipos de ayer', 'es yesterday');
+        ok(!titles().includes('Yesterday rates'), 'en yesterday gone');
+        return;
+    }
+    if (scenario === 'yesterday-topic') {
+        ok($('#topic').value === 'tech', 'topic tech');
+        ok($('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday chips', 'tech yesterday');
+        ok(!titles().includes('Yesterday rates'), 'finance yesterday gone');
+        return;
+    }
+    if (scenario === 'yesterday-empty') {
+        ok($('#status')?.textContent === 'No news', 'No news');
+        ok(!$('#feed p'), 'no END');
+        ok(!titles().includes('Yesterday rates'), 'no yesterday');
+        return;
+    }
+    if (scenario === 'yesterday-fail' || scenario === 'yesterday-one') {
+        ok(articles().length === 3, 'today only');
+        ok($('#feed p')?.textContent === 'YESTERDAY', 'YESTERDAY');
+        ok(!$('#feed p')?.nextElementSibling, 'no yesterday');
+        return;
+    }
+    if (scenario === 'yesterday-jp') {
+        ok($('#feed p')?.textContent === '昨日', '昨日');
+        ok($('#feed p').nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates', 'yesterday after');
+        return;
+    }
+    if (scenario === 'yesterday-retry') {
+        ok($('#lang').value === 'es', 'retried es');
+        ok($('#feed p')?.textContent === 'AYER', 'AYER');
+        ok($('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Tipos de ayer', 'second fetch');
+        return;
+    }
     if (scenario === 'status-fail') {
         const fail = articles().find(a => a.className === 'high');
         ok(fail, 'one high');
@@ -277,14 +498,41 @@ const run = () => {
         ok(classes().join() === 'high,running,running,ok,ok', 'fail then running then ok');
         ok(titles()[0] === 'Japan digest', 'fail first');
         ok(sources()[0].includes('Compile translations'), 'step');
+        ok(articles().filter(a => a.className === 'running').every(a => /\d+m/.test($('.sources', a).textContent)), 'elapsed');
+        return;
+    }
+    if (scenario === 'status-leave') {
+        ok($('#topic').value === 'finance', 'left status');
+        ok($('#diag').hidden, 'diag off');
+        ok(titles()[0] === 'Four outlets on rates', 'finance feed');
+        return;
+    }
+    if (scenario === 'status-cache') {
+        ok(articles().length === 5, 'cached jobs');
+        ok(href(articles()[0]).includes('cached-job'), 'cached url');
+        return;
+    }
+    if (scenario === 'status-post') {
+        const fail = articles().find(a => a.className === 'high');
+        ok($('.sources', fail).textContent.includes('Compile translations'), 'real step');
+        ok(!$('.sources', fail).textContent.includes('Complete job'), 'skip Complete');
+        ok(!$('.sources', fail).textContent.includes('Post Checkout'), 'skip Post');
+        return;
+    }
+    if (scenario === 'watch-stop') {
+        ok(!$('#diag').hidden, 'status');
+        ok(!$('#diag-place').textContent.includes('Browser'), 'watch cleared');
+        ok($('#diag-place').textContent.includes('IP'), 'ip only');
         return;
     }
     if (scenario.startsWith('diag')) {
         ok(!$('#diag').hidden, 'diag visible');
         ok($('#diag-cf').textContent.includes('ok'), 'cf ok');
         ok($('#diag-jma').textContent.includes('down'), 'jma down');
-        if (scenario === 'diag-github') ok($('#diag-github').textContent.includes('rate limit'), 'github 429');
-        else ok($('#diag-github').textContent.includes('ok'), 'github 200');
+        if (scenario === 'diag-github' || scenario === 'diag-403') {
+            ok($('#diag-github').textContent.includes('rate limit'), scenario === 'diag-403' ? 'github 403' : 'github 429');
+            ok($('#diag-github').className === 'medium', 'rate color');
+        } else ok($('#diag-github').textContent.includes('ok'), 'github 200');
         if (scenario === 'diag') {
             ok($('#diag-ip').textContent === '203.0.113.10', 'ip');
             ok($('#diag-place').textContent.includes('IP') && $('#diag-place').textContent.includes('Tokyo'), 'place IP');
@@ -296,6 +544,7 @@ const run = () => {
             ok($('#diag-ip').textContent === '198.51.100.8', 'late ip kept');
             ok(!$('#diag-place').textContent.includes('Dallas'), 'late ip did not replace gps');
             ok($('#diag-geo').textContent === 'approved', 'approved');
+            ok($('#diag-geo').className === 'ok', 'approved color');
         }
         if (scenario === 'diag-ip-gps') {
             ok($('#diag-place').textContent.includes('Osaka') && $('#diag-place').textContent.includes('Browser'), 'late gps place');
@@ -316,6 +565,28 @@ const run = () => {
             ok($('#diag-geo').textContent === 'approved', 'ask grants');
             ok($('#diag-place').textContent.includes('Browser'), 'gps after ask');
         }
+        if (scenario === 'diag-coords') {
+            ok($('#diag-place').textContent.includes('35.680') && $('#diag-place').textContent.includes('139.760'), 'coords');
+            ok($('#diag-place').textContent.includes('Browser'), 'browser');
+        }
+        if (scenario === 'diag-telegram') {
+            ok($('#diag-place').textContent.includes('Telegram'), 'telegram');
+            ok($('#diag-geo').textContent === 'approved', 'granted');
+        }
+        if (scenario === 'diag-gps-city') {
+            ok($('#diag-place').textContent.includes('Tokyo') && $('#diag-place').textContent.includes('Browser'), 'ip city after gps');
+            ok($('#diag-place').textContent.includes('Japan'), 'ip country after gps');
+            ok($('#diag-ip').textContent === '203.0.113.10', 'ip kept');
+            ok($('#diag-geo').textContent === 'approved', 'approved');
+        }
+        if (scenario === 'diag-timeout' || scenario === 'diag-nogeo') {
+            ok($('#diag-geo').textContent === 'unknown', 'not rejected');
+            ok($('#diag-place').textContent.includes('IP'), 'ip place');
+        }
+        ok($('#diag-cf').className === 'ok', 'cf color');
+        if (scenario !== 'diag-github' && scenario !== 'diag-403') ok($('#diag-github').className === 'ok', 'github color');
+        ok($('#diag-jma').className === 'high', 'jma color');
+        ok($('#diag-ip').title === $('#diag-ip').textContent || $('#diag-ip').textContent === '—', 'ip title');
         return;
     }
     if (scenario === 'quakes') {
@@ -325,6 +596,7 @@ const run = () => {
         ok(titles()[1].startsWith('M5.4'), 'M5.4');
         ok(titles().every(t => !t.includes('Weather alert')), 'no weather');
         ok(href(articles()[0]) === 'https://www.google.com/maps/search/?api=1&query=35.6,139.7', 'maps url');
+        ok(sources()[0].includes('JMA'), 'JMA source');
         return;
     }
     if (scenario === 'quake-mag') {
@@ -354,9 +626,16 @@ const run = () => {
         return;
     }
     if (scenario === 'quake-drop') {
-        ok(articles().length === 1, 'only complete');
-        ok(titles()[0].includes('Kept'), 'kept');
+        ok(articles().length === 2, 'complete + no ctt');
+        ok(titles().some(t => t.includes('Kept')), 'kept');
+        ok(titles().some(t => t.includes('No ctt')), 'no ctt kept');
         ok(!titles().some(t => t.includes('No mag') || t.includes('No cod')), 'incomplete dropped');
+        return;
+    }
+    if (scenario === 'quake-bad-cod') {
+        ok(articles().length === 1, '1 quake');
+        ok(titles()[0].includes('Kept'), 'valid kept');
+        ok(!titles().some(t => t.includes('Broken') || t.includes('Half')), 'bad cod dropped');
         return;
     }
     if (scenario === 'quake-cod') {
@@ -396,6 +675,8 @@ const run = () => {
         if (scenario === 'weather-ip') ok(articles().length === 3, 'ip-only weather');
         ok(href(articles()[0]).includes('area_code=130000'), 'tokyo area');
         ok(!href(articles()[0]).includes('area_code=010000'), 'not nationwide');
+        ok(sources()[0].includes('JMA') && sources()[0].includes('Tokyo'), 'JMA Tokyo');
+        ok(href(articles()[0]).includes('#lang=en'), 'lang en');
         return;
     }
     if (scenario === 'weather-l2') {
@@ -404,11 +685,18 @@ const run = () => {
         ok(!classes()[0].includes('quake-recent'), 'L2 still');
         return;
     }
+    if (scenario === 'weather-l10') {
+        ok(articles().length === 1, '1 alert');
+        ok(titles()[0].includes('Special warning') && titles()[0].includes('Level 10'), 'numeric 10 wins');
+        ok(!titles()[0].includes('Level 5'), 'lexical 8 lost');
+        return;
+    }
     if (scenario === 'weather-jp') {
         ok(titles()[0].includes('大雨') && titles()[0].includes('レベル3'), '雨');
         ok(titles()[1] === '気象警報: 洪水', '洪水');
         ok(titles()[2].includes('暴風') && titles()[2].includes('レベル5'), '暴風');
         ok(classes()[0].includes('quake-recent') && !classes()[1].includes('quake-recent') && classes()[2].includes('quake-recent'), 'jp blink');
+        ok(href(articles()[0]).includes('#lang=jp'), 'lang jp');
         return;
     }
     if (scenario === 'weather-down') {
@@ -446,6 +734,7 @@ const run = () => {
         ok(titles()[0].includes('Tokyo Bay') && titles()[1].includes('Osaka Bay'), 'quakes en');
         ok(titles()[2].includes('Heavy rain') && titles()[4].includes('Storm'), 'weather en');
         ok(titles()[5] === 'La Dieta aprueba el proyecto', 'news es');
+        ok(href(articles()[2]).includes('#lang=en'), 'weather es uses en');
         return;
     }
     if (scenario === 'japan-us') {
@@ -474,17 +763,84 @@ const run = () => {
         ok(titles()[5] === 'Diet passes bill', 'news last');
         return;
     }
+    if (scenario === 'haptic-tg') {
+        ok(window.Telegram.WebApp.haptic.selection > 0, 'native haptic');
+        ok(titles()[0] === 'Cuatro medios sobre tipos', 'es after change');
+        return;
+    }
+    if (scenario === 'weather-nolm') {
+        ok(titles()[0].includes('Heavy rain'), 'browser geo without LocationManager');
+        ok(sources()[0].includes('Tokyo'), 'tokyo');
+        return;
+    }
+    if (scenario === 'weather-no-c20') {
+        ok(articles().length === 1, 'class10 without class20s');
+        ok(titles()[0].includes('Heavy rain'), 'rain');
+        return;
+    }
+    if (scenario === 'weather-panel') {
+        ok(articles().length === 1, 'live panel kept');
+        ok(titles()[0].includes('Heavy rain'), 'rain');
+        ok(!titles().some(t => t.includes('Storm')), 'dead panel dropped');
+        return;
+    }
+    if (scenario === 'weather-c20') {
+        ok(articles().length === 1, 'class20 hit');
+        ok(titles()[0].includes('Heavy rain'), 'rain');
+        ok(href(articles()[0]).includes('area_code=130000'), 'tokyo office');
+        return;
+    }
+    if (scenario === 'weather-html') {
+        ok(articles().length === 1, 'dropped missing jp');
+        ok(titles()[0].includes('Heavy rain') && titles()[0].includes('Level 3'), 'nfkc + strip');
+        ok(!titles().some(t => t.includes('Flood')), 'no flood');
+        return;
+    }
+    if (scenario === 'weather-city') {
+        ok($('#diag-place').textContent.includes('Shibuya'), 'locality');
+        ok($('#diag-place').textContent.includes('Japan'), 'countryName');
+        return;
+    }
+    if (scenario === 'weather-tg') {
+        ok(!titles().some(t => t.includes('Weather')), 'ip weather skipped');
+        return;
+    }
+    if (scenario === 'weather-level') {
+        ok(articles().length === 1, '1 type');
+        ok(titles()[0].includes('Rain') && titles()[0].includes('Level 5'), 'highest wins');
+        return;
+    }
+    if (scenario === 'weather-stale') {
+        ok(articles().length === 3 && sources().every(s => s.includes('Tokyo')), 'tokyo kept');
+        return sleep(350).then(() => {
+            ok(articles().length === 3 && sources().every(s => s.includes('Tokyo')), 'failed nagoya discarded');
+        });
+    }
     if (scenario === 'live') {
         ok(!$('#chrome').hidden, 'chrome on');
         ok($('#live').hidden, 'live off');
         ok(!$('#MainButton').hidden && $('#MainButton').textContent === 'LIVE NEWS', 'LIVE NEWS');
-        ok($('#BackButton').hidden && $('#SecondaryButton').hidden, 'back/swap off');
+        ok($('#MainButton').classList.contains('ring'), 'ring on');
+        ok($('#CamerasButton').hidden && $('#SecondaryButton').hidden, 'cameras/swap off');
+        return;
+    }
+    if (scenario === 'live-yt') {
+        ok($('#liveFrame').dataset.vid, 'window.YT.Player primary');
+        ok($('#liveSecondFrame').dataset.vid, 'window.YT.Player second');
         return;
     }
     if (scenario === 'live-open') {
         ok(!$('#live').hidden, 'overlay');
-        ok($('#MainButton').hidden, 'main off');
-        ok(!$('#BackButton').hidden, 'back on');
+        ok(!$('#MainButton').hidden && $('#MainButton').textContent === 'BACK', 'BACK');
+        ok(!$('#MainButton').classList.contains('ring'), 'ring off');
+        ok($('#liveFrame').dataset.vid === 'Anr15FA9OCI', 'jp news');
+        ok($('#liveSecondFrame').dataset.vid === 'HXGANE2pRrA', 'second');
+        ok($('#liveFrame').dataset.vol === '100' && $('#liveSecondFrame').dataset.vol === '50', 'volumes');
+        ok($('#liveFrame').dataset.muted === '1' && $('#liveSecondFrame').dataset.muted === '1', 'muted');
+        ok($('#liveFrame').dataset.playing === '1' && $('#liveSecondFrame').dataset.playing === '1', 'playing');
+        ok($('#liveFrame').dataset.loads === '0' && $('#liveSecondFrame').dataset.loads === '0', 'already cued');
+        ok(document.body.style.getPropertyValue('--chrome-h'), 'chrome-h');
+        ok(!$('#CamerasButton').hidden && $('#CamerasButton').textContent === 'LIVE CAMERAS', 'cameras');
         ok($('#SecondaryButton').textContent === 'SWITCH TO ENGLISH', 'swap en');
         const live = $('#live').getBoundingClientRect();
         const chrome = $('#chrome').getBoundingClientRect();
@@ -504,12 +860,52 @@ const run = () => {
     if (scenario === 'live-en') {
         ok(!$('#live').hidden, 'overlay');
         ok($('#SecondaryButton').textContent === 'SWITCH TO JAPANESE', 'swap jp');
+        ok($('#liveFrame').dataset.vid === 'f0lYkdA-Gtw', 'en news');
+        ok($('#liveFrame').dataset.loads === '1', 'switched');
+        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'muted play');
         return;
     }
     if (scenario === 'live-back') {
         ok($('#live').hidden, 'closed');
         ok(!$('#MainButton').hidden && $('#MainButton').textContent === 'LIVE NEWS', 'LIVE NEWS');
-        ok($('#BackButton').hidden, 'back off');
+        ok($('#MainButton').classList.contains('ring'), 'ring back');
+        ok($('#liveFrame').dataset.playing === '0', 'stopped');
+        ok(!document.body.style.getPropertyValue('--chrome-h'), 'chrome-h off');
+        ok($('#CamerasButton').hidden && $('#SecondaryButton').hidden, 'row off');
+        return;
+    }
+    if (scenario === 'live-cameras') {
+        ok(!$('#live').hidden, 'overlay');
+        ok($('#CamerasButton').textContent === 'LIVE NEWS', 'toggle news');
+        ok($('#SecondaryButton').textContent === 'NEXT', 'NEXT');
+        ok($('#MainButton').textContent === 'BACK', 'BACK');
+        ok($('#liveFrame').dataset.vid === 'near1', 'nearest');
+        ok($('#liveSecondFrame').dataset.vid === 'near2', 'second nearest');
+        ok($('#liveFrame').dataset.loads === '1' && $('#liveSecondFrame').dataset.loads === '1', 'loaded cams');
+        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'muted play');
+        return;
+    }
+    if (scenario === 'live-next') {
+        ok($('#liveFrame').dataset.vid === 'far', 'page 2');
+        ok($('#liveSecondFrame').dataset.playing === '0', 'odd page stops second');
+        return;
+    }
+    if (scenario === 'live-cams-news') {
+        ok($('#CamerasButton').textContent === 'LIVE CAMERAS', 'back to news');
+        ok($('#SecondaryButton').textContent === 'SWITCH TO ENGLISH', 'swap en');
+        ok($('#liveFrame').dataset.vid === 'Anr15FA9OCI', 'news id');
+        return;
+    }
+    if (scenario === 'live-reopen') {
+        ok(!$('#live').hidden, 'reopened');
+        ok($('#SecondaryButton').textContent === 'SWITCH TO ENGLISH', 'reset jp');
+        ok($('#liveFrame').dataset.vid === 'Anr15FA9OCI', 'jp id');
+        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'muted play');
+        return;
+    }
+    if (scenario === 'cams-cache') {
+        ok($('#liveFrame').dataset.vid === 'cached1', 'cached first');
+        ok($('#liveSecondFrame').dataset.vid === 'cached2', 'cached second');
         return;
     }
     if (scenario === 'live-topic') {
@@ -517,6 +913,50 @@ const run = () => {
         ok($('#chrome').hidden, 'chrome off');
         ok(titles()[0] === 'Four outlets on rates', 'finance feed');
         ok($('#live').hidden, 'live off');
+        return;
+    }
+    if (scenario === 'cameras') {
+        const spot = (video_id, lat, lng, is_live = true) => ({ video_id, lat, lng, is_live });
+        const ids = (spots, lat, lng) => nearestTwo(spots, lat, lng).map(s => s.video_id);
+        const station = spot('ZN4gh5IOowM', 35.68121, 139.76478);
+        const shibuya = spot('EaRgJQ--2eE', 35.6605, 139.6985);
+        const osaka = spot('nVeVH2ssSYI', 34.7855, 135.4438);
+        const sapporo = spot('SiNdj5dEq_8', 43.0599, 141.34751);
+        const naha = spot('3e_uPkJCTNo', 26.17673, 127.64061);
+        const dead = spot('deadTokyo', 35.68, 139.76, false);
+        const noId = { lat: 35.68, lng: 139.76, is_live: true, video_id: '' };
+        const all = [station, shibuya, osaka, sapporo, naha];
+        const eq = (a, b) => JSON.stringify(a) === JSON.stringify(b);
+        ok(inJapan(35.68, 139.76) && inJapan(43.06, 141.35) && inJapan(26.21, 127.68), 'Honshu Hokkaido Okinawa');
+        ok(!inJapan(32.78, -96.8) && !inJapan(null, 139.76) && !inJapan(35.68, undefined) && !inJapan(Number.NaN, 139.76), 'reject US/null/NaN');
+        ok(eq(nearestTwo([], 35.68, 139.76), []) && eq(ids([dead, noId], 35.68, 139.76), []), 'empty when nothing live');
+        ok(eq(ids([station, dead], 35.68, 139.76), ['ZN4gh5IOowM']), 'one live');
+        ok(eq(ids(all, 35.68, 139.76), ['ZN4gh5IOowM', 'EaRgJQ--2eE']), 'Tokyo station then Shibuya');
+        ok(ids(all, 34.69, 135.5)[0] === 'nVeVH2ssSYI', 'Osaka airport');
+        ok(ids(all, 43.06, 141.35)[0] === 'SiNdj5dEq_8', 'Sapporo');
+        ok(ids(all, 26.21, 127.68)[0] === '3e_uPkJCTNo', 'Naha');
+        ok(eq(ids([dead, noId, shibuya, osaka], 35.68, 139.76), ['EaRgJQ--2eE', 'nVeVH2ssSYI']), 'skip dead and no id');
+        ok(eq(ids(all, 32.78, -96.8), ids(all, ...TOKYO)) && eq(ids(all, null, null), ids(all, ...TOKYO)), 'outside Japan → Tokyo');
+        const line = Array.from({ length: 12 }, (_, i) => spot(`c${i}`, 35.68, 139.76 + i * 0.01));
+        ok(eq(nearest(line, 35.68, 139.76, 10).map(s => s.video_id), ['c0', 'c1', 'c2', 'c3', 'c4', 'c5', 'c6', 'c7', 'c8', 'c9']), 'nearest 10 cap');
+        ok(eq(nearest(all, 35.68, 139.76).map(s => s.video_id), ids(all, 35.68, 139.76)), 'default n=2');
+        ok(eq(nearest(all, 35.68, 139.76, 1).map(s => s.video_id), ['ZN4gh5IOowM']), 'n=1');
+        ok(eq(nearest([shibuya, osaka], 35.68, 139.76, 10).map(s => s.video_id), ['EaRgJQ--2eE', 'nVeVH2ssSYI']), 'fewer than n');
+        const far = Array.from({ length: 10 }, (_, i) => spot(`f${i}`, 35.68, 140 + i * 0.1));
+        const evicted = nearest([...far, spot('close', 35.68, 139.76)], 35.68, 139.76, 10).map(s => s.video_id);
+        ok(evicted[0] === 'close' && evicted.length === 10 && !evicted.includes('f9'), 'evict farther');
+        ok(inJapan(24, 122) && inJapan(46, 146) && !inJapan(23.99, 139.76) && !inJapan(35.68, 121.99), 'bbox edges');
+        ok(eq(ids(all, 23.99, 139.76), ids(all, ...TOKYO)), 'just outside → Tokyo');
+        ok(eq(nearest([{ video_id: 'fake', lat: 35.68, lng: 139.76, is_live: 1 }, shibuya], 35.68, 139.76, 2).map(s => s.video_id), ['EaRgJQ--2eE']), 'is_live boolean');
+        const ten = ['c0', 'c1', 'c2', 'c3', 'c4', 'c5', 'c6', 'c7', 'c8', 'c9'];
+        ok(eq(pairAt(ten, 0), ['c0', 'c1']) && eq(pairAt(ten, 4), ['c8', 'c9']), 'pairAt pages');
+        ok(eq(pairAt(['a', 'b', 'c'], 1), ['c']), 'pairAt leftover');
+        ok(nextPage(10, 0) === 1 && nextPage(10, 4) === 0, 'nextPage wrap');
+        ok(nextPage(0, 0) === 0 && nextPage(2, 0) === 0, 'nextPage stay');
+        ok(nextPage(3, 0) === 1 && nextPage(3, 1) === 0, 'nextPage odd');
+        const east = spot('east', 35.68, 139.9);
+        const north = spot('north', 35.8, 139.76);
+        ok(eq(ids([east, north], 35.68, 139.76), ['east', 'north']), 'equirectangular');
         return;
     }
     if (scenario === 'chrome') {
@@ -556,7 +996,6 @@ const run = () => {
         ok(back.hidden && !main.hidden, 'BackButton.hide');
         tg.HapticFeedback.impactOccurred('heavy');
         tg.HapticFeedback.selectionChanged();
-        ok(true, 'HapticFeedback');
     }
 };
 
