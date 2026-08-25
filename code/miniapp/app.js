@@ -12,7 +12,7 @@ const lang = document.getElementById('lang');
 const feed = document.getElementById('feed');
 const live = document.getElementById('live');
 const native = window.Telegram?.WebApp;
-const tg = createChrome();
+const tg = native?.initData && native.MainButton ? native : createChrome();
 const platform = native?.initData ? native : tg;
 const { setLive, swapLang, syncLive, setCameras } = createLive({ tg, live, topic, place: getPlace });
 const syncDiag = createDiag(document.getElementById('diag'));
@@ -127,9 +127,9 @@ if (platform) {
         requestLocation({ force: true });
     };
     tg.MainButton.setText('LIVE NEWS');
-    tg.MainButton.onClick(() => setLive(live.hidden));
-    tg.SecondaryButton.onClick(swapLang);
-    tg.CamerasButton.onClick(setCameras);
+    tg.MainButton.onClick(() => live.hidden ? setLive(true) : setCameras());
+    tg.SecondaryButton?.onClick(swapLang);
+    tg.BackButton?.onClick(() => setLive(false));
     syncLive();
 }
 load();
