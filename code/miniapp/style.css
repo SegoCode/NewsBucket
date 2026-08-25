@@ -57,12 +57,13 @@ h2 {
 #status,
 #diag dt,
 #feed p {
-    color: var(--tg-theme-hint-color, #767676);
+    color: var(--tg-theme-hint-color, #888);
 }
 
 .sources {
     font-size: .78em;
     margin-top: 3px;
+    opacity: .65;
 }
 
 #status,
@@ -77,24 +78,24 @@ h2 {
 }
 
 article.high {
-    border: 2px solid #d32f2f;
+    border: 2px solid #ff3b30;
 }
 
 article.ok {
-    border: 2px solid #1b7f37;
+    border: 2px solid #34c759;
 }
 
 article.medium,
 article.running {
-    border: 2px solid #8a6400;
+    border: 2px solid #f1c40f;
 }
 
 article.low {
-    border: 2px solid #767676;
+    border: 2px solid #888;
 }
 
 article.quake-high {
-    border: 2px dashed #d32f2f;
+    border: 2px dashed #ff3b30;
 }
 
 article.quake-recent,
@@ -154,21 +155,19 @@ article[onclick] {
 
 #chrome #MainButton,
 #chrome #BackButton,
-#chrome #SecondaryButton,
-#chrome #CamerasButton {
+#chrome #SecondaryButton {
     padding: 8.5px 14px;
     border: 3.5px solid transparent;
     white-space: nowrap;
 }
 
 #chrome #MainButton.ring {
-    border-color: #d32f2f;
+    border-color: #ff3b30;
     box-shadow: inset 0 0 0 2px var(--tg-theme-bg-color, #fff);
 }
 
 #BackButton,
 #SecondaryButton,
-#CamerasButton,
 #diag button {
     background: var(--tg-theme-secondary-bg-color, #f1f1f1);
 }
@@ -245,13 +244,13 @@ article[onclick] {
 }
 
 #diag .ok {
-    color: #1b7f37;
+    color: #34c759;
 }
 
 #diag .medium {
-    color: #8a6400;
+    color: #f1c40f;
 }
 
 #diag .high {
-    color: #d32f2f;
+    color: #ff3b30;
 }
