@@ -93,7 +93,6 @@ const runScene = async (browser, baseUrl, scene) => {
 			},
 			{ timeout: 7000 },
 		);
-		if (scene === "geo-wins") await page.waitForTimeout(250);
 		const checks = await readChecks(page);
 		const failures = checks
 			.split("\n")
