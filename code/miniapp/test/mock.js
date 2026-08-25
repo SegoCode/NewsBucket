@@ -64,6 +64,8 @@ const SCENES = {
     'live-next': { t: 'japan', l: 'en' },
     'live-cams-news': { t: 'japan', l: 'en' },
     'live-reopen': { t: 'japan', l: 'en' },
+    'live-tg': { t: 'japan', l: 'en' },
+    'live-web': { t: 'japan', l: 'en' },
     'cams-cache': { t: 'japan', l: 'en' },
     cameras: { t: 'finance', l: 'en' },
     chrome: { t: 'finance', l: 'en' },
@@ -474,6 +476,37 @@ if (scenario === 'diag-nogeo') {
     Object.defineProperty(navigator, 'geolocation', { configurable: true, value: undefined });
 }
 
+if (scenario === 'live-tg' || scenario === 'live-web') {
+    const tgButton = () => {
+        const clicks = new Set();
+        return {
+            text: '',
+            isVisible: false,
+            isActive: true,
+            setText(text) { this.text = text; return this; },
+            onClick(fn) { clicks.add(fn); return this; },
+            offClick(fn) { clicks.delete(fn); return this; },
+            show() { this.isVisible = true; return this; },
+            hide() { this.isVisible = false; return this; },
+            click() { clicks.forEach(fn => fn()); },
+        };
+    };
+    globalThis.Telegram = {
+        WebApp: {
+            initData: scenario === 'live-tg' ? 'query_id=1' : '',
+            MainButton: tgButton(),
+            SecondaryButton: tgButton(),
+            BackButton: tgButton(),
+            HapticFeedback: { impactOccurred() {}, selectionChanged() {} },
+            ready() {},
+            expand() {},
+            disableVerticalSwipes() {},
+            setHeaderColor() {},
+            setBackgroundColor() {},
+        },
+    };
+}
+
 if (scenario === 'diag-telegram' || scenario === 'weather-tg' || scenario === 'haptic-tg' || scenario === 'weather-nolm') {
     const haptic = { impact: 0, selection: 0 };
     globalThis.Telegram = {
@@ -751,6 +784,19 @@ globalThis.fetch = input => {
                             8: '暴風 [レベル5] アラート',
                             10: '特別警報 [レベル10] アラート',
                         },
+                    },
+                },
+                urls: { warn: 'forecast/warn.json' },
+            });
+        }
+        if (scenario === 'weather-no-c20') {
+            return json({
+                lines: [[], ['rain']],
+                panels: {
+                    rain: {
+                        url: ['warn'],
+                        enName: { 5: 'Heavy rain [Level 3] alert' },
+                        name: { 5: '大雨 [レベル3] アラート' },
                     },
                 },
                 urls: { warn: 'forecast/warn.json' },
