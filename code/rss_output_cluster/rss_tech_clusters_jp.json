@@ -1,115 +1,80 @@
 [
   {
-    "title": "Xiaomi、3nmプロセスのSoC「XRING O3」を発表 LPDDR6対応でAnTuTu過去最高スコアを記録",
-    "summary": "新フラッグシップチップはArmv9.3-Aコア、16コアGPU、200 TOPSのNPUを搭載し、AnTuTuで500万点を突破",
+    "title": "Apple、新型Mac miniとMac StudioにM6およびM5 Ultraチップを搭載",
+    "summary": "Appleの新プロセッサーは、AIモデルをローカルで実行し、前例のないパフォーマンスを提供することを約束する。",
     "source": [
-      "xataka.com",
       "elchapuzasinformatico.com",
-      "/r/hardware",
-      "news.ycombinator.com",
+      "techcrunch.com",
       "videocardz.com",
-      "hardzone.es"
+      "tomshardware.com",
+      "news.ycombinator.com",
+      "xataka.com",
+      "kite.kagi.com"
     ],
-    "count": 6
+    "count": 7
   },
   {
-    "title": "Valve、Half-Life、Steam、Steam DeckでPCゲームを変革した30周年を祝う",
-    "summary": "Gabe Newell氏が設立した同社は、ゲームとデジタル配信における30年間の革新を記念",
+    "title": "ASUS、ROG Xbox Ally X20を発表、OLED画面とTMRジョイスティック搭載の携帯型コンソール",
+    "summary": "PCとコンソールのハイブリッドデバイスがスペインで1,399ユーロで発売、ARグラスのオプション付き。",
     "source": [
       "hardzone.es",
-      "tomshardware.com",
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "videocardz.com",
+      "tomshardware.com",
+      "xataka.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "OpenAI、チップ「Jalapeño」を発表、AI推論でNvidia GPUを上回る",
+    "summary": "OpenAI初のカスタムASICは、競合比でワットあたり性能1.9倍、レイテンシ3.6分の1を実現。",
+    "source": [
+      "tomshardware.com",
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
     "count": 4
   },
   {
-    "title": "DRAM不足でコンポーネントと家電製品の価格が高騰",
-    "summary": "DDR5 RAMやノートPC、自動車などの価格がサプライ危機で最大60%上昇",
+    "title": "NVIDIA、全GeForce RTX GPU向けにDLSS 4.5 Ray Reconstructionを公開",
+    "summary": "この技術は、RTXシリーズ全体でパフォーマンスを犠牲にすることなくレイトレーシング品質を向上させる。",
     "source": [
-      "/r/hardware",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "X、NitterとXCancelにデータ抽出の疑いで停止命令を送付",
+    "summary": "イーロン・マスク氏のSNSは、アカウントなしでツイートを閲覧できるオープンソースの代替クライアントの閉鎖を要求。",
+    "source": [
       "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AliExpress、超音波を使用してユーザーを追跡しBluetoothイヤホンに影響",
+    "summary": "中国のプラットフォームは、人間には聞こえない音声を使用して購入者のデバイスのフィンガープリントを作成。",
+    "source": [
       "xataka.com",
       "tomshardware.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Nintendo、DMCA申請でGitHub上のSwitchエミュレータリポジトリ400件以上を削除",
-    "summary": "日本企業は違法な暗号鍵を使用するエミュレーションプロジェクトを削除し、海賊版対策を強化",
+    "title": "DIGI、SMART光ファイバーの速度を2Gbpsに倍増、価格は20ユーロ維持",
+    "summary": "格安事業者が、追加コストなしの対称プランでスペインのブロードバンド市場に革命をもたらす。",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "IBM、Hot Chips 2026でARMとz/Architectureを5.7GHzで実行する初のデュアルISAコアを発表",
-    "summary": "2nm・11コアのメインフレーム向けプロセッサは、同一アーキテクチャでネイティブAI加速を実現",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
+      "bandaancha.eu"
     ],
     "count": 2
   },
   {
-    "title": "SK hynix、ハイブリッドボンディング採用のHBM5を前進させ、Nvidia Rubinアーキテクチャ向けにMR-MUFを拡張",
-    "summary": "高帯域幅メモリが775ミクロンの限界に達し、次世代AI GPUに対応",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel、32コアと最大480GB LPDDR5Xを備えたXe3P『Crescent Island』アーキテクチャを詳細発表",
-    "summary": "新データセンター向けGPUは350WのPCIe版を含み、AIとHPCワークロードをターゲット",
-    "source": [
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Xeon 7『Diamond Rapids』登場 256 Pコア、1.28GBキャッシュ、18A-Pプロセス採用",
-    "summary": "次世代CPUはAVX 10.2を搭載し、チップレット相互接続にUCIe-Sを採用",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "RTX 5090搭載ゲーミングPCが単体GPUより安価に 2,200ドル割引で",
-    "summary": "64GB DDR5と2TB SSD搭載のHP Omen Max 45Lが4,799ドルで販売、単体GPU価格を下回る",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nvidia、300億ドル超評価のPerplexity AIへの出資交渉でGoogleとOpenAIに対抗",
-    "summary": "GPUメーカーは戦略的出資により、生成検索とAIアシスタント分野での地位強化を狙う",
-    "source": [
-      "elchapuzasinformatico.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Raptor 3D-DRAM、32GB容量と100TB/s超の帯域幅を両立",
-    "summary": "新3DスタックメモリがAIとHPCアプリケーション向けに前例のない性能を約束",
-    "source": [
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 11、GPUとAIモデル向けRAM予約のための統合メモリ制御を導入",
-    "summary": "アップデートでNPU搭載PCとRTX Sparkカードに対応、共有メモリを動的に割り当て可能に",
+    "title": "Lenovo、BIOSアップデートでLegion Goが使用不能になることを認める",
+    "summary": "同社は数週間の苦情の末に欠陥を認め、ユーザーの過失ではないと断言。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -117,10 +82,28 @@
     "count": 2
   },
   {
-    "title": "Intel Core Ultra 7 270KとCore i7-14700KがAmazon CPU売上トップ10入り、AMDの独占を崩す",
-    "summary": "店舗データによると、2つのIntelプロセッサが数ヶ月ぶりにベストセラー入り",
+    "title": "Intel、256コア・1.28GBキャッシュのXeon 7「Diamond Rapids」を発表",
+    "summary": "サーバー向けプロセッサーは16チップレットと12,800 MT/sメモリを使用し、AIワークロードに対応。",
     "source": [
       "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple、Hide My Emailのドメイン変更を撤回しiCloudエイリアスを維持",
+    "summary": "同社は、プライバシーを懸念するユーザーの批判を受け、独自ドメインへの移行を中止。",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "中国、先進チップの不足率を数年で92%から34%に削減へ",
+    "summary": "アジア諸国は半導体の自給自足を加速させながら、台湾への重要材料輸出を制限。",
+    "source": [
+      "xataka.com",
       "tomshardware.com"
     ],
     "count": 2

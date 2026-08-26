@@ -1,115 +1,80 @@
 [
   {
-    "title": "Xiaomi unveils its 3 nm XRING O3 SoC with LPDDR6 support and record AnTuTu performance",
-    "summary": "Xiaomi's new flagship chip integrates Armv9.3-A cores, 16-core GPU, 200 TOPS NPU, and surpasses 5 million points in AnTuTu.",
+    "title": "Apple launches M6 and M5 Ultra chips in new Mac mini and Mac Studio",
+    "summary": "Apple's new processors promise to run AI models locally with unprecedented performance.",
     "source": [
-      "xataka.com",
       "elchapuzasinformatico.com",
-      "/r/hardware",
-      "news.ycombinator.com",
+      "techcrunch.com",
       "videocardz.com",
-      "hardzone.es"
+      "tomshardware.com",
+      "news.ycombinator.com",
+      "xataka.com",
+      "kite.kagi.com"
     ],
-    "count": 6
+    "count": 7
   },
   {
-    "title": "Valve celebrates 30 years transforming PC gaming with Half-Life, Steam, and Steam Deck",
-    "summary": "The company founded by Gabe Newell commemorates three decades of innovation in video games and digital distribution.",
+    "title": "ASUS unveils ROG Xbox Ally X20, a handheld console with OLED screen and TMR joysticks",
+    "summary": "The hybrid PC-console device arrives in Spain for 1,399 euros with option for augmented reality glasses.",
     "source": [
       "hardzone.es",
-      "tomshardware.com",
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "videocardz.com",
+      "tomshardware.com",
+      "xataka.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "OpenAI unveils its Jalapeño chip, surpassing Nvidia GPUs in AI inference",
+    "summary": "OpenAI's first custom ASIC offers 1.9x more performance per watt and 3.6x less latency than the competition.",
+    "source": [
+      "tomshardware.com",
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
     ],
     "count": 4
   },
   {
-    "title": "DRAM memory shortage drives up prices of components and consumer electronics",
-    "summary": "DDR5 RAM prices and devices like laptops and cars increase up to 60% due to supply crisis.",
+    "title": "NVIDIA releases DLSS 4.5 Ray Reconstruction for all GeForce RTX GPUs",
+    "summary": "The technology improves ray tracing quality without penalizing performance across the entire RTX lineup.",
     "source": [
-      "/r/hardware",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "X sends cease-and-desist order to Nitter and XCancel over alleged data scraping",
+    "summary": "Elon Musk's social network demands shutdown of open-source alternative clients that allow viewing tweets without an account.",
+    "source": [
       "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AliExpress uses ultrasonic sounds to track users and affect Bluetooth headphones",
+    "summary": "The Chinese platform employs inaudible audio to create digital fingerprints of shoppers' devices.",
+    "source": [
       "xataka.com",
       "tomshardware.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Nintendo removes over 400 Switch emulator repositories on GitHub via DMCA takedowns",
-    "summary": "The Japanese company intensifies its fight against piracy by removing emulation projects that use illegal cryptographic keys.",
+    "title": "DIGI doubles speed of its SMART fiber to 2 Gbps while keeping 20 euro price",
+    "summary": "The low-cost operator revolutionizes Spanish broadband market with a symmetric offer at no additional cost.",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "IBM presents at Hot Chips 2026 its first dual-ISA core running ARM and z/Architecture at 5.7 GHz",
-    "summary": "The 2 nm, 11-core mainframe processor enables native AI acceleration on the same architecture.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
+      "bandaancha.eu"
     ],
     "count": 2
   },
   {
-    "title": "SK hynix advances HBM5 with hybrid bonding and extends MR-MUF for Nvidia's Rubin architecture",
-    "summary": "High-bandwidth memory reaches the 775-micron limit and prepares for next-generation AI GPUs.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel details Xe3P 'Crescent Island' architecture with 32 cores and up to 480 GB of LPDDR5X memory",
-    "summary": "The new data center GPU includes 350 W PCIe variants and targets AI and HPC workloads.",
-    "source": [
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Xeon 7 'Diamond Rapids' arrives with 256 P-cores, 1.28 GB cache, and 18A-P process",
-    "summary": "The next-generation CPU incorporates AVX 10.2 and uses UCIe-S for chiplet interconnect.",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A gaming PC with RTX 5090 costs less than the graphics card alone thanks to a $2,200 discount",
-    "summary": "The HP Omen Max 45L with 64 GB DDR5 and 2 TB SSD sells for $4,799, below the standalone GPU price.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nvidia negotiates investment in Perplexity AI valued at over $30 billion to compete with Google and OpenAI",
-    "summary": "The GPU maker seeks to strengthen its position in generative search and AI assistants through a strategic stake.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Raptor 3D-DRAM combines 32 GB capacity with over 100 TB/s bandwidth",
-    "summary": "The new 3D-stacked memory promises unprecedented performance for AI and high-performance computing applications.",
-    "source": [
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 11 introduces unified memory controls to reserve RAM for GPU and AI models",
-    "summary": "The update prepares the system for upcoming NPU PCs and RTX Spark cards, allowing dynamic shared memory allocation.",
+    "title": "Lenovo admits BIOS update bricks Legion Go console",
+    "summary": "The company acknowledges the flaw after weeks of complaints and assures it is not user error.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -117,10 +82,28 @@
     "count": 2
   },
   {
-    "title": "Intel's Core Ultra 7 270K and Core i7-14700K enter Amazon's top 10 best-selling CPUs, breaking AMD's dominance",
-    "summary": "Two Intel processors manage to place among the best-sellers for the first time in months, according to store data.",
+    "title": "Intel reveals 256-core Xeon 7 'Diamond Rapids' with 1.28 GB cache",
+    "summary": "The server processor uses 16 chiplets and memory at 12,800 MT/s for AI workloads.",
     "source": [
       "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple reverses domain change in Hide My Email and keeps iCloud aliases",
+    "summary": "The company cancels migration to proprietary domains following criticism from privacy-concerned users.",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "China plans to reduce its advanced chip deficit from 92% to 34% in a few years",
+    "summary": "The Asian country accelerates its semiconductor self-sufficiency while restricting exports of critical materials to Taiwan.",
+    "source": [
+      "xataka.com",
       "tomshardware.com"
     ],
     "count": 2
