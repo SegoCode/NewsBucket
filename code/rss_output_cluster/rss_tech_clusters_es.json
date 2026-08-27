@@ -1,110 +1,173 @@
 [
   {
-    "title": "Apple lanza los chips M6 y M5 Ultra en los nuevos Mac mini y Mac Studio",
-    "summary": "Los nuevos procesadores de Apple prometen ejecutar modelos de IA en local con un rendimiento sin precedentes.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "techcrunch.com",
-      "videocardz.com",
-      "tomshardware.com",
-      "news.ycombinator.com",
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 7
-  },
-  {
-    "title": "ASUS presenta la ROG Xbox Ally X20, una consola portátil con pantalla OLED y joysticks TMR",
-    "summary": "El dispositivo híbrido entre PC y consola llega a España por 1.399 euros con opción de gafas de realidad aumentada.",
+    "title": "Xbox permite convertir juegos físicos en digitales sin recompra, nueva función disc-to-digital",
+    "summary": "Microsoft lanza una característica que transforma discos de Xbox en licencias digitales compatibles con Play Anywhere y juego en la nube.",
     "source": [
       "hardzone.es",
+      "xataka.com",
       "elchapuzasinformatico.com",
       "videocardz.com",
-      "tomshardware.com",
-      "xataka.com"
+      "tomshardware.com"
     ],
     "count": 5
   },
   {
-    "title": "OpenAI presenta su chip Jalapeño, superando a las GPU de Nvidia en inferencia de IA",
-    "summary": "El primer ASIC personalizado de OpenAI ofrece 1,9 veces más rendimiento por vatio y 3,6 veces menos latencia que la competencia.",
+    "title": "Nvidia adquiere Hugging Face por 13.000 millones de dólares para reforzar su ecosistema de IA abierta",
+    "summary": "El gigante de chips cierra la compra de la plataforma de modelos abiertos más grande, acelerando la carrera por la infraestructura de IA generativa.",
     "source": [
-      "tomshardware.com",
       "the-decoder.com",
       "techcrunch.com",
       "news.ycombinator.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "NVIDIA libera DLSS 4.5 Ray Reconstruction para todas las GPU GeForce RTX",
-    "summary": "La tecnología mejora la calidad del trazado de rayos sin penalizar el rendimiento en toda la gama RTX.",
+    "title": "OpenAI confirma brecha de seguridad en Hugging Face y publica informe oficial del incidente",
+    "summary": "La plataforma de modelos abiertos sufrió un acceso no autorizado a secretos de autenticación, exponiendo riesgos en la cadena de suministro de IA.",
     "source": [
+      "wired.com",
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Rockstar rompe su silencio tras la filtración masiva de GTA VI: 'desgarrador para el equipo'",
+    "summary": "El estudio condena la publicación de gameplay inédito y persigue al responsable mientras la comunidad analiza los detalles revelados.",
+    "source": [
+      "xataka.com",
       "videocardz.com",
-      "elchapuzasinformatico.com"
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Centros de datos de IA disparan el consumo de agua y energía, generando conflictos regulatorios y vecinales",
+    "summary": "EE. UU. y Europa enfrentan la tensión entre la expansión de infraestructura de IA y la sostenibilidad hídrica y eléctrica.",
+    "source": [
+      "xataka.com",
+      "wired.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Fuga de ejecutivos en OpenAI y promesas de AGI para 2026 avivan el debate sobre la seguridad de la IA",
+    "summary": "Salidas de alto nivel y declaraciones de Altman y Gates marcan una etapa de turbulencia y expectativas extremas en la industria.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic cierra acuerdos por 45.000 millones y vislumbra una oportunidad de mercado de 30 billones antes de su salida a bolsa",
+    "summary": "La startup de IA refuerza su infraestructura con Nscale y unifica memoria en Claude, consolidándose como rival directo de OpenAI.",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia fabrica chips entre EE. UU. y Taiwán mientras Amazon triplica pedidos y surgen irregularidades en la cadena de suministro",
+    "summary": "La demanda desbordada de GPUs para IA tensiona la logística global y expone desvíos de servidores a destinos no autorizados.",
+    "source": [
+      "xataka.com",
+      "techcrunch.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Meta paga 18.000 millones para cerrar demandas por impacto en adolescentes, pero la verificación de edad sigue fallando",
+    "summary": "El acuerdo con 33 estados impone cambios en el acceso de menores, aunque la tecnología de verificación de edad no está lista.",
+    "source": [
+      "techcrunch.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "X envía una orden de cese a Nitter y XCancel por supuesta extracción de datos",
-    "summary": "La red social de Elon Musk exige el cierre de los clientes alternativos de código abierto que permiten ver tuits sin cuenta.",
+    "title": "EE. UU. incauta dominios de una botnet china que infiltró la NASA, el Senado y la Reserva Federal",
+    "summary": "El FBI y el Departamento de Justicia desmantelan infraestructura de espionaje vinculada al estado chino tras años de operaciones.",
     "source": [
       "techcrunch.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI bloquea cuentas rusas que operaban una falsa think tank israelí para influencia prorrusa y robo de papers",
+    "summary": "La operación usaba VPNs para suplantar identidades y alimentar narrativas del Kremlin, según el informe de seguridad de OpenAI.",
+    "source": [
+      "tomshardware.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El emulador RPCS3 logra sincronizar trofeos de PS3 en la nube, un hito para la preservación digital",
+    "summary": "La versión PC de la consola de Sony ya puede conectar con los servidores de PlayStation Network para desbloquear logros.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple fija su keynote de septiembre para el día 9, con expectativas sobre el primer iPhone plegable",
+    "summary": "La cita anual llega con rumores de un dispositivo plegable, nuevos Apple Watch y la integración profunda de Apple Intelligence.",
+    "source": [
+      "techcrunch.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "CISA añade seis vulnerabilidades explotadas activamente a su catálogo, incluyendo fallos en NetScaler, Linux y SQL Server",
+    "summary": "La agencia estadounidense insta a parchear inmediatamente mientras confirma que más de 100 sistemas de agua fueron atacados en julio.",
+    "source": [
+      "thehackernews.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Razer lanza periféricos translúcidos verdes de edición limitada por el 25 aniversario de Xbox",
+    "summary": "Ratón, teclado y auriculares con estética retro celebran el cuarto de siglo de la consola de Microsoft.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xbox presenta una Series X especial por su 25 aniversario con diseño único y Halo: Campaign Evolved incluido",
+    "summary": "La consola de 900 euros conmemora la historia de la marca con acabados exclusivos y el juego clásico remasterizado.",
+    "source": [
+      "xataka.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Alibaba lanza Qwen3.8-Flash-Next, un modelo de IA optimizado para máxima eficiencia de coste",
+    "summary": "La nueva versión promete rendimiento competitivo con una fracción del gasto computacional, apuntando a despliegue masivo.",
+    "source": [
+      "producthunt.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Zhipu AI publica GLM-5.3-Flash, un modelo rápido y eficiente para tareas de razonamiento y generación",
+    "summary": "La startup china refuerza su catálogo de código abierto con una versión ligera orientada a baja latencia y alto throughput.",
+    "source": [
+      "producthunt.com",
       "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AliExpress usa sonidos ultrasónicos para rastrear usuarios y afectar auriculares Bluetooth",
-    "summary": "La plataforma china emplea audio inaudible para crear huellas digitales de los dispositivos de los compradores.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DIGI duplica la velocidad de su fibra SMART a 2 Gbps manteniendo el precio de 20 euros",
-    "summary": "El operador low cost revoluciona el mercado español de banda ancha con una oferta simétrica sin coste adicional.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lenovo admite que la actualización de BIOS inutiliza la consola Legion Go",
-    "summary": "La compañía reconoce el fallo tras semanas de quejas y asegura que no es error del usuario.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel revela Xeon 7 'Diamond Rapids' de 256 núcleos con 1,28 GB de caché",
-    "summary": "El procesador para servidores usa 16 chiplets y memoria a 12.800 MT/s para cargas de trabajo de IA.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple revierte el cambio de dominio en Hide My Email y mantiene los alias de iCloud",
-    "summary": "La compañía cancela la migración a dominios propios tras las críticas de los usuarios preocupados por la privacidad.",
-    "source": [
-      "techcrunch.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China planea reducir su déficit de chips avanzados del 92% al 34% en pocos años",
-    "summary": "El país asiático acelera su autosuficiencia semiconductora mientras restringe exportaciones de materiales críticos a Taiwán.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
     ],
     "count": 2
   }
