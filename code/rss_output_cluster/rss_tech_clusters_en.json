@@ -1,110 +1,173 @@
 [
   {
-    "title": "Apple launches M6 and M5 Ultra chips in new Mac mini and Mac Studio",
-    "summary": "Apple's new processors promise to run AI models locally with unprecedented performance.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "techcrunch.com",
-      "videocardz.com",
-      "tomshardware.com",
-      "news.ycombinator.com",
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 7
-  },
-  {
-    "title": "ASUS unveils ROG Xbox Ally X20, a handheld console with OLED screen and TMR joysticks",
-    "summary": "The hybrid PC-console device arrives in Spain for 1,399 euros with option for augmented reality glasses.",
+    "title": "Xbox allows converting physical games to digital without repurchase, new disc-to-digital feature",
+    "summary": "Microsoft launches a feature that transforms Xbox discs into digital licenses compatible with Play Anywhere and cloud gaming.",
     "source": [
       "hardzone.es",
+      "xataka.com",
       "elchapuzasinformatico.com",
       "videocardz.com",
-      "tomshardware.com",
-      "xataka.com"
+      "tomshardware.com"
     ],
     "count": 5
   },
   {
-    "title": "OpenAI unveils its Jalapeño chip, surpassing Nvidia GPUs in AI inference",
-    "summary": "OpenAI's first custom ASIC offers 1.9x more performance per watt and 3.6x less latency than the competition.",
+    "title": "Nvidia acquires Hugging Face for $13 billion to strengthen its open AI ecosystem",
+    "summary": "The chip giant closes the purchase of the largest open model platform, accelerating the race for generative AI infrastructure.",
     "source": [
-      "tomshardware.com",
       "the-decoder.com",
       "techcrunch.com",
       "news.ycombinator.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "NVIDIA releases DLSS 4.5 Ray Reconstruction for all GeForce RTX GPUs",
-    "summary": "The technology improves ray tracing quality without penalizing performance across the entire RTX lineup.",
+    "title": "OpenAI confirms security breach at Hugging Face and publishes official incident report",
+    "summary": "The open model platform suffered unauthorized access to authentication secrets, exposing risks in the AI supply chain.",
     "source": [
+      "wired.com",
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Rockstar breaks silence after massive GTA VI leak: 'heartbreaking for the team'",
+    "summary": "The studio condemns the release of unreleased gameplay and pursues the responsible party while the community analyzes the revealed details.",
+    "source": [
+      "xataka.com",
       "videocardz.com",
-      "elchapuzasinformatico.com"
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AI data centers spike water and energy consumption, generating regulatory and neighborhood conflicts",
+    "summary": "The U.S. and Europe face tension between AI infrastructure expansion and water and electrical sustainability.",
+    "source": [
+      "xataka.com",
+      "wired.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Executive exodus at OpenAI and AGI promises for 2026 fuel debate over AI safety",
+    "summary": "High-level departures and statements from Altman and Gates mark a period of turbulence and extreme expectations in the industry.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic closes $45 billion in deals and eyes $30 trillion market opportunity ahead of IPO",
+    "summary": "The AI startup bolsters infrastructure with Nscale and unifies memory in Claude, establishing itself as a direct rival to OpenAI.",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia manufactures chips between U.S. and Taiwan as Amazon triples orders and supply chain irregularities emerge",
+    "summary": "Overwhelming demand for AI GPUs strains global logistics and exposes server diversions to unauthorized destinations.",
+    "source": [
+      "xataka.com",
+      "techcrunch.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Meta pays $18 billion to settle lawsuits over teen impact, but age verification still failing",
+    "summary": "The settlement with 33 states imposes changes to minor access, though age verification technology is not ready.",
+    "source": [
+      "techcrunch.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "X sends cease-and-desist order to Nitter and XCancel over alleged data scraping",
-    "summary": "Elon Musk's social network demands shutdown of open-source alternative clients that allow viewing tweets without an account.",
+    "title": "U.S. seizes domains of Chinese botnet that infiltrated NASA, Senate, and Federal Reserve",
+    "summary": "The FBI and Department of Justice dismantle espionage infrastructure linked to the Chinese state after years of operations.",
     "source": [
       "techcrunch.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI blocks Russian accounts operating fake Israeli think tank for pro-Russian influence and paper theft",
+    "summary": "The operation used VPNs to impersonate identities and feed Kremlin narratives, according to OpenAI's security report.",
+    "source": [
+      "tomshardware.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "RPCS3 emulator achieves PS3 trophy sync in the cloud, a milestone for digital preservation",
+    "summary": "The PC version of Sony's console can now connect to PlayStation Network servers to unlock achievements.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple sets September keynote for the 9th, with expectations for first foldable iPhone",
+    "summary": "The annual event arrives with rumors of a foldable device, new Apple Watches, and deep integration of Apple Intelligence.",
+    "source": [
+      "techcrunch.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "CISA adds six actively exploited vulnerabilities to its catalog, including flaws in NetScaler, Linux, and SQL Server",
+    "summary": "The U.S. agency urges immediate patching while confirming over 100 water systems were attacked in July.",
+    "source": [
+      "thehackernews.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Razer launches limited-edition translucent green peripherals for Xbox's 25th anniversary",
+    "summary": "Mouse, keyboard, and headset with retro aesthetic celebrate the quarter-century of Microsoft's console.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xbox unveils special Series X for 25th anniversary with unique design and Halo: Campaign Evolved included",
+    "summary": "The 900-euro console commemorates the brand's history with exclusive finishes and the remastered classic game.",
+    "source": [
+      "xataka.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Alibaba launches Qwen3.8-Flash-Next, an AI model optimized for maximum cost efficiency",
+    "summary": "The new version promises competitive performance with a fraction of computational cost, targeting mass deployment.",
+    "source": [
+      "producthunt.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Zhipu AI releases GLM-5.3-Flash, a fast and efficient model for reasoning and generation tasks",
+    "summary": "The Chinese startup bolsters its open-source catalog with a lightweight version aimed at low latency and high throughput.",
+    "source": [
+      "producthunt.com",
       "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AliExpress uses ultrasonic sounds to track users and affect Bluetooth headphones",
-    "summary": "The Chinese platform employs inaudible audio to create digital fingerprints of shoppers' devices.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DIGI doubles speed of its SMART fiber to 2 Gbps while keeping 20 euro price",
-    "summary": "The low-cost operator revolutionizes Spanish broadband market with a symmetric offer at no additional cost.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lenovo admits BIOS update bricks Legion Go console",
-    "summary": "The company acknowledges the flaw after weeks of complaints and assures it is not user error.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel reveals 256-core Xeon 7 'Diamond Rapids' with 1.28 GB cache",
-    "summary": "The server processor uses 16 chiplets and memory at 12,800 MT/s for AI workloads.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple reverses domain change in Hide My Email and keeps iCloud aliases",
-    "summary": "The company cancels migration to proprietary domains following criticism from privacy-concerned users.",
-    "source": [
-      "techcrunch.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China plans to reduce its advanced chip deficit from 92% to 34% in a few years",
-    "summary": "The Asian country accelerates its semiconductor self-sufficiency while restricting exports of critical materials to Taiwan.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
     ],
     "count": 2
   }

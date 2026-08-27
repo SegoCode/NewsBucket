@@ -1,110 +1,173 @@
 [
   {
-    "title": "Apple、新型Mac miniとMac StudioにM6およびM5 Ultraチップを搭載",
-    "summary": "Appleの新プロセッサーは、AIモデルをローカルで実行し、前例のないパフォーマンスを提供することを約束する。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "techcrunch.com",
-      "videocardz.com",
-      "tomshardware.com",
-      "news.ycombinator.com",
-      "xataka.com",
-      "kite.kagi.com"
-    ],
-    "count": 7
-  },
-  {
-    "title": "ASUS、ROG Xbox Ally X20を発表、OLED画面とTMRジョイスティック搭載の携帯型コンソール",
-    "summary": "PCとコンソールのハイブリッドデバイスがスペインで1,399ユーロで発売、ARグラスのオプション付き。",
+    "title": "Xbox、物理ゲームを再購入なしでデジタル化可能に、新機能「ディスク・トゥ・デジタル」",
+    "summary": "マイクロソフト、XboxディスクをPlay Anywhereおよびクラウドゲーム対応のデジタルライセンスに変換する機能を提供開始",
     "source": [
       "hardzone.es",
+      "xataka.com",
       "elchapuzasinformatico.com",
       "videocardz.com",
-      "tomshardware.com",
-      "xataka.com"
+      "tomshardware.com"
     ],
     "count": 5
   },
   {
-    "title": "OpenAI、チップ「Jalapeño」を発表、AI推論でNvidia GPUを上回る",
-    "summary": "OpenAI初のカスタムASICは、競合比でワットあたり性能1.9倍、レイテンシ3.6分の1を実現。",
+    "title": "Nvidia、Hugging Faceを130億ドルで買収しオープンAIエコシステムを強化",
+    "summary": "チップ大手が最大のオープンモデルプラットフォームの買収を完了、生成AIインフラ競争を加速",
     "source": [
-      "tomshardware.com",
       "the-decoder.com",
       "techcrunch.com",
       "news.ycombinator.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "NVIDIA、全GeForce RTX GPU向けにDLSS 4.5 Ray Reconstructionを公開",
-    "summary": "この技術は、RTXシリーズ全体でパフォーマンスを犠牲にすることなくレイトレーシング品質を向上させる。",
+    "title": "OpenAI、Hugging Faceのセキュリティ侵害を確認し公式インシデント報告を公開",
+    "summary": "オープンモデルプラットフォームが認証シークレットへの不正アクセスを受け、AIサプライチェーンのリスクが露見",
     "source": [
+      "wired.com",
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Rockstar、GTA VI大量流出後に沈黙を破る：「チームにとって心が裂ける思い」",
+    "summary": "スタジオが未公開ゲームプレイの公開を非難、責任者を追及する中、コミュニティが明らかになった詳細を分析",
+    "source": [
+      "xataka.com",
       "videocardz.com",
-      "elchapuzasinformatico.com"
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AIデータセンターが水とエネルギー消費を急増、規制・住民との対立を引き起こす",
+    "summary": "米国と欧州、AIインフラ拡大と水・電力の持続可能性の間で緊張に直面",
+    "source": [
+      "xataka.com",
+      "wired.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAIで幹部相次ぐ流出と2026年AGI実現の公約、AI安全性議論を加熱",
+    "summary": "上級幹部の離脱とアルトマン氏・ゲイツ氏の発言が、業界に混乱と極端な期待をもたらす",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic、450億ドルの契約締結と30兆ドル市場機会を視野にIPOへ",
+    "summary": "AIスタートアップがNscaleでインフラ強化、Claudeでメモリ統合しOpenAIの直接のライバルに",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia、米国と台湾でチップ生産、Amazonが発注3倍に、サプライチェーンに不正も",
+    "summary": "AI向けGPU需要の爆発がグローバル物流を圧迫、サーバーの無許可転用が発覚",
+    "source": [
+      "xataka.com",
+      "techcrunch.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Meta、ティーンへの影響訴訟で180億ドル支払い和解も年齢確認技術は未完成",
+    "summary": "33州との和解で未成年アクセス変更を義務化、しかし年齢確認技術はまだ準備できず",
+    "source": [
+      "techcrunch.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "X、NitterとXCancelにデータ抽出の疑いで停止命令を送付",
-    "summary": "イーロン・マスク氏のSNSは、アカウントなしでツイートを閲覧できるオープンソースの代替クライアントの閉鎖を要求。",
+    "title": "米国、NASA・上院・連邦準備制度に侵入した中国ボットネットのドメインを押収",
+    "summary": "FBIと司法省が中国国家関与のスパイインフラを数年の作戦 끝에解体",
     "source": [
       "techcrunch.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、親ロシア工作と論文窃取を行った偽イスラエル系シンクタンクのロシアアカウントを遮断",
+    "summary": "OpenAIのセキュリティ報告によると、VPNでなりすまし、クレムリンのナラティブを拡散",
+    "source": [
+      "tomshardware.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "PS3エミュレータRPCS3、クラウドでトロフィー同期を実現、デジタル保存のマイルストーンに",
+    "summary": "PC版PS3エミュレータがPlayStation Networkサーバーに接続し、実績解除が可能に",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple、9月9日に基調講演開催、初の折りたたみiPhoneへの期待高まる",
+    "summary": "年次イベントに折りたたみデバイス、新Apple Watch、Apple Intelligenceの深い統合の噂",
+    "source": [
+      "techcrunch.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "CISA、積極的に悪用されている6つの脆弱性をカタログに追加、NetScaler、Linux、SQL Serverの欠陥含む",
+    "summary": "米機関が即時パッチ適用を要請、7月に100以上の水道システムが攻撃されたことを確認",
+    "source": [
+      "thehackernews.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Razer、Xbox 25周年記念で緑の半透明限定版周辺機器を発売",
+    "summary": "レトロ美学のマウス、キーボード、ヘッドセットがマイクロソフトのコンソール四半世紀を祝う",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xbox、25周年記念の特別版Series Xを発表、独自デザインと『Halo: Campaign Evolved』同梱",
+    "summary": "900ユーロのコンソールがブランドの歴史を記念、限定仕上げとクラシックゲームのリマスター版を同梱",
+    "source": [
+      "xataka.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Alibaba、コスト効率を極限まで高めたAIモデル「Qwen3.8-Flash-Next」をリリース",
+    "summary": "新バージョンは計算コストの一部で競争力のある性能を約束、大規模展開を目指す",
+    "source": [
+      "producthunt.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Zhipu AI、推論・生成タスク向けの高速・効率モデル「GLM-5.3-Flash」を公開",
+    "summary": "中国のスタートアップがオープンソースカタログを強化、低レイテンシ・高スループット向けの軽量版",
+    "source": [
+      "producthunt.com",
       "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AliExpress、超音波を使用してユーザーを追跡しBluetoothイヤホンに影響",
-    "summary": "中国のプラットフォームは、人間には聞こえない音声を使用して購入者のデバイスのフィンガープリントを作成。",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DIGI、SMART光ファイバーの速度を2Gbpsに倍増、価格は20ユーロ維持",
-    "summary": "格安事業者が、追加コストなしの対称プランでスペインのブロードバンド市場に革命をもたらす。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lenovo、BIOSアップデートでLegion Goが使用不能になることを認める",
-    "summary": "同社は数週間の苦情の末に欠陥を認め、ユーザーの過失ではないと断言。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel、256コア・1.28GBキャッシュのXeon 7「Diamond Rapids」を発表",
-    "summary": "サーバー向けプロセッサーは16チップレットと12,800 MT/sメモリを使用し、AIワークロードに対応。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple、Hide My Emailのドメイン変更を撤回しiCloudエイリアスを維持",
-    "summary": "同社は、プライバシーを懸念するユーザーの批判を受け、独自ドメインへの移行を中止。",
-    "source": [
-      "techcrunch.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国、先進チップの不足率を数年で92%から34%に削減へ",
-    "summary": "アジア諸国は半導体の自給自足を加速させながら、台湾への重要材料輸出を制限。",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
     ],
     "count": 2
   }
