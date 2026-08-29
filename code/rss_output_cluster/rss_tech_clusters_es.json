@@ -1,77 +1,73 @@
 [
   {
-    "title": "Samsung presenta su nueva gama Odyssey con paneles QD-OLED y frecuencias de hasta 1.100 Hz",
-    "summary": "La línea 2027 incluye monitores IPS a 1.100 Hz y QD-OLED a 720 Hz, marcando un nuevo estándar en velocidad para gaming.",
+    "title": "NVIDIA DLSS 5 llega a más de una docena de juegos con resultados visuales impresionantes pero penalizando el rendimiento",
+    "summary": "La tecnología de escalado experimental de NVIDIA se filtra y funciona en títulos como Cyberpunk 2077 y Control, aunque reduce a la mitad los FPS y presenta fugas de VRAM.",
     "source": [
-      "xataka.com",
-      "tomshardware.com",
+      "elchapuzasinformatico.com",
       "videocardz.com",
+      "tomshardware.com",
       "hardzone.es"
     ],
     "count": 4
   },
   {
-    "title": "Nvidia acuerda la compra de Hugging Face por 12.900 millones de dólares para controlar el mayor repositorio de modelos de IA abiertos",
-    "summary": "El fabricante de chips amplía su estrategia en IA abierta adquiriendo la plataforma líder de modelos y datasets colaborativos.",
+    "title": "Anthropic busca su propio chip de IA y Nvidia negocia comprar Hugging Face mientras las startups open-weight son objetivo de adquisición",
+    "summary": "Las grandes empresas de IA compiten por reducir su dependencia de Nvidia y asegurar talento, con Anthropic desarrollando hardware propio y Nvidia interesada en adquirir Hugging Face por 12.900 millones.",
     "source": [
+      "xataka.com",
       "alternativeto.net",
-      "tomshardware.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Rockstar confirma que GTA 6 tendrá la historia más larga de la saga y desvela 69 novedades sobre crímenes, decisiones y mundo dinámico",
+    "summary": "Nuevos detalles revelan que las acciones del jugador influirán en la narrativa y el mundo abierto, con mejoras en combate, conducción y minijuegos.",
+    "source": [
+      "hardzone.es",
       "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Rockstar muestra 27 minutos de gameplay de GTA 6 en PS5 con nuevas interacciones y mejoras en combate y conducción",
-    "summary": "El vídeo revela una ambición sin precedentes en detalle de mundo abierto, minijuegos y física, aunque se nota cierta falta de fluidez.",
+    "title": "Cloud Imperium Games retrasa Squadron 42 a 2027 para evitar competir con el lanzamiento de GTA 6",
+    "summary": "El modo campaña de Star Citizen pospone su lanzamiento al segundo trimestre de 2027 alegando razones estratégicas frente al esperado GTA VI.",
     "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "xataka.com"
+      "videocardz.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Google lanza Gemini 3.5 Transcribe, un modelo de reconocimiento de voz multilingüe que corrige errores al dictar",
-    "summary": "La nueva API transcribe 85 idiomas en tiempo real y corrige automáticamente tartamudeos y repeticiones.",
+    "title": "Google limita el uso de RAM en aplicaciones de Android para aliviar la crisis de memoria impulsada por la IA",
+    "summary": "Los desarrolladores tienen hasta febrero de 2027 para adaptarse a las nuevas reglas de optimización de memoria en Android 17, beneficiando a la gama baja.",
     "source": [
-      "alternativeto.net",
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "xataka.com",
+      "tomshardware.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Google presenta Gemini Omni 1.1 Flash: generación de vídeo por IA más barata y flexible",
-    "summary": "El modelo reduce costes y latencia en la creación de vídeo sintético, abriendo la puerta a aplicaciones masivas.",
+    "title": "Android 17 activa ECH de forma nativa para ocultar visitas web a proveedores de red, mientras Google lo habilita por defecto",
+    "summary": "El cifrado del Client Hello (ECH) llega a nivel de sistema operativo para mejorar la privacidad, aunque podría aumentar los bloqueos por IP como respuesta.",
     "source": [
-      "producthunt.com",
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "thehackernews.com",
+      "bandaancha.eu"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Hugging Face lanza Microduck, un robot pato de código abierto por 399 dólares para experimentar con IA física",
-    "summary": "El dispositivo integra sensores, actuadores y modelos de visión para que desarrolladores creen agentes encarnados.",
+    "title": "Investigadores hallan implantes de vigilancia en routers chinos ZBT y otros modelos vendidos globalmente, dando acceso root sin autenticación",
+    "summary": "Tres backdoors diferentes en el firmware de routers fabricados en China permiten a atacantes tomar control total de los dispositivos.",
     "source": [
-      "techcrunch.com",
-      "producthunt.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Detenidos en Australia dos presuntos miembros de TeamPCP por hackear la cadena de suministro de Mercor, OpenAI y otras empresas",
-    "summary": "La operación policial vincula al grupo con ataques a proveedores de talento y plataformas de IA, robando credenciales y código.",
-    "source": [
-      "techcrunch.com",
+      "tomshardware.com",
       "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "Bill Gates propone gravar los tokens de IA y los robots para financiar empleos reservados a humanos",
-    "summary": "El fundador de Microsoft advierte de un caos laboral inminente y sugiere impuestos a la automatización como red de seguridad.",
+    "title": "YMTC aspira a convertirse en el mayor fabricante mundial de memoria NAND para 2027 desafiando a Samsung y SK hynix",
+    "summary": "El gigante chino de semiconductores planea dominar el mercado de almacenamiento flash con agresivas inversiones y avances tecnológicos.",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com"
@@ -79,35 +75,17 @@
     "count": 2
   },
   {
-    "title": "AMD confirma sus próximos procesadores Zen 6: Olympic Ridge para gaming y Medusa como APU, ambos en socket AM5",
-    "summary": "La filtración oficial revela arquitectura de núcleos híbridos y gráficos integrados RDNA 3.5 para 2026.",
+    "title": "MSI lanza portátil gaming Katana 15 HX con memoria DDR4 y RTX 5070 en plena crisis de DRAM",
+    "summary": "El fabricante recurre a DDR4 para abaratar costes en su nuevo modelo con procesador Core i9-14900HX, disponible en 2026.",
     "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Modders desbloquean DLSS 5 experimental horas después de descubrir sus archivos en NBA 2K7 y lo prueban en Control",
-    "summary": "La nueva versión de escalado de Nvidia aparece en un juego no anunciado y la comunidad logra activarla en títulos actuales.",
-    "source": [
-      "hardzone.es",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft permitirá apagar, reiniciar y actualizar un PC con Windows 11 desde un móvil Android",
-    "summary": "La función, ya en pruebas, usa la app Vincular con Windows para gestionar el encendido remoto del equipo.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Un modder crea una 'PlayStation 3 Pro' con overclock y refrigeración Noctua que mejora el rendimiento en casi todos los juegos",
-    "summary": "La revisión v3 usa disipadores de servidor y ventiladores de 120 mm para estabilizar la consola a frecuencias más altas.",
+    "title": "SK hynix prolonga la escasez de memoria hasta 2030 y comienza la construcción de su primera planta de HBM en EE. UU.",
+    "summary": "El fabricante coreano advierte que la alta demanda de memoria de alto ancho de banda para IA mantendrá el mercado tensionado, mientras inicia producción en Indiana para 2029.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com"
@@ -115,11 +93,47 @@
     "count": 2
   },
   {
-    "title": "OpenAI, Anthropic, Google y más de 100 empresas firman una carta abierta alertando de ciberataques inminentes con IA contra infraestructuras críticas",
-    "summary": "La coalición pide a gobiernos y sector privado coordinar defensas ante el uso ofensivo de agentes autónomos.",
+    "title": "Tribunal de EE. UU. declara ilegal la inclusión de Anthropic en la lista negra del Pentágono por riesgo en la cadena de suministro",
+    "summary": "Anthropic logra su primera victoria judicial contra el Departamento de Defensa, que había etiquetado a la empresa como riesgo de seguridad sin base legal suficiente.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta sufre una dura derrota judicial y pierde a un ejecutivo clave que ficha por OpenAI mientras crece el escrutinio en India",
+    "summary": "La matriz de Facebook enfrenta reveses legales históricos y fuga de talento directivo en medio de presiones regulatorias internacionales.",
+    "source": [
+      "xataka.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Zhipu AI lanza GLM-5.3 como modelo open-weight y presenta GLM-5.3-Flash con arquitectura híbrida y mayor eficiencia",
+    "summary": "La startup china libera su nuevo modelo de lenguaje grande y una versión optimizada para inferencia rápida, compitiendo en el ecosistema abierto.",
+    "source": [
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google DeepMind presenta un 'co-científico' de IA que planifica experimentos, maneja equipos de laboratorio y redacta artículos científicos",
+    "summary": "Nuevos sistemas multiagente logran descubrimientos matemáticos autónomos y asistencia integral en investigación, acercando la IA a la práctica científica real.",
     "source": [
       "the-decoder.com",
-      "techcrunch.com"
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bill Gates y líderes de OpenAI, Anthropic y Google advierten del caos laboral por la IA: proponen reservar empleos a humanos y gravar robots",
+    "summary": "Mientras la IA ya libera tres horas semanales a trabajadores, los magnates tecnológicos piden regulación fiscal y protección de empleos humanos ante la automatización masiva.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   }
