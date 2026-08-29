@@ -1,77 +1,73 @@
 [
   {
-    "title": "サムスン、QD-OLEDパネルと最大1,100Hzのリフレッシュレートを備えた新しいOdysseyシリーズを発表",
-    "summary": "2027年ラインアップには1,100HzのIPSモニターと720HzのQD-OLEDモニターが含まれ、ゲーミングの速度における新たな基準を打ち立てる。",
+    "title": "NVIDIA DLSS 5が10数本のゲームに対応、視覚的成果は印象的だがパフォーマンスを犠牲に",
+    "summary": "NVIDIAの実験的なアップスケーリング技術が流出し、『Cyberpunk 2077』や『Control』などのタイトルで動作するが、FPSを半減させ、VRAMリークが発生する。",
     "source": [
-      "xataka.com",
-      "tomshardware.com",
+      "elchapuzasinformatico.com",
       "videocardz.com",
+      "tomshardware.com",
       "hardzone.es"
     ],
     "count": 4
   },
   {
-    "title": "Nvidia、Hugging Faceを129億ドルで買収し、最大のオープンAIモデルリポジトリを掌握へ",
-    "summary": "チップメーカーが、モデルとデータセットの協働プラットフォームのリーダーを買収し、オープンAI戦略を拡大。",
+    "title": "Anthropicが独自AIチップを模索、NvidiaがHugging Face買収を交渉、オープンウェイト系スタートアップが買収ターゲットに",
+    "summary": "大手AI企業がNvidiaへの依存度低減と人材確保で競争、Anthropicは自社ハードウェア開発、NvidiaはHugging Faceを129億ドルで買収に関心。",
     "source": [
+      "xataka.com",
       "alternativeto.net",
-      "tomshardware.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "RockstarがGTA 6でシリーズ最長のストーリーを確認、犯罪・決断・動的世界に関する69の新情報を公開",
+    "summary": "プレイヤーの行動が物語とオープンワールドに影響を与えることが判明、戦闘、運転、ミニゲームも改善。",
+    "source": [
+      "hardzone.es",
       "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Rockstar、PS5版『GTA 6』の27分間のゲームプレイ映像を公開、新たなインタラクションと戦闘・運転の改善を披露",
-    "summary": "映像はオープンワールドのディテール、ミニゲーム、物理演算における前例のない野心を明らかにするが、若干の流れの悪さも見られる。",
+    "title": "Cloud Imperium GamesがSquadron 42を2027年に延期、GTA 6発売との競合回避のため",
+    "summary": "『Star Citizen』のキャンペーンモードが発売を2027年第2四半期に延期、戦略的理由として期待されるGTA VIを挙げる。",
     "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "xataka.com"
+      "videocardz.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Google、多言語音声認識モデル「Gemini 3.5 Transcribe」をリリース、ディクテーション時の誤りを自動修正",
-    "summary": "新APIは85言語をリアルタイムで書き起こし、吃音や繰り返しを自動的に修正する。",
+    "title": "GoogleがAndroidアプリのRAM使用量を制限、AI主導のメモリ危機を緩和へ",
+    "summary": "開発者は2027年2月までにAndroid 17の新しいメモリ最適化ルールへの対応が必要、ローエンド機種に恩恵。",
     "source": [
-      "alternativeto.net",
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "xataka.com",
+      "tomshardware.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Google、「Gemini Omni 1.1 Flash」を発表：AI動画生成がより安価かつ柔軟に",
-    "summary": "このモデルは合成動画作成のコストとレイテンシを削減し、大規模アプリケーションへの道を開く。",
+    "title": "Android 17がECHをネイティブで有効化、ネットワークプロバイダーからWeb訪問を隠蔽、Googleがデフォルトで有効化",
+    "summary": "暗号化Client Hello（ECH）がOSレベルで導入されプライバシー向上、ただしIPベースのブロック増加の懸念も。",
     "source": [
-      "producthunt.com",
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "thehackernews.com",
+      "bandaancha.eu"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Hugging Face、オープンソースのアヒル型ロボット「Microduck」を399ドルで発売、フィジカルAIの実験向け",
-    "summary": "デバイスはセンサー、アクチュエータ、視覚モデルを統合し、開発者が身体性を持つエージェントを作成できるようにする。",
+    "title": "研究者が中国製ZBTルーターなど世界販売モデルに監視用インプラントを発見、認証なしでrootアクセス可能",
+    "summary": "中国製ルーターのファームウェアに3種類のバックドア、攻撃者がデバイスを完全制御可能。",
     "source": [
-      "techcrunch.com",
-      "producthunt.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "オーストラリアでTeamPCPの容疑者2名を逮捕、MercorやOpenAIなどのサプライチェーンをハッキングした疑い",
-    "summary": "警察の作戦により、同グループが人材プロバイダーとAIプラットフォームへの攻撃、認証情報とコードの窃取に関与していたことが判明。",
-    "source": [
-      "techcrunch.com",
+      "tomshardware.com",
       "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "ビル・ゲイツ、AIトークンとロボットへの課税を提案、人間専用の雇用を資金調達するため",
-    "summary": "マイクロソフト創業者は迫りくる労働市場の混乱を警告し、自動化税をセーフティネットとして提唱。",
+    "title": "YMTCが2027年までに世界最大のNANDメモリメーカーを目指し、SamsungとSK hynixに挑戦",
+    "summary": "中国の半導体大手が積極的投資と技術進歩でフラッシュストレージ市場の支配を計画。",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com"
@@ -79,35 +75,17 @@
     "count": 2
   },
   {
-    "title": "AMD、次世代Zen 6プロセッサを確認：ゲーミング向け「Olympic Ridge」とAPU「Medusa」、ともにソケットAM5対応",
-    "summary": "公式リークにより、ハイブリッドコアアーキテクチャと統合RDNA 3.5グラフィックスが2026年向けに明らかに。",
+    "title": "MSIがゲーミングノートKatana 15 HXを発売、DDR4メモリとRTX 5070搭載、DRAM不足の中",
+    "summary": "コスト削減のためDDR4を採用、Core i9-14900HX搭載の新モデル、2026年発売予定。",
     "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Modderたち、『NBA 2K7』で発見された実験的DLSS 5を数時間でアンロックし『Control』でテスト",
-    "summary": "Nvidiaの新しいアップスケーリングバージョンが未発表タイトルに出現、コミュニティが既存ゲームで有効化に成功。",
-    "source": [
-      "hardzone.es",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft、AndroidスマホからWindows 11 PCのシャットダウン、再起動、更新を可能に",
-    "summary": "テスト段階にあるこの機能は、「スマホ連携」アプリを使用してPCのリモート電源管理を行う。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ModderがオーバークロックとNoctuaクーリングを施した『PlayStation 3 Pro』を制作、ほぼすべてのゲームで性能向上",
-    "summary": "リビジョンv3ではサーバー用ヒートシンクと120mmファンを使用し、より高い周波数でコンソールを安定化。",
+    "title": "SK hynixがメモリ不足を2030年まで延長と予測、米国で初のHBM工場建設を開始",
+    "summary": "韓国メーカーがAI向け高帯域幅メモリの高需要で市場逼迫が続くと警告、インディアナ州で2029年稼働目指し生産開始。",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com"
@@ -115,11 +93,47 @@
     "count": 2
   },
   {
-    "title": "OpenAI、Anthropic、Googleなど100社以上が公開書簡に署名、AIによる重要インフラへのサイバー攻撃を警告",
-    "summary": "連合は、自律エージェントの攻撃的利用に備え、政府と民間セクターに防御の調整を求める。",
+    "title": "米裁判所がAnthropicの国防総省ブラックリスト掲載を違法と判断、サプライチェーンリスクを理由に",
+    "summary": "Anthropicが国防総省に対して初の法的勝利、同省が十分な法的根拠なしにセキュリティリスクとレッテルを貼っていた。",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Metaが法廷で大敗、幹部がOpenAIへ移籍、インドでの監視強化の中",
+    "summary": "Facebook親会社が歴史的な法的挫折と幹部流出に直面、国際的な規制圧力が高まる中。",
+    "source": [
+      "xataka.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Zhipu AIがGLM-5.3をオープンウェイトモデルとして公開、ハイブリッドアーキテクチャのGLM-5.3-Flashも発表",
+    "summary": "中国のスタートアップが新しい大規模言語モデルと高速推論向け最適化版をリリース、オープンエコシステムで競争。",
+    "source": [
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google DeepMindがAI『共同科学者』を発表、実験計画、ラボチーム管理、論文執筆を担当",
+    "summary": "新しいマルチエージェントシステムが自律的な数学的発見と包括的な研究支援を実現、AIを実際の科学実践に接近させる。",
     "source": [
       "the-decoder.com",
-      "techcrunch.com"
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ビル・ゲイツとOpenAI、Anthropic、GoogleのリーダーがAIによる労働混乱を警告、人間の雇用確保とロボット税を提案",
+    "summary": "AIがすでに労働者の週3時間を解放する中、テック大物たちが大量自動化に備え税制規制と人間の雇用保護を要求。",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   }

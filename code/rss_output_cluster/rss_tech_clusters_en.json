@@ -1,77 +1,73 @@
 [
   {
-    "title": "Samsung unveils its new Odyssey lineup with QD-OLED panels and refresh rates up to 1,100 Hz",
-    "summary": "The 2027 lineup includes IPS monitors at 1,100 Hz and QD-OLED at 720 Hz, setting a new speed standard for gaming.",
+    "title": "NVIDIA DLSS 5 arrives in over a dozen games with impressive visual results but penalizing performance",
+    "summary": "NVIDIA's experimental upscaling technology leaks and works in titles like Cyberpunk 2077 and Control, though it halves FPS and presents VRAM leaks.",
     "source": [
-      "xataka.com",
-      "tomshardware.com",
+      "elchapuzasinformatico.com",
       "videocardz.com",
+      "tomshardware.com",
       "hardzone.es"
     ],
     "count": 4
   },
   {
-    "title": "Nvidia agrees to acquire Hugging Face for $12.9 billion to control the largest repository of open AI models",
-    "summary": "The chipmaker expands its open AI strategy by acquiring the leading platform for collaborative models and datasets.",
+    "title": "Anthropic seeks its own AI chip and Nvidia negotiates to buy Hugging Face while open-weight startups become acquisition targets",
+    "summary": "Major AI companies compete to reduce their dependence on Nvidia and secure talent, with Anthropic developing its own hardware and Nvidia interested in acquiring Hugging Face for $12.9 billion.",
     "source": [
+      "xataka.com",
       "alternativeto.net",
-      "tomshardware.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Rockstar confirms GTA 6 will have the longest story in the saga and reveals 69 new details about crimes, decisions, and dynamic world",
+    "summary": "New details reveal that player actions will influence the narrative and open world, with improvements in combat, driving, and minigames.",
+    "source": [
+      "hardzone.es",
       "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Rockstar shows 27 minutes of GTA 6 gameplay on PS5 with new interactions and improvements in combat and driving",
-    "summary": "The video reveals unprecedented ambition in open-world detail, minigames, and physics, though a certain lack of fluidity is noticeable.",
+    "title": "Cloud Imperium Games delays Squadron 42 to 2027 to avoid competing with GTA 6 launch",
+    "summary": "Star Citizen's campaign mode postpones its release to Q2 2027 citing strategic reasons against the anticipated GTA VI.",
     "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "xataka.com"
+      "videocardz.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Google launches Gemini 3.5 Transcribe, a multilingual speech recognition model that corrects dictation errors",
-    "summary": "The new API transcribes 85 languages in real time and automatically corrects stutters and repetitions.",
+    "title": "Google limits RAM usage in Android apps to alleviate AI-driven memory crisis",
+    "summary": "Developers have until February 2027 to adapt to new memory optimization rules in Android 17, benefiting low-end devices.",
     "source": [
-      "alternativeto.net",
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "xataka.com",
+      "tomshardware.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Google introduces Gemini Omni 1.1 Flash: cheaper and more flexible AI video generation",
-    "summary": "The model reduces costs and latency in synthetic video creation, opening the door to mass applications.",
+    "title": "Android 17 enables ECH natively to hide web visits from network providers, while Google enables it by default",
+    "summary": "Encrypted Client Hello (ECH) arrives at the operating system level to improve privacy, though it could increase IP-based blocking as a response.",
     "source": [
-      "producthunt.com",
-      "news.ycombinator.com",
-      "the-decoder.com"
+      "thehackernews.com",
+      "bandaancha.eu"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Hugging Face launches Microduck, an open-source duck robot for $399 to experiment with physical AI",
-    "summary": "The device integrates sensors, actuators, and vision models so developers can create embodied agents.",
+    "title": "Researchers find surveillance implants in Chinese ZBT routers and other models sold globally, giving root access without authentication",
+    "summary": "Three different backdoors in the firmware of Chinese-made routers allow attackers to take full control of the devices.",
     "source": [
-      "techcrunch.com",
-      "producthunt.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Two alleged TeamPCP members arrested in Australia for hacking the supply chain of Mercor, OpenAI, and other companies",
-    "summary": "The police operation links the group to attacks on talent providers and AI platforms, stealing credentials and code.",
-    "source": [
-      "techcrunch.com",
+      "tomshardware.com",
       "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "Bill Gates proposes taxing AI tokens and robots to fund jobs reserved for humans",
-    "summary": "The Microsoft founder warns of imminent labor chaos and suggests automation taxes as a safety net.",
+    "title": "YMTC aims to become the world's largest NAND memory manufacturer by 2027 challenging Samsung and SK hynix",
+    "summary": "The Chinese semiconductor giant plans to dominate the flash storage market with aggressive investments and technological advances.",
     "source": [
       "elchapuzasinformatico.com",
       "xataka.com"
@@ -79,35 +75,17 @@
     "count": 2
   },
   {
-    "title": "AMD confirms its upcoming Zen 6 processors: Olympic Ridge for gaming and Medusa as APU, both on AM5 socket",
-    "summary": "The official leak reveals hybrid core architecture and integrated RDNA 3.5 graphics for 2026.",
+    "title": "MSI launches Katana 15 HX gaming laptop with DDR4 memory and RTX 5070 amid DRAM crisis",
+    "summary": "The manufacturer resorts to DDR4 to cut costs in its new model with Core i9-14900HX processor, available in 2026.",
     "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Modders unlock experimental DLSS 5 hours after discovering its files in NBA 2K7 and test it in Control",
-    "summary": "Nvidia's new upscaling version appears in an unannounced game and the community manages to activate it in current titles.",
-    "source": [
-      "hardzone.es",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft will allow shutting down, restarting, and updating a Windows 11 PC from an Android phone",
-    "summary": "The feature, already in testing, uses the Link to Windows app to manage remote power control of the computer.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A modder creates a 'PlayStation 3 Pro' with overclocking and Noctua cooling that improves performance in almost all games",
-    "summary": "The v3 revision uses server heatsinks and 120 mm fans to stabilize the console at higher frequencies.",
+    "title": "SK hynix extends memory shortage until 2030 and begins construction of its first HBM plant in the U.S.",
+    "summary": "The Korean manufacturer warns that high demand for high-bandwidth memory for AI will keep the market tight, while starting production in Indiana for 2029.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com"
@@ -115,11 +93,47 @@
     "count": 2
   },
   {
-    "title": "OpenAI, Anthropic, Google, and over 100 companies sign an open letter warning of imminent AI-powered cyberattacks against critical infrastructure",
-    "summary": "The coalition urges governments and the private sector to coordinate defenses against the offensive use of autonomous agents.",
+    "title": "U.S. court declares Anthropic's inclusion on Pentagon blacklist over supply chain risk illegal",
+    "summary": "Anthropic achieves its first legal victory against the Department of Defense, which had labeled the company a security risk without sufficient legal basis.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta suffers major legal defeat and loses key executive who joins OpenAI as scrutiny grows in India",
+    "summary": "Facebook's parent company faces historic legal setbacks and executive talent drain amid international regulatory pressures.",
+    "source": [
+      "xataka.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Zhipu AI launches GLM-5.3 as open-weight model and introduces GLM-5.3-Flash with hybrid architecture and greater efficiency",
+    "summary": "The Chinese startup releases its new large language model and a version optimized for fast inference, competing in the open ecosystem.",
+    "source": [
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google DeepMind presents an AI 'co-scientist' that plans experiments, manages lab equipment, and writes scientific papers",
+    "summary": "New multi-agent systems achieve autonomous mathematical discoveries and comprehensive research assistance, bringing AI closer to real scientific practice.",
     "source": [
       "the-decoder.com",
-      "techcrunch.com"
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bill Gates and leaders of OpenAI, Anthropic, and Google warn of labor chaos from AI: propose reserving jobs for humans and taxing robots",
+    "summary": "While AI already frees up three hours per week for workers, tech magnates call for tax regulation and protection of human jobs amid massive automation.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   }
