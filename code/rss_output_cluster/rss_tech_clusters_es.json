@@ -1,139 +1,28 @@
 [
   {
-    "title": "NVIDIA DLSS 5 llega a más de una docena de juegos con resultados visuales impresionantes pero penalizando el rendimiento",
-    "summary": "La tecnología de escalado experimental de NVIDIA se filtra y funciona en títulos como Cyberpunk 2077 y Control, aunque reduce a la mitad los FPS y presenta fugas de VRAM.",
+    "title": "Rockstar confirma que GTA 6 funcionará a 30 FPS en consolas sin modo rendimiento garantizado",
+    "summary": "El próximo Grand Theft Auto se limitará a 30 fotogramas por segundo en PS5 y Xbox Series X/S, sin promesa de un modo a 60 FPS ni siquiera en PS5 Pro.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Anthropic busca su propio chip de IA y Nvidia negocia comprar Hugging Face mientras las startups open-weight son objetivo de adquisición",
-    "summary": "Las grandes empresas de IA compiten por reducir su dependencia de Nvidia y asegurar talento, con Anthropic desarrollando hardware propio y Nvidia interesada en adquirir Hugging Face por 12.900 millones.",
-    "source": [
-      "xataka.com",
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Rockstar confirma que GTA 6 tendrá la historia más larga de la saga y desvela 69 novedades sobre crímenes, decisiones y mundo dinámico",
-    "summary": "Nuevos detalles revelan que las acciones del jugador influirán en la narrativa y el mundo abierto, con mejoras en combate, conducción y minijuegos.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Cloud Imperium Games retrasa Squadron 42 a 2027 para evitar competir con el lanzamiento de GTA 6",
-    "summary": "El modo campaña de Star Citizen pospone su lanzamiento al segundo trimestre de 2027 alegando razones estratégicas frente al esperado GTA VI.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google limita el uso de RAM en aplicaciones de Android para aliviar la crisis de memoria impulsada por la IA",
-    "summary": "Los desarrolladores tienen hasta febrero de 2027 para adaptarse a las nuevas reglas de optimización de memoria en Android 17, beneficiando a la gama baja.",
-    "source": [
-      "xataka.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Android 17 activa ECH de forma nativa para ocultar visitas web a proveedores de red, mientras Google lo habilita por defecto",
-    "summary": "El cifrado del Client Hello (ECH) llega a nivel de sistema operativo para mejorar la privacidad, aunque podría aumentar los bloqueos por IP como respuesta.",
-    "source": [
-      "thehackernews.com",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Investigadores hallan implantes de vigilancia en routers chinos ZBT y otros modelos vendidos globalmente, dando acceso root sin autenticación",
-    "summary": "Tres backdoors diferentes en el firmware de routers fabricados en China permiten a atacantes tomar control total de los dispositivos.",
-    "source": [
-      "tomshardware.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "YMTC aspira a convertirse en el mayor fabricante mundial de memoria NAND para 2027 desafiando a Samsung y SK hynix",
-    "summary": "El gigante chino de semiconductores planea dominar el mercado de almacenamiento flash con agresivas inversiones y avances tecnológicos.",
+    "title": "Microsoft aclara que Project Helix es una familia de dispositivos Xbox, no una sola consola",
+    "summary": "La compañía confirma que su próximo hardware será un ecosistema de múltiples dispositivos en lugar de una única consola tradicional.",
     "source": [
       "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "MSI lanza portátil gaming Katana 15 HX con memoria DDR4 y RTX 5070 en plena crisis de DRAM",
-    "summary": "El fabricante recurre a DDR4 para abaratar costes en su nuevo modelo con procesador Core i9-14900HX, disponible en 2026.",
-    "source": [
-      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "SK hynix prolonga la escasez de memoria hasta 2030 y comienza la construcción de su primera planta de HBM en EE. UU.",
-    "summary": "El fabricante coreano advierte que la alta demanda de memoria de alto ancho de banda para IA mantendrá el mercado tensionado, mientras inicia producción en Indiana para 2029.",
+    "title": "SteamOS 3.9 traerá Linux 7.2, hibernación y mejoras de Wi-Fi a la Steam Deck",
+    "summary": "La nueva versión del sistema operativo de Valve moderniza el kernel y añade suspensión a disco junto a optimizaciones de conectividad inalámbrica.",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tribunal de EE. UU. declara ilegal la inclusión de Anthropic en la lista negra del Pentágono por riesgo en la cadena de suministro",
-    "summary": "Anthropic logra su primera victoria judicial contra el Departamento de Defensa, que había etiquetado a la empresa como riesgo de seguridad sin base legal suficiente.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta sufre una dura derrota judicial y pierde a un ejecutivo clave que ficha por OpenAI mientras crece el escrutinio en India",
-    "summary": "La matriz de Facebook enfrenta reveses legales históricos y fuga de talento directivo en medio de presiones regulatorias internacionales.",
-    "source": [
-      "xataka.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Zhipu AI lanza GLM-5.3 como modelo open-weight y presenta GLM-5.3-Flash con arquitectura híbrida y mayor eficiencia",
-    "summary": "La startup china libera su nuevo modelo de lenguaje grande y una versión optimizada para inferencia rápida, compitiendo en el ecosistema abierto.",
-    "source": [
-      "alternativeto.net",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google DeepMind presenta un 'co-científico' de IA que planifica experimentos, maneja equipos de laboratorio y redacta artículos científicos",
-    "summary": "Nuevos sistemas multiagente logran descubrimientos matemáticos autónomos y asistencia integral en investigación, acercando la IA a la práctica científica real.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Bill Gates y líderes de OpenAI, Anthropic y Google advierten del caos laboral por la IA: proponen reservar empleos a humanos y gravar robots",
-    "summary": "Mientras la IA ya libera tres horas semanales a trabajadores, los magnates tecnológicos piden regulación fiscal y protección de empleos humanos ante la automatización masiva.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
+      "videocardz.com"
     ],
     "count": 2
   }
