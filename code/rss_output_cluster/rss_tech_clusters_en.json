@@ -1,139 +1,28 @@
 [
   {
-    "title": "NVIDIA DLSS 5 arrives in over a dozen games with impressive visual results but penalizing performance",
-    "summary": "NVIDIA's experimental upscaling technology leaks and works in titles like Cyberpunk 2077 and Control, though it halves FPS and presents VRAM leaks.",
+    "title": "Rockstar confirms GTA 6 will run at 30 FPS on consoles with no guaranteed performance mode",
+    "summary": "The next Grand Theft Auto will be limited to 30 frames per second on PS5 and Xbox Series X/S, with no promise of a 60 FPS mode even on PS5 Pro.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Anthropic seeks its own AI chip and Nvidia negotiates to buy Hugging Face while open-weight startups become acquisition targets",
-    "summary": "Major AI companies compete to reduce their dependence on Nvidia and secure talent, with Anthropic developing its own hardware and Nvidia interested in acquiring Hugging Face for $12.9 billion.",
-    "source": [
-      "xataka.com",
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Rockstar confirms GTA 6 will have the longest story in the saga and reveals 69 new details about crimes, decisions, and dynamic world",
-    "summary": "New details reveal that player actions will influence the narrative and open world, with improvements in combat, driving, and minigames.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Cloud Imperium Games delays Squadron 42 to 2027 to avoid competing with GTA 6 launch",
-    "summary": "Star Citizen's campaign mode postpones its release to Q2 2027 citing strategic reasons against the anticipated GTA VI.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google limits RAM usage in Android apps to alleviate AI-driven memory crisis",
-    "summary": "Developers have until February 2027 to adapt to new memory optimization rules in Android 17, benefiting low-end devices.",
-    "source": [
-      "xataka.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Android 17 enables ECH natively to hide web visits from network providers, while Google enables it by default",
-    "summary": "Encrypted Client Hello (ECH) arrives at the operating system level to improve privacy, though it could increase IP-based blocking as a response.",
-    "source": [
-      "thehackernews.com",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Researchers find surveillance implants in Chinese ZBT routers and other models sold globally, giving root access without authentication",
-    "summary": "Three different backdoors in the firmware of Chinese-made routers allow attackers to take full control of the devices.",
-    "source": [
-      "tomshardware.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "YMTC aims to become the world's largest NAND memory manufacturer by 2027 challenging Samsung and SK hynix",
-    "summary": "The Chinese semiconductor giant plans to dominate the flash storage market with aggressive investments and technological advances.",
+    "title": "Microsoft clarifies that Project Helix is a family of Xbox devices, not a single console",
+    "summary": "The company confirms its next hardware will be an ecosystem of multiple devices rather than a single traditional console.",
     "source": [
       "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "MSI launches Katana 15 HX gaming laptop with DDR4 memory and RTX 5070 amid DRAM crisis",
-    "summary": "The manufacturer resorts to DDR4 to cut costs in its new model with Core i9-14900HX processor, available in 2026.",
-    "source": [
-      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "SK hynix extends memory shortage until 2030 and begins construction of its first HBM plant in the U.S.",
-    "summary": "The Korean manufacturer warns that high demand for high-bandwidth memory for AI will keep the market tight, while starting production in Indiana for 2029.",
+    "title": "SteamOS 3.9 will bring Linux 7.2, hibernation, and Wi-Fi improvements to the Steam Deck",
+    "summary": "The new version of Valve's operating system modernizes the kernel and adds disk suspension along with wireless connectivity optimizations.",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "U.S. court declares Anthropic's inclusion on Pentagon blacklist over supply chain risk illegal",
-    "summary": "Anthropic achieves its first legal victory against the Department of Defense, which had labeled the company a security risk without sufficient legal basis.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta suffers major legal defeat and loses key executive who joins OpenAI as scrutiny grows in India",
-    "summary": "Facebook's parent company faces historic legal setbacks and executive talent drain amid international regulatory pressures.",
-    "source": [
-      "xataka.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Zhipu AI launches GLM-5.3 as open-weight model and introduces GLM-5.3-Flash with hybrid architecture and greater efficiency",
-    "summary": "The Chinese startup releases its new large language model and a version optimized for fast inference, competing in the open ecosystem.",
-    "source": [
-      "alternativeto.net",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google DeepMind presents an AI 'co-scientist' that plans experiments, manages lab equipment, and writes scientific papers",
-    "summary": "New multi-agent systems achieve autonomous mathematical discoveries and comprehensive research assistance, bringing AI closer to real scientific practice.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Bill Gates and leaders of OpenAI, Anthropic, and Google warn of labor chaos from AI: propose reserving jobs for humans and taxing robots",
-    "summary": "While AI already frees up three hours per week for workers, tech magnates call for tax regulation and protection of human jobs amid massive automation.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
+      "videocardz.com"
     ],
     "count": 2
   }

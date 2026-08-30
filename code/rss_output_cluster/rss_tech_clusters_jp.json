@@ -1,139 +1,28 @@
 [
   {
-    "title": "NVIDIA DLSS 5が10数本のゲームに対応、視覚的成果は印象的だがパフォーマンスを犠牲に",
-    "summary": "NVIDIAの実験的なアップスケーリング技術が流出し、『Cyberpunk 2077』や『Control』などのタイトルで動作するが、FPSを半減させ、VRAMリークが発生する。",
+    "title": "RockstarがGTA 6がコンソールで30 FPSで動作し、パフォーマンスモードが保証されないことを確認",
+    "summary": "次期Grand Theft AutoはPS5とXbox Series X/Sで30フレーム/秒に制限され、PS5 Proでも60 FPSモードの約束はない。",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Anthropicが独自AIチップを模索、NvidiaがHugging Face買収を交渉、オープンウェイト系スタートアップが買収ターゲットに",
-    "summary": "大手AI企業がNvidiaへの依存度低減と人材確保で競争、Anthropicは自社ハードウェア開発、NvidiaはHugging Faceを129億ドルで買収に関心。",
-    "source": [
-      "xataka.com",
-      "alternativeto.net",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "RockstarがGTA 6でシリーズ最長のストーリーを確認、犯罪・決断・動的世界に関する69の新情報を公開",
-    "summary": "プレイヤーの行動が物語とオープンワールドに影響を与えることが判明、戦闘、運転、ミニゲームも改善。",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Cloud Imperium GamesがSquadron 42を2027年に延期、GTA 6発売との競合回避のため",
-    "summary": "『Star Citizen』のキャンペーンモードが発売を2027年第2四半期に延期、戦略的理由として期待されるGTA VIを挙げる。",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GoogleがAndroidアプリのRAM使用量を制限、AI主導のメモリ危機を緩和へ",
-    "summary": "開発者は2027年2月までにAndroid 17の新しいメモリ最適化ルールへの対応が必要、ローエンド機種に恩恵。",
-    "source": [
-      "xataka.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Android 17がECHをネイティブで有効化、ネットワークプロバイダーからWeb訪問を隠蔽、Googleがデフォルトで有効化",
-    "summary": "暗号化Client Hello（ECH）がOSレベルで導入されプライバシー向上、ただしIPベースのブロック増加の懸念も。",
-    "source": [
-      "thehackernews.com",
-      "bandaancha.eu"
-    ],
-    "count": 2
-  },
-  {
-    "title": "研究者が中国製ZBTルーターなど世界販売モデルに監視用インプラントを発見、認証なしでrootアクセス可能",
-    "summary": "中国製ルーターのファームウェアに3種類のバックドア、攻撃者がデバイスを完全制御可能。",
-    "source": [
-      "tomshardware.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "YMTCが2027年までに世界最大のNANDメモリメーカーを目指し、SamsungとSK hynixに挑戦",
-    "summary": "中国の半導体大手が積極的投資と技術進歩でフラッシュストレージ市場の支配を計画。",
+    "title": "MicrosoftがProject Helixは単一のコンソールではなくXboxデバイスのファミリーであることを明確化",
+    "summary": "同社は次期ハードウェアが従来の単一コンソールではなく、複数デバイスのエコシステムになることを確認。",
     "source": [
       "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "MSIがゲーミングノートKatana 15 HXを発売、DDR4メモリとRTX 5070搭載、DRAM不足の中",
-    "summary": "コスト削減のためDDR4を採用、Core i9-14900HX搭載の新モデル、2026年発売予定。",
-    "source": [
-      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "SK hynixがメモリ不足を2030年まで延長と予測、米国で初のHBM工場建設を開始",
-    "summary": "韓国メーカーがAI向け高帯域幅メモリの高需要で市場逼迫が続くと警告、インディアナ州で2029年稼働目指し生産開始。",
+    "title": "SteamOS 3.9がLinux 7.2、ハイバネーション、Wi-Fi改善をSteam Deckにもたらす",
+    "summary": "ValveのOS新バージョンがカーネルをモダナイズし、ディスクへのサスペンドとワイヤレス接続の最適化を追加。",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "米裁判所がAnthropicの国防総省ブラックリスト掲載を違法と判断、サプライチェーンリスクを理由に",
-    "summary": "Anthropicが国防総省に対して初の法的勝利、同省が十分な法的根拠なしにセキュリティリスクとレッテルを貼っていた。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Metaが法廷で大敗、幹部がOpenAIへ移籍、インドでの監視強化の中",
-    "summary": "Facebook親会社が歴史的な法的挫折と幹部流出に直面、国際的な規制圧力が高まる中。",
-    "source": [
-      "xataka.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Zhipu AIがGLM-5.3をオープンウェイトモデルとして公開、ハイブリッドアーキテクチャのGLM-5.3-Flashも発表",
-    "summary": "中国のスタートアップが新しい大規模言語モデルと高速推論向け最適化版をリリース、オープンエコシステムで競争。",
-    "source": [
-      "alternativeto.net",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google DeepMindがAI『共同科学者』を発表、実験計画、ラボチーム管理、論文執筆を担当",
-    "summary": "新しいマルチエージェントシステムが自律的な数学的発見と包括的な研究支援を実現、AIを実際の科学実践に接近させる。",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ビル・ゲイツとOpenAI、Anthropic、GoogleのリーダーがAIによる労働混乱を警告、人間の雇用確保とロボット税を提案",
-    "summary": "AIがすでに労働者の週3時間を解放する中、テック大物たちが大量自動化に備え税制規制と人間の雇用保護を要求。",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
+      "videocardz.com"
     ],
     "count": 2
   }
