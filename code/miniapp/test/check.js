@@ -183,10 +183,7 @@ const COUNT = {
     'live-next': 0,
     'live-cams-news': 0,
     'live-reopen': 0,
-    'live-arm': 0,
-    'live-arm-switch': 0,
     'live-tg': 0,
-    'live-tg-arm-switch': 0,
     'live-web': 0,
     'cams-cache': 0,
     cameras: 3,
@@ -284,18 +281,10 @@ const ready = async () => {
         await wait(() => window.Telegram.WebApp.haptic.selection > 0
             && titles()[0] === 'Cuatro medios sobre tipos');
     }
-    if ((scenario.startsWith('live') && !scenario.startsWith('live-tg')) || scenario === 'cams-cache') await wait(() => !$('#chrome').hidden);
+    if ((scenario.startsWith('live') && scenario !== 'live-tg') || scenario === 'cams-cache') await wait(() => !$('#chrome').hidden);
     if (scenario === 'live-tg') {
         await wait(() => globalThis.Telegram.WebApp.MainButton.isVisible, 3000, 'native main');
         await walkLiveChrome(nativeChromeApi, 'tg');
-    }
-    if (scenario === 'live-tg-arm-switch') {
-        await wait(() => globalThis.Telegram.WebApp.MainButton.isVisible, 3000, 'native main');
-        globalThis.Telegram.WebApp.MainButton.click();
-        await wait(() => !$('#live').hidden && $('#liveFrame').dataset.playing === '1');
-        $('#liveArm').click();
-        globalThis.Telegram.WebApp.MainButton.click();
-        await wait(() => $('#liveFrame').dataset.vid === 'f0lYkdA-Gtw' && $('#liveFrame').dataset.playing === '1');
     }
     if (scenario === 'live-web') await walkLiveChrome(htmlChromeApi, 'web');
     if (scenario === 'live-yt') await wait(() => $('#liveFrame')?.dataset.vid);
@@ -327,7 +316,7 @@ const ready = async () => {
             await wait(() => $('#diag-place').textContent.includes('Browser') && $('#diag-place').textContent.includes('Tokyo'));
         }
     }
-    const openLive = ['live-open', 'live-en', 'live-back', 'live-cameras', 'live-next', 'live-cams-news', 'live-reopen', 'live-arm', 'live-arm-switch', 'cams-cache'];
+    const openLive = ['live-open', 'live-en', 'live-back', 'live-cameras', 'live-next', 'live-cams-news', 'live-reopen', 'cams-cache'];
     if (openLive.includes(scenario)) {
         $('#MainButton').click();
         await wait(() => !$('#live').hidden);
@@ -349,11 +338,6 @@ const ready = async () => {
     if (scenario === 'live-en' || scenario === 'live-reopen') {
         $('#MainButton').click();
         await wait(() => $('#MainButton').textContent.includes('JAPANESE'));
-    }
-    if (scenario === 'live-arm-switch') {
-        $('#liveArm').click();
-        $('#MainButton').click();
-        await wait(() => $('#liveFrame').dataset.vid === 'f0lYkdA-Gtw');
     }
     if (scenario === 'live-back') {
         $('#BackButton').click();
@@ -925,13 +909,9 @@ const run = () => {
         ok($('#liveFrame').dataset.vid === 'Anr15FA9OCI', 'jp news');
         ok($('#liveSecondFrame').dataset.vid === 'HXGANE2pRrA', 'second');
         ok($('#liveFrame').dataset.vol === '100' && $('#liveSecondFrame').dataset.vol === '50', 'volumes');
-        ok($('#liveFrame').dataset.muted === '1' && $('#liveSecondFrame').dataset.muted === '1', 'muted');
+        ok($('#liveFrame').dataset.muted === '0' && $('#liveSecondFrame').dataset.muted === '1', 'primary audio');
         ok($('#liveFrame').dataset.playing === '1' && $('#liveSecondFrame').dataset.playing === '1', 'playing');
         ok($('#liveFrame').dataset.loads === '0' && $('#liveSecondFrame').dataset.loads === '0', 'already cued');
-        ok(!$('#liveArm').hidden, 'arm on');
-        ok(getComputedStyle($('#liveArm')).opacity !== '0', 'arm hittable');
-        ok(getComputedStyle($('#liveArm')).pointerEvents !== 'none', 'arm events');
-        ok($('#liveArm').getBoundingClientRect().height >= $('.live-player').getBoundingClientRect().height, 'arm covers');
         ok(document.body.style.getPropertyValue('--chrome-h'), 'chrome-h');
         const live = $('#live').getBoundingClientRect();
         const chrome = $('#chrome').getBoundingClientRect();
@@ -953,7 +933,7 @@ const run = () => {
         sameChrome(readHtmlChrome(), CHROME.newsEn, 'html en');
         ok($('#liveFrame').dataset.vid === 'f0lYkdA-Gtw', 'en news');
         ok($('#liveFrame').dataset.loads === '1', 'same iframe');
-        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'muted play');
+        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'audio play');
         return;
     }
     if (scenario === 'live-back') {
@@ -970,7 +950,7 @@ const run = () => {
         ok($('#liveFrame').dataset.vid === 'near1', 'nearest');
         ok($('#liveSecondFrame').dataset.vid === 'near2', 'second nearest');
         ok($('#liveFrame').dataset.loads === '1' && $('#liveSecondFrame').dataset.loads === '1', 'same iframe');
-        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'muted play');
+        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'audio play');
         return;
     }
     if (scenario === 'live-next') {
@@ -987,32 +967,13 @@ const run = () => {
         ok(!$('#live').hidden, 'reopened');
         sameChrome(readHtmlChrome(), CHROME.news, 'html reopen');
         ok($('#liveFrame').dataset.vid === 'Anr15FA9OCI', 'jp id');
-        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'muted play');
-        return;
-    }
-    if (scenario === 'live-arm') {
-        ok(!$('#liveArm').hidden, 'arm on');
-        $('#liveArm').click();
-        ok($('#liveFrame').dataset.muted === '0' && $('#liveSecondFrame').dataset.muted === '1', 'primary audio only');
-        return;
-    }
-    if (scenario === 'live-arm-switch') {
-        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'switch keeps playing');
-        ok($('#liveSecondFrame').dataset.muted === '1' && $('#liveSecondFrame').dataset.playing === '1', 'second muted');
+        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'audio play');
         return;
     }
     if (scenario === 'live-tg') {
         ok($('#chrome').hidden, 'html chrome off');
         ok($('#live').hidden, 'closed');
         ok(globalThis.Telegram.WebApp.SecondaryButton.position === 'left', 'native secondary left');
-        return;
-    }
-    if (scenario === 'live-tg-arm-switch') {
-        ok($('#chrome').hidden, 'html chrome off');
-        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'telegram switch muted play');
-        $('#liveArm').click();
-        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'telegram tap audio');
-        ok($('#liveSecondFrame').dataset.muted === '1', 'second muted');
         return;
     }
     if (scenario === 'live-web') {

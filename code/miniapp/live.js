@@ -13,8 +13,6 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
     let secondLivePlayer;
     let livePlayerReady = false;
     let secondLivePlayerReady = false;
-    let audioOn = false;
-    let resumeMuted = false;
     const playerVars = {
         autoplay: 1,
         mute: 1,
@@ -26,16 +24,10 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
         enablejsapi: 1,
         origin: window.location.origin,
     };
-    const arm = document.getElementById('liveArm');
-    const playLive = (player, videoId, volume, waitForTap) => {
+    const playLive = (player, videoId, volume) => {
         player.setVolume(volume);
-        if (player === livePlayer && audioOn && !waitForTap) player.unMute();
+        if (!telegram && player === livePlayer) player.unMute();
         else player.mute();
-        if (waitForTap) {
-            resumeMuted = true;
-            player.cueVideoById(videoId);
-            return;
-        }
         if (player.getVideoData?.()?.video_id === videoId) player.playVideo();
         else player.loadVideoById(videoId);
     };
@@ -43,11 +35,8 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
         const [first, second] = mode === 'cameras'
             ? pairAt(camIds, camPage)
             : [liveEn ? LIVE_EN_ID : LIVE_ID, SECOND_LIVE_ID];
-        const waitForTap = telegram && audioOn;
-        if (livePlayerReady) first ? playLive(livePlayer, first, 100, waitForTap) : livePlayer.stopVideo();
-        if (secondLivePlayerReady) second ? playLive(secondLivePlayer, second, 50, waitForTap) : secondLivePlayer.stopVideo();
-        if (waitForTap) audioOn = false;
-        if (arm) arm.hidden = live.hidden;
+        if (livePlayerReady) first ? playLive(livePlayer, first, 100) : livePlayer.stopVideo();
+        if (secondLivePlayerReady) second ? playLive(secondLivePlayer, second, 50) : secondLivePlayer.stopVideo();
     };
     const initLivePlayers = () => {
         if (livePlayer || !window.YT?.Player) return;
@@ -63,11 +52,6 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
                     if (!live.hidden) startLivePlayers();
                     else event.target.mute();
                 },
-                onStateChange: e => {
-                    if (e.data !== 5 || !resumeMuted) return;
-                    e.target.mute();
-                    if (!live.hidden) e.target.playVideo();
-                },
             },
         });
         secondLivePlayer = new window.YT.Player('liveSecondFrame', {
@@ -82,25 +66,11 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
                     if (!live.hidden) startLivePlayers();
                     else event.target.mute();
                 },
-                onStateChange: e => {
-                    if (e.data !== 5 || !resumeMuted) return;
-                    e.target.mute();
-                    if (!live.hidden) e.target.playVideo();
-                },
             },
         });
     };
     window.onYouTubeIframeAPIReady = initLivePlayers;
     if (window.YT?.Player) initLivePlayers();
-    const kick = () => {
-        if (!livePlayerReady) return;
-        if (livePlayer.getPlayerState?.() !== 1) livePlayer.playVideo();
-        livePlayer.unMute();
-        if (secondLivePlayerReady) secondLivePlayer.mute();
-        resumeMuted = false;
-        audioOn = true;
-    };
-    arm?.addEventListener('click', kick);
     const paintChrome = () => {
         const on = !live.hidden;
         tg.SecondaryButton?.setParams?.({ position: 'left' });
@@ -126,8 +96,6 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
         if (!on) {
             mode = 'news';
             camPage = 0;
-            audioOn = false;
-            resumeMuted = false;
         }
         live.hidden = !on;
         initLivePlayers();
@@ -136,7 +104,6 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
         } else {
             if (livePlayerReady) livePlayer.stopVideo();
             if (secondLivePlayerReady) secondLivePlayer.stopVideo();
-            if (arm) arm.hidden = true;
         }
         paintChrome();
         tg.HapticFeedback.impactOccurred('heavy');

@@ -186,20 +186,6 @@ article[onclick] {
     display: grid;
 }
 
-#liveArm {
-    position: absolute;
-    inset: 0;
-    z-index: 2;
-    border: 0;
-    padding: 0;
-    background: rgb(0 0 0 / 1%);
-    appearance: none;
-    -webkit-appearance: none;
-    pointer-events: auto;
-    touch-action: manipulation;
-    -webkit-tap-highlight-color: transparent;
-}
-
 .live-player {
     container-type: size;
     display: grid;
@@ -208,14 +194,12 @@ article[onclick] {
     min-height: 0;
     overflow: hidden;
     background: #000;
-    z-index: 0;
 }
 
 .live-player iframe {
     width: min(100cqw, calc(100cqh * 16 / 9));
     height: min(100cqh, calc(100cqw * 9 / 16));
     border: 0;
-    pointer-events: none;
 }
 
 #diag hr,

@@ -64,10 +64,7 @@ const SCENES = {
     'live-next': { t: 'japan', l: 'en' },
     'live-cams-news': { t: 'japan', l: 'en' },
     'live-reopen': { t: 'japan', l: 'en' },
-    'live-arm': { t: 'japan', l: 'en' },
-    'live-arm-switch': { t: 'japan', l: 'en' },
     'live-tg': { t: 'japan', l: 'en' },
-    'live-tg-arm-switch': { t: 'japan', l: 'en' },
     'live-web': { t: 'japan', l: 'en' },
     'cams-cache': { t: 'japan', l: 'en' },
     cameras: { t: 'finance', l: 'en' },
@@ -479,7 +476,7 @@ if (scenario === 'diag-nogeo') {
     Object.defineProperty(navigator, 'geolocation', { configurable: true, value: undefined });
 }
 
-if (scenario === 'live-tg' || scenario === 'live-tg-arm-switch' || scenario === 'live-web') {
+if (scenario === 'live-tg' || scenario === 'live-web') {
     const tgButton = () => {
         const clicks = new Set();
         return {
@@ -497,7 +494,7 @@ if (scenario === 'live-tg' || scenario === 'live-tg-arm-switch' || scenario === 
     };
     globalThis.Telegram = {
         WebApp: {
-            initData: scenario.startsWith('live-tg') ? 'query_id=1' : '',
+            initData: scenario === 'live-tg' ? 'query_id=1' : '',
             MainButton: tgButton(),
             SecondaryButton: tgButton(),
             BackButton: tgButton(),
@@ -548,7 +545,6 @@ globalThis.YT = {
             this.muted = !!opts.playerVars?.mute;
             this.playing = false;
             this.loads = 0;
-            this.onState = opts.events?.onStateChange;
             this._paint();
             queueMicrotask(() => opts.events?.onReady?.({ target: this }));
         }
@@ -561,21 +557,12 @@ globalThis.YT = {
             this.el.dataset.loads = String(this.loads);
         }
         getVideoData() { return { video_id: this.videoId }; }
-        getPlayerState() { return this.playing ? 1 : 2; }
-        cueVideoById(id) {
-            this.videoId = id;
-            this.playing = false;
-            this._paint();
-            queueMicrotask(() => this.onState?.({ data: 5, target: this }));
-        }
         loadVideoById(id) { this.videoId = id; this.loads += 1; this.playing = true; this._paint(); }
         setVolume(v) { this.volume = v; this._paint(); }
         mute() { this.muted = true; this._paint(); }
         unMute() { this.muted = false; this._paint(); }
-        isMuted() { return this.muted; }
         playVideo() { this.playing = true; this._paint(); }
         stopVideo() { this.playing = false; this._paint(); }
-        destroy() { this.playing = false; this.videoId = ''; this._paint(); }
     },
 };
 
