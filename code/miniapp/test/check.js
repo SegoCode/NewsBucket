@@ -913,7 +913,8 @@ const run = () => {
         ok($('#liveFrame').dataset.muted === '0' && $('#liveSecondFrame').dataset.muted === '0', 'unmuted');
         ok($('#liveFrame').dataset.playing === '1' && $('#liveSecondFrame').dataset.playing === '1', 'playing');
         ok($('#liveFrame').dataset.loads === '1' && $('#liveSecondFrame').dataset.loads === '1', 'reloaded');
-        ok($('#liveArm').hidden, 'arm off');
+        ok(!$('#liveArm').hidden, 'arm on');
+        ok(getComputedStyle($('#liveArm')).opacity === '0', 'arm invisible');
         ok(document.body.style.getPropertyValue('--chrome-h'), 'chrome-h');
         const live = $('#live').getBoundingClientRect();
         const chrome = $('#chrome').getBoundingClientRect();
@@ -975,7 +976,7 @@ const run = () => {
     if (scenario === 'live-arm') {
         ok(!$('#liveArm').hidden, 'arm on');
         $('#liveArm').dispatchEvent(new PointerEvent('pointerdown', { bubbles: true }));
-        ok($('#liveArm').hidden && $('#liveFrame').dataset.muted === '0', 'arm unmute');
+        ok($('#liveFrame').dataset.muted === '0', 'arm unmute');
         return;
     }
     if (scenario === 'live-tg') {
