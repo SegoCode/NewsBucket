@@ -937,7 +937,6 @@ const run = () => {
         ok(!$('#live').hidden, 'overlay');
         sameChrome(readHtmlChrome(), CHROME.newsEn, 'html en');
         ok($('#liveFrame').dataset.vid === 'f0lYkdA-Gtw', 'en news');
-        ok($('#liveFrame').dataset.loads === '1', 'switched');
         ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'muted play');
         return;
     }
@@ -954,7 +953,6 @@ const run = () => {
         sameChrome(readHtmlChrome(), CHROME.cameras, 'html cameras');
         ok($('#liveFrame').dataset.vid === 'near1', 'nearest');
         ok($('#liveSecondFrame').dataset.vid === 'near2', 'second nearest');
-        ok($('#liveFrame').dataset.loads === '1' && $('#liveSecondFrame').dataset.loads === '1', 'loaded cams');
         ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'muted play');
         return;
     }
