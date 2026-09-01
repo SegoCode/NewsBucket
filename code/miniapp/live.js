@@ -34,22 +34,20 @@ export const createLive = ({ tg, live, topic, place }) => {
         player.loadVideoById(videoId);
         sound(player);
     };
-    const coverIfMuted = () => {
-        if (!arm) return;
-        arm.hidden = live.hidden || !livePlayerReady || !(livePlayer.isMuted?.() ?? true);
-    };
     const startLivePlayers = () => {
         const [first, second] = mode === 'cameras'
             ? pairAt(camIds, camPage)
             : [liveEn ? LIVE_EN_ID : LIVE_ID, SECOND_LIVE_ID];
         if (livePlayerReady) first ? playLive(livePlayer, first, 100) : livePlayer.stopVideo();
         if (secondLivePlayerReady) second ? playLive(secondLivePlayer, second, 50) : secondLivePlayer.stopVideo();
-        coverIfMuted();
+        if (arm) arm.hidden = live.hidden;
     };
     const initLivePlayers = () => {
         if (livePlayer || !window.YT?.Player) return;
         livePlayer = new window.YT.Player('liveFrame', {
             videoId: LIVE_ID,
+            width: '100%',
+            height: '100%',
             playerVars,
             events: {
                 onReady: event => {
@@ -62,6 +60,8 @@ export const createLive = ({ tg, live, topic, place }) => {
         });
         secondLivePlayer = new window.YT.Player('liveSecondFrame', {
             videoId: SECOND_LIVE_ID,
+            width: '100%',
+            height: '100%',
             playerVars,
             events: {
                 onReady: event => {
@@ -78,7 +78,6 @@ export const createLive = ({ tg, live, topic, place }) => {
     arm?.addEventListener('pointerdown', () => {
         if (livePlayerReady) sound(livePlayer);
         if (secondLivePlayerReady) sound(secondLivePlayer);
-        arm.hidden = true;
     });
     const paintChrome = () => {
         const on = !live.hidden;
