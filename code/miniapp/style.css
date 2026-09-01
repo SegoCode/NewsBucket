@@ -189,13 +189,15 @@ article[onclick] {
 #liveArm {
     position: absolute;
     inset: 0;
-    z-index: 1;
+    z-index: 2;
     border: 0;
     padding: 0;
-    background: none;
-    opacity: 0;
+    background: rgb(0 0 0 / 1%);
     appearance: none;
     -webkit-appearance: none;
+    pointer-events: auto;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .live-player {
@@ -206,6 +208,7 @@ article[onclick] {
     min-height: 0;
     overflow: hidden;
     background: #000;
+    z-index: 0;
 }
 
 .live-player iframe {
