@@ -558,6 +558,7 @@ globalThis.YT = {
             this.el.dataset.loads = String(this.loads);
         }
         getVideoData() { return { video_id: this.videoId }; }
+        getPlayerState() { return this.playing ? 1 : 2; }
         loadVideoById(id) { this.videoId = id; this.loads += 1; this.playing = true; this._paint(); }
         setVolume(v) { this.volume = v; this._paint(); }
         mute() { this.muted = true; this._paint(); }
@@ -565,6 +566,7 @@ globalThis.YT = {
         isMuted() { return this.muted; }
         playVideo() { this.playing = true; this._paint(); }
         stopVideo() { this.playing = false; this._paint(); }
+        destroy() { this.playing = false; this.videoId = ''; this._paint(); }
     },
 };
 
