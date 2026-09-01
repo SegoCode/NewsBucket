@@ -67,6 +67,7 @@ const SCENES = {
     'live-arm': { t: 'japan', l: 'en' },
     'live-arm-switch': { t: 'japan', l: 'en' },
     'live-tg': { t: 'japan', l: 'en' },
+    'live-tg-arm-switch': { t: 'japan', l: 'en' },
     'live-web': { t: 'japan', l: 'en' },
     'cams-cache': { t: 'japan', l: 'en' },
     cameras: { t: 'finance', l: 'en' },
@@ -478,7 +479,7 @@ if (scenario === 'diag-nogeo') {
     Object.defineProperty(navigator, 'geolocation', { configurable: true, value: undefined });
 }
 
-if (scenario === 'live-tg' || scenario === 'live-web') {
+if (scenario === 'live-tg' || scenario === 'live-tg-arm-switch' || scenario === 'live-web') {
     const tgButton = () => {
         const clicks = new Set();
         return {
@@ -496,7 +497,7 @@ if (scenario === 'live-tg' || scenario === 'live-web') {
     };
     globalThis.Telegram = {
         WebApp: {
-            initData: scenario === 'live-tg' ? 'query_id=1' : '',
+            initData: scenario.startsWith('live-tg') ? 'query_id=1' : '',
             MainButton: tgButton(),
             SecondaryButton: tgButton(),
             BackButton: tgButton(),
@@ -560,6 +561,7 @@ globalThis.YT = {
         }
         getVideoData() { return { video_id: this.videoId }; }
         getPlayerState() { return this.playing ? 1 : 2; }
+        cueVideoById(id) { this.videoId = id; this.playing = false; this._paint(); }
         loadVideoById(id) { this.videoId = id; this.loads += 1; this.playing = true; this._paint(); }
         setVolume(v) { this.volume = v; this._paint(); }
         mute() { this.muted = true; this._paint(); }

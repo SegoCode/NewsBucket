@@ -12,9 +12,10 @@ const lang = document.getElementById('lang');
 const feed = document.getElementById('feed');
 const live = document.getElementById('live');
 const native = window.Telegram?.WebApp;
-const tg = native?.initData && native.MainButton ? native : createChrome();
+const telegram = !!(native?.initData && native.MainButton);
+const tg = telegram ? native : createChrome();
 const platform = native?.initData ? native : tg;
-const { setLive, swapLang, syncLive, setCameras } = createLive({ tg, live, topic, place: getPlace });
+const { setLive, swapLang, syncLive, setCameras } = createLive({ tg, live, topic, place: getPlace, telegram });
 const syncDiag = createDiag(document.getElementById('diag'));
 let syncLocation = () => {};
 

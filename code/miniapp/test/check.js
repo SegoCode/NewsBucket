@@ -186,6 +186,7 @@ const COUNT = {
     'live-arm': 0,
     'live-arm-switch': 0,
     'live-tg': 0,
+    'live-tg-arm-switch': 0,
     'live-web': 0,
     'cams-cache': 0,
     cameras: 3,
@@ -283,10 +284,18 @@ const ready = async () => {
         await wait(() => window.Telegram.WebApp.haptic.selection > 0
             && titles()[0] === 'Cuatro medios sobre tipos');
     }
-    if ((scenario.startsWith('live') && scenario !== 'live-tg') || scenario === 'cams-cache') await wait(() => !$('#chrome').hidden);
+    if ((scenario.startsWith('live') && !scenario.startsWith('live-tg')) || scenario === 'cams-cache') await wait(() => !$('#chrome').hidden);
     if (scenario === 'live-tg') {
         await wait(() => globalThis.Telegram.WebApp.MainButton.isVisible, 3000, 'native main');
         await walkLiveChrome(nativeChromeApi, 'tg');
+    }
+    if (scenario === 'live-tg-arm-switch') {
+        await wait(() => globalThis.Telegram.WebApp.MainButton.isVisible, 3000, 'native main');
+        globalThis.Telegram.WebApp.MainButton.click();
+        await wait(() => !$('#live').hidden && $('#liveFrame').dataset.playing === '1');
+        $('#liveArm').click();
+        globalThis.Telegram.WebApp.MainButton.click();
+        await wait(() => $('#liveFrame').dataset.vid === 'f0lYkdA-Gtw');
     }
     if (scenario === 'live-web') await walkLiveChrome(htmlChromeApi, 'web');
     if (scenario === 'live-yt') await wait(() => $('#liveFrame')?.dataset.vid);
@@ -988,9 +997,7 @@ const run = () => {
         return;
     }
     if (scenario === 'live-arm-switch') {
-        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '0', 'switch queued');
-        $('#liveArm').click();
-        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'switch resumed');
+        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'switch keeps playing');
         ok($('#liveSecondFrame').dataset.muted === '1' && $('#liveSecondFrame').dataset.playing === '1', 'second muted');
         return;
     }
@@ -998,6 +1005,14 @@ const run = () => {
         ok($('#chrome').hidden, 'html chrome off');
         ok($('#live').hidden, 'closed');
         ok(globalThis.Telegram.WebApp.SecondaryButton.position === 'left', 'native secondary left');
+        return;
+    }
+    if (scenario === 'live-tg-arm-switch') {
+        ok($('#chrome').hidden, 'html chrome off');
+        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '0', 'telegram switch queued');
+        $('#liveArm').click();
+        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'telegram tap resumes');
+        ok($('#liveSecondFrame').dataset.muted === '1', 'second muted');
         return;
     }
     if (scenario === 'live-web') {

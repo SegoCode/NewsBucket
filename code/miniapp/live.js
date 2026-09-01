@@ -4,7 +4,7 @@ const LIVE_ID = 'Anr15FA9OCI';
 const LIVE_EN_ID = 'f0lYkdA-Gtw';
 const SECOND_LIVE_ID = 'HXGANE2pRrA';
 
-export const createLive = ({ tg, live, topic, place }) => {
+export const createLive = ({ tg, live, topic, place, telegram = false }) => {
     let liveEn = false;
     let mode = 'news';
     let camIds = [];
@@ -27,12 +27,12 @@ export const createLive = ({ tg, live, topic, place }) => {
         origin: window.location.origin,
     };
     const arm = document.getElementById('liveArm');
-    const playLive = (player, videoId, volume) => {
-        player.mute();
+    const playLive = (player, videoId, volume, waitForTap) => {
         player.setVolume(volume);
-        if (audioOn) {
+        if (player === livePlayer && audioOn && !waitForTap) player.unMute();
+        else player.mute();
+        if (waitForTap) {
             player.cueVideoById(videoId);
-            queued = true;
             return;
         }
         if (player.getVideoData?.()?.video_id === videoId) player.playVideo();
@@ -42,8 +42,13 @@ export const createLive = ({ tg, live, topic, place }) => {
         const [first, second] = mode === 'cameras'
             ? pairAt(camIds, camPage)
             : [liveEn ? LIVE_EN_ID : LIVE_ID, SECOND_LIVE_ID];
-        if (livePlayerReady) first ? playLive(livePlayer, first, 100) : livePlayer.stopVideo();
-        if (secondLivePlayerReady) second ? playLive(secondLivePlayer, second, 50) : secondLivePlayer.stopVideo();
+        const waitForTap = telegram && audioOn;
+        if (livePlayerReady) first ? playLive(livePlayer, first, 100, waitForTap) : livePlayer.stopVideo();
+        if (secondLivePlayerReady) second ? playLive(secondLivePlayer, second, 50, waitForTap) : secondLivePlayer.stopVideo();
+        if (waitForTap) {
+            audioOn = false;
+            queued = true;
+        }
         if (arm) arm.hidden = live.hidden;
     };
     const initLivePlayers = () => {
@@ -81,15 +86,11 @@ export const createLive = ({ tg, live, topic, place }) => {
     if (window.YT?.Player) initLivePlayers();
     const kick = () => {
         if (!livePlayerReady) return;
-        if (queued) {
-            livePlayer.playVideo();
-            if (secondLivePlayerReady) secondLivePlayer.playVideo();
-            queued = false;
-        } else if (livePlayer.getPlayerState?.() !== 1) {
-            livePlayer.playVideo();
-        }
+        if (queued || livePlayer.getPlayerState?.() !== 1) livePlayer.playVideo();
+        if (queued && secondLivePlayerReady) secondLivePlayer.playVideo();
         livePlayer.unMute();
         if (secondLivePlayerReady) secondLivePlayer.mute();
+        queued = false;
         audioOn = true;
     };
     arm?.addEventListener('click', kick);
