@@ -548,6 +548,7 @@ globalThis.YT = {
             this.muted = !!opts.playerVars?.mute;
             this.playing = false;
             this.loads = 0;
+            this.onState = opts.events?.onStateChange;
             this._paint();
             queueMicrotask(() => opts.events?.onReady?.({ target: this }));
         }
@@ -561,7 +562,12 @@ globalThis.YT = {
         }
         getVideoData() { return { video_id: this.videoId }; }
         getPlayerState() { return this.playing ? 1 : 2; }
-        cueVideoById(id) { this.videoId = id; this.playing = false; this._paint(); }
+        cueVideoById(id) {
+            this.videoId = id;
+            this.playing = false;
+            this._paint();
+            queueMicrotask(() => this.onState?.({ data: 5, target: this }));
+        }
         loadVideoById(id) { this.videoId = id; this.loads += 1; this.playing = true; this._paint(); }
         setVolume(v) { this.volume = v; this._paint(); }
         mute() { this.muted = true; this._paint(); }

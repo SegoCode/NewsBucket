@@ -295,7 +295,7 @@ const ready = async () => {
         await wait(() => !$('#live').hidden && $('#liveFrame').dataset.playing === '1');
         $('#liveArm').click();
         globalThis.Telegram.WebApp.MainButton.click();
-        await wait(() => $('#liveFrame').dataset.vid === 'f0lYkdA-Gtw');
+        await wait(() => $('#liveFrame').dataset.vid === 'f0lYkdA-Gtw' && $('#liveFrame').dataset.playing === '1');
     }
     if (scenario === 'live-web') await walkLiveChrome(htmlChromeApi, 'web');
     if (scenario === 'live-yt') await wait(() => $('#liveFrame')?.dataset.vid);
@@ -1009,9 +1009,9 @@ const run = () => {
     }
     if (scenario === 'live-tg-arm-switch') {
         ok($('#chrome').hidden, 'html chrome off');
-        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '0', 'telegram switch queued');
+        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'telegram switch muted play');
         $('#liveArm').click();
-        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'telegram tap resumes');
+        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'telegram tap audio');
         ok($('#liveSecondFrame').dataset.muted === '1', 'second muted');
         return;
     }

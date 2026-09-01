@@ -14,7 +14,7 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
     let livePlayerReady = false;
     let secondLivePlayerReady = false;
     let audioOn = false;
-    let queued = false;
+    let resumeMuted = false;
     const playerVars = {
         autoplay: 1,
         mute: 1,
@@ -32,6 +32,7 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
         if (player === livePlayer && audioOn && !waitForTap) player.unMute();
         else player.mute();
         if (waitForTap) {
+            resumeMuted = true;
             player.cueVideoById(videoId);
             return;
         }
@@ -45,10 +46,7 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
         const waitForTap = telegram && audioOn;
         if (livePlayerReady) first ? playLive(livePlayer, first, 100, waitForTap) : livePlayer.stopVideo();
         if (secondLivePlayerReady) second ? playLive(secondLivePlayer, second, 50, waitForTap) : secondLivePlayer.stopVideo();
-        if (waitForTap) {
-            audioOn = false;
-            queued = true;
-        }
+        if (waitForTap) audioOn = false;
         if (arm) arm.hidden = live.hidden;
     };
     const initLivePlayers = () => {
@@ -65,6 +63,11 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
                     if (!live.hidden) startLivePlayers();
                     else event.target.mute();
                 },
+                onStateChange: e => {
+                    if (e.data !== 5 || !resumeMuted) return;
+                    e.target.mute();
+                    if (!live.hidden) e.target.playVideo();
+                },
             },
         });
         secondLivePlayer = new window.YT.Player('liveSecondFrame', {
@@ -79,6 +82,11 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
                     if (!live.hidden) startLivePlayers();
                     else event.target.mute();
                 },
+                onStateChange: e => {
+                    if (e.data !== 5 || !resumeMuted) return;
+                    e.target.mute();
+                    if (!live.hidden) e.target.playVideo();
+                },
             },
         });
     };
@@ -86,11 +94,10 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
     if (window.YT?.Player) initLivePlayers();
     const kick = () => {
         if (!livePlayerReady) return;
-        if (queued || livePlayer.getPlayerState?.() !== 1) livePlayer.playVideo();
-        if (queued && secondLivePlayerReady) secondLivePlayer.playVideo();
+        if (livePlayer.getPlayerState?.() !== 1) livePlayer.playVideo();
         livePlayer.unMute();
         if (secondLivePlayerReady) secondLivePlayer.mute();
-        queued = false;
+        resumeMuted = false;
         audioOn = true;
     };
     arm?.addEventListener('click', kick);
@@ -120,7 +127,7 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
             mode = 'news';
             camPage = 0;
             audioOn = false;
-            queued = false;
+            resumeMuted = false;
         }
         live.hidden = !on;
         initLivePlayers();
