@@ -187,11 +187,15 @@ article[onclick] {
 }
 
 #liveArm {
-    grid-area: 1 / 1 / -1 / -1;
+    position: absolute;
+    inset: 0;
     z-index: 1;
     border: 0;
     padding: 0;
-    background: transparent;
+    background: none;
+    opacity: 0;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 .live-player {
