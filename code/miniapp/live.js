@@ -75,10 +75,19 @@ export const createLive = ({ tg, live, topic, place }) => {
     };
     window.onYouTubeIframeAPIReady = initLivePlayers;
     if (window.YT?.Player) initLivePlayers();
-    arm?.addEventListener('pointerdown', () => {
-        if (livePlayerReady) sound(livePlayer);
-        if (secondLivePlayerReady) sound(secondLivePlayer);
-    });
+    const kick = () => {
+        if (livePlayerReady) {
+            const id = livePlayer.getVideoData?.()?.video_id;
+            id ? playLive(livePlayer, id, 100) : sound(livePlayer);
+        }
+        if (secondLivePlayerReady) {
+            const id = secondLivePlayer.getVideoData?.()?.video_id;
+            id ? playLive(secondLivePlayer, id, 50) : sound(secondLivePlayer);
+        }
+    };
+    arm?.addEventListener('pointerdown', kick);
+    arm?.addEventListener('touchstart', kick, { passive: true });
+    arm?.addEventListener('click', kick);
     const paintChrome = () => {
         const on = !live.hidden;
         tg.SecondaryButton?.setParams?.({ position: 'left' });
