@@ -914,7 +914,9 @@ const run = () => {
         ok($('#liveFrame').dataset.playing === '1' && $('#liveSecondFrame').dataset.playing === '1', 'playing');
         ok($('#liveFrame').dataset.loads === '1' && $('#liveSecondFrame').dataset.loads === '1', 'reloaded');
         ok(!$('#liveArm').hidden, 'arm on');
-        ok(getComputedStyle($('#liveArm')).opacity === '0', 'arm invisible');
+        ok(getComputedStyle($('#liveArm')).opacity !== '0', 'arm hittable');
+        ok(getComputedStyle($('#liveArm')).pointerEvents !== 'none', 'arm events');
+        ok($('#liveArm').getBoundingClientRect().height >= $('.live-player').getBoundingClientRect().height, 'arm covers');
         ok(document.body.style.getPropertyValue('--chrome-h'), 'chrome-h');
         const live = $('#live').getBoundingClientRect();
         const chrome = $('#chrome').getBoundingClientRect();
