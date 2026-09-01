@@ -46,6 +46,10 @@ const sameChrome = (got, exp, label) => {
     ok(got.secondary === exp.secondary, `${label} secondary`);
     ok(got.back === exp.back, `${label} back`);
 };
+const readNativeChrome = () => {
+    const { MainButton: m, SecondaryButton: s, BackButton: b } = globalThis.Telegram.WebApp;
+    return { main: m.text, secondary: s.isVisible ? s.text : null, back: b.isVisible };
+};
 const htmlChromeApi = {
     main: () => $('#MainButton').click(),
     secondary: () => $('#SecondaryButton').click(),
@@ -53,6 +57,13 @@ const htmlChromeApi = {
     read: readHtmlChrome,
     primaryRight: () => $('#SecondaryButton').hidden
         || $('#MainButton').getBoundingClientRect().left > $('#SecondaryButton').getBoundingClientRect().left,
+};
+const nativeChromeApi = {
+    main: () => globalThis.Telegram.WebApp.MainButton.click(),
+    secondary: () => globalThis.Telegram.WebApp.SecondaryButton.click(),
+    back: () => globalThis.Telegram.WebApp.BackButton.click(),
+    read: readNativeChrome,
+    primaryRight: () => globalThis.Telegram.WebApp.SecondaryButton.position === 'left',
 };
 const walkLiveChrome = async (api, tag) => {
     sameChrome(api.read(), CHROME.closed, `${tag} closed`);
@@ -271,8 +282,11 @@ const ready = async () => {
         await wait(() => window.Telegram.WebApp.haptic.selection > 0
             && titles()[0] === 'Cuatro medios sobre tipos');
     }
-    if (scenario.startsWith('live') || scenario === 'cams-cache') await wait(() => !$('#chrome').hidden);
-    if (scenario === 'live-tg') await walkLiveChrome(htmlChromeApi, 'tg');
+    if ((scenario.startsWith('live') && scenario !== 'live-tg') || scenario === 'cams-cache') await wait(() => !$('#chrome').hidden);
+    if (scenario === 'live-tg') {
+        await wait(() => globalThis.Telegram.WebApp.MainButton.isVisible, 3000, 'native main');
+        await walkLiveChrome(nativeChromeApi, 'tg');
+    }
     if (scenario === 'live-web') await walkLiveChrome(htmlChromeApi, 'web');
     if (scenario === 'live-yt') await wait(() => $('#liveFrame')?.dataset.vid);
     if (scenario.startsWith('diag')) {
@@ -965,10 +979,9 @@ const run = () => {
         return;
     }
     if (scenario === 'live-tg') {
-        ok(globalThis.Telegram.WebApp.initData, 'telegram');
-        ok(!$('#chrome').hidden, 'html chrome');
-        ok(!globalThis.Telegram.WebApp.MainButton.isVisible, 'native unused');
+        ok($('#chrome').hidden, 'html chrome off');
         ok($('#live').hidden, 'closed');
+        ok(globalThis.Telegram.WebApp.SecondaryButton.position === 'left', 'native secondary left');
         return;
     }
     if (scenario === 'live-web') {
