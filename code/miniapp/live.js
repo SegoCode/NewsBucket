@@ -29,43 +29,11 @@ export const createLive = ({ tg, live, topic, place }) => {
         player.unMute();
         if (player.getPlayerState?.() !== 1) player.playVideo();
     };
-    const mount = (slot, videoId, volume) => {
-        const old = slot === 'liveFrame' ? livePlayer : secondLivePlayer;
-        try { old?.destroy(); } catch {}
-        const node = document.getElementById(slot);
-        if (node?.tagName === 'IFRAME') {
-            const div = document.createElement('div');
-            div.id = slot;
-            node.replaceWith(div);
-        }
-        if (slot === 'liveFrame') livePlayerReady = false;
-        else secondLivePlayerReady = false;
-        const player = new window.YT.Player(slot, {
-            videoId,
-            width: '100%',
-            height: '100%',
-            playerVars,
-            events: {
-                onReady: event => {
-                    if (slot === 'liveFrame') livePlayerReady = true;
-                    else secondLivePlayerReady = true;
-                    event.target.setVolume(volume);
-                    event.target.mute();
-                    if (!live.hidden) event.target.playVideo();
-                },
-            },
-        });
-        if (slot === 'liveFrame') livePlayer = player;
-        else secondLivePlayer = player;
-    };
     const playLive = (player, videoId, volume) => {
         player.mute();
         player.setVolume(volume);
-        if (player.getVideoData?.()?.video_id === videoId) {
-            player.playVideo();
-            return;
-        }
-        mount(player === secondLivePlayer ? 'liveSecondFrame' : 'liveFrame', videoId, volume);
+        if (player.getVideoData?.()?.video_id === videoId) player.playVideo();
+        else player.loadVideoById(videoId);
     };
     const startLivePlayers = () => {
         const [first, second] = mode === 'cameras'
