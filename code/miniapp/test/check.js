@@ -32,19 +32,15 @@ const mapsQuery = a => {
 
 const CHROME = {
     closed: { main: 'LIVE NEWS', secondary: null, back: false },
-    news: { main: 'SWITCH TO ENGLISH', secondary: 'LIVE CAMERAS', back: true },
-    newsEn: { main: 'SWITCH TO JAPANESE', secondary: 'LIVE CAMERAS', back: true },
-    cameras: { main: 'NEXT', secondary: 'BACK TO NEWS BUCKET', back: true },
+    news: { main: 'ENGLISH', secondary: 'LIVE CAMERAS', back: true },
+    newsEn: { main: 'JAPANESE', secondary: 'LIVE CAMERAS', back: true },
+    cameras: { main: 'NEXT', secondary: 'LIVE NEWS', back: true },
 };
 const readHtmlChrome = () => ({
     main: $('#MainButton').textContent,
     secondary: $('#SecondaryButton').hidden ? null : $('#SecondaryButton').textContent,
     back: !$('#BackButton').hidden,
 });
-const readNativeChrome = () => {
-    const { MainButton: m, SecondaryButton: s, BackButton: b } = globalThis.Telegram.WebApp;
-    return { main: m.text, secondary: s.isVisible ? s.text : null, back: b.isVisible };
-};
 const sameChrome = (got, exp, label) => {
     ok(got.main === exp.main, `${label} main`);
     ok(got.secondary === exp.secondary, `${label} secondary`);
@@ -57,13 +53,6 @@ const htmlChromeApi = {
     read: readHtmlChrome,
     primaryRight: () => $('#SecondaryButton').hidden
         || $('#MainButton').getBoundingClientRect().left > $('#SecondaryButton').getBoundingClientRect().left,
-};
-const nativeChromeApi = {
-    main: () => globalThis.Telegram.WebApp.MainButton.click(),
-    secondary: () => globalThis.Telegram.WebApp.SecondaryButton.click(),
-    back: () => globalThis.Telegram.WebApp.BackButton.click(),
-    read: readNativeChrome,
-    primaryRight: () => globalThis.Telegram.WebApp.SecondaryButton.position === 'left',
 };
 const walkLiveChrome = async (api, tag) => {
     sameChrome(api.read(), CHROME.closed, `${tag} closed`);
@@ -183,6 +172,7 @@ const COUNT = {
     'live-next': 0,
     'live-cams-news': 0,
     'live-reopen': 0,
+    'live-arm': 0,
     'live-tg': 0,
     'live-web': 0,
     'cams-cache': 0,
@@ -281,11 +271,8 @@ const ready = async () => {
         await wait(() => window.Telegram.WebApp.haptic.selection > 0
             && titles()[0] === 'Cuatro medios sobre tipos');
     }
-    if ((scenario.startsWith('live') && scenario !== 'live-tg') || scenario === 'cams-cache') await wait(() => !$('#chrome').hidden);
-    if (scenario === 'live-tg') {
-        await wait(() => globalThis.Telegram.WebApp.MainButton.isVisible, 3000, 'native main');
-        await walkLiveChrome(nativeChromeApi, 'tg');
-    }
+    if (scenario.startsWith('live') || scenario === 'cams-cache') await wait(() => !$('#chrome').hidden);
+    if (scenario === 'live-tg') await walkLiveChrome(htmlChromeApi, 'tg');
     if (scenario === 'live-web') await walkLiveChrome(htmlChromeApi, 'web');
     if (scenario === 'live-yt') await wait(() => $('#liveFrame')?.dataset.vid);
     if (scenario.startsWith('diag')) {
@@ -316,7 +303,7 @@ const ready = async () => {
             await wait(() => $('#diag-place').textContent.includes('Browser') && $('#diag-place').textContent.includes('Tokyo'));
         }
     }
-    const openLive = ['live-open', 'live-en', 'live-back', 'live-cameras', 'live-next', 'live-cams-news', 'live-reopen', 'cams-cache'];
+    const openLive = ['live-open', 'live-en', 'live-back', 'live-cameras', 'live-next', 'live-cams-news', 'live-reopen', 'live-arm', 'cams-cache'];
     if (openLive.includes(scenario)) {
         $('#MainButton').click();
         await wait(() => !$('#live').hidden);
@@ -333,7 +320,7 @@ const ready = async () => {
     }
     if (scenario === 'live-cams-news') {
         $('#SecondaryButton').click();
-        await wait(() => $('#MainButton').textContent === 'SWITCH TO ENGLISH');
+        await wait(() => $('#MainButton').textContent === 'ENGLISH');
     }
     if (scenario === 'live-en' || scenario === 'live-reopen') {
         $('#MainButton').click();
@@ -902,14 +889,17 @@ const run = () => {
     if (scenario === 'live-open') {
         ok(!$('#live').hidden, 'overlay');
         sameChrome(readHtmlChrome(), CHROME.news, 'html news');
+        ok($('#chrome').contains($('#BackButton')), 'back in chrome');
+        ok(getComputedStyle($('#BackButton')).backgroundColor === getComputedStyle($('#SecondaryButton')).backgroundColor, 'back styled');
         ok($('#MainButton').getBoundingClientRect().left > $('#SecondaryButton').getBoundingClientRect().left, 'primary right');
         ok(!$('#MainButton').classList.contains('ring'), 'ring off');
         ok($('#liveFrame').dataset.vid === 'Anr15FA9OCI', 'jp news');
         ok($('#liveSecondFrame').dataset.vid === 'HXGANE2pRrA', 'second');
         ok($('#liveFrame').dataset.vol === '100' && $('#liveSecondFrame').dataset.vol === '50', 'volumes');
-        ok($('#liveFrame').dataset.muted === '1' && $('#liveSecondFrame').dataset.muted === '1', 'muted');
+        ok($('#liveFrame').dataset.muted === '0' && $('#liveSecondFrame').dataset.muted === '0', 'unmuted');
         ok($('#liveFrame').dataset.playing === '1' && $('#liveSecondFrame').dataset.playing === '1', 'playing');
-        ok($('#liveFrame').dataset.loads === '0' && $('#liveSecondFrame').dataset.loads === '0', 'already cued');
+        ok($('#liveFrame').dataset.loads === '1' && $('#liveSecondFrame').dataset.loads === '1', 'reloaded');
+        ok($('#liveArm').hidden, 'arm off');
         ok(document.body.style.getPropertyValue('--chrome-h'), 'chrome-h');
         const live = $('#live').getBoundingClientRect();
         const chrome = $('#chrome').getBoundingClientRect();
@@ -930,8 +920,8 @@ const run = () => {
         ok(!$('#live').hidden, 'overlay');
         sameChrome(readHtmlChrome(), CHROME.newsEn, 'html en');
         ok($('#liveFrame').dataset.vid === 'f0lYkdA-Gtw', 'en news');
-        ok($('#liveFrame').dataset.loads === '1', 'switched');
-        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'muted play');
+        ok($('#liveFrame').dataset.loads === '2', 'switched');
+        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'unmuted play');
         return;
     }
     if (scenario === 'live-back') {
@@ -947,8 +937,8 @@ const run = () => {
         sameChrome(readHtmlChrome(), CHROME.cameras, 'html cameras');
         ok($('#liveFrame').dataset.vid === 'near1', 'nearest');
         ok($('#liveSecondFrame').dataset.vid === 'near2', 'second nearest');
-        ok($('#liveFrame').dataset.loads === '1' && $('#liveSecondFrame').dataset.loads === '1', 'loaded cams');
-        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'muted play');
+        ok($('#liveFrame').dataset.loads === '2' && $('#liveSecondFrame').dataset.loads === '2', 'loaded cams');
+        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'unmuted play');
         return;
     }
     if (scenario === 'live-next') {
@@ -965,13 +955,20 @@ const run = () => {
         ok(!$('#live').hidden, 'reopened');
         sameChrome(readHtmlChrome(), CHROME.news, 'html reopen');
         ok($('#liveFrame').dataset.vid === 'Anr15FA9OCI', 'jp id');
-        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'muted play');
+        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'unmuted play');
+        return;
+    }
+    if (scenario === 'live-arm') {
+        ok(!$('#liveArm').hidden, 'arm on');
+        $('#liveArm').dispatchEvent(new PointerEvent('pointerdown', { bubbles: true }));
+        ok($('#liveArm').hidden && $('#liveFrame').dataset.muted === '0', 'arm unmute');
         return;
     }
     if (scenario === 'live-tg') {
-        ok($('#chrome').hidden, 'html chrome off');
+        ok(globalThis.Telegram.WebApp.initData, 'telegram');
+        ok(!$('#chrome').hidden, 'html chrome');
+        ok(!globalThis.Telegram.WebApp.MainButton.isVisible, 'native unused');
         ok($('#live').hidden, 'closed');
-        ok(globalThis.Telegram.WebApp.SecondaryButton.position === 'left', 'native secondary left');
         return;
     }
     if (scenario === 'live-web') {
