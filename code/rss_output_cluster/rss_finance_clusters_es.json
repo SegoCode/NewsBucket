@@ -1,35 +1,61 @@
 [
   {
-    "title": "La IA revoluciona fábricas y carteras: robots en Hyundai, IA en Toyota y apuestas de Druckenmiller",
-    "summary": "Desde líneas de ensamblaje con 1.400 robots hasta gestores comprando acciones de IA, la inteligencia artificial transforma la industria y las inversiones.",
+    "title": "El conflicto en Oriente Próximo impulsa el petróleo, el oro y el transporte marítimo",
+    "summary": "Los ataques de EE.UU. contra Irán y la escalada tensional disparan el crudo, hunden el oro y benefician a los fletes de petroleros.",
+    "source": [
+      "handelsblatt.com",
+      "nikkei.com",
+      "nasdaq.com",
+      "ft.com",
+      "finance.yahoo.com",
+      "expansion.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Las acciones de Shein caen un 10% en su debut en Hong Kong tras una valoración reducida",
+    "summary": "El gigante chino de moda rápida debuta en la bolsa de Hong Kong con una capitalización un 75% inferior a su pico anterior.",
+    "source": [
+      "investing.com",
+      "nikkei.com",
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "El Nikkei cae mientras los rendimientos japoneses alcanzan máximos de 30 años",
+    "summary": "La bolsa japonesa se hunde ante la subida de tipos en EE.UU. y las especulaciones sobre un alza del Banco de Japón.",
     "source": [
       "nikkei.com",
-      "investing.com",
-      "nasdaq.com"
+      "handelsblatt.com",
+      "ft.com"
     ],
     "count": 3
   },
   {
-    "title": "EE.UU. avanza en acuerdo petrolero con Venezuela y toma participación en empresa de Betancourt",
-    "summary": "Estados Unidos planea adquirir una participación del 35% en el proyecto petrolero del magnate venezolano Betancourt, mientras la oposición y el chavismo critican el pacto.",
+    "title": "El discurso de Jackson Hole presiona los bonos globales y debilita el yen",
+    "summary": "Las advertencias de la Fed sobre tipos más altos durante más tiempo disparan las rentabilidades y castigan a las divisas asiáticas.",
     "source": [
-      "investing.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Bitcoin podría alcanzar 300.000 dólares en 2030 y los ETF impulsan su adopción",
-    "summary": "El CEO de Coinbase vaticina un precio de 300.000 dólares para 2030, mientras los ETF se convierten en nuevo motor para la criptomoneda.",
-    "source": [
-      "nasdaq.com",
+      "ft.com",
+      "handelsblatt.com",
       "expansion.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Glencore provisiona 480 millones y enfrenta demanda de 1.400 millones por exposición a Radiant",
-    "summary": "La minera registra una provisión por su exposición a Radiant World y es amenazada con una millonaria demanda por parte del trader en dificultades.",
+    "title": "Bitcoin y criptomonedas bajo presión por expectativas de subidas de tipos",
+    "summary": "La Reserva Federal frena el rally del bitcoin y el euríbor sube al 2,95%, lastrando los activos digitales.",
+    "source": [
+      "expansion.com",
+      "finance.yahoo.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Inversiones masivas en IA y advertencias sobre riesgos financieros",
+    "summary": "Nvidia y SK Hynix impulsan el gasto en chips de IA mientras los reguladores alertan de amenazas sistémicas.",
     "source": [
       "investing.com",
       "ft.com"
@@ -37,8 +63,17 @@
     "count": 2
   },
   {
-    "title": "El-Erian y FT advierten del riesgo de una nueva era de represión financiera",
-    "summary": "Expertos alertan de que los gobiernos podrían mantener tasas reales negativas para reducir la deuda, repitiendo políticas de posguerra.",
+    "title": "Bolsas europeas mixtas con el Ibex por debajo de 20.000 y el Dax lastrado por energía",
+    "summary": "La inflación persistente y el endurecimiento monetario lastran a las acciones europeas pese a algunos resultados positivos.",
+    "source": [
+      "expansion.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Aon compra USI Insurance por 17.000 millones en la mayor operación de seguros del año",
+    "summary": "KKR obtiene una plusvalía millonaria al vender el bróker estadounidense al gigante británico Aon.",
     "source": [
       "handelsblatt.com",
       "ft.com"
