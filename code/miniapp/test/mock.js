@@ -64,6 +64,7 @@ const SCENES = {
     'live-next': { t: 'japan', l: 'en' },
     'live-cams-news': { t: 'japan', l: 'en' },
     'live-reopen': { t: 'japan', l: 'en' },
+    'live-arm': { t: 'japan', l: 'en' },
     'live-tg': { t: 'japan', l: 'en' },
     'live-web': { t: 'japan', l: 'en' },
     'cams-cache': { t: 'japan', l: 'en' },
@@ -560,7 +561,12 @@ globalThis.YT = {
         loadVideoById(id) { this.videoId = id; this.loads += 1; this.playing = true; this._paint(); }
         setVolume(v) { this.volume = v; this._paint(); }
         mute() { this.muted = true; this._paint(); }
-        unMute() { this.muted = false; this._paint(); }
+        unMute() {
+            this._unmutes = (this._unmutes || 0) + 1;
+            if (scenario !== 'live-arm' || this._unmutes > 1) this.muted = false;
+            this._paint();
+        }
+        isMuted() { return this.muted; }
         playVideo() { this.playing = true; this._paint(); }
         stopVideo() { this.playing = false; this._paint(); }
     },
