@@ -215,6 +215,7 @@ article[onclick] {
     width: min(100cqw, calc(100cqh * 16 / 9));
     height: min(100cqh, calc(100cqw * 9 / 16));
     border: 0;
+    pointer-events: none;
 }
 
 #diag hr,
