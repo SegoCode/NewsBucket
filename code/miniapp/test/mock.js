@@ -65,6 +65,7 @@ const SCENES = {
     'live-cams-news': { t: 'japan', l: 'en' },
     'live-reopen': { t: 'japan', l: 'en' },
     'live-arm': { t: 'japan', l: 'en' },
+    'live-arm-switch': { t: 'japan', l: 'en' },
     'live-tg': { t: 'japan', l: 'en' },
     'live-web': { t: 'japan', l: 'en' },
     'cams-cache': { t: 'japan', l: 'en' },
