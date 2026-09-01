@@ -910,9 +910,9 @@ const run = () => {
         ok($('#liveFrame').dataset.vid === 'Anr15FA9OCI', 'jp news');
         ok($('#liveSecondFrame').dataset.vid === 'HXGANE2pRrA', 'second');
         ok($('#liveFrame').dataset.vol === '100' && $('#liveSecondFrame').dataset.vol === '50', 'volumes');
-        ok($('#liveFrame').dataset.muted === '0' && $('#liveSecondFrame').dataset.muted === '0', 'unmuted');
+        ok($('#liveFrame').dataset.muted === '1' && $('#liveSecondFrame').dataset.muted === '1', 'muted');
         ok($('#liveFrame').dataset.playing === '1' && $('#liveSecondFrame').dataset.playing === '1', 'playing');
-        ok($('#liveFrame').dataset.loads === '1' && $('#liveSecondFrame').dataset.loads === '1', 'reloaded');
+        ok($('#liveFrame').dataset.loads === '0' && $('#liveSecondFrame').dataset.loads === '0', 'already cued');
         ok(!$('#liveArm').hidden, 'arm on');
         ok(getComputedStyle($('#liveArm')).opacity !== '0', 'arm hittable');
         ok(getComputedStyle($('#liveArm')).pointerEvents !== 'none', 'arm events');
@@ -937,8 +937,8 @@ const run = () => {
         ok(!$('#live').hidden, 'overlay');
         sameChrome(readHtmlChrome(), CHROME.newsEn, 'html en');
         ok($('#liveFrame').dataset.vid === 'f0lYkdA-Gtw', 'en news');
-        ok($('#liveFrame').dataset.loads === '2', 'switched');
-        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'unmuted play');
+        ok($('#liveFrame').dataset.loads === '1', 'switched');
+        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'muted play');
         return;
     }
     if (scenario === 'live-back') {
@@ -954,8 +954,8 @@ const run = () => {
         sameChrome(readHtmlChrome(), CHROME.cameras, 'html cameras');
         ok($('#liveFrame').dataset.vid === 'near1', 'nearest');
         ok($('#liveSecondFrame').dataset.vid === 'near2', 'second nearest');
-        ok($('#liveFrame').dataset.loads === '2' && $('#liveSecondFrame').dataset.loads === '2', 'loaded cams');
-        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'unmuted play');
+        ok($('#liveFrame').dataset.loads === '1' && $('#liveSecondFrame').dataset.loads === '1', 'loaded cams');
+        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'muted play');
         return;
     }
     if (scenario === 'live-next') {
@@ -972,7 +972,7 @@ const run = () => {
         ok(!$('#live').hidden, 'reopened');
         sameChrome(readHtmlChrome(), CHROME.news, 'html reopen');
         ok($('#liveFrame').dataset.vid === 'Anr15FA9OCI', 'jp id');
-        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'unmuted play');
+        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '1', 'muted play');
         return;
     }
     if (scenario === 'live-arm') {
