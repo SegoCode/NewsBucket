@@ -12,8 +12,11 @@ const lang = document.getElementById('lang');
 const feed = document.getElementById('feed');
 const live = document.getElementById('live');
 const native = window.Telegram?.WebApp;
-const tg = native?.initData && native.MainButton ? native : createChrome();
+const tg = createChrome();
 const platform = native?.initData ? native : tg;
+native?.MainButton?.hide?.();
+native?.SecondaryButton?.hide?.();
+native?.BackButton?.hide?.();
 const { setLive, swapLang, syncLive, setCameras } = createLive({ tg, live, topic, place: getPlace });
 const syncDiag = createDiag(document.getElementById('diag'));
 let syncLocation = () => {};
@@ -46,7 +49,7 @@ try {
     lang.value = autoLang();
 }
 const syncHtmlLang = () => {
-    document.documentElement.lang = { en: 'en', es: 'es', jp: 'ja' }[lang.value] || 'en';
+    document.documentElement.lang = { en: 'en', es: 'es', jp: 'en' }[lang.value] || 'en';
 };
 syncHtmlLang();
 
