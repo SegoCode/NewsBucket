@@ -30,9 +30,10 @@ export const createLive = ({ tg, live, topic, place }) => {
         player.playVideo();
     };
     const playLive = (player, videoId, volume) => {
+        player.mute();
         player.setVolume(volume);
-        player.loadVideoById(videoId);
-        sound(player);
+        if (player.getVideoData?.()?.video_id === videoId) player.playVideo();
+        else player.loadVideoById(videoId);
     };
     const startLivePlayers = () => {
         const [first, second] = mode === 'cameras'
@@ -75,15 +76,13 @@ export const createLive = ({ tg, live, topic, place }) => {
     };
     window.onYouTubeIframeAPIReady = initLivePlayers;
     if (window.YT?.Player) initLivePlayers();
+    let lock = false;
     const kick = () => {
-        if (livePlayerReady) {
-            const id = livePlayer.getVideoData?.()?.video_id;
-            id ? playLive(livePlayer, id, 100) : sound(livePlayer);
-        }
-        if (secondLivePlayerReady) {
-            const id = secondLivePlayer.getVideoData?.()?.video_id;
-            id ? playLive(secondLivePlayer, id, 50) : sound(secondLivePlayer);
-        }
+        if (lock) return;
+        lock = true;
+        setTimeout(() => { lock = false; }, 400);
+        if (livePlayerReady) sound(livePlayer);
+        if (secondLivePlayerReady) sound(secondLivePlayer);
     };
     arm?.addEventListener('pointerdown', kick);
     arm?.addEventListener('touchstart', kick, { passive: true });
