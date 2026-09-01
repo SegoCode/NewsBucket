@@ -64,10 +64,11 @@
     <div id="live" hidden>
         <section class="live-player" aria-label="Live News"><div id="liveFrame"></div></section>
         <section class="live-player" aria-label="Second Live News"><div id="liveSecondFrame"></div></section>
+        <button type="button" id="liveArm" hidden aria-label="Unmute"></button>
     </div>
-    <button type="button" id="BackButton" hidden>BACK</button>
     <footer id="chrome" hidden>
         <div class="chrome-row">
+            <button type="button" id="BackButton" hidden>BACK</button>
             <button type="button" id="SecondaryButton" hidden>LIVE CAMERAS</button>
             <button type="button" id="MainButton" class="ring">LIVE NEWS</button>
         </div>
@@ -92,7 +93,7 @@
             'watch-stop',
             'japan-jp', 'japan-us', 'japan-es', 'mix',
             'live', 'live-open', 'live-yt', 'live-en', 'live-back', 'live-topic', 'live-cameras',
-            'live-next', 'live-cams-news', 'live-reopen', 'live-tg', 'live-web', 'cams-cache',
+            'live-next', 'live-cams-news', 'live-reopen', 'live-arm', 'live-tg', 'live-web', 'cams-cache',
             'cameras', 'chrome',
         ];
         document.getElementById('harness').innerHTML = scenes.map(s =>
