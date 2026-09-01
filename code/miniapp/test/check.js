@@ -184,6 +184,7 @@ const COUNT = {
     'live-cams-news': 0,
     'live-reopen': 0,
     'live-arm': 0,
+    'live-arm-switch': 0,
     'live-tg': 0,
     'live-web': 0,
     'cams-cache': 0,
@@ -317,7 +318,7 @@ const ready = async () => {
             await wait(() => $('#diag-place').textContent.includes('Browser') && $('#diag-place').textContent.includes('Tokyo'));
         }
     }
-    const openLive = ['live-open', 'live-en', 'live-back', 'live-cameras', 'live-next', 'live-cams-news', 'live-reopen', 'live-arm', 'cams-cache'];
+    const openLive = ['live-open', 'live-en', 'live-back', 'live-cameras', 'live-next', 'live-cams-news', 'live-reopen', 'live-arm', 'live-arm-switch', 'cams-cache'];
     if (openLive.includes(scenario)) {
         $('#MainButton').click();
         await wait(() => !$('#live').hidden);
@@ -339,6 +340,11 @@ const ready = async () => {
     if (scenario === 'live-en' || scenario === 'live-reopen') {
         $('#MainButton').click();
         await wait(() => $('#MainButton').textContent.includes('JAPANESE'));
+    }
+    if (scenario === 'live-arm-switch') {
+        $('#liveArm').click();
+        $('#MainButton').click();
+        await wait(() => $('#liveFrame').dataset.vid === 'f0lYkdA-Gtw');
     }
     if (scenario === 'live-back') {
         $('#BackButton').click();
@@ -977,8 +983,15 @@ const run = () => {
     }
     if (scenario === 'live-arm') {
         ok(!$('#liveArm').hidden, 'arm on');
-        $('#liveArm').dispatchEvent(new PointerEvent('pointerdown', { bubbles: true }));
-        ok($('#liveFrame').dataset.muted === '0', 'arm unmute');
+        $('#liveArm').click();
+        ok($('#liveFrame').dataset.muted === '0' && $('#liveSecondFrame').dataset.muted === '1', 'primary audio only');
+        return;
+    }
+    if (scenario === 'live-arm-switch') {
+        ok($('#liveFrame').dataset.muted === '1' && $('#liveFrame').dataset.playing === '0', 'switch queued');
+        $('#liveArm').click();
+        ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'switch resumed');
+        ok($('#liveSecondFrame').dataset.muted === '1' && $('#liveSecondFrame').dataset.playing === '1', 'second muted');
         return;
     }
     if (scenario === 'live-tg') {
