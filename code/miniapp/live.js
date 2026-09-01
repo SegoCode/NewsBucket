@@ -13,6 +13,8 @@ export const createLive = ({ tg, live, topic, place }) => {
     let secondLivePlayer;
     let livePlayerReady = false;
     let secondLivePlayerReady = false;
+    let audioOn = false;
+    let queued = false;
     const playerVars = {
         autoplay: 1,
         mute: 1,
@@ -25,13 +27,14 @@ export const createLive = ({ tg, live, topic, place }) => {
         origin: window.location.origin,
     };
     const arm = document.getElementById('liveArm');
-    const sound = player => {
-        player.unMute();
-        if (player.getPlayerState?.() !== 1) player.playVideo();
-    };
     const playLive = (player, videoId, volume) => {
         player.mute();
         player.setVolume(volume);
+        if (audioOn) {
+            player.cueVideoById(videoId);
+            queued = true;
+            return;
+        }
         if (player.getVideoData?.()?.video_id === videoId) player.playVideo();
         else player.loadVideoById(videoId);
     };
@@ -76,16 +79,19 @@ export const createLive = ({ tg, live, topic, place }) => {
     };
     window.onYouTubeIframeAPIReady = initLivePlayers;
     if (window.YT?.Player) initLivePlayers();
-    let lock = false;
     const kick = () => {
-        if (lock) return;
-        lock = true;
-        setTimeout(() => { lock = false; }, 400);
-        if (livePlayerReady) sound(livePlayer);
-        if (secondLivePlayerReady) sound(secondLivePlayer);
+        if (!livePlayerReady) return;
+        if (queued) {
+            livePlayer.playVideo();
+            if (secondLivePlayerReady) secondLivePlayer.playVideo();
+            queued = false;
+        } else if (livePlayer.getPlayerState?.() !== 1) {
+            livePlayer.playVideo();
+        }
+        livePlayer.unMute();
+        if (secondLivePlayerReady) secondLivePlayer.mute();
+        audioOn = true;
     };
-    arm?.addEventListener('pointerdown', kick);
-    arm?.addEventListener('touchstart', kick, { passive: true });
     arm?.addEventListener('click', kick);
     const paintChrome = () => {
         const on = !live.hidden;
@@ -112,6 +118,8 @@ export const createLive = ({ tg, live, topic, place }) => {
         if (!on) {
             mode = 'news';
             camPage = 0;
+            audioOn = false;
+            queued = false;
         }
         live.hidden = !on;
         initLivePlayers();
