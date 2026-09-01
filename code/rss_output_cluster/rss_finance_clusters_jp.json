@@ -1,35 +1,61 @@
 [
   {
-    "title": "AIが工場とポートフォリオを変革：現代自動車のロボット、トヨタのAI、ドラッケンミラーの投資",
-    "summary": "1,400台のロボットが稼働する組立ラインからAI関連株を買うファンドマネージャーまで、人工知能が産業と投資を変えている。",
+    "title": "中東紛争が石油、金、海上輸送を押し上げる",
+    "summary": "米国のイラン攻撃と緊張のエスカレーションが原油を急騰させ、金を下落させ、タンカー運賃を押し上げる",
+    "source": [
+      "handelsblatt.com",
+      "nikkei.com",
+      "nasdaq.com",
+      "ft.com",
+      "finance.yahoo.com",
+      "expansion.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Shein株が香港上場デビューで10%下落、評価額縮小で",
+    "summary": "中国のファストファッション大手が香港証券取引所に上場、時価総額は前回のピークから75%減",
+    "source": [
+      "investing.com",
+      "nikkei.com",
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "日経平均下落、日本国債利回りが30年振り高水準",
+    "summary": "米国の利上げと日銀利上げ観測で日本株が急落",
     "source": [
       "nikkei.com",
-      "investing.com",
-      "nasdaq.com"
+      "handelsblatt.com",
+      "ft.com"
     ],
     "count": 3
   },
   {
-    "title": "米国、ベネズエラとの石油合意で前進しベタンクール氏の企業に出資",
-    "summary": "米国はベネズエラの大富豪ベタンクール氏の石油プロジェクトで35%の出資を計画、野党とチャビスモ双方が合意を批判。",
+    "title": "ジャクソンホール会議での発言が世界債券を圧迫、円安に",
+    "summary": "FRBの長期高金利警告で利回り急上昇、アジア通貨が下落",
     "source": [
-      "investing.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ビットコイン、2030年に30万ドル到達の可能性、ETFが普及を後押し",
-    "summary": "コインベースCEOが2030年に30万ドルと予測、ETFが暗号資産の新たな牽引役に。",
-    "source": [
-      "nasdaq.com",
+      "ft.com",
+      "handelsblatt.com",
       "expansion.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "グレンコア、ラディアント関連で4.8億ドルを引当、14億ドルの訴訟にも直面",
-    "summary": "同社はラディアント・ワールドへのエクスポージャーで引当金を計上、困窮するトレーダーから多額の訴訟を警告される。",
+    "title": "ビットコインと暗号資産が利上げ期待で圧迫される",
+    "summary": "FRBがビットコインの上昇を阻止、ユーロインターバンク金利が2.95%に上昇しデジタル資産を圧迫",
+    "source": [
+      "expansion.com",
+      "finance.yahoo.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AIへの大規模投資と金融リスクへの警告",
+    "summary": "NvidiaとSK HynixがAIチップ支出をけん引、規制当局がシステミックリスクを警告",
     "source": [
       "investing.com",
       "ft.com"
@@ -37,8 +63,17 @@
     "count": 2
   },
   {
-    "title": "エル・エリアン氏とFT、新たな金融抑圧時代のリスクを警告",
-    "summary": "専門家は、政府が戦後政策を繰り返し実質金利をマイナスに保ち債務を圧縮する恐れがあると指摘。",
+    "title": "欧州株まちまち、IBEXが20,000割れ、DAXはエネルギー部門が重荷",
+    "summary": "根強いインフレと金融引き締めが欧州株を圧迫、一部好決算にもかかわらず",
+    "source": [
+      "expansion.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AonがUSI Insuranceを170億ドルで買収、今年最大の保険ディール",
+    "summary": "KKRが米ブローカーを英大手Aonに売却し多額のキャピタルゲインを獲得",
     "source": [
       "handelsblatt.com",
       "ft.com"
