@@ -24,11 +24,19 @@ export const createLive = ({ tg, live, topic, place }) => {
         enablejsapi: 1,
         origin: window.location.origin,
     };
+    const arm = document.getElementById('liveArm');
+    const sound = player => {
+        player.unMute();
+        player.playVideo();
+    };
     const playLive = (player, videoId, volume) => {
-        player.mute();
         player.setVolume(volume);
-        if (player.getVideoData?.()?.video_id === videoId) player.playVideo();
-        else player.loadVideoById(videoId);
+        player.loadVideoById(videoId);
+        sound(player);
+    };
+    const coverIfMuted = () => {
+        if (!arm) return;
+        arm.hidden = live.hidden || !livePlayerReady || !(livePlayer.isMuted?.() ?? true);
     };
     const startLivePlayers = () => {
         const [first, second] = mode === 'cameras'
@@ -36,6 +44,7 @@ export const createLive = ({ tg, live, topic, place }) => {
             : [liveEn ? LIVE_EN_ID : LIVE_ID, SECOND_LIVE_ID];
         if (livePlayerReady) first ? playLive(livePlayer, first, 100) : livePlayer.stopVideo();
         if (secondLivePlayerReady) second ? playLive(secondLivePlayer, second, 50) : secondLivePlayer.stopVideo();
+        coverIfMuted();
     };
     const initLivePlayers = () => {
         if (livePlayer || !window.YT?.Player) return;
@@ -46,8 +55,8 @@ export const createLive = ({ tg, live, topic, place }) => {
                 onReady: event => {
                     livePlayerReady = true;
                     event.target.setVolume(100);
-                    event.target.mute();
                     if (!live.hidden) startLivePlayers();
+                    else event.target.mute();
                 },
             },
         });
@@ -58,14 +67,19 @@ export const createLive = ({ tg, live, topic, place }) => {
                 onReady: event => {
                     secondLivePlayerReady = true;
                     event.target.setVolume(50);
-                    event.target.mute();
                     if (!live.hidden) startLivePlayers();
+                    else event.target.mute();
                 },
             },
         });
     };
     window.onYouTubeIframeAPIReady = initLivePlayers;
     if (window.YT?.Player) initLivePlayers();
+    arm?.addEventListener('pointerdown', () => {
+        if (livePlayerReady) sound(livePlayer);
+        if (secondLivePlayerReady) sound(secondLivePlayer);
+        arm.hidden = true;
+    });
     const paintChrome = () => {
         const on = !live.hidden;
         tg.SecondaryButton?.setParams?.({ position: 'left' });
@@ -73,7 +87,7 @@ export const createLive = ({ tg, live, topic, place }) => {
             tg.SecondaryButton?.hide();
             tg.BackButton?.hide();
         } else if (mode === 'cameras') {
-            tg.SecondaryButton?.setText('BACK TO NEWS BUCKET');
+            tg.SecondaryButton?.setText('LIVE NEWS');
             tg.SecondaryButton?.show();
             tg.BackButton?.show();
         } else {
@@ -81,7 +95,7 @@ export const createLive = ({ tg, live, topic, place }) => {
             tg.SecondaryButton?.show();
             tg.BackButton?.show();
         }
-        tg.MainButton.setText(on ? (mode === 'cameras' ? 'NEXT' : liveEn ? 'SWITCH TO JAPANESE' : 'SWITCH TO ENGLISH') : 'LIVE NEWS');
+        tg.MainButton.setText(on ? (mode === 'cameras' ? 'NEXT' : liveEn ? 'JAPANESE' : 'ENGLISH') : 'LIVE NEWS');
         const bar = document.getElementById('chrome');
         if (on) document.body.style.setProperty('--chrome-h', `${bar.offsetHeight}px`);
         else document.body.style.removeProperty('--chrome-h');
@@ -99,6 +113,7 @@ export const createLive = ({ tg, live, topic, place }) => {
         } else {
             if (livePlayerReady) livePlayer.stopVideo();
             if (secondLivePlayerReady) secondLivePlayer.stopVideo();
+            if (arm) arm.hidden = true;
         }
         paintChrome();
         tg.HapticFeedback.impactOccurred('heavy');
@@ -131,7 +146,7 @@ export const createLive = ({ tg, live, topic, place }) => {
         }
         liveEn = !liveEn;
         startLivePlayers();
-        tg.MainButton.setText(liveEn ? 'SWITCH TO JAPANESE' : 'SWITCH TO ENGLISH');
+        tg.MainButton.setText(liveEn ? 'JAPANESE' : 'ENGLISH');
     };
     const syncLive = () => {
         if (topic.value === 'japan') tg.MainButton.show();
