@@ -1,43 +1,93 @@
 [
   {
-    "title": "ティム・クック、Apple CEOを10年の任期を経て退任と発表",
-    "summary": "Appleの歴史的指導者が感動的な手紙で別れを告げる中、同社は主要幹部の相次ぐ退任の波に直面している。",
+    "title": "NVIDIA、ニューラルレンダリング搭載のDLSS 5を発表、RTX 50シリーズGPUで5倍の性能向上を約束",
+    "summary": "新バージョンのアップスケーリング技術は9月3日に『NBA 2K27』とともに登場し、すべてのRTX 50シリーズ、ノートPC、GeForce NOWで利用可能になる。",
     "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
       "xataka.com",
-      "techcrunch.com"
+      "tomshardware.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "EU、ChatGPTをデジタルサービス法下で超大規模検索エンジンとして指定",
-    "summary": "ブリュッセルはOpenAIのチャットボットに厳格な透明性義務とシステミックリスク管理を課す。",
+    "title": "NVIDIA、MediaTekに35億ドル投資し、RTX GPUとNVLink Fusion搭載チップを開発",
+    "summary": "この提携は、NVIDIAの技術をMediaTekのSoCに統合し、PCおよびノートPC向けにNVIDIA自社GPUの代替を創出することを目的としている。",
     "source": [
       "xataka.com",
-      "the-decoder.com"
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Instagram、未申告のAIプロフィールを制限し、ユーザーが実在人物と区別できないことを認める",
-    "summary": "Metaは、視聴者が合成コンテンツを識別することが困難であることを認めた後、自動化アカウントのルールを強化。",
+    "title": "OpenAI、サイバーセキュリティとシステム侵入能力を持つモデル『Astra』を準備中",
+    "summary": "新モデルはコンピュータシステムの脆弱性を突く能力で注目され、そのセーフガードを巡って議論を呼んでいる。",
     "source": [
       "techcrunch.com",
-      "the-decoder.com"
+      "news.ycombinator.com",
+      "wired.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "NVIDIA RTX Spark GPU搭載ノートPC、公式発売前に在庫切れ",
-    "summary": "モバイルワークステーション向け新世代統合グラフィックスが、クリエイターとプロフェッショナルの間で前例のない需要を生む。",
+    "title": "Anthropic、Claude Fable 5.1をリリース：プログラミングと研究が向上、45%コスト削減",
+    "summary": "このアップデートは制約とコストを削減し、コーディングおよび研究タスクで大幅な改善を導入する。",
     "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Tim Cook、15年間務めたApple CEOを退任、John Ternusが就任し『大型発表』を予告",
+    "summary": "新CEOは最初のメモで『来週、大型発表がある』と予告し、Cookは感慨深く別れを告げた。",
+    "source": [
+      "techcrunch.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIA DLSS 5がRTX 20/30シリーズに対応、しかし旧型モデルでは大幅な性能低下",
-    "summary": "フレーム生成技術が最新GPUでFPSを倍増させる一方、RTX 3080では性能が138から4 FPSに低下。",
+    "title": "Sony、法廷で『PlayStationのデジタルゲーム購入者は所有者ではない』と主張",
+    "summary": "同社は、合理的な消費者がゲームを所有していると誤解することはないと主張し、集団訴訟は裁判に至らない可能性がある。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Steam Deck、カタログ内の検証済み・プレイ可能ゲームが30,000本を突破",
+    "summary": "Valveの携帯機が互換性のマイルストーンを達成する中、『Steam Frame』に『Half-Life: Alyx』が無料同梱されるという噂も浮上。",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AIバグハンターがLinuxカーネルメンテナを圧倒、バージョンごとに2,000件の脆弱性を報告",
+    "summary": "4,000万行のコードを自動スキャンしたことで大量のCVEが発生し、開発者たちは『完全に圧倒的』と評している。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "MacBook Neo、わずか8GB RAMのためスワップ酷使で3時間に900GB書き込み、SSDが不可逆的に劣化",
+    "summary": "ユニファイドメモリ不足がスワップの酷使を招き、ハンダ付けされたストレージの寿命を大幅に縮めている。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIAドライバ 616.56、8ビットカラー設定のモニターでちらつき発生、同社が修正作業中",
+    "summary": "このアップデートは8ビットカラーに設定されたディスプレイに影響する不具合を導入し、NVIDIAが公式に認めている。",
     "source": [
       "videocardz.com",
       "elchapuzasinformatico.com"
@@ -45,29 +95,11 @@
     "count": 2
   },
   {
-    "title": "GTA VI、予約が436%急増、生成AI不使用で60万アニメーションを約束",
-    "summary": "トレーラーは400万視聴者を集め、シミュレーター級の詳細さを確認、AIによる手続き的生成を否定。",
+    "title": "Samsung、Intel Wildcat Lake搭載のGalaxy Book6を発売、8GB RAM/256GB SSDで799ドルから",
+    "summary": "このエントリーノートPCは控えめな仕様で登場し、価格競争力に疑問視する声も上がっている。",
     "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "G.Skill、Ryzen向けに最適化されたAMD EXPO ULLプロファイル搭載DDR5-6000 Flare X5Xメモリを発売",
-    "summary": "新モジュールは超低サブタイミングを提供し、RGB照明なしでAM5プラットフォームの性能を最大化。",
-    "source": [
-      "tomshardware.com",
+      "elchapuzasinformatico.com",
       "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenClaw 2.0、設定を簡素化、サブエージェント追跡とプライベート認証情報を追加",
-    "summary": "オープンソースエージェントフレームワークのアップデートにより、開発者のユーザビリティとセキュリティが向上。",
-    "source": [
-      "alternativeto.net",
-      "the-decoder.com"
     ],
     "count": 2
   }
