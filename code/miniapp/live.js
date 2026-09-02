@@ -13,6 +13,7 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
     let secondLivePlayer;
     let livePlayerReady = false;
     let secondLivePlayerReady = false;
+    let audioOn = false;
     const playerVars = {
         autoplay: 1,
         controls: 0,
@@ -31,6 +32,11 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
         else player.loadVideoById(videoId);
     };
     const startLivePlayers = () => {
+        if (telegram && audioOn) {
+            audioOn = false;
+            remountLive();
+            return;
+        }
         const [first, second] = mode === 'cameras'
             ? pairAt(camIds, camPage)
             : [liveEn ? LIVE_EN_ID : LIVE_ID, SECOND_LIVE_ID];
@@ -64,11 +70,27 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
             },
         });
     };
+    const remountLive = () => {
+        livePlayer?.destroy?.();
+        secondLivePlayer?.destroy?.();
+        livePlayer = undefined;
+        secondLivePlayer = undefined;
+        livePlayerReady = false;
+        secondLivePlayerReady = false;
+        [...live.querySelectorAll('.live-player')].forEach((slot, i) => {
+            slot.replaceChildren();
+            const div = document.createElement('div');
+            div.id = i ? 'liveSecondFrame' : 'liveFrame';
+            slot.appendChild(div);
+        });
+        initLivePlayers();
+    };
     window.onYouTubeIframeAPIReady = initLivePlayers;
     if (window.YT?.Player) initLivePlayers();
     live.addEventListener('click', () => {
         if (!livePlayerReady || live.hidden) return;
         livePlayer.unMute();
+        audioOn = true;
     });
     const paintChrome = () => {
         const on = !live.hidden;
@@ -95,6 +117,7 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
         if (!on) {
             mode = 'news';
             camPage = 0;
+            audioOn = false;
         }
         live.hidden = !on;
         initLivePlayers();
