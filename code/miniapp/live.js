@@ -24,23 +24,11 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
         origin: window.location.origin,
     };
     const playLive = (player, videoId, volume) => {
-        if (player.getVideoData?.()?.video_id === videoId) player.playVideo();
-        else player.loadVideoById(videoId);
         player.setVolume(volume);
         if (!telegram && player === livePlayer) player.unMute();
         else player.mute();
-        player.playVideo();
-        setTimeout(() => {
-            if (live.hidden) return;
-            player.setVolume(volume);
-            if (!telegram && player === livePlayer) player.unMute();
-            player.playVideo();
-        }, 500);
-        setTimeout(() => {
-            if (live.hidden || player.getPlayerState?.() === window.YT?.PlayerState?.PLAYING) return;
-            player.mute();
-            player.playVideo();
-        }, 1500);
+        if (player.getVideoData?.()?.video_id === videoId) player.playVideo();
+        else player.loadVideoById(videoId);
     };
     const startLivePlayers = () => {
         const [first, second] = mode === 'cameras'
@@ -78,6 +66,10 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
     };
     window.onYouTubeIframeAPIReady = initLivePlayers;
     if (window.YT?.Player) initLivePlayers();
+    live.addEventListener('click', () => {
+        if (!livePlayerReady || live.hidden) return;
+        livePlayer.unMute();
+    });
     const paintChrome = () => {
         const on = !live.hidden;
         tg.SecondaryButton?.setParams?.({ position: 'left' });
