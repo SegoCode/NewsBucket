@@ -1,70 +1,49 @@
 [
   {
-    "title": "中東紛争が石油、金、海上輸送を押し上げる",
-    "summary": "米国のイラン攻撃と緊張のエスカレーションが原油を急騰させ、金を下落させ、タンカー運賃を押し上げる",
+    "title": "世界的な債券の大量売却が激化し、インフレ懸念で利回りが数年振りの高水準に達する",
+    "summary": "債券市場が売りの波に見舞われ、利回りが数年振りの水準まで上昇し、マクロ経済への懸念が高まっている。",
     "source": [
-      "handelsblatt.com",
-      "nikkei.com",
-      "nasdaq.com",
       "ft.com",
-      "finance.yahoo.com",
-      "expansion.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "Shein株が香港上場デビューで10%下落、評価額縮小で",
-    "summary": "中国のファストファッション大手が香港証券取引所に上場、時価総額は前回のピークから75%減",
-    "source": [
-      "investing.com",
-      "nikkei.com",
+      "expansion.com",
       "handelsblatt.com",
-      "ft.com"
+      "nikkei.com"
     ],
     "count": 4
   },
   {
-    "title": "日経平均下落、日本国債利回りが30年振り高水準",
-    "summary": "米国の利上げと日銀利上げ観測で日本株が急落",
-    "source": [
-      "nikkei.com",
-      "handelsblatt.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ジャクソンホール会議での発言が世界債券を圧迫、円安に",
-    "summary": "FRBの長期高金利警告で利回り急上昇、アジア通貨が下落",
+    "title": "米国がイランへの新たな攻撃を実施、中東情勢の緊張が高まる",
+    "summary": "米国のイラン攻撃とホルムズ海峡でのタンカー事件が地政学的緊張を高め、原油価格を急騰させている。",
     "source": [
       "ft.com",
-      "handelsblatt.com",
-      "expansion.com"
+      "investing.com",
+      "nikkei.com",
+      "handelsblatt.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "ビットコインと暗号資産が利上げ期待で圧迫される",
-    "summary": "FRBがビットコインの上昇を阻止、ユーロインターバンク金利が2.95%に上昇しデジタル資産を圧迫",
-    "source": [
-      "expansion.com",
-      "finance.yahoo.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AIへの大規模投資と金融リスクへの警告",
-    "summary": "NvidiaとSK HynixがAIチップ支出をけん引、規制当局がシステミックリスクを警告",
+    "title": "アジア市場が大幅下落、日経平均が牽引し高金利懸念で",
+    "summary": "日本、香港、オーストラリアの株価指数が大幅安となり、投資家が世界的な利回り上昇を織り込んでいる。",
     "source": [
       "investing.com",
-      "ft.com"
+      "nasdaq.com",
+      "nikkei.com",
+      "handelsblatt.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "エヌビディアとオープンAIが巨額取引と新AIモデルで投資家の注目を集める",
+    "summary": "テック大手が記録的な投資と間もない新製品発表でAIへの熱狂を煽っている。",
+    "source": [
+      "investing.com",
+      "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "欧州株まちまち、IBEXが20,000割れ、DAXはエネルギー部門が重荷",
-    "summary": "根強いインフレと金融引き締めが欧州株を圧迫、一部好決算にもかかわらず",
+    "title": "ビットコインが最近の上昇相場後に7万9000ドル割れへ反落",
+    "summary": "暗号資産が最近の上昇後に下方修正し、アナリストがドルに対する避難資産としての役割を議論している。",
     "source": [
       "expansion.com",
       "handelsblatt.com"
@@ -72,10 +51,19 @@
     "count": 2
   },
   {
-    "title": "AonがUSI Insuranceを170億ドルで買収、今年最大の保険ディール",
-    "summary": "KKRが米ブローカーを英大手Aonに売却し多額のキャピタルゲインを獲得",
+    "title": "シーインの香港上場が失望、最大10%下落で幕開け",
+    "summary": "中国のファストファッション大手の株価が初日で10%下落し、市場の懐疑的見方を反映している。",
     "source": [
-      "handelsblatt.com",
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "デニーズのライバルチェーンがチャプター11申請で破綻",
+    "summary": "デニーズの競合が債権者保護申請を行い、カジュアル飲食業界の緊張が増している。",
+    "source": [
+      "finance.yahoo.com",
       "ft.com"
     ],
     "count": 2

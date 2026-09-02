@@ -1,43 +1,93 @@
 [
   {
-    "title": "Tim Cook anuncia su salida como CEO de Apple tras una década al frente",
-    "summary": "El histórico líder de Apple se despide con una carta emotiva mientras la compañía enfrenta una ola de salidas de ejecutivos clave.",
+    "title": "NVIDIA lanza DLSS 5 con renderizado neuronal y promete 5× más rendimiento en GPUs RTX 50",
+    "summary": "La nueva versión de la tecnología de escalado llega el 3 de septiembre con NBA 2K27 y estará disponible en todas las RTX serie 50, portátiles y GeForce NOW.",
     "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
       "xataka.com",
-      "techcrunch.com"
+      "tomshardware.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "La UE sitúa a ChatGPT bajo la Ley de Servicios Digitales como motor de búsqueda de muy gran tamaño",
-    "summary": "Bruselas somete al chatbot de OpenAI a obligaciones estrictas de transparencia y gestión de riesgos sistémicos.",
+    "title": "NVIDIA invierte 3.500 millones en MediaTek para desarrollar chips con GPU RTX y NVLink Fusion",
+    "summary": "La alianza busca crear alternativas a las propias GPU de NVIDIA integrando su tecnología en SoCs de MediaTek para PC y portátiles.",
     "source": [
       "xataka.com",
-      "the-decoder.com"
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Instagram limita los perfiles de IA no declarados y admite que los usuarios no los distinguen de personas reales",
-    "summary": "Meta endurece las reglas para cuentas automatizadas tras reconocer la dificultad de la audiencia para identificar contenido sintético.",
+    "title": "OpenAI prepara el modelo Astra con capacidades críticas de ciberseguridad y penetración de sistemas",
+    "summary": "El nuevo modelo destaca por su habilidad para vulnerar sistemas informáticos, generando debate sobre sus salvaguardas fronterizas.",
     "source": [
       "techcrunch.com",
-      "the-decoder.com"
+      "news.ycombinator.com",
+      "wired.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Los portátiles con GPU NVIDIA RTX Spark agotan existencias antes de su lanzamiento oficial",
-    "summary": "La nueva generación de gráficos integrados para estaciones de trabajo móviles genera una demanda sin precedentes entre creadores y profesionales.",
+    "title": "Anthropic lanza Claude Fable 5.1: mejor programación, investigación y 45% más barato",
+    "summary": "La actualización reduce restricciones y costes, e introduce mejoras significativas en codificación y tareas de investigación.",
     "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Tim Cook deja la CEO de Apple tras 15 años y John Ternus asume con promesa de gran lanzamiento",
+    "summary": "El nuevo consejero delegado envía su primer memo anticipando un 'gran lanzamiento la próxima semana' mientras Cook se despide emocionado.",
+    "source": [
+      "techcrunch.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIA DLSS 5 llega a tarjetas RTX serie 20 y 30, pero con caídas drásticas de rendimiento en modelos antiguos",
-    "summary": "La tecnología de generación de frames multiplica los FPS en GPU modernas, pero en una RTX 3080 reduce el rendimiento de 138 a 4 FPS.",
+    "title": "Sony defiende en court que los compradores de juegos digitales en PlayStation nunca son propietarios",
+    "summary": "La compañía argumenta que los consumidores razonables no se engañan al creer que poseen los juegos, y la demanda colectiva podría no llegar a juicio.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Steam Deck supera los 30.000 juegos verificados y jugables en su catálogo",
+    "summary": "La portátil de Valve alcanza un hito de compatibilidad mientras se rumorea que Steam Frame incluirá Half-Life: Alyx gratis.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Cazadores de bugs con IA desbordan a los mantenedores del kernel Linux con 2.000 vulnerabilidades por versión",
+    "summary": "El escaneo automatizado de 40 millones de líneas de código genera una avalancha de CVEs que los desarrolladores califican de 'completamente abrumadora'.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El MacBook Neo desgasta su SSD irreparablemente al escribir 900 GB en 3 horas por tener solo 8 GB de RAM",
+    "summary": "La falta de memoria unificada fuerza un uso intensivo de la memoria de intercambio, acortando drásticamente la vida del almacenamiento soldado.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los drivers NVIDIA 616.56 provocan parpadeo en monitores a 8 bits y la compañía ya trabaja en una solución",
+    "summary": "La actualización introduce un fallo que afecta a pantallas configuradas a 8 bits de color, reconocido oficialmente por NVIDIA.",
     "source": [
       "videocardz.com",
       "elchapuzasinformatico.com"
@@ -45,29 +95,11 @@
     "count": 2
   },
   {
-    "title": "GTA VI dispara las reservas un 436% y promete 600.000 animaciones sin usar IA generativa",
-    "summary": "El tráiler reúne 4 millones de espectadores y confirma un nivel de detalle simulador, descartando la generación procedural por IA.",
+    "title": "Samsung lanza el Galaxy Book6 con Intel Wildcat Lake, 8 GB de RAM y 256 GB SSD desde 799 dólares",
+    "summary": "El portátil económico llega al mercado con especificaciones modestas y un precio que algunos consideran poco competitivo.",
     "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "G.Skill lanza memoria DDR5-6000 Flare X5X con perfiles AMD EXPO ULL optimizados para Ryzen",
-    "summary": "Los nuevos módulos ofrecen subtempos ultra bajos para maximizar el rendimiento en plataformas AM5 sin iluminación RGB.",
-    "source": [
-      "tomshardware.com",
+      "elchapuzasinformatico.com",
       "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenClaw 2.0 simplifica la configuración, añade seguimiento de subagentes y credenciales privadas",
-    "summary": "La actualización del framework de agentes de código abierto mejora la usabilidad y la seguridad para desarrolladores.",
-    "source": [
-      "alternativeto.net",
-      "the-decoder.com"
     ],
     "count": 2
   }

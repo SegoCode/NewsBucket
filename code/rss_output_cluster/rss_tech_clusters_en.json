@@ -1,43 +1,93 @@
 [
   {
-    "title": "Tim Cook announces his departure as Apple CEO after a decade at the helm",
-    "summary": "Apple's historic leader bids farewell with an emotional letter as the company faces a wave of key executive departures.",
+    "title": "NVIDIA launches DLSS 5 with neural rendering and promises 5× more performance on RTX 50 GPUs",
+    "summary": "The new version of the upscaling technology arrives on September 3 with NBA 2K27 and will be available on all RTX 50 series, laptops, and GeForce NOW.",
     "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
       "xataka.com",
-      "techcrunch.com"
+      "tomshardware.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "EU places ChatGPT under Digital Services Act as very large search engine",
-    "summary": "Brussels subjects OpenAI's chatbot to strict transparency and systemic risk management obligations.",
+    "title": "NVIDIA invests $3.5 billion in MediaTek to develop chips with RTX GPU and NVLink Fusion",
+    "summary": "The alliance aims to create alternatives to NVIDIA's own GPUs by integrating its technology into MediaTek SoCs for PCs and laptops.",
     "source": [
       "xataka.com",
-      "the-decoder.com"
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Instagram limits undeclared AI profiles and admits users cannot distinguish them from real people",
-    "summary": "Meta tightens rules for automated accounts after acknowledging audience difficulty in identifying synthetic content.",
+    "title": "OpenAI prepares Astra model with critical cybersecurity and system penetration capabilities",
+    "summary": "The new model stands out for its ability to compromise computer systems, sparking debate about its frontier safeguards.",
     "source": [
       "techcrunch.com",
-      "the-decoder.com"
+      "news.ycombinator.com",
+      "wired.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Laptops with NVIDIA RTX Spark GPU sell out before official launch",
-    "summary": "New generation of integrated graphics for mobile workstations generates unprecedented demand among creators and professionals.",
+    "title": "Anthropic launches Claude Fable 5.1: better coding, research, and 45% cheaper",
+    "summary": "The update reduces restrictions and costs, and introduces significant improvements in coding and research tasks.",
     "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Tim Cook steps down as Apple CEO after 15 years and John Ternus takes over with promise of major launch",
+    "summary": "The new CEO sends his first memo anticipating a 'major launch next week' as Cook bids an emotional farewell.",
+    "source": [
+      "techcrunch.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "NVIDIA DLSS 5 arrives on RTX 20 and 30 series cards, but with drastic performance drops on older models",
-    "summary": "Frame generation technology multiplies FPS on modern GPUs, but on an RTX 3080 reduces performance from 138 to 4 FPS.",
+    "title": "Sony argues in court that buyers of digital games on PlayStation are never owners",
+    "summary": "The company argues that reasonable consumers are not deceived into believing they own the games, and the class-action lawsuit may not go to trial.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Steam Deck surpasses 30,000 verified and playable games in its catalog",
+    "summary": "Valve's handheld reaches a compatibility milestone as rumors suggest Steam Frame will include Half-Life: Alyx for free.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AI bug hunters overwhelm Linux kernel maintainers with 2,000 vulnerabilities per release",
+    "summary": "Automated scanning of 40 million lines of code generates an avalanche of CVEs that developers describe as 'completely overwhelming.'",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "MacBook Neo irreversibly wears out its SSD by writing 900 GB in 3 hours due to having only 8 GB of RAM",
+    "summary": "The lack of unified memory forces intensive swap usage, drastically shortening the lifespan of the soldered storage.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA 616.56 drivers cause flickering on 8-bit monitors and the company is already working on a fix",
+    "summary": "The update introduces a bug affecting displays configured at 8-bit color, officially acknowledged by NVIDIA.",
     "source": [
       "videocardz.com",
       "elchapuzasinformatico.com"
@@ -45,29 +95,11 @@
     "count": 2
   },
   {
-    "title": "GTA VI drives pre-orders up 436% and promises 600,000 animations without using generative AI",
-    "summary": "Trailer gathers 4 million viewers and confirms simulator-level detail, ruling out procedural AI generation.",
+    "title": "Samsung launches Galaxy Book6 with Intel Wildcat Lake, 8 GB RAM and 256 GB SSD starting at $799",
+    "summary": "The budget laptop hits the market with modest specifications and a price that some consider uncompetitive.",
     "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "G.Skill launches DDR5-6000 Flare X5X memory with AMD EXPO ULL profiles optimized for Ryzen",
-    "summary": "New modules offer ultra-low sub-timings to maximize performance on AM5 platforms without RGB lighting.",
-    "source": [
-      "tomshardware.com",
+      "elchapuzasinformatico.com",
       "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenClaw 2.0 simplifies configuration, adds sub-agent tracking and private credentials",
-    "summary": "Open-source agent framework update improves usability and security for developers.",
-    "source": [
-      "alternativeto.net",
-      "the-decoder.com"
     ],
     "count": 2
   }
