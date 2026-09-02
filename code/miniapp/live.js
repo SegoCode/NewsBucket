@@ -117,12 +117,14 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
         if (!on) {
             mode = 'news';
             camPage = 0;
-            audioOn = false;
         }
         live.hidden = !on;
         initLivePlayers();
         if (on) {
             startLivePlayers();
+        } else if (telegram && audioOn) {
+            audioOn = false;
+            remountLive();
         } else {
             if (livePlayerReady) livePlayer.stopVideo();
             if (secondLivePlayerReady) secondLivePlayer.stopVideo();
