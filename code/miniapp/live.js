@@ -15,7 +15,6 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
     let secondLivePlayerReady = false;
     const playerVars = {
         autoplay: 1,
-        mute: 1,
         controls: 0,
         modestbranding: 1,
         rel: 0,
@@ -25,11 +24,23 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
         origin: window.location.origin,
     };
     const playLive = (player, videoId, volume) => {
+        if (player.getVideoData?.()?.video_id === videoId) player.playVideo();
+        else player.loadVideoById(videoId);
         player.setVolume(volume);
         if (!telegram && player === livePlayer) player.unMute();
         else player.mute();
-        if (player.getVideoData?.()?.video_id === videoId) player.playVideo();
-        else player.loadVideoById(videoId);
+        player.playVideo();
+        setTimeout(() => {
+            if (live.hidden) return;
+            player.setVolume(volume);
+            if (!telegram && player === livePlayer) player.unMute();
+            player.playVideo();
+        }, 500);
+        setTimeout(() => {
+            if (live.hidden || player.getPlayerState?.() === window.YT?.PlayerState?.PLAYING) return;
+            player.mute();
+            player.playVideo();
+        }, 1500);
     };
     const startLivePlayers = () => {
         const [first, second] = mode === 'cameras'
@@ -42,8 +53,6 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
         if (livePlayer || !window.YT?.Player) return;
         livePlayer = new window.YT.Player('liveFrame', {
             videoId: LIVE_ID,
-            width: '100%',
-            height: '100%',
             playerVars,
             events: {
                 onReady: event => {
@@ -56,8 +65,6 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
         });
         secondLivePlayer = new window.YT.Player('liveSecondFrame', {
             videoId: SECOND_LIVE_ID,
-            width: '100%',
-            height: '100%',
             playerVars,
             events: {
                 onReady: event => {
