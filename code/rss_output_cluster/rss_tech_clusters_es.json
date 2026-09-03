@@ -1,105 +1,107 @@
 [
   {
-    "title": "NVIDIA lanza DLSS 5 con renderizado neuronal y promete 5× más rendimiento en GPUs RTX 50",
-    "summary": "La nueva versión de la tecnología de escalado llega el 3 de septiembre con NBA 2K27 y estará disponible en todas las RTX serie 50, portátiles y GeForce NOW.",
+    "title": "Dell lanza el portátil estudiantil 14S con Intel Wildcat Lake, hasta 21 horas de batería y cuatro colores para competir con el MacBook Neo",
+    "summary": "El ultraligero de 14 pulgadas llega en varias configuraciones, destacando por su autonomía, puertos y diseño en aluminio, posicionándose como alternativa a los portátiles de Apple.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "kite.kagi.com",
+      "tomshardware.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Anthropic lanza Claude Fable 5.1 con mejoras significativas en investigación y programación",
+    "summary": "El nuevo modelo eleva su rendimiento en tareas científicas del 24,7% al 52,6% y en programación del 42% al 55,8%, reduciendo costes de caché y restricciones.",
+    "source": [
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com",
+      "alternativeto.net"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Modders crean herramientas para usar DLSS 5 en cualquier juego tras la negativa de NVIDIA a permitir su forzado",
+    "summary": "La comunidad desarrolla 'DLSS 5 Swapper' y analiza el rendimiento inicial, revelando límites del conector 12V-2x6 en la RTX 5090 mientras NVIDIA bloquea la anulación oficial.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com",
-      "xataka.com",
       "tomshardware.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "NVIDIA invierte 3.500 millones en MediaTek para desarrollar chips con GPU RTX y NVLink Fusion",
-    "summary": "La alianza busca crear alternativas a las propias GPU de NVIDIA integrando su tecnología en SoCs de MediaTek para PC y portátiles.",
+    "title": "Acer presenta una ofensiva de portátiles y consolas portátiles gaming: Predator Atlas 7, DualPlay Mini y Swift Blade 14",
+    "summary": "La marca revela dispositivos con pantallas de 120 Hz, gráficas Intel Arc y diseños convertibles, buscando desafiar a Steam Deck y ASUS ROG Ally en el mercado portátil.",
     "source": [
-      "xataka.com",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "hardzone.es",
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "OpenAI prepara el modelo Astra con capacidades críticas de ciberseguridad y penetración de sistemas",
-    "summary": "El nuevo modelo destaca por su habilidad para vulnerar sistemas informáticos, generando debate sobre sus salvaguardas fronterizas.",
+    "title": "EE. UU. respalda a OpenAI en demandas por derechos de autor sobre entrenamiento de IA",
+    "summary": "La administración Trump y el Departamento de Justicia argumentan que el uso de material protegido para entrenar modelos constituye uso legítimo, alineándose con OpenAI frente al New York Times.",
     "source": [
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "wired.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic lanza Claude Fable 5.1: mejor programación, investigación y 45% más barato",
-    "summary": "La actualización reduce restricciones y costes, e introduce mejoras significativas en codificación y tareas de investigación.",
-    "source": [
+      "wired.com",
       "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google evita la división de su negocio publicitario pero debe cambiar sus prácticas",
+    "summary": "Un juez dictamina que Google no será desmembrado, pero ordena modificaciones en su operación publicitaria tras una demanda antimonopolio.",
+    "source": [
       "techcrunch.com",
       "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Tim Cook deja la CEO de Apple tras 15 años y John Ternus asume con promesa de gran lanzamiento",
-    "summary": "El nuevo consejero delegado envía su primer memo anticipando un 'gran lanzamiento la próxima semana' mientras Cook se despide emocionado.",
+    "title": "Filtración masiva de 153 millones de licencias de conducir en EE. UU. y Canadá vinculada a un servicio de verificación de identidad",
+    "summary": "El FBI investiga una brecha en un proveedor de autenticación de identidad que expuso datos de funcionarios, incluido el secretario de Defensa, en un foro ruso.",
     "source": [
       "techcrunch.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony defiende en court que los compradores de juegos digitales en PlayStation nunca son propietarios",
-    "summary": "La compañía argumenta que los consumidores razonables no se engañan al creer que poseen los juegos, y la demanda colectiva podría no llegar a juicio.",
-    "source": [
-      "elchapuzasinformatico.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Steam Deck supera los 30.000 juegos verificados y jugables en su catálogo",
-    "summary": "La portátil de Valve alcanza un hito de compatibilidad mientras se rumorea que Steam Frame incluirá Half-Life: Alyx gratis.",
+    "title": "Pangram se consolida como estándar de oro en detección de IA, pero surgen dudas sobre su fiabilidad",
+    "summary": "La herramienta de detección de texto generado por IA gana reconocimiento, aunque expertos debaten si su enfoque es suficiente para distinguir contenido sintético.",
     "source": [
-      "videocardz.com",
-      "hardzone.es"
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "Cazadores de bugs con IA desbordan a los mantenedores del kernel Linux con 2.000 vulnerabilidades por versión",
-    "summary": "El escaneo automatizado de 40 millones de líneas de código genera una avalancha de CVEs que los desarrolladores califican de 'completamente abrumadora'.",
+    "title": "Google lanza Gemini 3.8 Flash, su tercer modelo económico en seis semanas, mientras los modelos frontera siguen sin aparecer",
+    "summary": "La rápida sucesión de versiones ligeras de Gemini contrasta con la ausencia de actualizaciones en los modelos más avanzados, generando especulaciones sobre la estrategia de Google.",
     "source": [
-      "elchapuzasinformatico.com",
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GoPro se vende por 285 millones y pivotará hacia centros de datos de IA y defensa",
+    "summary": "La acción que valió 12.000 millones es adquirida por una empresa de fotónica óptica, con planes de trasladar fabricación a EE. UU. y reconvertir el negocio.",
+    "source": [
+      "xataka.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "El MacBook Neo desgasta su SSD irreparablemente al escribir 900 GB en 3 horas por tener solo 8 GB de RAM",
-    "summary": "La falta de memoria unificada fuerza un uso intensivo de la memoria de intercambio, acortando drásticamente la vida del almacenamiento soldado.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Los drivers NVIDIA 616.56 provocan parpadeo en monitores a 8 bits y la compañía ya trabaja en una solución",
-    "summary": "La actualización introduce un fallo que afecta a pantallas configuradas a 8 bits de color, reconocido oficialmente por NVIDIA.",
+    "title": "Alienware estrena monitores QD-OLED de 32 pulgadas 4K 165 Hz y 560 Hz 1080p para jugadores exigentes",
+    "summary": "Dell amplía su línea gaming con paneles de alta velocidad y densidad de píxeles, ofreciendo opciones tanto para resolución como para refresco extremo.",
     "source": [
       "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung lanza el Galaxy Book6 con Intel Wildcat Lake, 8 GB de RAM y 256 GB SSD desde 799 dólares",
-    "summary": "El portátil económico llega al mercado con especificaciones modestas y un precio que algunos consideran poco competitivo.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "tomshardware.com"
     ],
     "count": 2
   }
