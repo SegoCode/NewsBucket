@@ -1,105 +1,107 @@
 [
   {
-    "title": "NVIDIA、ニューラルレンダリング搭載のDLSS 5を発表、RTX 50シリーズGPUで5倍の性能向上を約束",
-    "summary": "新バージョンのアップスケーリング技術は9月3日に『NBA 2K27』とともに登場し、すべてのRTX 50シリーズ、ノートPC、GeForce NOWで利用可能になる。",
+    "title": "Dell、学生向けノートPC「14S」を発表：Intel Wildcat Lake搭載、最大21時間バッテリー、4色展開でMacBook Neoに対抗",
+    "summary": "14インチの超軽量ノートPCが複数の構成で登場。バッテリー持続時間、ポート、アルミニウムデザインが特徴で、AppleのノートPCへの代替として位置づけられる。",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "kite.kagi.com",
+      "tomshardware.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Anthropic、Claude Fable 5.1をリリース：研究とプログラミングで大幅な性能向上",
+    "summary": "新モデルは科学タスクの性能を24.7%から52.6%へ、プログラミングを42%から55.8%へ向上させ、キャッシュコストと制約を削減。",
+    "source": [
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com",
+      "alternativeto.net"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Modderコミュニティ、NVIDIAが公式に許可しないDLSS 5を任意のゲームで使用可能にするツールを開発",
+    "summary": "コミュニティが『DLSS 5 Swapper』を開発し初期性能を分析。RTX 5090の12V-2x6コネクタの限界が明らかになる中、NVIDIAは公式な無効化をブロック。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com",
-      "xataka.com",
       "tomshardware.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "NVIDIA、MediaTekに35億ドル投資し、RTX GPUとNVLink Fusion搭載チップを開発",
-    "summary": "この提携は、NVIDIAの技術をMediaTekのSoCに統合し、PCおよびノートPC向けにNVIDIA自社GPUの代替を創出することを目的としている。",
+    "title": "Acer、ゲーミングノートPCと携帯型ゲーム機の新製品群を発表：Predator Atlas 7、DualPlay Mini、Swift Blade 14",
+    "summary": "120Hzディスプレイ、Intel Arcグラフィックス、コンバーチブルデザインを備えたデバイスで、Steam DeckとASUS ROG Allyに挑む。",
     "source": [
-      "xataka.com",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "hardzone.es",
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "OpenAI、サイバーセキュリティとシステム侵入能力を持つモデル『Astra』を準備中",
-    "summary": "新モデルはコンピュータシステムの脆弱性を突く能力で注目され、そのセーフガードを巡って議論を呼んでいる。",
+    "title": "米国政府、AI訓練における著作権訴訟でOpenAIを支持",
+    "summary": "トランプ政権と司法省は、保護された素材をモデル訓練に使用することはフェアユースに当たると主張し、ニューヨーク・タイムズとの訴訟でOpenAI側に立つ。",
     "source": [
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "wired.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic、Claude Fable 5.1をリリース：プログラミングと研究が向上、45%コスト削減",
-    "summary": "このアップデートは制約とコストを削減し、コーディングおよび研究タスクで大幅な改善を導入する。",
-    "source": [
+      "wired.com",
       "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google、広告事業の分割は回避も業務慣行の変更を命じられる",
+    "summary": "裁判所はGoogleの分割を命じないものの、独占禁止法訴訟を受け広告事業の運営変更を命令。",
+    "source": [
       "techcrunch.com",
       "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Tim Cook、15年間務めたApple CEOを退任、John Ternusが就任し『大型発表』を予告",
-    "summary": "新CEOは最初のメモで『来週、大型発表がある』と予告し、Cookは感慨深く別れを告げた。",
+    "title": "米国とカナダで1億5300万件の運転免許証データが流出、身元確認サービスが関与",
+    "summary": "FBIが身元認証プロバイダの侵害を捜査。国防長官を含む政府高官のデータがロシアのフォーラムで公開される。",
     "source": [
       "techcrunch.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony、法廷で『PlayStationのデジタルゲーム購入者は所有者ではない』と主張",
-    "summary": "同社は、合理的な消費者がゲームを所有していると誤解することはないと主張し、集団訴訟は裁判に至らない可能性がある。",
-    "source": [
-      "elchapuzasinformatico.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Steam Deck、カタログ内の検証済み・プレイ可能ゲームが30,000本を突破",
-    "summary": "Valveの携帯機が互換性のマイルストーンを達成する中、『Steam Frame』に『Half-Life: Alyx』が無料同梱されるという噂も浮上。",
+    "title": "PangramがAI検出のゴールドスタンダードに、しかし信頼性に疑問の声も",
+    "summary": "AI生成テキスト検出ツールが評価を得るも、専門家はその手法が合成コンテンツの識別に十分か議論。",
     "source": [
-      "videocardz.com",
-      "hardzone.es"
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "AIバグハンターがLinuxカーネルメンテナを圧倒、バージョンごとに2,000件の脆弱性を報告",
-    "summary": "4,000万行のコードを自動スキャンしたことで大量のCVEが発生し、開発者たちは『完全に圧倒的』と評している。",
+    "title": "Google、Gemini 3.8 Flashをリリース：6週間で3つ目の軽量モデル、最先端モデルは未だ登場せず",
+    "summary": "軽量版Geminiが短期間で相次ぐ一方、最先端モデルの更新がなく、Googleの戦略に憶測が広がる。",
     "source": [
-      "elchapuzasinformatico.com",
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GoProが2億8500万ドルで売却、AIデータセンターと防衛分野へ転換",
+    "summary": "一時120億ドルの価値があった企業が光学フォトニクス企業に買収され、製造を米国に移管し事業を再編へ。",
+    "source": [
+      "xataka.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "MacBook Neo、わずか8GB RAMのためスワップ酷使で3時間に900GB書き込み、SSDが不可逆的に劣化",
-    "summary": "ユニファイドメモリ不足がスワップの酷使を招き、ハンダ付けされたストレージの寿命を大幅に縮めている。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIAドライバ 616.56、8ビットカラー設定のモニターでちらつき発生、同社が修正作業中",
-    "summary": "このアップデートは8ビットカラーに設定されたディスプレイに影響する不具合を導入し、NVIDIAが公式に認めている。",
+    "title": "Alienware、32インチQD-OLEDゲーミングモニターを発表：4K 165Hzと1080p 560Hzの2モデル",
+    "summary": "Dellがゲーミングラインを拡充。高速・高画素密度パネルで、高解像度と超高リフレッシュレートの両ニーズに対応。",
     "source": [
       "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung、Intel Wildcat Lake搭載のGalaxy Book6を発売、8GB RAM/256GB SSDで799ドルから",
-    "summary": "このエントリーノートPCは控えめな仕様で登場し、価格競争力に疑問視する声も上がっている。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "tomshardware.com"
     ],
     "count": 2
   }

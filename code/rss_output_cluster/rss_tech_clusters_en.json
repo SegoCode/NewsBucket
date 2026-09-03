@@ -1,105 +1,107 @@
 [
   {
-    "title": "NVIDIA launches DLSS 5 with neural rendering and promises 5× more performance on RTX 50 GPUs",
-    "summary": "The new version of the upscaling technology arrives on September 3 with NBA 2K27 and will be available on all RTX 50 series, laptops, and GeForce NOW.",
+    "title": "Dell launches the student laptop 14S with Intel Wildcat Lake, up to 21 hours of battery and four colors to compete with the MacBook Neo",
+    "summary": "The 14-inch ultralight arrives in various configurations, standing out for its autonomy, ports, and aluminum design, positioning itself as an alternative to Apple laptops.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "kite.kagi.com",
+      "tomshardware.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Anthropic launches Claude Fable 5.1 with significant improvements in research and programming",
+    "summary": "The new model raises its performance in scientific tasks from 24.7% to 52.6% and in programming from 42% to 55.8%, reducing cache costs and restrictions.",
+    "source": [
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com",
+      "alternativeto.net"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Modders create tools to use DLSS 5 in any game after NVIDIA's refusal to allow forcing it",
+    "summary": "The community develops 'DLSS 5 Swapper' and analyzes initial performance, revealing limits of the 12V-2x6 connector on the RTX 5090 while NVIDIA blocks official override.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com",
-      "xataka.com",
       "tomshardware.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "NVIDIA invests $3.5 billion in MediaTek to develop chips with RTX GPU and NVLink Fusion",
-    "summary": "The alliance aims to create alternatives to NVIDIA's own GPUs by integrating its technology into MediaTek SoCs for PCs and laptops.",
+    "title": "Acer presents an offensive of gaming laptops and handheld consoles: Predator Atlas 7, DualPlay Mini and Swift Blade 14",
+    "summary": "The brand reveals devices with 120 Hz screens, Intel Arc graphics, and convertible designs, seeking to challenge Steam Deck and ASUS ROG Ally in the handheld market.",
     "source": [
-      "xataka.com",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "hardzone.es",
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "OpenAI prepares Astra model with critical cybersecurity and system penetration capabilities",
-    "summary": "The new model stands out for its ability to compromise computer systems, sparking debate about its frontier safeguards.",
+    "title": "U.S. backs OpenAI in copyright lawsuits over AI training",
+    "summary": "The Trump administration and the Department of Justice argue that the use of protected material to train models constitutes fair use, aligning with OpenAI against the New York Times.",
     "source": [
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "wired.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic launches Claude Fable 5.1: better coding, research, and 45% cheaper",
-    "summary": "The update reduces restrictions and costs, and introduces significant improvements in coding and research tasks.",
-    "source": [
+      "wired.com",
       "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google avoids breakup of its advertising business but must change its practices",
+    "summary": "A judge rules that Google will not be broken up, but orders modifications to its advertising operation following an antitrust lawsuit.",
+    "source": [
       "techcrunch.com",
       "news.ycombinator.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Tim Cook steps down as Apple CEO after 15 years and John Ternus takes over with promise of major launch",
-    "summary": "The new CEO sends his first memo anticipating a 'major launch next week' as Cook bids an emotional farewell.",
+    "title": "Massive leak of 153 million driver's licenses in U.S. and Canada linked to an identity verification service",
+    "summary": "The FBI investigates a breach in an identity authentication provider that exposed data of officials, including the Secretary of Defense, on a Russian forum.",
     "source": [
       "techcrunch.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony argues in court that buyers of digital games on PlayStation are never owners",
-    "summary": "The company argues that reasonable consumers are not deceived into believing they own the games, and the class-action lawsuit may not go to trial.",
-    "source": [
-      "elchapuzasinformatico.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Steam Deck surpasses 30,000 verified and playable games in its catalog",
-    "summary": "Valve's handheld reaches a compatibility milestone as rumors suggest Steam Frame will include Half-Life: Alyx for free.",
+    "title": "Pangram establishes itself as gold standard in AI detection, but doubts arise about its reliability",
+    "summary": "The AI-generated text detection tool gains recognition, although experts debate whether its approach is sufficient to distinguish synthetic content.",
     "source": [
-      "videocardz.com",
-      "hardzone.es"
+      "techcrunch.com",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "AI bug hunters overwhelm Linux kernel maintainers with 2,000 vulnerabilities per release",
-    "summary": "Automated scanning of 40 million lines of code generates an avalanche of CVEs that developers describe as 'completely overwhelming.'",
+    "title": "Google launches Gemini 3.8 Flash, its third budget model in six weeks, while frontier models remain absent",
+    "summary": "The rapid succession of lightweight Gemini versions contrasts with the absence of updates in the most advanced models, generating speculation about Google's strategy.",
     "source": [
-      "elchapuzasinformatico.com",
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GoPro sells for $285 million and will pivot toward AI data centers and defense",
+    "summary": "The stock once worth $12 billion is acquired by an optical photonics company, with plans to move manufacturing to the U.S. and reconvert the business.",
+    "source": [
+      "xataka.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "MacBook Neo irreversibly wears out its SSD by writing 900 GB in 3 hours due to having only 8 GB of RAM",
-    "summary": "The lack of unified memory forces intensive swap usage, drastically shortening the lifespan of the soldered storage.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA 616.56 drivers cause flickering on 8-bit monitors and the company is already working on a fix",
-    "summary": "The update introduces a bug affecting displays configured at 8-bit color, officially acknowledged by NVIDIA.",
+    "title": "Alienware debuts 32-inch QD-OLED monitors 4K 165 Hz and 560 Hz 1080p for demanding gamers",
+    "summary": "Dell expands its gaming line with high-speed and pixel-density panels, offering options for both resolution and extreme refresh rate.",
     "source": [
       "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung launches Galaxy Book6 with Intel Wildcat Lake, 8 GB RAM and 256 GB SSD starting at $799",
-    "summary": "The budget laptop hits the market with modest specifications and a price that some consider uncompetitive.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "tomshardware.com"
     ],
     "count": 2
   }
