@@ -1,106 +1,138 @@
 [
   {
-    "title": "Dell、学生向けノートPC「14S」を発表：Intel Wildcat Lake搭載、最大21時間バッテリー、4色展開でMacBook Neoに対抗",
-    "summary": "14インチの超軽量ノートPCが複数の構成で登場。バッテリー持続時間、ポート、アルミニウムデザインが特徴で、AppleのノートPCへの代替として位置づけられる。",
+    "title": "NVIDIAがHugging Faceを129億3000万ドルで買収し、AIモデルの配布を掌握",
+    "summary": "この買収によりNVIDIAは最大のオープンAIモデルプラットフォームの所有者となり、AMDや他社のハードウェアに対する中立性を維持する。",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com",
       "videocardz.com",
-      "kite.kagi.com",
-      "tomshardware.com"
+      "tomshardware.com",
+      "xataka.com",
+      "the-decoder.com",
+      "wired.com",
+      "techcrunch.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "OpenAIがGPT-6 Astraを発表、同社によればAGI時代を切り開く最先端モデル",
+    "summary": "新モデルは再帰的アーキテクチャと推論能力が特徴だが、監視と安全性の課題を提起している。",
+    "source": [
+      "news.ycombinator.com",
+      "xataka.com",
+      "the-decoder.com",
+      "wired.com",
+      "techcrunch.com"
     ],
     "count": 5
   },
   {
-    "title": "Anthropic、Claude Fable 5.1をリリース：研究とプログラミングで大幅な性能向上",
-    "summary": "新モデルは科学タスクの性能を24.7%から52.6%へ、プログラミングを42%から55.8%へ向上させ、キャッシュコストと制約を削減。",
+    "title": "NVIDIAがRTX Sparkを発表、AI PC向けスーパーチップで最大6144 CUDAコアと128GB統合メモリ搭載",
+    "summary": "チップはCPUとGPUを単一パッケージに統合し、10月にノートPCとデスクトップ向けに登場。Lenovo、ASUSなどのデバイスでローカルAIを推進する。",
     "source": [
-      "news.ycombinator.com",
+      "videocardz.com",
+      "xataka.com",
+      "hardzone.es",
+      "tomshardware.com",
+      "wired.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "GoogleがGmail、Docs、KeepにAI音声機能を導入し、サイバーセキュリティ特化のGemini 3.8 Flashをリリース",
+    "summary": "新機能にはGemini Notebookでの動画要約や、脆弱性の70%を検出するモデルが含まれ、Anthropicへの対抗となる。",
+    "source": [
+      "techcrunch.com",
       "elchapuzasinformatico.com",
       "alternativeto.net"
     ],
     "count": 3
   },
   {
-    "title": "Modderコミュニティ、NVIDIAが公式に許可しないDLSS 5を任意のゲームで使用可能にするツールを開発",
-    "summary": "コミュニティが『DLSS 5 Swapper』を開発し初期性能を分析。RTX 5090の12V-2x6コネクタの限界が明らかになる中、NVIDIAは公式な無効化をブロック。",
+    "title": "MetaがMuse Spark 1.3をリリース、エージェントタスクとコード作業向けに改善し、ユーザーに報酬を支払ってAI利用を分析",
+    "summary": "アップデートでプログラミング性能が向上しコスト削減を実現、同社はモデルの利用状況を監視している。",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "MicrosoftがXbox Cloud GamingをGame Pass Ultimate加入者向けに月15時間に制限",
+    "summary": "この措置は11月から発効し、クラウドストリーミングのみに影響し、コンソールやローカルPCでのプレイには影響しない。",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD RDNA 5、次世代RX 11000シリーズで3.1〜3.4GHzのクロック周波数を達成へ",
+    "summary": "内部リークによると最大クロックは現行世代を上回り、大幅な性能向上が期待される。",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com"
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Acer、ゲーミングノートPCと携帯型ゲーム機の新製品群を発表：Predator Atlas 7、DualPlay Mini、Swift Blade 14",
-    "summary": "120Hzディスプレイ、Intel Arcグラフィックス、コンバーチブルデザインを備えたデバイスで、Steam DeckとASUS ROG Allyに挑む。",
+    "title": "DLSS 5が電力ストレステストに：RTX 5090が802W消費で性能20%向上",
+    "summary": "DLSS 5がRTX 50シリーズ専用で高電力を要求することは、AMDのFSR 5に対してNVIDIAに優位性をもたらす可能性がある。",
     "source": [
-      "hardzone.es",
-      "videocardz.com",
-      "tomshardware.com"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "米国政府、AI訓練における著作権訴訟でOpenAIを支持",
-    "summary": "トランプ政権と司法省は、保護された素材をモデル訓練に使用することはフェアユースに当たると主張し、ニューヨーク・タイムズとの訴訟でOpenAI側に立つ。",
+    "title": "ChatGPT、Claude、Gemini、Grokが同時にダウン、OpenAIとAnthropicから公式説明なし",
+    "summary": "主要チャットボットが数時間応答不能に、Anthropicの復旧に時間がかかり、原因を巡る憶測を呼んでいる。",
     "source": [
       "wired.com",
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google、広告事業の分割は回避も業務慣行の変更を命じられる",
-    "summary": "裁判所はGoogleの分割を命じないものの、独占禁止法訴訟を受け広告事業の運営変更を命令。",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "米国とカナダで1億5300万件の運転免許証データが流出、身元確認サービスが関与",
-    "summary": "FBIが身元認証プロバイダの侵害を捜査。国防長官を含む政府高官のデータがロシアのフォーラムで公開される。",
+    "title": "Nexus ModsがSteamデータベースのSteamDBを買収、広告なし・ペイウォールなしで維持すると約束",
+    "summary": "この買収により最大のMODコミュニティとSteamの価格・データ追跡ツールが統合され、継続が保証される。",
     "source": [
-      "techcrunch.com",
-      "tomshardware.com"
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "PangramがAI検出のゴールドスタンダードに、しかし信頼性に疑問の声も",
-    "summary": "AI生成テキスト検出ツールが評価を得るも、専門家はその手法が合成コンテンツの識別に十分か議論。",
-    "source": [
-      "techcrunch.com",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google、Gemini 3.8 Flashをリリース：6週間で3つ目の軽量モデル、最先端モデルは未だ登場せず",
-    "summary": "軽量版Geminiが短期間で相次ぐ一方、最先端モデルの更新がなく、Googleの戦略に憶測が広がる。",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GoProが2億8500万ドルで売却、AIデータセンターと防衛分野へ転換",
-    "summary": "一時120億ドルの価値があった企業が光学フォトニクス企業に買収され、製造を米国に移管し事業を再編へ。",
+    "title": "新型ロボット掃除機が登場：Dreameはスチーム拭き掃除、Dysonが参入、Ecovacsがフラッグシップ発売",
+    "summary": "180度スチーム拭き、防水カメラ、53AW吸引力など競争が激化、Lefantは低価格オプションを提供。",
     "source": [
       "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Windows 11がより多くのPCでVBSとメモリ整合性をデフォルト有効化、FPS低下とアンダーボルティング制限を招く",
+    "summary": "Microsoftがハードウェアベースの仮想化を有効化してセキュリティを強化、グラフィック性能と電圧調整に影響。",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel Nova Lake（LGA1954）が2026年後半に量産開始、2027年市場投入でマルチ世代サポート",
+    "summary": "新ソケットで複数世代のCPUに対応、エンジニアの『フェロー』称号廃止と測定可能なビジネス成果の要求を示す。",
+    "source": [
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Alienware、32インチQD-OLEDゲーミングモニターを発表：4K 165Hzと1080p 560Hzの2モデル",
-    "summary": "Dellがゲーミングラインを拡充。高速・高画素密度パネルで、高解像度と超高リフレッシュレートの両ニーズに対応。",
+    "title": "LenovoがIdeaPad Vibe発表：14/15インチ、金属筐体、7色展開、交換可能キーボード、699ドルから",
+    "summary": "新シリーズはカスタマイズ性を重視し、Snapdragon XとAMD Ryzen AI 400搭載モデルを提供。IFAではファンレスのAeroBladeコンセプトも披露。",
     "source": [
-      "videocardz.com",
+      "xataka.com",
       "tomshardware.com"
     ],
     "count": 2
