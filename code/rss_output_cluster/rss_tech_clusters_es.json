@@ -1,106 +1,138 @@
 [
   {
-    "title": "Dell lanza el portátil estudiantil 14S con Intel Wildcat Lake, hasta 21 horas de batería y cuatro colores para competir con el MacBook Neo",
-    "summary": "El ultraligero de 14 pulgadas llega en varias configuraciones, destacando por su autonomía, puertos y diseño en aluminio, posicionándose como alternativa a los portátiles de Apple.",
+    "title": "NVIDIA adquiere Hugging Face por 12.930 millones de dólares para controlar la distribución de modelos de IA",
+    "summary": "La compra convierte a NVIDIA en propietaria de la mayor plataforma abierta de modelos de IA, manteniendo su neutralidad frente a hardware de AMD y otros.",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com",
       "videocardz.com",
-      "kite.kagi.com",
-      "tomshardware.com"
+      "tomshardware.com",
+      "xataka.com",
+      "the-decoder.com",
+      "wired.com",
+      "techcrunch.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "OpenAI lanza GPT-6 Astra, su modelo más avanzado que inaugura la era de la AGI según la compañía",
+    "summary": "El nuevo modelo destaca por su arquitectura recurrente y capacidades de razonamiento, pero plantea desafíos de supervisión y seguridad.",
+    "source": [
+      "news.ycombinator.com",
+      "xataka.com",
+      "the-decoder.com",
+      "wired.com",
+      "techcrunch.com"
     ],
     "count": 5
   },
   {
-    "title": "Anthropic lanza Claude Fable 5.1 con mejoras significativas en investigación y programación",
-    "summary": "El nuevo modelo eleva su rendimiento en tareas científicas del 24,7% al 52,6% y en programación del 42% al 55,8%, reduciendo costes de caché y restricciones.",
+    "title": "NVIDIA presenta RTX Spark, su superchip para PCs de IA con hasta 6.144 núcleos CUDA y 128 GB de memoria unificada",
+    "summary": "El chip integra CPU y GPU en un solo paquete y llegará a portátiles y sobremesas en octubre, impulsando la IA local en equipos de Lenovo, ASUS y otros.",
     "source": [
-      "news.ycombinator.com",
+      "videocardz.com",
+      "xataka.com",
+      "hardzone.es",
+      "tomshardware.com",
+      "wired.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Google despliega funciones de voz con IA en Gmail, Docs y Keep y lanza Gemini 3.8 Flash enfocado en ciberseguridad",
+    "summary": "Las novedades incluyen resúmenes de vídeo en Gemini Notebook y un modelo que detecta el 70% de vulnerabilidades, respondiendo a Anthropic.",
+    "source": [
+      "techcrunch.com",
       "elchapuzasinformatico.com",
       "alternativeto.net"
     ],
     "count": 3
   },
   {
-    "title": "Modders crean herramientas para usar DLSS 5 en cualquier juego tras la negativa de NVIDIA a permitir su forzado",
-    "summary": "La comunidad desarrolla 'DLSS 5 Swapper' y analiza el rendimiento inicial, revelando límites del conector 12V-2x6 en la RTX 5090 mientras NVIDIA bloquea la anulación oficial.",
+    "title": "Meta lanza Muse Spark 1.3 para tareas agente y de código, y paga a usuarios para analizar el uso de su IA",
+    "summary": "La actualización mejora el rendimiento en programación y reduce costes, mientras la empresa monitoriza cómo se emplea su modelo.",
+    "source": [
+      "techcrunch.com",
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Microsoft limita Xbox Cloud Gaming a 15 horas mensuales para los suscriptores de Game Pass Ultimate",
+    "summary": "La medida entra en vigor en noviembre y afecta solo al streaming en la nube, no al juego en consola o PC local.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD RDNA 5 alcanzará frecuencias de 3,1 a 3,4 GHz en las próximas tarjetas gráficas RX 11000",
+    "summary": "Filtraciones internas sitúan los clocks máximos por encima de la generación actual, anticipando un salto de rendimiento significativo.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com"
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Acer presenta una ofensiva de portátiles y consolas portátiles gaming: Predator Atlas 7, DualPlay Mini y Swift Blade 14",
-    "summary": "La marca revela dispositivos con pantallas de 120 Hz, gráficas Intel Arc y diseños convertibles, buscando desafiar a Steam Deck y ASUS ROG Ally en el mercado portátil.",
+    "title": "DLSS 5 se convierte en prueba de estrés energético: una RTX 5090 consume 802 W y rinde un 20% más",
+    "summary": "La exclusividad de DLSS 5 para las RTX 50 y su alta demanda de potencia podrían dar ventaja a NVIDIA frente a FSR 5 de AMD.",
     "source": [
-      "hardzone.es",
-      "videocardz.com",
-      "tomshardware.com"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "EE. UU. respalda a OpenAI en demandas por derechos de autor sobre entrenamiento de IA",
-    "summary": "La administración Trump y el Departamento de Justicia argumentan que el uso de material protegido para entrenar modelos constituye uso legítimo, alineándose con OpenAI frente al New York Times.",
+    "title": "ChatGPT, Claude, Gemini y Grok sufren caídas simultáneas sin explicación oficial de OpenAI ni Anthropic",
+    "summary": "Los principales chatbots dejaron de responder durante horas, y Anthropic tardó más en recuperar el servicio, generando especulaciones sobre la causa.",
     "source": [
       "wired.com",
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Google evita la división de su negocio publicitario pero debe cambiar sus prácticas",
-    "summary": "Un juez dictamina que Google no será desmembrado, pero ordena modificaciones en su operación publicitaria tras una demanda antimonopolio.",
-    "source": [
-      "techcrunch.com",
-      "news.ycombinator.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Filtración masiva de 153 millones de licencias de conducir en EE. UU. y Canadá vinculada a un servicio de verificación de identidad",
-    "summary": "El FBI investiga una brecha en un proveedor de autenticación de identidad que expuso datos de funcionarios, incluido el secretario de Defensa, en un foro ruso.",
+    "title": "Nexus Mods compra SteamDB, la base de datos de Steam, prometiendo mantenerla sin anuncios ni muros de pago",
+    "summary": "La adquisición une a la mayor comunidad de mods con la herramienta de seguimiento de precios y datos de Steam, garantizando su continuidad.",
     "source": [
-      "techcrunch.com",
-      "tomshardware.com"
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "Pangram se consolida como estándar de oro en detección de IA, pero surgen dudas sobre su fiabilidad",
-    "summary": "La herramienta de detección de texto generado por IA gana reconocimiento, aunque expertos debaten si su enfoque es suficiente para distinguir contenido sintético.",
-    "source": [
-      "techcrunch.com",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google lanza Gemini 3.8 Flash, su tercer modelo económico en seis semanas, mientras los modelos frontera siguen sin aparecer",
-    "summary": "La rápida sucesión de versiones ligeras de Gemini contrasta con la ausencia de actualizaciones en los modelos más avanzados, generando especulaciones sobre la estrategia de Google.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GoPro se vende por 285 millones y pivotará hacia centros de datos de IA y defensa",
-    "summary": "La acción que valió 12.000 millones es adquirida por una empresa de fotónica óptica, con planes de trasladar fabricación a EE. UU. y reconvertir el negocio.",
+    "title": "Llegan nuevos robots aspiradores: Dreame con fregado a vapor, Dyson entra al mercado y Ecovacs lanza su buque insignia",
+    "summary": "La competencia se intensifica con modelos que friegan con vapor a 180 grados, cámaras sumergibles y succión de 53 AW, mientras Lefant ofrece opción económica.",
     "source": [
       "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Windows 11 activará VBS y Memory Integrity por defecto en más equipos, reduciendo FPS y limitando undervolting",
+    "summary": "Microsoft endurece la seguridad activando virtualización basada en hardware, lo que afecta al rendimiento gráfico y a ajustes de voltaje.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel Nova Lake (LGA1954) iniciará producción en masa en late 2026 y llegará al mercado en 2027 con soporte multi-generacional",
+    "summary": "El nuevo socket permitirá varias generaciones de CPU y marca el fin del título 'Fellow' para ingenieros, exigiendo resultados de negocio medibles.",
+    "source": [
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Alienware estrena monitores QD-OLED de 32 pulgadas 4K 165 Hz y 560 Hz 1080p para jugadores exigentes",
-    "summary": "Dell amplía su línea gaming con paneles de alta velocidad y densidad de píxeles, ofreciendo opciones tanto para resolución como para refresco extremo.",
+    "title": "Lenovo lanza los IdeaPad Vibe: portátiles de 14 y 15 pulgadas con chasis metálico, siete colores y teclas intercambiables desde 699 dólares",
+    "summary": "La nueva gama apuesta por la personalización y ofrece opciones con Snapdragon X y AMD Ryzen AI 400, presentados en IFA junto a conceptos como el AeroBlade sin ventiladores.",
     "source": [
-      "videocardz.com",
+      "xataka.com",
       "tomshardware.com"
     ],
     "count": 2
