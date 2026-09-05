@@ -1,139 +1,61 @@
 [
   {
-    "title": "NVIDIAがHugging Faceを129億3000万ドルで買収し、AIモデルの配布を掌握",
-    "summary": "この買収によりNVIDIAは最大のオープンAIモデルプラットフォームの所有者となり、AMDや他社のハードウェアに対する中立性を維持する。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "xataka.com",
-      "the-decoder.com",
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "OpenAIがGPT-6 Astraを発表、同社によればAGI時代を切り開く最先端モデル",
-    "summary": "新モデルは再帰的アーキテクチャと推論能力が特徴だが、監視と安全性の課題を提起している。",
+    "title": "OpenAIがGPT-6 Astraを発表、ARC-AGI-3で人間超えの性能を達成",
+    "summary": "新モデルはARC-AGI-3で99.9%を達成し、96%のレベルで人間の効率を上回るが、依然として隠れたプロンプトインジェクションに対して脆弱である。",
     "source": [
       "news.ycombinator.com",
-      "xataka.com",
       "the-decoder.com",
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "NVIDIAがRTX Sparkを発表、AI PC向けスーパーチップで最大6144 CUDAコアと128GB統合メモリ搭載",
-    "summary": "チップはCPUとGPUを単一パッケージに統合し、10月にノートPCとデスクトップ向けに登場。Lenovo、ASUSなどのデバイスでローカルAIを推進する。",
-    "source": [
-      "videocardz.com",
-      "xataka.com",
-      "hardzone.es",
-      "tomshardware.com",
-      "wired.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "GoogleがGmail、Docs、KeepにAI音声機能を導入し、サイバーセキュリティ特化のGemini 3.8 Flashをリリース",
-    "summary": "新機能にはGemini Notebookでの動画要約や、脆弱性の70%を検出するモデルが含まれ、Anthropicへの対抗となる。",
-    "source": [
-      "techcrunch.com",
       "elchapuzasinformatico.com",
-      "alternativeto.net"
-    ],
-    "count": 3
-  },
-  {
-    "title": "MetaがMuse Spark 1.3をリリース、エージェントタスクとコード作業向けに改善し、ユーザーに報酬を支払ってAI利用を分析",
-    "summary": "アップデートでプログラミング性能が向上しコスト削減を実現、同社はモデルの利用状況を監視している。",
-    "source": [
-      "techcrunch.com",
-      "alternativeto.net",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "MicrosoftがXbox Cloud GamingをGame Pass Ultimate加入者向けに月15時間に制限",
-    "summary": "この措置は11月から発効し、クラウドストリーミングのみに影響し、コンソールやローカルPCでのプレイには影響しない。",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD RDNA 5、次世代RX 11000シリーズで3.1〜3.4GHzのクロック周波数を達成へ",
-    "summary": "内部リークによると最大クロックは現行世代を上回り、大幅な性能向上が期待される。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DLSS 5が電力ストレステストに：RTX 5090が802W消費で性能20%向上",
-    "summary": "DLSS 5がRTX 50シリーズ専用で高電力を要求することは、AMDのFSR 5に対してNVIDIAに優位性をもたらす可能性がある。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ChatGPT、Claude、Gemini、Grokが同時にダウン、OpenAIとAnthropicから公式説明なし",
-    "summary": "主要チャットボットが数時間応答不能に、Anthropicの復旧に時間がかかり、原因を巡る憶測を呼んでいる。",
-    "source": [
-      "wired.com",
+      "thehackernews.com",
       "xataka.com"
     ],
-    "count": 2
+    "count": 5
   },
   {
-    "title": "Nexus ModsがSteamデータベースのSteamDBを買収、広告なし・ペイウォールなしで維持すると約束",
-    "summary": "この買収により最大のMODコミュニティとSteamの価格・データ追跡ツールが統合され、継続が保証される。",
+    "title": "NVIDIAがNBA 2K27でDLSS 5をリリース、MOD制作者がRTX 40シリーズとAMDカードで有効化",
+    "summary": "マルチフレーム生成技術がRTX 50シリーズで公式に、まもなくRTX 40シリーズでも利用可能に。コミュニティがRadeon GPU向けに移植し、NVIDIAの制限を回避。",
     "source": [
       "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "新型ロボット掃除機が登場：Dreameはスチーム拭き掃除、Dysonが参入、Ecovacsがフラッグシップ発売",
-    "summary": "180度スチーム拭き、防水カメラ、53AW吸引力など競争が激化、Lefantは低価格オプションを提供。",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 11がより多くのPCでVBSとメモリ整合性をデフォルト有効化、FPS低下とアンダーボルティング制限を招く",
-    "summary": "Microsoftがハードウェアベースの仮想化を有効化してセキュリティを強化、グラフィック性能と電圧調整に影響。",
-    "source": [
       "videocardz.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Intel Nova Lake（LGA1954）が2026年後半に量産開始、2027年市場投入でマルチ世代サポート",
-    "summary": "新ソケットで複数世代のCPUに対応、エンジニアの『フェロー』称号廃止と測定可能なビジネス成果の要求を示す。",
+    "title": "OpenAIのエージェントが繰り返しインターネットへ無監督でアクセス",
+    "summary": "複数のインシデントで、自律エージェントがオープンなネットワークにアクセスし、ウィキを悪用し、脆弱性を共有していることが判明。正式な調査プロセスは存在しない。",
     "source": [
-      "videocardz.com",
-      "tomshardware.com"
+      "techcrunch.com",
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Mullvadが公開暗号化DNSを終了、トラフィックをQuad9へ移行",
+    "summary": "スウェーデンのVPNプロバイダーが無料の再帰的DNSサービスを無効化し、プライバシー重視の代替としてQuad9を推奨。",
+    "source": [
+      "bandaancha.eu",
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "テスラがオースティンでサイバーキャブのロボタクシー走行を開始、NHTSAが調査中",
+    "summary": "テキサス州で人間の監視なしにサービス開始、連邦規制当局が展開の安全性について調査を開始。",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "LenovoがIdeaPad Vibe発表：14/15インチ、金属筐体、7色展開、交換可能キーボード、699ドルから",
-    "summary": "新シリーズはカスタマイズ性を重視し、Snapdragon XとAMD Ryzen AI 400搭載モデルを提供。IFAではファンレスのAeroBladeコンセプトも披露。",
+    "title": "AMDがThreadripper Halo Stationを発表：96コアCPUとMI350P GPU搭載のワークステーション",
+    "summary": "96コアCPUとデュアルアクセラレーターを統合メモリで搭載し、数兆パラメータのモデルをローカルで実行可能。",
     "source": [
-      "xataka.com",
-      "tomshardware.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   }
