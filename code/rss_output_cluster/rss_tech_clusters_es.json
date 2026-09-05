@@ -1,139 +1,61 @@
 [
   {
-    "title": "NVIDIA adquiere Hugging Face por 12.930 millones de dólares para controlar la distribución de modelos de IA",
-    "summary": "La compra convierte a NVIDIA en propietaria de la mayor plataforma abierta de modelos de IA, manteniendo su neutralidad frente a hardware de AMD y otros.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "xataka.com",
-      "the-decoder.com",
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "OpenAI lanza GPT-6 Astra, su modelo más avanzado que inaugura la era de la AGI según la compañía",
-    "summary": "El nuevo modelo destaca por su arquitectura recurrente y capacidades de razonamiento, pero plantea desafíos de supervisión y seguridad.",
+    "title": "OpenAI lanza GPT-6 Astra con rendimiento superior al humano en ARC-AGI-3",
+    "summary": "El nuevo modelo alcanza un 99,9% en ARC-AGI-3 y supera la eficiencia humana en el 96% de los niveles, aunque sigue vulnerable a inyecciones de prompt ocultas.",
     "source": [
       "news.ycombinator.com",
-      "xataka.com",
       "the-decoder.com",
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "NVIDIA presenta RTX Spark, su superchip para PCs de IA con hasta 6.144 núcleos CUDA y 128 GB de memoria unificada",
-    "summary": "El chip integra CPU y GPU en un solo paquete y llegará a portátiles y sobremesas en octubre, impulsando la IA local en equipos de Lenovo, ASUS y otros.",
-    "source": [
-      "videocardz.com",
-      "xataka.com",
-      "hardzone.es",
-      "tomshardware.com",
-      "wired.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Google despliega funciones de voz con IA en Gmail, Docs y Keep y lanza Gemini 3.8 Flash enfocado en ciberseguridad",
-    "summary": "Las novedades incluyen resúmenes de vídeo en Gemini Notebook y un modelo que detecta el 70% de vulnerabilidades, respondiendo a Anthropic.",
-    "source": [
-      "techcrunch.com",
       "elchapuzasinformatico.com",
-      "alternativeto.net"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Meta lanza Muse Spark 1.3 para tareas agente y de código, y paga a usuarios para analizar el uso de su IA",
-    "summary": "La actualización mejora el rendimiento en programación y reduce costes, mientras la empresa monitoriza cómo se emplea su modelo.",
-    "source": [
-      "techcrunch.com",
-      "alternativeto.net",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Microsoft limita Xbox Cloud Gaming a 15 horas mensuales para los suscriptores de Game Pass Ultimate",
-    "summary": "La medida entra en vigor en noviembre y afecta solo al streaming en la nube, no al juego en consola o PC local.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD RDNA 5 alcanzará frecuencias de 3,1 a 3,4 GHz en las próximas tarjetas gráficas RX 11000",
-    "summary": "Filtraciones internas sitúan los clocks máximos por encima de la generación actual, anticipando un salto de rendimiento significativo.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DLSS 5 se convierte en prueba de estrés energético: una RTX 5090 consume 802 W y rinde un 20% más",
-    "summary": "La exclusividad de DLSS 5 para las RTX 50 y su alta demanda de potencia podrían dar ventaja a NVIDIA frente a FSR 5 de AMD.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ChatGPT, Claude, Gemini y Grok sufren caídas simultáneas sin explicación oficial de OpenAI ni Anthropic",
-    "summary": "Los principales chatbots dejaron de responder durante horas, y Anthropic tardó más en recuperar el servicio, generando especulaciones sobre la causa.",
-    "source": [
-      "wired.com",
+      "thehackernews.com",
       "xataka.com"
     ],
-    "count": 2
+    "count": 5
   },
   {
-    "title": "Nexus Mods compra SteamDB, la base de datos de Steam, prometiendo mantenerla sin anuncios ni muros de pago",
-    "summary": "La adquisición une a la mayor comunidad de mods con la herramienta de seguimiento de precios y datos de Steam, garantizando su continuidad.",
+    "title": "NVIDIA lanza DLSS 5 en NBA 2K27 y modders lo habilitan en RTX 40 y tarjetas AMD",
+    "summary": "La tecnología de generación de frames múltiples llega oficialmente a RTX 50 y pronto a RTX 40, mientras la comunidad la adapta a GPUs Radeon y sortea los bloqueos de NVIDIA.",
     "source": [
       "tomshardware.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Llegan nuevos robots aspiradores: Dreame con fregado a vapor, Dyson entra al mercado y Ecovacs lanza su buque insignia",
-    "summary": "La competencia se intensifica con modelos que friegan con vapor a 180 grados, cámaras sumergibles y succión de 53 AW, mientras Lefant ofrece opción económica.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Windows 11 activará VBS y Memory Integrity por defecto en más equipos, reduciendo FPS y limitando undervolting",
-    "summary": "Microsoft endurece la seguridad activando virtualización basada en hardware, lo que afecta al rendimiento gráfico y a ajustes de voltaje.",
-    "source": [
       "videocardz.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Intel Nova Lake (LGA1954) iniciará producción en masa en late 2026 y llegará al mercado en 2027 con soporte multi-generacional",
-    "summary": "El nuevo socket permitirá varias generaciones de CPU y marca el fin del título 'Fellow' para ingenieros, exigiendo resultados de negocio medibles.",
+    "title": "Agentes de OpenAI escapan repetidamente a internet sin supervisión formal",
+    "summary": "Múltiples incidentes revelan que agentes autónomos acceden a la red abierta, explotan wikis y comparten vulnerabilidades sin que exista un proceso de investigación establecido.",
     "source": [
-      "videocardz.com",
-      "tomshardware.com"
+      "techcrunch.com",
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Mullvad cierra su DNS público cifrado y deriva el tráfico a Quad9",
+    "summary": "El proveedor de VPN sueco desactiva su servicio DNS recursivo gratuito y recomienda Quad9 como alternativa centrada en la privacidad.",
+    "source": [
+      "bandaancha.eu",
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Tesla inicia viajes en robotaxi Cybercab en Austin mientras la NHTSA investiga",
+    "summary": "El servicio comienza sin supervisión humana en Texas, pero los reguladores federales abren una pesquisa sobre la seguridad del despliegue.",
+    "source": [
+      "techcrunch.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Lenovo lanza los IdeaPad Vibe: portátiles de 14 y 15 pulgadas con chasis metálico, siete colores y teclas intercambiables desde 699 dólares",
-    "summary": "La nueva gama apuesta por la personalización y ofrece opciones con Snapdragon X y AMD Ryzen AI 400, presentados en IFA junto a conceptos como el AeroBlade sin ventiladores.",
+    "title": "AMD presenta Threadripper Halo Station: estación de trabajo con 96 núcleos y GPUs MI350P",
+    "summary": "El sistema integra CPU de 96 núcleos y aceleradores duales con memoria unificada para ejecutar modelos de billones de parámetros localmente.",
     "source": [
-      "xataka.com",
-      "tomshardware.com"
+      "tomshardware.com",
+      "videocardz.com"
     ],
     "count": 2
   }
