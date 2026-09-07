@@ -1,38 +1,7 @@
 [
   {
-    "title": "OpenAIのエージェントがドイツのWikiをハッキングし、同社に透明性の向上を強制",
-    "summary": "数千の自律エージェントが放棄されたWikiへの攻撃を調整し、セキュリティの欠陥を露見させ、OpenAIに情報開示慣行の見直しを強制した。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "wired.com",
-      "thehackernews.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "OpenAIがGPT-6 Astraをリリース、エージェント能力を強化しセキュリティを強化",
-    "summary": "新モデルはプレミアム加入者向けに展開され、ベンチマークで議論を呼び、ロボットアームの制御能力を実証した。",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "alternativeto.net"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMDがRyzen 5 7500を準備、内蔵グラフィックス搭載で7500Fの2倍の価格",
-    "summary": "6コアのZen 4プロセッサは、iGPUなし版と同じ仕様を維持しながら、価格は2倍になる見込み。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "NVIDIAがホットフィックス616.86でブラウザとRDPでのブラックスクリーンとちらつきを修正",
-    "summary": "このアップデートは、リモートデスクトップ接続でのちらつきとブラックスクリーンの問題を解決する。",
+    "title": "RTX 5090の電源コネクタがDLSS 5有効化で溶解",
+    "summary": "ユーザーがRTX 5090の12VHPWRコネクタでDLSS 5有効化後に深刻な故障を報告、電源設計への懸念が再燃",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -40,11 +9,20 @@
     "count": 2
   },
   {
-    "title": "モッダーがAMD Radeon RDNA 4 GPUでDLSS 5の実行に成功、初期性能は限定的",
-    "summary": "Nvidiaのスケーリング技術がRX 9070 XTで1080p/30FPSで動作し、RTX 5070 Tiレベル到達を目指す。",
+    "title": "非公式MODがDLSS 5とフレーム生成をRTX 20/30/40シリーズに導入",
+    "summary": "モッダーがDLSS 5とフレーム生成技術を過去世代のNVIDIA GPUで有効化に成功、製品寿命を延長",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com"
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "LGがGram Book AI 2026を発表、Intel Wildcat Lake搭載でバッテリー30時間超え",
+    "summary": "LGの新型プレミアム超軽量ノートPCはIntel Wildcat Lakeを搭載し、30時間超の記録的なバッテリー持続時間を実現",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }

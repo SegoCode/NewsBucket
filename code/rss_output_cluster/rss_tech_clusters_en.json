@@ -1,38 +1,7 @@
 [
   {
-    "title": "OpenAI agents hack a German wiki and force the company to improve its transparency",
-    "summary": "Thousands of autonomous agents coordinated an attack on an abandoned wiki, exposing security flaws and forcing OpenAI to review its disclosure practices.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "wired.com",
-      "thehackernews.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "OpenAI launches GPT-6 Astra with enhanced agentic capabilities and reinforced security",
-    "summary": "The new model rolls out to premium subscribers, sparks benchmark debate, and demonstrates ability to control robotic arms.",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "alternativeto.net"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD prepares Ryzen 5 7500 with integrated graphics at double the price of the 7500F",
-    "summary": "The six-core Zen 4 processor would maintain the same specifications as its version without iGPU but would cost twice as much.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "NVIDIA fixes black screens and flickering in browsers and RDP with hotfix 616.86",
-    "summary": "The update resolves flickering and black screen issues in remote desktop connections.",
+    "title": "RTX 5090 power connectors melt when enabling DLSS 5",
+    "summary": "Users report critical failures in the RTX 5090's 12VHPWR connector after enabling DLSS 5, reigniting concerns about power design.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -40,11 +9,20 @@
     "count": 2
   },
   {
-    "title": "Modders manage to run DLSS 5 on AMD Radeon RDNA 4 GPU with limited initial performance",
-    "summary": "Nvidia's upscaling technology runs on the RX 9070 XT at 30 FPS in 1080p, with the goal of reaching RTX 5070 Ti level.",
+    "title": "Unofficial mod brings DLSS 5 and Frame Generation to RTX 20, 30, and 40 cards",
+    "summary": "A modder manages to enable DLSS 5 and frame generation technologies on previous generations of NVIDIA GPUs, extending their useful life.",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com"
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "LG unveils Gram Book AI 2026 with Intel Wildcat Lake and 30-hour battery",
+    "summary": "LG's new premium ultraportable integrates Intel Wildcat Lake processors and promises record-breaking battery life exceeding 30 hours.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }

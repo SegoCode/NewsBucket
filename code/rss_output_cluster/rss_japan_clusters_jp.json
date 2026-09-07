@@ -1,119 +1,108 @@
 [
   {
-    "title": "日本の広範囲で豪雨と土砂災害の恐れ、警報発表",
-    "summary": "前線と台風が記録的な大雨と特別警報をもたらし、太平洋側で交通に影響。",
+    "title": "関東と東北で記録的な大雨、洪水・土砂崩れ・交通麻痺を引き起こす",
+    "summary": "極端な降雨が最高レベルの警報を発令させ、数千人を避難させ、東京圏と東北地方で鉄道と道路の運行を停止させた。",
     "source": [
-      "news.yahoo.co.jp",
-      "yomiuri.co.jp",
       "mainichi.jp",
+      "asahi.com",
+      "news.yahoo.co.jp",
       "nikkei.com",
-      "asahi.com"
+      "yomiuri.co.jp"
     ],
     "count": 5
   },
   {
-    "title": "岐阜の菓子店で火災、2人死亡 放火の可能性も捜査",
-    "summary": "目撃者が刺傷とガソリンを証言、警察は殺人事件として捜査。",
+    "title": "極右AfDがドイツ東部の州議会選で勝利、第1党に躍進",
+    "summary": "「ドイツのための選択肢」がテューリンゲン州とザクセン州で歴史的勝利を収め、与党CDUは大敗を喫した。",
+    "source": [
+      "mainichi.jp",
+      "nikkei.com",
+      "asahi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "東京、新宿区の住宅地と学校周辺で民泊を禁止、既存施設の半数以上に影響",
+    "summary": "条例は既存施設の過半数に影響し、大田区も近隣トラブル抑制に向け類似措置を検討中。",
+    "source": [
+      "asahi.com",
+      "nikkei.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "岐阜の菓子店で火災、3人死亡；車内で刺し傷のある男性遺体発見",
+    "summary": "開店20周年に起きた火災で衝撃広がる；警察は出火原因と犯罪の関与を捜査。",
+    "source": [
+      "nikkei.com",
+      "yomiuri.co.jp",
+      "asahi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "米特使がキーウ初訪問、ロシアとウクライナの外交的解決模索",
+    "summary": "三者対話の再開を目指すが、停戦条件を巡る大きな隔たりは依然として残る。",
+    "source": [
+      "asahi.com",
+      "mainichi.jp",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "東北新幹線が運転再開、人身事故で一時運転見合わせ",
+    "summary": "東京〜仙台間が約2時間運休、乗客にけが人なし。",
+    "source": [
+      "nikkei.com",
+      "yomiuri.co.jp",
+      "asahi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "元ジャニーズ事務所スタッフ、所属タレント8人への性的虐待を認める",
+    "summary": "元スタッフが証言、事務所が若手タレント約8人に虐待を加えたと明かす。企業再編の渦中で。",
     "source": [
       "news.yahoo.co.jp",
-      "nikkei.com",
-      "asahi.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 4
-  },
-  {
-    "title": "米軍、ホルムズ海峡でイラン油タンカー攻撃 過去の攻撃への報復",
-    "summary": "中央軍が革命防衛隊の船3隻を破壊、湾岸の緊張が高まる。",
-    "source": [
-      "mainichi.jp",
-      "nikkei.com",
-      "yomiuri.co.jp",
       "asahi.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "女子バスケW杯、日本がドイツに敗れ1勝1敗に",
-    "summary": "3ポイントは3本のみ、相手の守備を崩せず。",
-    "source": [
-      "mainichi.jp",
-      "nikkei.com",
-      "yomiuri.co.jp"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ネパールで土砂崩れ、死者1300人超・行方不明数千人 識別作業は難航",
-    "summary": "当局が僻地で遺体収容に奔走、家族は消息を待つ。",
-    "source": [
-      "nikkei.com",
-      "yomiuri.co.jp",
-      "asahi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "トランプ特使、プーチン氏とゼレンスキー氏に会談 ウクライナ終戦案提示",
-    "summary": "停戦目指すが、ロシアは譲歩に消極的。",
-    "source": [
-      "nikkei.com",
-      "yomiuri.co.jp",
-      "asahi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "大坂なおみ、全米オープン16強入り 2年連続",
-    "summary": "エルス・メルテンスを破り、4回戦進出。",
-    "source": [
-      "mainichi.jp",
-      "yomiuri.co.jp"
     ],
     "count": 2
   },
   {
-    "title": "田中碧、プレミアリーグ開幕戦でアシスト",
-    "summary": "日本人MFがチームの初ゴールを演出。",
+    "title": "アマゾン貨物機がマイアミ空港で滑走路逸脱、5人死亡",
+    "summary": "着陸時に墜落、当局が事故原因を調査中。",
     "source": [
-      "mainichi.jp",
+      "nikkei.com",
+      "asahi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "日本の外貨準備が8月6.2%減、月間最大の減少、円高阻止の介入で",
+    "summary": "財務省がドル売り介入で準備高が1.25兆ドルに減少したと確認。",
+    "source": [
+      "asahi.com",
       "nikkei.com"
     ],
     "count": 2
   },
   {
-    "title": "悠仁さま20歳の誕生日、支援に感謝",
-    "summary": "皇位継承順位1位の悠仁さま、生物学研究を深め公務も増加。",
+    "title": "東京株式市場が続伸、米半導体株が牽引；米金利不透明感で円高進行",
+    "summary": "日経平均が3万6000円台を回復、投資家はFRBの高金利長期化を見極め。",
     "source": [
-      "asahi.com",
+      "nikkei.com",
       "yomiuri.co.jp"
     ],
     "count": 2
   },
   {
-    "title": "村上宗隆、MLBルーキーシーズン30号 日本人初",
-    "summary": "ヤンキースの強打者が2ラン本塁打で節目到達。",
+    "title": "小笠原投手が巨人で初完投勝利、チームは大勝",
+    "summary": "前日のリレー継投に続き、小笠原が完封し、適時打が読売の勝利を決定づけた。",
     "source": [
-      "mainichi.jp",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "くら寿司、『ちいかわ』コラボ中止 従業員がぬいぐるみ大量窃盗",
-    "summary": "盗品がメルカリに出品、謝罪と割引で対応。",
-    "source": [
-      "news.yahoo.co.jp",
-      "yomiuri.co.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "日本、情報収集衛星100機超体制へ 移動式ミサイル発射台を監視",
-    "summary": "政府は抑止力強化と地理空間情報の民間活用市場創出を目指す。",
-    "source": [
-      "news.yahoo.co.jp",
-      "yomiuri.co.jp"
+      "yomiuri.co.jp",
+      "asahi.com"
     ],
     "count": 2
   }
