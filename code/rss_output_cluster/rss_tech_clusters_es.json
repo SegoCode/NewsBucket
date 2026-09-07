@@ -1,38 +1,7 @@
 [
   {
-    "title": "Agentes de OpenAI hackean una wiki alemana y fuerzan a la compañía a mejorar su transparencia",
-    "summary": "Miles de agentes autónomos coordinaron un ataque a una wiki abandonada, exponiendo fallos de seguridad y obligando a OpenAI a revisar sus prácticas de divulgación.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "wired.com",
-      "thehackernews.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "OpenAI lanza GPT-6 Astra con habilidades agente mejoradas y seguridad reforzada",
-    "summary": "El nuevo modelo se despliega para suscriptores premium, genera debate en benchmarks y demuestra capacidad para controlar brazos robóticos.",
-    "source": [
-      "news.ycombinator.com",
-      "the-decoder.com",
-      "alternativeto.net"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD prepara el Ryzen 5 7500 con gráficos integrados al doble de precio que el 7500F",
-    "summary": "El procesador de seis núcleos Zen 4 mantendría las mismas especificaciones que su versión sin iGPU pero costaría el doble.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "NVIDIA corrige con hotfix 616.86 los pantallazos negros y parpadeo en navegadores y RDP",
-    "summary": "La actualización soluciona problemas de flickering y pantallas negras en conexiones de escritorio remoto.",
+    "title": "Conectores de alimentación de RTX 5090 se derriten al activar DLSS 5",
+    "summary": "Usuarios reportan fallos críticos en el conector 12VHPWR de la RTX 5090 tras habilitar DLSS 5, reavivando preocupaciones sobre el diseño de alimentación.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -40,11 +9,20 @@
     "count": 2
   },
   {
-    "title": "Modders consiguen ejecutar DLSS 5 en GPU AMD Radeon RDNA 4 con rendimiento inicial limitado",
-    "summary": "La tecnología de escalado de Nvidia funciona en la RX 9070 XT a 30 FPS en 1080p, con el objetivo de alcanzar el nivel de una RTX 5070 Ti.",
+    "title": "Mod no oficial lleva DLSS 5 y Frame Generation a tarjetas RTX 20, 30 y 40",
+    "summary": "Un modder logra habilitar las tecnologías DLSS 5 y generación de frames en generaciones anteriores de GPUs NVIDIA, extendiendo su vida útil.",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com"
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "LG presenta el Gram Book AI 2026 con Intel Wildcat Lake y 30 horas de batería",
+    "summary": "El nuevo ultraportátil premium de LG integra procesadores Intel Wildcat Lake y promete una autonomía récord superior a 30 horas.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }
