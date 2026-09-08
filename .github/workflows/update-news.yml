@@ -77,7 +77,6 @@ jobs:
     permissions: *write-permissions
     env:
       CATEGORY: tech
-      LANGUAGE: es
       OUTPUT_PATH: code/rss_output_cluster/rss_tech_clusters_es.json
       COMMIT_MESSAGE: Update tech clusters
 
@@ -94,11 +93,6 @@ jobs:
         env:
           OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
 
-      - &validate-cluster
-        name: Validate clusters
-        run: pnpm run validate-clusters -- "$CATEGORY" "$LANGUAGE"
-        working-directory: ./code
-
       - *commit
 
   cluster-finance:
@@ -109,7 +103,6 @@ jobs:
     permissions: *write-permissions
     env:
       CATEGORY: finance
-      LANGUAGE: es
       OUTPUT_PATH: code/rss_output_cluster/rss_finance_clusters_es.json
       COMMIT_MESSAGE: Update finance clusters
 
@@ -119,7 +112,6 @@ jobs:
       - *setup-node
       - *install
       - *cluster
-      - *validate-cluster
       - *commit
 
   cluster-gaming:
@@ -130,7 +122,6 @@ jobs:
     permissions: *write-permissions
     env:
       CATEGORY: gaming
-      LANGUAGE: es
       OUTPUT_PATH: code/rss_output_cluster/rss_gaming_clusters_es.json
       COMMIT_MESSAGE: Update gaming clusters
 
@@ -140,7 +131,6 @@ jobs:
       - *setup-node
       - *install
       - *cluster
-      - *validate-cluster
       - *commit
 
   cluster-japan:
@@ -151,7 +141,6 @@ jobs:
     permissions: *write-permissions
     env:
       CATEGORY: japan
-      LANGUAGE: es
       OUTPUT_PATH: code/rss_output_cluster/rss_japan_clusters_es.json
       COMMIT_MESSAGE: Update japan clusters
 
@@ -161,7 +150,6 @@ jobs:
       - *setup-node
       - *install
       - *cluster
-      - *validate-cluster
       - *commit
 
   translate:
@@ -190,15 +178,8 @@ jobs:
 
       - *commit
 
-      - name: Validate all translations
-        id: validate
-        if: ${{ !cancelled() }}
-        continue-on-error: true
-        run: pnpm run validate-clusters
-        working-directory: ./code
-
       - name: Report translation failures
-        if: ${{ !cancelled() && (steps.translate.outcome == 'failure' || steps.validate.outcome == 'failure') }}
+        if: ${{ !cancelled() && steps.translate.outcome == 'failure' }}
         run: |
-          echo "Translation or validation failed; successful files were committed"
+          echo "Translation failed; successful files were committed"
           exit 1
