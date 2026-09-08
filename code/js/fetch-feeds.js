@@ -113,17 +113,9 @@ const fetchFeeds = async () => {
 	console.log("✓ Fetch complete");
 };
 
-export const runFetchFeedsCli = async ({
-	fetch = fetchFeeds,
-	exit = process.exit,
-} = {}) => {
-	await fetch();
-	exit(0);
-};
-
 if (
 	process.argv[1] &&
 	fileURLToPath(import.meta.url) === path.resolve(process.argv[1])
 ) {
-	await runFetchFeedsCli();
+	await fetchFeeds();
 }
