@@ -14,6 +14,8 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
     let livePlayerReady = false;
     let secondLivePlayerReady = false;
     let audioOn = false;
+    let playGen = 0;
+    let holding = false;
     const playerVars = {
         autoplay: 1,
         controls: 0,
@@ -31,7 +33,7 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
         if (player.getVideoData?.()?.video_id === videoId) player.playVideo();
         else player.loadVideoById(videoId);
     };
-    const startLivePlayers = () => {
+    const cuePlayers = () => {
         if (telegram && audioOn) {
             audioOn = false;
             remountLive();
@@ -43,6 +45,24 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
         if (livePlayerReady) first ? playLive(livePlayer, first, 100) : livePlayer.stopVideo();
         if (secondLivePlayerReady) second ? playLive(secondLivePlayer, second, 50) : secondLivePlayer.stopVideo();
     };
+    const busy = on => {
+        const el = live.querySelector(':scope > p');
+        if (el) el.hidden = !on;
+    };
+    const holdThenPlay = () => {
+        if (!telegram) {
+            holding = false;
+            busy(false);
+            cuePlayers();
+            return;
+        }
+        holding = true;
+        busy(true);
+    };
+    const startLivePlayers = () => {
+        holding = false;
+        cuePlayers();
+    };
     const initLivePlayers = () => {
         if (livePlayer || !window.YT?.Player) return;
         livePlayer = new window.YT.Player('liveFrame', {
@@ -52,8 +72,8 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
                 onReady: event => {
                     livePlayerReady = true;
                     event.target.setVolume(100);
-                    if (!live.hidden) startLivePlayers();
-                    else event.target.mute();
+                    if (live.hidden) event.target.mute();
+                    else if (!holding) cuePlayers();
                 },
             },
         });
@@ -64,8 +84,8 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
                 onReady: event => {
                     secondLivePlayerReady = true;
                     event.target.setVolume(50);
-                    if (!live.hidden) startLivePlayers();
-                    else event.target.mute();
+                    if (live.hidden) event.target.mute();
+                    else if (!holding) cuePlayers();
                 },
             },
         });
@@ -88,7 +108,13 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
     window.onYouTubeIframeAPIReady = initLivePlayers;
     if (window.YT?.Player) initLivePlayers();
     live.addEventListener('click', () => {
-        if (!livePlayerReady || live.hidden) return;
+        if (live.hidden) return;
+        if (holding) {
+            holding = false;
+            busy(false);
+            cuePlayers();
+        }
+        if (!livePlayerReady) return;
         livePlayer.unMute();
         audioOn = true;
     });
@@ -114,40 +140,64 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
     };
     const setLive = on => {
         liveEn = false;
+        playGen += 1;
         if (!on) {
             mode = 'news';
             camPage = 0;
         }
         live.hidden = !on;
         initLivePlayers();
-        if (on) {
-            startLivePlayers();
-        } else if (telegram && audioOn) {
-            audioOn = false;
-            remountLive();
-        } else {
-            if (livePlayerReady) livePlayer.stopVideo();
-            if (secondLivePlayerReady) secondLivePlayer.stopVideo();
-        }
         paintChrome();
+        if (on) holdThenPlay();
+        else {
+            holding = false;
+            busy(false);
+            if (telegram && audioOn) {
+                audioOn = false;
+                remountLive();
+            } else {
+                if (livePlayerReady) livePlayer.stopVideo();
+                if (secondLivePlayerReady) secondLivePlayer.stopVideo();
+            }
+        }
         tg.HapticFeedback.impactOccurred('heavy');
     };
     const setCameras = async () => {
         if (live.hidden) return;
+        const gen = ++playGen;
         if (mode === 'cameras') {
             mode = 'news';
             camPage = 0;
+            if (telegram) {
+                paintChrome();
+                holdThenPlay();
+            } else {
+                startLivePlayers();
+                paintChrome();
+            }
+            return;
+        }
+        if (telegram) {
+            mode = 'cameras';
+            paintChrome();
+            holding = true;
+            busy(true);
+        }
+        const spots = await loadCameras();
+        if (gen !== playGen || live.hidden) return;
+        const { lat, lon } = place?.() || {};
+        camIds = nearest(spots, lat, lon, 10).map(s => s.video_id);
+        camPage = 0;
+        if (!telegram) {
+            mode = 'cameras';
             startLivePlayers();
             paintChrome();
             return;
         }
-        const spots = await loadCameras();
-        const { lat, lon } = place?.() || {};
-        camIds = nearest(spots, lat, lon, 10).map(s => s.video_id);
-        camPage = 0;
-        mode = 'cameras';
-        startLivePlayers();
-        paintChrome();
+        if (!holding) {
+            cuePlayers();
+            busy(false);
+        }
     };
     const nextCams = () => {
         camPage = nextPage(camIds.length, camPage);
