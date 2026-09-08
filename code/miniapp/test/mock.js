@@ -14,6 +14,10 @@ const SCENES = {
     'spike-jp': { t: 'finance', l: 'jp' },
     'spike-down': { t: 'finance', l: 'en' },
     'spike-cap': { t: 'finance', l: 'en' },
+    'spike-shape': { t: 'finance', l: 'en' },
+    'spike-html': { t: 'finance', l: 'en' },
+    'spike-floor': { t: 'finance', l: 'en' },
+    'spike-noname': { t: 'finance', l: 'en' },
     'lang-es': {},
     'lang-ja': {},
     'lang-en': {},
@@ -954,35 +958,63 @@ globalThis.fetch = input => {
         if (url.includes('status.cloud.google.com')) return json([]);
         return json({ incidents: [] });
     }
-    if (url.includes('finance-query.com/v2/screeners/day-gainers')) {
+    if (url.includes('finance-query.com/v2/screeners/day-gainers')
+        || url.includes('finance-query.com/v2/screeners/day-losers')) {
+        const gainers = url.includes('day-gainers');
         if (scenario === 'spike-down') return text('', 500);
-        const gainer = (symbol, name, pct) => ({
+        if (scenario === 'spike-html') return text('<!DOCTYPE html><html>blocked</html>');
+        const q = (symbol, name, pct) => ({
             symbol, shortName: name, regularMarketChangePercent: pct,
         });
+        const empty = json({ quotes: [] });
         if (scenario === 'spike' || scenario === 'spike-es' || scenario === 'spike-jp') {
+            if (gainers) {
+                return json({
+                    quotes: [
+                        q('ROIV', 'Roivant Sciences Ltd.', 18.4),
+                        q('INTC', 'Intel Corporation', 8.1),
+                        ...(scenario === 'spike' ? [q('CRWV', 'CoreWeave, Inc.', 16.1)] : []),
+                    ],
+                });
+            }
             return json({
                 quotes: [
-                    gainer('ROIV', 'Roivant Sciences Ltd.', 18.4),
-                    gainer('INTC', 'Intel Corporation', 8.1),
-                    ...(scenario === 'spike' ? [gainer('CRWV', 'CoreWeave, Inc.', 16.1)] : []),
+                    q('DYN', 'Dyne Therapeutics, Inc.', -18.9),
+                    q('NVS', 'Novartis AG', -8),
                 ],
             });
         }
         if (scenario === 'spike-quiet') {
-            return json({ quotes: [gainer('INTC', 'Intel Corporation', 8.1), gainer('AAPL', 'Apple Inc.', 14.9)] });
+            return json({
+                quotes: gainers
+                    ? [q('INTC', 'Intel Corporation', 8.1), q('AAPL', 'Apple Inc.', 14.9)]
+                    : [q('NVS', 'Novartis AG', -14.9)],
+            });
         }
         if (scenario === 'spike-cap') {
+            if (!gainers) return json({ quotes: [q('FFF', 'Foxtrot', -21)] });
             return json({
                 quotes: [
-                    gainer('AAA', 'Alpha', 16),
-                    gainer('EEE', 'Echo', 20),
-                    gainer('CCC', 'Charlie', 18),
-                    gainer('DDD', 'Delta', 17),
-                    gainer('BBB', 'Bravo', 19),
+                    q('AAA', 'Alpha', 16),
+                    q('EEE', 'Echo', 20),
+                    q('CCC', 'Charlie', 18),
+                    q('DDD', 'Delta', 17),
+                    q('BBB', 'Bravo', 19),
                 ],
             });
         }
-        return json({ quotes: [] });
+        if (scenario === 'spike-shape') {
+            return gainers ? json({ data: [q('ROIV', 'Roivant Sciences Ltd.', 18.4)] }) : json({ quotes: { symbol: 'DYN' } });
+        }
+        if (scenario === 'spike-floor') {
+            if (gainers) return json({ quotes: [q('ROIV', 'Roivant Sciences Ltd.', 15), q('AAPL', 'Apple Inc.', 14.9)] });
+            return json({ quotes: [q('DYN', 'Dyne Therapeutics, Inc.', -15), q('NVS', 'Novartis AG', -14.9)] });
+        }
+        if (scenario === 'spike-noname') {
+            if (!gainers) return empty;
+            return json({ quotes: [{ symbol: 'XYZ', regularMarketChangePercent: 16 }] });
+        }
+        return empty;
     }
     return Promise.reject(new Error('unmocked ' + url));
 };
