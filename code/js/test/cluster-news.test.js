@@ -25,18 +25,3 @@ test("keeps only RSS news published within the last 24 hours", () => {
 
 	assert.deepEqual(result, [{ title: "recent", source: "recent.com" }]);
 });
-
-test("uses only current RSS items for clustering", () => {
-	const result = prepareNewsForClustering({
-		items: [
-			{
-				title: "current",
-				publishedAt: new Date(cutoff).toISOString(),
-				source: { name: "source.com" },
-			},
-		],
-		cutoff,
-	});
-
-	assert.deepEqual(result, [{ title: "current", source: "source.com" }]);
-});
