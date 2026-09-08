@@ -34,7 +34,10 @@
     </main>
     <section id="diag" hidden>
         <hr>
-        <button type="button" id="diag-ask">REQUEST LOCATION</button>
+        <div class="row">
+            <button type="button" id="diag-ask">REQUEST LOCATION</button>
+            <select id="diag-pref" aria-label="Prefecture"></select>
+        </div>
         <dl>
             <dt>Permission</dt>
             <dd id="diag-geo">unknown</dd>
@@ -53,6 +56,7 @@
     <div id="live" hidden>
         <section class="live-player" aria-label="Live News"><div id="liveFrame"></div></section>
         <section class="live-player" aria-label="Second Live News"><div id="liveSecondFrame"></div></section>
+        <p hidden>Tap…</p>
     </div>
     <footer id="chrome" hidden>
         <div class="chrome-row">
