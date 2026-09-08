@@ -16,19 +16,19 @@ const alert = (lang, name, detail, start) => ({
     url: PAGE,
 });
 
-const statuspage = async (origin, name, lang) => {
+const statuspage = async (origin, name) => {
     const res = await fetch(`${origin}/api/v2/incidents/unresolved.json`);
     if (!res.ok) return [];
     const incidents = (await res.json()).incidents;
     if (!Array.isArray(incidents)) return [];
-    const row = incidents.find(i =>
+    const hit = incidents.find(i =>
         i?.name && i.status !== 'resolved' && !i.resolved_at
         && age(i.updated_at || i.started_at || i.created_at) < WINDOW);
-    if (!row) return [];
-    return [alert(lang, name, row.name, row.started_at || row.created_at || row.updated_at)];
+    if (!hit) return [];
+    return [{ name, detail: hit.name, start: hit.started_at || hit.created_at || hit.updated_at }];
 };
 
-const aws = async lang => {
+const aws = async () => {
     const res = await fetch('https://status.aws.amazon.com/rss/all.rss');
     if (!res.ok) return [];
     const doc = new DOMParser().parseFromString(await res.text(), 'text/xml');
@@ -36,30 +36,53 @@ const aws = async lang => {
         age(it.querySelector('pubDate')?.textContent) < WINDOW);
     const title = hit?.querySelector('title')?.textContent?.trim();
     const start = hit?.querySelector('pubDate')?.textContent;
-    return title ? [alert(lang, 'AWS', title, start)] : [];
+    return title ? [{ name: 'AWS', detail: title, start }] : [];
 };
 
-const gcp = async lang => {
+const gcp = async () => {
     const res = await fetch('https://status.cloud.google.com/incidents.json');
     if (!res.ok) return [];
     const list = await res.json();
     if (!Array.isArray(list)) return [];
-    const row = list.find(i => {
+    const hit = list.find(i => {
         if (!i?.external_desc) return false;
         if (!i.end) return age(i.begin) < WINDOW || age(i.created) < WINDOW;
         return age(i.end) < WINDOW || age(i.begin) < WINDOW;
     });
-    return row
-        ? [alert(lang, 'Google Cloud', row.external_desc.trim(), row.begin || row.created)]
+    return hit
+        ? [{ name: 'Google Cloud', detail: hit.external_desc.trim(), start: hit.begin || hit.created }]
         : [];
 };
 
-export const fetchCloudOutages = async (lang = 'en') => {
-    const settled = await Promise.allSettled([
-        statuspage('https://www.githubstatus.com', 'GitHub', lang),
-        statuspage('https://www.cloudflarestatus.com', 'Cloudflare', lang),
-        aws(lang),
-        gcp(lang),
-    ]);
-    return settled.flatMap(s => s.status === 'fulfilled' ? s.value : []);
+const CACHE_KEY = 'nb-outages';
+const CACHE_MS = 5 * 60 * 1000;
+let rowsPromise;
+let rowsAt = 0;
+
+const loadRows = () => {
+    if (rowsPromise && Date.now() - rowsAt < CACHE_MS) return rowsPromise;
+    rowsAt = Date.now();
+    rowsPromise = (async () => {
+        try {
+            const hit = JSON.parse(localStorage.getItem(CACHE_KEY) || 'null');
+            if (Array.isArray(hit?.rows) && Date.now() - hit.at < CACHE_MS) return hit.rows;
+        } catch {}
+        const settled = await Promise.allSettled([
+            statuspage('https://www.githubstatus.com', 'GitHub'),
+            statuspage('https://www.cloudflarestatus.com', 'Cloudflare'),
+            aws(),
+            gcp(),
+        ]);
+        const rows = settled.flatMap(s => s.status === 'fulfilled' ? s.value : []);
+        try { localStorage.setItem(CACHE_KEY, JSON.stringify({ at: Date.now(), rows })); } catch {}
+        return rows;
+    })().catch(() => {
+        rowsPromise = null;
+        rowsAt = 0;
+        return [];
+    });
+    return rowsPromise;
 };
+
+export const fetchCloudOutages = async (lang = 'en') =>
+    (await loadRows()).map(r => alert(lang, r.name, r.detail, r.start));
