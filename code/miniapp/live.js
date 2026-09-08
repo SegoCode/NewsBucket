@@ -1,7 +1,7 @@
 import { loadCameras, nearest, nextPage, pairAt } from './cameras.js';
 
 const LIVE_ID = 'Anr15FA9OCI';
-const LIVE_EN_ID = 'f0lYkdA-Gtw';
+const LIVE_EN_ID = 'IimtbuqYIE8';
 const SECOND_LIVE_ID = 'HXGANE2pRrA';
 
 export const createLive = ({ tg, live, topic, place, telegram = false }) => {
