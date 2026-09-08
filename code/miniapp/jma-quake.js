@@ -31,11 +31,13 @@ export const quakeItems = async lang => {
         const pos = parseCod(q.cod);
         if (!pos) return [];
         const [lat, lon] = pos;
+        const mag = Number.parseFloat(q.mag);
         const recent = Date.now() - Date.parse(q.at) < 2 * 36e5;
+        const pulse = mag >= 6.5 ? ' weather-l5' : mag >= 6 ? ' weather-l4' : !recent ? '' : mag >= 5.5 ? ' weather-l4' : ' quake-recent';
         return [{
             title: `M${q.mag} | ${lang === 'jp' ? q.anm : q.en_anm}`,
             source: ['JMA', new Date(q.at).toLocaleString([], { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' }).replace(',', '')],
-            cls: 'quake-high' + (recent ? ' quake-recent' : ''),
+            cls: 'quake-high' + pulse,
             url: `https://www.google.com/maps/search/?api=1&query=${lat},${lon}`
         }];
     });
