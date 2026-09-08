@@ -15,6 +15,15 @@
         }
         #harness a { color: var(--tg-theme-link-color, #2474c1); }
         #harness a[aria-current="page"] { font-weight: 600; color: inherit; text-decoration: none; }
+        #harness button {
+            font: inherit;
+            color: inherit;
+            background: var(--tg-theme-secondary-bg-color, #f1f1f1);
+            border: 1px solid var(--tg-theme-hint-color, #aaa);
+            border-radius: 8px;
+            padding: 0 8px;
+        }
+        #harness a.fail { color: #ff3b30; }
         #checks {
             font: .75em/1.4 ui-monospace, monospace;
             color: var(--tg-theme-hint-color, #767676);
@@ -45,7 +54,10 @@
     </main>
     <section id="diag" hidden>
         <hr>
-        <button type="button" id="diag-ask">REQUEST LOCATION</button>
+        <div class="row">
+            <button type="button" id="diag-ask">REQUEST LOCATION</button>
+            <select id="diag-pref" aria-label="Prefecture"></select>
+        </div>
         <dl>
             <dt>Permission</dt>
             <dd id="diag-geo">unknown</dd>
@@ -64,6 +76,7 @@
     <div id="live" hidden>
         <section class="live-player" aria-label="Live News"><div id="liveFrame"></div></section>
         <section class="live-player" aria-label="Second Live News"><div id="liveSecondFrame"></div></section>
+        <p hidden>Tap…</p>
     </div>
     <footer id="chrome" hidden>
         <div class="chrome-row">
@@ -78,13 +91,18 @@
             'loading', 'empty', 'fresh', 'feed', 'feed-es', 'feed-click', 'lang',
             'lang-es', 'lang-ja', 'lang-en', 'lang-ua', 'lang-ua-ja', 'lang-uscore', 'lang-nav',
             'lang-default', 'lang-bad-nb', 'lang-keep',
-            'feed-down', 'feed-count', 'feed-nosource', 'outage', 'outage-age', 'outage-es', 'outage-jp', 'outage-down', 'outage-resolved', 'outage-shape', 'outage-ended', 'outage-html', 'outage-created', 'spike', 'spike-quiet', 'spike-es', 'spike-jp', 'spike-down', 'spike-cap', 'spike-shape', 'spike-html', 'spike-floor', 'spike-noname', 'topic-switch', 'stale-load', 'lang-switch', 'end-mark',
+            'feed-down', 'feed-count', 'feed-nosource', 'outage', 'outage-age', 'outage-es', 'outage-jp', 'outage-down', 'outage-resolved', 'outage-shape', 'outage-ended', 'outage-html', 'outage-created', 'outage-slow', 'outage-cache', 'outage-ttl', 'outage-cached-es', 'outage-leave', 'spike', 'spike-quiet', 'spike-es', 'spike-jp', 'spike-down', 'spike-cap', 'spike-shape', 'spike-html', 'spike-floor', 'spike-noname', 'spike-red', 'spike-green', 'topic-switch', 'stale-load', 'lang-switch', 'end-mark',
             'yesterday', 'yesterday-stale', 'yesterday-sha', 'yesterday-lang', 'yesterday-topic',
             'yesterday-empty', 'yesterday-fail', 'yesterday-one', 'yesterday-jp', 'yesterday-retry',
             'status-ok', 'status-running', 'status-fail', 'status-empty', 'status-mixed',
             'status-leave', 'status-cache', 'status-post',
             'diag', 'diag-gps', 'diag-ip-gps', 'diag-none', 'diag-denied', 'diag-ask', 'diag-github',
             'diag-403', 'diag-coords', 'diag-telegram', 'diag-timeout', 'diag-nogeo', 'diag-gps-city',
+            'manual-open', 'manual-set', 'manual-ip', 'manual-gps', 'manual-switch',
+            'manual-ask', 'manual-ask-denied', 'manual-ask-gps', 'manual-ask-again',
+            'manual-nogeo', 'manual-none',
+            'manual-weather', 'manual-osaka', 'manual-hokkaido', 'manual-empty', 'manual-hold',
+            'manual-us', 'manual-topic', 'manual-cameras', 'manual-tg',
             'quakes', 'quake-mag', 'quake-age', 'quake-blink', 'quake-drop', 'quake-combo', 'quake-palette', 'quake-hold', 'quake-cod', 'quake-bad-cod', 'quake-west', 'quake-down',
             'weather', 'weather-ip', 'weather-l2', 'weather-l4', 'weather-l10', 'weather-jp', 'geo-wins', 'geo-refresh', 'weather-osaka', 'weather-hokkaido', 'weather-down',
             'weather-c20', 'weather-html', 'weather-city', 'weather-tg', 'weather-level', 'weather-stale',
@@ -92,12 +110,83 @@
             'watch-stop',
             'japan-jp', 'japan-us', 'japan-es', 'mix',
             'live', 'live-open', 'live-yt', 'live-en', 'live-back', 'live-topic', 'live-cameras',
-            'live-next', 'live-cams-news', 'live-reopen', 'live-tg', 'live-web', 'cams-cache',
+            'live-next', 'live-cams-news', 'live-reopen', 'live-tg', 'live-tg-cams', 'live-tg-open', 'live-tg-slow', 'live-tg-back', 'live-tg-next', 'live-web', 'cams-cache',
             'cameras', 'chrome',
         ];
-        document.getElementById('harness').innerHTML = scenes.map(s =>
+        const nav = document.getElementById('harness');
+        nav.innerHTML = `<button type="button" id="run-all">run all</button>` + scenes.map(s =>
             `<a href="?s=${s}"${s === here ? ' aria-current="page"' : ''}>${s}</a>`
         ).join('');
+        const KEY = 'nb-harness';
+        const load = () => {
+            try { return JSON.parse(sessionStorage.getItem(KEY) || 'null'); }
+            catch { return null; }
+        };
+        const save = s => sessionStorage.setItem(KEY, JSON.stringify(s));
+        const btn = document.getElementById('run-all');
+        const paint = state => {
+            for (const a of nav.querySelectorAll('a')) {
+                a.classList.toggle('fail', !!state?.fail?.includes(new URL(a.href).searchParams.get('s')));
+            }
+            if (state && !state.done) btn.textContent = `${state.i + 1}/${scenes.length}`;
+            else if (state?.done) btn.textContent = `${scenes.length - state.fail.length}/${scenes.length} pass`;
+            else btn.textContent = 'run all';
+        };
+        const waitChecks = () => new Promise(resolve => {
+            const el = document.getElementById('checks');
+            const ready = () => {
+                const t = el.textContent || '';
+                return t.trim() && !t.includes('FAIL unknown');
+            };
+            if (ready()) return resolve(el.textContent);
+            const t0 = Date.now();
+            const id = setInterval(() => {
+                if (ready() || Date.now() - t0 > 8000) {
+                    clearInterval(id);
+                    resolve(el.textContent || '');
+                }
+            }, 40);
+        });
+        const tick = () => waitChecks().then(async text => {
+            const state = load();
+            if (!state || state.done || here !== scenes[state.i]) return;
+            if (!text.trim() || text.split('\n').some(l => l.startsWith('FAIL'))) state.fail.push(here);
+            save(state);
+            paint(state);
+            await new Promise(r => setTimeout(r, 1000));
+            if (!load() || load().done) return;
+            state.i++;
+            if (state.i >= scenes.length) {
+                state.done = true;
+                save(state);
+                paint(state);
+                const el = document.getElementById('checks');
+                const fails = state.fail.length ? '\n' + state.fail.map(s => 'FAIL ' + s).join('\n') : '';
+                el.textContent = `${scenes.length - state.fail.length}/${scenes.length} pass${fails}\n\n${el.textContent}`;
+                return;
+            }
+            save(state);
+            location.search = `?s=${scenes[state.i]}`;
+        });
+        btn.addEventListener('click', () => {
+            const state = load();
+            if (state && !state.done) {
+                sessionStorage.removeItem(KEY);
+                paint(null);
+                return;
+            }
+            save({ i: 0, fail: [] });
+            paint(load());
+            if (here !== scenes[0]) location.search = `?s=${scenes[0]}`;
+            else tick();
+        });
+        let state = load();
+        if (state && !state.done && here !== scenes[state.i]) {
+            sessionStorage.removeItem(KEY);
+            state = null;
+        }
+        paint(state);
+        if (state && !state.done) tick();
     </script>
     <script type="module" src="mock.js"></script>
     <script type="module" src="../app.js"></script>
