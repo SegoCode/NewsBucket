@@ -98,14 +98,27 @@ article.quake-high {
     border: 2px dashed #ff3b30;
 }
 
+article.weather-l4,
+article.weather-l5 {
+    --blink: #af52de;
+}
+
+article.weather-l5 {
+    border-color: #000;
+}
+
 article.quake-recent,
-article.running {
+article.running,
+article.weather-l4,
+article.weather-l5 {
     animation: blink-border 0.8s step-end infinite;
 }
 
 @media (prefers-reduced-motion: reduce) {
     article.quake-recent,
-    article.running {
+    article.running,
+    article.weather-l4,
+    article.weather-l5 {
         animation: none;
     }
 }
@@ -115,7 +128,7 @@ article[onclick] {
 }
 
 @keyframes blink-border {
-    50% { border-color: transparent; }
+    50% { border-color: var(--blink, transparent); }
 }
 
 #chrome {
