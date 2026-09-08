@@ -114,12 +114,16 @@ const COUNT = {
     'outage-ended': 4,
     'outage-html': 3,
     'outage-created': 4,
-    spike: 5,
+    spike: 6,
     'spike-quiet': 3,
-    'spike-es': 4,
-    'spike-jp': 4,
+    'spike-es': 5,
+    'spike-jp': 5,
     'spike-down': 3,
-    'spike-cap': 6,
+    'spike-cap': 8,
+    'spike-shape': 3,
+    'spike-html': 3,
+    'spike-floor': 5,
+    'spike-noname': 4,
     'feed-nosource': 2,
     'topic-switch': 3,
     'lang-switch': 3,
@@ -553,37 +557,63 @@ const run = () => {
         return;
     }
     if (scenario === 'spike') {
-        ok(titles()[0] === 'Spike: ROIV +18.4%' && titles()[1] === 'Spike: CRWV +16.1%', 'top gainers');
-        ok(!titles().some(t => t.includes('INTC')), 'under 15 dropped');
-        ok(classes()[0] === 'quake-high quake-recent', 'blink');
-        ok(sources()[0] === 'Roivant Sciences Ltd.', 'name');
-        ok(href(articles()[0]) === 'https://finance.yahoo.com/quote/ROIV', 'yahoo');
-        ok(titles()[2] === 'Four outlets on rates', 'news after');
+        ok(titles()[0] === 'Drop: Dyne Therapeutics, Inc. (DYN) -18.9%', 'down name pct');
+        ok(titles()[1] === 'Spike: Roivant Sciences Ltd. (ROIV) +18.4%', 'up name pct');
+        ok(titles()[2] === 'Spike: CoreWeave, Inc. (CRWV) +16.1%', 'second up');
+        ok(!titles().some(t => t.includes('INTC') || t.includes('NVS')), 'under 15 dropped');
+        ok(classes().slice(0, 3).every(c => c === 'quake-high'), 'dashed no blink');
+        ok(sources()[0] === 'DYN' && sources()[1] === 'ROIV', 'tickers');
+        ok(href(articles()[1]) === 'https://finance.yahoo.com/quote/ROIV', 'yahoo');
+        ok(titles()[3] === 'Four outlets on rates', 'news after');
         return;
     }
     if (scenario === 'spike-quiet') {
         ok(articles().length === 3, 'news only');
-        ok(!titles().some(t => t.startsWith('Spike:')), '14.9 dropped');
+        ok(!titles().some(t => t.includes('Spike:') || t.includes('Drop:')), '14.9 dropped');
         return;
     }
     if (scenario === 'spike-es') {
-        ok(titles()[0] === 'Disparo: ROIV +18.4%', 'es prefix');
-        ok(titles()[0].includes('ROIV'), 'ticker');
+        ok(titles()[0] === 'Caída: Dyne Therapeutics, Inc. (DYN) -18.9%', 'es down');
+        ok(titles()[1] === 'Subida: Roivant Sciences Ltd. (ROIV) +18.4%', 'es up');
+        ok(titles()[1].includes('Roivant Sciences Ltd.'), 'en name');
         return;
     }
     if (scenario === 'spike-jp') {
-        ok(titles()[0] === '急騰: ROIV +18.4%', 'jp prefix');
-        ok(titles()[0].includes('ROIV'), 'ticker');
+        ok(titles()[0] === '急落: Dyne Therapeutics, Inc. (DYN) -18.9%', 'jp down');
+        ok(titles()[1] === '急騰: Roivant Sciences Ltd. (ROIV) +18.4%', 'jp up');
+        ok(titles()[1].includes('ROIV'), 'ticker');
         return;
     }
     if (scenario === 'spike-down') {
         ok(articles().length === 3, 'news kept');
-        ok(!titles().some(t => t.startsWith('Spike:')), 'no spikes');
+        ok(!titles().some(t => t.includes('Spike:') || t.includes('Drop:')), 'no spikes');
         return;
     }
     if (scenario === 'spike-cap') {
-        ok(titles().slice(0, 3).join() === 'Spike: EEE +20.0%,Spike: BBB +19.0%,Spike: CCC +18.0%', 'top 3');
-        ok(!titles().some(t => t.includes('DDD') || t.includes('AAA')), 'capped');
+        ok(titles().slice(0, 5).join() === 'Drop: Foxtrot (FFF) -21.0%,Spike: Echo (EEE) +20.0%,Spike: Bravo (BBB) +19.0%,Spike: Charlie (CCC) +18.0%,Spike: Delta (DDD) +17.0%', 'abs top 5');
+        ok(!titles().some(t => t.includes('AAA')), '6th dropped');
+        ok(classes().slice(0, 5).every(c => c === 'quake-high'), 'no blink');
+        return;
+    }
+    if (scenario === 'spike-shape') {
+        ok(articles().length === 3, 'news only');
+        ok(!titles().some(t => t.includes('ROIV') || t.includes('DYN')), 'wrong keys dropped');
+        return;
+    }
+    if (scenario === 'spike-html') {
+        ok(articles().length === 3, 'html ignored');
+        ok(!titles().some(t => t.startsWith('Spike:') || t.startsWith('Drop:')), 'no parse');
+        return;
+    }
+    if (scenario === 'spike-floor') {
+        ok(titles()[0] === 'Drop: Dyne Therapeutics, Inc. (DYN) -15.0%', '15 down kept');
+        ok(titles()[1] === 'Spike: Roivant Sciences Ltd. (ROIV) +15.0%', '15 up kept');
+        ok(!titles().some(t => t.includes('AAPL') || t.includes('NVS')), '14.9 dropped');
+        return;
+    }
+    if (scenario === 'spike-noname') {
+        ok(titles()[0] === 'Spike: XYZ (XYZ) +16.0%', 'symbol fallback');
+        ok(classes()[0] === 'quake-high', 'dashed');
         return;
     }
     if (scenario === 'feed-nosource') {
