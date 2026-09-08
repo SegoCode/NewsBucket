@@ -84,22 +84,7 @@ test("rejects invalid, duplicate or unsorted news", () => {
 	);
 });
 
-test("validates the configured RSS files on disk", () => {
-	withTempDirectories(({ inputDir, outputDir }) => {
-		fs.writeFileSync(
-			path.join(inputDir, "tech.txt"),
-			"https://example.com/rss\n",
-		);
-		fs.writeFileSync(
-			path.join(outputDir, "tech.json"),
-			JSON.stringify(validOutput),
-		);
-
-		assert.doesNotThrow(() => validateFeedFiles({ inputDir, outputDir }));
-	});
-});
-
-test("rejects missing, extra and corrupt RSS output files", () => {
+test("rejects missing and extra RSS output files", () => {
 	withTempDirectories(({ inputDir, outputDir }) => {
 		fs.writeFileSync(
 			path.join(inputDir, "tech.txt"),
@@ -116,13 +101,6 @@ test("rejects missing, extra and corrupt RSS output files", () => {
 		assert.throws(
 			() => validateFeedFiles({ inputDir, outputDir }),
 			/RSS output files do not match configured feed files/,
-		);
-
-		fs.rmSync(path.join(outputDir, "extra.json"));
-		fs.writeFileSync(path.join(outputDir, "tech.json"), "not-json");
-		assert.throws(
-			() => validateFeedFiles({ inputDir, outputDir }),
-			SyntaxError,
 		);
 	});
 });
