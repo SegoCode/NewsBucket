@@ -37,6 +37,7 @@ export const requestOpenCodeJson = async ({
 	wait = delay,
 }) => {
 	let lastError;
+	const sessionId = crypto.randomUUID();
 
 	for (let attempt = 0; attempt < maxAttempts; attempt++) {
 		try {
@@ -45,6 +46,7 @@ export const requestOpenCodeJson = async ({
 				headers: {
 					"Content-Type": "application/json",
 					Authorization: `Bearer ${apiKey}`,
+					"x-opencode-session": sessionId,
 				},
 				body: JSON.stringify({
 					model: MODEL,
