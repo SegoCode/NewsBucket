@@ -3,7 +3,7 @@ export const JMA = 'https://www.jma.go.jp/bosai/';
 const sentenceCase = s => s && s[0].toUpperCase() + s.slice(1).toLowerCase();
 
 const formatAlertName = (s, lang) => {
-    if (!s) return '';
+    if (!s) return { text: '', level: 0 };
     const text = s.normalize('NFKC');
     const m = text.match(/\[(?:レベル|Level)\s*(\d+)[^\]]*\]/i);
     const raw = text
@@ -12,18 +12,22 @@ const formatAlertName = (s, lang) => {
         .replace(/\s+/g, ' ')
         .trim();
     const name = lang === 'jp' ? raw : sentenceCase(raw);
-    const n = m ? +m[1] : 0;
-    if (n <= 1) return name;
-    return lang === 'jp' ? `${name}, レベル${n}` : `${name}, Level ${n}`;
+    const level = m ? +m[1] : 0;
+    if (level <= 1) return { text: name, level };
+    return {
+        text: lang === 'jp' ? `${name}, レベル${level}` : `${name}, Level ${level}`,
+        level,
+    };
 };
 
 export const weatherItems = (jma, lang) =>
     jma.alerts.map(a => {
-        const title = `${lang === 'jp' ? '気象警報' : 'Weather alert'}: ${formatAlertName(lang === 'jp' ? a.jp : a.en, lang === 'jp' ? 'jp' : 'en')}`;
+        const { text, level } = formatAlertName(lang === 'jp' ? a.jp : a.en, lang === 'jp' ? 'jp' : 'en');
+        const pulse = level >= 5 ? ' weather-l5' : level >= 4 ? ' weather-l4' : level >= 3 ? ' quake-recent' : '';
         return {
-            title,
+            title: `${lang === 'jp' ? '気象警報' : 'Weather alert'}: ${text}`,
             source: ['JMA', jma.prefecture],
-            cls: 'quake-high' + (/[3-9]|\d{2,}/.test(title) ? ' quake-recent' : ''),
+            cls: 'quake-high' + pulse,
             url: `https://www.jma.go.jp/bosai/#lang=${lang === 'jp' ? 'jp' : 'en'}&pattern=default&area_type=offices&area_code=${a.office || jma.office}`,
         };
     });
