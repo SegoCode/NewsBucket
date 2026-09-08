@@ -1,14 +1,12 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import "dotenv/config";
 import { encode } from "@toon-format/toon";
 import { isValidClusters } from "./cluster-validation.js";
 import { requestOpenCodeJson } from "./opencode-client.js";
 
 const INPUT_DIR = "rss_output";
 const OUTPUT_DIR = "rss_output_cluster";
-const MAX_ATTEMPTS = 4;
 
 const PROMPT = fs.readFileSync("prompts/cluster.md", "utf-8");
 
@@ -54,7 +52,6 @@ export const clusterFiles = async ({ category } = {}) => {
 		const availableSources = news.map((item) => item.source);
 		const clusters = await requestOpenCodeJson({
 			context: file,
-			maxAttempts: MAX_ATTEMPTS,
 			messages: [
 				{ role: "system", content: PROMPT },
 				{
@@ -63,10 +60,6 @@ export const clusterFiles = async ({ category } = {}) => {
 				},
 			],
 			validate: (candidate) => isValidClusters(candidate, availableSources),
-			onRetry: (attempt, error) => {
-				const message = error instanceof Error ? error.message : String(error);
-				console.warn(`  ↻ retry ${attempt}/${MAX_ATTEMPTS - 1} (${message})`);
-			},
 		});
 
 		fs.mkdirSync(OUTPUT_DIR, { recursive: true });
