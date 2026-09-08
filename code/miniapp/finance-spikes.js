@@ -1,6 +1,6 @@
 const GAINERS = 'https://finance-query.com/v2/screeners/day-gainers';
 const LOSERS = 'https://finance-query.com/v2/screeners/day-losers';
-const MIN = 15;
+const MIN = 20;
 const MAX = 5;
 const UP = { en: 'Spike', es: 'Subida', jp: '急騰' };
 const DOWN = { en: 'Drop', es: 'Caída', jp: '急落' };
@@ -26,10 +26,14 @@ export const fetchFinanceSpikes = async (lang = 'en') => {
         })
         .sort((a, b) => Math.abs(b.pct) - Math.abs(a.pct))
         .slice(0, MAX)
-        .map(q => ({
-            title: `${(q.pct >= 0 ? UP : DOWN)[lang] || UP.en}: ${q.name} (${q.symbol}) ${signed(q.pct)}`,
-            source: [q.symbol],
-            cls: 'quake-high',
-            url: `https://finance.yahoo.com/quote/${encodeURIComponent(q.symbol)}`,
-        }));
+        .map(q => {
+            const up = q.pct >= 0;
+            const label = (up ? UP : DOWN)[lang] || UP.en;
+            return {
+                title: `<span>${label}: ${q.name}</span><span>${q.symbol} · <span class="${up ? 'ok' : 'high'}">${signed(q.pct)}</span></span>`,
+                source: ['finance.yahoo.com'],
+                cls: 'quake-high spike',
+                url: `https://finance.yahoo.com/quote/${encodeURIComponent(q.symbol)}`,
+            };
+        });
 };
