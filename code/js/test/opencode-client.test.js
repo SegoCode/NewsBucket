@@ -47,6 +47,10 @@ test("sends the configured model and API key to OpenCode", async () => {
 
 	assert.equal(capturedUrl, "https://opencode.ai/zen/v1/chat/completions");
 	assert.equal(capturedOptions.headers.Authorization, "Bearer test-key");
+	assert.match(
+		capturedOptions.headers["x-opencode-session"],
+		/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i,
+	);
 	assert.equal(
 		JSON.parse(capturedOptions.body).model,
 		"nemotron-3-ultra-free",
