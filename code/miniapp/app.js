@@ -7,7 +7,7 @@ import { createChrome } from './chrome.js';
 import { createLive } from './live.js';
 import { pipelineItems } from './pipeline.js';
 import { createDiag } from './diag.js';
-import { createPlace, getPlace, setPlace } from './place.js';
+import { createPlace, getPlace, setPlace, watchPlace, PREFECTURES, prefectureFor } from './place.js';
 
 const topic = document.getElementById('topic');
 const lang = document.getElementById('lang');
@@ -58,6 +58,7 @@ async function load() {
     const gen = loadGen;
     feed.innerHTML = '<div id="status">Loading…</div>';
     syncDiag(topic.value === 'status');
+    const outagesP = topic.value === 'tech' ? fetchCloudOutages(lang.value) : null;
     let items = [];
     try {
         items = topic.value === 'status'
@@ -70,11 +71,6 @@ async function load() {
             items.unshift(...await quakeItems(lang.value));
         } catch {}
     }
-    if (topic.value === 'tech') {
-        try {
-            items.unshift(...await fetchCloudOutages(lang.value));
-        } catch {}
-    }
     if (topic.value === 'finance') {
         try {
             items.unshift(...await fetchFinanceSpikes(lang.value));
@@ -82,6 +78,13 @@ async function load() {
     }
     if (gen !== loadGen) return;
     render(items, feed);
+    if (outagesP) {
+        void outagesP.then(outages => {
+            if (gen !== loadGen || !outages.length) return;
+            if (items.length) feed.insertAdjacentHTML('afterbegin', articlesHtml(outages));
+            else render(outages, feed);
+        });
+    }
     if (topic.value !== 'status' && items.length) {
         feed.insertAdjacentHTML('beforeend', `<p>${{ en: 'YESTERDAY', es: 'AYER', jp: '昨日' }[lang.value] || 'YESTERDAY'}</p>`);
         const prev = await fetchYesterday(topic.value, lang.value);
@@ -111,7 +114,13 @@ if (platform) {
     let weatherGen = 0;
     let weatherKey = '';
     const applyWeather = async coords => {
-        if (!Number.isFinite(coords?.latitude) || !Number.isFinite(coords?.longitude)) return;
+        if (!coords) {
+            weatherKey = '';
+            jma = null;
+            if (topic.value === 'japan') load();
+            return;
+        }
+        if (!Number.isFinite(coords.latitude) || !Number.isFinite(coords.longitude)) return;
         const key = `${coords.latitude.toFixed(2)},${coords.longitude.toFixed(2)}`;
         if (key === weatherKey) return;
         weatherKey = key;
@@ -127,7 +136,7 @@ if (platform) {
             if (gen === weatherGen) weatherKey = '';
         }
     };
-    const { requestLocation, syncWatch, fetchIp } = createPlace({
+    const { requestLocation, syncWatch, fetchIp, setManual, resetManual } = createPlace({
         native,
         onCoords: applyWeather,
     });
@@ -135,9 +144,26 @@ if (platform) {
     fetchIp();
     if (!navigator.geolocation?.watchPosition || topic.value !== 'japan') requestLocation();
     syncLocation();
+    const pref = document.getElementById('diag-pref');
+    pref.append(new Option('', ''), ...PREFECTURES.map(p => new Option(p.name, p.iso)));
+    const syncPref = () => {
+        if (getPlace().source === 'Manual') return;
+        pref.value = prefectureFor(getPlace())?.iso || '';
+    };
+    watchPlace(syncPref);
+    syncPref();
     document.getElementById('diag-ask').onclick = () => {
         platform.HapticFeedback?.selectionChanged();
-        requestLocation({ force: true });
+        if (!resetManual()) requestLocation({ force: true });
+    };
+    pref.onchange = () => {
+        platform.HapticFeedback?.selectionChanged();
+        if (!pref.value) {
+            resetManual();
+            syncPref();
+            return;
+        }
+        setManual(pref.value);
     };
     tg.MainButton.setText('LIVE NEWS');
     tg.MainButton.onClick(() => live.hidden ? setLive(true) : swapLang());
