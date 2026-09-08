@@ -14,11 +14,8 @@ test("rejects an empty cluster list", () => {
 	assert.equal(isValidClusters([]), false);
 });
 
-test("rejects a cluster with inconsistent count", () => {
+test("rejects clusters that break the shape contract", () => {
 	assert.equal(isValidClusters([{ ...validClusters[0], count: 2 }]), false);
-});
-
-test("rejects a cluster with duplicate outlets", () => {
 	assert.equal(
 		isValidClusters([
 			{
@@ -28,22 +25,13 @@ test("rejects a cluster with duplicate outlets", () => {
 		]),
 		false,
 	);
-});
-
-test("rejects a cluster without a meaningful title or summary", () => {
 	assert.equal(isValidClusters([{ ...validClusters[0], title: " " }]), false);
 	assert.equal(isValidClusters([{ ...validClusters[0], summary: "" }]), false);
-});
-
-test("rejects unexpected fields and non-integer counts", () => {
 	assert.equal(
 		isValidClusters([{ ...validClusters[0], explanation: "extra" }]),
 		false,
 	);
 	assert.equal(isValidClusters([{ ...validClusters[0], count: 3.5 }]), false);
-});
-
-test("rejects clusters not sorted by descending count", () => {
 	assert.equal(isValidClusters([...validClusters].reverse()), false);
 });
 
@@ -83,7 +71,7 @@ test("accepts a translation preserving source metadata", () => {
 	assert.equal(isValidTranslation(validTranslation, validClusters), true);
 });
 
-test("rejects a translation with missing or extra clusters", () => {
+test("rejects a translation that changes structure or source metadata", () => {
 	assert.equal(
 		isValidTranslation(validTranslation.slice(0, 1), validClusters),
 		false,
@@ -95,9 +83,6 @@ test("rejects a translation with missing or extra clusters", () => {
 		),
 		false,
 	);
-});
-
-test("rejects a translation that changes order or source metadata", () => {
 	assert.equal(
 		isValidTranslation(
 			[validTranslation[1], validTranslation[0]],
@@ -116,9 +101,6 @@ test("rejects a translation that changes order or source metadata", () => {
 		),
 		false,
 	);
-});
-
-test("rejects a translation that adds or removes fields", () => {
 	assert.equal(
 		isValidTranslation(
 			validTranslation.map((cluster, index) =>
