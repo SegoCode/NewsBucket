@@ -104,6 +104,22 @@ const COUNT = {
     'lang-bad-nb': 1,
     'lang-keep': 1,
     'feed-count': 2,
+    outage: 7,
+    'outage-age': 6,
+    'outage-es': 4,
+    'outage-jp': 4,
+    'outage-down': 3,
+    'outage-resolved': 4,
+    'outage-shape': 3,
+    'outage-ended': 4,
+    'outage-html': 3,
+    'outage-created': 4,
+    spike: 5,
+    'spike-quiet': 3,
+    'spike-es': 4,
+    'spike-jp': 4,
+    'spike-down': 3,
+    'spike-cap': 6,
     'feed-nosource': 2,
     'topic-switch': 3,
     'lang-switch': 3,
@@ -156,12 +172,15 @@ const COUNT = {
     'quake-mag': 1,
     'quake-age': 1,
     'quake-blink': 2,
+    'quake-palette': 4,
+    'quake-hold': 3,
     'quake-drop': 2,
     'quake-combo': 2,
     'quake-cod': 2,
     'quake-bad-cod': 1,
     weather: 3,
     'weather-l2': 1,
+    'weather-l4': 1,
     'weather-l10': 1,
     'weather-jp': 3,
     'weather-ip': 3,
@@ -470,6 +489,103 @@ const run = () => {
         ok(titles().join() === 'Four sources,Two sources', 'titles');
         return;
     }
+    if (scenario === 'outage') {
+        ok(articles().length === 7, '4 outages + news');
+        ok(titles()[0] === 'Outage: GitHub: Actions down', 'github en');
+        ok(titles()[1] === 'Outage: Cloudflare: API errors', 'cloudflare');
+        ok(titles()[2] === 'Outage: AWS: EC2 errors', 'aws');
+        ok(titles()[3] === 'Outage: Google Cloud: us-central1 network', 'gcp');
+        ok(classes().slice(0, 4).every(c => c === 'quake-high quake-recent'), '12h blink');
+        ok(articles().slice(0, 4).every(a => href(a) === 'https://radar.cloudflare.com/cloud-observatory'), 'observatory');
+        ok(titles()[4] === 'Foundry wins contract', 'news after');
+        return;
+    }
+    if (scenario === 'outage-age') {
+        ok(titles()[0] === 'Outage: GitHub: Actions down' && classes()[0] === 'quake-high quake-recent', '6h blinks');
+        ok(titles()[1] === 'Outage: Cloudflare: API errors' && classes()[1] === 'quake-high', '20h still');
+        ok(titles()[2] === 'Outage: Google Cloud: us-central1 network' && classes()[2] === 'quake-high quake-recent', 'gcp 6h');
+        ok(!titles().some(t => t.includes('AWS')), '50h dropped');
+        return;
+    }
+    if (scenario === 'outage-es') {
+        ok(titles()[0] === 'Incidencia: GitHub: Actions down', 'es prefix');
+        ok(titles()[0].includes('GitHub'), 'en name');
+        return;
+    }
+    if (scenario === 'outage-jp') {
+        ok(titles()[0] === '障害: GitHub: Actions down', 'jp prefix');
+        ok(titles()[0].includes('GitHub'), 'en name');
+        return;
+    }
+    if (scenario === 'outage-down') {
+        ok(articles().length === 3, 'news kept');
+        ok(!titles().some(t => t.includes('Outage') || t.includes('GitHub')), 'no outages');
+        ok(titles()[0] === 'Foundry wins contract', 'tech news');
+        return;
+    }
+    if (scenario === 'outage-resolved') {
+        ok(!titles().some(t => t.includes('GitHub') || t.includes('Cloudflare')), 'resolved dropped');
+        ok(titles()[0] === 'Outage: AWS: EC2 errors', 'open rss kept');
+        ok(sources()[0] === 'AWS', 'aws source');
+        return;
+    }
+    if (scenario === 'outage-shape') {
+        ok(articles().length === 3, 'news only');
+        ok(!titles().some(t => t.startsWith('Outage:')), 'wrong keys dropped');
+        ok(titles()[0] === 'Foundry wins contract', 'tech news');
+        return;
+    }
+    if (scenario === 'outage-ended') {
+        ok(titles()[0] === 'Outage: Google Cloud: us-central1 network', 'ended 10h kept');
+        ok(classes()[0] === 'quake-high', 'begin 20h no blink');
+        ok(href(articles()[0]) === 'https://radar.cloudflare.com/cloud-observatory', 'observatory');
+        return;
+    }
+    if (scenario === 'outage-html') {
+        ok(articles().length === 3, 'html ignored');
+        ok(!titles().some(t => t.startsWith('Outage:')), 'no parse');
+        return;
+    }
+    if (scenario === 'outage-created') {
+        ok(titles()[0] === 'Outage: GitHub: Actions down', 'created_at name');
+        ok(classes()[0] === 'quake-high quake-recent', 'created_at blink');
+        ok(sources()[0] === 'GitHub', 'github source');
+        return;
+    }
+    if (scenario === 'spike') {
+        ok(titles()[0] === 'Spike: ROIV +18.4%' && titles()[1] === 'Spike: CRWV +16.1%', 'top gainers');
+        ok(!titles().some(t => t.includes('INTC')), 'under 15 dropped');
+        ok(classes()[0] === 'quake-high quake-recent', 'blink');
+        ok(sources()[0] === 'Roivant Sciences Ltd.', 'name');
+        ok(href(articles()[0]) === 'https://finance.yahoo.com/quote/ROIV', 'yahoo');
+        ok(titles()[2] === 'Four outlets on rates', 'news after');
+        return;
+    }
+    if (scenario === 'spike-quiet') {
+        ok(articles().length === 3, 'news only');
+        ok(!titles().some(t => t.startsWith('Spike:')), '14.9 dropped');
+        return;
+    }
+    if (scenario === 'spike-es') {
+        ok(titles()[0] === 'Disparo: ROIV +18.4%', 'es prefix');
+        ok(titles()[0].includes('ROIV'), 'ticker');
+        return;
+    }
+    if (scenario === 'spike-jp') {
+        ok(titles()[0] === '急騰: ROIV +18.4%', 'jp prefix');
+        ok(titles()[0].includes('ROIV'), 'ticker');
+        return;
+    }
+    if (scenario === 'spike-down') {
+        ok(articles().length === 3, 'news kept');
+        ok(!titles().some(t => t.startsWith('Spike:')), 'no spikes');
+        return;
+    }
+    if (scenario === 'spike-cap') {
+        ok(titles().slice(0, 3).join() === 'Spike: EEE +20.0%,Spike: BBB +19.0%,Spike: CCC +18.0%', 'top 3');
+        ok(!titles().some(t => t.includes('DDD') || t.includes('AAA')), 'capped');
+        return;
+    }
     if (scenario === 'feed-nosource') {
         const orphan = articles().find(a => $('h2', a).textContent === 'Orphan headline');
         ok(orphan, 'renders without source');
@@ -660,8 +776,8 @@ const run = () => {
         return;
     }
     if (scenario === 'quakes') {
-        ok(classes()[0] === 'quake-high quake-recent', 'recent <2h');
-        ok(classes()[1] === 'quake-high', 'older <24h');
+        ok(classes()[0] === 'quake-high weather-l4', 'M6.2 red-purple');
+        ok(classes()[1] === 'quake-high', 'M5.4 still');
         ok(titles()[0].startsWith('M6.2') && titles()[0].includes('Tokyo Bay'), 'M6.2');
         ok(titles()[1].startsWith('M5.4'), 'M5.4');
         ok(titles().every(t => !t.includes('Weather alert')), 'no weather');
@@ -688,9 +804,24 @@ const run = () => {
         ok(titles()[1].includes('Stale'), 'stale second');
         return;
     }
+    if (scenario === 'quake-palette') {
+        ok(articles().length === 4, '4 quakes');
+        ok(titles()[0].startsWith('M6.5') && classes()[0] === 'quake-high weather-l5', 'M6.5 black-purple');
+        ok(titles()[1].startsWith('M6.4') && classes()[1] === 'quake-high weather-l4', 'M6.4 red-purple');
+        ok(titles()[2].startsWith('M5.5') && classes()[2] === 'quake-high weather-l4', 'M5.5 red-purple');
+        ok(titles()[3].startsWith('M5.4') && classes()[3] === 'quake-high quake-recent', 'M5.4 red blink');
+        return;
+    }
+    if (scenario === 'quake-hold') {
+        ok(articles().length === 3, '3 old');
+        ok(titles()[0].startsWith('M6.5') && classes()[0] === 'quake-high weather-l5', 'old M6.5 still blinks');
+        ok(titles()[1].startsWith('M6.0') && classes()[1] === 'quake-high weather-l4', 'old M6 still blinks');
+        ok(titles()[2].startsWith('M5.5') && classes()[2] === 'quake-high', 'old M5.5 still');
+        return;
+    }
     if (scenario === 'quake-combo') {
         ok(articles().length === 2, '2 kept');
-        ok(titles()[0].startsWith('M6.0') && classes()[0] === 'quake-high quake-recent', 'hot blinks');
+        ok(titles()[0].startsWith('M6.0') && classes()[0] === 'quake-high weather-l4', 'M6.0 red-purple');
         ok(titles()[1].startsWith('M4.5') && classes()[1] === 'quake-high', 'edge still');
         ok(!titles().some(t => t.includes('Weak') || t.includes('Old')), 'weak/old dropped');
         return;
@@ -741,7 +872,7 @@ const run = () => {
         ok(!titles().some(t => t.startsWith('M')), 'no quake');
         ok(classes()[0].includes('quake-recent'), 'L3 blinks');
         ok(!classes()[1].includes('quake-recent'), 'L1 still');
-        ok(classes()[2].includes('quake-recent'), 'L5 blinks');
+        ok(classes()[2].includes('weather-l5'), 'L5 black-purple');
         if (scenario === 'weather-ip') ok(articles().length === 3, 'ip-only weather');
         ok(href(articles()[0]).includes('area_code=130000'), 'tokyo area');
         ok(!href(articles()[0]).includes('area_code=010000'), 'not nationwide');
@@ -755,6 +886,12 @@ const run = () => {
         ok(!classes()[0].includes('quake-recent'), 'L2 still');
         return;
     }
+    if (scenario === 'weather-l4') {
+        ok(articles().length === 1, '1 alert');
+        ok(titles()[0].includes('Wind') && titles()[0].includes('Level 4'), 'L4 title');
+        ok(classes()[0] === 'quake-high weather-l4', 'L4 red-purple');
+        return;
+    }
     if (scenario === 'weather-l10') {
         ok(articles().length === 1, '1 alert');
         ok(titles()[0].includes('Special warning') && titles()[0].includes('Level 10'), 'numeric 10 wins');
@@ -765,7 +902,7 @@ const run = () => {
         ok(titles()[0].includes('大雨') && titles()[0].includes('レベル3'), '雨');
         ok(titles()[1] === '気象警報: 洪水', '洪水');
         ok(titles()[2].includes('暴風') && titles()[2].includes('レベル5'), '暴風');
-        ok(classes()[0].includes('quake-recent') && !classes()[1].includes('quake-recent') && classes()[2].includes('quake-recent'), 'jp blink');
+        ok(classes()[0].includes('quake-recent') && !classes()[1].includes('quake-recent') && classes()[2].includes('weather-l5'), 'jp blink');
         ok(href(articles()[0]).includes('#lang=jp'), 'lang jp');
         return;
     }
@@ -787,7 +924,7 @@ const run = () => {
         ok(articles().length === 1, '1 alert');
         ok(titles()[0].includes('Storm') && titles()[0].includes('Level 5'), 'storm');
         ok(sources()[0].includes('Osaka'), 'Osaka');
-        ok(classes()[0].includes('quake-recent'), 'L5 blinks');
+        ok(classes()[0].includes('weather-l5'), 'L5 black-purple');
         ok(href(articles()[0]).includes('area_code=270000'), 'osaka area');
         ok(!href(articles()[0]).includes('area_code=010000'), 'not nationwide');
         return;
@@ -931,7 +1068,7 @@ const run = () => {
     if (scenario === 'live-en') {
         ok(!$('#live').hidden, 'overlay');
         sameChrome(readHtmlChrome(), CHROME.newsEn, 'html en');
-        ok($('#liveFrame').dataset.vid === 'f0lYkdA-Gtw', 'en news');
+        ok($('#liveFrame').dataset.vid === 'IimtbuqYIE8', 'en news');
         ok($('#liveFrame').dataset.loads === '1', 'same iframe');
         ok($('#liveFrame').dataset.muted === '0' && $('#liveFrame').dataset.playing === '1', 'audio play');
         return;
