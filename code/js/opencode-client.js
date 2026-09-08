@@ -1,3 +1,4 @@
+import "dotenv/config";
 import { EventSourceParserStream } from "eventsource-parser/stream";
 import { jsonrepair } from "jsonrepair";
 
@@ -33,7 +34,10 @@ export const requestOpenCodeJson = async ({
 	validate = () => true,
 	context,
 	maxAttempts = MAX_ATTEMPTS,
-	onRetry = () => {},
+	onRetry = (attempt, error) => {
+		const message = error instanceof Error ? error.message : String(error);
+		console.warn(`  ↻ retry ${attempt}/${MAX_ATTEMPTS - 1} (${message})`);
+	},
 	wait = delay,
 }) => {
 	let lastError;
