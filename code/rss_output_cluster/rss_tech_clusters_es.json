@@ -1,28 +1,124 @@
 [
   {
-    "title": "Conectores de alimentación de RTX 5090 se derriten al activar DLSS 5",
-    "summary": "Usuarios reportan fallos críticos en el conector 12VHPWR de la RTX 5090 tras habilitar DLSS 5, reavivando preocupaciones sobre el diseño de alimentación.",
+    "title": "Arm presenta sus nuevas CPU C2, GPU Mali con gráficos neuronales y plataforma Neoverse de 128 núcleos",
+    "summary": "Arm lanza una oleada de diseños para móviles y servidores que incluyen CPU de alto rendimiento, GPU con IA integrada y subsistemas de hasta 128 núcleos en 3 nm.",
     "source": [
       "elchapuzasinformatico.com",
+      "news.ycombinator.com",
+      "videocardz.com",
+      "kite.kagi.com",
+      "tomshardware.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "DLSS 5 Autopilot y Neural Rendering multiplican el rendimiento en tarjetas Nvidia y reviven configuraciones multi-GPU",
+    "summary": "La nueva versión de DLSS reduce la penalización de rendimiento y permite usar una segunda GPU dedicada al renderizado neuronal, logrando hasta un 127% más de FPS.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple prepara el iPhone 18 Pro con cámara de apertura variable y blinda el suministro de memoria NAND",
+    "summary": "Las filtraciones revelan una cámara profesional con cinco novedades y Apple asegura chips NAND ante la creciente demanda, aunque el mercado sigue tenso.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Mistral AI recauda 3.000 millones de euros en la mayor ronda tecnológica europea pese a ir por detrás de sus rivales",
+    "summary": "La startup francesa cierra una financiación récord para desarrollar modelos y infraestructura propia, aunque admite que la verdadera batalla está en la capa de aplicaciones.",
+    "source": [
+      "xataka.com",
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "La industria advierte de que ni 20 fábricas nuevas de NAND cubrirían la demanda y Apple blinda sus chips para el iPhone 18",
+    "summary": "Phison y Samsung alertan de un déficit estructural de memoria NAND y DRAM, mientras Apple asegura suministro para su próximo buque insignia.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Mod no oficial lleva DLSS 5 y Frame Generation a tarjetas RTX 20, 30 y 40",
-    "summary": "Un modder logra habilitar las tecnologías DLSS 5 y generación de frames en generaciones anteriores de GPUs NVIDIA, extendiendo su vida útil.",
+    "title": "TSMC construye 19 fábricas simultáneas e Intel supera el millón de obleas High-NA EUV en la carrera por la capacidad de litografía avanzada",
+    "summary": "Los dos mayores fabricantes de chips expanden agresivamente su capacidad de producción de vanguardia, pero la demanda de IA sigue superando la oferta.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "xataka.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "LG presenta el Gram Book AI 2026 con Intel Wildcat Lake y 30 horas de batería",
-    "summary": "El nuevo ultraportátil premium de LG integra procesadores Intel Wildcat Lake y promete una autonomía récord superior a 30 horas.",
+    "title": "Hackers roban 320 millones de dólares en Bitcoin de Liquid Network y devuelven 3.400 BTC tras exigir parchear la vulnerabilidad",
+    "summary": "Un grupo vacía el 95% del monedero federado de Liquid, se autodenomina 'bueno' y devuelve parte del botín tras reclamar que se corrija el fallo.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "tomshardware.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony mantiene la eliminación del disco físico en PlayStation pese a demandas y amenazas legales, pero seguirá fabricando discos hasta 2028",
+    "summary": "La compañía enfrenta una fuerte reacción negativa y varias demandas, pero confirma que las novedades perderán el formato físico mientras mantiene la producción de discos un 10% menos.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel planea subir un 10% el precio de sus CPU para PC en octubre y retirar modelos de bajo margen",
+    "summary": "El fabricante ajustará al alza sus procesadores de escritorio y dejará de fabricar aquellos que no ofrecen suficiente rentabilidad.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Jellyfin 12.0 añade soporte para libros y cómics, navegación más rápida y FFmpeg 8.1",
+    "summary": "El servidor multimedia de código abierto lanza una actualización mayor centrada en la lectura y el rendimiento de reproducción.",
+    "source": [
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GPT-6 Astra completa Portal de forma autónoma en 24 horas con un coste de solo 571 dólares en tokens",
+    "summary": "El nuevo modelo de OpenAI resuelve el juego sin intervención humana, demostrando capacidades de planificación y ejecución de tareas complejas.",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ChatGPT Work aprende el estilo de escritura del usuario conectando sus aplicaciones laborales",
+    "summary": "OpenAI prueba una función que permite al chatbot imitar la redacción del usuario basándose en sus documentos y comunicaciones de trabajo.",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Un entusiasta encuentra en su garaje 1.920 GB de RAM DDR4 valorados en 12.000 dólares y se los queda",
+    "summary": "Un empleado descubre un servidor antiguo olvidado lleno de memoria de alto valor y la empresa le permite conservarla.",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 2
   }
