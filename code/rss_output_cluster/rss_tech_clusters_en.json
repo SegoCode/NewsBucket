@@ -1,28 +1,124 @@
 [
   {
-    "title": "RTX 5090 power connectors melt when enabling DLSS 5",
-    "summary": "Users report critical failures in the RTX 5090's 12VHPWR connector after enabling DLSS 5, reigniting concerns about power design.",
+    "title": "Arm unveils its new C2 CPUs, Mali GPU with neural graphics, and 128-core Neoverse platform",
+    "summary": "Arm launches a wave of designs for mobile and servers including high-performance CPUs, GPUs with integrated AI, and subsystems of up to 128 cores on 3 nm.",
     "source": [
       "elchapuzasinformatico.com",
+      "news.ycombinator.com",
+      "videocardz.com",
+      "kite.kagi.com",
+      "tomshardware.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "DLSS 5 Autopilot and Neural Rendering multiply performance on Nvidia cards and revive multi-GPU configurations",
+    "summary": "The new DLSS version reduces the performance penalty and allows using a second GPU dedicated to neural rendering, achieving up to 127% more FPS.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple prepares iPhone 18 Pro with variable aperture camera and secures NAND memory supply",
+    "summary": "Leaks reveal a professional camera with five new features and Apple secures NAND chips amid growing demand, though the market remains tight.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Mistral AI raises €3 billion in largest European tech round despite trailing rivals",
+    "summary": "The French startup closes record financing to develop its own models and infrastructure, though it admits the real battle is in the application layer.",
+    "source": [
+      "xataka.com",
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Industry warns that even 20 new NAND fabs wouldn't cover demand and Apple secures its chips for iPhone 18",
+    "summary": "Phison and Samsung warn of a structural deficit in NAND and DRAM memory, while Apple secures supply for its next flagship.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Unofficial mod brings DLSS 5 and Frame Generation to RTX 20, 30, and 40 cards",
-    "summary": "A modder manages to enable DLSS 5 and frame generation technologies on previous generations of NVIDIA GPUs, extending their useful life.",
+    "title": "TSMC builds 19 simultaneous fabs and Intel surpasses 1 million High-NA EUV wafers in race for advanced lithography capacity",
+    "summary": "The two largest chipmakers aggressively expand their cutting-edge production capacity, but AI demand continues to outstrip supply.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "xataka.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "LG unveils Gram Book AI 2026 with Intel Wildcat Lake and 30-hour battery",
-    "summary": "LG's new premium ultraportable integrates Intel Wildcat Lake processors and promises record-breaking battery life exceeding 30 hours.",
+    "title": "Hackers steal $320 million in Bitcoin from Liquid Network and return 3,400 BTC after demanding vulnerability patch",
+    "summary": "A group drains 95% of Liquid's federated wallet, calls itself 'good' and returns part of the loot after demanding the flaw be fixed.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "tomshardware.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony maintains removal of physical disc in PlayStation despite lawsuits and legal threats, but will keep manufacturing discs until 2028",
+    "summary": "The company faces strong backlash and several lawsuits, but confirms new releases will lose physical format while maintaining disc production at 10% less.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel plans to raise PC CPU prices by 10% in October and discontinue low-margin models",
+    "summary": "The manufacturer will raise prices on its desktop processors and stop making those that don't offer sufficient profitability.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Jellyfin 12.0 adds support for books and comics, faster navigation, and FFmpeg 8.1",
+    "summary": "The open-source media server releases a major update focused on reading and playback performance.",
+    "source": [
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GPT-6 Astra completes Portal autonomously in 24 hours at a cost of only $571 in tokens",
+    "summary": "OpenAI's new model solves the game without human intervention, demonstrating planning and complex task execution capabilities.",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ChatGPT Work learns user's writing style by connecting their work applications",
+    "summary": "OpenAI tests a feature allowing the chatbot to mimic the user's writing based on their documents and work communications.",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Enthusiast finds 1,920 GB of DDR4 RAM worth $12,000 in garage and keeps it",
+    "summary": "An employee discovers a forgotten old server full of high-value memory and the company allows him to keep it.",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 2
   }

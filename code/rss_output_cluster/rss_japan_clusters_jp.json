@@ -1,108 +1,138 @@
 [
   {
-    "title": "関東と東北で記録的な大雨、洪水・土砂崩れ・交通麻痺を引き起こす",
-    "summary": "極端な降雨が最高レベルの警報を発令させ、数千人を避難させ、東京圏と東北地方で鉄道と道路の運行を停止させた。",
+    "title": "豪雨が最高レベル警報と洪水を引き起こし、名古屋と中部地方で",
+    "summary": "記録的降雨がレベル5警報と避難指示を愛知と岐阜で発令させ、河川氾濫と交通機関の運休をもたらす。",
     "source": [
       "mainichi.jp",
-      "asahi.com",
       "news.yahoo.co.jp",
       "nikkei.com",
       "yomiuri.co.jp"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "極右AfDがドイツ東部の州議会選で勝利、第1党に躍進",
-    "summary": "「ドイツのための選択肢」がテューリンゲン州とザクセン州で歴史的勝利を収め、与党CDUは大敗を喫した。",
+    "title": "「中途」党が解散、所属議員が新会派結成を模索",
+    "summary": "中道政党が正式解散を決定し、野党議員らが新党結成と衆院統一会派の模索を進める。",
     "source": [
       "mainichi.jp",
       "nikkei.com",
-      "asahi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "東京、新宿区の住宅地と学校周辺で民泊を禁止、既存施設の半数以上に影響",
-    "summary": "条例は既存施設の過半数に影響し、大田区も近隣トラブル抑制に向け類似措置を検討中。",
-    "source": [
       "asahi.com",
-      "nikkei.com",
       "yomiuri.co.jp"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "岐阜の菓子店で火災、3人死亡；車内で刺し傷のある男性遺体発見",
-    "summary": "開店20周年に起きた火災で衝撃広がる；警察は出火原因と犯罪の関与を捜査。",
+    "title": "円急伸と東京株急落、マクロ経済懸念で",
+    "summary": "円相場が1ドル152円台に上昇し、日経平均が1000円超下落。米経済懸念とマイナス金利解除観測が背景。",
     "source": [
       "nikkei.com",
-      "yomiuri.co.jp",
-      "asahi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "米特使がキーウ初訪問、ロシアとウクライナの外交的解決模索",
-    "summary": "三者対話の再開を目指すが、停戦条件を巡る大きな隔たりは依然として残る。",
-    "source": [
       "asahi.com",
-      "mainichi.jp",
-      "yomiuri.co.jp"
-    ],
-    "count": 3
-  },
-  {
-    "title": "東北新幹線が運転再開、人身事故で一時運転見合わせ",
-    "summary": "東京〜仙台間が約2時間運休、乗客にけが人なし。",
-    "source": [
-      "nikkei.com",
-      "yomiuri.co.jp",
-      "asahi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "元ジャニーズ事務所スタッフ、所属タレント8人への性的虐待を認める",
-    "summary": "元スタッフが証言、事務所が若手タレント約8人に虐待を加えたと明かす。企業再編の渦中で。",
-    "source": [
       "news.yahoo.co.jp",
-      "asahi.com"
+      "yomiuri.co.jp"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "アマゾン貨物機がマイアミ空港で滑走路逸脱、5人死亡",
-    "summary": "着陸時に墜落、当局が事故原因を調査中。",
-    "source": [
-      "nikkei.com",
-      "asahi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "日本の外貨準備が8月6.2%減、月間最大の減少、円高阻止の介入で",
-    "summary": "財務省がドル売り介入で準備高が1.25兆ドルに減少したと確認。",
+    "title": "政府与党、消費税増税の給付金前倒しを2029年に合意",
+    "summary": "「所得連動給付」を2029年春に導入し、消費税減税措置終了の影響を緩和へ。",
     "source": [
       "asahi.com",
-      "nikkei.com"
+      "mainichi.jp",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "原澤敦弁護士、横浜市長選で経済界の支持獲得",
+    "summary": "地元経済界が出馬を要請、現職任期後の政権交代を目指す。",
+    "source": [
+      "mainichi.jp",
+      "nikkei.com",
+      "asahi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "岐阜の菓子店で放火殺人か、3人死亡 ガソリン携行缶発見",
+    "summary": "焼け跡からガソリン携行缶、警察が放火殺人事件として捜査。",
+    "source": [
+      "mainichi.jp",
+      "asahi.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "88歳の堀江謙一氏、単独太平洋横断に再挑戦",
+    "summary": "ベテラン冒険家が日本からサンフランシスコへ無寄港航海、年齢と海洋条件に挑む。",
+    "source": [
+      "mainichi.jp",
+      "asahi.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "PISA2022読解力で日本は4位維持、世界的な学力低下の中",
+    "summary": "OECD報告で読解力と数学的リテラシーが世界的に低下、SNS利用とパンデミックが一因。",
+    "source": [
+      "mainichi.jp",
+      "asahi.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 3
+  },
+  {
+    "title": "茂木外相、イランに商船攻撃の自制要求",
+    "summary": "電話会談でテヘランに自制促す、海上安全とエネルギー供給への影響懸念で。",
+    "source": [
+      "nikkei.com",
+      "mainichi.jp"
     ],
     "count": 2
   },
   {
-    "title": "東京株式市場が続伸、米半導体株が牽引；米金利不透明感で円高進行",
-    "summary": "日経平均が3万6000円台を回復、投資家はFRBの高金利長期化を見極め。",
+    "title": "仲代達矢創設の劇団「無名塾」、50年の歴史に幕",
+    "summary": "役所広司ら輩出した名門校が2027年2月解散へ、創設者死去から10カ月。",
     "source": [
       "nikkei.com",
+      "asahi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "福岡でネパール人女性殺害、同胞3人逮捕",
+    "summary": "川で重体発見、同国人の容疑者らが恋愛トラブルで犯行か。",
+    "source": [
+      "asahi.com",
       "yomiuri.co.jp"
     ],
     "count": 2
   },
   {
-    "title": "小笠原投手が巨人で初完投勝利、チームは大勝",
-    "summary": "前日のリレー継投に続き、小笠原が完封し、適時打が読売の勝利を決定づけた。",
+    "title": "デヴィ・スカルノ氏、シャンパングラス暴行で罰金20万円求刑",
+    "summary": "検察が罰金刑求刑、弁護側は情状酌量主張。",
     "source": [
       "yomiuri.co.jp",
       "asahi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "7月実質賃金2.4%増、7カ月連続プラス",
+    "summary": "物価上回る伸びは約5年ぶり、賃上げと物価落ち着きが寄与。",
+    "source": [
+      "asahi.com",
+      "yomiuri.co.jp"
+    ],
+    "count": 2
+  },
+  {
+    "title": "グレート義太夫さん死去、67歳 「たけし軍団」の重鎮",
+    "summary": "本名は津村義宏、長年糖尿病と闘病。",
+    "source": [
+      "asahi.com",
+      "yomiuri.co.jp"
     ],
     "count": 2
   }

@@ -1,28 +1,124 @@
 [
   {
-    "title": "RTX 5090の電源コネクタがDLSS 5有効化で溶解",
-    "summary": "ユーザーがRTX 5090の12VHPWRコネクタでDLSS 5有効化後に深刻な故障を報告、電源設計への懸念が再燃",
+    "title": "Arm、新CPU「C2」、ニューラルグラフィックス対応GPU Mali、128コアのNeoverseプラットフォームを発表",
+    "summary": "Armがモバイルおよびサーバー向けの一連の新設計を発表。高性能CPU、AI統合GPU、3nmプロセスで最大128コアのサブシステムを含む。",
     "source": [
       "elchapuzasinformatico.com",
+      "news.ycombinator.com",
+      "videocardz.com",
+      "kite.kagi.com",
+      "tomshardware.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "DLSS 5 AutopilotとニューラルレンダリングがNvidia GPUの性能を倍増、マルチGPU構成を復活",
+    "summary": "新版DLSSが性能ペナルティを軽減し、第2のGPUをニューラルレンダリング専用として使用可能に。最大127%のFPS向上を実現。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple、可変絞りカメラ搭載のiPhone 18 Proを準備、NANDメモリ供給を確保",
+    "summary": "リークでプロ仕様カメラの5つの新機能が明らかに。需要増大の中、AppleがNANDチップ供給を確保するも市場は依然逼迫。",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Mistral AI、欧州最大の30億ユーロ調達に成功、ライバルに遅れながらも記録的ラウンド",
+    "summary": "仏スタートアップが自社モデルとインフラ開発のため過去最大の資金調達を完了。真の勝負はアプリケーション層にあると認める。",
+    "source": [
+      "xataka.com",
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "業界が警告: 新規NAND工場20カ所でも需要を賄えず、AppleはiPhone 18向けチップを確保",
+    "summary": "PhisonとSamsungがNANDとDRAMの構造的不足を警告。一方、Appleは次期フラッグシップ向け供給を確保。",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "非公式MODがDLSS 5とフレーム生成をRTX 20/30/40シリーズに導入",
-    "summary": "モッダーがDLSS 5とフレーム生成技術を過去世代のNVIDIA GPUで有効化に成功、製品寿命を延長",
+    "title": "TSMCが19工場を同時建設、IntelがHigh-NA EUVウェーハ100万枚を達成、先端リソグラフィ競争が激化",
+    "summary": "世界最大手2社が最先端生産能力を積極拡大するも、AI需要が供給を上回り続ける。",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "xataka.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "LGがGram Book AI 2026を発表、Intel Wildcat Lake搭載でバッテリー30時間超え",
-    "summary": "LGの新型プレミアム超軽量ノートPCはIntel Wildcat Lakeを搭載し、30時間超の記録的なバッテリー持続時間を実現",
+    "title": "ハッカーがLiquid Networkから3.2億ドル相当のBitcoinを窃取、脆弱性修正要求後に3,400 BTCを返還",
+    "summary": "グループがLiquidの連合ウォレットの95%を空にし、自らを『善人』と称し、欠陥修正を要求して一部を返還。",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "tomshardware.com",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony、訴訟と法的脅威にもかかわらずPlayStationの物理ディスク廃止を維持、ただし2028年までディスク生産継続",
+    "summary": "強い反発と複数の訴訟に直面しながらも、新作から物理フォーマットを廃止する方針を確認。ディスク生産は10%削減しつつ継続。",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel、10月にPC向けCPU価格を10%値上げ、低利益率モデルを廃止へ",
+    "summary": "デスクトッププロセッサーを値上げし、十分な収益性がないモデルの製造を中止する方針。",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Jellyfin 12.0、書籍とコミック対応、高速ナビゲーション、FFmpeg 8.1を追加",
+    "summary": "オープンソースのメディアサーバーがメジャーアップデート。読書機能と再生パフォーマンスに焦点。",
+    "source": [
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GPT-6 Astraが『Portal』を自律的に24時間でクリア、トークン費用はわずか571ドル",
+    "summary": "OpenAIの新モデルが人間の介入なしでゲームを解決。複雑なタスクの計画・実行能力を実証。",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ChatGPT Work、業務アプリ連携でユーザーの文体を学習",
+    "summary": "OpenAIが、ユーザーの業務文書やコミュニケーションに基づきチャットボットが文体を模倣する機能をテスト。",
+    "source": [
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "愛好家がガレージで1,920 GBのDDR4メモリ（1.2万ドル相当）を発見、会社の許可で入手",
+    "summary": "従業員が忘れ去られた古いサーバーから高価なメモリを発見、企業が保有を認める。",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
     ],
     "count": 2
   }
