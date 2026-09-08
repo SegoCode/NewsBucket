@@ -1,6 +1,8 @@
 import { articlesHtml, fetchClusters, fetchYesterday, render } from './feed.js';
 import { quakeItems } from './jma-quake.js';
 import { fetchWeatherAlerts, weatherItems } from './jma-weather.js';
+import { fetchCloudOutages } from './cloud-outages.js';
+import { fetchFinanceSpikes } from './finance-spikes.js';
 import { createChrome } from './chrome.js';
 import { createLive } from './live.js';
 import { pipelineItems } from './pipeline.js';
@@ -66,6 +68,16 @@ async function load() {
         if (jma?.alerts.length) items.unshift(...weatherItems(jma, lang.value));
         try {
             items.unshift(...await quakeItems(lang.value));
+        } catch {}
+    }
+    if (topic.value === 'tech') {
+        try {
+            items.unshift(...await fetchCloudOutages(lang.value));
+        } catch {}
+    }
+    if (topic.value === 'finance') {
+        try {
+            items.unshift(...await fetchFinanceSpikes(lang.value));
         } catch {}
     }
     if (gen !== loadGen) return;
