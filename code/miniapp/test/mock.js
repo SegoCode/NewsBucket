@@ -8,6 +8,12 @@ const SCENES = {
     'feed-es': { t: 'finance', l: 'es' },
     'feed-click': { t: 'finance', l: 'en' },
     lang: { t: 'finance', l: 'jp' },
+    spike: { t: 'finance', l: 'en' },
+    'spike-quiet': { t: 'finance', l: 'en' },
+    'spike-es': { t: 'finance', l: 'es' },
+    'spike-jp': { t: 'finance', l: 'jp' },
+    'spike-down': { t: 'finance', l: 'en' },
+    'spike-cap': { t: 'finance', l: 'en' },
     'lang-es': {},
     'lang-ja': {},
     'lang-en': {},
@@ -38,12 +44,15 @@ const SCENES = {
     'quake-mag': { t: 'japan', l: 'en' },
     'quake-age': { t: 'japan', l: 'en' },
     'quake-blink': { t: 'japan', l: 'en' },
+    'quake-palette': { t: 'japan', l: 'en' },
+    'quake-hold': { t: 'japan', l: 'en' },
     'quake-drop': { t: 'japan', l: 'en' },
     'quake-combo': { t: 'japan', l: 'en' },
     'quake-cod': { t: 'japan', l: 'en' },
     'quake-bad-cod': { t: 'japan', l: 'en' },
     weather: { t: 'japan', l: 'en' },
     'weather-l2': { t: 'japan', l: 'en' },
+    'weather-l4': { t: 'japan', l: 'en' },
     'weather-l10': { t: 'japan', l: 'en' },
     'weather-jp': { t: 'japan', l: 'jp' },
     'weather-ip': { t: 'japan', l: 'en' },
@@ -72,6 +81,16 @@ const SCENES = {
     'feed-down': { t: 'finance', l: 'en' },
     'feed-nosource': { t: 'finance', l: 'en' },
     'feed-count': { t: 'tech', l: 'en' },
+    outage: { t: 'tech', l: 'en' },
+    'outage-age': { t: 'tech', l: 'en' },
+    'outage-es': { t: 'tech', l: 'es' },
+    'outage-jp': { t: 'tech', l: 'jp' },
+    'outage-down': { t: 'tech', l: 'en' },
+    'outage-resolved': { t: 'tech', l: 'en' },
+    'outage-shape': { t: 'tech', l: 'en' },
+    'outage-ended': { t: 'tech', l: 'en' },
+    'outage-html': { t: 'tech', l: 'en' },
+    'outage-created': { t: 'tech', l: 'en' },
     'topic-switch': { t: 'finance', l: 'en' },
     'stale-load': { t: 'finance', l: 'en' },
     'lang-switch': { t: 'finance', l: 'en' },
@@ -174,6 +193,7 @@ const LOCATION = {
     'japan-es': { ip: 'tokyo', gps: 'tokyo' },
     'weather-osaka': { ip: 'osaka', gps: 'osaka' },
     'weather-l2': { ip: 'tokyo', gps: 'tokyo' },
+    'weather-l4': { ip: 'tokyo', gps: 'tokyo' },
     'weather-l10': { ip: 'tokyo', gps: 'tokyo' },
     'weather-jp': { ip: 'tokyo', gps: 'tokyo' },
     diag: { ip: 'tokyo' },
@@ -257,6 +277,17 @@ const quakes = () => {
     if (scenario === 'quake-mag') return [q('1', '4.5', 60e3, 'Floor'), q('2', '4.4', 60e3, 'Below')];
     if (scenario === 'quake-age') return [q('1', '5.0', 47 * 3600e3, 'Inside'), q('2', '5.0', 2 * 864e5, 'Outside')];
     if (scenario === 'quake-blink') return [q('1', '5.0', 3600e3, 'Fresh'), q('2', '5.0', 2 * 3600e3, 'Stale')];
+    if (scenario === 'quake-palette') return [
+        q('1', '6.5', 60e3, 'Black'),
+        q('2', '6.4', 120e3, 'High'),
+        q('3', '5.5', 180e3, 'Floor'),
+        q('4', '5.4', 240e3, 'Below'),
+    ];
+    if (scenario === 'quake-hold') return [
+        q('1', '6.5', 5 * 3600e3, 'Old black'),
+        q('2', '6.0', 5 * 3600e3 + 60e3, 'Old six'),
+        q('3', '5.5', 5 * 3600e3 + 120e3, 'Old floor'),
+    ];
     if (scenario === 'quake-combo') return [
         q('1', '6.0', 3600e3, 'Hot'),
         q('2', '4.5', 47 * 3600e3, 'Edge'),
@@ -638,6 +669,7 @@ const clusters = url => {
         return json(JAPAN_NEWS[lang] || JAPAN_NEWS.en);
     }
     if (scenario === 'feed-down') return text('', 404);
+    if (scenario.startsWith('outage') && cluster[1] === 'tech') return json(TECH);
     if ((scenario === 'topic-switch' || scenario === 'stale-load' || scenario === 'yesterday-stale' || scenario === 'yesterday-topic') && cluster[1] === 'tech') {
         return json(TECH);
     }
@@ -740,6 +772,19 @@ globalThis.fetch = input => {
                 urls: { warn: 'forecast/warn.json' },
             });
         }
+        if (scenario === 'weather-l4') {
+            return json({
+                lines: [[], ['rain']],
+                panels: {
+                    rain: {
+                        url: ['warn'],
+                        enName: { 5: 'Wind [Level 4] alert' },
+                        name: { 5: '風 [レベル4] アラート' },
+                    },
+                },
+                urls: { warn: 'forecast/warn.json' },
+            });
+        }
         if (scenario === 'weather-html') {
             return json({
                 lines: [[], ['rain', 'flood']],
@@ -826,6 +871,7 @@ globalThis.fetch = input => {
     if (url.includes('forecast/storm.json')) return Promise.reject(new Error('down'));
     if (url.includes('www.jma.go.jp/bosai/')) {
         if (scenario === 'weather-l2') return json({ rain: { x: { 130010: '3' } } });
+        if (scenario === 'weather-l4') return json({ rain: { x: { 130010: '5' } } });
         if (scenario === 'weather-panel') return json({ rain: { x: { 130010: '5' } } });
         if (scenario === 'weather-no-c20') return json({ rain: { x: { 130010: '5' } } });
         if (scenario === 'weather-c20') return json({ rain: { x: { 1310100: '5' } } });
@@ -835,5 +881,108 @@ globalThis.fetch = input => {
         return json(WARN);
     }
 
+    if (url.includes('githubstatus.com') || url.includes('cloudflarestatus.com')
+        || url.includes('status.aws.amazon.com') || url.includes('status.cloud.google.com')) {
+        if (scenario === 'outage-down' || scenario === 'outage-html') {
+            return scenario === 'outage-html'
+                ? text('<!DOCTYPE html><html>challenge</html>')
+                : text('', 500);
+        }
+        const sp = (name, ago, extra = {}) => json({
+            incidents: [{
+                name,
+                status: 'investigating',
+                started_at: iso(ago),
+                updated_at: iso(Math.min(ago, 60e3)),
+                ...extra,
+            }],
+        });
+        const rss = (title, ago) => text(
+            `<?xml version="1.0"?><rss version="2.0"><channel><item><title>${title}</title><pubDate>${new Date(Date.now() - ago).toUTCString()}</pubDate></item></channel></rss>`,
+        );
+        const gcp = (desc, ago, extra = {}) => json([{ external_desc: desc, begin: iso(ago), ...extra }]);
+        if (scenario === 'outage') {
+            if (url.includes('githubstatus.com')) return sp('Actions down', 3600e3);
+            if (url.includes('cloudflarestatus.com')) return sp('API errors', 3600e3);
+            if (url.includes('status.aws.amazon.com')) return rss('EC2 errors', 3600e3);
+            return gcp('us-central1 network', 3600e3);
+        }
+        if (scenario === 'outage-age') {
+            if (url.includes('githubstatus.com')) return sp('Actions down', 6 * 3600e3);
+            if (url.includes('cloudflarestatus.com')) return sp('API errors', 20 * 3600e3);
+            if (url.includes('status.aws.amazon.com')) return rss('EC2 errors', 50 * 3600e3);
+            return gcp('us-central1 network', 6 * 3600e3);
+        }
+        if (scenario === 'outage-es' || scenario === 'outage-jp') {
+            if (url.includes('githubstatus.com')) return sp('Actions down', 3600e3);
+            if (url.includes('cloudflarestatus.com')) return json({ incidents: [] });
+            if (url.includes('status.aws.amazon.com')) return text('<?xml version="1.0"?><rss version="2.0"><channel></channel></rss>');
+            return json([]);
+        }
+        if (scenario === 'outage-resolved') {
+            if (url.includes('githubstatus.com')) return sp('Actions down', 3600e3, { status: 'resolved' });
+            if (url.includes('cloudflarestatus.com')) return sp('API errors', 3600e3, { resolved_at: iso(60e3) });
+            if (url.includes('status.aws.amazon.com')) return rss('EC2 errors', 3600e3);
+            return json([]);
+        }
+        if (scenario === 'outage-shape') {
+            if (url.includes('githubstatus.com')) return json({ data: [{ name: 'Actions down', status: 'investigating', started_at: iso(3600e3) }] });
+            if (url.includes('cloudflarestatus.com')) return json({ incidents: { name: 'API errors', status: 'investigating' } });
+            if (url.includes('status.aws.amazon.com')) return text('<?xml version="1.0"?><feed xmlns="http://www.w3.org/2005/Atom"><entry><title>EC2 errors</title><updated>2026-09-08T12:00:00Z</updated></entry></feed>');
+            return json({ incidents: [{ external_desc: 'us-central1 network', begin: iso(3600e3) }] });
+        }
+        if (scenario === 'outage-ended') {
+            if (url.includes('githubstatus.com') || url.includes('cloudflarestatus.com')) return json({ incidents: [] });
+            if (url.includes('status.aws.amazon.com')) return text('<?xml version="1.0"?><rss version="2.0"><channel></channel></rss>');
+            return gcp('us-central1 network', 20 * 3600e3, { end: iso(10 * 3600e3) });
+        }
+        if (scenario === 'outage-created') {
+            if (url.includes('githubstatus.com')) {
+                return json({
+                    incidents: [{
+                        name: 'Actions down',
+                        status: 'investigating',
+                        created_at: iso(3600e3),
+                    }],
+                });
+            }
+            if (url.includes('cloudflarestatus.com')) return json({ incidents: [] });
+            if (url.includes('status.aws.amazon.com')) return text('<?xml version="1.0"?><rss version="2.0"><channel></channel></rss>');
+            return json([]);
+        }
+        if (url.includes('status.aws.amazon.com')) return text('<?xml version="1.0"?><rss version="2.0"><channel></channel></rss>');
+        if (url.includes('status.cloud.google.com')) return json([]);
+        return json({ incidents: [] });
+    }
+    if (url.includes('finance-query.com/v2/screeners/day-gainers')) {
+        if (scenario === 'spike-down') return text('', 500);
+        const gainer = (symbol, name, pct) => ({
+            symbol, shortName: name, regularMarketChangePercent: pct,
+        });
+        if (scenario === 'spike' || scenario === 'spike-es' || scenario === 'spike-jp') {
+            return json({
+                quotes: [
+                    gainer('ROIV', 'Roivant Sciences Ltd.', 18.4),
+                    gainer('INTC', 'Intel Corporation', 8.1),
+                    ...(scenario === 'spike' ? [gainer('CRWV', 'CoreWeave, Inc.', 16.1)] : []),
+                ],
+            });
+        }
+        if (scenario === 'spike-quiet') {
+            return json({ quotes: [gainer('INTC', 'Intel Corporation', 8.1), gainer('AAPL', 'Apple Inc.', 14.9)] });
+        }
+        if (scenario === 'spike-cap') {
+            return json({
+                quotes: [
+                    gainer('AAA', 'Alpha', 16),
+                    gainer('EEE', 'Echo', 20),
+                    gainer('CCC', 'Charlie', 18),
+                    gainer('DDD', 'Delta', 17),
+                    gainer('BBB', 'Bravo', 19),
+                ],
+            });
+        }
+        return json({ quotes: [] });
+    }
     return Promise.reject(new Error('unmocked ' + url));
 };
