@@ -1,3 +1,5 @@
+import { PREFECTURES } from '../place.js';
+
 const scenario = new URLSearchParams(location.search).get('s') || 'feed';
 
 const SCENES = {
@@ -18,6 +20,8 @@ const SCENES = {
     'spike-html': { t: 'finance', l: 'en' },
     'spike-floor': { t: 'finance', l: 'en' },
     'spike-noname': { t: 'finance', l: 'en' },
+    'spike-red': { t: 'finance', l: 'en' },
+    'spike-green': { t: 'finance', l: 'en' },
     'lang-es': {},
     'lang-ja': {},
     'lang-en': {},
@@ -78,6 +82,11 @@ const SCENES = {
     'live-cams-news': { t: 'japan', l: 'en' },
     'live-reopen': { t: 'japan', l: 'en' },
     'live-tg': { t: 'japan', l: 'en' },
+    'live-tg-cams': { t: 'japan', l: 'en' },
+    'live-tg-open': { t: 'japan', l: 'en' },
+    'live-tg-slow': { t: 'japan', l: 'en' },
+    'live-tg-back': { t: 'japan', l: 'en' },
+    'live-tg-next': { t: 'japan', l: 'en' },
     'live-web': { t: 'japan', l: 'en' },
     'cams-cache': { t: 'japan', l: 'en' },
     cameras: { t: 'finance', l: 'en' },
@@ -95,6 +104,11 @@ const SCENES = {
     'outage-ended': { t: 'tech', l: 'en' },
     'outage-html': { t: 'tech', l: 'en' },
     'outage-created': { t: 'tech', l: 'en' },
+    'outage-slow': { t: 'tech', l: 'en' },
+    'outage-cache': { t: 'tech', l: 'en' },
+    'outage-ttl': { t: 'tech', l: 'en' },
+    'outage-cached-es': { t: 'tech', l: 'es' },
+    'outage-leave': { t: 'tech', l: 'en' },
     'topic-switch': { t: 'finance', l: 'en' },
     'stale-load': { t: 'finance', l: 'en' },
     'lang-switch': { t: 'finance', l: 'en' },
@@ -129,6 +143,26 @@ const SCENES = {
     'weather-no-c20': { t: 'japan', l: 'en' },
     'weather-panel': { t: 'japan', l: 'en' },
     'diag-gps-city': { t: 'status', l: 'en' },
+    'manual-open': { t: 'status', l: 'en' },
+    'manual-set': { t: 'status', l: 'en' },
+    'manual-ip': { t: 'status', l: 'en' },
+    'manual-gps': { t: 'status', l: 'en' },
+    'manual-switch': { t: 'status', l: 'en' },
+    'manual-ask': { t: 'status', l: 'en' },
+    'manual-ask-denied': { t: 'status', l: 'en' },
+    'manual-ask-gps': { t: 'status', l: 'en' },
+    'manual-ask-again': { t: 'status', l: 'en' },
+    'manual-nogeo': { t: 'status', l: 'en' },
+    'manual-none': { t: 'status', l: 'en' },
+    'manual-weather': { t: 'status', l: 'en' },
+    'manual-osaka': { t: 'status', l: 'en' },
+    'manual-hokkaido': { t: 'status', l: 'en' },
+    'manual-empty': { t: 'status', l: 'en' },
+    'manual-hold': { t: 'status', l: 'en' },
+    'manual-us': { t: 'status', l: 'en' },
+    'manual-topic': { t: 'status', l: 'en' },
+    'manual-cameras': { t: 'status', l: 'en' },
+    'manual-tg': { t: 'status', l: 'en' },
 };
 
 const scene = SCENES[scenario] || SCENES.feed;
@@ -137,6 +171,7 @@ store(ls => {
     ls.setItem('nb', JSON.stringify(scene));
     ls.removeItem('nb-actions');
     ls.removeItem('nb-cams');
+    ls.removeItem('nb-outages');
     if (scenario === 'lang-bad-nb') ls.setItem('nb', '{');
     if (scenario === 'status-cache') {
         ls.setItem('nb-actions', JSON.stringify({
@@ -160,6 +195,18 @@ store(ls => {
                 { lat: 35.68, lng: 139.76, video_id: 'cached1', is_live: true },
                 { lat: 35.69, lng: 139.77, video_id: 'cached2', is_live: true },
             ],
+        }));
+    }
+    if (scenario === 'outage-cache' || scenario === 'outage-cached-es') {
+        ls.setItem('nb-outages', JSON.stringify({
+            at: Date.now(),
+            rows: [{ name: 'GitHub', detail: 'Actions down', start: new Date(Date.now() - 3600e3).toISOString() }],
+        }));
+    }
+    if (scenario === 'outage-ttl') {
+        ls.setItem('nb-outages', JSON.stringify({
+            at: Date.now() - 5 * 60 * 1000 - 1000,
+            rows: [{ name: 'GitHub', detail: 'Stale incident', start: new Date(Date.now() - 3600e3).toISOString() }],
         }));
     }
 });
@@ -238,6 +285,26 @@ const LOCATION = {
     'status-leave': { ip: 'tokyo' },
     'status-cache': { ip: 'tokyo' },
     'status-post': { ip: 'tokyo' },
+    'manual-open': { ip: 'tokyo' },
+    'manual-set': { ip: 'tokyo' },
+    'manual-ip': { ip: 'us' },
+    'manual-gps': { ip: 'us', ipDelay: 80, gps: 'tokyo', gpsDelay: 20 },
+    'manual-switch': { ip: 'tokyo' },
+    'manual-ask': { ip: 'tokyo' },
+    'manual-ask-denied': { ip: 'tokyo', denied: true },
+    'manual-ask-gps': { ip: 'us', ipDelay: 80, gps: 'tokyo', gpsDelay: 20 },
+    'manual-ask-again': { ip: 'tokyo', gps: 'tokyo', denyOnce: true },
+    'manual-nogeo': { ip: 'tokyo' },
+    'manual-none': { ipFail: true },
+    'manual-weather': { ip: 'us' },
+    'manual-osaka': { ip: 'us' },
+    'manual-hokkaido': { ip: 'us' },
+    'manual-empty': { ip: 'us' },
+    'manual-hold': { ip: 'tokyo', gps: 'tokyo', gpsDelay: 80 },
+    'manual-us': { ip: 'us' },
+    'manual-topic': { ip: 'us' },
+    'manual-cameras': { ip: 'us' },
+    'manual-tg': { ip: 'us' },
 }[scenario] || { ip: 'us' };
 
 const FOUR = ['a.com', 'b.com', 'c.com', 'd.com'];
@@ -507,11 +574,11 @@ Object.defineProperty(navigator, 'geolocation', {
         },
     },
 });
-if (scenario === 'diag-nogeo') {
+if (scenario === 'diag-nogeo' || scenario === 'manual-nogeo') {
     Object.defineProperty(navigator, 'geolocation', { configurable: true, value: undefined });
 }
 
-if (scenario === 'live-tg' || scenario === 'live-web') {
+if (scenario.startsWith('live-tg') || scenario === 'live-web') {
     const tgButton = () => {
         const clicks = new Set();
         return {
@@ -529,7 +596,7 @@ if (scenario === 'live-tg' || scenario === 'live-web') {
     };
     globalThis.Telegram = {
         WebApp: {
-            initData: scenario === 'live-tg' ? 'query_id=1' : '',
+            initData: scenario === 'live-web' ? '' : 'query_id=1',
             MainButton: tgButton(),
             SecondaryButton: tgButton(),
             BackButton: tgButton(),
@@ -543,7 +610,7 @@ if (scenario === 'live-tg' || scenario === 'live-web') {
     };
 }
 
-if (scenario === 'diag-telegram' || scenario === 'weather-tg' || scenario === 'haptic-tg' || scenario === 'weather-nolm') {
+if (scenario === 'diag-telegram' || scenario === 'weather-tg' || scenario === 'haptic-tg' || scenario === 'weather-nolm' || scenario === 'manual-tg') {
     const haptic = { impact: 0, selection: 0 };
     globalThis.Telegram = {
         WebApp: {
@@ -555,10 +622,12 @@ if (scenario === 'diag-telegram' || scenario === 'weather-tg' || scenario === 'h
             },
             ...(scenario === 'weather-nolm' ? {} : {
                 LocationManager: {
-                    isAccessGranted: scenario === 'diag-telegram',
+                    isAccessGranted: scenario === 'diag-telegram' || scenario === 'manual-tg',
                     init(cb) { queueMicrotask(cb); },
                     getLocation(cb) {
-                        cb(scenario === 'diag-telegram' ? { latitude: 35.68, longitude: 139.76 } : null);
+                        cb(scenario === 'diag-telegram' || scenario === 'manual-tg'
+                            ? { latitude: 35.68, longitude: 139.76 }
+                            : null);
                     },
                 },
             }),
@@ -626,7 +695,15 @@ const noJapanNews = ((scenario.startsWith('quake') || scenario.startsWith('weath
     || scenario === 'geo-refresh'
     || scenario.startsWith('live')
     || scenario === 'cams-cache'
-    || scenario === 'watch-stop';
+    || scenario === 'watch-stop'
+    || scenario === 'manual-weather'
+    || scenario === 'manual-osaka'
+    || scenario === 'manual-hokkaido'
+    || scenario === 'manual-empty'
+    || scenario === 'manual-hold'
+    || scenario === 'manual-us'
+    || scenario === 'manual-cameras'
+    || scenario === 'manual-tg';
 
 const commits = url => {
     const finance = url.includes('rss_finance_clusters');
@@ -712,12 +789,13 @@ globalThis.fetch = input => {
     if (url.includes('cloudflare.com/cdn-cgi/trace')) return text('fl=1');
     if (url.includes('livecameras.json')) {
         if (scenario === 'cams-cache') return text('', 500);
-        return json({ spots: [
+        const cams = json({ spots: [
             { lat: 35.68, lng: 139.76, video_id: 'near1', is_live: true },
             { lat: 35.69, lng: 139.77, video_id: 'near2', is_live: true },
             { lat: 43.06, lng: 141.35, video_id: 'far', is_live: true },
             { lat: 35.68, lng: 139.76, video_id: 'dead', is_live: false },
         ] });
+        return scenario === 'live-tg-slow' ? later(400, cams) : cams;
     }
     if (url.includes('prompts/cluster.md')) {
         if (scenario === 'diag-github') return text('', 429);
@@ -747,6 +825,24 @@ globalThis.fetch = input => {
                 principalSubdivisionCode: 'JP-13',
                 principalSubdivision: 'Tokyo',
                 locality: 'Shibuya',
+            });
+        }
+        let best;
+        let bestD = Infinity;
+        for (const p of PREFECTURES) {
+            const d = (p.lat - lat) ** 2 + (p.lon - lon) ** 2;
+            if (d < bestD) {
+                bestD = d;
+                best = p;
+            }
+        }
+        if (best && bestD < 0.08) {
+            return json({
+                countryCode: 'JP',
+                countryName: 'Japan',
+                principalSubdivisionCode: `JP-${best.iso}`,
+                principalSubdivision: best.name,
+                city: best.name,
             });
         }
         const response = json(GEO[place]);
@@ -887,7 +983,7 @@ globalThis.fetch = input => {
 
     if (url.includes('githubstatus.com') || url.includes('cloudflarestatus.com')
         || url.includes('status.aws.amazon.com') || url.includes('status.cloud.google.com')) {
-        if (scenario === 'outage-down' || scenario === 'outage-html') {
+        if (scenario === 'outage-down' || scenario === 'outage-html' || scenario === 'outage-cache' || scenario === 'outage-cached-es') {
             return scenario === 'outage-html'
                 ? text('<!DOCTYPE html><html>challenge</html>')
                 : text('', 500);
@@ -905,11 +1001,18 @@ globalThis.fetch = input => {
             `<?xml version="1.0"?><rss version="2.0"><channel><item><title>${title}</title><pubDate>${new Date(Date.now() - ago).toUTCString()}</pubDate></item></channel></rss>`,
         );
         const gcp = (desc, ago, extra = {}) => json([{ external_desc: desc, begin: iso(ago), ...extra }]);
-        if (scenario === 'outage') {
+        if (scenario === 'outage' || scenario === 'outage-slow' || scenario === 'outage-leave') {
+            const delay = v => scenario === 'outage' ? v : later(180, v);
+            if (url.includes('githubstatus.com')) return delay(sp('Actions down', 3600e3));
+            if (url.includes('cloudflarestatus.com')) return delay(sp('API errors', 3600e3));
+            if (url.includes('status.aws.amazon.com')) return delay(rss('EC2 errors', 3600e3));
+            return delay(gcp('us-central1 network', 3600e3));
+        }
+        if (scenario === 'outage-ttl') {
             if (url.includes('githubstatus.com')) return sp('Actions down', 3600e3);
-            if (url.includes('cloudflarestatus.com')) return sp('API errors', 3600e3);
-            if (url.includes('status.aws.amazon.com')) return rss('EC2 errors', 3600e3);
-            return gcp('us-central1 network', 3600e3);
+            if (url.includes('cloudflarestatus.com')) return json({ incidents: [] });
+            if (url.includes('status.aws.amazon.com')) return text('<?xml version="1.0"?><rss version="2.0"><channel></channel></rss>');
+            return json([]);
         }
         if (scenario === 'outage-age') {
             if (url.includes('githubstatus.com')) return sp('Actions down', 6 * 3600e3);
@@ -971,15 +1074,15 @@ globalThis.fetch = input => {
             if (gainers) {
                 return json({
                     quotes: [
-                        q('ROIV', 'Roivant Sciences Ltd.', 18.4),
+                        q('ROIV', 'Roivant Sciences Ltd.', 21.4),
                         q('INTC', 'Intel Corporation', 8.1),
-                        ...(scenario === 'spike' ? [q('CRWV', 'CoreWeave, Inc.', 16.1)] : []),
+                        ...(scenario === 'spike' ? [q('CRWV', 'CoreWeave, Inc.', 20.1)] : []),
                     ],
                 });
             }
             return json({
                 quotes: [
-                    q('DYN', 'Dyne Therapeutics, Inc.', -18.9),
+                    q('DYN', 'Dyne Therapeutics, Inc.', -21.9),
                     q('NVS', 'Novartis AG', -8),
                 ],
             });
@@ -987,19 +1090,19 @@ globalThis.fetch = input => {
         if (scenario === 'spike-quiet') {
             return json({
                 quotes: gainers
-                    ? [q('INTC', 'Intel Corporation', 8.1), q('AAPL', 'Apple Inc.', 14.9)]
-                    : [q('NVS', 'Novartis AG', -14.9)],
+                    ? [q('INTC', 'Intel Corporation', 8.1), q('AAPL', 'Apple Inc.', 19.9)]
+                    : [q('NVS', 'Novartis AG', -19.9)],
             });
         }
         if (scenario === 'spike-cap') {
-            if (!gainers) return json({ quotes: [q('FFF', 'Foxtrot', -21)] });
+            if (!gainers) return json({ quotes: [q('FFF', 'Foxtrot', -26)] });
             return json({
                 quotes: [
-                    q('AAA', 'Alpha', 16),
-                    q('EEE', 'Echo', 20),
-                    q('CCC', 'Charlie', 18),
-                    q('DDD', 'Delta', 17),
-                    q('BBB', 'Bravo', 19),
+                    q('AAA', 'Alpha', 21),
+                    q('EEE', 'Echo', 25),
+                    q('CCC', 'Charlie', 23),
+                    q('DDD', 'Delta', 22),
+                    q('BBB', 'Bravo', 24),
                 ],
             });
         }
@@ -1007,12 +1110,20 @@ globalThis.fetch = input => {
             return gainers ? json({ data: [q('ROIV', 'Roivant Sciences Ltd.', 18.4)] }) : json({ quotes: { symbol: 'DYN' } });
         }
         if (scenario === 'spike-floor') {
-            if (gainers) return json({ quotes: [q('ROIV', 'Roivant Sciences Ltd.', 15), q('AAPL', 'Apple Inc.', 14.9)] });
-            return json({ quotes: [q('DYN', 'Dyne Therapeutics, Inc.', -15), q('NVS', 'Novartis AG', -14.9)] });
+            if (gainers) return json({ quotes: [q('ROIV', 'Roivant Sciences Ltd.', 20), q('AAPL', 'Apple Inc.', 19.9)] });
+            return json({ quotes: [q('DYN', 'Dyne Therapeutics, Inc.', -20), q('NVS', 'Novartis AG', -19.9)] });
         }
         if (scenario === 'spike-noname') {
             if (!gainers) return empty;
-            return json({ quotes: [{ symbol: 'XYZ', regularMarketChangePercent: 16 }] });
+            return json({ quotes: [{ symbol: 'XYZ', regularMarketChangePercent: 21 }] });
+        }
+        if (scenario === 'spike-red') {
+            if (gainers) return empty;
+            return json({ quotes: [q('FFF', 'Foxtrot', -21)] });
+        }
+        if (scenario === 'spike-green') {
+            if (!gainers) return empty;
+            return json({ quotes: [q('EEE', 'Echo', 20)] });
         }
         return empty;
     }
