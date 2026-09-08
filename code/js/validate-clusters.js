@@ -12,37 +12,6 @@ export const isValidClusterOutput = (spanish, translations) =>
 		isValidTranslation(translations[language], spanish),
 	);
 
-export const validateClusterFile = ({
-	category,
-	language,
-	outputDir = OUTPUT_DIR,
-}) => {
-	if (!category || !language)
-		throw new Error("Category and language are required");
-	if (language !== "es" && !TARGET_LANGUAGES.includes(language))
-		throw new Error(`Unsupported cluster language: ${language}`);
-
-	const base = `rss_${category}_clusters`;
-	const spanish = JSON.parse(
-		fs.readFileSync(path.join(outputDir, `${base}_es.json`), "utf-8"),
-	);
-	const valid =
-		language === "es"
-			? isValidClusters(spanish)
-			: isValidTranslation(
-					JSON.parse(
-						fs.readFileSync(
-							path.join(outputDir, `${base}_${language}.json`),
-							"utf-8",
-						),
-					),
-					spanish,
-				);
-	if (!valid)
-		throw new Error(`${category}/${language}: invalid cluster output`);
-	console.log(`✓ ${category}/${language}: valid cluster output`);
-};
-
 export const validateClusterFiles = ({ outputDir = OUTPUT_DIR } = {}) => {
 	const files = fs
 		.readdirSync(outputDir)
@@ -79,9 +48,5 @@ if (
 	process.argv[1] &&
 	fileURLToPath(import.meta.url) === path.resolve(process.argv[1])
 ) {
-	const [category, language] = process.argv
-		.slice(2)
-		.filter((arg) => arg !== "--");
-	if (category || language) validateClusterFile({ category, language });
-	else validateClusterFiles();
+	validateClusterFiles();
 }
