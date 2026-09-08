@@ -606,8 +606,8 @@ const run = () => {
         return;
     }
     if (scenario === 'spike-floor') {
-        ok(titles()[0] === 'Drop: Dyne Therapeutics, Inc. (DYN) -15.0%', '15 down kept');
-        ok(titles()[1] === 'Spike: Roivant Sciences Ltd. (ROIV) +15.0%', '15 up kept');
+        ok(titles()[0] === 'Spike: Roivant Sciences Ltd. (ROIV) +15.0%', '15 up kept');
+        ok(titles()[1] === 'Drop: Dyne Therapeutics, Inc. (DYN) -15.0%', '15 down kept');
         ok(!titles().some(t => t.includes('AAPL') || t.includes('NVS')), '14.9 dropped');
         return;
     }
