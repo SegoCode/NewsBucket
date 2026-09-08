@@ -1,12 +1,10 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import "dotenv/config";
 import { isValidClusters, isValidTranslation } from "./cluster-validation.js";
 import { requestOpenCodeJson } from "./opencode-client.js";
 
 const OUTPUT_DIR = "rss_output_cluster";
-const MAX_ATTEMPTS = 4;
 
 const LANGUAGES = [
 	{ code: "en", prompt: fs.readFileSync("prompts/translate_en.md", "utf-8") },
@@ -41,16 +39,11 @@ export const translateFiles = async ({
 		if (process.env.GITHUB_ACTIONS) console.log("  Generating...");
 		return requestOpenCodeJson({
 			context: `${file}/${code}`,
-			maxAttempts: MAX_ATTEMPTS,
 			messages: [
 				{ role: "system", content: prompt },
 				{ role: "user", content: JSON.stringify(sourceClusters) },
 			],
 			validate: (candidate) => isValidTranslation(candidate, sourceClusters),
-			onRetry: (attempt, error) => {
-				const message = error instanceof Error ? error.message : String(error);
-				console.warn(`  ↻ retry ${attempt}/${MAX_ATTEMPTS - 1} (${message})`);
-			},
 		});
 	},
 } = {}) => {
