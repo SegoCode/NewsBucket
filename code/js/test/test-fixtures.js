@@ -34,16 +34,3 @@ export const sseResponse = (payload, status = 200) => {
 		headers: { "Content-Type": "text/event-stream" },
 	});
 };
-
-export const failingSseResponse = (error = new TypeError("terminated")) =>
-	new Response(
-		new ReadableStream({
-			start(controller) {
-				controller.error(error);
-			},
-		}),
-		{
-			status: 200,
-			headers: { "Content-Type": "text/event-stream" },
-		},
-	);
