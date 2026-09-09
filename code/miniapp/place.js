@@ -91,6 +91,10 @@ export const setPlace = patch => {
         delete rest.lon;
         if (env.city) delete rest.city;
         if (env.country) delete rest.country;
+        if (patch.country && patch.country !== 'Japan') {
+            delete rest.city;
+            delete rest.country;
+        }
         Object.assign(env, rest);
     } else {
         Object.assign(env, patch);
