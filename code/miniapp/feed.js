@@ -1,15 +1,66 @@
 const REPO = 'https://raw.githubusercontent.com/SegoCode/NewsBucket';
 const COMMITS = 'https://api.github.com/repos/SegoCode/NewsBucket/commits';
+const CACHE_KEY = 'nb-clusters';
+const CACHE_MS = 3 * 60 * 60 * 1000;
 const clusterFile = (topic, lang) =>
     `code/rss_output_cluster/rss_${topic}_clusters_${lang}.json`;
 const clusterUrl = (topic, lang, ref = 'main') =>
     `${REPO}/${ref}/${clusterFile(topic, lang)}`;
 
-export const fetchClusters = async (topic, lang, ref) => {
+const clusterStore = () => {
+    try {
+        const store = JSON.parse(localStorage.getItem(CACHE_KEY) || '{}');
+        return store && typeof store === 'object' && !Array.isArray(store) ? store : {};
+    } catch {
+        return {};
+    }
+};
+
+const inflight = new Map();
+
+const pullClusters = async (topic, lang, ref) => {
     const res = await fetch(clusterUrl(topic, lang, ref));
-    if (!res.ok) return [];
+    if (!res.ok) throw new Error(res.status);
     const data = await res.json();
     return Array.isArray(data) ? data : [];
+};
+
+export const fetchClusters = async (topic, lang, ref) => {
+    if (ref && ref !== 'main') {
+        try {
+            return await pullClusters(topic, lang, ref);
+        } catch {
+            return [];
+        }
+    }
+    const key = `${topic}:${lang}`;
+    const hit = clusterStore()[key];
+    const cached = Array.isArray(hit?.items) && hit.items.length ? hit.items : null;
+    if (cached && Date.now() - hit.at < CACHE_MS) return cached;
+    if (inflight.has(key)) return inflight.get(key);
+    const pending = (async () => {
+        try {
+            const items = await pullClusters(topic, lang);
+            if (items.length) {
+                try {
+                    const store = clusterStore();
+                    store[key] = { at: Date.now(), items };
+                    localStorage.setItem(CACHE_KEY, JSON.stringify(store));
+                } catch {}
+                return items;
+            }
+            try {
+                const store = clusterStore();
+                delete store[key];
+                localStorage.setItem(CACHE_KEY, JSON.stringify(store));
+            } catch {}
+            return [];
+        } catch {
+            return cached || [];
+        }
+    })().finally(() => inflight.delete(key));
+    inflight.set(key, pending);
+    return pending;
 };
 
 const yday = new Map();
