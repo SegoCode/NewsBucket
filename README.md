@@ -15,7 +15,7 @@
 [![License: PolyForm Noncommercial + GNU AGPL-3.0](https://img.shields.io/badge/License-PolyForm%20Noncommercial%20%2B%20GNU%20AGPL--3.0-blue?style=flat-square)](https://github.com/segocode/NewsBucket/blob/main/LICENSE)
 [![Bitcoin BTC](https://img.shields.io/badge/buy_me_a_coffee-BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white)](https://github.com/SegoCode/SegoCode/discussions/2)
 
-NewsBucket fetches RSS feeds from sources you configure, groups articles covering the same story using an LLM, and publishes the result as JSON in this repository. Each cluster gets a title and summary, then translates into your target languages. Everything runs on GitHub Actions.
+NewsBucket fetches RSS feeds from sources you configure, groups articles covering the same story using an LLM, and publishes the result as JSON in this repository. Each cluster gets a title and summary, then translates into your target languages. Everything runs on GitHub Actions. A miniapp in `code/miniapp/` reads that JSON.
 
 ## Features
 
@@ -26,6 +26,12 @@ NewsBucket fetches RSS feeds from sources you configure, groups articles coverin
 - **Multi-language output.** Clusters are generated in one language, then translated to others. Swap the prompts in `code/prompts/` to change source and target languages.
 
 - **Zero infrastructure.** The entire pipeline, fetch, cluster, translate, commit... runs on GitHub Actions free tier.
+
+- **A miniapp reads the JSON.** `code/miniapp/` is the shipped view: a Telegram Web App and a GitHub Pages site. Two native selects pick topic and language. Stories with more outlets sit higher. Yesterday is the previous commit of the same file.
+
+- **Live overlays on the same list.** Japan prepends JMA earthquakes and weather alerts. Tech prepends cloud outages. Finance prepends 20% stock spikes and a Bank of Canada yen rate. Status is the pipeline run itself.
+
+- **Live news and cameras.** On Japan, the chrome opens NHK and nearby street cameras. Location comes from GPS, IP, or a prefecture picker.
 
 ## Quick Start & Information
 
@@ -65,6 +71,8 @@ The pipeline lives in `.github/workflows/update-news.yml`.
 Raw articles land in `code/rss_output/` as JSON, one file per configured feed source. Clustered results land in `code/rss_output_cluster/` as JSON arrays, with one file per source language and one per target language.
 
 The prompts that drive the clustering and translation live in `code/prompts/`. Feed URLs go in `code/rss_input/` as `.txt` files, one URL per line.
+
+The miniapp lives in `code/miniapp/`. Push it to `main` and `.github/workflows/deploy-pages.yml` publishes it to GitHub Pages. It fetches cluster JSON from this repository.
 
 ---
 <p align="center"><a href="https://github.com/SegoCode/NewsBucket/graphs/contributors">
