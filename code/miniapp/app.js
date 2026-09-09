@@ -3,6 +3,7 @@ import { quakeItems } from './jma-quake.js';
 import { fetchWeatherAlerts, weatherItems } from './jma-weather.js';
 import { fetchCloudOutages } from './cloud-outages.js';
 import { fetchFinanceSpikes } from './finance-spikes.js';
+import { fetchFxRate } from './fx-rate.js';
 import { createChrome } from './chrome.js';
 import { createLive } from './live.js';
 import { pipelineItems } from './pipeline.js';
@@ -75,6 +76,9 @@ async function load() {
         try {
             items.unshift(...await fetchFinanceSpikes(lang.value));
         } catch {}
+        try {
+            items.unshift(...await fetchFxRate(lang.value));
+        } catch {}
     }
     if (gen !== loadGen) return;
     render(items, feed);
@@ -140,7 +144,14 @@ if (platform) {
         native,
         onCoords: applyWeather,
     });
-    syncLocation = () => syncWatch(topic.value === 'japan');
+    syncLocation = () => {
+        const japan = topic.value === 'japan';
+        if (!japan) {
+            weatherKey = '';
+            jma = null;
+        }
+        syncWatch(japan);
+    };
     fetchIp();
     if (!navigator.geolocation?.watchPosition || topic.value !== 'japan') requestLocation();
     syncLocation();
