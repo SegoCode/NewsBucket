@@ -132,12 +132,12 @@ article.weather-l4 {
 
 article.weather-l5 {
     border-color: #000;
+    animation: blink-l5 0.8s step-end infinite;
 }
 
 article.quake-recent,
 article.running,
-article.weather-l4,
-article.weather-l5 {
+article.weather-l4 {
     animation: blink-border 0.8s step-end infinite;
 }
 
@@ -156,6 +156,12 @@ article[onclick] {
 
 @keyframes blink-border {
     50% { border-color: transparent; }
+}
+
+@keyframes blink-l5 {
+    25% { border-color: transparent; }
+    50% { border-color: #af52de; }
+    75% { border-color: transparent; }
 }
 
 #chrome {
