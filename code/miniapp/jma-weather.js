@@ -60,16 +60,20 @@ export const weatherItems = (jma, lang) =>
         };
     });
 
-export const fetchWeatherAlerts = async coords => {
+export const placeFromCoords = async coords => {
     const placeRes = await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${coords.latitude}&longitude=${coords.longitude}&localityLanguage=en`);
     if (!placeRes.ok) throw new Error(placeRes.status);
     const place = await placeRes.json();
     const city = place.city || place.locality || place.principalSubdivision || '';
     const country = place.countryName || place.countryCode || '';
-    const named = { city, country, prefecture: '', alerts: [] };
     const pref = place.countryCode === 'JP' && place.principalSubdivisionCode?.split('-')[1];
+    return { city, country, pref, prefecture: place.principalSubdivision || '' };
+};
+
+export const fetchWeatherAlerts = async coords => {
+    const { city, country, pref, prefecture } = await placeFromCoords(coords);
+    const named = { city, country, prefecture, alerts: [] };
     if (!pref) return named;
-    const prefecture = place.principalSubdivision;
     let areas, cfg;
     try {
         [areas, cfg] = await Promise.all([
