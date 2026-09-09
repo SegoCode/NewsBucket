@@ -18,7 +18,7 @@ const alert = (lang, name, detail, start) => ({
 
 const statuspage = async (origin, name) => {
     const res = await fetch(`${origin}/api/v2/incidents/unresolved.json`);
-    if (!res.ok) return [];
+    if (!res.ok) throw new Error(res.status);
     const incidents = (await res.json()).incidents;
     if (!Array.isArray(incidents)) return [];
     const hit = incidents.find(i =>
@@ -30,7 +30,7 @@ const statuspage = async (origin, name) => {
 
 const aws = async () => {
     const res = await fetch('https://status.aws.amazon.com/rss/all.rss');
-    if (!res.ok) return [];
+    if (!res.ok) throw new Error(res.status);
     const doc = new DOMParser().parseFromString(await res.text(), 'text/xml');
     const hit = [...doc.querySelectorAll('item')].find(it =>
         age(it.querySelector('pubDate')?.textContent) < WINDOW);
@@ -41,7 +41,7 @@ const aws = async () => {
 
 const gcp = async () => {
     const res = await fetch('https://status.cloud.google.com/incidents.json');
-    if (!res.ok) return [];
+    if (!res.ok) throw new Error(res.status);
     const list = await res.json();
     if (!Array.isArray(list)) return [];
     const hit = list.find(i => {
@@ -55,7 +55,7 @@ const gcp = async () => {
 };
 
 const CACHE_KEY = 'nb-outages';
-const CACHE_MS = 5 * 60 * 1000;
+const CACHE_MS = 30 * 60 * 1000;
 let rowsPromise;
 let rowsAt = 0;
 
@@ -63,19 +63,32 @@ const loadRows = () => {
     if (rowsPromise && Date.now() - rowsAt < CACHE_MS) return rowsPromise;
     rowsAt = Date.now();
     rowsPromise = (async () => {
+        let hit;
         try {
-            const hit = JSON.parse(localStorage.getItem(CACHE_KEY) || 'null');
-            if (Array.isArray(hit?.rows) && Date.now() - hit.at < CACHE_MS) return hit.rows;
-        } catch {}
+            hit = JSON.parse(localStorage.getItem(CACHE_KEY) || 'null');
+        } catch {
+            hit = null;
+        }
+        const cached = Array.isArray(hit?.rows) && hit.rows.length ? hit.rows : null;
+        if (cached && Date.now() - hit.at < CACHE_MS) return cached;
         const settled = await Promise.allSettled([
             statuspage('https://www.githubstatus.com', 'GitHub'),
             statuspage('https://www.cloudflarestatus.com', 'Cloudflare'),
             aws(),
             gcp(),
         ]);
-        const rows = settled.flatMap(s => s.status === 'fulfilled' ? s.value : []);
-        try { localStorage.setItem(CACHE_KEY, JSON.stringify({ at: Date.now(), rows })); } catch {}
-        return rows;
+        const ok = settled.filter(s => s.status === 'fulfilled');
+        if (!ok.length) {
+            if (cached) return cached;
+            throw new Error('down');
+        }
+        const rows = ok.flatMap(s => s.value);
+        if (rows.length) {
+            try { localStorage.setItem(CACHE_KEY, JSON.stringify({ at: Date.now(), rows })); } catch {}
+            return rows;
+        }
+        try { localStorage.removeItem(CACHE_KEY); } catch {}
+        return [];
     })().catch(() => {
         rowsPromise = null;
         rowsAt = 0;
