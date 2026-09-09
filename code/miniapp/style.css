@@ -278,15 +278,10 @@ article[onclick] {
     margin: 0;
 }
 
-#diag button {
+#diag button,
+#diag select {
     width: 100%;
     margin-bottom: 8px;
-}
-
-#diag .row button,
-#diag .row select {
-    width: auto;
-    margin-bottom: 0;
 }
 
 #diag dl {
