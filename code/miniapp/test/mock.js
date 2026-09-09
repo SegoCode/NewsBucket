@@ -22,6 +22,19 @@ const SCENES = {
     'spike-noname': { t: 'finance', l: 'en' },
     'spike-red': { t: 'finance', l: 'en' },
     'spike-green': { t: 'finance', l: 'en' },
+    'spike-cache': { t: 'finance', l: 'en' },
+    'spike-ttl': { t: 'finance', l: 'en' },
+    'spike-cached-es': { t: 'finance', l: 'es' },
+    'spike-keep': { t: 'finance', l: 'en' },
+    'spike-empty': { t: 'finance', l: 'en' },
+    fx: { t: 'finance', l: 'en' },
+    'fx-es': { t: 'finance', l: 'es' },
+    'fx-jp': { t: 'finance', l: 'jp' },
+    'fx-down': { t: 'finance', l: 'en' },
+    'fx-cache': { t: 'finance', l: 'en' },
+    'fx-ttl': { t: 'finance', l: 'en' },
+    'fx-cached-es': { t: 'finance', l: 'es' },
+    'fx-red': { t: 'finance', l: 'en' },
     'lang-es': {},
     'lang-ja': {},
     'lang-en': {},
@@ -94,6 +107,12 @@ const SCENES = {
     'feed-down': { t: 'finance', l: 'en' },
     'feed-nosource': { t: 'finance', l: 'en' },
     'feed-count': { t: 'tech', l: 'en' },
+    'cluster-cache': { t: 'finance', l: 'en' },
+    'cluster-ttl': { t: 'finance', l: 'en' },
+    'cluster-cached-es': { t: 'finance', l: 'es' },
+    'cluster-keep': { t: 'finance', l: 'en' },
+    'cluster-empty': { t: 'finance', l: 'en' },
+    'cluster-yday': { t: 'finance', l: 'en' },
     outage: { t: 'tech', l: 'en' },
     'outage-age': { t: 'tech', l: 'en' },
     'outage-es': { t: 'tech', l: 'es' },
@@ -108,6 +127,8 @@ const SCENES = {
     'outage-cache': { t: 'tech', l: 'en' },
     'outage-ttl': { t: 'tech', l: 'en' },
     'outage-cached-es': { t: 'tech', l: 'es' },
+    'outage-keep': { t: 'tech', l: 'en' },
+    'outage-empty': { t: 'tech', l: 'en' },
     'outage-leave': { t: 'tech', l: 'en' },
     'topic-switch': { t: 'finance', l: 'en' },
     'stale-load': { t: 'finance', l: 'en' },
@@ -138,6 +159,7 @@ const SCENES = {
     'weather-tg': { t: 'japan', l: 'en' },
     'weather-level': { t: 'japan', l: 'en' },
     'weather-stale': { t: 'japan', l: 'en' },
+    'weather-leave': { t: 'japan', l: 'en' },
     'haptic-tg': { t: 'finance', l: 'en' },
     'weather-nolm': { t: 'japan', l: 'en' },
     'weather-no-c20': { t: 'japan', l: 'en' },
@@ -172,6 +194,9 @@ store(ls => {
     ls.removeItem('nb-actions');
     ls.removeItem('nb-cams');
     ls.removeItem('nb-outages');
+    ls.removeItem('nb-spikes');
+    ls.removeItem('nb-fx');
+    ls.removeItem('nb-clusters');
     if (scenario === 'lang-bad-nb') ls.setItem('nb', '{');
     if (scenario === 'status-cache') {
         ls.setItem('nb-actions', JSON.stringify({
@@ -205,8 +230,90 @@ store(ls => {
     }
     if (scenario === 'outage-ttl') {
         ls.setItem('nb-outages', JSON.stringify({
-            at: Date.now() - 5 * 60 * 1000 - 1000,
+            at: Date.now() - 30 * 60 * 1000 - 1000,
             rows: [{ name: 'GitHub', detail: 'Stale incident', start: new Date(Date.now() - 3600e3).toISOString() }],
+        }));
+    }
+    if (scenario === 'outage-keep') {
+        ls.setItem('nb-outages', JSON.stringify({
+            at: Date.now() - 30 * 60 * 1000 - 1000,
+            rows: [{ name: 'GitHub', detail: 'Stale incident', start: new Date(Date.now() - 3600e3).toISOString() }],
+        }));
+    }
+    if (scenario === 'outage-empty') {
+        ls.setItem('nb-outages', JSON.stringify({ at: Date.now(), rows: [] }));
+    }
+    if (scenario === 'spike-cache' || scenario === 'spike-cached-es') {
+        ls.setItem('nb-spikes', JSON.stringify({
+            at: Date.now(),
+            quotes: [{ symbol: 'ROIV', name: 'Roivant Sciences Ltd.', pct: 21.4 }],
+        }));
+    }
+    if (scenario === 'spike-ttl') {
+        ls.setItem('nb-spikes', JSON.stringify({
+            at: Date.now() - 3 * 60 * 60 * 1000 - 1000,
+            quotes: [{ symbol: 'OLD', name: 'Stale Co', pct: 40 }],
+        }));
+    }
+    if (scenario === 'spike-keep') {
+        ls.setItem('nb-spikes', JSON.stringify({
+            at: Date.now() - 3 * 60 * 60 * 1000 - 1000,
+            quotes: [{ symbol: 'OLD', name: 'Stale Co', pct: 40 }],
+        }));
+    }
+    if (scenario === 'spike-empty') {
+        ls.setItem('nb-spikes', JSON.stringify({ at: Date.now(), quotes: [] }));
+    }
+    if (scenario === 'fx-cache' || scenario === 'fx-cached-es') {
+        ls.setItem('nb-fx', JSON.stringify({
+            at: Date.now(),
+            now: { usd: 1.54, eur: 1.79, jpy: 0.01 },
+            week: { usd: 1.50, eur: 1.75, jpy: 0.01 },
+        }));
+    }
+    if (scenario === 'fx-ttl') {
+        ls.setItem('nb-fx', JSON.stringify({
+            at: Date.now() - 6 * 60 * 60 * 1000 - 1000,
+            usd: 1, eur: 1, jpy: 0.01,
+        }));
+    }
+    if (scenario === 'cluster-cache') {
+        ls.setItem('nb-clusters', JSON.stringify({
+            'finance:en': { at: Date.now(), items: [
+                { title: 'Cached rates', source: ['a.com', 'b.com', 'c.com', 'd.com'], count: 4 },
+                { title: 'Cached chips', source: ['a.com', 'b.com', 'c.com'], count: 3 },
+                { title: 'Cached apps', source: ['a.com', 'b.com'], count: 2 },
+            ] },
+        }));
+    }
+    if (scenario === 'cluster-ttl') {
+        ls.setItem('nb-clusters', JSON.stringify({
+            'finance:en': { at: Date.now() - 3 * 60 * 60 * 1000 - 1000, items: [
+                { title: 'Stale rates', source: ['old.com', 'older.com'], count: 2 },
+            ] },
+        }));
+    }
+    if (scenario === 'cluster-cached-es') {
+        ls.setItem('nb-clusters', JSON.stringify({
+            'finance:es': { at: Date.now(), items: [
+                { title: 'Tipos cacheados', source: ['a.com', 'b.com', 'c.com', 'd.com'], count: 4 },
+                { title: 'Chips cacheados', source: ['a.com', 'b.com', 'c.com'], count: 3 },
+                { title: 'Apps cacheadas', source: ['a.com', 'b.com'], count: 2 },
+            ] },
+        }));
+    }
+    if (scenario === 'cluster-keep' || scenario === 'cluster-yday') {
+        ls.setItem('nb-clusters', JSON.stringify({
+            'finance:en': { at: Date.now() - (scenario === 'cluster-keep' ? 3 * 60 * 60 * 1000 + 1000 : 0), items: [
+                { title: 'Cached rates', source: ['a.com', 'b.com', 'c.com', 'd.com'], count: 4 },
+                { title: 'Cached chips', source: ['a.com', 'b.com', 'c.com'], count: 3 },
+                { title: 'Cached apps', source: ['a.com', 'b.com'], count: 2 },
+            ] },
+        }));
+    }
+    if (scenario === 'cluster-empty') {
+        ls.setItem('nb-clusters', JSON.stringify({
+            'finance:en': { at: Date.now(), items: [] },
         }));
     }
 });
@@ -277,6 +384,7 @@ const LOCATION = {
     'weather-tg': { ip: 'tokyo' },
     'weather-level': { ip: 'tokyo', gps: 'tokyo' },
     'weather-stale': { ip: 'tokyo', gps: ['tokyo', 'nagoya'], gpsDelays: [20, 300] },
+    'weather-leave': { ip: 'tokyo', gps: 'tokyo' },
     'weather-nolm': { ip: 'us', gps: 'tokyo' },
     'weather-no-c20': { ip: 'tokyo', gps: 'tokyo' },
     'weather-panel': { ip: 'tokyo', gps: 'tokyo' },
@@ -689,6 +797,7 @@ const SHA = { head: 'cafebabe', yday: 'deadbeef', es: 'beefcafe', tech: 'feedfac
 const pair = (a, b) => json([{ sha: a }, { sha: b }]);
 
 let commitTries = 0;
+let warnTries = 0;
 const withQuakes = scenario.startsWith('quake') || scenario.startsWith('japan') || scenario === 'mix';
 const noJapanNews = ((scenario.startsWith('quake') || scenario.startsWith('weather')) && !scenario.endsWith('-down'))
     || scenario === 'geo-wins'
@@ -722,7 +831,7 @@ const commits = url => {
         if (tech) return pair(SHA.head, SHA.tech);
         if (finance) return pair(SHA.head, SHA.yday);
     }
-    if (finance && ['yesterday', 'yesterday-stale', 'yesterday-sha', 'yesterday-empty', 'yesterday-jp'].includes(scenario)) {
+    if (finance && ['yesterday', 'yesterday-stale', 'yesterday-sha', 'yesterday-empty', 'yesterday-jp', 'cluster-yday'].includes(scenario)) {
         const body = pair(SHA.head, SHA.yday);
         return scenario === 'yesterday-stale' ? later(250, body) : body;
     }
@@ -750,6 +859,7 @@ const clusters = url => {
         return json(JAPAN_NEWS[lang] || JAPAN_NEWS.en);
     }
     if (scenario === 'feed-down') return text('', 404);
+    if (scenario === 'cluster-cache' || scenario === 'cluster-cached-es' || scenario === 'cluster-keep') return text('', 500);
     if (scenario.startsWith('outage') && cluster[1] === 'tech') return json(TECH);
     if ((scenario === 'topic-switch' || scenario === 'stale-load' || scenario === 'yesterday-stale' || scenario === 'yesterday-topic') && cluster[1] === 'tech') {
         return json(TECH);
@@ -978,12 +1088,16 @@ globalThis.fetch = input => {
         if (scenario === 'weather-html') return json({ rain: { x: { 130010: '5' } }, flood: { x: { 130010: '1' } } });
         if (scenario === 'weather-level') return json({ rain: { x: { 130010: '3', 130011: '8' } } });
         if (scenario === 'weather-l10') return json({ storm: { x: { 130010: '8', 130011: '10' } } });
+        if (scenario === 'weather-leave') {
+            warnTries++;
+            if (warnTries > 1) return json({ rain: { x: {} }, flood: { x: {} }, storm: { x: {} } });
+        }
         return json(WARN);
     }
 
     if (url.includes('githubstatus.com') || url.includes('cloudflarestatus.com')
         || url.includes('status.aws.amazon.com') || url.includes('status.cloud.google.com')) {
-        if (scenario === 'outage-down' || scenario === 'outage-html' || scenario === 'outage-cache' || scenario === 'outage-cached-es') {
+        if (scenario === 'outage-down' || scenario === 'outage-html' || scenario === 'outage-cache' || scenario === 'outage-cached-es' || scenario === 'outage-keep') {
             return scenario === 'outage-html'
                 ? text('<!DOCTYPE html><html>challenge</html>')
                 : text('', 500);
@@ -1020,7 +1134,7 @@ globalThis.fetch = input => {
             if (url.includes('status.aws.amazon.com')) return rss('EC2 errors', 50 * 3600e3);
             return gcp('us-central1 network', 6 * 3600e3);
         }
-        if (scenario === 'outage-es' || scenario === 'outage-jp') {
+        if (scenario === 'outage-es' || scenario === 'outage-jp' || scenario === 'outage-empty') {
             if (url.includes('githubstatus.com')) return sp('Actions down', 3600e3);
             if (url.includes('cloudflarestatus.com')) return json({ incidents: [] });
             if (url.includes('status.aws.amazon.com')) return text('<?xml version="1.0"?><rss version="2.0"><channel></channel></rss>');
@@ -1061,10 +1175,32 @@ globalThis.fetch = input => {
         if (url.includes('status.cloud.google.com')) return json([]);
         return json({ incidents: [] });
     }
+    if (url.includes('bankofcanada.ca/valet/observations')) {
+        if (scenario === 'fx-down' || scenario === 'fx-cache' || scenario === 'fx-cached-es') {
+            return text('', 500);
+        }
+        const row = (d, usd, eur, jpy) => ({
+            d,
+            FXUSDCAD: { v: usd },
+            FXEURCAD: { v: eur },
+            FXJPYCAD: { v: jpy },
+        });
+        const pair = (now, week) => json({
+            observations: [
+                row('2026-09-08', ...now),
+                row('2026-09-01', ...week),
+            ],
+        });
+        if (scenario === 'fx-red') return pair(['1.50', '1.75', '0.01'], ['1.54', '1.79', '0.01']);
+        if (scenario === 'fx' || scenario === 'fx-es' || scenario === 'fx-jp' || scenario === 'fx-ttl') {
+            return pair(['1.54', '1.79', '0.01'], ['1.50', '1.75', '0.01']);
+        }
+        return json({ observations: [] });
+    }
     if (url.includes('finance-query.com/v2/screeners/day-gainers')
         || url.includes('finance-query.com/v2/screeners/day-losers')) {
         const gainers = url.includes('day-gainers');
-        if (scenario === 'spike-down') return text('', 500);
+        if (scenario === 'spike-down' || scenario === 'spike-cache' || scenario === 'spike-cached-es' || scenario === 'spike-keep') return text('', 500);
         if (scenario === 'spike-html') return text('<!DOCTYPE html><html>blocked</html>');
         const q = (symbol, name, pct) => ({
             symbol, shortName: name, regularMarketChangePercent: pct,
@@ -1090,8 +1226,8 @@ globalThis.fetch = input => {
         if (scenario === 'spike-quiet') {
             return json({
                 quotes: gainers
-                    ? [q('INTC', 'Intel Corporation', 8.1), q('AAPL', 'Apple Inc.', 19.9)]
-                    : [q('NVS', 'Novartis AG', -19.9)],
+                    ? [q('INTC', 'Intel Corporation', 8.1), q('AAPL', 'Apple Inc.', 14.9)]
+                    : [q('NVS', 'Novartis AG', -14.9)],
             });
         }
         if (scenario === 'spike-cap') {
@@ -1110,8 +1246,8 @@ globalThis.fetch = input => {
             return gainers ? json({ data: [q('ROIV', 'Roivant Sciences Ltd.', 18.4)] }) : json({ quotes: { symbol: 'DYN' } });
         }
         if (scenario === 'spike-floor') {
-            if (gainers) return json({ quotes: [q('ROIV', 'Roivant Sciences Ltd.', 20), q('AAPL', 'Apple Inc.', 19.9)] });
-            return json({ quotes: [q('DYN', 'Dyne Therapeutics, Inc.', -20), q('NVS', 'Novartis AG', -19.9)] });
+            if (gainers) return json({ quotes: [q('ROIV', 'Roivant Sciences Ltd.', 15), q('AAPL', 'Apple Inc.', 14.9)] });
+            return json({ quotes: [q('DYN', 'Dyne Therapeutics, Inc.', -15), q('NVS', 'Novartis AG', -14.9)] });
         }
         if (scenario === 'spike-noname') {
             if (!gainers) return empty;
@@ -1124,6 +1260,10 @@ globalThis.fetch = input => {
         if (scenario === 'spike-green') {
             if (!gainers) return empty;
             return json({ quotes: [q('EEE', 'Echo', 20)] });
+        }
+        if (scenario === 'spike-ttl' || scenario === 'spike-empty') {
+            if (gainers) return json({ quotes: [q('ROIV', 'Roivant Sciences Ltd.', 21.4)] });
+            return empty;
         }
         return empty;
     }
