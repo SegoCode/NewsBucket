@@ -1,6 +1,6 @@
 import { articlesHtml, fetchClusters, fetchYesterday, render } from './feed.js';
 import { quakeItems } from './jma-quake.js';
-import { fetchWeatherAlerts, weatherItems, JmaRateLimit } from './jma-weather.js';
+import { fetchWeatherAlerts, weatherItems, JmaRateLimit, placeFromCoords } from './jma-weather.js';
 import { fetchCloudOutages } from './cloud-outages.js';
 import { fetchFinanceSpikes } from './finance-spikes.js';
 import { fetchFxRate } from './fx-rate.js';
@@ -46,6 +46,7 @@ let weatherKey = '';
 let lastAlertCoords;
 let japanBusy = false;
 let japanQueued = false;
+let paintedTopic = '';
 
 const JMA_DOWN = {
     en: 'JMA is not responding',
@@ -107,7 +108,7 @@ const syncHtmlLang = () => {
 async function load() {
     loadGen += 1;
     const gen = loadGen;
-    if (!(topic.value === 'japan' && feed.querySelector('article'))) {
+    if (!(topic.value === 'japan' && paintedTopic === 'japan' && feed.querySelector('article'))) {
         feed.innerHTML = '<div id="status">Loading…</div>';
     }
     syncDiag(topic.value === 'status');
@@ -119,6 +120,7 @@ async function load() {
         } else if (topic.value === 'japan') {
             japanBusy = true;
             const coords = japanCoords(lastAlertCoords);
+            weatherKey = coordsKey(coords);
             const newsP = fetchClusters(topic.value, lang.value).catch(() => []);
             let quakeFail = false;
             let weatherFail = false;
@@ -136,9 +138,9 @@ async function load() {
             });
             const weatherP = retry(() => fetchWeatherAlerts(coords)).then(w => {
                 setPlace({ city: w.city, country: w.country });
-                weatherKey = coordsKey(coords);
                 return w;
             }).catch(e => {
+                if (weatherKey === coordsKey(coords)) weatherKey = '';
                 if (!onJmaErr(e)) weatherFail = true;
                 return undefined;
             });
@@ -160,6 +162,7 @@ async function load() {
     } catch {}
     if (gen !== loadGen) return;
     render(items, feed);
+    paintedTopic = topic.value;
     if (outagesP) {
         void outagesP.then(outages => {
             if (gen !== loadGen || !outages.length) return;
@@ -208,10 +211,10 @@ if (platform) {
         platform.setBackgroundColor('bg_color');
     } catch {}
     const applyWeather = coords => {
-        const waiting = lastAlertCoords === undefined;
         if (!coords) {
+            const had = lastAlertCoords;
             offerAlertCoords(null);
-            if (!waiting && topic.value === 'japan') {
+            if (had && topic.value === 'japan') {
                 if (japanBusy) japanQueued = true;
                 else load();
             }
@@ -219,7 +222,6 @@ if (platform) {
         }
         if (!Number.isFinite(coords.latitude) || !Number.isFinite(coords.longitude)) return;
         offerAlertCoords(coords);
-        if (waiting) return;
         const key = coordsKey(japanCoords(coords));
         if (key === weatherKey) return;
         if (topic.value === 'japan') {
@@ -228,8 +230,8 @@ if (platform) {
             return;
         }
         weatherKey = key;
-        void fetchWeatherAlerts(japanCoords(coords)).then(next => {
-            setPlace({ city: next.city, country: next.country });
+        void placeFromCoords(japanCoords(coords)).then(p => {
+            setPlace({ city: p.city, country: p.country });
         }).catch(() => {
             if (weatherKey === key) weatherKey = '';
         });
