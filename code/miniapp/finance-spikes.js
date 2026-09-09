@@ -1,6 +1,6 @@
 const GAINERS = 'https://finance-query.com/v2/screeners/day-gainers';
 const LOSERS = 'https://finance-query.com/v2/screeners/day-losers';
-const MIN = 15;
+const MIN = 20;
 const MAX = 5;
 const UP = { en: 'Spike', es: 'Subida', jp: '急騰' };
 const DOWN = { en: 'Drop', es: 'Caída', jp: '急落' };
