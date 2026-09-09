@@ -81,6 +81,9 @@ const SCENES = {
     'geo-refresh': { t: 'japan', l: 'en' },
     'weather-osaka': { t: 'japan', l: 'en' },
     'japan-jp': { t: 'japan', l: 'jp' },
+    'jma-429': { t: 'japan', l: 'en' },
+    'jma-wait': { t: 'japan', l: 'en' },
+    'weather-down-jp': { t: 'japan', l: 'jp' },
     'japan-us': { t: 'japan', l: 'en' },
     'japan-es': { t: 'japan', l: 'es' },
     mix: { t: 'japan', l: 'en' },
@@ -784,8 +787,9 @@ const json = (data, status = 200) =>
         headers: { 'Content-Type': 'application/json' },
     }));
 
-const text = (body, status = 200) =>
-    Promise.resolve(new Response(body, { status }));
+const text = (body, status = 200, headers) =>
+    Promise.resolve(new Response(body, { status, headers }));
+
 
 const hang = () => new Promise(() => {});
 const later = (ms, value) => new Promise(resolve => setTimeout(() => {
@@ -798,6 +802,7 @@ const pair = (a, b) => json([{ sha: a }, { sha: b }]);
 
 let commitTries = 0;
 let warnTries = 0;
+const jma429Until = scenario === 'jma-429' ? Date.now() + 700 : 0;
 const withQuakes = scenario.startsWith('quake') || scenario.startsWith('japan') || scenario === 'mix';
 const noJapanNews = ((scenario.startsWith('quake') || scenario.startsWith('weather')) && !scenario.endsWith('-down'))
     || scenario === 'geo-wins'
@@ -886,6 +891,9 @@ const clusters = url => {
 
 globalThis.fetch = input => {
     const url = typeof input === 'string' ? input : input.url;
+    if (scenario === 'jma-429' && url.includes('jma.go.jp/bosai') && Date.now() < jma429Until) {
+        return text('', 429, { 'Retry-After': '1' });
+    }
     if (scenario === 'loading') return hang();
     if (url.includes('/commits?')) return commits(url);
     if (/rss_\w+_clusters_\w+\.json/.test(url)) return clusters(url);
@@ -961,12 +969,14 @@ globalThis.fetch = input => {
 
     if (url.includes('quake/data/list.json')) {
         if (scenario === 'quake-down') return text('', 500);
-        return json(withQuakes ? quakes() : []);
+        const body = json(withQuakes ? quakes() : []);
+        return scenario === 'jma-wait' ? later(350, body) : body;
     }
     if (url.includes('common/const/area.json')) {
-        if (scenario.startsWith('diag') || scenario === 'weather-down') return Promise.reject(new Error('down'));
+        if (scenario.startsWith('diag') || scenario === 'weather-down' || scenario === 'weather-down-jp') return Promise.reject(new Error('down'));
         if (scenario === 'weather-no-c20') return json({ offices: AREA.offices, class10s: AREA.class10s });
-        return json(AREA);
+        const area = json(AREA);
+        return scenario === 'jma-wait' ? later(350, area) : area;
     }
     if (url.includes('panel/const/setting.json')) {
         if (scenario === 'weather-l2') {
@@ -1226,8 +1236,8 @@ globalThis.fetch = input => {
         if (scenario === 'spike-quiet') {
             return json({
                 quotes: gainers
-                    ? [q('INTC', 'Intel Corporation', 8.1), q('AAPL', 'Apple Inc.', 14.9)]
-                    : [q('NVS', 'Novartis AG', -14.9)],
+                    ? [q('INTC', 'Intel Corporation', 8.1), q('AAPL', 'Apple Inc.', 19.9)]
+                    : [q('NVS', 'Novartis AG', -19.9)],
             });
         }
         if (scenario === 'spike-cap') {
@@ -1246,8 +1256,8 @@ globalThis.fetch = input => {
             return gainers ? json({ data: [q('ROIV', 'Roivant Sciences Ltd.', 18.4)] }) : json({ quotes: { symbol: 'DYN' } });
         }
         if (scenario === 'spike-floor') {
-            if (gainers) return json({ quotes: [q('ROIV', 'Roivant Sciences Ltd.', 15), q('AAPL', 'Apple Inc.', 14.9)] });
-            return json({ quotes: [q('DYN', 'Dyne Therapeutics, Inc.', -15), q('NVS', 'Novartis AG', -14.9)] });
+            if (gainers) return json({ quotes: [q('ROIV', 'Roivant Sciences Ltd.', 20), q('AAPL', 'Apple Inc.', 19.9)] });
+            return json({ quotes: [q('DYN', 'Dyne Therapeutics, Inc.', -20), q('NVS', 'Novartis AG', -19.9)] });
         }
         if (scenario === 'spike-noname') {
             if (!gainers) return empty;
