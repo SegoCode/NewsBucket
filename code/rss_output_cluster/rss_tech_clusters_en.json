@@ -1,124 +1,123 @@
 [
   {
-    "title": "Arm unveils its new C2 CPUs, Mali GPU with neural graphics, and 128-core Neoverse platform",
-    "summary": "Arm launches a wave of designs for mobile and servers including high-performance CPUs, GPUs with integrated AI, and subsystems of up to 128 cores on 3 nm.",
+    "title": "Meta launches Muse, its personal AI agent that requires user trust",
+    "summary": "Meta presents Muse, a new personal AI agent designed to assist with daily tasks, but its adoption depends on users trusting its privacy and reliability.",
     "source": [
-      "elchapuzasinformatico.com",
+      "wired.com",
       "news.ycombinator.com",
-      "videocardz.com",
-      "kite.kagi.com",
-      "tomshardware.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "DLSS 5 Autopilot and Neural Rendering multiply performance on Nvidia cards and revive multi-GPU configurations",
-    "summary": "The new DLSS version reduces the performance penalty and allows using a second GPU dedicated to neural rendering, achieving up to 127% more FPS.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
+      "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "Apple prepares iPhone 18 Pro with variable aperture camera and secures NAND memory supply",
-    "summary": "Leaks reveal a professional camera with five new features and Apple secures NAND chips amid growing demand, though the market remains tight.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Mistral AI raises €3 billion in largest European tech round despite trailing rivals",
-    "summary": "The French startup closes record financing to develop its own models and infrastructure, though it admits the real battle is in the application layer.",
-    "source": [
-      "xataka.com",
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Industry warns that even 20 new NAND fabs wouldn't cover demand and Apple secures its chips for iPhone 18",
-    "summary": "Phison and Samsung warn of a structural deficit in NAND and DRAM memory, while Apple secures supply for its next flagship.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "TSMC builds 19 simultaneous fabs and Intel surpasses 1 million High-NA EUV wafers in race for advanced lithography capacity",
-    "summary": "The two largest chipmakers aggressively expand their cutting-edge production capacity, but AI demand continues to outstrip supply.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hackers steal $320 million in Bitcoin from Liquid Network and return 3,400 BTC after demanding vulnerability patch",
-    "summary": "A group drains 95% of Liquid's federated wallet, calls itself 'good' and returns part of the loot after demanding the flaw be fixed.",
-    "source": [
-      "tomshardware.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony maintains removal of physical disc in PlayStation despite lawsuits and legal threats, but will keep manufacturing discs until 2028",
-    "summary": "The company faces strong backlash and several lawsuits, but confirms new releases will lose physical format while maintaining disc production at 10% less.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel plans to raise PC CPU prices by 10% in October and discontinue low-margin models",
-    "summary": "The manufacturer will raise prices on its desktop processors and stop making those that don't offer sufficient profitability.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Jellyfin 12.0 adds support for books and comics, faster navigation, and FFmpeg 8.1",
-    "summary": "The open-source media server releases a major update focused on reading and playback performance.",
-    "source": [
-      "alternativeto.net",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GPT-6 Astra completes Portal autonomously in 24 hours at a cost of only $571 in tokens",
-    "summary": "OpenAI's new model solves the game without human intervention, demonstrating planning and complex task execution capabilities.",
+    "title": "OpenAI accused of pressuring mathematician to exclude Anthropic co-author from discovery",
+    "summary": "An OpenAI researcher allegedly pressured an NYU mathematician to remove an Anthropic co-author from a paper on a historic mathematical problem, sparking academic controversy.",
     "source": [
       "the-decoder.com",
-      "tomshardware.com"
+      "techcrunch.com",
+      "wired.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "ChatGPT Work learns user's writing style by connecting their work applications",
-    "summary": "OpenAI tests a feature allowing the chatbot to mimic the user's writing based on their documents and work communications.",
+    "title": "Zelda: Ocarina of Time remake in Unreal Engine 5 shows gameplay with fog due to limitations",
+    "summary": "An unofficial remake of Ocarina of Time in Unreal Engine 5 reveals gameplay with modern design and use of fog to hide original hardware limitations.",
     "source": [
-      "alternativeto.net",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Enthusiast finds 1,920 GB of DDR4 RAM worth $12,000 in garage and keeps it",
-    "summary": "An employee discovers a forgotten old server full of high-value memory and the company allows him to keep it.",
-    "source": [
-      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "xataka.com",
       "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Modders achieve DLSS 5 and Multi Frame Gen on RTX 20, 30, and 40 series cards",
+    "summary": "Community modifications unlock DLSS 5 and multi-frame generation on RTX GPUs prior to the 50 series, improving performance up to 6 times with hybrid FSR 3.1.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Intel plans to raise its PC CPU prices by 10% in October 2026",
+    "summary": "Intel would increase its desktop processor prices by 10% in October, discontinuing low-margin models, while AMD would follow with increases in summer 2027.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Ryzen 9 9950X3D dies after switching to ASUS motherboard, according to reports",
+    "summary": "Users report that the Ryzen 9 9950X3D processor stops working one hour after switching to an ASUS motherboard, after a year of trouble-free use.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple prepares foldable iPhone with very high price, according to Mark Gurman leaks",
+    "summary": "Apple's foldable iPhone would have an extremely high price according to Mark Gurman, and its official unveiling would be imminent.",
+    "source": [
+      "xataka.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Mistral AI raises 3 billion euros in largest European tech round",
+    "summary": "French startup Mistral AI closes a record 3 billion euro funding round, establishing itself as European leader in sovereign AI despite trailing US rivals.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Hackers steal $320 million in Bitcoin from Liquid Network and promise to return it",
+    "summary": "Attackers drain 95% of Liquid Network's federated wallet exploiting a flaw in Elements, but claim to be 'good actors' and will return funds after patching the vulnerability.",
+    "source": [
+      "thehackernews.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google AI creates predictive map of 9 billion human DNA mutations",
+    "summary": "Google's AlphaGenome Atlas maps a high-resolution atlas of human genetic variants, enabling prediction of mutation effects on gene regulation.",
+    "source": [
+      "xataka.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Renault to manufacture Dacia Spring 2027 in Europe to lower cost with subsidies",
+    "summary": "The next-generation Dacia Spring will be produced in Europe from 2027 instead of China, allowing access to state aid and competing with the BYD Dolphin Surf below 20,000 euros.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "DaVinci Resolve 21.1 arrives with changes in scripting, editing, and tools",
+    "summary": "The new version of DaVinci Resolve 21.1 introduces improvements in scripting, editing tools, and workflow for professional post-production.",
+    "source": [
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Qwen 3.8 27B benchmarks: 4-bit quantization holds, 1-bit collapses",
+    "summary": "Tests on RTX 5090 show Qwen 3.8 27B maintains performance at 4-bit but fails at 1-bit, revealing software and inference bottlenecks beyond VRAM.",
+    "source": [
+      "news.ycombinator.com",
+      "tomshardware.com"
     ],
     "count": 2
   }

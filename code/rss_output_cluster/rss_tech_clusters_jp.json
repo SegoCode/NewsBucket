@@ -1,124 +1,123 @@
 [
   {
-    "title": "Arm、新CPU「C2」、ニューラルグラフィックス対応GPU Mali、128コアのNeoverseプラットフォームを発表",
-    "summary": "Armがモバイルおよびサーバー向けの一連の新設計を発表。高性能CPU、AI統合GPU、3nmプロセスで最大128コアのサブシステムを含む。",
+    "title": "MetaがMuseを発表、ユーザーの信頼を必要とする個人AIエージェント",
+    "summary": "Metaは、日常業務を支援するために設計された新しい個人AIエージェント「Muse」を発表したが、その採用はユーザーがそのプライバシーと信頼性を信頼できるかどうかにかかっている。",
     "source": [
-      "elchapuzasinformatico.com",
+      "wired.com",
       "news.ycombinator.com",
-      "videocardz.com",
-      "kite.kagi.com",
-      "tomshardware.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "DLSS 5 AutopilotとニューラルレンダリングがNvidia GPUの性能を倍増、マルチGPU構成を復活",
-    "summary": "新版DLSSが性能ペナルティを軽減し、第2のGPUをニューラルレンダリング専用として使用可能に。最大127%のFPS向上を実現。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "videocardz.com"
+      "techcrunch.com"
     ],
     "count": 3
   },
   {
-    "title": "Apple、可変絞りカメラ搭載のiPhone 18 Proを準備、NANDメモリ供給を確保",
-    "summary": "リークでプロ仕様カメラの5つの新機能が明らかに。需要増大の中、AppleがNANDチップ供給を確保するも市場は依然逼迫。",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Mistral AI、欧州最大の30億ユーロ調達に成功、ライバルに遅れながらも記録的ラウンド",
-    "summary": "仏スタートアップが自社モデルとインフラ開発のため過去最大の資金調達を完了。真の勝負はアプリケーション層にあると認める。",
-    "source": [
-      "xataka.com",
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "業界が警告: 新規NAND工場20カ所でも需要を賄えず、AppleはiPhone 18向けチップを確保",
-    "summary": "PhisonとSamsungがNANDとDRAMの構造的不足を警告。一方、Appleは次期フラッグシップ向け供給を確保。",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "TSMCが19工場を同時建設、IntelがHigh-NA EUVウェーハ100万枚を達成、先端リソグラフィ競争が激化",
-    "summary": "世界最大手2社が最先端生産能力を積極拡大するも、AI需要が供給を上回り続ける。",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ハッカーがLiquid Networkから3.2億ドル相当のBitcoinを窃取、脆弱性修正要求後に3,400 BTCを返還",
-    "summary": "グループがLiquidの連合ウォレットの95%を空にし、自らを『善人』と称し、欠陥修正を要求して一部を返還。",
-    "source": [
-      "tomshardware.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony、訴訟と法的脅威にもかかわらずPlayStationの物理ディスク廃止を維持、ただし2028年までディスク生産継続",
-    "summary": "強い反発と複数の訴訟に直面しながらも、新作から物理フォーマットを廃止する方針を確認。ディスク生産は10%削減しつつ継続。",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel、10月にPC向けCPU価格を10%値上げ、低利益率モデルを廃止へ",
-    "summary": "デスクトッププロセッサーを値上げし、十分な収益性がないモデルの製造を中止する方針。",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Jellyfin 12.0、書籍とコミック対応、高速ナビゲーション、FFmpeg 8.1を追加",
-    "summary": "オープンソースのメディアサーバーがメジャーアップデート。読書機能と再生パフォーマンスに焦点。",
-    "source": [
-      "alternativeto.net",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GPT-6 Astraが『Portal』を自律的に24時間でクリア、トークン費用はわずか571ドル",
-    "summary": "OpenAIの新モデルが人間の介入なしでゲームを解決。複雑なタスクの計画・実行能力を実証。",
+    "title": "OpenAI、数学者に圧力をかけてAnthropicの共著者を発見から除外させたとの告発",
+    "summary": "OpenAIの研究者が、歴史的な数学問題に関する論文からAnthropicの共著者を外すようNYUの数学者に圧力をかけたとされ、学術界で物議を醸している。",
     "source": [
       "the-decoder.com",
-      "tomshardware.com"
+      "techcrunch.com",
+      "wired.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "ChatGPT Work、業務アプリ連携でユーザーの文体を学習",
-    "summary": "OpenAIが、ユーザーの業務文書やコミュニケーションに基づきチャットボットが文体を模倣する機能をテスト。",
+    "title": "Unreal Engine 5でリメイクされた『ゼルダの伝説 時のオカリナ』、ハードウェア制約で霧を使用したゲームプレイを披露",
+    "summary": "Unreal Engine 5で作られた非公式の『時のオカリナ』リメイクが、モダンなデザインと元のハードウェアの制約を隠すための霧の使用を伴うゲームプレイを明らかにした。",
     "source": [
-      "alternativeto.net",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "愛好家がガレージで1,920 GBのDDR4メモリ（1.2万ドル相当）を発見、会社の許可で入手",
-    "summary": "従業員が忘れ去られた古いサーバーから高価なメモリを発見、企業が保有を認める。",
-    "source": [
-      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "xataka.com",
       "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "モッダーがRTX 20/30/40シリーズでDLSS 5とマルチフレーム生成を実現",
+    "summary": "コミュニティによる改造で、RTX 50シリーズ以前のGPUでDLSS 5とマルチフレーム生成がアンロックされ、ハイブリッドFSR 3.1によりパフォーマンスが最大6倍向上。",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Intel、2026年10月にデスクトップCPU価格を10%値上げへ",
+    "summary": "Intelは10月にデスクトッププロセッサの価格を10%引き上げ、低利益率モデルを廃止する計画で、AMDも2027年夏に追随すると見られる。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Ryzen 9 9950X3D、ASUSマザーボードへの交換後に故障との報告",
+    "summary": "ユーザー報告によると、Ryzen 9 9950X3DがASUSマザーボードへの交換から1時間後に動作しなくなったとのこと。それまでは1年間問題なく使用されていた。",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple、極めて高価な折りたたみiPhoneを準備中とMark Gurmanがリーク",
+    "summary": "Mark Gurmanによると、Appleの折りたたみiPhoneは極めて高価になる見込みで、公式発表は間近とされる。",
+    "source": [
+      "xataka.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Mistral AI、欧州最大のテック資金調達ラウンドで30億ユーロを調達",
+    "summary": "フランスのスタートアップMistral AIが記録的な30億ユーロの資金調達ラウンドを完了し、米国のライバルに後れを取りつつも、欧州の主権的AIリーダーとしての地位を固めた。",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ハッカーがLiquid Networkから3.2億ドル相当のビットコインを窃取、返還を約束",
+    "summary": "攻撃者がElementsの脆弱性を悪用し、Liquid Networkの連合ウォレットの95%を空にしたが、『善意のハッカー』を名乗り、脆弱性をパッチした後に資金を返還すると主張。",
+    "source": [
+      "thehackernews.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google AI、90億のヒトDNA変異の予測マップを作成",
+    "summary": "GoogleのAlphaGenome Atlasがヒト遺伝子変異の高解像度マップを描き、遺伝子調節における変異の影響を予測可能にした。",
+    "source": [
+      "xataka.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ルノー、2027年型Dacia Springを欧州で生産し補助金で価格抑制へ",
+    "summary": "次世代Dacia Springは2027年から中国ではなく欧州で生産され、国家補助金を活用してBYD Dolphin Surfと2万ユーロ以下で競合する。",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "DaVinci Resolve 21.1リリース、スクリプティング、編集、ツールに改善",
+    "summary": "DaVinci Resolve 21.1の新バージョンでは、スクリプティング、編集ツール、プロフェッショナルなポストプロダクション向けワークフローが改善された。",
+    "source": [
+      "alternativeto.net",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Qwen 3.8 27Bベンチマーク: 4ビット量子化は耐えるが1ビットは崩壊",
+    "summary": "RTX 5090でのテストで、Qwen 3.8 27Bが4ビットでは性能を維持するが1ビットでは失敗し、VRAMを超えたソフトウェアと推論のボトルネックが明らかになった。",
+    "source": [
+      "news.ycombinator.com",
+      "tomshardware.com"
     ],
     "count": 2
   }
