@@ -109,12 +109,17 @@ export const createLive = ({ tg, live, topic, place, telegram = false }) => {
     if (window.YT?.Player) initLivePlayers();
     live.addEventListener('click', () => {
         if (live.hidden) return;
+        if (!livePlayerReady) {
+            initLivePlayers();
+            return;
+        }
         if (holding) {
             holding = false;
             busy(false);
             cuePlayers();
+        } else if (!telegram || !audioOn) {
+            cuePlayers();
         }
-        if (!livePlayerReady) return;
         livePlayer.unMute();
         audioOn = true;
     });
