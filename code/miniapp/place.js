@@ -128,6 +128,7 @@ export const createPlace = ({ native, onCoords }) => {
                     if (!coords) {
                         if (env.source === 'Manual') return;
                         setPlace({ geo: lm.isAccessGranted === false ? 'rejected' : 'unknown' });
+                        onCoords?.(null);
                         return;
                     }
                     acceptLocation('Telegram', coords);
