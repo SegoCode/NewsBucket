@@ -83,6 +83,7 @@ const SCENES = {
     'japan-jp': { t: 'japan', l: 'jp' },
     'jma-429': { t: 'japan', l: 'en' },
     'jma-wait': { t: 'japan', l: 'en' },
+    'jma-switch': { t: 'finance', l: 'en' },
     'weather-down-jp': { t: 'japan', l: 'jp' },
     'japan-us': { t: 'japan', l: 'en' },
     'japan-es': { t: 'japan', l: 'es' },
@@ -100,6 +101,7 @@ const SCENES = {
     'live-tg': { t: 'japan', l: 'en' },
     'live-tg-cams': { t: 'japan', l: 'en' },
     'live-tg-open': { t: 'japan', l: 'en' },
+    'live-tg-early': { t: 'japan', l: 'en' },
     'live-tg-slow': { t: 'japan', l: 'en' },
     'live-tg-back': { t: 'japan', l: 'en' },
     'live-tg-next': { t: 'japan', l: 'en' },
@@ -751,7 +753,11 @@ if (scenario === 'diag-telegram' || scenario === 'weather-tg' || scenario === 'h
     };
 }
 
+const heldReady = [];
 globalThis.YT = {
+    flushReady() {
+        heldReady.splice(0).forEach(fn => fn());
+    },
     Player: class {
         constructor(id, opts) {
             this.el = document.getElementById(id);
@@ -760,8 +766,15 @@ globalThis.YT = {
             this.muted = !!opts.playerVars?.mute;
             this.playing = false;
             this.loads = 0;
+            this.ready = false;
             this._paint();
-            queueMicrotask(() => opts.events?.onReady?.({ target: this }));
+            const fire = () => {
+                this.ready = true;
+                opts.events?.onReady?.({ target: this });
+                this._paint();
+            };
+            if (scenario === 'live-tg-early') heldReady.push(fire);
+            else queueMicrotask(fire);
         }
         _paint() {
             if (!this.el) return;
@@ -770,6 +783,7 @@ globalThis.YT = {
             this.el.dataset.muted = this.muted ? '1' : '0';
             this.el.dataset.playing = this.playing ? '1' : '0';
             this.el.dataset.loads = String(this.loads);
+            this.el.dataset.ready = this.ready ? '1' : '0';
         }
         getVideoData() { return { video_id: this.videoId }; }
         loadVideoById(id) { this.videoId = id; this.loads += 1; this.playing = true; this._paint(); }
@@ -970,13 +984,13 @@ globalThis.fetch = input => {
     if (url.includes('quake/data/list.json')) {
         if (scenario === 'quake-down') return text('', 500);
         const body = json(withQuakes ? quakes() : []);
-        return scenario === 'jma-wait' ? later(350, body) : body;
+        return scenario === 'jma-wait' || scenario === 'jma-switch' ? later(350, body) : body;
     }
     if (url.includes('common/const/area.json')) {
         if (scenario.startsWith('diag') || scenario === 'weather-down' || scenario === 'weather-down-jp') return Promise.reject(new Error('down'));
         if (scenario === 'weather-no-c20') return json({ offices: AREA.offices, class10s: AREA.class10s });
         const area = json(AREA);
-        return scenario === 'jma-wait' ? later(350, area) : area;
+        return scenario === 'jma-wait' || scenario === 'jma-switch' ? later(350, area) : area;
     }
     if (url.includes('panel/const/setting.json')) {
         if (scenario === 'weather-l2') {
