@@ -20,6 +20,7 @@ const log = [];
 const ok = (cond, msg) => { log.push(`${cond ? 'ok  ' : 'FAIL'} ${msg}`); };
 let sawEnd = false;
 let sawNewsFirst = false;
+let sawJapanHeld = false;
 let sawSplash = false;
 let sawIdle = false;
 let sawNextNow = false;
@@ -191,12 +192,12 @@ const COUNT = {
     'yesterday-jp': 4,
     'yesterday-retry': 3,
     'quake-west': 1,
-    'quake-down': 1,
-    'weather-down': 1,
-    'weather-c20': 1,
+    'quake-down': 5,
+    'weather-down': 2,
+    'weather-down-jp': 1,
     'weather-html': 1,
     'weather-city': 5,
-    'weather-tg': 0,
+    'weather-tg': 3,
     'weather-level': 1,
     'weather-stale': 3,
     'weather-leave': 3,
@@ -267,7 +268,9 @@ const COUNT = {
     'weather-osaka': 1,
     'weather-hokkaido': 2,
     'japan-jp': 6,
-    'japan-us': 3,
+    'japan-us': 6,
+    'jma-429': 1,
+    'jma-wait': 4,
     'japan-es': 6,
     mix: 6,
     live: 0,
@@ -307,6 +310,12 @@ const ready = async () => {
         await wait(() => titles()[0] === 'Foundry wins contract');
         sawNewsFirst = !titles().some(t => t.startsWith('Outage:'));
         await wait(() => titles()[0] === 'Outage: GitHub: Actions down');
+        return;
+    }
+    if (scenario === 'jma-wait') {
+        await sleep(80);
+        sawJapanHeld = $('#status')?.textContent === 'Loading…' && !titles().some(t => t === 'Diet passes bill');
+        await wait(() => titles().some(t => t.includes('Heavy rain')));
         return;
     }
     if (scenario === 'outage-leave') {
@@ -373,7 +382,11 @@ const ready = async () => {
         await wait(() => articles().length === 1 && titles()[0]?.includes('Heavy rain'));
     }
     if (scenario === 'weather-down') await sleep(180);
-    if (scenario === 'weather-stale') await sleep(80);
+    if (scenario === 'jma-429') {
+        await wait(() => titles().includes('Diet passes bill'));
+        ok(!titles().some(t => t.includes('not responding')), 'rate limit not down');
+        await wait(() => titles().some(t => t.includes('Heavy rain')), 4000, 'jma after wait');
+    }
     if (scenario === 'cluster-yday') {
         await wait(() => $('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates');
     }
@@ -853,7 +866,7 @@ const run = () => {
         ok(titles()[0].startsWith('Drop: Dyne Therapeutics, Inc.'), 'down name');
         ok(titles()[1].startsWith('Spike: Roivant Sciences Ltd.'), 'up name');
         ok(titles()[2].startsWith('Spike: CoreWeave, Inc.'), 'second up');
-        ok(!titles().some(t => t.includes('INTC') || t.includes('NVS')), 'under 15 dropped');
+        ok(!titles().some(t => t.includes('INTC') || t.includes('NVS')), 'under 20 dropped');
         ok(classes().slice(0, 3).every(c => c === 'quake-high spike'), 'dashed no blink');
         ok(titles()[0].includes('DYN') && titles()[0].includes('-21.9%'), 'ticker pct');
         ok(sources()[0] === 'finance.yahoo.com' && sources()[1] === 'finance.yahoo.com', 'yahoo source');
@@ -863,7 +876,7 @@ const run = () => {
     }
     if (scenario === 'spike-quiet') {
         ok(articles().length === 3, 'news only');
-        ok(!titles().some(t => t.includes('Spike:') || t.includes('Drop:')), '14.9 dropped');
+        ok(!titles().some(t => t.includes('Spike:') || t.includes('Drop:')), '19.9 dropped');
         return;
     }
     if (scenario === 'spike-es') {
@@ -901,9 +914,9 @@ const run = () => {
         return;
     }
     if (scenario === 'spike-floor') {
-        ok(titles()[0].startsWith('Spike: Roivant Sciences Ltd.'), '15 up kept');
-        ok(titles()[1].startsWith('Drop: Dyne Therapeutics, Inc.'), '15 down kept');
-        ok(!titles().some(t => t.includes('AAPL') || t.includes('NVS')), '14.9 dropped');
+        ok(titles()[0].startsWith('Spike: Roivant Sciences Ltd.'), '20 up kept');
+        ok(titles()[1].startsWith('Drop: Dyne Therapeutics, Inc.'), '20 down kept');
+        ok(!titles().some(t => t.includes('AAPL') || t.includes('NVS')), '19.9 dropped');
         return;
     }
     if (scenario === 'spike-noname') {
@@ -1439,9 +1452,23 @@ const run = () => {
         return;
     }
     if (scenario === 'quake-down') {
-        ok(articles().length === 1, '1 news');
-        ok(titles()[0] === 'Diet passes bill', 'news kept');
+        ok(titles()[0] === 'JMA is not responding', 'jma down');
+        ok(classes()[0] === 'quake-high quake-recent', 'blinks');
         ok(!titles().some(t => t.startsWith('M')), 'no quake');
+        ok(titles().some(t => t.includes('Heavy rain')), 'tokyo weather');
+        ok(titles().at(-1) === 'Diet passes bill', 'news kept');
+        return;
+    }
+    if (scenario === 'jma-429') {
+        ok(!titles().some(t => t.includes('not responding')), 'not a failure');
+        ok(titles().some(t => t.includes('Heavy rain')), 'filled after wait');
+        ok(titles().some(t => t === 'Diet passes bill'), 'news stayed');
+        return;
+    }
+    if (scenario === 'jma-wait') {
+        ok(sawJapanHeld, 'held loading until JMA');
+        ok(titles().some(t => t.includes('Heavy rain')), 'jma then');
+        ok(titles().some(t => t === 'Diet passes bill'), 'news after JMA');
         return;
     }
     if (scenario === 'weather' || scenario === 'weather-ip') {
@@ -1487,9 +1514,15 @@ const run = () => {
         return;
     }
     if (scenario === 'weather-down') {
-        ok(articles().length === 1, '1 news');
-        ok(titles()[0] === 'Diet passes bill', 'news kept');
+        ok(titles()[0] === 'JMA is not responding', 'jma down');
+        ok(classes()[0] === 'quake-high quake-recent', 'blinks');
+        ok(titles()[1] === 'Diet passes bill', 'news kept');
         ok(!titles().some(t => t.includes('Weather')), 'no weather');
+        return;
+    }
+    if (scenario === 'weather-down-jp') {
+        ok(titles()[0] === 'JMAが応答しません', 'jp down');
+        ok(classes()[0] === 'quake-high quake-recent', 'blinks');
         return;
     }
     if (scenario === 'weather-hokkaido') {
@@ -1526,8 +1559,9 @@ const run = () => {
     }
     if (scenario === 'japan-us') {
         ok(titles()[0].startsWith('M6.2') && titles()[1].startsWith('M5.4'), 'quakes are global');
-        ok(titles()[2] === 'Diet passes bill', 'news');
-        ok(!titles().some(t => t.includes('Weather')), 'no local weather');
+        ok(titles()[2].includes('Heavy rain'), 'tokyo weather');
+        ok(sources()[2].includes('Tokyo'), 'tokyo fallback');
+        ok(titles().at(-1) === 'Diet passes bill', 'news');
         return;
     }
     if (scenario === 'geo-wins') {
@@ -1589,7 +1623,8 @@ const run = () => {
         return;
     }
     if (scenario === 'weather-tg') {
-        ok(!titles().some(t => t.includes('Weather')), 'ip weather skipped');
+        ok(titles()[0].includes('Heavy rain'), 'tokyo fallback');
+        ok(sources()[0].includes('Tokyo'), 'tokyo');
         return;
     }
     if (scenario === 'weather-level') {
