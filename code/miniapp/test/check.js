@@ -21,6 +21,7 @@ const ok = (cond, msg) => { log.push(`${cond ? 'ok  ' : 'FAIL'} ${msg}`); };
 let sawEnd = false;
 let sawNewsFirst = false;
 let sawJapanHeld = false;
+let sawJapanSwitch = false;
 let sawSplash = false;
 let sawIdle = false;
 let sawNextNow = false;
@@ -29,6 +30,7 @@ let sawNoSplash = false;
 
 const articles = () => $$('#feed article');
 const titles = () => articles().map(a => $('h2', a).textContent.trim());
+const magTitles = () => titles().filter(t => t.startsWith('M'));
 const classes = () => articles().map(a => a.className.trim());
 const sources = () => articles().map(a => $('.sources', a).textContent);
 const href = a => (a.getAttribute('onclick') || '').match(/window\.open\('([^']*)'/)?.[1] || '';
@@ -111,6 +113,11 @@ const openTgLive = async () => {
     await wait(() => globalThis.Telegram.WebApp.MainButton.isVisible, 3000, 'native main');
     globalThis.Telegram.WebApp.MainButton.click();
     await wait(() => !$('#live').hidden);
+};
+const liveReady = () => $('#liveFrame')?.dataset.ready === '1';
+const tapLive = async () => {
+    await wait(liveReady);
+    $('#live > p').click();
 };
 
 const COUNT = {
@@ -271,6 +278,7 @@ const COUNT = {
     'japan-us': 6,
     'jma-429': 1,
     'jma-wait': 4,
+    'jma-switch': 4,
     'japan-es': 6,
     mix: 6,
     live: 0,
@@ -286,6 +294,7 @@ const COUNT = {
     'live-tg': 0,
     'live-tg-cams': 0,
     'live-tg-open': 0,
+    'live-tg-early': 0,
     'live-tg-slow': 0,
     'live-tg-back': 0,
     'live-tg-next': 0,
@@ -315,6 +324,16 @@ const ready = async () => {
     if (scenario === 'jma-wait') {
         await sleep(80);
         sawJapanHeld = $('#status')?.textContent === 'Loading…' && !titles().some(t => t === 'Diet passes bill');
+        await wait(() => titles().some(t => t.includes('Heavy rain')));
+        return;
+    }
+    if (scenario === 'jma-switch') {
+        await wait(() => titles()[0] === 'Four outlets on rates');
+        goJapan();
+        await sleep(80);
+        sawJapanSwitch = $('#topic').value === 'japan'
+            && $('#status')?.textContent === 'Loading…'
+            && !titles().some(t => t === 'Four outlets on rates');
         await wait(() => titles().some(t => t.includes('Heavy rain')));
         return;
     }
@@ -539,14 +558,26 @@ const ready = async () => {
         sawSplash = !$('#live > p').hidden;
         sawNextNow = globalThis.Telegram.WebApp.MainButton.text === 'NEXT';
         sawNewsVid = $('#liveFrame').dataset.vid === 'Anr15FA9OCI';
-        $('#live > p').click();
+        await tapLive();
         await wait(() => $('#liveFrame').dataset.vid === 'near1');
         return;
     }
     if (scenario === 'live-tg-open') {
         await openTgLive();
+        await wait(liveReady);
         sawSplash = !$('#live > p').hidden;
         sawIdle = $('#liveFrame').dataset.playing === '0';
+        $('#live > p').click();
+        await wait(() => $('#liveFrame').dataset.playing === '1');
+        return;
+    }
+    if (scenario === 'live-tg-early') {
+        await openTgLive();
+        $('#live > p').click();
+        sawSplash = !$('#live > p').hidden;
+        sawIdle = !liveReady() && $('#liveFrame')?.dataset.playing !== '1';
+        globalThis.YT.flushReady();
+        sawNewsVid = liveReady() && !$('#live > p').hidden && $('#liveFrame')?.dataset.playing !== '1';
         $('#live > p').click();
         await wait(() => $('#liveFrame').dataset.playing === '1');
         return;
@@ -557,7 +588,7 @@ const ready = async () => {
         sawSplash = !$('#live > p').hidden;
         sawNextNow = globalThis.Telegram.WebApp.MainButton.text === 'NEXT';
         sawNewsVid = $('#liveFrame').dataset.vid === 'Anr15FA9OCI';
-        $('#live > p').click();
+        await tapLive();
         await wait(() => $('#liveFrame').dataset.vid === 'near1');
         return;
     }
@@ -572,7 +603,7 @@ const ready = async () => {
     if (scenario === 'live-tg-next') {
         await openTgLive();
         globalThis.Telegram.WebApp.SecondaryButton.click();
-        $('#live > p').click();
+        await tapLive();
         await wait(() => $('#liveFrame').dataset.vid === 'near1');
         globalThis.Telegram.WebApp.MainButton.click();
         sawNoSplash = $('#live > p').hidden;
@@ -697,47 +728,47 @@ const run = () => {
     }
     if (scenario === 'lang-es') {
         ok($('#lang').value === 'es', 'system es');
-        ok(titles()[0] === 'La Dieta aprueba el proyecto', 'es news');
+        ok(titles().includes('La Dieta aprueba el proyecto'), 'es news');
         return;
     }
     if (scenario === 'lang-ja') {
         ok($('#lang').value === 'jp', 'system ja');
-        ok(titles()[0] === '国会が法案を可決', 'jp news');
+        ok(titles().includes('国会が法案を可決'), 'jp news');
         return;
     }
     if (scenario === 'lang-en') {
         ok($('#lang').value === 'en', 'system en');
-        ok(titles()[0] === 'Diet passes bill', 'en news');
+        ok(titles().includes('Diet passes bill'), 'en news');
         return;
     }
     if (scenario === 'lang-ua') {
         ok($('#lang').value === 'es', 'ua es');
-        ok(titles()[0] === 'La Dieta aprueba el proyecto', 'es news');
+        ok(titles().includes('La Dieta aprueba el proyecto'), 'es news');
         return;
     }
     if (scenario === 'lang-ua-ja') {
         ok($('#lang').value === 'jp', 'ua ja');
-        ok(titles()[0] === '国会が法案を可決', 'jp news');
+        ok(titles().includes('国会が法案を可決'), 'jp news');
         return;
     }
     if (scenario === 'lang-uscore') {
         ok($('#lang').value === 'es', 'es_MX');
-        ok(titles()[0] === 'La Dieta aprueba el proyecto', 'es news');
+        ok(titles().includes('La Dieta aprueba el proyecto'), 'es news');
         return;
     }
     if (scenario === 'lang-nav') {
         ok($('#lang').value === 'jp', 'navigator.language ja');
-        ok(titles()[0] === '国会が法案を可決', 'jp news');
+        ok(titles().includes('国会が法案を可決'), 'jp news');
         return;
     }
     if (scenario === 'lang-default' || scenario === 'lang-bad-nb') {
         ok($('#lang').value === 'en', scenario === 'lang-bad-nb' ? 'bad nb → autoLang' : 'default en');
-        ok(titles()[0] === 'Diet passes bill', 'en news');
+        ok(titles().includes('Diet passes bill'), 'en news');
         return;
     }
     if (scenario === 'lang-keep') {
         ok($('#lang').value === 'jp', 'saved beats system');
-        ok(titles()[0] === '国会が法案を可決', 'jp news');
+        ok(titles().includes('国会が法案を可決'), 'jp news');
         return;
     }
     if (scenario === 'status-ok') {
@@ -1373,21 +1404,25 @@ const run = () => {
         ok(classes()[1] === 'quake-high', 'M5.4 still');
         ok(titles()[0].startsWith('M6.2') && titles()[0].includes('Tokyo Bay'), 'M6.2');
         ok(titles()[1].startsWith('M5.4'), 'M5.4');
-        ok(titles().every(t => !t.includes('Weather alert')), 'no weather');
+        ok(magTitles().length === 2, '2 quakes');
+        ok(titles().some(t => t.includes('Heavy rain')), 'tokyo weather');
+        ok(sources().some(s => s.includes('Tokyo')), 'tokyo fallback');
         ok(href(articles()[0]) === 'https://www.google.com/maps/search/?api=1&query=35.6,139.7', 'maps url');
         ok(sources()[0].includes('JMA'), 'JMA source');
         return;
     }
     if (scenario === 'quake-mag') {
-        ok(articles().length === 1, 'only M≥4.5');
+        ok(magTitles().length === 1, 'only M≥4.5');
         ok(titles()[0].startsWith('M4.5') && titles()[0].includes('Floor'), 'floor kept');
         ok(!titles().some(t => t.includes('Below') || t.startsWith('M4.4')), 'M4.4 dropped');
+        ok(titles().some(t => t.includes('Heavy rain')), 'tokyo weather');
         return;
     }
     if (scenario === 'quake-age') {
-        ok(articles().length === 1, 'only <48h');
+        ok(magTitles().length === 1, 'only <48h');
         ok(titles()[0].includes('Inside'), '47h kept');
         ok(!titles().some(t => t.includes('Outside')), '48h dropped');
+        ok(titles().some(t => t.includes('Heavy rain')), 'tokyo weather');
         return;
     }
     if (scenario === 'quake-blink') {
@@ -1398,38 +1433,43 @@ const run = () => {
         return;
     }
     if (scenario === 'quake-palette') {
-        ok(articles().length === 4, '4 quakes');
+        ok(magTitles().length === 4, '4 quakes');
         ok(titles()[0].startsWith('M6.5') && classes()[0] === 'quake-high weather-l5', 'M6.5 black-purple');
         ok(titles()[1].startsWith('M6.4') && classes()[1] === 'quake-high weather-l4', 'M6.4 red-purple');
         ok(titles()[2].startsWith('M5.5') && classes()[2] === 'quake-high weather-l4', 'M5.5 red-purple');
         ok(titles()[3].startsWith('M5.4') && classes()[3] === 'quake-high quake-recent', 'M5.4 red blink');
+        ok(titles().some(t => t.includes('Heavy rain')), 'tokyo weather');
         return;
     }
     if (scenario === 'quake-hold') {
-        ok(articles().length === 3, '3 old');
+        ok(magTitles().length === 3, '3 old');
         ok(titles()[0].startsWith('M6.5') && classes()[0] === 'quake-high weather-l5', 'old M6.5 still blinks');
         ok(titles()[1].startsWith('M6.0') && classes()[1] === 'quake-high weather-l4', 'old M6 still blinks');
         ok(titles()[2].startsWith('M5.5') && classes()[2] === 'quake-high', 'old M5.5 still');
+        ok(titles().some(t => t.includes('Heavy rain')), 'tokyo weather');
         return;
     }
     if (scenario === 'quake-combo') {
-        ok(articles().length === 2, '2 kept');
+        ok(magTitles().length === 2, '2 kept');
         ok(titles()[0].startsWith('M6.0') && classes()[0] === 'quake-high weather-l4', 'M6.0 red-purple');
         ok(titles()[1].startsWith('M4.5') && classes()[1] === 'quake-high', 'edge still');
         ok(!titles().some(t => t.includes('Weak') || t.includes('Old')), 'weak/old dropped');
+        ok(titles().some(t => t.includes('Heavy rain')), 'tokyo weather');
         return;
     }
     if (scenario === 'quake-drop') {
-        ok(articles().length === 2, 'complete + no ctt');
+        ok(magTitles().length === 2, 'complete + no ctt');
         ok(titles().some(t => t.includes('Kept')), 'kept');
         ok(titles().some(t => t.includes('No ctt')), 'no ctt kept');
         ok(!titles().some(t => t.includes('No mag') || t.includes('No cod')), 'incomplete dropped');
+        ok(titles().some(t => t.includes('Heavy rain')), 'tokyo weather');
         return;
     }
     if (scenario === 'quake-bad-cod') {
-        ok(articles().length === 1, '1 quake');
+        ok(magTitles().length === 1, '1 quake');
         ok(titles()[0].includes('Kept'), 'valid kept');
         ok(!titles().some(t => t.includes('Broken') || t.includes('Half')), 'bad cod dropped');
+        ok(titles().some(t => t.includes('Heavy rain')), 'tokyo weather');
         return;
     }
     if (scenario === 'quake-cod') {
@@ -1445,10 +1485,11 @@ const run = () => {
         return;
     }
     if (scenario === 'quake-west') {
-        ok(articles().length === 1, '1 quake');
+        ok(magTitles().length === 1, '1 quake');
         ok(titles()[0].includes('Central America'), 'west title');
         ok(mapsQuery(articles()[0]) === '5,-76.3', 'minus lon');
         ok(!href(articles()[0]).includes('+'), 'no plus');
+        ok(titles().some(t => t.includes('Heavy rain')), 'tokyo weather');
         return;
     }
     if (scenario === 'quake-down') {
@@ -1469,6 +1510,13 @@ const run = () => {
         ok(sawJapanHeld, 'held loading until JMA');
         ok(titles().some(t => t.includes('Heavy rain')), 'jma then');
         ok(titles().some(t => t === 'Diet passes bill'), 'news after JMA');
+        return;
+    }
+    if (scenario === 'jma-switch') {
+        ok(sawJapanSwitch, 'japan Loading not leftover finance');
+        ok($('#topic').value === 'japan', 'stayed japan');
+        ok(titles().some(t => t.includes('Heavy rain')), 'japan after');
+        ok(!titles().some(t => t === 'Four outlets on rates'), 'finance gone');
         return;
     }
     if (scenario === 'weather' || scenario === 'weather-ip') {
@@ -1752,6 +1800,15 @@ const run = () => {
         sameChrome(readNativeChrome(), CHROME.news, 'news');
         ok($('#liveFrame').dataset.vid === 'Anr15FA9OCI', 'jp news');
         ok($('#liveFrame').dataset.playing === '1', 'playing');
+        return;
+    }
+    if (scenario === 'live-tg-early') {
+        ok(sawSplash, 'early tap keeps overlay');
+        ok(sawIdle, 'early tap idle');
+        ok(sawNewsVid, 'still waiting after ready');
+        ok($('#live > p').hidden, 'second tap hides overlay');
+        ok($('#liveFrame').dataset.playing === '1', 'second tap plays');
+        ok($('#liveFrame').dataset.vid === 'Anr15FA9OCI', 'jp news');
         return;
     }
     if (scenario === 'live-tg-slow') {
