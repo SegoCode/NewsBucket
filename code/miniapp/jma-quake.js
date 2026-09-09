@@ -1,3 +1,5 @@
+import { jmaFetch } from './jma-weather.js';
+
 const QUAKE = 'https://www.jma.go.jp/bosai/quake/data/list.json';
 
 export const parseCod = cod => {
@@ -15,8 +17,7 @@ export const parseCod = cod => {
 };
 
 export const quakeItems = async lang => {
-    const res = await fetch(QUAKE);
-    if (!res.ok) return [];
+    const res = await jmaFetch(QUAKE);
     const list = await res.json();
     if (!Array.isArray(list)) return [];
     const raw = list.filter(q =>
