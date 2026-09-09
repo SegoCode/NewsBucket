@@ -144,6 +144,8 @@ const COUNT = {
     'outage-cache': 4,
     'outage-ttl': 4,
     'outage-cached-es': 4,
+    'outage-keep': 4,
+    'outage-empty': 4,
     spike: 6,
     'spike-quiet': 3,
     'spike-es': 5,
@@ -156,7 +158,26 @@ const COUNT = {
     'spike-noname': 4,
     'spike-red': 4,
     'spike-green': 4,
+    'spike-cache': 4,
+    'spike-ttl': 4,
+    'spike-cached-es': 4,
+    'spike-keep': 4,
+    'spike-empty': 4,
+    fx: 4,
+    'fx-es': 4,
+    'fx-jp': 4,
+    'fx-down': 3,
+    'fx-cache': 4,
+    'fx-ttl': 4,
+    'fx-cached-es': 4,
+    'fx-red': 4,
     'feed-nosource': 2,
+    'cluster-cache': 3,
+    'cluster-ttl': 3,
+    'cluster-cached-es': 3,
+    'cluster-keep': 3,
+    'cluster-empty': 3,
+    'cluster-yday': 4,
     'topic-switch': 3,
     'lang-switch': 3,
     'end-mark': 3,
@@ -178,6 +199,7 @@ const COUNT = {
     'weather-tg': 0,
     'weather-level': 1,
     'weather-stale': 3,
+    'weather-leave': 3,
     'weather-nolm': 3,
     'weather-no-c20': 1,
     'weather-panel': 1,
@@ -352,6 +374,17 @@ const ready = async () => {
     }
     if (scenario === 'weather-down') await sleep(180);
     if (scenario === 'weather-stale') await sleep(80);
+    if (scenario === 'cluster-yday') {
+        await wait(() => $('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates');
+    }
+    if (scenario === 'weather-leave') {
+        await wait(() => titles().some(t => t.includes('Heavy rain')));
+        $('#topic').value = 'finance';
+        $('#topic').dispatchEvent(new Event('change'));
+        await wait(() => titles()[0] === 'Four outlets on rates');
+        goJapan();
+        await wait(() => $('#status')?.textContent === 'No news');
+    }
     if (scenario === 'weather-city') {
         await wait(() => $('#diag-place').textContent.includes('Shibuya'));
     }
@@ -801,6 +834,16 @@ const run = () => {
         ok(titles()[1] === 'Foundry wins contract', 'news after');
         return;
     }
+    if (scenario === 'outage-keep') {
+        ok(titles()[0] === 'Outage: GitHub: Stale incident', 'expired last-good');
+        ok(titles()[1] === 'Foundry wins contract', 'news after');
+        return;
+    }
+    if (scenario === 'outage-empty') {
+        ok(titles()[0] === 'Outage: GitHub: Actions down', 'empty not a hit');
+        ok(titles()[1] === 'Foundry wins contract', 'news after');
+        return;
+    }
     if (scenario === 'outage-leave') {
         ok(titles()[0] === 'Four outlets on rates', 'finance');
         ok(!titles().some(t => t.startsWith('Outage:')), 'no late prepend');
@@ -810,7 +853,7 @@ const run = () => {
         ok(titles()[0].startsWith('Drop: Dyne Therapeutics, Inc.'), 'down name');
         ok(titles()[1].startsWith('Spike: Roivant Sciences Ltd.'), 'up name');
         ok(titles()[2].startsWith('Spike: CoreWeave, Inc.'), 'second up');
-        ok(!titles().some(t => t.includes('INTC') || t.includes('NVS')), 'under 20 dropped');
+        ok(!titles().some(t => t.includes('INTC') || t.includes('NVS')), 'under 15 dropped');
         ok(classes().slice(0, 3).every(c => c === 'quake-high spike'), 'dashed no blink');
         ok(titles()[0].includes('DYN') && titles()[0].includes('-21.9%'), 'ticker pct');
         ok(sources()[0] === 'finance.yahoo.com' && sources()[1] === 'finance.yahoo.com', 'yahoo source');
@@ -820,7 +863,7 @@ const run = () => {
     }
     if (scenario === 'spike-quiet') {
         ok(articles().length === 3, 'news only');
-        ok(!titles().some(t => t.includes('Spike:') || t.includes('Drop:')), '19.9 dropped');
+        ok(!titles().some(t => t.includes('Spike:') || t.includes('Drop:')), '14.9 dropped');
         return;
     }
     if (scenario === 'spike-es') {
@@ -858,9 +901,9 @@ const run = () => {
         return;
     }
     if (scenario === 'spike-floor') {
-        ok(titles()[0].startsWith('Spike: Roivant Sciences Ltd.'), '20 up kept');
-        ok(titles()[1].startsWith('Drop: Dyne Therapeutics, Inc.'), '20 down kept');
-        ok(!titles().some(t => t.includes('AAPL') || t.includes('NVS')), '19.9 dropped');
+        ok(titles()[0].startsWith('Spike: Roivant Sciences Ltd.'), '15 up kept');
+        ok(titles()[1].startsWith('Drop: Dyne Therapeutics, Inc.'), '15 down kept');
+        ok(!titles().some(t => t.includes('AAPL') || t.includes('NVS')), '14.9 dropped');
         return;
     }
     if (scenario === 'spike-noname') {
@@ -882,6 +925,118 @@ const run = () => {
         ok(pct?.textContent === '+20.0%', 'pct only');
         ok(pct && getComputedStyle(pct).color === 'rgb(52, 199, 89)', 'green #34c759');
         ok(getComputedStyle($('h2', articles()[0])).color !== 'rgb(52, 199, 89)', 'name not green');
+        return;
+    }
+    if (scenario === 'spike-cache') {
+        ok(titles()[0].startsWith('Spike: Roivant Sciences Ltd.'), 'cached');
+        ok(titles()[1] === 'Four outlets on rates', 'news after');
+        return;
+    }
+    if (scenario === 'spike-ttl') {
+        ok(titles()[0].startsWith('Spike: Roivant Sciences Ltd.'), 'expired refetched');
+        ok(!titles().some(t => t.includes('Stale')), 'stale dropped');
+        return;
+    }
+    if (scenario === 'spike-cached-es') {
+        ok(titles()[0].startsWith('Subida: Roivant Sciences Ltd.'), 'es from quotes');
+        ok(titles()[1] === 'Cuatro medios sobre tipos', 'news after');
+        return;
+    }
+    if (scenario === 'spike-keep') {
+        ok(titles()[0].startsWith('Spike: Stale Co'), 'expired last-good');
+        ok(titles()[1] === 'Four outlets on rates', 'news after');
+        return;
+    }
+    if (scenario === 'spike-empty') {
+        ok(titles()[0].startsWith('Spike: Roivant Sciences Ltd.'), 'empty not a hit');
+        ok(titles()[1] === 'Four outlets on rates', 'news after');
+        return;
+    }
+    if (scenario === 'cluster-cache') {
+        ok(titles()[0] === 'Cached rates', 'cached');
+        ok(titles()[1] === 'Cached chips', 'cached second');
+        return;
+    }
+    if (scenario === 'cluster-ttl') {
+        ok(titles()[0] === 'Four outlets on rates', 'expired refetched');
+        ok(!titles().some(t => t.includes('Stale')), 'stale dropped');
+        return;
+    }
+    if (scenario === 'cluster-cached-es') {
+        ok(titles()[0] === 'Tipos cacheados', 'es from cache');
+        ok(titles()[1] === 'Chips cacheados', 'es second');
+        return;
+    }
+    if (scenario === 'cluster-keep') {
+        ok(titles()[0] === 'Cached rates', 'expired last-good');
+        ok(!titles().some(t => t === 'Four outlets on rates'), 'no live fetch');
+        return;
+    }
+    if (scenario === 'cluster-empty') {
+        ok(titles()[0] === 'Four outlets on rates', 'empty not a hit');
+        return;
+    }
+    if (scenario === 'cluster-yday') {
+        ok(titles()[0] === 'Cached rates', 'main from cache');
+        ok($('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates', 'sha not cache');
+        return;
+    }
+    if (scenario === 'fx') {
+        const pct = $('.ok', articles()[0]);
+        ok(titles()[0].startsWith('1 USD'), 'usd');
+        ok(titles()[0].includes('¥154.00'), 'rate');
+        ok(pct?.textContent === '+2.7%', 'week pct');
+        ok(classes()[0] === 'quake-high spike', 'stock style');
+        ok(sources()[0] === 'bankofcanada.ca', 'boc');
+        ok(href(articles()[0]) === 'https://www.bankofcanada.ca/rates/exchange/daily-exchange-rates/', 'link');
+        ok(titles()[1] === 'Four outlets on rates', 'news after');
+        return;
+    }
+    if (scenario === 'fx-es') {
+        ok(titles()[0].startsWith('1 EUR'), 'eur');
+        ok(titles()[0].includes('¥179.00'), 'es rate');
+        ok($('.ok', articles()[0])?.textContent === '+2.3%', 'week pct');
+        ok(classes()[0] === 'quake-high spike', 'stock style');
+        ok(!titles().some(t => t.includes('1 USD')), 'no usd');
+        ok(titles()[1] === 'Cuatro medios sobre tipos', 'news after');
+        return;
+    }
+    if (scenario === 'fx-jp') {
+        ok(titles()[0].startsWith('1 USD'), 'jp usd');
+        ok(titles()[0].includes('¥154.00'), 'rate');
+        ok($('.ok', articles()[0])?.textContent === '+2.7%', 'week pct');
+        ok(!titles().some(t => t.includes('1 EUR')), 'no eur');
+        return;
+    }
+    if (scenario === 'fx-down') {
+        ok(articles().length === 3, 'news kept');
+        ok(!titles().some(t => t.includes('1 USD') || t.includes('1 EUR')), 'no fx');
+        return;
+    }
+    if (scenario === 'fx-cache') {
+        ok(titles()[0].includes('1 USD') && titles()[0].includes('¥154.00'), 'cached');
+        ok($('.ok', articles()[0])?.textContent === '+2.7%', 'week pct');
+        ok(titles()[1] === 'Four outlets on rates', 'news after');
+        return;
+    }
+    if (scenario === 'fx-ttl') {
+        ok(titles()[0].includes('¥154.00'), 'expired refetched');
+        ok($('.ok', articles()[0])?.textContent === '+2.7%', 'week pct');
+        ok(!titles().some(t => t.includes('100.00')), 'stale dropped');
+        return;
+    }
+    if (scenario === 'fx-cached-es') {
+        ok(titles()[0].startsWith('1 EUR'), 'es from rates');
+        ok(titles()[0].includes('¥179.00'), 'es rate');
+        ok($('.ok', articles()[0])?.textContent === '+2.3%', 'week pct');
+        ok(titles()[1] === 'Cuatro medios sobre tipos', 'news after');
+        return;
+    }
+    if (scenario === 'fx-red') {
+        const pct = $('.high', articles()[0]);
+        ok(titles()[0].includes('¥150.00'), 'rate');
+        ok(pct?.textContent === '-2.6%', 'pct only');
+        ok(pct && getComputedStyle(pct).color === 'rgb(255, 59, 48)', 'red #ff3b30');
         return;
     }
     if (scenario === 'feed-nosource') {
@@ -933,6 +1088,7 @@ const run = () => {
         if (scenario === 'manual-open') {
             ok(!$('#diag-pref').hidden, 'list shown');
             ok(!$('#diag-manual'), 'no extra button');
+            ok($('#diag-pref').getBoundingClientRect().top >= $('#diag-ask').getBoundingClientRect().bottom - 1, 'pref below ask');
             ok(prefOpts().length === 47, '47 prefectures');
             ok(prefOpts().map(o => o.value).join() === [...Array(47)].map((_, i) => String(i + 1).padStart(2, '0')).join(), 'iso 01-47');
             ok(prefOpts().some(o => o.textContent === 'Tokyo'), 'Tokyo');
@@ -1196,6 +1352,7 @@ const run = () => {
         ok($('#diag-ask').textContent === 'REQUEST LOCATION', 'ask label');
         ok(!$('#diag-manual'), 'no extra button');
         ok(!$('#diag-pref').hidden, 'pref visible');
+        ok($('#diag-pref').getBoundingClientRect().top >= $('#diag-ask').getBoundingClientRect().bottom - 1, 'pref below ask');
         return;
     }
     if (scenario === 'quakes') {
@@ -1445,6 +1602,11 @@ const run = () => {
         return sleep(350).then(() => {
             ok(articles().length === 3 && sources().every(s => s.includes('Tokyo')), 'failed nagoya discarded');
         });
+    }
+    if (scenario === 'weather-leave') {
+        ok($('#status')?.textContent === 'No news', 'refetch empty after leave');
+        ok(!titles().some(t => t.includes('Heavy rain')), 'tokyo not frozen');
+        return;
     }
     if (scenario === 'live') {
         ok(!window.Telegram?.WebApp?.initData, 'no telegram');
