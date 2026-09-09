@@ -1,5 +1,33 @@
 export const JMA = 'https://www.jma.go.jp/bosai/';
 
+export class JmaRateLimit extends Error {
+    constructor(ms) {
+        super('rate-limit');
+        this.retryAfterMs = ms;
+    }
+}
+
+const retryAfterMs = res => {
+    const h = res.headers.get('retry-after');
+    if (h != null && h !== '') {
+        const sec = Number(h);
+        if (Number.isFinite(sec)) return Math.max(0, sec * 1000);
+        const at = Date.parse(h);
+        if (Number.isFinite(at)) return Math.max(0, at - Date.now());
+    }
+    return 60_000;
+};
+
+export const jmaFetch = async url => {
+    const res = await fetch(url, { cache: 'no-store' });
+    if (res.status === 429 || (res.status === 503 && res.headers.get('retry-after'))) {
+        throw new JmaRateLimit(retryAfterMs(res));
+    }
+    if (!res.ok) throw new Error(res.status);
+    return res;
+};
+
+
 const sentenceCase = s => s && s[0].toUpperCase() + s.slice(1).toLowerCase();
 
 const formatAlertName = (s, lang) => {
@@ -34,7 +62,7 @@ export const weatherItems = (jma, lang) =>
 
 export const fetchWeatherAlerts = async coords => {
     const placeRes = await fetch(`https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=${coords.latitude}&longitude=${coords.longitude}&localityLanguage=en`);
-    if (!placeRes.ok) return { city: '', country: '', prefecture: '', alerts: [] };
+    if (!placeRes.ok) throw new Error(placeRes.status);
     const place = await placeRes.json();
     const city = place.city || place.locality || place.principalSubdivision || '';
     const country = place.countryName || place.countryCode || '';
@@ -45,11 +73,12 @@ export const fetchWeatherAlerts = async coords => {
     let areas, cfg;
     try {
         [areas, cfg] = await Promise.all([
-            fetch(`${JMA}common/const/area.json`).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }),
-            fetch(`${JMA}panel/const/setting.json`).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }),
+            jmaFetch(`${JMA}common/const/area.json`).then(r => r.json()),
+            jmaFetch(`${JMA}panel/const/setting.json`).then(r => r.json()),
         ]);
-    } catch {
-        return named;
+    } catch (e) {
+        if (e instanceof JmaRateLimit) throw e;
+        throw new Error('jma');
     }
     const offices = Object.entries(areas.offices || {}).filter(([code]) => code.startsWith(pref));
     if (!offices.length) return named;
@@ -69,11 +98,13 @@ export const fetchWeatherAlerts = async coords => {
     const data = {};
     await Promise.all(urlKeys.map(async key => {
         try {
-            const res = await fetch(JMA + cfg.urls[key]);
-            if (!res.ok) return;
+            const res = await jmaFetch(JMA + cfg.urls[key]);
             data[key] = await res.json();
-        } catch {}
+        } catch (e) {
+            if (e instanceof JmaRateLimit) throw e;
+        }
     }));
+    if (urlKeys.length && urlKeys.every(key => !data[key])) throw new Error('jma-panels');
     const alerts = panels.flatMap(([key, p]) => {
         const hits = p.url
             .flatMap(u => Object.values(data[u]?.[key] || {}))
