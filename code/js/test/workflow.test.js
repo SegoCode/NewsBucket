@@ -30,6 +30,17 @@ test("pipeline scripts point to existing JavaScript entrypoints", () => {
 	}
 });
 
+test("fetch job times out instead of hanging for six hours", () => {
+	assert.match(
+		workflow,
+		/fetch-rss:\n    name: Fetch RSS\n    runs-on: ubuntu-latest\n    timeout-minutes: 10\n/,
+	);
+	assert.match(
+		workflow,
+		/name: Fetch RSS feeds\n        timeout-minutes: 8\n        run: pnpm run feeds\n/,
+	);
+});
+
 test("workflow clusters each category before one resilient translation job", () => {
 	const chain = [
 		["cluster-tech", "fetch-rss"],
