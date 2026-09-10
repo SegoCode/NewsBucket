@@ -1,39 +1,89 @@
 [
   {
-    "title": "El petróleo roza los 100 dólares tras los ataques de EE. UU. a petroleros iraníes y la escalada en Oriente Medio",
-    "summary": "La escalada militar entre EE. UU. e Irán en el Golfo dispara el precio del crudo hacia los 100 dólares y sacude los mercados globales.",
+    "title": "El petróleo supera los 100 dólares por primera vez desde julio impulsado por recortes de oferta y tensiones geopolíticas",
+    "summary": "El crudo Brent alcanza la barrera psicológica de 100 dólares mientras Arabia Saudí reduce la producción y los mercados evalúan el impacto en la inflación y las aerolíneas.",
     "source": [
-      "nasdaq.com",
-      "nikkei.com",
       "ft.com",
+      "bolsamania.com",
       "expansion.com",
-      "finance.yahoo.com"
+      "handelsblatt.com",
+      "/r/stocks"
     ],
     "count": 5
   },
   {
-    "title": "El cobre alcanza máximos históricos impulsado por la escasez de nuevas minas y la demanda de la transición energética",
-    "summary": "La oferta limitada de nuevos yacimientos y la fuerte demanda verde llevan el precio del cobre a récords, beneficiando a las grandes mineras.",
+    "title": "El BCE sube los tipos 25 puntos básicos y advierte de una inflación persistente, lastrando a las bolsas europeas",
+    "summary": "La presidenta Lagarde anuncia una subida de tipos y mantiene la puerta abierta a más endurecimiento, mientras el Dax y el Ibex reaccionan a la baja.",
     "source": [
-      "nikkei.com",
+      "handelsblatt.com",
+      "bolsamania.com",
       "expansion.com",
-      "handelsblatt.com"
+      "finance.yahoo.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "El yen se fortalece ante la creciente expectativa de subida de tipos del Banco de Japón en septiembre",
-    "summary": "La especulación sobre un inminente endurecimiento monetario del Banco de Japón impulsa al yen frente al dólar y condiciona a la bolsa de Tokio.",
+    "title": "Reguladores y economistas alertan de riesgos de burbuja y estabilidad financiera por el auge de la IA",
+    "summary": "El BIS, la ESMA y Goldman Sachs advierten de una corrección abrupta en mercados y de que el boom de inversión en IA no durará para siempre.",
     "source": [
-      "nikkei.com",
-      "handelsblatt.com",
+      "finance.yahoo.com",
+      "nasdaq.com",
+      "investing.com",
+      "handelsblatt.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Los precios de producción en EEUU suben lo esperado en agosto y Wall Street abre a la baja pendiente de la Fed",
+    "summary": "El PPI de agosto cumple previsiones pero los futuros caen mientras los inversores evalúan la trayectoria de tipos de la Reserva Federal.",
+    "source": [
+      "finance.yahoo.com",
+      "investing.com",
+      "nasdaq.com",
+      "bolsamania.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Coinbase prevé Bitcoin a 400.000 dólares para 2030 mientras las criptomonedas caen tras datos de inflación",
+    "summary": "El CEO de Coinbase mantiene su objetivo alcista a largo plazo pese a la volatilidad inmediata provocada por las cifras macroeconómicas.",
+    "source": [
+      "finance.yahoo.com",
+      "bolsamania.com",
       "expansion.com"
     ],
     "count": 3
   },
   {
-    "title": "Anthropic y OpenAI presionan para obtener calificaciones crediticias de primer nivel tras sus salidas a bolsa",
-    "summary": "Las startups de inteligencia artificial buscan ratings 'investment grade' para abaratar su financiación y escalar sus modelos de lenguaje.",
+    "title": "La ESMA advierte de que los mercados de predicción están plagados de información privilegiada",
+    "summary": "El supervisor europeo detecta prácticas de abuso de mercado en plataformas como Polymarket y pide mayor regulación.",
+    "source": [
+      "expansion.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El director financiero de Halliburton vende acciones por casi un millón de dólares",
+    "summary": "Eric Carre desprende 24.777 títulos de la petrolera en una operación comunicada a la SEC.",
+    "source": [
+      "finance.yahoo.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Las peticiones semanales de desempleo en EEUU bajan ligeramente por debajo de lo previsto",
+    "summary": "El dato refuerza la solidez del mercado laboral y reduce la presión sobre la Reserva Federal para recortar tipos agresivamente.",
+    "source": [
+      "bolsamania.com",
+      "nasdaq.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Las rentabilidades de los bonos estadounidenses saltan tras decepcionar el plan de recompra del Tesoro",
+    "summary": "La operación de 6.000 millones no calma al mercado y los rendimientos suben mientras los inversores exigen mayor prima por el riesgo fiscal.",
     "source": [
       "ft.com",
       "expansion.com"
@@ -41,11 +91,38 @@
     "count": 2
   },
   {
-    "title": "DWS vuelve a operar bajo la marca Deutsche Asset Management ocho años después de su separación",
-    "summary": "La gestora de fondos recupera la identidad de Deutsche Bank para reforzar su posicionamiento comercial y aprovechar la marca matriz.",
+    "title": "La posible nominación de Kevin Warsh a la Fed genera alertas sobre volatilidad improductiva en los mercados",
+    "summary": "Estrategas como Jan Hatzius advierten que su enfoque podría desestabilizar las expectativas de tipos y la credibilidad del banco central.",
+    "source": [
+      "nasdaq.com",
+      "finance.yahoo.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Trump promete un cheque de 5.000 dólares a cada adulto si los republicanos ganan las elecciones de mitad de mandato",
+    "summary": "La propuesta, valorada en 1,35 billones, reaviva el debate sobre estímulo fiscal y deuda pública en plena campaña electoral.",
+    "source": [
+      "bolsamania.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La jefa de la ESMA alerta de un riesgo de corrección brusca en los mercados financieros",
+    "summary": "La autoridad europea de valores advierte de que las valoraciones elevadas y la liquidez limitada podrían desencadenar ventas desordenadas.",
     "source": [
       "handelsblatt.com",
-      "ft.com"
+      "investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Coinbase confía en que la legislación CLARITY beneficiará a las criptomonedas independientemente de su aprobación",
+    "summary": "El exchange argumenta que la claridad regulatoria, ya sea por ley o por acción judicial, impulsará la adopción institucional.",
+    "source": [
+      "finance.yahoo.com",
+      "bolsamania.com"
     ],
     "count": 2
   }
