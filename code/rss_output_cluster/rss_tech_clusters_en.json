@@ -1,123 +1,146 @@
 [
   {
-    "title": "Meta launches Muse, its personal AI agent that requires user trust",
-    "summary": "Meta introduces Muse, a new personal AI agent designed to assist with daily tasks, but its adoption depends on users trusting its privacy and reliability.",
+    "title": "Apple unveils iPhone 18 Pro, foldable iPhone Duo, Apple Watch Series 12 and AirPods 5 with price hike",
+    "summary": "Apple's fall event brings its first foldable smartphone, new 2nm chips, and AI features that continuously record audio.",
     "source": [
-      "wired.com",
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "alternativeto.net",
+      "/r/hardware",
+      "/r/technology",
       "news.ycombinator.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "tomshardware.com",
+      "producthunt.com"
     ],
-    "count": 3
+    "count": 9
   },
   {
-    "title": "OpenAI accused of pressuring mathematician to exclude Anthropic co-author from discovery",
-    "summary": "An OpenAI researcher allegedly pressured an NYU mathematician to remove an Anthropic co-author from a paper on a historic mathematical problem, sparking academic controversy.",
+    "title": "Hideo Kojima's PHYSINT game moves from PlayStation to Xbox after cancellation by Sony",
+    "summary": "Sony cancels Kojima's stealth project and Xbox becomes its new publisher, leaving PlayStation without a key exclusive.",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Anthropic researcher warns of 10% probability of human extinction from AI and reveals security incidents",
+    "summary": "Warnings about AI existential risks reach mainstream media as Anthropic discloses its fourth hacking incident with Claude Opus 4.6.",
     "source": [
       "the-decoder.com",
-      "techcrunch.com",
+      "xataka.com",
+      "thehackernews.com",
+      "/r/technology",
       "wired.com"
     ],
-    "count": 3
+    "count": 5
   },
   {
-    "title": "Zelda: Ocarina of Time remake in Unreal Engine 5 shows gameplay with fog due to limitations",
-    "summary": "An unofficial Ocarina of Time remake in Unreal Engine 5 reveals gameplay with modern design and use of fog to hide original hardware limitations.",
+    "title": "Nintendo Switch 2 adds VRR on TV, reveals Metroid and Kirby games and opens Zelda edition preorders",
+    "summary": "The console receives its largest firmware update and showcases first-party titles, while the Zelda 40th anniversary edition sells out in preorders.",
     "source": [
       "elchapuzasinformatico.com",
-      "xataka.com",
+      "tomshardware.com",
+      "kite.kagi.com",
       "hardzone.es"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Modders achieve DLSS 5 and Multi Frame Gen on RTX 20, 30, and 40 series cards",
-    "summary": "Community modifications unlock DLSS 5 and multi-frame generation on RTX GPUs prior to the 50 series, improving performance up to 6 times with hybrid FSR 3.1.",
+    "title": "Intel and Hypertune launch automatic overclocking tool promising up to 60% more FPS",
+    "summary": "The software optimizes each system individually and is now available for Intel CPUs and GPUs, according to specialized media tests.",
     "source": [
-      "videocardz.com",
       "elchapuzasinformatico.com",
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Intel plans to raise its PC CPU prices by 10% in October 2026",
-    "summary": "Intel would increase its desktop processor prices by 10% in October, discontinuing low-margin models, while AMD would follow with increases in summer 2027.",
+    "title": "NVIDIA extends DLSS 5 to RTX 20 GPUs and Apple M5 Pro chip, albeit with limitations",
+    "summary": "Modders achieve frame generation on older cards and SDK 310.9.1 adds ray reconstruction preset, while on Mac performance is low.",
     "source": [
-      "tomshardware.com",
+      "hardzone.es",
       "videocardz.com",
       "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "Ryzen 9 9950X3D dies after switching to ASUS motherboard, according to reports",
-    "summary": "Users report that the Ryzen 9 9950X3D processor stops working one hour after switching to an ASUS motherboard, after a year of trouble-free use.",
+    "title": "Control Resonant demands RTX 5080 with DLSS in Performance mode to achieve 4K at 60 FPS with path tracing",
+    "summary": "Remedy's technical remaster sets a new hardware bar for full path tracing, according to analysis from three outlets.",
     "source": [
+      "hardzone.es",
       "videocardz.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Apple preparing foldable iPhone with very high price, according to Mark Gurman leaks",
-    "summary": "Apple's foldable iPhone would have an extremely high price according to Mark Gurman, and its official unveiling would be imminent.",
-    "source": [
-      "xataka.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Mistral AI raises 3 billion euros in largest European tech round",
-    "summary": "French startup Mistral AI closes a record 3 billion euro funding round, establishing itself as European leader in sovereign AI despite trailing US rivals.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Hackers steal $320 million in Bitcoin from Liquid Network and promise to return it",
-    "summary": "Attackers drain 95% of Liquid Network's federated wallet exploiting a flaw in Elements, but claim to be 'good actors' and will return funds after patching the vulnerability.",
-    "source": [
-      "thehackernews.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google AI creates predictive map of 9 billion human DNA mutations",
-    "summary": "Google's AlphaGenome Atlas maps a high-resolution chart of human genetic variants, enabling prediction of mutation effects on gene regulation.",
-    "source": [
-      "xataka.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Renault to manufacture 2027 Dacia Spring in Europe to lower cost with subsidies",
-    "summary": "The next-generation Dacia Spring will be produced in Europe from 2027 instead of China, allowing access to state aid and competing with the BYD Dolphin Surf below 20,000 euros.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DaVinci Resolve 21.1 arrives with changes in scripting, editing, and tools",
-    "summary": "The new version of DaVinci Resolve 21.1 introduces improvements in scripting, editing tools, and workflow for professional post-production.",
+    "title": "Suno launches v6 with song editing, mashups and three model tiers backed by Warner, BMG and Believe",
+    "summary": "The generative music platform adds post-production tools and closes deals with major record labels.",
     "source": [
       "alternativeto.net",
+      "producthunt.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Steam forces Australian users to verify age with credit card to buy 18+ games",
+    "summary": "The measure excludes debit cards and draws criticism over privacy and accessibility, according to Tom's Hardware and Reddit reports.",
+    "source": [
+      "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Modders bring FSR 4.1.1b optimized for RDNA 2 to RX 6000 with a single DLL file",
+    "summary": "The community beats AMD by months in enabling the new version of FidelityFX Super Resolution on previous-gen cards.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GTA VI will feature thousands of unique NPCs and collector's edition with physical disc",
+    "summary": "Each non-playable character could sustain their own game, and Rockstar plans a physical edition for collectors.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "DeepSeek V4.1 Flash drastically reduces memory needed for AI agents",
+    "summary": "The new open-source model optimizes resource usage for deployment of autonomous assistants.",
+    "source": [
+      "the-decoder.com",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Qwen 3.8 27B benchmarks: 4-bit quantization holds, 1-bit collapses",
-    "summary": "Tests on RTX 5090 show Qwen 3.8 27B maintains performance at 4-bit but fails at 1-bit, revealing software and inference bottlenecks beyond VRAM.",
+    "title": "Meta launches Muse, a personal AI agent that acts on user's behalf via WhatsApp",
+    "summary": "The assistant can shop, write emails and negotiate prices, and arrives with paid subscription tiers.",
     "source": [
-      "news.ycombinator.com",
-      "tomshardware.com"
+      "kite.kagi.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI and Samsung deepen alliance to manufacture next-gen AI chips",
+    "summary": "The collaboration could expand beyond memory and would mean dual supply with TSMC to cover enormous processor demand.",
+    "source": [
+      "kite.kagi.com",
+      "/r/hardware"
     ],
     "count": 2
   }

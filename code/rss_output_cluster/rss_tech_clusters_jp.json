@@ -1,123 +1,146 @@
 [
   {
-    "title": "Meta、個人用AIエージェント「Muse」を発表、ユーザーの信頼が鍵",
-    "summary": "Metaは、日常業務を支援する新しい個人用AIエージェント「Muse」を発表したが、その普及はユーザーがプライバシーと信頼性を信頼できるかどうかにかかっている。",
+    "title": "AppleがiPhone 18 Pro、折りたたみ式iPhone Duo、Apple Watch Series 12、AirPods 5を発表、価格上昇も",
+    "summary": "Appleの秋イベントで初の折りたたみスマートフォン、新しい2nmチップ、継続的に音声を録音するAI機能が登場。",
     "source": [
-      "wired.com",
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "alternativeto.net",
+      "/r/hardware",
+      "/r/technology",
       "news.ycombinator.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "tomshardware.com",
+      "producthunt.com"
     ],
-    "count": 3
+    "count": 9
   },
   {
-    "title": "OpenAI、数学者に圧力をかけてAnthropicの共著者を歴史的数学問題の論文から外させたとの告発",
-    "summary": "OpenAIの研究者がNYUの数学者に圧力をかけ、歴史的な数学問題に関する論文からAnthropicの共著者を外させたとされ、学術界で物議を醸している。",
+    "title": "小島秀夫氏のゲーム『PHYSINT』がSonyによるキャンセル後、PlayStationからXboxへ移行",
+    "summary": "Sonyが小島氏のステルスプロジェクトをキャンセルし、Xboxが新たなパブリッシャーとなり、PlayStationは重要な独占タイトルを失う。",
+    "source": [
+      "/r/technology",
+      "news.ycombinator.com",
+      "elchapuzasinformatico.com",
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Anthropicの研究者がAIによる人類絶滅の確率10%を警告し、セキュリティインシデントを明らかに",
+    "summary": "AIの実存的リスクに関する警告が主要メディアに届く中、AnthropicがClaude Opus 4.6での4回目のハッキングインシデントを公表。",
     "source": [
       "the-decoder.com",
-      "techcrunch.com",
+      "xataka.com",
+      "thehackernews.com",
+      "/r/technology",
       "wired.com"
     ],
-    "count": 3
+    "count": 5
   },
   {
-    "title": "『ゼルダの伝説 時のオカリナ』のUnreal Engine 5リメイク、霧で元ハードの制限を隠すゲームプレイを公開",
-    "summary": "非公式のUnreal Engine 5版『時のオカリナ』リメイクが、モダンなデザインと元ハードウェアの制限を隠すための霧を用いたゲームプレイを披露した。",
+    "title": "Nintendo Switch 2がTVでのVRR対応、MetroidとKirbyの新作発表、ゼルダエディションの予約開始",
+    "summary": "コンソールが最大のファームウェアアップデートを受け、ファーストパーティタイトルを披露、ゼルダ40周年記念エディションが予約段階で完売。",
     "source": [
       "elchapuzasinformatico.com",
-      "xataka.com",
+      "tomshardware.com",
+      "kite.kagi.com",
       "hardzone.es"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "モッダーがRTX 20/30/40シリーズでDLSS 5とマルチフレーム生成を実現",
-    "summary": "コミュニティによる改造で、RTX 50シリーズ以前のGPUでもDLSS 5とマルチフレーム生成が可能になり、FSR 3.1ハイブリッドと組み合わせて最大6倍の性能向上を達成。",
+    "title": "IntelとHypertuneが自動オーバークロックツールを発売、最大60%のFPS向上を謳う",
+    "summary": "ソフトウェアが各システムを個別に最適化し、IntelのCPUとGPU向けにすでに利用可能、専門メディアのテストによると。",
     "source": [
-      "videocardz.com",
       "elchapuzasinformatico.com",
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Intel、2026年10月にデスクトップCPU価格を10%値上げへ",
-    "summary": "Intelは2026年10月にデスクトッププロセッサの価格を10%引き上げ、低利益モデルを廃止する計画。AMDも2027年夏に追随すると見られる。",
+    "title": "NVIDIAがDLSS 5をRTX 20シリーズGPUとApple M5 Proチップに拡張、ただし制限付き",
+    "summary": "Modderが古いカードでフレーム生成を実現し、SDK 310.9.1がレイ再構築プリセットを追加、Macでは性能が低い。",
     "source": [
-      "tomshardware.com",
+      "hardzone.es",
       "videocardz.com",
       "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "Ryzen 9 9950X3D、ASUSマザーボード交換後に故障との報告",
-    "summary": "ユーザー報告によると、Ryzen 9 9950X3DがASUSマザーボードへの交換から1時間後に動作しなくなったとのこと。それまでは1年間問題なく使用されていた。",
+    "title": "『Control Resonant』がRTX 5080とDLSSパフォーマンスモードを要求、パストレーシングで4K/60FPSを達成",
+    "summary": "Remedyのテクニカルリマスターが完全パストレーシングの新たなハードウェア基準を設定、3メディアの分析によると。",
     "source": [
+      "hardzone.es",
       "videocardz.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Apple、極めて高価な折りたたみiPhoneを準備中とMark Gurmanが報道",
-    "summary": "Mark Gurmanによると、Appleの折りたたみiPhoneは非常に高い価格設定になる見込みで、公式発表は間近とされている。",
-    "source": [
-      "xataka.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "仏Mistral AI、欧州最大の30億ユーロ資金調達を完了",
-    "summary": "フランスのスタートアップMistral AIが記録的な30億ユーロの資金調達ラウンドを完了し、米国ライバルに後れを取りつつも欧州の主権的AIリーダーとしての地位を固めた。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ハッカーがLiquid Networkから3.2億ドル相当のビットコインを窃取、返還を約束",
-    "summary": "攻撃者がElementsの脆弱性を悪用し、Liquid Networkの連合ウォレットの95%を空にしたが、『善意のハッカー』を名乗り、脆弱性修正後に資金を返還すると主張。",
-    "source": [
-      "thehackernews.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google AI、90億のヒトDNA変異の予測マップを作成",
-    "summary": "GoogleのAlphaGenome Atlasがヒト遺伝子変異の高解像度マップを描き、遺伝子調節における変異の影響を予測可能にした。",
-    "source": [
-      "xataka.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ルノー、次期Dacia Springを2027年から欧州生産に切り替え、補助金活用で2万ユーロ以下を目指す",
-    "summary": "次世代Dacia Springの生産を2027年から中国から欧州に移管し、国家補助金を活用してBYD Dolphin Surfと2万ユーロ以下の価格帯で競合する計画。",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DaVinci Resolve 21.1リリース、スクリプティング、編集、ツールを改善",
-    "summary": "DaVinci Resolve 21.1の新バージョンでは、スクリプティング、編集ツール、プロフェッショナルなポストプロダクション向けワークフローが強化された。",
+    "title": "Sunoがv6をリリース、楽曲編集、マッシュアップ、Warner、BMG、Believe支援の3モデル階層を搭載",
+    "summary": "生成音楽プラットフォームがポストプロダクションツールを追加し、大手レコードレーベルと契約を締結。",
     "source": [
       "alternativeto.net",
+      "producthunt.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Steamがオーストラリアユーザーにクレジットカードでの年齢確認を義務付け、18+ゲーム購入時に",
+    "summary": "デビットカードが除外され、プライバシーとアクセシビリティの観点から批判が噴出、Tom's HardwareとRedditの報道によると。",
+    "source": [
+      "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ModderがRDNA 2向けに最適化されたFSR 4.1.1bを単一DLLファイルでRX 6000シリーズに移植",
+    "summary": "コミュニティがAMDより数ヶ月早く、前世代カードで新版FidelityFX Super Resolutionを有効化。",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GTA VIが数千のユニークNPCと物理ディスク付きコレクターズエディションを搭載",
+    "summary": "各NPCが独自のゲームを持つ可能性があり、Rockstarがコレクター向け物理版を計画。",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "DeepSeek V4.1 FlashがAIエージェントに必要なメモリを大幅削減",
+    "summary": "新オープンソースモデルが自律型アシスタントの展開に向けリソース使用を最適化。",
+    "source": [
+      "the-decoder.com",
       "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "Qwen 3.8 27Bベンチマーク：4ビット量子化は耐えるが1ビットでは崩壊",
-    "summary": "RTX 5090でのテストで、Qwen 3.8 27Bは4ビット量子化では性能を維持するが1ビットでは失敗し、VRAMを超えたソフトウェアと推論のボトルネックが明らかに。",
+    "title": "MetaがMuseを発表、WhatsAppを通じてユーザーの代理で行動する個人AIエージェント",
+    "summary": "アシスタントは購入、メール作成、価格交渉が可能で、有料サブスクリプション階層付きで提供。",
     "source": [
-      "news.ycombinator.com",
-      "tomshardware.com"
+      "kite.kagi.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAIとSamsungが次世代AIチップ製造で提携を深化",
+    "summary": "協力はメモリ以外にも拡大する可能性があり、TSMCとの二重供給体制で膨大なプロセッサ需要に対応へ。",
+    "source": [
+      "kite.kagi.com",
+      "/r/hardware"
     ],
     "count": 2
   }
