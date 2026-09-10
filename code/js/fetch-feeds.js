@@ -70,6 +70,23 @@ export const buildFeedOutput = ({ results, urls, fetchedAt }) => {
 
 const fetchFeeds = async () => {
 	let lastReddit = 0;
+	let redditChain = Promise.resolve();
+	const fetchOne = (url) => {
+		if (!url.includes("reddit.com")) {
+			return parser.parseURL(url).then((feed) => mapFeedItems(feed));
+		}
+		const next = redditChain.then(async () => {
+			const wait = 60_000 - (Date.now() - lastReddit);
+			if (wait > 0) await delay(wait);
+			lastReddit = Date.now();
+			return mapFeedItems(await parser.parseURL(url));
+		});
+		redditChain = next.then(
+			() => {},
+			() => {},
+		);
+		return next;
+	};
 	const files = fs
 		.readdirSync(INPUT_DIR)
 		.filter((file) => file.endsWith(".txt"));
@@ -80,17 +97,7 @@ const fetchFeeds = async () => {
 		const urls = parseFeedUrls(
 			fs.readFileSync(path.join(INPUT_DIR, file), "utf-8"),
 		);
-		const results = await Promise.allSettled(
-			urls.map(async (url) => {
-				if (url.includes("reddit.com")) {
-					const wait = 60_000 - (Date.now() - lastReddit);
-					if (wait > 0) await delay(wait);
-					lastReddit = Date.now();
-				}
-				const feed = await parser.parseURL(url);
-				return mapFeedItems(feed);
-			}),
-		);
+		const results = await Promise.allSettled(urls.map((url) => fetchOne(url)));
 
 		const output = buildFeedOutput({
 			results,
@@ -118,4 +125,5 @@ if (
 	fileURLToPath(import.meta.url) === path.resolve(process.argv[1])
 ) {
 	await fetchFeeds();
+	process.exit(0);
 }
