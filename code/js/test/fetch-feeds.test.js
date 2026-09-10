@@ -12,6 +12,7 @@ test("parses feed URLs ignoring comments and blank lines", () => {
 test("derives domain and Reddit community source names", () => {
 	assert.equal(sourceName("https://www.example.com/rss"), "example.com");
 	assert.equal(sourceName("https://old.reddit.com/r/gaming/.rss"), "/r/gaming");
+	assert.equal(sourceName("https://www.reddit.com/r/stocks/.rss"), "/r/stocks");
 });
 
 test("deduplicates and sorts fulfilled feeds while preserving errors", () => {
