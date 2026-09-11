@@ -1,62 +1,98 @@
 [
   {
-    "title": "El petróleo supera los 100 dólares por primera vez desde julio impulsado por recortes de oferta y tensiones geopolíticas",
-    "summary": "El crudo Brent alcanza la barrera psicológica de 100 dólares mientras Arabia Saudí reduce la producción y los mercados evalúan el impacto en la inflación y las aerolíneas.",
+    "title": "Las bolsas mundiales se hunden por el encarecimiento del petróleo, el alza de tipos y el miedo a la inflación",
+    "summary": "Los principales índices de Asia, Europa y EEUU caen con fuerza mientras el crudo supera los 100 dólares y los bancos centrales mantienen una postura restrictiva.",
     "source": [
+      "nasdaq.com",
+      "nikkei.com",
+      "bolsamania.com",
+      "handelsblatt.com",
+      "expansion.com",
+      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 7
+  },
+  {
+    "title": "El petróleo supera los 100 dólares por la escalada de tensiones en Oriente Próximo y los recortes de la OPEP+",
+    "summary": "El Brent y el WTI alcanzan máximos de tres meses ante los ataques hutíes en el Mar Rojo, la tensión entre EEUU e Irán y la reducción de producción de Arabia Saudí.",
+    "source": [
+      "nikkei.com",
       "ft.com",
       "bolsamania.com",
+      "/r/stocks",
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Grandes laboratorios de IA refuerzan la seguridad y expanden infraestructura mientras reguladores alertan de riesgos sistémicos",
+    "summary": "Anthropic y OpenAI anuncian nuevas medidas de seguridad, Microsoft planea 38 GW de centros de datos para 2032 y el BIS advierte de vulnerabilidades financieras por la IA.",
+    "source": [
+      "nikkei.com",
+      "investing.com",
+      "ft.com",
       "expansion.com",
       "handelsblatt.com",
       "/r/stocks"
     ],
-    "count": 5
+    "count": 6
   },
   {
-    "title": "El BCE sube los tipos 25 puntos básicos y advierte de una inflación persistente, lastrando a las bolsas europeas",
-    "summary": "La presidenta Lagarde anuncia una subida de tipos y mantiene la puerta abierta a más endurecimiento, mientras el Dax y el Ibex reaccionan a la baja.",
+    "title": "El BCE sube los tipos a terreno restrictivo y deja la puerta abierta a más endurecimiento",
+    "summary": "Lagarde justifica el alza como necesaria para combatir la inflación y señala que la política monetaria seguirá siendo restrictiva, presionando a la banca y la deuda.",
     "source": [
+      "expansion.com",
       "handelsblatt.com",
       "bolsamania.com",
-      "expansion.com",
-      "finance.yahoo.com"
+      "nikkei.com"
     ],
     "count": 4
   },
   {
-    "title": "Reguladores y economistas alertan de riesgos de burbuja y estabilidad financiera por el auge de la IA",
-    "summary": "El BIS, la ESMA y Goldman Sachs advierten de una corrección abrupta en mercados y de que el boom de inversión en IA no durará para siempre.",
+    "title": "La venta masiva de bonos dispara las rentabilidades a máximos en EEUU, Europa y Japón",
+    "summary": "Los rendimientos soberanos escalan ante la resistencia de los bancos centrales a bajar tipos y el repunte del petróleo, avivando el temor a una crisis de deuda.",
     "source": [
-      "finance.yahoo.com",
-      "nasdaq.com",
-      "investing.com",
-      "handelsblatt.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Los precios de producción en EEUU suben lo esperado en agosto y Wall Street abre a la baja pendiente de la Fed",
-    "summary": "El PPI de agosto cumple previsiones pero los futuros caen mientras los inversores evalúan la trayectoria de tipos de la Reserva Federal.",
-    "source": [
-      "finance.yahoo.com",
-      "investing.com",
-      "nasdaq.com",
-      "bolsamania.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Coinbase prevé Bitcoin a 400.000 dólares para 2030 mientras las criptomonedas caen tras datos de inflación",
-    "summary": "El CEO de Coinbase mantiene su objetivo alcista a largo plazo pese a la volatilidad inmediata provocada por las cifras macroeconómicas.",
-    "source": [
-      "finance.yahoo.com",
-      "bolsamania.com",
+      "nikkei.com",
+      "ft.com",
+      "handelsblatt.com",
       "expansion.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Oracle dispara su beneficio un 60% hasta máximos históricos gracias a la nube y la IA",
+    "summary": "La tecnológica supera las previsiones en el trimestre mayo-agosto y confirma la solidez del gasto empresarial en inteligencia artificial.",
+    "source": [
+      "nasdaq.com",
+      "nikkei.com",
+      "bolsamania.com"
     ],
     "count": 3
   },
   {
-    "title": "La ESMA advierte de que los mercados de predicción están plagados de información privilegiada",
-    "summary": "El supervisor europeo detecta prácticas de abuso de mercado en plataformas como Polymarket y pide mayor regulación.",
+    "title": "Bitcoin cae ligeramente mientras Europa endurece la fiscalidad cripto y la banca rechaza clientes por blanqueo",
+    "summary": "El precio del Bitcoin se devalúa un 0,25%, Alemania planea mayores impuestos a las ganancias cripto y las fiduciarias evitan a inversores de cripto por riesgos de lavado.",
+    "source": [
+      "expansion.com",
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Conmemoración del 25 aniversario del 11-S con ceremonias y reflexiones sobre su legado en seguridad y mercados",
+    "summary": "La ONU y Nueva York recuerdan a las víctimas mientras analistas destacan las lecciones perdurables para la estabilidad financiera y la geopolítica.",
+    "source": [
+      "nikkei.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La ESMA alerta de que los mercados de predicción están plagados de información privilegiada",
+    "summary": "El regulador europeo advierte de la falta de transparencia y manipulación en las plataformas de apuestas sobre eventos futuros.",
     "source": [
       "expansion.com",
       "ft.com"
@@ -64,65 +100,11 @@
     "count": 2
   },
   {
-    "title": "El director financiero de Halliburton vende acciones por casi un millón de dólares",
-    "summary": "Eric Carre desprende 24.777 títulos de la petrolera en una operación comunicada a la SEC.",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las peticiones semanales de desempleo en EEUU bajan ligeramente por debajo de lo previsto",
-    "summary": "El dato refuerza la solidez del mercado laboral y reduce la presión sobre la Reserva Federal para recortar tipos agresivamente.",
-    "source": [
-      "bolsamania.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Las rentabilidades de los bonos estadounidenses saltan tras decepcionar el plan de recompra del Tesoro",
-    "summary": "La operación de 6.000 millones no calma al mercado y los rendimientos suben mientras los inversores exigen mayor prima por el riesgo fiscal.",
-    "source": [
-      "ft.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La posible nominación de Kevin Warsh a la Fed genera alertas sobre volatilidad improductiva en los mercados",
-    "summary": "Estrategas como Jan Hatzius advierten que su enfoque podría desestabilizar las expectativas de tipos y la credibilidad del banco central.",
-    "source": [
-      "nasdaq.com",
-      "finance.yahoo.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Trump promete un cheque de 5.000 dólares a cada adulto si los republicanos ganan las elecciones de mitad de mandato",
-    "summary": "La propuesta, valorada en 1,35 billones, reaviva el debate sobre estímulo fiscal y deuda pública en plena campaña electoral.",
+    "title": "Uber obtiene licencia de la DGT para operar robotaxis en Madrid",
+    "summary": "La plataforma de movilidad recibe autorización para probar vehículos autónomos en la capital española, avanzando en su estrategia de conducción autónoma.",
     "source": [
       "bolsamania.com",
       "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La jefa de la ESMA alerta de un riesgo de corrección brusca en los mercados financieros",
-    "summary": "La autoridad europea de valores advierte de que las valoraciones elevadas y la liquidez limitada podrían desencadenar ventas desordenadas.",
-    "source": [
-      "handelsblatt.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Coinbase confía en que la legislación CLARITY beneficiará a las criptomonedas independientemente de su aprobación",
-    "summary": "El exchange argumenta que la claridad regulatoria, ya sea por ley o por acción judicial, impulsará la adopción institucional.",
-    "source": [
-      "finance.yahoo.com",
-      "bolsamania.com"
     ],
     "count": 2
   }
