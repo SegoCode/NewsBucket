@@ -1,62 +1,98 @@
 [
   {
-    "title": "Oil surpasses $100 for first time since July driven by supply cuts and geopolitical tensions",
-    "summary": "Brent crude hits the psychological $100 barrier as Saudi Arabia cuts production and markets assess impact on inflation and airlines.",
+    "title": "Global stocks plunge on rising oil prices, rate hikes, and inflation fears",
+    "summary": "Major indices in Asia, Europe, and the US fall sharply as crude tops $100 and central banks maintain a restrictive stance.",
     "source": [
+      "nasdaq.com",
+      "nikkei.com",
+      "bolsamania.com",
+      "handelsblatt.com",
+      "expansion.com",
+      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 7
+  },
+  {
+    "title": "Oil tops $100 on escalating Middle East tensions and OPEC+ cuts",
+    "summary": "Brent and WTI hit three-month highs amid Houthi attacks in the Red Sea, US-Iran tensions, and Saudi production cuts.",
+    "source": [
+      "nikkei.com",
       "ft.com",
       "bolsamania.com",
+      "/r/stocks",
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "Major AI labs bolster safety and expand infrastructure as regulators warn of systemic risks",
+    "summary": "Anthropic and OpenAI announce new safety measures, Microsoft plans 38 GW of data centers by 2032, and the BIS warns of AI-driven financial vulnerabilities.",
+    "source": [
+      "nikkei.com",
+      "investing.com",
+      "ft.com",
       "expansion.com",
       "handelsblatt.com",
       "/r/stocks"
     ],
-    "count": 5
+    "count": 6
   },
   {
-    "title": "ECB raises rates 25 basis points and warns of persistent inflation, weighing on European stocks",
-    "summary": "President Lagarde announces rate hike and keeps door open to further tightening, while Dax and Ibex react lower.",
+    "title": "ECB raises rates to restrictive territory and leaves door open to further tightening",
+    "summary": "Lagarde justifies the hike as necessary to combat inflation and signals monetary policy will remain restrictive, pressuring banks and debt.",
     "source": [
+      "expansion.com",
       "handelsblatt.com",
       "bolsamania.com",
-      "expansion.com",
-      "finance.yahoo.com"
+      "nikkei.com"
     ],
     "count": 4
   },
   {
-    "title": "Regulators and economists warn of bubble risks and financial stability from AI boom",
-    "summary": "BIS, ESMA and Goldman Sachs warn of abrupt market correction and that AI investment boom won't last forever.",
+    "title": "Massive bond selloff drives yields to highs in US, Europe, and Japan",
+    "summary": "Sovereign yields surge as central banks resist rate cuts and oil rebounds, fueling fears of a debt crisis.",
     "source": [
-      "finance.yahoo.com",
-      "nasdaq.com",
-      "investing.com",
-      "handelsblatt.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "US producer prices rise as expected in August and Wall Street opens lower awaiting Fed",
-    "summary": "August PPI meets forecasts but futures fall as investors assess Federal Reserve rate path.",
-    "source": [
-      "finance.yahoo.com",
-      "investing.com",
-      "nasdaq.com",
-      "bolsamania.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Coinbase forecasts Bitcoin at $400,000 by 2030 as cryptocurrencies fall after inflation data",
-    "summary": "Coinbase CEO maintains long-term bullish target despite immediate volatility triggered by macroeconomic figures.",
-    "source": [
-      "finance.yahoo.com",
-      "bolsamania.com",
+      "nikkei.com",
+      "ft.com",
+      "handelsblatt.com",
       "expansion.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Oracle's profit surges 60% to record high on cloud and AI",
+    "summary": "The tech giant beats estimates in the May-August quarter and confirms strength in enterprise AI spending.",
+    "source": [
+      "nasdaq.com",
+      "nikkei.com",
+      "bolsamania.com"
     ],
     "count": 3
   },
   {
-    "title": "ESMA warns that prediction markets are rife with insider information",
-    "summary": "European supervisor detects market abuse practices on platforms like Polymarket and calls for greater regulation.",
+    "title": "Bitcoin dips slightly as Europe tightens crypto taxation and banks reject clients over money laundering",
+    "summary": "Bitcoin price falls 0.25%, Germany plans higher taxes on crypto gains, and fiduciaries avoid crypto investors over money laundering risks.",
+    "source": [
+      "expansion.com",
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "25th anniversary of 9/11 marked with ceremonies and reflections on its legacy in security and markets",
+    "summary": "The UN and New York remember victims as analysts highlight enduring lessons for financial stability and geopolitics.",
+    "source": [
+      "nikkei.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ESMA warns prediction markets are rife with insider information",
+    "summary": "The European regulator warns of lack of transparency and manipulation on platforms betting on future events.",
     "source": [
       "expansion.com",
       "ft.com"
@@ -64,65 +100,11 @@
     "count": 2
   },
   {
-    "title": "Halliburton CFO sells shares worth nearly $1 million",
-    "summary": "Eric Carre offloads 24,777 shares of the oil company in a transaction reported to the SEC.",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "US weekly jobless claims fall slightly below expectations",
-    "summary": "Data reinforces labor market strength and reduces pressure on Federal Reserve to cut rates aggressively.",
-    "source": [
-      "bolsamania.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "US bond yields jump after Treasury buyback plan disappoints",
-    "summary": "The $6 billion operation fails to calm market and yields rise as investors demand higher premium for fiscal risk.",
-    "source": [
-      "ft.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Potential nomination of Kevin Warsh to Fed raises alerts about unproductive market volatility",
-    "summary": "Strategists like Jan Hatzius warn his approach could destabilize rate expectations and central bank credibility.",
-    "source": [
-      "nasdaq.com",
-      "finance.yahoo.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Trump promises $5,000 check to every adult if Republicans win midterm elections",
-    "summary": "The proposal, valued at $1.35 trillion, reignites debate over fiscal stimulus and public debt amid election campaign.",
+    "title": "Uber obtains DGT license to operate robotaxis in Madrid",
+    "summary": "The mobility platform receives authorization to test autonomous vehicles in the Spanish capital, advancing its self-driving strategy.",
     "source": [
       "bolsamania.com",
       "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ESMA chief warns of risk of sharp correction in financial markets",
-    "summary": "European securities authority warns that elevated valuations and limited liquidity could trigger disorderly selling.",
-    "source": [
-      "handelsblatt.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Coinbase confident that CLARITY legislation will benefit cryptocurrencies regardless of its passage",
-    "summary": "The exchange argues that regulatory clarity, whether by law or court action, will drive institutional adoption.",
-    "source": [
-      "finance.yahoo.com",
-      "bolsamania.com"
     ],
     "count": 2
   }

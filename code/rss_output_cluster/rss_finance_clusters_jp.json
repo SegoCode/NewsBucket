@@ -1,62 +1,98 @@
 [
   {
-    "title": "原油が7月以来初めて100ドルを突破、供給削減と地政学的緊張が後押し",
-    "summary": "ブレント原油が心理的節目の100ドルに到達、サウジアラビアが減産する中、市場はインフレと航空会社への影響を評価。",
+    "title": "世界の株価が石油高、利上げ、インフレ懸念で急落",
+    "summary": "アジア、欧州、米国の主要指数が大幅下落、原油が100ドルを超え、中央銀行が引き締め姿勢を維持する中で。",
     "source": [
+      "nasdaq.com",
+      "nikkei.com",
+      "bolsamania.com",
+      "handelsblatt.com",
+      "expansion.com",
+      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 7
+  },
+  {
+    "title": "中東緊張の高まりとOPEC+減産で石油が100ドル突破",
+    "summary": "フーシ派の紅海攻撃、米イラン緊張、サウジアラビアの減産を受け、ブレントとWTIが3カ月ぶり高値。",
+    "source": [
+      "nikkei.com",
       "ft.com",
       "bolsamania.com",
+      "/r/stocks",
+      "handelsblatt.com",
+      "expansion.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "大手AI研究所が安全性強化とインフラ拡大、規制当局はシステミックリスクを警告",
+    "summary": "AnthropicとOpenAIが新安全対策を発表、マイクロソフトは2032年までに38GWのデータセンターを計画、BISがAIによる金融脆弱性を警告。",
+    "source": [
+      "nikkei.com",
+      "investing.com",
+      "ft.com",
       "expansion.com",
       "handelsblatt.com",
       "/r/stocks"
     ],
-    "count": 5
+    "count": 6
   },
   {
-    "title": "ECBが利上げ0.25%ポイント、持続的なインフレを警告し欧州株を圧迫",
-    "summary": "ラガルド総裁が利上げを発表し、更なる引き締めの余地を残す中、DAXとIBEXは下落で反応。",
+    "title": "ECBが利上げで制限的領域へ、更なる引き締めの余地残す",
+    "summary": "ラガルド総裁はインフレ対策で利上げを正当化、金融政策が引き締め的であり続けると表明、銀行と債務に圧力。",
     "source": [
+      "expansion.com",
       "handelsblatt.com",
       "bolsamania.com",
-      "expansion.com",
-      "finance.yahoo.com"
+      "nikkei.com"
     ],
     "count": 4
   },
   {
-    "title": "規制当局とエコノミスト、AIブームによるバブルと金融安定リスクを警告",
-    "summary": "BIS、ESMA、ゴールドマン・サックスが市場の急激な調整とAI投資ブームの永続性なしを警告。",
+    "title": "大量債券売りで米欧日の利回りが最高水準に急騰",
+    "summary": "中央銀行の利下げ抵抗と石油高騰で国債利回りが上昇、債務危機への懸念が高まる。",
     "source": [
-      "finance.yahoo.com",
-      "nasdaq.com",
-      "investing.com",
-      "handelsblatt.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "米生産者物価指数、8月は予想通り上昇、ウォール街はFED注視で下落スタート",
-    "summary": "8月PPIは予想通りも先物は下落、投資家はFRBの利上げ軌道を評価中。",
-    "source": [
-      "finance.yahoo.com",
-      "investing.com",
-      "nasdaq.com",
-      "bolsamania.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "コインベース、2030年にビットコイン40万ドル予測、インフレデータ受け仮想通貨下落の中",
-    "summary": "コインベースCEO、マクロ指標による即時の変動にもかかわらず長期的な強気目標を維持。",
-    "source": [
-      "finance.yahoo.com",
-      "bolsamania.com",
+      "nikkei.com",
+      "ft.com",
+      "handelsblatt.com",
       "expansion.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "オラクル、クラウドとAIで利益60%増の過去最高益",
+    "summary": "5-8月期決算が予想上回り、企業のAI支出の堅調さを確認。",
+    "source": [
+      "nasdaq.com",
+      "nikkei.com",
+      "bolsamania.com"
     ],
     "count": 3
   },
   {
+    "title": "ビットコイン小幅安、欧州が暗号資産課税強化、銀行がマネロン懸念で顧客拒否",
+    "summary": "ビットコインが0.25%下落、ドイツが暗号資産利益への増税計画、受託機関がマネーロンダリングリスクで暗号投資家を回避。",
+    "source": [
+      "expansion.com",
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "9.11テロ25周年、式典と安全保障・市場への遺産を振り返る",
+    "summary": "国連とニューヨークが犠牲者を追悼、アナリストが金融安定と地政学への永続的教訓を強調。",
+    "source": [
+      "nikkei.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
     "title": "ESMA、予測市場がインサイダー情報で溢れていると警告",
-    "summary": "欧州監督機関、Polymarketなどのプラットフォームで市場乱用行為を検出、更なる規制を要請。",
+    "summary": "欧州規制当局、将来イベント賭けプラットフォームの透明性欠如と操作を警告。",
     "source": [
       "expansion.com",
       "ft.com"
@@ -64,65 +100,11 @@
     "count": 2
   },
   {
-    "title": "ハリバートンCFO、約100万ドル分の株式を売却",
-    "summary": "エリック・カレ氏、石油大手の24,777株をSEC報告取引で放出。",
-    "source": [
-      "finance.yahoo.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "米週間新規失業保険申請件数、予想をわずかに下回る",
-    "summary": "このデータは労働市場の強さを裏付け、FRBの積極的利下げ圧力を軽減。",
-    "source": [
-      "bolsamania.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "米国債利回りが急騰、財務省の買い戻し計画が失望させる",
-    "summary": "60億ドルの操作も市場を落ち着かせず、投資家が財政リスクプレミアムを要求し利回り上昇。",
-    "source": [
-      "ft.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ケビン・ウォッシュ氏のFRB指名可能性、市場に非生産的なボラティリティ懸念",
-    "summary": "ヤン・ハッチウス氏らストラテジスト、同氏のアプローチが金利期待と中央銀行の信頼性を不安定化させると警告。",
-    "source": [
-      "nasdaq.com",
-      "finance.yahoo.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "トランプ氏、共和党が中間選挙で勝利なら成人1人当たり5,000ドルの小切手を約束",
-    "summary": "1.35兆ドル規模の提案、選挙戦真っ只中で財政刺激と公的債務の議論を再燃。",
+    "title": "Uber、DGTからマドリードでロボタクシー運行許可を取得",
+    "summary": "モビリティプラットフォームがスペイン首都で自動運転車試験の許可取得、自動運転戦略を前進。",
     "source": [
       "bolsamania.com",
       "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ESMAトップ、金融市場の急激な調整リスクを警告",
-    "summary": "欧州証券市場庁、高いバリュエーションと限定的な流動性が無秩序な売りを引き起こす可能性を指摘。",
-    "source": [
-      "handelsblatt.com",
-      "investing.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "コインベース、CLARITY法案が成立可否にかかわらず仮想通貨に利益と確信",
-    "summary": "取引所は、立法または司法判断による規制の明確化が機関投資家の採用を促進すると主張。",
-    "source": [
-      "finance.yahoo.com",
-      "bolsamania.com"
     ],
     "count": 2
   }
