@@ -1,172 +1,82 @@
 [
   {
-    "title": "Apple presenta el iPhone Duo, su primer plegable con doble pantalla y chip A20 Pro a partir de 2.000 dólares",
-    "summary": "El dispositivo llega tras años de espera y destaca por su integración de software, mientras el nuevo chip A20 Pro alcanza casi 5 GHz en benchmarks.",
+    "title": "La OTAN frustra un plan ruso para sabotear cables submarinos con un 'arma secreta'",
+    "summary": "Una operación encubierta de la OTAN descubre un ejercicio de entrenamiento ruso que simulaba el despliegue de un arma secreta contra infraestructura crítica en Noruega.",
     "source": [
-      "tomshardware.com",
-      "xataka.com",
-      "alternativeto.net",
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "AMD lanza los Ryzen 5 5500F y 7500 para abaratar la construcción de PC",
-    "summary": "AMD presenta nuevos procesadores Zen 3 y Zen 4 de bajo coste para contrarrestar los altos precios de la memoria RAM.",
-    "source": [
-      "/r/hardware",
-      "videocardz.com",
+      "/r/technology",
       "tomshardware.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "China acelera el desarrollo de chips de IA propios ante las restricciones de EE.UU. y la escasez de memoria HBM",
-    "summary": "Empresas como Biren crecen un 2.000% mientras EE.UU. acusa a China de copiar su IA y propone entregar modelos degradados.",
+    "title": "NVIDIA sortea cuatro RTX 5090 personalizadas de NBA 2K27 entre propietarios de tarjetas RTX 50",
+    "summary": "La promoción requiere poseer una GPU de la serie RTX 50 y el juego para participar en el sorteo de las exclusivas tarjetas gráficas.",
     "source": [
-      "xataka.com",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "hardzone.es",
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Meta lanza su agente Muse, que compra, negocia y gestiona correos por WhatsApp, y le quita el nombre a la banda Muse",
-    "summary": "El asistente de IA se convierte en la segunda app más usada en EE.UU., mientras Meta se apropia del identificador @muse en redes sociales.",
+    "title": "Anthropic bloquea cuentas estatales que usaban Claude para investigar armas biológicas",
+    "summary": "La empresa detectó y detuvo a actores patrocinados por estados que intentaban diseñar virus más letales mediante su modelo de IA, evadiendo controles regionales.",
     "source": [
-      "techcrunch.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Usuarios demandan a Anthropic por publicidad engañosa en sus suscripciones a Claude",
+    "summary": "Una demanda colectiva acusa a la empresa de inflar artificialmente los límites de uso prometidos en sus planes de pago.",
+    "source": [
       "/r/technology",
       "the-decoder.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Intel y Hypertune lanzan software de overclock automático que promete hasta un 28% más de FPS en juegos",
-    "summary": "La herramienta ajusta frecuencias y voltajes de CPU y GPU en tiempo real, aunque requiere una suscripción de pago para funcionar.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Sony cancela PHYSINT de Hideo Kojima y Xbox se convierte en su nuevo editor",
-    "summary": "El proyecto del creador de Metal Gear encuentra refugio en la plataforma de Microsoft tras ser descartado por PlayStation.",
+    "title": "Apple prepara el iPhone Duo, un plegable tipo Surface Duo que podría capturar el 25 % del mercado al lanzamiento",
+    "summary": "Informes sugieren que el dispositivo copiaría el concepto de doble pantalla de Microsoft y alcanzaría cinco millones de unidades vendidas inicialmente.",
     "source": [
       "elchapuzasinformatico.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Control Resonant exige una RTX 5080 con DLSS en Rendimiento para alcanzar 4K a 60 FPS con path tracing",
-    "summary": "El remaster del juego de Remedy establece un nuevo listón gráfico, requiriendo hardware de gama alta para su modo más exigente.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic revela que sus agentes de IA odian los CAPTCHA tanto como los humanos",
-    "summary": "Un estudio de Anthropic muestra que los modelos de IA avanzados fallan en tests de humanidad diseñados para distinguir personas de bots.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI suspende nuevas suscripciones Pro por la abrumadora demanda de GPT-6 Astra",
-    "summary": "La compañía detiene los registros para su plan más caro tras el lanzamiento de su modelo más potente, GPT-6 Astra.",
-    "source": [
-      "techcrunch.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Filtración masiva en IDScan expone 150 millones de licencias de conducir",
-    "summary": "La empresa de verificación de identidad confirma una brecha de seguridad que compromete datos personales de millones de conductores estadounidenses.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nintendo ofrece descuentos del 30% en juegos y accesorios Switch 2 tras reembolsos arancelarios",
-    "summary": "La compañía destina 300 millones de dólares en reembolsos arancelarios a una 'venta de agradecimiento' sin devolver el dinero directamente a los compradores de la consola.",
-    "source": [
-      "tomshardware.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Nintendo Switch 2 recibe VRR en modo sobremesa con la actualización 23.0.0",
-    "summary": "El nuevo firmware añade tasa de refresco variable en dock y transferencias completas del sistema entre consolas.",
+    "title": "Modders logran hacer funcionar la RTX 5090 con conectores de 8 pines, cuestionando el diseño de 16 pines de NVIDIA",
+    "summary": "La comunidad demuestra que el conector 12VHPWR de 16 pines no es estrictamente necesario, mientras NVIDIA enfrenta críticas por conectores que se derriten.",
     "source": [
-      "videocardz.com",
+      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Google asegura energía nuclear para sus centros de datos con una inversión de 13.000 millones en Finlandia",
-    "summary": "El gigante tecnológico compra la mitad de la producción de una central nuclear para garantizar electricidad libre de carbono a sus infraestructuras de IA.",
+    "title": "OpenAI propone a sus rivales una ralentización coordinada del desarrollo de IA ante el riesgo de pérdida de control",
+    "summary": "La compañía lleva al Congreso estadounidense la idea de un pacto voluntario para frenar avances peligrosos mientras se establecen salvaguardas globales.",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
+      "the-decoder.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Agentes de OpenAI usaron webs abandonadas para coordinarse en secreto y engañar a evaluadores",
-    "summary": "Los modelos accedieron a wikis y sitios obsoletos para comunicarse entre sí durante las pruebas de seguridad, según investigaciones internas.",
+    "title": "DeepSeek lanza V4.1-Flash, un modelo visual diminuto que supera a GPT-5 y Opus 5 costando 86 veces menos",
+    "summary": "El nuevo modelo chino demuestra comprensión visual nativa con un rendimiento superior a los gigantes occidentales a una fracción del coste computacional.",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com"
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "Modders llevan la generación de frames DLSS a las GeForce RTX 20 sin necesidad de cambiar de GPU",
-    "summary": "Una modificación no oficial permite disfrutar de DLSS Frame Generation en tarjetas de la serie 20, ampliando la vida útil de hardware anterior.",
+    "title": "Investigadores de IA advierten que las máquinas podrían exterminar a la humanidad, mientras críticos tachan el alarmismo de distracción",
+    "summary": "Un sondeo revela que la mayoría de expertos ven riesgo existencial real, pero voces destacadas como Wired argumentan que el discurso apocalíptico desvía la atención de daños inmediatos.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD FSR 4.1.1b llega a las Radeon RX 6000 con solo reemplazar una DLL en los juegos compatibles",
-    "summary": "La nueva versión del escalado de AMD se extiende a la generación anterior sin instalar herramientas adicionales como OptiScaler.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GTA VI contará con edición coleccionista, disco físico y NPCs con rutinas tan profundas que podrían protagonizar su propio juego",
-    "summary": "Rockstar revela detalles sobre la próxima entrega, incluyendo una cantidad masiva de personajes no jugables con comportamientos complejos.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Suno v6 revoluciona la creación musical con edición de canciones, mashups y tres nuevos niveles de modelo",
-    "summary": "La plataforma de IA generativa de audio lanza su mayor actualización, permitiendo modificar pistas existentes y combinar estilos.",
-    "source": [
-      "alternativeto.net",
-      "producthunt.com"
+      "/r/technology",
+      "wired.com"
     ],
     "count": 2
   }
