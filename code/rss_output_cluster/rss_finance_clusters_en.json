@@ -1,110 +1,91 @@
 [
   {
-    "title": "Global stocks plunge on rising oil prices, rate hikes, and inflation fears",
-    "summary": "Major indices in Asia, Europe, and the US fall sharply as crude tops $100 and central banks maintain a restrictive stance.",
-    "source": [
-      "nasdaq.com",
-      "nikkei.com",
-      "bolsamania.com",
-      "handelsblatt.com",
-      "expansion.com",
-      "investing.com",
-      "/r/stocks"
-    ],
-    "count": 7
-  },
-  {
-    "title": "Oil tops $100 on escalating Middle East tensions and OPEC+ cuts",
-    "summary": "Brent and WTI hit three-month highs amid Houthi attacks in the Red Sea, US-Iran tensions, and Saudi production cuts.",
+    "title": "US inflation stalls at 3.4% and cements Fed rate hike in September",
+    "summary": "Price data keeps pressure on the Federal Reserve to tighten monetary policy, with diesel as a new risk factor.",
     "source": [
       "nikkei.com",
-      "ft.com",
-      "bolsamania.com",
       "/r/stocks",
-      "handelsblatt.com",
-      "expansion.com"
+      "bolsamania.com",
+      "ft.com",
+      "expansion.com",
+      "handelsblatt.com"
     ],
     "count": 6
   },
   {
-    "title": "Major AI labs bolster safety and expand infrastructure as regulators warn of systemic risks",
-    "summary": "Anthropic and OpenAI announce new safety measures, Microsoft plans 38 GW of data centers by 2032, and the BIS warns of AI-driven financial vulnerabilities.",
+    "title": "Saudi Arabia shuts East-West pipeline after Houthi attacks",
+    "summary": "Houthi rebels damage the pipeline that bypasses the Strait of Hormuz, disrupting a key crude export route.",
     "source": [
       "nikkei.com",
-      "investing.com",
       "ft.com",
-      "expansion.com",
-      "handelsblatt.com",
+      "bolsamania.com",
       "/r/stocks"
     ],
-    "count": 6
-  },
-  {
-    "title": "ECB raises rates to restrictive territory and leaves door open to further tightening",
-    "summary": "Lagarde justifies the hike as necessary to combat inflation and signals monetary policy will remain restrictive, pressuring banks and debt.",
-    "source": [
-      "expansion.com",
-      "handelsblatt.com",
-      "bolsamania.com",
-      "nikkei.com"
-    ],
     "count": 4
   },
   {
-    "title": "Massive bond selloff drives yields to highs in US, Europe, and Japan",
-    "summary": "Sovereign yields surge as central banks resist rate cuts and oil rebounds, fueling fears of a debt crisis.",
+    "title": "Wall Street closes with gains relieved by oil decline",
+    "summary": "US indexes rebound after crude's fall, though inflation and rate expectations keep caution.",
     "source": [
       "nikkei.com",
-      "ft.com",
       "handelsblatt.com",
-      "expansion.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Oracle's profit surges 60% to record high on cloud and AI",
-    "summary": "The tech giant beats estimates in the May-August quarter and confirms strength in enterprise AI spending.",
-    "source": [
-      "nasdaq.com",
-      "nikkei.com",
       "bolsamania.com"
     ],
     "count": 3
   },
   {
-    "title": "Bitcoin dips slightly as Europe tightens crypto taxation and banks reject clients over money laundering",
-    "summary": "Bitcoin price falls 0.25%, Germany plans higher taxes on crypto gains, and fiduciaries avoid crypto investors over money laundering risks.",
+    "title": "European stocks rebound and Ibex 35 breaks losing streak after oil drop",
+    "summary": "The Dax and Ibex rise driven by relief in oil prices, though inflation and bonds curb optimism.",
     "source": [
-      "expansion.com",
       "handelsblatt.com",
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "US diesel hits record highs due to Iranian supply crisis",
+    "summary": "Price surpasses $6 per gallon as sanctions on Iran reduce global fuel supply.",
+    "source": [
+      "nikkei.com",
+      "/r/stocks",
       "ft.com"
     ],
     "count": 3
   },
   {
-    "title": "25th anniversary of 9/11 marked with ceremonies and reflections on its legacy in security and markets",
-    "summary": "The UN and New York remember victims as analysts highlight enduring lessons for financial stability and geopolitics.",
+    "title": "Scott Bessent fails to calm US bond market",
+    "summary": "Treasury secretary fails in his intervention to lower yields, and bankers warn of damage to Bank of Japan's credibility.",
     "source": [
-      "nikkei.com",
+      "ft.com",
       "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "ESMA warns prediction markets are rife with insider information",
-    "summary": "The European regulator warns of lack of transparency and manipulation on platforms betting on future events.",
+    "title": "JPMorgan cuts funding to Aschenbrenner's AI fund after record losses",
+    "summary": "The bank ends its exposure to the Situational Awareness fund after its bet on artificial intelligence generated steep declines.",
     "source": [
-      "expansion.com",
+      "investing.com",
       "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Uber obtains DGT license to operate robotaxis in Madrid",
-    "summary": "The mobility platform receives authorization to test autonomous vehicles in the Spanish capital, advancing its self-driving strategy.",
+    "title": "Nikkei plunges 3% weighed down by rising oil prices",
+    "summary": "Japanese stock market suffers its biggest drop in months as rising crude hits energy importers.",
     "source": [
-      "bolsamania.com",
-      "/r/stocks"
+      "nikkei.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bond markets stabilize after global sell-off",
+    "summary": "Yields stop climbing after weeks of tension, though they remain at financial crisis levels.",
+    "source": [
+      "ft.com",
+      "handelsblatt.com"
     ],
     "count": 2
   }

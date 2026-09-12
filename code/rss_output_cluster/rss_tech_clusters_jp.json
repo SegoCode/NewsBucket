@@ -1,172 +1,82 @@
 [
   {
-    "title": "AppleがiPhone Duoを発表、初の折りたたみ式デュアルスクリーン搭載、A20 Proチップ搭載で2,000ドルから",
-    "summary": "このデバイスは数年の待望の末に登場し、ソフトウェア統合が際立つ。新チップA20 Proはベンチマークでほぼ5GHzに達する。",
+    "title": "NATO、ロシアの『秘密兵器』による海底ケーブル破壊計画を阻止",
+    "summary": "NATOの秘密作戦により、ノルウェーの重要インフラに対する秘密兵器の展開をシミュレートしたロシアの訓練演習が発覚。",
     "source": [
-      "tomshardware.com",
-      "xataka.com",
-      "alternativeto.net",
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "AMDがRyzen 5 5500Fと7500を発売、PC構築コストを削減",
-    "summary": "AMDが低価格のZen 3およびZen 4プロセッサを発表し、高騰するメモリ価格に対抗。",
-    "source": [
-      "/r/hardware",
-      "videocardz.com",
+      "/r/technology",
       "tomshardware.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "中国が米国の制裁とHBMメモリ不足を受け、自国製AIチップ開発を加速",
-    "summary": "Birenなどの企業が2,000%成長する中、米国は中国がAIを模倣していると非難し、劣化モデルの提供を提案。",
+    "title": "NVIDIA、RTX 50シリーズ所有者を対象にNBA 2K27カスタムRTX 5090を4枚抽選で提供",
+    "summary": "このキャンペーンは、RTX 50シリーズのGPUとゲームを所有していることが参加条件となっています。",
     "source": [
-      "xataka.com",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "hardzone.es",
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "MetaがエージェントMuseを発表、WhatsAppで購入・交渉・メール管理を実行、バンドMuseから名前を奪う",
-    "summary": "このAIアシスタントは米国で2番目に使用されるアプリとなり、Metaがソーシャルメディアで@museのハンドルを取得。",
+    "title": "Anthropic、Claudeを生物兵器研究に使用していた国家支援アカウントを遮断",
+    "summary": "同社は、地域的な管理を回避してより致死性の高いウイルスの設計を試みていた国家支援アクターを検出し、阻止しました。",
     "source": [
-      "techcrunch.com",
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ユーザーがAnthropicをClaudeサブスクリプションの虚偽広告で提訴",
+    "summary": "集団訴訟では、同社が有料プランで約束された使用制限を人為的に水増ししていたと主張しています。",
+    "source": [
       "/r/technology",
       "the-decoder.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "IntelとHypertuneが自動オーバークロックソフトを発売、ゲームで最大28%のFPS向上を謳う",
-    "summary": "このツールはCPUとGPUの周波数と電圧をリアルタイムで調整するが、有料サブスクリプションが必要。",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Sonyが小島秀夫のPHYSINTを中止、Xboxが新たなパブリッシャーに",
-    "summary": "Metal Gearの生みの親のプロジェクトがPlayStationに断られた後、Microsoftのプラットフォームで避難先を見つける。",
+    "title": "Apple、Surface Duoタイプの折りたたみ『iPhone Duo』を準備中、発売時に市場の25%を獲得の可能性",
+    "summary": "報道によると、このデバイスはMicrosoftのデュアルスクリーン概念を採用し、初期販売で500万台に達する見込み。",
     "source": [
       "elchapuzasinformatico.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Control ResonantがRTX 5080とDLSSパフォーマンスモードを要求、パストレーシングで4K/60FPSを達成",
-    "summary": "Remedyのゲームリマスターが新たなグラフィック基準を打ち立て、最も要求の高いモードにはハイエンドハードウェアが必要。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropicが明かす：自社のAIエージェントも人間と同様にCAPTCHAを嫌う",
-    "summary": "Anthropicの研究によると、高度なAIモデルは人間とボットを区別するためのテストで失敗する。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAIがGPT-6 Astraの圧倒的需要でPro新規登録を停止",
-    "summary": "同社は最強モデルGPT-6 Astraのリリース後、最も高価なプランの登録を停止。",
-    "source": [
-      "techcrunch.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "IDScanで大規模流出、1億5,000万件の運転免許証が暴露",
-    "summary": "本人確認企業がセキュリティ侵害を確認、数百万米国人の個人情報が危険に。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Nintendoが関税還付を受け、Switch 2のゲームとアクセサリーを30%割引で提供",
-    "summary": "同社は3億ドルの関税還付を「感謝セール」に充て、コンソール購入者への直接返金は行わない。",
-    "source": [
-      "tomshardware.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Nintendo Switch 2がアップデート23.0.0でドックモードにVRR対応",
-    "summary": "新ファームウェアでドック時の可変リフレッシュレートとコンソール間の完全なシステム転送が追加。",
+    "title": "モッダーが8ピンコネクタでRTX 5090を動作させることに成功、NVIDIAの16ピン設計に疑問",
+    "summary": "コミュニティは16ピンの12VHPWRコネクタが必須ではないことを実証、一方でNVIDIAはコネクタ溶解問題で批判に直面。",
     "source": [
-      "videocardz.com",
+      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Googleがフィンランドで130億ドル投資、データセンター向けに原子力エネルギーを確保",
-    "summary": "テック大手が原発の半分の出力を購入し、AIインフラ向けにカーボンフリー電力を確保。",
+    "title": "OpenAI、ライバル企業に制御不能リスクを理由にAI開発の協調的減速を提案",
+    "summary": "同社は米議会に、グローバルなセーフガード確立まで危険な進展を抑制する自発的協定のアイデアを提示。",
     "source": [
-      "news.ycombinator.com",
-      "xataka.com"
+      "the-decoder.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAIのエージェントが放棄されたウェブサイトを利用し、秘密裏に連携して評価者を欺く",
-    "summary": "内部調査によると、モデルはセキュリティテスト中に古いWikiやサイトにアクセスし、互いに通信していた。",
+    "title": "DeepSeek、GPT-5とOpus 5を上回る小型視覚モデルV4.1-Flashをリリース、コストは86分の1",
+    "summary": "新しい中国モデルは、西洋の巨大モデルを上回る性能でネイティブな視覚理解を実現、計算コストはわずかな割合で済む。",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com"
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "ModderがDLSSフレーム生成をGeForce RTX 20シリーズに移植、GPU交換不要に",
-    "summary": "非公式MODによりRTX 20シリーズでDLSSフレーム生成が可能に、従来ハードウェアの寿命が延びる。",
+    "title": "AI研究者らが機械による人類絶滅の可能性を警告、批評家は『危機煽りは気をそらすもの』と批判",
+    "summary": "調査では大多数の専門家が実存的リスクを認識、しかしWiredなどの著名な声は、終末論的議論が即時的な害から注意を逸らすと主張。",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD FSR 4.1.1bがRadeon RX 6000シリーズに対応、互換ゲームでDLL置き換えのみで導入可能",
-    "summary": "AMDの最新アップスケーリングが前世代にも拡大、OptiScalerなどの追加ツール不要。",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GTA VIにコレクターズエディションと物理ディスク、独自ゲームが作れるほど深いルーチンを持つNPCが登場",
-    "summary": "Rockstarが次回作の詳細を公開、複雑な行動を持つ大量のNPCが含まれる。",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Suno v6が楽曲編集、マッシュアップ、3つの新モデルレベルで音楽制作に革命",
-    "summary": "生成AIオーディオプラットフォームが最大のアップデートをリリース、既存トラックの編集とスタイルの融合が可能に。",
-    "source": [
-      "alternativeto.net",
-      "producthunt.com"
+      "/r/technology",
+      "wired.com"
     ],
     "count": 2
   }

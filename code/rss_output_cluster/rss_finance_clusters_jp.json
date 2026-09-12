@@ -1,110 +1,91 @@
 [
   {
-    "title": "世界の株価が石油高、利上げ、インフレ懸念で急落",
-    "summary": "アジア、欧州、米国の主要指数が大幅下落、原油が100ドルを超え、中央銀行が引き締め姿勢を維持する中で。",
-    "source": [
-      "nasdaq.com",
-      "nikkei.com",
-      "bolsamania.com",
-      "handelsblatt.com",
-      "expansion.com",
-      "investing.com",
-      "/r/stocks"
-    ],
-    "count": 7
-  },
-  {
-    "title": "中東緊張の高まりとOPEC+減産で石油が100ドル突破",
-    "summary": "フーシ派の紅海攻撃、米イラン緊張、サウジアラビアの減産を受け、ブレントとWTIが3カ月ぶり高値。",
+    "title": "米国のインフレが3.4%で停滞し、9月のFRB利上げが確実視される",
+    "summary": "価格データがFRBに金融引き締めの圧力を維持し、軽油が新たなリスク要因に。",
     "source": [
       "nikkei.com",
-      "ft.com",
-      "bolsamania.com",
       "/r/stocks",
-      "handelsblatt.com",
-      "expansion.com"
+      "bolsamania.com",
+      "ft.com",
+      "expansion.com",
+      "handelsblatt.com"
     ],
     "count": 6
   },
   {
-    "title": "大手AI研究所が安全性強化とインフラ拡大、規制当局はシステミックリスクを警告",
-    "summary": "AnthropicとOpenAIが新安全対策を発表、マイクロソフトは2032年までに38GWのデータセンターを計画、BISがAIによる金融脆弱性を警告。",
+    "title": "サウジアラビア、フーシ派の攻撃受け東西パイプラインを閉鎖",
+    "summary": "フーシ派がホルムズ海峡を迂回するパイプラインを損傷、主要な原油輸出ルートが途絶。",
     "source": [
       "nikkei.com",
-      "investing.com",
       "ft.com",
-      "expansion.com",
-      "handelsblatt.com",
+      "bolsamania.com",
       "/r/stocks"
     ],
-    "count": 6
-  },
-  {
-    "title": "ECBが利上げで制限的領域へ、更なる引き締めの余地残す",
-    "summary": "ラガルド総裁はインフレ対策で利上げを正当化、金融政策が引き締め的であり続けると表明、銀行と債務に圧力。",
-    "source": [
-      "expansion.com",
-      "handelsblatt.com",
-      "bolsamania.com",
-      "nikkei.com"
-    ],
     "count": 4
   },
   {
-    "title": "大量債券売りで米欧日の利回りが最高水準に急騰",
-    "summary": "中央銀行の利下げ抵抗と石油高騰で国債利回りが上昇、債務危機への懸念が高まる。",
+    "title": "ウォール街は原油下落で安心感から上昇して終了",
+    "summary": "米指数は原油安で反発するも、インフレと利上げ期待が慎重姿勢を維持。",
     "source": [
       "nikkei.com",
-      "ft.com",
       "handelsblatt.com",
-      "expansion.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "オラクル、クラウドとAIで利益60%増の過去最高益",
-    "summary": "5-8月期決算が予想上回り、企業のAI支出の堅調さを確認。",
-    "source": [
-      "nasdaq.com",
-      "nikkei.com",
       "bolsamania.com"
     ],
     "count": 3
   },
   {
-    "title": "ビットコイン小幅安、欧州が暗号資産課税強化、銀行がマネロン懸念で顧客拒否",
-    "summary": "ビットコインが0.25%下落、ドイツが暗号資産利益への増税計画、受託機関がマネーロンダリングリスクで暗号投資家を回避。",
+    "title": "欧州株が反発、IBEX35が下落トレンドを脱却、原油安で",
+    "summary": "DAXとIBEXが原油価格の落ち着きで上昇、ただしインフレと債券が楽観を抑制。",
     "source": [
-      "expansion.com",
       "handelsblatt.com",
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "米国の軽油価格が過去最高、イラン供給危機で",
+    "summary": "価格がガロン当たり6ドル超え、イラン制裁が世界の燃料供給を圧迫。",
+    "source": [
+      "nikkei.com",
+      "/r/stocks",
       "ft.com"
     ],
     "count": 3
   },
   {
-    "title": "9.11テロ25周年、式典と安全保障・市場への遺産を振り返る",
-    "summary": "国連とニューヨークが犠牲者を追悼、アナリストが金融安定と地政学への永続的教訓を強調。",
+    "title": "スコット・ベッセント、米国債市場を鎮静化できず",
+    "summary": "財務長官が利回り低下への介入に失敗、銀行家らは日本銀行の信頼性損傷を警告。",
     "source": [
-      "nikkei.com",
+      "ft.com",
       "expansion.com"
     ],
     "count": 2
   },
   {
-    "title": "ESMA、予測市場がインサイダー情報で溢れていると警告",
-    "summary": "欧州規制当局、将来イベント賭けプラットフォームの透明性欠如と操作を警告。",
+    "title": "JPMorgan、アッシェンブレナーのAIファンドへの融資を停止、記録的損失受け",
+    "summary": "同行は「Situational Awareness」ファンドへのエクスポージャーを終了、AIへの賭けが大幅下落を招いたため。",
     "source": [
-      "expansion.com",
+      "investing.com",
       "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "Uber、DGTからマドリードでロボタクシー運行許可を取得",
-    "summary": "モビリティプラットフォームがスペイン首都で自動運転車試験の許可取得、自動運転戦略を前進。",
+    "title": "日経平均が3%急落、原油高が重荷に",
+    "summary": "日本株が数カ月ぶりの大幅安、原油高がエネルギー輸入企業を直撃。",
     "source": [
-      "bolsamania.com",
-      "/r/stocks"
+      "nikkei.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "債券市場が世界的な大量売却後に安定化",
+    "summary": "利回りの上昇が数週間の緊張後に一服、依然として金融危機水準に。",
+    "source": [
+      "ft.com",
+      "handelsblatt.com"
     ],
     "count": 2
   }
