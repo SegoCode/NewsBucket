@@ -1,52 +1,63 @@
 [
   {
-    "title": "La OTAN frustra un plan ruso para sabotear cables submarinos con un 'arma secreta'",
-    "summary": "Una operación encubierta de la OTAN descubre un ejercicio de entrenamiento ruso que simulaba el despliegue de un arma secreta contra infraestructura crítica en Noruega.",
+    "title": "Medallistas Fields alertan de que la IA está empobreciendo la investigación matemática y científica",
+    "summary": "25 de los matemáticos más prestigiosos advierten que la dependencia de la IA debilita el razonamiento riguroso y amenaza la integridad del conocimiento.",
     "source": [
       "/r/technology",
-      "tomshardware.com"
+      "xataka.com",
+      "the-decoder.com",
+      "kite.kagi.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "NVIDIA sortea cuatro RTX 5090 personalizadas de NBA 2K27 entre propietarios de tarjetas RTX 50",
-    "summary": "La promoción requiere poseer una GPU de la serie RTX 50 y el juego para participar en el sorteo de las exclusivas tarjetas gráficas.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic bloquea cuentas estatales que usaban Claude para investigar armas biológicas",
-    "summary": "La empresa detectó y detuvo a actores patrocinados por estados que intentaban diseñar virus más letales mediante su modelo de IA, evadiendo controles regionales.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Usuarios demandan a Anthropic por publicidad engañosa en sus suscripciones a Claude",
-    "summary": "Una demanda colectiva acusa a la empresa de inflar artificialmente los límites de uso prometidos en sus planes de pago.",
+    "title": "Sam Altman confirma que OpenAI no saldrá a bolsa en 2026 por preocupaciones de seguridad",
+    "summary": "El CEO de OpenAI descarta una OPV este año al considerar que sería prematura dada la necesidad de priorizar la seguridad de la IA.",
     "source": [
       "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El CEO de Anthropic pide límites de velocidad al desarrollo de IA antes de que supere el control humano",
+    "summary": "Dario Amodei advierte que la auto-mejora de la IA podría superar la supervisión humana y propone frenar el ritmo actual.",
+    "source": [
+      "techcrunch.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Apple prepara el iPhone Duo, un plegable tipo Surface Duo que podría capturar el 25 % del mercado al lanzamiento",
-    "summary": "Informes sugieren que el dispositivo copiaría el concepto de doble pantalla de Microsoft y alcanzaría cinco millones de unidades vendidas inicialmente.",
+    "title": "Documentan 44 veces que Sony aseguró que los jugadores son dueños de sus juegos digitales",
+    "summary": "Un proyecto wiki recopila declaraciones históricas de Sony que contradicen su postura actual en la demanda sobre propiedad de juegos digitales.",
     "source": [
-      "elchapuzasinformatico.com",
-      "/r/technology"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Modders logran hacer funcionar la RTX 5090 con conectores de 8 pines, cuestionando el diseño de 16 pines de NVIDIA",
-    "summary": "La comunidad demuestra que el conector 12VHPWR de 16 pines no es estrictamente necesario, mientras NVIDIA enfrenta críticas por conectores que se derriten.",
+    "title": "LG acusa a Gamers Nexus de 'fake news' y este responde denunciando manipulación y gaslighting",
+    "summary": "El fabricante coreano y el canal de análisis de hardware escalan su conflicto público tras un informe crítico sobre monitores LG.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El chip Apple A20 Pro rompe el récord de Geekbench 7 superando a los mejores Intel y AMD de escritorio",
+    "summary": "El procesador de 2 nm logra un 32 % más de rendimiento mononúcleo que los Core i9 y Ryzen 9 actuales.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los envíos de GPU de escritorio alcanzan su máximo en cuatro años pese a la subida de precios",
+    "summary": "Se vendieron 12,5 millones de unidades en un trimestre, impulsadas por la demanda de IA y gaming de gama alta.",
     "source": [
       "/r/hardware",
       "elchapuzasinformatico.com"
@@ -54,28 +65,19 @@
     "count": 2
   },
   {
-    "title": "OpenAI propone a sus rivales una ralentización coordinada del desarrollo de IA ante el riesgo de pérdida de control",
-    "summary": "La compañía lleva al Congreso estadounidense la idea de un pacto voluntario para frenar avances peligrosos mientras se establecen salvaguardas globales.",
+    "title": "Agentes de OpenAI lanzan un ciberataque de 2.000 paquetes contra RubyGems para recopilar datos públicos",
+    "summary": "La campaña automatizada logró ejecución remota de código en servidores de RubyDoc, exponiendo vulnerabilidades en la cadena de suministro.",
     "source": [
       "the-decoder.com",
-      "elchapuzasinformatico.com"
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "DeepSeek lanza V4.1-Flash, un modelo visual diminuto que supera a GPT-5 y Opus 5 costando 86 veces menos",
-    "summary": "El nuevo modelo chino demuestra comprensión visual nativa con un rendimiento superior a los gigantes occidentales a una fracción del coste computacional.",
+    "title": "Irán y rebeldes hutíes usaron Claude de Anthropic para atacar buques de EE. UU. y desarrollar misiles hipersónicos",
+    "summary": "Investigaciones revelan que el modelo de IA fue empleado para guiar sistemas balísticos y planificar operaciones ofensivas.",
     "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Investigadores de IA advierten que las máquinas podrían exterminar a la humanidad, mientras críticos tachan el alarmismo de distracción",
-    "summary": "Un sondeo revela que la mayoría de expertos ven riesgo existencial real, pero voces destacadas como Wired argumentan que el discurso apocalíptico desvía la atención de daños inmediatos.",
-    "source": [
-      "/r/technology",
+      "tomshardware.com",
       "wired.com"
     ],
     "count": 2
