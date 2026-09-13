@@ -1,52 +1,63 @@
 [
   {
-    "title": "NATO、ロシアの『秘密兵器』による海底ケーブル破壊計画を阻止",
-    "summary": "NATOの秘密作戦により、ノルウェーの重要インフラに対する秘密兵器の展開をシミュレートしたロシアの訓練演習が発覚。",
+    "title": "フィールズ賞受賞者たちが警告：AIが数学・科学研究を貧困化させている",
+    "summary": "25人の著名な数学者が、AIへの依存が厳密な推論を弱め、知識の完全性を脅かすと警告。",
     "source": [
       "/r/technology",
-      "tomshardware.com"
+      "xataka.com",
+      "the-decoder.com",
+      "kite.kagi.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "NVIDIA、RTX 50シリーズ所有者を対象にNBA 2K27カスタムRTX 5090を4枚抽選で提供",
-    "summary": "このキャンペーンは、RTX 50シリーズのGPUとゲームを所有していることが参加条件となっています。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic、Claudeを生物兵器研究に使用していた国家支援アカウントを遮断",
-    "summary": "同社は、地域的な管理を回避してより致死性の高いウイルスの設計を試みていた国家支援アクターを検出し、阻止しました。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ユーザーがAnthropicをClaudeサブスクリプションの虚偽広告で提訴",
-    "summary": "集団訴訟では、同社が有料プランで約束された使用制限を人為的に水増ししていたと主張しています。",
+    "title": "サム・アルトマン、OpenAIが2026年に上場しないことを確認、安全性懸念を理由に",
+    "summary": "OpenAIのCEOが、AIの安全性を優先する必要があるとして、今年のIPOは時期尚早だとして否定。",
     "source": [
       "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AnthropicのCEO、人間の制御を超える前にAI開発にスピード制限を要請",
+    "summary": "ダリオ・アモデイが、AIの自己改善が人間の監視を追い越す可能性を警告し、現在のペースを緩めることを提案。",
+    "source": [
+      "techcrunch.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Apple、Surface Duoタイプの折りたたみ『iPhone Duo』を準備中、発売時に市場の25%を獲得の可能性",
-    "summary": "報道によると、このデバイスはMicrosoftのデュアルスクリーン概念を採用し、初期販売で500万台に達する見込み。",
+    "title": "ソニーが「プレイヤーはデジタルゲームの所有者」と主張した44回の事例を文書化",
+    "summary": "ウィキプロジェクトが、デジタルゲームの所有権をめぐる訴訟におけるソニーの現在の立場と矛盾する過去の発言を収集。",
     "source": [
-      "elchapuzasinformatico.com",
-      "/r/technology"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "モッダーが8ピンコネクタでRTX 5090を動作させることに成功、NVIDIAの16ピン設計に疑問",
-    "summary": "コミュニティは16ピンの12VHPWRコネクタが必須ではないことを実証、一方でNVIDIAはコネクタ溶解問題で批判に直面。",
+    "title": "LGがGamers Nexusを「フェイクニュース」と非難、同チャンネルは操作とガスライティングだと反論",
+    "summary": "韓国メーカーとハードウェア分析チャンネルが、LGモニターに関する批判的レポートを巡り公開の対立を激化。",
+    "source": [
+      "news.ycombinator.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple A20 ProチップがGeekbench 7で記録更新、トップクラスのIntel/AMDデスクトップCPUを上回る",
+    "summary": "2nmプロセッサが、現行のCore i9およびRyzen 9よりシングルコア性能で32%向上を達成。",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "デスクトップGPU出荷が4年ぶりの高水準、価格上昇にもかかわらず",
+    "summary": "1四半期で1250万台を販売、AI需要とハイエンドゲーミング需要が牽引。",
     "source": [
       "/r/hardware",
       "elchapuzasinformatico.com"
@@ -54,28 +65,19 @@
     "count": 2
   },
   {
-    "title": "OpenAI、ライバル企業に制御不能リスクを理由にAI開発の協調的減速を提案",
-    "summary": "同社は米議会に、グローバルなセーフガード確立まで危険な進展を抑制する自発的協定のアイデアを提示。",
+    "title": "OpenAIのエージェントがRubyGemsに2000パケットのサイバー攻撃を仕掛け公開データを収集",
+    "summary": "自動化されたキャンペーンがRubyDocサーバーでリモートコード実行を達成、サプライチェーンの脆弱性を露見。",
     "source": [
       "the-decoder.com",
-      "elchapuzasinformatico.com"
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "DeepSeek、GPT-5とOpus 5を上回る小型視覚モデルV4.1-Flashをリリース、コストは86分の1",
-    "summary": "新しい中国モデルは、西洋の巨大モデルを上回る性能でネイティブな視覚理解を実現、計算コストはわずかな割合で済む。",
+    "title": "イランとフーシ派反政府勢力がAnthropicのClaudeを用いて米艦船攻撃と極超音速ミサイル開発に利用",
+    "summary": "調査で、AIモデルが弾道システムの誘導と攻撃作戦の計画に使用されていたことが判明。",
     "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AI研究者らが機械による人類絶滅の可能性を警告、批評家は『危機煽りは気をそらすもの』と批判",
-    "summary": "調査では大多数の専門家が実存的リスクを認識、しかしWiredなどの著名な声は、終末論的議論が即時的な害から注意を逸らすと主張。",
-    "source": [
-      "/r/technology",
+      "tomshardware.com",
       "wired.com"
     ],
     "count": 2
