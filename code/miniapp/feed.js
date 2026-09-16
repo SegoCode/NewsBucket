@@ -25,17 +25,59 @@ const pullClusters = async (topic, lang, ref) => {
     return Array.isArray(data) ? data : [];
 };
 
-export const fetchClusters = async (topic, lang, ref) => {
-    if (ref && ref !== 'main') {
-        try {
-            return await pullClusters(topic, lang, ref);
-        } catch {
-            return [];
-        }
+const good = hit => Array.isArray(hit?.items) && hit.items.length ? hit.items : null;
+
+const commitsPending = new Map();
+const commitsOf = (topic, lang) => {
+    const key = `${topic}:${lang}`;
+    if (!commitsPending.has(key)) {
+        commitsPending.set(key, (async () => {
+            try {
+                const res = await fetch(
+                    `${COMMITS}?path=${encodeURIComponent(clusterFile(topic, lang))}&per_page=2`,
+                );
+                if (!res.ok) throw new Error(res.status);
+                const list = await res.json();
+                const head = Array.isArray(list) ? list[0]?.sha : '';
+                if (!head) return null;
+                return { head, yday: list[1]?.sha || null };
+            } catch {
+                return null;
+            }
+        })());
     }
+    return commitsPending.get(key);
+};
+
+const pullSha = async (topic, lang, sha, pointerKey) => {
+    const store = clusterStore();
+    const cached = good(store[sha]) || (store[pointerKey]?.sha === sha && good(store[pointerKey]));
+    if (cached) return cached;
+    const inflightKey = `sha:${sha}`;
+    if (inflight.has(inflightKey)) return inflight.get(inflightKey);
+    const pending = (async () => {
+        try {
+            const items = await pullClusters(topic, lang, sha);
+            if (!items.length) return [];
+            try {
+                const next = clusterStore();
+                next[sha] = { items };
+                if (pointerKey) next[pointerKey] = { at: Date.now(), items, sha };
+                localStorage.setItem(CACHE_KEY, JSON.stringify(next));
+            } catch {}
+            return items;
+        } catch {
+            return pointerKey ? good(clusterStore()[pointerKey]) || [] : [];
+        }
+    })().finally(() => inflight.delete(inflightKey));
+    inflight.set(inflightKey, pending);
+    return pending;
+};
+
+const pullMain = async (topic, lang) => {
     const key = `${topic}:${lang}`;
     const hit = clusterStore()[key];
-    const cached = Array.isArray(hit?.items) && hit.items.length ? hit.items : null;
+    const cached = good(hit);
     if (cached && Date.now() - hit.at < CACHE_MS) return cached;
     if (inflight.has(key)) return inflight.get(key);
     const pending = (async () => {
@@ -63,27 +105,17 @@ export const fetchClusters = async (topic, lang, ref) => {
     return pending;
 };
 
-const yday = new Map();
+export const fetchClusters = async (topic, lang, ref) => {
+    if (ref && ref !== 'main') return pullSha(topic, lang, ref);
+    const shas = await commitsOf(topic, lang);
+    if (shas?.head) return pullSha(topic, lang, shas.head, `${topic}:${lang}`);
+    return pullMain(topic, lang);
+};
 
-export const fetchYesterday = (topic, lang) => {
-    const key = `${topic}:${lang}`;
-    if (!yday.has(key)) {
-        yday.set(key, (async () => {
-            try {
-                const res = await fetch(
-                    `${COMMITS}?path=${encodeURIComponent(clusterFile(topic, lang))}&per_page=2`,
-                );
-                if (!res.ok) throw new Error(res.status);
-                const sha = (await res.json())[1]?.sha;
-                if (!sha) return [];
-                return fetchClusters(topic, lang, sha);
-            } catch {
-                yday.delete(key);
-                return [];
-            }
-        })());
-    }
-    return yday.get(key);
+export const fetchYesterday = async (topic, lang) => {
+    const yday = (await commitsOf(topic, lang))?.yday;
+    if (!yday) return [];
+    return fetchClusters(topic, lang, yday);
 };
 
 export const articlesHtml = data => {
