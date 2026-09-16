@@ -1154,10 +1154,10 @@ globalThis.fetch = input => {
             return json([]);
         }
         if (scenario === 'outage-age') {
-            if (url.includes('githubstatus.com')) return sp('Actions down', 6 * 3600e3);
-            if (url.includes('cloudflarestatus.com')) return sp('API errors', 20 * 3600e3);
+            if (url.includes('githubstatus.com')) return sp('Actions down', 4 * 3600e3);
+            if (url.includes('cloudflarestatus.com')) return sp('API errors', 6 * 3600e3);
             if (url.includes('status.aws.amazon.com')) return rss('EC2 errors', 50 * 3600e3);
-            return gcp('us-central1 network', 6 * 3600e3);
+            return gcp('us-central1 network', 4 * 3600e3);
         }
         if (scenario === 'outage-es' || scenario === 'outage-jp' || scenario === 'outage-empty') {
             if (url.includes('githubstatus.com')) return sp('Actions down', 3600e3);
