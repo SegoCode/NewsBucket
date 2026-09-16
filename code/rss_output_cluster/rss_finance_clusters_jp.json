@@ -1,102 +1,74 @@
 [
   {
-    "title": "AI開発停止の呼びかけが世界株価の広範な下落を引き起こす",
-    "summary": "大手企業と専門家が制御不能なAIのリスクを警告し、テクノロジー株と半導体株の大量売却を誘発。",
+    "title": "Fed決定を前に世界市場が神経質に：米国債利回りが2007年以来の高水準、原油上昇",
+    "summary": "投資家はFRBの判断を待つ中、株価下落、債券売り、中東緊張で原油高が進行。",
     "source": [
-      "nikkei.com",
+      "nasdaq.com",
+      "handelsblatt.com",
       "ft.com",
+      "finance.yahoo.com",
+      "/r/stocks",
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 7
+  },
+  {
+    "title": "サウジパイプライン停止と中東情勢悪化で原油急騰",
+    "summary": "ブレントが109ドル超え、サウジが原油輸出停止の可能性、米国がベネズエラと交渉、供給危機への懸念高まる。",
+    "source": [
+      "bolsamania.com",
+      "nikkei.com",
       "handelsblatt.com",
       "expansion.com",
-      "bolsamania.com",
-      "/r/stocks"
+      "/r/stocks",
+      "ft.com"
     ],
     "count": 6
   },
   {
-    "title": "サウジのパイプライン攻撃で原油が109ドルに急騰、供給懸念が高まる",
-    "summary": "サウジアラビアの重要パイプライン閉鎖で原油価格が4カ月ぶり高値に、エネルギー市場のボラティリティ増大。",
+    "title": "中国AI企業の大量上場が香港株を圧迫",
+    "summary": "AI企業のIPOラッシュがハンセン指数を下押し、アナリストと市場データが指摘。",
     "source": [
+      "ft.com",
       "nikkei.com",
-      "ft.com",
-      "bolsamania.com",
-      "handelsblatt.com",
-      "/r/stocks"
-    ],
-    "count": 5
-  },
-  {
-    "title": "米10年債利回りが2023年以来初めて5%を突破",
-    "summary": "利回り上昇はインフレとFRBの姿勢へのマクロ懸念を反映し、株価を圧迫。",
-    "source": [
-      "ft.com",
-      "bolsamania.com",
-      "handelsblatt.com",
-      "nikkei.com",
-      "expansion.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "FRBと日銀が利上げを示唆、債券市場が動揺",
-    "summary": "中央銀行が利回り圧力を受け金融引き締めを示唆、成長見通しの不透明感が増す。",
-    "source": [
-      "ft.com",
-      "handelsblatt.com",
-      "expansion.com"
+      "investing.com"
     ],
     "count": 3
   },
   {
-    "title": "ユーロネクストがドイチェ・ベールゼとの「ビッグバン」合併を提案、欧州取引所大手創設へ",
-    "summary": "汎欧州取引所運営会社がドイツのライバルとの変革的統合を模索、グローバル競争力強化へ。",
+    "title": "プイグがISDINを100%買収、アナリストは支持",
+    "summary": "美容大手が日焼け止めブランドを買収、専門家は株価初期下落にもかかわらずシナジーを評価。",
     "source": [
-      "ft.com",
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "LVMH、フランス時価総額首位から陥落し欧州トップ10圏外に",
+    "summary": "高級品大手がエルメスなどに時価総額で抜かれ、業界減速を反映。",
+    "source": [
+      "expansion.com",
       "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "トランプ氏がG20会合でバイデン時代の発電所排出規制を撤廃",
-    "summary": "米政権がエネルギー部門の主要気候規範を撤回、国際的な批判を招く。",
+    "title": "米上院が暗号資産法案を否決、規制が宙に浮く",
+    "summary": "政治的分断でClarity Actが停滞、デジタル資産の規制枠組みが遅れ。",
     "source": [
       "ft.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "日本の金融政策が円を米経済のリスク要因に",
+    "summary": "日本の超低金利と為替介入がグローバル資金フローに不確実性をもたらす。",
+    "source": [
+      "handelsblatt.com",
       "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ビットコインが7万8000ドル突破、利上げ期待が後押し",
-    "summary": "投資家が高金利のリスク資産への影響を評価する中、暗号資産が値を上げる。",
-    "source": [
-      "finance.yahoo.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "天然ガス価格が急騰、供給懸念と地政学的緊張で",
-    "summary": "需給懸念が天然ガスを数カ月ぶり高水準に押し上げ。",
-    "source": [
-      "ft.com",
-      "expansion.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "サイバー犯罪者がAIを悪用し高度な詐欺を強化",
-    "summary": "規制当局は生成AIがより説得力のある大規模攻撃を可能にし、金融リスクが増大すると警告。",
-    "source": [
-      "ft.com",
-      "/r/stocks"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic CEOがAIの危険性を警告、同社は持続的利益を予測",
-    "summary": "ダリオ・アモデイがAI軍拡競争の停止を求める、自社が持続的収益を見込む中で。",
-    "source": [
-      "nikkei.com",
-      "/r/stocks"
     ],
     "count": 2
   }

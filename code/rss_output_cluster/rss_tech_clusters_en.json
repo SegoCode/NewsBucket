@@ -1,70 +1,123 @@
 [
   {
-    "title": "Valve launches Steam Frame, its standalone VR headset with prices starting at 1,049 euros",
-    "summary": "The device works without a PC thanks to a Snapdragon processor and bets on foveated streaming, although its high cost keeps it away from mass consumption.",
-    "source": [
-      "xataka.com",
-      "hardzone.es",
-      "elchapuzasinformatico.com",
-      "/r/hardware",
-      "tomshardware.com",
-      "news.ycombinator.com",
-      "videocardz.com",
-      "/r/technology"
-    ],
-    "count": 8
-  },
-  {
-    "title": "Tech leaders and governments debate regulating superintelligence while Trump prioritizes the race against China",
-    "summary": "Proposals such as Sanders' bill with 20-year prison sentences and expert warnings clash with the White House's stance of not slowing development.",
+    "title": "Jensen Huang says AI industry doesn't need new regulations and calls existential risks fabricated",
+    "summary": "Nvidia CEO rejects calls to halt development and says safety should be left to companies.",
     "source": [
       "/r/technology",
-      "wired.com",
-      "the-decoder.com",
-      "elchapuzasinformatico.com",
-      "xataka.com",
-      "news.ycombinator.com",
+      "techcrunch.com",
       "tomshardware.com",
-      "kite.kagi.com"
-    ],
-    "count": 8
-  },
-  {
-    "title": "Nvidia dominates the AI GPU market with the RTX 5090 and the new RTX PRO 5500 with 84 GB",
-    "summary": "RTX 5090 scarcity drives its price up to $9,500 while the professional version prioritizes AI workloads over gaming.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "/r/hardware",
-      "/r/technology"
+      "kite.kagi.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 5
   },
   {
-    "title": "Anthropic predicts AI will boost U.S. GDP by 32% but warns of massive job displacement",
-    "summary": "The economic model estimates $44.4 trillion over four years, suggesting many workers will need to retrain for trades like electrician or nurse.",
+    "title": "RTX 5090 disappears from stores and prices soar to $9,600",
+    "summary": "Shortage of Nvidia's flagship graphics card causes bundles with 3000W power supplies to be the cheapest way to get one.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Intel cancels 12 Xe option for Nova Lake-S and moves it to future Razor Lake architecture",
+    "summary": "Chip giant delays high-performance integrated graphics for desktop until at least 2027.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "U.S. confirms deployment of weapons in space for first time",
+    "summary": "U.S. military officially acknowledges placing weapons in orbit, marking milestone in space militarization.",
     "source": [
       "/r/technology",
-      "tomshardware.com"
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "LG accused of recording conversations and scanning devices on its Smart TVs without clear consent",
-    "summary": "Investigations reveal that the TVs collect location data and viewing habits, generating privacy complaints.",
+    "title": "Apple launches iOS 27, iPadOS 27, macOS 27 and watchOS 27 with new AI features",
+    "summary": "Update brings revamped Siri with expanded AI and improvements across ecosystem.",
     "source": [
-      "/r/technology",
+      "alternativeto.net",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Hundreds of contractors hired by OpenAI read ChatGPT conversations to improve the model",
-    "summary": "The 'Lily' project reveals that human employees access private chats, reigniting the debate over privacy in generative AI.",
+    "title": "U.S. AI data centers will consume more natural gas than Germany and Japan combined by 2035",
+    "summary": "AI computing boom will spike natural gas demand, making data centers the world's fifth-largest consumer.",
+    "source": [
+      "techcrunch.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD Ryzen 5 5500F beats predecessor by up to 16% in CPU-dependent games",
+    "summary": "Early tests show new mid-range processor offers significant performance jump over Ryzen 5 5500.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "MediaTek unveils Dimensity 9600 Pro: 2nm, C2-Ultra CPU and AI GPU to compete with Qualcomm",
+    "summary": "MediaTek's new flagship chip bets on 2nm manufacturing and LPDDR6 memory to challenge Snapdragon 8 Elite.",
+    "source": [
+      "/r/hardware",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve confirms memory crisis doesn't alter Steam Deck 2 launch plans",
+    "summary": "Company maintains roadmap for next handheld console despite RAM price increases.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft releases emergency update to fix critical Windows 11 bugs",
+    "summary": "Patch KB5129195 fixes Explorer hangs, AMD graphics issues, and third-party integration breakages.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Telefónica buys LaLiga rights from Dazn for €1.65 billion and gains full control until 2031",
+    "summary": "Spanish operator strengthens football offering by acquiring remaining matches to have complete competition.",
+    "source": [
+      "xataka.com",
+      "bandaancha.eu"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google launches Gemini 3.8 Live to compete with OpenAI's GPT-Live-1 at fraction of cost",
+    "summary": "New real-time multimodal model aims to democratize access to advanced voice assistants with lower latency.",
     "source": [
       "the-decoder.com",
-      "/r/technology"
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple M5 Ultra beats Threadripper PRO 9995WX in single-core tests with 36 vs 96 cores",
+    "summary": "Leaked benchmarks show Apple's 2nm chip beats best AMD and Intel desktop processors in single-thread performance.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/hardware"
     ],
     "count": 2
   }
