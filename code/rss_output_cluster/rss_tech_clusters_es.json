@@ -1,70 +1,123 @@
 [
   {
-    "title": "Valve lanza Steam Frame, su visor VR autónomo con precios desde 1.049 euros",
-    "summary": "El dispositivo funciona sin PC gracias a un procesador Snapdragon y apuesta por el streaming foveado, aunque su alto coste lo aleja del consumo masivo.",
-    "source": [
-      "xataka.com",
-      "hardzone.es",
-      "elchapuzasinformatico.com",
-      "/r/hardware",
-      "tomshardware.com",
-      "news.ycombinator.com",
-      "videocardz.com",
-      "/r/technology"
-    ],
-    "count": 8
-  },
-  {
-    "title": "Líderes tecnológicos y gobiernos debaten regular la superinteligencia mientras Trump prioriza la carrera contra China",
-    "summary": "Propuestas como la ley de Sanders con penas de 20 años de cárcel y advertencias de expertos chocan con la postura de la Casa Blanca de no frenar el desarrollo.",
+    "title": "Jensen Huang afirma que la industria de la IA no necesita nuevas regulaciones y tacha de inventados los riesgos existenciales",
+    "summary": "El CEO de Nvidia rechaza las peticiones de frenar el desarrollo y dice que la seguridad debe dejarse en manos de las empresas.",
     "source": [
       "/r/technology",
-      "wired.com",
-      "the-decoder.com",
-      "elchapuzasinformatico.com",
-      "xataka.com",
-      "news.ycombinator.com",
+      "techcrunch.com",
       "tomshardware.com",
-      "kite.kagi.com"
-    ],
-    "count": 8
-  },
-  {
-    "title": "Nvidia domina el mercado de GPUs para IA con la RTX 5090 y la nueva RTX PRO 5500 de 84 GB",
-    "summary": "La escasez de la RTX 5090 dispara su precio hasta 9.500 dólares mientras la versión profesional prioriza cargas de trabajo de inteligencia artificial sobre gaming.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "/r/hardware",
-      "/r/technology"
+      "kite.kagi.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 5
   },
   {
-    "title": "Anthropic predice que la IA impulsará el PIB de EE. UU. un 32% pero advierte de desplazamiento laboral masivo",
-    "summary": "El modelo económico estima 44,4 billones de dólares en cuatro años, sugiriendo que muchos trabajadores tendrán que reciclarse a oficios como electricista o enfermero.",
+    "title": "La RTX 5090 desaparece de las tiendas y los precios se disparan hasta los 9.600 dólares",
+    "summary": "La escasez de la tarjeta gráfica insignia de Nvidia provoca que los paquetes con fuentes de 3000 W sean la opción más barata para conseguirla.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Intel cancela la opción de 12 Xe para Nova Lake-S y la traslada a la futura arquitectura Razor Lake",
+    "summary": "El gigante del chip retrasa sus gráficos integrados de alto rendimiento para escritorio hasta 2027 como mínimo.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "EE. UU. confirma por primera vez el despliegue de armas en el espacio",
+    "summary": "El ejército estadounidense reconoce oficialmente haber puesto en órbita armamento, marcando un hito en la militarización del espacio.",
     "source": [
       "/r/technology",
-      "tomshardware.com"
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "LG acusado de grabar conversaciones y escanear dispositivos en sus Smart TVs sin consentimiento claro",
-    "summary": "Investigaciones revelan que los televisores recopilan datos de ubicación y hábitos de visualización, generando denuncias por privacidad.",
+    "title": "Apple lanza iOS 27, iPadOS 27, macOS 27 y watchOS 27 con nuevas funciones de IA",
+    "summary": "La actualización trae una Siri renovada con inteligencia artificial expandida y mejoras en todo el ecosistema.",
     "source": [
-      "/r/technology",
+      "alternativeto.net",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Cientos de trabajadores contratados por OpenAI leen conversaciones de ChatGPT para mejorar el modelo",
-    "summary": "El proyecto 'Lily' expone que empleados humanos acceden a chats privados, reavivando el debate sobre privacidad en IA generativa.",
+    "title": "Los centros de datos de IA en EE. UU. consumirán más gas natural que Alemania y Japón juntos para 2035",
+    "summary": "El auge de la computación para IA disparará la demanda de gas natural, convirtiendo a los centros de datos en el quinto mayor consumidor mundial.",
+    "source": [
+      "techcrunch.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El AMD Ryzen 5 5500F supera hasta un 16 % a su predecesor en juegos dependientes de CPU",
+    "summary": "Las primeras pruebas muestran que el nuevo procesador de gama media ofrece un salto significativo de rendimiento respecto al Ryzen 5 5500.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "MediaTek presenta el Dimensity 9600 Pro: 2 nm, CPU C2-Ultra y GPU con IA para competir con Qualcomm",
+    "summary": "El nuevo chip insignia de MediaTek apuesta por la fabricación de 2 nm y memoria LPDDR6 para desafiar al Snapdragon 8 Elite.",
+    "source": [
+      "/r/hardware",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Valve confirma que la crisis de memoria no altera los planes de lanzamiento de Steam Deck 2",
+    "summary": "La compañía mantiene su hoja de ruta para la próxima consola portátil pese al encarecimiento de la RAM.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft lanza una actualización de emergencia para corregir fallos críticos en Windows 11",
+    "summary": "El parche KB5129195 soluciona cuelgues en Explorer, problemas con gráficos AMD y roturas en integraciones de terceros.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Telefónica compra los derechos de LaLiga de Dazn por 1.650 millones y se hace con el control total hasta 2031",
+    "summary": "La operadora española fortalece su oferta de fútbol adquiriendo los partidos que faltaban para tener la competición completa.",
+    "source": [
+      "xataka.com",
+      "bandaancha.eu"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google lanza Gemini 3.8 Live para competir con GPT-Live-1 de OpenAI a una fracción del coste",
+    "summary": "El nuevo modelo multimodal en tiempo real busca democratizar el acceso a asistentes de voz avanzados con menor latencia.",
     "source": [
       "the-decoder.com",
-      "/r/technology"
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El Apple M5 Ultra supera al Threadripper PRO 9995WX en pruebas de un solo núcleo con 36 frente a 96 núcleos",
+    "summary": "Los benchmarks filtrados muestran que el chip de 2 nm de Apple bate a los mejores procesadores de escritorio de AMD e Intel en rendimiento monohilo.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/hardware"
     ],
     "count": 2
   }
