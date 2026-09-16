@@ -185,18 +185,18 @@ const COUNT = {
     'cluster-cached-es': 3,
     'cluster-keep': 3,
     'cluster-empty': 3,
-    'cluster-yday': 4,
+    'cluster-yday': 2,
     'topic-switch': 3,
     'lang-switch': 3,
     'end-mark': 3,
-    yesterday: 4,
-    'yesterday-stale': 3,
-    'yesterday-sha': 4,
-    'yesterday-lang': 4,
-    'yesterday-topic': 4,
+    yesterday: 2,
+    'yesterday-stale': 2,
+    'yesterday-sha': 2,
+    'yesterday-lang': 2,
+    'yesterday-topic': 2,
     'yesterday-fail': 3,
-    'yesterday-one': 3,
-    'yesterday-jp': 4,
+    'yesterday-one': 1,
+    'yesterday-jp': 2,
     'yesterday-retry': 3,
     'quake-west': 1,
     'quake-down': 5,
@@ -375,7 +375,7 @@ const ready = async () => {
         await wait(() => $('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates');
         $('#lang').value = 'es';
         $('#lang').dispatchEvent(new Event('change'));
-        await wait(() => titles()[0] === 'Cuatro medios sobre tipos'
+        await wait(() => $('#feed p')?.textContent === 'AYER'
             && $('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Tipos de ayer');
     }
     if (scenario === 'yesterday-topic') {
@@ -1021,8 +1021,9 @@ const run = () => {
         return;
     }
     if (scenario === 'cluster-yday') {
-        ok(titles()[0] === 'Cached rates', 'main from cache');
+        ok(titles()[0] === 'HEAD rates', 'today from head sha');
         ok($('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates', 'sha not cache');
+        ok(!titles().includes('Cached rates'), 'cache skipped');
         return;
     }
     if (scenario === 'fx') {
@@ -1115,8 +1116,8 @@ const run = () => {
         return;
     }
     if (scenario === 'yesterday') {
-        ok(articles().length === 4, '3 today + 1 yesterday');
-        ok(titles().slice(0, 3).join() === 'Four outlets on rates,Three outlets on chips,Two outlets on apps', 'today first');
+        ok(articles().length === 2, '1 today + 1 yesterday');
+        ok(titles()[0] === 'HEAD rates', 'today from head');
         ok($('#feed p')?.textContent === 'YESTERDAY', 'YESTERDAY');
         ok($('#feed p').nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates', 'yesterday after END');
         return;
@@ -1252,8 +1253,8 @@ const run = () => {
         return;
     }
     if (scenario === 'yesterday-sha') {
+        ok(titles()[0] === 'HEAD rates', 'commits[0]');
         ok($('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates', 'commits[1]');
-        ok(!titles().includes('HEAD rates'), 'not commits[0]');
         return;
     }
     if (scenario === 'yesterday-lang') {
@@ -1275,8 +1276,15 @@ const run = () => {
         ok(!titles().includes('Yesterday rates'), 'no yesterday');
         return;
     }
-    if (scenario === 'yesterday-fail' || scenario === 'yesterday-one') {
+    if (scenario === 'yesterday-fail') {
         ok(articles().length === 3, 'today only');
+        ok($('#feed p')?.textContent === 'YESTERDAY', 'YESTERDAY');
+        ok(!$('#feed p')?.nextElementSibling, 'no yesterday');
+        return;
+    }
+    if (scenario === 'yesterday-one') {
+        ok(articles().length === 1, 'today only');
+        ok(titles()[0] === 'HEAD rates', 'commits[0]');
         ok($('#feed p')?.textContent === 'YESTERDAY', 'YESTERDAY');
         ok(!$('#feed p')?.nextElementSibling, 'no yesterday');
         return;
