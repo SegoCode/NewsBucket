@@ -811,7 +811,7 @@ const later = (ms, value) => new Promise(resolve => setTimeout(() => {
     else resolve(value);
 }, ms));
 
-const SHA = { head: 'cafebabe', yday: 'deadbeef', es: 'beefcafe', tech: 'feedface' };
+const SHA = { head: 'cafebabe', yday: 'deadbeef', es: 'beefcafe', tech: 'feedface', techHead: 'facefeed' };
 const pair = (a, b) => json([{ sha: a }, { sha: b }]);
 
 let commitTries = 0;
@@ -847,7 +847,7 @@ const commits = url => {
         return pair(SHA.head, url.includes('clusters_es.json') ? SHA.es : SHA.yday);
     }
     if (scenario === 'yesterday-topic') {
-        if (tech) return pair(SHA.head, SHA.tech);
+        if (tech) return pair(SHA.techHead, SHA.tech);
         if (finance) return pair(SHA.head, SHA.yday);
     }
     if (finance && ['yesterday', 'yesterday-stale', 'yesterday-sha', 'yesterday-empty', 'yesterday-jp', 'cluster-yday'].includes(scenario)) {
@@ -864,6 +864,7 @@ const clusters = url => {
         return json([{ title: 'Yesterday rates', source: ['old.com', 'older.com'], count: 2 }]);
     }
     if (url.includes(`/${SHA.head}/`)) {
+        if (scenario === 'yesterday-empty') return json([]);
         return json([{ title: 'HEAD rates', source: ['now.com', 'now2.com'], count: 2 }]);
     }
     if (url.includes(`/${SHA.es}/`)) {
