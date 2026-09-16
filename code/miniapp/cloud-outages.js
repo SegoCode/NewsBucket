@@ -1,6 +1,6 @@
 const HOUR = 3600e3;
 const WINDOW = 48 * HOUR;
-const BLINK = 12 * HOUR;
+const BLINK = 5 * HOUR;
 const PAGE = 'https://radar.cloudflare.com/cloud-observatory';
 const PREFIX = { en: 'Outage', es: 'Incidencia', jp: '障害' };
 
