@@ -800,15 +800,15 @@ const run = () => {
         ok(titles()[1] === 'Outage: Cloudflare: API errors', 'cloudflare');
         ok(titles()[2] === 'Outage: AWS: EC2 errors', 'aws');
         ok(titles()[3] === 'Outage: Google Cloud: us-central1 network', 'gcp');
-        ok(classes().slice(0, 4).every(c => c === 'quake-high quake-recent'), '12h blink');
+        ok(classes().slice(0, 4).every(c => c === 'quake-high quake-recent'), '5h blink');
         ok(articles().slice(0, 4).every(a => href(a) === 'https://radar.cloudflare.com/cloud-observatory'), 'observatory');
         ok(titles()[4] === 'Foundry wins contract', 'news after');
         return;
     }
     if (scenario === 'outage-age') {
-        ok(titles()[0] === 'Outage: GitHub: Actions down' && classes()[0] === 'quake-high quake-recent', '6h blinks');
-        ok(titles()[1] === 'Outage: Cloudflare: API errors' && classes()[1] === 'quake-high', '20h still');
-        ok(titles()[2] === 'Outage: Google Cloud: us-central1 network' && classes()[2] === 'quake-high quake-recent', 'gcp 6h');
+        ok(titles()[0] === 'Outage: GitHub: Actions down' && classes()[0] === 'quake-high quake-recent', '4h blinks');
+        ok(titles()[1] === 'Outage: Cloudflare: API errors' && classes()[1] === 'quake-high', '6h still');
+        ok(titles()[2] === 'Outage: Google Cloud: us-central1 network' && classes()[2] === 'quake-high quake-recent', 'gcp 4h');
         ok(!titles().some(t => t.includes('AWS')), '50h dropped');
         return;
     }
