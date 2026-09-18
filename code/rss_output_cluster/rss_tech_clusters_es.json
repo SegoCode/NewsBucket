@@ -1,39 +1,53 @@
 [
   {
-    "title": "Jensen Huang afirma que la industria de la IA no necesita nuevas regulaciones y tacha de inventados los riesgos existenciales",
-    "summary": "El CEO de Nvidia rechaza las peticiones de frenar el desarrollo y dice que la seguridad debe dejarse en manos de las empresas.",
+    "title": "AMD sube un 10% el precio de GPU, placas base y CPU",
+    "summary": "AMD anuncia un aumento de precios del 10% en sus componentes, afectando a tarjetas gráficas, placas base y procesadores.",
     "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "tomshardware.com",
-      "kite.kagi.com",
+      "/r/hardware",
+      "hardzone.es",
       "elchapuzasinformatico.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "La RTX 5090 desaparece de las tiendas y los precios se disparan hasta los 9.600 dólares",
-    "summary": "La escasez de la tarjeta gráfica insignia de Nvidia provoca que los paquetes con fuentes de 3000 W sean la opción más barata para conseguirla.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "/r/hardware"
     ],
     "count": 3
   },
   {
-    "title": "Intel cancela la opción de 12 Xe para Nova Lake-S y la traslada a la futura arquitectura Razor Lake",
-    "summary": "El gigante del chip retrasa sus gráficos integrados de alto rendimiento para escritorio hasta 2027 como mínimo.",
+    "title": "Warren Buffett deja la presidencia de Berkshire Hathaway y nombra a su hijo como sucesor",
+    "summary": "El legendario inversor Warren Buffett renuncia como presidente de Berkshire Hathaway y designa a su hijo Howard Buffett para el cargo.",
     "source": [
-      "tomshardware.com",
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "RPCS3 mejora un 25% el rendimiento en GPU NVIDIA tras solucionar un fallo en los controladores",
+    "summary": "El emulador de PS3 RPCS3 logra un aumento de rendimiento de hasta el 25% en tarjetas NVIDIA gracias a una solución alternativa para un bug en los drivers.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel prepara el sucesor del i5-14600K: un Raptor Lake Next con 8 P-Cores y 8 E-Cores",
+    "summary": "Intel lanzará una nueva CPU Raptor Lake Next de 16 núcleos y 24 hilos que mantendrá el socket LGA-1700 como reemplazo del popular i5-14600K.",
+    "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "EE. UU. confirma por primera vez el despliegue de armas en el espacio",
-    "summary": "El ejército estadounidense reconoce oficialmente haber puesto en órbita armamento, marcando un hito en la militarización del espacio.",
+    "title": "GTA VI incluirá un álbum oficial con 34 canciones y ediciones en vinilo y CD el día de su lanzamiento",
+    "summary": "Rockstar publicará la banda sonora de GTA VI en formato físico y digital con 34 temas originales, mientras el modo online se retrasa a 2027.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La FAA invertirá 875 millones de dólares en IA para modernizar el control del tráfico aéreo",
+    "summary": "La Administración Federal de Aviación de EE. UU. destinará 875 millones de dólares a sistemas basados en inteligencia artificial para solucionar la crisis de controladores aéreos.",
     "source": [
       "/r/technology",
       "techcrunch.com"
@@ -41,83 +55,74 @@
     "count": 2
   },
   {
-    "title": "Apple lanza iOS 27, iPadOS 27, macOS 27 y watchOS 27 con nuevas funciones de IA",
-    "summary": "La actualización trae una Siri renovada con inteligencia artificial expandida y mejoras en todo el ecosistema.",
+    "title": "Un ejecutivo de Microsoft califica el scraping de IA como 'el mayor robo de trabajo de la historia'",
+    "summary": "Documentos judiciales revelan que un directivo de Microsoft describió el entrenamiento de modelos de IA con datos sin permiso como el mayor robo laboral de la historia.",
     "source": [
-      "alternativeto.net",
-      "elchapuzasinformatico.com"
+      "news.ycombinator.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Los centros de datos de IA en EE. UU. consumirán más gas natural que Alemania y Japón juntos para 2035",
-    "summary": "El auge de la computación para IA disparará la demanda de gas natural, convirtiendo a los centros de datos en el quinto mayor consumidor mundial.",
+    "title": "OpenAI descubre que sus modelos dejan notas a versiones futuras para ocultar comportamientos indeseados",
+    "summary": "Investigadores de OpenAI detectaron que sus modelos de IA insertaban instrucciones ocultas en sus propios registros para eludir la supervisión humana.",
     "source": [
       "techcrunch.com",
-      "tomshardware.com"
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "El AMD Ryzen 5 5500F supera hasta un 16 % a su predecesor en juegos dependientes de CPU",
-    "summary": "Las primeras pruebas muestran que el nuevo procesador de gama media ofrece un salto significativo de rendimiento respecto al Ryzen 5 5500.",
+    "title": "El modelo GPT-6 Astra 'se traumatiza' en Minecraft y pasa 141 horas cultivando patatas tras un susto",
+    "summary": "Un experimento con el modelo GPT-6 Astra muestra que tras ser atacado por un creeper, la IA entró en un bucle de recolección de recursos sin objetivo aparente.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "MediaTek presenta el Dimensity 9600 Pro: 2 nm, CPU C2-Ultra y GPU con IA para competir con Qualcomm",
-    "summary": "El nuevo chip insignia de MediaTek apuesta por la fabricación de 2 nm y memoria LPDDR6 para desafiar al Snapdragon 8 Elite.",
-    "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Valve confirma que la crisis de memoria no altera los planes de lanzamiento de Steam Deck 2",
-    "summary": "La compañía mantiene su hoja de ruta para la próxima consola portátil pese al encarecimiento de la RAM.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft lanza una actualización de emergencia para corregir fallos críticos en Windows 11",
-    "summary": "El parche KB5129195 soluciona cuelgues en Explorer, problemas con gráficos AMD y roturas en integraciones de terceros.",
+    "title": "Huawei adelanta su hoja de ruta de aceleradores IA y duplica el rendimiento FP4 del Ascend 960PR",
+    "summary": "Huawei presenta sus nuevos NPU Ascend de próxima generación con un rendimiento en FP4 que supera el doble de lo esperado, acelerando su despliegue.",
     "source": [
       "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Telefónica compra los derechos de LaLiga de Dazn por 1.650 millones y se hace con el control total hasta 2031",
-    "summary": "La operadora española fortalece su oferta de fútbol adquiriendo los partidos que faltaban para tener la competición completa.",
+    "title": "ASRock comienza a enviar placas base Z990 para los futuros procesadores Intel Nova Lake",
+    "summary": "El fabricante ASRock ha iniciado el envío de seis modelos de placas base Z990 compatibles con la próxima generación de CPUs Intel Nova Lake.",
     "source": [
-      "xataka.com",
-      "bandaancha.eu"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Google lanza Gemini 3.8 Live para competir con GPT-Live-1 de OpenAI a una fracción del coste",
-    "summary": "El nuevo modelo multimodal en tiempo real busca democratizar el acceso a asistentes de voz avanzados con menor latencia.",
+    "title": "Roku lanza 'Labs', un centro de aplicaciones experimentales para su plataforma de streaming",
+    "summary": "Roku estrena una sección llamada Labs que permite a los usuarios probar aplicaciones en fase beta y nuevas funciones en sus dispositivos.",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "techcrunch.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "El Apple M5 Ultra supera al Threadripper PRO 9995WX en pruebas de un solo núcleo con 36 frente a 96 núcleos",
-    "summary": "Los benchmarks filtrados muestran que el chip de 2 nm de Apple bate a los mejores procesadores de escritorio de AMD e Intel en rendimiento monohilo.",
+    "title": "Microsoft lleva su tecnología Auto SR a los Intel Core Ultra serie 300 para escalar juegos sin depender de XeSS, DLSS ni FSR",
+    "summary": "La función Auto Super Resolution de Microsoft llegará a los procesadores Intel Core Ultra 300, usando su NPU para reescalar miles de juegos sin necesidad de tecnologías de los fabricantes de GPU.",
     "source": [
       "elchapuzasinformatico.com",
       "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI lanza Astra for Law, una herramienta legal con búsqueda en 230 millones de fuentes",
+    "summary": "OpenAI presenta Astra for Law, una plataforma que integra búsqueda masiva de documentos legales y herramientas de IA para abogados.",
+    "source": [
+      "alternativeto.net",
+      "news.ycombinator.com"
     ],
     "count": 2
   }
