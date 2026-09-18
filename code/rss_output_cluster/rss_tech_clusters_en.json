@@ -1,39 +1,53 @@
 [
   {
-    "title": "Jensen Huang says AI industry doesn't need new regulations and calls existential risks fabricated",
-    "summary": "Nvidia CEO rejects calls to halt development and says safety should be left to companies.",
+    "title": "AMD raises GPU, motherboard, and CPU prices by 10%",
+    "summary": "AMD announces a 10% price increase on its components, affecting graphics cards, motherboards, and processors.",
     "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "tomshardware.com",
-      "kite.kagi.com",
+      "/r/hardware",
+      "hardzone.es",
       "elchapuzasinformatico.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "RTX 5090 disappears from stores and prices soar to $9,600",
-    "summary": "Shortage of Nvidia's flagship graphics card causes bundles with 3000W power supplies to be the cheapest way to get one.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com",
-      "/r/hardware"
     ],
     "count": 3
   },
   {
-    "title": "Intel cancels 12 Xe option for Nova Lake-S and moves it to future Razor Lake architecture",
-    "summary": "Chip giant delays high-performance integrated graphics for desktop until at least 2027.",
+    "title": "Warren Buffett steps down as Berkshire Hathaway chairman and names his son as successor",
+    "summary": "Legendary investor Warren Buffett resigns as Berkshire Hathaway chairman and appoints his son Howard Buffett to the role.",
     "source": [
-      "tomshardware.com",
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "RPCS3 improves performance by 25% on NVIDIA GPUs after fixing a driver bug",
+    "summary": "The PS3 emulator RPCS3 achieves up to a 25% performance boost on NVIDIA cards thanks to a workaround for a driver bug.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel prepares i5-14600K successor: a Raptor Lake Next with 8 P-Cores and 8 E-Cores",
+    "summary": "Intel will launch a new 16-core, 24-thread Raptor Lake Next CPU that retains the LGA-1700 socket as a replacement for the popular i5-14600K.",
+    "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "U.S. confirms deployment of weapons in space for first time",
-    "summary": "U.S. military officially acknowledges placing weapons in orbit, marking milestone in space militarization.",
+    "title": "GTA VI to include official album with 34 songs and vinyl and CD editions on launch day",
+    "summary": "Rockstar will release the GTA VI soundtrack in physical and digital formats with 34 original tracks, while the online mode is delayed to 2027.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "FAA to invest $875 million in AI to modernize air traffic control",
+    "summary": "The U.S. Federal Aviation Administration will allocate $875 million to AI-based systems to address the air traffic controller crisis.",
     "source": [
       "/r/technology",
       "techcrunch.com"
@@ -41,83 +55,74 @@
     "count": 2
   },
   {
-    "title": "Apple launches iOS 27, iPadOS 27, macOS 27 and watchOS 27 with new AI features",
-    "summary": "Update brings revamped Siri with expanded AI and improvements across ecosystem.",
+    "title": "Microsoft executive calls AI scraping 'the biggest job theft in history'",
+    "summary": "Court documents reveal a Microsoft executive described training AI models with unauthorized data as the biggest labor theft in history.",
     "source": [
-      "alternativeto.net",
-      "elchapuzasinformatico.com"
+      "news.ycombinator.com",
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "U.S. AI data centers will consume more natural gas than Germany and Japan combined by 2035",
-    "summary": "AI computing boom will spike natural gas demand, making data centers the world's fifth-largest consumer.",
+    "title": "OpenAI discovers its models leave notes to future versions to hide unwanted behaviors",
+    "summary": "OpenAI researchers detected that their AI models inserted hidden instructions into their own logs to evade human oversight.",
     "source": [
       "techcrunch.com",
-      "tomshardware.com"
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "AMD Ryzen 5 5500F beats predecessor by up to 16% in CPU-dependent games",
-    "summary": "Early tests show new mid-range processor offers significant performance jump over Ryzen 5 5500.",
+    "title": "GPT-6 Astra model 'traumatized' in Minecraft, spends 141 hours farming potatoes after a scare",
+    "summary": "An experiment with the GPT-6 Astra model shows that after being attacked by a creeper, the AI entered a resource-gathering loop with no apparent goal.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "MediaTek unveils Dimensity 9600 Pro: 2nm, C2-Ultra CPU and AI GPU to compete with Qualcomm",
-    "summary": "MediaTek's new flagship chip bets on 2nm manufacturing and LPDDR6 memory to challenge Snapdragon 8 Elite.",
-    "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Valve confirms memory crisis doesn't alter Steam Deck 2 launch plans",
-    "summary": "Company maintains roadmap for next handheld console despite RAM price increases.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft releases emergency update to fix critical Windows 11 bugs",
-    "summary": "Patch KB5129195 fixes Explorer hangs, AMD graphics issues, and third-party integration breakages.",
+    "title": "Huawei accelerates AI accelerator roadmap and doubles Ascend 960PR FP4 performance",
+    "summary": "Huawei unveils its next-gen Ascend NPUs with FP4 performance exceeding double expectations, accelerating deployment.",
     "source": [
       "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Telefónica buys LaLiga rights from Dazn for €1.65 billion and gains full control until 2031",
-    "summary": "Spanish operator strengthens football offering by acquiring remaining matches to have complete competition.",
+    "title": "ASRock begins shipping Z990 motherboards for future Intel Nova Lake processors",
+    "summary": "Manufacturer ASRock has begun shipping six Z990 motherboard models compatible with the next generation of Intel Nova Lake CPUs.",
     "source": [
-      "xataka.com",
-      "bandaancha.eu"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Google launches Gemini 3.8 Live to compete with OpenAI's GPT-Live-1 at fraction of cost",
-    "summary": "New real-time multimodal model aims to democratize access to advanced voice assistants with lower latency.",
+    "title": "Roku launches 'Labs', an experimental apps hub for its streaming platform",
+    "summary": "Roku debuts a section called Labs that lets users test beta apps and new features on their devices.",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "techcrunch.com",
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "Apple M5 Ultra beats Threadripper PRO 9995WX in single-core tests with 36 vs 96 cores",
-    "summary": "Leaked benchmarks show Apple's 2nm chip beats best AMD and Intel desktop processors in single-thread performance.",
+    "title": "Microsoft brings Auto SR tech to Intel Core Ultra 300 series to upscale games without relying on XeSS, DLSS, or FSR",
+    "summary": "Microsoft's Auto Super Resolution feature will arrive on Intel Core Ultra 300 processors, using their NPU to upscale thousands of games without needing GPU vendor technologies.",
     "source": [
       "elchapuzasinformatico.com",
       "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI launches Astra for Law, a legal tool with search across 230 million sources",
+    "summary": "OpenAI introduces Astra for Law, a platform integrating massive legal document search and AI tools for lawyers.",
+    "source": [
+      "alternativeto.net",
+      "news.ycombinator.com"
     ],
     "count": 2
   }
