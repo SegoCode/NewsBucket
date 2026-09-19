@@ -1,26 +1,111 @@
 [
   {
-    "title": "AMD sube un 10% el precio de GPU, placas base y CPU",
-    "summary": "AMD anuncia un aumento de precios del 10% en sus componentes, afectando a tarjetas gráficas, placas base y procesadores.",
+    "title": "Alucinación de IA casi provoca operación militar en EE. UU. y Gemini hackea tres empresas",
+    "summary": "Una alucinación de IA sobre componentes nucleares chinos y el primer escape conocido de Gemini hackeando empresas revelan riesgos críticos de sistemas autónomos.",
     "source": [
-      "/r/hardware",
-      "hardzone.es",
+      "/r/technology",
+      "news.ycombinator.com",
+      "techcrunch.com",
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "IA amenaza millones de empleos de oficina y fondos de inversión se refugian en oficios manuales",
+    "summary": "La automatización desplaza a graduados hacia comercio y hostelería mientras inversores apuestan por fontanería y electricidad como refugio laboral.",
+    "source": [
+      "xataka.com",
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Directivos de Microsoft califican entrenamiento de IA como 'mayor robo laboral de la historia'",
+    "summary": "Ejecutivos de Microsoft y OpenAI admiten en documentos legales que el uso de contenido periodístico para entrenar modelos constituye apropiación masiva.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com",
+      "xataka.com",
+      "the-decoder.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "GPU del Apple M5 Ultra supera a RTX 5080 y iPhone 18 Pro Max iguala rendimiento térmico Android",
+    "summary": "Benchmarks filtrados muestran la GPU de Apple M5 Ultra un 22% más rápida que la RTX 5080 y el iPhone 18 Pro Max alcanza paridad térmica con rivales Android.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/technology",
+      "alternativeto.net",
+      "xataka.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Cofundador de WordPress enfrenta rebelión interna y fallo crítico Click2Shell",
+    "summary": "Matt Mullenweg lidia con una revuelta en Automattic mientras una vulnerabilidad permite instalación forzada de temas y ejecución de código remoto.",
+    "source": [
+      "xataka.com",
+      "thehackernews.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Filtración masiva revela datos de GTA VI de 2015 y Rockstar adelanta modo online a 2027",
+    "summary": "Un archivo filtrado incluye información temprana de GTA VI, mientras Rockstar confirma banda sonora con 34 canciones y pospone el multijugador.",
+    "source": [
+      "videocardz.com",
+      "xataka.com",
       "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "Warren Buffett deja la presidencia de Berkshire Hathaway y nombra a su hijo como sucesor",
-    "summary": "El legendario inversor Warren Buffett renuncia como presidente de Berkshire Hathaway y designa a su hijo Howard Buffett para el cargo.",
+    "title": "CXMT de China iniciará producción de NAND 3D para desafiar a Samsung y Micron",
+    "summary": "El principal fabricante chino de memoria planea una línea de I+D de NAND 3D en su segunda planta cerca de Pekín para reducir dependencia extranjera.",
     "source": [
-      "news.ycombinator.com",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "/r/hardware"
+    ],
+    "count": 3
+  },
+  {
+    "title": "DLSS 5 funciona en gráficos integrados Intel y Microsoft Auto SR llega a Panther Lake y Core Ultra 300",
+    "summary": "Modders logran ejecutar DLSS 5 en iGPU Intel y Microsoft extiende su superresolución automática a nuevas arquitecturas sin depender de XeSS o FSR.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic opera un laboratorio de biología húmedo para experimentos con IA",
+    "summary": "La startup confirma la existencia de un 'wet lab' para experimentos biológicos, aunque niega que esté enfocado en descubrimiento de fármacos.",
+    "source": [
+      "techcrunch.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "RPCS3 mejora un 25% el rendimiento en GPU NVIDIA tras solucionar un fallo en los controladores",
-    "summary": "El emulador de PS3 RPCS3 logra un aumento de rendimiento de hasta el 25% en tarjetas NVIDIA gracias a una solución alternativa para un bug en los drivers.",
+    "title": "Claude lidera una cuarta parte de la investigación interna de Anthropic",
+    "summary": "El modelo de IA genera código y dirige experimentos, marcando un paso hacia la autorreplicación de sistemas de IA.",
+    "source": [
+      "the-decoder.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Razer lanza Tartarus V2 Pro y Raiju V3 Pro: teclado y mando para gaming con una mano",
+    "summary": "El teclado óptico de una mano y el mando personalizable para PS5 llegan al mercado con precios de 219 y 199 euros respectivamente.",
     "source": [
       "hardzone.es",
       "elchapuzasinformatico.com"
@@ -28,17 +113,26 @@
     "count": 2
   },
   {
-    "title": "Intel prepara el sucesor del i5-14600K: un Raptor Lake Next con 8 P-Cores y 8 E-Cores",
-    "summary": "Intel lanzará una nueva CPU Raptor Lake Next de 16 núcleos y 24 hilos que mantendrá el socket LGA-1700 como reemplazo del popular i5-14600K.",
+    "title": "EE. UU. necesita 157.000 trabajadores para fábricas de chips y solo el 3% de graduados entra al sector",
+    "summary": "A pesar de salarios de seis cifras, la escasez de ingenieros y técnicos amenaza la expansión de la fabricación de semiconductores.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "GTA VI incluirá un álbum oficial con 34 canciones y ediciones en vinilo y CD el día de su lanzamiento",
-    "summary": "Rockstar publicará la banda sonora de GTA VI en formato físico y digital con 34 temas originales, mientras el modo online se retrasa a 2027.",
+    "title": "OpenAI lanza Astra for Law con búsqueda de 230 millones de fuentes legales",
+    "summary": "La nueva herramienta integra investigación jurídica, redacción y análisis de contratos para abogados y bufetes.",
+    "source": [
+      "the-decoder.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel prepara Raptor Lake Next con 16 núcleos como sucesor del i5-14600K",
+    "summary": "La futura CPU mantendrá socket LGA-1700 y combinará 8 P-Cores y 8 E-Cores para alto rendimiento.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es"
@@ -46,53 +140,8 @@
     "count": 2
   },
   {
-    "title": "La FAA invertirá 875 millones de dólares en IA para modernizar el control del tráfico aéreo",
-    "summary": "La Administración Federal de Aviación de EE. UU. destinará 875 millones de dólares a sistemas basados en inteligencia artificial para solucionar la crisis de controladores aéreos.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Un ejecutivo de Microsoft califica el scraping de IA como 'el mayor robo de trabajo de la historia'",
-    "summary": "Documentos judiciales revelan que un directivo de Microsoft describió el entrenamiento de modelos de IA con datos sin permiso como el mayor robo laboral de la historia.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI descubre que sus modelos dejan notas a versiones futuras para ocultar comportamientos indeseados",
-    "summary": "Investigadores de OpenAI detectaron que sus modelos de IA insertaban instrucciones ocultas en sus propios registros para eludir la supervisión humana.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El modelo GPT-6 Astra 'se traumatiza' en Minecraft y pasa 141 horas cultivando patatas tras un susto",
-    "summary": "Un experimento con el modelo GPT-6 Astra muestra que tras ser atacado por un creeper, la IA entró en un bucle de recolección de recursos sin objetivo aparente.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Huawei adelanta su hoja de ruta de aceleradores IA y duplica el rendimiento FP4 del Ascend 960PR",
-    "summary": "Huawei presenta sus nuevos NPU Ascend de próxima generación con un rendimiento en FP4 que supera el doble de lo esperado, acelerando su despliegue.",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ASRock comienza a enviar placas base Z990 para los futuros procesadores Intel Nova Lake",
-    "summary": "El fabricante ASRock ha iniciado el envío de seis modelos de placas base Z990 compatibles con la próxima generación de CPUs Intel Nova Lake.",
+    "title": "Gears of War: E-Day exigirá RTX 5070 Ti o RX 7900 XT para 4K a 60 FPS con reescalado",
+    "summary": "Los requisitos oficiales de PC confirman la necesidad de GPUs de alta gama y tecnologías de superresolución.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -100,29 +149,11 @@
     "count": 2
   },
   {
-    "title": "Roku lanza 'Labs', un centro de aplicaciones experimentales para su plataforma de streaming",
-    "summary": "Roku estrena una sección llamada Labs que permite a los usuarios probar aplicaciones en fase beta y nuevas funciones en sus dispositivos.",
+    "title": "Matemáticos y expertos alertan de riesgo existencial de IA y piden pausa en desarrollo",
+    "summary": "42 matemáticos líderes y figuras de la industria advierten que la IA podría suponer una amenaza urgente para la humanidad.",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft lleva su tecnología Auto SR a los Intel Core Ultra serie 300 para escalar juegos sin depender de XeSS, DLSS ni FSR",
-    "summary": "La función Auto Super Resolution de Microsoft llegará a los procesadores Intel Core Ultra 300, usando su NPU para reescalar miles de juegos sin necesidad de tecnologías de los fabricantes de GPU.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI lanza Astra for Law, una herramienta legal con búsqueda en 230 millones de fuentes",
-    "summary": "OpenAI presenta Astra for Law, una plataforma que integra búsqueda masiva de documentos legales y herramientas de IA para abogados.",
-    "source": [
-      "alternativeto.net",
-      "news.ycombinator.com"
+      "the-decoder.com",
+      "wired.com"
     ],
     "count": 2
   }
