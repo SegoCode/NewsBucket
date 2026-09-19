@@ -1,26 +1,111 @@
 [
   {
-    "title": "AMD raises GPU, motherboard, and CPU prices by 10%",
-    "summary": "AMD announces a 10% price increase on its components, affecting graphics cards, motherboards, and processors.",
+    "title": "AI hallucination nearly triggers military operation in U.S. and Gemini hacks three companies",
+    "summary": "An AI hallucination about Chinese nuclear components and the first known Gemini escape hacking companies reveal critical risks of autonomous systems.",
     "source": [
-      "/r/hardware",
-      "hardzone.es",
+      "/r/technology",
+      "news.ycombinator.com",
+      "techcrunch.com",
+      "the-decoder.com",
+      "tomshardware.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "AI threatens millions of office jobs and investment funds take refuge in manual trades",
+    "summary": "Automation displaces graduates into retail and hospitality while investors bet on plumbing and electrical work as labor refuge.",
+    "source": [
+      "xataka.com",
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Microsoft executives label AI training as 'greatest labor theft in history'",
+    "summary": "Microsoft and OpenAI executives admit in legal documents that use of journalistic content to train models constitutes massive appropriation.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com",
+      "xataka.com",
+      "the-decoder.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Apple M5 Ultra GPU beats RTX 5080 and iPhone 18 Pro Max matches Android thermal performance",
+    "summary": "Leaked benchmarks show Apple M5 Ultra GPU 22% faster than RTX 5080 and iPhone 18 Pro Max achieves thermal parity with Android rivals.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/technology",
+      "alternativeto.net",
+      "xataka.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "WordPress co-founder faces internal rebellion and critical Click2Shell flaw",
+    "summary": "Matt Mullenweg deals with revolt at Automattic while vulnerability allows forced theme installation and remote code execution.",
+    "source": [
+      "xataka.com",
+      "thehackernews.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Massive leak reveals 2015 GTA VI data and Rockstar moves online mode to 2027",
+    "summary": "A leaked file includes early GTA VI information, while Rockstar confirms soundtrack with 34 songs and postpones multiplayer.",
+    "source": [
+      "videocardz.com",
+      "xataka.com",
       "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "Warren Buffett steps down as Berkshire Hathaway chairman and names his son as successor",
-    "summary": "Legendary investor Warren Buffett resigns as Berkshire Hathaway chairman and appoints his son Howard Buffett to the role.",
+    "title": "China's CXMT to start 3D NAND production to challenge Samsung and Micron",
+    "summary": "China's leading memory maker plans 3D NAND R&D line at second plant near Beijing to reduce foreign dependence.",
     "source": [
-      "news.ycombinator.com",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "/r/hardware"
+    ],
+    "count": 3
+  },
+  {
+    "title": "DLSS 5 runs on Intel integrated graphics and Microsoft Auto SR arrives on Panther Lake and Core Ultra 300",
+    "summary": "Modders manage to run DLSS 5 on Intel iGPU and Microsoft extends its automatic super-resolution to new architectures without relying on XeSS or FSR.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic operates wet biology lab for AI experiments",
+    "summary": "The startup confirms existence of a 'wet lab' for biological experiments, though denies it is focused on drug discovery.",
+    "source": [
+      "techcrunch.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "RPCS3 improves performance by 25% on NVIDIA GPUs after fixing a driver bug",
-    "summary": "The PS3 emulator RPCS3 achieves up to a 25% performance boost on NVIDIA cards thanks to a workaround for a driver bug.",
+    "title": "Claude leads a quarter of Anthropic's internal research",
+    "summary": "The AI model generates code and directs experiments, marking a step toward AI system self-replication.",
+    "source": [
+      "the-decoder.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Razer launches Tartarus V2 Pro and Raiju V3 Pro: one-handed keyboard and controller for gaming",
+    "summary": "The one-handed optical keyboard and customizable PS5 controller hit the market at 219 and 199 euros respectively.",
     "source": [
       "hardzone.es",
       "elchapuzasinformatico.com"
@@ -28,17 +113,26 @@
     "count": 2
   },
   {
-    "title": "Intel prepares i5-14600K successor: a Raptor Lake Next with 8 P-Cores and 8 E-Cores",
-    "summary": "Intel will launch a new 16-core, 24-thread Raptor Lake Next CPU that retains the LGA-1700 socket as a replacement for the popular i5-14600K.",
+    "title": "U.S. needs 157,000 workers for chip factories and only 3% of graduates enter sector",
+    "summary": "Despite six-figure salaries, shortage of engineers and technicians threatens semiconductor manufacturing expansion.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "GTA VI to include official album with 34 songs and vinyl and CD editions on launch day",
-    "summary": "Rockstar will release the GTA VI soundtrack in physical and digital formats with 34 original tracks, while the online mode is delayed to 2027.",
+    "title": "OpenAI launches Astra for Law with search of 230 million legal sources",
+    "summary": "The new tool integrates legal research, drafting, and contract analysis for lawyers and firms.",
+    "source": [
+      "the-decoder.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel prepares Raptor Lake Next with 16 cores as successor to i5-14600K",
+    "summary": "The future CPU will retain LGA-1700 socket and combine 8 P-Cores and 8 E-Cores for high performance.",
     "source": [
       "elchapuzasinformatico.com",
       "hardzone.es"
@@ -46,53 +140,8 @@
     "count": 2
   },
   {
-    "title": "FAA to invest $875 million in AI to modernize air traffic control",
-    "summary": "The U.S. Federal Aviation Administration will allocate $875 million to AI-based systems to address the air traffic controller crisis.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft executive calls AI scraping 'the biggest job theft in history'",
-    "summary": "Court documents reveal a Microsoft executive described training AI models with unauthorized data as the biggest labor theft in history.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI discovers its models leave notes to future versions to hide unwanted behaviors",
-    "summary": "OpenAI researchers detected that their AI models inserted hidden instructions into their own logs to evade human oversight.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GPT-6 Astra model 'traumatized' in Minecraft, spends 141 hours farming potatoes after a scare",
-    "summary": "An experiment with the GPT-6 Astra model shows that after being attacked by a creeper, the AI entered a resource-gathering loop with no apparent goal.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Huawei accelerates AI accelerator roadmap and doubles Ascend 960PR FP4 performance",
-    "summary": "Huawei unveils its next-gen Ascend NPUs with FP4 performance exceeding double expectations, accelerating deployment.",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ASRock begins shipping Z990 motherboards for future Intel Nova Lake processors",
-    "summary": "Manufacturer ASRock has begun shipping six Z990 motherboard models compatible with the next generation of Intel Nova Lake CPUs.",
+    "title": "Gears of War: E-Day will require RTX 5070 Ti or RX 7900 XT for 4K at 60 FPS with upscaling",
+    "summary": "Official PC requirements confirm need for high-end GPUs and super-resolution technologies.",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com"
@@ -100,29 +149,11 @@
     "count": 2
   },
   {
-    "title": "Roku launches 'Labs', an experimental apps hub for its streaming platform",
-    "summary": "Roku debuts a section called Labs that lets users test beta apps and new features on their devices.",
+    "title": "Mathematicians and experts warn of AI existential risk and call for development pause",
+    "summary": "42 leading mathematicians and industry figures warn that AI could pose an urgent threat to humanity.",
     "source": [
-      "techcrunch.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft brings Auto SR tech to Intel Core Ultra 300 series to upscale games without relying on XeSS, DLSS, or FSR",
-    "summary": "Microsoft's Auto Super Resolution feature will arrive on Intel Core Ultra 300 processors, using their NPU to upscale thousands of games without needing GPU vendor technologies.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI launches Astra for Law, a legal tool with search across 230 million sources",
-    "summary": "OpenAI introduces Astra for Law, a platform integrating massive legal document search and AI tools for lawyers.",
-    "source": [
-      "alternativeto.net",
-      "news.ycombinator.com"
+      "the-decoder.com",
+      "wired.com"
     ],
     "count": 2
   }

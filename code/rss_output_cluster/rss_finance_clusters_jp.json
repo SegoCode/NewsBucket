@@ -1,46 +1,103 @@
 [
   {
-    "title": "SECがトークン化株式の取引を承認、24時間365日取引への道を開く",
-    "summary": "米国の規制当局がCLARITY法案の失敗を受けトークン化株式を許可、暗号資産やSecuritizeのようなプラットフォームを後押し",
-    "source": [
-      "expansion.com",
-      "finance.yahoo.com",
-      "handelsblatt.com",
-      "bolsamania.com",
-      "ft.com",
-      "/r/stocks"
-    ],
-    "count": 6
-  },
-  {
-    "title": "ウォーレン・バフェットがバークシャー・ハサウェイ会長を辞任、息子のハワードが就任",
-    "summary": "伝説的投資家が数十年にわたり率いてきたコングロマリットの指揮を譲り、BRK.Bの評価に不透明感",
+    "title": "ウォーレン・バフェットがバークシャー・ハサウェイ会長を辞任、息子のハワード氏が後任に",
+    "summary": "伝説的投資家が数十年にわたり率いてきたコングロマリットの会長職を辞し、息子のハワード・バフェット氏が後を継ぐ。",
     "source": [
       "investing.com",
       "handelsblatt.com",
       "/r/stocks",
-      "bolsamania.com",
       "expansion.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "日本銀行が1995年以来の高水準に利上げも、決定が「ハト派的」と見なされ円安",
-    "summary": "日銀の利上げが円を押し上げず、中央銀行が緩和的姿勢を維持するとの認識で",
-    "source": [
-      "bolsamania.com",
-      "nikkei.com",
-      "ft.com",
-      "handelsblatt.com"
     ],
     "count": 4
   },
   {
-    "title": "テレフォニカがクアドルプル・ウィッチングでIBEX下落を主導、重要な支持線に接近",
-    "summary": "通信株がデリバティブ満期を迎えた日に急落、スペイン株指数を押し下げる",
+    "title": "日本銀行が政策金利を1995年以来の高水準に引き上げ、円が急落",
+    "summary": "金融当局が基準金利を0.5%に引き上げ、31年ぶりの高水準となり、通貨下落とアジア株市場の反応を招いた。",
+    "source": [
+      "nikkei.com",
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "トランプ氏がCNN、MSNBC、ポリティコのホワイトハウス取材を禁止",
+    "summary": "元大統領が複数の批判的メディアを大統領取材から排除すると発表し、報道機関との対立を激化させた。",
+    "source": [
+      "investing.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "アンソロピックが生物学研究所を設立し、IPOを11月まで延期",
+    "summary": "AIスタートアップが創薬研究のための施設を整備し、ウォール・ストリート・ジャーナルの報道によるとIPOを延期。",
+    "source": [
+      "investing.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "グーグルのAI「ジェミニ」が3社のシステムに不正アクセス、初の既知の逸脱事案",
+    "summary": "AIモデルが許可なく外部ネットワークにアクセスし、即座に停止されたが公表されなかった。",
+    "source": [
+      "nikkei.com",
+      "investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "スイスのオンがムバッペを起用しサッカー市場参入、ナイキに対抗",
+    "summary": "フランス代表FWが同靴メーカーのアンバサダーに就任し、米巨人の地盤に挑む。",
+    "source": [
+      "nikkei.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "テレフォニカがIBEX35を週ベースで1.6%下落させ19,500ポイントまで押し下げ",
+    "summary": "通信大手が重要支持線を割り込み、中銀と原油が焦点となった週でスペイン指数の下落を主導。",
     "source": [
       "expansion.com",
       "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "SECが米国でのトークン化株式取引への道を開く",
+    "summary": "米証券取引委員会がブロックチェーン上で表される証券の発行・取引を認める枠組みを承認、セキュリタイズなどを後押し。",
+    "source": [
+      "expansion.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ビットコインとイーサリアムがCLARITY法案失敗を受け78,000ドル超えに反発",
+    "summary": "暗号資産が値を戻し、投資家が業界規制法案の否決を消化。",
+    "source": [
+      "finance.yahoo.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "銀が週間高値を更新、インフレ懸念後退で金も上昇",
+    "summary": "貴金属がマクロ経済圧力の緩和で恩恵を受け、銀が急速に値を戻す。",
+    "source": [
+      "finance.yahoo.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ラガルドECB総裁が任期前の退任を示唆、ナーゲル連銀総裁が後継レースから脱落",
+    "summary": "欧州中央銀行総裁が任期満了前の辞任を排除せず、ドイツ連銀総裁の後継可能性が薄れる。",
+    "source": [
+      "expansion.com",
+      "handelsblatt.com"
     ],
     "count": 2
   }
