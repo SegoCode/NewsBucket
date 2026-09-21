@@ -42,11 +42,14 @@ cd code
 pnpm install
 ```
 
-Add your RSS feed URLs to `.txt` files in `code/rss_input/`. Create a `.env` file in `code/` with your API key:
+Add your RSS feed URLs to `.txt` files in `code/rss_input/`. Create a `.env` file in `code/` with your API keys:
 
 ```
 OPENCODE_API_KEY=your-key
+GEMINI_API_KEY=your-key
 ```
+
+OpenCode is the primary LLM. Gemini (`gemini-3.5-flash-lite`) is used only if OpenCode returns HTTP 429.
 
 Then run the pipeline:
 
