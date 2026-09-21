@@ -94,7 +94,7 @@ jobs:
         working-directory: ./code
         env:
           OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
-
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       - *commit
 
   cluster-finance:
@@ -177,7 +177,7 @@ jobs:
         working-directory: ./code
         env:
           OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
-
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       - *commit
 
       - name: Report translation failures
