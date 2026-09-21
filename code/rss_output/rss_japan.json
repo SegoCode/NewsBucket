@@ -1,15 +1,57 @@
 {
-  "fetchedAt": "2026-09-21T03:18:49.244Z",
+  "fetchedAt": "2026-09-21T03:36:21.587Z",
   "totalItems": 180,
   "totalErrors": 0,
   "items": [
     {
+      "id": "https://news.yahoo.co.jp/pickup/6596004?source=rss",
+      "title": "事故で意識不明の男児が死亡 福岡",
+      "description": "",
+      "content": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596004?source=rss",
+      "publishedAt": "2026-09-21T03:28:34.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
+      }
+    },
+    {
       "id": "https://mainichi.jp/articles/20260921/k00/00m/310/055000c",
-      "title": "「ベートーベン・プロジェクト」　25年かけフィナーレへ　盛岡",
+      "title": "「ベートーヴェン・プロジェクト」25年かけフィナーレへ　盛岡",
       "description": "",
       "content": "",
       "url": "https://mainichi.jp/articles/20260921/k00/00m/310/055000c",
-      "publishedAt": "2026-09-21T03:16:37.000Z",
+      "publishedAt": "2026-09-21T03:21:08.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "mainichi.jp",
+        "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
+      }
+    },
+    {
+      "id": "https://news.yahoo.co.jp/pickup/6596001?source=rss",
+      "title": "GTO 生徒役オーディションの価値",
+      "description": "",
+      "content": "",
+      "url": "https://news.yahoo.co.jp/pickup/6596001?source=rss",
+      "publishedAt": "2026-09-21T03:18:22.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "news.yahoo.co.jp",
+        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
+      }
+    },
+    {
+      "id": "https://mainichi.jp/articles/20260921/k00/00m/040/054000c",
+      "title": "横浜市では土砂崩落などが相次ぐ　けが人なし　台風25号",
+      "description": "",
+      "content": "",
+      "url": "https://mainichi.jp/articles/20260921/k00/00m/040/054000c",
+      "publishedAt": "2026-09-21T03:17:36.000Z",
       "author": null,
       "categories": [],
       "source": {
@@ -32,17 +74,31 @@
       }
     },
     {
-      "id": "https://mainichi.jp/articles/20260921/k00/00m/040/054000c",
-      "title": "横浜市では土砂崩落などが相次ぐ　けが人なし　台風25号",
+      "id": "https://www.yomiuri.co.jp/world/20260921-GYT1T00156/",
+      "title": "米中が閣僚級協議…「非競争領域」で双方が３００億ドル規模の関税引き下げを検討",
       "description": "",
       "content": "",
-      "url": "https://mainichi.jp/articles/20260921/k00/00m/040/054000c",
-      "publishedAt": "2026-09-21T03:07:10.000Z",
+      "url": "https://yomiuri.co.jp/world/20260921-GYT1T00156",
+      "publishedAt": "2026-09-21T03:04:00.000Z",
       "author": null,
       "categories": [],
       "source": {
-        "name": "mainichi.jp",
-        "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/sports/etc/20260921-GYT1T00056/",
+      "title": "カザフスタンの偉才が通算５個目の金メダル、現役最後のシーズンで会心のレース…自転車男子",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/sports/etc/20260921-GYT1T00056",
+      "publishedAt": "2026-09-21T03:01:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
@@ -57,6 +113,20 @@
       "source": {
         "name": "mainichi.jp",
         "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/national/20260921-GYT1T00152/",
+      "title": "酒酔い運転の事故に巻き込まれた男児死亡…６８歳容疑者「酒の影響でアクセルとブレーキを踏み間違えた」",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/national/20260921-GYT1T00152",
+      "publishedAt": "2026-09-21T02:46:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
@@ -130,26 +200,26 @@
       }
     },
     {
+      "id": "https://www.yomiuri.co.jp/culture/cinema/20260921-GYT1T00132/",
+      "title": "１００万部超え「ルックバック」、人気作の実写化に挑んだ是枝監督は「音を主役に据えた」",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/culture/cinema/20260921-GYT1T00132",
+      "publishedAt": "2026-09-21T02:29:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
       "id": "https://news.yahoo.co.jp/pickup/6595995?source=rss",
       "title": "学年上がり自転車事故増 識者指摘",
       "description": "",
       "content": "",
       "url": "https://news.yahoo.co.jp/pickup/6595995?source=rss",
       "publishedAt": "2026-09-21T02:21:58.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "news.yahoo.co.jp",
-        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
-      }
-    },
-    {
-      "id": "https://news.yahoo.co.jp/pickup/6595996?source=rss",
-      "title": "代表合流直前 DF冨安健洋が負傷",
-      "description": "",
-      "content": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595996?source=rss",
-      "publishedAt": "2026-09-21T02:18:32.000Z",
       "author": null,
       "categories": [],
       "source": {
@@ -169,6 +239,20 @@
       "source": {
         "name": "mainichi.jp",
         "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
+      }
+    },
+    {
+      "id": "https://www.yomiuri.co.jp/politics/20260918-GYT1T00067/",
+      "title": "内閣改造で「高市一強」はどう変わる？ 首相の思惑と性格が呼び込んだ政権のもろさ",
+      "description": "",
+      "content": "",
+      "url": "https://yomiuri.co.jp/politics/20260918-GYT1T00067",
+      "publishedAt": "2026-09-21T02:15:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "yomiuri.co.jp",
+        "url": "https://www.yomiuri.co.jp/news/"
       }
     },
     {
@@ -242,6 +326,90 @@
       }
     },
     {
+      "id": "https://www.nikkei.com/article/DGXZQOGR28CJK0Y6A520C2000000/",
+      "title": "経済困窮が縛る「アラブの盟主」　エジプト・シシ大統領",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGR28CJK0Y6A520C2000000",
+      "publishedAt": "2026-09-21T02:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUC184TV0Y6A910C2000000/",
+      "title": "油ガス田とは　国営石油や欧米メジャーなどが権益争い",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUC184TV0Y6A910C2000000",
+      "publishedAt": "2026-09-21T02:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUC242B80U6A320C2000000/",
+      "title": "世界の油ガス田、25年の新規発見最低　供給源の多様化が急務に",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUC242B80U6A320C2000000",
+      "publishedAt": "2026-09-21T02:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUC091IB0Z00C26A9000000/",
+      "title": "独居高齢者900万人、パソナが見守り×家事代行でまるごと支援",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUC091IB0Z00C26A9000000",
+      "publishedAt": "2026-09-21T02:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOUA180VX0Y6A910C2000000/",
+      "title": "野党「各党独自に活動を」52%「まとまるべきだ」38%　日経調査",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOUA180VX0Y6A910C2000000",
+      "publishedAt": "2026-09-21T02:00:00.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOGN2108H0R20C26A9000000/",
+      "title": "AIの事故情報など米中で「通知」　米国、閣僚協議で仕組み構築提案",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOGN2108H0R20C26A9000000",
+      "publishedAt": "2026-09-21T01:56:50.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
       "id": "https://news.yahoo.co.jp/pickup/6595993?source=rss",
       "title": "音楽フェス 台風で30組超出演辞退",
       "description": "",
@@ -312,6 +480,20 @@
       }
     },
     {
+      "id": "https://www.nikkei.com/article/DGXZQOKC2104X0R20C26A9000000/",
+      "title": "鈴木誠也、25号ソロホームラン　レッドソックスがプレーオフ進出",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOKC2104X0R20C26A9000000",
+      "publishedAt": "2026-09-21T01:36:51.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
+      }
+    },
+    {
       "id": "https://mainichi.jp/articles/20260921/k00/00m/050/040000c",
       "title": "ドジャースの佐々木朗希が救援で復帰へ　パドレス3連戦で",
       "description": "",
@@ -337,6 +519,20 @@
       "source": {
         "name": "yomiuri.co.jp",
         "url": "https://www.yomiuri.co.jp/news/"
+      }
+    },
+    {
+      "id": "https://www.nikkei.com/article/DGXZQOKC2109D0R20C26A9000000/",
+      "title": "佐々木朗希、救援で復帰へ　23日からのパドレス戦で",
+      "description": "",
+      "content": "",
+      "url": "https://nikkei.com/article/DGXZQOKC2109D0R20C26A9000000",
+      "publishedAt": "2026-09-21T01:18:29.000Z",
+      "author": null,
+      "categories": [],
+      "source": {
+        "name": "nikkei.com",
+        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -634,20 +830,6 @@
       }
     },
     {
-      "id": "https://news.yahoo.co.jp/pickup/6595985?source=rss",
-      "title": "独州議会選 極右政党が再び勝利",
-      "description": "",
-      "content": "",
-      "url": "https://news.yahoo.co.jp/pickup/6595985?source=rss",
-      "publishedAt": "2026-09-21T00:05:01.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "news.yahoo.co.jp",
-        "url": "https://news.yahoo.co.jp/topics/top-picks?source=rss"
-      }
-    },
-    {
       "id": "https://www.nikkei.com/article/DGXZQODH2008D0Q6A920C2000000/",
       "title": "21日の有力馬　神戸新聞杯など競馬予想",
       "description": "",
@@ -701,20 +883,6 @@
       "source": {
         "name": "yomiuri.co.jp",
         "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOKC2104X0R20C26A9000000/",
-      "title": "鈴木誠也、25号ソロホームラン　レッドソックスがプレーオフ進出",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOKC2104X0R20C26A9000000",
-      "publishedAt": "2026-09-20T23:41:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
       }
     },
     {
@@ -1236,20 +1404,6 @@
       }
     },
     {
-      "id": "https://www.yomiuri.co.jp/sports/etc/20260921-GYT1T00056/",
-      "title": "［アジアの星］偉才　最後のシーズン…アレクセイ・ルツェンコ　３４　カザフスタン　自転車男子",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/sports/etc/20260921-GYT1T00056",
-      "publishedAt": "2026-09-20T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
       "id": "https://www.yomiuri.co.jp/sports/etc/20260921-GYT1T00044/",
       "title": "近代五種、女子団体が銅メダル…パリ「銀」佐藤大宗はまさかの１１位",
       "description": "",
@@ -1446,62 +1600,6 @@
       }
     },
     {
-      "id": "https://www.yomiuri.co.jp/medical/renaissance/20260920-GYT8T00108/",
-      "title": "［医療ルネサンス］睡眠薬の減薬・休薬＜５＞「デジタル式」アプリ活用",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/medical/renaissance/20260920-GYT8T00108",
-      "publishedAt": "2026-09-20T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/medical/20260920-GYT8T00076/",
-      "title": "「できること」みんなの喜び…認知症の日",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/medical/20260920-GYT8T00076",
-      "publishedAt": "2026-09-20T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/economy/global/20260920-GYT8T00046/",
-      "title": "［経済フォーカス　識者の眼］消費税減税「豊かさ」もたらさぬ…物価高の表面化　先送り",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/economy/global/20260920-GYT8T00046",
-      "publishedAt": "2026-09-20T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
-      "id": "https://www.yomiuri.co.jp/sports/etc/20260920-GYT1T00307/",
-      "title": "初採用のテックボール、客席で即席のルール解説など普及活動も…未来の人気競技に",
-      "description": "",
-      "content": "",
-      "url": "https://yomiuri.co.jp/sports/etc/20260920-GYT1T00307",
-      "publishedAt": "2026-09-20T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "yomiuri.co.jp",
-        "url": "https://www.yomiuri.co.jp/news/"
-      }
-    },
-    {
       "id": "https://www.nikkei.com/article/DGXZQOGR15BVJ0V10C26A9000000/",
       "title": "イエメンのフーシとは　イランが武器供給、紅海「掌握」でサウジに圧力",
       "description": "",
@@ -1619,104 +1717,6 @@
       "description": "",
       "content": "",
       "url": "https://nikkei.com/article/DGXZQOUB0989B0Z00C26A9000000",
-      "publishedAt": "2026-09-20T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOCC1182C0R10C26A9000000/",
-      "title": "岐路に立つ紙のまち・四国中央市　地元支えた企業消滅、成長の道筋は",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCC1182C0R10C26A9000000",
-      "publishedAt": "2026-09-20T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUD147PP0U6A910C2000000/",
-      "title": "「ひとりじまい」の時代　身寄りなき高齢者、頼れる人はいますか？",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUD147PP0U6A910C2000000",
-      "publishedAt": "2026-09-20T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUC167OS0W6A910C2000000/",
-      "title": "「支出増やしたい」食料品が16%で過去最高　若年層で顕著",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUC167OS0W6A910C2000000",
-      "publishedAt": "2026-09-20T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOCD176MW0X10C26A9000000/",
-      "title": "電気通信大学、図書館の屋上でスマート養蜂　AIでミツバチの健康管理",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCD176MW0X10C26A9000000",
-      "publishedAt": "2026-09-20T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOCD075F20X00C26A9000000/",
-      "title": "「沈黙のFRB」市場に波紋　読めぬ本音、9月利上げで変わるか",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOCD075F20X00C26A9000000",
-      "publishedAt": "2026-09-20T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUC2459C0U6A820C2000000/",
-      "title": "熊本地震でスターリンク利用3倍　基地局復旧は数日、10年前より短く",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUC2459C0U6A820C2000000",
-      "publishedAt": "2026-09-20T20:00:00.000Z",
-      "author": null,
-      "categories": [],
-      "source": {
-        "name": "nikkei.com",
-        "url": "https://www.nikkei.com/news/category/"
-      }
-    },
-    {
-      "id": "https://www.nikkei.com/article/DGXZQOUA1157N0R10C26A9000000/",
-      "title": "GPIF運用好調、「年金増」アピールの厚労省　背景に政治への警戒",
-      "description": "",
-      "content": "",
-      "url": "https://nikkei.com/article/DGXZQOUA1157N0R10C26A9000000",
       "publishedAt": "2026-09-20T20:00:00.000Z",
       "author": null,
       "categories": [],
