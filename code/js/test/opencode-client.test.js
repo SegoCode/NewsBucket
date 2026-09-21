@@ -3,10 +3,11 @@ import test from "node:test";
 import { requestOpenCodeJson } from "../opencode-client.js";
 import { sseResponse, validClusters } from "./test-fixtures.js";
 
-const request = (fetchImpl, validate = () => true) =>
+const request = (fetchImpl, validate = () => true, geminiApiKey = "") =>
 	requestOpenCodeJson({
 		fetchImpl,
 		apiKey: "test-key",
+		geminiApiKey,
 		messages: [],
 		context: "test/request",
 		validate,
@@ -96,4 +97,65 @@ test("reuses session and request ids across retries", async () => {
 	assert.equal(sessions.length, 2);
 	assert.equal(sessions[0], sessions[1]);
 	assert.equal(requests[0], requests[1]);
+});
+
+const rateLimitResponse = () =>
+	new Response(
+		JSON.stringify({
+			type: "error",
+			error: {
+				type: "FreeUsageLimitError",
+				message: "Rate limit exceeded. Please try again later.",
+			},
+		}),
+		{ status: 429 },
+	);
+
+const geminiResponse = (value) =>
+	new Response(
+		JSON.stringify({
+			candidates: [
+				{ content: { parts: [{ text: JSON.stringify(value) }] } },
+			],
+		}),
+	);
+
+test("falls back to gemini after an OpenCode rate limit", async () => {
+	const urls = [];
+	let geminiInit;
+	const result = await request(
+		async (url, init) => {
+			urls.push(url);
+			if (String(url).includes("opencode.ai")) return rateLimitResponse();
+			geminiInit = init;
+			return geminiResponse(validClusters);
+		},
+		() => true,
+		"gemini-key",
+	);
+
+	assert.deepEqual(result, validClusters);
+	assert.deepEqual(urls, [
+		"https://opencode.ai/zen/v1/chat/completions",
+		"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent",
+	]);
+	assert.equal(geminiInit.headers["x-goog-api-key"], "gemini-key");
+	assert.equal(
+		JSON.parse(geminiInit.body).generationConfig.responseMimeType,
+		"application/json",
+	);
+});
+
+test("retries OpenCode rate limits when gemini is not configured", async () => {
+	let calls = 0;
+
+	await assert.rejects(
+		request(async () => {
+			calls++;
+			return rateLimitResponse();
+		}),
+		/HTTP 429/,
+	);
+
+	assert.equal(calls, 4);
 });
