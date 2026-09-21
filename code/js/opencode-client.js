@@ -8,6 +8,8 @@ const MODEL = "nemotron-3-ultra-free";
 const USER_AGENT = "opencode/1.18.31";
 const MAX_ATTEMPTS = 4;
 const FINAL_RETRY_DELAY = 60_000;
+const GEMINI_URL =
+	"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent";
 const BASE62 = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
 const TOOLS = [
 	{
@@ -53,9 +55,71 @@ const readJsonStream = async (response) => {
 	return JSON.parse(jsonrepair(content));
 };
 
+const isRateLimit = (error) =>
+	/HTTP 429\b/.test(error instanceof Error ? error.message : String(error));
+
+const geminiPayload = (messages) => {
+	const system = [];
+	const contents = [];
+	for (const message of messages) {
+		if (message.role === "system") {
+			system.push(message.content);
+			continue;
+		}
+		contents.push({
+			role: message.role === "assistant" ? "model" : "user",
+			parts: [{ text: message.content }],
+		});
+	}
+	return {
+		contents,
+		generationConfig: {
+			temperature: 0.2,
+			responseMimeType: "application/json",
+		},
+		...(system.length > 0 && {
+			systemInstruction: { parts: [{ text: system.join("\n") }] },
+		}),
+	};
+};
+
+const requestGeminiJson = async ({
+	fetchImpl,
+	apiKey,
+	messages,
+	validate,
+	context,
+}) => {
+	const response = await fetchImpl(GEMINI_URL, {
+		method: "POST",
+		headers: {
+			"Content-Type": "application/json",
+			"x-goog-api-key": apiKey,
+		},
+		body: JSON.stringify(geminiPayload(messages)),
+	});
+	if (!response.ok) {
+		throw new Error(
+			`${context}: gemini HTTP ${response.status} ${await response.text()}`,
+		);
+	}
+
+	const payload = await response.json();
+	const text = payload.candidates?.[0]?.content?.parts
+		?.map((part) => part.text || "")
+		.join("");
+	const result = JSON.parse(jsonrepair(text || ""));
+	if (!validate(result))
+		throw new Error(
+			`${context}: deterministic validation failed (possible hallucination)`,
+		);
+	return result;
+};
+
 export const requestOpenCodeJson = async ({
 	fetchImpl = globalThis.fetch,
 	apiKey = process.env.OPENCODE_API_KEY,
+	geminiApiKey = process.env.GEMINI_API_KEY,
 	messages,
 	validate = () => true,
 	context,
@@ -106,6 +170,18 @@ export const requestOpenCodeJson = async ({
 			return result;
 		} catch (error) {
 			lastError = error;
+			if (isRateLimit(error) && geminiApiKey) {
+				const message =
+					error instanceof Error ? error.message : String(error);
+				console.warn(`  ↻ fallback gemini (${message})`);
+				return requestGeminiJson({
+					fetchImpl,
+					apiKey: geminiApiKey,
+					messages,
+					validate,
+					context,
+				});
+			}
 			if (attempt + 1 < maxAttempts) {
 				const retryNumber = attempt + 1;
 				onRetry(retryNumber, error);
