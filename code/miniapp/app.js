@@ -112,7 +112,7 @@ async function load() {
         feed.innerHTML = '<div id="status">Loading…</div>';
     }
     syncDiag(topic.value === 'status');
-    const outagesP = topic.value === 'tech' ? fetchCloudOutages(lang.value) : null;
+    const outagesP = topic.value === 'tech' ? fetchCloudOutages() : null;
     let items = [];
     try {
         if (topic.value === 'status') {
