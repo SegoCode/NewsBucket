@@ -1,101 +1,108 @@
 [
   {
-    "title": "Acer、メモリとSSDのコスト圧力によりPC価格が2027年半ばにピークに達すると予測",
-    "summary": "同社は2026年第4四半期に5〜20%の値上げ、2027年にピークを迎えた後、値下がりの可能性があると警告している。",
+    "title": "NVIDIA、複数のリーカーによるとGeForce RTX 60の発売を2028年まで延期",
+    "summary": "複数のリーカーが、次世代GeForce RTX 60グラフィックスカードが2028年まで登場しないことを確認。NVIDIAはデータセンター向け製品を優先している。",
     "source": [
-      "/r/hardware",
+      "hardzone.es",
       "elchapuzasinformatico.com",
+      "/r/hardware",
+      "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 3
+    "count": 5
   },
   {
-    "title": "Microsoft、ゲームを一時停止して広告を挿入し、広告なしゲームクレジットと引き換えるシステムを特許取得",
-    "summary": "特許では、ボス戦やロード画面などの重要な瞬間にゲームを一時停止し、モバイルの基本プレイ無料ゲームのような広告を表示する仕組みが説明されている。",
+    "title": "Google、Intel、Qualcomm、MediaTekチップ搭載のGooglebookノートPCを899ドルから発売",
+    "summary": "GoogleがAndroidベースのOSを搭載した新しいGooglebookノートPCラインを発表。価格は899ドルからで、Acer、ASUS、Dell、HP、Lenovoが製造。",
     "source": [
-      "elchapuzasinformatico.com",
+      "techcrunch.com",
+      "/r/hardware",
+      "videocardz.com",
+      "wired.com",
+      "tomshardware.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "米国で地方自治体と政治的反対がデータセンタープロジェクトを阻止、ウォール街もブームに懐疑的",
+    "summary": "地方自治体がエネルギー消費を理由にデータセンタープロジェクトを阻止し、投資家が懐疑的な姿勢を示し、セクターのIPOが遅延している。",
+    "source": [
       "/r/technology",
+      "xataka.com",
       "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "『ファイナルファンタジーVII リベレーション』、約200GBを必要とし、2027年4月8日発売で過去最大サイズのベースゲームに",
-    "summary": "リメイク版は追加ダウンロードを必要とし、4つのエディションの分析によると、史上最大のベースゲームになる可能性がある。",
+    "title": "OpenAI、AIが100以上の未解決数学問題を解決したことを受け数学諮問グループを設立",
+    "summary": "OpenAIが数学専門家委員会を結成し、AI開発を指導。同社モデルが100以上の未解決数学問題を解決したことを受けたもの。",
     "source": [
-      "hardzone.es",
+      "/r/technology",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "MetaのAIエージェントMuse、ChatGPTのモバイル版を上回る成長もAmazonにブロックされる",
+    "summary": "Metaがオンラインショッピング向けAIエージェントMuseをリリース。モバイルでの成長がChatGPTを上回るが、セキュリティ懸念からAmazonがプラットフォームでの運営を禁止。",
+    "source": [
+      "techcrunch.com",
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Appleの新チップM6とM5 Ultra、初期レビューで競合を性能と効率で上回る",
+    "summary": "2026年Mac mini（M6搭載）、Mac Studio（M5 Ultra搭載）、M6 Proチップの分析で、AMD、Intel、Qualcommを上回る性能が判明。ただしMac miniの価値には疑問の声も。",
+    "source": [
+      "/r/hardware",
       "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "独占禁止法訴訟、Anthropic、OpenAI、SpaceXAI、GoogleがAI開発を意図的に遅らせる合意をしたと告発",
-    "summary": "原告らは、AI開発を遅らせる合意が数ヶ月前から進行中だと主張し、これを大手テック企業の「自己利益のため」と非難している。",
+    "title": "Acer CEO、メモリとSSDコスト圧力でPC価格が2027年半ばまで上昇と警告",
+    "summary": "AcerはPC価格が2026年第4四半期に5-20%上昇し、2027年半ばにピークに達すると予測。ただし中国の新規生産能力により、2027年末にはメモリ価格が下がる可能性も。",
     "source": [
-      "techcrunch.com",
-      "/r/technology",
-      "tomshardware.com"
+      "tomshardware.com",
+      "/r/hardware",
+      "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "DLSS 5、Intel GPUとApple Siliconで性能不足、RTX 5080での故障報告も",
-    "summary": "Nvidiaのアップスケーリング技術は自社エコシステム外でうまく機能せず、あるユーザーがGTA Vで使用した後にグラフィックボードが故障したと報告している。",
+    "title": "米中、トランプ・習近平会談前にAI安全性対話で合意",
+    "summary": "両大国がAI関連の国家安全保障脅威について相互警告メカニズムを確立。トランプ氏と習近平主席の会談に向けた動き。",
     "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "wired.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "光学ドライブの供給崩壊により、PS AudioとNaimがハイエンドCDプレーヤーの生産を停止",
-    "summary": "部品コストが2倍になり、ハイエンドプレーヤーの製造が採算合わなくなった。",
+    "title": "AI導入で中国人労働者が失職、若年失業率が全国平均の3倍に",
+    "summary": "AIによる自動化が中国で数百万人の労働者を置き換え、700万の「一人企業」を生み出し、若年失業率を全国平均の3倍に押し上げている。",
     "source": [
       "/r/technology",
-      "tomshardware.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "CXMTがメモリチップの量産を開始、ASUSがAM5マザーボードをこれらの中国製モジュール向けに最適化",
-    "summary": "中国メーカーが量産に入り、ASUSは互換性とレイテンシ改善のためのBIOSアップデートをリリースしている。",
+    "title": "iPhone 18 Pro MaxのQLCストレージ、重負荷書き込みで1.1MB/sまで低下、TLCより38%遅い",
+    "summary": "テストでiPhone 18 Pro Maxの新型大容量QLCストレージが重負荷時に速度が大幅低下し、従来のハードディスクドライブよりも遅い性能であることが判明。",
     "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Jensen Huang、2030年までにAIが世界を破滅させる可能性を否定、規制を拒否:「可能な限り速く進むべき」",
-    "summary": "NvidiaのCEOは大惨事の確率を0%とし、Anthropicの実存的リスク警告を退けている。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "シンガポール、市民に少額報酬を支払いスマホを置いて公立図書館で読書を促進",
-    "summary": "国立図書館委員会が、スクリーン依存に対抗して読書習慣を促すための経済的インセンティブを提供している。",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung、HBM4とHBM4Eのメモリ生産を2倍以上に拡大予定、ガラス基板の需要を2.5倍に押し上げ",
-    "summary": "韓国の巨人がハイバンド幅メモリの製造を拡大し、増大するAI需要に対応している。",
-    "source": [
-      "news.ycombinator.com",
+      "tomshardware.com",
       "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Alibaba、オープンソースのQwen-Image-2.1をリリース、わずか70億パラメータでクローズドモデルを画像生成で上回る",
-    "summary": "オープンウェイトモデルが、より大規模な独自ソリューションに対する効率性を証明している。",
+    "title": "xAI、値下げしたGrok 4.7をリリースもベンチマークでClaudeとGPT-6に大差",
+    "summary": "新モデルGrok 4.7が競争力のある価格で提供されるが、性能テストではAnthropicとOpenAIのライバルモデルに大きく後れを取っている。",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com"
@@ -103,8 +110,44 @@
     "count": 2
   },
   {
-    "title": "プーチン大統領、ライセンスなしWindows搭載の米国製Dellでオンライン投票、ロシアの国産技術義務化に反して",
-    "summary": "クレムリン公式映像に「Windowsをアクティブ化」の透かしと外国製ハードウェアが映り、輸入代替政策と矛盾している。",
+    "title": "スペイン、ギガファクトリー、社会契約、公共行政へのAI統合を含む国家AI戦略「IA360」を発表",
+    "summary": "スペイン政府が国家AI戦略を発表。大規模コンピューティングセンター建設、規制枠組み、市民フォルダへのAI組み込みを含む。",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD、AI優先戦略で時価総額1兆ドル達成",
+    "summary": "AMD株価が急騰し、同社が時価総額1兆ドルクラブ入り。NVIDIA、Broadcom、SK hynixに続く半導体企業として4社目。",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "新型Ryzen 5 5500Fと7500が店頭で公式MSRPより20%高い価格で販売",
+    "summary": "AMDのエントリー級プロセッサがスペインなどで公式推奨価格を上回り販売されており、公式販売店でも同様。予算重視の選択肢が割高に。",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GeForce RTX 5080がGTA VでDLSS 5有効化後に故障、複数ユーザーが同様の問題報告",
+    "summary": "Redditユーザーと専門メディアが、Grand Theft Auto Vで新技術DLSS 5を使用中にRTX 5080が故障した事例を記録。ハードウェアまたはドライバーの問題の可能性。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、2030年までに2780億ドルを燃やす見込み、インドネシアとノルウェーの国家予算を超える",
+    "summary": "OpenAIの財務予測ではコンピューティング費用が8560億ドルに達し、収益成長を大きく上回る。経済的持続可能性に疑問。",
     "source": [
       "/r/technology",
       "tomshardware.com"
@@ -112,11 +155,20 @@
     "count": 2
   },
   {
-    "title": "Jevプロジェクト、意思決定モデル群、チャットボット、ソーシャルプラットフォームを発表、すべてQwen3.5ベース",
-    "summary": "オープンソースイニシアチブがKev、Jevtwn、実験的チャットボットを公開し、新しい小規模モデルアーキテクチャを探求している。",
+    "title": "MediaTek Dimensity CX C10 Max、IntelとQualcommチップと共に新Googlebookを駆動",
+    "summary": "MediaTekの新型3nm SoCがAndroidベースOS搭載ノートPCのGooglebookイニシアチブに参加。Chromebook PlusのKompanio Ultraチップと同等の仕様を提供。",
     "source": [
-      "producthunt.com",
-      "news.ycombinator.com"
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ロビン・ウィリアムズの娘、父親を模倣したAI動画作成をファンに中止求める「恥を知れ」",
+    "summary": "ゼルダ・ウィリアムズが、亡き父親をAIで模倣したコンテンツを生成するユーザーを厳しく批判。「妄想的」と非難し、父を安らかにさせるよう訴える。",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
     ],
     "count": 2
   }

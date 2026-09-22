@@ -1,101 +1,108 @@
 [
   {
-    "title": "Acer predicts PC prices will peak in mid-2027 due to memory and SSD cost pressure",
-    "summary": "The manufacturer warns of 5-20% increases in Q4 2026 and a peak in 2027 before possible declines.",
+    "title": "NVIDIA delays RTX 60 launch until 2028 according to multiple leakers",
+    "summary": "Several leakers confirm that the next generation of GeForce RTX 60 graphics cards won't arrive until 2028, as NVIDIA prioritizes its data center products.",
     "source": [
-      "/r/hardware",
+      "hardzone.es",
       "elchapuzasinformatico.com",
+      "/r/hardware",
+      "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 3
+    "count": 5
   },
   {
-    "title": "Microsoft patents a system that freezes gameplay to insert ads in exchange for ad-free game credits",
-    "summary": "The patent describes pausing the game at key moments like boss fights or loading screens to show mobile free-to-play style ads.",
+    "title": "Google launches Googlebook laptops with Intel, Qualcomm, and MediaTek chips starting at $899",
+    "summary": "Google unveils its new Googlebook laptop line with an Android-based OS and prices starting at $899, manufactured by Acer, ASUS, Dell, HP, and Lenovo.",
     "source": [
-      "elchapuzasinformatico.com",
+      "techcrunch.com",
+      "/r/hardware",
+      "videocardz.com",
+      "wired.com",
+      "tomshardware.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Local and political opposition halts data center projects in the U.S. as Wall Street doubts their boom",
+    "summary": "Local governments block data center projects over energy consumption, and investors show skepticism, delaying sector IPOs.",
+    "source": [
       "/r/technology",
+      "xataka.com",
       "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Final Fantasy VII Revelation will occupy around 200 GB and arrive on April 8, 2027, setting a new size record",
-    "summary": "The remake will require an additional download and could be the largest base game in history, according to analysis of its four editions.",
+    "title": "OpenAI creates mathematics advisory group after its AI solves over 100 open problems",
+    "summary": "OpenAI forms a committee of mathematics experts to guide its AI development after its models solved over a hundred previously unsolved mathematical problems.",
     "source": [
-      "hardzone.es",
+      "/r/technology",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Meta's Muse AI agent surpasses ChatGPT's mobile launch but is blocked by Amazon",
+    "summary": "Meta launches its Muse AI agent for online shopping, which grows faster than ChatGPT on mobile, but Amazon bans it from operating on its platform over security concerns.",
+    "source": [
+      "techcrunch.com",
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Apple's new M6 and M5 Ultra chips outperform competition in performance and efficiency per early reviews",
+    "summary": "Reviews of the 2026 Mac mini with M6, Mac Studio with M5 Ultra, and M6 Pro chip show superior performance to AMD, Intel, and Qualcomm, though the Mac mini's value is questioned.",
+    "source": [
+      "/r/hardware",
       "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "Antitrust lawsuit accuses Anthropic, OpenAI, SpaceXAI and Google of agreeing to slow AI development",
-    "summary": "Plaintiffs allege the agreement to slow AI has been underway for months and call it 'self-serving' by big tech.",
+    "title": "Acer CEO warns PC prices will keep rising until mid-2027 due to memory and SSD cost pressure",
+    "summary": "Acer predicts computer prices will rise 5-20% in Q4 2026 and peak by mid-2027, though new Chinese capacity could lower memory prices by late 2027.",
     "source": [
-      "techcrunch.com",
-      "/r/technology",
-      "tomshardware.com"
+      "tomshardware.com",
+      "/r/hardware",
+      "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "DLSS 5 shows poor performance on Intel and Apple Silicon graphics, with reports of failures on RTX 5080",
-    "summary": "Nvidia's upscaling technology performs poorly outside its ecosystem and a user reports their card dying after using it in GTA V.",
+    "title": "U.S. and China agree on AI safety dialogue ahead of Trump-Xi summit",
+    "summary": "Both powers establish a mutual alert mechanism on national security threats related to artificial intelligence ahead of the meeting between Trump and Xi Jinping.",
     "source": [
-      "hardzone.es",
-      "videocardz.com"
+      "wired.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Optical drive supply collapse forces PS Audio and Naim to halt high-end CD player production",
-    "summary": "Component costs have doubled, making high-end player manufacturing unviable.",
+    "title": "AI adoption displaces Chinese workers and triples youth unemployment above national average",
+    "summary": "Automation via artificial intelligence is displacing millions of workers in China, creating seven million 'one-person businesses' and tripling youth unemployment.",
     "source": [
       "/r/technology",
-      "tomshardware.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "CXMT begins mass production of memory chips and ASUS optimizes its AM5 boards for these Chinese modules",
-    "summary": "The Chinese manufacturer enters mass production while ASUS releases BIOS updates to improve compatibility and latency.",
+    "title": "iPhone 18 Pro Max QLC storage drops to 1.1 MB/s in heavy writes, 38% slower than TLC",
+    "summary": "Tests reveal the new higher-capacity QLC storage in the iPhone 18 Pro Max suffers drastic speed drops under heavy load, performing below a traditional hard drive.",
     "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Jensen Huang dismisses AI destroying the world by 2030 and rejects regulations: 'We must go as fast as possible'",
-    "summary": "Nvidia's CEO rates catastrophe probability at 0% and dismisses Anthropic's warnings about existential risks.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Singapore pays micropayments to citizens to put down phones and read books in public libraries",
-    "summary": "The National Library Board offers financial incentives to foster reading habits against screen addiction.",
-    "source": [
-      "/r/technology",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Samsung expects to more than double HBM4 and HBM4E memory production, increasing glass substrate demand 2.5 times",
-    "summary": "The South Korean giant scales its high-bandwidth memory manufacturing to meet growing AI demand.",
-    "source": [
-      "news.ycombinator.com",
+      "tomshardware.com",
       "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Alibaba launches open-source Qwen-Image-2.1 that outperforms closed models in image generation with only 7 billion parameters",
-    "summary": "The open-weight model champions efficiency over larger proprietary solutions.",
+    "title": "xAI launches Grok 4.7 at reduced prices but benchmarks show large gap vs. Claude and GPT-6",
+    "summary": "The new Grok 4.7 model is offered at highly competitive prices, though performance tests place it far behind rival models from Anthropic and OpenAI.",
     "source": [
       "the-decoder.com",
       "news.ycombinator.com"
@@ -103,8 +110,44 @@
     "count": 2
   },
   {
-    "title": "Vladimir Putin votes online with unlicensed Windows on an American Dell, despite Russian mandate for domestic technology",
-    "summary": "The official Kremlin clip shows the 'Activate Windows' watermark and foreign hardware, contradicting import substitution policy.",
+    "title": "Spain unveils IA360 plan with gigafactories, social contract, and AI integration in public administration",
+    "summary": "The Spanish government launches a national AI strategy including construction of large compute centers, a regulatory framework, and AI integration into the Citizen Folder.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD reaches trillion-dollar market cap driven by AI focus",
+    "summary": "AMD shares surge to place the company in the trillion-dollar club, joining Nvidia, Broadcom, and SK hynix as the only semiconductor companies with that valuation.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "New Ryzen 5 5500F and 7500 hit stores at prices 20% above official MSRP",
+    "summary": "AMD's entry-level processors sell in Spain and other markets above recommended price, even at official retailers, making the budget option more expensive.",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GeForce RTX 5080 dies after enabling DLSS 5 in GTA V as multiple users report similar failures",
+    "summary": "A Reddit user and specialized outlets document RTX 5080 cards dying when using the new DLSS 5 technology in Grand Theft Auto V, suggesting a possible hardware or driver issue.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI projects burning $278 billion through 2030, exceeding national budgets of Indonesia and Norway",
+    "summary": "OpenAI's financial projections show $856 billion in compute spending far outpacing revenue growth, raising doubts about its economic sustainability.",
     "source": [
       "/r/technology",
       "tomshardware.com"
@@ -112,11 +155,20 @@
     "count": 2
   },
   {
-    "title": "Jev project launches family of decision models, a chatbot, and a social platform, all based on Qwen3.5",
-    "summary": "The open-source initiative presents Kev, Jevtown, and an experimental chatbot, exploring new small model architectures.",
+    "title": "MediaTek Dimensity CX C10 Max to power new Googlebooks alongside Intel and Qualcomm chips",
+    "summary": "MediaTek's new 3nm SoC joins the Googlebook initiative for Android-based OS laptops, offering specs similar to the Kompanio Ultra chip in Chromebooks Plus.",
     "source": [
-      "producthunt.com",
-      "news.ycombinator.com"
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Robin Williams' daughter asks fans to stop creating AI videos of the actor: 'Have some shame'",
+    "summary": "Zelda Williams harshly criticizes users generating AI content imitating her late father, calling it 'delusional' and asking them to leave him in peace.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/technology"
     ],
     "count": 2
   }
