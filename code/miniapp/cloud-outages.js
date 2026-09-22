@@ -2,15 +2,14 @@ const HOUR = 3600e3;
 const WINDOW = 48 * HOUR;
 const BLINK = 5 * HOUR;
 const PAGE = 'https://radar.cloudflare.com/cloud-observatory';
-const PREFIX = { en: 'Outage', es: 'Incidencia', jp: '障害' };
 
 const age = t => {
     const n = Date.parse(t);
     return Number.isFinite(n) ? Date.now() - n : Infinity;
 };
 
-const alert = (lang, name, detail, start) => ({
-    title: `${PREFIX[lang] || PREFIX.en}: ${name}: ${detail}`,
+const alert = (name, detail, start) => ({
+    title: `${name}: ${detail}`,
     source: [name],
     cls: 'quake-high' + (age(start) < BLINK ? ' quake-recent' : ''),
     url: PAGE,
@@ -97,5 +96,5 @@ const loadRows = () => {
     return rowsPromise;
 };
 
-export const fetchCloudOutages = async (lang = 'en') =>
-    (await loadRows()).map(r => alert(lang, r.name, r.detail, r.start));
+export const fetchCloudOutages = async () =>
+    (await loadRows()).map(r => alert(r.name, r.detail, r.start));
