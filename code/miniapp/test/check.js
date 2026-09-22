@@ -317,8 +317,8 @@ const ready = async () => {
     }
     if (scenario === 'outage-slow') {
         await wait(() => titles()[0] === 'Foundry wins contract');
-        sawNewsFirst = !titles().some(t => t.startsWith('Outage:'));
-        await wait(() => titles()[0] === 'Outage: GitHub: Actions down');
+        sawNewsFirst = !classes().some(c => c.includes('quake'));
+        await wait(() => titles()[0] === 'GitHub: Actions down');
         return;
     }
     if (scenario === 'jma-wait') {
@@ -796,101 +796,101 @@ const run = () => {
     }
     if (scenario === 'outage') {
         ok(articles().length === 7, '4 outages + news');
-        ok(titles()[0] === 'Outage: GitHub: Actions down', 'github en');
-        ok(titles()[1] === 'Outage: Cloudflare: API errors', 'cloudflare');
-        ok(titles()[2] === 'Outage: AWS: EC2 errors', 'aws');
-        ok(titles()[3] === 'Outage: Google Cloud: us-central1 network', 'gcp');
+        ok(titles()[0] === 'GitHub: Actions down', 'github en');
+        ok(titles()[1] === 'Cloudflare: API errors', 'cloudflare');
+        ok(titles()[2] === 'AWS: EC2 errors', 'aws');
+        ok(titles()[3] === 'Google Cloud: us-central1 network', 'gcp');
         ok(classes().slice(0, 4).every(c => c === 'quake-high quake-recent'), '5h blink');
         ok(articles().slice(0, 4).every(a => href(a) === 'https://radar.cloudflare.com/cloud-observatory'), 'observatory');
         ok(titles()[4] === 'Foundry wins contract', 'news after');
         return;
     }
     if (scenario === 'outage-age') {
-        ok(titles()[0] === 'Outage: GitHub: Actions down' && classes()[0] === 'quake-high quake-recent', '4h blinks');
-        ok(titles()[1] === 'Outage: Cloudflare: API errors' && classes()[1] === 'quake-high', '6h still');
-        ok(titles()[2] === 'Outage: Google Cloud: us-central1 network' && classes()[2] === 'quake-high quake-recent', 'gcp 4h');
+        ok(titles()[0] === 'GitHub: Actions down' && classes()[0] === 'quake-high quake-recent', '4h blinks');
+        ok(titles()[1] === 'Cloudflare: API errors' && classes()[1] === 'quake-high', '6h still');
+        ok(titles()[2] === 'Google Cloud: us-central1 network' && classes()[2] === 'quake-high quake-recent', 'gcp 4h');
         ok(!titles().some(t => t.includes('AWS')), '50h dropped');
         return;
     }
     if (scenario === 'outage-es') {
-        ok(titles()[0] === 'Incidencia: GitHub: Actions down', 'es prefix');
+        ok(titles()[0] === 'GitHub: Actions down', 'es no prefix');
         ok(titles()[0].includes('GitHub'), 'en name');
         return;
     }
     if (scenario === 'outage-jp') {
-        ok(titles()[0] === '障害: GitHub: Actions down', 'jp prefix');
+        ok(titles()[0] === 'GitHub: Actions down', 'jp no prefix');
         ok(titles()[0].includes('GitHub'), 'en name');
         return;
     }
     if (scenario === 'outage-down') {
         ok(articles().length === 3, 'news kept');
-        ok(!titles().some(t => t.includes('Outage') || t.includes('GitHub')), 'no outages');
+        ok(!classes().some(c => c.includes('quake')) && !titles().some(t => t.includes('GitHub')), 'no outages');
         ok(titles()[0] === 'Foundry wins contract', 'tech news');
         return;
     }
     if (scenario === 'outage-resolved') {
         ok(!titles().some(t => t.includes('GitHub') || t.includes('Cloudflare')), 'resolved dropped');
-        ok(titles()[0] === 'Outage: AWS: EC2 errors', 'open rss kept');
+        ok(titles()[0] === 'AWS: EC2 errors', 'open rss kept');
         ok(sources()[0] === 'AWS', 'aws source');
         return;
     }
     if (scenario === 'outage-shape') {
         ok(articles().length === 3, 'news only');
-        ok(!titles().some(t => t.startsWith('Outage:')), 'wrong keys dropped');
+        ok(!classes().some(c => c.includes('quake')), 'wrong keys dropped');
         ok(titles()[0] === 'Foundry wins contract', 'tech news');
         return;
     }
     if (scenario === 'outage-ended') {
-        ok(titles()[0] === 'Outage: Google Cloud: us-central1 network', 'ended 10h kept');
+        ok(titles()[0] === 'Google Cloud: us-central1 network', 'ended 10h kept');
         ok(classes()[0] === 'quake-high', 'begin 20h no blink');
         ok(href(articles()[0]) === 'https://radar.cloudflare.com/cloud-observatory', 'observatory');
         return;
     }
     if (scenario === 'outage-html') {
         ok(articles().length === 3, 'html ignored');
-        ok(!titles().some(t => t.startsWith('Outage:')), 'no parse');
+        ok(!classes().some(c => c.includes('quake')), 'no parse');
         return;
     }
     if (scenario === 'outage-created') {
-        ok(titles()[0] === 'Outage: GitHub: Actions down', 'created_at name');
+        ok(titles()[0] === 'GitHub: Actions down', 'created_at name');
         ok(classes()[0] === 'quake-high quake-recent', 'created_at blink');
         ok(sources()[0] === 'GitHub', 'github source');
         return;
     }
     if (scenario === 'outage-slow') {
         ok(sawNewsFirst, 'news first');
-        ok(titles()[0] === 'Outage: GitHub: Actions down', 'then github');
+        ok(titles()[0] === 'GitHub: Actions down', 'then github');
         ok(titles().includes('Foundry wins contract'), 'news kept');
         return;
     }
     if (scenario === 'outage-cache') {
-        ok(titles()[0] === 'Outage: GitHub: Actions down', 'cached');
+        ok(titles()[0] === 'GitHub: Actions down', 'cached');
         ok(titles()[1] === 'Foundry wins contract', 'news after');
         return;
     }
     if (scenario === 'outage-ttl') {
-        ok(titles()[0] === 'Outage: GitHub: Actions down', 'expired refetched');
+        ok(titles()[0] === 'GitHub: Actions down', 'expired refetched');
         ok(!titles().some(t => t.includes('Stale')), 'stale dropped');
         return;
     }
     if (scenario === 'outage-cached-es') {
-        ok(titles()[0] === 'Incidencia: GitHub: Actions down', 'es from rows');
+        ok(titles()[0] === 'GitHub: Actions down', 'es from rows');
         ok(titles()[1] === 'Foundry wins contract', 'news after');
         return;
     }
     if (scenario === 'outage-keep') {
-        ok(titles()[0] === 'Outage: GitHub: Stale incident', 'expired last-good');
+        ok(titles()[0] === 'GitHub: Stale incident', 'expired last-good');
         ok(titles()[1] === 'Foundry wins contract', 'news after');
         return;
     }
     if (scenario === 'outage-empty') {
-        ok(titles()[0] === 'Outage: GitHub: Actions down', 'empty not a hit');
+        ok(titles()[0] === 'GitHub: Actions down', 'empty not a hit');
         ok(titles()[1] === 'Foundry wins contract', 'news after');
         return;
     }
     if (scenario === 'outage-leave') {
         ok(titles()[0] === 'Four outlets on rates', 'finance');
-        ok(!titles().some(t => t.startsWith('Outage:')), 'no late prepend');
+        ok(!classes().some(c => c.includes('quake')), 'no late prepend');
         return;
     }
     if (scenario === 'spike') {
