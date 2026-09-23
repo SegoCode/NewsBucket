@@ -1,174 +1,130 @@
 [
   {
-    "title": "NVIDIA delays RTX 60 launch until 2028 according to multiple leakers",
-    "summary": "Several leakers confirm that the next generation of GeForce RTX 60 graphics cards won't arrive until 2028, as NVIDIA prioritizes its data center products.",
+    "title": "First Googlebook laptops arrive with MediaTek Dimensity CX C10 Max chip to compete against MacBook and Windows",
+    "summary": "MediaTek unveils its 8-core CPU and 11-core GPU SoC for AI laptops, debuting in Googlebook devices with Android integration starting at $899.",
     "source": [
-      "hardzone.es",
+      "/r/hardware",
+      "xataka.com",
+      "videocardz.com",
       "elchapuzasinformatico.com",
-      "/r/hardware",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Google launches Googlebook laptops with Intel, Qualcomm, and MediaTek chips starting at $899",
-    "summary": "Google unveils its new Googlebook laptop line with an Android-based OS and prices starting at $899, manufactured by Acer, ASUS, Dell, HP, and Lenovo.",
-    "source": [
-      "techcrunch.com",
-      "/r/hardware",
-      "videocardz.com",
-      "wired.com",
-      "tomshardware.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Local and political opposition halts data center projects in the U.S. as Wall Street doubts their boom",
-    "summary": "Local governments block data center projects over energy consumption, and investors show skepticism, delaying sector IPOs.",
-    "source": [
-      "/r/technology",
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI creates mathematics advisory group after its AI solves over 100 open problems",
-    "summary": "OpenAI forms a committee of mathematics experts to guide its AI development after its models solved over a hundred previously unsolved mathematical problems.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Meta's Muse AI agent surpasses ChatGPT's mobile launch but is blocked by Amazon",
-    "summary": "Meta launches its Muse AI agent for online shopping, which grows faster than ChatGPT on mobile, but Amazon bans it from operating on its platform over security concerns.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Apple's new M6 and M5 Ultra chips outperform competition in performance and efficiency per early reviews",
-    "summary": "Reviews of the 2026 Mac mini with M6, Mac Studio with M5 Ultra, and M6 Pro chip show superior performance to AMD, Intel, and Qualcomm, though the Mac mini's value is questioned.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Acer CEO warns PC prices will keep rising until mid-2027 due to memory and SSD cost pressure",
-    "summary": "Acer predicts computer prices will rise 5-20% in Q4 2026 and peak by mid-2027, though new Chinese capacity could lower memory prices by late 2027.",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "U.S. and China agree on AI safety dialogue ahead of Trump-Xi summit",
-    "summary": "Both powers establish a mutual alert mechanism on national security threats related to artificial intelligence ahead of the meeting between Trump and Xi Jinping.",
-    "source": [
-      "wired.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AI adoption displaces Chinese workers and triples youth unemployment above national average",
-    "summary": "Automation via artificial intelligence is displacing millions of workers in China, creating seven million 'one-person businesses' and tripling youth unemployment.",
-    "source": [
-      "/r/technology",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "iPhone 18 Pro Max QLC storage drops to 1.1 MB/s in heavy writes, 38% slower than TLC",
-    "summary": "Tests reveal the new higher-capacity QLC storage in the iPhone 18 Pro Max suffers drastic speed drops under heavy load, performing below a traditional hard drive.",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "xAI launches Grok 4.7 at reduced prices but benchmarks show large gap vs. Claude and GPT-6",
-    "summary": "The new Grok 4.7 model is offered at highly competitive prices, though performance tests place it far behind rival models from Anthropic and OpenAI.",
-    "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Spain unveils IA360 plan with gigafactories, social contract, and AI integration in public administration",
-    "summary": "The Spanish government launches a national AI strategy including construction of large compute centers, a regulatory framework, and AI integration into the Citizen Folder.",
-    "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD reaches trillion-dollar market cap driven by AI focus",
-    "summary": "AMD shares surge to place the company in the trillion-dollar club, joining Nvidia, Broadcom, and SK hynix as the only semiconductor companies with that valuation.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "New Ryzen 5 5500F and 7500 hit stores at prices 20% above official MSRP",
-    "summary": "AMD's entry-level processors sell in Spain and other markets above recommended price, even at official retailers, making the budget option more expensive.",
-    "source": [
-      "tomshardware.com",
       "hardzone.es"
     ],
+    "count": 5
+  },
+  {
+    "title": "OpenAI launches GPT-6 Sol and Luna: cut costs in half but barely improve performance",
+    "summary": "OpenAI's new models slash prices dramatically though capability advances are marginal compared to previous versions.",
+    "source": [
+      "xataka.com",
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Anthropic unveils Claude Opus 5.5 with lower prices and performance on par with Fable 5.1",
+    "summary": "The new Opus version matches competitor Fable in benchmarks, reduces costs, and promises less 'Claudish' writing.",
+    "source": [
+      "xataka.com",
+      "the-decoder.com",
+      "news.ycombinator.com",
+      "techcrunch.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Meta's Muse agent accesses private iMessages and Amazon blocks it, sparking privacy debate",
+    "summary": "Muse reads personal messages without consent, Amazon bans the bot, and researchers find a hidden configuration that could turn it into a backdoor.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "xataka.com",
+      "thehackernews.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "ShinyHunters group claims to have hacked FBI and stolen agent and applicant data",
+    "summary": "Hackers publish screenshots of FBI databases; the bureau investigates massive leak of sensitive information.",
+    "source": [
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "/r/technology"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Qualcomm announces Snapdragon 8 Elite Extreme Gen 6 and Gen 6: first 2nm chips to exceed 5 GHz",
+    "summary": "The new lineup breaks the 5 GHz barrier and debuts 2nm process, focused on agentic AI and premium mobile experiences.",
+    "source": [
+      "/r/hardware",
+      "xataka.com",
+      "techcrunch.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD adds GDDR7 support to Linux driver anticipating upcoming Radeon RX 11000 with RDNA 5",
+    "summary": "The kernel patch paves the way for GDDR7 memory in next-gen graphics cards, possibly reserved for high-end.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "SpaceX launches Grok 4.7 and places it in top 4 most advanced AIs, surpassing GPT-5.6 Sol",
+    "summary": "xAI's new model excels in coding tasks and positions itself as a cost-effective high-performance alternative.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "alternativeto.net"
+    ],
     "count": 2
   },
   {
-    "title": "GeForce RTX 5080 dies after enabling DLSS 5 in GTA V as multiple users report similar failures",
-    "summary": "A Reddit user and specialized outlets document RTX 5080 cards dying when using the new DLSS 5 technology in Grand Theft Auto V, suggesting a possible hardware or driver issue.",
+    "title": "ASML admits it has no sales in Europe despite being the continent's largest tech company",
+    "summary": "The extreme lithography manufacturer depends entirely on Asian and US customers, exposing the fragility of European chip sovereignty.",
     "source": [
-      "elchapuzasinformatico.com",
+      "/r/hardware",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "WordPress patches critical flaw allowing remote code execution on vulnerable servers",
+    "summary": "An unauthenticated path traversal vulnerability and another in comments allow attackers to take control of the site.",
+    "source": [
+      "thehackernews.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Micron halts production of 2GB GDDR7 chips used in GeForce RTX 50",
+    "summary": "The end of this memory module could affect supply of Nvidia's mid-to-high-range graphics cards.",
+    "source": [
+      "/r/hardware",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI projects burning $278 billion through 2030, exceeding national budgets of Indonesia and Norway",
-    "summary": "OpenAI's financial projections show $856 billion in compute spending far outpacing revenue growth, raising doubts about its economic sustainability.",
+    "title": "Apple introduces persistent ads in iOS and users criticize intrusion into system experience",
+    "summary": "The company places permanent advertising in settings and notifications, generating backlash for breaking the promise of an ad-free environment.",
     "source": [
       "/r/technology",
-      "tomshardware.com"
+      "news.ycombinator.com"
     ],
     "count": 2
   },
   {
-    "title": "MediaTek Dimensity CX C10 Max to power new Googlebooks alongside Intel and Qualcomm chips",
-    "summary": "MediaTek's new 3nm SoC joins the Googlebook initiative for Android-based OS laptops, offering specs similar to the Kompanio Ultra chip in Chromebooks Plus.",
+    "title": "Microsoft closes Ninja Theory and transfers Halo development to Activision-Blizzard in restructuring",
+    "summary": "The studio behind Hellblade closes and Xbox's flagship franchise passes to the Call of Duty publisher.",
     "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Robin Williams' daughter asks fans to stop creating AI videos of the actor: 'Have some shame'",
-    "summary": "Zelda Williams harshly criticizes users generating AI content imitating her late father, calling it 'delusional' and asking them to leave him in peace.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
+      "videocardz.com",
+      "xataka.com"
     ],
     "count": 2
   }
