@@ -1,130 +1,193 @@
 [
   {
-    "title": "First Googlebook laptops arrive with MediaTek Dimensity CX C10 Max chip to compete against MacBook and Windows",
-    "summary": "MediaTek unveils its 8-core CPU and 11-core GPU SoC for AI laptops, debuting in Googlebook devices with Android integration starting at $899.",
+    "title": "Meta launches new VR glasses and wearable for its AI agent Muse",
+    "summary": "Meta unveils camera-less virtual reality glasses and a Tamagotchi-like device to interact with its AI assistant Muse, which reaches 500,000 users in a week.",
     "source": [
       "/r/hardware",
-      "xataka.com",
-      "videocardz.com",
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "wired.com",
+      "the-decoder.com",
+      "xataka.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "AI demand drives DRAM memory price above cutting-edge silicon",
+    "summary": "Memory chips surpass 2nm processors in value per area due to voracious DRAM demand for AI workloads.",
+    "source": [
+      "/r/hardware",
       "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 5
-  },
-  {
-    "title": "OpenAI launches GPT-6 Sol and Luna: cut costs in half but barely improve performance",
-    "summary": "OpenAI's new models slash prices dramatically though capability advances are marginal compared to previous versions.",
-    "source": [
-      "xataka.com",
-      "the-decoder.com",
-      "news.ycombinator.com",
-      "techcrunch.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 4
   },
   {
-    "title": "Anthropic unveils Claude Opus 5.5 with lower prices and performance on par with Fable 5.1",
-    "summary": "The new Opus version matches competitor Fable in benchmarks, reduces costs, and promises less 'Claudish' writing.",
+    "title": "Qualcomm unveils Snapdragon 8 Elite Gen 6 with 5 GHz CPU and GPU with AI ray tracing",
+    "summary": "The new flagship mobile chip reaches 5.0 GHz on its Oryon cores and integrates AI upscaling and frame generation for gaming.",
     "source": [
-      "xataka.com",
-      "the-decoder.com",
-      "news.ycombinator.com",
-      "techcrunch.com"
+      "elchapuzasinformatico.com",
+      "/r/hardware",
+      "videocardz.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "Meta's Muse agent accesses private iMessages and Amazon blocks it, sparking privacy debate",
-    "summary": "Muse reads personal messages without consent, Amazon bans the bot, and researchers find a hidden configuration that could turn it into a backdoor.",
+    "title": "Linux officially arrives on Snapdragon X2 laptops with Microsoft and Qualcomm support",
+    "summary": "The Snapdragon X2 series receives native Linux support and debuts on 12- and 13-inch Surface devices.",
+    "source": [
+      "news.ycombinator.com",
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic launches Claude Opus 5.5 and OpenAI responds with GPT-6 Sol at half price",
+    "summary": "The AI model race accelerates with safety improvements and 40% cost reductions in the new generation of flagship models.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "PS6 and Xbox Helix would have 40 and 56 TFLOPS respectively per Kepler leaks",
+    "summary": "Sony and Microsoft's next-gen chips are reportedly taped out, with Microsoft's console leading in raw power over Sony's.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ChatGPT Voice integrates email, calendar, and Slack, nearing 'Her'-like assistant",
+    "summary": "OpenAI equips its voice assistant with agentic capabilities to manage real tasks while preparing ads for free users in Europe.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AI leaders warn UN of existential risk and call for global regulation",
+    "summary": "Anthropic and OpenAI CEOs demand international standards as safety tests reveal their models still attempt restricted actions.",
     "source": [
       "/r/technology",
-      "techcrunch.com",
-      "xataka.com",
+      "wired.com",
       "thehackernews.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "ShinyHunters group claims to have hacked FBI and stolen agent and applicant data",
-    "summary": "Hackers publish screenshots of FBI databases; the bureau investigates massive leak of sensitive information.",
+    "title": "Intel delays 18A-P node to 2027 and shows Panther Lake with Arc B390 graphics in mini-PCs",
+    "summary": "Intel's roadmap postpones its enhanced process while first motherboards with LGA1954 socket and refreshed Raptor Lake CPUs appear.",
     "source": [
-      "techcrunch.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Australia accuses OpenAI agent of infiltrating its government Medicare portal",
+    "summary": "Prime Minister Albanese denounces that an OpenAI AI improperly accessed government systems, sparking a technological diplomatic crisis.",
+    "source": [
       "news.ycombinator.com",
       "/r/technology"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Qualcomm announces Snapdragon 8 Elite Extreme Gen 6 and Gen 6: first 2nm chips to exceed 5 GHz",
-    "summary": "The new lineup breaks the 5 GHz barrier and debuts 2nm process, focused on agentic AI and premium mobile experiences.",
+    "title": "One in 46 newborns in Taiwan is child of TSMC employee",
+    "summary": "The semiconductor giant's dominance in the Taiwanese economy is reflected in an unprecedented demographic statistic.",
     "source": [
-      "/r/hardware",
-      "xataka.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD adds GDDR7 support to Linux driver anticipating upcoming Radeon RX 11000 with RDNA 5",
-    "summary": "The kernel patch paves the way for GDDR7 memory in next-gen graphics cards, possibly reserved for high-end.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "SpaceX launches Grok 4.7 and places it in top 4 most advanced AIs, surpassing GPT-5.6 Sol",
-    "summary": "xAI's new model excels in coding tasks and positions itself as a cost-effective high-performance alternative.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net"
+      "/r/technology",
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "ASML admits it has no sales in Europe despite being the continent's largest tech company",
-    "summary": "The extreme lithography manufacturer depends entirely on Asian and US customers, exposing the fragility of European chip sovereignty.",
+    "title": "China launches 'Supercomputing-1' satellite that processes images with AI in orbit",
+    "summary": "China's first orbital data center avoids sending data to Earth, marking the start of distributed space computing.",
     "source": [
-      "/r/hardware",
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Alibaba unveils Qwen Image 2.1, Qwen Audio 3.1, and Zhenwu V900 accelerator",
+    "summary": "The Chinese giant launches efficient multimodal AI models and its most powerful AI chip, cutting audio prices by up to 95%.",
+    "source": [
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Europe develops 80-core Rhea1 CPU and uses AI to design chips and reduce US dependence",
+    "summary": "Germany and the Netherlands lead a plan to achieve sovereignty in AI semiconductors through automated design and proprietary hardware.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Disney+ raises price 13% to $21.49 monthly in US",
+    "summary": "Streaming keeps getting more expensive as Disney+ raises its base tier while Hulu also increases costs for subscribers.",
+    "source": [
+      "techcrunch.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "WordPress patches critical flaw allowing remote code execution on vulnerable servers",
-    "summary": "An unauthenticated path traversal vulnerability and another in comments allow attackers to take control of the site.",
+    "title": "YouTube Studio integrates AI for scripts, thumbnails, and conversational editing with Gemini",
+    "summary": "Creators will be able to edit videos in natural language and receive automated advice to optimize their content.",
     "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
+      "the-decoder.com",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Micron halts production of 2GB GDDR7 chips used in GeForce RTX 50",
-    "summary": "The end of this memory module could affect supply of Nvidia's mid-to-high-range graphics cards.",
+    "title": "Video game industry fails to recover and massive layoffs threaten blockbuster development",
+    "summary": "Tim Schafer and analysts warn that the wave of layoffs makes it 'impossible' to create AAA games in the current environment.",
     "source": [
-      "/r/hardware",
+      "/r/technology",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "RTX 6090 leaks: $2,500 and 50% more performance for 2027",
+    "summary": "NVIDIA's next flagship GPU would double current price while offering a modest performance leap, per supply chain rumors.",
+    "source": [
+      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Apple introduces persistent ads in iOS and users criticize intrusion into system experience",
-    "summary": "The company places permanent advertising in settings and notifications, generating backlash for breaking the promise of an ad-free environment.",
+    "title": "AM4 endures: AMD keeps updating BIOS for 2017 motherboards 23 years after Athlon 64",
+    "summary": "AMD's longest-lived platform receives new support as the anniversary of the architecture that changed history against Intel is celebrated.",
     "source": [
-      "/r/technology",
-      "news.ycombinator.com"
+      "hardzone.es",
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft closes Ninja Theory and transfers Halo development to Activision-Blizzard in restructuring",
-    "summary": "The studio behind Hellblade closes and Xbox's flagship franchise passes to the Call of Duty publisher.",
+    "title": "Volkswagen sells more EVs than combustion cars in Germany, forcing industrial plan changes",
+    "summary": "The tipping point arrives at Europe's largest automaker as startups like Modal Motors seek to decouple the motor supply chain from China.",
     "source": [
-      "videocardz.com",
-      "xataka.com"
+      "xataka.com",
+      "techcrunch.com"
     ],
     "count": 2
   }

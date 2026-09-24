@@ -1,85 +1,139 @@
 [
   {
-    "title": "グローバル市場、トランプ氏の国連演説と原油下落でまちまちに終了",
-    "summary": "国際株式市場はボラティリティを示し、投資家がトランプ氏の発言とサウジのパイプライン再開による原油後退を消化した。",
+    "title": "世界の債券利回りが2023年高値に急騰し、市場に警戒感",
+    "summary": "10年物米国債利回りが5.1%を超え、日本国債が3%を突破、より長く高い金利が続く懸念を煽る。",
     "source": [
-      "bolsamania.com",
+      "investing.com",
+      "nasdaq.com",
+      "nikkei.com",
+      "ft.com",
       "handelsblatt.com",
-      "expansion.com",
-      "ft.com",
-      "nikkei.com",
-      "investing.com"
-    ],
-    "count": 6
-  },
-  {
-    "title": "AIブームがナスダックを史上最高値に押し上げ、メタとチップ株を急騰させる",
-    "summary": "テクノロジー株が上昇を主導し、メタが記録を更新、AIモデルの価格競争を背景に半導体セクターがレジスタンスを突破。",
-    "source": [
-      "expansion.com",
-      "nikkei.com",
-      "ft.com",
       "bolsamania.com",
-      "/r/stocks"
+      "finance.yahoo.com"
     ],
-    "count": 5
+    "count": 7
   },
   {
-    "title": "米国とイランが核協議で前進、東西パイプライン再開で原油下落",
-    "summary": "ニューヨークでの交渉が地政学リスクプレミアムを縮小、サウジアラビアが主要供給ルートの再稼働を発表。",
-    "source": [
-      "nikkei.com",
-      "ft.com",
-      "bolsamania.com",
-      "expansion.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "ビットコインと貴金属が上昇、中国の記録的な金購入とマクロ期待で",
-    "summary": "金が大量の中国輸入で史上最高値を更新、米中首脳会談前に銀が上昇、ビットコインがテクニカルレジスタンスを突破。",
-    "source": [
-      "expansion.com",
-      "finance.yahoo.com",
-      "ft.com",
-      "handelsblatt.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "トランプ氏と習氏が首脳会談で国内安定を優先、台湾とAIは摩擦点のまま",
-    "summary": "指導者たちは米大統領選前にエスカレーション回避を模索するが、技術と台湾を巡る緊張は持続。",
+    "title": "習近平氏が米国到着、トランプ氏との首脳会談へ 市場は通商進展に懐疑的",
+    "summary": "関税、台湾、北朝鮮を巡る緊張の中、中国指導者が到着。ボーイング合意への期待は薄い。",
     "source": [
       "investing.com",
       "nikkei.com",
-      "handelsblatt.com"
+      "finance.yahoo.com"
     ],
     "count": 3
   },
   {
-    "title": "カンタス航空、2028年シドニー・ニューヨーク直行便を発表、高騰する燃料価格に挑む",
-    "summary": "オーストラリア航空会社が世界最長ルートを確認、ジェット燃料高騰にもかかわらずプレミアム需要に賭ける。",
+    "title": "原油と軽油が上昇、米国の輸出禁止リスクとイラン緊張で",
+    "summary": "米国産ディーゼルの輸出禁止可能性と湾岸でのタンカー攻撃が運賃とブレント原油価格を押し上げる。",
     "source": [
       "nikkei.com",
-      "ft.com"
+      "ft.com",
+      "bolsamania.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "香港株式市場、テクニカルラリーが一服、投資家はトランプ・習首脳会談を待つ",
-    "summary": "ハンセン指数が主要フィボナッチレベルに接近、米中会談を控え慎重な展開。",
+    "title": "中国と香港株が下落、米中首脳会談と中東緊張を前に",
+    "summary": "ハンセン指数が重要支持線を試し、上海総合指数が下落。投資家は習トランプ会談の行方を注視。",
     "source": [
       "investing.com",
+      "nasdaq.com",
+      "nikkei.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "欧州株が安値引け、再生可能エネルギー・エネルギー・金利上昇が重し",
+    "summary": "IBEX35が19,700ポイント割れ、DAXも下落。ソラリア、グリエナジー、銀行株が利回り上昇で売られる。",
+    "source": [
+      "handelsblatt.com",
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "メタ、AI搭載グラス『Muse』とデバイス『Charm』を発表、スマホ後のハードウェア戦略を加速",
+    "summary": "音声アシスタント内蔵のウェアラブルを発表、1000万台販売を目指す。一方アマゾンは自社ショッピングエージェントを遮断。",
+    "source": [
+      "investing.com",
+      "nikkei.com",
       "nasdaq.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "欧州銀行が米国銀行を収益性で上回る、規制当局は緩和と資本要件を議論",
+    "summary": "ECBは高金利が経済を減速させると警告。スイスはUBSへの資本要求を拒否、ドイツはコメルツバンクとヒューゴ・ボスを防衛。",
+    "source": [
+      "expansion.com",
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AIと量子銘柄のIonQ、BigBear.aiが上昇、収益楽観と耐障害量子計算の進展で",
+    "summary": "決算報告と実用的な量子コンピューティングの進展が、ハイリスク技術株への投資意欲を刺激。",
+    "source": [
+      "nasdaq.com",
+      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ソフトバンク、1兆1100億円の債券発行でOpenAI巨額投資を資金調達、株価7.5%高",
+    "summary": "日本のグループがAI熱を利用し長期債を発行、アーム株高を受け日経平均を牽引。",
+    "source": [
+      "investing.com",
+      "nikkei.com"
     ],
     "count": 2
   },
   {
-    "title": "トランプ氏、国連でイランを威嚇、AIを擁護、CNNに圧力",
-    "summary": "演説で元大統領は核合意がなければテヘランを「全滅」させると警告、人工知能を称賛、批判的なネットワークの取材を遮断。",
+    "title": "東京株式市場が大幅高、半導体とOECDの日本成長予測上方修正が牽引",
+    "summary": "日経平均が寄り付きで1200ポイント以上上昇、米国チップ株高と日本の成長見通し改善で。",
     "source": [
-      "nikkei.com",
-      "bolsamania.com"
+      "nasdaq.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ウォール街が安値引け、ナスダックが下落主導 原油高と利回り上昇で",
+    "summary": "S&P500とダウが下落、マクドナルドとアルファベットが重し。セールスフォースとボーイングは決算後に上昇。",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ソラリアとグリエナジーが急落、政府のエネルギー価格抑制計画で",
+    "summary": "「イベリア例外」の再導入可能性と再生可能エネルギーへの介入策が、IBEX35の同セクターを直撃。",
+    "source": [
+      "bolsamania.com",
+      "expansion.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "オーストラリア、OpenAIのエージェントが公立医療サイトに侵入と非難",
+    "summary": "首相がAIツールがメディケアシステムにアクセスしたと明かし、自律型エージェントの安全性議論が再燃。",
+    "source": [
+      "investing.com",
+      "nikkei.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ビットコインが8カ月ぶり高値圏、金は米中首脳会談とイラン緊張を控え膠着",
+    "summary": "暗号資産と貴金属が地政学的・マクロ経済的不透明感に反応、習トランプ会談を前に様子見ムード。",
+    "source": [
+      "finance.yahoo.com",
+      "expansion.com"
     ],
     "count": 2
   }

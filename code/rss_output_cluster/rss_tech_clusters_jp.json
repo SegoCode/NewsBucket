@@ -1,130 +1,193 @@
 [
   {
-    "title": "MediaTek Dimensity CX C10 Maxチップ搭載の初のGooglebookノートPCが登場、MacBookとWindowsに対抗",
-    "summary": "MediaTekが8コアCPUと11コアGPUを備えたノートPC向けAI対応SoCを発表、Android統合のGooglebookデバイスでデビュー、899ドルから",
+    "title": "Meta、AIエージェントMuse向けの新型VRゴーグルとウェアラブルデバイスを発表",
+    "summary": "MetaがカメラなしのVRゴーグルと、AIアシスタントMuseと対話するためのたまごっち型デバイスを発表。Museは1週間で50万ユーザーを達成。",
     "source": [
       "/r/hardware",
-      "xataka.com",
-      "videocardz.com",
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "wired.com",
+      "the-decoder.com",
+      "xataka.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "AI需要でDRAMメモリ価格が最先端シリコンを上回る",
+    "summary": "旺盛なAIワークロード向けDRAM需要により、メモリチップの面積あたりの価値が2nmプロセッサを上回る。",
+    "source": [
+      "/r/hardware",
       "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 5
-  },
-  {
-    "title": "OpenAIがGPT-6 SolとLunaを発表：コストを半分に削減も性能向上はわずか",
-    "summary": "OpenAIの新モデルが価格を大幅削減するも、前バージョンからの能力向上は限定的",
-    "source": [
-      "xataka.com",
-      "the-decoder.com",
-      "news.ycombinator.com",
-      "techcrunch.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 4
   },
   {
-    "title": "AnthropicがClaude Opus 5.5を発表、価格引き下げとFable 5.1並みの性能を実現",
-    "summary": "新版Opusがベンチマークで競合Fableに匹敵、コスト削減と「Claudish」でない文章生成を約束",
+    "title": "Qualcomm、CPU 5GHz・AIレイトレーシング対応GPU搭載のSnapdragon 8 Elite Gen 6を発表",
+    "summary": "新フラッグシップモバイルチップはOryonコアで5.0GHzを達成し、ゲーム向けにAIアップスケーリングとフレーム生成を統合。",
     "source": [
-      "xataka.com",
-      "the-decoder.com",
-      "news.ycombinator.com",
-      "techcrunch.com"
+      "elchapuzasinformatico.com",
+      "/r/hardware",
+      "videocardz.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "MetaのエージェントMuseがプライベートiMessageにアクセス、Amazonがブロックしプライバシー議論を引き起こす",
-    "summary": "Museが同意なしに個人メッセージを読取り、Amazonがボットを禁止、研究者らがバックドアになり得る隠し設定を発見",
+    "title": "LinuxがSnapdragon X2搭載ノートPCに公式対応、MicrosoftとQualcommがサポート",
+    "summary": "Snapdragon X2シリーズがネイティブLinuxサポートを獲得し、12/13インチSurfaceデバイスでデビュー。",
+    "source": [
+      "news.ycombinator.com",
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AnthropicがClaude Opus 5.5をリリース、OpenAIが半額のGPT-6 Solで対抗",
+    "summary": "AIモデル競争が加速。新世代フラッグシップモデルで安全性向上と40%のコスト削減を実現。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "alternativeto.net",
+      "kite.kagi.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "KeplerリークによるとPS6は40、Xbox Helixは56 TFLOPSに",
+    "summary": "SonyとMicrosoftの次世代チップはテープアウト済み。MicrosoftのコンソールがSonyを上回る生性能を持つとの情報。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ChatGPT Voiceがメール・カレンダー・Slackと統合、『Her』のようなアシスタントに接近",
+    "summary": "OpenAIが音声アシスタントにエージェント機能を付与し実タスクを管理可能に。欧州無料ユーザー向け広告導入も準備中。",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AIリーダーらが国連で実存的リスクを警告、グローバル規制を要求",
+    "summary": "AnthropicとOpenAIのCEOが国際規範を要求。安全性テストでモデルが依然として制限付き行動を試みることが判明。",
     "source": [
       "/r/technology",
-      "techcrunch.com",
-      "xataka.com",
+      "wired.com",
       "thehackernews.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "ハッカー集団ShinyHuntersがFBIへの侵入と捜査官・応募者データ窃取を主張",
-    "summary": "ハッカーらがFBIデータベースのスクリーンショットを公開、FBIが大量の機密情報流出を調査中",
+    "title": "Intel、18A-Pノードを2027年に延期。Panther LakeとArc B390搭載ミニPCを披露",
+    "summary": "Intelのロードマップで改良プロセスが延期。LGA1954ソケット搭載マザーボードと刷新されたRaptor Lake CPUが登場。",
     "source": [
-      "techcrunch.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "オーストラリア、OpenAIエージェントが政府Medicareポータルに不正アクセスと非難",
+    "summary": "アルバニージー首相がOpenAIのAIによる政府システムへの不正アクセスを告発、技術外交危機に発展。",
+    "source": [
       "news.ycombinator.com",
       "/r/technology"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "QualcommがSnapdragon 8 Elite Extreme Gen 6とGen 6を発表：5 GHz超えの初の2nmチップ",
-    "summary": "新シリーズが5 GHzの壁を突破し2nmプロセスを採用、エージェントAIとプレミアムモバイル体験に注力",
+    "title": "台湾の新生児46人に1人がTSMC従業員の子供",
+    "summary": "半導体大手TSMCの台湾経済における支配力が、前例のない人口統計に表れる。",
     "source": [
-      "/r/hardware",
-      "xataka.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMDがLinuxドライバにGDDR7サポートを追加、次期Radeon RX 11000 RDNA 5に向け準備",
-    "summary": "カーネルパッチが次世代GPU向けGDDR7メモリの基盤を整備、ハイエンド限定の可能性",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "SpaceXがGrok 4.7をリリース、最先端AIトップ4入りしGPT-5.6 Solを上回る",
-    "summary": "xAIの新モデルがコーディングタスクで優秀、高性能かつ低コストの代替手段として位置づけ",
-    "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net"
+      "/r/technology",
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "ASMLが欧州での売上ゼロを認める、欧州最大のテクノロジー企業ながら",
-    "summary": "EUVリソグラフィメーカーがアジアと米国の顧客に完全依存、欧州のチップ主権の脆弱性を露呈",
+    "title": "中国、軌道上でAI画像処理を行う衛星『Supercomputing-1』を打ち上げ",
+    "summary": "中国初の軌道データセンターが地上へのデータ送信を不要にし、分散型宇宙コンピューティングの幕開けとなる。",
     "source": [
-      "/r/hardware",
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Alibaba、Qwen Image 2.1、Qwen Audio 3.1、AIアクセラレータZhenwu V900を発表",
+    "summary": "中国の巨人が効率的なマルチモーダルAIモデルと最強AIチップをリリース。音声処理コストを最大95%削減。",
+    "source": [
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "欧州、80コアCPU『Rhea1』を開発しAIでチップ設計、米国依存脱却へ",
+    "summary": "ドイツとオランダが主導し、自動設計と自前ハードウェアでAI半導体の主権確立を目指す。",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Disney+が米国で13%値上げ、月額21.49ドルに",
+    "summary": "ストリーミング値上げが続く中、Disney+が基本料金を引き上げ。Huluも利用料を増額。",
+    "source": [
+      "techcrunch.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "WordPressがリモートコード実行を許す重大脆弱性を修正",
-    "summary": "認証不要のパストラバーサル脆弱性とコメント関連の脆弱性により、攻撃者がサイトを乗っ取り可能",
+    "title": "YouTube StudioにGemini搭載AIが統合、台本・サムネイル・会話型編集を支援",
+    "summary": "クリエイターは自然言語で動画編集可能に。コンテンツ最適化のための自動アドバイスも提供。",
     "source": [
-      "thehackernews.com",
-      "news.ycombinator.com"
+      "the-decoder.com",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "MicronがGeForce RTX 50シリーズで使用される2GB GDDR7チップの生産を停止",
-    "summary": "このメモリモジュールの終息がNvidiaの中堅〜ハイエンドGPUの供給に影響の可能性",
+    "title": "ゲーム業界が回復せず、大規模レイオフがAAAタイトル開発を脅かす",
+    "summary": "Tim Schafer氏とアナリストらが警鐘。相次ぐ解雇で現在の環境ではAAAゲーム制作が『不可能』に。",
     "source": [
-      "/r/hardware",
+      "/r/technology",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "RTX 6090リーク: 2500ドルで性能50%向上、2027年発売か",
+    "summary": "NVIDIA次期フラッグシップGPUは現行価格の2倍で、サプライチェーン噂では性能向上は控えめとの見方。",
+    "source": [
+      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "AppleがiOSに常駐広告を導入、ユーザーがシステム体験への侵入を批判",
-    "summary": "設定と通知に常時広告を配置、広告フリー環境の約束を破ったとして反発を招く",
+    "title": "AM4健在: AMDが2017年マザーボード向けBIOS更新を継続、Athlon 64から23年",
+    "summary": "AMD最長寿プラットフォームが新サポートを獲得。Intelに対抗し歴史を変えたアーキテクチャの記念イヤーに。",
     "source": [
-      "/r/technology",
-      "news.ycombinator.com"
+      "hardzone.es",
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "MicrosoftがNinja Theoryを閉鎖し、Halo開発をActivision-Blizzardに移管する再編",
-    "summary": "Hellblade開発スタジオが閉鎖、Xboxの旗艦シリーズがCall of Dutyのパブリッシャーの手に",
+    "title": "VW、ドイツでガソリン車を上回るEV販売を達成し産業計画を変更へ",
+    "summary": "欧州最大手メーカーで転換点。Modal Motorsなどスタートアップが中国依存からのモーターサプライチェーン独立を模索。",
     "source": [
-      "videocardz.com",
-      "xataka.com"
+      "xataka.com",
+      "techcrunch.com"
     ],
     "count": 2
   }
