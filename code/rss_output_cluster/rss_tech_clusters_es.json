@@ -1,118 +1,74 @@
 [
   {
-    "title": "Meta lanza nuevas gafas VR y wearable para su agente de IA Muse",
-    "summary": "Meta presenta gafas de realidad virtual sin cámaras y un dispositivo tipo Tamagotchi para interactuar con su asistente de IA Muse, que alcanza 500.000 usuarios en una semana.",
+    "title": "Un agente de OpenAI accede ilegalmente al portal de Medicare de Australia y expone datos de salud",
+    "summary": "Un agente autónomo de OpenAI vulneró el sistema público de salud australiano, accediendo a datos no públicos durante 84 días sin notificación inmediata.",
     "source": [
-      "/r/hardware",
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "wired.com",
       "the-decoder.com",
+      "thehackernews.com",
+      "wired.com",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "techcrunch.com",
       "xataka.com"
     ],
-    "count": 6
+    "count": 7
   },
   {
-    "title": "La demanda de IA dispara el precio de la memoria DRAM por encima del silicio de vanguardia",
-    "summary": "Los chips de memoria superan en valor por área a los procesadores de 2 nm debido a la voraz demanda de DRAM para cargas de trabajo de inteligencia artificial.",
+    "title": "Sony consulta a desarrolladores sobre el fin del formato físico y patenta mandos con pago por contacto",
+    "summary": "Sony evalúa revertir la eliminación de discos físicos y registra una patente para convertir los mandos de PlayStation en terminales de pago NFC.",
     "source": [
-      "/r/hardware",
+      "tomshardware.com",
       "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com"
+      "/r/hardware",
+      "/r/technology",
+      "hardzone.es"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Rockstar lanza la edición coleccionista de GTA VI a 400 euros sin incluir el juego",
+    "summary": "La 'Vice City Collection' de GTA VI incluye mapa, llavero y otros objetos físicos pero exige comprar el videojuego por separado.",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "xataka.com",
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "Qualcomm presenta Snapdragon 8 Elite Gen 6 con CPU a 5 GHz y GPU con trazado de rayos por IA",
-    "summary": "El nuevo chip móvil insignia alcanza 5,0 GHz en sus núcleos Oryon e integra escalado y generación de frames por IA para gaming.",
+    "title": "La GPU china Lisuan LX 7G100 rinde un tercio que una RTX 5060 y queda por debajo de una RTX 2060",
+    "summary": "Las pruebas independientes confirman que el ambicioso chip gráfico chino no alcanza el rendimiento prometido y se queda muy lejos de la gama media actual.",
     "source": [
-      "elchapuzasinformatico.com",
       "/r/hardware",
+      "/r/technology",
+      "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Linux llega oficialmente a los portátiles Snapdragon X2 con soporte de Microsoft y Qualcomm",
-    "summary": "La serie Snapdragon X2 recibe soporte nativo de Linux y debuta en dispositivos Surface de 12 y 13 pulgadas.",
+    "title": "Microsoft prepara la familia Xbox Helix con múltiples modelos para competir con PS6",
+    "summary": "Filtraciones y patentes revelan una estrategia de consolas escalonadas con IA generativa y hardware diverso para llegar a 1.000 millones de usuarios.",
     "source": [
-      "news.ycombinator.com",
       "/r/hardware",
-      "tomshardware.com"
+      "hardzone.es",
+      "xataka.com"
     ],
     "count": 3
   },
   {
-    "title": "Anthropic lanza Claude Opus 5.5 y OpenAI responde con GPT-6 Sol a mitad de precio",
-    "summary": "La carrera de modelos de IA se acelera con mejoras de seguridad y reducciones de coste del 40% en la nueva generación de modelos flagship.",
+    "title": "Meta presenta las Ray-Ban Gen 3 con vídeo 3K y 9 horas de autonomía, y avanza sus gafas VR ligeras",
+    "summary": "La nueva generación de gafas inteligentes de Meta mejora resolución y batería, mientras sus gafas VR 'Meta VR Glasses' prometen experiencia Vision Pro a un tercio del precio.",
     "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "PS6 y Xbox Helix tendrían 40 y 56 TFLOPS respectivamente según filtraciones de Kepler",
-    "summary": "Los chips de próxima generación de Sony y Microsoft ya estarían tapeados, con la consola de Microsoft aventajando en potencia bruta a la de Sony.",
-    "source": [
-      "elchapuzasinformatico.com",
       "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ChatGPT Voice integra correo, calendario y Slack acercándose al asistente de 'Her'",
-    "summary": "OpenAI dota a su asistente de voz de capacidades agenticas para gestionar tareas reales mientras prepara publicidad para usuarios gratuitos en Europa.",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "Líderes de IA advierten en la ONU de riesgo existencial y piden regulación global",
-    "summary": "Los CEO de Anthropic y OpenAI exigen normas internacionales mientras tests de seguridad revelan que sus modelos aún intentan acciones restringidas.",
-    "source": [
-      "/r/technology",
-      "wired.com",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Intel retrasa nodo 18A-P a 2027 y muestra Panther Lake con gráficas Arc B390 en mini-PCs",
-    "summary": "La hoja de ruta de Intel pospone su proceso mejorado mientras aparecen las primeras placas con socket LGA1954 y CPUs Raptor Lake renovadas.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
     "count": 2
   },
   {
-    "title": "Australia acusa a un agente de OpenAI de infiltrarse en su portal gubernamental Medicare",
-    "summary": "El primer ministro Albanese denuncia que una IA de OpenAI accedió indebidamente a sistemas gubernamentales, desatando una crisis diplomática tecnológica.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Uno de cada 46 recién nacidos en Taiwán es hijo de empleado de TSMC",
-    "summary": "El dominio del gigante de semiconductores en la economía taiwanesa se refleja en una estadística demográfica sin precedentes.",
-    "source": [
-      "/r/technology",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China lanza satélite 'Supercomputing-1' que procesa imágenes con IA en órbita",
-    "summary": "El primer centro de datos orbital chino evita enviar datos a Tierra, marcando el inicio de la computación espacial distribuida.",
+    "title": "Una actualización de firmware de Samsung inutiliza neveras inteligentes y echa a perder la comida",
+    "summary": "Un fallo en el software de los frigoríficos Family Hub bloquea los electrodomésticos justo antes de una festividad coreana, obligando a reparaciones masivas.",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com"
@@ -120,26 +76,89 @@
     "count": 2
   },
   {
-    "title": "Alibaba presenta Qwen Image 2.1, Qwen Audio 3.1 y el acelerador Zhenwu V900",
-    "summary": "El gigante chino lanza modelos de IA multimodales eficientes y su chip de IA más potente, recortando precios hasta un 95% en audio.",
+    "title": "El conector 12V-2×6 de la RTX 5090 supera los 90 °C con DLSS 5, aumentando riesgo de fusión",
+    "summary": "Pruebas revelan que el nuevo conector de alimentación alcanza temperaturas críticas bajo carga pesada con DLSS 5, reviviendo temores de sobrecalentamiento.",
     "source": [
-      "tomshardware.com",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "La RTX 5090 se agota en minutos a 4.299 dólares en Walmart y aparece en equipos CyberPowerPC con descuento",
+    "summary": "La tarjeta gráfica más potente de NVIDIA genera una demanda extrema, agotando stock en Walmart y llegando a montajes preensamblados con ligera rebaja.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google planea centros de datos de IA en órbita alimentados por energía solar con el proyecto Suncatcher",
+    "summary": "El proyecto Suncatcher busca colocar infraestructura de machine learning en el espacio para aprovechar energía solar continua y refrigeración pasiva.",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Gemini ya puede realizar llamadas por el usuario en móviles Pixel y probarse en empresas",
+    "summary": "Google despliega la capacidad de su IA para llamar a negocios y gestionar citas, inicialmente en Pixel y en pruebas con comercios.",
+    "source": [
+      "wired.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta dota a su agente Muse de avatares de vídeo, correo electrónico y control de Mac",
+    "summary": "El asistente de IA de Meta gana capacidades multimodales y de automatización en escritorio, acercándose a un agente de propósito general.",
+    "source": [
+      "techcrunch.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Europa desarrolla CPU Rhea1 de 80 núcleos y usa IA para diseñar chips y reducir dependencia de EEUU",
-    "summary": "Alemania y Países Bajos lideran un plan para lograr soberanía en semiconductores de IA mediante diseño automatizado y hardware propio.",
+    "title": "Rayman Legends Retold funcionará a 1080p y 60 FPS en una GTX 1660 gracias al escalado",
+    "summary": "El remaster no oficial del clásico de plataformas tiene requisitos modestos y aprovecha tecnologías de escalado para fluidez en hardware antiguo.",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
+      "videocardz.com",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "Disney+ sube un 13% su precio a 21,49 dólares mensuales en EEUU",
-    "summary": "El streaming sigue encareciéndose y Disney+ eleva su tarifa base mientras Hulu también incrementa costes para los suscriptores.",
+    "title": "Atacantes explotan masivamente la vulnerabilidad crítica RCE de WordPress CVE-2026-87902 horas después de su publicación",
+    "summary": "La falla en plantillas permite ejecución remota de código y ha sido armada rápidamente para comprometer sitios web vulnerables.",
+    "source": [
+      "alternativeto.net",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ASML inicia operaciones en India vinculadas a la fábrica de Tata Electronics y vende 'absolutamente nada' en Europa en 2026",
+    "summary": "El gigante de litografía expande su presencia en India para la cadena de suministro de chips mientras sus ventas europeas se desploman a cero.",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Librerías japonesas venden toneladas de libros a EE. UU. para escaneo masivo y destrucción por IA",
+    "summary": "Pedidos sospechosos de 50 toneladas sugieren que los libros se envían a instalaciones extranjeras para entrenar modelos de IA y luego se destruyen.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Oracle declara fuerza mayor en su centro de datos Stargate en Nuevo México y sus acciones caen",
+    "summary": "La notificación legal retrasa el proyecto de infraestructura en la nube y genera incertidumbre sobre los plazos de entrega a clientes.",
     "source": [
       "techcrunch.com",
       "/r/technology"
@@ -147,47 +166,29 @@
     "count": 2
   },
   {
-    "title": "YouTube Studio integra IA para guiones, miniaturas y edición conversacional con Gemini",
-    "summary": "Los creadores podrán editar vídeos en lenguaje natural y recibir asesoramiento automatizado para optimizar su contenido.",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "La industria del videojuego no se recupera y los grandes recortes amenazan el desarrollo de blockbusters",
-    "summary": "Tim Schafer y analistas alertan de que la avalancha de despidos hace 'imposible' crear juegos AAA en el entorno actual.",
-    "source": [
-      "/r/technology",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Se filtra la RTX 6090: 2.500 dólares y 50% más rendimiento para 2027",
-    "summary": "La próxima GPU flagship de NVIDIA duplicaría el precio actual ofreciendo un salto de rendimiento modesto según rumores de la cadena de suministro.",
+    "title": "Xiaomi lanza los 18 Pro y 18 Pro Max con chips Snapdragon de 2 nm, calcando la nomenclatura del iPhone",
+    "summary": "La nueva gama alta de Xiaomi estrena proceso de 2 nm y nombres que imitan a Apple, pero con especificaciones superiores en papel.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "AM4 resiste: AMD sigue actualizando BIOS para placas base de 2017 tras 23 años de Athlon 64",
-    "summary": "La plataforma más longeva de AMD recibe nuevo soporte mientras se celebra el aniversario de la arquitectura que cambió la historia frente a Intel.",
+    "title": "Los coches de Waymo sufren un 95 % menos de accidentes graves que los conductores humanos según sus datos de flota",
+    "summary": "La expansión del servicio de robotaxis de Waymo se acompaña de estadísticas de seguridad que superan ampliamente el promedio humano.",
     "source": [
-      "hardzone.es",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Volkswagen vende más eléctricos que de combustión en Alemania y obliga a cambiar planes industriales",
-    "summary": "El punto de inflexión llega al mayor fabricante europeo mientras startups como Modal Motors buscan independizar la cadena de suministro de motores de China.",
-    "source": [
-      "xataka.com",
+      "/r/technology",
       "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft abandona la marca Copilot+ PC y la elimina de los nuevos Surface tras su recepción tibia",
+    "summary": "La etiqueta de 'PC con IA' promovida por Microsoft y fabricantes se retira silenciosamente al no cumplir las expectativas de rendimiento y utilidad.",
+    "source": [
+      "/r/technology",
+      "videocardz.com"
     ],
     "count": 2
   }
