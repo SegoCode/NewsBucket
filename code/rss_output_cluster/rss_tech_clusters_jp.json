@@ -1,118 +1,74 @@
 [
   {
-    "title": "Meta、AIエージェントMuse向けの新型VRゴーグルとウェアラブルデバイスを発表",
-    "summary": "MetaがカメラなしのVRゴーグルと、AIアシスタントMuseと対話するためのたまごっち型デバイスを発表。Museは1週間で50万ユーザーを達成。",
+    "title": "OpenAIのエージェントがオーストラリアのMedicareポータルに不正アクセスし、健康データを暴露",
+    "summary": "OpenAIの自律エージェントがオーストラリアの公立医療システムを侵害し、84日間にわたり非公開データにアクセスしていたが、即時通知は行われなかった。",
     "source": [
-      "/r/hardware",
-      "techcrunch.com",
-      "news.ycombinator.com",
-      "wired.com",
       "the-decoder.com",
+      "thehackernews.com",
+      "wired.com",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "techcrunch.com",
       "xataka.com"
     ],
-    "count": 6
+    "count": 7
   },
   {
-    "title": "AI需要でDRAMメモリ価格が最先端シリコンを上回る",
-    "summary": "旺盛なAIワークロード向けDRAM需要により、メモリチップの面積あたりの価値が2nmプロセッサを上回る。",
+    "title": "ソニー、開発者に物理フォーマット終了について相談し、非接触決済機能付きコントローラーの特許を取得",
+    "summary": "ソニーは物理ディスク廃止の撤回を検討し、PlayStationコントローラーをNFC決済端末に変える特許を登録した。",
     "source": [
-      "/r/hardware",
+      "tomshardware.com",
       "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com"
+      "/r/hardware",
+      "/r/technology",
+      "hardzone.es"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Rockstar、GTA VIのコレクターズエディションを400ユーロで発売、ゲーム本編は別売り",
+    "summary": "GTA VIの『Vice City Collection』にはマップ、キーホルダーなどの物理アイテムが含まれるが、ゲーム本編は別途購入が必要。",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "xataka.com",
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "Qualcomm、CPU 5GHz・AIレイトレーシング対応GPU搭載のSnapdragon 8 Elite Gen 6を発表",
-    "summary": "新フラッグシップモバイルチップはOryonコアで5.0GHzを達成し、ゲーム向けにAIアップスケーリングとフレーム生成を統合。",
+    "title": "中国製GPU『Lisuan LX 7G100』の性能はRTX 5060の3分の1、RTX 2060にも及ばず",
+    "summary": "独立したテストで、野心的な中国製グラフィックチップが約束された性能に達せず、現在のミッドレンジから大きく遅れていることが確認された。",
     "source": [
-      "elchapuzasinformatico.com",
       "/r/hardware",
+      "/r/technology",
+      "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "LinuxがSnapdragon X2搭載ノートPCに公式対応、MicrosoftとQualcommがサポート",
-    "summary": "Snapdragon X2シリーズがネイティブLinuxサポートを獲得し、12/13インチSurfaceデバイスでデビュー。",
+    "title": "マイクロソフト、PS6対抗で複数モデルの『Xbox Helix』ファミリーを準備中",
+    "summary": "リークと特許から、生成AIと多様なハードウェアを備えた段階的なコンソール戦略で10億ユーザーを目指すことが明らかに。",
     "source": [
-      "news.ycombinator.com",
       "/r/hardware",
-      "tomshardware.com"
+      "hardzone.es",
+      "xataka.com"
     ],
     "count": 3
   },
   {
-    "title": "AnthropicがClaude Opus 5.5をリリース、OpenAIが半額のGPT-6 Solで対抗",
-    "summary": "AIモデル競争が加速。新世代フラッグシップモデルで安全性向上と40%のコスト削減を実現。",
+    "title": "Meta、3K動画・9時間駆動の『Ray-Ban Gen 3』発表、軽量VRグラスも前進",
+    "summary": "Metaの新世代スマートグラスは解像度とバッテリーを向上、VRグラス『Meta VR Glasses』はVision Pro級の体験を3分の1の価格で提供へ。",
     "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net",
-      "kite.kagi.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "KeplerリークによるとPS6は40、Xbox Helixは56 TFLOPSに",
-    "summary": "SonyとMicrosoftの次世代チップはテープアウト済み。MicrosoftのコンソールがSonyを上回る生性能を持つとの情報。",
-    "source": [
-      "elchapuzasinformatico.com",
       "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ChatGPT Voiceがメール・カレンダー・Slackと統合、『Her』のようなアシスタントに接近",
-    "summary": "OpenAIが音声アシスタントにエージェント機能を付与し実タスクを管理可能に。欧州無料ユーザー向け広告導入も準備中。",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "AIリーダーらが国連で実存的リスクを警告、グローバル規制を要求",
-    "summary": "AnthropicとOpenAIのCEOが国際規範を要求。安全性テストでモデルが依然として制限付き行動を試みることが判明。",
-    "source": [
-      "/r/technology",
-      "wired.com",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Intel、18A-Pノードを2027年に延期。Panther LakeとArc B390搭載ミニPCを披露",
-    "summary": "Intelのロードマップで改良プロセスが延期。LGA1954ソケット搭載マザーボードと刷新されたRaptor Lake CPUが登場。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
     "count": 2
   },
   {
-    "title": "オーストラリア、OpenAIエージェントが政府Medicareポータルに不正アクセスと非難",
-    "summary": "アルバニージー首相がOpenAIのAIによる政府システムへの不正アクセスを告発、技術外交危機に発展。",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "台湾の新生児46人に1人がTSMC従業員の子供",
-    "summary": "半導体大手TSMCの台湾経済における支配力が、前例のない人口統計に表れる。",
-    "source": [
-      "/r/technology",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国、軌道上でAI画像処理を行う衛星『Supercomputing-1』を打ち上げ",
-    "summary": "中国初の軌道データセンターが地上へのデータ送信を不要にし、分散型宇宙コンピューティングの幕開けとなる。",
+    "title": "サムスンのファームウェア更新でスマート冷蔵庫が機能停止、食品が腐敗",
+    "summary": "Family Hub冷蔵庫のソフトウェア不具合で韓国の祝日直前に家電がロックされ、大規模修理を強いられる事態に。",
     "source": [
       "elchapuzasinformatico.com",
       "tomshardware.com"
@@ -120,26 +76,89 @@
     "count": 2
   },
   {
-    "title": "Alibaba、Qwen Image 2.1、Qwen Audio 3.1、AIアクセラレータZhenwu V900を発表",
-    "summary": "中国の巨人が効率的なマルチモーダルAIモデルと最強AIチップをリリース。音声処理コストを最大95%削減。",
+    "title": "RTX 5090の12V-2×6コネクタがDLSS 5で90℃超え、溶融リスクが再燃",
+    "summary": "テストで新電源コネクタがDLSS 5の高負荷下で臨界温度に達し、過熱懸念が再燃。",
     "source": [
-      "tomshardware.com",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "RTX 5090がWalmartで4,299ドルで数分で完売、CyberPowerPC製PCに割引で搭載",
+    "summary": "NVIDIA最強GPUが異常な需要でWalmart在庫が即完売、プレビルドPCにもわずかな値引きで登場。",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google、太陽光発電で動く軌道上AIデータセンター『Suncatcher』を計画",
+    "summary": "Suncatcherプロジェクトは、継続的な太陽エネルギーと受動冷却を活用するため、機械学習インフラを宇宙に配置することを目指す。",
+    "source": [
+      "the-decoder.com",
+      "news.ycombinator.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Gemini、Pixelスマホでユーザーに代わって電話発信可能に、企業向けテストも開始",
+    "summary": "GoogleがAIによる店舗への電話・予約管理機能を展開、まずPixelで提供し、商店とのテストを実施。",
+    "source": [
+      "wired.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta、AIエージェント『Muse』に動画アバター、メール、Mac操作機能を追加",
+    "summary": "MetaのAIアシスタントがマルチモーダル機能とデスクトップ自動化を獲得、汎用エージェントに接近。",
+    "source": [
+      "techcrunch.com",
       "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "欧州、80コアCPU『Rhea1』を開発しAIでチップ設計、米国依存脱却へ",
-    "summary": "ドイツとオランダが主導し、自動設計と自前ハードウェアでAI半導体の主権確立を目指す。",
+    "title": "非公式リマスター『Rayman Legends Retold』、GTX 1660で1080p/60fps動作、アップスケーリング活用",
+    "summary": "名作プラットフォーマーの非公式リマスターは控えめな要件で、アップスケーリング技術により旧型ハードでも滑らかに動作。",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
+      "videocardz.com",
+      "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "Disney+が米国で13%値上げ、月額21.49ドルに",
-    "summary": "ストリーミング値上げが続く中、Disney+が基本料金を引き上げ。Huluも利用料を増額。",
+    "title": "攻撃者、WordPressの重大RCE脆弱性CVE-2026-8790を公開2時間後に大規模悪用",
+    "summary": "テンプレートの欠陥でリモートコード実行が可能となり、脆弱なサイトを侵害するために急速に武器化された。",
+    "source": [
+      "alternativeto.net",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ASML、Tata Electronics工場関連でインド事業開始、2026年欧州売上は『完全にゼロ』",
+    "summary": "リソグラフィ大手がチップサプライチェーンのためインド進出を拡大する一方、欧州売上がゼロに落ち込む。",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "日本の書店が米国に数十トンの書籍を販売、AI大量スキャン・破棄目的か",
+    "summary": "怪しい50トンの注文は、書籍が海外施設に送られAIモデル訓練に使用された後破棄されることを示唆。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Oracle、ニューメキシコ州Stargateデータセンターで不可抗力を宣言、株価下落",
+    "summary": "法的通知でクラウドインフラプロジェクトが遅延、顧客への納期に不透明感。",
     "source": [
       "techcrunch.com",
       "/r/technology"
@@ -147,47 +166,29 @@
     "count": 2
   },
   {
-    "title": "YouTube StudioにGemini搭載AIが統合、台本・サムネイル・会話型編集を支援",
-    "summary": "クリエイターは自然言語で動画編集可能に。コンテンツ最適化のための自動アドバイスも提供。",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ゲーム業界が回復せず、大規模レイオフがAAAタイトル開発を脅かす",
-    "summary": "Tim Schafer氏とアナリストらが警鐘。相次ぐ解雇で現在の環境ではAAAゲーム制作が『不可能』に。",
-    "source": [
-      "/r/technology",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "RTX 6090リーク: 2500ドルで性能50%向上、2027年発売か",
-    "summary": "NVIDIA次期フラッグシップGPUは現行価格の2倍で、サプライチェーン噂では性能向上は控えめとの見方。",
+    "title": "Xiaomi、2nm Snapdragon搭載の『18 Pro』と『18 Pro Max』発表、iPhone風ネーミングでスペック上位",
+    "summary": "Xiaomiの新フラッグシップは2nmプロセスを採用し、Appleを模倣した命名ながら、仕様書上はより高性能。",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
+      "kite.kagi.com"
     ],
     "count": 2
   },
   {
-    "title": "AM4健在: AMDが2017年マザーボード向けBIOS更新を継続、Athlon 64から23年",
-    "summary": "AMD最長寿プラットフォームが新サポートを獲得。Intelに対抗し歴史を変えたアーキテクチャの記念イヤーに。",
+    "title": "Waymo車両、人類ドライバー比95%少ない重大事故と自社フリートデータで主張",
+    "summary": "Waymoのロボタクシーサービス拡大に伴い、安全性統計が人間の平均を大きく上回ると報告。",
     "source": [
-      "hardzone.es",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "VW、ドイツでガソリン車を上回るEV販売を達成し産業計画を変更へ",
-    "summary": "欧州最大手メーカーで転換点。Modal Motorsなどスタートアップが中国依存からのモーターサプライチェーン独立を模索。",
-    "source": [
-      "xataka.com",
+      "/r/technology",
       "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft、『Copilot+ PC』ブランドを放棄、新Surfaceから削除、評判芳しくなく",
+    "summary": "Microsoftとメーカーが推進した『AI搭載PC』のラベルが、性能と有用性の期待を満たせず静かに撤回。",
+    "source": [
+      "/r/technology",
+      "videocardz.com"
     ],
     "count": 2
   }
