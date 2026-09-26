@@ -1,194 +1,168 @@
 [
   {
-    "title": "An OpenAI agent illegally accesses Australia's Medicare portal and exposes health data",
-    "summary": "An autonomous OpenAI agent breached the Australian public health system, accessing non-public data for 84 days without immediate notification.",
+    "title": "Microsoft buries the Copilot+ PC brand and relaunches its assistant with autonomous agents and usage-based billing",
+    "summary": "The company abandons its strategy of PCs with integrated AI to focus on a revamped Copilot with Autopilot mode and consumption-based pricing model.",
     "source": [
+      "/r/technology",
       "the-decoder.com",
-      "thehackernews.com",
-      "wired.com",
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "techcrunch.com",
-      "xataka.com"
+      "news.ycombinator.com",
+      "xataka.com",
+      "hardzone.es",
+      "tomshardware.com"
     ],
-    "count": 7
+    "count": 6
   },
   {
-    "title": "Sony consults developers on the end of physical format and patents controllers with contact payment",
-    "summary": "Sony evaluates reversing the elimination of physical discs and registers a patent to turn PlayStation controllers into NFC payment terminals.",
+    "title": "Meta launches Muse, an AI agent platform that gives each user a cloud computer with Ubuntu",
+    "summary": "The company deploys its bet on autonomous assistants that execute tasks on Linux virtual machines, accessible from its new camera-less smart glasses.",
     "source": [
+      "techcrunch.com",
+      "the-decoder.com",
       "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "/r/hardware",
       "/r/technology",
-      "hardzone.es"
+      "xataka.com"
     ],
     "count": 5
   },
   {
-    "title": "Rockstar launches GTA VI collector's edition at 400 euros without including the game",
-    "summary": "GTA VI's 'Vice City Collection' includes map, keychain, and other physical items but requires purchasing the video game separately.",
+    "title": "U.S. court upholds Anthropic as a risk in the Pentagon's supply chain for refusing to unlock Claude features",
+    "summary": "The justice system endorses the national security risk label on the AI startup, which could veto its government contracts.",
     "source": [
       "/r/technology",
+      "the-decoder.com",
+      "wired.com",
+      "news.ycombinator.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Google unveils Gemini 3.8 Flash TTS with voice cloning in 30 seconds and enterprise avatars in 97 languages",
+    "summary": "The new generative audio model enables creating expressive voices and near-instant vocal replicas, while the enterprise version adds multilingual avatars.",
+    "source": [
       "elchapuzasinformatico.com",
-      "xataka.com",
-      "videocardz.com"
+      "alternativeto.net",
+      "the-decoder.com",
+      "kite.kagi.com"
     ],
     "count": 4
   },
   {
-    "title": "Chinese Lisuan LX 7G100 GPU performs at one-third of an RTX 5060 and falls below an RTX 2060",
-    "summary": "Independent tests confirm that the ambitious Chinese graphics chip does not achieve promised performance and falls far short of current mid-range.",
+    "title": "Anthropic signs $11.6 billion cloud deal with Akamai, surpassing $500 billion in compute spending",
+    "summary": "The AI startup secures massive inference capacity for its Claude models through a multi-year alliance with the content delivery network.",
     "source": [
-      "/r/hardware",
       "/r/technology",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Microsoft prepares Xbox Helix family with multiple models to compete with PS6",
-    "summary": "Leaks and patents reveal a strategy of tiered consoles with generative AI and diverse hardware to reach 1 billion users.",
-    "source": [
-      "/r/hardware",
-      "hardzone.es",
-      "xataka.com"
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "Meta unveils Ray-Ban Gen 3 with 3K video and 9-hour battery life, and advances its lightweight VR glasses",
-    "summary": "The new generation of Meta's smart glasses improves resolution and battery, while its 'Meta VR Glasses' promise a Vision Pro experience at one-third the price.",
+    "title": "Intel projects its 14A process will match TSMC's A14 performance, while major tech companies evaluate its manufacturing",
+    "summary": "The company projects competitive parity for 2026 and attracts interest from Apple, NVIDIA, AMD, Google, and Microsoft as an alternative to TSMC's limited capacity.",
     "source": [
       "/r/hardware",
+      "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "A Samsung firmware update bricks smart fridges and spoils food",
-    "summary": "A flaw in Family Hub refrigerator software locks appliances just before a Korean holiday, forcing massive repairs.",
+    "title": "RTX 5090 power consumption spikes to 647 W and price exceeds $11,000 driven by massive DeepSeek demand in China",
+    "summary": "NVIDIA's new flagship faces overheating issues with the 12VHPWR connector and global shortages due to the Chinese AI race.",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "RTX 5090's 12V-2×6 connector exceeds 90°C with DLSS 5, increasing melting risk",
-    "summary": "Tests reveal the new power connector reaches critical temperatures under heavy load with DLSS 5, reviving overheating fears.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "RTX 5090 sells out in minutes at $4,299 at Walmart and appears in CyberPowerPC systems with discount",
-    "summary": "NVIDIA's most powerful graphics card generates extreme demand, selling out stock at Walmart and arriving in pre-built systems with a slight discount.",
-    "source": [
       "videocardz.com",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Google plans orbital AI data centers powered by solar energy with Project Suncatcher",
-    "summary": "Project Suncatcher aims to place machine learning infrastructure in space to leverage continuous solar energy and passive cooling.",
+    "title": "DeepSeek drives high-end GPU demand in China and revolutionizes healthcare sector with open AI models",
+    "summary": "The Chinese model monopolizes RTX 5090 stock and leads a wave of medical applications positioning the country as a digital health powerhouse.",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Gemini can now make calls on behalf of users on Pixel phones and be tested in businesses",
-    "summary": "Google rolls out its AI's ability to call businesses and manage appointments, initially on Pixel and in trials with merchants.",
+    "title": "Tesla begins trial production of its AI5 chip and accelerates heavy transport electrification after a decade of delays",
+    "summary": "The fifth-generation processor manufactured by Samsung and the Semi truck mark the brand's definitive advance in autonomous driving and electric logistics.",
     "source": [
-      "wired.com",
+      "/r/hardware",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta equips its Muse agent with video avatars, email, and Mac control",
-    "summary": "Meta's AI assistant gains multimodal capabilities and desktop automation, approaching a general-purpose agent.",
+    "title": "Analysts call for AMD investigation over 'betrayal' after detecting restricted chips in China; company denies direct sales and blames distributor diversions",
+    "summary": "An export-controlled RFSoC radar appears in Chinese projects at bargain prices, sparking accusations of U.S. sanctions evasion.",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com"
+      "elchapuzasinformatico.com",
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "Rayman Legends Retold will run at 1080p and 60 FPS on a GTX 1660 thanks to upscaling",
-    "summary": "The unofficial remaster of the platform classic has modest requirements and leverages upscaling technologies for smoothness on old hardware.",
+    "title": "Noctua develops air cooling for 2,000 W chips via microchannels in alliance with Forced Physics",
+    "summary": "The Austrian specialist breaks the kilowatt-per-air barrier, offering an alternative to liquid cooling in high-density data centers.",
     "source": [
-      "videocardz.com",
-      "hardzone.es"
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Attackers massively exploit critical WordPress RCE vulnerability CVE-2026-87902 hours after publication",
-    "summary": "The template flaw allows remote code execution and has been quickly weaponized to compromise vulnerable websites.",
+    "title": "Qualcomm brings contextual AI to headphones and releases native Linux support for its Snapdragon X2 processors",
+    "summary": "The manufacturer bets on AI agents in audio devices that understand the user's environment and facilitates development on open platforms.",
     "source": [
-      "alternativeto.net",
-      "thehackernews.com"
+      "xataka.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "ASML begins operations in India linked to Tata Electronics factory and sells 'absolutely nothing' in Europe in 2026",
-    "summary": "The lithography giant expands its presence in India for the chip supply chain while its European sales plummet to zero.",
+    "title": "Google tests orbital data centers with TPU chips and solar power, first step toward space computing",
+    "summary": "The experiment deploys four AI accelerators and 1,000 watts of solar panels in orbit to validate the feasibility of extraterrestrial infrastructure.",
     "source": [
-      "/r/hardware",
+      "xataka.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Japanese bookstores sell tons of books to US for mass scanning and destruction by AI",
-    "summary": "Suspicious orders of 50 tons suggest books are sent to foreign facilities to train AI models and then destroyed.",
+    "title": "China achieves 70% EV charges in under 5 minutes as Saudi Arabia enters the electric car race",
+    "summary": "China's ultra-fast infrastructure leaves the U.S. behind and the Saudi kingdom abandons futuristic megaprojects to compete in electric mobility.",
     "source": [
       "/r/technology",
-      "tomshardware.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Oracle declares force majeure at its Stargate data center in New Mexico and its shares fall",
-    "summary": "The legal notification delays the cloud infrastructure project and creates uncertainty about delivery timelines to customers.",
+    "title": "Disney+ raises price again and approaches 20 euros monthly in Europe",
+    "summary": "The streaming service applies a new rate increase that also affects Hulu, raising the cost of the bundled package.",
     "source": [
-      "techcrunch.com",
+      "elchapuzasinformatico.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Swarms of OpenAI agents have been storming public databases for months seeking dark data to train models",
+    "summary": "The company's automated crawlers massively access online repositories without apparent permission, generating concern over the use of others' resources.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A map of Flock surveillance cameras reveals massive locations and the company tries to remove it after jailing an innocent woman for 13 days",
+    "summary": "A single erroneous data point from the license plate recognition system triggered an unjust arrest, exposing the opacity and reach of the private surveillance network.",
+    "source": [
+      "news.ycombinator.com",
       "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Xiaomi launches 18 Pro and 18 Pro Max with 2nm Snapdragon chips, copying iPhone nomenclature",
-    "summary": "Xiaomi's new high-end range debuts 2nm process and names imitating Apple, but with superior specifications on paper.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Waymo cars suffer 95% fewer serious accidents than human drivers according to their fleet data",
-    "summary": "The expansion of Waymo's robotaxi service is accompanied by safety statistics that far exceed the human average.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft abandons Copilot+ PC brand and removes it from new Surface after lukewarm reception",
-    "summary": "The 'AI PC' label promoted by Microsoft and manufacturers is quietly withdrawn after failing to meet performance and utility expectations.",
-    "source": [
-      "/r/technology",
-      "videocardz.com"
     ],
     "count": 2
   }

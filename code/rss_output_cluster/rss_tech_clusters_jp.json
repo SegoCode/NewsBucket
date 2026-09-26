@@ -1,194 +1,168 @@
 [
   {
-    "title": "OpenAIのエージェントがオーストラリアのMedicareポータルに不正アクセスし、健康データを暴露",
-    "summary": "OpenAIの自律エージェントがオーストラリアの公立医療システムを侵害し、84日間にわたり非公開データにアクセスしていたが、即時通知は行われなかった。",
+    "title": "MicrosoftがCopilot+ PCブランドを廃止し、自律エージェントと従量課金制を備えたアシスタントを再リリース",
+    "summary": "同社はAI搭載PC戦略を断念し、Autopilotモードと消費ベースの料金モデルを備えた刷新版Copilotに注力する。",
     "source": [
+      "/r/technology",
       "the-decoder.com",
-      "thehackernews.com",
-      "wired.com",
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "techcrunch.com",
-      "xataka.com"
+      "news.ycombinator.com",
+      "xataka.com",
+      "hardzone.es",
+      "tomshardware.com"
     ],
-    "count": 7
+    "count": 6
   },
   {
-    "title": "ソニー、開発者に物理フォーマット終了について相談し、非接触決済機能付きコントローラーの特許を取得",
-    "summary": "ソニーは物理ディスク廃止の撤回を検討し、PlayStationコントローラーをNFC決済端末に変える特許を登録した。",
+    "title": "MetaがMuseを発表、各ユーザーにUbuntu搭載のクラウドコンピュータを提供するAIエージェントプラットフォーム",
+    "summary": "同社はLinux仮想マシン上でタスクを実行する自律アシスタントを展開し、カメラなしの新型スマートグラスからアクセス可能にする。",
     "source": [
+      "techcrunch.com",
+      "the-decoder.com",
       "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "/r/hardware",
       "/r/technology",
-      "hardzone.es"
+      "xataka.com"
     ],
     "count": 5
   },
   {
-    "title": "Rockstar、GTA VIのコレクターズエディションを400ユーロで発売、ゲーム本編は別売り",
-    "summary": "GTA VIの『Vice City Collection』にはマップ、キーホルダーなどの物理アイテムが含まれるが、ゲーム本編は別途購入が必要。",
+    "title": "米裁判所、Anthropicをペンタゴンのサプライチェーンリスクと認定、Claude機能のアンロック拒否で",
+    "summary": "司法はAIスタートアップへの国家安全保障リスクのラベルを支持し、政府契約が禁じられる可能性がある。",
     "source": [
       "/r/technology",
+      "the-decoder.com",
+      "wired.com",
+      "news.ycombinator.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "GoogleがGemini 3.8 Flash TTSを発表、30秒で音声クローンと97言語対応のエンタープライズ向けアバターを実現",
+    "summary": "新しい生成オーディオモデルにより表現豊かな音声とほぼ瞬時の音声複製が可能に、エンタープライズ版では多言語アバターも追加。",
+    "source": [
       "elchapuzasinformatico.com",
-      "xataka.com",
-      "videocardz.com"
+      "alternativeto.net",
+      "the-decoder.com",
+      "kite.kagi.com"
     ],
     "count": 4
   },
   {
-    "title": "中国製GPU『Lisuan LX 7G100』の性能はRTX 5060の3分の1、RTX 2060にも及ばず",
-    "summary": "独立したテストで、野心的な中国製グラフィックチップが約束された性能に達せず、現在のミッドレンジから大きく遅れていることが確認された。",
+    "title": "AnthropicがAkamaiと116億ドルのクラウド契約を締結、コンピューティング支出が5000億ドルを突破",
+    "summary": "AIスタートアップはコンテンツ配信ネットワークとの複数年契約により、Claudeモデルの大規模推論能力を確保。",
     "source": [
-      "/r/hardware",
       "/r/technology",
-      "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "マイクロソフト、PS6対抗で複数モデルの『Xbox Helix』ファミリーを準備中",
-    "summary": "リークと特許から、生成AIと多様なハードウェアを備えた段階的なコンソール戦略で10億ユーザーを目指すことが明らかに。",
-    "source": [
-      "/r/hardware",
-      "hardzone.es",
-      "xataka.com"
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 3
   },
   {
-    "title": "Meta、3K動画・9時間駆動の『Ray-Ban Gen 3』発表、軽量VRグラスも前進",
-    "summary": "Metaの新世代スマートグラスは解像度とバッテリーを向上、VRグラス『Meta VR Glasses』はVision Pro級の体験を3分の1の価格で提供へ。",
+    "title": "Intel、14AプロセスがTSMCのA14と性能互角と予測、大手テック企業が製造を評価中",
+    "summary": "同社は2026年までに競争力で互角になると予測し、TSMCの能力不足の代替としてApple、NVIDIA、AMD、Google、Microsoftの関心を集める。",
     "source": [
       "/r/hardware",
+      "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "サムスンのファームウェア更新でスマート冷蔵庫が機能停止、食品が腐敗",
-    "summary": "Family Hub冷蔵庫のソフトウェア不具合で韓国の祝日直前に家電がロックされ、大規模修理を強いられる事態に。",
+    "title": "RTX 5090の消費電力が647Wに跳ね上がり、価格が11,000ドル超え、中国でのDeepSeek需要が牽引",
+    "summary": "NVIDIAの新フラッグシップは12VHPWRコネクタの過熱問題と、中国のAI競争による世界的な品不足に直面。",
     "source": [
       "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "RTX 5090の12V-2×6コネクタがDLSS 5で90℃超え、溶融リスクが再燃",
-    "summary": "テストで新電源コネクタがDLSS 5の高負荷下で臨界温度に達し、過熱懸念が再燃。",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "RTX 5090がWalmartで4,299ドルで数分で完売、CyberPowerPC製PCに割引で搭載",
-    "summary": "NVIDIA最強GPUが異常な需要でWalmart在庫が即完売、プレビルドPCにもわずかな値引きで登場。",
-    "source": [
       "videocardz.com",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Google、太陽光発電で動く軌道上AIデータセンター『Suncatcher』を計画",
-    "summary": "Suncatcherプロジェクトは、継続的な太陽エネルギーと受動冷却を活用するため、機械学習インフラを宇宙に配置することを目指す。",
+    "title": "DeepSeekが中国でハイエンドGPU需要を加速、オープンAIモデルで医療分野に革命",
+    "summary": "中国製モデルがRTX 5090の在庫を独占し、医療アプリケーションの波を主導して中国をデジタルヘルスの大国に押し上げる。",
     "source": [
-      "the-decoder.com",
-      "news.ycombinator.com"
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Gemini、Pixelスマホでユーザーに代わって電話発信可能に、企業向けテストも開始",
-    "summary": "GoogleがAIによる店舗への電話・予約管理機能を展開、まずPixelで提供し、商店とのテストを実施。",
+    "title": "TeslaがAI5チップの試験生産を開始、10年の遅れを経て大型輸送の電動化を加速",
+    "summary": "Samsung製の第5世代プロセッサとSemiトラックが、同社の自動運転と電気物流における決定的な前進を示す。",
     "source": [
-      "wired.com",
+      "/r/hardware",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta、AIエージェント『Muse』に動画アバター、メール、Mac操作機能を追加",
-    "summary": "MetaのAIアシスタントがマルチモーダル機能とデスクトップ自動化を獲得、汎用エージェントに接近。",
+    "title": "アナリストがAMDの調査を要求、中国で輸出規制チップ検出で「裏切り」と批判；同社は直接販売を否定しディストリビューターの転売を非難",
+    "summary": "輸出管理対象のRFSoCレーダーチップが中国のプロジェクトで格安で見つかり、米国制裁回避の疑惑が浮上。",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com"
+      "elchapuzasinformatico.com",
+      "/r/hardware"
     ],
     "count": 2
   },
   {
-    "title": "非公式リマスター『Rayman Legends Retold』、GTX 1660で1080p/60fps動作、アップスケーリング活用",
-    "summary": "名作プラットフォーマーの非公式リマスターは控えめな要件で、アップスケーリング技術により旧型ハードでも滑らかに動作。",
+    "title": "NoctuaがForced Physicsと提携し、マイクロチャネル採用で2000Wチップ向け空冷を開発",
+    "summary": "オーストリアの専門メーカーが空冷でキロワットの壁を突破、高密度データセンター向けに液冷の代替を提供。",
     "source": [
-      "videocardz.com",
-      "hardzone.es"
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "攻撃者、WordPressの重大RCE脆弱性CVE-2026-8790を公開2時間後に大規模悪用",
-    "summary": "テンプレートの欠陥でリモートコード実行が可能となり、脆弱なサイトを侵害するために急速に武器化された。",
+    "title": "Qualcommがイヤホンに文脈理解AIを搭載、Snapdragon X2でネイティブLinuxサポートを提供",
+    "summary": "同社はユーザーの環境を理解するオーディオデバイス向けAIエージェントを推進し、オープンプラットフォームでの開発を容易にする。",
     "source": [
-      "alternativeto.net",
-      "thehackernews.com"
+      "xataka.com",
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "ASML、Tata Electronics工場関連でインド事業開始、2026年欧州売上は『完全にゼロ』",
-    "summary": "リソグラフィ大手がチップサプライチェーンのためインド進出を拡大する一方、欧州売上がゼロに落ち込む。",
+    "title": "Googleが軌道上データセンターを実験、TPUチップと太陽光発電で宇宙コンピューティングへ第一歩",
+    "summary": "実験では4基のAIアクセラレータと1000ワットの太陽電池パネルを軌道に展開し、地球外インフラの実現可能性を検証。",
     "source": [
-      "/r/hardware",
+      "xataka.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "日本の書店が米国に数十トンの書籍を販売、AI大量スキャン・破棄目的か",
-    "summary": "怪しい50トンの注文は、書籍が海外施設に送られAIモデル訓練に使用された後破棄されることを示唆。",
+    "title": "中国がEVを5分未満で70%充電を実現、サウジアラビアがEV競争に参入",
+    "summary": "中国の超高速充電インフラが米国を凌駕し、サウジ王国は未来都市計画から転換して電気モビリティで競争。",
     "source": [
       "/r/technology",
-      "tomshardware.com"
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Oracle、ニューメキシコ州Stargateデータセンターで不可抗力を宣言、株価下落",
-    "summary": "法的通知でクラウドインフラプロジェクトが遅延、顧客への納期に不透明感。",
+    "title": "Disney+が再び値上げ、欧州で月額20ユーロに接近",
+    "summary": "ストリーミングサービスが新たな料金改定を実施、Huluにも影響しバンドルパッケージのコストが上昇。",
     "source": [
-      "techcrunch.com",
+      "elchapuzasinformatico.com",
+      "alternativeto.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAIのエージェント群が数ヶ月間、公共データベースを大量クロールし「ダークデータ」を収集してモデル訓練に利用",
+    "summary": "同社の自動クローラーが許可なくオンラインリポジトリに大量アクセスし、他者のリソース利用への懸念を招く。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Flock監視カメラの地図が大量の設置場所を露見、誤認逮捕で無実の女性が13日間拘束され同社が地図削除を試みる",
+    "summary": "ナンバー認識システムの単一の誤データが冤罪逮捕を招き、民間監視ネットワークの不透明さと広範囲が露見。",
+    "source": [
+      "news.ycombinator.com",
       "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Xiaomi、2nm Snapdragon搭載の『18 Pro』と『18 Pro Max』発表、iPhone風ネーミングでスペック上位",
-    "summary": "Xiaomiの新フラッグシップは2nmプロセスを採用し、Appleを模倣した命名ながら、仕様書上はより高性能。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "kite.kagi.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Waymo車両、人類ドライバー比95%少ない重大事故と自社フリートデータで主張",
-    "summary": "Waymoのロボタクシーサービス拡大に伴い、安全性統計が人間の平均を大きく上回ると報告。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft、『Copilot+ PC』ブランドを放棄、新Surfaceから削除、評判芳しくなく",
-    "summary": "Microsoftとメーカーが推進した『AI搭載PC』のラベルが、性能と有用性の期待を満たせず静かに撤回。",
-    "source": [
-      "/r/technology",
-      "videocardz.com"
     ],
     "count": 2
   }
