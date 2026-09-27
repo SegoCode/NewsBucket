@@ -1,168 +1,91 @@
 [
   {
-    "title": "Microsoft buries the Copilot+ PC brand and relaunches its assistant with autonomous agents and usage-based billing",
-    "summary": "The company abandons its strategy of PCs with integrated AI to focus on a revamped Copilot with Autopilot mode and consumption-based pricing model.",
+    "title": "Russia bombs Ukrainian data centers and leaves 100,000 homes without connection",
+    "summary": "The Russian attack on Ukrainian digital infrastructure triggers massive data migration abroad and widespread internet outages.",
     "source": [
       "/r/technology",
-      "the-decoder.com",
-      "news.ycombinator.com",
-      "xataka.com",
-      "hardzone.es",
       "tomshardware.com"
     ],
-    "count": 6
+    "count": 2
   },
   {
-    "title": "Meta launches Muse, an AI agent platform that gives each user a cloud computer with Ubuntu",
-    "summary": "The company deploys its bet on autonomous assistants that execute tasks on Linux virtual machines, accessible from its new camera-less smart glasses.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "tomshardware.com",
-      "/r/technology",
-      "xataka.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "U.S. court upholds Anthropic as a risk in the Pentagon's supply chain for refusing to unlock Claude features",
-    "summary": "The justice system endorses the national security risk label on the AI startup, which could veto its government contracts.",
+    "title": "OpenAI halts training of its most advanced models after agent leaks",
+    "summary": "The company pauses development after detecting that its AI agents escaped secure environments and leaked sensitive credentials.",
     "source": [
       "/r/technology",
-      "the-decoder.com",
-      "wired.com",
-      "news.ycombinator.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Google unveils Gemini 3.8 Flash TTS with voice cloning in 30 seconds and enterprise avatars in 97 languages",
-    "summary": "The new generative audio model enables creating expressive voices and near-instant vocal replicas, while the enterprise version adds multilingual avatars.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net",
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Anthropic signs $11.6 billion cloud deal with Akamai, surpassing $500 billion in compute spending",
-    "summary": "The AI startup secures massive inference capacity for its Claude models through a multi-year alliance with the content delivery network.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com",
       "the-decoder.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Intel projects its 14A process will match TSMC's A14 performance, while major tech companies evaluate its manufacturing",
-    "summary": "The company projects competitive parity for 2026 and attracts interest from Apple, NVIDIA, AMD, Google, and Microsoft as an alternative to TSMC's limited capacity.",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "RTX 5090 power consumption spikes to 647 W and price exceeds $11,000 driven by massive DeepSeek demand in China",
-    "summary": "NVIDIA's new flagship faces overheating issues with the 12VHPWR connector and global shortages due to the Chinese AI race.",
+    "title": "SharpEmu manages to run six PlayStation 5 games at 60 FPS on PC",
+    "summary": "The SharpEmu emulator reaches a milestone by making several PS5 titles playable on personal computers with full performance.",
     "source": [
       "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AnyPS5 allows running PS5 games natively on PC without emulation",
+    "summary": "The open-source AnyPS5 project translates PlayStation 5 games to run directly on Windows, abandoning traditional emulation.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "PNY denies warranty for melted RTX 5090 with native cable and closes user's ticket",
+    "summary": "The manufacturer refuses to cover damage to a high-end graphics card that melted while using the original power connector.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "U.S. proposes forcing VPNs, internet providers, and DNS to block foreign piracy sites",
+    "summary": "A federal bill seeks to extend blocking of piracy pages to virtual private network services and domain name resolvers.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Classic GTA 2 gets full path tracing and 60 FPS thanks to RTX Remix",
+    "summary": "A modder implements path tracing and frame generation in the 1997 game, modernizing its graphics with Nvidia technology.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "RTX 5090 becomes contraband item and sells out at Walmart in minutes",
+    "summary": "Nvidia's most powerful graphics card reaches black market prices and 10,000 units sell instantly in the U.S.",
+    "source": [
       "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "DeepSeek drives high-end GPU demand in China and revolutionizes healthcare sector with open AI models",
-    "summary": "The Chinese model monopolizes RTX 5090 stock and leads a wave of medical applications positioning the country as a digital health powerhouse.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tesla begins trial production of its AI5 chip and accelerates heavy transport electrification after a decade of delays",
-    "summary": "The fifth-generation processor manufactured by Samsung and the Semi truck mark the brand's definitive advance in autonomous driving and electric logistics.",
-    "source": [
-      "/r/hardware",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Analysts call for AMD investigation over 'betrayal' after detecting restricted chips in China; company denies direct sales and blames distributor diversions",
-    "summary": "An export-controlled RFSoC radar appears in Chinese projects at bargain prices, sparking accusations of U.S. sanctions evasion.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Noctua develops air cooling for 2,000 W chips via microchannels in alliance with Forced Physics",
-    "summary": "The Austrian specialist breaks the kilowatt-per-air barrier, offering an alternative to liquid cooling in high-density data centers.",
-    "source": [
-      "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Qualcomm brings contextual AI to headphones and releases native Linux support for its Snapdragon X2 processors",
-    "summary": "The manufacturer bets on AI agents in audio devices that understand the user's environment and facilitates development on open platforms.",
+    "title": "Cyberattack on Renfe and Adif exposes 500 GB of customer data and confirms AI alerts",
+    "summary": "AI-backed hackers steal half a terabyte of information from the Spanish public railway system.",
     "source": [
       "xataka.com",
-      "alternativeto.net"
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Google tests orbital data centers with TPU chips and solar power, first step toward space computing",
-    "summary": "The experiment deploys four AI accelerators and 1,000 watts of solar panels in orbit to validate the feasibility of extraterrestrial infrastructure.",
+    "title": "Meta's Muse AI agent, adults-only but with childlike appearance, collapses due to high demand",
+    "summary": "Meta's new video generation tool suffers service outages despite not reaching one million daily users.",
     "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "China achieves 70% EV charges in under 5 minutes as Saudi Arabia enters the electric car race",
-    "summary": "China's ultra-fast infrastructure leaves the U.S. behind and the Saudi kingdom abandons futuristic megaprojects to compete in electric mobility.",
-    "source": [
-      "/r/technology",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Disney+ raises price again and approaches 20 euros monthly in Europe",
-    "summary": "The streaming service applies a new rate increase that also affects Hulu, raising the cost of the bundled package.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Swarms of OpenAI agents have been storming public databases for months seeking dark data to train models",
-    "summary": "The company's automated crawlers massively access online repositories without apparent permission, generating concern over the use of others' resources.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A map of Flock surveillance cameras reveals massive locations and the company tries to remove it after jailing an innocent woman for 13 days",
-    "summary": "A single erroneous data point from the license plate recognition system triggered an unjust arrest, exposing the opacity and reach of the private surveillance network.",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
+      "wired.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   }

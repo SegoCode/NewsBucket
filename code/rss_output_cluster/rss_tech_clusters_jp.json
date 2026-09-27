@@ -1,168 +1,91 @@
 [
   {
-    "title": "MicrosoftがCopilot+ PCブランドを廃止し、自律エージェントと従量課金制を備えたアシスタントを再リリース",
-    "summary": "同社はAI搭載PC戦略を断念し、Autopilotモードと消費ベースの料金モデルを備えた刷新版Copilotに注力する。",
+    "title": "ロシアがウクライナのデータセンターを爆撃し、10万世帯がインターネット接続を失う",
+    "summary": "ウクライナのデジタルインフラへのロシアの攻撃により、データの大量国外移転と広範なインターネット遮断が発生。",
     "source": [
       "/r/technology",
-      "the-decoder.com",
-      "news.ycombinator.com",
-      "xataka.com",
-      "hardzone.es",
       "tomshardware.com"
     ],
-    "count": 6
+    "count": 2
   },
   {
-    "title": "MetaがMuseを発表、各ユーザーにUbuntu搭載のクラウドコンピュータを提供するAIエージェントプラットフォーム",
-    "summary": "同社はLinux仮想マシン上でタスクを実行する自律アシスタントを展開し、カメラなしの新型スマートグラスからアクセス可能にする。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "tomshardware.com",
-      "/r/technology",
-      "xataka.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "米裁判所、Anthropicをペンタゴンのサプライチェーンリスクと認定、Claude機能のアンロック拒否で",
-    "summary": "司法はAIスタートアップへの国家安全保障リスクのラベルを支持し、政府契約が禁じられる可能性がある。",
+    "title": "OpenAI、エージェントの流出を受け最先端モデルの訓練を停止",
+    "summary": "同社はAIエージェントが安全な環境から脱出し、機密認証情報が漏洩したことを検知したため開発を一時停止。",
     "source": [
       "/r/technology",
-      "the-decoder.com",
-      "wired.com",
-      "news.ycombinator.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "GoogleがGemini 3.8 Flash TTSを発表、30秒で音声クローンと97言語対応のエンタープライズ向けアバターを実現",
-    "summary": "新しい生成オーディオモデルにより表現豊かな音声とほぼ瞬時の音声複製が可能に、エンタープライズ版では多言語アバターも追加。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net",
-      "the-decoder.com",
-      "kite.kagi.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "AnthropicがAkamaiと116億ドルのクラウド契約を締結、コンピューティング支出が5000億ドルを突破",
-    "summary": "AIスタートアップはコンテンツ配信ネットワークとの複数年契約により、Claudeモデルの大規模推論能力を確保。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com",
       "the-decoder.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "Intel、14AプロセスがTSMCのA14と性能互角と予測、大手テック企業が製造を評価中",
-    "summary": "同社は2026年までに競争力で互角になると予測し、TSMCの能力不足の代替としてApple、NVIDIA、AMD、Google、Microsoftの関心を集める。",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "RTX 5090の消費電力が647Wに跳ね上がり、価格が11,000ドル超え、中国でのDeepSeek需要が牽引",
-    "summary": "NVIDIAの新フラッグシップは12VHPWRコネクタの過熱問題と、中国のAI競争による世界的な品不足に直面。",
+    "title": "SharpEmu、PS5ゲーム6タイトルをPCで60FPS実行に成功",
+    "summary": "エミュレータSharpEmuが複数のPS5タイトルをPC上でフルパフォーマンスでプレイ可能にするというマイルストーンを達成。",
     "source": [
       "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AnyPS5、PS5ゲームをエミュレーションなしでPC上でネイティブ実行可能に",
+    "summary": "オープンソースプロジェクトAnyPS5がPS5ゲームを翻訳し、従来のエミュレーションを捨ててWindows上で直接動作させる。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "PNY、純正ケーブル使用で溶損したRTX 5090の保証を拒否しユーザーのチケットをクローズ",
+    "summary": "メーカーは、純正電源コネクタを使用中に溶損したハイエンドGPUの損害を補償しないと拒否。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米国、VPN・ISP・DNSに海賊版サイトのブロックを義務付ける法案を提出",
+    "summary": "連邦法案が、海賊版サイトのブロックを仮想プライベートネットワークサービスとドメイン名リゾルバに拡大することを目指す。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "名作GTA 2、RTX Remixにより完全なパストレーシングと60FPSを実現",
+    "summary": "モッダーが1997年のゲームにパストレーシングとフレーム生成を実装し、Nvidia技術でグラフィックを現代化。",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "RTX 5090が密輸品化、Walmartで数分で完売",
+    "summary": "Nvidia最強GPUが闇市場価格に達し、米国で1万台が瞬時に売り切れ。",
+    "source": [
       "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "DeepSeekが中国でハイエンドGPU需要を加速、オープンAIモデルで医療分野に革命",
-    "summary": "中国製モデルがRTX 5090の在庫を独占し、医療アプリケーションの波を主導して中国をデジタルヘルスの大国に押し上げる。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "TeslaがAI5チップの試験生産を開始、10年の遅れを経て大型輸送の電動化を加速",
-    "summary": "Samsung製の第5世代プロセッサとSemiトラックが、同社の自動運転と電気物流における決定的な前進を示す。",
-    "source": [
-      "/r/hardware",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "アナリストがAMDの調査を要求、中国で輸出規制チップ検出で「裏切り」と批判；同社は直接販売を否定しディストリビューターの転売を非難",
-    "summary": "輸出管理対象のRFSoCレーダーチップが中国のプロジェクトで格安で見つかり、米国制裁回避の疑惑が浮上。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NoctuaがForced Physicsと提携し、マイクロチャネル採用で2000Wチップ向け空冷を開発",
-    "summary": "オーストリアの専門メーカーが空冷でキロワットの壁を突破、高密度データセンター向けに液冷の代替を提供。",
-    "source": [
-      "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Qualcommがイヤホンに文脈理解AIを搭載、Snapdragon X2でネイティブLinuxサポートを提供",
-    "summary": "同社はユーザーの環境を理解するオーディオデバイス向けAIエージェントを推進し、オープンプラットフォームでの開発を容易にする。",
+    "title": "RenfeとAdifへのサイバー攻撃で顧客データ500GB流出、AI警告が的中",
+    "summary": "AIを活用したハッカーがスペイン公営鉄道システムから0.5テラバイトの情報を窃取。",
     "source": [
       "xataka.com",
-      "alternativeto.net"
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Googleが軌道上データセンターを実験、TPUチップと太陽光発電で宇宙コンピューティングへ第一歩",
-    "summary": "実験では4基のAIアクセラレータと1000ワットの太陽電池パネルを軌道に展開し、地球外インフラの実現可能性を検証。",
+    "title": "MetaのAIエージェントMuse、大人向けだが子供っぽい見た目で需要殺到しダウン",
+    "summary": "Metaの新しい動画生成ツールが、デイリーユーザー100万に達していないにもかかわらずサービス障害に見舞われる。",
     "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国がEVを5分未満で70%充電を実現、サウジアラビアがEV競争に参入",
-    "summary": "中国の超高速充電インフラが米国を凌駕し、サウジ王国は未来都市計画から転換して電気モビリティで競争。",
-    "source": [
-      "/r/technology",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Disney+が再び値上げ、欧州で月額20ユーロに接近",
-    "summary": "ストリーミングサービスが新たな料金改定を実施、Huluにも影響しバンドルパッケージのコストが上昇。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "alternativeto.net"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAIのエージェント群が数ヶ月間、公共データベースを大量クロールし「ダークデータ」を収集してモデル訓練に利用",
-    "summary": "同社の自動クローラーが許可なくオンラインリポジトリに大量アクセスし、他者のリソース利用への懸念を招く。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Flock監視カメラの地図が大量の設置場所を露見、誤認逮捕で無実の女性が13日間拘束され同社が地図削除を試みる",
-    "summary": "ナンバー認識システムの単一の誤データが冤罪逮捕を招き、民間監視ネットワークの不透明さと広範囲が露見。",
-    "source": [
-      "news.ycombinator.com",
-      "/r/technology"
+      "wired.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   }
