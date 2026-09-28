@@ -51,17 +51,17 @@ const commitsOf = (topic, lang) => {
 
 const pullSha = async (topic, lang, sha, pointerKey) => {
     const store = clusterStore();
-    const cached = good(store[sha]) || (store[pointerKey]?.sha === sha && good(store[pointerKey]));
+    const key = `${topic}:${lang}:${sha}`;
+    const cached = good(store[key]) || (store[pointerKey]?.sha === sha && good(store[pointerKey]));
     if (cached) return cached;
-    const inflightKey = `sha:${sha}`;
-    if (inflight.has(inflightKey)) return inflight.get(inflightKey);
+    if (inflight.has(key)) return inflight.get(key);
     const pending = (async () => {
         try {
             const items = await pullClusters(topic, lang, sha);
             if (!items.length) return [];
             try {
                 const next = clusterStore();
-                next[sha] = { items };
+                next[key] = { items };
                 if (pointerKey) next[pointerKey] = { at: Date.now(), items, sha };
                 localStorage.setItem(CACHE_KEY, JSON.stringify(next));
             } catch {}
@@ -69,8 +69,8 @@ const pullSha = async (topic, lang, sha, pointerKey) => {
         } catch {
             return pointerKey ? good(clusterStore()[pointerKey]) || [] : [];
         }
-    })().finally(() => inflight.delete(inflightKey));
-    inflight.set(inflightKey, pending);
+    })().finally(() => inflight.delete(key));
+    inflight.set(key, pending);
     return pending;
 };
 
