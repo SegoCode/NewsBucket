@@ -193,6 +193,7 @@ const COUNT = {
     'yesterday-stale': 2,
     'yesterday-sha': 2,
     'yesterday-lang': 2,
+    'yesterday-shared': 2,
     'yesterday-topic': 2,
     'yesterday-fail': 3,
     'yesterday-one': 1,
@@ -377,6 +378,17 @@ const ready = async () => {
         $('#lang').dispatchEvent(new Event('change'));
         await wait(() => $('#feed p')?.textContent === 'AYER'
             && $('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Tipos de ayer');
+    }
+    if (scenario === 'yesterday-shared') {
+        await wait(() => $('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates');
+        $('#lang').value = 'jp';
+        $('#lang').dispatchEvent(new Event('change'));
+        await wait(() => $('#feed p')?.textContent === '昨日'
+            && $('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === '昨日の金利');
+        $('#lang').value = 'en';
+        $('#lang').dispatchEvent(new Event('change'));
+        await wait(() => $('#feed p')?.textContent === 'YESTERDAY'
+            && $('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates');
     }
     if (scenario === 'yesterday-topic') {
         await wait(() => $('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates');
@@ -1262,6 +1274,13 @@ const run = () => {
         ok($('#feed p')?.textContent === 'AYER', 'AYER');
         ok($('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Tipos de ayer', 'es yesterday');
         ok(!titles().includes('Yesterday rates'), 'en yesterday gone');
+        return;
+    }
+    if (scenario === 'yesterday-shared') {
+        ok($('#lang').value === 'en', 'lang en');
+        ok(titles()[0] === 'HEAD rates', 'en today');
+        ok($('#feed p')?.nextElementSibling?.querySelector('h2')?.textContent === 'Yesterday rates', 'en yesterday');
+        ok(!titles().some(t => t.includes('金利')), 'no jp');
         return;
     }
     if (scenario === 'yesterday-topic') {
