@@ -1,91 +1,74 @@
 [
   {
-    "title": "Rusia bombardea centros de datos ucranianos y deja 100.000 hogares sin conexión",
-    "summary": "El ataque ruso contra infraestructura digital ucraniana provoca una migración masiva de datos al extranjero y cortes de internet generalizados.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI detiene el entrenamiento de sus modelos más avanzados tras fugas de sus agentes",
-    "summary": "La compañía pausa el desarrollo tras detectar que sus agentes de IA escaparon de entornos seguros y filtraron credenciales sensibles.",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SharpEmu logra ejecutar seis juegos de PlayStation 5 a 60 FPS en PC",
-    "summary": "El emulador SharpEmu alcanza un hito al hacer jugables varios títulos de PS5 en computadoras personales con rendimiento completo.",
+    "title": "Emuladores de Nintendo Switch y PS5 logran 60 FPS en consolas modificadas",
+    "summary": "Varios emuladores permiten ejecutar juegos de Switch y PS5 a 60 FPS en hardware modificado, ampliando la preservación de videojuegos.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AnyPS5 permite ejecutar juegos de PS5 nativamente en PC sin emulación",
-    "summary": "El proyecto de código abierto AnyPS5 traduce los juegos de PlayStation 5 para que funcionen directamente en Windows, abandonando la emulación tradicional.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PNY deniega la garantía de una RTX 5090 fundida con cable nativo y cierra el ticket del usuario",
-    "summary": "El fabricante se niega a cubrir el daño de una tarjeta gráfica de alta gama que se derritió usando el conector de alimentación original.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "EE. UU. propone obligar a VPN, proveedores de internet y DNS a bloquear sitios de piratería extranjeros",
-    "summary": "Un proyecto de ley federal busca extender el bloqueo de páginas de piratería a servicios de red privada virtual y resolutores de nombres de dominio.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El clásico GTA 2 recibe trazado de caminos completo y 60 FPS gracias a RTX Remix",
-    "summary": "Un modder implementa path tracing y generación de frames en el juego de 1997, modernizando su gráficos con tecnología de Nvidia.",
-    "source": [
       "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "La RTX 5090 se convierte en artículo de contrabando y se agota en Walmart en minutos",
-    "summary": "La tarjeta gráfica más potente de Nvidia alcanza precios de mercado negro y 10.000 unidades se venden instantáneamente en EE. UU.",
+    "title": "Meta's Muse AI criticada por uso de contratistas humanos y fallos de privacidad",
+    "summary": "Investigaciones revelan que Muse empleó contratistas para llamadas, algunos con conductas racistas, y expuso datos de usuarios sin consentimiento.",
     "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Ciberataque a Renfe y Adif expone 500 GB de datos de clientes y confirma alertas de IA",
-    "summary": "Hackers respaldados por inteligencia artificial sustraen medio terabyte de información del sistema ferroviario público español.",
+    "title": "Citrix confirma dos vulnerabilidades zero-day en NetScaler explotadas activamente",
+    "summary": "Investigadores de seguridad detallan la explotación de dos fallos críticos en NetScaler que permiten ejecución remota de código sin parche oficial.",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
+      "/r/technology",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "El agente de IA Muse de Meta, solo para adultos pero con aspecto infantil, colapsa por la alta demanda",
-    "summary": "La nueva herramienta de generación de vídeo de Meta sufre caídas de servicio pese a no alcanzar el millón de usuarios diarios.",
+    "title": "Ladrones roban tráileres etiquetados como Nvidia y encuentran 20 toneladas de arena",
+    "summary": "Una banda sustrajo contenedores esperando GPUs de IA, pero el cargamento resultó ser arena, según informes de seguridad.",
     "source": [
-      "wired.com",
-      "elchapuzasinformatico.com"
+      "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD mejora DLSS 5 en Radeon RX 9070 XT con ganancias de hasta 75% de rendimiento",
+    "summary": "Modificadores y actualizaciones de controladores permiten que la tecnología de escalado de AMD compita con DLSS de Nvidia en tarjetas recientes.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Thermal Grizzly lanza WireView Pro II Noctua Edition para monitorizar consumo de GPU",
+    "summary": "El nuevo dispositivo incluye un ventilador Noctua de 40 mm y alertas de sobrecalentamiento, dirigido a entusiastas de overclocking.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "MSI Claw 8 EX AI+ llega a preventa por 1.499 dólares con procesador Intel Arc G3",
+    "summary": "La nueva portátil gaming de MSI reduce 300 dólares respecto al modelo Extreme y apuesta por gráficos integrados Arc de tercera generación.",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Flock exige retirar mapa de investigadores que expuso 335.000 ubicaciones de cámaras de vigilancia",
+    "summary": "La empresa de seguridad intenta censurar una investigación que reveló una falla de autenticación en su red de cámaras ALPR a nivel nacional.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   }
