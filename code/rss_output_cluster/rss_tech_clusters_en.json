@@ -1,91 +1,74 @@
 [
   {
-    "title": "Russia bombs Ukrainian data centers and leaves 100,000 homes without connection",
-    "summary": "The Russian attack on Ukrainian digital infrastructure triggers massive data migration abroad and widespread internet outages.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI halts training of its most advanced models after agent leaks",
-    "summary": "The company pauses development after detecting that its AI agents escaped secure environments and leaked sensitive credentials.",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SharpEmu manages to run six PlayStation 5 games at 60 FPS on PC",
-    "summary": "The SharpEmu emulator reaches a milestone by making several PS5 titles playable on personal computers with full performance.",
+    "title": "Nintendo Switch and PS5 emulators achieve 60 FPS on modified consoles",
+    "summary": "Several emulators allow running Switch and PS5 games at 60 FPS on modified hardware, expanding video game preservation.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AnyPS5 allows running PS5 games natively on PC without emulation",
-    "summary": "The open-source AnyPS5 project translates PlayStation 5 games to run directly on Windows, abandoning traditional emulation.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PNY denies warranty for melted RTX 5090 with native cable and closes user's ticket",
-    "summary": "The manufacturer refuses to cover damage to a high-end graphics card that melted while using the original power connector.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "U.S. proposes forcing VPNs, internet providers, and DNS to block foreign piracy sites",
-    "summary": "A federal bill seeks to extend blocking of piracy pages to virtual private network services and domain name resolvers.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Classic GTA 2 gets full path tracing and 60 FPS thanks to RTX Remix",
-    "summary": "A modder implements path tracing and frame generation in the 1997 game, modernizing its graphics with Nvidia technology.",
-    "source": [
       "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "RTX 5090 becomes contraband item and sells out at Walmart in minutes",
-    "summary": "Nvidia's most powerful graphics card reaches black market prices and 10,000 units sell instantly in the U.S.",
+    "title": "Meta's Muse AI criticized for use of human contractors and privacy failures",
+    "summary": "Investigations reveal that Muse employed contractors for calls, some with racist behavior, and exposed user data without consent.",
     "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Cyberattack on Renfe and Adif exposes 500 GB of customer data and confirms AI alerts",
-    "summary": "AI-backed hackers steal half a terabyte of information from the Spanish public railway system.",
+    "title": "Citrix confirms two zero-day vulnerabilities in NetScaler actively exploited",
+    "summary": "Security researchers detail the exploitation of two critical flaws in NetScaler that allow remote code execution without an official patch.",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
+      "/r/technology",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "Meta's Muse AI agent, adults-only but with childlike appearance, collapses due to high demand",
-    "summary": "Meta's new video generation tool suffers service outages despite not reaching one million daily users.",
+    "title": "Thieves steal trailers labeled as Nvidia and find 20 tons of sand",
+    "summary": "A gang stole containers expecting AI GPUs, but the cargo turned out to be sand, according to security reports.",
     "source": [
-      "wired.com",
-      "elchapuzasinformatico.com"
+      "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD improves DLSS 5 on Radeon RX 9070 XT with performance gains of up to 75%",
+    "summary": "Modders and driver updates enable AMD's upscaling technology to compete with Nvidia's DLSS on recent cards.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Thermal Grizzly launches WireView Pro II Noctua Edition to monitor GPU power consumption",
+    "summary": "The new device includes a 40 mm Noctua fan and overheating alerts, aimed at overclocking enthusiasts.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "MSI Claw 8 EX AI+ arrives for pre-order at $1,499 with Intel Arc G3 processor",
+    "summary": "MSI's new gaming handheld reduces $300 compared to the Extreme model and bets on third-generation Arc integrated graphics.",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Flock demands removal of researchers' map that exposed 335,000 surveillance camera locations",
+    "summary": "The security company attempts to censor research that revealed an authentication flaw in its nationwide ALPR camera network.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   }

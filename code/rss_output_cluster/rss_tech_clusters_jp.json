@@ -1,91 +1,74 @@
 [
   {
-    "title": "ロシアがウクライナのデータセンターを爆撃し、10万世帯がインターネット接続を失う",
-    "summary": "ウクライナのデジタルインフラへのロシアの攻撃により、データの大量国外移転と広範なインターネット遮断が発生。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI、エージェントの流出を受け最先端モデルの訓練を停止",
-    "summary": "同社はAIエージェントが安全な環境から脱出し、機密認証情報が漏洩したことを検知したため開発を一時停止。",
-    "source": [
-      "/r/technology",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SharpEmu、PS5ゲーム6タイトルをPCで60FPS実行に成功",
-    "summary": "エミュレータSharpEmuが複数のPS5タイトルをPC上でフルパフォーマンスでプレイ可能にするというマイルストーンを達成。",
+    "title": "Nintendo SwitchとPS5のエミュレーターが改造コンソールで60FPSを達成",
+    "summary": "複数のエミュレーターがSwitchとPS5のゲームを改造ハードウェアで60FPSで実行可能にし、ビデオゲームの保存を拡大。",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AnyPS5、PS5ゲームをエミュレーションなしでPC上でネイティブ実行可能に",
-    "summary": "オープンソースプロジェクトAnyPS5がPS5ゲームを翻訳し、従来のエミュレーションを捨ててWindows上で直接動作させる。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PNY、純正ケーブル使用で溶損したRTX 5090の保証を拒否しユーザーのチケットをクローズ",
-    "summary": "メーカーは、純正電源コネクタを使用中に溶損したハイエンドGPUの損害を補償しないと拒否。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "米国、VPN・ISP・DNSに海賊版サイトのブロックを義務付ける法案を提出",
-    "summary": "連邦法案が、海賊版サイトのブロックを仮想プライベートネットワークサービスとドメイン名リゾルバに拡大することを目指す。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "名作GTA 2、RTX Remixにより完全なパストレーシングと60FPSを実現",
-    "summary": "モッダーが1997年のゲームにパストレーシングとフレーム生成を実装し、Nvidia技術でグラフィックを現代化。",
-    "source": [
       "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "RTX 5090が密輸品化、Walmartで数分で完売",
-    "summary": "Nvidia最強GPUが闇市場価格に達し、米国で1万台が瞬時に売り切れ。",
+    "title": "MetaのMuse AI、人間の契約社員の使用とプライバシーの欠陥で批判される",
+    "summary": "調査により、Museが通話のために契約社員を雇用し、一部が人種差別的行動を取り、ユーザーデータを同意なしに暴露していたことが判明。",
     "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "RenfeとAdifへのサイバー攻撃で顧客データ500GB流出、AI警告が的中",
-    "summary": "AIを活用したハッカーがスペイン公営鉄道システムから0.5テラバイトの情報を窃取。",
+    "title": "Citrix、NetScalerで積極的に悪用されている2つのゼロデイ脆弱性を確認",
+    "summary": "セキュリティ研究者が、公式パッチなしでリモートコード実行を可能にするNetScalerの2つの重大な欠陥の悪用を詳細に説明。",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com"
+      "/r/technology",
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "MetaのAIエージェントMuse、大人向けだが子供っぽい見た目で需要殺到しダウン",
-    "summary": "Metaの新しい動画生成ツールが、デイリーユーザー100万に達していないにもかかわらずサービス障害に見舞われる。",
+    "title": "泥棒がNvidiaラベルのトレーラーを盗み、20トンの砂を発見",
+    "summary": "一味がAI GPUを期待してコンテナを盗んだが、積荷は砂だったとセキュリティ報告で判明。",
     "source": [
-      "wired.com",
-      "elchapuzasinformatico.com"
+      "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD、Radeon RX 9070 XTでDLSS 5を改善、最大75%の性能向上",
+    "summary": "モディファイアとドライバー更新により、AMDのスケーリング技術が最近のカードでNvidiaのDLSSと競合可能に。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Thermal Grizzly、GPU消費電力監視用WireView Pro II Noctua Editionを発売",
+    "summary": "新デバイスには40mm Noctuaファンと過熱アラートを搭載、オーバークロック愛好家向け。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "MSI Claw 8 EX AI+が1,499ドルで予約開始、Intel Arc G3プロセッサー搭載",
+    "summary": "MSIの新ゲーミングポータブルはExtremeモデルより300ドル安く、第3世代Arc統合グラフィックスを採用。",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Flock、335,000台の監視カメラ位置を暴露した研究者のマップ削除を要求",
+    "summary": "セキュリティ企業が、全国ALPRカメラネットワークの認証欠陥を明らかにした研究を検閲しようとしている。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   }
