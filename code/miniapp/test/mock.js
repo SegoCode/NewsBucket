@@ -149,6 +149,7 @@ const SCENES = {
     'yesterday-one': { t: 'finance', l: 'en' },
     'yesterday-jp': { t: 'finance', l: 'jp' },
     'yesterday-retry': { t: 'finance', l: 'en' },
+    'yesterday-shared': { t: 'finance', l: 'en' },
     'quake-west': { t: 'japan', l: 'en' },
     'quake-down': { t: 'japan', l: 'en' },
     'weather-hokkaido': { t: 'japan', l: 'en' },
@@ -812,6 +813,11 @@ const later = (ms, value) => new Promise(resolve => setTimeout(() => {
 }, ms));
 
 const SHA = { head: 'cafebabe', yday: 'deadbeef', es: 'beefcafe', tech: 'feedface', techHead: 'facefeed' };
+if (scenario === 'yesterday-shared') {
+    store(ls => ls.setItem('nb-clusters', JSON.stringify({
+        [SHA.yday]: { items: [{ title: 'キャッシュの金利', source: ['old.com', 'older.com'], count: 2 }] },
+    })));
+}
 const pair = (a, b) => json([{ sha: a }, { sha: b }]);
 
 let commitTries = 0;
@@ -843,6 +849,7 @@ const commits = url => {
         return pair(SHA.head, SHA.es);
     }
     if (scenario === 'yesterday-one' && finance) return json([{ sha: SHA.head }]);
+    if (scenario === 'yesterday-shared' && finance) return pair(SHA.head, SHA.yday);
     if (scenario === 'yesterday-lang' && finance) {
         return pair(SHA.head, url.includes('clusters_es.json') ? SHA.es : SHA.yday);
     }
@@ -861,10 +868,14 @@ const clusters = url => {
     const cluster = url.match(/rss_(\w+)_clusters_(\w+)\.json/);
     if (scenario === 'empty' || (scenario === 'yesterday-empty' && url.includes('/main/'))) return json([]);
     if (url.includes(`/${SHA.yday}/`)) {
+        if (scenario === 'yesterday-shared' && url.includes('_clusters_jp.json'))
+            return json([{ title: '昨日の金利', source: ['old.com', 'older.com'], count: 2 }]);
         return json([{ title: 'Yesterday rates', source: ['old.com', 'older.com'], count: 2 }]);
     }
     if (url.includes(`/${SHA.head}/`)) {
         if (scenario === 'yesterday-empty') return json([]);
+        if (scenario === 'yesterday-shared' && url.includes('_clusters_jp.json'))
+            return json([{ title: '本日の金利', source: ['now.com', 'now2.com'], count: 2 }]);
         return json([{ title: 'HEAD rates', source: ['now.com', 'now2.com'], count: 2 }]);
     }
     if (url.includes(`/${SHA.es}/`)) {
