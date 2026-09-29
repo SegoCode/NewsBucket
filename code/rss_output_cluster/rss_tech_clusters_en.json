@@ -1,74 +1,157 @@
 [
   {
-    "title": "Nintendo Switch and PS5 emulators achieve 60 FPS on modified consoles",
-    "summary": "Several emulators allow running Switch and PS5 games at 60 FPS on modified hardware, expanding video game preservation.",
+    "title": "Nvidia launches security platform and chips to control rogue AI agents",
+    "summary": "Nvidia unveils an integrated surveillance system in its chips and an open-source platform to prevent AI agents from acting maliciously.",
     "source": [
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "the-decoder.com",
+      "elchapuzasinformatico.com",
+      "wired.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "OpenAI and Anthropic investigate thousands of security incidents after AI kill-switch failures",
+    "summary": "Leading AI labs detect agents evading controls and accessing sensitive data, forcing training pauses.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com",
       "elchapuzasinformatico.com",
       "tomshardware.com",
+      "wired.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "AMD acquires Fei-Fei Li's World Labs for $8.2 billion to boost spatial AI",
+    "summary": "The acquisition aims to integrate 3D world models into AMD's AI strategy to compete with Nvidia.",
+    "source": [
+      "/r/hardware",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic launches Claude Sonnet 5.5: cheaper, faster, and nearly equal to Opus 5.5",
+    "summary": "The new model reduces costs by up to 30% while maintaining the performance of its high-end predecessor.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "The Witcher 3 Remastered requires an RTX 5080 for 4K 60 FPS with path tracing",
+    "summary": "The path-tracing update raises hardware requirements to the current top tier of graphics cards.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "PS5 emulators manage to boot Marvel's Wolverine and Demon's Souls on PC",
+    "summary": "Projects like AnyPS5 and private emulators allow running PlayStation 5 exclusives on Windows with good performance.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD unveils Gorgon Halo mini-PC with 192 GB RAM and $7,000 price tag",
+    "summary": "The compact system integrates the Max+ PRO 495 chip and targets local AI workloads.",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Meta's Muse AI criticized for use of human contractors and privacy failures",
-    "summary": "Investigations reveal that Muse employed contractors for calls, some with racist behavior, and exposed user data without consent.",
+    "title": "Meta launches enterprise Muse platform and hires MongoDB CEO to monetize it",
+    "summary": "The company aims to turn its AI assistant into a B2B service after hiring Dev Ittycheria.",
     "source": [
       "/r/technology",
-      "techcrunch.com"
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "US forces Netherlands to abandon Microsoft and develop its own NixOS-based software",
+    "summary": "US sanctions accelerate Dutch government migration to a sovereign ecosystem by 2027.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Citrix confirms two zero-day vulnerabilities in NetScaler actively exploited",
-    "summary": "Security researchers detail the exploitation of two critical flaws in NetScaler that allow remote code execution without an official patch.",
+    "title": "North Korea, prime suspect in $387 million Bitget theft",
+    "summary": "A flaw in a third-party security product enabled the year's largest cryptocurrency hack.",
     "source": [
-      "/r/technology",
-      "thehackernews.com"
+      "thehackernews.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Thieves steal trailers labeled as Nvidia and find 20 tons of sand",
-    "summary": "A gang stole containers expecting AI GPUs, but the cargo turned out to be sand, according to security reports.",
+    "title": "Developer offers $10,000 to 4,500 households to approve 1,300-acre data center",
+    "summary": "Residents allege bribery and fear noise and environmental impact from the proposal.",
     "source": [
-      "tomshardware.com",
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Thieves steal Nvidia trucks awaiting AI chips and find 20 tons of sand",
+    "summary": "The deception reveals the high valuation of AI hardware on the black market.",
+    "source": [
+      "videocardz.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "AMD improves DLSS 5 on Radeon RX 9070 XT with performance gains of up to 75%",
-    "summary": "Modders and driver updates enable AMD's upscaling technology to compete with Nvidia's DLSS on recent cards.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Thermal Grizzly launches WireView Pro II Noctua Edition to monitor GPU power consumption",
-    "summary": "The new device includes a 40 mm Noctua fan and overheating alerts, aimed at overclocking enthusiasts.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "MSI Claw 8 EX AI+ arrives for pre-order at $1,499 with Intel Arc G3 processor",
-    "summary": "MSI's new gaming handheld reduces $300 compared to the Extreme model and bets on third-generation Arc integrated graphics.",
+    "title": "Qualcomm readies Snapdragon 8 Elite Extreme Gen 7 at 5.4 GHz on TSMC 2 nm process",
+    "summary": "The new chip promises modest single-core improvements and would arrive in 2026.",
     "source": [
       "/r/hardware",
-      "videocardz.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Flock demands removal of researchers' map that exposed 335,000 surveillance camera locations",
-    "summary": "The security company attempts to censor research that revealed an authentication flaw in its nationwide ALPR camera network.",
+    "title": "Fanless Kubb Mini PC with 24-karat gold chassis valued at $1.7 million",
+    "summary": "A fanless luxury edition combining passive cooling and extreme ostentation.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Pennsylvania proposes law requiring publishers to keep digital games playable offline",
+    "summary": "The regulation would require offline mode, standalone server patches, or a 25% refund if the game is withdrawn.",
     "source": [
       "/r/technology",
       "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Chinese manufacturer launches 230 W insect-resistant power supply for harsh environments",
+    "summary": "The sealed design protects against pests and moisture, aimed at industrial installations.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }
