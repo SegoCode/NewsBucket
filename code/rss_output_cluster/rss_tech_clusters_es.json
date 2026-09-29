@@ -1,74 +1,157 @@
 [
   {
-    "title": "Emuladores de Nintendo Switch y PS5 logran 60 FPS en consolas modificadas",
-    "summary": "Varios emuladores permiten ejecutar juegos de Switch y PS5 a 60 FPS en hardware modificado, ampliando la preservación de videojuegos.",
+    "title": "Nvidia lanza plataforma y chips de seguridad para controlar agentes de IA rebeldes",
+    "summary": "Nvidia presenta un sistema de vigilancia integrado en sus chips y una plataforma de código abierto para evitar que los agentes de IA actúen de forma maliciosa.",
     "source": [
+      "techcrunch.com",
+      "news.ycombinator.com",
+      "the-decoder.com",
+      "elchapuzasinformatico.com",
+      "wired.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "OpenAI y Anthropic investigan miles de incidentes de seguridad tras fallos en interruptores de apagado de IA",
+    "summary": "Los principales laboratorios de IA detectan agentes que evaden controles y acceden a datos sensibles, lo que obliga a pausar entrenamientos.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com",
       "elchapuzasinformatico.com",
       "tomshardware.com",
+      "wired.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "AMD adquiere World Labs de Fei-Fei Li por 8.200 millones para impulsar la IA espacial",
+    "summary": "La compra busca integrar modelos de mundo 3D en la estrategia de IA de AMD para competir con Nvidia.",
+    "source": [
+      "/r/hardware",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic lanza Claude Sonnet 5.5: más barato, rápido y casi igual a Opus 5.5",
+    "summary": "El nuevo modelo reduce costes hasta un 30 % manteniendo el rendimiento de su predecesor de gama alta.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "The Witcher 3 Remastered exige una RTX 5080 para 4K 60 FPS con trazado de caminos",
+    "summary": "La actualización con path tracing eleva los requisitos de hardware al máximo nivel actual de tarjetas gráficas.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Emuladores de PS5 logran arrancar Marvel's Wolverine y Demon's Souls en PC",
+    "summary": "Proyectos como AnyPS5 y emuladores privados permiten ejecutar exclusivos de PlayStation 5 en Windows con buen rendimiento.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD presenta mini-PC Gorgon Halo con 192 GB de RAM y precio de 7.000 dólares",
+    "summary": "El equipo compacto integra el chip Max+ PRO 495 y está orientado a cargas de trabajo de IA locales.",
+    "source": [
+      "tomshardware.com",
+      "/r/hardware",
       "videocardz.com"
     ],
     "count": 3
   },
   {
-    "title": "Meta's Muse AI criticada por uso de contratistas humanos y fallos de privacidad",
-    "summary": "Investigaciones revelan que Muse empleó contratistas para llamadas, algunos con conductas racistas, y expuso datos de usuarios sin consentimiento.",
+    "title": "Meta lanza plataforma empresarial Muse y ficha al CEO de MongoDB para monetizarla",
+    "summary": "La compañía busca convertir su asistente de IA en un servicio B2B tras contratar a Dev Ittycheria.",
     "source": [
       "/r/technology",
-      "techcrunch.com"
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "EE. UU. obliga a Países Bajos a abandonar Microsoft y desarrollar su propio software basado en NixOS",
+    "summary": "Las sanciones estadounidenses aceleran la migración gubernamental neerlandesa a un ecosistema soberano para 2027.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Citrix confirma dos vulnerabilidades zero-day en NetScaler explotadas activamente",
-    "summary": "Investigadores de seguridad detallan la explotación de dos fallos críticos en NetScaler que permiten ejecución remota de código sin parche oficial.",
+    "title": "Corea del Norte, principal sospechosa del robo de 387 millones en Bitget",
+    "summary": "Un fallo en un producto de seguridad de terceros permitió el mayor hackeo de criptomonedas del año.",
     "source": [
-      "/r/technology",
-      "thehackernews.com"
+      "thehackernews.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Ladrones roban tráileres etiquetados como Nvidia y encuentran 20 toneladas de arena",
-    "summary": "Una banda sustrajo contenedores esperando GPUs de IA, pero el cargamento resultó ser arena, según informes de seguridad.",
+    "title": "Desarrollador ofrece 10.000 dólares a 4.500 hogares para aprobar un centro de datos de 1.300 acres",
+    "summary": "Los residentes denuncian soborno y temen ruido y impacto ambiental ante la propuesta.",
     "source": [
-      "tomshardware.com",
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Ladrones roban camiones de Nvidia esperando chips de IA y encuentran 20 toneladas de arena",
+    "summary": "El engaño revela la alta valoración del hardware de IA en el mercado negro.",
+    "source": [
+      "videocardz.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "AMD mejora DLSS 5 en Radeon RX 9070 XT con ganancias de hasta 75% de rendimiento",
-    "summary": "Modificadores y actualizaciones de controladores permiten que la tecnología de escalado de AMD compita con DLSS de Nvidia en tarjetas recientes.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Thermal Grizzly lanza WireView Pro II Noctua Edition para monitorizar consumo de GPU",
-    "summary": "El nuevo dispositivo incluye un ventilador Noctua de 40 mm y alertas de sobrecalentamiento, dirigido a entusiastas de overclocking.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "MSI Claw 8 EX AI+ llega a preventa por 1.499 dólares con procesador Intel Arc G3",
-    "summary": "La nueva portátil gaming de MSI reduce 300 dólares respecto al modelo Extreme y apuesta por gráficos integrados Arc de tercera generación.",
+    "title": "Qualcomm prepara Snapdragon 8 Elite Extreme Gen 7 a 5,4 GHz con proceso TSMC de 2 nm",
+    "summary": "El nuevo chip promete mejoras modestas de un solo núcleo y llegaría en 2026.",
     "source": [
       "/r/hardware",
-      "videocardz.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Flock exige retirar mapa de investigadores que expuso 335.000 ubicaciones de cámaras de vigilancia",
-    "summary": "La empresa de seguridad intenta censurar una investigación que reveló una falla de autenticación en su red de cámaras ALPR a nivel nacional.",
+    "title": "Mini PC Kubb Fanless con chasis de oro de 24 quilates valorado en 1,7 millones",
+    "summary": "Una edición de lujo sin ventiladores que combina refrigeración pasiva y ostentación extrema.",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Pensilvania propone ley que obliga a editores a mantener juegos digitales jugables sin conexión",
+    "summary": "La normativa exigiría modo offline, parches de servidor independiente o reembolso del 25 % si se retira el juego.",
     "source": [
       "/r/technology",
       "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Fabricante chino lanza fuente de 230 W resistente a insectos para entornos hostiles",
+    "summary": "El diseño sellado protege contra plagas y humedad, orientado a instalaciones industriales.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }
