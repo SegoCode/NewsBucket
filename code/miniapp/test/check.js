@@ -1461,7 +1461,9 @@ const run = () => {
     }
     if (scenario === 'quake-palette') {
         ok(magTitles().length === 4, '4 quakes');
-        ok(titles()[0].startsWith('M6.5') && classes()[0] === 'quake-high weather-l5', 'M6.5 black-purple');
+        ok(titles()[0].startsWith('M6.5') && classes()[0] === 'quake-high weather-l5', 'M6.5 black blink');
+        ok(sources()[0].includes('(Maximum level. JMA asks you to take measures)'), 'M6.5 note');
+        ok(!sources()[1].includes('Maximum level'), 'M6.4 no note');
         ok(titles()[1].startsWith('M6.4') && classes()[1] === 'quake-high weather-l4', 'M6.4 red-purple');
         ok(titles()[2].startsWith('M5.5') && classes()[2] === 'quake-high weather-l4', 'M5.5 red-purple');
         ok(titles()[3].startsWith('M5.4') && classes()[3] === 'quake-high quake-recent', 'M5.4 red blink');
@@ -1554,7 +1556,9 @@ const run = () => {
         ok(!titles().some(t => t.startsWith('M')), 'no quake');
         ok(classes()[0].includes('quake-recent'), 'L3 blinks');
         ok(!classes()[1].includes('quake-recent'), 'L1 still');
-        ok(classes()[2].includes('weather-l5'), 'L5 black-purple');
+        ok(classes()[2].includes('weather-l5'), 'L5 black blink');
+        ok(sources()[2].includes('(Maximum level. JMA asks you to take measures)'), 'L5 note');
+        ok(!sources()[0].includes('Maximum level'), 'L3 no note');
         if (scenario === 'weather-ip') ok(articles().length === 3, 'ip-only weather');
         ok(href(articles()[0]).includes('area_code=130000'), 'tokyo area');
         ok(!href(articles()[0]).includes('area_code=010000'), 'not nationwide');
@@ -1585,6 +1589,8 @@ const run = () => {
         ok(titles()[1] === '気象警報: 洪水', '洪水');
         ok(titles()[2].includes('暴風') && titles()[2].includes('レベル5'), '暴風');
         ok(classes()[0].includes('quake-recent') && !classes()[1].includes('quake-recent') && classes()[2].includes('weather-l5'), 'jp blink');
+        ok(sources()[2].includes('JMAは措置を取るよう求めています'), 'jp max note');
+        ok(!sources()[0].includes('最大レベル'), 'L3 no note');
         ok(href(articles()[0]).includes('#lang=jp'), 'lang jp');
         return;
     }
@@ -1612,7 +1618,7 @@ const run = () => {
         ok(articles().length === 1, '1 alert');
         ok(titles()[0].includes('Storm') && titles()[0].includes('Level 5'), 'storm');
         ok(sources()[0].includes('Osaka'), 'Osaka');
-        ok(classes()[0].includes('weather-l5'), 'L5 black-purple');
+        ok(classes()[0].includes('weather-l5'), 'L5 black blink');
         ok(href(articles()[0]).includes('area_code=270000'), 'osaka area');
         ok(!href(articles()[0]).includes('area_code=010000'), 'not nationwide');
         return;
@@ -1629,6 +1635,7 @@ const run = () => {
         ok(titles()[0].includes('Tokyo Bay') && titles()[1].includes('Osaka Bay'), 'quakes en');
         ok(titles()[2].includes('Heavy rain') && titles()[4].includes('Storm'), 'weather en');
         ok(titles()[5] === 'La Dieta aprueba el proyecto', 'news es');
+        ok(sources()[4].includes('(Nivel máximo. JMA pide que tome medidas)'), 'es max note');
         ok(href(articles()[2]).includes('#lang=en'), 'weather es uses en');
         return;
     }
