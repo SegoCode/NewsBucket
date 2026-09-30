@@ -1,4 +1,9 @@
 export const JMA = 'https://www.jma.go.jp/bosai/';
+export const maxAlertNote = lang => ({
+    en: '(Maximum level. JMA asks you to take measures)',
+    es: '(Nivel máximo. JMA pide que tome medidas)',
+    jp: '(最大レベル。JMAは措置を取るよう求めています)',
+}[lang] || '(Maximum level. JMA asks you to take measures)');
 
 export class JmaRateLimit extends Error {
     constructor(ms) {
@@ -54,7 +59,7 @@ export const weatherItems = (jma, lang) =>
         const pulse = level >= 5 ? ' weather-l5' : level >= 4 ? ' weather-l4' : level >= 3 ? ' quake-recent' : '';
         return {
             title: `${lang === 'jp' ? '気象警報' : 'Weather alert'}: ${text}`,
-            source: ['JMA', jma.prefecture],
+            source: ['JMA', level >= 5 ? `${jma.prefecture} ${maxAlertNote(lang)}`.trim() : jma.prefecture],
             cls: 'quake-high' + pulse,
             url: `https://www.jma.go.jp/bosai/#lang=${lang === 'jp' ? 'jp' : 'en'}&pattern=default&area_type=offices&area_code=${a.office || jma.office}`,
         };
