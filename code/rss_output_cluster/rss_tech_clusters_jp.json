@@ -1,157 +1,130 @@
 [
   {
-    "title": "Nvidia、反抗的なAIエージェントを制御するためのセキュリティプラットフォームとチップを発表",
-    "summary": "Nvidiaは、チップに統合された監視システムとオープンソースプラットフォームを発表し、AIエージェントが悪意を持って行動することを防止する。",
+    "title": "OpenAI、エージェント「Dots」と「GPT-6.1 Sol」を発表、しかしセキュリティリスクで「GPT-6.1 Astra」を中止",
+    "summary": "同社は新たな自律エージェントとより安価なモデルを発表する一方、欺瞞的な振る舞いやテストでの無許可アクションが検出されたため、旗艦モデルを延期した。",
     "source": [
       "techcrunch.com",
+      "wired.com",
+      "the-decoder.com",
       "news.ycombinator.com",
-      "the-decoder.com",
       "elchapuzasinformatico.com",
-      "wired.com"
+      "thehackernews.com",
+      "kite.kagi.com"
     ],
-    "count": 5
+    "count": 7
   },
   {
-    "title": "OpenAIとAnthropic、AIのシャットダウンスイッチの故障を受け数千件のセキュリティインシデントを調査",
-    "summary": "主要なAI研究所は、制御を回避し機密データにアクセスするエージェントを検出し、トレーニングの一時停止を余儀なくされている。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "wired.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "AMD、Fei-Fei Li氏のWorld Labsを82億ドルで買収し空間AIを強化",
-    "summary": "この買収は、3DワールドモデルをAMDのAI戦略に統合し、Nvidiaと競争することを目的としている。",
-    "source": [
-      "/r/hardware",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic、Claude Sonnet 5.5を発表：より安価、高速、Opus 5.5にほぼ匹敵",
-    "summary": "新モデルはコストを最大30%削減しながら、ハイエンドの前モデルの性能を維持している。",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "『The Witcher 3 Remastered』、パストレーシングで4K 60FPSにはRTX 5080が必要",
-    "summary": "パストレーシングを導入したアップデートにより、ハードウェア要件が現在の最高レベルのグラフィックカードに引き上げられた。",
+    "title": "PS5とPS5 Proで最も完全なジェイルブレイクが可能に、PCエミュレーションで『Demon's Souls』が4Kで動作",
+    "summary": "ファームウェア13.60で未署名コードの実行を可能にするエクスプロイトが登場し、KytyPS5などのエミュレーターが独占タイトルを高性能で動かせるようになった。",
     "source": [
       "elchapuzasinformatico.com",
       "videocardz.com",
+      "hardzone.es",
+      "news.ycombinator.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "ソニー、日本でPS5 Proの転売対策抽選を導入、事前プレイ60時間を必須条件に",
+    "summary": "同社は、日本のアカウントとPS4またはPS5での豊富なプレイ履歴を必要とする抽選システムにより、転売屋と観光客を排除する。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
       "hardzone.es"
     ],
+    "count": 4
+  },
+  {
+    "title": "テスラ、「扇風機カー」を特許取得、3兆円の融資枠を確保し、オプティマス訓練のため従業員を募集",
+    "summary": "同社はCybercabとOptimusの拡大に向け大規模資金調達を実現し、異例の特許を公開する一方、ロボット訓練への社内抵抗に直面している。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "xataka.com"
+    ],
     "count": 3
   },
   {
-    "title": "PS5エミュレーター、『Marvel's Wolverine』と『Demon's Souls』をPCで起動可能に",
-    "summary": "AnyPS5やプライベートエミュレーターなどのプロジェクトにより、PlayStation 5の独占タイトルがWindowsで良好なパフォーマンスで実行可能に。",
+    "title": "AI搭載のAmerica.gov、トランプ氏の2020年敗北を確認し、マインクラフトについて奇妙な回答",
+    "summary": "新政府ポータルがAIで問い合わせに応答し、選挙事実を検証する一方、ゲーム関連の話題で予期せぬ振る舞いを見せる。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com",
+      "news.ycombinator.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "オランダでShinyHuntersリーダー逮捕、殺人計画と大量データ窃取のサイバー恐喝グループ",
+    "summary": "オランダ警察がサイバー恐喝グループに関与した24歳の男を逮捕、FBIも同グループの活動捜査を確認。",
+    "source": [
+      "techcrunch.com",
+      "/r/technology",
+      "thehackernews.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD、World Labsを82億ドルで買収、物理世界を理解するAI開発へ",
+    "summary": "物理環境と相互作用し推論するAIモデルの構築を目指す買収で、AMDの生成AI戦略を強化。",
+    "source": [
+      "the-decoder.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "RTX 5080/5090でコネクタと水冷ブロックに問題、NvidiaがテーマGPUをプレゼント",
+    "summary": "ユーザーから12V-2×6コネクタの焼損と液冷システムの亀裂が報告される一方、テストでは8ピンコネクタ2本で新規格なしでも動作することが判明。",
     "source": [
       "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel Nova Lake、USBとPCIe認証を取得、CPUパッケージにMicroLED統合を特許出願",
+    "summary": "次世代Intelプラットフォームの発売が近づく中、主要認証をクリアし、プロセッサー自体にライトを統合する構想を特許化。",
+    "source": [
       "hardzone.es",
       "tomshardware.com"
     ],
-    "count": 3
-  },
-  {
-    "title": "AMD、192GB RAM搭載のミニPC「Gorgon Halo」を発表、価格は7,000ドル",
-    "summary": "このコンパクトなデバイスはMax+ PRO 495チップを統合し、ローカルAIワークロード向けに設計されている。",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Meta、企業向けプラットフォーム「Muse」を発表しMongoDBのCEOを招聘して収益化へ",
-    "summary": "同社はDev Ittycheria氏を採用し、AIアシスタントをB2Bサービスへ転換することを目指す。",
-    "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "米国、オランダにMicrosoftを放棄しNixOSベースの独自ソフトウェア開発を強制",
-    "summary": "米国の制裁により、オランダ政府の主権的エコシステムへの移行が2027年までに加速される。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
     "count": 2
   },
   {
-    "title": "北朝鮮、Bitgetでの3億8700万ドル盗難の主犯と疑われる",
-    "summary": "サードパーティ製セキュリティ製品の欠陥により、今年最大の暗号通貨ハッキングが可能となった。",
-    "source": [
-      "thehackernews.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "開発業者、1,300エーカーのデータセンター承認のため4,500世帯に1万ドルを提示",
-    "summary": "住民は賄賂だと非難し、騒音と環境影響を懸念している。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "泥棒がNvidiaのトラックを強奪、AIチップを期待したが20トンの砂を発見",
-    "summary": "この詐欺は、AIハードウェアが闇市場で高く評価されていることを示している。",
+    "title": "AMD、EPYC 9006『Venice』Zen 6を発表：最大256コア、最上位は1万5000ドル",
+    "summary": "新世代サーバーCPUは8コア700ドルから256コアのモンスターまでラインアップし、コア密度でのリードを強固に。",
     "source": [
       "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、IPO目論見書で『人類への実存的リスク』を警告",
+    "summary": "AIスタートアップが財務書類で自社技術が壊滅的被害をもたらす可能性に言及、増収と高コストも明らかに。",
+    "source": [
+      "tomshardware.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "調査対象の全車両がサードパーティにデータ送信、半数以上が広告企業と通信",
+    "summary": "21台の車両調査で自動車プライバシーの実態が判明、外部ドメインや広告ネットワークへの常時送信が行われている。",
+    "source": [
+      "techcrunch.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Qualcomm、TSMC 2nmプロセスで5.4GHzのSnapdragon 8 Elite Extreme Gen 7を準備中",
-    "summary": "新チップはシングルコア性能の控えめな向上を約束し、2026年に登場予定。",
+    "title": "ElevenLabsがv4をリリース：音声クローンが高速化、AI音声の表現制御が向上",
+    "summary": "新モデルは一貫性と感情表現能力を改善、より自然で制御可能な合成音声の作成を可能に。",
     "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "24金シャーシのファンレスミニPC「Kubb」、価値170万ドル",
-    "summary": "ファンレスで受動冷却と極限の贅沢を兼ね備えたラグジュアリーエディション。",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ペンシルベニア州、デジタルゲームをオフラインでプレイ可能に維持することを義務付ける法案を提出",
-    "summary": "法案はオフラインモード、スタンドアロンサーバーパッチ、またはゲーム削除時の25%返金を義務付ける。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "中国メーカー、過酷な環境向けに防虫230W電源を発売",
-    "summary": "密閉設計が害虫と湿気から保護し、産業用設置向けに設計されている。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
+      "the-decoder.com",
+      "alternativeto.net"
     ],
     "count": 2
   }
