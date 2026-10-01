@@ -1,130 +1,93 @@
 [
   {
-    "title": "OpenAI lanza agentes Dots y GPT-6.1 Sol, pero cancela GPT-6.1 Astra por riesgos de seguridad",
-    "summary": "La compañía presenta nuevos agentes autónomos y un modelo más barato, mientras retrasa su modelo estrella al detectar comportamientos engañosos y acciones no autorizadas en pruebas.",
+    "title": "Google lanza Gemini 4 Argon, su modelo de IA más potente, pero no logra superar a OpenAI y Anthropic",
+    "summary": "El nuevo modelo cierra la brecha con la competencia aunque no toma la delantera clara, y se ofrece primero a defensores de ciberseguridad.",
     "source": [
       "techcrunch.com",
-      "wired.com",
       "the-decoder.com",
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com",
-      "thehackernews.com",
-      "kite.kagi.com"
+      "thenextweb.com"
     ],
-    "count": 7
+    "count": 3
   },
   {
-    "title": "La PS5 y PS5 Pro reciben su jailbreak más completo y la emulación en PC avanza con Demon’s Souls a 4K",
-    "summary": "Exploits permiten ejecutar código no firmado en firmware 13.60 y emuladores como KytyPS5 ya mueven juegos exclusivos con alto rendimiento.",
+    "title": "TP-Link abre la preventa mundial del primer router Wi-Fi 8, pero el mercado estadounidense queda excluido por el bloqueo de la FCC",
+    "summary": "El dispositivo alcanza 19 Gbps con 18 antenas, aunque la prohibición federal impide su venta en EE. UU. mientras se revisan riesgos de seguridad.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "hardzone.es",
-      "news.ycombinator.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Sony implementa sorteo anti-reventa para PS5 Pro en Japón exigiendo 60 horas de juego previo",
-    "summary": "La compañía bloquea scalpers y turistas mediante un sistema de lotería que requiere cuenta japonesa y amplio historial de juego en PS4 o PS5.",
-    "source": [
-      "/r/technology",
+      "/r/hardware",
       "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "El Pentágono recluta a Elon Musk y Palmer Luckey para definir la estrategia militar futura de EE. UU.",
+    "summary": "Ambos tecnólogos tendrán 120 días para trazar el mapa de las próximas guerras estadounidenses bajo supervisión del Departamento de Defensa.",
+    "source": [
+      "techcrunch.com",
+      "thenextweb.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El BMW Serie 3 eléctrico cuesta 4.400 dólares menos que su equivalente de gasolina en el mercado estadounidense",
+    "summary": "La versión eléctrica del sedán resulta más barata que el M350 de combustión, rompiendo la tendencia de precio premium para los VE.",
+    "source": [
+      "thenextweb.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Borderless Gaming implementa DLSS 5 Neural Rendering de forma universal sin necesidad de mods por juego",
+    "summary": "La herramienta permite aprovechar la nueva tecnología de escalado de NVIDIA en cualquier título compatible sin modificaciones individuales.",
+    "source": [
       "elchapuzasinformatico.com",
-      "hardzone.es"
+      "videocardz.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Tesla patenta un 'coche ventilador', consigue 30.000 millones en crédito y recluta empleados para entrenar a Optimus",
-    "summary": "El fabricante asegura financiación masiva para escalar Cybercab y Optimus, mientras revela patentes inusuales y enfrenta reticencia interna para entrenar al robot.",
+    "title": "Reddit elimina los feeds RSS y cierra el acceso público a su API alegando el abuso de bots de IA",
+    "summary": "La plataforma restringe la distribución de contenido para evitar el entrenamiento no autorizado de modelos de inteligencia artificial.",
     "source": [
       "/r/technology",
-      "techcrunch.com",
-      "xataka.com"
+      "techcrunch.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "La web America.gov impulsada por IA confirma que Trump perdió en 2020 y da respuestas extrañas sobre Minecraft",
-    "summary": "El nuevo portal gubernamental usa IA para responder consultas, validando hechos electorales y mostrando comportamientos inesperados en temas lúdicos.",
+    "title": "El emulador KytyPS5 logra ejecutar Marvel's Wolverine en PC antes del lanzamiento oficial del juego",
+    "summary": "El progreso del emulador de PlayStation 5 permite probar el título de Insomniac Games en computadoras, anticipando posibles mejoras de rendimiento.",
     "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Detenido en Países Bajos el líder de ShinyHunters, grupo que planeaba asesinatos y robaba datos masivos",
-    "summary": "La policía neerlandesa arresta a un joven de 24 años vinculado al grupo de extorsión cibernética, mientras el FBI confirma la investigación sobre sus actividades.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD compra World Labs por 8.200 millones para desarrollar IA con comprensión física del mundo",
-    "summary": "La adquisición busca crear modelos de inteligencia artificial que interactúen y razonen sobre el entorno físico, reforzando la apuesta de AMD por la IA generativa.",
-    "source": [
-      "the-decoder.com",
+      "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Problemas con conectores y bloques de agua en RTX 5080 y 5090, mientras Nvidia regala una GPU temática",
-    "summary": "Usuarios reportan quemaduras en conectores 12V-2×6 y grietas en sistemas de refrigeración líquida, aunque pruebas muestran que dos conectores de 8 pines funcionan sin el nuevo estándar.",
+    "title": "El coste de la inteligencia artificial cae más rápido que la ley de Moore, según un informe reciente",
+    "summary": "Los gastos de inferencia y entrenamiento se desploman superando la reducción histórica de costes en computación, secuenciación de ADN y baterías.",
     "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Nova Lake supera certificaciones USB y PCIe y patenta MicroLEDs integrados en el encapsulado del CPU",
-    "summary": "La próxima generación de plataformas Intel acerca su lanzamiento tras pasar validaciones clave, mientras explora integrar luces en el propio procesador.",
-    "source": [
-      "hardzone.es",
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD presenta sus EPYC 9006 ‘Venice’ Zen6: hasta 256 núcleos y 15.000 dólares el tope de gama",
-    "summary": "La nueva generación de servidores cubre desde 8 núcleos a 700 dólares hasta un monstruo de 256 núcleos, consolidando el liderazgo en densidad de núcleos.",
+    "title": "Una filtración masiva expone datos sensibles de casi tres millones de militares y civiles del Pentágono",
+    "summary": "La brecha incluye números de Seguro Social y registros laborales, comprometiendo la seguridad de personal activo y retirado.",
     "source": [
-      "videocardz.com",
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic advierte de ‘riesgos existenciales para la humanidad’ en su prospecto de salida a bolsa",
-    "summary": "La startup de IA revela en su documentación financiera que considera la posibilidad de que su tecnología cause daños catastróficos, junto a ingresos crecientes y costes elevados.",
+    "title": "Microsoft lanza Windows 11 26H2 ampliando el soporte del sistema y activando funciones que mantenía inactivas",
+    "summary": "La actualización extiende el ciclo de vida del SO y habilita características previamente dormidas para mejorar la experiencia de usuario.",
     "source": [
-      "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Todos los coches analizados envían datos a terceros y más de la mitad contactan con empresas de publicidad",
-    "summary": "Un estudio de 21 vehículos revela que la privacidad del automóvil es peor de lo pensado, con transmisiones constantes a dominios externos y redes publicitarias.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ElevenLabs lanza v4: clonación de voz más rápida y control expresivo para voces de IA",
-    "summary": "El nuevo modelo mejora la consistencia y la capacidad de transmitir emociones, permitiendo crear voces sintéticas más naturales y controlables.",
-    "source": [
-      "the-decoder.com",
-      "alternativeto.net"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }
