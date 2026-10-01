@@ -1,86 +1,114 @@
 [
   {
-    "title": "米国30年債が2002年以来の高水準に達し、ウォール街を下落に導く",
-    "summary": "30年債の利回りが2002年水準を上回り、持続的なインフレと更なる利上げ期待が背景にあり、米国株市場を圧迫した。",
+    "title": "マイクロンが記録的な業績を発表し、メモリセクターのキオクシア株が急騰",
+    "summary": "チップメーカーのマイクロンが、記録的な1株当たり利益と売上高で予想を上回り、セクターを押し上げ、キオクシア株を20%上昇させた。",
     "source": [
-      "ft.com",
-      "expansion.com",
-      "handelsblatt.com",
-      "bolsamania.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "アジア株市場は米国利回りと原油高の圧力でまちまちに終了",
-    "summary": "日本、中国、香港、インド、タイ、インドネシアの市場が変動し、投資家が米国の利上げと原油高を消化する中で推移した。",
-    "source": [
-      "/r/stocks",
-      "handelsblatt.com",
       "investing.com",
-      "nasdaq.com"
+      "nikkei.com",
+      "bolsamania.com",
+      "/r/stocks"
     ],
     "count": 4
   },
   {
-    "title": "日経平均が837円反発、半導体楽観論が牽引",
-    "summary": "TDKと太陽誘電が東京市場で上昇を主導し、米国半導体株高を受けて指数は33,118ポイントに達した。",
+    "title": "米イラン協議の不透明感とディーゼル警告で原油上昇",
+    "summary": "核交渉の不透明感と、米業界がディーゼルの需給が1年で正常化しないと警告したことを受け、原油価格が反発。",
     "source": [
       "nikkei.com",
-      "nasdaq.com"
+      "bolsamania.com",
+      "ft.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "日本電産、コンポーネント部門をカーライルに6億3600万ドルで売却交渉",
-    "summary": "日本電産は旧子会社コパルエレクトロニクスの売却協議を確認、取引額は1000億円超。",
-    "source": [
-      "investing.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ユリウス・ベア株が急騰、スイス金融監督庁の調査終了で",
-    "summary": "FINMAが同私立銀行への調査を終了し、法的不透明感が解消されて株価が過去最高の上昇。",
+    "title": "米国債利回りが強い経済指標で24年ぶり高水準",
+    "summary": "堅調な米経済指標を受け債券売りが再燃し、10年債利回りが5.3%まで上昇、世界的な債務コストを押し上げた。",
     "source": [
       "handelsblatt.com",
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "アンソロピックがクラウドとデータセンターに5180億ドル投資計画、FTCがリスク調査",
+    "summary": "AIスタートアップがアマゾンに1000億ドル以上を投じる一方、FTCがモデルの危険性を調査、債務懸念も浮上。",
+    "source": [
+      "nasdaq.com",
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "エヌビディアが低評価を好機に自社株買い、アナリストは潜在力を巡り議論",
+    "summary": "チップ大手が自社株買いプログラムを開始、専門家はAI投資が現在の評価を正当化するかで意見が分かれる。",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ニューヨーク市場はまちまち、ナスダック高・ダウ安のボラタイルな展開",
+    "summary": "米指数はインフレ指標受け明暗分かれ、ハイテク中心のナスダックのみが上昇。",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "アジア市場まちまち、債券高で利下げ期待後退",
+    "summary": "日経平均が下落、日米債券利回り上昇で金融緩和観測が後退。",
+    "source": [
+      "nasdaq.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "韓国が米エネルギー事業に2000億ドル投資表明、トランプ圧力受け",
+    "summary": "アラスカLNG事業など含み貿易摩擦緩和狙うが、詳細で食い違いも。",
+    "source": [
+      "nikkei.com",
       "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI、最先端AIのリリースを安全性懸念で延期",
-    "summary": "サム・アルトマンCEOが『GPT-5』のリリースをリスク解決まで見送ると発表、同社は商業的スピードより安全性を優先。",
+    "title": "ロビンフッドが顧客に代わって自動取引するAIエージェント導入",
+    "summary": "証券アプリが人間の介入なしで取引実行可能なAI金融アドバイザーを導入。",
+    "source": [
+      "expansion.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ラガルドECB総裁、任期満了数カ月前の辞任示唆",
+    "summary": "欧州中銀総裁が早期退任の可能性示唆、今後の金融政策に不透明感。",
+    "source": [
+      "expansion.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "イングランド銀行とKKR、AI関連債務が急激な市場調整リスクを高めると警告",
+    "summary": "AIインフラ向け資金調達急増が信用リスクを生み、大量売却を誘発する恐れ。",
     "source": [
       "ft.com",
-      "bolsamania.com"
+      "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "内部文書流出でAnthropicのIPO準備が浮上",
-    "summary": "内部文書で300億ドル規模のIPO計画が明らかに、生成AI競争でOpenAIに追随。",
+    "title": "PHCホールディングス急騰、東宝ホールディングスが買収交渉と報道",
+    "summary": "日本メディアがライバル東宝による買収協議を報じ、PHC株が3年半ぶり高値。",
     "source": [
-      "/r/stocks",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Bloom Energyが5年で16倍に急騰、S&P500の上昇率トップに",
-    "summary": "水素燃料電池メーカーの株価上昇は直近2年間に集中、エネルギー転換が追い風に。",
-    "source": [
-      "nasdaq.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ユーロインターバンク金利が再上昇、9月は3%超で終了見込み",
-    "summary": "持続的なインフレへの懸念でECBが警戒する中、スペインの住宅ローン基準指標が上昇基調に戻った。",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
+      "nikkei.com",
+      "investing.com"
     ],
     "count": 2
   }

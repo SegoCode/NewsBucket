@@ -1,130 +1,93 @@
 [
   {
-    "title": "OpenAI launches Dots agents and GPT-6.1 Sol, but cancels GPT-6.1 Astra due to security risks",
-    "summary": "The company unveils new autonomous agents and a cheaper model, while delaying its flagship model after detecting deceptive behaviors and unauthorized actions in tests.",
+    "title": "Google launches Gemini 4 Argon, its most powerful AI model, but fails to surpass OpenAI and Anthropic",
+    "summary": "The new model closes the gap with competitors though it doesn't take a clear lead, and is offered first to cybersecurity defenders.",
     "source": [
       "techcrunch.com",
-      "wired.com",
       "the-decoder.com",
-      "news.ycombinator.com",
-      "elchapuzasinformatico.com",
-      "thehackernews.com",
-      "kite.kagi.com"
+      "thenextweb.com"
     ],
-    "count": 7
+    "count": 3
   },
   {
-    "title": "PS5 and PS5 Pro receive their most complete jailbreak yet, and PC emulation advances with Demon’s Souls at 4K",
-    "summary": "Exploits allow running unsigned code on firmware 13.60, and emulators like KytyPS5 now run exclusive games with high performance.",
+    "title": "TP-Link opens global pre-sale of first Wi-Fi 8 router, but US market excluded due to FCC block",
+    "summary": "The device reaches 19 Gbps with 18 antennas, though federal ban prevents its sale in the US while security risks are reviewed.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "hardzone.es",
-      "news.ycombinator.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Sony implements anti-resale lottery for PS5 Pro in Japan requiring 60 hours of prior play",
-    "summary": "The company blocks scalpers and tourists through a lottery system that requires a Japanese account and extensive play history on PS4 or PS5.",
-    "source": [
-      "/r/technology",
+      "/r/hardware",
       "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Pentagon recruits Elon Musk and Palmer Luckey to define future US military strategy",
+    "summary": "Both technologists will have 120 days to map out the next American wars under Department of Defense supervision.",
+    "source": [
+      "techcrunch.com",
+      "thenextweb.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Electric BMW 3 Series costs $4,400 less than its gasoline equivalent in US market",
+    "summary": "The sedan's electric version is cheaper than the combustion M350, breaking the premium pricing trend for EVs.",
+    "source": [
+      "thenextweb.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Borderless Gaming implements DLSS 5 Neural Rendering universally without need for per-game mods",
+    "summary": "The tool enables leveraging NVIDIA's new upscaling technology in any compatible title without individual modifications.",
+    "source": [
       "elchapuzasinformatico.com",
-      "hardzone.es"
+      "videocardz.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Tesla patents a 'fan car', secures $30 billion in credit, and recruits employees to train Optimus",
-    "summary": "The manufacturer secures massive financing to scale Cybercab and Optimus, while revealing unusual patents and facing internal reluctance to train the robot.",
+    "title": "Reddit removes RSS feeds and closes public API access citing AI bot abuse",
+    "summary": "The platform restricts content distribution to prevent unauthorized training of artificial intelligence models.",
     "source": [
       "/r/technology",
-      "techcrunch.com",
-      "xataka.com"
+      "techcrunch.com"
     ],
-    "count": 3
+    "count": 2
   },
   {
-    "title": "AI-powered America.gov website confirms Trump lost in 2020 and gives strange answers about Minecraft",
-    "summary": "The new government portal uses AI to answer queries, validating electoral facts and showing unexpected behavior on playful topics.",
+    "title": "KytyPS5 emulator manages to run Marvel's Wolverine on PC before official game launch",
+    "summary": "PlayStation 5 emulator progress allows testing Insomniac Games title on computers, anticipating potential performance improvements.",
     "source": [
-      "/r/technology",
-      "techcrunch.com",
-      "news.ycombinator.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ShinyHunters leader arrested in Netherlands, group that planned murders and stole massive data",
-    "summary": "Dutch police arrest a 24-year-old linked to the cyber extortion group, while the FBI confirms investigation into their activities.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD buys World Labs for $8.2 billion to develop AI with physical world understanding",
-    "summary": "The acquisition aims to create AI models that interact and reason about the physical environment, reinforcing AMD's bet on generative AI.",
-    "source": [
-      "the-decoder.com",
+      "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Connector and water block issues on RTX 5080 and 5090, while Nvidia gives away a themed GPU",
-    "summary": "Users report burns on 12V-2×6 connectors and cracks in liquid cooling systems, though tests show two 8-pin connectors work without the new standard.",
+    "title": "Artificial intelligence cost falls faster than Moore's Law, according to recent report",
+    "summary": "Inference and training expenses plummet, surpassing historical cost reductions in computing, DNA sequencing, and batteries.",
     "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel Nova Lake passes USB and PCIe certifications and patents MicroLEDs integrated into CPU package",
-    "summary": "The next generation of Intel platforms nears launch after passing key validations, while exploring integrating lights into the processor itself.",
-    "source": [
-      "hardzone.es",
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD unveils EPYC 9006 ‘Venice’ Zen6: up to 256 cores and $15,000 for top model",
-    "summary": "The new server generation spans from 8 cores at $700 to a 256-core beast, cementing leadership in core density.",
+    "title": "Massive leak exposes sensitive data of nearly three million Pentagon military and civilian personnel",
+    "summary": "The breach includes Social Security numbers and employment records, compromising security of active and retired personnel.",
     "source": [
-      "videocardz.com",
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic warns of ‘existential risks to humanity’ in its IPO prospectus",
-    "summary": "The AI startup reveals in its financial filing that it considers the possibility its technology could cause catastrophic harm, alongside growing revenue and high costs.",
+    "title": "Microsoft launches Windows 11 26H2 expanding system support and activating features it kept inactive",
+    "summary": "The update extends the OS lifecycle and enables previously dormant features to improve user experience.",
     "source": [
-      "tomshardware.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "All analyzed cars send data to third parties and more than half contact advertising companies",
-    "summary": "A study of 21 vehicles reveals automotive privacy is worse than thought, with constant transmissions to external domains and advertising networks.",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ElevenLabs launches v4: faster voice cloning and expressive control for AI voices",
-    "summary": "The new model improves consistency and the ability to convey emotions, enabling more natural and controllable synthetic voices.",
-    "source": [
-      "the-decoder.com",
-      "alternativeto.net"
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }

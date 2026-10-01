@@ -1,86 +1,114 @@
 [
   {
-    "title": "US 30-year bond reaches highs since 2002 and drags Wall Street lower",
-    "summary": "The 30-year bond yield surpasses 2002 levels, driven by persistent inflation and expectations of higher rates, which weighed on US stock markets.",
+    "title": "Micron reports record results and sends Kioxia shares soaring in memory sector",
+    "summary": "Chipmaker Micron beats forecasts with record EPS and revenue, boosting the sector and lifting Kioxia shares by 20%.",
     "source": [
-      "ft.com",
-      "expansion.com",
-      "handelsblatt.com",
-      "bolsamania.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Asian stocks close mixed amid pressure from US yields and oil",
-    "summary": "Markets in Japan, China, Hong Kong, India, Thailand, and Indonesia show volatility as investors digest US rate hikes and rising crude prices.",
-    "source": [
-      "/r/stocks",
-      "handelsblatt.com",
       "investing.com",
-      "nasdaq.com"
+      "nikkei.com",
+      "bolsamania.com",
+      "/r/stocks"
     ],
     "count": 4
   },
   {
-    "title": "Nikkei rebounds 837 points driven by semiconductor optimism",
-    "summary": "TDK and Taiyo Yuden shares lead gains in Tokyo after the rise in US chips, taking the index to 33,118 points.",
+    "title": "Oil rises on uncertainty in U.S.-Iran talks and diesel warnings",
+    "summary": "Crude prices rebound amid lack of clarity in nuclear negotiations and U.S. industry warning that diesel will not normalize for a year.",
     "source": [
       "nikkei.com",
-      "nasdaq.com"
+      "bolsamania.com",
+      "ft.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Nidec negotiates sale of its components unit to Carlyle for $636 million",
-    "summary": "The Japanese group confirms talks to divest its former subsidiary Copal Electronics, in a deal valued at over 1 billion yen.",
-    "source": [
-      "investing.com",
-      "nikkei.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Julius Baer surges in stock market after Swiss regulator closes investigation",
-    "summary": "FINMA closes the case against the private bank, removing legal uncertainty and triggering a record rise in its shares.",
+    "title": "U.S. bond yields hit 24-year highs after strong economic data",
+    "summary": "Massive bond selloff resumes driven by solid U.S. data, pushing the 10-year yield to 5.3% and making global debt more expensive.",
     "source": [
       "handelsblatt.com",
+      "nikkei.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Anthropic plans to invest 518 billion in cloud and data centers while FTC investigates its risks",
+    "summary": "The AI startup allocates more than 100 billion to Amazon and faces an FTC investigation over the dangers of its models, amid alerts about its debt.",
+    "source": [
+      "nasdaq.com",
+      "expansion.com",
+      "bolsamania.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia takes advantage of low valuation to buy back shares while analysts debate its potential",
+    "summary": "The chip giant launches a buyback program and experts disagree on whether AI investment justifies its current valuation.",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Wall Street closes mixed with Nasdaq up and Dow Jones down in volatile session",
+    "summary": "U.S. indexes end mixed after inflation data, with tech-heavy Nasdaq as the only winner of the day.",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Asian markets trade mixed as expectations of rate cuts stall due to rising bond yields",
+    "summary": "The Nikkei falls as Japanese and U.S. bond yields rise, reducing bets on monetary easing.",
+    "source": [
+      "nasdaq.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "South Korea announces 200 billion investment in U.S. energy projects after Trump pressure",
+    "summary": "The commitment includes LNG projects in Alaska and aims to ease trade tensions, though details spark discrepancies.",
+    "source": [
+      "nikkei.com",
       "ft.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI delays launch of its most advanced AI due to safety issues",
-    "summary": "Sam Altman announces that the 'GPT-5' model will not be released until risks are resolved, as the company prioritizes safety over commercial speed.",
+    "title": "Robinhood launches AI agent that trades automatically for clients on its platform",
+    "summary": "The broker introduces AI-based financial advisors that can execute trades without human intervention.",
+    "source": [
+      "expansion.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Lagarde suggests she will step down as ECB president a few months before her term ends",
+    "summary": "The European Central Bank president opens the door to an early departure, adding uncertainty about future monetary policy.",
+    "source": [
+      "expansion.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Bank of England and KKR warn that AI debt raises risk of sharp market correction",
+    "summary": "The boom in financing for artificial intelligence infrastructure creates credit vulnerabilities that could trigger massive sell-offs.",
     "source": [
       "ft.com",
-      "bolsamania.com"
+      "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "A leak suggests Anthropic is preparing its IPO",
-    "summary": "Internal documents reveal plans for an IPO valued at $30 billion, following in OpenAI's footsteps in the generative AI race.",
+    "title": "PHC Holdings surges after report that Toho Holdings negotiating its acquisition",
+    "summary": "PHC shares hit three-and-a-half-year highs after Japanese press revealed talks for a purchase by its rival Toho.",
     "source": [
-      "/r/stocks",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Bloom Energy multiplies its value by 16 in five years and leads S&P 500 gains",
-    "summary": "The hydrogen fuel cell manufacturer sees all its appreciation concentrated in the last two fiscal years, driven by the energy transition.",
-    "source": [
-      "nasdaq.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Euribor rises again and will close September above 3%",
-    "summary": "The benchmark index for mortgages in Spain resumes its upward path amid ECB fears of persistent inflation.",
-    "source": [
-      "bolsamania.com",
-      "expansion.com"
+      "nikkei.com",
+      "investing.com"
     ],
     "count": 2
   }
