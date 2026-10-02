@@ -1,36 +1,66 @@
 [
   {
-    "title": "Google lanza Gemini 4 Argon, su modelo de IA más potente, pero no logra superar a OpenAI y Anthropic",
-    "summary": "El nuevo modelo cierra la brecha con la competencia aunque no toma la delantera clara, y se ofrece primero a defensores de ciberseguridad.",
+    "title": "Micron advierte que la escasez de RAM empeorará hasta 2028 mientras celebra beneficios récord",
+    "summary": "Micron prevé una mayor escasez y precios más altos de memoria RAM en los próximos años debido a la demanda de IA.",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "thenextweb.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "/r/hardware"
     ],
     "count": 3
   },
   {
-    "title": "TP-Link abre la preventa mundial del primer router Wi-Fi 8, pero el mercado estadounidense queda excluido por el bloqueo de la FCC",
-    "summary": "El dispositivo alcanza 19 Gbps con 18 antenas, aunque la prohibición federal impide su venta en EE. UU. mientras se revisan riesgos de seguridad.",
+    "title": "OpenAI desarticula una campaña de extracción de razonamiento vinculada a Moonshot AI china",
+    "summary": "OpenAI detecta y detiene un intento de robar el razonamiento oculto de sus modelos, atribuido a actores ligados a Moonshot AI.",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com",
+      "thehackernews.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Gears of War E-Day muestra su exigencia en CPU y llega con periféricos retro de 8BitDo",
+    "summary": "El nuevo Gears of War destaca por su uso intensivo de CPU en Unreal Engine 5 y lanza una línea de teclados y ratones temáticos.",
+    "source": [
+      "xataka.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google lanza Gemini 4 Argon con contexto de un millón de tokens y mejoras en programación",
+    "summary": "Gemini 4 Argon amplía su ventana de contexto a un millón de tokens y refuerza capacidades de codificación y seguridad.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "thehackernews.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "HP presenta el OmniBook 5 de 14 pulgadas como rival del MacBook con pantalla OLED y 42 horas de batería",
+    "summary": "El nuevo portátil de HP monta Intel Wildcat Lake, pantalla OLED y promete una autonomía excepcional para competir con Apple.",
     "source": [
       "/r/hardware",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "El Pentágono recluta a Elon Musk y Palmer Luckey para definir la estrategia militar futura de EE. UU.",
-    "summary": "Ambos tecnólogos tendrán 120 días para trazar el mapa de las próximas guerras estadounidenses bajo supervisión del Departamento de Defensa.",
+    "title": "Intel Nova Lake-S filtra su gama alta con hasta 28 núcleos y USB4 a 80 Gbps",
+    "summary": "Las filtraciones revelan el Core Ultra 9 4970K BFC de 28 núcleos y la integración de USB4 80Gbps y PCIe 5.0 en la plataforma Nova Lake.",
     "source": [
-      "techcrunch.com",
-      "thenextweb.com"
+      "/r/hardware",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "El BMW Serie 3 eléctrico cuesta 4.400 dólares menos que su equivalente de gasolina en el mercado estadounidense",
-    "summary": "La versión eléctrica del sedán resulta más barata que el M350 de combustión, rompiendo la tendencia de precio premium para los VE.",
+    "title": "OpenAI despide a tres investigadores de seguridad tras filtraciones de información sensible",
+    "summary": "OpenAI corta relaciones con tres miembros de su equipo de seguridad tras detectar fugas de información confidencial.",
     "source": [
       "thenextweb.com",
       "techcrunch.com"
@@ -38,55 +68,73 @@
     "count": 2
   },
   {
-    "title": "Borderless Gaming implementa DLSS 5 Neural Rendering de forma universal sin necesidad de mods por juego",
-    "summary": "La herramienta permite aprovechar la nueva tecnología de escalado de NVIDIA en cualquier título compatible sin modificaciones individuales.",
+    "title": "Sony lleva el escalado por IA QSSR a la PS5 estándar para mejorar calidad de imagen",
+    "summary": "La tecnología QSSR permite escalado inteligente en la PS5 base, acercando su calidad visual a la PS5 Pro.",
     "source": [
-      "elchapuzasinformatico.com",
+      "/r/hardware",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Reddit elimina los feeds RSS y cierra el acceso público a su API alegando el abuso de bots de IA",
-    "summary": "La plataforma restringe la distribución de contenido para evitar el entrenamiento no autorizado de modelos de inteligencia artificial.",
+    "title": "DeepSeek y Huawei publican herramientas Ascend de código abierto para reducir dependencia de CUDA de NVIDIA",
+    "summary": "La colaboración entre DeepSeek y Huawei ofrece una pila de software abierta para chips Ascend como alternativa al ecosistema CUDA.",
     "source": [
-      "/r/technology",
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Micron demanda a YMTC por robo de ingenieros y tecnología patentada",
+    "summary": "Micron acusa a la china YMTC de fichar a sus ex empleados, patentar su tecnología y ganar una injunción en Alemania.",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Amazon renueva toda su gama Kindle con nuevo diseño y batería reemplazable por normativa europea",
+    "summary": "Los nuevos Kindle eliminan el bisel elevado, reducen peso y tamaño, y adoptan baterías extraíbles para cumplir la ley europea.",
+    "source": [
+      "xataka.com",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "El emulador KytyPS5 logra ejecutar Marvel's Wolverine en PC antes del lanzamiento oficial del juego",
-    "summary": "El progreso del emulador de PlayStation 5 permite probar el título de Insomniac Games en computadoras, anticipando posibles mejoras de rendimiento.",
+    "title": "Un mod lleva DLSS 4.5 a las Radeon RX 9000 aprovechando el formato FP8 nativo de RDNA 4",
+    "summary": "Un desarrollador adapta la tecnología de escalado de NVIDIA a tarjetas AMD Radeon de última generación con resultados prometedores.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA lanza una plataforma de seguridad para contener físicamente a agentes de IA rebeldes",
+    "summary": "La Open Agent Safety Platform busca evitar que agentes autónomos realicen acciones peligrosas mediante restricciones físicas.",
     "source": [
       "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "El coste de la inteligencia artificial cae más rápido que la ley de Moore, según un informe reciente",
-    "summary": "Los gastos de inferencia y entrenamiento se desploman superando la reducción histórica de costes en computación, secuenciación de ADN y baterías.",
+    "title": "Agentes de IA filtran más de 13.000 capturas de pantalla internas de empresas al subirlas a la nube",
+    "summary": "Una startup de seguridad descubre que asistentes de IA corporativos exponen datos sensibles al guardar capturas en servidores públicos.",
     "source": [
-      "/r/technology",
+      "the-decoder.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Una filtración masiva expone datos sensibles de casi tres millones de militares y civiles del Pentágono",
-    "summary": "La brecha incluye números de Seguro Social y registros laborales, comprometiendo la seguridad de personal activo y retirado.",
+    "title": "Un mini PC con Intel Panther Lake y refrigeración sólida AirJet funciona por debajo de 21 dBA",
+    "summary": "El primer mini PC con Panther Lake usa refrigeración de estado sólido sin ventiladores, logrando silencio extremo y alto rendimiento.",
     "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft lanza Windows 11 26H2 ampliando el soporte del sistema y activando funciones que mantenía inactivas",
-    "summary": "La actualización extiende el ciclo de vida del SO y habilita características previamente dormidas para mejorar la experiencia de usuario.",
-    "source": [
-      "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
