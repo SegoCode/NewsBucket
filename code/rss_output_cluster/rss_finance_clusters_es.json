@@ -1,48 +1,42 @@
 [
   {
-    "title": "Micron reporta resultados récord y dispara las acciones de Kioxia en el sector de memoria",
-    "summary": "El fabricante de chips Micron supera las previsiones con un BPA y unos ingresos récord, impulsando al sector y elevando un 20% las acciones de Kioxia.",
+    "title": "Venta masiva de bonos globales impulsa rendimientos a máximos de dos décadas",
+    "summary": "El aumento de las tasas de interés y la preocupación fiscal provocan una liquidación generalizada en los mercados de renta fija.",
     "source": [
-      "investing.com",
-      "nikkei.com",
       "bolsamania.com",
-      "/r/stocks"
+      "nikkei.com",
+      "ft.com",
+      "expansion.com",
+      "handelsblatt.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "El petróleo supera los 100 dólares por la escalada de tensiones en Oriente Medio",
+    "summary": "El crudo alcanza máximos de varios meses mientras el conflicto en la región aviva temores de interrupción del suministro.",
+    "source": [
+      "nikkei.com",
+      "handelsblatt.com",
+      "nasdaq.com",
+      "investing.com",
+      "expansion.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Bolsas asiáticas mixtas a la espera de empleo en EEUU y por tensión en Oriente Medio",
+    "summary": "Los índices de la región operan sin rumbo fijo mientras los inversores evalúan el impacto de los datos laborales estadounidenses y el conflicto en Gaza.",
+    "source": [
+      "handelsblatt.com",
+      "nasdaq.com",
+      "investing.com",
+      "nikkei.com"
     ],
     "count": 4
   },
   {
-    "title": "El petróleo sube por la incertidumbre en las conversaciones entre EE. UU. e Irán y las advertencias sobre el diésel",
-    "summary": "Los precios del crudo repuntan ante la falta de claridad en las negociaciones nucleares y la advertencia de la industria estadounidense de que el diésel no se normalizará en un año.",
-    "source": [
-      "nikkei.com",
-      "bolsamania.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Las rentabilidades de los bonos estadounidenses alcanzan máximos de 24 años tras datos económicos fuertes",
-    "summary": "La venta masiva de bonos se reanuda impulsada por datos sólidos de EE. UU., llevando el rendimiento a 10 años al 5,3 % y encareciendo la deuda global.",
-    "source": [
-      "handelsblatt.com",
-      "nikkei.com",
-      "ft.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Anthropic planea invertir 518.000 millones en nube y centros de datos mientras la FTC investiga sus riesgos",
-    "summary": "La startup de IA destina más de 100.000 millones a Amazon y enfrenta una investigación de la FTC por los peligros de sus modelos, en medio de alertas sobre su deuda.",
-    "source": [
-      "nasdaq.com",
-      "expansion.com",
-      "bolsamania.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Nvidia aprovecha su baja valoración para recomprar acciones mientras los analistas debaten su potencial",
-    "summary": "El gigante de los chips inicia un programa de recompra y los expertos discrepan sobre si la inversión en IA justifica su valoración actual.",
+    "title": "Wall Street cierra mixto con la atención puesta en la rentabilidad de los bonos",
+    "summary": "Los principales índices neoyorquinos terminan cerca de la paridad mientras el rendimiento del bono a 10 años se mantiene en niveles elevados.",
     "source": [
       "bolsamania.com",
       "handelsblatt.com"
@@ -50,65 +44,11 @@
     "count": 2
   },
   {
-    "title": "Wall Street cierra mixto con el Nasdaq al alza y el Dow Jones a la baja en una sesión volátil",
-    "summary": "Los índices estadounidenses terminan dispares tras datos de inflación, con el tecnológico Nasdaq como único ganador de la jornada.",
+    "title": "Advantest alcanza máximos históricos tras los resultados de Micron",
+    "summary": "Las acciones del fabricante japonés de equipos de prueba de semiconductores se disparan por el optimismo sobre la demanda de chips de memoria.",
     "source": [
-      "bolsamania.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Los mercados asiáticos operan mixtos ante el freno de las expectativas de recortes de tipos por el alza de los bonos",
-    "summary": "El Nikkei cae mientras las rentabilidades de los bonos japoneses y estadounidenses suben, reduciendo las apuestas de relajación monetaria.",
-    "source": [
-      "nasdaq.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Corea del Sur anuncia una inversión de 200.000 millones en proyectos energéticos de EE. UU. tras la presión de Trump",
-    "summary": "El compromiso incluye proyectos de GNL en Alaska y busca aliviar las tensiones comerciales, aunque los detalles generan discrepancias.",
-    "source": [
-      "nikkei.com",
-      "ft.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Robinhood lanza un agente de IA que opera automáticamente por los clientes en su plataforma",
-    "summary": "El bróker introduce asesores financieros basados en inteligencia artificial que pueden ejecutar operaciones sin intervención humana.",
-    "source": [
-      "expansion.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Lagarde sugiere que dejará la presidencia del BCE unos meses antes de que termine su mandato",
-    "summary": "La presidenta del Banco Central Europeo abre la puerta a una salida anticipada, lo que añade incertidumbre sobre la futura política monetaria.",
-    "source": [
-      "expansion.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El Banco de Inglaterra y KKR advierten de que la deuda por IA eleva el riesgo de una corrección brusca de mercado",
-    "summary": "El auge de la financiación para infraestructura de inteligencia artificial genera vulnerabilidades crediticias que podrían desencadenar ventas masivas.",
-    "source": [
-      "ft.com",
-      "handelsblatt.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "PHC Holdings se dispara tras informar de que Toho Holdings negocia su adquisición",
-    "summary": "Las acciones de PHC alcanzan máximos de tres años y medio después de que la prensa japonesa revelara conversaciones para una compra por parte de su rival Toho.",
-    "source": [
-      "nikkei.com",
-      "investing.com"
+      "investing.com",
+      "nikkei.com"
     ],
     "count": 2
   }
