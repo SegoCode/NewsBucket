@@ -1,36 +1,66 @@
 [
   {
-    "title": "Google launches Gemini 4 Argon, its most powerful AI model, but fails to surpass OpenAI and Anthropic",
-    "summary": "The new model closes the gap with competitors though it doesn't take a clear lead, and is offered first to cybersecurity defenders.",
+    "title": "Micron warns RAM shortage will worsen through 2028 as it celebrates record profits",
+    "summary": "Micron forecasts greater shortage and higher RAM prices in coming years due to AI demand.",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "thenextweb.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "/r/hardware"
     ],
     "count": 3
   },
   {
-    "title": "TP-Link opens global pre-sale of first Wi-Fi 8 router, but US market excluded due to FCC block",
-    "summary": "The device reaches 19 Gbps with 18 antennas, though federal ban prevents its sale in the US while security risks are reviewed.",
+    "title": "OpenAI dismantles reasoning extraction campaign linked to Chinese Moonshot AI",
+    "summary": "OpenAI detects and stops attempt to steal hidden reasoning from its models, attributed to actors linked to Moonshot AI.",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com",
+      "thehackernews.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Gears of War E-Day shows its CPU demands and arrives with retro 8BitDo peripherals",
+    "summary": "The new Gears of War stands out for its intensive CPU usage in Unreal Engine 5 and launches a line of themed keyboards and mice.",
+    "source": [
+      "xataka.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google launches Gemini 4 Argon with one-million-token context and programming improvements",
+    "summary": "Gemini 4 Argon expands its context window to one million tokens and strengthens coding and security capabilities.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "thehackernews.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "HP unveils 14-inch OmniBook 5 as MacBook rival with OLED screen and 42-hour battery",
+    "summary": "HP's new laptop features Intel Wildcat Lake, OLED display, and promises exceptional battery life to compete with Apple.",
     "source": [
       "/r/hardware",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "Pentagon recruits Elon Musk and Palmer Luckey to define future US military strategy",
-    "summary": "Both technologists will have 120 days to map out the next American wars under Department of Defense supervision.",
+    "title": "Intel Nova Lake-S high-end leaks with up to 28 cores and USB4 at 80 Gbps",
+    "summary": "Leaks reveal the 28-core Core Ultra 9 4970K BFC and integration of USB4 80Gbps and PCIe 5.0 on the Nova Lake platform.",
     "source": [
-      "techcrunch.com",
-      "thenextweb.com"
+      "/r/hardware",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Electric BMW 3 Series costs $4,400 less than its gasoline equivalent in US market",
-    "summary": "The sedan's electric version is cheaper than the combustion M350, breaking the premium pricing trend for EVs.",
+    "title": "OpenAI fires three security researchers after sensitive information leaks",
+    "summary": "OpenAI cuts ties with three members of its security team after detecting leaks of confidential information.",
     "source": [
       "thenextweb.com",
       "techcrunch.com"
@@ -38,55 +68,73 @@
     "count": 2
   },
   {
-    "title": "Borderless Gaming implements DLSS 5 Neural Rendering universally without need for per-game mods",
-    "summary": "The tool enables leveraging NVIDIA's new upscaling technology in any compatible title without individual modifications.",
+    "title": "Sony brings AI upscaling QSSR to standard PS5 to improve image quality",
+    "summary": "QSSR technology enables intelligent upscaling on base PS5, bringing its visual quality closer to PS5 Pro.",
     "source": [
-      "elchapuzasinformatico.com",
+      "/r/hardware",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Reddit removes RSS feeds and closes public API access citing AI bot abuse",
-    "summary": "The platform restricts content distribution to prevent unauthorized training of artificial intelligence models.",
+    "title": "DeepSeek and Huawei release open-source Ascend tools to reduce reliance on NVIDIA CUDA",
+    "summary": "The collaboration between DeepSeek and Huawei offers an open software stack for Ascend chips as an alternative to the CUDA ecosystem.",
     "source": [
-      "/r/technology",
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Micron sues YMTC for theft of engineers and patented technology",
+    "summary": "Micron accuses Chinese YMTC of hiring its former employees, patenting its technology, and winning an injunction in Germany.",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Amazon refreshes entire Kindle lineup with new design and replaceable battery due to European regulation",
+    "summary": "The new Kindles eliminate the raised bezel, reduce weight and size, and adopt removable batteries to comply with European law.",
+    "source": [
+      "xataka.com",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "KytyPS5 emulator manages to run Marvel's Wolverine on PC before official game launch",
-    "summary": "PlayStation 5 emulator progress allows testing Insomniac Games title on computers, anticipating potential performance improvements.",
+    "title": "A mod brings DLSS 4.5 to Radeon RX 9000 leveraging RDNA 4's native FP8 format",
+    "summary": "A developer adapts NVIDIA's upscaling technology to latest-gen AMD Radeon cards with promising results.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA launches safety platform to physically contain rogue AI agents",
+    "summary": "The Open Agent Safety Platform aims to prevent autonomous agents from taking dangerous actions through physical restrictions.",
     "source": [
       "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "Artificial intelligence cost falls faster than Moore's Law, according to recent report",
-    "summary": "Inference and training expenses plummet, surpassing historical cost reductions in computing, DNA sequencing, and batteries.",
+    "title": "AI agents leak over 13,000 internal corporate screenshots by uploading them to the cloud",
+    "summary": "A security startup discovers corporate AI assistants expose sensitive data by saving screenshots to public servers.",
     "source": [
-      "/r/technology",
+      "the-decoder.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Massive leak exposes sensitive data of nearly three million Pentagon military and civilian personnel",
-    "summary": "The breach includes Social Security numbers and employment records, compromising security of active and retired personnel.",
+    "title": "A mini PC with Intel Panther Lake and solid-state AirJet cooling operates below 21 dBA",
+    "summary": "The first mini PC with Panther Lake uses fanless solid-state cooling, achieving extreme silence and high performance.",
     "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft launches Windows 11 26H2 expanding system support and activating features it kept inactive",
-    "summary": "The update extends the OS lifecycle and enables previously dormant features to improve user experience.",
-    "source": [
-      "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2

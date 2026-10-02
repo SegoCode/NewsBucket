@@ -1,36 +1,66 @@
 [
   {
-    "title": "GoogleがGemini 4 Argonを発表、同社最強のAIモデルだがOpenAIとAnthropicを超えられず",
-    "summary": "新モデルは競合との差を縮めるが明確なリードは得られず、まずサイバーセキュリティ専門家向けに提供される。",
+    "title": "Micron、RAM不足が2028年まで悪化すると警告、記録的利益を祝う中で",
+    "summary": "Micronは、AI需要により今後数年間でRAMの更なる不足と価格上昇を予測。",
     "source": [
-      "techcrunch.com",
-      "the-decoder.com",
-      "thenextweb.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "/r/hardware"
     ],
     "count": 3
   },
   {
-    "title": "TP-Linkが世界初のWi-Fi 8ルーターの予約販売を開始、しかしFCCの規制で米国市場は除外",
-    "summary": "18本のアンテナで19Gbpsを達成するが、連邦政府の禁止によりセキュリティリスクの見直し中は米国での販売が不可能。",
+    "title": "OpenAI、中国Moonshot AI関連の推論抽出キャンペーンを阻止",
+    "summary": "OpenAI、モデルの隠れた推論を盗む試みを検知・阻止、Moonshot AI関連のアクターによるものと特定。",
+    "source": [
+      "the-decoder.com",
+      "tomshardware.com",
+      "thehackernews.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "『Gears of War E-Day』、CPUへの高負荷を示し、8BitDo製レトロ周辺機器と共に登場",
+    "summary": "新作『Gears of War』はUnreal Engine 5でのCPU集中的使用が特徴、テーマ別キーボードとマウスラインも発売。",
+    "source": [
+      "xataka.com",
+      "tomshardware.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Google、100万トークンのコンテキストとプログラミング機能強化を備えたGemini 4 Argonをリリース",
+    "summary": "Gemini 4 Argonはコンテキストウィンドウを100万トークンに拡大、コーディングとセキュリティ能力を強化。",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "thehackernews.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "HP、14インチOmniBook 5を発表、OLED画面と42時間バッテリーでMacBook対抗",
+    "summary": "HPの新ノートPCはIntel Wildcat Lake、OLED画面搭載、Apple対抗で驚異的なバッテリー持続時間を謳う。",
     "source": [
       "/r/hardware",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "ペンタゴンがイーロン・マスクとパルマー・ラッキーを起用し、米国の将来軍事戦略を策定",
-    "summary": "両技術者は国防総省の監督下で、今後120日間で米国の次世代戦争の青写真を描く。",
+    "title": "Intel Nova Lake-Sのハイエンドが流出、最大28コアとUSB4 80Gbps搭載",
+    "summary": "流出情報で28コアのCore Ultra 9 4970K BFCと、Nova LakeプラットフォームへのUSB4 80GbpsおよびPCIe 5.0統合が明らかに。",
     "source": [
-      "techcrunch.com",
-      "thenextweb.com"
+      "/r/hardware",
+      "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "BMW 3シリーズEVが米国市場でガソリン車M350より4,400ドル安く、EVプレミアム価格の常識を覆す",
-    "summary": "セダンの電気版がガソリン車M350より安価となり、EVのプレミアム価格傾向を打破。",
+    "title": "OpenAI、機密情報漏洩でセキュリティ研究者3人を解雇",
+    "summary": "OpenAI、機密情報漏洩検知後、セキュリティチームの3メンバーと契約解除。",
     "source": [
       "thenextweb.com",
       "techcrunch.com"
@@ -38,55 +68,73 @@
     "count": 2
   },
   {
-    "title": "Borderless GamingがDLSS 5ニューラルレンダリングを汎用実装、ゲームごとのMOD不要に",
-    "summary": "このツールにより、NVIDIAの新しいアップスケーリング技術を個別の修正なしで互換性のあるあらゆるタイトルで利用可能に。",
+    "title": "Sony、AIアップスケーリングQSSRを標準PS5に導入し画質向上",
+    "summary": "QSSR技術によりベースPS5でインテリジェントなアップスケーリングが可能に、PS5 Proに近い画質を実現。",
     "source": [
-      "elchapuzasinformatico.com",
+      "/r/hardware",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "RedditがRSSフィードを廃止し公開APIを閉鎖、AIボットの悪用を理由に",
-    "summary": "プラットフォームはコンテンツ配信を制限し、AIモデルの無許可学習を防止。",
+    "title": "DeepSeekとHuawei、NVIDIA CUDA依存減らすオープンソースAscendツール公開",
+    "summary": "DeepSeekとHuaweiの協力で、Ascendチップ向けオープンソフトウェアスタック提供、CUDAエコシステムの代替に。",
     "source": [
-      "/r/technology",
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Micron、YMTCを技術者引き抜きと特許技術盗用で提訴",
+    "summary": "Micron、中国YMTCが元従業員を引き抜き、技術を特許化、ドイツで差し止め命令取得と非難。",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Amazon、全Kindleラインアップ刷新、新デザインと欧州規制対応の交換可能バッテリー搭載",
+    "summary": "新Kindleは隆起ベゼル廃止、軽量・小型化、欧州法準拠で着脱式バッテリー採用。",
+    "source": [
+      "xataka.com",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "PS5エミュレータKytyPS5が公式発売前にPCで『Marvel's Wolverine』を動作させることに成功",
-    "summary": "PS5エミュレータの進展によりInsomniac GamesのタイトルをPCでテスト可能に、パフォーマンス向上の可能性を示唆。",
+    "title": "MODでDLSS 4.5をRadeon RX 9000に移植、RDNA 4ネイティブFP8形式を活用",
+    "summary": "開発者がNVIDIAのアップスケーリング技術を最新AMD Radeonに適応、有望な結果。",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NVIDIA、物理的に暴走AIエージェントを封じ込めるセキュリティプラットフォーム発表",
+    "summary": "Open Agent Safety Platform、物理的制約により自律エージェントの危険な行動を防止目指す。",
     "source": [
       "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "alternativeto.net"
     ],
     "count": 2
   },
   {
-    "title": "AIコストの低下がムーアの法則より速いとの報告",
-    "summary": "推論と訓練のコストが急落し、コンピューティング、DNAシーケンシング、バッテリーの歴史的コスト削減を上回る。",
+    "title": "AIエージェントが企業内部スクリーンショット1.3万枚以上をクラウドアップロードで流出",
+    "summary": "セキュリティスタートアップが発見、企業用AIアシスタントがスクリーンショットを公開サーバーに保存し機密データ露出。",
     "source": [
-      "/r/technology",
+      "the-decoder.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "大規模情報漏洩でペンタゴンの軍人・民間人約300万人の機密データが流出",
-    "summary": "社会保障番号や雇用記録が含まれ、現役および退役軍人の安全が脅かされる。",
+    "title": "Intel Panther Lake搭載ミニPC、AirJet固体冷却で21dBA以下の静音動作実現",
+    "summary": "初のPanther Lake搭載ミニPC、ファンレス固体冷却採用で極限の静音性と高性能を両立。",
     "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "MicrosoftがWindows 11 26H2をリリース、サポート期間延長と休眠機能の有効化",
-    "summary": "このアップデートでOSのライフサイクルが延長され、以前は休眠していた機能が有効化されユーザー体験が向上。",
-    "source": [
-      "elchapuzasinformatico.com",
+      "tomshardware.com",
       "videocardz.com"
     ],
     "count": 2
