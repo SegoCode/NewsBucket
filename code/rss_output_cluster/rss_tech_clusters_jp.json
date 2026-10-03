@@ -1,47 +1,49 @@
 [
   {
-    "title": "Micron、RAM不足が2028年まで悪化すると警告、記録的利益を祝う中で",
-    "summary": "Micronは、AI需要により今後数年間でRAMの更なる不足と価格上昇を予測。",
+    "title": "Micro Center、RTX 5090購入にDNIと非輸出誓約を要求",
+    "summary": "店舗チェーンが最強GPUの販売を制限し、中国への転売を防ぐため身分証明と用途申告を義務付け",
     "source": [
+      "/r/technology",
+      "tomshardware.com",
       "elchapuzasinformatico.com",
-      "tomshardware.com",
-      "/r/hardware"
+      "videocardz.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "OpenAI、中国Moonshot AI関連の推論抽出キャンペーンを阻止",
-    "summary": "OpenAI、モデルの隠れた推論を盗む試みを検知・阻止、Moonshot AI関連のアクターによるものと特定。",
+    "title": "ソニー、PS5にAIアップスケーリングQSSRを統合し改訂モデルを発売、PS6を遅延",
+    "summary": "ファームウェア更新と新ハードウェアでベースコンソールの画質向上、次世代機の登場が遠のく兆候",
     "source": [
-      "the-decoder.com",
       "tomshardware.com",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "『Gears of War E-Day』、CPUへの高負荷を示し、8BitDo製レトロ周辺機器と共に登場",
-    "summary": "新作『Gears of War』はUnreal Engine 5でのCPU集中的使用が特徴、テーマ別キーボードとマウスラインも発売。",
-    "source": [
       "xataka.com",
-      "tomshardware.com",
+      "elchapuzasinformatico.com",
       "hardzone.es"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Google、100万トークンのコンテキストとプログラミング機能強化を備えたGemini 4 Argonをリリース",
-    "summary": "Gemini 4 Argonはコンテキストウィンドウを100万トークンに拡大、コーディングとセキュリティ能力を強化。",
+    "title": "連邦判事、Flockの大量監視を違憲と判断、サンダース氏が政府使用禁止を提案",
+    "summary": "裁判所がFlockカメラネットワークを無差別監視と認定、上院が連邦使用を禁じる法案を推進",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "thehackernews.com"
+      "/r/technology",
+      "techcrunch.com",
+      "tomshardware.com"
     ],
     "count": 3
   },
   {
-    "title": "HP、14インチOmniBook 5を発表、OLED画面と42時間バッテリーでMacBook対抗",
-    "summary": "HPの新ノートPCはIntel Wildcat Lake、OLED画面搭載、Apple対抗で驚異的なバッテリー持続時間を謳う。",
+    "title": "東芝、AIデータセンター向けHDD生産能力を倍増",
+    "summary": "3.8億ドル投資で2030年までにディスクあたり65TBと100TB達成へ、深刻な不足に対応",
+    "source": [
+      "/r/technology",
+      "/r/hardware",
+      "tomshardware.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Nvidia、64GB版DGX Sparkを128GB版より高価で発売、メモリ危機が影響",
+    "summary": "ローカルAI向け新ワークステーション、メモリ半減にもかかわらずコスト上昇、RAM高騰を反映",
     "source": [
       "/r/hardware",
       "videocardz.com",
@@ -50,62 +52,88 @@
     "count": 3
   },
   {
-    "title": "Intel Nova Lake-Sのハイエンドが流出、最大28コアとUSB4 80Gbps搭載",
-    "summary": "流出情報で28コアのCore Ultra 9 4970K BFCと、Nova LakeプラットフォームへのUSB4 80GbpsおよびPCIe 5.0統合が明らかに。",
+    "title": "中古Ryzen 7 5800X3D購入で前所有者の履歴によりゲームBANのリスク",
+    "summary": "中古プロセッサー購入者がValorantなどでBAN報告、前所有者の制裁アカウントと関連",
     "source": [
-      "/r/hardware",
-      "videocardz.com"
+      "videocardz.com",
+      "elchapuzasinformatico.com",
+      "/r/hardware"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "OpenAI、機密情報漏洩でセキュリティ研究者3人を解雇",
-    "summary": "OpenAI、機密情報漏洩検知後、セキュリティチームの3メンバーと契約解除。",
+    "title": "テスラ、第3四半期納車2%減もアナリスト予想を上回る",
+    "summary": "更新モデルのおかげで前年比減収が緩和、ただしCybertruckは減速兆候",
     "source": [
+      "/r/technology",
       "thenextweb.com",
       "techcrunch.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Sony、AIアップスケーリングQSSRを標準PS5に導入し画質向上",
-    "summary": "QSSR技術によりベースPS5でインテリジェントなアップスケーリングが可能に、PS5 Proに近い画質を実現。",
+    "title": "OpenAI、機密情報不適切扱いで安全性研究者3人を解雇",
+    "summary": "アライメント専門家の離脱で、製品リリース優先の姿勢に対する安全性懸念が高まる",
     "source": [
-      "/r/hardware",
-      "videocardz.com"
+      "/r/technology",
+      "the-decoder.com",
+      "thehackernews.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "DeepSeekとHuawei、NVIDIA CUDA依存減らすオープンソースAscendツール公開",
-    "summary": "DeepSeekとHuaweiの協力で、Ascendチップ向けオープンソフトウェアスタック提供、CUDAエコシステムの代替に。",
+    "title": "Raspberry Pi、RAM高騰で最大23%値上げ",
+    "summary": "2GBと4GBモデルが12.5ドル上昇、低コスト・教育プロジェクトに打撃",
     "source": [
-      "xataka.com",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Intel Nova Lakeのリーク、最大28コアと144MB L3キャッシュで2026年登場",
+    "summary": "Core Ultra 4000シリーズにゲーミング・サーバー向け3つの「BFC」チップ、ハイブリッドアーキテクチャと新ソケット採用",
+    "source": [
+      "tomshardware.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "AMD、携帯ゲーム機とPS6向けにRyzen Z3とRyzen 9 5900X3Dを準備、GPUとキャッシュ強化",
+    "summary": "新SoCはCPUコア削減でRDNA 4グラフィックス優先、エンジニアリングサンプルで128MB L3キャッシュ確認",
+    "source": [
+      "videocardz.com",
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Amazon、データセンター計画で批判直面、Nvidiaチップを投資家に売却しSynopsysと提携",
+    "summary": "クラウド大手が環境懸念緩和、余剰GPU処分、自社AIチップ設計加速を図る",
+    "source": [
+      "/r/technology",
+      "/r/hardware",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Micron、YMTCを技術者引き抜きと特許技術盗用で提訴",
-    "summary": "Micron、中国YMTCが元従業員を引き抜き、技術を特許化、ドイツで差し止め命令取得と非難。",
+    "title": "データセンターが水・エネルギー消費を隠蔽、GoogleとAlibabaは宇宙立地を検討",
+    "summary": "調査でリソース使用の不透明さ判明、大手テックが軌道上やスペインなど新キャンパス候補を模索",
     "source": [
-      "/r/hardware",
-      "tomshardware.com"
+      "/r/technology",
+      "thenextweb.com",
+      "xataka.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Amazon、全Kindleラインアップ刷新、新デザインと欧州規制対応の交換可能バッテリー搭載",
-    "summary": "新Kindleは隆起ベゼル廃止、軽量・小型化、欧州法準拠で着脱式バッテリー採用。",
-    "source": [
-      "xataka.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "MODでDLSS 4.5をRadeon RX 9000に移植、RDNA 4ネイティブFP8形式を活用",
-    "summary": "開発者がNVIDIAのアップスケーリング技術を最新AMD Radeonに適応、有望な結果。",
+    "title": "RTX 5070がSteamで最も使用されるGPUに、4090を超える",
+    "summary": "最新Steamハードウェア調査でNvidiaミドルレンジが支配的、32GB RAM搭載システムが32%",
     "source": [
       "hardzone.es",
       "videocardz.com"
@@ -113,29 +141,101 @@
     "count": 2
   },
   {
-    "title": "NVIDIA、物理的に暴走AIエージェントを封じ込めるセキュリティプラットフォーム発表",
-    "summary": "Open Agent Safety Platform、物理的制約により自律エージェントの危険な行動を防止目指す。",
+    "title": "ParamountとWarner Bros DiscoveryがSkydanceブランドで合併",
+    "summary": "ストリーミングとスタジオの巨大企業誕生、組合とクリエイターが雇用喪失懸念で反対強める",
     "source": [
-      "tomshardware.com",
-      "alternativeto.net"
+      "/r/technology",
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "AIエージェントが企業内部スクリーンショット1.3万枚以上をクラウドアップロードで流出",
-    "summary": "セキュリティスタートアップが発見、企業用AIアシスタントがスクリーンショットを公開サーバーに保存し機密データ露出。",
+    "title": "Apple、macOSのフルディスクアクセスを厳格化、AIエージェントのリスク懸念で",
+    "summary": "自律エージェントが機密データアクセス可能と警告、システムのプライバシー制御を強化",
     "source": [
-      "the-decoder.com",
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Micron、価格高騰でコンシューマー向けメモリ利益率88%達成",
+    "summary": "DRAMとNAND値上がりで利益急増、AI需要が供給を圧迫",
+    "source": [
+      "/r/technology",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Intel Panther Lake搭載ミニPC、AirJet固体冷却で21dBA以下の静音動作実現",
-    "summary": "初のPanther Lake搭載ミニPC、ファンレス固体冷却採用で極限の静音性と高性能を両立。",
+    "title": "ローマ教皇レオ14世、AI生成アートを批判し人間アーティストとの連携呼びかけ",
+    "summary": "教皇がアルゴリズム創造性が芸術労働の尊厳を脅かすと警告、人間の著作権保護を要請",
+    "source": [
+      "thenextweb.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ユーザー報告、RTX 4090 Founders Editionのヒートシンクが数年で脱落",
+    "summary": "複数の所有者が冷却システムの製造欠陥報告、GPUが過熱リスクに晒される",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ホワイトハウス、AIを「超知能」と改称、テック幹部への忠誠テストとして",
+    "summary": "トランプ主導の用語変更で産業を政府のAI覇権アジェンダに整列狙う",
+    "source": [
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GeelyがBYDを抜き、EV最速充電の無意味な競争で首位",
+    "summary": "中国メーカーが5分充電記録競うも、専門家はインフラ未対応と警告",
+    "source": [
+      "xataka.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "カリフォルニアの幹部逮捕、Nvidia AIサーバーを中国に密輸し3億ドル",
+    "summary": "検察、CEOがマレーシアとシンガポールのダミー企業で米輸出規制回避と起訴",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "PewDiePie、検閲なしAIモデル「Ajax」を家庭用PC向けに公開",
+    "summary": "YouTuberがChatGPT代替を発表、OpenAIからモデル蒸留で2度BANされた経緯",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "FLUX 3 Image、ステップごとの編集と4K出力を実現、他部分を変更せず",
+    "summary": "Black Forest Labs新モデル、精密なローカル編集と高解像度生成でクリエイターに訴求",
+    "source": [
+      "alternativeto.net",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI、自社アクセラレーター「Jalapeño」をAMD EPYC Turinと展開、Nvidiaを見限る",
+    "summary": "スタートアップが推論用独自シリコン公開、ハードウェアインフラ戦略の転換点に",
     "source": [
       "tomshardware.com",
-      "videocardz.com"
+      "/r/hardware"
     ],
     "count": 2
   }
