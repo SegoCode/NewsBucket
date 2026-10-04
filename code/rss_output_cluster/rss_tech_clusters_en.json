@@ -1,241 +1,70 @@
 [
   {
-    "title": "Micro Center requires ID and non-export commitment to buy an RTX 5090",
-    "summary": "The retail chain restricts sales of the most powerful GPU to prevent its diversion to China, requiring identification and a usage declaration.",
+    "title": "Nvidia Shield TV Pro price rises 50% seven years after launch due to AI memory shortage",
+    "summary": "The veteran streaming device sees its price go from $199 to $299 due to growing demand for memory chips driven by artificial intelligence.",
     "source": [
       "/r/technology",
-      "tomshardware.com",
       "elchapuzasinformatico.com",
+      "wired.com",
+      "tomshardware.com",
       "videocardz.com"
     ],
-    "count": 4
+    "count": 5
   },
   {
-    "title": "Sony integrates AI upscaling QSSR into PS5 and launches revised model that delays PS6",
-    "summary": "The firmware update and new hardware improve image quality on the base console, a sign that the next generation will take longer.",
+    "title": "OpenAI safety researchers resign en masse warning of broken culture and demand nuclear-style regulation",
+    "summary": "Several key employees leave the company alleging that safety is sacrificed for speed and demand that AI labs be managed like nuclear facilities.",
     "source": [
-      "tomshardware.com",
-      "xataka.com",
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Federal judge declares Flock mass surveillance unconstitutional and Sanders proposes banning its government use",
-    "summary": "A court ruling classifies the Flock camera network as indiscriminate surveillance, and the Senate pushes a law to veto its federal use.",
-    "source": [
-      "/r/technology",
+      "thenextweb.com",
       "techcrunch.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Toshiba doubles its hard drive production capacity for AI data centers",
-    "summary": "The manufacturer will invest 380 million to reach 65 TB and 100 TB per drive before 2030 amid critical shortage.",
-    "source": [
       "/r/technology",
-      "/r/hardware",
-      "tomshardware.com"
+      "the-decoder.com"
     ],
-    "count": 3
+    "count": 4
   },
   {
-    "title": "Nvidia launches 64 GB DGX Spark at higher price than 128 GB model due to memory crisis",
-    "summary": "The new workstation for local AI halves memory but raises cost, reflecting RAM price hikes.",
+    "title": "AMD developed a Ryzen 9 5900X3D with 128 MB of L3 cache that never reached the market",
+    "summary": "An engineering sample reveals AMD created a Zen 3 processor with double the 3D V-Cache of the 5800X3D, but decided not to commercialize it.",
     "source": [
-      "/r/hardware",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Buying a used Ryzen 7 5800X3D can lead to game bans due to previous owner's history",
-    "summary": "Users report bans in Valorant and other titles when purchasing second-hand processors linked to sanctioned accounts.",
-    "source": [
-      "videocardz.com",
       "elchapuzasinformatico.com",
+      "tomshardware.com",
       "/r/hardware"
     ],
     "count": 3
   },
   {
-    "title": "Tesla cuts deliveries 2% in Q3 but beats analyst expectations",
-    "summary": "The year-over-year sales decline slows thanks to updated models, though Cybertruck shows signs of slowdown.",
-    "source": [
-      "/r/technology",
-      "thenextweb.com",
-      "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "OpenAI fires three safety researchers for mishandling sensitive information",
-    "summary": "The departure of alignment experts raises alarm about safety priority versus product launches.",
-    "source": [
-      "/r/technology",
-      "the-decoder.com",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Raspberry Pi raises prices again up to 23% due to RAM price hikes",
-    "summary": "The 2 GB and 4 GB models increase by $12.50, affecting low-cost and educational projects.",
+    "title": "Steam breaks records with $1.7 billion in September 2026 despite hardware price increases",
+    "summary": "Valve's platform reaches historic revenue and approaches 21,000 annual releases, on track to surpass $20 billion annually.",
     "source": [
       "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Intel Nova Lake leaks reveal up to 28 cores and 144 MB L3 cache for 2026",
-    "summary": "The Core Ultra 4000 series will include three 'BFC' chips aimed at gaming and servers, with hybrid architecture and new socket.",
-    "source": [
-      "tomshardware.com",
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AMD prepares Ryzen Z3 and Ryzen 9 5900X3D for handheld consoles and PS6 with more GPU and cache",
-    "summary": "The new SoCs reduce CPU cores in favor of RDNA 4 graphics, while an engineering sample shows 128 MB of L3 cache.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Amazon faces criticism over data center plan, sells Nvidia chips to investors and signs deal with Synopsys",
-    "summary": "The cloud giant tries to mitigate environmental backlash, offload excess GPUs, and accelerate design of its own AI chips.",
-    "source": [
-      "/r/technology",
-      "/r/hardware",
-      "tomshardware.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Data centers hide their water and energy consumption while Google and Alibaba explore space locations",
-    "summary": "Investigations reveal opacity in resource usage, and big tech firms seek alternatives like orbit or Spain for new campuses.",
-    "source": [
-      "/r/technology",
-      "thenextweb.com",
-      "xataka.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "RTX 5070 becomes most used graphics card on Steam surpassing 4090",
-    "summary": "The latest Steam hardware survey shows Nvidia's mid-range now dominates the platform with 32% of systems having 32 GB of RAM.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Paramount and Warner Bros Discovery merge under Skydance brand",
-    "summary": "The combination creates a streaming and studio giant, while union and creative opposition grows over job losses.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple tightens full disk access in macOS due to AI agent risks",
-    "summary": "The company warns that autonomous agents can access sensitive data and strengthens privacy controls in the system.",
-    "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Micron achieves 88% margin in consumer memory after price surge",
-    "summary": "Rising DRAM and NAND prices boost manufacturer profits while AI demand strains supply.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Pope Leo XIV criticizes AI-generated art and calls for alliance with human artists",
-    "summary": "The pontiff warns that algorithmic creativity threatens the dignity of artistic work and calls to protect human authorship.",
-    "source": [
-      "thenextweb.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Users report RTX 4090 Founders Edition heatsink detaching after years of use",
-    "summary": "Several owners report factory defects in the cooling system leaving the GPU exposed to overheating.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "White House rebrands AI as 'superintelligence' in loyalty test for tech executives",
-    "summary": "The terminology change driven by Trump seeks to align the industry with the government's AI dominance agenda.",
-    "source": [
-      "techcrunch.com",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Geely beats BYD in absurd race for fastest electric car charging",
-    "summary": "Chinese manufacturers compete for 5-minute charging records, though experts warn infrastructure can't support it.",
-    "source": [
-      "xataka.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "California executive arrested for smuggling Nvidia AI servers to China for $300 million",
-    "summary": "Prosecutors accuse CEO of using shell companies in Malaysia and Singapore to evade U.S. export restrictions.",
+    "title": "Federal judge declares Flock license plate reader mass surveillance unconstitutional",
+    "summary": "A court labels the system 'indiscriminate surveillance' as AOC and Bernie Sanders introduce a bill to ban license plate readers.",
     "source": [
-      "/r/technology",
+      "techcrunch.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Connectors on a $5,245 prebuilt RTX 5090 melt after a year in the box",
+    "summary": "A user discovers the 12VHPWR connectors on their high-end graphics card have melted without ever being used, reigniting debate over the power standard.",
+    "source": [
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "PewDiePie launches Ajax, an 'uncensored' AI model to run on home PCs",
-    "summary": "The YouTuber presents his ChatGPT alternative after being banned twice by OpenAI for model distillation.",
+    "title": "Amazon fills Aragon with data centers but pays taxes in Madrid, sparking revolt from affected municipalities",
+    "summary": "El Burgo de Ebro and Villanueva de Gállego denounce that the company does not pay taxes locally despite enormous resource consumption, while Amazon promises 1 billion for nearby communities.",
     "source": [
-      "/r/technology",
+      "xataka.com",
       "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "FLUX 3 Image enables step-by-step editing and 4K output without altering rest of image",
-    "summary": "The new Black Forest Labs model stands out for its precise local editing and high-resolution generation for creators.",
-    "source": [
-      "alternativeto.net",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI deploys its Jalapeño accelerators alongside AMD EPYC Turin CPUs, dropping Nvidia",
-    "summary": "The startup reveals its own silicon for inference, marking a strategic shift in its hardware infrastructure.",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware"
     ],
     "count": 2
   }
