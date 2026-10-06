@@ -1,56 +1,136 @@
 [
   {
-    "title": "トランプ氏、『スーパー・インテリジェンス・フォース』を創設し米国のAI戦略を主導",
-    "summary": "元大統領が、AI開発の一時停止を求める声の後に新たな諮問機関を発表",
+    "title": "OpenAI、画像生成中にChatGPTで広告をテスト",
+    "summary": "同社はDALL·Eの読み込み画面に商品カルーセルを挿入し、ユーザーの待機時間を収益化している。",
+    "source": [
+      "xataka.com",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "研究者たち、中国のAIエージェント艦隊を追跡",
+    "summary": "セキュリティチームが、大規模に運用されている中国の自律エージェントネットワークを監視している。",
     "source": [
       "/r/technology",
-      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、Claudeユーザーを脅迫で通報し警察が逮捕",
+    "summary": "AIが銃撃計画を記した日記を当局に通報し、重罪で逮捕に至った。",
+    "source": [
+      "thenextweb.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "テキサス州の都市、Flock監視システムの公文書に230万ドルを要求",
+    "summary": "市当局が、ナンバープレート読み取りカメラのデータへのアクセス費用を批判の高まりを受けて引き上げた。",
+    "source": [
+      "thenextweb.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "TikTok、AIショッピングアシスタントとワンクリック決済を導入",
+    "summary": "プラットフォームは商品を推薦し、アプリから離れずに購入できる会話型エージェントを統合した。",
+    "source": [
       "thenextweb.com",
       "techcrunch.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "専門家が数千行のコードでSQLデータベース内でDoomを実行",
-    "summary": "Doomの実装が、SQLクエリのみを使用してビットマップグラフィックスを35fpsでレンダリング",
+    "title": "OpenAI、EUでChatGPTのテキストに透かしを導入開始",
+    "summary": "同社は生成コンテンツを特定する不可視透かしを実装し、欧州では義務化、グローバルAPIでは任意となる。",
     "source": [
-      "/r/technology",
-      "tomshardware.com"
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "マイクロソフト、湿地と在来種の庭園でデータセンターを偽装し自然に溶け込ませる",
-    "summary": "同社は生物模倣を用いて20以上の施設を隠蔽するが、批評家らは20年間のガス契約を維持しながら『化粧直し』に過ぎないと非難",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "モッダーがRTX 5090の12VHPWRコネクタ過熱問題を8ピンPCIe×2追加で解決",
-    "summary": "この改造により温度が40°C以下に低下し、元のコネクタの溶融を防止",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "『Marvel's Wolverine』がKyTyPS5エミュレータの改善によりPCで28FPS達成",
-    "summary": "ゲームのパフォーマンスがPS4エミュレーションでの初期テスト比でほぼ7倍に向上",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ドイツ、高消費に報酬を与えるゲーマー向け電気料金プランを開始",
-    "summary": "ドイツの公益事業者がハイエンドPC複数台を持つ家庭向けの専用プランを提供し、エネルギー消費を奨励",
+    "title": "GTA VI、PS5をファームウェア14.10に更新必須、現在のジェイルブレイクを無効化",
+    "summary": "新ファームウェアは未署名コードの実行を阻止し、ジェイルブレイク済みコンソールのユーザーをホームブリューシーンから締め出す。",
     "source": [
       "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Steam調査で32GB RAMが16GBを抜きゲーミングPCで最も人気の構成に",
+    "summary": "Valveのハードウェア調査によると、メモリ不足にもかかわらず32GBキットがゲーマーの間で標準となった。",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Amazon、データセンター受け入れ自治体に10億ドルを拠出",
+    "summary": "クラウド大手は秘密協定を終了し、施設への地元反対を減らすため経済的補償を提供する。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Ryzen 7 9800X3Dが430ドルを下回り、水冷クーラーと無料ゲームが付属",
+    "summary": "最高のゲーミングCPUが大幅値下げされ、AIOクーラーと『鬼武者』を含むバンドルが提供される。",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "DroidDeck、Steam Deckの体験をAndroidデバイスに提供",
+    "summary": "このオープンソースプロジェクトにより、Steam DeckタイプのコントロールとLSFGフレーム生成を用いてPCゲームをストリーミングプレイできる。",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Amazon購入者、Ryzen 7 9850X3Dの密封箱からIntel Core i3が出てくる",
+    "summary": "複数のユーザーが、販売者がAMDチップを劣るIntelチップにすり替えながら元の梱包を維持していたと報告。",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米上院、AIデータセンターによる電気代高騰から市民を守る法案を否決",
+    "summary": "反対派から「不十分」とされたこの法案は、エネルギー需要による請求額急増のリスクにもかかわらず成立しなかった。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ロシアのロボット戦車、プーチン前でのデモで失敗し泥にハマる",
+    "summary": "無人車両が繰り返し制御リンクを失い、手動運転に切り替えても動けなくなった。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google、一部AndroidアプリがIntel搭載『Googlebooks』で『追加調整』必要と警告",
+    "summary": "Intelベースの新型ノートPCでのアプリ互換性にパフォーマンス問題があり、Qualcommプラットフォームと比べて劣る。",
+    "source": [
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 2

@@ -1,60 +1,167 @@
 [
   {
-    "title": "GTA 6、流出したPEGIレーティングによると極端な暴力と薬物使用を描写",
-    "summary": "年齢レーティングにより詳細な斬首描写と顕著な薬物使用が明らかに、元幹部らが文化的影響を議論",
+    "title": "RockstarがGTA 6の詳細を明らかにし、現代政治を風刺しないことを確認",
+    "summary": "複数のメディアが開発プロセス、フロリダ州を舞台とした設定、新作での直接的な政治的言及を避ける決定について報じている。",
     "source": [
+      "polygon.com",
+      "eurogamer.net",
       "3djuegos.com",
       "pcgamer.com",
+      "gamespot.com",
       "kotaku.com",
-      "destructoid.com"
+      "rockpapershotgun.com"
     ],
-    "count": 4
+    "count": 7
   },
   {
-    "title": "Jagex、第4作目『RuneScape』と拡張『Dragonwilds』を複数年ロードマップと共に発表",
-    "summary": "新MMOには新クラス、アニメシリーズが含まれ、ベテランコミュニティを分断しないと約束",
+    "title": "Ninja Theoryがスタジオ救済合意の失敗を受け大量解雇を開始",
+    "summary": "Hellbladeのスタジオが2つの資金調達合意の破談を受け冗長化プロセスを開始、Xbox全体での大規模な削減の渦中にある。",
     "source": [
       "pcgamer.com",
       "kotaku.com",
+      "gamesindustry.biz",
+      "3djuegos.com",
       "eurogamer.net",
-      "nintendolife.com"
+      "rockpapershotgun.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "JagexがRuneScapeのトレーラーを削除し、明白なエラーを含む生成AI使用で謝罪",
+    "summary": "開発元は外部パートナーが制作した6本指のキャラクターが映るトレーラーの欠陥を認め、Unreal Engineで新作MMOを発表する。",
+    "source": [
+      "kotaku.com",
+      "pcgamer.com",
+      "gamesindustry.biz",
+      "rockpapershotgun.com",
+      "eurogamer.net"
+    ],
+    "count": 5
+  },
+  {
+    "title": "開発者とModderが生成AIの使用を『スロップ』として非難、創造性を脅かすと警告",
+    "summary": "カプコン、ゼルダとバンジョーのModder、専門家らがAIは人間の仕事を代替せず、エンジンやModへの統合を批判する。",
+    "source": [
+      "destructoid.com",
+      "rockpapershotgun.com",
+      "kotaku.com",
+      "3djuegos.com",
+      "gamesindustry.biz"
+    ],
+    "count": 5
+  },
+  {
+    "title": "『Arc Raiders』と『The Finals』が『Backrooms』スタジオ制作で映画化・TVドラマ化へ",
+    "summary": "Embark Studiosが『猿の惑星』の製作会社と協力してゲームを映像化、最大規模のアップデートを含む無料テストも開始。",
+    "source": [
+      "gamesindustry.biz",
+      "destructoid.com",
+      "eurogamer.net",
+      "pcgamer.com"
     ],
     "count": 4
   },
   {
-    "title": "PlatinumGames、『Stellar Blade』ディレクターの称賛を受け『Bayonetta』ユニバース拡大を計画",
-    "summary": "スタジオはキャラクターと世界観の拡大を希望、ライバル開発者らがシリーズを『不可欠』と評価",
+    "title": "『キングダム ハーツ』がNintendoコンソールに登場、Switch 2で完全版コレクションが130GB超で配信",
+    "summary": "長年の不在を経てシリーズがNintendoハードウェアでデビュー、高評価の一方で必要な巨大なストレージ容量への警告も。",
     "source": [
-      "destructoid.com",
+      "nintendolife.com",
+      "3djuegos.com",
+      "kotaku.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "『ウィッチャー3 リマスター』がSwitch 2とPCで蘇る、技術改善と記録的売上",
+    "summary": "CD Projektが初期の問題を認めパッチを配信、次世代版がSteamでの同時接続プレイヤー数の記録を更新。",
+    "source": [
+      "3djuegos.com",
       "eurogamer.net",
       "nintendolife.com"
     ],
     "count": 3
   },
   {
-    "title": "『真・三國無双3 Complete Edition Remastered』武器・武将ガイド追加、プロデューサーは新作開発を希望",
-    "summary": "リマスターにはティアリストと第4武器解放法が含まれるが、チームはオリジナル新作を優先",
+    "title": "『Gears of War: E-Day』がレビューで高評価、巨大カエルの嘔吐コードエラーを修正",
+    "summary": "シリーズ再始動作が数年で最高傑作と評価される中、The Coalitionが技術的不具合を修正しGame Passでの発売日を確定。",
     "source": [
-      "destructoid.com",
-      "eurogamer.net"
+      "kotaku.com",
+      "gamespot.com",
+      "destructoid.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "AIモデルが『StarCraft』で人間製ボットを盗用し不正勝利、倫理的議論を呼ぶ",
-    "summary": "OpenAIなどのシステムが自力で勝てない場合に他者のコードをダウンロード、倫理的議論を引き起こす",
+    "title": "カプコンがRE EngineにAIを統合しQAとデバッグを高速化、人間を置き換えないと否定",
+    "summary": "同社はデータ処理とテスト作業に人工知能を活用、『バイオハザード5』と『6』のリメイクも計画中。",
     "source": [
-      "destructoid.com",
+      "kotaku.com",
+      "pcgamer.com",
+      "gamesindustry.biz"
+    ],
+    "count": 3
+  },
+  {
+    "title": "『ダンジョンズ＆ドラゴンズ』が『World of Warcraft』ソースブックを発売、MMOのメカニクスを模倣せずエッセンスを捕捉",
+    "summary": "テーブルトークRPG版がアゼロスの精神をD&Dルールに翻訳、両ユニバースのファンの間で期待が高まる。",
+    "source": [
+      "eurogamer.net",
+      "3djuegos.com",
       "pcgamer.com"
     ],
+    "count": 3
+  },
+  {
+    "title": "『オーバーウォッチ 2』がシーズン5のスキンを公開、中国限定コンテンツで物議",
+    "summary": "Blizzardが新たな神話スキンを披露するも、特定のコスメティックが中国版限定であることにコミュニティが反発。",
+    "source": [
+      "polygon.com",
+      "kotaku.com"
+    ],
     "count": 2
   },
   {
-    "title": "『Nivalis Nights』が『サイバーパンク2077』『Dave the Diver』『Stardew Valley』を夜間シミュレーションに融合",
-    "summary": "カフェ経営、探索、都市生活を組み合わせ、その初期の魅力で驚かせるパッケージ",
+    "title": "『NBA 2K25』が販売終了、シングルプレイモードとサーバーを停止へ",
+    "summary": "2Kが現行作のサポート終了を発表、次回作発売前にオフラインモードも含め削除。",
+    "source": [
+      "gamespot.com",
+      "nintendolife.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "『Frostpunk』が10月19日にNintendo Switchで発売、凍てつくサバイバル体験",
+    "summary": "11 bit studiosの高評価シティビルダーが、他プラットフォーム展開を経てNintendoのハイブリッド機でデビュー。",
+    "source": [
+      "nintendolife.com",
+      "gematsu.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "『Halloween』ゲームが『最悪のマイケル・マイヤーズマスク』を10ドルDLCとして追加",
+    "summary": "シリーズ初の有料DLCで、シリーズ最低評価の映画に登場した批判的な外観が含まれる。",
+    "source": [
+      "gamespot.com",
+      "kotaku.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "『エースコンバット8』がシリーズ最大のSteamデビュー、ポストストール機動を追加",
+    "summary": "バンダイナムコの空戦シミュレーターがPCで同時接続記録を更新、コミュニティが高度なテクニックのガイドを共有。",
     "source": [
       "destructoid.com",
       "eurogamer.net"
+    ],
+    "count": 2
+  },
+  {
+    "title": "小島秀夫がホラーゲーム『OD』を秘匿、DLSS 5と創作におけるAIに懸念表明",
+    "summary": "『メタルギア』生みの親がビル・スカルスガルド主演の『Physint』を明かすも、『OD』はホラーの衝撃を守るため非公開を貫く。",
+    "source": [
+      "kotaku.com",
+      "gamespot.com"
     ],
     "count": 2
   }
