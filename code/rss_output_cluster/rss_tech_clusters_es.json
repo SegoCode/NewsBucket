@@ -1,56 +1,136 @@
 [
   {
-    "title": "Trump crea la 'Super Intelligence Force' para liderar la estrategia de IA en EE. UU.",
-    "summary": "El expresidente anuncia un nuevo organismo asesor tras las peticiones de frenar el desarrollo de la inteligencia artificial.",
+    "title": "OpenAI prueba anuncios en ChatGPT mientras se generan imágenes",
+    "summary": "La empresa inserta carruseles de productos en la pantalla de carga de DALL·E, monetizando el tiempo de espera de los usuarios.",
+    "source": [
+      "xataka.com",
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Investigadores rastrean una flota de agentes de IA china",
+    "summary": "Equipos de seguridad monitorizan una red de agentes autónomos chinos que operan a gran escala.",
     "source": [
       "/r/technology",
-      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic denuncia a una usuaria de Claude por amenazas y la policía la detiene",
+    "summary": "La IA alertó a las autoridades sobre un diario con planes de tiroteo, lo que llevó a un arresto por delito grave.",
+    "source": [
+      "thenextweb.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Una ciudad de Texas exige 2,3 millones de dólares por registros públicos del sistema de vigilancia Flock",
+    "summary": "El ayuntamiento eleva el coste de acceder a los datos de las cámaras de lectura de matrículas tras crecer las críticas.",
+    "source": [
+      "thenextweb.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "TikTok lanza un asistente de compras con IA y pago en un clic",
+    "summary": "La plataforma integra un agente conversacional que recomienda productos y permite comprarlas sin salir de la app.",
+    "source": [
       "thenextweb.com",
       "techcrunch.com"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Un experto ejecuta Doom dentro de una base de datos SQL con miles de líneas de código",
-    "summary": "Una implementación de Doom renderiza gráficos bitmapped a 35 fps usando únicamente consultas SQL.",
+    "title": "OpenAI empezará a marcar con agua el texto de ChatGPT en la UE",
+    "summary": "La compañía implementa una marca de agua invisible para identificar contenido generado, obligatoria en Europa y opcional en la API global.",
     "source": [
-      "/r/technology",
-      "tomshardware.com"
+      "techcrunch.com",
+      "the-decoder.com"
     ],
     "count": 2
   },
   {
-    "title": "Microsoft camufla sus centros de datos con humedales y jardines nativos para integrarlos en la naturaleza",
-    "summary": "La empresa usa biomímesis para ocultar más de 20 instalaciones, aunque críticos denuncian que es 'pintar la cara' mientras mantiene un acuerdo de gas a 20 años.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Un modder soluciona el sobrecalentamiento del conector 12VHPWR de la RTX 5090 añadiendo dos PCIe de 8 pines",
-    "summary": "La modificación reduce la temperatura por debajo de 40 °C y evita el derretimiento del conector original.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Marvel's Wolverine alcanza 28 FPS en PC gracias a mejoras en el emulador KyTyPS5",
-    "summary": "El rendimiento del juego se multiplica casi siete veces respecto a las primeras pruebas en emulación de PS4.",
-    "source": [
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Alemania lanza una tarifa eléctrica para gamers con recompensas por alto consumo",
-    "summary": "Una utility alemana ofrece un plan específico para hogares con múltiples PC de gama alta, incentivando el gasto energético.",
+    "title": "GTA VI obligará a actualizar la PS5 al firmware 14.10, rompiendo el jailbreak actual",
+    "summary": "El nuevo firmware impedirá la ejecución de código no firmado, dejando sin acceso a la escena homebrew a los usuarios con consolas liberadas.",
     "source": [
       "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "32 GB de RAM superan a 16 GB como configuración más popular en PCs para gaming según Steam",
+    "summary": "La encuesta de hardware de Valve muestra que los kits de 32 GB son ya la norma entre los jugadores, pese a la escasez de memoria.",
+    "source": [
+      "hardzone.es",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Amazon destina 1.000 millones de dólares a municipios que acepten sus centros de datos",
+    "summary": "El gigante cloud pone fin a acuerdos secretos y ofrece compensaciones económicas para reducir la oposición local a sus instalaciones.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El Ryzen 7 9800X3D baja de 430 dólares e incluye refrigeración líquida y juego gratis",
+    "summary": "La mejor CPU para gaming recibe un descuento agresivo y un paquete de regalo que incluye un AIO y Onimusha.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "DroidDeck lleva la experiencia de Steam Deck a dispositivos Android",
+    "summary": "El proyecto de código abierto permite usar controles tipo Steam Deck y generación de frames LSFG en juegos de PC vía streaming.",
+    "source": [
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Compradores de Amazon reciben procesadores Intel Core i3 en cajas selladas de Ryzen 7 9850X3D",
+    "summary": "Varios usuarios denuncian que el vendedor sustituyó el chip AMD por uno Intel inferior manteniendo el embalaje original.",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El Senado de EE. UU. rechaza un proyecto para proteger a los ciudadanos del alza eléctrica por centros de datos de IA",
+    "summary": "La ley, calificada de «insuficiente» por sus opositores, no logró avanzar pese al riesgo de facturas disparadas por la demanda energética.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El tanque robot ruso falla en su exhibición ante Putin y queda atascado en el barro",
+    "summary": "El vehículo no tripulado perdió repetidamente el enlace de control y terminó inmovilizado pese a cambiar a conducción manual.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google advierte que algunas apps Android necesitan «ajuste extra» en los Intel Googlebooks",
+    "summary": "La compatibilidad de aplicaciones en los nuevos portátiles basados en Intel presenta problemas de rendimiento frente a plataformas Qualcomm.",
+    "source": [
+      "videocardz.com",
       "tomshardware.com"
     ],
     "count": 2
