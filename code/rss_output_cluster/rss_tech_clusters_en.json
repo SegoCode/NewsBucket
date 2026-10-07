@@ -1,98 +1,96 @@
 [
   {
-    "title": "OpenAI tests ads in ChatGPT while images are generated",
-    "summary": "The company inserts product carousels on the DALL·E loading screen, monetizing users' wait time.",
+    "title": "GameStop sells used PS5 Pros for $1,399-1,499, 50% above official price",
+    "summary": "The chain leverages GTA 6 hype to inflate prices of refurbished consoles well above Sony's MSRP.",
+    "source": [
+      "/r/technology",
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Mistral launches its open 'Le Chonk' model with 1 trillion parameters to rival China and the U.S.",
+    "summary": "The European startup unveils Mistral Large 4 and Le Chonk, claiming to surpass closed models and kick off a new sovereign AI race.",
     "source": [
       "xataka.com",
       "techcrunch.com",
-      "the-decoder.com"
+      "the-decoder.com",
+      "wired.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "AMD readies EPYC 'Verano' with 72 Zen 6 cores and Radeon RX 9070 GRE below its MSRP",
+    "summary": "AMD's new generation of servers and graphics cards aims to dominate AI and gaming with aggressive pricing and new SB1 socket.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com",
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Wikimedia reports OpenAI agents attempted to edit Wikipedia and compromise its tools",
+    "summary": "OpenAI bots massively accessed Wikimedia infrastructure, attempting to modify articles and use internal tools as proxies.",
+    "source": [
+      "the-decoder.com",
+      "/r/technology",
+      "thehackernews.com"
     ],
     "count": 3
   },
   {
-    "title": "Researchers track a fleet of Chinese AI agents",
-    "summary": "Security teams monitor a network of Chinese autonomous agents operating at scale.",
+    "title": "GTA V arrives in web browser: playable without installation via unofficial port",
+    "summary": "A developer manages to run the full game in the browser using WebAssembly and WebGPU, though it was quickly taken down.",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic reports a Claude user for threats and police arrest her",
-    "summary": "The AI alerted authorities about a journal with shooting plans, leading to a felony arrest.",
-    "source": [
-      "thenextweb.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "A Texas city demands $2.3 million for public records of Flock surveillance system",
-    "summary": "The city council raises the cost of accessing license plate reader camera data amid growing criticism.",
-    "source": [
-      "thenextweb.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "TikTok launches AI shopping assistant with one-click checkout",
-    "summary": "The platform integrates a conversational agent that recommends products and allows purchasing them without leaving the app.",
-    "source": [
-      "thenextweb.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAI will start watermarking ChatGPT text in the EU",
-    "summary": "The company implements an invisible watermark to identify generated content, mandatory in Europe and optional in the global API.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GTA VI will force PS5 update to firmware 14.10, breaking current jailbreak",
-    "summary": "The new firmware will prevent execution of unsigned code, leaving users with jailbroken consoles without access to the homebrew scene.",
-    "source": [
+      "tomshardware.com",
       "elchapuzasinformatico.com",
       "videocardz.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "32 GB RAM surpasses 16 GB as most popular configuration in gaming PCs according to Steam",
-    "summary": "Valve's hardware survey shows 32 GB kits are now the norm among gamers, despite memory shortages.",
-    "source": [
-      "hardzone.es",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Amazon allocates $1 billion to municipalities that accept its data centers",
-    "summary": "The cloud giant ends secret deals and offers financial compensation to reduce local opposition to its facilities.",
+    "title": "Apple partners with LG to launch smart locks, thermostats, and doorbells",
+    "summary": "Apple and LG collaborate on smart home devices that will integrate with HomeKit and Matter.",
     "source": [
       "/r/technology",
-      "tomshardware.com"
+      "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "Ryzen 7 9800X3D drops below $430 and includes liquid cooling and free game",
-    "summary": "The best gaming CPU gets an aggressive discount and a gift bundle including an AIO and Onimusha.",
+    "title": "OpenAI angers mathematicians again with new AI results",
+    "summary": "Mass publication of AI-solved problems sparks controversy in the mathematical community over its impact on research.",
     "source": [
-      "videocardz.com",
-      "tomshardware.com"
+      "/r/technology",
+      "wired.com"
     ],
     "count": 2
   },
   {
-    "title": "DroidDeck brings Steam Deck experience to Android devices",
-    "summary": "The open-source project enables Steam Deck-style controls and LSFG frame generation in PC games via streaming.",
+    "title": "Google launches EmbeddingGemma 2, an open multimodal embeddings model for devices",
+    "summary": "The new model outperforms rivals twice its size and is optimized to run locally without cloud.",
+    "source": [
+      "the-decoder.com",
+      "thenextweb.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Hark unveils privacy-focused personal AI assistant, a year ahead of its devices",
+    "summary": "The startup launches an AI agent that processes data locally and promises not to send information to the cloud.",
+    "source": [
+      "techcrunch.com",
+      "thenextweb.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel confirms Core Ultra 4000 branding for its next-gen Nova Lake-S processors",
+    "summary": "Appearance in AIDA64 reveals official nomenclature for future desktop chips with hybrid architecture.",
     "source": [
       "/r/hardware",
       "videocardz.com"
@@ -100,38 +98,29 @@
     "count": 2
   },
   {
-    "title": "Amazon buyers receive Intel Core i3 processors in sealed Ryzen 7 9850X3D boxes",
-    "summary": "Several users report the seller swapped the AMD chip for an inferior Intel one while keeping the original packaging.",
+    "title": "Xbox Elite Series 3 to eliminate drift with Hall/TMR joysticks and add haptic feedback",
+    "summary": "Microsoft's new premium controller incorporates anti-drift technology and tactile feedback to compete with DualSense.",
     "source": [
-      "videocardz.com",
+      "elchapuzasinformatico.com",
       "hardzone.es"
     ],
     "count": 2
   },
   {
-    "title": "U.S. Senate rejects bill to protect citizens from electricity hikes due to AI data centers",
-    "summary": "The bill, deemed 'insufficient' by opponents, failed to advance despite risk of soaring bills from energy demand.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Russian robot tank fails during exhibition before Putin and gets stuck in mud",
-    "summary": "The unmanned vehicle repeatedly lost control link and ended up immobilized despite switching to manual control.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google warns some Android apps need 'extra tuning' on Intel Googlebooks",
-    "summary": "App compatibility on new Intel-based laptops shows performance issues compared to Qualcomm platforms.",
+    "title": "DLSS 5 Neural Rendering comes to classics like Doom, Duke Nukem, and Pong via mods",
+    "summary": "Enthusiasts apply NVIDIA's new upscaling technology to 90s games, dramatically improving their visual quality.",
     "source": [
       "videocardz.com",
       "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Apple restricts AI agents' access to private data in macOS via Full Disk Access changes",
+    "summary": "New security policies in macOS prevent AI agents from accessing sensitive files without explicit user consent.",
+    "source": [
+      "xataka.com",
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   }
