@@ -1,96 +1,123 @@
 [
   {
-    "title": "GameStopが中古PS5 Proを1,399〜1,499ドルで販売、公式価格より50%高く",
-    "summary": "同チェーンはGTA 6への期待を利用し、再生品コンソールの価格をソニーの希望小売価格より大幅に吊り上げている。",
+    "title": "MicrosoftとNVIDIA、RTX Sparkチップ搭載のSurface Laptop Ultraを2,599ドルから発売",
+    "summary": "新世代のAI PCはNVIDIAグラフィックスと刷新されたWindows 11を統合し、エージェンティックなワークロードに対応。",
     "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com",
       "tomshardware.com",
-      "videocardz.com"
+      "/r/hardware",
+      "thenextweb.com",
+      "hardzone.es",
+      "videocardz.com",
+      "elchapuzasinformatico.com",
+      "xataka.com",
+      "techcrunch.com"
     ],
-    "count": 4
+    "count": 8
   },
   {
-    "title": "Mistralが1兆パラメータのオープンモデル『Le Chonk』を発表、中国と米国に対抗",
-    "summary": "欧州のスタートアップがMistral Large 4とLe Chonkを発表、クローズドモデルを上回ると主張し、主権AIの新たな競争を開始。",
+    "title": "Microsoft、Xboxの危機を認めProject Helixで携帯型コンソールに注力",
+    "summary": "Xbox CEOが携帯型コンソールの開発を確認、部門は過去最低水準からの成長回復を目指す。",
     "source": [
-      "xataka.com",
-      "techcrunch.com",
+      "/r/technology",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ChatGPT、グラフ・ボタン・ミニアプリを備えた視覚的GPT-6インターフェースを導入",
+    "summary": "OpenAIはテキスト中心の出力から脱却し、グラフや統合ツールを生成するインタラクティブなUIを採用。",
+    "source": [
       "the-decoder.com",
+      "techcrunch.com",
       "wired.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "AMDがEPYC『Verano』を準備、72コアZen 6とRadeon RX 9070 GREをMSRP以下で提供",
-    "summary": "AMDの新世代サーバーとGPUは、積極的な価格設定と新ソケットSB1でAIとゲーミングの覇権を狙う。",
+    "title": "Samsung、AIメモリ需要の急増で四半期利益が9倍に",
+    "summary": "半導体部門はHBMチップ需要により800億ドルの利益を見込む。",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com",
+      "/r/technology",
       "/r/hardware"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Wikimediaが告発：OpenAIのエージェントがWikipedia編集とツール悪用を試みた",
-    "summary": "OpenAIのボットがWikimediaのインフラに大量アクセスし、記事の改変と内部ツールのプロキシ利用を試みた。",
+    "title": "『Bloodborne』、PS4発売から11年で非公式ネイティブ移植によりPCに登場",
+    "summary": "コミュニティがFromSoftwareのタイトルをエミュレーションなしで最新ハードウェア上で4K/90FPS動作させることに成功。",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Amazonプライム感謝祭が終了、テクノロジー製品最大57%オフで在庫切れ相次ぐ",
+    "summary": "セール最終日はSSD、ノートPC、モニター、Pixel 11 Proがスマホ部門の目玉として大幅値引き。",
+    "source": [
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google、SynthID検出ツールを公開：1,800億枚の画像・動画に不可視ウォーターマーク付与済み",
+    "summary": "このツールによりAI生成コンテンツを無料で特定可能、視覚的偽情報対策に貢献。",
     "source": [
       "the-decoder.com",
-      "/r/technology",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "GTA Vがウェブブラウザでプレイ可能に：非公式ポートでインストール不要",
-    "summary": "開発者がWebAssemblyとWebGPUを用いてフルゲームをブラウザで動作させることに成功したが、すぐに削除された。",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "AppleがLGと提携し、スマートロック、サーモスタット、ドアベルを発売",
-    "summary": "AppleとLGがスマートホームデバイスで協力、HomeKitとMatterに統合予定。",
-    "source": [
-      "/r/technology",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAIが再び数学者を激怒させる新たなAI成果を発表",
-    "summary": "AIが解いた問題の大量公開が、研究への影響を巡り数学コミュニティで物議を醸している。",
+    "title": "Sony、PlayStation Portalの新リビジョンを認証、120Hz OLED画面の噂",
+    "summary": "モデルCFI-Y2000とCFI-Y2105はリモートプレイデバイスのハードウェア更新を示唆。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Linux新技術CRAM、RAM上でメモリ圧縮を実現し読み取り性能452倍向上",
+    "summary": "この手法により圧縮データを揮発性メモリ上に直接保持し、性能低下なしで運用可能。",
     "source": [
       "/r/technology",
-      "wired.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "GoogleがEmbeddingGemma 2を発表、デバイス向けオープンなマルチモーダル埋め込みモデル",
-    "summary": "新モデルは2倍のサイズの競合を上回り、クラウド不要でローカル動作に最適化されている。",
+    "title": "SeagateとToshiba、TDKのHDDヘッド事業入札に参加、AIブームでデータセンター向けストレージ需要急増",
+    "summary": "データセンター向けストレージ需要の高まりで、HDDの重要コンポーネント価値が急騰。",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "攻撃者が3つのドメインレジストリを侵害、Googleなどの偽TLS証明書を発行",
+    "summary": ".gh、.sl、.asの脆弱性により、主要プラットフォームになりすますための不正証明書取得が可能に。",
+    "source": [
+      "thehackernews.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、検証済みセキュリティチーム向けにClaudeアクセスを拡大、安全制限を緩和",
+    "summary": "AIが制御された環境で脆弱性や悪意あるコードの分析を実行可能に。",
     "source": [
       "the-decoder.com",
-      "thenextweb.com"
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "Harkがプライバシー重視の個人AIアシスタントを発表、デバイス発売の1年前倒し",
-    "summary": "スタートアップがデータをローカル処理し、クラウドに送信しないAIエージェントをリリース。",
-    "source": [
-      "techcrunch.com",
-      "thenextweb.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intelが次世代Nova Lake-Sプロセッサの『Core Ultra 4000』ブランドを確認",
-    "summary": "AIDA64での登場により、ハイブリッドアーキテクチャ採用の将来デスクトップチップの公式命名法が判明。",
+    "title": "AMD、FSR 4をAPU、ゲーミングノートPC、携帯型コンソール向けに2026年末までに提供へ",
+    "summary": "新バージョンの空間アップスケーリングが統合デバイスやSteam Deck 2に対応し、パフォーマンス向上へ。",
     "source": [
       "/r/hardware",
       "videocardz.com"
@@ -98,28 +125,10 @@
     "count": 2
   },
   {
-    "title": "Xbox Elite Series 3がHall/TMRジョイスティックでドリフトを解消、ハプティックフィードバック追加",
-    "summary": "Microsoftの新プレミアムコントローラーは反ドリフト技術と触覚フィードバックを搭載し、DualSenseに対抗。",
+    "title": "AMD、2027年にチップ供給を大幅拡大へ、AI需要で生産能力が逼迫する中",
+    "summary": "同社はPC・ノートPC向けメモリを確保しつつ、データセンター向けアクセラレーターの生産能力拡大を進める。",
     "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DLSS 5ニューラルレンダリングがModによりDoom、Duke Nukem、Pongなどのクラシックに対応",
-    "summary": "愛好家がNVIDIAの新アップスケーリング技術を90年代のゲームに適用し、視覚品質を大幅に向上。",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AppleがmacOSのフルディスクアクセス変更により、AIエージェントのプライベートデータアクセスを制限",
-    "summary": "macOSの新セキュリティポリシーにより、ユーザーの明示的な同意なしにAIエージェントが機密ファイルにアクセスできなくなる。",
-    "source": [
-      "xataka.com",
+      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
     "count": 2

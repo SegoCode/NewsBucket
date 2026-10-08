@@ -1,96 +1,123 @@
 [
   {
-    "title": "GameStop sells used PS5 Pros for $1,399-1,499, 50% above official price",
-    "summary": "The chain leverages GTA 6 hype to inflate prices of refurbished consoles well above Sony's MSRP.",
+    "title": "Microsoft and NVIDIA launch Surface Laptop Ultra laptops with RTX Spark chip starting at $2,599",
+    "summary": "The new generation of AI PCs integrates NVIDIA graphics and revamped Windows 11 for agentic workloads.",
     "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com",
       "tomshardware.com",
-      "videocardz.com"
+      "/r/hardware",
+      "thenextweb.com",
+      "hardzone.es",
+      "videocardz.com",
+      "elchapuzasinformatico.com",
+      "xataka.com",
+      "techcrunch.com"
     ],
-    "count": 4
+    "count": 8
   },
   {
-    "title": "Mistral launches its open 'Le Chonk' model with 1 trillion parameters to rival China and the U.S.",
-    "summary": "The European startup unveils Mistral Large 4 and Le Chonk, claiming to surpass closed models and kick off a new sovereign AI race.",
+    "title": "Microsoft acknowledges Xbox crisis and bets on handheld consoles with Project Helix",
+    "summary": "Xbox CEO confirms development of a handheld console as the division seeks to recover growth after historic lows.",
     "source": [
-      "xataka.com",
-      "techcrunch.com",
+      "/r/technology",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ChatGPT debuts visual GPT-6 interface with charts, buttons, and interactive mini-apps",
+    "summary": "OpenAI abandons mostly-text output for an interactive UI that generates charts and integrated tools.",
+    "source": [
       "the-decoder.com",
+      "techcrunch.com",
       "wired.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "AMD readies EPYC 'Verano' with 72 Zen 6 cores and Radeon RX 9070 GRE below its MSRP",
-    "summary": "AMD's new generation of servers and graphics cards aims to dominate AI and gaming with aggressive pricing and new SB1 socket.",
+    "title": "Samsung multiplies quarterly profit by nine thanks to AI memory boom",
+    "summary": "Semiconductor division forecasts $80 billion profit driven by HBM chip demand.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com",
+      "/r/technology",
       "/r/hardware"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Wikimedia reports OpenAI agents attempted to edit Wikipedia and compromise its tools",
-    "summary": "OpenAI bots massively accessed Wikimedia infrastructure, attempting to modify articles and use internal tools as proxies.",
+    "title": "Bloodborne arrives on PC via unofficial native port eleven years after PS4 launch",
+    "summary": "Community manages to run FromSoftware game at 4K and 90 FPS on modern hardware without emulation.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Amazon closes its Prime Deal Days with discounts up to 57% on tech and sold-out stock",
+    "summary": "Campaign ends with aggressive deals on SSDs, laptops, monitors, and Pixel 11 Pro as mobile star.",
+    "source": [
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google releases SynthID detector: 180 billion images and videos already carry invisible watermark",
+    "summary": "Tool allows free identification of AI-generated content to combat visual misinformation.",
     "source": [
       "the-decoder.com",
-      "/r/technology",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "GTA V arrives in web browser: playable without installation via unofficial port",
-    "summary": "A developer manages to run the full game in the browser using WebAssembly and WebGPU, though it was quickly taken down.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Apple partners with LG to launch smart locks, thermostats, and doorbells",
-    "summary": "Apple and LG collaborate on smart home devices that will integrate with HomeKit and Matter.",
-    "source": [
-      "/r/technology",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI angers mathematicians again with new AI results",
-    "summary": "Mass publication of AI-solved problems sparks controversy in the mathematical community over its impact on research.",
+    "title": "Sony certifies new PlayStation Portal revision with rumors of 120 Hz OLED screen",
+    "summary": "Models CFI-Y2000 and CFI-Y2105 suggest hardware update for remote play device.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "New Linux CRAM technology compresses memory in RAM achieving 452x read acceleration",
+    "summary": "Method allows keeping compressed data directly in volatile memory without performance penalty.",
     "source": [
       "/r/technology",
-      "wired.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Google launches EmbeddingGemma 2, an open multimodal embeddings model for devices",
-    "summary": "The new model outperforms rivals twice its size and is optimized to run locally without cloud.",
+    "title": "Seagate and Toshiba bid for TDK's hard drive head business amid AI frenzy",
+    "summary": "Data center storage demand skyrockets value of critical HDD components.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Attackers compromise three domain registries to issue fake TLS certificates for Google and other services",
+    "summary": "Breach in .gh, .sl, and .as allows obtaining unauthorized certificates to impersonate major platforms.",
+    "source": [
+      "thehackernews.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic expands Claude access for verified cybersecurity teams with fewer safety restrictions",
+    "summary": "AI gets authorization to analyze vulnerabilities and malicious code in controlled environments.",
     "source": [
       "the-decoder.com",
-      "thenextweb.com"
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "Hark unveils privacy-focused personal AI assistant, a year ahead of its devices",
-    "summary": "The startup launches an AI agent that processes data locally and promises not to send information to the cloud.",
-    "source": [
-      "techcrunch.com",
-      "thenextweb.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel confirms Core Ultra 4000 branding for its next-gen Nova Lake-S processors",
-    "summary": "Appearance in AIDA64 reveals official nomenclature for future desktop chips with hybrid architecture.",
+    "title": "AMD confirms FSR 4 for APUs, gaming laptops, and handheld consoles before end of 2026",
+    "summary": "New spatial upscaling version will arrive on integrated devices and Steam Deck 2 to improve performance.",
     "source": [
       "/r/hardware",
       "videocardz.com"
@@ -98,28 +125,10 @@
     "count": 2
   },
   {
-    "title": "Xbox Elite Series 3 to eliminate drift with Hall/TMR joysticks and add haptic feedback",
-    "summary": "Microsoft's new premium controller incorporates anti-drift technology and tactile feedback to compete with DualSense.",
+    "title": "AMD promises to ramp up chip supply in 2027 as AI demand saturates production capacity",
+    "summary": "Company secures memory for PCs and laptops while expanding capacity for data center accelerators.",
     "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DLSS 5 Neural Rendering comes to classics like Doom, Duke Nukem, and Pong via mods",
-    "summary": "Enthusiasts apply NVIDIA's new upscaling technology to 90s games, dramatically improving their visual quality.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple restricts AI agents' access to private data in macOS via Full Disk Access changes",
-    "summary": "New security policies in macOS prevent AI agents from accessing sensitive files without explicit user consent.",
-    "source": [
-      "xataka.com",
+      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
     "count": 2
