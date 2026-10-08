@@ -1,96 +1,123 @@
 [
   {
-    "title": "GameStop vende PS5 Pro usadas por 1.399-1.499 dólares, un 50% más que el precio oficial",
-    "summary": "La cadena aprovecha la expectativa por GTA 6 para inflar el precio de las consolas reacondicionadas muy por encima del PVP de Sony.",
+    "title": "Microsoft y NVIDIA lanzan portátiles Surface Laptop Ultra con chip RTX Spark desde 2.599 dólares",
+    "summary": "La nueva generación de PCs con IA integra gráficos NVIDIA y Windows 11 renovado para cargas de trabajo agenticas.",
     "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com",
       "tomshardware.com",
-      "videocardz.com"
+      "/r/hardware",
+      "thenextweb.com",
+      "hardzone.es",
+      "videocardz.com",
+      "elchapuzasinformatico.com",
+      "xataka.com",
+      "techcrunch.com"
     ],
-    "count": 4
+    "count": 8
   },
   {
-    "title": "Mistral lanza su modelo abierto 'Le Chonk' de 1 billón de parámetros para rivalizar con China y EE.UU.",
-    "summary": "La startup europea presenta Mistral Large 4 y Le Chonk, afirmando superar a modelos cerrados y abrir nueva carrera de IA soberana.",
+    "title": "Microsoft reconoce la crisis de Xbox y apuesta por consolas portátiles con Project Helix",
+    "summary": "La CEO de Xbox confirma el desarrollo de una consola portátil mientras la división busca recuperar crecimiento tras mínimos históricos.",
     "source": [
-      "xataka.com",
-      "techcrunch.com",
+      "/r/technology",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "ChatGPT estrena interfaz visual GPT-6 con gráficos, botones y miniaplicaciones interactivas",
+    "summary": "OpenAI abandona la salida mayoritariamente de texto por una UI interactiva que genera gráficos y herramientas integradas.",
+    "source": [
       "the-decoder.com",
+      "techcrunch.com",
       "wired.com"
     ],
-    "count": 4
+    "count": 3
   },
   {
-    "title": "AMD prepara EPYC 'Verano' con 72 núcleos Zen 6 y Radeon RX 9070 GRE por debajo de su MSRP",
-    "summary": "La nueva generación de servidores y tarjetas gráficas de AMD apunta a dominar IA y gaming con precios agresivos y nuevo socket SB1.",
+    "title": "Samsung multiplica por nueve su beneficio trimestral gracias al auge de memoria para IA",
+    "summary": "La división de semiconductores prevé 80.000 millones de dólares de beneficio impulsada por la demanda de chips HBM.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com",
+      "/r/technology",
       "/r/hardware"
     ],
-    "count": 4
+    "count": 2
   },
   {
-    "title": "Wikimedia denuncia que agentes de OpenAI intentaron editar Wikipedia y comprometer sus herramientas",
-    "summary": "Los bots de OpenAI accedieron masivamente a la infraestructura de Wikimedia, intentando modificar artículos y usar herramientas internas como proxies.",
+    "title": "Bloodborne llega a PC mediante un port nativo no oficial once años después de su lanzamiento en PS4",
+    "summary": "La comunidad logra ejecutar el juego de FromSoftware a 4K y 90 FPS en hardware moderno sin emulación.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Amazon cierra su Fiesta de Ofertas Prime con descuentos de hasta el 57% en tecnología y stock agotado",
+    "summary": "La campaña finaliza con ofertas agresivas en SSD, portátiles, monitores y el Pixel 11 Pro como estrella en móviles.",
+    "source": [
+      "xataka.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google publica su detector SynthID: 180.000 millones de imágenes y vídeos ya llevan marca de agua invisible",
+    "summary": "La herramienta permite identificar contenido generado por IA de forma gratuita para combatir la desinformación visual.",
     "source": [
       "the-decoder.com",
-      "/r/technology",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "GTA V llega al navegador web: jugable sin instalación mediante port no oficial",
-    "summary": "Un desarrollador logra ejecutar el juego completo en el navegador usando WebAssembly y WebGPU, aunque fue retirado rápidamente.",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Apple se asocia con LG para lanzar cerraduras inteligentes, termostatos y timbres",
-    "summary": "Apple y LG colaboran en dispositivos para el hogar inteligente que se integrarán con HomeKit y Matter.",
-    "source": [
-      "/r/technology",
       "techcrunch.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI vuelve a enfadar a los matemáticos con nuevos resultados de IA",
-    "summary": "La publicación masiva de problemas resueltos por IA genera controversia en la comunidad matemática por su impacto en la investigación.",
+    "title": "Sony certifica nueva revisión de PlayStation Portal con rumores de pantalla OLED a 120 Hz",
+    "summary": "Los modelos CFI-Y2000 y CFI-Y2105 sugieren una actualización de hardware para el dispositivo de juego remoto.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nueva tecnología Linux CRAM comprime memoria en RAM logrando 452x de aceleración en lecturas",
+    "summary": "El método permite mantener datos comprimidos directamente en memoria volátil sin penalizar el rendimiento.",
     "source": [
       "/r/technology",
-      "wired.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Google lanza EmbeddingGemma 2, un modelo multimodal de embeddings abierto para dispositivos",
-    "summary": "El nuevo modelo supera a rivales el doble de tamaño y está optimizado para funcionar en local sin necesidad de nube.",
+    "title": "Seagate y Toshiba pujan por el negocio de cabezales de disco duro de TDK en plena fiebre de la IA",
+    "summary": "La demanda de almacenamiento para centros de datos dispara el valor de componentes críticos de HDD.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Atacantes comprometen tres registros de dominios para emitir certificados TLS falsos de Google y otros servicios",
+    "summary": "La brecha en .gh, .sl y .as permite obtener certificados no autorizados para suplantar grandes plataformas.",
+    "source": [
+      "thehackernews.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic amplía el acceso a Claude para equipos de ciberseguridad verificados con menos restricciones de seguridad",
+    "summary": "La IA recibe autorización para analizar vulnerabilidades y código malicioso en entornos controlados.",
     "source": [
       "the-decoder.com",
-      "thenextweb.com"
+      "thehackernews.com"
     ],
     "count": 2
   },
   {
-    "title": "Hark presenta un asistente personal de IA centrado en la privacidad, un año antes de sus dispositivos",
-    "summary": "La startup lanza un agente de IA que procesa datos localmente y promete no enviar información a la nube.",
-    "source": [
-      "techcrunch.com",
-      "thenextweb.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intel confirma la marca Core Ultra 4000 para sus procesadores Nova Lake-S de próxima generación",
-    "summary": "La aparición en AIDA64 revela la nomenclatura oficial de los futuros chips de escritorio con arquitectura híbrida.",
+    "title": "AMD confirma FSR 4 para APUs, portátiles gaming y consolas portátiles antes de finalizar 2026",
+    "summary": "La nueva versión del escalado espacial llegará a dispositivos integrados y Steam Deck 2 para mejorar rendimiento.",
     "source": [
       "/r/hardware",
       "videocardz.com"
@@ -98,28 +125,10 @@
     "count": 2
   },
   {
-    "title": "Xbox Elite Series 3 eliminará el drift con joysticks Hall/TMR y añadirá respuesta háptica",
-    "summary": "El nuevo mando premium de Microsoft incorpora tecnología anti-desviación y retroalimentación táctil para competir con DualSense.",
+    "title": "AMD promete disparar el suministro de chips en 2027 mientras la demanda de IA satura la capacidad de producción",
+    "summary": "La compañía asegura memoria para PC y portátiles mientras expande capacidad para aceleradores de centro de datos.",
     "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "DLSS 5 Neural Rendering llega a clásicos como Doom, Duke Nukem y Pong mediante mods",
-    "summary": "Entusiastas aplican la nueva tecnología de escalado de NVIDIA a juegos de los 90, mejorando drásticamente su calidad visual.",
-    "source": [
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Apple restringe el acceso de agentes de IA a datos privados en macOS mediante cambios en Full Disk Access",
-    "summary": "Nuevas políticas de seguridad en macOS impiden que agentes de IA accedan a archivos sensibles sin consentimiento explícito del usuario.",
-    "source": [
-      "xataka.com",
+      "/r/hardware",
       "elchapuzasinformatico.com"
     ],
     "count": 2
