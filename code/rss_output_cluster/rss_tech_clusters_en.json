@@ -1,87 +1,121 @@
 [
   {
-    "title": "Microsoft and NVIDIA launch Surface Laptop Ultra laptops with RTX Spark chip starting at $2,599",
-    "summary": "The new generation of AI PCs integrates NVIDIA graphics and revamped Windows 11 for agentic workloads.",
+    "title": "Developers launch free Adobe Creative Suite clones using AI, breaking its subscription model",
+    "summary": "Several open-source projects replicate Photoshop, Premiere, and Illustrator with AI, offering free alternatives following frustration over Adobe's fees.",
     "source": [
-      "tomshardware.com",
-      "/r/hardware",
-      "thenextweb.com",
-      "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com",
       "xataka.com",
-      "techcrunch.com"
-    ],
-    "count": 8
-  },
-  {
-    "title": "Microsoft acknowledges Xbox crisis and bets on handheld consoles with Project Helix",
-    "summary": "Xbox CEO confirms development of a handheld console as the division seeks to recover growth after historic lows.",
-    "source": [
+      "elchapuzasinformatico.com",
       "/r/technology",
-      "hardzone.es",
-      "elchapuzasinformatico.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
-    "count": 3
+    "count": 5
   },
   {
-    "title": "ChatGPT debuts visual GPT-6 interface with charts, buttons, and interactive mini-apps",
-    "summary": "OpenAI abandons mostly-text output for an interactive UI that generates charts and integrated tools.",
+    "title": "Anthropic bans abusive treatment of Claude and updates its usage policies",
+    "summary": "The company will sanction users who insult or harass its AI model, expanding restrictions against misuse and election interference.",
     "source": [
       "the-decoder.com",
       "techcrunch.com",
-      "wired.com"
+      "/r/technology"
     ],
     "count": 3
   },
   {
-    "title": "Samsung multiplies quarterly profit by nine thanks to AI memory boom",
-    "summary": "Semiconductor division forecasts $80 billion profit driven by HBM chip demand.",
+    "title": "U.S. blocks green card process for Microsoft and Adobe H-1B workers over labor fraud",
+    "summary": "The Department of Labor suspends labor certification after detecting irregularities, affecting major tech companies and their foreign employees.",
     "source": [
       "/r/technology",
-      "/r/hardware"
+      "tomshardware.com",
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Bloodborne arrives on PC via unofficial native port eleven years after PS4 launch",
-    "summary": "Community manages to run FromSoftware game at 4K and 90 FPS on modern hardware without emulation.",
+    "title": "South Korea detects AI use in cyberattacks against its major banks",
+    "summary": "AI tools allowed a single attacker to breach multiple financial entities, according to researchers and authorities.",
     "source": [
-      "hardzone.es",
+      "xataka.com",
+      "thehackernews.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Sony sells all its virtual reality patents to Meta and exits the VR market",
+    "summary": "After months of PSVR 2 shortages, PlayStation transfers its patent portfolio to Meta, signaling its exit from the sector.",
+    "source": [
+      "/r/technology",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Amazon closes its Prime Deal Days with discounts up to 57% on tech and sold-out stock",
-    "summary": "Campaign ends with aggressive deals on SSDs, laptops, monitors, and Pixel 11 Pro as mobile star.",
+    "title": "AMD raises price of its Radeon GPUs in China up to $104, except the RX 9070 XT",
+    "summary": "The increase affects several models as the company seeks to secure HBM memory supply through an alliance with Samsung.",
     "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google releases SynthID detector: 180 billion images and videos already carry invisible watermark",
-    "summary": "Tool allows free identification of AI-generated content to combat visual misinformation.",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony certifies new PlayStation Portal revision with rumors of 120 Hz OLED screen",
-    "summary": "Models CFI-Y2000 and CFI-Y2105 suggest hardware update for remote play device.",
-    "source": [
-      "elchapuzasinformatico.com",
+      "/r/hardware",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "New Linux CRAM technology compresses memory in RAM achieving 452x read acceleration",
-    "summary": "Method allows keeping compressed data directly in volatile memory without performance penalty.",
+    "title": "OpenAI revenue report causes Nvidia, Oracle, and CoreWeave shares to fall",
+    "summary": "OpenAI's downward-revised projections trigger a massive sell-off in stocks tied to AI infrastructure.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Mathematicians call for boycott of OpenAI for flooding their field with AI-generated proofs",
+    "summary": "The academic community denounces that OpenAI's models produce flawed proofs that contaminate mathematical literature.",
+    "source": [
+      "the-decoder.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Samsung multiplies quarterly profit by nine thanks to AI boom",
+    "summary": "Demand for memory chips for data centers drives a historic record in the semiconductor industry.",
+    "source": [
+      "/r/hardware",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD seeks broader partnership with Samsung to secure HBM memory supply",
+    "summary": "In exchange, Samsung asks AMD to manufacture its CPUs and GPUs in its foundries, tightening supply chain ties.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AI model evaluator Arena nearly doubles valuation to $3.1 billion in 10 months",
+    "summary": "The benchmarking platform consolidates as an industry reference, attracting major investment.",
+    "source": [
+      "techcrunch.com",
+      "thenextweb.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xbox creates XP division to bring its games to film, merchandising, and theme parks",
+    "summary": "The new structure aims to expand Microsoft's franchises beyond the console, following the transmedia model.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sentenced to 18 months in prison for using 10,000 bots to stream his AI-generated songs",
+    "summary": "The streaming fraud netted him $8 million before being detected by platforms.",
     "source": [
       "/r/technology",
       "tomshardware.com"
@@ -89,47 +123,38 @@
     "count": 2
   },
   {
-    "title": "Seagate and Toshiba bid for TDK's hard drive head business amid AI frenzy",
-    "summary": "Data center storage demand skyrockets value of critical HDD components.",
+    "title": "Finland orders Google to halt construction of two AI data centers over deforestation",
+    "summary": "Authorities demand full environmental reviews before allowing Google's infrastructure expansion.",
     "source": [
       "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Attackers compromise three domain registries to issue fake TLS certificates for Google and other services",
-    "summary": "Breach in .gh, .sl, and .as allows obtaining unauthorized certificates to impersonate major platforms.",
-    "source": [
-      "thehackernews.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic expands Claude access for verified cybersecurity teams with fewer safety restrictions",
-    "summary": "AI gets authorization to analyze vulnerabilities and malicious code in controlled environments.",
+    "title": "A modder brings RTX Remix and DLSS 5 to Bloodborne on PC exceeding 90 FPS",
+    "summary": "The community manages to implement ray tracing and advanced upscaling in the FromSoftware game without an official port.",
     "source": [
-      "the-decoder.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD confirms FSR 4 for APUs, gaming laptops, and handheld consoles before end of 2026",
-    "summary": "New spatial upscaling version will arrive on integrated devices and Steam Deck 2 to improve performance.",
-    "source": [
-      "/r/hardware",
+      "hardzone.es",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD promises to ramp up chip supply in 2027 as AI demand saturates production capacity",
-    "summary": "Company secures memory for PCs and laptops while expanding capacity for data center accelerators.",
+    "title": "AMD will bring FSR 4 with lightweight AI model to handheld consoles and PC APUs before 2026",
+    "summary": "The upscaling technology will reach devices with iGPUs, improving performance on less powerful hardware.",
     "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony patents AI final bosses that learn from the player and adaptively increase difficulty",
+    "summary": "The system memorizes gameplay patterns and adjusts the challenge on each retry to personalize the experience.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
     ],
     "count": 2
   }
