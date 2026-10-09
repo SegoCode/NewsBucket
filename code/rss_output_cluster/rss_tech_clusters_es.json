@@ -1,87 +1,121 @@
 [
   {
-    "title": "Microsoft y NVIDIA lanzan portátiles Surface Laptop Ultra con chip RTX Spark desde 2.599 dólares",
-    "summary": "La nueva generación de PCs con IA integra gráficos NVIDIA y Windows 11 renovado para cargas de trabajo agenticas.",
+    "title": "Desarrolladores lanzan clones gratuitos de Adobe Creative Suite usando IA rompiendo su modelo de suscripción",
+    "summary": "Varios proyectos open-source replican Photoshop, Premiere e Illustrator con IA, ofreciendo alternativas gratuitas tras la frustración por las tarifas de Adobe.",
     "source": [
-      "tomshardware.com",
-      "/r/hardware",
-      "thenextweb.com",
-      "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com",
       "xataka.com",
-      "techcrunch.com"
-    ],
-    "count": 8
-  },
-  {
-    "title": "Microsoft reconoce la crisis de Xbox y apuesta por consolas portátiles con Project Helix",
-    "summary": "La CEO de Xbox confirma el desarrollo de una consola portátil mientras la división busca recuperar crecimiento tras mínimos históricos.",
-    "source": [
+      "elchapuzasinformatico.com",
       "/r/technology",
-      "hardzone.es",
-      "elchapuzasinformatico.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
-    "count": 3
+    "count": 5
   },
   {
-    "title": "ChatGPT estrena interfaz visual GPT-6 con gráficos, botones y miniaplicaciones interactivas",
-    "summary": "OpenAI abandona la salida mayoritariamente de texto por una UI interactiva que genera gráficos y herramientas integradas.",
+    "title": "Anthropic prohíbe el trato abusivo hacia Claude y actualiza sus políticas de uso",
+    "summary": "La empresa sancionará a usuarios que insulten o acosen a su modelo de IA, ampliando las restricciones contra el mal uso y la interferencia electoral.",
     "source": [
       "the-decoder.com",
       "techcrunch.com",
-      "wired.com"
+      "/r/technology"
     ],
     "count": 3
   },
   {
-    "title": "Samsung multiplica por nueve su beneficio trimestral gracias al auge de memoria para IA",
-    "summary": "La división de semiconductores prevé 80.000 millones de dólares de beneficio impulsada por la demanda de chips HBM.",
+    "title": "EE.UU. bloquea el proceso de green card para trabajadores H-1B de Microsoft y Adobe por fraude laboral",
+    "summary": "El Departamento de Trabajo suspende la certificación laboral tras detectar irregularidades, afectando a grandes tecnológicas y sus empleados extranjeros.",
     "source": [
       "/r/technology",
-      "/r/hardware"
+      "tomshardware.com",
+      "techcrunch.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Bloodborne llega a PC mediante un port nativo no oficial once años después de su lanzamiento en PS4",
-    "summary": "La comunidad logra ejecutar el juego de FromSoftware a 4K y 90 FPS en hardware moderno sin emulación.",
+    "title": "Corea del Sur detecta uso de IA en ciberataques contra sus principales bancos",
+    "summary": "Herramientas de IA permitieron a un único atacante vulnerar múltiples entidades financieras, según investigadores y autoridades.",
     "source": [
-      "hardzone.es",
+      "xataka.com",
+      "thehackernews.com",
+      "the-decoder.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Sony vende todas sus patentes de realidad virtual a Meta y abandona el mercado de VR",
+    "summary": "Tras meses de escasez de PSVR 2, PlayStation traspasa su cartera de patentes a Meta, señalando su salida del sector.",
+    "source": [
+      "/r/technology",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "Amazon cierra su Fiesta de Ofertas Prime con descuentos de hasta el 57% en tecnología y stock agotado",
-    "summary": "La campaña finaliza con ofertas agresivas en SSD, portátiles, monitores y el Pixel 11 Pro como estrella en móviles.",
+    "title": "AMD sube hasta 104 dólares el precio de sus GPU Radeon en China, salvo la RX 9070 XT",
+    "summary": "El incremento afecta a varios modelos mientras la compañía busca asegurar suministro de memoria HBM mediante una alianza con Samsung.",
     "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google publica su detector SynthID: 180.000 millones de imágenes y vídeos ya llevan marca de agua invisible",
-    "summary": "La herramienta permite identificar contenido generado por IA de forma gratuita para combatir la desinformación visual.",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony certifica nueva revisión de PlayStation Portal con rumores de pantalla OLED a 120 Hz",
-    "summary": "Los modelos CFI-Y2000 y CFI-Y2105 sugieren una actualización de hardware para el dispositivo de juego remoto.",
-    "source": [
-      "elchapuzasinformatico.com",
+      "/r/hardware",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Nueva tecnología Linux CRAM comprime memoria en RAM logrando 452x de aceleración en lecturas",
-    "summary": "El método permite mantener datos comprimidos directamente en memoria volátil sin penalizar el rendimiento.",
+    "title": "Informe de ingresos de OpenAI hace caer las acciones de Nvidia, Oracle y CoreWeave",
+    "summary": "Las proyecciones revisadas a la baja de OpenAI provocan una venta masiva en valores ligados a la infraestructura de IA.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Matemáticos piden boicot a OpenAI por inundar su campo con pruebas generadas por IA",
+    "summary": "La comunidad académica denuncia que los modelos de OpenAI producen demostraciones defectuosas que contaminan la literatura matemática.",
+    "source": [
+      "the-decoder.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Samsung multiplica por nueve su beneficio trimestral gracias al auge de la IA",
+    "summary": "La demanda de chips de memoria para centros de datos impulsa un récord histórico en la industria de semiconductores.",
+    "source": [
+      "/r/hardware",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD busca una asociación más amplia con Samsung para asegurar suministro de memoria HBM",
+    "summary": "A cambio, Samsung pide a AMD que fabrique sus CPU y GPU en sus fundiciones, estrechando lazos en la cadena de suministro.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El evaluador de modelos de IA Arena casi duplica su valoración hasta 3.100 millones en 10 meses",
+    "summary": "La plataforma de benchmarking se consolida como referencia del sector atrayendo gran inversión.",
+    "source": [
+      "techcrunch.com",
+      "thenextweb.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Xbox crea la división XP para llevar sus juegos al cine, merchandising y parques temáticos",
+    "summary": "La nueva estructura busca expandir las franquicias de Microsoft más allá de la consola, siguiendo el modelo transmedia.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Condenado a 18 meses de prisión por usar 10.000 bots para reproducir sus canciones generadas por IA",
+    "summary": "El fraude de streaming le reportó 8 millones de dólares antes de ser detectado por las plataformas.",
     "source": [
       "/r/technology",
       "tomshardware.com"
@@ -89,47 +123,38 @@
     "count": 2
   },
   {
-    "title": "Seagate y Toshiba pujan por el negocio de cabezales de disco duro de TDK en plena fiebre de la IA",
-    "summary": "La demanda de almacenamiento para centros de datos dispara el valor de componentes críticos de HDD.",
+    "title": "Finlandia ordena a Google detener la construcción de dos centros de datos de IA por deforestación",
+    "summary": "Las autoridades exigen revisiones ambientales completas antes de permitir la expansión de la infraestructura de Google.",
     "source": [
       "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Atacantes comprometen tres registros de dominios para emitir certificados TLS falsos de Google y otros servicios",
-    "summary": "La brecha en .gh, .sl y .as permite obtener certificados no autorizados para suplantar grandes plataformas.",
-    "source": [
-      "thehackernews.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Anthropic amplía el acceso a Claude para equipos de ciberseguridad verificados con menos restricciones de seguridad",
-    "summary": "La IA recibe autorización para analizar vulnerabilidades y código malicioso en entornos controlados.",
+    "title": "Un modder lleva RTX Remix y DLSS 5 a Bloodborne en PC superando los 90 FPS",
+    "summary": "La comunidad logra implementar trazado de rayos y escalado avanzado en el juego de FromSoftware sin puerto oficial.",
     "source": [
-      "the-decoder.com",
-      "thehackernews.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD confirma FSR 4 para APUs, portátiles gaming y consolas portátiles antes de finalizar 2026",
-    "summary": "La nueva versión del escalado espacial llegará a dispositivos integrados y Steam Deck 2 para mejorar rendimiento.",
-    "source": [
-      "/r/hardware",
+      "hardzone.es",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD promete disparar el suministro de chips en 2027 mientras la demanda de IA satura la capacidad de producción",
-    "summary": "La compañía asegura memoria para PC y portátiles mientras expande capacidad para aceleradores de centro de datos.",
+    "title": "AMD llevará FSR 4 con modelo de IA ligero a consolas portátiles y APU de PC antes de 2026",
+    "summary": "La tecnología de escalado llegará a dispositivos con iGPU, mejorando rendimiento en hardware menos potente.",
     "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony patenta jefes finales con IA que aprenden del jugador y aumentan la dificultad adaptativamente",
+    "summary": "El sistema memoriza patrones de juego y ajusta el desafío en cada reintento para personalizar la experiencia.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
     ],
     "count": 2
   }
