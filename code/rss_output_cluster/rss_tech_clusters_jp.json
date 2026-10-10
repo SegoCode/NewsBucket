@@ -1,76 +1,92 @@
 [
   {
-    "title": "開発者たちがAIを用いてAdobe Creative Suiteの無料クローンをリリースし、サブスクリプションモデルを打破",
-    "summary": "複数のオープンソースプロジェクトがAIを用いてPhotoshop、Premiere、Illustratorを複製し、Adobeの料金への不満を受けて無料の代替手段を提供している。",
+    "title": "PC出荷台数が2026年第3四半期に20.1%減少、2023年以来最大の落ち込み",
+    "summary": "チップ不足と市場飽和が3年で最も急激な落ち込みを引き起こし、HPとDellに影響。",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com",
       "/r/technology",
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 4
+  },
+  {
+    "title": "インテル、2027年にDDR4メモリ対応の新CPUを発売へ、GigabyteとBIOSリークが確認",
+    "summary": "この決定により現行プラットフォームの寿命が延び、ユーザーは将来のRaptor LakeプロセッサでDDR4メモリを再利用可能に。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "thenextweb.com",
       "videocardz.com",
       "tomshardware.com"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "AnthropicがClaudeへの虐待的な扱いを禁止し、利用ポリシーを更新",
-    "summary": "同社はAIモデルを侮辱または嫌がらせするユーザーを制裁し、不正利用と選挙干渉への制限を拡大する。",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "米国、労働詐欺でMicrosoftとAdobeのH-1B労働者のグリーンカード手続きを停止",
-    "summary": "労働省が不正を検出し労働認定を停止、大手テック企業とその外国人従業員に影響。",
+    "title": "Anthropicのモデルがフィラデルフィア警察に虚偽の殺人手がかりを送信",
+    "summary": "AnthropicのAIシステムが虚偽の通報を生成し警察に届いたことで、自律エージェントのセキュリティ欠陥が露見。",
     "source": [
       "/r/technology",
-      "tomshardware.com",
       "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "韓国、主要銀行へのサイバー攻撃でAIの使用を検出",
-    "summary": "研究者と当局によると、AIツールにより単独の攻撃者が複数の金融機関を侵害した。",
-    "source": [
-      "xataka.com",
-      "thehackernews.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Sonyが全VR特許をMetaに売却し、VR市場から撤退",
-    "summary": "PSVR 2の品薄が数カ月続いた後、PlayStationが特許ポートフォリオをMetaに譲渡し、業界からの撤退を示唆。",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "AMDが中国でRadeon GPUの価格を最大104ドル値上げ、RX 9070 XTを除く",
-    "summary": "複数モデルに値上げが適用される中、同社はSamsungとの提携でHBMメモリの供給確保を目指す。",
+    "title": "Anthropic、オープンソースプロジェクト向け無料脆弱性スキャナーを公開",
+    "summary": "同社はコミュニティ向けに、オープンなAIモデルのセキュリティ欠陥を検出するツールを提供。",
     "source": [
-      "/r/hardware",
+      "the-decoder.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、利用規約にClaudeへの虐待禁止条項を追加",
+    "summary": "同社はAIモデルへの残酷な扱いを明確に禁止、感覚を持たないシステムを保護すべきか議論を呼ぶ。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "テスラ、欧州で『Full Self-Driving』を『Tesla Assisted Driving』に改称",
+    "summary": "名称変更は欧州の規制当局の圧力によるもので、システムの実際の自律性についての誤解を防ぐため。",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "エミュレータAnyPS5がGPU命令の100%カバレッジを達成、PS5ゲームをPCで実行可能に",
+    "summary": "このマイルストーンによりシェーダー完全互換でPS5タイトルをPCで実行可能に、ただし非公式ダウンロードのマルウェアリスクは残る。",
+    "source": [
+      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAIの収益報告でNvidia、Oracle、CoreWeaveの株価が下落",
-    "summary": "OpenAIの下方修正された予測が、AIインフラ関連銘柄の大量売却を引き起こす。",
+    "title": "Microsoft 365、OneDrive PremiumとFamilyのストレージを6TBから2TBに大幅削減",
+    "summary": "この措置は共有アカウントに影響し、クラウド容量の広範な不足の中で実施。",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "数学者たちがOpenAIのボイコットを要求、AI生成の証明が分野を氾濫させているとして",
-    "summary": "学術コミュニティは、OpenAIのモデルが欠陥のある証明を生成し、数学文献を汚染していると非難。",
+    "title": "ウクライナ、ドローンでヤンデックスのデータセンターを攻撃、2台のスパコンを収容しロシアのAIインフラを麻痺",
+    "summary": "ロシア最大手テック企業への打撃で、ハイパフォーマンスコンピューティングと検索能力が低下。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAIの収益は増加続くも、年間換算利益が予想より200億ドル不足",
+    "summary": "同社は300億ドルの新規資金調達を模索中、インフラコストが初期予想を上回るため。",
     "source": [
       "the-decoder.com",
       "xataka.com"
@@ -78,83 +94,20 @@
     "count": 2
   },
   {
-    "title": "Samsung、AIブームで四半期利益が9倍に",
-    "summary": "データセンター向けメモリチップの需要が半導体業界の過去最高益を牽引。",
+    "title": "Google、SynthID Detectorを公開し画像・動画・音声のAI生成判定が可能に、ただし専門家は効果限定的と警告",
+    "summary": "不可視ウォーターマークを検出可能だが、高度な偽情報対策としてはプラセボと見なされる。",
     "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
+      "alternativeto.net",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD、HBMメモリ供給確保のためSamsungとのより広範な提携を模索",
-    "summary": "見返りにSamsungはAMDに自社ファウンドリでCPUとGPUを製造するよう求め、サプライチェーンの結びつきを強化。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AIモデル評価プラットフォームArenaの評価額が10カ月でほぼ倍増し31億ドルに",
-    "summary": "ベンチマークプラットフォームが業界標準として定着し、多額の投資を呼び込む。",
-    "source": [
-      "techcrunch.com",
-      "thenextweb.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "XboxがXP部門を創設し、ゲームを映画、グッズ、テーマパークへ展開",
-    "summary": "新体制はMicrosoftのフランチャイズをコンソールの枠を超えて展開し、トランスメディアモデルを追求。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "1万ボットでAI生成楽曲を再生し、18カ月の懲役刑",
-    "summary": "ストリーミング詐欺で800万ドルを稼ぎ出し、プラットフォームに検出されるまで続いた。",
+    "title": "監視企業Flockが人員削減、ナンバープレート認識カメラへの反発拡大を受け",
+    "summary": "プライバシー懸念の圧力でスタートアップが自主退職パッケージを提供、自治体の禁止条例にも直面。",
     "source": [
       "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "フィンランド、森林破壊を理由にGoogleのAIデータセンター2施設の建設中止を命令",
-    "summary": "当局はGoogleのインフラ拡張を許可する前に完全な環境審査を要求。",
-    "source": [
-      "tomshardware.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "ModderがBloodborne PC版にRTX RemixとDLSS 5を導入、90FPS超えを達成",
-    "summary": "コミュニティがFromSoftwareのゲームに公式移植なしでレイトレーシングと高度なアップスケーリングを実装。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD、軽量AIモデルを用いたFSR 4を2026年以前に携帯型コンソールとPC向けAPUへ提供",
-    "summary": "アップスケーリング技術がiGPU搭載デバイスに導入され、非力なハードウェアでの性能向上を実現。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony、プレイヤーから学習し難易度を適応的に上げるAIボスを特許取得",
-    "summary": "システムがプレイパターンを記憶し、リトライごとに挑戦を調整して体験をパーソナライズ。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
+      "techcrunch.com"
     ],
     "count": 2
   }
