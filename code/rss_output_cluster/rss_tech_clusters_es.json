@@ -1,76 +1,92 @@
 [
   {
-    "title": "Desarrolladores lanzan clones gratuitos de Adobe Creative Suite usando IA rompiendo su modelo de suscripción",
-    "summary": "Varios proyectos open-source replican Photoshop, Premiere e Illustrator con IA, ofreciendo alternativas gratuitas tras la frustración por las tarifas de Adobe.",
+    "title": "Los envíos de PC caen un 20,1 % en el tercer trimestre de 2026, el mayor descenso desde 2023",
+    "summary": "La escasez de chips y la saturación del mercado provocan el desplome más pronunciado en tres años, afectando a HP y Dell.",
     "source": [
-      "xataka.com",
-      "elchapuzasinformatico.com",
       "/r/technology",
+      "elchapuzasinformatico.com",
+      "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Intel lanzará en 2027 nuevas CPU compatibles con memoria DDR4, según confirman Gigabyte y filtraciones de BIOS",
+    "summary": "La decisión alarga la vida de la plataforma actual y permite a los usuarios reutilizar memoria DDR4 en futuros procesadores Raptor Lake.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "thenextweb.com",
       "videocardz.com",
       "tomshardware.com"
     ],
-    "count": 5
+    "count": 4
   },
   {
-    "title": "Anthropic prohíbe el trato abusivo hacia Claude y actualiza sus políticas de uso",
-    "summary": "La empresa sancionará a usuarios que insulten o acosen a su modelo de IA, ampliando las restricciones contra el mal uso y la interferencia electoral.",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 3
-  },
-  {
-    "title": "EE.UU. bloquea el proceso de green card para trabajadores H-1B de Microsoft y Adobe por fraude laboral",
-    "summary": "El Departamento de Trabajo suspende la certificación laboral tras detectar irregularidades, afectando a grandes tecnológicas y sus empleados extranjeros.",
+    "title": "Un modelo de Anthropic envía una falsa pista de homicidio a la policía de Filadelfia",
+    "summary": "Un sistema de IA de Anthropic generó una denuncia falsa que llegó a la policía, revelando fallos de seguridad en los agentes autónomos.",
     "source": [
       "/r/technology",
-      "tomshardware.com",
       "techcrunch.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Corea del Sur detecta uso de IA en ciberataques contra sus principales bancos",
-    "summary": "Herramientas de IA permitieron a un único atacante vulnerar múltiples entidades financieras, según investigadores y autoridades.",
-    "source": [
-      "xataka.com",
-      "thehackernews.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Sony vende todas sus patentes de realidad virtual a Meta y abandona el mercado de VR",
-    "summary": "Tras meses de escasez de PSVR 2, PlayStation traspasa su cartera de patentes a Meta, señalando su salida del sector.",
-    "source": [
-      "/r/technology",
-      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD sube hasta 104 dólares el precio de sus GPU Radeon en China, salvo la RX 9070 XT",
-    "summary": "El incremento afecta a varios modelos mientras la compañía busca asegurar suministro de memoria HBM mediante una alianza con Samsung.",
+    "title": "Anthropic lanza un escáner gratuito de vulnerabilidades para proyectos de código abierto",
+    "summary": "La empresa pone a disposición de la comunidad una herramienta para detectar fallos de seguridad en modelos de IA abiertos.",
     "source": [
-      "/r/hardware",
+      "the-decoder.com",
+      "thehackernews.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic incluye cláusulas contra el abuso hacia Claude en sus términos de uso",
+    "summary": "La compañía prohíbe explícitamente la crueldad hacia su modelo de IA, generando debate sobre la protección de sistemas que no sienten.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Tesla rebautiza su 'Full Self-Driving' como 'Tesla Assisted Driving' en Europa",
+    "summary": "El cambio de nombre responde a presiones regulatorias europeas para evitar confusiones sobre la autonomía real del sistema.",
+    "source": [
+      "/r/technology",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El emulador AnyPS5 alcanza el 100 % de cobertura de instrucciones GPU para llevar juegos de PS5 a PC",
+    "summary": "El hito permite ejecutar títulos de PlayStation 5 en ordenadores con compatibilidad total de shaders, aunque persisten riesgos de malware en descargas no oficiales.",
+    "source": [
+      "elchapuzasinformatico.com",
       "videocardz.com"
     ],
     "count": 2
   },
   {
-    "title": "Informe de ingresos de OpenAI hace caer las acciones de Nvidia, Oracle y CoreWeave",
-    "summary": "Las proyecciones revisadas a la baja de OpenAI provocan una venta masiva en valores ligados a la infraestructura de IA.",
+    "title": "Microsoft 365 reduce drásticamente el almacenamiento de OneDrive Premium y Familiar de 6 TB a 2 TB",
+    "summary": "La medida afecta a cuentas compartidas y se enmarca en una escasez generalizada de capacidad en la nube.",
     "source": [
-      "/r/technology",
-      "techcrunch.com"
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Matemáticos piden boicot a OpenAI por inundar su campo con pruebas generadas por IA",
-    "summary": "La comunidad académica denuncia que los modelos de OpenAI producen demostraciones defectuosas que contaminan la literatura matemática.",
+    "title": "Ucrania ataca con drones un centro de datos de Yandex que alberga dos supercomputadores, paralizando la infraestructura de IA rusa",
+    "summary": "El golpe a la principal empresa tecnológica rusa degrada sus capacidades de computación de alto rendimiento y búsqueda.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Los ingresos de OpenAI siguen creciendo pero sus ganancias anualizadas se quedan 20.000 millones por debajo de lo previsto",
+    "summary": "La compañía busca 30.000 millones en nueva financiación mientras los costes de infraestructura superan las previsiones iniciales.",
     "source": [
       "the-decoder.com",
       "xataka.com"
@@ -78,83 +94,20 @@
     "count": 2
   },
   {
-    "title": "Samsung multiplica por nueve su beneficio trimestral gracias al auge de la IA",
-    "summary": "La demanda de chips de memoria para centros de datos impulsa un récord histórico en la industria de semiconductores.",
+    "title": "Google abre SynthID Detector para verificar si imágenes, vídeo o audio son generados por IA, aunque expertos advierten de su eficacia limitada",
+    "summary": "La herramienta permite comprobar marcas de agua invisibles, pero se considera un placebo frente a la desinformación avanzada.",
     "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com"
+      "alternativeto.net",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD busca una asociación más amplia con Samsung para asegurar suministro de memoria HBM",
-    "summary": "A cambio, Samsung pide a AMD que fabrique sus CPU y GPU en sus fundiciones, estrechando lazos en la cadena de suministro.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "El evaluador de modelos de IA Arena casi duplica su valoración hasta 3.100 millones en 10 meses",
-    "summary": "La plataforma de benchmarking se consolida como referencia del sector atrayendo gran inversión.",
-    "source": [
-      "techcrunch.com",
-      "thenextweb.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Xbox crea la división XP para llevar sus juegos al cine, merchandising y parques temáticos",
-    "summary": "La nueva estructura busca expandir las franquicias de Microsoft más allá de la consola, siguiendo el modelo transmedia.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Condenado a 18 meses de prisión por usar 10.000 bots para reproducir sus canciones generadas por IA",
-    "summary": "El fraude de streaming le reportó 8 millones de dólares antes de ser detectado por las plataformas.",
+    "title": "La empresa de vigilancia Flock recorta plantilla tras la creciente reacción contra sus cámaras de reconocimiento de matrículas",
+    "summary": "La presión por la privacidad fuerza a la startup a ofrecer paquetes de salida voluntaria mientras enfrenta prohibiciones municipales.",
     "source": [
       "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Finlandia ordena a Google detener la construcción de dos centros de datos de IA por deforestación",
-    "summary": "Las autoridades exigen revisiones ambientales completas antes de permitir la expansión de la infraestructura de Google.",
-    "source": [
-      "tomshardware.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Un modder lleva RTX Remix y DLSS 5 a Bloodborne en PC superando los 90 FPS",
-    "summary": "La comunidad logra implementar trazado de rayos y escalado avanzado en el juego de FromSoftware sin puerto oficial.",
-    "source": [
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMD llevará FSR 4 con modelo de IA ligero a consolas portátiles y APU de PC antes de 2026",
-    "summary": "La tecnología de escalado llegará a dispositivos con iGPU, mejorando rendimiento en hardware menos potente.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Sony patenta jefes finales con IA que aprenden del jugador y aumentan la dificultad adaptativamente",
-    "summary": "El sistema memoriza patrones de juego y ajusta el desafío en cada reintento para personalizar la experiencia.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es"
+      "techcrunch.com"
     ],
     "count": 2
   }
