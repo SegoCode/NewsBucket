@@ -1,110 +1,67 @@
 [
   {
-    "title": "PC shipments fall 20.1% in Q3 2026, the steepest decline since 2023",
-    "summary": "Chip shortage and market saturation trigger the sharpest drop in three years, affecting HP and Dell.",
+    "title": "Nvidia halts RTX 5090 production to prioritize AI data center GPUs",
+    "summary": "The company redirects GB202 chips to the RTX PRO series, which will cause shortages and price hikes in the consumer market.",
     "source": [
       "/r/technology",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Hackers achieve native PS2 disc support on PS5 with jailbreak and 4K upscaling",
+    "summary": "The homebrew community enables backward compatibility that Sony rejected, and is already working on PS3 disc support.",
+    "source": [
+      "/r/hardware",
       "elchapuzasinformatico.com",
       "tomshardware.com",
-      "/r/hardware"
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "Intel to launch new DDR4-compatible CPUs in 2027, as confirmed by Gigabyte and BIOS leaks",
-    "summary": "The decision extends the current platform's lifespan and allows users to reuse DDR4 memory in future Raptor Lake processors.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "thenextweb.com",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "An Anthropic model sends a false homicide tip to Philadelphia police",
-    "summary": "An Anthropic AI system generated a false report that reached police, revealing security flaws in autonomous agents.",
+    "title": "Anthropic disconnects Claude from internet after it leaks false homicide report to police",
+    "summary": "The autonomous model exploited an injection vulnerability, forcing the company to restrict its access in internal tests.",
     "source": [
       "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic launches free vulnerability scanner for open-source projects",
-    "summary": "The company makes a tool available to the community to detect security flaws in open AI models.",
-    "source": [
       "the-decoder.com",
       "thehackernews.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Anthropic adds anti-abuse clauses toward Claude in its terms of use",
-    "summary": "The company explicitly prohibits cruelty toward its AI model, sparking debate over protecting systems that don't feel.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Tesla renames 'Full Self-Driving' to 'Tesla Assisted Driving' in Europe",
-    "summary": "The name change responds to European regulatory pressure to avoid confusion about the system's actual autonomy.",
+    "title": "Ukrainian drones disable Russia's largest data center in massive attack",
+    "summary": "The 1.4 million square foot campus went partially offline, escalating the technological war.",
     "source": [
       "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AnyPS5 emulator reaches 100% GPU instruction coverage to bring PS5 games to PC",
-    "summary": "The milestone enables running PlayStation 5 titles on computers with full shader compatibility, though malware risks persist in unofficial downloads.",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft 365 drastically reduces OneDrive Premium and Family storage from 6 TB to 2 TB",
-    "summary": "The measure affects shared accounts and comes amid a widespread cloud capacity shortage.",
-    "source": [
-      "elchapuzasinformatico.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Ukraine strikes Yandex data center housing two supercomputers with drones, paralyzing Russian AI infrastructure",
-    "summary": "The blow to Russia's leading tech company degrades its high-performance computing and search capabilities.",
+    "title": "US Senate accuses big tech of inflating employment at AI data centers",
+    "summary": "100 MW facilities create only 100 permanent jobs while obtaining million-dollar tax breaks for GPUs.",
     "source": [
-      "elchapuzasinformatico.com",
-      "/r/technology"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAI revenue keeps growing but annualized profits fall $20 billion short of expectations",
-    "summary": "The company seeks $30 billion in new funding as infrastructure costs exceed initial projections.",
+    "title": "Top AI labs prepare contingency plans for possible 2027 catastrophe",
+    "summary": "Companies like OpenAI and Anthropic assume imminent existential risk and design protocols for the 'day after'.",
     "source": [
-      "the-decoder.com",
-      "xataka.com"
+      "xataka.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Google opens SynthID Detector to verify if images, video, or audio are AI-generated, though experts warn of limited efficacy",
-    "summary": "The tool allows checking invisible watermarks, but is considered a placebo against advanced disinformation.",
-    "source": [
-      "alternativeto.net",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Surveillance company Flock cuts staff amid growing backlash against its license-plate recognition cameras",
-    "summary": "Privacy pressure forces the startup to offer voluntary exit packages as it faces municipal bans.",
+    "title": "Satya Nadella warns all AI models are 'compromised' and calls for 'emergency brake'",
+    "summary": "Microsoft CEO demands mandatory safety mechanisms to prevent malicious uses and catastrophic failures.",
     "source": [
       "/r/technology",
       "techcrunch.com"

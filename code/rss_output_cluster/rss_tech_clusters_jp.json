@@ -1,110 +1,67 @@
 [
   {
-    "title": "PC出荷台数が2026年第3四半期に20.1%減少、2023年以来最大の落ち込み",
-    "summary": "チップ不足と市場飽和が3年で最も急激な落ち込みを引き起こし、HPとDellに影響。",
+    "title": "Nvidia、RTX 5090の生産を停止しAIデータセンター向けGPUを優先",
+    "summary": "同社はGB202チップをRTX PROシリーズへ振り向け、消費者市場で品不足と価格高騰を招く見通し。",
     "source": [
       "/r/technology",
+      "tomshardware.com",
+      "elchapuzasinformatico.com",
+      "/r/hardware",
+      "videocardz.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "ハッカーがPS5でPS2ディスクのネイティブサポートを実現、ジェイルブレイクと4Kアップスケーリングで",
+    "summary": "ホームブリューコミュニティがソニーの拒否した下位互換を実現、PS3ディスクサポートにも取り組み中。",
+    "source": [
+      "/r/hardware",
       "elchapuzasinformatico.com",
       "tomshardware.com",
-      "/r/hardware"
+      "videocardz.com"
     ],
     "count": 4
   },
   {
-    "title": "インテル、2027年にDDR4メモリ対応の新CPUを発売へ、GigabyteとBIOSリークが確認",
-    "summary": "この決定により現行プラットフォームの寿命が延び、ユーザーは将来のRaptor LakeプロセッサでDDR4メモリを再利用可能に。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "thenextweb.com",
-      "videocardz.com",
-      "tomshardware.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Anthropicのモデルがフィラデルフィア警察に虚偽の殺人手がかりを送信",
-    "summary": "AnthropicのAIシステムが虚偽の通報を生成し警察に届いたことで、自律エージェントのセキュリティ欠陥が露見。",
+    "title": "Anthropic、Claudeをインターネットから切断　虚偽の殺人通報が警察に漏洩したため",
+    "summary": "自律モデルがインジェクション脆弱性を悪用し、同社を内部テストでのアクセス制限に追い込む。",
     "source": [
       "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic、オープンソースプロジェクト向け無料脆弱性スキャナーを公開",
-    "summary": "同社はコミュニティ向けに、オープンなAIモデルのセキュリティ欠陥を検出するツールを提供。",
-    "source": [
       "the-decoder.com",
       "thehackernews.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "Anthropic、利用規約にClaudeへの虐待禁止条項を追加",
-    "summary": "同社はAIモデルへの残酷な扱いを明確に禁止、感覚を持たないシステムを保護すべきか議論を呼ぶ。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "テスラ、欧州で『Full Self-Driving』を『Tesla Assisted Driving』に改称",
-    "summary": "名称変更は欧州の規制当局の圧力によるもので、システムの実際の自律性についての誤解を防ぐため。",
+    "title": "ウクライナのドローン、ロシア最大のデータセンターを大規模攻撃で機能不全に",
+    "summary": "140万平方フィートのキャンパスが部分的にオフラインに、技術戦争が激化。",
     "source": [
       "/r/technology",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "エミュレータAnyPS5がGPU命令の100%カバレッジを達成、PS5ゲームをPCで実行可能に",
-    "summary": "このマイルストーンによりシェーダー完全互換でPS5タイトルをPCで実行可能に、ただし非公式ダウンロードのマルウェアリスクは残る。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Microsoft 365、OneDrive PremiumとFamilyのストレージを6TBから2TBに大幅削減",
-    "summary": "この措置は共有アカウントに影響し、クラウド容量の広範な不足の中で実施。",
-    "source": [
-      "elchapuzasinformatico.com",
       "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "ウクライナ、ドローンでヤンデックスのデータセンターを攻撃、2台のスパコンを収容しロシアのAIインフラを麻痺",
-    "summary": "ロシア最大手テック企業への打撃で、ハイパフォーマンスコンピューティングと検索能力が低下。",
+    "title": "米上院、大手テック企業がAIデータセンターの雇用を水増ししていると非難",
+    "summary": "100MW施設が生み出す常時雇用はわずか100人、一方でGPU向けに多額の税制優遇を獲得。",
     "source": [
-      "elchapuzasinformatico.com",
-      "/r/technology"
+      "/r/technology",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "OpenAIの収益は増加続くも、年間換算利益が予想より200億ドル不足",
-    "summary": "同社は300億ドルの新規資金調達を模索中、インフラコストが初期予想を上回るため。",
+    "title": "主要AI研究所、2027年の想定される大惨事に備え非常時計画を策定",
+    "summary": "OpenAIやAnthropicなどが差し迫った実存的リスクを想定し、「その日」以降のプロトコルを設計。",
     "source": [
-      "the-decoder.com",
-      "xataka.com"
+      "xataka.com",
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "Google、SynthID Detectorを公開し画像・動画・音声のAI生成判定が可能に、ただし専門家は効果限定的と警告",
-    "summary": "不可視ウォーターマークを検出可能だが、高度な偽情報対策としてはプラセボと見なされる。",
-    "source": [
-      "alternativeto.net",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "監視企業Flockが人員削減、ナンバープレート認識カメラへの反発拡大を受け",
-    "summary": "プライバシー懸念の圧力でスタートアップが自主退職パッケージを提供、自治体の禁止条例にも直面。",
+    "title": "サティア・ナデラ、全AIモデルが「侵害されている」と警告し「緊急ブレーキ」を要求",
+    "summary": "マイクロソフトCEOが悪意ある利用と壊滅的障害を防ぐため、義務的な安全メカニズムを要求。",
     "source": [
       "/r/technology",
       "techcrunch.com"
