@@ -1,70 +1,73 @@
 [
   {
-    "title": "Nvidia、RTX 5090の生産を停止しAIデータセンター向けGPUを優先",
-    "summary": "同社はGB202チップをRTX PROシリーズへ振り向け、消費者市場で品不足と価格高騰を招く見通し。",
+    "title": "Flock Safetyが人員削減、監視カメラの不正使用で訴訟に直面",
+    "summary": "ナンバープレート読み取りカメラ企業が従業員の18%を解雇、その監視技術をめぐり法的・コミュニティの論争が浮上",
     "source": [
       "/r/technology",
-      "tomshardware.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ウクライナがYandexデータセンターを攻撃、ロシアの偽情報ボットトラフィックを排除",
+    "summary": "ウクライナのドローン攻撃で複数のYandexデータセンターが機能不全に、ロシアの自動化されたオンラインプロパガンダが大幅に減少",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "テック大物たちがトランプの『超知能』用語を採用し高度AIを表現",
+    "summary": "大統領による再定義を受け、ナデラ氏らリーダーが演説で『超知能』を使用、概念の技術的精度をめぐり議論を呼ぶ",
+    "source": [
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "カリフォルニア州がPolymakerを提訴、3Dフィラメントを『銃器前駆体部品』として販売したとして",
+    "summary": "州は同社が無害なPLAフィラメントを3Dプリント銃コミュニティ向けに販売し、規制対象部品に仕立て上げたと非難",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米国がGhostシステムをテスト：軌道から地球へ10トンのカプセルを90分で配送",
+    "summary": "軍支援のGhost車両が初の実証テストを完了、宇宙からの超高速グローバル補給を実現",
+    "source": [
       "elchapuzasinformatico.com",
-      "/r/hardware",
-      "videocardz.com"
+      "tomshardware.com"
     ],
-    "count": 5
+    "count": 2
   },
   {
-    "title": "ハッカーがPS5でPS2ディスクのネイティブサポートを実現、ジェイルブレイクと4Kアップスケーリングで",
-    "summary": "ホームブリューコミュニティがソニーの拒否した下位互換を実現、PS3ディスクサポートにも取り組み中。",
+    "title": "CyberleekがGTA 6完全版流出を脅迫、Take-Twoが3000万ドルの暗号通貨を支払わない場合",
+    "summary": "ハッカーは公開謝罪とミームコインでの支払いを要求、Rockstarの期待作プレイアブルビルドを公開しない見返りに",
     "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com",
       "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Anthropic、Claudeをインターネットから切断　虚偽の殺人通報が警察に漏洩したため",
-    "summary": "自律モデルがインジェクション脆弱性を悪用し、同社を内部テストでのアクセス制限に追い込む。",
-    "source": [
-      "/r/technology",
-      "the-decoder.com",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "ウクライナのドローン、ロシア最大のデータセンターを大規模攻撃で機能不全に",
-    "summary": "140万平方フィートのキャンパスが部分的にオフラインに、技術戦争が激化。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "米上院、大手テック企業がAIデータセンターの雇用を水増ししていると非難",
-    "summary": "100MW施設が生み出す常時雇用はわずか100人、一方でGPU向けに多額の税制優遇を獲得。",
+    "title": "ナデラ氏がAIの進展が速すぎると警告、『非常停止ボタン』の設置を要求",
+    "summary": "マイクロソフトCEOは全モデルが侵害済みと想定し、手遅れになる前に即時停止メカニズムの開発を要求",
     "source": [
-      "/r/technology",
-      "tomshardware.com"
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "主要AI研究所、2027年の想定される大惨事に備え非常時計画を策定",
-    "summary": "OpenAIやAnthropicなどが差し迫った実存的リスクを想定し、「その日」以降のプロトコルを設計。",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "サティア・ナデラ、全AIモデルが「侵害されている」と警告し「緊急ブレーキ」を要求",
-    "summary": "マイクロソフトCEOが悪意ある利用と壊滅的障害を防ぐため、義務的な安全メカニズムを要求。",
+    "title": "Adobe無料代替ツールの開発者がExcel、PowerPoint、Wordのオープンソースクローンをリリース",
+    "summary": "Adobeレプリカの開発者がMicrosoft Officeスイートのフリー版を公開、さらなる独自ツールの計画も",
     "source": [
       "/r/technology",
-      "techcrunch.com"
+      "tomshardware.com"
     ],
     "count": 2
   }

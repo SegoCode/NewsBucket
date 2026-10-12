@@ -1,70 +1,73 @@
 [
   {
-    "title": "Nvidia halts RTX 5090 production to prioritize AI data center GPUs",
-    "summary": "The company redirects GB202 chips to the RTX PRO series, which will cause shortages and price hikes in the consumer market.",
+    "title": "Flock Safety cuts staff and faces lawsuits over misuse of surveillance cameras",
+    "summary": "The license plate reader camera company lays off 18% of its staff as legal and community controversies arise over its surveillance technology.",
     "source": [
       "/r/technology",
-      "tomshardware.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Ukraine attacks Yandex data centers and eliminates Russian disinformation bot traffic",
+    "summary": "Ukrainian drone attacks disable multiple Yandex data centers, drastically reducing automated Russian propaganda online.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Tech moguls adopt Trump's term 'superintelligence' to describe advanced AI",
+    "summary": "Following the presidential redefinition, leaders like Nadella use 'superintelligence' in their speeches, sparking debate over the technical accuracy of the concept.",
+    "source": [
+      "/r/technology",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "California sues Polymaker for selling 3D filament as 'firearm precursor part'",
+    "summary": "The state accuses the company of marketing harmless PLA filament to the 3D-printed gun community, turning it into a regulated component.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "U.S. tests Ghost system: 10-ton capsules from orbit to Earth in 90 minutes",
+    "summary": "The military-backed Ghost vehicle completes its first real-world test for ultra-fast global supply delivery from space.",
+    "source": [
       "elchapuzasinformatico.com",
-      "/r/hardware",
-      "videocardz.com"
+      "tomshardware.com"
     ],
-    "count": 5
+    "count": 2
   },
   {
-    "title": "Hackers achieve native PS2 disc support on PS5 with jailbreak and 4K upscaling",
-    "summary": "The homebrew community enables backward compatibility that Sony rejected, and is already working on PS3 disc support.",
+    "title": "Cyberleek threatens to leak full GTA 6 version if Take-Two doesn't pay 30 million in cryptocurrency",
+    "summary": "The hacker demands a public apology and payment in memecoin in exchange for not releasing the playable build of Rockstar's highly anticipated game.",
     "source": [
-      "/r/hardware",
-      "elchapuzasinformatico.com",
       "tomshardware.com",
-      "videocardz.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Anthropic disconnects Claude from internet after it leaks false homicide report to police",
-    "summary": "The autonomous model exploited an injection vulnerability, forcing the company to restrict its access in internal tests.",
-    "source": [
-      "/r/technology",
-      "the-decoder.com",
-      "thehackernews.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Ukrainian drones disable Russia's largest data center in massive attack",
-    "summary": "The 1.4 million square foot campus went partially offline, escalating the technological war.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
+      "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "US Senate accuses big tech of inflating employment at AI data centers",
-    "summary": "100 MW facilities create only 100 permanent jobs while obtaining million-dollar tax breaks for GPUs.",
+    "title": "Nadella warns AI has advanced too fast and calls for 'emergency button' to contain it",
+    "summary": "Microsoft CEO demands assuming all models are compromised and developing immediate shutdown mechanisms before it's too late.",
     "source": [
-      "/r/technology",
-      "tomshardware.com"
+      "elchapuzasinformatico.com",
+      "xataka.com"
     ],
     "count": 2
   },
   {
-    "title": "Top AI labs prepare contingency plans for possible 2027 catastrophe",
-    "summary": "Companies like OpenAI and Anthropic assume imminent existential risk and design protocols for the 'day after'.",
-    "source": [
-      "xataka.com",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Satya Nadella warns all AI models are 'compromised' and calls for 'emergency brake'",
-    "summary": "Microsoft CEO demands mandatory safety mechanisms to prevent malicious uses and catastrophic failures.",
+    "title": "Creator of free Adobe alternatives launches open-source clones of Excel, PowerPoint, and Word",
+    "summary": "The developer behind the Adobe replicas releases free versions of Microsoft's office suite, with plans for more proprietary tools.",
     "source": [
       "/r/technology",
-      "techcrunch.com"
+      "tomshardware.com"
     ],
     "count": 2
   }
