@@ -144,6 +144,55 @@ test("falls back to gemini after an OpenCode rate limit", async () => {
 		JSON.parse(geminiInit.body).generationConfig.responseMimeType,
 		"application/json",
 	);
+	assert.equal(
+		JSON.parse(geminiInit.body).generationConfig.temperature,
+		undefined,
+	);
+});
+
+const freeTierResponse = () =>
+	new Response(
+		JSON.stringify({
+			type: "error",
+			error: {
+				type: "FreeTierError",
+				message: "OpenCode's free tier can only be used from within OpenCode.",
+			},
+		}),
+		{ status: 403 },
+	);
+
+test("falls back to gemini on an OpenCode free-tier refusal", async () => {
+	const urls = [];
+	const result = await request(
+		async (url) => {
+			urls.push(url);
+			if (String(url).includes("opencode.ai")) return freeTierResponse();
+			return geminiResponse(validClusters);
+		},
+		() => true,
+		"gemini-key",
+	);
+
+	assert.deepEqual(result, validClusters);
+	assert.deepEqual(urls, [
+		"https://opencode.ai/zen/v1/chat/completions",
+		"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent",
+	]);
+});
+
+test("does not retry an OpenCode free-tier refusal without gemini", async () => {
+	let calls = 0;
+
+	await assert.rejects(
+		request(async () => {
+			calls++;
+			return freeTierResponse();
+		}),
+		/failed after 1 attempts: .*FreeTierError/,
+	);
+
+	assert.equal(calls, 1);
 });
 
 test("retries OpenCode rate limits when gemini is not configured", async () => {
