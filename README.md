@@ -49,7 +49,7 @@ OPENCODE_API_KEY=your-key
 GEMINI_API_KEY=your-key
 ```
 
-OpenCode is the primary LLM. Gemini (`gemini-3.5-flash-lite`) is used only if OpenCode returns HTTP 429.
+OpenCode is the primary LLM. Gemini (`gemini-3.5-flash-lite`) is used if OpenCode returns HTTP 429 or refuses its free tier (HTTP 403).
 
 Then run the pipeline:
 
