@@ -55,8 +55,18 @@ const readJsonStream = async (response) => {
 	return JSON.parse(jsonrepair(content));
 };
 
-const isRateLimit = (error) =>
-	/HTTP 429\b/.test(error instanceof Error ? error.message : String(error));
+const errorText = (error) =>
+	error instanceof Error ? error.message : String(error);
+
+const isRateLimit = (error) => /HTTP 429\b/.test(errorText(error));
+
+const isFreeTierRefusal = (error) => {
+	const message = errorText(error);
+	return /HTTP 403\b/.test(message) && /FreeTierError/.test(message);
+};
+
+const shouldFallback = (error) =>
+	isRateLimit(error) || isFreeTierRefusal(error);
 
 const geminiPayload = (messages) => {
 	const system = [];
@@ -74,7 +84,6 @@ const geminiPayload = (messages) => {
 	return {
 		contents,
 		generationConfig: {
-			temperature: 0.2,
 			responseMimeType: "application/json",
 		},
 		...(system.length > 0 && {
@@ -125,12 +134,14 @@ export const requestOpenCodeJson = async ({
 	context,
 	maxAttempts = MAX_ATTEMPTS,
 	onRetry = (attempt, error) => {
-		const message = error instanceof Error ? error.message : String(error);
-		console.warn(`  ↻ retry ${attempt}/${MAX_ATTEMPTS - 1} (${message})`);
+		console.warn(
+			`  ↻ retry ${attempt}/${MAX_ATTEMPTS - 1} (${errorText(error)})`,
+		);
 	},
 	wait = delay,
 }) => {
 	let lastError;
+	let attempts = 0;
 	const sessionId = opencodeId("ses");
 	const requestId = opencodeId("msg");
 
@@ -170,10 +181,9 @@ export const requestOpenCodeJson = async ({
 			return result;
 		} catch (error) {
 			lastError = error;
-			if (isRateLimit(error) && geminiApiKey) {
-				const message =
-					error instanceof Error ? error.message : String(error);
-				console.warn(`  ↻ fallback gemini (${message})`);
+			attempts = attempt + 1;
+			if (shouldFallback(error) && geminiApiKey) {
+				console.warn(`  ↻ fallback gemini (${errorText(error)})`);
 				return requestGeminiJson({
 					fetchImpl,
 					apiKey: geminiApiKey,
@@ -182,18 +192,15 @@ export const requestOpenCodeJson = async ({
 					context,
 				});
 			}
-			if (attempt + 1 < maxAttempts) {
-				const retryNumber = attempt + 1;
-				onRetry(retryNumber, error);
-				if (retryNumber === 2) await wait(FINAL_RETRY_DELAY);
-			}
+			if (isFreeTierRefusal(error) || attempt + 1 >= maxAttempts) break;
+			const retryNumber = attempt + 1;
+			onRetry(retryNumber, error);
+			if (retryNumber === 2) await wait(FINAL_RETRY_DELAY);
 		}
 	}
 
-	const message =
-		lastError instanceof Error ? lastError.message : String(lastError);
 	throw new Error(
-		`${context}: failed after ${maxAttempts} attempts: ${message}`,
+		`${context}: failed after ${attempts} attempts: ${errorText(lastError)}`,
 		{ cause: lastError },
 	);
 };
