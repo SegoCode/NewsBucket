@@ -42,14 +42,13 @@ cd code
 pnpm install
 ```
 
-Add your RSS feed URLs to `.txt` files in `code/rss_input/`. Create a `.env` file in `code/` with your API keys:
+Add your RSS feed URLs to `.txt` files in `code/rss_input/`.
 
-```
-OPENCODE_API_KEY=your-key
-GEMINI_API_KEY=your-key
-```
+Clustering and translation use the official OpenCode v2 CLI (`@opencode/cli` 2.0.29), installed locally by pnpm. No API key, account, TUI, or global OpenCode installation is needed. The selected model is `opencode/nemotron-3.5-lightning-free`; free availability and usage limits are controlled by OpenCode.
 
-OpenCode is the primary LLM. Gemini (`gemini-3.5-flash-lite`) is used if OpenCode returns HTTP 429 or refuses its free tier (HTTP 403).
+The client runs `opencode run --standalone --format json`, sends prompts over stdin, and validates the JSON extracted from text events. Each run uses a temporary home and working directory without inherited credentials, plugins, or project configuration. Tool approval requests are automatically rejected in non-interactive mode; `--auto` is never enabled. Temporary state is removed after each run.
+
+The previous direct Zen HTTP client and Gemini fallback are removed. GitHub Actions uses the same project-local CLI and requires no LLM secrets.
 
 Then run the pipeline:
 

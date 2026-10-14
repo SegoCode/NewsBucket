@@ -18,19 +18,3 @@ export const validTranslation = validClusters.map((cluster) => ({
 	title: `Translated: ${cluster.title}`,
 	summary: `Translated: ${cluster.summary}`,
 }));
-
-export const sseResponse = (payload, status = 200) => {
-	const events = Array.isArray(payload)
-		? payload
-				.map(
-					(content) =>
-						`data: ${JSON.stringify({ choices: [{ delta: { content } }] })}\n\n`,
-				)
-				.concat("data: [DONE]\n\n")
-				.join("")
-		: payload;
-	return new Response(events, {
-		status,
-		headers: { "Content-Type": "text/event-stream" },
-	});
-};

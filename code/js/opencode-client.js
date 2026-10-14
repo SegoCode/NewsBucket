@@ -1,134 +1,108 @@
-import "dotenv/config";
-import { randomBytes } from "node:crypto";
-import { EventSourceParserStream } from "eventsource-parser/stream";
+import { execFile } from "node:child_process";
+import { mkdtemp, rm } from "node:fs/promises";
+import { tmpdir } from "node:os";
+import { join } from "node:path";
+import { fileURLToPath } from "node:url";
 import { jsonrepair } from "jsonrepair";
 
-const API_URL = "https://opencode.ai/zen/v1/chat/completions";
-const MODEL = "nemotron-3-ultra-free";
-const USER_AGENT = "opencode/1.18.31";
+const CLI = fileURLToPath(
+	import.meta.resolve("@opencode/cli/bin/opencode.exe"),
+);
+const MODEL = "opencode/nemotron-3.5-lightning-free";
 const MAX_ATTEMPTS = 4;
 const FINAL_RETRY_DELAY = 60_000;
-const GEMINI_URL =
-	"https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent";
-const BASE62 = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-const TOOLS = [
-	{
-		type: "function",
-		function: {
-			name: "bash",
-			description: "This tool is currently unavailable and must not be used.",
-			parameters: { type: "object", properties: {} },
+const CLI_CONFIG = JSON.stringify({
+	snapshots: false,
+	agents: {
+		build: {
+			// `run` rejects approval requests without a TTY; never pass --auto.
+			permissions: [{ action: "*", resource: "*", effect: "ask" }],
 		},
 	},
-	{
-		type: "function",
-		function: {
-			name: "read",
-			description: "This tool is currently unavailable and must not be used.",
-			parameters: { type: "object", properties: {} },
-		},
-	},
-];
-const opencodeId = (prefix) => {
-	let tail = "";
-	for (const byte of randomBytes(14)) tail += BASE62[byte % 62];
-	return `${prefix}_${randomBytes(6).toString("hex")}${tail}`;
-};
+});
 const delay = (milliseconds) =>
 	new Promise((resolve) => setTimeout(resolve, milliseconds));
-
-const readJsonStream = async (response) => {
-	if (!response.body) throw new Error("response has no body");
-
-	const stream = response.body
-		.pipeThrough(new TextDecoderStream())
-		.pipeThrough(new EventSourceParserStream());
-	let content = "";
-
-	for await (const event of stream) {
-		if (event.data === "[DONE]") break;
-		if (!event.data) continue;
-		const delta = JSON.parse(event.data).choices?.[0]?.delta || {};
-		content += delta.content || "";
-	}
-
-	return JSON.parse(jsonrepair(content));
-};
-
 const errorText = (error) =>
 	error instanceof Error ? error.message : String(error);
 
-const isRateLimit = (error) => /HTTP 429\b/.test(errorText(error));
-
-const isFreeTierRefusal = (error) => {
-	const message = errorText(error);
-	return /HTTP 403\b/.test(message) && /FreeTierError/.test(message);
-};
-
-const shouldFallback = (error) =>
-	isRateLimit(error) || isFreeTierRefusal(error);
-
-const geminiPayload = (messages) => {
-	const system = [];
-	const contents = [];
-	for (const message of messages) {
-		if (message.role === "system") {
-			system.push(message.content);
-			continue;
-		}
-		contents.push({
-			role: message.role === "assistant" ? "model" : "user",
-			parts: [{ text: message.content }],
+const runOpenCode = async (prompt, context) => {
+	const directory = await mkdtemp(join(tmpdir(), "newsbucket-opencode-"));
+	try {
+		return await new Promise((resolve, reject) => {
+			const child = execFile(
+				CLI,
+				[
+					"run",
+					"--standalone",
+					"--format",
+					"json",
+					"--model",
+					MODEL,
+					"--agent",
+					"build",
+					"--title",
+					context,
+				],
+				{
+					cwd: directory,
+					// Do not inherit API keys, saved accounts, plugins, or project config.
+					env: {
+						PATH: process.env.PATH,
+						SystemRoot: process.env.SystemRoot,
+						HOME: directory,
+						USERPROFILE: directory,
+						TMPDIR: directory,
+						TEMP: directory,
+						TMP: directory,
+						XDG_DATA_HOME: join(directory, "data"),
+						XDG_CONFIG_HOME: join(directory, "config"),
+						XDG_CACHE_HOME: join(directory, "cache"),
+						OPENCODE_CONFIG_DIR: join(directory, "config"),
+						OPENCODE_CONFIG_PROJECT_DISABLE: "true",
+						OPENCODE_CONFIG_CONTENT: CLI_CONFIG,
+					},
+					timeout: 300_000,
+					maxBuffer: 16 * 1024 * 1024,
+				},
+				(error, stdout, stderr) => {
+					if (error) {
+						reject(
+							new Error(
+								[error.message, stdout, stderr].filter(Boolean).join("\n"),
+								{
+									cause: error,
+								},
+							),
+						);
+					} else resolve(stdout);
+				},
+			);
+			child.stdin?.on("error", (error) => {
+				child.kill();
+				reject(error);
+			});
+			// News can exceed argv limits and must never be interpreted by a shell.
+			child.stdin?.end(prompt);
 		});
+	} finally {
+		await rm(directory, { recursive: true, force: true });
 	}
-	return {
-		contents,
-		generationConfig: {
-			responseMimeType: "application/json",
-		},
-		...(system.length > 0 && {
-			systemInstruction: { parts: [{ text: system.join("\n") }] },
-		}),
-	};
 };
 
-const requestGeminiJson = async ({
-	fetchImpl,
-	apiKey,
-	messages,
-	validate,
-	context,
-}) => {
-	const response = await fetchImpl(GEMINI_URL, {
-		method: "POST",
-		headers: {
-			"Content-Type": "application/json",
-			"x-goog-api-key": apiKey,
-		},
-		body: JSON.stringify(geminiPayload(messages)),
-	});
-	if (!response.ok) {
-		throw new Error(
-			`${context}: gemini HTTP ${response.status} ${await response.text()}`,
-		);
+const readCliJson = (stdout) => {
+	let content = "";
+	for (const line of stdout.split(/\r?\n/)) {
+		if (!line.trim()) continue;
+		const event = JSON.parse(line);
+		if (event.type === "error")
+			throw new Error(event.error?.message || JSON.stringify(event.error));
+		if (event.type === "text") content += event.part.text;
 	}
-
-	const payload = await response.json();
-	const text = payload.candidates?.[0]?.content?.parts
-		?.map((part) => part.text || "")
-		.join("");
-	const result = JSON.parse(jsonrepair(text || ""));
-	if (!validate(result))
-		throw new Error(
-			`${context}: deterministic validation failed (possible hallucination)`,
-		);
-	return result;
+	return JSON.parse(jsonrepair(content));
 };
 
 export const requestOpenCodeJson = async ({
-	fetchImpl = globalThis.fetch,
-	apiKey = process.env.OPENCODE_API_KEY,
-	geminiApiKey = process.env.GEMINI_API_KEY,
+	runImpl = runOpenCode,
 	messages,
 	validate = () => true,
 	context,
@@ -140,40 +114,11 @@ export const requestOpenCodeJson = async ({
 	},
 	wait = delay,
 }) => {
+	const prompt = messages.map(({ content }) => content).join("\n\n");
 	let lastError;
-	let attempts = 0;
-	const sessionId = opencodeId("ses");
-	const requestId = opencodeId("msg");
-
 	for (let attempt = 0; attempt < maxAttempts; attempt++) {
 		try {
-			const response = await fetchImpl(API_URL, {
-				method: "POST",
-				headers: {
-					"Content-Type": "application/json",
-					Authorization: `Bearer ${apiKey}`,
-					"User-Agent": USER_AGENT,
-					"x-opencode-session": sessionId,
-					"x-opencode-request": requestId,
-					"x-opencode-client": "desktop",
-					"x-opencode-project": "global",
-				},
-				body: JSON.stringify({
-					model: MODEL,
-					messages,
-					temperature: 0.2,
-					stream: true,
-					tools: TOOLS,
-					tool_choice: "none",
-				}),
-			});
-			if (!response.ok) {
-				throw new Error(
-					`${context}: HTTP ${response.status} ${await response.text()}`,
-				);
-			}
-
-			const result = await readJsonStream(response);
+			const result = readCliJson(await runImpl(prompt, context));
 			if (!validate(result))
 				throw new Error(
 					`${context}: deterministic validation failed (possible hallucination)`,
@@ -181,26 +126,14 @@ export const requestOpenCodeJson = async ({
 			return result;
 		} catch (error) {
 			lastError = error;
-			attempts = attempt + 1;
-			if (shouldFallback(error) && geminiApiKey) {
-				console.warn(`  ↻ fallback gemini (${errorText(error)})`);
-				return requestGeminiJson({
-					fetchImpl,
-					apiKey: geminiApiKey,
-					messages,
-					validate,
-					context,
-				});
-			}
-			if (isFreeTierRefusal(error) || attempt + 1 >= maxAttempts) break;
+			if (attempt + 1 >= maxAttempts) break;
 			const retryNumber = attempt + 1;
 			onRetry(retryNumber, error);
 			if (retryNumber === 2) await wait(FINAL_RETRY_DELAY);
 		}
 	}
-
 	throw new Error(
-		`${context}: failed after ${attempts} attempts: ${errorText(lastError)}`,
+		`${context}: failed after ${maxAttempts} attempts: ${errorText(lastError)}`,
 		{ cause: lastError },
 	);
 };

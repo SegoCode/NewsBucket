@@ -1,0 +1,16 @@
+allowBuilds:
+  '@opencode/cli': true
+minimumReleaseAgeExclude:
+  - '@opencode/cli-darwin-arm64@2.0.29'
+  - '@opencode/cli-darwin-x64-baseline@2.0.29'
+  - '@opencode/cli-darwin-x64@2.0.29'
+  - '@opencode/cli-linux-arm64-musl@2.0.29'
+  - '@opencode/cli-linux-arm64@2.0.29'
+  - '@opencode/cli-linux-x64-baseline-musl@2.0.29'
+  - '@opencode/cli-linux-x64-baseline@2.0.29'
+  - '@opencode/cli-linux-x64-musl@2.0.29'
+  - '@opencode/cli-linux-x64@2.0.29'
+  - '@opencode/cli-windows-arm64@2.0.29'
+  - '@opencode/cli-windows-x64-baseline@2.0.29'
+  - '@opencode/cli-windows-x64@2.0.29'
+  - '@opencode/cli@2.0.29'

@@ -92,9 +92,6 @@ jobs:
         name: Generate clusters
         run: pnpm run cluster -- "$CATEGORY"
         working-directory: ./code
-        env:
-          OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       - *commit
 
   cluster-finance:
@@ -175,9 +172,6 @@ jobs:
         continue-on-error: true
         run: pnpm run translate
         working-directory: ./code
-        env:
-          OPENCODE_API_KEY: ${{ secrets.OPENCODE_API_KEY }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       - *commit
 
       - name: Report translation failures
