@@ -1,13 +1,7 @@
-const CLUSTER_KEYS = ["count", "source", "summary", "title"];
-
-const hasClusterKeys = (cluster) =>
+const isCluster = (cluster) =>
 	cluster &&
 	typeof cluster === "object" &&
 	!Array.isArray(cluster) &&
-	Object.keys(cluster).sort().join(",") === CLUSTER_KEYS.join(",");
-
-const isCluster = (cluster) =>
-	hasClusterKeys(cluster) &&
 	typeof cluster.title === "string" &&
 	cluster.title.trim().length > 0 &&
 	typeof cluster.summary === "string" &&
@@ -22,7 +16,7 @@ const isCluster = (cluster) =>
 	cluster.count >= 2;
 
 export const isValidClusters = (clusters, availableSources) => {
-	if (!Array.isArray(clusters) || clusters.length === 0) return false;
+	if (!Array.isArray(clusters)) return false;
 	const remainingSources = availableSources
 		? [...availableSources].reduce(
 				(counts, source) => counts.set(source, (counts.get(source) || 0) + 1),
@@ -30,12 +24,8 @@ export const isValidClusters = (clusters, availableSources) => {
 			)
 		: undefined;
 
-	for (const [index, cluster] of clusters.entries()) {
-		if (
-			!isCluster(cluster) ||
-			(index > 0 && clusters[index - 1].count < cluster.count)
-		)
-			return false;
+	for (const cluster of clusters) {
+		if (!isCluster(cluster)) return false;
 		if (!remainingSources) continue;
 		for (const source of cluster.source) {
 			const remaining = remainingSources.get(source) || 0;
@@ -54,16 +44,16 @@ export const isValidTranslation = (translated, original) =>
 	translated.every((cluster, index) => {
 		const sourceCluster = original[index];
 		return (
-			hasClusterKeys(cluster) &&
-			typeof cluster.title === "string" &&
-			cluster.title.trim().length > 0 &&
-			typeof cluster.summary === "string" &&
-			cluster.summary.trim().length > 0 &&
+			isCluster(cluster) &&
 			cluster.count === sourceCluster.count &&
-			Array.isArray(cluster.source) &&
-			cluster.source.length === sourceCluster.source.length &&
-			cluster.source.every(
-				(source, sourceIndex) => source === sourceCluster.source[sourceIndex],
-			)
+			cluster.source.every((source) => sourceCluster.source.includes(source))
 		);
 	});
+
+export const normalizeClusters = (clusters) =>
+	clusters.map(({ title, summary, source, count }) => ({
+		title: title.trim(),
+		summary: summary.trim(),
+		source,
+		count,
+	}));

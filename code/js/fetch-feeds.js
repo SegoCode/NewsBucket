@@ -4,48 +4,60 @@ import { fileURLToPath } from "node:url";
 import { convert } from "html-to-text";
 import normalizeUrl from "normalize-url";
 import RssParser from "rss-parser";
+import { isFeedItem, isValidFeedOutput } from "./feed-validation.js";
+import { errorText, retry } from "./retry.js";
+import { writeJson } from "./write-json.js";
 
 const INPUT_DIR = "rss_input";
 const OUTPUT_DIR = "rss_output";
+const parser = new RssParser();
+const delay = (milliseconds) =>
+	new Promise((resolve) => setTimeout(resolve, milliseconds));
 
-const parser = new RssParser({
-	timeout: 10000,
-	headers: {
-		"User-Agent":
-			"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
-	},
-});
-
-const delay = (ms) => new Promise((r) => setTimeout(r, ms));
-
-export const parseFeedUrls = (content) =>
-	content
-		.split("\n")
-		.map((line) => line.trim())
-		.filter((line) => line && !line.startsWith("#"));
+export const parseFeedUrls = (content) => [
+	...new Set(
+		content
+			.split("\n")
+			.map((line) => line.trim())
+			.filter((line) => line && !line.startsWith("#")),
+	),
+];
 
 export const sourceName = (url) => {
 	const u = new URL(url);
 	const host = u.hostname.replace(/^www\./, "");
 	const m = u.pathname.match(/^\/r\/([^/]+)/);
-	if (m && (host === "old.reddit.com" || host === "reddit.com")) {
+	if (m && (host === "old.reddit.com" || host === "reddit.com"))
 		return `/r/${decodeURIComponent(m[1])}`;
-	}
 	return host;
 };
 
-export const mapFeedItems = (feed, now = () => new Date().toISOString()) =>
-	feed.items.map((item) => ({
-		id: item.guid || item.link || item.title,
-		title: item.title,
-		description: convert(item.contentSnippet || item.content || ""),
-		content: convert(item.content || item.contentSnippet || ""),
-		url: normalizeUrl(item.link || ""),
-		publishedAt: item.isoDate || now(),
-		author: item.creator || item.author || null,
-		categories: item.categories || [],
-		source: { name: sourceName(feed.link), url: feed.link },
-	}));
+export const mapFeedItems = (
+	feed,
+	now = () => new Date().toISOString(),
+	url = feed.link,
+) =>
+	feed.items.flatMap((item) => {
+		try {
+			const mapped = {
+				id: String(item.guid || item.link || item.title || ""),
+				title: item.title,
+				description: convert(item.contentSnippet || item.content || ""),
+				content: convert(item.content || item.contentSnippet || ""),
+				url: normalizeUrl(item.link || ""),
+				publishedAt: item.isoDate || now(),
+				author: item.creator || item.author || null,
+				categories: item.categories || [],
+				source: { name: sourceName(url), url },
+			};
+			if (!isFeedItem(mapped))
+				throw new Error("Invalid article title, URL, date or source");
+			return [mapped];
+		} catch (error) {
+			console.warn(`[${url}] discarded article: ${errorText(error)}`);
+			return [];
+		}
+	});
 
 export const buildFeedOutput = ({ results, urls, fetchedAt }) => {
 	const seen = new Set();
@@ -56,7 +68,7 @@ export const buildFeedOutput = ({ results, urls, fetchedAt }) => {
 		.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
 	const errors = results.flatMap((result, index) =>
 		result.status === "rejected"
-			? [{ url: urls[index], error: result.reason.message }]
+			? [{ url: urls[index], error: errorText(result.reason) }]
 			: [],
 	);
 	return {
@@ -68,62 +80,121 @@ export const buildFeedOutput = ({ results, urls, fetchedAt }) => {
 	};
 };
 
-const fetchFeeds = async () => {
+export const fetchFeeds = async ({
+	inputDir = INPUT_DIR,
+	outputDir = OUTPUT_DIR,
+	fetchImpl = globalThis.fetch,
+	wait = delay,
+	onRetry,
+} = {}) => {
 	let lastReddit = 0;
 	let redditChain = Promise.resolve();
-	const fetchOne = (url) => {
-		if (!url.includes("reddit.com")) {
-			return parser.parseURL(url).then((feed) => mapFeedItems(feed));
+	const download = async (url) => {
+		const response = await fetchImpl(url, {
+			signal: AbortSignal.timeout(15_000),
+			headers: {
+				"User-Agent":
+					"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+				Accept:
+					"application/rss+xml, application/atom+xml, application/xml, text/xml",
+			},
+		});
+		if (!response.ok) {
+			const retryAfter = response.headers.get("retry-after");
+			await response.body?.cancel();
+			throw Object.assign(new Error(`HTTP ${response.status}`), {
+				status: response.status,
+				retryAfterMs:
+					retryAfter && /^\d+$/.test(retryAfter)
+						? Number(retryAfter) * 1000
+						: Math.max(0, Date.parse(retryAfter) - Date.now()) || 0,
+			});
 		}
-		const next = redditChain.then(async () => {
-			const wait = 60_000 - (Date.now() - lastReddit);
-			if (wait > 0) await delay(wait);
-			lastReddit = Date.now();
-			return mapFeedItems(await parser.parseURL(url));
-		});
-		redditChain = next.then(
-			() => {},
-			() => {},
+		return mapFeedItems(
+			await parser.parseString(await response.text()),
+			undefined,
+			url,
 		);
-		return next;
 	};
+	const fetchOne = (url) =>
+		retry(
+			() => {
+				const host = new URL(url).hostname;
+				if (host !== "reddit.com" && !host.endsWith(".reddit.com"))
+					return download(url);
+				const next = redditChain.then(async () => {
+					const remaining = 60_000 - (Date.now() - lastReddit);
+					if (remaining > 0) await wait(remaining);
+					lastReddit = Date.now();
+					return download(url);
+				});
+				// The original promise still carries the error to retry/allSettled.
+				redditChain = next.catch(() => undefined);
+				return next;
+			},
+			{ context: url, wait, onRetry },
+		);
 	const files = fs
-		.readdirSync(INPUT_DIR)
-		.filter((file) => file.endsWith(".txt"));
-
+		.readdirSync(inputDir)
+		.filter((file) => file.endsWith(".txt"))
+		.sort();
+	if (!files.length) throw new Error("No RSS feeds configured");
+	const failures = [];
 	console.log(`→ Fetching ${files.length} source(s)...`);
-
 	for (const file of files) {
-		const urls = parseFeedUrls(
-			fs.readFileSync(path.join(INPUT_DIR, file), "utf-8"),
-		);
-		const results = await Promise.allSettled(urls.map((url) => fetchOne(url)));
-
-		const output = buildFeedOutput({
-			results,
-			urls,
-			fetchedAt: new Date().toISOString(),
-		});
-		const outFile = path.join(
-			OUTPUT_DIR,
-			`${path.basename(file, ".txt")}.json`,
-		);
-		fs.mkdirSync(path.dirname(outFile), { recursive: true });
-		fs.writeFileSync(outFile, JSON.stringify(output, null, 2));
-
-		console.log(
-			`✓ ${path.basename(file, ".txt")}: ${output.items.length} items, ${output.errors.length} errors`,
-		);
-		if (output.errors.length > 0) console.log("Errors:", output.errors);
+		try {
+			const urls = parseFeedUrls(
+				fs.readFileSync(path.join(inputDir, file), "utf-8"),
+			);
+			const results = new Array(urls.length);
+			let index = 0;
+			await Promise.all(
+				Array.from({ length: Math.min(4, urls.length) }, async () => {
+					while (index < urls.length) {
+						const current = index++;
+						try {
+							results[current] = {
+								status: "fulfilled",
+								value: await fetchOne(urls[current]),
+							};
+						} catch (reason) {
+							results[current] = { status: "rejected", reason };
+						}
+					}
+				}),
+			);
+			const output = buildFeedOutput({
+				results,
+				urls,
+				fetchedAt: new Date().toISOString(),
+			});
+			if (!isValidFeedOutput(output))
+				throw new Error(
+					`${file}: no usable articles; ${output.errors.map(({ url, error }) => `${url}: ${error}`).join("; ")}`,
+				);
+			writeJson(
+				path.join(outputDir, `${path.basename(file, ".txt")}.json`),
+				output,
+			);
+			console.log(
+				`✓ ${path.basename(file, ".txt")}: ${output.totalItems} items, ${output.totalErrors} errors`,
+			);
+			if (output.errors.length) console.warn("Errors:", output.errors);
+		} catch (error) {
+			failures.push(error);
+			console.error(`✗ ${file}: ${errorText(error)}`);
+		}
 	}
-
+	if (failures.length)
+		throw new AggregateError(
+			failures,
+			`${failures.length} RSS category(s) failed; previous output preserved`,
+		);
 	console.log("✓ Fetch complete");
 };
 
 if (
 	process.argv[1] &&
 	fileURLToPath(import.meta.url) === path.resolve(process.argv[1])
-) {
+)
 	await fetchFeeds();
-	process.exit(0);
-}

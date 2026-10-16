@@ -1,8 +1,14 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { isValidClusters, isValidTranslation } from "./cluster-validation.js";
-import { requestOpenCodeJson } from "./opencode-client.js";
+import {
+	isValidClusters,
+	isValidTranslation,
+	normalizeClusters,
+} from "./cluster-validation.js";
+import { requestLlmJson } from "./llm-client.js";
+import { errorText } from "./retry.js";
+import { writeJson } from "./write-json.js";
 
 const OUTPUT_DIR = "rss_output_cluster";
 
@@ -17,14 +23,22 @@ export const translateClusters = async ({ clusters, languages, generate }) => {
 
 	const translations = [];
 	for (const language of languages) {
-		const translated = await generate({ ...language, clusters });
+		const translated = clusters.length
+			? await generate({ ...language, clusters })
+			: [];
 		if (!isValidTranslation(translated, clusters)) {
 			const count = Array.isArray(translated) ? translated.length : "invalid";
 			throw new Error(
 				`${language.code}: expected ${clusters.length} clusters, got ${count}`,
 			);
 		}
-		translations.push({ code: language.code, translated });
+		translations.push({
+			code: language.code,
+			translated: normalizeClusters(translated).map((cluster, index) => ({
+				...cluster,
+				source: clusters[index].source,
+			})),
+		});
 	}
 
 	return translations;
@@ -37,7 +51,7 @@ export const translateFiles = async ({
 	generate = async ({ code, prompt, clusters: sourceClusters, file }) => {
 		console.log(`→ ${file} → ${code}`);
 		if (process.env.GITHUB_ACTIONS) console.log("  Generating...");
-		return requestOpenCodeJson({
+		return requestLlmJson({
 			context: `${file}/${code}`,
 			messages: [
 				{ role: "system", content: prompt },
@@ -63,6 +77,7 @@ export const translateFiles = async ({
 		throw new Error(`Unknown cluster category: ${category}`);
 	if (language && languages.length === 0)
 		throw new Error(`Unsupported translation language: ${language}`);
+	if (!files.length) throw new Error("No source cluster files found");
 
 	console.log(
 		`→ Translating ${files.length} file(s) × ${languages.length} language(s)...`,
@@ -70,9 +85,18 @@ export const translateFiles = async ({
 	const errors = [];
 
 	for (const file of files) {
-		const clusters = JSON.parse(
-			fs.readFileSync(path.join(outputDir, file), "utf-8"),
-		);
+		let clusters;
+		try {
+			clusters = JSON.parse(
+				fs.readFileSync(path.join(outputDir, file), "utf-8"),
+			);
+			if (!isValidClusters(clusters))
+				throw new Error("Invalid source clusters");
+		} catch (error) {
+			errors.push(error);
+			console.error(`✗ ${file}: ${errorText(error)}`);
+			continue;
+		}
 		for (const target of languages) {
 			try {
 				const [{ code, translated }] = await translateClusters({
@@ -81,16 +105,11 @@ export const translateFiles = async ({
 					generate: (options) => generate({ ...options, file }),
 				});
 				const outFile = `${path.basename(file, "_clusters_es.json")}_clusters_${code}.json`;
-				fs.writeFileSync(
-					path.join(outputDir, outFile),
-					JSON.stringify(translated, null, 2),
-				);
+				writeJson(path.join(outputDir, outFile), translated);
 				console.log(`✓ ${outFile}: ${translated.length} clusters`);
 			} catch (error) {
 				errors.push(error);
-				console.error(
-					`✗ ${file} → ${target.code}: ${error instanceof Error ? error.message : error}`,
-				);
+				console.error(`✗ ${file} → ${target.code}: ${errorText(error)}`);
 			}
 		}
 	}

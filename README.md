@@ -44,17 +44,22 @@ pnpm install
 
 Add your RSS feed URLs to `.txt` files in `code/rss_input/`.
 
-Clustering and translation use the official OpenCode v2 CLI (`@opencode/cli` 2.0.29), installed locally by pnpm. No API key, account, TUI, or global OpenCode installation is needed. The selected model is `opencode/nemotron-3.5-lightning-free`; free availability and usage limits are controlled by OpenCode.
+Clustering and translation call `requestLlmJson` in `code/js/llm-client.js`. This is the only routing layer; HTTP request/response adapters live in `code/js/llm-connectors.js`. There is no CLI, agent, shell execution or client impersonation.
 
-The client runs `opencode run --standalone --format json`, sends prompts over stdin, and validates the JSON extracted from text events. Each run uses a temporary home and working directory without inherited credentials, plugins, or project configuration. Tool approval requests are automatically rejected in non-interactive mode; `--auto` is never enabled. Temporary state is removed after each run.
+OpenRouter is the only configured connector. Both clustering and translation read `OPENROUTER_API_KEY` from the environment. For GitHub Actions, create a repository secret named **`OPENROUTER_API_KEY`**; every generation job already receives it. For local runs, export the same variable. Never commit the key.
 
-The previous direct Zen HTTP client and Gemini fallback are removed. GitHub Actions uses the same project-local CLI and requires no LLM secrets.
+The primary model is `nvidia/nemotron-3.5-super-vl:free`, the highest-ranked free Nemotron in the catalog's published intelligence benchmark at selection time. Fallbacks are `nvidia/nemotron-3-ultra-550b-a55b:free`, `google/gemma-4-31b-it:free`, then `openrouter/free`, which routes to other available free models. Requests also set a zero-price ceiling for tokens, requests and images; no paid fallback is enabled.
+
+`LLM_CONNECTORS` in `llm-connectors.js` is an ordered array. Each connector declares `id`, `required` credential names, an ordered `models` array, `request(messages, credentials, model)` and `text(payload)`. The client exhausts that connector's models before advancing to the next connector. Add entries to those arrays to extend fallback policy; consumers do not change. Only OpenRouter is implemented/configured today.
+
+Only JSON passing the caller's integrity validator is returned. Failed, refused, empty or token-truncated answers advance to the next model/connector. Missing credentials skip the connector without making requests. When every route fails, generation fails and the previous output is preserved.
+
+[OpenRouter's free-tier limits](https://openrouter.ai/docs/limits) currently allow up to 20 requests/minute and 50 free requests/day without the qualifying credit purchase; purchasing at least $10 in credits raises the daily free-model allowance to 1,000. Free models still have shared capacity limits: fallbacks cannot bypass account-wide quotas. Model availability is listed in the [live catalog](https://openrouter.ai/api/v1/models).
 
 Then run the pipeline:
 
 ```
 pnpm run feeds              # fetch RSS feeds → rss_output/
-pnpm run validate-feeds     # validate RSS output
 pnpm run cluster            # cluster articles → rss_output_cluster/
 pnpm run translate          # translate clusters
 pnpm run test               # run pipeline unit tests
@@ -65,6 +70,19 @@ pnpm run test:all            # run unit tests and browser scenes
 The browser tests use Playwright and launch Chromium locally. Install the browser once with `pnpm exec playwright install chromium`.
 
 Or run the complete pipeline with `pnpm run pipeline`.
+
+### Failure handling
+
+- RSS requests have a 15-second abort deadline, four concurrent workers, and up to three attempts for temporary network errors, HTTP 408/429 and 5xx. Backoff includes jitter and respects `Retry-After` within a one-minute bound. Permanent errors such as HTTP 404 are recorded without retrying. Reddit requests remain spaced one minute apart, including retries.
+- A bad article is reported and discarded without losing the rest of its feed. A failed feed does not discard healthy feeds. A category with no usable articles fails without overwriting its previous output; other categories are still fetched.
+- Each model request has a 90-second deadline and at most two attempts for temporary network errors or HTTP 408/5xx. Quota/authentication/model refusals (429/401/403/404) advance immediately to the next fallback. Invalid answers advance without retrying the same generation. The response-size limit is 16 MiB; configured credentials are redacted from diagnostics and redirects are not followed.
+- Corrupt JSON, missing answers, invented sources, incorrect counts and changed translation metadata remain failures. Exact object keys, diagnostic wording and input ordering are not acceptance criteria. Unknown model fields are stripped before publication; cluster ordering is applied locally.
+- An empty cluster array is a valid edition with no qualifying stories. Expired inputs and empty editions do not consume model calls. Each JSON file is replaced atomically after validation. Failed categories/languages retain their previous published file; successful independent results can still be published.
+- Actions blocks downstream jobs when fresh RSS generation/validation/publication fails. A clustering failure does not stop unrelated categories; only categories successfully published in that run are translated. Git push has three bounded attempts with rebase; conflicts remain errors rather than overwriting remote work.
+
+Validation runs where data enters the pipeline and immediately before publication: `feed-validation.js` checks feed items and unique URLs; `cluster-validation.js` checks clusters, source counts and translation metadata. There are no separate post-generation validation commands duplicating those checks. Independent translations may retain their previous edition when another language fails.
+
+The regression suite exercises stalled HTTP bodies, quota exhaustion, malformed/truncated responses, secret redaction, model fallbacks and ordered connector failover without needing live credentials.
 
 ### Run on GitHub Actions
 

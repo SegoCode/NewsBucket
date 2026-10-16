@@ -1,17 +1,10 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import {
-	isValidClusters,
-	isValidTranslation,
-} from "../cluster-validation.js";
+import { isValidClusters, isValidTranslation } from "../cluster-validation.js";
 import { validClusters, validTranslation } from "./test-fixtures.js";
 
 test("accepts clusters that satisfy the output contract", () => {
 	assert.equal(isValidClusters(validClusters), true);
-});
-
-test("rejects an empty cluster list", () => {
-	assert.equal(isValidClusters([]), false);
 });
 
 test("rejects clusters that break the shape contract", () => {
@@ -27,12 +20,7 @@ test("rejects clusters that break the shape contract", () => {
 	);
 	assert.equal(isValidClusters([{ ...validClusters[0], title: " " }]), false);
 	assert.equal(isValidClusters([{ ...validClusters[0], summary: "" }]), false);
-	assert.equal(
-		isValidClusters([{ ...validClusters[0], explanation: "extra" }]),
-		false,
-	);
 	assert.equal(isValidClusters([{ ...validClusters[0], count: 3.5 }]), false);
-	assert.equal(isValidClusters([...validClusters].reverse()), false);
 });
 
 test("rejects sources that were not sent to the model", () => {
@@ -101,18 +89,28 @@ test("rejects a translation that changes structure or source metadata", () => {
 		),
 		false,
 	);
-	assert.equal(
-		isValidTranslation(
-			validTranslation.map((cluster, index) =>
-				index === 0 ? { ...cluster, explanation: "extra" } : cluster,
-			),
-			validClusters,
-		),
-		false,
-	);
 	const [{ summary: _summary, ...withoutSummary }, ...rest] = validTranslation;
 	assert.equal(
 		isValidTranslation([withoutSummary, ...rest], validClusters),
 		false,
+	);
+});
+
+test("accepts an edition with no qualifying stories", () => {
+	assert.equal(isValidClusters([]), true);
+	assert.equal(isValidTranslation([], []), true);
+	assert.equal(isValidTranslation(validTranslation, []), false);
+});
+
+test("accepts equivalent source sets without depending on source order", () => {
+	assert.equal(
+		isValidTranslation(
+			validTranslation.map((cluster) => ({
+				...cluster,
+				source: [...cluster.source].reverse(),
+			})),
+			validClusters,
+		),
+		true,
 	);
 });

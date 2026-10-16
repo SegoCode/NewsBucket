@@ -2,14 +2,13 @@
 	"name": "news-wired",
 	"version": "1.0.0",
 	"description": "RSS/Atom feed reader",
+	"packageManager": "pnpm@11.11.0",
 	"type": "module",
 	"scripts": {
 		"feeds": "node js/fetch-feeds.js",
-		"validate-feeds": "node js/validate-feeds.js",
 		"cluster": "node js/cluster-news.js",
 		"translate": "node js/translate-clusters.js",
-		"validate-clusters": "node js/validate-clusters.js",
-		"pipeline": "pnpm run feeds && pnpm run validate-feeds && pnpm run cluster && pnpm run translate",
+		"pipeline": "pnpm run feeds && pnpm run cluster && pnpm run translate",
 		"test": "node --test js/test/*.test.js",
 		"test:browser": "node miniapp/test/run-browser.js",
 		"test:all": "pnpm run test && pnpm run test:browser",
@@ -18,7 +17,6 @@
 		"check": "biome check --write ."
 	},
 	"dependencies": {
-		"@opencode/cli": "2.0.29",
 		"@toon-format/toon": "^2.3.0",
 		"html-to-text": "^9.0.5",
 		"jsonrepair": "^3.14.0",

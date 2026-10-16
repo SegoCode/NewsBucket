@@ -14,7 +14,7 @@ jobs:
   fetch-rss:
     name: Fetch RSS
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions: &write-permissions
       contents: write
     env:
@@ -33,7 +33,7 @@ jobs:
         name: Setup pnpm
         uses: pnpm/action-setup@v6
         with:
-          version: latest
+          version: 11.11.0
 
       - &setup-node
         name: Setup Node.js
@@ -45,28 +45,29 @@ jobs:
 
       - &install
         name: Install dependencies
-        run: pnpm install
+        run: pnpm install --frozen-lockfile
         working-directory: ./code
 
       - name: Fetch RSS feeds
-        timeout-minutes: 8
+        timeout-minutes: 12
         run: pnpm run feeds
-        working-directory: ./code
-
-      - name: Validate RSS output
-        run: pnpm run validate-feeds
         working-directory: ./code
 
       - &commit
         name: Commit
+        timeout-minutes: 3
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add -- "$OUTPUT_PATH"
           if ! git diff --staged --quiet; then
             git commit -m "$COMMIT_MESSAGE $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git pull --rebase origin main
-            git push origin HEAD:main
+            for attempt in 1 2 3; do
+              git pull --rebase origin main || exit 1
+              if git push origin HEAD:main; then break; fi
+              if [ "$attempt" -eq 3 ]; then exit 1; fi
+              sleep "$((attempt * 2))"
+            done
           else
             echo "No changes to commit"
           fi
@@ -74,8 +75,9 @@ jobs:
   cluster-tech:
     name: Cluster tech
     needs: fetch-rss
-    if: ${{ !cancelled() }}
+    if: ${{ !cancelled() && needs.fetch-rss.result == 'success' }}
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     permissions: *write-permissions
     env:
       CATEGORY: tech
@@ -92,13 +94,16 @@ jobs:
         name: Generate clusters
         run: pnpm run cluster -- "$CATEGORY"
         working-directory: ./code
+        env: &llm-env
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       - *commit
 
   cluster-finance:
     name: Cluster finance
-    needs: cluster-tech
-    if: ${{ !cancelled() }}
+    needs: [fetch-rss, cluster-tech]
+    if: ${{ !cancelled() && needs.fetch-rss.result == 'success' }}
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     permissions: *write-permissions
     env:
       CATEGORY: finance
@@ -115,9 +120,10 @@ jobs:
 
   cluster-gaming:
     name: Cluster gaming
-    needs: cluster-finance
-    if: ${{ !cancelled() }}
+    needs: [fetch-rss, cluster-finance]
+    if: ${{ !cancelled() && needs.fetch-rss.result == 'success' }}
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     permissions: *write-permissions
     env:
       CATEGORY: gaming
@@ -134,9 +140,10 @@ jobs:
 
   cluster-japan:
     name: Cluster japan
-    needs: cluster-gaming
-    if: ${{ !cancelled() }}
+    needs: [fetch-rss, cluster-gaming]
+    if: ${{ !cancelled() && needs.fetch-rss.result == 'success' }}
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     permissions: *write-permissions
     env:
       CATEGORY: japan
@@ -153,13 +160,19 @@ jobs:
 
   translate:
     name: Translate clusters
-    needs: cluster-japan
-    if: ${{ !cancelled() }}
+    needs: [fetch-rss, cluster-tech, cluster-finance, cluster-gaming, cluster-japan]
+    if: ${{ !cancelled() && needs.fetch-rss.result == 'success' && (needs.cluster-tech.result == 'success' || needs.cluster-finance.result == 'success' || needs.cluster-gaming.result == 'success' || needs.cluster-japan.result == 'success') }}
     runs-on: ubuntu-latest
+    timeout-minutes: 180
     permissions: *write-permissions
     env:
       OUTPUT_PATH: code/rss_output_cluster/
       COMMIT_MESSAGE: Update cluster translations
+      CATEGORIES: >-
+        ${{ needs.cluster-tech.result == 'success' && 'tech' || '' }}
+        ${{ needs.cluster-finance.result == 'success' && 'finance' || '' }}
+        ${{ needs.cluster-gaming.result == 'success' && 'gaming' || '' }}
+        ${{ needs.cluster-japan.result == 'success' && 'japan' || '' }}
 
     steps:
       - *checkout
@@ -170,8 +183,16 @@ jobs:
       - name: Translate all categories
         id: translate
         continue-on-error: true
-        run: pnpm run translate
+        run: |
+          status=0
+          for category in $CATEGORIES; do
+            for language in en jp; do
+              pnpm run translate -- "$category" "$language" || status=1
+            done
+          done
+          exit "$status"
         working-directory: ./code
+        env: *llm-env
       - *commit
 
       - name: Report translation failures
