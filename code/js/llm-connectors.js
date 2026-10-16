@@ -16,8 +16,8 @@ export const LLM_CONNECTORS = [
 	{
 		id: "openrouter",
 		models: [
-			"nvidia/nemotron-3.5-super-vl:free",
 			"nvidia/nemotron-3-ultra-550b-a55b:free",
+			"nvidia/nemotron-3.5-super-vl:free",
 			"google/gemma-4-31b-it:free",
 			"openrouter/free",
 		],
@@ -33,7 +33,9 @@ export const LLM_CONNECTORS = [
 					model,
 					messages,
 					stream: false,
-					max_tokens: 8192,
+					max_tokens: 16384,
+					// News transformations need the final JSON, not extended thinking.
+					reasoning: { enabled: false },
 					provider: {
 						max_price: { prompt: 0, completion: 0, request: 0, image: 0 },
 					},
