@@ -1,57 +1,94 @@
 [
   {
-    "title": "Tesla、スペースXの推進器搭載の新ロードスターを発表　極限加速と飛行能力を2028年に約束",
-    "summary": "Teslaは、スペースXの推進器を搭載した更新版ロードスターを発表。0から100km/hまで1秒未満で加速し、垂直離着陸が可能。生産は2028年の予定。",
+    "title": "モッダーがDLSS 5完全版をAMD GPU 3世代分に移植成功",
+    "summary": "コミュニティがNVIDIAのスケーリング技術スイート全体、Multi Frame Generationを含む、を公式非対応のRadeonハードウェアで実行可能にした。",
     "source": [
       "elchapuzasinformatico.com",
-      "xataka.com",
-      "thenextweb.com",
-      "techcrunch.com",
-      "producthunt.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
-    "count": 5
+    "count": 3
   },
   {
-    "title": "ウクライナ紛争：ドローン攻撃とサイバーセキュリティの脅威が増大、ロシアとウクライナが互いにスパイ行為やデジタル攻撃を非難",
-    "summary": "ウクライナはドローンとミサイルでロシアのデータセンターを攻撃。一方、西側企業は中国やロシアに関係するAIエージェントやハッカーによる侵入試行を報告し、サイバーセキュリティに関するグローバルな警戒が発令されている。",
+    "title": "ZOTAC RTX 5090搭載パレット2台、約7000万円相当がブラジル空港で行方不明",
+    "summary": "ハイエンド製品の盗難または紛失が、複数の専門ハードウェアメディアとテックフォーラムで報告されている。",
     "source": [
-      "/r/technology",
-      "feeds.feedburner.com",
-      "thenextweb.com",
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "NVIDIA RTX Sparkノートブックが市場投入、初期価格は2599ドルから、ローカルAI性能の向上を約束",
-    "summary": "NVIDIAの新型ノートパソコン「RTX Spark」が2599ドルから販売開始。Windowsノートパソコンの進化形として、AI機能に重点を置いたモデルとして位置づけられている。",
-    "source": [
-      "news.kagi.com",
       "tomshardware.com",
-      "hardzone.es",
+      "/r/hardware",
       "videocardz.com"
     ],
-    "count": 4
-  },
-  {
-    "title": "GTA 6、ローンチトレイラーを公開し2026年11月の発売日を確定",
-    "summary": "RockstarがGTA 6の最初の公式トレイラーを発表。長年の憶測を経て、発売日を2026年11月19日に設定。",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com",
-      "news.kagi.com"
-    ],
     "count": 3
   },
   {
-    "title": "ASML、リソグラフィー装置の需要に直面し中国との交渉でサプライチェーン確保に圧力",
-    "summary": "ASMLはAIブームによる支出増で過去最高の売上を記録。一方、EUと米国は技術依存の削減を図り、北京との協定を通じて、重要なサプライヤーの供給中断を防ごうとしている。",
+    "title": "ソニー、PS6の部品コストがメモリだけで700ユーロ超えと警告",
+    "summary": "業界分析によると、AIデータセンター需要によるRAMとストレージの高騰で、最終価格は1000ドル超えの見込み。",
     "source": [
-      "tomshardware.com",
-      "xataka.com",
+      "/r/technology",
       "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 2
+  },
+  {
+    "title": "正式版DLSS 5、リーク版比90%性能向上とVRAM使用量削減を実現",
+    "summary": "NVIDIAが新ニューラルネットワークモデルでワークロード処理が2倍高速化、ネイティブ非対応ゲームでビデオメモリ消費20%減を確認。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、株式5%を公益基金に割り当て",
+    "summary": "AIスタートアップが独立した信託構造を創設、投資家への金銭的リターンより安全性と公益を優先。",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "MapQuest、ルート上のFlockカメラ位置表示する監視レイヤーをリリース",
+    "summary": "ナビゲーション中、複数企業の自動ナンバープレートリーダーの位置と向きをドライバーが確認可能に。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta、Character.AIの主要人材を大量雇用で獲得（企業買収なし）",
+    "summary": "チャットボットスタートアップの人材を吸収、正式な買収なしで主要研究者を自社AIモデル開発に確保。",
+    "source": [
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic、AI安全法案を提案—死者50人または10億ドル被害が発生してから介入",
+    "summary": "法案は商務省を唯一のAIモデル停止権限を持つ規制機関とし、極めて高い介入閾値を設定。",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "研究者ら、Wi-Fi信号で隠し銃を検知するAIを開発",
+    "summary": "電波の擾乱を分析し、カメラや金属探知機なしで隠された拳銃を特定するシステム。",
+    "source": [
+      "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta、Ray-Banスマートグラスがユーザー非承諾で会話録音していたことを認める",
+    "summary": "ウェアラブルデバイスのプライバシー不備を認め、公表後修正済みと説明。",
+    "source": [
+      "xataka.com",
+      "/r/technology"
+    ],
+    "count": 2
   }
 ]
