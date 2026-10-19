@@ -1,57 +1,94 @@
 [
   {
-    "title": "Tesla revela el nuevo Roadster con propulsores espaciales y promete aceleración extrema y capacidad de vuelo para 2028",
-    "summary": "Tesla presenta una versión actualizada del Roadster equipada con propulsores de SpaceX, capaz de acelerar de 0 a 100 km/h en menos de un segundo y con despegue vertical, con producción prevista para 2028.",
+    "title": "Modders logran portar DLSS 5 completo a tarjetas gráficas AMD de tres generaciones",
+    "summary": "La comunidad ha conseguido ejecutar la suite completa de tecnologías de escalado de NVIDIA, incluyendo Multi Frame Generation, en hardware Radeon no compatible oficialmente.",
     "source": [
       "elchapuzasinformatico.com",
-      "xataka.com",
-      "thenextweb.com",
-      "techcrunch.com",
-      "producthunt.com"
+      "videocardz.com",
+      "tomshardware.com"
     ],
-    "count": 5
+    "count": 3
   },
   {
-    "title": "Conflicto en Ucrania: ataques con drones y ciberseguridad aumentan mientras rusos y ucranianos se acusan mutuamente de espionaje y agresiones digitales",
-    "summary": "Ucrania ataca centros de datos rusos con drones y misiles, mientras empresas occidentales reportan intentos de infiltración por agentes de IA y hackers vinculados a China y Rusia, desencadenando alertas de ciberseguridad global.",
+    "title": "Dos palés con tarjetas gráficas ZOTAC RTX 5090 valorados en 470.000 dólares desaparecen en aeropuerto brasileño",
+    "summary": "El robo o pérdida de la mercancía de alta gama ha sido reportado por múltiples medios especializados en hardware y foros de tecnología.",
     "source": [
-      "/r/technology",
-      "feeds.feedburner.com",
-      "thenextweb.com",
-      "wired.com",
-      "techcrunch.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Nvidia RTX Spark laptops llegan al mercado con precios iniciales de $2,599 y prometen mejoras en rendimiento de IA local",
-    "summary": "Los nuevos portátiles RTX Spark de Nvidia empiezan a venderse desde $2,599, posicionándose como una evolución significativa para laptops Windows con foco en capacidades de IA.",
-    "source": [
-      "news.kagi.com",
       "tomshardware.com",
-      "hardzone.es",
+      "/r/hardware",
       "videocardz.com"
     ],
-    "count": 4
-  },
-  {
-    "title": "GTA 6 estrena su tráiler de lanzamiento y confirma fecha para noviembre de 2026",
-    "summary": "Rockstar presenta el primer tráiler oficial de GTA 6, anunciando su lanzamiento para el 19 de noviembre de 2026 tras años de especulación.",
-    "source": [
-      "hardzone.es",
-      "elchapuzasinformatico.com",
-      "news.kagi.com"
-    ],
     "count": 3
   },
   {
-    "title": "ASML enfrenta presión por la demanda de equipos de litografía mientras negocia con China para asegurar su cadena de suministro crítica",
-    "summary": "ASML reporta récords de ventas ante el auge del gasto en IA, mientras la UE y EE.UU. intentan reducir su dependencia tecnológica y buscan acuerdos con Pekín para salvar a un proveedor clave de posibles interrupciones.",
+    "title": "Sony advierte que el coste de los componentes de la PS6 superará los 700 euros solo en memoria",
+    "summary": "Los análisis del sector apuntan a un precio final superior a los 1.000 dólares por el encarecimiento de la RAM y el almacenamiento impulsado por los centros de datos de IA.",
     "source": [
-      "tomshardware.com",
-      "xataka.com",
+      "/r/technology",
       "elchapuzasinformatico.com"
     ],
-    "count": 3
+    "count": 2
+  },
+  {
+    "title": "DLSS 5 oficial supera en un 90% el rendimiento de la versión filtrada y reduce uso de VRAM",
+    "summary": "NVIDIA confirma que el nuevo modelo de red neuronal procesa cargas de trabajo el doble de rápido y consume un 20% menos de memoria de video en juegos no soportados nativamente.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic destina el 5% de sus acciones a un fondo de beneficio público",
+    "summary": "La startup de IA crea una estructura fiduciaria independiente para priorizar la seguridad y el bien común sobre el retorno financiero a inversores.",
+    "source": [
+      "techcrunch.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "MapQuest lanza capa de vigilancia que muestra ubicaciones de cámaras Flock en rutas",
+    "summary": "La función permite a los conductores ver la localización y orientación de lectores de matrícula automatizados de múltiples empresas durante la navegación.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta adquiere la mayoría de la plantilla de Character.AI en acuerdo de contratación masiva",
+    "summary": "El gigante tecnológico absorbe el talento de la startup de chatbots sin comprar la empresa formalmente, asegurando investigadores clave para sus modelos de IA.",
+    "source": [
+      "techcrunch.com",
+      "wired.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic propone ley de seguridad IA que solo actuaría tras 50 muertes o 1.000 millones en daños",
+    "summary": "El proyecto de ley convertiría al Departamento de Comercio en el único regulador capaz de detener un modelo de IA, estableciendo un umbral altísimo de intervención.",
+    "source": [
+      "/r/technology",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Investigadores entrenan IA para detectar armas de fuego ocultas mediante señales Wi-Fi",
+    "summary": "El sistema analiza perturbaciones en las ondas de radio para identificar pistolas escondidas sin necesidad de cámaras ni detectores de metales físicos.",
+    "source": [
+      "tomshardware.com",
+      "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Meta admite que sus gafas inteligentes Ray-Ban grababan conversaciones sin consentimiento del usuario",
+    "summary": "La compañía reconoce el fallo de privacidad en sus dispositivos wearables y asegura haber implementado una solución tras la denuncia pública.",
+    "source": [
+      "xataka.com",
+      "/r/technology"
+    ],
+    "count": 2
   }
 ]
