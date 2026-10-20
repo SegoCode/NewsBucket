@@ -1,39 +1,181 @@
 [
   {
-    "title": "アジアと日本の株式市場が下落、米国のテックおよびAI銘柄の売りに押されて",
-    "summary": "日本、韓国、台湾、マレーシア、シンガポール、中国の株価指数が下落または安値で寄り付いた。米国の人工知能および半導体関連銘柄の悪影響を受けたためだ。",
+    "title": "NvidiaとAIがウォール街のテック株リバウンドを牽引、調整後に反発",
+    "summary": "ナスダックが半導体と大手テック銘柄の買いにより1%以上上昇。",
+    "source": [
+      "bolsamania.com",
+      "ft.com",
+      "nasdaq.com",
+      "handelsblatt.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "フランス、パリなどで夜間外出禁止令を発令、数日間の騒乱を受け",
+    "summary": "政府が暴力的な都市抗議で揺れる国内の治安回復を目指す。",
+    "source": [
+      "assets.wor.jp",
+      "bolsamania.com",
+      "handelsblatt.com",
+      "ft.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "イベックス35が大幅安、フランスの政治危機が重し",
+    "summary": "フランスの騒乱でスペイン指数が1.5%下落、欧州銀行セクターにも圧力。",
+    "source": [
+      "bolsamania.com",
+      "e00-expansion.uecdn.es",
+      "handelsblatt.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "OpenAI、AnthropicのIPO前に300億ドル資金調達を加速",
+    "summary": "スタートアップがライバルに対抗するためIPO前の大型調達を急ぐ。",
     "source": [
       "investing.com",
-      "nasdaq.com",
+      "/r/stocks",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "欧州市場が下落、フランス危機の波及と利上げ懸念で",
+    "summary": "イベックス、ダックス、ユーロストックス50が政治不安と利回り上昇で赤字決着。",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com",
       "assets.wor.jp"
     ],
     "count": 3
   },
   {
-    "title": "SKハイニックスが20%以上急落、AIおよびメモリ関連株の下落を受けて",
-    "summary": "韓国のチップメーカーSKハイニックスが、AIおよびメモリ関連銘柄の調整を受けて大幅安となった。マイクロンなど同業他社にも波及している。",
+    "title": "原油上昇、中東緊張とドル安で供給懸念とショートカバー",
+    "summary": "ブレントとWTIが供給中断リスクとショートカバーで上昇。",
     "source": [
+      "assets.wor.jp",
       "investing.com",
-      "nasdaq.com",
-      "/r/stocks"
+      "bolsamania.com"
     ],
     "count": 3
   },
   {
-    "title": "日本のサッカーおよびテック関連銘柄がまちまちの動き",
-    "summary": "複数の日本人選手が欧州リーグでプレーする一方、ディスコなどの企業が過去最高益を計上する中、日本の株式市場は下落している。",
+    "title": "円が158円台まで下落、米利上げと原油高で",
+    "summary": "日米金利差拡大とエネルギー輸入コスト増で円安進行。",
     "source": [
       "assets.wor.jp",
+      "bolsamania.com",
+      "ft.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "モルガン・スタンレー、アマゾン目標株価を350ドルに引き上げ、AWS好調で",
+    "summary": "同行はアマゾンを「トップピック」に選定、クラウド主導の5つの成長触媒を評価。",
+    "source": [
+      "bolsamania.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ゴールドマン・サックス、CoreWeaveを買い推奨、急落後のバリューを見込む",
+    "summary": "同行は「全てのネオクラウドが同じではない」と主張、株価暴落後の価値を評価。",
+    "source": [
+      "bolsamania.com",
       "nasdaq.com"
     ],
     "count": 2
   },
   {
-    "title": "廃棄物管理およびエネルギー企業のフリートパートナーズとクリーナウェイが明確な材料なしに上昇",
-    "summary": "両オーストラリア企業が、入手可能なニュースに即時の説明がないまま株価を上げている。",
+    "title": "インドネシア、MSCI格下げ回避でジャカルタ指数から銘柄を除外",
+    "summary": "インドネシア取引所が流動性の低い銘柄を除外し、グローバル指数プロバイダーの基準を満たす。",
+    "source": [
+      "ft.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Waymo、ロボタクシー艦隊を2万台まで5倍に拡大計画",
+    "summary": "Alphabet傘下が米国での商用展開を加速、Semaforが報じる。",
     "source": [
       "investing.com",
-      "/r/stocks"
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米食品大手2社、90億ドル合併破談で法廷闘争へ",
+    "summary": "KrogerとAlbertsonsが規制当局の阻止を受け訴訟に。",
+    "source": [
+      "ft.com",
+      "investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "銅：BHP第1四半期生産19%減、鉱石品位低下と操業停止で",
+    "summary": "鉱山大手が操業中断で赤金属の供給減を警告。",
+    "source": [
+      "investing.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "日本、7社が協業しアンモニア推進船を建造",
+    "summary": "NYKライン、JERAなどが脱炭素海運へ自動車運搬船で推進。",
+    "source": [
+      "assets.wor.jp",
+      "investing.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "豪NAB銀、2500人削減を発表、業務効率化とDXで",
+    "summary": "オーストラリアの銀行が効率化とデジタル変革計画で人員削減。",
+    "source": [
+      "investing.com",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "フォルクスワーゲン、2030年まで賃金凍結を計画、EV転換資金確保で",
+    "summary": "独自動車大手がコスト削減のため組合と緊縮案で交渉。",
+    "source": [
+      "bolsamania.com",
+      "handelsblatt.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "トランプ氏、米中露3カ国会談を提案、核軍縮に焦点",
+    "summary": "元大統領がウクライナ紛争より核兵器削減を外交優先課題に位置づけ。",
+    "source": [
+      "assets.wor.jp",
+      "ft.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "米KFC、40年の契約解消しペプシからコカ・コーラへ切り替え",
+    "summary": "フライドチキンチェーンが「コーラ戦争」でペプシコとの歴史的提携を終了。",
+    "source": [
+      "assets.wor.jp",
+      "e00-expansion.uecdn.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "JPモルガン、米経済安全保障関連企業に79億ドル投資",
+    "summary": "同行が防衛、エネルギー、インフラなど戦略セクターに資本配分。",
+    "source": [
+      "assets.wor.jp",
+      "ft.com"
     ],
     "count": 2
   }
