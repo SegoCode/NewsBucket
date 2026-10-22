@@ -1,93 +1,194 @@
 [
   {
-    "title": "モッダーがDLSS 5完全版をAMD GPU 3世代分に移植成功",
-    "summary": "コミュニティがNVIDIAのスケーリング技術スイート全体、Multi Frame Generationを含む、を公式非対応のRadeonハードウェアで実行可能にした。",
+    "title": "PHPの重大な脆弱性が数百万のWebサイトを危険にさらす",
+    "summary": "OpenAIとGoogleが発見したPHPのリモートコード実行の脆弱性がインターネットの大部分に影響を与え、緊急パッチが必要となっている。",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com"
+      "the-decoder.com",
+      "techcrunch.com",
+      "xataka.com",
+      "feeds.feedburner.com",
+      "/r/technology",
+      "wired.com",
+      "news.kagi.com"
     ],
-    "count": 3
+    "count": 7
   },
   {
-    "title": "ZOTAC RTX 5090搭載パレット2台、約7000万円相当がブラジル空港で行方不明",
-    "summary": "ハイエンド製品の盗難または紛失が、複数の専門ハードウェアメディアとテックフォーラムで報告されている。",
+    "title": "Metaがケンブリッジ・アナリティカ事件で250億ドルの支払いを命じられる",
+    "summary": "ニューメキシコ州の裁判所が、Facebookユーザーのデータ利用について欺いたとして、Metaに過去最高額の罰金を科した。",
     "source": [
-      "tomshardware.com",
-      "/r/hardware",
-      "videocardz.com"
+      "xataka.com",
+      "thenextweb.com",
+      "techcrunch.com",
+      "/r/technology",
+      "wired.com"
     ],
-    "count": 3
+    "count": 5
   },
   {
-    "title": "ソニー、PS6の部品コストがメモリだけで700ユーロ超えと警告",
-    "summary": "業界分析によると、AIデータセンター需要によるRAMとストレージの高騰で、最終価格は1000ドル超えの見込み。",
+    "title": "エレクトロニック・アーツがBioWareを閉鎖し、次期Mass Effectを中止",
+    "summary": "EAが400人を解雇し、30年の歴史を持つベテランスタジオを閉鎖。Mass Effectの新作開発も白紙に。",
     "source": [
       "/r/technology",
+      "thenextweb.com",
+      "videocardz.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "『グランツーリスモ7』がPS5エミュレーションでPCに登場",
+    "summary": "PlayStation独占だったシミュレーターが、エミュレーターKyTyPS5のおかげでPCでも動作可能に。ただしパフォーマンスは限定的。",
+    "source": [
+      "hardzone.es",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Qualcommが世界的な人員削減を発表、AIとデータセンターへ戦略転換",
+    "summary": "チップメーカーが世界規模で人員を削減しながら、戦略をAIサーバーとエッジコンピューティングへシフト。",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Xbox Cloud GamingがGame Pass非加入者向けに時間課金制を導入",
+    "summary": "Microsoftが月額サブスクリプションなしで、3.99ドルで10時間のクラウドゲームプレイを可能にし、サービスを開放。",
+    "source": [
+      "/r/technology",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "次世代Xbox『Project Helix』は2028年発売予定、価格は1,200〜1,800ドル",
+    "summary": "Microsoftが次期コンソールを2028年のホリデーシーズンに発売予定。プレミアムなハイエンドデバイスとして位置づけ。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AIスタートアップのFlapping Airplanesが60億ドルの評価額に到達",
+    "summary": "設立1年のスタートアップが10億ドルを調達し、AI投資ブームの中で1月以来、評価額を4倍に伸ばす。",
+    "source": [
+      "techcrunch.com",
+      "thenextweb.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMDとIntelが協業し、PyTorchでCPU上のAI推論を統一",
+    "summary": "歴史的なライバルが協力し、両社のプロセッサでAIモデルを実行する単一のPyTorchコードパスを構築。NVIDIAへの対抗を狙う。",
+    "source": [
+      "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "正式版DLSS 5、リーク版比90%性能向上とVRAM使用量削減を実現",
-    "summary": "NVIDIAが新ニューラルネットワークモデルでワークロード処理が2倍高速化、ネイティブ非対応ゲームでビデオメモリ消費20%減を確認。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic、株式5%を公益基金に割り当て",
-    "summary": "AIスタートアップが独立した信託構造を創設、投資家への金銭的リターンより安全性と公益を優先。",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "MapQuest、ルート上のFlockカメラ位置表示する監視レイヤーをリリース",
-    "summary": "ナビゲーション中、複数企業の自動ナンバープレートリーダーの位置と向きをドライバーが確認可能に。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta、Character.AIの主要人材を大量雇用で獲得（企業買収なし）",
-    "summary": "チャットボットスタートアップの人材を吸収、正式な買収なしで主要研究者を自社AIモデル開発に確保。",
-    "source": [
-      "techcrunch.com",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic、AI安全法案を提案—死者50人または10億ドル被害が発生してから介入",
-    "summary": "法案は商務省を唯一のAIモデル停止権限を持つ規制機関とし、極めて高い介入閾値を設定。",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "研究者ら、Wi-Fi信号で隠し銃を検知するAIを開発",
-    "summary": "電波の擾乱を分析し、カメラや金属探知機なしで隠された拳銃を特定するシステム。",
+    "title": "SamsungとSK Hynixが中国工場を改良し、先進メモリチップを生産",
+    "summary": "韓国の巨人が中国の工場をアップグレードし、AIデータセンターの需要に応える次世代RAMとHBMを生産へ。",
     "source": [
       "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Airbnbがホストによるゲストへの清掃要求を禁止",
+    "summary": "食器洗いや洗濯などの退去時の義務を制限。オーナーから批判の声も。",
+    "source": [
+      "techcrunch.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Meta、Ray-Banスマートグラスがユーザー非承諾で会話録音していたことを認める",
-    "summary": "ウェアラブルデバイスのプライバシー不備を認め、公表後修正済みと説明。",
+    "title": "TeslaがカリフォルニアでOptimusロボットの生産を開始、利益は43%減",
+    "summary": "人型ロボットの製造を開始する中、四半期利益が大幅減、売上は横ばい。",
     "source": [
-      "xataka.com",
+      "techcrunch.com",
       "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Automatticが経営陣再編後に人員削減を開始",
+    "summary": "WordPress.comの親会社が、幹部の退任と取締役会の変更に伴い、人員削減を実施。",
+    "source": [
+      "techcrunch.com",
+      "thenextweb.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GMがコンピューティングとAIを強化し、中国メーカーに対抗",
+    "summary": "米自動車大手が、インテリジェント車両で進出する中国ライバルに対抗するため、技術戦略を強化。",
+    "source": [
+      "techcrunch.com",
+      "thenextweb.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Waymoがラスベガス国際空港でロボタクシーサービスを開始",
+    "summary": "Alphabetの自動運転タクシーサービスが、商用運営をギャンブルの街の国際空港へ拡大。",
+    "source": [
+      "techcrunch.com",
+      "thenextweb.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAIがOrchestra Bioを買収し、AI創薬を加速",
+    "summary": "Sam Altman率いる同社がバイオテック新興企業を買収し、製薬研究を加速するエージェントを開発へ。",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google CloudがGeminiとClaudeに加えOpenAIモデルも提供開始",
+    "summary": "クラウドプロバイダーが、3大基盤モデルエコシステムをホストする唯一の主要ハイパースケーラーに。",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intelが米国工場拡張を再開、AIチップ需要が追い風に",
+    "summary": "製造計画の一時停止を経て、AI向け半導体の需要増大を背景に国内生産拡大を再開。",
+    "source": [
+      "thenextweb.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMDがLinux版Ryzen向け公式オーバークロック機能を提供開始",
+    "summary": "新ドライバーAODにより、LinuxユーザーがRyzenプロセッサの周波数と電圧をネイティブに調整可能に。",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "法務AIスタートアップのLegoraが5.5億ドル調達、評価額88億ドル",
+    "summary": "弁護士向けAI企業がシリーズEラウンドを完了。法務自動化への期待を背景に投資家が巨額を出資。",
+    "source": [
+      "techcrunch.com",
+      "thenextweb.com"
     ],
     "count": 2
   }
