@@ -1,117 +1,52 @@
 [
   {
-    "title": "SpaceX logra beneficio récord de 7.000 millones y dispara la bolsa japonesa",
-    "summary": "La compañía de Musk presenta su primer beneficio anual impulsado por Starlink y el negocio de IA, lo que impulsa al Nikkei y a los futuros de Wall Street.",
+    "title": "Tesla podría vender Cybercabs y SpaceX considera fusión con Tesla",
+    "summary": "Inversores especulan sobre una posible fusión entre Tesla y SpaceX mientras Tesla avanza en la venta de robotaxis Cybercab.",
     "source": [
-      "assets.wor.jp",
       "investing.com",
-      "nasdaq.com",
-      "/r/stocks",
-      "handelsblatt.com",
       "bolsamania.com"
     ],
-    "count": 6
+    "count": 2
   },
   {
-    "title": "Petróleo y tipos de interés marcan la sesión europea mixta",
-    "summary": "El crudo retrocede por las negociaciones EE. UU.-Irán mientras el Euríbor se estabiliza y la renta fija recupera atractivo.",
+    "title": "Meta supera expectativas de ingresos y anuncia split de acciones",
+    "summary": "Meta reportó ingresos trimestrales superiores a lo previsto y anunció un reparto de acciones 2 por 1.",
+    "source": [
+      "investing.com",
+      "/r/stocks"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Anthropic se prepara para salir a bolsa con grandes pérdidas proyectadas",
+    "summary": "Anthropic planea presentar su solicitud de IPO y prevé gastar 750.000 millones mientras acumula pérdidas de 80.000 millones.",
+    "source": [
+      "/r/stocks",
+      "bolsamania.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "El IBEX 35 cierra con subidas impulsado por la banca",
+    "summary": "El índice español recuperó los 19.300 puntos con fuertes avances de Santander y Bankinter.",
     "source": [
       "bolsamania.com",
+      "e00-expansion.uecdn.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Análisis del mercado y acciones europeas en prensa financiera",
+    "summary": "Medios alemanes y españoles analizan oportunidades de inversión en Europa y el sector bancario.",
+    "source": [
       "e00-expansion.uecdn.es",
-      "ft.com",
-      "handelsblatt.com",
-      "assets.wor.jp"
-    ],
-    "count": 5
-  },
-  {
-    "title": "Anthropic prepara salida a bolsa para noviembre con valoración en alza",
-    "summary": "La startup de IA negocia acuerdos de computación por 45.000 millones mientras Goldman Sachs mejora la valoración de su rival CoreWeave.",
-    "source": [
-      "nasdaq.com",
-      "/r/stocks",
-      "ft.com",
-      "bolsamania.com"
-    ],
-    "count": 4
-  },
-  {
-    "title": "Musk crea comité para estudiar fusión entre SpaceX y Tesla",
-    "summary": "El magnate formaliza grupos de trabajo para evaluar la integración de ambas compañías con objetivo de producción de chips en 2028.",
-    "source": [
-      "assets.wor.jp",
-      "/r/stocks",
-      "investing.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "CoreWeave en el punto de mira: ¿próximo Silicon Valley Bank por deuda de IA?",
-    "summary": "El proveedor de infraestructura en la nube dispara las alarmas por su apalancamiento mientras aumentan los seguros contra impago del sector.",
-    "source": [
-      "ft.com",
-      "/r/stocks",
-      "e00-expansion.uecdn.es"
-    ],
-    "count": 3
-  },
-  {
-    "title": "NextDC se hunde más de un 40% tras recortar previsiones de ingresos",
-    "summary": "El operador australiano de centros de datos cae a mínimos de nueve años tras advertir de un retraso en la facturación de su capacidad de IA.",
-    "source": [
-      "investing.com",
-      "nasdaq.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Ibex 35 cierra plano en 19.090 puntos entre dudas macro y tirón tecnológico",
-    "summary": "El selectivo español aguanta el tipo frente a caídas europeas apoyado en Amadeus y Aena, mientras Solaria y Repsol lastran.",
-    "source": [
-      "bolsamania.com",
-      "e00-expansion.uecdn.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "EE. UU. demanda a la Administración Trump por los aranceles a Canadá",
-    "summary": "Empresas estadounidenses solicitan la suspensión judicial de los gravámenes mientras crece la incertidumbre comercial.",
-    "source": [
-      "assets.wor.jp",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "España aprueba mejoras en pensiones de viudedad y ayuda a menores con cáncer",
-    "summary": "El Gobierno eleva la protección social en el Consejo de Ministros mientras la Seguridad Social sufre una fuga masiva de datos.",
-    "source": [
-      "bolsamania.com",
-      "assets.wor.jp"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Fallo masivo de Google paraliza la banca online de ING y Revolut",
-    "summary": "Una incidencia en la infraestructura cloud del gigante tecnológico afecta a millones de usuarios en Europa y Reino Unido.",
-    "source": [
-      "handelsblatt.com",
-      "bolsamania.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Japón advierte de agotamiento de tierras raras en meses por el veto chino",
-    "summary": "La restricción de exportaciones de Pekín amenaza la cadena de suministro tecnológica y de defensa nipona.",
-    "source": [
-      "ft.com",
       "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "Indonesia expulsa valores clave para evitar la rebaja de MSCI",
-    "summary": "El regulador financiero retira acciones del índice en una maniobra de emergencia para mantener la calificación de mercado emergente.",
+    "title": "Estados Unidos ordena salida de personal de Arabia Saudita tras ataques hutíes",
+    "summary": "Washington instruyó a parte de su personal diplomático y sus familiares a abandonar el país por la escalada de violencia.",
     "source": [
       "ft.com",
       "assets.wor.jp"
@@ -119,8 +54,8 @@
     "count": 2
   },
   {
-    "title": "Bitcoin supera los 81.700 dólares y JPMorgan augura mejor rendimiento que bolsa u oro",
-    "summary": "La criptomoneda renueva máximos anuales respaldada por flujos institucionales y expectativas macroeconómicas favorables.",
+    "title": "Europa busca reemplazar a Starlink y analiza la banca",
+    "summary": "Publicaciones europeas discuten alternativas a Starlink y la capacidad de la banca regional para mejorar dividendos.",
     "source": [
       "e00-expansion.uecdn.es",
       "bolsamania.com"
@@ -128,29 +63,29 @@
     "count": 2
   },
   {
-    "title": "Cum-Ex: novedad judicial al archivar caso contra exbanquero tras pago de fianza",
-    "summary": "La fiscalía alemana cierra un procedimiento emblemático del escándalo fiscal aceptando una reparación económica.",
+    "title": "Mercados asiáticos y el Nikkei operan con cautela",
+    "summary": "Los índices de Japón y Corea del Sur cerraron al alza mientras los futuros del Nikkei mostraron movimientos mixtos.",
     "source": [
-      "handelsblatt.com",
-      "bolsamania.com"
+      "assets.wor.jp",
+      "handelsblatt.com"
     ],
     "count": 2
   },
   {
-    "title": "China y Corea reanudan patrullas conjuntas en el Mar Amarillo tras 4 años",
-    "summary": "El gesto diplomático coincide con un repunte del 30% en turistas chinos que visitan Corea del Sur.",
+    "title": "Ofertas públicas iniciales y acciones de alto riesgo en Wall Street",
+    "summary": "Foros de inversión analizan la IPO de Anthropic y estrategias para operar activos volátiles.",
     "source": [
-      "assets.wor.jp",
-      "bolsamania.com"
+      "/r/stocks",
+      "investing.com"
     ],
     "count": 2
   },
   {
-    "title": "Son Gana el oro por equipos en el Mundial y sello el billete para Los Angeles 2028",
-    "summary": "La selección masculina de gimnasia revalida el título mundial y asegura la plaza olímpica con una actuación casi perfecta.",
+    "title": "Acciones tecnológicas cierran con ganancias en Wall Street",
+    "summary": "El sector tecnológico lideró los avances en la bolsa de Nueva York al cierre de la jornada.",
     "source": [
-      "assets.wor.jp",
-      "bolsamania.com"
+      "bolsamania.com",
+      "handelsblatt.com"
     ],
     "count": 2
   }
