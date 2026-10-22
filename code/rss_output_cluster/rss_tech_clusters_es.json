@@ -1,93 +1,194 @@
 [
   {
-    "title": "Modders logran portar DLSS 5 completo a tarjetas gráficas AMD de tres generaciones",
-    "summary": "La comunidad ha conseguido ejecutar la suite completa de tecnologías de escalado de NVIDIA, incluyendo Multi Frame Generation, en hardware Radeon no compatible oficialmente.",
+    "title": "Vulnerabilidades críticas en PHP ponen en riesgo millones de webs",
+    "summary": "OpenAI y Google descubren fallos de ejecución remota de código en PHP que afectan a gran parte de internet y requieren parches de emergencia.",
     "source": [
-      "elchapuzasinformatico.com",
-      "videocardz.com",
-      "tomshardware.com"
+      "the-decoder.com",
+      "techcrunch.com",
+      "xataka.com",
+      "feeds.feedburner.com",
+      "/r/technology",
+      "wired.com",
+      "news.kagi.com"
     ],
-    "count": 3
+    "count": 7
   },
   {
-    "title": "Dos palés con tarjetas gráficas ZOTAC RTX 5090 valorados en 470.000 dólares desaparecen en aeropuerto brasileño",
-    "summary": "El robo o pérdida de la mercancía de alta gama ha sido reportado por múltiples medios especializados en hardware y foros de tecnología.",
+    "title": "Meta ordenada a pagar 25.000 millones de dólares en caso Cambridge Analytica",
+    "summary": "Un tribunal de Nuevo México impone una multa histórica a Meta por engañar a usuarios de Facebook sobre el uso de sus datos.",
     "source": [
-      "tomshardware.com",
-      "/r/hardware",
-      "videocardz.com"
+      "xataka.com",
+      "thenextweb.com",
+      "techcrunch.com",
+      "/r/technology",
+      "wired.com"
     ],
-    "count": 3
+    "count": 5
   },
   {
-    "title": "Sony advierte que el coste de los componentes de la PS6 superará los 700 euros solo en memoria",
-    "summary": "Los análisis del sector apuntan a un precio final superior a los 1.000 dólares por el encarecimiento de la RAM y el almacenamiento impulsado por los centros de datos de IA.",
+    "title": "Electronic Arts cierra BioWare y cancela el próximo Mass Effect",
+    "summary": "EA despide a 400 empleados y cierra el estudio veterano tras 30 años, eliminando el desarrollo de la nueva entrega de Mass Effect.",
     "source": [
       "/r/technology",
+      "thenextweb.com",
+      "videocardz.com",
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 5
+  },
+  {
+    "title": "Gran Turismo 7 llega a PC mediante emulación de PS5",
+    "summary": "El simulador exclusivo de PlayStation ya funciona en ordenadores gracias al emulador KyTyPS5, aunque con rendimiento limitado.",
+    "source": [
+      "hardzone.es",
+      "videocardz.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Qualcomm anuncia despidos globales para pivote hacia IA y centros de datos",
+    "summary": "El fabricante de chips recorta plantilla mundialmente mientras redirige su estrategia hacia servidores de IA y computación de borde.",
+    "source": [
+      "/r/hardware",
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "Xbox Cloud Gaming lanza precios por horas sin suscripción Game Pass",
+    "summary": "Microsoft permite jugar en la nube pagando 3,99 dólares por 10 horas, abriendo el servicio a usuarios sin suscripción mensual.",
+    "source": [
+      "/r/technology",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nueva Xbox Project Helix prevista para 2028 con precio de 1.200-1.800 dólares",
+    "summary": "Microsoft planea lanzar su próxima consola en Navidad de 2028 posicionada como dispositivo premium de alta gama.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Laboratorio de IA Flapping Airplanes alcanza valoración de 6.000 millones",
+    "summary": "La startup de un año de edad recauda 1.000 millones y cuadruplica su valoración desde enero en plena fiebre inversora por IA.",
+    "source": [
+      "techcrunch.com",
+      "thenextweb.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD e Intel colaboran para unificar inferencia de IA en CPUs con PyTorch",
+    "summary": "Los rivales históricos crean una única ruta de código PyTorch para ejecutar modelos de IA en sus procesadores y desafiar a NVIDIA.",
+    "source": [
+      "tomshardware.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "DLSS 5 oficial supera en un 90% el rendimiento de la versión filtrada y reduce uso de VRAM",
-    "summary": "NVIDIA confirma que el nuevo modelo de red neuronal procesa cargas de trabajo el doble de rápido y consume un 20% menos de memoria de video en juegos no soportados nativamente.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic destina el 5% de sus acciones a un fondo de beneficio público",
-    "summary": "La startup de IA crea una estructura fiduciaria independiente para priorizar la seguridad y el bien común sobre el retorno financiero a inversores.",
-    "source": [
-      "techcrunch.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "MapQuest lanza capa de vigilancia que muestra ubicaciones de cámaras Flock en rutas",
-    "summary": "La función permite a los conductores ver la localización y orientación de lectores de matrícula automatizados de múltiples empresas durante la navegación.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Meta adquiere la mayoría de la plantilla de Character.AI en acuerdo de contratación masiva",
-    "summary": "El gigante tecnológico absorbe el talento de la startup de chatbots sin comprar la empresa formalmente, asegurando investigadores clave para sus modelos de IA.",
-    "source": [
-      "techcrunch.com",
-      "wired.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Anthropic propone ley de seguridad IA que solo actuaría tras 50 muertes o 1.000 millones en daños",
-    "summary": "El proyecto de ley convertiría al Departamento de Comercio en el único regulador capaz de detener un modelo de IA, estableciendo un umbral altísimo de intervención.",
-    "source": [
-      "/r/technology",
-      "tomshardware.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Investigadores entrenan IA para detectar armas de fuego ocultas mediante señales Wi-Fi",
-    "summary": "El sistema analiza perturbaciones en las ondas de radio para identificar pistolas escondidas sin necesidad de cámaras ni detectores de metales físicos.",
+    "title": "Samsung y SK Hynix mejoran fábricas en China para chips de memoria avanzada",
+    "summary": "Los gigantes surcoreanos actualizan sus plantas chinas para producir RAM y HBM de nueva generación ante la demanda de centros de datos IA.",
     "source": [
       "tomshardware.com",
+      "/r/hardware"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Airbnb prohíbe a anfitriones exigir tareas de limpieza a huéspedes",
+    "summary": "La plataforma limita las obligaciones de salida como lavar platos o hacer lavadoras, generando críticas de los propietarios.",
+    "source": [
+      "techcrunch.com",
       "/r/technology"
     ],
     "count": 2
   },
   {
-    "title": "Meta admite que sus gafas inteligentes Ray-Ban grababan conversaciones sin consentimiento del usuario",
-    "summary": "La compañía reconoce el fallo de privacidad en sus dispositivos wearables y asegura haber implementado una solución tras la denuncia pública.",
+    "title": "Tesla inicia producción del robot Optimus en California mientras beneficios caen 43%",
+    "summary": "El fabricante empieza a fabricar sus robots humanoides en medio de un desplome de ganancias trimestrales y ingresos planos.",
     "source": [
-      "xataka.com",
+      "techcrunch.com",
       "/r/technology"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Automattic inicia despidos tras reestructuración de directiva",
+    "summary": "La matriz de WordPress.com reduce plantilla tras la salida de ejecutivos y cambios en el consejo de administración.",
+    "source": [
+      "techcrunch.com",
+      "thenextweb.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "GM apuesta por computación e IA para competir con fabricantes chinos",
+    "summary": "El gigante automovilístico estadounidense refuerza su estrategia tecnológica frente al avance de rivales chinos en vehículos inteligentes.",
+    "source": [
+      "techcrunch.com",
+      "thenextweb.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Waymo comienza a ofrecer viajes en el aeropuerto de Las Vegas",
+    "summary": "El servicio de robotaxis de Alphabet expande sus operaciones comerciales al aeropuerto internacional de la ciudad del juego.",
+    "source": [
+      "techcrunch.com",
+      "thenextweb.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "OpenAI adquiere Orchestra Bio para acelerar desarrollo de fármacos con IA",
+    "summary": "La compañía de Sam Altman compra una startup biotecnológica para crear agentes que aceleren la investigación farmacéutica.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Google Cloud ofrece modelos de OpenAI junto a Gemini y Claude",
+    "summary": "El proveedor en la nube se convierte en el único gran hyperscaler que aloja los tres principales ecosistemas de modelos fundacionales.",
+    "source": [
+      "the-decoder.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Intel reinicia su expansión de fábricas en EE. UU. por demanda de chips de IA",
+    "summary": "El fabricante reactiva sus planes de fabricación doméstica tras la paralización, impulsado por la creciente necesidad de semiconductores para IA.",
+    "source": [
+      "thenextweb.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD lanza soporte oficial de overclocking para Ryzen en Linux",
+    "summary": "El nuevo controlador AOD permite a usuarios de Linux ajustar frecuencias y voltajes de procesadores Ryzen de forma nativa.",
+    "source": [
+      "videocardz.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Startup legal Legora recauda 550 millones a valoración de 8.800 millones",
+    "summary": "La empresa de IA para abogados cierra una ronda Serie E liderada por inversores que apuestan por la automatización jurídica.",
+    "source": [
+      "techcrunch.com",
+      "thenextweb.com"
     ],
     "count": 2
   }
