@@ -1,195 +1,36 @@
 [
   {
-    "title": "PHPの重大な脆弱性が数百万のWebサイトを危険にさらす",
-    "summary": "OpenAIとGoogleが発見したPHPのリモートコード実行の脆弱性がインターネットの大部分に影響を与え、緊急パッチが必要となっている。",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com",
-      "xataka.com",
-      "feeds.feedburner.com",
-      "/r/technology",
-      "wired.com",
-      "news.kagi.com"
-    ],
-    "count": 7
-  },
-  {
-    "title": "Metaがケンブリッジ・アナリティカ事件で250億ドルの支払いを命じられる",
-    "summary": "ニューメキシコ州の裁判所が、Facebookユーザーのデータ利用について欺いたとして、Metaに過去最高額の罰金を科した。",
-    "source": [
-      "xataka.com",
-      "thenextweb.com",
-      "techcrunch.com",
-      "/r/technology",
-      "wired.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "エレクトロニック・アーツがBioWareを閉鎖し、次期Mass Effectを中止",
-    "summary": "EAが400人を解雇し、30年の歴史を持つベテランスタジオを閉鎖。Mass Effectの新作開発も白紙に。",
-    "source": [
-      "/r/technology",
-      "thenextweb.com",
-      "videocardz.com",
-      "hardzone.es",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 5
-  },
-  {
-    "title": "『グランツーリスモ7』がPS5エミュレーションでPCに登場",
-    "summary": "PlayStation独占だったシミュレーターが、エミュレーターKyTyPS5のおかげでPCでも動作可能に。ただしパフォーマンスは限定的。",
-    "source": [
-      "hardzone.es",
-      "videocardz.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Qualcommが世界的な人員削減を発表、AIとデータセンターへ戦略転換",
-    "summary": "チップメーカーが世界規模で人員を削減しながら、戦略をAIサーバーとエッジコンピューティングへシフト。",
-    "source": [
-      "/r/hardware",
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "Xbox Cloud GamingがGame Pass非加入者向けに時間課金制を導入",
-    "summary": "Microsoftが月額サブスクリプションなしで、3.99ドルで10時間のクラウドゲームプレイを可能にし、サービスを開放。",
-    "source": [
-      "/r/technology",
-      "videocardz.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "次世代Xbox『Project Helix』は2028年発売予定、価格は1,200〜1,800ドル",
-    "summary": "Microsoftが次期コンソールを2028年のホリデーシーズンに発売予定。プレミアムなハイエンドデバイスとして位置づけ。",
+    "title": "ジェンスン・フアン、復帰の噂が飛び交う中NVIDIAのCEOを辞任",
+    "summary": "同幹部は最近職を辞し、会社の将来に関する議論や、復帰についての憶測を呼んでいる。",
     "source": [
       "elchapuzasinformatico.com",
-      "hardzone.es"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AIスタートアップのFlapping Airplanesが60億ドルの評価額に到達",
-    "summary": "設立1年のスタートアップが10億ドルを調達し、AI投資ブームの中で1月以来、評価額を4倍に伸ばす。",
-    "source": [
-      "techcrunch.com",
-      "thenextweb.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "AMDとIntelが協業し、PyTorchでCPU上のAI推論を統一",
-    "summary": "歴史的なライバルが協力し、両社のプロセッサでAIモデルを実行する単一のPyTorchコードパスを構築。NVIDIAへの対抗を狙う。",
-    "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "SamsungとSK Hynixが中国工場を改良し、先進メモリチップを生産",
-    "summary": "韓国の巨人が中国の工場をアップグレードし、AIデータセンターの需要に応える次世代RAMとHBMを生産へ。",
-    "source": [
-      "tomshardware.com",
-      "/r/hardware"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Airbnbがホストによるゲストへの清掃要求を禁止",
-    "summary": "食器洗いや洗濯などの退去時の義務を制限。オーナーから批判の声も。",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "TeslaがカリフォルニアでOptimusロボットの生産を開始、利益は43%減",
-    "summary": "人型ロボットの製造を開始する中、四半期利益が大幅減、売上は横ばい。",
-    "source": [
-      "techcrunch.com",
-      "/r/technology"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Automatticが経営陣再編後に人員削減を開始",
-    "summary": "WordPress.comの親会社が、幹部の退任と取締役会の変更に伴い、人員削減を実施。",
-    "source": [
-      "techcrunch.com",
-      "thenextweb.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "GMがコンピューティングとAIを強化し、中国メーカーに対抗",
-    "summary": "米自動車大手が、インテリジェント車両で進出する中国ライバルに対抗するため、技術戦略を強化。",
-    "source": [
-      "techcrunch.com",
-      "thenextweb.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Waymoがラスベガス国際空港でロボタクシーサービスを開始",
-    "summary": "Alphabetの自動運転タクシーサービスが、商用運営をギャンブルの街の国際空港へ拡大。",
-    "source": [
-      "techcrunch.com",
-      "thenextweb.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "OpenAIがOrchestra Bioを買収し、AI創薬を加速",
-    "summary": "Sam Altman率いる同社がバイオテック新興企業を買収し、製薬研究を加速するエージェントを開発へ。",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Google CloudがGeminiとClaudeに加えOpenAIモデルも提供開始",
-    "summary": "クラウドプロバイダーが、3大基盤モデルエコシステムをホストする唯一の主要ハイパースケーラーに。",
-    "source": [
-      "the-decoder.com",
-      "techcrunch.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "Intelが米国工場拡張を再開、AIチップ需要が追い風に",
-    "summary": "製造計画の一時停止を経て、AI向け半導体の需要増大を背景に国内生産拡大を再開。",
-    "source": [
+      "hardzone.es",
+      "/r/technology",
       "thenextweb.com",
+      "tomshardware.com",
+      "wired.com"
+    ],
+    "count": 6
+  },
+  {
+    "title": "アマゾン、打ち上げ失敗によりカイパー計画の衛星40機を喪失",
+    "summary": "スターリンクのライバルである同社は、デバイスの破壊により宇宙計画で深刻な打撃を受けている。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "xataka.com",
+      "bandaancha.eu",
       "tomshardware.com"
     ],
-    "count": 2
+    "count": 4
   },
   {
-    "title": "AMDがLinux版Ryzen向け公式オーバークロック機能を提供開始",
-    "summary": "新ドライバーAODにより、LinuxユーザーがRyzenプロセッサの周波数と電圧をネイティブに調整可能に。",
+    "title": "インテルの株価29%下落を受け、株主が集団訴訟を提起",
+    "summary": "投資家らは、同社がPC販売の減速を隠蔽し、市場を欺いたと非難している。",
     "source": [
       "videocardz.com",
-      "tomshardware.com"
+      "/r/hardware",
+      "elchapuzasinformatico.com"
     ],
-    "count": 2
-  },
-  {
-    "title": "法務AIスタートアップのLegoraが5.5億ドル調達、評価額88億ドル",
-    "summary": "弁護士向けAI企業がシリーズEラウンドを完了。法務自動化への期待を背景に投資家が巨額を出資。",
-    "source": [
-      "techcrunch.com",
-      "thenextweb.com"
-    ],
-    "count": 2
+    "count": 3
   }
 ]
