@@ -95,7 +95,7 @@ jobs:
         run: pnpm run cluster -- "$CATEGORY"
         working-directory: ./code
         env: &llm-env
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       - *commit
 
   cluster-finance:

@@ -1,0 +1,1 @@
+Return ONLY a JSON array of strings. Translate each headline into Spanish, same order and length. If a headline is already Spanish, copy it exactly. Do not rewrite, summarize, or add information. Do not invent or swap names. An X attached to an office or person is the social network X, not a surname.

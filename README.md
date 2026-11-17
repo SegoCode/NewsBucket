@@ -46,15 +46,15 @@ Add your RSS feed URLs to `.txt` files in `code/rss_input/`.
 
 Clustering and translation call `requestLlmJson` in `code/js/llm-client.js`. This is the only routing layer; HTTP request/response adapters live in `code/js/llm-connectors.js`. There is no CLI, agent, shell execution or client impersonation.
 
-OpenRouter is the only configured connector. Both clustering and translation read `OPENROUTER_API_KEY` from the environment. For GitHub Actions, create a repository secret named **`OPENROUTER_API_KEY`**; every generation job already receives it. For local runs, export the same variable. Never commit the key.
+Google Gemini (`generativelanguage.googleapis.com/v1/interactions`) is the only configured connector. Both clustering and translation read `GEMINI_API_KEY` from the environment. For GitHub Actions, create a repository secret named **`GEMINI_API_KEY`**; every generation job already receives it. For local runs, export the same variable. Never commit the key.
 
-The primary model is `nvidia/nemotron-3.5-super-vl:free`, the highest-ranked free Nemotron in the catalog's published intelligence benchmark at selection time. Fallbacks are `nvidia/nemotron-3-ultra-550b-a55b:free`, `google/gemma-4-31b-it:free`, then `openrouter/free`, which routes to other available free models. Requests also set a zero-price ceiling for tokens, requests and images; no paid fallback is enabled.
+The primary model is `gemini-4-hydrogen`, available on Google AI Studio's free tier with a 1M-token unified context window and structured JSON output. Fallbacks are `gemini-3.5-flash-lite`, `gemini-3.8-flash`, and `gemini-3.1-flash-lite` (all available on the Gemini API free tier). Requests run statelessly (`store: false`) with structured output (`application/json`) and `low` thinking level.
 
-`LLM_CONNECTORS` in `llm-connectors.js` is an ordered array. Each connector declares `id`, `required` credential names, an ordered `models` array, `request(messages, credentials, model)` and `text(payload)`. The client exhausts that connector's models before advancing to the next connector. Add entries to those arrays to extend fallback policy; consumers do not change. Only OpenRouter is implemented/configured today.
+`LLM_CONNECTORS` in `llm-connectors.js` is an ordered array. Each connector declares `id`, `required` credential names, an ordered `models` array, `request(messages, credentials, model)` and `text(payload)`. The client exhausts that connector's models before advancing to the next connector. Add entries to those arrays to extend fallback policy; consumers do not change. Only Google Gemini is implemented/configured today.
 
 Only JSON passing the caller's integrity validator is returned. Failed, refused, empty or token-truncated answers advance to the next model/connector. Missing credentials skip the connector without making requests. When every route fails, generation fails and the previous output is preserved.
 
-[OpenRouter's free-tier limits](https://openrouter.ai/docs/limits) currently allow up to 20 requests/minute and 50 free requests/day without the qualifying credit purchase; purchasing at least $10 in credits raises the daily free-model allowance to 1,000. Free models still have shared capacity limits: fallbacks cannot bypass account-wide quotas. Model availability is listed in the [live catalog](https://openrouter.ai/api/v1/models).
+[Gemini API free-tier rate limits](https://aistudio.google.com/docs/rate-limits) enforce per-project RPM, TPM, and RPD quotas. Transient demand spikes (HTTP 503) retry once on the same model before advancing down the free-tier fallback list (`gemini-4-hydrogen` → `gemini-3.5-flash-lite` → `gemini-3.8-flash` → `gemini-3.1-flash-lite`).
 
 Then run the pipeline:
 

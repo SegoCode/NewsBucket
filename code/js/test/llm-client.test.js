@@ -7,16 +7,22 @@ import { requestLlmJson } from "../llm-client.js";
 import { LLM_CONNECTORS } from "../llm-connectors.js";
 import { validClusters } from "./test-fixtures.js";
 
-const credentials = { OPENROUTER_API_KEY: "openrouter-test-secret" };
-const [openrouter] = LLM_CONNECTORS;
-const models = ["primary:free", "backup:free", "last:free"];
-const connectors = [{ ...openrouter, models }];
-const chat = (value, finish = "stop", message = {}) =>
+const credentials = { GEMINI_API_KEY: "gemini-test-secret" };
+const [google] = LLM_CONNECTORS;
+const models = [
+	"gemini-4-hydrogen",
+	"gemini-3.8-flash",
+	"gemini-3.5-flash-lite",
+];
+const connectors = [{ ...google, models }];
+const interaction = (value, status = "completed", steps) =>
 	Response.json({
-		choices: [
+		status,
+		steps: steps ?? [
+			{ type: "thought", signature: "sig" },
 			{
-				finish_reason: finish,
-				message: { content: JSON.stringify(value), ...message },
+				type: "model_output",
+				content: [{ type: "text", text: JSON.stringify(value) }],
 			},
 		],
 	});
@@ -55,7 +61,7 @@ test("uses a free fallback when the primary model is rate limited", async () => 
 		calls.push(model);
 		return model === models[0]
 			? new Response("quota", { status: 429 })
-			: chat(validClusters);
+			: interaction(validClusters);
 	});
 	assert.deepEqual(result, validClusters);
 	assert.deepEqual(calls, models.slice(0, 2));
@@ -67,21 +73,21 @@ test("exhausts one connector before trying the next and skips missing credential
 		async (_url, { body }) => {
 			const { model } = JSON.parse(body);
 			calls.push(model);
-			return model === "spare:free"
-				? chat(validClusters)
+			return model === "spare-free"
+				? interaction(validClusters)
 				: new Response("unavailable", { status: 404 });
 		},
 		{
 			connectors: [
-				{ ...openrouter, id: "unconfigured", required: ["MISSING_KEY"] },
+				{ ...google, id: "unconfigured", required: ["MISSING_KEY"] },
 				...connectors,
-				{ ...openrouter, id: "spare-api", models: ["spare:free"] },
-				{ ...openrouter, id: "unused-api", models: ["unused:free"] },
+				{ ...google, id: "spare-api", models: ["spare-free"] },
+				{ ...google, id: "unused-api", models: ["unused-free"] },
 			],
 		},
 	);
 	assert.deepEqual(result, validClusters);
-	assert.deepEqual(calls, [...models, "spare:free"]);
+	assert.deepEqual(calls, [...models, "spare-free"]);
 });
 
 test("rejects missing credentials without sending any API request", async () => {
@@ -90,7 +96,7 @@ test("rejects missing credentials without sending any API request", async () => 
 		request(
 			async () => {
 				calls++;
-				return chat(validClusters);
+				return interaction(validClusters);
 			},
 			{ credentials: {} },
 		),
@@ -104,31 +110,52 @@ test("falls through invalid clusters and token-truncated completions", async () 
 	const result = await request(async (_url, { body }) => {
 		const { model } = JSON.parse(body);
 		calls.push(model);
-		if (model === models[0]) return chat([{ ...validClusters[0], count: 1 }]);
-		return chat(validClusters, model === models[1] ? "length" : "stop");
+		if (model === models[0])
+			return interaction([{ ...validClusters[0], count: 1 }]);
+		return interaction(
+			validClusters,
+			model === models[1] ? "incomplete" : "completed",
+		);
 	});
 	assert.deepEqual(result, validClusters);
 	assert.deepEqual(calls, models);
 });
 
-test("never treats reasoning text, refusals or tool calls as an answer", async () => {
+test("never treats thought steps, failed interactions or tool calls as an answer", async () => {
 	let calls = 0;
-	const result = await request(async () => {
-		calls++;
-		if (calls === 1) return chat(validClusters, "stop", { refusal: "Blocked" });
-		if (calls === 2)
-			return chat(validClusters, "stop", { tool_calls: [{ id: "tool" }] });
-		return chat(validClusters, "stop", { reasoning: "Analysis is not JSON" });
-	});
+	const result = await request(
+		async () => {
+			calls++;
+			if (calls === 1) return interaction(validClusters, "failed");
+			if (calls === 2)
+				return interaction(validClusters, "completed", [
+					{ type: "function_call", name: "tool", arguments: {} },
+					{
+						type: "model_output",
+						content: [{ type: "text", text: JSON.stringify(validClusters) }],
+					},
+				]);
+			if (calls === 3)
+				return interaction(validClusters, "completed", [
+					{
+						type: "thought",
+						signature: "sig",
+						summary: [{ type: "text", text: JSON.stringify(validClusters) }],
+					},
+				]);
+			return interaction(validClusters);
+		},
+		{ connectors: [{ ...google, models: [...models, "spare-free"] }] },
+	);
 	assert.deepEqual(result, validClusters);
-	assert.equal(calls, 3);
+	assert.equal(calls, 4);
 });
 
 test("accepts a valid empty edition without consuming fallback calls", async () => {
 	let calls = 0;
 	const result = await request(async () => {
 		calls++;
-		return chat([]);
+		return interaction([]);
 	});
 	assert.deepEqual(result, []);
 	assert.equal(calls, 1);
@@ -144,7 +171,7 @@ for (const status of [503, 200]) {
 						{ error: { message: "Upstream [504] timeout" } },
 						{ status },
 					)
-				: chat(validClusters);
+				: interaction(validClusters);
 		});
 		assert.deepEqual(result, validClusters);
 		assert.deepEqual(calls, [models[0], models[0]]);
@@ -158,7 +185,7 @@ test("does not mask consumer validator bugs as model failures", async () => {
 		request(
 			async () => {
 				calls++;
-				return chat(validClusters);
+				return interaction(validClusters);
 			},
 			{
 				validate: () => {
@@ -180,7 +207,7 @@ test("redacts configured connector credentials in final errors and retry logs", 
 	try {
 		await request(async () =>
 			Response.json(
-				{ error: { message: credentials.OPENROUTER_API_KEY } },
+				{ error: { message: credentials.GEMINI_API_KEY } },
 				{ status: 503 },
 			),
 		);
@@ -194,7 +221,7 @@ test("redacts configured connector credentials in final errors and retry logs", 
 	);
 	assert.equal(
 		(inspect(failure, { depth: null }) + warnings.join("\n")).includes(
-			credentials.OPENROUTER_API_KEY,
+			credentials.GEMINI_API_KEY,
 		),
 		false,
 	);
@@ -213,10 +240,11 @@ test("aborts stalled response bodies before using the next model", {
 		}
 		res.end(
 			JSON.stringify({
-				choices: [
+				status: "completed",
+				steps: [
 					{
-						finish_reason: "stop",
-						message: { content: JSON.stringify(validClusters) },
+						type: "model_output",
+						content: [{ type: "text", text: JSON.stringify(validClusters) }],
 					},
 				],
 			}),
@@ -246,34 +274,53 @@ test("never follows redirects carrying API credentials", async (t) => {
 	assert.equal(leakedRequests, 0);
 });
 
-test("refuses a paid provider even if a paid model is accidentally configured", async () => {
-	let chargedRequests = 0;
-	await assert.rejects(
-		request(
-			async (_url, { body }) => {
-				const { provider } = JSON.parse(body);
-				if (1 > (provider?.max_price?.prompt ?? Infinity))
-					return new Response("No zero-price provider", { status: 404 });
-				chargedRequests++;
-				return chat(validClusters);
-			},
-			{ connectors: [{ ...openrouter, models: ["accidentally-paid/model"] }] },
-		),
-		AggregateError,
+test("formats system instructions, user input and stateless structured JSON config", async () => {
+	let capturedUrl;
+	let capturedHeaders;
+	let capturedBody;
+	const result = await request(
+		async (url, { headers, body }) => {
+			capturedUrl = url;
+			capturedHeaders = headers;
+			capturedBody = JSON.parse(body);
+			return interaction(validClusters);
+		},
+		{
+			messages: [
+				{ role: "system", content: "  System rules  " },
+				{ role: "user", content: "Cluster supplied news." },
+			],
+		},
 	);
-	assert.equal(chargedRequests, 0);
+	assert.deepEqual(result, validClusters);
+	assert.equal(
+		capturedUrl,
+		"https://generativelanguage.googleapis.com/v1/interactions",
+	);
+	assert.equal(capturedHeaders["x-goog-api-key"], credentials.GEMINI_API_KEY);
+	assert.equal(capturedBody.model, "gemini-4-hydrogen");
+	assert.equal(capturedBody.system_instruction, "System rules");
+	assert.equal(capturedBody.input, "Cluster supplied news.");
+	assert.equal(capturedBody.store, false);
+	assert.equal(capturedBody.response_format?.mime_type, "application/json");
 });
 
 for (const [name, response] of [
 	["malformed HTTP envelopes", () => new Response("not JSON", { status: 200 })],
-	["empty model answers", () => chat(null, "stop", { content: "" })],
+	[
+		"empty model answers",
+		() =>
+			interaction(null, "completed", [
+				{ type: "model_output", content: [{ type: "text", text: "" }] },
+			]),
+	],
 ]) {
 	test(`falls back after ${name}`, async () => {
 		const calls = [];
 		const result = await request(async (_url, { body }) => {
 			const { model } = JSON.parse(body);
 			calls.push(model);
-			return model === models[0] ? response() : chat(validClusters);
+			return model === models[0] ? response() : interaction(validClusters);
 		});
 		assert.deepEqual(result, validClusters);
 		assert.equal(calls.at(-1), models[1]);
