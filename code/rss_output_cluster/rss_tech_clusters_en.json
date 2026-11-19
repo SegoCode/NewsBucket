@@ -1,24 +1,117 @@
 [
   {
-    "title": "Jensen Huang expresses his desire to return as CEO of NVIDIA after his departure",
-    "summary": "The former CEO states that he would feel honored to lead the company again if the board of directors asks him to.",
+    "title": "Nvidia rules out Jensen Huang's return as CEO following his controversial exit",
+    "summary": "Interim CEO Colette Kress closes the door on Huang's return while the company promises salary raises to its employees.",
     "source": [
       "techcrunch.com",
       "wired.com",
       "tomshardware.com",
       "elchapuzasinformatico.com",
+      "xataka.com",
+      "hardzone.es",
       "videocardz.com"
     ],
-    "count": 5
+    "count": 7
   },
   {
-    "title": "An Xbox 360 modified with explosives explodes in a repair shop in Brazil",
-    "summary": "The device detonated and left two people injured at a rival establishment, prompting the arrest of a Brazilian businessman.",
+    "title": "GTA VI officially launches and forces Sony to release a PS5 security update",
+    "summary": "Rockstar's highly anticipated title hits the market with technical details on consoles and a last-minute patch to prevent emulation.",
+    "source": [
+      "tomshardware.com",
+      "xataka.com",
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 4
+  },
+  {
+    "title": "Anthropic sets its IPO at $83 per share and reaches a $1.5 trillion valuation",
+    "summary": "The artificial intelligence company exceeds the expected range in its initial public offering.",
+    "source": [
+      "thenextweb.com",
+      "techcrunch.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "A bug in Nvidia's GeForce drivers causes continuous writes to SSDs",
+    "summary": "The software error can generate up to 30 GB of writes per hour even when the computer is idle.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "AMD receives a Community Note on X after claiming it loves gamers",
+    "summary": "Users responded to the post by reminding the company that it prioritizes data centers over the consumer market.",
+    "source": [
+      "tomshardware.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "NAND memory prices drop 20% and will make SSDs, laptops, and phones cheaper",
+    "summary": "The downward trend in storage chip costs will continue throughout 2027.",
     "source": [
       "elchapuzasinformatico.com",
-      "videocardz.com",
       "tomshardware.com"
     ],
-    "count": 3
+    "count": 2
+  },
+  {
+    "title": "OpenAI manages to optimize the design of AMD's flagship GPUs by 14%",
+    "summary": "Artificial intelligence models achieved improvements equivalent to a year of engineering on the company's chips.",
+    "source": [
+      "thenextweb.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Microsoft tests the AMD ACO compiler on Xbox Series X|S with improvements of up to 16%",
+    "summary": "Early tests show more efficient shader processing on current-generation consoles.",
+    "source": [
+      "hardzone.es",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Global shipments of OLED monitors double in the third quarter of 2026",
+    "summary": "Demand for displays with this technology has experienced 100% year-over-year growth.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "tomshardware.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Sony blocks the Asobi app and prevents PS5 streaming on Steam Deck and PC",
+    "summary": "The measure restricts cloud gaming from third-party devices right before the launch of GTA VI.",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "Nvidia reaches record revenue of $115.8 billion driven by AI",
+    "summary": "The data center division and Vera Rubin chips double the previous year's results while gaming loses weight.",
+    "source": [
+      "tomshardware.com",
+      "elchapuzasinformatico.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "HBO Max begins blocking shared accounts in Spain",
+    "summary": "The platform requires users to pay for an additional member if they want to maintain access from different households.",
+    "source": [
+      "xataka.com",
+      "bandaancha.eu"
+    ],
+    "count": 2
   }
 ]
