@@ -1,47 +1,58 @@
 [
   {
-    "title": "1Passwordがセキュリティ侵害を受け、データとソースコードが流出",
-    "summary": "攻撃者は社内システムにアクセスしたが、パスワードは安全であると主張している。",
+    "title": "1Passwordのデータ流出により、個人情報とリカバリトークンが露出",
+    "summary": "パスワード管理プラットフォームが、顧客のデータが侵害されたセキュリティインシデントを確認。",
     "source": [
       "feeds.feedburner.com",
-      "xataka.com",
-      "techcrunch.com"
+      "feed.alternativeto.net",
+      "elchapuzasinformatico.com"
     ],
     "count": 3
   },
   {
-    "title": "AmazonとMeta、AIショッピングエージェント「Muse」のブロック解除に向け交渉",
-    "summary": "両社は、オンラインストアへのアシスタント統合を許可するための合意を目指している。",
+    "title": "エヌビディア、輸出規制により東南アジアへのAIチップ出荷を一時停止",
+    "summary": "米国による新たな貿易管理措置を受け、同社は複数の国におけるサーバーの供給を停止。",
     "source": [
-      "the-decoder.com",
-      "techcrunch.com"
+      "techcrunch.com",
+      "thenextweb.com",
+      "the-decoder.com"
     ],
-    "count": 2
+    "count": 3
   },
   {
-    "title": "華為技術（Huawei）、米国で詐欺と企業秘密の窃盗罪で有罪判決",
-    "summary": "米国の陪審団が、陰謀および不正流用の罪で同ハイテク企業に有罪判決を下した。",
+    "title": "脱獄したPS5でGTA 6を60FPSで動作させるModが登場",
+    "summary": "ユーザーが非公式の改造により、ロックスターのタイトルのパフォーマンス向上を実現。",
     "source": [
-      "tomshardware.com",
-      "xataka.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "NVIDIA、人工知能を優先しグラフィックカードの生産を縮小へ",
-    "summary": "RTX 50シリーズの供給削減や、RTX 60アーキテクチャの発売延期の可能性が報じられている。",
-    "source": [
+      "elchapuzasinformatico.com",
       "hardzone.es",
+      "videocardz.com"
+    ],
+    "count": 3
+  },
+  {
+    "title": "米FCC、軌道上データセンター向けにスペースXの100万基の衛星配備を承認",
+    "summary": "このプロジェクトは、宇宙インフラによって増大するエネルギー需要に対応することを目指している。",
+    "source": [
+      "thenextweb.com",
+      "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "テイクツー、PC向け非公式GTA 6移植版に関連するGitHubの数千のリポジトリを削除",
+    "summary": "同社は、パソコン向けに適応されたコードの流通を阻止するため、大規模な法的措置を行使。",
+    "source": [
+      "videocardz.com",
       "elchapuzasinformatico.com"
     ],
     "count": 2
   },
   {
-    "title": "AMD、RX 9060 XTでGPUオーバークロックの世界新記録を樹立",
-    "summary": "最近のテストにおいて、グラフィックカードの周波数は5 GHz近くに達した。",
+    "title": "マイクロソフト、国家を背景とするサイバー犯罪者がAIフレームワーク「ARTEX」を使用していると警告",
+    "summary": "中国や北朝鮮に関連するグループが、インフラを侵害するために新しい自動化ツールを使用している。",
     "source": [
-      "tomshardware.com",
-      "elchapuzasinformatico.com"
+      "thenextweb.com",
+      "the-decoder.com"
     ],
     "count": 2
   }
