@@ -1,58 +1,64 @@
 [
   {
-    "title": "1Passwordのデータ流出により、個人情報とリカバリトークンが露出",
-    "summary": "パスワード管理プラットフォームが、顧客のデータが侵害されたセキュリティインシデントを確認。",
-    "source": [
-      "feeds.feedburner.com",
-      "feed.alternativeto.net",
-      "elchapuzasinformatico.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "エヌビディア、輸出規制により東南アジアへのAIチップ出荷を一時停止",
-    "summary": "米国による新たな貿易管理措置を受け、同社は複数の国におけるサーバーの供給を停止。",
-    "source": [
-      "techcrunch.com",
-      "thenextweb.com",
-      "the-decoder.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "脱獄したPS5でGTA 6を60FPSで動作させるModが登場",
-    "summary": "ユーザーが非公式の改造により、ロックスターのタイトルのパフォーマンス向上を実現。",
-    "source": [
-      "elchapuzasinformatico.com",
-      "hardzone.es",
-      "videocardz.com"
-    ],
-    "count": 3
-  },
-  {
-    "title": "米FCC、軌道上データセンター向けにスペースXの100万基の衛星配備を承認",
-    "summary": "このプロジェクトは、宇宙インフラによって増大するエネルギー需要に対応することを目指している。",
-    "source": [
-      "thenextweb.com",
-      "the-decoder.com"
-    ],
-    "count": 2
-  },
-  {
-    "title": "テイクツー、PC向け非公式GTA 6移植版に関連するGitHubの数千のリポジトリを削除",
-    "summary": "同社は、パソコン向けに適応されたコードの流通を阻止するため、大規模な法的措置を行使。",
+    "title": "NVIDIA、暗号資産マイナーへの販売隠蔽訴訟の和解金として2億9000万ドルを支払いへ",
+    "summary": "同社は、2018年の暗号資産ブーム時のGeForce GPUの収益に関する係争を解決するため、巨額の和解に合意しました。",
     "source": [
       "videocardz.com",
-      "elchapuzasinformatico.com"
+      "tomshardware.com"
     ],
     "count": 2
   },
   {
-    "title": "マイクロソフト、国家を背景とするサイバー犯罪者がAIフレームワーク「ARTEX」を使用していると警告",
-    "summary": "中国や北朝鮮に関連するグループが、インフラを侵害するために新しい自動化ツールを使用している。",
+    "title": "OpenAI、営業秘密の盗取とサプライヤーへの圧力でAppleを反訴",
+    "summary": "AI企業は、ハイテク巨人が共通のサプライヤーに圧力をかけ、機密情報を盗み出したとして反訴を提起しました。",
     "source": [
       "thenextweb.com",
       "the-decoder.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "商取引の禁止にもかかわらず、上海のデータセンターでNVIDIAのBlackwellチップが検出される",
+    "summary": "アリス・ファン研究員に関連する施設には、米国の輸出制限を回避する高度なプロセッサが収容されています。",
+    "source": [
+      "the-decoder.com",
+      "xataka.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "WhatsApp、アプリ内から直接eSIMの契約・インストールが可能に",
+    "summary": "メッセージングプラットフォームは、通信事業者との提携により、仮想モバイルプロファイルの管理を自社サービスに統合します。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "bandaancha.eu"
+    ],
+    "count": 2
+  },
+  {
+    "title": "モッダー、PC向け非公式版「GTA VI」へのマルチプレイヤーモードの実装に成功",
+    "summary": "技術コミュニティは、パソコンでプレイ可能なリフレッシュレートでタイトルを実行し、ネットワーク互換性を実現しました。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
+    ],
+    "count": 2
+  },
+  {
+    "title": "ブラウザ上で3dfxおよびNVIDIAの古典的なGPU技術デモを実行できるインタラクティブサイト",
+    "summary": "このプロジェクトでは、複雑なエミュレータなしで直接動作するように適応された、数十の歴史的なコンピュータグラフィックスデモを収集しています。",
+    "source": [
+      "videocardz.com",
+      "hardzone.es"
+    ],
+    "count": 2
+  },
+  {
+    "title": "次期Intel Moon Lakeプロセッサのデザインとダイサイズがリーク情報により判明",
+    "summary": "新しい技術レポートによると、より高い効率性を追求するため、演算領域はWildcat Lake世代と比較して大幅に縮小されることが明らかになりました。",
+    "source": [
+      "elchapuzasinformatico.com",
+      "videocardz.com"
     ],
     "count": 2
   }
